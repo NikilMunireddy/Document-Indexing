@@ -58,7 +58,6 @@ def main_method(keyword,directory,load):
     list_index=[]
     for doc in docs:
         try:
-            print(d[keyword].index(doc))
             list_index.append(d[keyword].index(doc)) 
         except:
             pass
@@ -81,13 +80,11 @@ def main_method(keyword,directory,load):
     end_time=time.time()
     try:
         print("Execution time ",end_time-start_time," Seconds")
-        return "Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'
+        return "Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"'
     except:
         print("could'nt find the keyword in dictonary")
 
 
 print(main_method(keyword,directory,load))
-
-    
 
     
