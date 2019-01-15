@@ -1,0 +1,35 @@
+The National Map
+
+{{stack|[[File:USGS The National Map.jpg|center|300px|USGS image showing layers of The National Map]][[File:USGS logo.png|center|175px|USGS logo]]}}
+
+'''''The National Map''''' is a collaborative effort of the [[United States Geological Survey]] (USGS) and other federal, state, and local agencies to improve and deliver [[topographic]] information for the [[United States]].<ref name="USGS">{{USGovernment|sourceURL=[http://nationalmap.gov/ ''''The National Map''''''], [[United States Geological Survey]]}}</ref> The purpose of the effort is to provide "...a seamless, continuously maintained set of public domain geographic base information that will serve as a foundation for integrating, sharing, and using other data easily and consistently".<ref>Moore, Larry (December 2000, with January 2003 update), {{PDF|[http://thor-f5.er.usgs.gov/topomaps/revision_overview.pdf "The U.S. Geological Survey's Revision Program for 7.5-Minute Topographic Maps"]|712&nbsp;KB}}. United States Geological Survey. Also available as an [http://pubs.usgs.gov/of/2000/of00-325/moore.html HTML document].</ref>
+
+''The National Map'' is part of the USGS [[National Geospatial Program]].<ref>[http://www.usgs.gov/ngpo/ National Geospatial Program], United States Geological Survey.</ref> The geographic information available includes [[orthoimagery]] ([[aerial photographs]]), [[elevation]], [[United States Board on Geographic Names|geographic names]], [[hydrography]], boundaries, transportation, structures and land cover. ''The National Map'' is accessible via the [[World Wide Web|Web]], as products and services, and as downloadable data. Its uses range from recreation to scientific analysis to emergency response.<ref name="USGS" />
+
+''The National Map'' is a significant contribution to the [[National Spatial Data Infrastructure]] (NSDI) and currently is being transformed to better serve the [[geospatial]] community by providing high quality, integrated geospatial data and improved products and services including new generation digital [[topographic map]]s. In addition, the National Map is foundational to implementation of the [[U.S. Department of the Interior]] (DOI) Geospatial Modernization Blueprint.<ref name="USGS" />
+
+The USGS also utilizes data from [[The National Map Corps|''The National Map'' Corps]], which consists of volunteers who devote some of their time to provide [[cartographic]] information on structures.<ref>{{cite web | url = http://nationalmap.gov/TheNationalMapCorps/ | title = ''The National Map'' Corp | publisher = United States Geological Survey}}</ref>
+
+''The National Map'' is the official replacement for the [[Topographic map#United States|USGS topographic map program]].<ref>Moore, Larry, ''Op. cit.''</ref>
+
+==See also==
+* [[Microsoft Research Maps]] (formerly TerraServer-USA)
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://nationalmap.gov/ ''The National Map''] (USGS)
+* [http://www.usgs.gov/ngpo/ National Geospatial Program] (USGS)
+* [http://topomaps.usgs.gov/revision.html USGS Topographic Map Revision]
+* [http://eros.usgs.gov/products/aerial/ USGS Aerial Products]
+* [http://www.fgdc.gov/nsdi/nsdi.html National Spatial Data Infrastructure] from the [[Federal Geographic Data Committee]]
+* [http://www.doi.gov/ocio/architecture/modblu/geo/know.htm Geospatial Modernization Blueprint]  from the [[U.S. Department of the Interior]]
+* [[GeoSPARQL]] [http://usgs-ybother.srv.mst.edu:8890/parliament/ webapp] for selected data sets
+
+{{DEFAULTSORT:National Map, The}}
+[[Category:United States Geological Survey]]
+[[Category:Topography]]
+[[Category:Maps]]
+[[Category:Collaborative mapping]]
+[[Category:Aerial photography]]

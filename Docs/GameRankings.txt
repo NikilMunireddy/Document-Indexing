@@ -1,0 +1,211 @@
+GameRankings
+
+{{Primary sources|date=October 2008}}
+{{Infobox Website
+| name = GameRankings
+| logo = [[File:GameRankings (logo).png|150px|GameRankings logo]]
+| screenshot = 
+| caption = 
+| url = [http://www.gamerankings.com/ GameRankings.com]
+| commercial = Yes
+| type = Gaming (Subsidiary of [[CBS Interactive]])
+| registration = 
+| owner = [[CBS Interactive]]
+| author = Scott Bedard
+| launch date = {{start date and age|1999|3|10}}
+| current status = Active
+| revenue = 
+|alexa={{increasenegative}} 27,486 ({{as of|2015|04|18|alt=April 2015}})<ref name="alexa">{{cite web|url=http://www.alexa.com/siteinfo/GameRankings.com|title=Alexa Ranking|publisher=[[Alexa Internet]]|accessdate=18 April 2015}}</ref>
+}}
+'''GameRankings''' is a [[website]] that collects review scores from both offline and online sources to give an average rating.<ref name="grhelp">[http://www.gamerankings.com/help.html GameRankings Help]</ref> It indexes over 315,000 articles relating to more than 14,500 [[video games]].
+
+GameRankings is owned by [[CBS Interactive]]. Similar websites include [[GameStats]], [[Metacritic]] (also owned by CBS Interactive), [[MobyGames]], and [[TopTenReviews]].
+
+==Rankings==
+GameRankings collects and links to (but does not host) reviews from other websites and magazines and averages specific ones.<ref>{{cite news| url=http://www.pcmag.com/article2/0,1895,912880,00.asp | work=PC Magazine | title=GameRankings | date=March 25, 2003}}</ref> While hundreds of reviews may get listed, only the ones that GameRankings deems notable are used for the average. Scores are culled from numerous American and European sources. The site uses a percentage grade for all reviews in order to be able to calculate an average. However, because not all sites use the same scoring system (some rate out of 5 or 10, while others use a letter grade), GameRankings changes all other types of scores into percentages using a relatively straightforward conversion process.<ref name="grhelp"/>
+
+When a game has accumulated 20 total reviews, it is given a [[ranking]] compared to all other games in the database and a ranking compared to games on its console.
+
+The current highest rated game is ''[[Super Mario Galaxy]]'', with 97.64%.<ref>http://www.gamerankings.com/browse.html</ref><ref>http://www.gamerankings.com/wii/915692-super-mario-galaxy/index.html</ref>
+
+===Site Inclusion Rules===
+
+There are specific rules that GameRankings follows to determine which review sites are used in calculating a game's overall score. From the GameRankings Help page, they are:
+* Sites must have at least 300 archived reviews for a multi-system/multi-genre sites, or 100 reviews for single-system or genre sites.
+* Sites must publish a minimum of 15 reviews a month.
+* Sites must be visually appealing and look professional.
+* Sites must review a variety of titles.
+* Sites must have a dedicated domain name with professional hosting.
+* Site reviews must be well written.
+* Sites must conduct themselves in a professional manner.<ref name="grhelp"/>
+
+However, some sites that follow these rules are not included, such as sites in non-English languages.
+
+==Game ranking ==
+This is the top 20 games (over 20 reviews) with best score in the site.<ref>http://www.gamerankings.com/browse.html?page=1</ref>
+{|class="wikitable"
+|-
+!align="center"|Rank
+!align="center"|Game
+!align="center"|Released
+!align="center"|Publisher
+!align="center"|Platform(s)
+!align="center"|Score
+|-
+|1
+|''[[Super Mario Galaxy]]''
+|2007
+|[[Nintendo]]
+|[[Wii]]
+|'''97.64%''' 
+|-
+|2
+|''[[The Legend of Zelda: Ocarina of Time]]''
+|1998
+|[[Nintendo]]
+|[[Nintendo 64]]
+|'''97.54%'''
+|-
+| 3
+|''[[Super Mario Galaxy 2]]''
+|2010
+|[[Nintendo]]
+|[[Wii]]
+|'''97.35%'''
+|-
+| 4
+|''[[Grand Theft Auto IV]]''
+|2008
+|[[Rockstar Games]]
+|[[PlayStation 3]], [[Xbox 360]], [[Microsoft Windows]]
+|'''97.04%'''
+|-
+| 5
+|''[[Grand Theft Auto V]]''
+|2013
+|[[Rockstar Games]]
+|[[PlayStation 3]], [[Xbox 360]], [[Microsoft Windows]], [[PlayStation 4]], [[Xbox One]]
+|'''97.01%'''
+|-
+|6
+|''[[SoulCalibur]]''
+|1999
+|[[Namco]]
+|[[Arcade game|Arcade]], [[Dreamcast]], [[iOS]], [[Android (operating system)|Android]], [[Xbox Live Arcade|Xbox Live]]
+|'''96.56%'''
+|-
+|7
+| ''[[Uncharted 2: Among Thieves]]''
+| 2009
+| [[Sony Computer Entertainment]]
+| [[PlayStation 3]]
+| '''96.43%'''
+|-
+| 8
+|''[[Super Mario 64]]''
+|1996
+|[[Nintendo]]
+|[[Nintendo 64]]
+|'''96.41%'''
+|-
+| 9
+| ''[[The Orange Box]]''
+| 2007
+| [[Valve Corporation]]
+| [[Microsoft Windows]], [[PlayStation 3]], [[Xbox 360]]
+| '''96.36%'''
+|-
+| 10
+| ''[[Metroid Prime]]''
+| 2002
+| [[Nintendo]]
+| [[GameCube]], [[Wii]]
+| '''96.33%'''
+|-
+| 11
+| ''[[Batman: Arkham City]]''
+| 2011
+| [[Warner Bros. Interactive Entertainment|WBIE]]
+| [[Microsoft Windows]], [[Xbox 360]], [[PlayStation 3]]
+| '''95.94%'''
+|-
+| 12
+| ''[[Resident Evil 4]]''
+| 2005
+| [[Capcom]]
+| [[Microsoft Windows]], [[PlayStation 2]], [[GameCube]], [[Wii]], [[PlayStation 3]], [[Xbox 360]]
+| '''95.85%'''
+|-
+| 13
+| ''[[Tekken 3]]''
+| 1998
+| [[Namco]]
+| [[Arcade game|Arcade]], [[PlayStation]], [[PlayStation 2]]
+| '''95.80%'''
+|-
+| 14
+| ''[[Mass Effect 2]]''
+| 2010
+| [[Electronic Arts]]
+| [[Microsoft Windows]], [[Xbox 360]], [[PlayStation 3]]
+| '''95.77%'''
+|-
+|15
+| ''[[The Last of Us Remastered]]''
+| 2014
+| [[Sony Computer Entertainment]]
+| [[PlayStation 3]], [[PlayStation 4]]
+| '''95.70%'''
+|-
+|16
+| ''[[Halo: Combat Evolved]]''
+| 2001
+| [[Microsoft Studios]]
+| [[Xbox]]
+|'''95.54%'''
+|- 
+|17
+| ''[[Half-Life 2]]''
+| 2004
+| [[Valve Corporation]]
+| [[Microsoft Windows]], [[Xbox]]
+| '''95.48%'''
+|-
+|18
+| ''[[Grand Theft Auto III]]''
+| 2001
+| [[Rockstar Games]]
+| [[PlayStation 2]], [[Microsoft Windows]], [[Xbox]], [[PlayStation 3]], [[iOS]], [[Android (operating system)|Android]]
+| '''95.19%'''
+|-
+|19
+| ''[[Portal 2]]''
+| 2011
+| [[Valve Corporation]]
+| [[Microsoft Windows]], [[Xbox 360]], [[PlayStation 3]]
+| '''95.16%'''
+|-
+|20
+| ''[[The Elder Scrolls V: Skyrim]]''
+| 2011
+| [[Bethesda Softworks]]
+| [[Microsoft Windows]], [[Xbox 360]], [[PlayStation 3]]
+| '''95.15%'''
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gamerankings.com/ GameRankings]
+*[http://online.wsj.com/public/article/SB119024844874433247-EnpxM1F6fI9YZDofC7VnyPzVrGQ_20070920.html "High Scores Matter To Game Makers, Too"], ''The Wall Street Journal'', September 20, 2007.
+*[http://www.startribune.com/entertainment/tv/19583134.html?location_refer=TV/DVD/Gaming "Video games: Aiming to please?"], ''StarTribune'', June 7, 2008.
+*[http://www.thatvideogameblog.com/2008/04/02/things-that-suck-about-game-reviews/ "Things that suck about video game reviews"], ''That Videogame Blog'', April 2, 2008.
+*[http://www.dpadmagazine.com/2010/06/11/dbate-review-scores/ "Do Review Scores Really Matter?"], ''Dpad Magazine'', June 11, 2010.
+
+{{CBS Interactive}}
+
+[[Category:CBS Interactive websites]]
+[[Category:Internet properties established in 1999]]
+[[Category:Online game databases]]
+[[Category:Video game review aggregators]]

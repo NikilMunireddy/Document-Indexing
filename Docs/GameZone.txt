@@ -1,0 +1,44 @@
+GameZone
+
+{{Multiple issues|
+{{Primary sources|date=July 2010}}
+{{Notability|Web|date=November 2014}}
+}}
+{{Infobox Website
+| name = GameZone
+| screenshot =<!-- Deleted image removed:  [[Image:GameZoneScreen010507.jpg|300]] -->
+| caption =
+| url = www.gamezone.com
+| commercial = Yes
+| type = Gaming
+| registration = Free
+| owner = GameZone Next
+| author = Jeff and Kathy Connors
+| launch date = {{start date and age|1994|df=yes/no}}
+|alexa={{decreasePositive}} 11,711 ({{as of|2015|04|18|alt=April 2015}})<ref name="alexa">{{cite web|url=http://www.alexa.com/siteinfo/gamezone.com|title=Alexa Ranking|publisher=[[Alexa Internet]]|accessdate=18 April 2015}}</ref>
+}}
+
+'''GameZone''' is an American multiplatform [[video game]] website. GameZone's daily coverage includes reviews, previews, news, hints & cheats, and editorials. Additionally, GameZone offers downloads, a child-targeted website (GZ KidZone) and in association with [[GameStop]], hosts '''GZGameShop,''' an online retailer.
+
+==History==
+GameZone was founded in early 1994 in [[Livonia, Michigan|Livonia, MI]] by Jeff and Kathy Connors as GameZone Online. Although GameZone Online remains the website's official name, the name is typically shortened to GameZone.
+
+==Coverage==
+GameZone covers all current game platforms. The website has pages for the [[Xbox 360]], [[PlayStation 3]], [[Wii]], [[PlayStation 2]], [[Xbox (console)|Xbox]], [[GameCube]], [[Personal computer|PC]], [[PlayStation Portable]], [[Game Boy Advance]], and [[Nintendo DS]]. Additionally, GameZone provides coverage of [[Massively multiplayer online game|MMOG]] and [[mobile games|mobile]] games. GameZone's review archive is currently the third largest on [[GameRankings]],<ref>http://www.gamerankings.com/sites/index.html?sort=5</ref> and 4th largest among all websites and print publications.{{Citation needed|date=July 2010}} GameZone's website lists nearly 30 reviewers, but the website does not make a distinction between in-house staff and freelancers.<ref>[http://www.gamezone.com/gzreviews/meetreviewers.htm Meet Our Reviewers - GameZone.com<!-- Bot generated title -->]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gamezone.com GameZone.com]
+*[http://www.gamezone.net GameZone.net]
+*[http://gamezone.in.th GameZone.in.th]
+{{Video Game Critics}}
+
+[[Category:Video game review websites]]
+[[Category:Video game news websites]]
+[[Category:Internet properties established in 1994]]
+[[Category:Livonia, Michigan]]
+
+
+{{Videogame-website-stub}}
