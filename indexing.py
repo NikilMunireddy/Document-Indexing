@@ -3,18 +3,6 @@ import argparse
 import pickle
 import time
 
-
-parser = argparse.ArgumentParser(description="Indexing")
-parser.add_argument('-k', '--keyword', type=str, required=True ,help="Keyword")
-parser.add_argument('-d', '--directory', type=str, required=True,help="Path to the document directory which has to be indexed")
-parser.add_argument('-l', '--loadindex', type=bool, required=False,default=False ,help='pass "-l True"/ "--loadindex True" to load from the pickel file its fast. If want to create new index then this argument is not needed ')
-args = parser.parse_args()
-
-keyword = args.keyword
-directory=args.directory
-load=args.loadindex
-
-
 def create_index(directory,docs,d):
     k=0
     for doc in docs:
@@ -42,9 +30,9 @@ def load_index(d):
     return d
 
 
-def main_method(keyword,directory,load):
+def main_method(keyword,directory,load,set_doc):
 
-    docs=os.listdir(directory)
+    docs=set_doc
     from collections import defaultdict
     d = defaultdict(list)
 
@@ -80,11 +68,22 @@ def main_method(keyword,directory,load):
     end_time=time.time()
     try:
         print("Execution time ",end_time-start_time," Seconds")
+        #print("Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"')
         return "Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"'
     except:
         print("could'nt find the keyword in dictonary")
 
 
-print(main_method(keyword,directory,load))
+if __name__=="__main__":
+    parser = argparse.ArgumentParser(description="Indexing")
+    parser.add_argument('-k', '--keyword', type=str, required=True ,help="Keyword")
+    parser.add_argument('-d', '--directory', type=str, required=True,help="Path to the document directory which has to be indexed")
+    parser.add_argument('-l', '--loadindex', type=bool, required=False,default=False ,help='pass "-l True"/ "--loadindex True" to load from the pickel file its fast. If want to create new index then this argument is not needed ')
+    args = parser.parse_args()
+
+    keyword = args.keyword
+    directory=args.directory
+    load=args.loadindex
+    print(main_method(keyword,directory,load))
 
     
