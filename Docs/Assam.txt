@@ -1,0 +1,1401 @@
+Assam
+
+{{About||the tea|Assam tea|the silk|Assam silk|the oil|Assam oil}}
+{{Use Indian English|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+{{Infobox state
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = State of Assam
+| Ruling Party = BJP
+| native_name = {{lang|as|অসম}}
+| native_name_lang =
+| type = [[States and union territories of India|State]]
+| nickname =
+ 
+| image_skyline =  {{Photomontage
+| photo1a = Kamakhya_Temple_by_Vikramjit_Kakati.jpg
+| photo2a = Ahom_Raja%27s_Palace,_Garhgaon,_Sivasagar.JPG
+| photo2b = Devidol,_Sivasagar.JPG
+| photo3a = MAIDAM1.JPG
+| photo3b = Ranghar_-_Assam.jpg
+| photo4a = Talatal_Ghar_Cannons_guarding_the_palace.jpg
+| photo4b = Kolia_Bhomora_Setu.jpg
+| photo5a = Chandrakanta_Handique_Bhawan.JPG
+| photo5b = A_tea_garden_in_Dibrugarh.jpg
+| photo6a = AssamTea.jpg
+| photo6b = Krishnakshi_Kashyap_Sattriya_Dancer.jpg
+| photo7a = One_horned_Rhino.jpg
+| position = centre
+| size = 266
+| foot_montage = Clockwise from the top, [[Kamakhya Temple]] (Nilachal Hills, [[Guwahati]]), Devi Dol ([[Sivasagar]]), [[Ahom dynasty|Ahom Kings']] Royal Sports' Pavilion - ''[[Rang Ghar]] (Sivasagar)'', [[Kolia Bhomora Setu|Kolia Bhomora Bridge]] over [[Brahmaputra]] ([[Tezpur]]), A view of a Tea Estate ([[Dibrugarh]]), [[Indian classical dance|The Classical Dance Form]] - ''[[Sattriya]]'', The State Animal - ''[[Indian Rhino]] (Rhinoceros unicornis),'' [[Assam tea|Packaged Tea - ''Assam'']] ''(Brand),'' [[Assam Sahitya Sabha|The Seat of Assam Literature / Rhetorical Congress: Assam Sahitya Sabha]] - ''CK Handique Bhawan ([[Jorhat]])'', On display - ''[[Talatal Ghar|Cannons of Talatal Ghar]] (Sivasagar),'' [[Tumulus|The Royal Tumulus]] - ''[[Maidam]] ([[Charaideo]])'', Ahom Kings’ Palace - ''([[Garhgaon]], Sivasagar).''
+}}
+| image_alt  = 
+| image_caption          = 
+| image_seal             = Seal of Assam.png
+| seal_alt               = 
+| image_map              = India AS.svg
+| map_alt                = 
+| map_caption            = Location of Assam in India
+| image_map1              = Assam_locator_map.svg
+| map_caption1            = Map of Assam
+| latd                   = 26.14
+| longd                  = 91.77
+| coor_pinpoint          = Dispur
+| coordinates_display    = inline,title
+| coordinates_footnotes  = 
+| coordinates_region     = IN-AS
+| subdivision_type       = Country
+| subdivision_name       = {{flag|India}}
+| subdivision_type1      = [[Regions of India|Region]]
+| subdivision_name1      = [[Northeast India]]
+| established_title1      = Formation{{ref|cap|†}} 
+| established_date1       = 1 April 1911 (As [[Assam Province]])
+| seat_type              = Capital
+| seat                   = [[Dispur]]
+| seat1_type             = Largest city<br />Largest metro
+| seat1                  = [[Guwahati]]
+| parts_type             = [[List of Indian districts|Districts]]
+| parts_style            = para
+| p1                     = [[List of districts of Assam|32]] 
+| government_footnotes   = 
+| leader_title           = [[Governors of Assam|Governor]]
+| leader_name            = [[Padmanabha Acharya|Padmanabha Balakrishna Acharya]]
+| leader_title1          = [[Chief Ministers of Assam|Chief&nbsp;Minister]]
+| leader_name1           = [[Sarbananda Sonowal]] ([[Bhartiya Janta Party|BJP]])
+| leader_title2          = [[Legislature of Assam|Legislature]]
+| leader_name2           = [[Unicameral]] ([[List of constituencies of Assam Legislative Assembly|126 seats]])
+| leader_title3          = [[14th Lok Sabha|Parliamentary constituency]]
+| leader_name3           = 14
+| leader_title4          = [[High Courts of India|High Court]]
+| leader_name4           = [[Gauhati High Court]]
+| unit_pref              = Metric<!-- or US or UK -->
+| area_footnotes         = 
+| area_total_km2         = 78438
+| area_rank              = [[List of states and territories of India by area|17th]]
+| area_note              = 
+| elevation_footnotes    = 
+| elevation_m            = 
+| population_footnotes   = 
+| population_total       = 31205576
+| population_as_of       = 2011
+| population_rank        = [[List of states and union territories of India by population|15th]]
+| population_density_km2 = auto
+| population_note        = 
+| timezone1              = [[Indian Standard Time|IST]]
+| utc_offset1            = +05:30
+| iso_code               = [[ISO 3166-2:IN|IN-AS]]
+| blank_name_sec1        = [[Human Development Index|HDI]]
+| blank_info_sec1        = {{increase}} 0.444 (low)
+| blank1_name_sec1       = HDI rank
+| blank1_info_sec1       = 22nd (2005)
+| blank_name_sec2        = [[Literacy in India|Literacy]]
+| blank_info_sec2        = 79.18% (26th)<ref>{{cite web|url=http://www.census2011.co.in/census/state/assam.html |title=Assam Population Sex Ratio in Assam Literacy rate data |publisher=Census2011.co.in |date= |accessdate=2012-09-22}}</ref>
+| blank1_name_sec2       = [[Official language]](s)
+| blank1_info_sec2       = [[Assamese language|Assamese]] 
+| blank2_name_sec2       = Co-official languages
+| blank2_info_sec2       = [[English language|English]],<br />[[Bengali language|Bengali]] (In the three districts of [[Barak Valley]]), <br />[[Bodo language|Bodo]] {{small|(In the four districts of [[Bodoland Territorial Council]])}}<ref name="BTC">{{cite web|url=http://www.satp.org/satporgtp/countries/india/states/assam/documents/papers/memorandum_feb02.htm|title=Memorandum of Settlement on Bodoland Territorial Council (BTC)|date=10 February 2003|website=South Asia Terrorism Portal|accessdate=25 December 2014}}</ref><ref name="BTC"/>
+| website                = {{URL|assam.gov.in}}
+| footnotes              = {{ref|cap|†}} by partitioning [[Eastern Bengal and Assam|Province of East Bengal and Assam]] <br/> {{note|cap|[*]}} Assam has had a legislature since 1937. <br/>
+{{note|cap|[*]}} Assam is one of the original provinces of British India.
+}}
+{{Infobox region symbols
+| state = Assam
+| country = India
+| seal = [[File:Seal_of_Assam_svg.svg|50px|left]] Seal of Assam
+| motto    = {{lang|as|জয় আই অসম}} (Hail mother Assam)
+| language = [[File:Assamese_Bengali_letter_A_(red).png|50px|left]] [[Assamese language|Assamese]] 
+| literary Society = [[Asam Sahitya Sabha]]
+| song     = [[File:O Mor Aponar Desh.jpg|50px|left]]  [[O Mur Apunar Dex]]
+| dance    = [[File:Bihu_dance_at_Nagaon.jpg|50px|left]][[Bihu dance]]
+| animal   = [[File:KAZIRANGA.JPG|50px|left]] [[One horned rhinoceros]]
+| bird     = [[File:White-winged Wood Duck (Cairina scutulata) RWD5.jpg|50px|left]] [[White-winged wood duck]]
+| drink    = [[File:Assam med mælk (4470235476).jpg|50px|left]][[Assam tea]]
+| flower   = [[File:A_and_B_Larsen_orchids_-_Rhynchostylis_retusa_1015-24.jpg|50px|left]] [[Rhynchostylis retusa]]
+| tree     = [[File:Dipterocarpus_bourdillonii_01.JPG|50px|left]]''[[Dipterocarpus macrocarpus]]''
+| river    = [[File:A_view_of_sunset_from_Biswanath_Ghat.jpg|50px|left]] [[Brahmaputra]]
+| dress    = [[File:Assamese_Bihu.jpg|50px|left]] Suriya-Panjabi and [[Gamosa]] (for men), [[Mekhela-chador]] (for women)
+}}
+'''Assam''' ({{IPAc-en|lang|pron|ə|ˈ|s|æ|m}} {{Audio|Assam.ogg|listen}}; {{lang-as|অসম}} ''Ôxôm'' {{IPA-as|ɔˈxɔm|}} {{Audio|The_pronunciation_of_Ôxôm.ogg|listen}}; {{lang-brx|{{lang|brx-Deva|आसाम}}}} ''Asam''; {{lang-bn|আসাম}} ''Âshám'' {{IPA-bn|ɑːˈʃɑːm|}}) is a state in [[Northeast India|northeastern]] [[India]]. Located south of the eastern [[Himalayas]], Assam comprises the [[Brahmaputra Valley]] and the [[Barak Valley]] along with the [[Karbi Anglong district|Karbi Anglong]] and [[Dima Hasao district]]s with an area of {{convert|30,285|mi2|abbr=on}}. Assam, along with [[Arunachal Pradesh]], [[Nagaland]], [[Manipur]], [[Mizoram]], [[Tripura]] and [[Meghalaya]], is one of the ''[[Seven Sister States]]''. Geographically Assam and these states are connected to the rest of India via a {{convert|22|km}} strip of land in [[West Bengal]] called the [[Siliguri Corridor]] or "Chicken's Neck".<ref>{{cite web|last=Dixit |first=K. M. |title=Chicken's Neck (Editorial) |publisher=Himal South Asian |date=August 2002 |url=http://www.himalmag.com/2002/august/lastpage.htm |format=– <sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=author%3ADixit+intitle%3AChicken%27s+Neck+%28Editorial%29&as_publication=&as_ylo=&as_yhi=&btnG=Search Scholar search]</sup> |deadurl=yes |archiveurl=https://web.archive.org/20061030033551/http://www.himalmag.com/2002/august/lastpage.htm |archivedate=30 October 2006 }}</ref> Assam shares an international border with [[Bhutan]] and [[Bangladesh]]; and its culture, people and climate are similar to those of South-East Asia – comprising the elements in India’s [[Indian Look East policy|Look East policy]].<ref>{{cite news |title=Assam has lead role in Look East effort: PM |author=Sushanta Talukdar |url=http://www.thehindu.com/news/national/article3336069.ece |newspaper=The Hindu |date=20 April 2012 |accessdate=4 December 2012 |location=Chennai, India}}</ref> Assam became a part of [[British India]] after the British East India Company occupied the region following the [[First Anglo-Burmese War]] of 1824–1826.
+
+Assam is known for [[Assam tea]] and [[Assam silk]]. The first oil well in Asia was drilled here.  The state has conserved the one-horned [[Indian rhinoceros]] from near extinction, along with the [[wild water buffalo]], [[pygmy hog]], tiger and various species of Asiatic birds. It provides one of the last wild habitats for the [[Asian elephant]]. The Assamese economy is aided by [[wildlife tourism]], centred around [[Kaziranga National Park]] and [[Manas National Park]] which are [[World Heritage Site]]s. [[Shorea robusta|Sal tree]] forests are found in the state, which as a result of rainfall looks green all year round. Assam receive more rainfall compared to most part of India. This rain feeds the [[Brahmaputra River]], whose tributaries and [[oxbow lake]]s provide the region with a hydro-[[geomorphic]] and aesthetic environment.
+
+== Etymology ==
+{{main|Etymology of Assam}}
+The precise etymology of "Assam" came from Ahom Dynasty. In the classical period and up to the 12th century the region east of the [[Karatoya river]], largely congruent to present-day Assam, was called [[Kamarupa]], and alternatively, [[Pragjyotisha]].<ref>"Prior to the thirteenth century the
+present region was called Kāmarūpa or, alternatively, Prāgjyotiṣapur", Lahiri, Nayanjot., ''Pre-Ahom Assam'' (Delhi 1991) p14</ref> In medieval times the Mughals used ''Asham'' (eastern Assam) and Kamrup (western Assam),<ref>Sukalpa Bhattacharjee, C Joshua Thomas,2013,''Society,Representation and Textuality:The Critical Interface'' It deals with the expansion of the Mughal Empire in Bengal, Kamrup and Assam.</ref><ref>Satish Chandra (2005), ''Medieval India:Fro Sultanate to the Mughals Part - II'' They had support of many Hindu Rajas of Jessore, Kamrup (Western Assam), Cachar, Tippera, etc.</ref><ref>Peter Jackson,2003,''The Delhi Sultanate: A Political and Military History'',P. 141, into the region of Assam the Muslims called Kamrup or Kamrud</ref> and during British colonialism, the English used Assam. Though many authors have associated the name with the 13th century Shan invaders<ref>"The word 'Assamese' is an English one based on the anglicised form 'Assam' from the native word "Asam", which in its turn is connected with the Shans who invaded the Brahmaputra Valley in the 13th century." Kakati, Banikanta, ''Aspects of Early Assamese Literature'' (Gauhati University Press, 1953) p1; "Assam is the English form of 'Asama' (i.e. peerless) which is apparently a Sanskritised form of the tribal name Ahom", D C Sircar, ''Pragjyotisha-Kamarupa'' in ''The Comprehensive History of Assam'' Vol I (Guwahati, 1991) p59 cf1; Satyendra Nath Sharma, ''Assamese Literature'' (Wiesbaden : Harrassowitz, 1976) p1; "The term 'Assam' is, relatively speaking, of recent origin and traces back to the tradition of the Ahoms who entered the Brahmaputra valley in the thirteenth century", Nayanjot Lahir, ''Pre-Ahom Assam'' (Delhi 1991, based on PhD Thesis) p14; "These references show that the term 'Axom or Asom' was earlier used to mean the Shan community...Subsequently the term came to be used to mean also the territory they ruled", M Taher, ''Geography of Assam'' (Delhi, 2001) pp2-3</ref> the precise origin of the name is not clear.  It was suggested by some that the Sanskrit word ''Asama'' ("unequalled", "peerless", etc.) was the root, which has been rejected by Kakati,<ref>"...but most probably ''Asama'' meaning peerless or unequalled is a latter day Sanskritisation of some earlier form like ''Āchām'', Banikanta Kakati, ''Early Aspects of Assamese Literature'' (Gauhati, 1953) p2</ref> and more recent authors have concurred that it is a latter-day Sanskritization of a native name.<ref>Satyendra Nath Sharma, ''Assamese Literature'' (Wiesbaden : Harrassowitz, 1976) p1</ref>  Among possible origins are Tai (''A-Cham'')<ref>"In Tai the root ''cham'' means "to be undefeated". With the privative Assamese affix ''ā'' the whole formation ''Āchām'' would mean undefeated.", Banikanta Kakati, ''Aspects of Early Assamese Literature'' (Gauhati University Press, 1953) p2</ref> and Bodo (''Ha-Sam'').<ref>"The Ahom domain of Upper Assam came to be known to the Dimasa and other Bodo people as ''Ha-Sam'' (the land of the ''Shams'' or ''Shans'') in their language.", Amalendu Guha, ''The Ahom Political System: An Enquiry into the State Formation Process in Medieval Assam (1228-1714)'' in ''Social Scientist'' Vol. 11, No. 12, (1983) p24</ref>
+
+== History ==
+{{Main|History of Assam}}
+
+=== Pre-history ===
+{{further|Danava dynasty|Naraka dynasty|Indo-Aryan migration to Assam}}
+Assam and adjoining regions have evidences of human settlements from all the periods of the [[Stone age]]s. The hills at the height of 1,500–2,000 feet (460 to 615 m) were popular habitats probably due to availability of exposed dolerite basalt, useful for tool-making.<ref name="HKBarpujariCHOA">{{Citation
+| first = H. K. (ed.)| last = Barpujari
+| title = The Comprehensive History of Assam, 1st edition
+| place = Guwahati, India
+| publisher = Assam Publication Board
+| year = 1990 }}</ref>
+
+=== Mythology ===
+According to a late text, [[Kalika Purana]] (c. 9th–10th century [[Anno Domini|AD]]), the earliest ruler of Assam was Mahiranga Danav of the [[Danava dynasty]], which was removed by [[Naraka]]  of [[Mithila (ancient)|Mithila]] who established the [[Naraka dynasty]].  The last of these rulers, also Naraka, was slain by [[Krishna]].  Naraka's son Bhagadatta became the king, who (it is mentioned in the Mahabharata) fought for the [[Kaurava]]s in the [[Kurukshetra War|battle of Kurukshetra]] with an army of ''[[kiratas]]'', ''[[chinas]]'' and ''dwellers of the eastern coast''.
+
+===Ancient===
+{{multiple image
+   | align = right
+   | image1 = Kamarupa 7th-8th Century AD.jpg
+   | width1 = 185
+   | caption1 =<center>[[Kamrup Kingdom|The Kamrup Kingdom]]</center>
+   | image2 = Madan kamdev ruins.JPG
+   | width2 = 185
+   | caption2 =<center>[[Madan Kamdev]] ruins</center>
+}}
+{{further|Kamarupa}}
+[[Samudragupta]]'s 4th century [[Allahabad Pillar#Samudragupta inscriptions|Allahabad pillar inscription]] mentions [[Kamarupa]] ([[Western Assam]])<ref>Tej Ram Sharma,1978,"Personal and geographical names in the Gupta inscriptions. (1.publ.)", Page 254, Kamarupa consisted of the Western districts of the Brahmaputra valley which being the most powerful state.</ref> and [[Davaka]] (Central Assam)<ref>Suresh Kant Sharma, Usha Sharma - 2005,"Discovery of North-East India: Geography, History, Cutlure, ... - Volume 3", Page 248, Davaka (Nowgong) and Kamarupa as separate and submissive friendly kingdoms.</ref> as frontier kingdoms of the [[Gupta Empire]]. 
+Davaka was later absorbed by Kamarupa, which grew into a large kingdom that spanned from Karatoya river to near present [[Sadiya]] and covered the entire Brahmaputra valley, [[North Bengal]], parts of [[Bangladesh]] and, at times [[Purnea]] and parts of [[West Bengal]].<ref>The eastern border of Kamarupa is given by the temple of the goddess Tamreshvari (Pūrvāte Kāmarūpasya devī Dikkaravasini in [[Kalika Purana]]) near present-day Sadiya.  "...the temple of the goddess Tameshwari (Dikkaravasini) is now located at modern Sadiya about 100 miles to the northeast of Sibsagar" {{harv|Sircar|1990|pp=63–68}}.</ref>
+
+Ruled by three dynasties [[Varman dynasty|Varmanas]] (c. 350–650 CE), [[Mlechchha dynasty]] (c.655–900 CE) and [[Pala dynasty (Kamarupa)|Kamarupa-Palas]] (c. 900–1100 CE), from their capitals in present-day [[Guwahati]] ([[Pragjyotishpura]]), Tezpur ([[Haruppeswara]]) and [[North Gauhati]] ([[Durjaya]]) respectively. Country was 10,000 [[Li (unit)|li]] (6000&nbsp;km) in circuit and capital city Pragjyotishpura was about 30 li (18&nbsp;km).  All three dynasties claimed their descent from [[Narakasura]], an immigrant from [[Āryāvarta|Aryavarta]].<ref>''The Cooch Behar State and Its Land Revenue Settlements'' (1903), Page 213 Naraka was not a native of the soil. He was evidently an Aryan conqueror and came from the Aryavarta.</ref>
+
+In the reign of the Varman king, [[Bhaskar Varman]] (c. 600–650 AD), the Chinese traveler [[Xuanzang]] visited the [[Kamrup region|region]] and recorded his travels. Later, after weakening and disintegration (after the Kamarupa-Palas), the Kamarupa tradition was somewhat extended till c. 1255 AD by the Lunar I (c. 1120–1185 AD) and Lunar II (c. 1155–1255 AD) dynasties.<ref name="HKBarpujariCHOA" />
+
+'''Medieval'''
+{{multiple image
+   | align = right
+
+   | image1 = Ahom-kingdom-c1826p.png
+   | width1 = 194
+   | caption1 = The [[Ahom Kingdom]], c. 1826
+   | alt1 = Ahom Kingdom, c. 1826
+
+   | image2 = Gargaon'r Kareng Ghor Side View.JPG
+   | width2 = 185
+   | caption2 = [[Kareng ghar]], the palace of the Ahom kings
+   | alt2 = Kareng ghar
+
+}}
+[[File:Sukapha.jpg|180px|thumb|right|First [[Ahom kingdom|Ahom]] king Sworgodeu Chao-lung Siu-ka-phaa ([[Sukaphaa]]).]]
+{{further|Kamata kingdom|Ahom kingdom|Sutiya kingdom|Kachari kingdom|Baro-Bhuyan}}
+Three later dynasties, the [[Ahom Dynasty|Ahoms]], the [[Sutiya kingdom|Sutiya]] and the [[Koch dynasty|Koch]]. The Ahoms, a [[Tai peoples|Tai]] group, ruled [[Upper Assam]]<ref>Banikanta Kakati, ''Assamese:Its formation and development'' The Shans built their kingdom and consolidated their
+power in Eastern Assam with the modern town of Sibsagara as their capital and brought the whole tract down to the border of
+the modern district of Kamrup permanently under their sway. It was towards the close of their reign that modern Kamrup came within the compass of the Shan rule.</ref>  for nearly 600 years (1228–1826 AD) while the Sutiya rulers (1187 -1673 AD) held the regions on the north bank of Brahmaputra with its domain from [[Biswanath Chariali|Vishwanath]] in the west to [[Parshuram Kund]] in the east in [[Upper Assam]] and in the state of [[Arunachal Pradesh]]. The Koch, a [[Tibeto-Burman languages|Tibeto-Burmese]], established sovereignty in c. 1510 AD. The Koch kingdom in western Assam and present North Bengal was at its zenith in the early reign of Naranarayana (c. 1540–1587 AD). It split into two in c. 1581 AD, the western part as a [[Moghul]] vassal and the eastern as an Ahom satellite state. Since c. the 13th century AD, the nerve centre of Ahom polity was upper Assam; the kingdom was gradually extended till [[Karatoya River]] in the c. 17th or 18th century. It was at its zenith during the reign of Sukhrungpha or Sworgodeu Rudra Simha (c. 1696–1714 AD). Among other dynasty, the [[Kachari Kingdom|Kacharis]] (13th century-1854 AD) ruled from Dikhow River to central and southern Assam and had their capital at [[Dimapur]]. The rivalry between the Sutiyas and Ahoms for the supremacy of eastern Assam led to a series of battles between them from the early 16th century till the start of the 17th century, which saw great loss of men and money. With expansion of Ahom kingdom, by the early 17th century, the Sutiya areas were annexed and since c. 1536 AD Kacharis remained only in [[Cachar]] and [[North Cachar]] more as an Ahom ally then a competing force. Despite numerous invasions, mostly by the Muslim rulers, no western power ruled Assam until the arrival of the British. Though the [[Mughal empire|Mughals]] made seventeen attempts to invade, they were never successful. The most successful invader [[Mir Jumla II|Mir Jumla]], a governor of [[Aurangzeb]], briefly occupied [[Garhgaon]] (c. 1662–63 AD), the then capital, but found it difficult to control people making [[guerrilla warfare|guerrilla]] attacks on his forces, forcing them to leave. The decisive victory of the Assamese led by the great general [[Lachit Borphukan]] on the Mughals, then under command of Raja Ram Singha at [[Saraighat]] (1671) had almost ended Mughal ambitions in this region. Mughals were finally expelled from Lower Assam during the reign of [[Supaatphaa|Gadadhar Singha]] in 1682 AD. {{citation needed|date=November 2015}}
+
+=== Colonial era ===
+[[File:Bengal gazetteer 1907-9.jpg|thumb|150px|<center>Map of Assam during 1907-1909</center>]]
+[[File:British Indian Empire 1909 Imperial Gazetteer of India.jpg|thumb|150px|<center>A map of the [[British Raj|British Indian Empire]] in 1909 during the partition of Bengal (1905–1911), showing British India in two shades of pink ([[Coral pink|coral]] and pale) and the [[princely state]]s in yellow. The ''Assam Province'' (initially as the Province of Eastern Bengal and Assam) can be seen towards the north-eastern side of India.</center>]]
+{{further|Colonial Assam|Assam Province}}
+
+The discovery of [[Camellia sinensis]] in 1834 in Assam was followed by its tests in 1836–37 in London. The British allowed companies to rent land from 1839 onwards. Thereafter tea plantations mushroomed in Eastern Assam,<ref name=Roy>{{cite book|last=Roy|first=Tirthankar|title=India in the World Economy: From Antiquity to the Present|year=2012|publisher=Cambridge University Press|isbn=978-1107009103|page=202}}</ref> where the soil and the climate were most suitable. Problems with the imported labourers from China and hostilities of native Assamese resulted in migration of forced labourers from central and eastern parts of India. After initial trial and error with planting the Chinese and the Assamese-Chinese hybrid varieties, the planters later accepted the local [[Camellia assamica]] as the most suitable one for Assam. By the 1850s, the industry started seeing some profits. Industry saw initial growth, when in 1861, investors were allowed to own land in Assam and it saw substantial progress with invention of new technologies and machinery for preparing processed tea during the 1870s.
+
+Despite the commercial success, tea laborers continued to be exploited,{{clarify|reason=this means used to their fullest capacity, not abused|date=September 2014}} working and living under poor conditions.{{clarify|reason=what are "poor" conditions compared to the rest of India? Needs data rather than pitiable subjective adjectives|date=September 2014}} Fearful of greater government interference, the tea growers formed the [http://www.indiatea.org/ Indian Tea Association] in 1888 to lobby to retain the status quo. The organization was very successful in this, and even after India’s independence, conditions of the laborers have improved very little.<ref>{{Citation
+| last = MacFarlane | first = Alan
+| last2 = MacFarlane | first2 = Iris
+| title = Green Gold, The Empire of Tea, Ch. 6–11
+| publisher = Random House, London
+| year = 2003 }}</ref>
+
+In the later part of the 18th century, religious tensions and atrocities of nobles led to the [[Moamoria rebellion]], resulting in tremendous casualties of lives and property. The rebellion was suppressed but the kingdom was severely weakened by the civil war. Political rivalry between Prime Minister Purnananda [[Burhagohain]] and Badan Chandra [[Borphukan]], the [[Ahom people|Ahom]] Viceroy of Western Assam, led to the invitation to the Burmese by the latter,<ref>Gait E.A. A History of Assam 1926 Calcutta and Shimla Thacker & Co page 225</ref><ref>Bhuyan Dr. S.K. Tunkhungia Buranji or A History of Assam (1681–1826) 1968 page 199</ref><ref>Barbaruah Hiteswar Ahomar-Din or A History of Assam under the Ahoms 1981 page 299</ref><ref>Barua Gunaviram Assam Buranji or A History of Assam 2008 page 108</ref> in turn leading to three successive [[Burmese invasions of Assam]]. The reigning monarch [[Sudingphaa|Chandrakanta Singha]] tried to check the Burmese invaders but he was defeated after fierce resistance.<ref>Gait E.A. A History of Assam 1926 Calcutta and Shimla Thacker & Co page 230</ref><ref>Bhuyan Dr. S.K. Tunkhungia Buranji or A History of Assam (1681–1826) 1968 page 206</ref><ref>Barbaruah Hiteswar Ahomar-Din or A History of Assam under the Ahoms 1981 page 320</ref>
+
+A reign of terror was unleashed by the Burmese on the Assamese people,<ref>Gait E.A. A History of Assam 1926 Calcutta and Shimla Thacker & Co page 231</ref><ref>Bhuyan Dr. S.K. Tunkhungia Buranji or A History of Assam (1681–1826) 1968 page 207</ref><ref>Barbaruah Hiteswar Ahomar-Din or A History of Assam under the Ahoms 1981 page 318</ref><ref>Barua Gunaviram Assam Buranji or A History of Assam 2008 page 116-117</ref> who fled to neighbouring kingdoms and British-ruled [[Bengal]].<ref>Gait E.A. A History of Assam 1926 Calcutta and Shimla Thacker & Co page 232</ref><ref>Barua Gunaviram Assam Buranji or A History of Assam 2008 page117</ref> The Burmese reached the [[British East India Company|East India Company]]'s borders, and the [[First Anglo-Burmese War]] ensued in 1824. The war ended under the [[Treaty of Yandabo]]<ref>{{Citation|first=C. U. ed |last=Aitchison |title=The Treaty of Yandaboo, (A Collection of Treaties, Engagements and Sanads: Relating to India and Neighbouring Countries. Vol. XII.) |place=Calcutta |pages=230–233 |url=http://projectsouthasia.sdstate.edu/Docs/history/primarydocs/Treaties/Burma/002.htm |publisher=Projectsouthasia.sdstate.edu |year=1931 |deadurl=yes |archiveurl=https://web.archive.org/web/20081202003039/http://projectsouthasia.sdstate.edu/Docs/history/primarydocs/Treaties/Burma/002.htm |archivedate=2 December 2008 }}</ref> in 1826, with the Company taking control of Western Assam and installing [[Purandar Singha]] as king of Upper Assam in 1833. The arrangement lasted till 1838 and thereafter the British gradually annexed the entire region.
+
+Initially Assam was made a part of the [[Bengal Presidency]], then in 1906 it was a part of [[Eastern Bengal and Assam]] province, and in 1912 it was reconstituted into a chief commissioners' province. In 1913, a legislative council and, in 1937, the Assam Legislative Assembly, were formed in Shillong, the erstwhile capital of the region. The British tea planters imported labour from central India adding to the demographic canvas.
+
+After a few initial unsuccessful attempts to gain independence for Assam during the 1850s, anti-colonial Assamese joined and actively supported the [[Indian National Congress]] against the British from the early 20th century, with [[Gopinath Bordoloi]] emerging as the preeminent nationalist leader in the Assam Congress.<ref>{{cite book |last=Baruah |first=L.M. |year=1992 |title=Lokopriya Gopinath Bordoloi, an Architect of Modern India |url=https://books.google.com/books?id=MimNvTPEWfAC |location= |publisher=Gyan Publishing House |isbn=81-212-0404-6 |accessdate=2013-11-17}}</ref> Bordoloi's major political rival in this time was Sir Saidullah, who was representing the [[All-India Muslim League|Muslim League]], and had the backing of the influential Muslim cleric [[Maulana Bhasani]].<ref>{{cite web |url= http://www.satp.org/satporgtp/publication/faultlines/volume13/Article2.htm|title= The Secessionist Insurgency and the Freedom of Minds |last1= Nath|first1= Sunil|year= 2001|website= www.satp.org|publisher= Institute for Conflict Management|accessdate=24 January 2014}}</ref>
+
+The Assam territory was first separated from Bengal in 1874 as the 'North-East Frontier' [[non-regulation province]], also known as the Assam Chief-Commissionership. It was incorporated into the new province of [[Eastern Bengal and Assam]] in 1905 after the partition of Bengal (1905–1911) and re-established in 1912 as [[Assam Province]] .<ref>[[William Cooke Taylor]], ''A Popular History of British India.'' p. 505</ref>
+
+The ''Assam Postage Circle'' was established by 1873 under the headship of the Deputy Post Master General.<ref>{{cite web|author=Indian Philatelists Forum |url=http://modernindianphilately.blogspot.in/2011/06/indian-postal-circles.html |title=Glimpses of Modern Indian Philately: INDIAN POSTAL CIRCLES |publisher=Modernindianphilately.blogspot.in |date=2011-06-04 |accessdate=2014-06-11}}</ref>
+
+At the turn of the 20th century, British India consisted of eight provinces that were administered either by a governor or a lieutenant-governor. ''The Assam Province'' was one among major eight provinces of British India. The table hereafter shows the major original provinces during British India covering the Assam Province under Administrative Office of Chief Commissioner.
+
+The following table lists their areas and populations. It does not include those of the dependent Native States:<ref name=igi-46>{{Harvnb|Imperial Gazetteer of India vol. IV|1907|p=46 }}</ref>
+{| class="wikitable collapsible collapsed"
+|- style="vertical-align:bottom;"
+! Province of British India<ref name="igi-46" /> !! Area ( '000<sup>2</sup> miles)!! Population (in millions) !! Chief Administrative Officer
+|-
+| style="text-align:center;"| [[Burma#Colonial era (1886–1948)|Burma]] || style="text-align:center;"| 170 || style="text-align:center;"| 9 || style="text-align:center;"| Lieutenant-Governor
+|-
+| style="text-align:center;"| [[Bengal Presidency|Bengal]] || style="text-align:center;"| 151 || style="text-align:center;"| 75 || style="text-align:center;"| Lieutenant-Governor
+|-
+| style="text-align:center;"| [[Madras Presidency|Madras]] || style="text-align:center;"| 142 || style="text-align:center;"| 38 || style="text-align:center;"| Governor-in-Council
+|-
+| style="text-align:center;"| [[Bombay Presidency|Bombay]] || style="text-align:center;"| 123 || style="text-align:center;"| 19 || style="text-align:center;"| Governor-in-Council
+|-
+| style="text-align:center;"| [[United Provinces of Agra and Oudh|United Provinces]] || style="text-align:center;"| 107 || style="text-align:center;"| 48 || style="text-align:center;"| Lieutenant-Governor
+|- style="text-align:center;"
+|| [[Central Provinces and Berar]] || style="text-align:center;"| 104 || style="text-align:center;"| 13 || style="text-align:center;"| Chief Commissioner
+|-
+| style="text-align:center;"| [[Punjab (British India)|Punjab]] || style="text-align:center;"| 97 || style="text-align:center;"| 20 || style="text-align:center;"| Lieutenant-Governor
+|-
+| style="text-align:center;"| [[Assam Province|Assam]] || style="text-align:center;"| 49 || style="text-align:center;"| 6 || style="text-align:center;"| Chief Commissioner
+|}
+
+[[File:Kanaklata Udyan, Tezpur.jpg|150px|thumb|Showing an historical incident at Kanaklata Udyan, [[Tezpur]]]]
+
+With the partition of India in 1947, Assam became a constituent state of India. The [[Sylhet district|district of Sylhet]] of Assam (excluding the Karimganj subdivision) was given up to East Pakistan (which later became Bangladesh).
+
+=== Modern history ===
+[[File:Assam in 1950s.png|thumb|22em|<center>Assam till the 1950s; The new states of Nagaland, Meghalaya and Mizoram formed in the 1960-70s. From Shillong, the capital of Assam was shifted to Dispur, now a part of Guwahati. After the Indo-China war in 1962, Arunachal Pradesh was also separated out.</center>]]
+
+The government of India, which has the unilateral powers to change the borders of a state, divided Assam into several states since 1970 to satisfy national aspirations of the tribal populations living within the then borders of then Assam. In 1963 the Naga Hills district became the 16th state of India under the name of [[Nagaland]]. Part of Tuensang was added to Nagaland. In 1970, in response to the demands of the tribal peoples of the [[Karbi-Meghalaya plateau|Meghalaya Plateau]], the districts embracing the Khasi Hills, Jaintia Hills, and Garo Hills were formed into an autonomous state within Assam; in 1972 it became a separate state under the name of Meghalaya. In 1972, Arunachal Pradesh (the [[North East Frontier Agency]]) and Mizoram (from the Mizo Hills in the south) were separated from Assam as union territories; both became states in 1986. {{citation needed|date=November 2015}}
+
+Since the restructuring of Assam after independence, communal tensions and violence remain there. Separatist groups began forming along ethnic lines, and demands for autonomy and sovereignty grew, resulting in fragmentation of Assam. In 1961, the Government of Assam passed a legislation making use of the [[Assamese language]] compulsory. It was withdrawn later [[Bengali Language Movement (Barak Valley)|under pressure from Bengali speaking people in Cachar]]. In the 1980s the Brahmaputra valley saw a six-year [[Assam Agitation]]<ref name="Hazarika">{{Citation
+| first = Sanjoy | last = Hazarika
+| title = Strangers of the Mist
+| publisher = Penguin Books Australia Ltd.
+| year = 2003
+| isbn = 0-14-024052-7 }}
+</ref> triggered by the discovery of a sudden rise in registered voters on electoral rolls. It tried to force the government to identify and deport foreigners illegally migrating from neighboring [[Bangladesh]] and changing the demographics. The agitation ended after an accord between its leaders and the Union Government, which remained unimplemented, causing simmering discontent.<ref name="SinhaSKillmig">{{cite web
+| author=Governor of Assam
+| title = Report on Illegal Migration into Assam
+| date = 8 November 1998
+| url = http://www.satp.org/satporgtp/countries/india/states/assam/documents/papers/illegal_migration_in_assam.htm
+| accessdate =26 May 2007 | archiveurl= https://web.archive.org/web/20070609170339/http://satp.org/satporgtp/countries/india/states/assam/documents/papers/illegal_migration_in_assam.htm| archivedate= 9 June 2007 <!--DASHBot-->| deadurl= no}}</ref>
+
+The post 1970s experienced the growth of armed separatist groups like [[United Liberation Front of Asom]] (ULFA)<ref name="Hazarika" /> and [[National Democratic Front of Bodoland]] (NDFB). In November 1990, the [[Government of India]] deployed the [[Indian army]], after which low-intensity military conflicts and political homicides have been continuing for more than a decade. In recent times, ethnicity based militant groups have grown. Regional autonomy has been ensured for [[Bodo-Kachari community]] in [[Bodoland Territorial Council]] Areas (BTC), for the Karbis in [[Karbi Anglong district|Karbi Anglong]] and for the people of [[Dima Hasao district]] under the 6th schedule and Autonomous District Councils (ADC) areas under Indian constitution, while Non-6th Schedule States in the North-East where under 73rd and 74th amendments (Panchayati Raj Institutions) have been applied in Assam (excluding ''Karbi Anglong Autonomous District Council'' and ''North Cachar Hills Autonomous Council''), after agitation of the communities due to sluggish rate of development and general apathy of successive state governments towards indigenous communities. {{citation needed|date=November 2015}}
+
+==Geography==
+{{Main|Physical Geography of Assam}}
+{{see also|Tourism in North East India}}
+[[File:Assam Valley.JPG|thumb|<center>Environs: Assam, dissected hills of the South Indian Plateau system and the Himalayas all around its north, north-east and east.</center>]]
+
+A significant geographical aspect of Assam is that it contains three of six physiographic divisions of India - The Northern Himalayas (Eastern Hills), The Northern Plains (Brahmaputra plain) and Deccan Plateau (Karbi Anglong). As the Brahmaputra flows in Assam the climate here is cold and there is rainfall most of the month.Geomorphic studies conclude that the Brahmaputra, the life-line of Assam is an antecedent river, older than the Himalayas. The river with steep [[Canyon|gorges]] and rapids in Arunachal Pradesh entering Assam, becomes a [[braided river]] (at times 10&nbsp;mi/16&nbsp;km wide) and with tributaries, creates a flood plain (Brahmaputra Valley: 50–60&nbsp;mi/80–100&nbsp;km wide, 600&nbsp;mi/1000&nbsp;km long).<ref name="RLSinghIndia">{{Citation
+| first = R. L. | last = Singh
+| title = India, A Regional Geography
+| place = Varanasi, India
+| publisher = National Geographical Society of India
+| year = 1993 }}</ref> The hills of [[Karbi Anglong]], [[North Cachar]] and those in and close to Guwahati (also Khasi-Garo Hills) now eroded and dissected are originally parts of the South Indian Plateau system.<ref name="RLSinghIndia"/> In the south, the [[Barak river|Barak]] originating in the Barail Range (Assam-Nagaland border) flows through the [[Cachar district]] with a 25–30&nbsp;miles (40–50&nbsp;km) wide valley and enters Bangladesh with the name [[Surma River]].
+
+Urban Centres include [[Guwahati]], one of the 100 fastest growing cities in the world.<ref>{{cite news|title=Guwahati's landscape to change with satellite towns, BRT systems |url=http://www.assamtribune.com/scripts/detailsnew.asp?id=jun1610/at036|accessdate=4 August 2013|newspaper=The Assam Tribune}}</ref> Guwahati is the gateway to the North-East India. [[Silchar]], (in the Barak valley) the 2nd most populous city in Assam and an important centre of business, education and tourism. Other large cities include [[Dibrugarh]], a oil, natural gas, tea and tourism industry;<ref>{{cite web|title=Dibrugarh - Roing - Mayudia - Anini Tourist Circuit |url=http://www.arunachaltourism.com/top5.php |publisher=Arunachal Tourism |accessdate=4 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/20130406132625/http://www.arunachaltourism.com/top5.php |archivedate=6 April 2013 }}</ref> and [[Jorhat]].
+
+===Climate===
+With the "Tropical Monsoon Rainforest Climate", Assam is temperate (summer max. at 95–100&nbsp;°F or 35–38&nbsp;°C and winter min. at 43–46&nbsp;°F or 6–8&nbsp;°C) and experiences heavy rainfall and high humidity.<ref name="RLSinghIndia" /><ref>{{cite web
+| last = Purdue University
+| title = The Köppen Classification of Climates
+| url = http://www.hort.purdue.edu/newcrop/tropical/lecture_04/lec_04.html
+| accessdate =25 May 2007 | archiveurl= https://web.archive.org/web/20070605020325/http://www.hort.purdue.edu/newcrop/tropical/lecture_04/lec_04.html| archivedate= 5 June 2007 <!--DASHBot-->| deadurl= no}}</ref> The climate is characterized by heavy monsoon downpours reducing summer temperatures and affecting foggy nights and mornings in winters, frequent during the afternoons. Spring (Mar–Apr) and autumn (Sept–Oct) are usually pleasant with moderate rainfall and temperature. Assam's agriculture usually depends on the south-west monsoon rains.
+
+====Flooding====
+<!---can move to economy, if not here--->
+Every year, flooding from the Brahmaputra and other rivers deluges places in Assam. The water levels of the rivers rise because of rainfall resulting in the rivers overflowing their banks and engulfing nearby areas. Apart from houses and livestock being washed away by flood water, bridges, railway tracks and roads are also damaged by the calamity, which causes communication breakdown in many places. Fatalities are also caused by the natural disaster in many places of the State.<ref name="Assam Flood Toll Rises to 13">{{cite web|url=http://m.ndtv.com/india-news/assam-flood-toll-rises-to-13-chief-minister-gogoi-undertakes-aerial-visit-1210178 |title=Assam Flood Toll Rises to 13 |publisher=NDTV |date=August 23, 2015 |accessdate=August 25, 2015}}</ref><ref name="Flood situation in Assam worsens">{{cite web|url=http://m.hindustantimes.com/india-news/flood-situation-in-assam-worsens-7-dead-over-650-000-displaced/article1-1383226.aspx |title=Flood situation in Assam worsens |publisher=Hindustan Times |date=August 23, 2015 |accessdate=August 25, 2015}}</ref>
+
+====Fauna====
+{{See also|Biodiversity of Assam}}
+
+{{multiple image
+   | align = right
+
+   | image1 = Rhinoceros unicornis, Kaziranga (2006).jpg
+   | width1 = 185
+   | caption1 = An [[Indian rhinoceros|Indian rhino]] at [[Kaziranga National Park]]
+   | alt1 = Rhinoceros unicornis
+
+   | image2 = Golden Langur.jpg
+   | width2 = 185
+   | caption2 =  An endangered [[golden langur]]
+   | alt2 = Golden langur
+
+}}
+
+Assam is one of the richest [[biodiversity]] zones in the world and consists of tropical [[rainforest]]s,<ref>{{Citation|format= |last=Borthakur |first=Ahir Bhairab |title=Call of the wild |url=http://www.downtoearth.org.in/full6.asp?foldername=20020115&filename=gra&sec_id=11&sid=1 |journal=Down to Earth |date=15 January 2002 |deadurl=yes |archiveurl=http://web.archive.org/web/20070928003319/http://www.downtoearth.org.in/full6.asp?foldername=20020115&filename=gra&sec_id=11&sid=1 |archivedate=28 September 2007 }}</ref> deciduous forests, riverine [[grasslands]],<ref>{{cite web
+| last1 = Birdlife International, UK |url = http://www.birdlife.org/action/science/species/asia_strategy/pdf_downloads/grasslandsGO2.pdf | title = Indo-Gangetic Grasslands }}</ref> [[bamboo]]<ref>National Mission on Bamboo Applications 2004</ref> orchards and numerous [[wetland]]<ref>{{Citation|format= |last=Sharma |first=Pradip |title=An Overview on Wetlands in Assam |url=http://www.envisassam.org/VOL2_2.pdf |journal=ENVIS Assam, Assam Science Technology and Environment Council |volume=2 |page=7 |date=April–June 2003 |postscript=. |deadurl=yes |archiveurl=https://web.archive.org/web/20060520204718/http://www.envisassam.org/VOL2_2.pdf |archivedate=20 June 2006 }}</ref> ecosystems; Many are now protected as national parks and reserved forests.
+
+Assam has wildlife sanctuaries, the most prominent of which are two UNESCO [[World Heritage sites]]<ref>{{cite web | last = World Heritage Centre | first = UNESCO | title = World Heritage List | url = http://whc.unesco.org/pg.cfm?cid=31 }}</ref>-the [[Kaziranga National Park]], on the bank of the [[Brahmaputra River]], and the [[Manas Wildlife Sanctuary]], near the border with Bhutan. The Kaziranga is a refuge for the fast-disappearing Indian one-horned rhinoceros. The state is the last refuge for numerous other endangered and threatened species including the [[white-winged wood duck]] or ''deohanh'', [[Bengal florican]], [[black-breasted parrotbill]], [[red-headed vulture]], [[white-rumped vulture]], [[greater adjutant]], [[Jerdon's babbler]], [[rufous-necked hornbill]], [[Bengal tiger]], [[Asian elephant]], [[pygmy hog]], [[gaur]], [[wild water buffalo]], [[Indian hog deer]], [[hoolock gibbon]], [[golden langur]], [[capped langur]], [[barasingha]], [[South Asian river dolphin|Ganges river dolphin]], [[Channa barca|Barca snakehead]], [[Ganges shark]], [[Burmese python]], [[brahminy river turtle]], [[black pond turtle]], [[Asian forest tortoise]], and [[Assam roofed turtle]]. Threatened species that are extinct in Assam include the [[gharial]], a critically endangered fish-eating crocodilian, and the [[pink-headed duck]] (which may be extinct worldwide). For the state bird, the white-winged wood duck, Assam is a globally important area.{{clarify|reason=why? Is it threatened or something? What does "globally important" signify?|date=August 2014}}<ref>Choudhury, A.U.(1996) Survey of the white-winged wood duck and the Bengal florican in Tinsukia district & adjacent areas of Assam and Arunachal Pradesh. The Rhino Foundation for Nature in North East India, Guwahati, India. 82pp+</ref> In addition to the above, there are three other National Parks in Assam namely Dibru Saikhowa National Park, Nameri National Park and the Orang National Park.
+
+Assam has conserved the one-horned [[Indian rhinoceros]] from near extinction, along with the [[pygmy hog]], tiger and numerous species of birds, and it provides one of the last wild habitats for the [[Asian elephant]]. [[Kaziranga]] and [[Manas National Park|Manas]] are both [[World Heritage Sites]]. The state contains [[Shorea robusta|Sal tree]] forests and forest products, much depleted from earlier times.<!---maybe should be in history---> A land of high rainfall, Assam displays greenery. The Brahmaputra River tributaries and [[oxbow lake]]s provide the region with hydro-[[geomorphic]] environment.{{citation needed|date=March 2015}}
+
+The state has the largest population of the [[wild water buffalo]] in the world.<ref>Choudhury, A.U. (2010)The vanishing herds : the wild water buffalo. Gibbon Books, Rhino Foundation, CEPF & COA, Taiwan, Guwahati, India</ref>
+The state has the highest diversity of birds in India with around 820 species.<ref>Choudhury, A.U. (2000)The birds of Assam. Gibbon Books & WWF-India, Guwahati, India</ref> With subspecies the number is as high as 946.<ref>Choudhury, A.U. (1990). Checklist of the birds of Assam. Sofia Press & Publishers Pvt. Ltd., Guwahati, India. 72 pp+</ref>
+The mammal diversity in the state is around 190 species.<ref>Choudhury, A.U. (1997)The check list of the mammals of Assam. Gibbon Books & ASTEC, Guwahati, India</ref>
+[[File:Kopou Orchid Assam India.jpg|thumb|180px|Blooming of [[Rhynchostylis retusa|Kopou Orchid]] marks the beginning of festive season ''[[Bihu]]'' in Assam.]]
+
+===Flora===
+Assam is remarkably rich in [[Orchidaceae|Orchid]] species and the [[Rhynchostylis retusa|Foxtail orchid]] is the state flower of Assam.<ref>{{Cite journal| last = ENVIS Assam| title = Endemic Orchids of Assam| url = http://www.envisassam.org/VOL2_2.pdf| journal = ENVIS Assam, Assam Science Technology and Environment Council| volume = 2| page = 8| date = April–June 2003| postscript = .|archiveurl=https://web.archive.org/web/20060520204718/http://www.envisassam.org/VOL2_2.pdf|archivedate=20 June 2006}}</ref> The recently established Kaziranga National Orchid and Biodiversity Park boasts more than 500 of the estimated 1,314 orchid species found in India.
+
+===Geology===
+Assam has [[petroleum]], natural gas, coal, [[limestone]] and other minor minerals such as [[Quartzite|magnetic quartzite]], [[kaolin]], [[sillimanite]]s, [[clay]] and [[feldspar]].<ref name="NEDFiNICminerals">{{cite web|last=NEDFi & NIC-Assam |title=North East India Databank |url=http://nerdatabank.nic.in/as_minerals.htm |deadurl=yes |archiveurl=http://web.archive.org/web/20070418204719/http://www.nerdatabank.nic.in:80/as_minerals.htm |archivedate=18 April 2007 }}</ref> A small quantity of iron ore is available in western districts.<ref name="NEDFiNICminerals" /> Discovered in 1889, all the major petroleum-gas reserves are in Upper parts. A recent [[USGS]] estimate shows {{convert|399|Moilbbl|m3}} of oil, {{convert|1178|Gcuft|m3}} of gas and {{convert|67|Moilbbl|m3}} of natural gas liquids in the Assam Geologic Province.<ref>Wandrey 2004, p. 17</ref>{{citation needed|reason=USGS is stated as source, but secondary source given here, which is "okay" but should probably be enhanced with primary one as well|date=August 2014}}
+
+The region is prone to natural disasters like annual floods and frequent mild earthquakes. Strong earthquakes were recorded in 1869, [[1897 Assam earthquake|1897]], and [[1950 Assam–Tibet earthquake|1950]].
+
+== Demographics ==
+{{Main|People of Assam}}
+
+===Population===
+[[File:Assam Demography 1.png|thumb|left|<center>District-wise Demographic Characteristics in 2001</center>]]
+{{India census population
+| title = Population Growth
+| 1951 = 8029000
+| 1961 = 10837000
+| 1971 = 14625000
+| 1981 = 18041000
+| 1991 = 22414000
+| 2001 = 26656000
+| 2011 = 31169272
+| estimate =
+| estyear =
+| estref =
+| footnote = Source:Census of India<ref name="Census Population">{{Citation|url = http://indiabudget.nic.in/es2006-07/chapt2007/tab97.pdf|title=Census Population|work=Census of India|publisher=Ministry of Finance India|accessdate=18 December 2008|format=PDF | archiveurl= https://web.archive.org/web/20081219073658/http://indiabudget.nic.in/es2006-07/chapt2007/tab97.pdf| archivedate= 19 December 2008 <!--DASHBot-->| deadurl= no}}</ref><br />The 1981 Census could not be held<br />in Assam. Total population for 1981<br />has been worked out by interpolation.
+}}
+[[File:Ambubachi Mela at Kamakhya Temple by Vikramjit Kakati.jpg|thumb|People gathered at [[Kamakhya Temple]] for the [[Ambubachi Mela]]]]
+Total population of Assam was 26.66&nbsp;million with 4.91&nbsp;million households in 2001.<ref name="GoAStats">{{cite web
+| last = Government of Assam 2002–03
+| title = Statistics of Assam
+| url = http://www.assamgov.org/generalinformation/assamstatistics.html
+| accessdate =3 June 2007 | archiveurl= https://web.archive.org/web/20070607170354/http://assamgov.org/generalinformation/assamstatistics.html| archivedate= 7 June 2007 <!--DASHBot-->| deadurl= no}}</ref> Higher population concentration was recorded in the districts of [[Kamrup district|Kamrup]], [[Nagaon district|Nagaon]], [[Sonitpur district|Sonitpur]], [[Barpeta district|Barpeta]], [[Dhubri district|Dhrubri]], [[Darrang district|Darrang]], and [[Cachar district|Cachar]]. Assam's population was estimated at 28.67&nbsp;million in 2006 and at 30.57&nbsp;million in 2011
+and is expected to reach 34.18&nbsp; million by 2021 and 35.60&nbsp;million by 2026.<ref>{{cite web
+| author=National Commission on Population, Census of India
+| title = Population Projections for India and States 2001–2026
+| year = 2006
+| url = http://www.censusindia.gov.in
+| accessdate =15 May 2007 | archiveurl= https://web.archive.org/web/20070514045222/http://www.censusindia.gov.in/| archivedate= 14 May 2007 <!--DASHBot-->| deadurl= no}}
+</ref>
+
+As per 2011 census, total population of Assam was 31,169,272. The total population of the state has increased from 26,638,407 to 31,169,272 in the last ten years with a growth rate of 16.93%.<ref name="AsCensus">
+{{cite web
+| last = Government of Assam Census 2011
+| title = onlineassam
+| url = http://online.assam.gov.in/web/population-census/
+| accessdate =6 June 2012 }}</ref>
+
+Of the 32 districts, eight districts registered rise in the decadal population growth rate. Religious minority-dominated districts like Dhubri, [[Goalpara district|Goalpara]], [[Barpeta district|Barpeta]], [[Morigaon district|Morigaon]], Nagaon, and [[Hailakandi district|Hailakandi]], recorded growth rates ranging from 20 per cent to 24 per cent during the last decade. Eastern Assam districts including [[Sivasagar district|Sivasagar]], and [[Jorhat district|Jorhat]] registered around 9 per cent population growth. These districts do not share any international border.<ref>{{cite web
+| last = cdpsindia
+| title = centre for development and peace studies
+| url = http://cdpsindia.org/point-of-view60.asp
+}}</ref>
+
+In 2011, [[literacy]] rate in the state was 73.18%. Male literacy rate was 78.81% and female literacy rate was 67.27% <ref name="AsCensus"/>
+In 2001, the census had recorded literacy in Assam at 63.3% with male literacy at 71.3% and female at 54.6%. Urbanisation rate was recorded at 12.9%.<ref>Director of Census Operations, Census of India 2001</ref>
+
+Growth of population in Assam has risen since the mid-decades of the 20th century. Population grew from 3.29&nbsp;million in 1901 to 6.70&nbsp;million in 1941. It increased to 14.63&nbsp;million in 1971 and 22.41&nbsp;million in 1991.<ref name="GoAStats" /> The growth in the western and southern districts was high primarily due to the influx of people from [[East Pakistan]], now Bangladesh.<ref name="SinhaSKillmig" />
+
+The mistrust and clashes between native Bodos and East Bengal rooted Muslims started as early as 1952.<ref>{{cite web|author= |url=http://timesofindia.indiatimes.com/city/guwahati/Muslim-Bodo-mistrust-exists-for-many-decades/articleshow/15115081.cms?referral=PM |title=Muslim-Bodo mistrust exists for many decades - The Times of India |publisher=Timesofindia.indiatimes.com |date=2012-07-24 |accessdate=2014-06-11}}</ref><ref>{{cite web|url=http://timesofindia.indiatimes.com/india/Assam-govt-mulls-arming-Muslims-in-Bodo-areas/articleshow/34650259.cms |title=Assam govt mulls arming Muslims in Bodo areas - The Times of India |publisher=Timesofindia.indiatimes.com |date=2014-05-05 |accessdate=2014-06-11}}</ref> At least 77 people died<ref name=IBNLive>{{cite web |url=http://ibnlive.in.com/generalnewsfeed/news/assam-violence-four-more-bodies-found-toll-rises-to-77/1038364.html |title=Assam violence: Four more bodies found, toll rises to 77  |date=8 August 2012 |work=IBN  |accessdate=2 November 2013}}{{dead link|date=August 2015}}</ref> and 400,000 people was displaced in the [[2012 Assam violence]] between indigenous [[Bodo people|Bodos]] and East Bengal rooted Muslims.<ref>{{cite news | url=http://www.nytimes.com/2012/07/29/world/asia/after-tensions-in-indias-east-turn-deadly-claims-officials-turned-a-blind-eye.html?_r=1 | title=As Tensions in India Turn Deadly, Some Say Officials Ignored Warning Signs |publisher=''The New York Times'' | date= 28 July 2012 | first=Gardiner | last=Harris}}</ref>
+
+The Assamese Hindus are the largest community people in Assam . The population of Assamese Hindus in Assam is 11,379,000 making up 36.50% of Assam population at 2011 census . The People of India project has studied 115 of the ethnic groups in Assam. 79 (69%) identify themselves regionally, 22 (19%) locally, and 3 trans-nationally. The earliest settlers were [[Austroasiatic]] and [[Dravidians]] speakers, followed by [[Tibeto-Burman]], [[Indo-Aryan languages|Indo-Aryan speakers]], and [[Tai–Kadai]] speakers.<ref>Taher, Mohammad (1993) ''The Peopling of Assam and contemporary social structure'' in Ahmad, Aijazuddin (ed) Social Structure and Regional Development, Rawat Publications, New Delhi</ref> Forty-five languages are spoken by different communities, including three major language families: Austroasiatic (5), [[Sino-Tibetan languages|Sino-Tibetan]] (24) and [[Indo-European languages|Indo-European]] (12). Three of the spoken languages do not fall in these families. There is a high degree of [[bilingualism]].{{citation needed|reason="high" is essentially a meaningless word. 90%? 15%?|date=November 2015}}
+
+===Religions===
+[[File:Kamakhya Guwahati.JPG|thumb|left|[[Kamakhya Temple]]]]
+''See also'': ''[[Islam in Assam]]'', ''[[Christianity in Assam]]''
+{{Pie chart
+|thumb = right
+|caption = Religion in Assam (2011)<ref name= "census2011">{{cite web|title=Population by religion community - 2011|url=http://www.censusindia.gov.in/2011census/C-01/DDW00C-01%20MDDS.XLS|website=Census of India, 2011|publisher=The Registrar General & Census Commissioner, India|archiveurl=https://web.archive.org/web/20150825155850/http://www.censusindia.gov.in/2011census/C-01/DDW00C-01%20MDDS.XLS|archivedate=25 August 2015}}</ref>
+|label1 = [[Hinduism]]|color1 = Orange
+|value1 = 61.46
+|label2 = [[Islam]]|color2 = Green
+|value2 = 34.22
+|label3 = [[Christianity]]|color3 = DodgerBlue
+|value3 = 3.73
+|label4 = [[Buddhism]]|color4 = Yellow
+|value4 = 0.17
+|label5 = [[Jainism]]|color5 = Brown
+|value5 = 0.08
+|label6 = [[Sikhism]]|color6 = DarkKhaki
+|value6 = 0.06
+|label7 = Other or not religious|color7 = Black
+|value7 = 0.3
+}}
+
+According to the [[2011 Census of India|2011 census]], 61.5% were Hindus, 34.22% were Muslims.<ref name="census2011"/><ref>{{cite web|url=http://www.hindustantimes.com/india-news/census-2011-religion-data-rekindles-demographic-invasion-fear-in-assam/article1-1384347.aspx|title=Census 2011 data rekindles ‘demographic invasion’ fear in Assam}}</ref> Christian minorities (3.7%) are found among [[List of Scheduled Tribes in India|Scheduled Tribe]] population.<ref>http://www.thehindu.com/news/national/religious-communities-census-2011-what-the-numbers-say/article7582284.ece</ref> Scheduled Tribe population in Assam is around 13% in which Bodos account for 40%.<ref>{{cite web|url=http://www.thehindu.com/opinion/lead/bodo-hopes-and-minority-rights/article5998693.ece|title=Bodos and their rights}}</ref> Other religions followed include [[Jainism]] (0.1%), [[Buddhism]] (0.2%), [[Sikhism]] (0.1%) and [[Animism]] (amongst [[Khamti people|Khamti]], [[Tai Phake people|Phake]], [[Tai Aiton people|Aiton]] etc. communities).{{citation needed|date=August 2015}}
+
+Out of 32 districts of Assam, 9 are Muslim majority according to the 2011 census of India. The districts are Dhubri, Goalpara, Barpeta, Morigaon, Nagaon, Karimganj, Hailakandi, Darrang and Bongaigaon.<ref>{{cite web|url=http://timesofindia.indiatimes.com/india/Muslim-majority-districts-in-Assam-up/articleshow/48682463.cms|title=Muslim majority districts in Assam up}}</ref><ref>{{cite web|url=http://indianexpress.com/article/india/india-others/assam-muslim-growth-is-higher-in-districts-away-from-border/|title=Assam Muslim growth is higher in districts away from border}}</ref><ref>{{cite web|url=http://www.hindustantimes.com/india/census-2011-data-rekindles-demographic-invasion-fear-in-assam/story-oZUhBaXPNupGBmGQirjV0I.html|title=Census 2011 data rekindles ‘demographic invasion’ fear in Assam}}</ref>
+
+===Languages===
+{{See also|Asamiya|Assamese literature|Bodo language}}
+[[File:Charyapada.jpg|thumb|left|7th–8th century specimen of Assamese (Kamrupi) literature]].
+{{Pie chart
+| thumb = right
+| caption = Languages of Assam in 2001<ref name="Census of India">{{cite web |url=http://censusindia.gov.in/Census_Data_2001/Census_Data_Online/Language/parta.htm |title=Distribution of the 22 Scheduled Languages |work=Census of India |publisher=Registrar General & Census Commissioner, India |year=2001 |accessdate=4 January 2014}}</ref><ref name="censusindia.gov.in">{{cite web |url=http://censusindia.gov.in/Census_Data_2001/Census_data_finder/A_Series/Total_population.htm |title=Census Reference Tables, A-Series - Total Population |work=Census of India |publisher=Registrar General & Census Commissioner, India |year=2001 |accessdate=4 January 2014}}</ref><ref>[http://www.censusindia.gov.in/Census_Data_2001/Census_Data_Online/Language/partb.htm] Census 2011 Non scheduled languages</ref>
+| label1 = Assamese
+| value1 = 48.8
+| color1 = Green
+| label2 = Bengali-Sylheti
+| value2 = 27.5
+| color2 = Purple
+| label3 = Bodo
+| value3 = 4.8
+| color3 = Yellow
+| label4 = Hindi
+| value4 = 5.88
+| color4 = Red
+| label5 = Nepali
+| value5 = 2.12
+| color5 = Blue
+| label6 = Mishing
+| value6 = 1.9
+| color6 = Brown
+| label7 = Karbi
+| value7 = 1.5
+| color7 = Violet
+| label8 = Santali 
+| value8 = 0.91
+| color8 = Orange 
+| label9 = Odia
+| value9 = 0.86
+| color9 = Black  
+| label10 = Others 
+| value10 = 6.73
+| color10 = Grey
+}}
+
+[[Assamese language|Assamese]] and [[Bodo language|Bodo]] are the major indigenous and official languages while [[Bengali language|Bengali]] holds official status in the three districts in the [[Barak Valley]] and is the second most widely spoken language of the state (27.5%).<ref name="censusindia.gov.in"/>
+
+Traditionally Assamese was the language of the commons (of mixed origin – Austroasiatic, Tibeto-Burman, [[Prakrit]]) in the ancient [[Kamarupa kingdom|Kamarupa]] and in the medieval kingdoms of Kamatapur, [[Kachari kingdom|Kachari]], [[Sutiya kingdom|Sutiya]], Borahi, [[Ahom kingdom|Ahom]] and [[Koch kingdom|Koch]]. Traces of the language is found in many poems by Luipa, Sarahapa, etc. in [[Charyapada]] (c. 7th–8th century AD). Modern dialects Kamrupi, [[Goalpariya dialect|Goalpariya]] etc. are the remnants. Moreover, Assamese in its traditional form was used by the ethno-cultural groups in the region as lingua-franca, which spread during the stronger kingdoms and was required for needed economic integration. Localised forms of the language still exist in Nagaland, Arunachal Pradesh. The form used in the upper Assam was enriched by the advent of Tai-Shans in the 13th century.
+
+Linguistically modern Assamese traces its roots to the version developed by the American Missionaries based on the local form in practice near [[Sivasagar]] (Xiwôxagôr) district. Assamese (''Ôxômiya'') is a rich language due to its hybrid nature with its unique characteristics of pronunciation and softness. Assamese literature is one of the richest.
+
+The word [[Dimasa people|Dimasa]] etymologically translates to "Son of the big river " (Di- Water, ma- suffix for great, sa-sons), the river being the mighty Brahmaputra. The Dimasa word "Di" for water forms the root word for many of the major rivers of Assam and the North East India like Dikrang which means green river, Dikhow which means "fetched water", Diyung (huge river) etc. The Brahmaputra River is known as Dilao (long river) among the Dimasas. Many of the towns and cities in Assam and Nagaland derived their names from Dimasa words.{{citation needed|date=July 2015}} For example, Dimapur (a capital of Dimasa Kingdom), Dispur, Hojai, Diphu and Khaspur.{{citation needed|date=July 2015}}
+
+Bodo is an ancient language of Assam. Spatial distribution patterns of the ethno-cultural groups, cultural traits and the phenomenon of naming all the major rivers in the [[North-East India|North East Region]] with Bodo-Kachari words (e.g. [[Dihing]], Dibru, [[Dihong]], D/[[Teesta River|Tista]], Dikrai, etc.) reveal that it was the most important language in the ancient times. Bodo is now spoken largely in the Western Assam (Bodo Territorial Council area). After years of neglect, now Bodo language is getting attention and its literature is developing. Other native languages of Tibeto-Burman origin and related to Bodo-Kachari are [[Deori language|Deori]] [http://deori-jimochhayan.blogspot.com/], [[Mising language|Mising]], [[Karbi language|Karbi]], [[Rabha language|Rabha]], and [[Tiwa (Lalung)|Tiwa]].{{citation needed|date=July 2015}}
+
+There are approximately 7 lakhs [[Nepali language|Nepali]] speakers spread all over the state forming about 2.2% of Assam's total population. Majority of the Nepali speakers are found in the district of Sonitpur where over 3 lakh people speaks in Nepali language.{{citation needed|date=July 2015}}
+
+There are speakers of [[Tai languages]] in Assam. A total of six Tai language were spoken in Assam. Two are now extinct.<ref name="Morey">Morey, Stephen. 2005. ''The Tai languages of Assam: a grammar and texts''. Canberra: Pacific Linguistics.</ref>
+* [[Tai Phake language|Tai Phake]]
+* [[Tai Aiton language|Tai Aiton]]
+* [[Khamti language|Khamti]]
+* [[Khamyang language|Khamyang]] (critically endangered)
+* [[Ahom language|Ahom]] (extinct)
+* [[Turung language|Turung]] (extinct)
+
+The Tai Ahom language (brought by [[Sukaphaa]] and his followers), is no longer a spoken language today. The language is receiving increased attention for research after centuries of usage by the Bailungs (traditional priests).{{citation needed|date=July 2015}}
+
+Bengali is the official language in Barak Valley and the widely spoken language. Some [[Bengali dialects]] like Maymensinghiya, Noakhaliya, Dhakaya are spoken in Brahmaputra Valley by some East Bengali origin people. [[Sylheti language|Sylheti]], an unclear dialect of Bengali is mostly spoken in the region of Barak Valley and Hojai district.
+
+[[Sadri]], a dialect of Hindi, [[Santali language|Santali]], [[Kurukh language|Kurukh]]  and [[Mundari language|Mundari]]  is spoken by the 6 millions tribal population ([[Tea tribes]]  ) spread in the tea garden dominated districts of Assam. They were brought as tea estate labourers by the British from the tribal heartland of central-eastern India to Assam during the 1860s. They are mostly found in the districts of Upper Assam and Bodoland Territorial Administration Districts.{{citation needed|date=July 2015}}
+
+== Government and politics ==
+[[File:Districts of Assam (2014).svg|thumb|Districts of Assam {{As of|2014|lc=y}}. The newly formed five districts are not shown in the map.]][[Assam Legislative Assembly]]
+{{Main|Government of Assam|Districts of Assam}}
+{{As of|2015|08}}, the state has [[List of districts of Assam|32 administrative districts]]. On August 15, 2015, five new districts were formed in addition to former 27 districts. The five new districts are Biswanath (carved out of [[Sonitpur district|Sonitpur]]), Charaideo (of [[Sivasagar district|Sivasagar]]), Hojai (of [[Nagaon district|Nagaon]]), South Salmara-Mankachar (of [[Dhubri district|Dhubri]]) and West Karbi Anglong (of [[Karbi Anglong district|Karbi Anglong]]).<ref name="new districts">{{cite news|title=Govt announces 5 new districts|url=http://www.assamtimes.org/node/14546|accessdate=16 August 2015|work=Assam Times|date=15 August 2015}}</ref><ref name="RDGoA">Revenue Department, Government of Assam</ref> These districts are further sub-divided into 54 "Sub-divisions" or ''[[Tehsil|Mohkuma]]''.<ref name="RDGoA" /> Every district is administered from a district headquarters with the office of the [[District Collector|Deputy Commissoner]], District Magistrate, Office of the District Panchayat and usually with a [[District Courts of India|district court]].
+
+The districts are delineated on the basis of the features such as the rivers, hills, forests, etc. and majority of the newly constituted districts are sub-divisions of the earlier districts.
+
+===Local government===
+The [[Local Governance in India|local governance]] system is organised under the ''jila-parishad'' (District Panchayat) for a district, ''[[Panchayati Raj|panchayat]]'' for group of or individual rural areas and under the urban local bodies for the towns and cities. There are now 2489 village panchayats covering 26247 villages in Assam.<ref name="DIPRGoA">{{cite web|last=Directorate of Information and Public Relations |first=Government of Assam |title=Area of the National Parks and Wildlife Sanctuaries in Assam, 2002 |url=http://janasanyogassam.nic.in/assamataglance.htm |accessdate=29 May 2006 |deadurl=yes |archiveurl=http://web.archive.org/web/20071006161204/http://janasanyogassam.nic.in/assamataglance.htm |archivedate=6 October 2007 }}</ref> The 'town-committee' or ''nagar-somiti'' for small towns, 'municipal board' or ''pouro-sobha'' for medium towns and [[municipal corporation]] or ''pouro-nigom'' for the cities consist of the urban local bodies.
+
+For the revenue purposes, the districts are divided into revenue circles and ''mouza''s; for the development projects, the districts are divided into 219 'development-blocks' and for law and order these are divided into 206 police stations or ''thana''. As on 19 May 2016, [[BJP]] under the leadership of [[Sarbananda Sonowal]] won the Assembly elections, thus forming the first BJP led [[Government of Assam|government in Assam]].<ref>http://indianexpress.com/article/india/india-news-india/bjp-win-assam-sarbananda-sonowal-elections-2016-results-2812854/</ref>
+ 
+[[Guwahati]] is the largest [[metropolitan area]] and [[urban conglomeration]] administered under the highest form of [[urban local body]] – [[Guwahati Municipal Corporation]] in Assam. The Corporation administers an area of 216.79&nbsp;km².<ref>http://www.gmcportal.in/gmc-web/</ref>
+
+All other urban centres are managed under [[Municipal board|Municipal Boards]]. A list of 8 oldest recognized / classified prominent urban centres before [[Indian Independence Day|Indian independence]] based on the earliest years of formation of the civic bodies is tabulated below:
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Oldest recognised urban centres of Assam<ref>https://books.google.co.uk/books?id=gZmusO1pWjUC&pg=PA42&lpg=PA42&dq=tezpur+municipal+board+was+formed&source=bl&ots=x1uczkIVZb&sig=9ZvSb5bpkVfy2tCF_vOEj7UK0LY&hl=en&sa=X&ved=0ahUKEwjr8OT3rPHMAhVpIsAKHccZAN8Q6AEIRzAH#v=onepage&q=tezpur%20municipal%20board%20was%20formed&f=false</ref>
+|+<small>''Tier - I [[City]] – an urban conglomeration (in true sense) administered by a [[Municipal Corporation]]. Tier - II for a medium sized city for an urban agglomeration administered by a [[Municipal board|Municipal Board]].''</small>
+! Urban centres !! Year of Recognition / Formation !! Civic Body !! Airport !! Railway Station !! Railway Junction !! Road Networks !! Category !! Remark
+|-
+! '''[[Guwahati]]'''
+| 1853 || Guwahati Town Committee || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Gold;" | Tier - III || First township of Assam.<ref>https://books.google.co.uk/books?id=mJroCwAAQBAJ&pg=PT41&lpg=PT41&dq=guwahati+first+township&source=bl&ots=BpgZUr1Fbd&sig=H-QxDBnCxC-3o1vlHcfJXxMsEb0&hl=en&sa=X&ved=0ahUKEwiW2Lj_tfHMAhVKB8AKHQQMDBQQ6AEIIjAB#v=onepage&q=guwahati%20first%20township&f=false</ref>
+|-
+! '''[[Guwahati]]'''
+| 1873<sup>↑</sup> || Guwahati Municipal Board || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}} || style="background: Orange;" | Tier - II || 
+|-
+! '''[[Guwahati]]'''
+| 1974<sup>↑</sup> || Guwahati Municipal Corporation || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}} || style="background: Aqua;" | Tier - I || <ref>http://www.gmcportal.in/gmc-web/?page_id=12</ref>
+|-
+! '''[[Dibrugarh]]'''
+| 1873 || Dibrugarh Municipal Board || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Orange;" | Tier - II || Second township of Assam.<ref>http://dibrugarhmunicipality.org.in/</ref>
+|-
+! '''[[Goalpara]]'''
+| 1875 || Goalpara Municipal Board || {{No}} <small><small><br>''Shared with Guwahati''<br/></small></small> || {{Yes}} || {{No}}<small> <small><br>''Shared with Guwahati''<br/></small></small>  || {{Yes}} || style="background: Orange;" |Tier - II || <ref>http://goalparamb.org.in/Aboutus.html</ref>
+|-
+! '''[[Nagaon]]'''
+| 1893 || Nagaon Municipal Board || {{No}} <small><small><br>''Shared with Tezpur''<br/></small></small> || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Orange;" |Tier - II || <ref>http://nagaon.gov.in/hist.html</ref>
+|-
+! '''[[Tezpur]]'''
+| 1894 || Tezpur Municipal Board || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Orange;" | Tier - II || <ref>http://www.tezpurmb.co.in/AboutMunicipalBoard.aspx</ref>
+|-
+! '''[[Jorhat]]'''
+| 1909 || Jorhat Municipal Board || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Orange;" | Tier - II || <ref>http://www.jorhatmunicipalboard.org/jorhat_municipal_board.php</ref>
+|-
+! '''[[Golaghat]]'''
+| 1920 || Golaghat Municipal Board || {{No}}<small> <small><br>''Shared with Jorhat''<br/></small></small> || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Orange;" | Tier - II || <ref>http://www.telegraphindia.com/1150119/jsp/northeast/story_9079.jsp#.V0OXAZMrIcg</ref>
+|-
+! '''[[Silchar]]'''
+| 1922 || Silchar Municipal Board || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || style="background: Orange;" | Tier - II || <ref>http://silchartoday.com/silchar/silchar-municipal-board-silchar-municipality-assam/</ref>
+|-
+|}
+
+== Education ==
+{{Main|Education in Assam}}
+{{See also| List of colleges affiliated to Gauhati University}}
+{{See also|List of colleges affiliated to Assam University}}
+{{See also|List of educational institutions in Assam}}
+[[Image:Lakhiganj HSS.jpg|thumb|School girls in the classroom, Lakhiganj High School, Assam]]
+[[File:Assam Cotton College.jpg|thumbnail|Cotton College of [[Gauhati University]]]]
+[[File:IITG acad complex.jpg|thumbnail|Academic complex of IIT Guwahati]]
+[[File:NEF Law College.jpg|thumb|[[NEF Law College]] of [[Gauhati University]]]]
+[[File:jec frontview.jpg|thumbnail|[[Jorhat Engineering College]] of [[Dibrugarh University]]]]
+
+Assam schools are run by the Indian government or by private organisations. Medium of instruction is mainly in Assamese, English or Bengali.  Most of the schools follow the state’s examination board which is called the [[Secondary Education Board of Assam]].  Almost all private schools follow the [[Central Board for Secondary Education|Central Board for Secondary Education (CBSE)]], [[Indian Certificate of Secondary Education|Indian Certificate of Secondary Education (ICSE)]] and [[Indian School Certificate|Indian School Certificate (ISC)]]  syllabuses.{{citation needed|date=July 2015}}
+
+Assamese language is the main medium in educational institutions but [[Nepali language]] is also taught as a major [[Languages of India|Indian language]]. In Guwahati and Digboi, many Jr. basic School and Jr. high School are Nepali linguistic and all the teachers are [[Indian Gorkha]]. [[Nepali language|Nepali]] is included by Assam State Secondary Board, [[Assam Higher Secondary Education Council]] and [[Gauhati University]] in their HSLC, higher secondary and graduation level respectively, in some junior basic and higher secondary schools and colleges, Nepali language speaking [[Indian Gorkha]] teachers and lecturers are appointed.{{citation needed|date=July 2015}}
+
+The capital, Guwahati, contains institutions of higher education for students of the north-eastern region. [[Cotton College]], Guwahati, dates back to the 19th century. Assam has several institutions for tertiary education and research.{{citation needed|date=July 2015}}
+
+Universities, Colleges and Institutions include:
+
+===Universities===
+
+* [[Assam Agricultural University]], [[Jorhat]] 
+* [[Assam Don Bosco University|Don Bosco University]],<ref>{{cite web|url=http://www.dbuniversity.ac.in/index.php |title=Don Bosco University - Azara - Guwahati - Welcome to Don Bosco University |publisher=Dbuniversity.ac.in |date= |accessdate=2012-09-22}}</ref> (private)
+* [[Assam down town University]],<ref>{{cite web|url=http://www.adtu.in/ |publisher=adtu.in|title=Assam Down Town University|accessdate=2012-09-22}}</ref> (private)
+*[[Assam University]], [[Silchar]]
+* [[Assam Women's University]],<ref>{{cite web | url=http://awu.ac.in | title=Assam Women's University | publisher=Assam Women's University | accessdate=7 August 2015}}</ref> Jorhat
+* [[Bodoland University]],<ref>{{cite web|url=http://www.bodolanduniversity.org.in/ |publisher=bodolanduniversity.org.in|title=Bodoland University website|accessdate=2012-09-22}}</ref> Kokrajhar
+* [[Dibrugarh University]],<ref>{{cite web | url=http://www.dibru.ac.in | title=Dibrugarh University | publisher=Dibrugarh University | accessdate=7 August 2015}}</ref> Dibrugarh
+* [[Gauhati University]],<ref>{{cite web | url=http://www.gauhati.ac.in | title=Gauhati University | publisher=Gauhati University | accessdate=7 August 2015}}</ref> [[Guwahati]]
+*[[Indian Institute of Technology]], [[Guwahati]] (Deemed, Institute of National Importance)
+* [[Indian Statistical Institute]], [[Tezpur]]
+* [[Kaziranga University]],<ref>{{cite web|url=http://www.kazirangauniversity.in/ |publisher=kazirangauniversity.in|title=Kaziranga University|accessdate=2012-09-22}}</ref> Jorhat (private)
+*[[National Institute of Technology]], [[Silchar]] (Deemed, Institute of National Importance)
+* [[National Law University and Judicial Academy, Assam]]{{citation needed|date=July 2015}}
+* [[Tezpur University]],<ref>{{cite web | url=http://www.tezu.ernet.in | title=Tezpur University | publisher=Tezpur University | accessdate=7 August 2015}}</ref>[[Tezpur]]
+
+=== Medical Colleges ===
+* [[Assam Medical College]] in [[Dibrugarh]]
+* [[Fakhruddin Ali Ahmed Medical College]], Barpeta
+* [[Gauhati Medical College and Hospital]] in Guwahati
+* [[Jorhat Medical College and Hospital]], [[Jorhat]]
+* Lokopriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur (Central Government Institute).<ref>[http://www.lgbrimh.org/ www.lgbrimh.org<!-- Bot generated title -->]</ref>
+* [[Regional Dental College, Guwahati]]
+* [[Silchar Medical College and Hospital]], [[Silchar]]
+* [[Tezpur Medical College]] & Hospital, [[Tezpur]]
+
+===Engineering & Technological Colleges===
+* [[Assam Engineering College]] in [[Guwahati]],{{citation needed|date=August 2015}}
+* [[Assam Science and Technology University]]
+*[[Jorhat Institute of Science & Technology]], [[Jorhat]]
+* [[Bineswar Brahma Engineering College]],[[Kokrajhar]]
+* [[Central Institute of Plastics Engineering and Technology (India)]],Changsari, near [[Guwahati]]
+* [[Central Institute of Technology, Kokrajhar]],{{citation needed|date=August 2015}}
+* [[Indian Institute of Information Technology, Guwahati]]
+* [[Indian Institute of Technology Guwahati|Indian Institute of Technology]] in [[Guwahati]],{{citation needed|date=August 2015}}
+* [[Institute of Engineering and Technology]], [[Dibrugarh University]]
+* [[Institute of Science and Technology, West Bengal|Institute of Science and Technology]], [[Guwahati University]]
+* [[Jorhat Engineering College]] in [[Jorhat]].{{citation needed|date=July 2015}}
+* [[National Institute of Technology, Silchar]],<ref>http://www.nits.ac.in/</ref>
+* [[NETES Institute of Technology & Science Mirza]],{{citation needed|date=August 2015}}
+
+===Agriculture Colleges===
+* College of Agriculture, Jorhat
+* College of Veterinary Science, Khanapara
+* College of Fishery Science, Raha
+* College of Home Science, Jorhat
+* College of Horticulture, Nalbari
+* College of Sericulture, Titabar
+
+===Law Colleges ===
+* Kokrajhar Law College (Kokrajhar, BTAD),{{citation needed|date=April 2016}}
+* A.K. Chanda Law College (Tarapur,Silchar),{{citation needed|date=August 2015}}
+*Bongaigaon Law College (Bongaigaon)
+* Barpeta Law College (Barpeta District),{{citation needed|date=August 2015}}
+* BRM Government Law College,{{citation needed|date=August 2015}}
+* Dhubri Law College (Dhubri),{{citation needed|date=August 2015}}
+* Diphu Law College (Karbi Anglong),{{citation needed|date=August 2015}}
+* Dispur Law College (Guwahati, Kamrup),{{citation needed|date=August 2015}}
+* Goalpara Law College (Goalpara),{{citation needed|date=August 2015}}
+* J.B. Law College,{{citation needed|date=August 2015}}Guwahati (Kamrup),
+* Jorhat Law College (Dohabora, Jorhat),{{citation needed|date=August 2015}}
+* Nagaon Law College, Guwahati (Kamrup),{{citation needed|date=August 2015}}
+* Nalbari Law College (Nalbari).{{citation needed|date=August 2015}}
+* [[NEF Law College]],{{citation needed|date=August 2015}} Guwahati (Kamrup),{{citation needed|date=August 2015}}
+* Tezpur Law College (Sonitpur),{{citation needed|date=August 2015}}
+* Tinsukia Law College (Tinsukia District),{{citation needed|date=August 2015}}
+
+Research institutes present in the state include National Research Centre on Pig, (ICAR) in Guwahati,<ref>{{cite web|url=http://www.nrcp.in/|title=National Research Centre on Pig, (ICAR) in Guwahati|publisher=|accessdate=16 October 2014}}</ref>
+
+== Economy ==
+{{Main|Economy of Assam}}
+[[File:Assam historical pci.png|thumb|150px|Assam historical]]
+Assam's economy is based on agriculture and oil. Assam produces more than half of India's tea.<ref>{{cite web | author= Indian Tea Association
+| title = Tea Scenario
+| url = http://www.indiatea.org/tea_sencor.php
+| accessdate = 19 April 2015}}</ref> The Assam-Arakan basin holds about a quarter of the country's oil reserves, and produces about 12% of its total petroleum.<ref>{{cite web | author= U.S. Energy Information Administration
+| title = India - Analysis
+| url = http://www.eia.gov/countries/cab.cfm?fips=in
+| accessdate = 19 April 2015}}</ref> According to the recent estimates,<ref name="government2005">{{cite web
+| author=Government of Assam
+| title = Economic Survey of Assam 2005–2006 in NEDFi, Assam Profile, NER Databank
+| date =
+| url = http://databank.nedfi.com/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=4
+| accessdate =6 June 2007 |archiveurl=https://web.archive.org/web/20081231164030/http://databank.nedfi.com/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=4|archivedate=31 December 2008}}</ref> Assam's per capita GDP is [[Indian rupee|₹]]6,157 at constant prices (1993–94) and [[Indian rupee|₹]]10,198 at current prices; almost 40% lower than that in India.<ref>{{cite book|author=Government of Assam |title=Economic Survey of Assam 2001–2002 in Assam Human Development Report, 2003 |page=25 |url=http://planassam.org/reports/hdr_2003/HRD.htm |chapter=2, Income, Employment and Poverty |format=PDF |accessdate=6 June 2007 |deadurl=yes |archiveurl=http://web.archive.org/web/20070220213032/http://planassam.org:80/reports/hdr_2003/HRD.htm |archivedate=20 February 2007 }}</ref> According to the recent estimates,<ref name="government2005"/> per capita income in Assam has reached [[Indian rupee|₹]]6756 (1993–94 constant prices) in 2004–05, which is still much lower than India's.
+
+[[File:Rice Field..JPG|thumb|150px|A paddy field of Assam]]
+[[File:TeaGardenOfAssam.jpg|thumb|150px|<center>A tea garden in Assam: tea is grown at elevations near sea level, giving it a malty sweetness and an earthy flavor, as opposed to the more floral aroma of highland (e.g. [[Darjeeling tea|Darjeeling]], [[Taiwanese tea|Taiwanese]]) teas</center>]]
+
+=== Tea plantations ===
+{{Main|Assam tea}}
+
+{{multiple image
+   | align = right
+
+   | image1 =
+   | width1 = 185
+   | caption1 = Woman tea worker plucking tea leaves in a tea garden, Assam produces a significant portion of the world's tea
+   | alt1 = Assam Tea
+
+   | image2 = Assam.jpg
+   | width2 = 185
+   | caption2 =  This 1850 engraving shows the different stages in the process of making tea in Assam
+   | alt2 = Process of making tea in Assam
+
+}}
+
+=== Macro-economy ===
+The economy of Assam today represents a unique juxtaposition of backwardness amidst plenty.<ref>National Commission for Women 2004</ref> Despite its rich natural resources, and supplying of up to 25% of India's petroleum needs, Assam’s growth rate has not kept pace with that of India; the difference has increased rapidly since the 1970s.<ref name="AHDR2003">UNDP 2004, pp. 22–23</ref> The Indian economy grew at 6% per annum over the period of 1981 to 2000; the growth rate of Assam was only 3.3%.<ref>UNDP 2004, p. 22</ref> In the Sixth Plan period, Assam experienced a negative growth rate of 3.78% when India's was positive at 6%.<ref name="AHDR2003" /> In the post-liberalised era (after 1991), the difference widened further.
+
+According to recent analysis, Assam’s economy is showing signs of improvement. In 2001–02, the economy grew (at 1993–94 constant prices) at 4.5%, falling to 3.4% in the next financial year.<ref name="GoAESA0405">{{cite web
+| author=Government of Assam
+| title = Economic Survey of Assam 2004–2005 in NEDFi, Assam Profile, NER Databank
+| year = 2006
+| url = http://databank.nedfi.com/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=4
+| accessdate =6 June 2007 }}</ref> During 2003–04 and 2004–05, the economy grew (at 1993–94 constant prices) at 5.5% and 5.3% respectively.<ref name="GoAESA0405" /> The advanced estimates placed the growth rate for 2005–06 at above 6%.<ref name="government2005" /> Assam's GDP in 2004 is estimated at $13&nbsp;billion in current prices. Sectoral analysis again exhibits a dismal picture. The average annual growth rate of agriculture, which was 2.6% per annum over the 1980s, has fallen to 1.6% in the 1990s.<ref name="AHDR2003II">UNDP 2004, pp. 24–25</ref> The manufacturing sector showed some improvement in the 1990s with a growth rate of 3.4% per annum than 2.4% in the 1980s.<ref name="AHDR2003II" /> For the past five decades, the tertiary sector has registered the highest growth rates of the other sectors, which even has slowed down in the 1990s than in the 1980s.<ref name="AHDR2003II" />
+
+===Employment===
+Unemployment is one of the major problems of Assam which can be attributed to overpopulation, and a faulty education system. Every year, large numbers of students obtain higher academic degrees but because of non-availability of proportional vacancies, most of these students remain unemployed.<ref>{{cite web|url=http://m.economictimes.com/news/economy/indicators/Poor-infrastructure-stringent-policies-bottleneck-for-Assams-growth-Assocham/articleshow/48003338.cms |title=Poor infrastructure, stringent policies bottleneck for Assam’s growth |publisher=The Economic Times |date=July 9, 2015 |accessdate=August 25, 2015}}</ref><ref>{{cite web|url=http://zeenews.india.com/news/assam/panel-for-study-of-unemployment-problem-in-assam_807697.html |title=Panel for study of unemployment problem in Assam |publisher=Zee News |date=October 26, 2012 |accessdate=August 25, 2015}}</ref> A number of employers hire over-qualified or efficient, but under-certified, candidates, or candidates with narrowly-defined qualifications. The problem is exacerbated by the growth in the number of technical institutes in Assam which increases the unemployed community of the State. Many job-seekers are ineligible for jobs in sectors like Railways, and [[Oil India]] by the appointment of candidates from outside Assam to those posts.<ref>{{cite web|url=http://www.assamtribune.com/scripts/mdetails.asp?id=oct1713/at098 |title=The Assam Tribune |publisher=The Assam Tribune |date=October 17, 2013 |accessdate=August 25, 2015}}</ref><ref>{{cite web|url=http://www.assamtribune.com/scripts/mdetails.asp?id=jan2114/city07 |title=The Assam Tribune |publisher=The Assam Tribune |date=January 21, 2014 |accessdate=August 25, 2015}}</ref>
+
+Reduction of the unemployed has been threatened by [[illegal immigration]] from Bangladesh. This has increased the workforce without a commensurate increase in jobs. Immigrants compete with local workers for jobs at lower wages, particularly in construction, domestics, Rickshaw-pullers, and vegetable sellers.<ref>{{cite web|url=http://articles.economictimes.indiatimes.com/2015-08-05/news/65244059_1_foreigners-tribunals-illegal-migrants-assam|title=Centre taking steps to check illegal immigration into Assam |publisher=The Economic Times |date=August 5, 2015 |accessdate=August 25, 2015}}</ref><ref>{{cite web|url=http://m.hindustantimes.com/india-news/soon-blueprint-to-detect-deport-illegal-bangladeshis-in-assam/article1-1294954.aspx |title=Soon blueprint to deport illegal Bangladeshis in Assam |publisher=Hindustan Times |date=December 10, 2014 |accessdate=August 25, 2015}}</ref> The government has been identifying (via [[National Register of Citizens of India|NRC]]) and deporting illegals. Continued immigration is exceeding deportation.<ref>{{cite web|url=http://m.indiatoday.in/story/illegal-immigration-from-bangladesh-a-national-problem-kiran-ririju/1/365190.html |title=Illegal immigration from Bangladesh a national problem |publisher=India Today |date=June 4, 2014 |accessdate=August 25, 2015}}</ref><ref>{{cite web|url=http://m.firstpost.com/politics/leave-in-15-days-bjp-mps-tell-illegal-immigrants-in-assam-1553405.html |title=Leave in 15 days, BJP MPs tell illegal immigrants in Assam |publisher=Firstpost |date=June 2, 2014 |accessdate=August 25, 2015}}</ref>
+
+=== Agriculture ===
+In Assam among all the productive sectors, agriculture makes the highest contribution to its domestic sectors, accounting for more than a third of Assam’s income and employs 69% of workforce.<ref>{{cite web|author=Government of Assam |title=Economic Survey of Assam 2001–2002 in Assam Human Development Report, 2003 |page=32 |url=http://planassam.org/reports/hdr_2003/HRD.htm |format=PDF |accessdate=6 June 2007 |deadurl=yes |archiveurl=http://web.archive.org/web/20070220213032/http://planassam.org:80/reports/hdr_2003/HRD.htm |archivedate=20 February 2007 }}</ref> Assam's biggest contribution to the world is [[Assam tea]]. It has its own variety ''Camellia assamica''. The state produces rice, [[rapeseed]], [[mustard seed]], [[jute]], potato, sweet potato, banana, [[papaya]], [[areca nut]], sugarcane and [[turmeric]].{{citation needed|date=July 2015}}
+
+Assam’s agriculture is yet to experience modernisation in a real sense. With implications for food security, per capita food grain production has declined in the past five decades.<ref name="AHDR2003III">UNDP 2004, p. 33</ref> Productivity has increased marginally, but is still low compared to highly productive regions. For instance, the yield of rice (staple food of Assam) was just 1531&nbsp;kg per hectare against India’s 1927&nbsp;kg per hectare in 2000–01<ref name="AHDR2003III" /> (which itself is much lower than [[Egypt]]’s 9283, US’s 7279, South Korea’s 6838, Japan’s 6635 and China’s 6131&nbsp;kg per hectare in 2001<ref>{{cite web
+| last = FAO Statistics Division, 2007
+| first = Food and Agriculture Organization of the United Nations
+| title = Faostat
+| url = http://faostat.fao.org/site/340/DesktopDefault.aspx?PageID=340
+| accessdate =5 June 2006
+| format = – <sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=author%3AFAO+Statistics+Division%2C+2007+intitle%3AFaostat&as_publication=&as_ylo=&as_yhi=&btnG=Search Scholar search]</sup>| archiveurl = https://web.archive.org/web/20070211180852/http://faostat.fao.org/site/340/DesktopDefault.aspx?PageID=340| archivedate=11 February 2007}}{{Dead link|date=November 2008}}</ref>). On the other hand, after having strong domestic demand, and with 1.5&nbsp;million hectares of inland water bodies, numerous rivers and 165 varieties of fishes,<ref>{{cite web
+| last = Assam Small Farmers’ Agri-business Consortium
+| title = Fish Species of Assam
+| url = http://www.assamagribusiness.nic.in/2ndoct/fishspeciesofAssam.pdf
+| accessdate =5 June 2006 | archiveurl= https://web.archive.org/web/20060514212850/http://assamagribusiness.nic.in/2ndoct/fishspeciesofAssam.pdf| archivedate= 14 May 2006 <!--DASHBot-->| deadurl= no}}</ref> fishing is still in its traditional form and production is not self-sufficient.<ref name="AHDR2003IV">UNDP 2004, p. 37</ref>
+
+The Assam Agricultural University is located at Jorhat, Assam.{{citation needed|date=November 2015}}
+
+Flood in Assam greatly affects the farmers and the families dependent on agriculture because of large-scale damage of agricultural fields and crops by flood water.<ref name="Assam Flood Toll Rises to 13"/><ref name="Flood situation in Assam worsens"/>
+
+=== Industry ===
+Handlooming and handicraft continue.{{citation needed|date=July 2015}}
+
+Assam's proximity to some neighboring countries such as Bangladesh, Nepal and Bhutan, benefits its trade. The major [[Border checkpoint]]s through which border trade flows to Bangladesh from Assam are :- Sutarkandi (Karimganj), Dhubri, Mankachar (Dhubri) and Golokanj.  To facilitate border trade with Bangladesh, Border Trade Centres have been developed at Sutarkandi and [[Mankachar]]. It has been proposed in the 11th five-year plan{{clarify|WHOSE five-year plan?|date=January 2015}} to set up two more Border Trade Center, one at [[Ledo, Assam|Ledo]] connecting China and other at [[Darrang]] connecting Bhutan. There are several Land Custom Stations (LCS) in the state bordering Bangladesh and Bhutan to facilitate border trade.<ref>{{cite web|title=Indian state: Assam|url=http://indiainbusiness.nic.in/know-india/states/assam.htm |publisher=Ministry of External Affairs, Government of India|accessdate=1 August 2013}}</ref>
+
+The government of India has identified some thrust areas for industrial development of Assam:
+{{columns-list|2|
+* Petroleum and natural gas based industries
+* Industries based on locally available minerals
+* Processing of plantation crops
+* Food processing industries
+* Agri-Horticulture products
+* Agri-Horticulture products
+* Herbal products
+* Biotech products
+* Pharmaceuticals
+* Chemical and plastic based industries
+* Export oriented industries
+* Electronic and IT base industries including services sector
+* Paper making industries
+* Textiles and sericulture
+* Engineering industries
+* Cane and bamboo based industries
+* Other handicrafts industry<ref>{{cite web|title=Indian state: Assam, Thrust Areas|url=http://indiainbusiness.nic.in/know-india/states/assam2.htm#t1 |publisher=Ministry of External Affairs, Govt. of India}}</ref>
+}}
+
+Although, the region in the eastern periphery of India is landlocked and is linked to the mainland by the narrow [[Siliguri Corridor]] (or the Chicken's Neck) improved transport infrastructure in all the three modes — rail, road and air — and developing urban infrastructure in the cities and towns of Assam are giving a boost to the entire industrial scene. The [[Lokpriya Gopinath Bordoloi International Airport]] at Guwahati, although is yet to be fully functional with international flights, was the 12th busiest airport of India in 2012.<ref>[[List of busiest airports in India by passenger traffic]]</ref> The cities of Guwahati<ref>{{cite web|title=GMC |url=http://gmcportal.in:8080/GMCPortal/ |publisher=Guwahati Municipal Corporation |deadurl=yes |archiveurl=https://web.archive.org/20131104033938/http://gmcportal.in:8080/GMCPortal/ |archivedate=4 November 2013 }}</ref><ref>{{cite web |title=Guwahati|url=http://www.indiaunveiled.in/location/Guwahati|publisher=IndiaUnveiled}}</ref> in the West and [[Dibrugarh]]<ref>{{cite web|title=Dibrugarh Municipality |url=http://dibrugarhmunicipality.org/about%20us.html |publisher=Dibrugarh Municipal Board |deadurl=yes |archiveurl=https://web.archive.org/20140901185847/http://dibrugarhmunicipality.org/About%20Us.html |archivedate=1 September 2014 }}</ref><ref>{{cite web |title=Dibrugarh|url=http://www.indiaunveiled.in/location/dibrugarh|publisher=IndiaUnveiled}}</ref> in the East with good rail,<ref>{{cite web|title=New Delhi Dibrugarh Trains|url=http://indiarailinfo.com/search/dibrugarh-town-dbrt-to-new-delhi-ndls/680/664|publisher=Indiarailinfo}}</ref><ref>{{cite web|title=Trains from Dibrugarh|url=http://indiarailinfo.com/departures/dibrugarh-dbrg/7288|publisher=Indiarailinfo}}</ref> road and air connectivity are the two important nerve centres of Assam, to be selected by Asian Development Bank for providing $200 million for improvement of urban infrastructure.<ref name="Asian Development Bank">{{cite web|title=ADB $200 Million Loan to Upgrade Services in Key Cities of India's Assam State|url=http://www.adb.org/news/adb-200-million-loan-upgrade-services-key-cities-indias-assam-state|publisher=Asian Development Bank}}</ref><ref>{{cite news|title=$81-million ADB loan for State urban infrastructure|url=http://www.assamtribune.com/scripts/detailsnew.asp?id=mar1012/at092|accessdate=1 August 2013|newspaper=The Assam Tribune}}</ref>
+
+Assam is a producer of [[crude oil]] and it accounts for about 15% of India's crude output,<ref>{{cite web|author=Government of Assam |url=http://assamgovt.nic.in/business/resources.asp |title=Available Resources in Assam |publisher=Government of Assam |date=18 February 2007 |accessdate=18 July 2010 |deadurl=yes |archiveurl=https://web.archive.org/20110716031122/http://assamgovt.nic.in/business/resources.asp |archivedate=16 July 2011 }}</ref> exploited by the Assam Oil Company Ltd.,<ref>{{cite web|url=http://www.assamco.com/ |publisher=assamco.com|title=Assamco|accessdate=2012-09-22}}</ref> and natural gas in India and is the second place in the world (after [[Titusville, Pennsylvania|Titusville]] in the United States) where petroleum was discovered. Asia’s first successful mechanically drilled oil well was drilled in [[Makum]] way back in 1867. Most of the oilfields are located in the Eastern Assam region. Assam has four oil refineries in [[Digboi]] (Asia's first and world's second refinery), Guwahati, [[Bongaigaon]] and [[Numaligarh]] and with a total capacity of 7&nbsp;million metric tonnes (7.7&nbsp;million [[short ton]]s) per annum. Asia's first refinery was set up at Digboi and discoverer of Digboi oilfield was the Assam Railways & Trading Company Limited (AR&T Co. Ltd.), a registered company of London in 1881.<ref>{{cite web|url=http://investinassam.com/overview.html |title=Government of Assam &#124; Department of Industries and Commerce |publisher=Investinassam.com |date= |accessdate=2012-09-22 |deadurl=yes |archiveurl=https://web.archive.org/20120316145633/http://investinassam.com/overview.html |archivedate=16 March 2012 }}</ref> One of the biggest public sector oil company of the country [[Oil India Ltd.]] has its plant and headquarters at [[Duliajan]].
+
+There are several other industries, including a chemical [[fertiliser]] plant at [[Namrup]], [[petrochemical]] industries at Namrup and Bongaigaon, Paper mills at [[Jagiroad]], [[Hindustan Paper Corporation Ltd. Township Area Panchgram]] and [[Jogighopa]], sugar mills at Barua Bamun Gaon, Chargola, Kampur, Cement plant at Bokajan and [[Badarpur, Assam|Badarpur]], cosmetics plant of [[Hindustan Unilever]] (HUL) at [[Doom Dooma]], etc. Moreover, there are other industries such as jute mill, textile and yarn mills, [[Assam silk]], and silk mills. Many of these industries are facing loss and closure due to lack of infrastructure and improper management practices.<ref>{{cite web|url = http://www.iloveindia.com/states/assam/economy.html | title = Assam Economy – Economy of Assam, Business & Economy of Assam India | publisher = iloveindia.com |date= |accessdate=18 July 2010 | archiveurl= https://web.archive.org/web/20100710050533/http://www.iloveindia.com/states/assam/economy.html| archivedate= 10 July 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+===Tourism===
+{{main|Tourism in North East India}}
+{{See also|Tourism in Assam}}
+
+Wildlife, cultural, and historical destinations have attracted visitors.
+
+<gallery widths=180px heights=200px>
+File:Ranghar Pavallions, Joysagar, Sivasagar.JPG|[[Rang Ghar]]
+File:Kaziranga Rhino.jpg|An [[Indian rhinoceros]] in [[Kaziranga National Park]]
+File:Ahom warriors.JPG|Statue of Ahom warriors near Sivasagar town, Assam
+File:Shiva Dol.jpg|Shiva Dol
+File:Vishnudol joysagar.jpg|Vishnudol joysagar
+File:Kamakhya Temple, Nilachal Hills, Guwahati.JPG|Kamakhya Temple, Nilachal Hills, Guwahati
+File:Kareng Ghar 2.JPG|thumb|Karengghar of the Ahom Kings, Joysagar
+File:Akashiganga Water Falls.jpg|thumb|Akashiganga Water Falls
+</gallery>
+
+== Culture ==
+{{Main|Culture of Assam }}
+{{See also|Assamese cinema}}
+
+[[Assamese Culture|Assamese culture]] is traditionally a [[Hybridity|hybrid]] one developed due to assimilation of ethno-cultural groups in the past. Therefore, both local elements or the local elements in Sanskritised forms are distinctly found.<ref name="BKakatiAIFD">{{Citation
+| first = Banikanta | last = Kakati
+| title = Assamese, Its Formation and Development, 2nd edition
+| place = Guwahati, India
+| publisher = Lawyer's Book Stall
+| year = 1962 }}</ref> The major milestones in evolution of Assamese culture are:
+* Assimilation in the Kamarupa Kingdom for almost 700 years (under the [[Varman dynasty|Varmans]] for 300 years, Salastambhas and [[Pala dynasty (Kamarupa)|Palas]] for each 200 years).<ref name="HKBarpujariCHOA" />
+* Establishment of the [[Sutiya Kingdom|Sutiya dynasty]] in the 12th century in eastern Assam and assimilation for next 400 years.<ref name="HKBarpujariCHOA" />
+* Establishment of the Ahom dynasty in the 13th century AD and assimilation for next 600 years.<ref name="HKBarpujariCHOA" />
+* Assimilation in the [[Koch Kingdom]] (15th–16th century AD) of western Assam and Kachari Kingdom (12th–18th century AD) of central and southern Assam.<ref name="HKBarpujariCHOA" />
+[[File:Dakhinpat Temple.jpg|22em|thumb|<center>Dakhinpat Satra of [[Majuli]]</center>]]
+[[File:Celebrations 1.jpg|22em|thumb|<center>Presenting ''Gayan Bayan'' in Majuli, the Neo-Vaishnavite Cultural heritage of Assam</center>]]
+* [[Vaishnavism|Vaishnava]] Movement led by '''[[Srimanta Shankardeva]]''' (''Sonkordeu'') and its contribution and cultural changes. Vaishanava Movement, the 15th century religio-cultural movement under the leadership of great [[Srimanta Sankardeva]] (Sonkordeu) and his disciples have provided another dimension to Assamese culture. A renewed Hinduisation in local forms took place, which was initially greatly supported by the Koch and later by the Ahom Kingdoms. The resultant social institutions such as ''[[namghar]]'' and ''[[sattra]]'' (the Vaishnav Monasteries) have become part of Assamese way life. The movement contributed greatly towards language, literature and performing and fine arts.{{citation needed|date=July 2015}}
+
+The modern culture was influenced by events in the British and the Post-British Era. The language was standardised by the American [[Baptist]] [[Missionary|Missionaries]] such as [[Nathan Brown (missionary)|Nathan Brown]], [[Miles Bronson and the Noctes|Dr. Miles Bronson]] and local pundits such as [[Hemchandra Barua]] with the form available in the [[Sibsagar]] (''Sivasagar'') District (the ex-nerve centre of the Ahom Kingdom).{{citation needed|date=July 2015}}
+
+Increasing efforts of standardisation in the 20th century alienated the localised forms present in different areas and with the less-assimilated [[Ethnic groups|ethno-cultural groups]] (many source-cultures). However, Assamese culture in its hybrid form and nature is one of the richest, still developing and in true sense is a [[Cultural system|'cultural system']] with sub-systems. It is interesting that many source-cultures of Assamese cultural-system are still surviving either as sub-systems or as sister entities, e.g. the tribal minorities such as; [[Bodo people|Bodo]] or [[Karbi people|Karbi]] or [[Mising people|Mishing]]. It is important to keep the broader system closer to its roots and at the same time to focus on development of the sub-systems.
+
+Some of the common and unique cultural traits in the region are peoples' respect towards [[Betel nut|areca-nut]] and [[betel]] leaves, symbolic  ([[gamosa]], arnai, etc.), [[Assam silk|traditional silk]] garments (e.g. [[mekhela chador]], traditional dress of Assamese women) and towards forefathers and elderly. Moreover, great hospitality and bamboo culture are common.
+
+=== Symbolism ===
+{{See also|List of Assam state symbols|Jaapi}}
+
+[[File:Jaapi with Gamosa.jpg|thumb|<center>A decorative Assamese ''[[Jaapi]]'' laid over a Gamosa</center>]]
+
+Symbolism is an ancient cultural practice in Assam and is still a very important part of Assamese way of life. Various elements are being used to represent beliefs, feelings, pride, identity, etc. ''Tamulpan'', ''[[Xorai]]'' and ''Gamosa'' are three important symbolic elements in Assamese culture. ''Tamulpan'' (the areca nut and betel leaves) or ''guapan'' (gua from ''kwa'') are considered along with the Gamosa (a typical woven cotton or silk cloth with embroidery) as the offers of devotion, respect and friendship. The Tamulpan-tradition is an ancient one and is being followed since time-immemorial with roots in the aboriginal Austro-Asiatic culture. ''[[Xorai]]'' is a traditionally manufactured bell-metal article of great respect and is used as a container-medium while performing respectful offers. Moreover, symbolically many ethno-cultural groups use specific clothes to portray respect and pride.
+
+There were many other symbolic elements and designs, but are now only found in literature, art, sculpture, architecture, etc. or in use today for only religious purposes. The typical designs of ''assamese-lion'', ''dragon'', ''flying-lion'', etc. were used for symbolising various purposes and occasions. The archaeological sites such as the Madan Kamdev (c. 9th–10th centuries AD) exhibits mass-scale use of lions, dragon-lions and many other figures of demons to show case power and prosperity. The Vaishnava monasteries and many other architectural sites of late medieval period display the use of lions and dragons for symbolic effects.
+
+=== Festivals and traditions ===
+{{See also|Domahi|Bohag Bihu|Magh Bihu|Bwisagu}}
+[[File:bihu dancer with a horn.jpg|thumb|150px|<center>A [[Bihu]] dancer blowing a ''[[pepa (musical instrument)|pepa]]'' (horn)</center>]]
+
+[[File:Ali-ai-ligang.jpg|thumb|150px|''Tribal'' - Mising girls dancing during Ali Ai Ligang (Spring Festival)]]
+
+There are diversified important traditional festivals in Assam. [[Bihu]] is the most important and common and celebrated all over Assam. It is the Assamese new year celebrated in April of the Gregorian calendar. [[Durga Puja]] is another festival celebrated with great enthusiasm. Muslims celebrate two Eids ([[Eid ul-Fitr]] and [[Eid al-Adha]]) with much eagerness all over Assam.
+
+Bihu is a series of three prominent festivals. Primarily a non-religious festival celebrated to mark the seasons and the significant points of a cultivator's life over a yearly cycle. Three Bihus, ''rongali'' or ''bohag'', celebrated with the coming of spring and the beginning of the sowing season; ''kongali'' or ''kati'', the barren bihu when the fields are lush but the barns are empty; and the ''[[Bhogali Bihu|bhogali]]'' or ''magh'', the thanksgiving when the crops have been harvested and the barns are full. Bihu songs and Bihu dance are associated to ''rongali'' bihu. The day before the each bihu is known as 'uruka'. The first day of 'rongali bihu' is called 'Goru bihu' (the bihu of the cows), when the cows are taken to the nearby rivers or ponds to be bathed with special care. In recent times the form and nature of celebration has changed with the growth of urban centres.
+
+[[Bwisagu]] is one of the popular seasonal festival of the [[Bodo people|Bodos]]. Bwisagu start of the new year or age. Baisagu is a Boro word which originated from the word "Baisa" which means year or age, ang "Agu" that means starting or start.
+
+[[Dimasa people#Festivals|Bushu Dima]] or simply Bushu is a major harvest festival of the [[Dimasa]] people. This festival is celebrated during the end of January. Officially 27 January has been declared as the day of Bushu Dima festival. The Dimasa people celebrate their festival by playing musical instruments- khram (a type of drum), muri ( a kind of huge long flute). The people dances to the different tunes called "murithai" and each dance has got its name, the prominent being the "Baidima" There are three types of Bushu celebrated among the Dimasas Jidap, Surem and Hangsou.
+
+Moreover, there are other important traditional festivals being celebrated every year on different occasions at different places. Many of these are celebrated by different ethno-cultural groups (sub and sister cultures). Some of these are:
+{{columns | width = 180px | gap = 5px
+| col1 =
+* [[Me-Dam-Me-Phi]]
+* [[Ali Ai Ligang|Ali-Aye-Ligang]]
+* [[Rongker]]
+* Kherai
+* Garja
+| col2 =
+* Awnkham Gwrlwi Janai
+* Chojun/Swarak
+* Sokk-erroi
+* Hacha-kekan
+* Hapsa Hatarnai
+|col3 =
+* [[Porag]]
+* [[Bathow]]
+* [[Wangala]]
+}}
+
+Other few yearly celebrations are Doul Utsav of Barpeta, [[Brahmaputra Beach Festival]], Guwahati, [[Kaziranga Elephant Festival]], Kaziranga and [[Dehing Patkai Festival]], Lekhapani, Karbi Youth Festival of Diphu and International Jatinga Festival, [[Jatinga]] can not be forgotten. Few yearly ''Mela's'' like [[Jonbeel Mela]], began in the 15th century by the Ahom Kings, [[Ambubachi Mela]], Guwahati etc.
+
+===Music, Dance and Drama===
+{{See also|Music of Assam|Folk dances of Assam}}
+
+<gallery>
+File:Bodo dance.jpg|thumb|left|''Tribal'' - Bodo dance Bagurumba
+Image:Tea Tribe Dance of Assam.jpg|thumb|200px|Jhumur dance
+File:Lukobadya nagara.jpg|thumbnail|Nagara
+File:Dr. Bhupen Hazarika, Assam, India.jpg|120px|thumbnail|[[Bhupen Hazarika]]
+</gallery>
+
+Performing arts include: ''[[Ankia Naat]]'' (''Onkeeya Naat''), a traditional Vaishnav dance-drama (''[[Bhaona]]'') popular since the 15th century AD.{{citation needed|date=June 2015}} It makes use of large masks of gods, goddesses, demons and animals and in between the plays a ''Sutradhar'' (''Xutrodhar'') continues to narrate the story.{{citation needed|date=June 2015}}
+
+Besides [[Bihu dance]] and ''Huchory'' performed during the ''Bohag Bihu'', dance forms of tribal minorities such as; ''Kushan nritra'' of Rajbongshi's, ''[[Bagurumba]]'' and ''Bordoicikhla'' dance of [[Bodos]], Mishing Bihu, ''Banjar Kekan'' performed during ''Chomangkan'' by [[Karbis]], [[Jhumur]] of [[Tea tribes]]  are some of the major folk dances.{{citation needed|date=June 2015}} ''[[Sattriya]]'' (''Sotriya'') dance related to Vaishnav tradition is a classical form of dance. Moreover, there are several other age-old dance-forms such as Barpeta’s ''Bhortal Nritya'', ''Deodhoni Nritya'', ''[[Ojapali]]'', ''Beula Dance'', ''Ka Shad Inglong Kardom'', ''Nimso Kerung'', etc. The tradition of modern moving theatres is typical of Assam with immense popularity of many large theatre groups such as [[Kohinoor Theatre|Kohinoor]], Sankardev, Abahan, Bhagyadevi, Hengul, [[Brindabon Theatre|Brindabon]], Itihas etc.{{citation needed|date=June 2015}}
+
+The indigenous folk music has influenced the growth of a modern idiom, that finds expression in the music of artists like [[Jyoti Prasad Agarwala]], [[Bishnuprasad Rabha]], [[Parvati Prasad Baruwa]], [[Bhupen Hazarika]], [[Pratima Barua Pandey]], Anima Choudhury, [[Rudra Baruah|Luit Konwar Rudra Baruah]], [[Jayanta Hazarika]], [[Khagen Mahanta]], Deepali Borthakur, ''Ganashilpi'' Dilip Sarma, Sudakshina Sarma among many others. Among the new generation, [[Zubeen Garg]], [[Jitul Sonowal]], [[Angaraag Mahanta]] and [[Joi Barua]].{{citation needed|date=June 2015}}
+There is an award given in the honour of Bishnuprasad Rabha for achievements in the cultural/music world of Assam by the State Government.{{citation needed|date=June 2015}}
+
+===Cuisine===
+{{Main| Assamese cuisine}}
+[[File:Assamese Thali.jpg|thumb|200px| Assamese Thali]]
+[[File:GHOST CHILLY CHICKEN.jpg|thumb|left|An ethnic preparation of  Ghost chilly chicken curry of Assam]]
+Typically, an Assamese meal consists of many things as ''[[Bhat (food)|bhat]]'' ([[rice]]) with ''dal'' ([[lentils]]), ''masor jool'' ([[fish]] curry), with ''mangxô'' ([[meat]] curry) or ''xaak'' and ''bhaji'' ([[herbs]] and [[vegetables]]).{{citation needed|date=July 2015}}
+
+Rice is one of the main dishes of Assam, and a variety of different rices are grown and eaten in different ways: roasted, grounded, boiled or just soaked.{{citation needed|date=July 2015}}
+
+Fish curries made of ''rôu'', ''illish'', or ''sitôl'' are the most popular. Fowl such as ducks and pigeon are used in dishes while pork, chicken and mutton dishes are mainly popular among the younger generation.{{citation needed|date=July 2015}}
+
+Another favourite combination is ''[[luchi]]'' (fried flatbread), a curry which can be vegetarian or non-vegetarian, and ''asar'' (pickle).{{citation needed|date=July 2015}}
+
+The two main characteristics of a traditional meal in Assam are ''[[Assamese cuisine#Khar|khar]]'' (named after its main ingredient) and the sour dish ''tenga''. ''Khorika'' is the smoked or fired meat eaten with the meal. The various meats more commonly taken include pork, fowl, duck and goose, fish, goat, beef (among Muslim and Christian communities) and pigeon; these being often involved with religious ceremonies. Other kinds of meat include grasshoppers, locusts, silkworms, snails, eels, wild fowl and other birds, deer meat and so on.{{citation needed|date=July 2015}}
+
+''Khorisa'' (fermented [[bamboo shoots]]) are used at times to flavour curries while they can also be preserved and made into pickles. ''Koldil'' ([[banana flower]]) and squash can be cooked into ''sabji's''.{{citation needed|date=July 2015}}
+
+Many households still continue to brew their traditional drinks; variously known as Laupani, Xaaj, Paniyo, Jou, Joumai, Hor and so on. During the time of the traditional festivities, guests are offered these drinks. Declining then is considered socially offensive.{{citation needed|date=July 2015}}
+
+The food is often served in [[bell metal]] dishes and platters like ''Knahi'', ''Maihang'' and so on.{{citation needed|date=July 2015}}
+
+=== Literature ===
+{{Main|Assamese literature}}
+<!----picture should be shrunk to allow text beside it--->
+[[File:Lil Bahadur Chettri.jpg|thumb|100px|Lil Bahadur Chettri]]
+
+Most literary works are written in Assamese although other local language such as Boro and Dimasa are also represented.{{citation needed|date=May 2015}} In the 19th and 20th century, Assamese and other literature was modernised by authors including [[Lakshminath Bezbaroa]], [[Birinchi Kumar Barua]], [[Hem Barua]], [[Mamoni Raisom Goswami|Dr. Mamoni Raisom Goswami]], [[Bhabendra Nath Saikia]], [[Birendra Kumar Bhattacharya]], [[Hiren Bhattacharyya]], [[Homen Borgohain]], [[Bhabananda Deka]], [[Rebati Mohan Dutta Choudhury]], [[Mahim Bora]], [[Lil Bahadur Chettri]], [[Syed Abdul Malik]], [[Surendranath Medhi]], [[Hiren Gohain]].
+
+=== Fine arts ===
+{{Main|Fine Arts of Assam}}
+
+[[File:Citra Bhagavata illustration 1.jpg|thumb|left|150px|Citra Bhagavata illustration]]
+[[File:Citra Bhagavata illustration 2.jpg|thumb|150px|<center>A page of manuscript painting from Assam; The medieval painters used locally manufactured painting materials such as the colours of [[hangool and haital]] and papers manufactured from aloewood bark</center>]]
+
+The archaic [[Mauryan Empire|Mauryan]] [[Stupas]] discovered in and around [[Goalpara district]] are the earliest examples (c. 300&nbsp;BC to c. 100&nbsp;AD) of ancient art and architectural works. The remains discovered in Daparvatiya (''Doporboteeya'') archaeological site with a beautiful doorframe in Tezpur are identified as the best examples of art works in ancient Assam with influence of [[Sarnath]] School of Art of the late [[Gupta empire|Gupta]] period.{{citation needed|date=July 2015}}
+
+Painting is an ancient tradition of Assam. [[Xuanzang]] (7th century&nbsp;AD) mentions that among the Kamarupa king Bhaskaravarma's gifts to [[Harshavardhana]] there were paintings and painted objects, some of which were on Assamese silk. Many of the manuscripts such as [[Hastividyarnava]] (A Treatise on Elephants), the ''Chitra Bhagawata'' and in the Gita Govinda from the Middle Ages bear excellent examples of traditional paintings.{{citation needed|date=July 2015}}
+
+=== Traditional crafts ===
+{{Main|Traditional crafts of Assam|Bell and brass metal crafts of Assam}}
+{{See also|Assam silk}}
+[[File:Assam Xorai.png|thumbnail|[[Bell metal]] made sorai and sophura are important parts of culture]]
+[[File:Assam Knahor Knahi.jpg|thumbnail|left|Assam Knahor Knahi]]
+
+Assam has a rich tradition of [[crafts]];, [[caning (furniture)|Cane]] and bamboo craft, bell metal and [[Brass instrument|brass]] craft, silk and cotton [[weaving]], toy and [[mask]] making, [[pottery]] and [[terracotta]] work, wood craft, [[jewellery]] making, and musical instruments making have remained as major traditions.<ref>{{cite web
+| last = Assam Tourism 2002
+| first = Government of Assam
+| title = Arts and Crafts of Assam in About Assam
+| url = http://www.assamtourism.org/arts.htm
+| accessdate =3 June 2007| archiveurl = https://web.archive.org/web/20070407040421/http://www.assamtourism.org/arts.htm| archivedate = 7 April 2007 }}</ref>
+
+Cane and bamboo craft provide the most commonly used utilities in daily life, ranging from household utilities, weaving accessories, fishing accessories, furniture, musical instruments, construction materials, etc. Utilities and symbolic articles such as ''Sorai'' and ''Bota'' made from bell metal and brass are found in every Assamese household.<ref>{{Citation
+| last1 = Ranjan | first1 = M.P. | last2 = Iyer | first2 = Nilam
+| last3 = Pandya | first3 = Ghanshyam | title = Bamboo and Cane Crafts of Northeast India
+| publisher = National Institute of Design}}
+</ref><ref>{{Citation | first = T.K.| last = Nath
+| title = Bamboo Cane and Assam
+| place = Guwahati, India
+| publisher = Industrial Development Bank of India, Small Industries Development Bank of India}}
+</ref> [[Hajo]] and [[Sarthebari]] (''Sorthebaary'') are the most important centres of traditional bell-metal and brass crafts. Assam is the home of several types of silks, the most prestigious are: Muga – the natural golden silk, Pat – a creamy-bright-silver coloured silk and Eri – a variety used for manufacturing warm clothes for winter. Apart from [[Sualkuchi]] (''Xualkuchi''), the centre for the traditional silk industry, in almost every parts of the Brahmaputra Valley, rural households produce silk and silk garments with excellent embroidery designs. Moreover, various ethno-cultural groups in Assam make different types of cotton garments with unique embroidery designs and wonderful colour combinations.
+
+Moreover, Assam possesses unique crafts of toy and mask making mostly concentrated in the Vaishnav Monasteries, pottery and [[terracotta]] work in Western Assam districts and wood craft, iron craft, jewellery, etc. in many places across the region.
+
+== Media ==
+Print media include Assamese dailies "Dainik Asam", ''[[Dainik Janambhumi]]'', ''[[Amar Asom]]'', ''[[Dainik Agradoot]]'', ''[[Asomiya Pratidin]]'', ''[[Asomiya Khobor]]'', ''[[Janasadharan]]'', ''[[Niyomiya Barta]]'', ''[[Gana Adhikar]]'' and ''Sankar Jyoti''.{{citation needed|date=October 2015}} ''Asom Bani'' and ''Sadin'' are Assamese weekly newspapers.{{citation needed|date=October 2015}} English dailies of Assam include ''[[The Assam Tribune]]'', ''[[The Sentinel (Gauhati)|The Sentinel]]'', ''[[The Telegraph (Calcutta)|The Telegraph]]'',  ''[[The Times of India]]'' and ''Eastern Chronicle''.{{citation needed|date=October 2015}} Regional newspapers include ''[[Thekar]]'', in the Karbi language has the largest circulation of any daily from Karbi Anglong district.{{citation needed|date=October 2015}} ''Bodosa'' has the highest circulation of any Bodo daily from BTC.{{citation needed|date=October 2015}} ''[[Dainik Jugasankha]]'' is a Bengali daily with editions from Guwahati, Silchar and Dibrugarh.{{citation needed|date=October 2015}} ''Dainik Samayik Prasanga'', ''Dainik Prantojyoti'', ''Dainik Janakantha'' and ''Nababarta Prasanga'' are other prominent Bengali dailies published in the Barak Valley towns of Silchar and Karimganj.{{citation needed|date=October 2015}} Hindi dailies include ''Purvanchal Prahari'', ''Pratah Khabar'' and ''Dainik Purvoday''.{{citation needed|date=July 2015}}
+
+Broadcasting stations of [[All India Radio]] have been established in five big cities: Dibrugarh, Guwahati, Kokrajhar, Silchar and Tezpur. Local news and music are the main priority for that station.{{citation needed|date=October 2015}} Assam has three [[Doordarshan|public service broadcasting service radio stations]]at Guwahati, Dibrugarh and Silchar.{{citation needed|date=October 2015}} Guwahati is the headquarters of a number of electronic medias like [[News Live]], [[DY 365]], [[Pratidin Time]], [[Assam Talks]] and [[Prag News|Prag]].{{citation needed|date=October 2015}}
+
+==See also==
+<!----this is reserved for other articles not linked in this article--->
+{{portal|Geography|<!--Eurasia-->|Asia|South Asia|India|Assam}}
+
+{{columns-list|2|
+*General
+** [[Human rights abuses in Assam]]
+** [[Insurgency in North-East India]]
+** [[Tourism in North East India]]
+** [[Bibliography of India]]
+** [[Outline of India]]
+** {{books-inline|India}}
+** [[Index of India-related articles]]
+*Demographics
+** [[Ahom people|Ahom community]]
+** Assamese Associations
+** [[Assamese Brahmins]]
+** [[Baruah]]
+** [[Illegal Migrants (Determination by Tribunal) Act, 1983]]
+** [[Kamrupi Lokgeet]]
+** [[Kamarupa Anusandhan Samiti]]
+** [[Kamarupa of Bhaskar Varman]]
+** [[Kalitas of Assam]]
+** [[Kamrupi Brahmins]]
+** [[List of people from Assam]]
+** [[Mising Agom Kebang]]
+** [[Sutiya people|Sutiya community]]
+** [[Tea tribes]]
+*Culture
+** [[Asom Sahitya Sabha]]
+** [[Cultural Development of Kamarupa]]
+** [[Kamrupi Literature]]
+** [[Textiles and dresses of Assam]]
+** [[Traditional crafts of Assam]]
+*Geography
+** [[1897 Assam earthquake]]
+** [[1950 Assam–Tibet earthquake]]
+** [[Greater Assam]]
+** [[List of Cities and Towns in Assam]]
+** [[Northeast India]]
+** [[Rhino poaching in Assam]]
+*Government
+** [[List of Assam state symbols]]
+** [[:Category:Political parties in Assam|Political parties in Assam]]
+** [[State Anthem of Assam]]
+*History
+** [[Assam Accord]]
+** [[Assam agitation]]
+** [[Early Period of Kamarupa]]
+** [[Kamarupa - Late to end period]]
+** [[List of ancient games of Assam]]
+** [[Varman dynasty|Varman Dynasty]]
+*Infrastructure
+** [[Dhola-Sadia bridge]]
+}}
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{refbegin}}
+* {{citation|last=Directorate of Information and Public Relations |first=Government of Assam |title=Assam at a Glance |url=http://janasanyogassam.nic.in/assamataglance.htm |accessdate=25 May 2007 |deadurl=yes |archiveurl=http://web.archive.org/web/20071006161204/http://janasanyogassam.nic.in/assamataglance.htm |archivedate=6 October 2007 }}
+* {{citation|author=National Commission for Women |title=Situational Analysis of Women in Assam |year=2004 |url=http://www.ncw.nic.in/pdfreports/Gender%20Profile-Assam.pdf |format=PDF |accessdate=5 July 2006 |postscript=. |deadurl=yes |archiveurl=http://web.archive.org/web/20070615001750/http://www.ncw.nic.in/pdfreports/Gender%20Profile-Assam.pdf |archivedate=15 June 2007 }}
+* {{citation
+  | last = National Mission on Bamboo Applications
+  | title = Assam, State Profile
+  | url = http://www.bambootech.org/subsubTOP.asp?subsubid=101&subid=37&sname=STATE
+  | accessdate =25 May 2007
+  }}
+* {{citation
+  | last = Revenue Department
+  | first = Government of Assam
+  | title = Revenue Administration – Districts and Subdivisions
+  | url = http://revenueassam.nic.in/
+  | accessdate =25 May 2007}}
+* Singh, K. S (ed) (2003) ''People of India: Assam Vol XV Parts I and II'', Anthropological Survey of India, Seagull Books, Calcutta
+* {{citation|first= |last=UNDP |author-link=UNDP |url=http://planassam.org/reports/hdr_2003/HRD.htm |title=Chapter 2, Income, Employment and Poverty in Assam Human Development Report, 2003 |place= |publisher=Government of Assam |year=2004 |deadurl=yes |archiveurl=http://web.archive.org/web/20070220213032/http://planassam.org:80/reports/hdr_2003/HRD.htm |archivedate=20 February 2007 }}
+* {{citation
+  | last = Wandrey
+  | first = C. J.
+  | title = Sylhet-Kopili/Barail-Tipam Composite Total Petroleum System, Assam Geologic Province, India
+  | url = http://pubs.usgs.gov/bul/2208/D/b2208-d.pdf
+  | journal = U.S. Geological Survey Bulletin
+  | volume = 2208-D
+  | year = 2004}}
+{{Refend}}
+
+== Further reading ==
+{{refbegin}}
+; Online Books and material
+* [https://archive.org/stream/astatisticalacc32huntgoog A statistical account of Assam ] (1879) by WW Hunter
+* [http://ia331336.us.archive.org/0/items/assamattitudetof034931mbp/assamattitudetof034931mbp.pdf Assam Attitude to Federalism] (1984)by Girin Phukon
+* [https://archive.org/stream/aglimpseassam00wardgoog A Glimpse of Assam ] (1884) by Susan Ward
+* [https://archive.org/stream/ahistoryassam00gaitgoog A history of Assam ] (1906) by Edward Gait
+* [http://ia311225.us.archive.org/0/items/physicalpolitica00assa/physicalpolitica00assa.pdf Physical and political geography of the province of Assam ] (1896) by Assam Secretariat Printing Office
+* [https://archive.org/stream/outlinegrammark00endlgoog Outline Grammar of the Kachári (Bārā) Language as Spoken in District Darrang, Assam ](1884) by Sidney Endle
+* [https://archive.org/stream/anoutlinegramma00browgoog An outline grammar of the Deori Chutiya language spoken in upper Assam ](1895) by William Barclay Brown
+* [https://archive.org/stream/travelsandadven00butlgoog Travels and adventures in the province of Assam, during a residence of fourteen years ] (1855) by John Butler
+
+; Language and literature
+* {{citation
+  | first = Mahendra
+  | last = Bara
+  | title = The Evolution of the Assamese Script
+  | place = Jorhat, Assam
+  | publisher = Asam Sahitya Sabha
+  | year = 1981
+  }}
+* {{citation
+  | last = Barpujari
+  | first = H. K.
+  | title = Amerikan Michanerisakal aru Unabimsa Satikar Asam
+  | place = Jorhat, Assam
+  | publisher = Asam Sahitya Sabha
+  | year = 1983
+  }}
+* {{citation
+  | last = Barua
+  | first = Birinchi Kumar
+  | title = History of Assamese Literature
+  | place = Guwahati
+  | publisher = East-West Centre Press
+  | year = 1965
+  }}
+* {{citation
+  | last = Barua
+  | first = Hem
+  | title = Assamese Literature
+  | place = New Delhi
+  | publisher = National Book Trust
+  | year = 1965
+  }}
+* {{citation
+  | last = Brown
+  | first = William Barclay
+  | title = An Outline Grammar of the Deori Chutiya Language Spoken in Upper Assam with an Introduction, Illustrative Sentences, and Short Vocabulary
+  | place = Shillong
+  | publisher = The Assam Secretariat Printing Office
+  | year = 1895
+  }}
+* {{citation
+  | last = Deka
+  | first = Bhabananda
+  | title = Industrialisation of Assam
+  | place = Guwahati
+  | publisher = Gopal Das
+  | year = 1961
+  }}
+* {{citation
+  | last = Dhekial Phukan
+  | first = Anandaram 1829–1859
+  | title = Anandaram Dhekiyal Phukanar Racana Samgrah
+  | place = Guwahati
+  | publisher = Lawyer's Book Stall
+  | year = 1977
+  }}
+* {{citation
+  | last = Endle
+  | first = Sidney
+  | title = Outline of the Kachari (Baro) Language as Spoken in District Darrang, Assam
+  | place = Shillong
+  | publisher = Assam Secretariat Press
+  | year = 1884
+  }}
+* {{citation
+  | last = Gogoi
+  | first = Lila
+  | title = Sahitya-Samskriti-Buranji
+  | place = Dibrugarh
+  | publisher = New Book Stall
+  | year = 1972
+  }}
+* {{citation
+  | last = Gogoi
+  | first = Lila
+  | title = The Buranjis, Historical Literature of Assam
+  | place = New Delhi
+  | publisher = Omsons Publications
+  | year = 1986
+  }}
+* {{citation
+  | last = Goswami
+  | first = Praphulladatta
+  | title = Folk-Literature of Assam
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies in Assam
+  | year = 1954
+  }}
+* {{citation
+  | last = Gurdon
+  | first = Philip Richard Thornhagh
+  | title = Some Assamese Proverbs
+  | place = Shillong
+  | publisher = The Assam Secretariat Printing Office
+  | year = 1896
+  | isbn = 1-104-30633-6
+  }}
+* {{citation
+  | last = Kakati
+  | first = Banikanta
+  | title = Aspects of Early Assamese Literature
+  | place = Guwahati
+  | publisher = Gauhati University
+  | year = 1959
+  }}
+* {{citation
+  | last = Kay
+  | first = S. P.
+  | title = An English-Mikir Vocabulary
+  | place = Shillong
+  | publisher = The Assam Secretariat Printing Office
+  | year = 1904
+  }}
+* {{citation
+  | last = Medhi
+  | first = Kaliram
+  | title = Assamese Grammar and Origin of the Assamese Language
+  | place = Guwahati
+  | publisher = Assam Publication Board
+  | year = 1988
+  }}
+* {{citation
+  | last = Miles
+  | first = Bronson
+  | title = A Dictionary in Assamese and English
+  | place = Sibsagar, Assam
+  | publisher = American Baptist Mission Press
+  | year = 1867
+  }}
+* {{citation
+  | last = Morey
+  | first = Stephen
+  | title = The Tai languages of Assam : a grammar and texts
+  | place = Canberra
+  | publisher = Pacific Linguistics
+  | year = 2005
+  | isbn =0-85883-549-5
+  }}
+
+; History
+* {{citation
+  | last = Antrobus
+  | first = H.
+  | title = A History of the Assam Company
+  | place = Edinburgh
+  | publisher = Private Printing by T. and A. Constable
+  | year = 1957
+  }}
+* {{citation
+  | last = Barabaruwa
+  | first = Hiteswara 1876–1939
+  | title = Ahomar Din
+  | place = Guwahati
+  | publisher = Assam Publication Board
+  | year = 1981
+  }}
+* {{citation
+  | last = Barooah
+  | first = Nirode K.
+  | title = David Scott In North-East India, 1802–1831
+  | place = New Delhi
+  | publisher = Munshiram Manoharlal Publishers
+  | year = 1970
+  }}
+* {{citation
+  | last = Barua
+  | first = Harakanta 1813–1900
+  | title = Asama Buranji
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies, Assam
+  | year = 1962
+  }}
+* {{citation
+  | last = Barpujari
+  | first = H. K.
+  | title = Assam in the Days of the Company, 1826–1858
+  | place = Guwahati
+  | publisher = Lawyer's Book Stall
+  | year = 1963
+  }}
+* {{citation
+  | last = Barpujari
+  | first = H. K.
+  | title = Political History of Assam. Department for the Preparation of Political History of Assam
+  | place = Guwahati
+  | publisher = Government of Assam
+  | year = 1977
+  }}
+* {{citation
+  | last = Barua
+  | first = Kanak Lal
+  | title = An Early History of Kamarupa, From the Earliest Time to the Sixteenth Century
+  | place = Guwahati
+  | publisher = Lawyers Book Stall
+  | year =
+  }}
+* {{citation
+  | last = Barua
+  | first = Kanak Lal
+  | title = Studies in the Early History of Assam
+  | place = Jorhat, Assam
+  | publisher = Asam Sahitya Sabha
+  | year =
+  }}
+* {{citation
+  | last = Baruah
+  | first = Swarna Lata
+  | title = Last days of Ahom monarchy : a history of Assam from 1769–1826
+  | place = New Delhi
+  | publisher = Munshiram Manoharlal Publishers
+  | year = 1993
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Anglo-Assamese Relations, 1771–1826
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies in Assam
+  | year = 1949
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Annals of the Delhi Badshahate
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies, Government of Assam
+  | year = 1947
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Atan Buragohain and His Times
+  | place = Guwahati
+  | publisher = Lawyer's Book Stall
+  | year = 1957
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Deodhai Asam Buranji
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies
+  | year = 1962
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Early British Relations with Assam
+  | place = Shillong
+  | publisher = Assam Secretariat Press
+  | year = 1928
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Lachit Barphukan and His Times
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies, Government of Assam
+  | year = 1947
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Satasari Asama Buranji
+  | place = Guwahati
+  | publisher = Gauhati University
+  | year = 1964
+  }}
+* {{citation
+  | last = Bhuyan
+  | first = Suryya Kumar
+  | title = Swargadew Rajeswarasimha
+  | place = Guwahati
+  | publisher = Assam Publication Board
+  | year = 1975
+  }}
+* {{citation
+  | last = Buchanan
+  | first = Francis Hamilton 1762–1829
+  | title = An Account of Assam
+  | place = Guwahati
+  | publisher = Department of Historical and Antiquarian Studies
+  | year = 1963
+  }}
+* {{citation
+  | last = Duara Barbarua
+  | first = Srinath
+  | title = Tungkhungia Buranji
+  | place = Bombay
+  | publisher = H. Milford, Oxford University Press
+  | year = 1933
+  }}
+* {{citation
+  | last = Gait
+  | first = Edward Albert 1863–1950
+  | title = A History of Assam
+  | place = Calcutta
+  | publisher = Thacker, Spink & Co.
+  | year = 1926
+  }}
+* {{citation
+  | last = Gogoi
+  | first = Padmeswar
+  | title = The Tai and the Tai Kingdoms
+  | place = Guwahati
+  | publisher = Gauhati University
+  | year = 1968
+  }}
+* {{citation
+  | last = Guha
+  | first = Amalendu
+  | title = The Ahom Political System
+  | place = Calcutta
+  | publisher = Centre for Studies in Social Sciences
+  | year = 1983
+  }}
+* {{citation
+  | first = William Wilson 1840–1900
+  | last = Hunter
+  | title = A Statistical Account of Assam
+  | place = London
+  | publisher = Trubner & Co.
+  | year = 1879
+  }}
+
+; Tradition and Culture
+* {{citation
+  | last = Barkath
+  | first = Sukumar
+  | title = Hastibidyarnnara Sarasamgraha (English & Assamese), 18th Century
+  | place = Guwahati
+  | publisher = Assam Publication Board
+  | year = 1976
+  }}
+* {{citation
+  | last = Barua
+  | first = Birinchi Kumar
+  | title = A Cultural History of Assam
+  | place = Guwahati
+  | publisher = Lawyer's Book Stall
+  | year = 1969
+  }}
+* {{citation
+  | last = Barua
+  | first = Birinchi Kumar
+  | title = Sankardeva
+  | place = Guwahati
+  | publisher = Assam Academy for Cultural Relations
+  | year = 1960
+  }}
+* {{citation
+  | last = Gandhiya
+  | first = Jayakanta
+  | title = Huncari, Mukali Bihu, aru Bihunac
+  | place = Dibrugarh
+  | publisher =
+  | year = 1988
+  }}
+* {{citation
+  | last = Goswami
+  | first = Praphulladatta
+  | title = Ballads and Tales of Assam
+  | place = Guwahati
+  | publisher = Gauhati University
+  | year = 1960
+  }}
+* {{citation
+  | last = Goswami
+  | first = Praphulladatta
+  | title = Bohag Bihu of Assam and Bihu Songs
+  | place = Guwahati
+  | publisher = Assam Publication Board
+  | year = 1988
+  }}
+* {{citation
+  | last = Mahanta
+  | first = Pona
+  | title = Western Influence on Modern Assamese Drama
+  | place = Delhi
+  | publisher = Mittal Publications
+  | year = 1985
+  }}
+* {{citation
+  | last = Medhi
+  | first = Kaliram
+  | title = Studies in the Vaisnava Literature and Culture of Assam
+  | place = Jorhat, Assam
+  | publisher = Asam Sahitya Sabha
+  | year = 1978
+  }}
+{{refend}}
+
+== External links ==
+{{Wikivoyage}}
+* {{Official website|assamgovt.nic.in}}
+* [http://assamtourism.gov.in Assam Tourism Guide] (official)
+* {{dmoz|Regional/Asia/India/Assam}}
+* {{Cite NIE|wstitle=Assam |year=1905 |short=x}}
+{{Commons category|position=left}}
+
+{{Geographic location
+|Centre = Assam
+|North = {{flagicon|Bhutan}}[[Dzongdey#Zone Statistics|Eastern Zone]]
+|Northeast = [[Arunachal Pradesh]]
+|East = [[Nagaland]]
+|Southeast = [[Manipur]]
+|South = [[Mizoram]]
+|Southwest = [[Meghalaya]]<br />{{flagicon|Bangladesh}}[[Sylhet Division]]<br />[[Tripura]]
+|West = [[West Bengal]]<br />{{flagicon|Bangladesh}}[[Rangpur Division]]
+|Northwest = {{flagicon|Bhutan}}[[Dzongdey#Zone Statistics|Southern Zone]]
+}}
+
+{{Assam}}
+{{History of Assam}}
+{{States and territories of India}}
+{{Fairs and Festivals in Assam}}
+{{North East India|state=collapsed}}
+{{Authority control}}
+
+[[Category:Assam| ]]
+[[Category:Northeast India]]
+[[Category:States and territories of India]]
+[[Category:Seven Sister States]]
+[[Category:States and territories established in 1947]]

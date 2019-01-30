@@ -1,0 +1,544 @@
+Hiroshima
+
+{{Other uses}}
+{{pp-move-indef}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Hiroshima}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|広島市}}}}}}
+| native_name_lang        = ja
+| official_name           = Hiroshima City
+| settlement_type         = [[Cities designated by government ordinance of Japan|Designated city]]
+<!-- images, nickname, motto --->
+| image_skyline           = Hiroshima montage2.jpg
+| imagesize               =
+| image_alt               =
+| image_caption           = From top left: Hiroshima Castle, Baseball game of Hiroshima Toyo Carp in Hiroshima Municipal Baseball Stadium, Hiroshima Peace Memorial (Genbaku Dome), Night view of Ebisu-cho, Shukkei-en (Asano Park)
+| image_flag              = Flag of Hiroshima City.svg
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| image_blank_emblem      =
+| nickname                =
+| motto                   =
+<!-- maps and coordinates ------>
+| image_map               = Hiroshima in Hiroshima Prefecture Ja.svg
+| map_alt                 =
+| map_caption             = Location of Hiroshima in [[Hiroshima Prefecture]]
+| image_dot_map           =
+| dot_mapsize             =
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x = |dot_y =
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         =
+| pushpin_map_caption     = &nbsp;
+| latd=34 | latm=23 | lats=7 | latNS=N
+| longd=132 | longm=27 | longs=19 | longEW= E
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_display     = inline,title
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| coordinates_region      = JP
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūgoku region|Chūgoku]] ([[San'yō region|San'yō]])
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Hiroshima Prefecture]]
+| subdivision_type3       =
+| subdivision_name3       =
+<!-- established --------------->
+| established_title       = <!-- Settled -->
+| established_date        =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    =
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            =
+| leader_title            = Mayor
+| leader_name             = [[Kazumi Matsui]]
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 905.01
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2           =
+| area_land_sq_mi         =
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_percent      =
+| area_note               =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             =
+| elevation_ft            =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 1173980
+| population_as_of        = January 2010
+| population_density_km2  = 1297.2
+| population_density_sq_mi=
+| population_est          =
+| pop_est_as_of           =
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+<!-- time zone(s) -------------->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           =
+| utc_offset1_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        =
+| postal_code             =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = [[Cinnamomum camphora|Camphor Laurel]]
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = [[Oleander]]
+| blank3_name_sec1        =
+| blank3_info_sec1        =
+| blank4_name_sec1        =
+| blank4_info_sec1        =
+| blank5_name_sec1        =
+| blank5_info_sec1        =
+| blank6_name_sec1        =
+| blank6_info_sec1        =
+| blank7_name_sec1        =
+| blank7_info_sec1        =
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 082-245-2111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-6-34 Kokutaiji,<br/>Naka-ku, Hiroshima-shi 730-8586
+<!-- website, footnotes -------->
+| website                 = [http://www.city.hiroshima.lg.jp/www/toppage/0000000000000/APM03000.html Hiroshima City]
+| footnotes               =
+}}
+
+{{nihongo|'''Hiroshima'''|広島市|''Hiroshima-ken''}} ({{Audio|Hiroshima,_pronunciation,_cleaned.ogg|listen}}) is the capital of [[Hiroshima Prefecture]] and the largest [[Cities of Japan|city]] in the [[Chūgoku]] region of western [[Honshu]] - the largest island of [[Japan]]. The city's name, 広島, means "Broad Island" in Japanese. Hiroshima gained city status on April 1, 1889. On April 1, 1980, Hiroshima became a [[Cities designated by government ordinance of Japan|designated city]]. {{As of|2006}}, the city had an estimated population of 1,154,391. [[Kazumi Matsui]] has been the city's mayor since April 2011.
+
+Hiroshima is best known as the first city in history to be targeted by a [[Little Boy|nuclear weapon]] when the [[United States Army Air Forces]] (USAAF) [[Atomic bombings of Hiroshima and Nagasaki|dropped an atomic bomb]] on the city at 8:15&nbsp;a.m. on August 6, 1945, near the end of [[World War II]].<ref>{{cite book  | last = Hakim  | first = Joy | title = A History of Us: War, Peace and all that Jazz  | publisher = Oxford University Press  | year = 1995  | location = New York | pages = | isbn = 0-19-509514-6 }}</ref>
+
+==History==
+{{see also|Timeline of Hiroshima}}
+
+===Sengoku period (1589&ndash;1871)===
+[[File:Hiroshima Castle.jpg|thumb|[[Hiroshima Castle]]]]
+Hiroshima was established on the river delta coastline of the [[Seto Inland Sea]] in 1589 by the powerful warlord [[Mōri Terumoto]], who made it his capital after leaving Kōriyama Castle in [[Aki Province]].<ref>{{cite web |url=http://www.city.hiroshima.jp/kikaku/joho/toukei/History-E/c01.html |archiveurl=https://web.archive.org/web/20080130190042/http://www.city.hiroshima.jp/kikaku/joho/toukei/History-E/c01.html |archivedate=2008-01-30 |title=The Origin of Hiroshima |publisher=Hiroshima Peace Culture Foundation |accessdate=2007-08-17}}</ref><ref>{{cite web |url=http://aboutjapan.japansociety.org/content.cfm/hiroshima_history_city_event |title=Hiroshima: History, City, Event |author=Scott O'Bryan |year=2009 |publisher=About Japan: A Teacher's Resource |accessdate=2010-03-14}}</ref> [[Hiroshima Castle]] was quickly built, and in 1593 Terumoto moved in.  Terumoto was on the losing side at the [[Battle of Sekigahara]]. The winner of the battle, [[Tokugawa Ieyasu]], deprived Mori Terumoto of most of his fiefs including Hiroshima and gave [[Aki Province]] to [[Fukushima Masanori|Masanori Fukushima]], a [[daimyo]] who had supported Tokugawa.<ref name="Kosaikai">{{cite book |author=Kosaikai, Yoshiteru |title=Hiroshima Peace Reader |publisher=Hiroshima Peace Culture Foundation |year=2007 |chapter=History of Hiroshima}}</ref>
+
+===Imperial period (1871&ndash;1939)===
+[[File:hiromuseum.jpg|thumb|Hiroshima Commercial Museum 1915]]
+[[File:Hiroshima map circa 1930.PNG|thumb|Map of Hiroshima City in the 1930s (Japanese edition)]]
+
+After the [[han system|han]] was abolished in 1871, the city became the capital of [[Hiroshima Prefecture]].  Hiroshima became a major urban center during the [[Empire of Japan|imperial period]], as the Japanese economy shifted from primarily rural to urban industries. During the 1870s, one of the seven government-sponsored English language schools was established in Hiroshima.<ref>Bingham (US Legation in Tokyo) to Fish (US Department of State), September 20, 1876, in ''Papers relating to the foreign relations of the United States, transmitted to congress, with the annual message of the president, December 4, 1876'', p. 384</ref> Ujina Harbor was constructed through the efforts of Hiroshima Governor [[Sadaaki Senda]] in the 1880s, allowing Hiroshima to become an important port city.
+
+The [[San'yō Railway]] was extended to Hiroshima in 1894, and a rail line from the main station to the harbor was constructed for military transportation during the [[First Sino-Japanese War]].<ref name="Kosakai"/> During that war, the Japanese government moved temporarily to Hiroshima, and [[Emperor Meiji]] maintained his headquarters at [[Hiroshima Castle]] from September 15, 1894, to April 27, 1895.<ref name="Kosakai">Kosakai, ''Hiroshima Peace Reader''</ref> The significance of Hiroshima for the Japanese government can be discerned from the fact that the first round of talks between Chinese and Japanese representatives to end the Sino-Japanese War was held in Hiroshima, from February 1 to February 4, 1895.<ref>Dun (US Legation in Tokyo) to Gresham, February 4, 1895, in ''Foreign relations of United States, 1894'', Appendix I, p. 97</ref> New industrial plants, including [[cotton mill]]s, were established in Hiroshima in the late 19th century.<ref>{{cite book |title=The Origin of Modern Capitalism and Eastern Asia |author=Jacobs, Norman |publisher=Hong Kong University |year=1958 |page=51}}</ref> Further industrialization in Hiroshima was stimulated during the [[Russo-Japanese War]] in 1904, which required development and production of military supplies. The Hiroshima Prefectural Commercial Exhibition Hall was constructed in 1915 as a center for trade and exhibition of new products. Later, its name was changed to Hiroshima Prefectural Product Exhibition Hall, and again to Hiroshima Prefectural Industrial Promotion Hall.<ref>{{cite book |author=Sanko |title=Hiroshima Peace Memorial (Genbaku Dome) |year=1998 |publisher=The City of Hiroshima and the Hiroshima Peace Culture Foundation}}</ref>
+
+During [[World War I]], Hiroshima became a focal point of military activity, as the Japanese government entered the war on the Allied side. About 500 German prisoners of war were held in Ninoshima Island in Hiroshima Bay.<ref>[http://www.hiroshimapeacemedia.jp/mediacenter/article.php?story=20100901131622626_en]</ref> The growth of Hiroshima as a city continued after the First World War, as the city now attracted the attention of the Catholic Church, and on May 4, 1923, an Apostolic Vicar was appointed for that city.<ref>{{Catholic-hierarchy|diocese|dhiro|Diocese of Hiroshima|21 January 2015}}</ref>
+
+===World War II and the atomic bombing (1939–1945)===
+{{main|Atomic bombings of Hiroshima and Nagasaki#Hiroshima}}
+<!-- Note to editors: This article is for an overview. Please do not add details. Instead, add details to the main article "Atomic bombings of Hiroshima and Nagasaki". -->
+
+During [[World War II]], the [[Second General Army (Japan)|2nd General Army]] and Chugoku Regional Army were headquartered in Hiroshima, and the Army Marine Headquarters was located at Ujina port. The city also had large depots of military supplies, and was a key center for shipping.<ref name="effects">{{cite web |url=http://www.nuclearfiles.org/redocuments/1946/460619-bombing-survey1.html |archiveurl=https://web.archive.org/web/20041011111052/http://www.nuclearfiles.org/redocuments/1946/460619-bombing-survey1.html |archivedate=2004-10-11 |title=U. S. Strategic Bombing Survey: The Effects of the Atomic Bombings of Hiroshima and Nagasaki |date=June 1946 |author=United States Strategic Bombing Survey |publisher=nuclearfiles.org |accessdate=2009-07-26}}</ref>
+
+The [[bombing of Tokyo]] and [[Air raids on Japan|other cities in Japan]] during World War II caused widespread destruction and hundreds of thousands of deaths.<ref>{{cite book|title=Bombing to Win: Airpower and Coercion in War|last=Pape|first=Robert|year=1996|publisher=Cornell University Press|isbn=978-0-8014-8311-0 |page=129}}</ref> There were no such air raids on Hiroshima. However, a real threat existed and was recognized. In order to protect against potential firebombings in Hiroshima, school children aged 11–14 years were mobilized to demolish houses and create [[firebreak]]s.<ref>{{cite web |url=http://www.chugoku-np.co.jp/abom/97e/peace/e/03/omoide.htm |title=Japan in the Modern Age and Hiroshima as a Military City |publisher=The Chugoku Shimbun |accessdate=2007-08-19}}</ref>
+
+On Monday, August 6, 1945, at 8:15&nbsp;a.m., the [[nuclear bomb]] "[[Little Boy]]" was dropped on Hiroshima by an [[Boeing B-29 Superfortress|American B-29 bomber]], the ''[[Enola Gay]]'', flown by Colonel [[Paul Tibbets]],<ref>[http://www.cfo.doe.gov/me70/manhattan/hiroshima.html The Atomic Bombing of Hiroshima], U.S. Department of Energy, Office of History and Heritage Resources.</ref> directly killing an estimated 80,000 people. By the end of the year, injury and radiation brought the total number of deaths to 90,000–166,000.<ref>{{cite web|url=http://www.rerf.or.jp/general/qa_e/qa1.html |title=Frequently Asked Questions - Radiation Effects Research Foundation |publisher=Rerf.or.jp |date= |accessdate=2011-07-29}}</ref> The population before the bombing was around 340,000 to 350,000. About 70% of the city's buildings were destroyed, and another 7% severely damaged.
+
+The public release of film footage of the city following the attack, and some of the [[Atomic Bomb Casualty Commission]] research, about the human effects of the attack, was restricted during the [[Occupied Japan|occupation of Japan]], and much of this information was censored until the signing of the [[San Francisco Peace Treaty]] in 1951, restoring control to the Japanese.<ref>Ishikawa and Swain (1981), p. 5</ref>
+
+As Ian Buruma observed, "News of the terrible consequences of the atom bomb attacks on Japan was deliberately withheld from the Japanese public by US military censors during the Allied occupation—even as they sought to teach the natives the virtues of a free press. Casualty statistics were suppressed. Film shot by Japanese cameramen in Hiroshima and Nagasaki after the bombings was confiscated. "Hiroshima", the account written by John Hersey for ''The New Yorker'', had a huge impact in the US, but was banned in Japan. As [John] Dower says: 'In the localities themselves, suffering was compounded not merely by the unprecedented nature of the catastrophe&nbsp;... but also by the fact that public struggle with this traumatic experience was not permitted.'" The US occupation authorities maintained a monopoly on scientific and medical information about the effects of the atomic bomb through the work of the Atomic Bomb Casualty Commission, which treated the data gathered in studies of hibakusha as privileged information rather than making the results available for the treatment of victims or providing financial or medical support to aid victims. The US also stood by official denial of the ravages associated with radiation. Finally, not only was the press tightly censored on atomic issues, but literature and the arts were also subject to rigorous control prior.<ref>{{cite web|last1=Selden|first1=Mark|title=Bombs Bursting in Air: The US Firebombing and Atomic Bombing of Japan|url=http://www.globalresearch.ca/bombs-bursting-in-air-the-us-firebombing-and-atomic-bombing-of-japan/5365530|publisher=Asia Pacific Journal|accessdate=March 27, 2015}}</ref>
+
+The book ''[[Hiroshima (book)|Hiroshima]]'' by [[John Hersey]] was originally featured in article form and published in the magazine ''[[The New Yorker]]'',<ref name="autogenerated3"/> on 31 August 1946. It is reported to have reached Tokyo, in English, at least by January 1947 and the translated version was released in Japan in 1949.<ref>http://www.japantimes.co.jp/culture/2009/08/16/books/the-pure-horror-of-hiroshima/#.UdhVsfnVDTc The pure horror of Hiroshima, published in ''[[The Japan Times]]'' by Donald Richie.</ref> Despite the fact that the article was planned to be published over four issues, "Hiroshima" made up the entire contents of one issue of the magazine.<ref name="ReferenceA">Sharp, "From Yellow Peril to Japanese Wasteland: John Hersey's 'Hiroshima'", Twentieth Century Literature 46 (2000): 434–452, accessed March 15, 2012.</ref><ref name="The New Yorker 2010">Jon Michaub, "EIGHTY-FIVE FROM THE ARCHIVE: JOHN HERSEY" ''The New Yorker'', June 8, 2010, np.</ref> ''Hiroshima'' narrates the stories of [[Hibakusha|six bomb survivors]] immediately prior to and for months after the dropping of the [[Little Boy]] bomb.<ref name=autogenerated3>Roger Angell, From the Archives, "HERSEY AND HISTORY", ''The New Yorker'', July 31, 1995, p. 66.</ref><ref name=autogenerated4>John Hersey, Hiroshima (New York: Random House, 1989).</ref>
+
+The [[oleander]] is the official flower of the city of Hiroshima because it was the first to bloom again after the explosion of the atomic bomb in 1945.<ref>{{cite web |url=http://www.city.hiroshima.lg.jp/www/contents/0000000000000/1112000428867/ |title=広島市　市の木・市の花 |accessdate=2012-07-15}}</ref>
+
+<gallery widths="200px" heights="160px">
+File:AtomicEffects-Hiroshima.jpg|Hiroshima after the bombing
+File:Hiroshima aftermath.jpg|Hiroshima after the bombing
+</gallery>
+
+===Postwar period (1945&ndash;present)===
+[[File:PaperCranes.jpg|thumb|Folded [[paper cranes]] representing prayers for peace and [[Sadako Sasaki]]]]
+
+On September 17, 1945, Hiroshima was struck by the Makurazaki Typhoon ([[1940–49 Pacific typhoon seasons#1945 Pacific typhoon season#Typhoon Ida|Typhoon Ida]]). [[Hiroshima Prefecture]] suffered more than 3,000 deaths and injuries, about half the national total.<ref>{{cite web|url=http://excite.co.jp/world/english/web/body/?wb_url=http%3A%2F%2Fwww.bioweather.net%2Fcolumn%2Fweather%2Fcontents%2Fmame068.htm&wb_submit=%83E%83F%83u%83y%81%5B%83W%96%7C%96%F3&wb_lp=JAEN&wb_dis=2|title=Excite エキサイト|publisher=}}</ref>  More than half the bridges in the city were destroyed, along with heavy damage to roads and railroads, further devastating the city.<ref>Ishikawa and also Swain (1981), p. 6</ref>
+
+Hiroshima was rebuilt after the war, with help from the national government through the Hiroshima Peace Memorial City Construction Law passed in 1949. It provided financial assistance for reconstruction, along with land donated that was previously owned by the national government and used for military purposes.<ref>{{cite web |url=http://www.city.hiroshima.jp/kikaku/joho/toukei/History-E/c05.html |archiveurl=https://web.archive.org/web/20080206124545/http://www.city.hiroshima.jp/kikaku/joho/toukei/History-E/c05.html |archivedate=2008-02-06 |title=Peace Memorial City, Hiroshima |publisher=Hiroshima Peace Culture Foundation |accessdate=2007-08-14}}</ref>
+
+[[File:Hiroshima Peace Memorial.jpg|thumb|[[Hiroshima Peace Memorial|Atomic Bomb Dome]] by [[Jan Letzel]] and modern Hiroshima]]
+
+In 1949, a design was selected for the [[Hiroshima Peace Memorial Park]]. Hiroshima Prefectural Industrial Promotion Hall, the closest surviving building to the location of the bomb's detonation, was designated the [[Hiroshima Peace Memorial|Genbaku Dome (原爆ドーム) or "Atomic Dome"]], a part of the [[Hiroshima Peace Memorial Park]]. The [[Hiroshima Peace Memorial Museum]] was opened in 1955 in the Peace Park.<ref>{{cite web |url=http://www.pcf.city.hiroshima.jp/virtual/VirtualMuseum_e/exhibit_e/exh0507_e/exh050701_e.html |title=Fifty Years for the Peace Memorial Museum |publisher=Hiroshima Peace Memorial Museum |accessdate=2007-08-17}}</ref>
+
+The peace park also contains a [[Peace Pagoda]], built in 1966 by [[Nipponzan-Myōhōji]].  Uniquely, the pagoda is made of [[steel]], rather than the usual stone.{{citation needed|date=June 2014}}
+
+Hiroshima was proclaimed a City of Peace by the Japanese parliament in 1949, at the initiative of its mayor, [[Shinzo Hamai]] (1905–1968). As a result, the city of Hiroshima received more international attention as a desirable location for holding international conferences on peace as well as social issues. As part of that effort, the Hiroshima Interpreters' and Guide's Association (HIGA) was established in 1992 in order to facilitate interpretation for conferences, and the Hiroshima Peace Institute was established in 1998 within the [[Hiroshima University]]. The city government continues to advocate the abolition of all [[nuclear weapon]]s and the Mayor of Hiroshima is the president of [[Mayors for Peace]], an international mayoral organization mobilizing cities and citizens worldwide to abolish and eliminate nuclear weapons [[2020 Vision Campaign|by the year 2020]].<ref>{{cite web|url=http://www.eyewitnesstohistory.com/hiroshima.htm |title=Surviving the Atomic Attack on Hiroshima, 1944 |publisher=Eyewitnesstohistory.com |date=1945-08-06 |accessdate=2009-07-17}}</ref><ref>{{cite web|url=http://www.nuclearfiles.org/menu/library/media-gallery/video/hiroshima-aftermath |title=Library: Media Gallery: Video Files: Rare film documents devastation at Hiroshima |publisher=Nuclear Files |date= |accessdate=2009-07-17}}</ref>
+
+On May 27, 2016, President [[Barack Obama|Obama]] visited Hiroshima as the first sitting president of [[United States|USA]] since the drop of atomic bomb.<ref>{{cite web |url=http://www.city.hiroshima.jp/kikaku/joho/toukei/History-E/c05.html |archiveurl=http://www.nytimes.com/live/president-obama-hiroshima-japan/obama-becomes-1st-sitting-president-to-visit-hiroshima/ |archive-date=2016-05-29 |title=President Obama Visits Hiroshima |publisher=The NewYork Times |accessdate=2016-05-31}}</ref>
+
+==Geography==
+Hiroshima is situated on the [[Ōta River]] delta, on [[Hiroshima Bay]], facing the [[Seto Inland Sea]] on its south side. The river's six channels divide Hiroshima into several islets.
+
+=== Climate ===
+Hiroshima has a humid subtropical climate characterized by mild winters and hot humid summers. Like much of the rest of Japan, Hiroshima experiences a seasonal temperature lag in summer, with August rather than July being the warmest month of the year. Precipitation occurs year-round, although winter is the driest season. Rainfall peaks in June and July, with August experiencing sunnier and drier conditions.
+
+{{Weather box 
+|location = Hiroshima, Hiroshima (1981-2010)
+|metric first = yes
+|single line = yes
+|Jan record high C = 18.8
+|Feb record high C = 21.5
+|Mar record high C = 23.7
+|Apr record high C = 29.0
+|May record high C = 31.5
+|Jun record high C = 34.4
+|Jul record high C = 38.7
+|Aug record high C = 37.9
+|Sep record high C = 36.9
+|Oct record high C = 31.2
+|Nov record high C = 26.3
+|Dec record high C = 22.3
+|year record high C = 38.7
+
+|Jan high C = 9.7
+|Feb high C = 10.6
+|Mar high C = 14.0
+|Apr high C = 19.7
+|May high C = 24.1
+|Jun high C = 27.2
+|Jul high C = 30.8
+|Aug high C = 32.5
+|Sep high C = 29.0
+|Oct high C = 23.4
+|Nov high C = 17.4
+|Dec high C = 12.3
+|year high C = 20.9
+|Jan mean C = 5.2
+|Feb mean C = 6.0
+|Mar mean C = 9.1
+|Apr mean C = 14.7
+|May mean C = 19.3
+|Jun mean C = 23.0
+|Jul mean C = 27.1
+|Aug mean C = 28.2
+|Sep mean C = 24.4
+|Oct mean C = 18.3
+|Nov mean C = 12.5
+|Dec mean C = 7.5
+|year mean C = 16.3
+|Jan low C = 1.7
+|Feb low C = 2.1
+|Mar low C = 4.8
+|Apr low C = 9.9
+|May low C = 14.7
+|Jun low C = 19.4
+|Jul low C = 23.8
+|Aug low C = 24.8
+|Sep low C = 20.8
+|Oct low C = 14.2
+|Nov low C = 8.5
+|Dec low C = 3.7
+|year low C = 12.4
+
+|Jan record low C = -8.5
+|Feb record low C = -8.3
+|Mar record low C = -7.2
+|Apr record low C = -1.4
+|May record low C = 1.8
+|Jun record low C = 6.6
+|Jul record low C = 14.1
+|Aug record low C = 13.7
+|Sep record low C = 8.6
+|Oct record low C = 1.5
+|Nov record low C = -2.6
+|Dec record low C = -8.6
+|year record low C = -8.6
+
+|precipitation colour=green
+
+|Jan precipitation mm = 44.6
+|Feb precipitation mm = 66.6
+|Mar precipitation mm = 123.9
+|Apr precipitation mm = 141.7
+|May precipitation mm = 177.6
+|Jun precipitation mm = 247.0
+|Jul precipitation mm = 258.6
+|Aug precipitation mm = 110.8
+|Sep precipitation mm = 169.5
+|Oct precipitation mm = 87.9
+|Nov precipitation mm = 68.2
+|Dec precipitation mm = 41.2
+|year precipitation mm = 1537.6
+
+|Jan snow cm = 5
+|Feb snow cm = 4
+|Mar snow cm = 1
+|Apr snow cm = 0
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 0
+|Dec snow cm = 3
+|year snow cm = 12
+
+|Jan humidity = 68
+|Feb humidity = 67
+|Mar humidity = 64
+|Apr humidity = 63
+|May humidity = 66
+|Jun humidity = 72
+|Jul humidity = 74
+|Aug humidity = 71
+|Sep humidity = 70
+|Oct humidity = 68
+|Nov humidity = 69
+|Dec humidity = 69
+|year humidity = 68
+|Jan snow days = 8.7
+|Feb snow days = 7.1
+|Mar snow days = 2.6
+|Apr snow days = 0.0
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.0
+|Nov snow days = 0.2
+|Dec snow days = 4.5
+|Jan sun = 137.2
+|Feb sun = 139.7
+|Mar sun = 169.0
+|Apr sun = 190.1
+|May sun = 206.2
+|Jun sun = 161.4
+|Jul sun = 179.5
+|Aug sun = 211.2
+|Sep sun = 165.3
+|Oct sun = 181.8
+|Nov sun = 151.6
+|Dec sun = 149.4
+|year sun = 2042.3
+|source 1 = <ref>{{cite web
+| url = http://www.data.jma.go.jp/obd/stats/etrn/view/nml_sfc_ym.php?prec_no=67&block_no=47765&year=&month=&day=&view= | title = 気象庁 / 平年値（年・月ごとの値） | publisher = [[Japan Meteorological Agency]]}}</ref>}}
+
+===Wards===
+Hiroshima has eight [[Wards of Japan|wards]] (''ku''):
+
+{| class="wikitable"
+|-
+!Ward
+!Population
+!Area (km²)
+!Density<br/>(per km²)
+!Map
+|-
+|[[Aki-ku, Hiroshima|Aki-ku]]
+|align=right|78,176
+|align=right|94.01
+|align=right|832
+|rowspan=8|[[File:Hiroshima wards.png|300px]]
+|-
+|[[Asakita-ku, Hiroshima|Asakita-ku]]
+|align=right|156,368
+|align=right|353.35
+|align=right|443
+|-
+|[[Asaminami-ku, Hiroshima|Asaminami-ku]]
+|align=right|220,351
+|align=right|117.19
+|align=right|1,880
+|-
+|[[Higashi-ku, Hiroshima|Higashi-ku]]
+|align=right|122,045
+|align=right|39.38
+|align=right|3,099
+|-
+|[[Minami-ku, Hiroshima|Minami-ku]]
+|align=right|138,138
+|align=right|26.09
+|align=right|5,295
+|-
+|[[Naka-ku, Hiroshima|Naka-ku]]<br>(administrative center)
+|align=right|125,208
+|align=right|15.34
+|align=right|8,162
+|-
+|[[Nishi-ku, Hiroshima|Nishi-ku]]
+|align=right|184,881
+|align=right|35.67
+|align=right|5,183
+|-
+|[[Saeki-ku, Hiroshima|Saeki-ku]]
+|align=right|135,789
+|align=right|223.98
+|align=right|606
+|-
+| colspan="5" |<small>Population as of October 31, 2006</small>
+|}
+
+==Demographics==
+[[File:Hondori.jpg|thumb|[[Hondōri]] shopping arcade in Hiroshima]]
+
+{{As of|2006}}, the city has an estimated [[population]] of 1,154,391, while the total population for the metropolitan area was estimated as 2,043,788 in 2000.<ref>{{cite web |url=http://www.stat.go.jp/English/data/kokusei/2000/final/hyodai.htm#21 |title=Population of Japan, Table 92 |publisher=Statistics Bureau |accessdate=2007-08-14}}</ref> The total area of the city is {{convert|905.08|km²|2|abbr=out}}, with a [[population density]] of 1275.4 persons per km².<ref name="statprofile">{{cite web |url=http://www.city.hiroshima.jp/kikaku/joho/toukei/12_pro/profile-e.html |archiveurl=https://web.archive.org/web/20080206110108/http://www.city.hiroshima.jp/kikaku/joho/toukei/12_pro/profile-e.html |archivedate=2008-02-06 |title=2006 Statistical Profile |publisher=The City of Hiroshima |accessdate=2007-08-14}}</ref>
+
+The population around 1910 was 143,000.<ref name="terry">{{cite book |title=Terry's Japanese Empire |author=Terry, Thomas Philip |publisher=Houghton Mifflin Co |year=1914 |page=640}}</ref> Before [[World War II]], Hiroshima's population had grown to 360,000, and peaked at 419,182 in 1942.<ref name="statprofile"/> Following the atomic bombing in 1945, the population dropped to 137,197.<ref name="statprofile"/> By 1955, the city's population had returned to pre-war levels.<ref>{{cite book |title=Post-conflict Reconstruction in Japan, Republic of Korea, Vietnam, Cambodia, East Timor  |author=de Rham-Azimi, Nassrine, Matt Fuller, and Hiroko Nakayama |publisher=United Nations Publications |year=2003 |page=69}}</ref>
+
+==Transportation==
+
+===Air===
+
+Hiroshima is served by [[Hiroshima Airport]] {{airport codes|HIJ|RJOA}}, located {{convert|50|km|mi}} east of the city, with regular flights to [[Tokyo]], [[Sapporo]], [[Sendai]], [[Okinawa]], and also to [[China]], [[Taiwan]] and [[South Korea]].
+
+===Trains===
+
+Hiroshima has a [[Hiroshima Station|train station in Minami-ku]], where the [[Sanyō Shinkansen]], the [[San'yō Main Line]], the [[Kabe Line]], the [[Kure Line]], and the [[Geibi Line]], all of the [[West Japan Railway Company]], have a stop. (In fact, the station is a [[terminal station]] for many of those lines.) Hiroshima has its own people mover, the [[Astram Line]], run by [[Hiroshima Rapid Transit]]. It has 22 stations, and connects downtown Hiroshima to the [[Hiroshima Big Arch]] stadium.
+
+===Streetcars===
+[[File:Hiroden-5000.JPG|thumb|A modern tram in Hiroshima, May 2008]]
+Hiroshima is notable, in Japan, for its [[light rail]] system, nicknamed ''[[Hiroshima Electric Railway|Hiroden]],'' and the "Moving Streetcar Museum." Streetcar service started in 1912,<ref>{{cite web|url=http://www.vehicle.city.hiroshima.jp/VEHICLE_HP/Contents/01_home/0104_English/02_hiroden/romen.asp|title=広島市交通科学館／Hiroshima City Transportation Museum|publisher=}}</ref> was interrupted by the atomic bomb, and was restored as soon as was practical. (Service between Koi/Nishi Hiroshima and Tenma-cho was started up three days after the bombing.<ref name="hiroshimapeacemedia.jp">{{cite web|url=http://www.hiroshimapeacemedia.jp/hiroshima-koku/en/special/index_2011091301.html|title=Peace Newspaper produced by Japanese teenagers: Peace Seeds:feature story|publisher=}}</ref>)
+
+Streetcars and light rail vehicles are still rolling down Hiroshima's streets, including nuked streetcars 651 and 652, which are among the older streetcars in the system. When Kyoto and Fukuoka discontinued their trolley systems, Hiroshima bought them up at discounted prices, and, by 2011, the city had 298 streetcars, more than any other city in Japan.<ref name="hiroshimapeacemedia.jp"/>
+
+===Automobiles===
+
+Hiroshima is served by [[Route 54 (Japan)|Japan National Route 54]], Hiroshima Prefectural Route 37 (Hiroshima-Miyoshi Route), Hiroshima Prefectural Route 70 (Hiroshima-Nakashima Route), Hiroshima Prefectural Route 84 (Higashi Kaita Hiroshima Route), Hiroshima Prefectural Route 164 (Hiroshima-Kaita Route), and Hiroshima Prefectural Route 264 (Nakayama-Onaga Route).
+
+==Culture==
+[[File:HiroshimaShukkeien7309.jpg|thumb|[[Shukkei-en]]]]
+
+Hiroshima has a professional [[symphony orchestra]], which has performed at Wel City Hiroshima since 1963.<ref>{{cite web|url=http://www.wel-hknk.com/ |title=Wel City Hiroshima |publisher=Wel-hknk.com |date= |accessdate=2011-06-13}}</ref>  There are also many museums in Hiroshima, including the [[Hiroshima Peace Memorial Museum]], along with several art museums.  The [[Hiroshima Museum of Art]], which has a large collection of French [[renaissance]] art, opened in 1978.  The [[Hiroshima Prefectural Art Museum]] opened in 1968, and is located near [[Shukkei-en]] gardens.  The [[Hiroshima City Museum of Contemporary Art]], which opened in 1989, is located near [[Hijiyama]] Park.  Festivals include [[Hiroshima Flower Festival]] and [[Hiroshima International Animation Festival]].
+
+[[Hiroshima Peace Memorial Park]], which includes the [[Hiroshima Peace Memorial]], draws many visitors from around the world, especially for the [[Hiroshima Peace Memorial Ceremony]], an annual commemoration held on the date of the atomic bombing. The park also contains a large collection of monuments, including the [[Children's Peace Monument]], the [[Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims]] and many others.
+
+[[Hiroshima Castle|Hiroshima's rebuilt castle]] (nicknamed ''Rijō'', meaning ''[[Koi]] Castle'') houses a [[museum]] of life in the [[Edo period]]. [[Hiroshima Gokoku Shrine]] is within the walls of the castle. Other attractions in Hiroshima include [[Shukkei-en]], Fudōin, [[Mitaki-dera]], and [[Hijiyama Park]].
+
+===Cuisine===
+[[File:Okonomiyaki 2.jpg|thumb|left|upright|A man prepares [[okonomiyaki]] in a restaurant in Hiroshima]]
+
+Hiroshima is known for [[okonomiyaki]], a savory ([[umami]]) pancake cooked on a hot-plate, usually in front of the customer. It is cooked with various ingredients, which are layered rather than mixed together as done with the [[Osaka]] version of okonomiyaki. The layers are typically egg, cabbage, [[bean sprout]]s (moyashi), sliced pork/bacon with optional items (mayonnaise, fried squid, octopus, cheese, [[mochi]], [[kimchi]], etc.), and noodles ([[soba]], [[udon]]) topped with another layer of egg and a generous dollop of okonomiyaki sauce (Carp and Otafuku are two popular brands). The amount of cabbage used is usually 3 to 4 times the amount used in the Osaka style, therefore arguably a healthier version. It starts out piled very high and is generally pushed down as the cabbage cooks. The order of the layers may vary slightly depending on the chef's style and preference, and ingredients will vary depending on the preference of the customer.
+
+===Media===
+The [[Chugoku Shimbun]] is the local newspaper serving Hiroshima. It publishes both morning paper and evening editions.  Television stations include [[Hiroshima Home Television]], [[Hiroshima TV]], [[TV Shinhiroshima]], and the [[RCC Broadcasting Company]]. Radio stations include [[Hiroshima FM]], [[Chugoku Communication Network]], [[FM Fukuyama]], [[FM Nanami]], and [[Onomichi FM]].  Hiroshima is also served by [[NHK]], Japan's public broadcaster, with television and radio broadcasting.
+
+===Education===
+[[File:HiroshimaUniv SatakeMemorialHall.jpg|thumb|Satake Memorial Hall at Hiroshima University]]
+
+[[Hiroshima University]] was established in 1949, as part of a national restructuring of the education system. One national university was set up in each [[prefecture]], including Hiroshima University, which combined eight existing institutions (Hiroshima University of Literature and Science, Hiroshima School of Secondary Education, Hiroshima School of Education, Hiroshima Women's School of Secondary Education, Hiroshima School of Education for Youth, Hiroshima Higher School, Hiroshima Higher Technical School, and Hiroshima Municipal Higher Technical School), with the Hiroshima Prefectural Medical College added in 1953.<ref>{{cite web |url=http://www.hiroshima-u.ac.jp/category_view.php?category_child_id=2&category_id=8&template_id=14&lang=en |title=History of Hiroshima University |publisher=Hiroshima University |accessdate=2007-06-25}}</ref>
+
+===Sport===
+Hiroshima has several professional sports clubs. The city's main football club are [[Sanfrecce Hiroshima]], who play at the [[Hiroshima Big Arch]]. As Toyo Kogyo Soccer Club, they won the [[Japan Soccer League]] five times between 1965 and 1970 and the [[Emperor's Cup]] in [[1965 Emperor's Cup|1965]], [[1967 Emperor's Cup|1967]] and [[1969 Emperor's Cup|1969]]. After adopting their current name in 1992, the club won the [[J. League]] in [[2012 J. League Division 1|2012]] and [[2013 J. League Division 1|2013]]. The city's main women's football club is [[Angeviolet Hiroshima]]. Defunct clubs include [[Rijo Shukyu Football Club|Rijo Shukyu]], who won the Emperor's Cup in 1924 and 1925, and [[Ẽfini Hiroshima S.C.|Ẽfini Hiroshima]].
+
+[[Hiroshima Toyo Carp]] are the city's major [[baseball]] club, and play at the [[Mazda Stadium]]. Members of the [[Central League]], the club won the [[Japan Series]] in 1979, 1980 and 1984. Other sports clubs include [[Hiroshima Dragonflies]] ([[basketball]]), [[Hiroshima Maple Reds]] ([[handball]]) and [[JT Thunders]] ([[volleyball]]).
+
+The [[Woodone Open Hiroshima]] was part of the [[Japan Golf Tour]] between 1973 and 2007. The city also hosted the [[1994 Asian Games]], using the Big Arch stadium, which is now used for the annual [[Mikio Oda Memorial International Amateur Athletic Game]].
+
+==International relations==
+{{See also|List of twin towns and sister cities in Japan}}
+
+===Twin towns and sister cities===
+Hiroshima has six overseas [[sister cities]]:<ref name="Hiroshima" >{{cite web|url=http://www.city.hiroshima.lg.jp/shimin/kokusai/shimai/top-e.html |title=Introduction to our Sister and Friendship Cities |publisher=City.hiroshima.jp |accessdate=2010-05-10}}</ref>
+
+*{{flagicon|USA}} [[Honolulu]], United States (1959)
+*{{flagicon|RUS}} [[Volgograd]], Russia (1972)<ref name = "Volgograd">{{cite web|url=http://www.volgadmin.ru/EN2/Municipality/FriendlyRelationship.aspx |title=Friendly relationship at Official website of Volgograd |publisher=Volgadmin.ru |date=1994-12-01 |accessdate=2011-06-13}}</ref>
+*{{flagicon|GER}} [[Hanover]], Germany (1983)<ref name="Hanover">{{cite web|url=http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/St%C3%A4dte-Regionspartnerschaften/St%C3%A4dtepartnerschaften-der-Landeshauptstadt-Hannover |title=Twinnings of the City of Hannover |publisher=Presse- und Öffentlichkeitsarbeit der Landeshauptstadt Hannover |website=[http://www.hanover.de/ Hanover.de] - Offizielles Portal der Landeshauptstadt und der Region Hannover |language=German |accessdate=2014-10-13}}</ref>
+*{{flagicon|PRC}} [[Chongqing]], People's Republic of China (1986)
+*{{flagicon|KOR}} [[Daegu]], South Korea (1997)
+*{{flagicon|CAN}} [[Montreal]], Canada (1998)
+
+Within Japan, Hiroshima has a similar relationship with [[Nagasaki]].
+
+==Further reading==
+* Pacific War Research Society, ''Japan's Longest Day'' (Kodansha, 2002, ISBN 4-7700-2887-3), the internal Japanese account of the surrender and how it was almost thwarted by fanatic soldiers who attempted a coup against the Emperor.
+* [[Richard B. Frank]], ''Downfall: The End of the Imperial Japanese Empire'' (Penguin, 2001  ISBN 0-14-100146-1)
+* [[Robert Jungk]], ''Children of the Ashes'', 1st Eng. ed. 1961<ref>[http://gyanpedia.in/tft/Resources/books/childrenoftheashes.pdf Gyanpedia.in]{{dead link|date=June 2011}}</ref>
+* [[Gar Alperovitz]], ''The Decision to Use the Atomic Bomb'', ISBN 0-679-76285-X
+* [[John Hersey]], [[Hiroshima (book)|''Hiroshima'']], ISBN 0-679-72103-7
+* [[Michihiko Hachiya]], ''Hiroshima Diary: The Journal of a Japanese Physician'', August 6 - September 30, 1945 (Chapel Hill: [[University of North Carolina Press]], 1955), since reprinted.
+* [[Masuji Ibuse]], ''Black Rain'', ISBN 0-87011-364-X
+* [[Tamiki Hara]], ''Summer Flowers'' ISBN 0-691-00837-X
+* [[Robert Jay Lifton]] ''Death in life: The survivors of Hiroshima'', Weidenfeld & Nicolson 1st edition (1968) ISBN 0-297-76466-7
+
+==See also==
+{{Portal|Japan}}
+*''[[Barefoot Gen]]''
+* [[Cultural treatments of the atomic bombings of Hiroshima and Nagasaki]]
+*[[Kokura]]
+*[[Masaharu Morimoto]]
+*[[Nagasaki]]
+*[[Perfume (Japanese band)|Perfume]], a pop group from Hiroshima
+*[[Sadako Kurihara]]
+*[[Sadako Sasaki]] (1943–1955)
+*[[Town of Evening Calm, Country of Cherry Blossoms]]
+*[[Yōko Ōta]], author of several works of [[Atomic bomb literature]]
+*[[Yoshito Matsushige]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+{{refbegin}}
+*{{Cite book 
+|title=Hiroshima and Nagasaki: The Physical, Medical, and Social Effects of the Atomic Bombings 
+|author=Ishikawa, Eisei, David L. Swain 
+|publisher=Basic Books 
+|year=1981}}
+*{{Cite book 
+|author=Kowner, Rotem 
+|authorlink=Rotem Kowner
+|year=2002 
+|chapter=Hiroshima 
+|editor1=M. Ember |editor2=C. Ember |title=Encyclopedia of Urban Cultures (Vol. II) 
+|pages=341–348 
+|publisher=Grolier 
+|isbn=0-7172-5698-7}}
+{{refend}}
+
+==External links==
+{{Commons category|Hiroshima}}
+{{Wikivoyage|Hiroshima}}
+{{NIE Poster}}
+* [http://www.city.hiroshima.lg.jp Hiroshima City official website] {{ja icon}}
+* [http://www.city.hiroshima.lg.jp/www/genre/0000000000000/1001000000021/index.html Hiroshima City official website] {{en icon}}
+* [http://oldnewmaps.com/2014/08/05/hiroshima-atomic-bomb-6-august-1945/ Hiroshima before and after atomic bombing] - interactive aerial maps
+* [http://oldnewmaps.com/2014/08/05/hiroshima-atomic-bomb-damage-1945/ Hiroshima atomic bomb damage] - interactive aerial map
+* {{Wayback |date=20071112011107 |url=http://www.geocities.com/peterance/hiroshima.htm |title=Peter Rance's 1951 Hiroshima Photographs}}
+* [http://citymayors.com/mayors/hiroshima_mayor.html City Mayors article]
+* [http://archives.cbc.ca/IDD-1-71-1794/conflict_war/hiroshima/ CBC Digital Archives - Shadows of Hiroshima]
+* [http://www.gojapango.com/travel/hiroshima_maps.htm Hiroshima Map] - interactive with points of interest
+* [http://www.bbc.com/programmes/p008ww09 BBC World Service] BBC Witness programme interviews a schoolgirl who survived the bomb
+* [http://www.peacepalacelibrary.nl/2013/12/creating-peace-through-law-the-city-of-hiroshima/ Hope Elizabeth May, "Creating Peace through Law: the City of Hiroshima"]
+
+{{Hiroshima}}
+{{Metropolitan cities of Japan}}
+{{Nuclear and radiation accidents and incidents}}
+{{Asian Games Host Cities}}
+
+{{Authority control}}
+
+[[Category:Hiroshima| ]]
+[[Category:Cities in Hiroshima Prefecture]]
+[[Category:Atomic bombings of Hiroshima and Nagasaki]]
+[[Category:Populated places established in 1589]]
+[[Category:Port settlements in Japan]]
+[[Category:Populated coastal places in Japan]]
+[[Category:World War II sites in Japan]]

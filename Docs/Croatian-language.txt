@@ -1,0 +1,175 @@
+Croatian language
+
+{{Redirect|Hrvatski|other uses|Hrvatski (disambiguation)}}
+{{Infobox language
+|name=Croatian
+|nativename={{lang|sh|''hrvatski''}}
+|pronunciation={{IPA-sh|xř̩ʋaːtskiː|}}
+|states=[[Croatia]], [[Bosnia and Herzegovina]], [[Serbia]] ([[Vojvodina]]), [[Montenegro]], [[Romania]] ([[Caraș-Severin County]]), [[Slovenia]], and [[Croatian diaspora|diaspora]]
+|region =
+|speakers=5.6 million, including other dialects spoken by Croats
+|date=1991–2006
+|ref=e18
+|speakers2=1.25 million [[L2 speakers]] in Slovenia (2012)
+|familycolor=Indo-European
+|fam2=[[Balto-Slavic languages|Balto-Slavic]]
+|fam3=[[Slavic languages|Slavic]]
+|fam4=[[South Slavic languages|South Slavic]]
+|fam5=Western<ref name=e18/>
+|fam6=[[Serbo-Croatian]]<ref>{{cite web|url=http://www.ethnologue.com/show_language.asp?code=hbs |title=Serbo-Croatian |publisher=Ethnologue.com |date= |accessdate=2010-04-24}}<br> ''The official language of Croatia is Croatian (Serbo-Croatian). ''[...]'' The same language is referred to by different names, Serbian (srpski), Serbo-Croat (in Croatia: hrvatsko-srpski), Bosnian (bosanski), based on political and ethnic grounds.'' [...]'' the language that used to be officially called Serbo-Croat has gotten several new ethnically and politically based names. Thus, the names Serbian, Croatian, and Bosnian are politically determined and refer to the same language with possible slight variations.'' ("Croatia: Language Situation", in ''[[Encyclopedia of Language and Linguistics]]'', 2 ed., 2006.)</ref>
+|fam7=''[[Shtokavian dialect|Shtokavian]]''
+|fam8=''Neo-Shtokavian''
+|fam9=''[[Eastern Herzegovinian dialect|Eastern Herzegovinian]]''
+|script = [[Latin script|Latin]] <small>([[Gaj's Latin alphabet|Gaj's alphabet]])</small><br>[[Yugoslav Braille]]
+|nation ={{HRV}}<br>{{BIH}}<br>{{SRB}} (in [[Vojvodina]])<br>{{EU}}
+|minority={{SVK}}<br> {{CZE}}<ref>{{cite web|url=http://www.vlada.cz/assets/ppov/rnm/dokumenty/mezinarodni-dokumenty/duvodova_zprava_vlada_2005.pdf |title=Národnostní menšiny v České republice a jejich jazyky |trans_title=National Minorities in Czech Republic and Their Language |publisher=Government of Czech Republic|page=2 |quote=Podle čl. 3 odst. 2 Statutu Rady je jejich počet 12 a jsou uživateli těchto menšinových jazyků: [...], srbština a ukrajinština |language=Czech}}</ref><br>{{MNE}}<br>{{AUT}} (in [[Burgenland]])<br>{{HUN}} (in [[Baranya County]])<br>{{ITA}} (in [[Molise]])<br>{{ROM}} (in [[Carașova]], [[Lupac]])
+|agency=[[Institute of Croatian Language and Linguistics]]
+|iso1=hr
+|iso2=hrv
+|iso3=hrv
+|lingua=part of [[53-AAA-g]]
+|map=Croatian_dialects_in_RH_and_BiH.PNG
+|mapcaption=Traditional extent of Serbo-Croatian dialects in Croatia and in Bosnia and Herzegovina
+|notice=IPA
+|glotto=croa1245
+|glottorefname=Croatian
+}}
+
+{{South Slavic languages sidebar}}
+
+'''Croatian''' {{IPAc-en|audio=En-us-Croatian.ogg|k|r|oʊ|ˈ|eɪ|ʃ|ən}} (''{{lang|hr|hrvatski''}} {{IPA-sh|xř̩ʋaːtskiː|}})  is the [[standard language|standardized]] [[Variety (linguistics)#Standard varieties|variety]] of the [[Serbo-Croatian|Serbo-Croatian language]]<ref>David Dalby, ''Linguasphere'' (1999/2000, Linguasphere Observatory), pg. 445, 53-AAA-g, "Srpski+Hrvatski, Serbo-Croatian".</ref><ref>Benjamin W. Fortson IV, ''Indo-European Language and Culture: An Introduction'', 2nd ed. (2010, Blackwell), pg. 431, "Because of their mutual intelligibility, Serbian, Croatian, and Bosnian are usually thought of as constituting one language called Serbo-Croatian."</ref><ref>Václav Blažek, "On the Internal Classification of Indo-European Languages: Survey" [http://www.phil.muni.cz/linguistica/art/blazek/bla-003.pdf retrieved 20 Oct 2010], pp. 15–16.</ref> used by [[Croats]],<ref>E.C. Hawkesworth, "Serbian-Croatian-Bosnian Linguistic Complex", in the ''[[Encyclopedia of Language and Linguistics]]'', 2nd edition, 2006.</ref> principally in [[Croatia]], [[Bosnia and Herzegovina]], the [[Serbia]]n province of [[Vojvodina]] and other neighbouring countries. It is the [[official language|official]] and literary standard of Croatia and one of the official languages of the [[European Union]]. Croatian is also one of the official languages of Bosnia and Herzegovina, a recognized minority language in Serbia, and neighbouring countries.
+
+Standard Croatian is based on the most widespread dialect of Serbo-Croatian, [[Shtokavian dialect|Shtokavian]], more specifically on [[Eastern Herzegovinian dialect|Eastern Herzegovinian]], which is also the basis of [[Serbian language|Standard Serbian]], [[Bosnian language|Bosnian]], and [[Montenegrin language|Montenegrin]]. In the mid-18th century, the first attempts to provide a Croatian literary standard began on the basis of the Neo-Shtokavian dialect that served as a supraregional ''lingua franca'' pushing back regional Chakavian, Kajkavian, and Shtokavian vernaculars.<ref>{{harvcoltxt|Bičanić|Frančić|Hudeček|Mihaljević|2013|p=55}}</ref> The decisive role was played by [[Croatian Vukovians]], who cemented the usage of Ijekavian Neo-Shtokavian as the literary standard in the late 19th and the beginning of the 20th century, as well as designed a phonological orthography.<ref>{{harvcoltxt|Bičanić|Frančić|Hudeček|Mihaljević|2013|p=84}}</ref> Croatian is written in [[Gaj's Latin alphabet]].<ref>{{cite web|url=http://www.library.yale.edu/slavic/croatia/dictionary/ |title=Croatia: Themes, Authors, Books &#124; Yale University Library Slavic and East European Collection |publisher=Library.yale.edu |date=2009-11-16 |accessdate=2010-10-27}}</ref>
+
+Besides the Shtokavian dialect on which Standard Croatian is based, Croats also speak [[Chakavian dialect|Chakavian]] and [[Kajkavian dialect|Kajkavian]]. These dialects, and the four national standards, are usually subsumed under the term "Serbo-Croatian" in English, though this term is [[Serbo-Croatian#History of linguistic issues|controversial]] for native speakers,<ref>[http://www.rferl.org/content/Serbian_Croatian_Bosnian_or_Montenegrin_Many_In_Balkans_Just_Call_It_Our_Language_/1497105.html Radio Free Europe – Serbian, Croatian, Bosnian, Or Montenegrin? Or Just 'Our Language'?] Živko Bjelanović: Similar, But Different, Feb 21, 2009, accessed Oct 8, 2010</ref> and paraphrases such as "Bosnian-Croatian-Montenegrin-Serbian" are therefore sometimes used instead, especially in diplomatic circles.
+
+==History==
+{{see also|Serbo-Croatian#Early development|l1=Early development of Serbo-Croatian}}
+
+===Modern language and standardization===
+
+In the late medieval period up to the 17th century, the majority of semi-autonomous Croatia was ruled by two domestic dynasties of princes (''banovi''), the [[Zrinski]] and the [[Frankopan]], which were linked by inter-marriage.<ref>{{cite book |title= A History of Croatia |last=Gazi |first=Stephen |year=1973 |publisher= Philosophical library|location=New York |isbn=978-0-8022-2108-7 |accessdate=15 March 2012}}</ref> Toward the 17th century, both of them attempted to unify Croatia both culturally and linguistically, writing in a mixture of all three principal dialects (Chakavian, Kajkavian and Shtokavian), and calling it "Croatian", "Dalmatian", or "Slavonian".<ref name="fine">{{cite book |title= When Ethnicity did not Matter in the Balkans |last=Van Antwerp Fine |first=John |year=2006 |publisher= University of Michigan Press|location=Michigan, USA |isbn=978-0-472-11414-6 |page= |pages= 377–379 |accessdate=8 March 2012}}</ref> It is still used now in parts of [[Istria]], which became a crossroads of various mixtures of Chakavian with Ekavian/Ijekavian/Ikavian dialects.<ref>{{cite journal |last1=Kalsbeek |first1=Janneke |year=1998 |title=The Čakavian dialect of Orbanići near Žminj in Istria |journal= Studies in Slavic and General Linguistics|volume= 25|publisher=Rodopi|accessdate=15 March 2012 }}</ref>
+
+The most standardized form (Kajkavian–Ikavian) became the cultivated language of administration and intellectuals from the Istrian peninsula along the Croatian coast, across central Croatia up into the northern valleys of the Drava and the Mura. The cultural apex of this 17th century idiom is represented by the editions of "''Adrianskoga mora sirena''" ("Siren of Adriatic Sea") by [[Petar Zrinski]] and "''Putni tovaruš''" ("Traveling escort") by [[Katarina Zrinska]].<ref>{{cite web |url=http://www.matica.hr/Vijenac/vijenac349.nsf/AllWebDocs/Dva_brata_i_jedna_Sirena_ |title=Matica Hrvatska - Dva brata i jedna Sirena |accessdate=9 March 2012 }}</ref><ref>{{cite web |url=http://www.matica.hr/www/wwwizd2.nsf/AllWebDocs/zrinskipvtnitovarvs |title=Matica Hrvatska - Putni tovaruš - izvornik (I.) |accessdate=9 March 2012 }}</ref>
+
+However, this first linguistic renaissance in Croatia was halted by the [[Magnate conspiracy|political execution of Petar Zrinski and Fran Krsto Frankopan]] by the [[Holy Roman Emperor]] [[Leopold I, Holy Roman Emperor|Leopold I]] in Vienna in 1671.<ref name="tanner">{{cite book |title= Croatia: a Nation Forged in War |last=Tanner |first=Marcus |year=1997 |publisher= Yale University Press |location=New Haven, USA |isbn=0-300-06933-2 |page=50 |pages= }}</ref> Subsequently the Croatian elite in the 18th century gradually abandoned this combined Croatian standard.<ref name="malic">{{cite book |first=Dragica |last=Malić |authorlink=Dragica Malić |year=1997 |title=Razvoj hrvatskog književnog jezika|isbn=953-0-40010-1}}{{page needed|date=July 2014}}</ref>
+
+===Illyrian period===
+{{main|Illyrian movement}}
+The [[Illyrian movement]] was a 19th-century pan-[[South Slavs|South Slavic]] political and cultural movement in Croatia that had the goal to standardize the regionally differentiated and orthographically inconsistent literary languages in Croatia, and finally merge them into a common South Slavic literary language. Specifically, three major groups of dialects were spoken on Croatian territory, and there had been several [[literary language]]s over four centuries. The leader of the Illyrian movement [[Ljudevit Gaj]] standardized the Latin alphabet in 1830–1850 and worked to bring about a standardized orthography. Although based in Kajkavian-speaking [[Zagreb]], Gaj supported using the more populous Neo-Shtokavian – a version of Shtokavian that eventually became the predominant dialectal basis of both Croatian and Serbian literary language from the 19th century on.<ref>{{cite book |title=The development of the Croatian nation: an historical and sociological analysis |last=Uzelac |first=Gordana |year=2006 |publisher=Edwin Mellen Press |location=New York |isbn=978-0-7734-5791-1 |page=75 |pages= |url= |accessdate=15 March 2012 }}</ref> Supported by various South Slavic proponents, Neo-Shtokavian was adopted after an Austrian initiative at the [[Vienna Literary Agreement]] of 1850,<ref name="malic" /> laying the foundation for the unified Serbo-Croatian literary language.  The uniform Neo-Shtokavian then became common in the Croatian elite.<ref name="malic"/>
+
+In the 1860s, the [[Zagreb Philological School]] dominated the Croatian cultural life, drawing upon linguistic and ideological conceptions advocated by the members of the Illyrian movement.{{sfn|Bičanić|Frančić|Hudeček|Mihaljević|2013|p=77}} While it was dominant over the rival [[Rijeka Philological School]] and [[Zadar Philological School]]s, its influence waned with the rise of the [[Croatian Vukovians]] (at the end of the 19th century).{{sfn|Bičanić|Frančić|Hudeček|Mihaljević|2013|p=78}}
+
+==Distinguishing features and differences between standards==
+{{Main|Comparison of standard Bosnian, Croatian and Serbian}}
+{{see also|Serbo-Croatian phonology|Serbo-Croatian grammar}}
+
+Croatian is commonly characterized by the ''Ijekavian'' pronunciation (see [[Shtokavian dialect#The yat reflexes|an explanation of yat reflexes]]), the sole use of the Latin alphabet, and a number of [[lexis (linguistics)|lexical]] differences in common words that set it apart from standard Serbian.{{sfn|Corbett|Browne|2009|p=334}} Some differences are absolute, while some appear mainly in the frequency of use.{{sfn|Corbett|Browne|2009|p=334}}
+
+==Sociopolitical standpoints==
+Croatian, although technically a form of [[Serbo-Croatian]], is sometimes considered a distinct language by itself.<ref>{{cite web|last=Cvetkovic |first=Ljudmila |url=http://www.rferl.org/content/Serbian_Croatian_Bosnian_or_Montenegrin_Many_In_Balkans_Just_Call_It_Our_Language_/1497105.html |title=Serbian, Croatian, Bosnian, Or Montenegrin? Or Just 'Our Language'? – Radio Free Europe / Radio Liberty © 2010 |publisher=Rferl.org |date= |accessdate=2010-11-01}}</ref> Purely linguistic considerations of languages based on [[mutual intelligibility]] (''[[abstand]]'' languages) are frequently incompatible with sociopolitical conceptions of language so that varieties that are mutually intelligible may be considered separate languages. [[Comparison of standard Bosnian, Croatian and Serbian|Differences]] between various [[Standard language|standard forms]] of Serbo-Croatian are often exaggerated for political reasons.<ref>Benjamin W. Fortson IV, Indo-European Language and Culture: An Introduction, 2nd ed. (2010, Blackwell), pg. 431.</ref> Most Croatian linguists regard Croatian as a separate language that is considered key to national identity.<ref>{{cite journal | url = http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=39261&lang=en | title = "Jezično" pristupanje Hrvatske Europskoj Uniji: prevođenje pravne stečevine i europsko nazivlje | trans_title = The Accession of the Croatian Language to the European Union: Translation of the Acquis Communautaire and European Legal Terminology | author = Snježana Ramljak; Library of the Croatian Parliament, Zagreb, Croatia | journal = Croatian Political Science Review |language=Serbo-Croatian | issn = 0032-3241 | publisher = Faculty of Political Science, University of Zagreb | volume = 45 | number = 1 |date=June 2008 | accessdate = 2012-02-27}}</ref> The issue is sensitive in Croatia as the notion of a separate language being the most important characteristic of a nation is widely accepted, stemming from the 19th-century history of Europe.{{sfn|Stokes|2008|p=348}} The 1967 [[Declaration on the Status and Name of the Croatian Literary Language]], in which a group of Croatian authors and linguists demanded greater autonomy for the Croatian language, is viewed in Croatia as a linguistic policy milestone that was also a general milestone in national politics.{{sfn|Šute|1999|p=317}}
+
+The terms "Serbo-Croatian" or "Serbo-Croat" are still used as a cover term for all these forms by foreign scholars, even though the speakers themselves largely do not use it.{{sfn|Corbett|Browne|2009|p=334}} In Croatia, this is often based on the argument that the official language in Yugoslavia, a standardized form of Serbo-Croatian, was "artificial" or a political tool used to combine two distinct people.{{citation needed|date=October 2010}} Within ex-Yugoslavia, the term has largely been replaced by the ethnic terms Serbian, Croatian, and Bosnian.<ref>David Crystal "Language Death", Cambridge University Press, 2000, pp. 11, 12</ref>
+
+The use of the name "Croatian" for a language names has been historically attested to, though not always distinctively; the [[Croatian–Hungarian Agreement]], for example, designated "Croatian" as one of its official languages,<ref>http://www.crohis.com/izvori/nagodba2.pdf</ref> and Croatian became an official [[European Union|EU]] language upon accession of Croatia to the EU on 1 July 2013.<ref>{{cite web|url=http://daily.tportal.hr/89107/Vandoren-EU-membership-challenge-and-chance-for-Croatia.html |title=Vandoren: EU membership – challenge and chance for Croatia – Daily – tportal.hr |publisher=Daily.tportal.hr |date=2010-09-30 |accessdate=2010-10-27}}</ref><ref>{{cite web|url=http://europa.eu/epso/apply/news/news130_en.htm |title=Applications for Croatian linguists |publisher=EU careers |date=2012-06-21 |accessdate=2012-09-10}}</ref> In 2013, the EU started publishing a Croatian language version of its official gazette.<ref>{{cite web|url=http://eur-lex.europa.eu/JOEdSpecRep.do?year=2013&ihmlang=hr|title=Službeni list Europske unije|language=Serbo-Croatian|trans_title=Official Gazette of the European Union|publisher=[[European Union]]|accessdate=29 January 2013}}</ref>
+
+==Official status==
+[[File:Serbo croatian languages2006 02.png|thumb|250px|Areas with an ethnic Croatian majority (as of 2006)]]
+Standard Croatian is the official language of the Republic of [[Croatia]]<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/hr.html |title=Croatia |publisher=Cia.gov |date= |accessdate=2010-12-21}}</ref> and, along with Standard [[Bosnian language|Bosnian]] and Standard [[Serbian language|Serbian]], one of three official languages of [[Bosnia and Herzegovina]].<ref>{{cite web|url=http://www.ethnologue.com/show_country.asp?name=ba |title=Ethnologue report for Bosnia and Herzegovina |publisher=Ethnologue.com |date= |accessdate=2010-12-21}}</ref> It is also official in the regions of [[Burgenland]] (Austria),<ref>{{cite journal | first = Andrea Zorka | last = Kinda-Berlakovich | url = http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=16200&lang=en | title = Hrvatski nastavni jezik u Gradišću u školsko-političkome kontekstu | trans_title = Croatian as the Language of Instruction and Language Policy in Burgenland from 1921 onwards | journal = LAHOR | volume = 1 | number = 1 | year = 2006 | pages = 27–35 | publisher = Croatian Philological Society | issn = 1846-2197}}</ref> [[Molise]] (Italy)<ref>{{cite web|url=http://www.helsinki.fi/~tasalmin/europe_report.html#MCroatian |title=Endangered languages in Europe: report |publisher=Helsinki.fi |date= |accessdate=2010-10-27}}</ref> and [[Vojvodina]] (Serbia).<ref>{{cite web|url=http://www.puma.vojvodina.gov.rs/etext.php?ID_mat=207&PHPSESSID=p6rdjkgjbf7fl16lp81ov8m6q3 |title=www.puma.vojvodina.gov.rs |publisher=Puma.vojvodina.gov.rs |date= |accessdate=2010-12-21}}</ref> Additionally, it has co-official status alongside [[Romanian language|Romanian]] in the communes of [[Carașova]]<ref>{{cite web|url=http://www.edrc.ro/recensamant.jsp?regiune_id=1832&judet_id=1909&localitate_id=1930 |title=Structura Etno-demografică a României |publisher=Edrc.ro |date= |accessdate=2010-10-27}}</ref> and [[Lupac]],<ref>{{cite web|url=http://www.edrc.ro/recensamant.jsp?regiune_id=1832&judet_id=1909&localitate_id=1956 |title=Structura Etno-demografică a României |publisher=Edrc.ro |date= |accessdate=2010-10-27}}</ref><ref>{{cite web|url=http://www.edrc.ro/recensamant.jsp?regiune_id=1832&judet_id=1909 |title=Structura Etno-demografică a României |publisher=Edrc.ro |date= |accessdate=2010-12-21}}</ref> [[Romania]]. In these localities, [[Croats of Romania|Croats]] or [[Krashovani]] make up the majority of the population, and education, signage and access to public administration and the justice system are provided in Croatian, alongside Romanian.
+
+Croatian is officially used and taught at all the [[universities in Croatia]], and at the [[University of Mostar]] in Bosnia and Herzegovina.
+
+There is no regulatory body that determines the proper usage of Croatian. The current standard language is generally laid out in the grammar books and dictionaries used in education, such as the school curriculum prescribed by the Ministry of Education and the university programmes of the Faculty of Philosophy at the [[Culture of Croatia#Education|four main universities]].{{Citation needed|date=December 2010}}{{update after|2014|8}} In 2013, a ''Hrvatski pravopis'' by the [[Institute of Croatian Language and Linguistics]] received an official sole seal of approval from the Ministry of Education.
+
+Attempts are being made to revive Croatian literature in Italy.<ref>{{cite web|url=http://www.ethnologue.com/show_language.asp?code=hrv |title=From Gordon, Raymond G., Jr. (ed.), 2005. Ethnologue: Languages of the World, Fifteenth edition. Dallas, Tex.: SIL International |publisher=Ethnologue.com |date= |accessdate=2010-01-26}}</ref>{{Failed verification|date=August 2014}}
+
+The most prominent recent editions describing the Croatian standard language are:
+
+* ''Hrvatski pravopis'' by the [[Institute of Croatian Language and Linguistics]], available [http://pravopis.hr/ online]
+* ''Rječnik hrvatskoga jezika'' by [[Vladimir Anić|Anić]]
+* ''Rječnik hrvatskoga jezika'' by [[Jure Šonje|Šonje]] et al.
+*''Hrvatski enciklopedijski rječnik'', by a group of authors
+* ''Hrvatska gramatika'' by [[Eugenija Barić|Barić]] et al.
+
+Also notable are the recommendations of ''Matica hrvatska'', the national publisher and promoter of Croatian heritage, and the Lexicographical institute Miroslav Krleža, as well as the [[Croatian Academy of Sciences and Arts]].
+
+Numerous representative Croatian linguistic works were published since the independence of Croatia, among them three voluminous monolingual dictionaries of contemporary Croatian.
+
+==See also==
+{{Portal|Croatia|Languages}}
+*[[Croatian Language Corpus]]
+*[[Croatian National Corpus]]
+*[[Days of the Croatian Language]]
+*[[Language secessionism#In Serbo-Croatian|Language secessionism in Serbo-Croatian]]
+*[[Mutual intelligibility#Dialects or registers of one language sometimes considered separate languages|Mutual intelligibility]]
+*[[Dialects of Serbo-Croatian]]
+*[[Pluricentric language#Serbo-Croatian|Pluricentric Serbo-Croatian language]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Sources==
+* {{citation |title=Pregled povijesti, gramatike i pravopisa hrvatskog jezika |year=2013 |publisher=Croatica |first=Ante |last=Bičanić |author2-first=Anđela |author2-last=Frančić |author3-first=Lana |author3-last=Hudeček |author4-first=Milica |author4-last=Mihaljević |language=Serbo-Croatian}}
+* {{cite book | ref = harv | title = The World's Major Languages | chapter = Serbo-Croat - Bosnian, Croatian, Montenegrin, Serbian | first1 = Greville | last1 = Corbett | first2 = Wayles | last2 = Browne | authorlink2 = Wayles Browne | editor-first = Bernard | editor-last = Comrie | editorlink = Bernard Comrie | publisher = [[Routledge]] | year = 2009 | isbn = 9781134261567 | url = https://books.google.com/books?id=4DR-AgAAQBAJ&pg=PA334}}
+* {{cite book | ref = harv | title = Yugoslavia: Oblique Insights and Observations | first = Gale | last = Stokes | publisher = University of Pittsburgh Pre | year = 2008 | isbn = 9780822973492 | url = https://books.google.com/books?id=8vLegdmW9toC&pg=PA348}}
+* {{cite journal |ref=harv |journal=Radovi Zavoda za hrvatsku povijest |volume=31 |issue=1 |issn=0353-295X |pages=317–318 |title=Deklaracija o nazivu i položaju hrvatskog književnog jezika – Građa za povijest Deklaracije, Zagreb, 1997, str. 225 |trans_title=Declaration on the Status and Name of the Croatian Standard Language – Declaration History Articles, Zagreb, 1997, p. 225 |language=Serbo-Croatian |first=Ivica |last=Šute |date=April 1999 | url = http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=76413&lang=en | accessdate = 5 July 2014}}
+* {{cite news|title=SOS ili tek alibi za nasilje nad jezikom |trans_title= SOS, or nothing but an alibi for violence against language |url=http://bib.irb.hr/datoteka/578565.O_Deklaraciji_Forum.jpg |language=Serbo-Croatian |location=Zagreb |publisher=''Forum'' |date=16 March 2012 |pages=38–39 |issn=1848-204X |archivedate=7 July 2012 |deadurl=no |archiveurl=http://www.webcitation.org/68yT7x9My |accessdate=9 April 2015}}
+
+==Further reading==
+* {{citation |title=Pregled povijesti, gramatike i pravopisa hrvatskog jezika |year=2013 |publisher=Croatica |first=Ante |last=Bičanić |first2=Anđela |last2=Frančić |author3-first=Lana |author3-last=Hudeček |author4-first=Milica |author4-last=Mihaljević |language=Serbo-Croatian}}
+* Banac, Ivo: ''Main Trends in the Croatian Language Question'', YUP 1984
+* {{cite book|last=Blum |first=Daniel |year=2002 |language=German |title=Sprache und Politik : Sprachpolitik und Sprachnationalismus in der Republik Indien und dem sozialistischen Jugoslawien (1945-1991) |trans_title=Language and Policy: Language Policy and Linguistic Nationalism in the Republic of India and the Socialist Yugoslavia (1945-1991) |series=Beiträge zur Südasienforschung ; vol. 192 |location=Würzburg | publisher=Ergon | page=200 |isbn=3-89913-253-X |oclc=51961066}} <small>[http://opak.crolib.hr/cgi-bin/unicat.cgi?form=D1300830084 (CROLIB)]</small>.
+* Franolić, Branko: ''A Historical Survey of Literary Croatian'', Nouvelles Editions Latines, 1984
+* {{cite book|last=Franolić |first=Branko |authormask=2 |year=1985 |title=A Bibliography of Croatian Dictionaries |publisher=Nouvelles Editions Latines |location=Paris |page=139}}
+* {{cite book|last=Franolić |first=Branko |authormask=2 |year=1988 |title=Language Policy in Yugoslavia with special reference to Croatian |publisher=Nouvelles Editions Latines |location=Paris}}
+* {{cite book|last1=Franolić |first1=Branko |authormask=2 |last2=Žagar |first2=Mateo |year=2008 |title=A Historical Outline of Literary Croatian & The Glagolitic Heritage of Croatian Culture |publisher=Erasmus & CSYPN |location=London & Zagreb |isbn=978-953-6132-80-5}}
+* {{cite book|author=Greenberg, Robert David |title=Language and identity in the Balkans: Serbo-Croatian and its disintegration |year=2004 |publisher=Oxford University Press |isbn=978-0-19-925815-4}} (reprinted in 2008 as ISBN 978-0-19-920875-3)
+* {{cite book|last=Gröschel |first=Bernhard| authorlink=Bernhard Gröschel |year=2009 |language=German |title=Das Serbokroatische zwischen Linguistik und Politik: mit einer Bibliographie zum postjugoslavischen Sprachenstreit |trans_title=Serbo-Croatian Between Linguistics and Politics: With a Bibliography of the Post-Yugoslav Language Dispute |series=Lincom Studies in Slavic Linguistics ; vol 34 |location=Munich |publisher=Lincom Europa |page=451 |isbn=978-3-929075-79-3 |oclc=428012015 |lccn=2009473660 |ol=15295665W}} [http://d-nb.info/994941226/04 Inhaltsverzeichnis].
+* Kačić, Miro: ''Croatian and Serbian: Delusions and Distortions'', Novi Most, Zagreb 1997
+* {{cite book|last=Kordić |first=Snježana| authorlink=Snježana Kordić |year=2010 |language=Serbo-Croatian |title=Jezik i nacionalizam |trans_title=Language and Nationalism |url=http://bib.irb.hr/datoteka/475567.Jezik_i_nacionalizam.pdf |deadurl=no |series=Rotulus Universitas |location=Zagreb | publisher=Durieux | page=430 |isbn=978-953-188-311-5 |lccn=2011520778 |oclc=729837512  |ol=15270636W |archivedate=8 July 2012 | archiveurl=http://www.webcitation.org/690BiBe4T |accessdate=7 March 2013}}
+* Moguš, Milan: ''A History of the Croatian Language'', NZ Globus, 1995
+* Težak, Stjepko: "Hrvatski naš (ne)zaboravljeni" [Croatian, our (un)forgotten language], 301 p., knjižnica Hrvatski naš svagdašnji (knj. 1), Tipex, Zagreb, 1999, ISBN 953-6022-35-4 ''(Croatian)''
+
+==External links==
+
+{{InterWiki|code=hr}}
+{{Commons category|Croatian language}}
+{{Wikivoyage|Croatian phrasebook|Croatian|a phrasebook}}
+{{Wikibooks|Croatian}}<!--
+{{wikibookslang|code=hr}}
+{{wikisourcelang|hr}}
+{{wikiquotelang|code=hr}}-->
+{{Wiktionary category}}
+*[http://en.wiktionary.org/wiki/Appendix:Croatian_Swadesh_list Croatian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+*[http://www.eudict.com EUdict – online dictionary – translation from Croatian into many languages and vice versa]
+*[http://riznica.ihjj.hr/ Croatian Language Corpus]
+*[http://crodip.ffzg.hr/default_e.aspx Croatian Old Dictionary Portal]
+
+===Language history===
+*[http://web.archive.org/web/20040606041856/http://www.cam.ac.uk/societies/cro/crolang.htm The Croatian Language Today], a lecture given by dr. Branko Franolić
+*[http://www.library.yale.edu/slavic/croatia/dictionary/ History of Croatian Dictionaries and Grammar books at Yale University Library – Slavic and East European Collection]
+
+{{navboxes|
+|list1 =
+{{Croatian language|state=expanded}}
+{{Croatia topics|state=collapsed}}
+{{Languages of Croatia}}
+{{Languages of Bosnia and Herzegovina}}
+{{Languages of Serbia}}
+{{Slavic languages}}
+{{Languages of Europe}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Croatian Language}}
+[[Category:Croatian language| ]]
+[[Category:Languages of Croatia]]
+[[Category:Languages of Bosnia and Herzegovina]]
+[[Category:Languages of Serbia]]
+[[Category:Languages of Vojvodina]]
+[[Category:Languages of Austria]]
+[[Category:Languages of Hungary]]
+[[Category:Languages of Molise]]
+[[Category:Languages of Italy]]
+[[Category:Languages of Slovenia]]

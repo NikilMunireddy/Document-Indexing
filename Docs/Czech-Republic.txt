@@ -1,0 +1,901 @@
+Czech Republic
+
+{{About|the European country}}
+{{pp-pc1}}
+{{pp-move-indef}}
+
+{{Use dmy dates|date=January 2016}}
+
+{{Infobox country
+| latd=50 
+|latm=05 
+|latNS=N 
+|longd=14 
+|longm=28 
+|longEW=E
+| languages_type = Official language
+ | languages2_type = {{raise|0.3em |{{nobold|Officially recognised<ref name="languages">Citizens belonging to minorities, which traditionally and on a long-term basis live within the territory of the Czech Republic, enjoy the right to use their language in communication with authorities and in courts of law (for the list of recognized minorities see [http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/ National Minorities Policy of the Government of the Czech Republic], Belorussian and Vietnamese since 4 July 2013, see [http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj Česko má nové oficiální národnostní menšiny. Vietnamce a Bělorusy]). Article 25 of the Czech [[Charter of Fundamental Rights and Basic Freedoms]] ensures the right of the national and ethnic minorities to education and communication with the authorities in their own language. Act No. 500/2004 Coll. (''The Administrative Rule'') in its paragraph 16 (4) (''Procedural Language'') ensures that a citizen of the Czech Republic who belongs to a national or an ethnic minority, which traditionally and on a long-term basis lives within the territory of the Czech Republic, has the right to address an administrative agency and proceed before it in the language of the minority. If the administrative agency has no employee with knowledge of the language, the agency is bound to obtain a translator at the agency's own expense. According to Act No. 273/2001 (''Concerning the Rights of Members of Minorities'') paragraph 9 (''The right to use language of a national minority in dealing with authorities and in front of the courts of law'') the same also applies to members of national minorities in the courts of law.</ref><ref>The Slovak language may be considered an official language in the Czech Republic under certain circumstances, as defined by several laws – e.g. law 500/2004, 337/1992. Source: http://portal.gov.cz. Cited: "Například Správní řád (zákon č. 500/2004 Sb.) stanovuje: "V řízení se jedná a písemnosti se vyhotovují v českém jazyce. Účastníci řízení mohou jednat a písemnosti mohou být předkládány i v jazyce slovenském&nbsp;..." (§16, odstavec 1). Zákon o správě daní a poplatků (337/1992 Sb.) "Úřední jazyk: Před správcem daně se jedná v jazyce českém nebo slovenském. Veškerá písemná podání se předkládají v češtině nebo slovenštině&nbsp;..." (§ 3, odstavec 1). http://portal.gov.cz</ref>}} }}
+| leader_name2 = [[Bohuslav Sobotka]]
+| conventional_long_name = Czech Republic
+| native_name = {{native name|cs|Česká republika}}
+| image_flag = Flag of the Czech Republic.svg 
+| image_coat = Coat_of_arms_of_the_Czech_Republic.svg
+| common_name = the Czech Republic
+| linking_name = the Czech Republic<!--to link to "[Topic] of the Czech Republic" articles-->
+| national_motto = {{native phrase|cs|"[[Truth prevails|Pravda vítězí]]"|italics=off}}<br/>{{small|"Truth prevails"}}
+| national_anthem = {{vunblist |{{native phrase|cs|[[Kde domov můj]]|nolink=yes}} |{{raise|0.35em|{{small|''Where is my home?''}}}} |{{center|[[File:Czech anthem.ogg]]}} }}
+ | image_map = EU-Czechia.svg
+| map_caption = {{map_caption |countryprefix=the |location_color=dark green |region=Europe |region_color=dark grey |subregion=the European Union |subregion_color=green |legend=EU-Czechia.svg}}
+| capital = [[Prague]]
+| largest_city = capital
+| languages = [[Czech language|Czech]]<ref>{{cite web |url=http://www.czech.cz/en/67019-czech-language |title=Czech language |work=Czech Republic – Official website |publisher=[[Ministry of Foreign Affairs (Czech Republic)|Ministry of Foreign Affairs of the Czech Republic]] |accessdate=14 November 2011}}</ref>
+| languages2 =
+ {{collapsible list |titlestyle=background:none;text-align:left;font-weight:normal; |title= 
+  |[[Slovak language|Slovak]] |[[German language|German]] |[[Polish language|Polish]] |[[Belarusian language|Belarusian]] |[[Bulgarian language|Bulgarian]] |[[Croatian language|Croatian]] |[[Greek language|Greek]] |[[Hungarian language|Hungarian]] |[[Romani language|Romani]] |[[Russian language|Russian]] |[[Rusyn language|Rusyn]] |[[Serbian language|Serbian]] |[[Ukrainian language|Ukrainian]] |[[Vietnamese language|Vietnamese]]
+ }}
+| ethnic_groups =
+ {{vunblist
+  |  64% [[Czechs]]
+  |  26% unspecified
+  |  5% [[Moravians]]
+  |  1.4% [[Slovaks]]
+  |  0.4% [[Poles]]
+ }}
+| ethnic_groups_year = 2014<ref>{{cite web|title=Czech Republic Population 2014|url=http://worldpopulationreview.com/countries/czech-republic-population/|publisher=World Population Review|accessdate=14 April 2014}}</ref>
+| demonym = [[Czechs|Czech]]
+| government_type = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]<br/>[[constitutional republic]]}}
+| leader_title1 = [[President of the Czech Republic|President]]
+| leader_name1 = [[Miloš Zeman]]
+| leader_title2 = [[Prime Minister of the Czech Republic|Prime Minister]]
+| legislature = [[Parliament of the Czech Republic|Parliament]]
+| upper_house = [[Senate of the Parliament of the Czech Republic|Senate]]
+| lower_house = [[Chamber of Deputies of the Parliament of the Czech Republic|Chamber of Deputies]]
+| established_event1 = [[Duchy of Bohemia]]
+| sovereignty_type = [[History of the Czech Lands|Formation]]
+| established_event2 = [[Kingdom of Bohemia]]
+| established_date1 = [[Circa|c.]] 870
+| established_event3 = [[Czechoslovakia]]
+| established_date2 = 1198
+| established_event4 = {{nowrap|[[Czech Socialist Republic]]}}
+| established_date3 = 28 October 1918
+| established_event5 = [[Dissolution of Czechoslovakia|Czech Republic]]
+| established_date4 = 1 January 1969
+|established_event6 = {{nowrap|[[2004 enlargement of the European Union|Joined]] the [[European Union]]}}
+| established_date5 = 1 January 1993
+|established_date6 = 1 May 2004
+| patron_saint = [[Wenceslaus I, Duke of Bohemia|St. Wenceslaus]]
+| area_km2 = 78,866
+| area_rank = 116th
+| area_sq_mi = 30,450 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 2
+| population_estimate = 10,553,443<ref>{{cite web |title=
+Population change – 1st – 2nd quarter of 2015|url=https://www.czso.cz/csu/czso/population-of-the-czech-republic-increased |publisher=[[Czech Statistical Office]] |date=21 March 2016 |accessdate=21 March 2016}}</ref>
+| population_census = 10,436,560<ref>[http://www.scitani.cz/sldb2011/eng/redakce.nsf/i/census_2011_basic_final_results/$File/SLDB-ZAKL-CR_en.xls Census of Population and Housing 2011: Basic final results]. [http://www.czso.cz/eng/redakce.nsf/i/home Czech Statistical Office]. Retrieved on 19 December 2012.</ref>
+| population_estimate_year = 2015
+| population_estimate_rank = 81st
+| population_census_year = 2011
+| population_density_km2 = 134
+| population_density_rank = 87th
+| population_density_sq_mi = 341 <!--Do not remove per [[WP:MOSNUM]]-->
+| GDP_PPP = $343.931 billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?pr.x=68&pr.y=6&sy=2015&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=935&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Czech Republic |publisher=International Monetary Fund |accessdate=31 December 2015}}</ref>
+| GDP_PPP_year = 2016
+| GDP_PPP_rank = 50th
+| GDP_PPP_per_capita = $32,622<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 39th
+| GDP_nominal = $189.982 billion<ref name=imf2/>
+| GDP_nominal_year = 2016
+| GDP_nominal_rank = 49th
+| GDP_nominal_per_capita = $18,020<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 41st
+| Gini = 25.1 <!--number only-->
+| Gini_year = 2014
+| Gini_change =  <!--increase/decrease/steady-->increase
+| Gini_ref = <ref name=eurogini>{{cite web |title=Gini coefficient of equivalised disposable income (source: SILC) |url=http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do |publisher=Eurostat Data Explorer |accessdate=4 December 2015}}</ref>
+| Gini_rank =4th
+| HDI = 0.870 <!--number only-->
+| HDI_year = 2014<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf|title=Human Development Report 2015 |year=2015 |publisher=United Nations |accessdate=14 December 2015}}</ref>
+| HDI_rank = 28th
+| currency = [[Czech koruna]]
+| currency_code = CZK
+| time_zone = [[Central European Time|CET]]
+| utc_offset = +1
+| utc_offset_DST = +2
+| time_zone_DST = [[Central European Summer Time|CEST]]
+| drives_on = right
+| calling_code = [[Telephone numbers in the Czech Republic|+420]]<sup>b</sup>
+| iso3166code = CZ
+| cctld = [[.cz]]<sup>c</sup>
+| footnote_a = The [[Rhetorical question|question is rhetorical]], implying "those places where my homeland lies".
+<!--ORPHANED: 30 June 2010 (see {{Wayback |df=yes|date=20101114043947 |url=http://www.czso.cz/eng/csu.nsf/informace/aoby091310.doc |title=Population changes}}).-->
+<!--ORPHANED: Rank based on 2009 IMF data.-->
+| footnote_b = Code 42 was shared with [[Slovakia]] until 1997.
+| footnote_c = Also [[.eu]], shared with other European Union member states.
+| religion = 
+ {{vunblist 
+  |{{longitem|style=line-height:1.15em
+  |88.5% non-religious or undeclared}} 
+  |10.4% [[Catholic Church|Roman Catholic]]
+  |1.1% other
+ }}
+| religion_year = 2011<ref>{{cite web|title=Czech Republic Demographics Profile 2014|url=http://www.indexmundi.com/czech_republic/demographics_profile.html|publisher=Index Mundi|accessdate=14 December 2014}}</ref>
+| EUseats = 24
+}}
+
+The '''Czech Republic''' ({{IPAc-en|audio=en-us-Czech Republic.ogg|ˈ|tʃ|ɛ|k|_|ɹ|ɨ|ˈ|p|ʌ|b|l|ɪ|k}} {{respell|CHEK|rə|PUB|lik}};<ref>{{cite web|url=http://www.oed.com/|title=Oxford English Dictionary|publisher=|accessdate=13 September 2014}}</ref> {{lang-cs|Česká republika}} {{IPA-cs|ˈt͡ʃɛskaː ˈrɛpuˌblɪka||Cs-Ceska Republika.oga}}), also known as '''Czechia''' ({{IPAc-en|audio=Czechia.ogg|ˈ|tʃ|ɛ|k|i|ə}} {{respell|CHE|kee-ə}}; {{lang-cz|Česko}} {{IPA-cs|ˈt͡ʃɛsko}}), is a [[nation state]] in [[Central Europe]] bordered by [[Germany]] to the west, [[Austria]] to the south, [[Slovakia]] to the east and [[Poland]] to the northeast.<ref>{{cite web|title=Information about the Czech Republic|url=http://www.mzv.cz/chicago/en/other_useful_information/information_about_the_czech_republic/index.html|website=Czech Foreign Ministry}}</ref> The Czech Republic covers an area of {{convert|78,866|km2|sqmi}} with mostly temperate continental climate. It is a [[Unitary state|unitary]] [[parliamentary republic]], has 10.5&nbsp;million inhabitants and the capital and largest city is [[Prague]], with over 1.2 million residents. The Czech Republic includes its historical territories of [[Bohemia]],<ref>There is no distinction in the [[Czech language]] between adjectives referring to Bohemia and to the Czech Republic; i.e. ''český'' means both ''Bohemian'' and ''Czech''.</ref> [[Moravia]], and [[Czech Silesia]].
+
+The Czech state was formed in the late 9th century as the [[Duchy of Bohemia]] under the [[Great Moravia|Great Moravian Empire]]. After the fall of the Empire in 907, the centre of power transferred from Moravia to Bohemia under the [[Přemyslid dynasty]]. In 1004, the duchy was formally recognized as part of the [[Holy Roman Empire]],<ref name="The Path">{{cite web|url=http://www.vlada.cz/assets/udalosti/vystavy/Cesty-ceske-ustavnosti.pdf|title=The Path of Czech Constitutionality|last1=Mlsna|first1=Petr|last2=Šlehofer|first2=F.|last3=Urban|first3=D.|year=2010|work=1st edition|publisher=Úřad Vlády České Republiky (The Office of the Government of the Czech Republic)|pages=10–11|language=Czech, English|accessdate=31 October 2012|location=Praha}}</ref><ref>{{cite web|url=http://www.nacr.cz/zpravy/zlatabula800.aspx|title=800 let Zlaté buly sicilské|last=Čumlivski|first=Denko|year=2012|publisher=National Archives of the Czech Republic (Národní Archiv České Republiky)|language=czech|accessdate=31 October 2012|archiveurl=http://www.nacr.cz/zpravy/zlatabula800.aspx|archivedate=1 October 2012}}</ref> becoming the [[Kingdom of Bohemia]] in 1198 and reaching its greatest territorial extent in the 14th century. Besides Bohemia itself, the [[List of Bohemian monarchs|king of Bohemia]] ruled the [[lands of the Bohemian Crown]], he had a [[Prince-elector|vote in the election of]] the [[Holy Roman Emperor]], and Prague was the imperial seat in periods between the 14th and 17th century. In the [[Hussite wars]] of the 15th century driven by the [[Bohemian Reformation]], the kingdom faced economic embargoes and defeated five [[crusades]] proclaimed by the leaders of the [[Roman Catholic Church]].
+
+Following the [[Battle of Mohács]] in 1526, the whole Crown of Bohemia was gradually integrated into the [[Habsburg Monarchy]] alongside the [[Archduchy of Austria]] and the [[Kingdom of Hungary]]. The Protestant [[Bohemian Revolt]] (1618–20) against the Catholic [[Habsburgs]] led to the [[Thirty Years' War]], after which the monarchy consolidated its rule, reimposed Catholicism, and adopted a policy of gradual [[Germanization]]. With the dissolution of the Holy Roman Empire in 1806, the Bohemian Kingdom became part of the [[Austrian Empire]] and the [[Czech language]] experienced a revival as a consequence of widespread [[romantic nationalism]]. In the 19th century, the Czech lands became the industrial powerhouse of the monarchy and were subsequently the core of the Republic of [[Czechoslovakia]], which was formed in 1918 following the collapse of the [[Austro-Hungarian Empire]] after World War I.
+
+Czechoslovakia was [[German-occupied Europe|occupied by Germany]] in World War II, and was liberated in 1945 by the [[Soviet Union|Soviet]] and the [[United States]] armies. Most of the [[Sudeten Germans|German-speaking inhabitants]] were [[Expulsion of Germans from Czechoslovakia|expelled]] after the war and thus the country lost its sizable minority and its bilingual character. The [[Communist Party of Czechoslovakia]] won the [[Czechoslovakian parliamentary election, 1946|1946 elections]]. Following the [[Czechoslovak coup d'état of 1948|1948 coup d'état]], Czechoslovakia became a [[One-party state|one-party communist state]] under Soviet influence. In 1968, increasing dissatisfaction with the regime culminated in a reform movement known as the [[Prague Spring]], which ended in a [[Warsaw Pact invasion of Czechoslovakia|Soviet-led invasion]]. Czechoslovakia remained occupied until the 1989 [[Velvet Revolution]], when the communist regime collapsed and a multiparty parliamentary republic was formed. On 1 January 1993, Czechoslovakia [[Dissolution of Czechoslovakia|peacefully dissolved]], with its constituent states becoming the independent states of the Czech Republic and [[Slovakia]].
+
+The Czech Republic joined [[NATO]] in 1999 and the [[European Union]] in 2004; it is a member of the [[United Nations]], the [[Organisation for Economic Co-operation and Development|OECD]], the [[Organization for Security and Co-operation in Europe|OSCE]], and the [[Council of Europe]]. It is a [[developed country]]<ref name="worldbank06">{{cite web| last = Velinger| first = Jan | title = World Bank Marks Czech Republic's Graduation to 'Developed' Status | publisher=Radio Prague| url = http://www.radio.cz/en/article/76314| date = 28 February 2006| accessdate =22 January 2007 }}</ref> with an [[advanced economy|advanced]],<ref>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weoselco.aspx?g=110&sg=All+countries+%2f+Advanced+economies |title=Edit/Review Countries |publisher=Imf.org |date=14 September 2006 |accessdate=14 May 2014}}</ref> [[World Bank high-income economy|high income economy]]<ref>[http://data.worldbank.org/about/country-and-lending-groups#High_income Country and Lending Groups.] [[World Bank]]. Accessed on 3 July 2014.</ref> and high [[Standard of living|living standards]].<ref>http://www.imf.org/external/pubs/ft/weo/2014/01/pdf/text.pdf</ref><ref>{{cite web|url=http://www.numbeo.com/quality-of-life/rankings_by_country.jsp|title=Quality of Life Index by Country 2014 Mid Year|publisher=|accessdate=13 September 2014}}</ref><ref>[[Social Progress Index]]</ref> The [[United Nations Development Programme|UNDP]] ranks the country 14th in [[List of countries by inequality-adjusted HDI|inequality-adjusted human development]].<ref>{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Complete.pdf|title=2011 Human Development Report|publisher=|accessdate=13 September 2014}}</ref> The Czech Republic also ranks as the [[Global Peace Index|10th most peaceful country]], while achieving strong performance in [[Democracy Index|democratic governance]]. The Czech Republic has the lowest unemployment rate in the European Union.<ref name="eurostatunemp16">{{cite web|title=Unemployment statistics|url=http://ec.europa.eu/eurostat/statistics-explained/index.php/Unemployment_statistics#Recent_developments_in_unemployment_at_a_European_and_Member_State_level|website=ec.europa.eu|publisher=Eurostat|accessdate=29 April 2016}}</ref>
+
+==Etymology==<!--linked-->
+{{Main|Name of the Czech Republic}}
+The traditional English name "Bohemia" derives from Latin "Boiohaemum", which means "home of the [[Boii]]". The current name comes from the endonym ''Čech'', spelled "Cžech" until the orthographic reform in 1842.<ref>{{cite web|url=http://oxforddictionaries.com/view/entry/m_en_gb0201690#m_en_gb0201690 |title=Oxford English Dictionary |publisher=Askoxford.com |accessdate=4 March 2011}}</ref><ref>
+[http://www.collinsdictionary.com/dictionary/english/czech Czech]. CollinsDictionary.com. Collins English Dictionary – Complete & Unabridged 11th Edition. Retrieved 19 November 2012.
+</ref>
+The name comes from the Slavic tribe (Czechs, {{lang-cs|Čechové}}) and, according to legend, their leader [[Lech, Čech, and Rus|Čech]], who brought them to Bohemia, to settle on [[Říp Mountain]]. The etymology of the word ''Čech'' can be traced back to the [[Proto-Slavic]] root ''*čel-'', meaning "member of the people; kinsman", thus making it [[cognate (linguistics)|cognate]] to the Czech word ''[[:wiktionary:člověk|člověk]]'' (a person).<ref>{{cite web|last=Spal|first=Jaromír|title=Původ jména Čech|url=http://nase-rec.ujc.cas.cz/archiv.php?art=4320|publisher=Naše řeč|accessdate=10 December 2012}}</ref>
+
+The country has been traditionally divided into three lands, namely [[Bohemia]] (''Čechy'') in the west, [[Moravia]] (''Morava'') in the southeast, and [[Czech Silesia]] (''Slezsko''; the smaller, south-eastern part of [[Silesia|historical Silesia]], most of which is located within modern Poland) in the northeast. Known as the ''lands of the Bohemian Crown'' since the 14th century, a number of other names for the country have been used, including ''Czech/Bohemian lands'', ''Bohemian Crown'', and the ''lands of the Crown of [[Saint Wenceslaus I, Duke of Bohemia|Saint Wenceslas]]''. When the country regained its independence after the dissolution of the [[Austria-Hungary|Austro-Hungarian empire]] in 1918, the new name of ''Czechoslovakia'' was coined to reflect the union of the Czech and Slovak nations within the one country.
+
+Following the dissolution of Czechoslovakia at the end of 1992, the Czech part of the former nation found itself without a common single-word [[geography|geographical]] name in English. The name ''Czechia'' {{IPAc-en|ˈ|tʃ|ɛ|k|i|ə}} was recommended by the [[Ministry of Foreign Affairs (Czech Republic)|Czech Ministry of Foreign Affairs]] (minister [[Josef Zieleniec]]). In a memorandum to all Czech embassies and diplomatic missions in 1993,  the full name "Czech Republic" was recommended for use only in official documents and titles of official institutions <ref>Instructions of the Foreign Ministry of the Czech Republic (26 February 1993, ČSN ISO 3166-1; MZV č.j.81.628/98 OKKV, 17 March 1998)</ref> (cit.). The geographical name still has not reached general recognition, but its usage is increasing. It can be found in dictionaries,<ref>Josef Fronek: Velký česko-anglický slovník (second, extended release, publ.LEDA 2013, p.91) [http://www.leda.cz/Autor-info.php?jmeno=Josef-Fronek%7C97]</ref> maps, special literature,<ref>Pavlínek P., Ženka J.: The 2008–2009 automotive industry crisis and regional unemployment in Central Europe (Cambridge Journal of Regions, Economy & Society) [http://cjres.oxfordjournals.org/content/early/2010/08/24/cjres.rsq026.abstract]</ref> tourist road atlases,<ref>[http://www.mapyapruvodce.cz/Index/AA/SHOCRTuristAtlas100Nahled.jpg Road atlas "Česko – Czechia – Tschechien"]</ref> maps,<ref>[http://www.mapyapruvodce.cz/Index/AA/FBCRBryleNahled.jpg Road map "Česko – Tschechien – Czechia"] (Freytag & Berndt)</ref> encyclopedias,<ref>{{cite web|url=https://www.kosmas.cz/knihy/161920/czechia/|title=Czechia|work=Kosmas.cz – internetové knihkupectví}}</ref> media,<ref>{{cite web|url=http://www.tv-address.com/page/result/?keyword=czechia|title=Search result - www.tv-address.com|author=PTco|publisher=}}</ref> and on the web. Czech president [[Miloš Zeman]] uses the name ''Czechia'' in his official speeches and he announced in April 2016 the government would make a formal request to the UN to include the name in its geographical database.<ref>{{cite web|title=Meeting with the members of the Diplomatic Corps|url=http://www.hrad.cz/en/president-of-the-cr/current-president-of-the-cr-milos-zeman/selected-speeches-and-interviews/650.shtml|website=www.hrad.cz|publisher=Prague Castle|accessdate=27 April 2015|date=29 October 2014}}</ref><ref>{{cite news|url=http://www.theguardian.com/weather/2016/apr/14/czech-republic-czechia-new-name|last=Laughland|first=Oliver|newspaper=Guardian|title=Czech Republic officials say country would like to be called 'Czechia' instead|date=14 April 2016|access-date=15 April 2016}}</ref> If it is approved, "Czechia" would be a short form of the country's name and would not replace the full official name of the "Czech Republic" (similar to how the official name of France is the "French Republic"). <ref>[http://www.thenational.ae/world/europe/czech-republic-or-czechia-the-debate-goes-on Czech Republic or Czechia? The debate goes on]</ref>
+
+==History==
+{{Main|History of the Czech lands}}
+{{multiple image
+ | width     = 160
+ | align     = left
+ | direction = vertical
+ | image1 = Celts in Europe.png
+ | alt1 = Map
+ | caption1 = Diachronic distribution of [[Celts|Celtic]] peoples, showing expansion of the core territory into the Czech lands by the 270s BC
+ | image2 = Stone sculpture of celtic hero.jpg
+ | alt2 = Stone sculpture
+ | caption2 = ''[[Mšecké Žehrovice Head|Stone head]]'' of a hero  (cc. 450-50 B.C.) wearing a [[torc]], example of [[Iron Age Europe|Iron Age]] [[Celtic art]].
+}}
+
+{{Quote box |width=23em |align=right   |bgcolor=#E5E4E2
+|title=Historical affiliations
+|fontsize=90% |quote={{plainlist|
+*[[Samo's Empire]] 631–658
+*[[Great Moravia]] 830s–900s
+*{{flagicon image|Přemyslovci_erb.svg}} [[Duchy of Bohemia]] 880s–1198
+*{{flagicon image|Flag_of_Bohemia.svg}} [[Kingdom of Bohemia|Kingdom]] and [[Lands of Bohemian Crown|Crown of Bohemia]] 1198–1918
+{{plainlist|indent=1|
+*{{flagicon|Holy Roman Empire}} ''part of the [[Holy Roman Empire]]'' 1002–1806
+*{{flagicon image|Flag_of_the_Habsburg_Monarchy.svg}} ''part of the [[Austrian Empire]]'' 1804–1867
+*{{flagicon image|Flag_of_Austria-Hungary_(1869-1918).svg}} ''part of the [[Austria-Hungary|Austro-Hungarian Empire]]'' 1867–1918
+}}
+*{{flag|Czechoslovakia}} 1918–1939
+*{{flagicon image|Flag_of_Bohmen_und_Mahren.svg}} [[Protectorate of Bohemia and Moravia]] ''(protectorate of {{flag|Nazi Germany}})'' 1939–1945
+*{{flag|Czechoslovakia}} 1945–1992
+*{{flag|Czech Republic}} 1993–present
+}}
+}}
+
+===Prehistory===
+Archaeologists have found evidence of prehistoric human settlements in the area, dating back to the [[Paleolithic]] era. The figurine [[Venus of Dolní Věstonice]], together with a few others from nearby locations, found here is the oldest known [[ceramic]] article in the world.
+
+In the [[classical era]], from the 3rd century BC [[Celts|Celtic]] migrations, the [[Boii]] and later in the 1st century, Germanic tribes of [[Marcomanni]] and [[Quadi]] settled there. Their king [[Maroboduus]] is the first documented ruler of Bohemia. During the [[Migration Period]] around the 5th century, many Germanic tribes moved westwards and southwards out of Central Europe.
+
+[[Slavic people]] from the [[Black Sea]]–[[Carpathian Mountains|Carpathian]] region settled in the area (a movement that was also stimulated by the onslaught of peoples from [[Siberia]] and Eastern Europe: [[Huns]], [[Avars (Carpathians)|Avars]], [[Bulgars]] and [[Hungarian people|Magyars]]). In the sixth century they moved westwards into Bohemia, Moravia and some of present-day Austria and Germany. During the 7th century, the Frankish merchant [[Samo]], supporting the Slavs fighting against nearby settled [[Pannonian Avars|Avars]], became the ruler of the first known Slav state in Central Europe, the [[Samo's Empire]]. The Moravian principality [[Great Moravia]] arose in the 8th century and reached its zenith in the 9th, when it held off the influence of the Franks and won the protection of the Pope.
+
+===Bohemia===
+{{Main|Bohemia}}
+
+[[File:Premysl2Gelnhausen.jpg|thumb|upright|160px|[[Ottokar II of Bohemia|Přemysl Ottokar II]], [[List of Bohemian monarchs|King of Bohemia]] (1253–1278) and [[Duke of Austria]] (1251–1278)]]
+The [[Duchy of Bohemia]] emerged in the late 9th century, when it was unified by the [[Přemyslid dynasty]]. In 10th century [[Boleslaus I, Duke of Bohemia]] conquered Moravia, Silesia and expanded farther to the east. The [[Kingdom of Bohemia]] was, as the only kingdom in the [[Holy Roman Empire]], a significant regional power during the [[Middle Ages]]. It was part of the Empire from 1002 till 1806, with the exception of the years 1440–1526.{{Citation needed|date=January 2015}} In 1212, King [[Ottokar I of Bohemia|Přemysl Ottokar I]] (bearing the title "king" since 1198) extracted the [[Golden Bull of Sicily]] (a formal edict) from the emperor, confirming Ottokar and his descendants' royal status; the [[Duchy]] of Bohemia was raised to a [[Realm|Kingdom]]. The bull declared that the King of Bohemia would be exempt from all future obligations to the Holy Roman Empire except for participation in imperial councils. German immigrants settled in the Bohemian periphery in the 13th century. Germans populated towns and mining districts and, in some cases, formed German colonies in the interior of Bohemia. In 1235, the [[Mongol Empire|Mongols]] launched an [[Mongol invasion of Europe|invasion of Europe]]. After the [[Battle of Legnica]] in Poland, the Mongols carried their raids into Moravia, but were defensively defeated at the fortified town of [[Olomouc]].<ref>{{cite book |last1=Grousset |first1=René |title=The Empire of the Steppes |date=1970 |publisher=Rutgers University Press |isbn=978-0-8135-1304-1 |page=266 |url=https://books.google.cz/books?id=CHzGvqRbV_IC&printsec=frontcover&hl=en}}</ref> The Mongols subsequently invaded and defeated Hungary.<ref>Jan Dugosz, Maurice Michael (1997) ''The Annals of Jan Dlugosz'', IM Publications, ISBN 1-901019-00-4</ref>
+
+{{multiple image
+ | align     = left
+ | direction = vertical
+ | width1 = 160
+ | image1 = Znak českého království.png
+ | alt1 = Coat of Arms
+ | caption1 = Coat of arms of [[Kingdom of Bohemia]] emerged in the 13th century
+ | width2 = 160
+ | image2 = CrownBohemia3.jpg
+ | alt2 = Crown of Saint Wenceslas in 2016
+ | caption2 = The [[Crown of Saint Wenceslas]] is the 4th oldest in Europe
+}}
+
+King [[Ottokar II of Bohemia|Přemysl Otakar II]] earned the nickname ''Iron and Golden King'' because of his military power and wealth. He acquired Austria, [[Styria]], [[Carinthia (state)|Carinthia]] and [[Carniola]], thus spreading the Bohemian territory to the [[Adriatic Sea]]. He met his death at the [[Battle on the Marchfeld]] in 1278 in a war with his rival, King [[Rudolph I of Germany]].<ref>{{cite web|url=http://archiv.radio.cz/history/history03.html |title=The rise and fall of the Przemyslid Dynasty |publisher=Archiv.radio.cz |accessdate=25 April 2010}}</ref> Ottokar's son [[Wenceslaus II of Bohemia|Wenceslaus II]] acquired the Polish crown in 1300 for himself and the Hungarian crown for his son. He built a great empire stretching from the [[Danube river]] to the [[Baltic Sea]]. In 1306, the last king of Přemyslid line was murdered in mysterious circumstances in Olomouc while he was resting. After a series of dynastic wars, the [[House of Luxembourg]] gained the Bohemian throne.<ref>{{cite web|url=http://www.panovnici.cz/vaclav-II-kral|title=Václav II. český král|work=panovnici.cz}}</ref>
+
+[[File:Locator Lands of the Bohemian Crown within the Holy Roman Empire (1618).svg|thumb|The [[Lands of the Bohemian Crown|Crown of Bohemia]] within the [[Holy Roman Empire]] (1600). The Czech lands were part of the Empire in 1004–1806, and Prague was the imperial seat in 1346–1437 and 1583–1611.]]
+The 14th century, in particular, the reign of the [[List of rulers of Bohemia|Bohemian king]] [[Charles IV, Holy Roman Emperor|Charles IV]] (1316–1378), who in 1346 became [[King of the Romans]] and in 1354 both [[King of Italy]] and [[Holy Roman Emperor]], is considered the Golden Age of Czech history. Of particular significance was the founding of [[Charles University in Prague]] in 1348, [[Charles Bridge]], [[Charles Square]]. Much of [[Prague Castle]] and the [[cathedral of Saint Vitus]] in [[Czech Gothic architecture|Gothic style]]  were completed during his reign. He unified [[Brandenburg]] (until 1415), [[Lusatia]] (until 1635), and [[Silesia]] (until 1742) under the Czech crown. The [[Black Death]], which had raged in Europe from 1347 to 1352, decimated the Kingdom of Bohemia in 1380,<ref>{{cite web|url=http://www.arts.gla.ac.uk/Slavonic/Czech_Hist4.html |title=The flowering and the decline of the Czech medieval state |publisher=Arts.gla.ac.uk |accessdate=25 April 2010}}</ref> killing about 10% of the population.<ref>''"[https://books.google.com/books?id=3u3rNCWtv0MC&pg=PA49&dq&hl=en#v=onepage&q=&f=false Plague epidemics in Czech countries]"''. E. Strouhal. p.49.</ref>
+
+By the end of the 14th century started the process of the so-called [[Bohemian Reformation|Bohemian (Czech) Reformation]]. The religious and social reformer [[Jan Hus]] formed a reform movement later named after him. Although Hus was named a heretic and burnt in [[Konstanz|Constance]] in 1415, his followers seceded from the Catholic Church and in the [[Hussite Wars]] (1419–1434) defeated five crusades organized against them by the Holy Roman Emperor [[Sigismund, Holy Roman Emperor|Sigismund]]. [[Petr Chelčický]] continued with the [[Hussites|Hussite Reformation movement]]. During the next two centuries, 90% of the inhabitants became adherents of the Hussite movement. Hus's thoughts were a major influence on the later emerging [[Lutheranism]]. Luther himself said “we are all Hussites, without having been aware of it” and considered himself as Hus' direct successor.<ref>{{cite web|title=Mentor and precursor of the Reformation|url=http://www.luther2017.de/en/reformation/and-its-people/jan-hus/}}</ref>
+
+After 1526 Bohemia came increasingly under [[House of Habsburg|Habsburg]] control as the Habsburgs became first the elected and then in 1627 the hereditary rulers of Bohemia. The [[Austrian Habsburgs#Division of the house: Spanish and Austrian Habsburgs|Austrian Habsburgs]] of the 16th century, the founders of the central European [[Habsburg Monarchy]], were buried in Prague. Between 1583–1611 Prague was the official seat of the Holy Roman Emperor [[Rudolf II, Holy Roman Emperor|Rudolf II]] and his court.
+
+[[File:Defenestration-prague-1618.jpg|thumb|The [[Defenestrations of Prague|Defenestration of Prague]] sparked the [[Thirty Years' War]]]]
+[[File:Frantisek Palacky monument.jpg|thumb|upright|Monument to [[František Palacký]], a significant member of the [[Czech National Revival]]]]
+The [[Defenestrations of Prague|Defenestration of Prague]] and subsequent revolt against the Habsburgs in 1618 marked the start of the [[Thirty Years' War]], which quickly spread throughout Central Europe. In 1620, the rebellion in Bohemia was crushed at the [[Battle of White Mountain]], and the ties between Bohemia and the Habsburgs' hereditary lands in Austria were strengthened. The leaders of the [[Bohemian Revolt]] were [[Old Town Square execution|executed in 1621]]. The nobility and the middle class Protestants had to either convert to Catholicism or leave the country.<ref>{{cite web|title=Protestantism in Bohemia and Moravia (Czech Republic)|url=http://www.museeprotestant.org/en/notice/protestantism-in-the-republic-of-czechoslovakia/|website=Virtual Museum of Protestantism|accessdate=25 May 2015}}</ref>
+
+The following period, from 1620 to the late 18th century, has often been called colloquially the "Dark Age". The population of the [[Czech lands]] declined by a third through the expulsion of Czech Protestants as well as due to the war, disease and famine.<ref>Oskar Krejčí, Martin C. Styan, Ústav politických vied SAV. (2005). ''[https://books.google.com/books?id=38ciAe4J4VMC&pg=&dq&hl=en#v=onepage&q=&f=false Geopolitics of the Central European region: the view from Prague and Bratislava]''. p.293. ISBN 80-224-0852-2</ref> The Habsburgs prohibited all Christian confessions other than [[Catholicism]].<ref>{{cite web|url=http://archiv.radio.cz/history_96/history07.html |title=RP's History Online – Habsburgs |publisher=Archiv.radio.cz |accessdate=25 April 2010}}</ref> The flowering of [[Czech Baroque architecture|Baroque culture]] shows the ambiguity of this historical period.
+[[Ottoman Empire|Ottoman Turks]] and [[Crimean Khanate|Tatars]] invaded Moravia in 1663.<ref>"''[https://books.google.com/books?id=j08L5xLOQKwC&pg=PA557&dq&hl=en#v=onepage&q=&f=false History of the Mongols from the 9th to the 19th Century. Part 2. The So-Called Tartars of Russia and Central Asia. Division 1]''". Henry Hoyle Howorth. p.557. ISBN 1-4021-7772-0</ref> In 1679–1680 the Czech lands faced a devastating plague and an uprising of serfs.<ref>"''[https://books.google.com/books?id=FzQ9AAAAIAAJ&pg=PA494&dq&hl=en#v=onepage&q=&f=false The new Cambridge modern history: The ascendancy of France, 1648–88]''". Francis Ludwig Carsten (1979). p.494. ISBN 0-521-04544-4</ref>
+
+The reigns of [[Maria Theresa of Austria]] and her son [[Joseph II, Holy Roman Emperor]] and co-regent from 1765, were characterized by [[enlightened absolutism]]. In 1740, most of Silesia (except the southernmost area) was seized by King [[Frederick II of Prussia]] in the [[Silesian Wars]]. In 1757 the Prussians invaded Bohemia and after the [[Battle of Prague (1757)]] occupied the city. More than one quarter of Prague was destroyed and [[St. Vitus Cathedral]] also suffered heavy damage. However, soon after, at the [[Battle of Kolín]] Frederick was defeated and had to leave Prague and retreat from Bohemia. In 1770 and 1771 [[Famines in Czech lands|Great Famine]] killed about one tenth of the Czech population, or 250,000 inhabitants, and radicalised the countryside leading to peasant uprisings.<ref>"''The Cambridge economic history of Europe: The economic organization of early modern Europe''". E. E. Rich, C. H. Wilson, M. M. Postan (1977). p.614. ISBN 0-521-08710-4</ref> [[Serfdom]] was abolished (in two steps) between 1781 and 1848.
+
+The end of the [[Holy Roman Empire]] in 1806 led to degradation of the political status of the Kingdom of Bohemia. Bohemia lost its position of an [[Prince-elector|electorate]] of the Holy Roman Empire as well as its own political representation in the [[Imperial Diet (Holy Roman Empire)|Imperial Diet]].<ref>{{cite journal|last1=Hlavačka|first1=Milan|title=Formování moderního českého národa 1815–1914|journal=Historický obzor|date=2009|volume=20|issue=9/10|page=195|language=Czech}}</ref> Bohemian lands became part of the [[Austrian Empire]] and later of [[Austria–Hungary]]. During the 18th and 19th century the [[Czech National Revival]] began its rise, with the purpose to revive Czech language, culture and national identity. The [[Revolutions of 1848 in the Austrian Empire|Revolution of 1848]] in Prague, striving for liberal reforms and autonomy of the Bohemian Crown within the Austrian Empire, was suppressed. In 1866 Austria was defeated by Prussia in the [[Austro-Prussian War]]. The Austrian Empire needed to redefine itself to maintain unity in the face of nationalism. At first it seemed that some concessions would be made also to Bohemia, but in the end the Emperor [[Franz Joseph I of Austria|Franz Joseph I]] effected a compromise with Hungary only. The [[Austro-Hungarian Compromise of 1867]] and the never realized coronation of Franz Joseph as King of Bohemia led to a huge disappointment of Czech politicians.<ref>{{cite book|editor1-last=Cole|editor1-first=Laurence|editor2-last=Unowsky|editor2-first=David|title=The Limits of Loyalty: Imperial Symbolism, Popular Allegiances, and State Patriotism in the Late Habsburg Monarchy|publisher=Berghahn Books|location=New York, Oxford|url=http://www.brad.ac.uk/ssis/media/ssis/ceer/2013/Guyver_Cole-and-Unowsky.pdf|accessdate=24 May 2015}}</ref> The Bohemian Crown lands became part of the so-called [[Cisleithania]] (officially "The Kingdoms and Lands represented in the [[Imperial Council (Austria)|Imperial Council]]"). The first elections under [[Universal suffrage|universal male suffrage]] were held in 1907. The last King of Bohemia was [[Charles I of Austria|Blessed Charles of Austria]] who ruled in 1916–1918.
+
+===Czechoslovakia===
+[[File:28. říjen 1918.jpg|thumb|[[Czechoslovak declaration of independence]] rally in Prague on Wenceslas Square,
+28 October 1918]]
+{{Main|History of Czechoslovakia}}
+An estimated 1.4 million Czech soldiers fought in World War I, of whom some 150,000 died. Although the majority of Czech soldiers fought for the [[Austria-Hungary|Austro-Hungarian Empire]], more than 90,000 Czech volunteers formed the [[Czechoslovak Legion]]s in France, Italy and Russia, where they fought against the [[Central Powers]] and later against [[Bolsheviks|Bolshevik]] troops.<ref>{{cite web|url=http://www.radio.cz/cz/zpravy/105664|title=Radio Praha – zprávy|publisher=|accessdate=13 September 2014}}</ref> In 1918, during the collapse of the Habsburg Empire at the end of World War I, the independent republic of [[Czechoslovakia]], which joined the winning Allied powers, was created. This new country incorporated the [[Bohemian Crown]] (Bohemia, Moravia and Silesia) and parts of the [[Kingdom of Hungary]] (Slovakia and the [[Carpathian Ruthenia]]) with significant [[Germans in Czechoslovakia (1918–1938)|German]], [[Hungarians in Slovakia|Hungarian]], [[Polish minority in the Czech Republic|Polish]] and [[Ruthenia]]n speaking minorities.<ref>{{cite web|title=Tab. 3 Národnost československých státních příslušníků podle žup a zemí k 15.2.1921|url=http://www.czso.cz/sldb/sldb.nsf/i/8BE4678613181F2AC1256E66004C77DD/$File/tab3_21.pdf|format=PDF|publisher=[[Czech Statistical Office]]|language=Czech|accessdate=2 June 2007 |archiveurl = https://web.archive.org/web/20070605105429/http://www.czso.cz/sldb/sldb.nsf/i/8BE4678613181F2AC1256E66004C77DD/$File/tab3_21.pdf |archivedate = 5 June 2007}}</ref>
+
+In 1929 compared to 1913, the gross domestic product increased by 52% and industrial production by 41%. In 1938 Czechoslovakia held a 10th place in the world industrial production.<ref>{{cite web|url=http://www.blisty.cz/art/59458.html |title=Ekonomika ČSSR v letech padesátých a šedesátých |publisher=Blisty.cz |date=21 August 1968 |accessdate=14 May 2014}}</ref>
+
+[[File:Czechoslovakia I.png|thumb|left|270px|The interwar [[First Czechoslovak Republic|Czechoslovakia]]]]
+Although Czechoslovakia was a [[unitary state]], it provided what were at the time rather extensive rights to its minorities and remained the only democracy in this part of Europe in the interwar period. The effects of the [[Great Depression]] including high unemployment and massive propaganda from Nazi Germany, however, resulted in discontent and strong support among ethnic Germans for a break from Czechoslovakia.
+
+[[Adolf Hitler]] took advantage of this opportunity and, using [[Konrad Henlein]]'s separatist [[Sudeten German Party]], gained the largely German speaking [[Sudetenland]] (and its substantial [[Maginot Line]]-like [[Czechoslovak border fortifications|border fortifications]]) through the 1938 [[Munich Agreement]] (signed by [[Nazi Germany]], France, Britain and Italy). Czechoslovakia was not invited to the conference, therefore in fact betrayed by the United Kingdom and France, so Czechs and Slovaks call the Munich Agreement the [[Western betrayal|Munich Betrayal]] because the Western powers decided to give up Czechoslovakia instead of facing Hitler, which later proved inevitable. All that despite the fact that Czechoslovakia had alliance agreement with France.
+
+{{multiple image
+ | footer = [[Tomáš Garrigue Masaryk]] (left), first president of Czechoslovakia, and [[Edvard Beneš]] (right), president before and after World War II.
+ | align  = right
+ | width1 = 119
+ | image1 = Tomáš Garrigue Masaryk, Bain News Service (Library of Congress, Bain Collection) crop.jpg
+ | alt1 = Portrait
+ | width2 = 125
+ | image2 = Edvard Beneš.jpg
+ | alt2 = Portrait
+}}
+
+Despite the mobilization of 1.2 million-strong Czechoslovak army and the Franco-Czech military alliance, Poland annexed the [[Zaolzie]] area around [[Český Těšín]]; Hungary gained parts of Slovakia and the Subcarpathian Rus as a result of the [[First Vienna Award]] in November 1938. The remainders of Slovakia and the Subcarpathian Rus gained greater autonomy, with the state renamed to "Czecho-Slovakia". After Nazi Germany threatened to annex part of Slovakia, allowing the remaining regions to be partitioned by Hungary and Poland, Slovakia chose to maintain its national and territorial integrity, seceding from Czecho-Slovakia in March 1939, and allying itself, as demanded by Germany, with Hitler's coalition.<ref>Gerhard L. Weinberg, ''The Foreign Policy of Hitler's Germany: Starting World War II, 1937–1939'' (Chicago, 1980), pp. 470–481.</ref>
+
+The remaining Czech territory was occupied by Germany, which transformed it into the so-called [[Protectorate of Bohemia and Moravia]]. The protectorate was proclaimed part of the Third Reich, and the president and prime minister were subordinated to the Nazi Germany's ''[[Protector (title)|Reichsprotektor]]''. Subcarpathian Rus declared independence as the Republic of [[Carpatho-Ukraine]] on 15 March 1939 but was invaded by Hungary the same day and formally annexed the next day. Approximately 345,000 Czechoslovak citizens, including 277,000 Jews, were killed or executed while hundreds of thousands of others were sent to prisons and [[Nazi concentration camps]] or used as forced labour. Up to two-thirds of the citizens were in groups targeted by the Nazis for deportation or death.<ref>Stephen A. Garrett (1996). "''[https://books.google.com/books?id=lF9NBUZlh0AC&pg=PA60&dq&hl=en#v=onepage&q=&f=false Conscience and power: an examination of dirty hands and political leadership]''". Palgrave Macmillan. p.60. ISBN 0-312-15908-0</ref> One concentration camp was located within the Czech territory at [[Terezín]], north of Prague.
+
+[[File:Prague liberation 1945 konev.jpg|thumb|[[Prague]] liberated by [[Red Army]] in May 1945]]
+There was [[Czech resistance to Nazi occupation]], both at home and abroad, most notably with the [[Operation Anthropoid|assassination of Nazi German leader]] [[Reinhard Heydrich]] by Czechoslovakian soldiers [[Jozef Gabčík]] and [[Jan Kubiš]] in a Prague suburb on 27 May 1942. On 9 June 1942 Hitler ordered bloody reprisals against the Czechs as a response to the Czech anti-Nazi resistance. The [[German occupation of Czechoslovakia#Czechoslovak Government-in-Exile|Czechoslovak government-in-exile]] and its army fought against the Germans and were acknowledged by the Allies; Czech/Czechoslovak troops fought from the very beginning of the war in Poland, France, the UK, North Africa, the Middle East and the Soviet Union. The German occupation ended on 9 May 1945, with the arrival of the Soviet and American armies and the [[Prague uprising]]. An estimated 140,000 Soviet soldiers died in liberating Czechoslovakia from German rule.<ref>"''[https://books.google.com/books?id=JyN0hlKcfTcC&pg=PA409&dq&hl=en#v=onepage&q=&f=false A Companion to Russian History]''". Abbott Gleason (2009). Wiley-Blackwell. p.409. ISBN 1-4051-3560-3</ref>
+
+In 1945–1946, almost the entire German-speaking minority in Czechoslovakia, about 3 million people, [[Expulsion of Germans after World War II#Czechoslovakia|were expelled]] to Germany and Austria. During this time, thousands of Germans were held in prisons and detention camps or used as forced labour. In the summer of 1945, there were several massacres. The only Germans not expelled were some 250,000 who had been active in the resistance against the Nazi Germans or were considered economically important, though many of these emigrated later. Following a Soviet-organised referendum, the Subcarpathian Rus never returned under Czechoslovak rule but became part of the [[Ukrainian Soviet Socialist Republic]], as the [[Zakarpattia Oblast]] in 1946.
+
+Czechoslovakia uneasily tried to play the role of a "bridge" between the West and East. However, the [[Communist Party of Czechoslovakia]] rapidly increased in popularity, with a general disillusionment with the West, because of the pre-war [[Munich Agreement]], and a favourable popular attitude towards the Soviet Union, because of the Soviets' role in liberating Czechoslovakia from German rule. In the [[Czechoslovakian parliamentary election, 1946|1946 elections]], the Communists gained 38%<ref>F. Čapka: [http://www.libri.cz/databaze/dejiny/text/t98.html Dějiny zemí Koruny české v datech]. XII. Od lidově demokratického po socialistické Československo – pokračování. Libri.cz {{cs icon}}</ref> of the votes and became the largest party in the Czechoslovak parliament. They formed a coalition government with other parties of the [[National Front (Czechoslovakia)|National Front]] and moved quickly to consolidate power. A significant change came in 1948 with [[1948 Czechoslovak coup d'état|coup d'état by the Communist Party]]. The Communist [[People's Militias (Czechoslovakia)|People's Militias]] secured control of key locations in Prague, and a single party government was formed.
+
+[[File:10 Soviet Invasion of Czechoslovakia - Flickr - The Central Intelligence Agency.jpg|thumb|The [[Prague Spring]] political liberalization of the communist regime was stopped by the 1968 [[Warsaw Pact invasion of Czechoslovakia]]]]
+For the [[History of Czechoslovakia (1948–1989)|next 41 years]], Czechoslovakia was a Communist state within the [[Eastern Bloc]]. This period is characterized by lagging behind the West in almost every aspect of social and economic development. The country's GDP per capita fell from the level of neighboring Austria below that of Greece or Portugal in the 1980s. The Communist government completely [[Nationalization|nationalized]] the [[means of production]] and established a [[Planned economy|command economy]]. The economy grew rapidly during the 1950s but slowed down in the 1960s and 1970s and stagnated in the 1980s. The political climate was highly repressive during the 1950s, including numerous [[show trial]]s and hundreds of thousands of political prisoners, but became more open and tolerant in the late 1960s, culminating in [[Alexander Dubček]]'s leadership in the 1968 [[Prague Spring]], which tried to create "socialism with a human face" and perhaps even introduce political [[pluralism (political philosophy)|pluralism]]. This was forcibly ended by [[Warsaw Pact invasion of Czechoslovakia|invasion]] by all [[Warsaw Pact]] member countries with the exception of [[Socialist Republic of Romania|Romania]] and [[People's Socialist Republic of Albania|Albania]] on 21 August 1968.
+
+The invasion was followed by a harsh program of "[[Normalization (Czechoslovakia)|Normalization]]" in the late 1960s and the 1970s. Until 1989, the political establishment relied on censorship of the opposition. Dissidents published [[Charter 77]] in 1977, and the first of a new wave of protests were seen in 1988. Between 1948 and 1989 more than 250,000 Czechs and Slovaks were sent to prison, and over 400,000 emigrated.<ref>{{cite web|url=http://news.bbc.co.uk/2/hi/europe/4388764.stm|title=Czech schools revisit communism|publisher=|accessdate=13 September 2014}}</ref>
+
+===Velvet Revolution and independence===
+[[File:Havla 1989.jpg|thumbnail|right|[[Václav Havel]], the main figure of the [[Velvet Revolution]] and later [[List of Presidents of the Czech Republic|1st]] [[President of the Czech Republic|Czech president]] honoring wounded in protests.]]
+{{Main|Velvet Revolution|Dissolution of Czechoslovakia}}
+
+In November 1989, Czechoslovakia returned to a liberal democracy through the peaceful "[[Velvet Revolution]]". However, Slovak national aspirations strengthened and on 1 January 1993, the [[Dissolution of Czechoslovakia|country peacefully split]] into the independent Czech Republic and [[Slovakia]]. Both countries went through economic reforms and [[privatisation]]s, with the intention of creating a [[market economy]]. This process was largely successful; in 2006 the Czech Republic was recognised by the World Bank as a "developed country",<ref name="worldbank06"/> and in 2009 the [[Human Development Index]] ranked it as a nation of "Very High Human Development".<ref name="hdi09">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf |title=Human Development Report 2009|work=UNDP.org |format=PDF |accessdate=25 April 2010}}</ref>
+
+From 1991, the Czech Republic, originally as part of Czechoslovakia and since 1993 in its own right, has been a member of the [[Visegrád Group]] and from 1995, the [[Organisation for Economic Co-operation and Development|OECD]]. The Czech Republic joined [[NATO]] on 12 March 1999 and the [[European Union]] on 1 May 2004. On 21 December 2007 the Czech Republic joined the [[Schengen Area]].
+
+==Government and politics==
+{{Main|Government of the Czech Republic|Politics of the Czech Republic}}
+{{triple image|right|WallensteinPalacePrague.jpg|200|Garden of Straka Academy, Prague Malá Strana.jpg|148|Praha, Poslanecká sněmovna Parlamentu České republiky.jpg|150|<center>[[Wallenstein Palace]], seat of the [[Senate of the Parliament of the Czech Republic|Senate]]|<center>[[Straka Academy]], seat of the [[Government of the Czech Republic|Government]]|<center>Thun Palace, seat of the [[Chamber of Deputies of the Parliament of the Czech Republic|Chamber of Deputies]]</center>}}
+
+The Czech Republic is a pluralist multi-party [[parliamentary system|parliamentary]] [[representative democracy]], with the [[Prime Minister of the Czech Republic|Prime Minister]] as the [[head of government]]. The [[Parliament of the Czech Republic|Parliament]] (''Parlament České republiky'') is bicameral, with the [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] ({{lang-cs|Poslanecká sněmovna}}) (200 members) and the [[Senate of the Czech Republic|Senate]] ({{lang-cs|Senát}}) (81 members).<ref>{{cite web|url=http://www.psp.cz/en/docs/laws/constitution.html |title=The Constitution of the Czech Republic – Article 16 |publisher=Czech Republic |accessdate=8 August 2015}}</ref>
+
+The president is a formal [[head of state]] with limited and specific powers, most importantly to return bills to the parliament, appoint members to the board of the [[Czech National Bank]], nominate [[Constitutional Court of the Czech Republic|constitutional court]] judges for the Senate's approval and dissolve the Chamber of Deputies under certain special and unusual circumstances. The president and vice president of the [[Supreme Court of the Czech Republic|Supreme Court]] are appointed by the President of the Republic. He also appoints the prime minister, as well the other members of the cabinet on a proposal by the prime minister. From 1993 until 2012, the [[President of the Czech Republic]] was selected by a joint session of the parliament for a five-year term, with no more than two consecutive terms.  Since 2013 the presidential election is direct.
+<ref>{{cite news|title=Klaus signs Czech direct presidential election implementing law|url=http://www.ceskenoviny.cz/tema/zpravy/klaus-signs-czech-direct-presidential-election-implementing-law/823441|publisher=Czech Press Agency|date=1 August 2012|accessdate=7 November 2012}}</ref> [[Miloš Zeman]] was the first [[Two-round system|directly elected]] Czech President.
+
+The [[Government of the Czech Republic]]'s exercise of executive power derives from the [[Constitution of the Czech Republic|Constitution]]. The members of the government are the [[Prime Minister of the Czech Republic|Prime Minister]], Deputy ministers and other ministers. The Government is responsible to the [[Chamber of Deputies of the Parliament of the Czech Republic|Chamber of Deputies]].<ref>{{cite web|url=http://www.vlada.cz/en/vlada/ |title=Members of the Government |publisher=[[Government of the Czech Republic]] |accessdate=8 August 2015}}</ref>
+
+The [[Prime Minister of the Czech Republic|Prime Minister]] is the head of government and wields considerable powers, such as the right to set the agenda for most foreign and domestic policy and choose government ministers.<ref>{{cite web|url=http://www.vlada.cz/en/clenove-vlady/premier/premier-en-50677/ |title=Prime Minister |publisher=[[Government of the Czech Republic]] |accessdate=8 August 2015}}</ref> The current [[Prime Minister of the Czech Republic]] is [[Bohuslav Sobotka]], serving since 17 January 2014 as [[List of Prime Ministers of the Czech Republic|11th]] [[Prime Minister of the Czech Republic|Prime Minister]].
+
+The members of the Chamber of Deputies are elected for a four-year term by [[proportional representation]], with a 5% [[election threshold]]. There are 14 voting districts, identical to the country's administrative regions. The Chamber of Deputies, the successor to the [[Czech National Council]], has the powers and responsibilities of the now defunct federal parliament of the former Czechoslovakia.
+
+[[File:Czechpolsystem.png|thumbnail|right|450px|The political system of the Czech Republic]]
+The members of the Senate are elected in single-seat [[electoral district|constituencies]] by two-round [[Two-round system|runoff voting]] for a six-year term, with one-third elected every even year in the autumn. The first election was in 1996, for differing terms. This arrangement is modeled on the [[United States Senate|U.S. Senate]], but each constituency is roughly the same size and the voting system used is a two-round runoff. The Senate is unpopular among the public and suffers from low election turnout.{{citation needed|reason=No polls, analysis or comments provided|date=August 2015}}
+
+{{office-table}}
+|[[President of the Czech Republic|President]]
+|[[Miloš Zeman]]
+|[[Party of Civic Rights|SPOZ]]
+|8 March 2013
+|-
+|[[Prime Minister of the Czech Republic|Prime Minister]]
+|[[Bohuslav Sobotka]]
+|[[Czech Social Democratic Party|ČSSD]]
+|17 January 2014
+|-
+|[[Chair of the Chamber of Deputies of the Parliament of the Czech Republic|Chairman of the Chamber of Deputies]]
+|[[Jan Hamáček]]
+|[[Czech Social Democratic Party|ČSSD]]
+|27 November 2013
+|-
+|[[Senate of the Parliament of the Czech Republic|President of the Senate]]
+|[[Milan Štěch]]
+|[[Czech Social Democratic Party|ČSSD]]
+|24 November 2010
+|}
+
+===Law===
+{{Expand section|date=September 2015}}
+{{Main|Law of the Czech Republic|Judiciary of the Czech Republic|Law enforcement in the Czech Republic}}
+[[File:Moravská Zemská Sněmovna II.jpg|thumbnail|right|Seat of the [[Constitutional Court of the Czech Republic]] in [[Brno]].]]
+Czech Republic has a [[Civil law (legal system)|civil law system]] based on the continental type, rooted in Germanic legal culture. Czech judiciary has [[triumvirate]] system of the main courts, the [[Constitutional Court of the Czech Republic|Constitutional Court]] which oversees violations of the [[Constitution of the Czech Republic|Constitution]] by either the legislature or by the [[Government of the Czech Republic|government]] consisting of 15 constitutional judges, the [[Supreme Court of the Czech Republic|Supreme Court]] is the court of highest appeal for almost all [[legal case]]s heard in the Czech Republic formed of 67 judges and the [[Supreme Administrative Court of the Czech Republic|Supreme Administrative Court]] decides on issues of procedural and administrative propriety. It also has jurisdiction over many political matters, such as the formation and closure of political parties, jurisdictional boundaries between government entities, and the eligibility of persons to stand for public office.
+
+===Foreign relations===
+{{Main|Foreign relations of the Czech Republic}}
+{{See also|Ministry of Foreign Affairs of the Czech Republic}}
+[[File:Diplomatic missions of the Czech Republic.png|thumbnail|right|Countries with Embassies of the Czech Republic.]]
+The Czech Republic has an established structure of foreign relations. It is a member of the [[United Nations]], the [[European Union]], [[NATO]], [[Organisation for Economic Co-operation and Development]], [[Council of Europe]] and is an observer to the [[Organization of American States]].<ref>{{Cite web|url=http://www.state.gov/r/pa/ei/bgn/3237.htm |title=The Czech Republic's Membership in International Organizations |publisher=[[United States State Department]] |accessdate=8 August 2015}}</ref> All countries with diplomatic relations with the Czech Republic have embassy located in [[Prague]], and some of them have [[Consul (representative)|consulates]] across the country.
+
+The [[Prime Minister of the Czech Republic|Prime Minister]] and [[Minister of Foreign Affairs of the Czech Republic|Minister of Foreign Affairs]] have primary roles in setting foreign policy. Membership in the European Union is central to the Czech Republic's foreign policy. The Czech Republic held the [[Presidency of the Council of the European Union]] for the first half of 2009.
+
+The Czech Republic has strong ties with [[Slovakia]], [[Poland]] and [[Hungary]] as member of [[Visegrad Group]],<ref>{{Cite web|url=http://www.visegradgroup.eu/about |title=About the Visegrad Group |work=[[Visegrad Group]] |accessdate=8 August 2015}}</ref> as well as with [[Germany]],<ref>{{Cite web|url=http://www.prag.diplo.de/contentblob/4562604/Daten/5624388/download_GemeinsameErklaerung_SD_cz.pdf |title=Společné prohlášení ke strategickému dialogu mezi Ministerstvem zahraničních věcí České republiky a Ministerstvem zahraničních věcí Spolkové republiky Německo jako novém rámci pro česko-německé vztahy |publisher=German embassy in the Czech Republic |accessdate=8 August 2015}}</ref> [[Israel]],<ref>{{Cite web|url=http://www.huffingtonpost.com/2012/11/30/czech-vote-against-palestine_n_2217861.html |title=Czech Vote Against Palestine: Only European Nation At UN To Vote Against Palestinian State Was Czech Republic |publisher=[[The Huffington Post]] |accessdate=8 August 2015}}</ref> [[United States]]<ref>{{Cite web|url=http://www.mzv.cz/washington/en/czech_u_s_relations/index.html |title=Czech-U.S. Relations |publisher=[[Ministry of Foreign Affairs of the Czech Republic]] |accessdate=8 August 2015}}</ref> and [[European Union]] and their [[Members of the European Union|members]].
+
+Czech officials have supported dissenters in [[Burma]], [[Belarus]], [[Moldova]] and [[Cuba]].<ref name="democrats">{{Cite news|url=http://www.economist.com/displayStory.cfm?story_id=9725352 |title=Czechs with few mates |work=The Economist |date=30 August 2007 |accessdate=8 August 2015}}</ref>
+
+[[File:Czech ISAF (6).jpg|thumb|upright|Czech soldier in [[Afghanistan]]]]
+
+===Military===
+{{Main|Military of the Czech Republic}}
+The Czech armed forces consist of the [[Military of the Czech Republic|Czech Army]], the [[Czech Air Force]] and of specialized support units. The armed forces are managed by the [[Ministry of Defence (Czech Republic)|Ministry of Defence]]. The [[President of the Czech Republic]] is [[Commander-in-chief]] of the armed forces. In 2004 the army transformed itself into a fully professional organization and compulsory military service was abolished. The country has been a member of [[NATO]] since 12 March 1999. Defense spending is approximately 1.04% of the GDP (2015).<ref>{{cite web|url=http://www.mocr.army.cz/finance-a-zakazky/resortni-rozpocet/resortni-rozpocet-5146/ |title=Resortní rozpočet |publisher=[[Ministry of Defence (Czech Republic)|Ministry of Defence of the Czech Republic]] |accessdate=8 August 2015}}</ref> The armed forces are charged with protecting the Czech Republic and its allies, promoting global security interests, and contributing to [[NATO]].
+
+Currently, as a member of NATO, the Czech military are participating in [[Kosovo Force|KFOR]] and [[International Security Assistance Force|ISAF]] (renamed to [[Resolute Support Mission|Resolute Support]]) operations and have soldiers in [[Afghanistan]], [[Kosovo]], [[Bosnia and Herzegovina]], [[Operation Atalanta|Somalia]], [[Israel]] and [[Mali]]. The Czech Air Force also served in the [[Baltic states]] and [[Iceland]].<ref>{{cite web|url=http://www.army.cz/scripts/detail.php?id=5807 |title=Foreign Operations |publisher=[[Ministry of Defence (Czech Republic)|Ministry of Defence of the Czech Republic]] |accessdate=25 March 2016}}</ref> Main equipment includes: multi-role fighters [[Saab JAS 39 Gripen|JAS 39 Gripen]], combat aircraft [[Aero L-159 Alca]], modernized attack helicopters [[Mil Mi-24|Mi-35]], armored vehicles [[Pandur II]], [[OT-64 SKOT|OT-64]], [[BMP-1 variants#Former Czechoslovakia|OT-90]], [[BMP-2|BVP-2]] and Czech modernized tanks [[T-72]] (T-72M4CZ).
+
+===Administrative divisions===
+{{see also|Regions of the Czech Republic|List of districts of the Czech Republic}}
+Since 2000, the Czech Republic has been divided into [[Regions of the Czech Republic|thirteen regions]] ([[Czech language|Czech]]: [[wikt:en:kraj#Czech|''kraje'', singular ''kraj'']]) and the capital city of [[Prague]]. Every region has its own elected regional assembly (''krajské zastupitelstvo'') and ''hejtman'' (a regional governor). In Prague, the assembly and presidential powers are executed by the city council and the mayor.
+
+The older seventy-six [[List of districts of the Czech Republic|districts]] (''okresy'', singular ''[[okres]]'') including three "statutory cities" (without Prague, which had special status) lost most of their importance in 1999 in an administrative reform; they remain as territorial divisions and seats of various branches of state administration.<ref>{{cite web|url=http://www.radio.cz/en/article/36046|title=The death of the districts|publisher=|accessdate=13 September 2014}}</ref>
+
+[[File:Czech Rep. - Bohemia, Moravia and Silesia III (en).png|thumb|right|Map of the Czech Republic with traditional regions and current administrative regions]]
+[[File:Okresy ČR 2007.PNG|thumb|right|Map with districts]]
+
+{| class="wikitable sortable"
+|- style="line-height:1.25em;"
+!style="font-size:80%;line-height:1.25em;"| [[Vehicle registration plates of the Czech Republic|Licence<br/>plate letter]]
+! Region name<br/>{{small|{{nobold|in English}}}}
+! Region name<br/>{{small|{{nobold|in Czech}}}}
+! Administrative<br/>seat
+! Population<br/>{{small|{{nobold|(2004 estimate)}}}}
+! Population<br/>{{small|{{nobold|(2011 estimate)}}<ref>{{Cite web|url=http://vdb.czso.cz/sldbvo/#!stranka=zakladni-vysledky&tu=0&th=&vseuzemi=null&v=&vo=H4sIAAAAAAAAAGVPu07DQBDcGJm8XASKdHxCIlFBKrjkHNny4yL7YoQrDmIlIJMY-xxcIdFAQQs9BWV-AvEFtFSInpoSNkhAwUi72pFmNLOLd1CzFNZOxFy0c3kctw2RTRyRqOWXx6fmwfMKKH2oxTMx6osjOUtNqMpJGmWTWTwqkp1dWEI7r-Bu4NQlVIe-7g2IR5zsDC4A_mmgQJFvsL1vkYQSkVA2GHUZx0vZ7EhYtRjtmT6yzpaEGiWcBcQnlCRLKycBs5htopUh5_uDkHU9EiLn6HWJYesUiStBDXQv1H8_jMV03DanMhpH6frb_cPH5fW2AiUT1LmI86hIofGnc_PTwyi9Wtxt1G9fbxTsnXwiJGiY2Pecn9AyJ92hbWH3ikl1lw8CbKX5Nu22QmLZrZ5XfAFdFX7ZZwEAAA..&void= |title=Základní výsledky |publisher=[[Czech Statistical Office]] |accessdate=11 August 2015}}</ref>}}
+|-
+|align=center| A || {{Coat of arms|Prague}}&nbsp;{{sup|a}}
+|style="font-size:90%;"| ''Hlavní město Praha'' ||style="font-size:90%;"| n/a
+|align=right| 1,170,571 ||align=right| 1,268,796
+|-
+|align=center| S || {{Coat of arms|Central Bohemian Region}}
+|style="font-size:90%;"| ''Středočeský kraj'' || [[Prague]]{{sup|b}}
+|align=right| 1,144,071 ||align=right| 1,289,211
+|-
+|align=center| C || {{Coat of arms|South Bohemian Region}}
+|style="font-size:90%;"| ''Jihočeský kraj'' || [[České Budějovice]]
+|align=right|   625,712 ||align=right|   628,336
+|-
+|align=center| P || {{Coat of arms|Plzeň Region}}
+|style="font-size:90%;"| ''Plzeňský kraj'' || [[Plzeň]]
+|align=right|   549,618 ||align=right|   570,401
+|-
+|align=center| K || {{Coat of arms|Karlovy Vary Region}}
+|style="font-size:90%;"| ''Karlovarský kraj'' || [[Karlovy Vary]]
+|align=right|   304,588 ||align=right|   295,595
+|-
+|align=center| U || {{Coat of arms|Ústí nad Labem Region}}
+|style="font-size:90%;"| ''Ústecký kraj'' || [[Ústí nad Labem]]
+|align=right|   822,133 ||align=right|   835,814
+|-
+|align=center| L || {{Coat of arms|Liberec Region}}
+|style="font-size:90%;"| ''Liberecký kraj'' || [[Liberec]]
+|align=right|   427,563 ||align=right|   432,439
+|-
+|align=center| H || {{Coat of arms|Hradec Králové Region}}
+|style="font-size:90%;"| ''Královéhradecký kraj'' || [[Hradec Králové]]
+|align=right|   547,296 ||align=right|   547,916
+|-
+|align=center| E || {{Coat of arms|Pardubice Region}}
+|style="font-size:90%;"| ''Pardubický kraj'' || [[Pardubice]]
+|align=right|   505,285 ||align=right|   511,627
+|-
+|align=center| M || {{Coat of arms|Olomouc Region}}
+|style="font-size:90%;"| ''Olomoucký kraj'' || [[Olomouc]]
+|align=right|   635,126 ||align=right|   628,427
+|-
+|align=center| T || {{Coat of arms|Moravian-Silesian Region}}
+|style="font-size:90%;"| ''Moravskoslezský kraj'' || [[Ostrava]]
+|align=right| 1,257,554 ||align=right| 1,205,834
+|-
+|align=center| B || {{Coat of arms|South Moravian Region}}
+|style="font-size:90%;"| ''Jihomoravský kraj'' || [[Brno]]
+|align=right| 1,123,201 ||align=right| 1,163,508
+|-
+|align=center| Z || {{Coat of arms|Zlín Region}}
+|style="font-size:90%;"| ''Zlínský kraj'' || [[Zlín]]
+|align=right|   590,706 ||align=right|   579,944
+|-
+|align=center| J || {{Coat of arms|Vysočina Region}}
+|style="font-size:90%;"| ''Kraj Vysočina'' || [[Jihlava]]
+|align=right|   517,153 ||align=right|   505,565
+|}
+{{sup|a}} Capital city.<br/>{{sup|b}} Office location.
+
+==Geography==
+{{See also|Geography of the Czech Republic}}
+[[File:Satellite image of Czech Republic in September 2003.jpg|thumb|Satellite image of the Czech Republic]]
+The Czech Republic lies mostly between latitudes [[48th parallel north|48°]] and [[51st parallel north|51° N]] (a small area lies north of 51°), and longitudes [[12th meridian east|12°]] and [[19th meridian east|19° E]].
+
+The Czech landscape is exceedingly varied. [[Bohemia]], to the west, consists of a basin drained by the [[Elbe]] ({{lang-cs|Labe}}) and the [[Vltava]] rivers, surrounded by mostly low mountains, such as the [[Krkonoše]] range of the [[Sudetes]]. The highest point in the country, [[Sněžka]] at {{convert|1602|m|ft|0|abbr=on}}, is located here. Moravia, the eastern part of the country, is also quite hilly. It is drained mainly by the [[Morava (river)|Morava River]], but it also contains the source of the [[Oder|Oder River]] ({{lang-cs|Odra}}).
+
+[[File:Národní park Podyjí Dyje Nationalpark Thayatal 2013 10 a.jpg|thumb|left|[[Podyjí National Park]] is one of four [[Protected areas of the Czech Republic|national parks]].]]
+Water from the landlocked Czech Republic flows to three different seas: the [[North Sea]], [[Baltic Sea]] and [[Black Sea]]. The Czech Republic also leases the [[Moldauhafen]], a {{convert|30000|m2|acre|sing=on}} [[lot (real estate)|lot]] in the middle of the [[Hamburg]] Docks, which was awarded to Czechoslovakia by Article 363 of the [[Treaty of Versailles]], to allow the landlocked country a place where goods transported down river could be transferred to seagoing ships. The territory reverts to Germany in 2028.
+
+[[Phytogeography|Phytogeographically]], the Czech Republic belongs to the Central European province of the [[Circumboreal Region]], within the [[Boreal Kingdom]]. According to the [[World Wide Fund for Nature]], the territory of the Czech Republic can be subdivided into four [[ecoregion]]s: the [[Western European broadleaf forests]], Central European mixed forests, Pannonian mixed forests, and Carpathian montane conifer forests.
+
+There are four [[national park]]s in the Czech Republic. The oldest is
+[[Krkonoše National Park]] ([[Man and the Biosphere Programme|Biosphere Reserve]]), [[Šumava National Park]] (Biosphere Reserve), [[Podyjí National Park]], [[Bohemian Switzerland]].
+
+The three historical lands of the Czech Republic (formerly the core countries of the Bohemian Crown) correspond almost prefectly with the river basins of the [[Elbe]] ({{lang-cs|Labe}}) and the [[Vltava]] basin for Bohemia, the Morava one for Moravia, and the Oder river basin for Czech Silesia (in terms of the Czech territory).
+
+===Climate===
+[[File:Czech Republic map of Köppen climate classification.svg|thumb|300px|Czech Republic map of Köppen climate classification.]]
+[[File:Beskid Śląsko-Morawski - panorama 2-edit.jpg|thumb|500px|right|[[Moravian-Silesian Beskids]]]]
+
+The Czech Republic has a temperate [[continental climate]], with warm summers and cold, cloudy and snowy winters. The temperature difference between summer and winter is relatively high, due to the landlocked geographical position.<ref>R. Tolasz, ''Climate Atlas of the Czech Republic'', Czech Hydrometeorological Institute, Prague, 2007. ISBN 80-244-1626-3, graphs 1.5 and 1.6</ref>
+
+Within the Czech Republic, temperatures vary greatly, depending on the elevation. In general, at higher altitudes, the temperatures decrease and [[precipitation (meteorology)|precipitation]] increases. The wettest area in the Czech Republic is found around [[Bílý Potok (Liberec District)|Bílý Potok]] in [[Jizera Mountains]] and the driest region is the [[Louny District]] to the northwest of [[Prague]]. Another important factor is the distribution of the mountains; therefore, the climate is quite varied.
+[[File:Kralicky-Sneznik-03.jpg|thumb|left|Rolling hills of [[Králický Sněžník]]]]
+At the highest peak of [[Sněžka]] ({{convert|1602|m|ft|abbr=on|0|disp=or}}), the average temperature is only {{convert|-0.4|C|F|0}}, whereas in the lowlands of the [[South Moravian Region]], the average temperature is as high as {{convert|10|C|F}}. The country's capital, [[Prague]], has a similar average temperature, although this is influenced by urban factors.
+
+The coldest month is usually January, followed by February and December. During these months, there is usually snow in the mountains and sometimes in the major cities and lowlands. During March, April and May, the temperature usually increases rapidly, especially during April, when the temperature and weather tends to vary widely during the day. Spring is also characterized by high water levels in the rivers, due to melting snow with occasional flooding.
+
+The warmest month of the year is July, followed by August and June. On average, summer temperatures are about {{convert|20|°C|0}} – {{convert|30|C|F}} higher than during winter. Summer is also characterized by rain and storms.
+
+[[File:Podzim na Kašperku.jpg|thumb|right|[[Bohemian Forest]] foothills, southwestern Bohemia]]
+Autumn generally begins in September, which is still relatively warm and dry. During October, temperatures usually fall below {{convert|15|C|F}} or {{convert|10|C|F}} and [[deciduous|deciduous trees]] begin to shed their leaves. By the end of November, temperatures usually range around the freezing point.
+
+The coldest temperature ever measured was in Litvínovice near [[České Budějovice]] in 1929, at {{convert|-42.2|C|F}} and the hottest measured, was at {{convert|40.4|C|F}} in [[Dobřichovice]] in 2012.<ref>{{cite web|title=Czech absolute record temperature registered near Prague|url=http://www.ceskenoviny.cz/news/zpravy/czech-absolute-record-temperature-registered-near-prague/830626|work=České noviny|publisher=ČTK|accessdate=20 August 2012}}</ref>
+
+Most rain falls during the summer. Sporadic rainfall is relatively constant throughout the year (in Prague, the average number of days per month experiencing at least 0.1&nbsp;mm of rain varies from 12 in September and October to 16 in November) but concentrated heavy rainfall (days with more than 10&nbsp;mm per day) are more frequent in the months of May to August (average around two such days per month).<ref>R. Tolasz, ''Climate Atlas of the Czech Republic'', Czech Hydrometeorological Institute, Prague, 2007. ISBN 80-244-1626-3, graph 2.9.</ref>
+
+===Environment===
+{{Expand section|date=November 2014}}
+{{See also|Protected areas of the Czech Republic}}
+The Czech Republic ranks as 37th most environmentally conscious country in the world in [[Environmental Performance Index]].<ref>{{Cite web|url=http://epi.yale.edu/epi/country-rankings|title=Country Rankings|date=25 January 2014|accessdate=29 January 2014|publisher=Yale}}</ref>
+{{multiple image
+ | align  = center
+ | width1 = 250
+ | image1 = CHKO+NP Czech map.png
+ | alt1 = Map of protected areas
+ | caption1 = Map of [[Protected areas of the Czech Republic]]: National Parks (grey) and Protected Landscape Areas (green).
+ | width2 = 110
+ | image2 = Bubo bubo 1 (Martin Mecnarowski).jpg
+ | alt2 = Large owl with prey
+ | caption2 = [[Eurasian eagle-owl]] is a protected predator.
+ | image3 = Rys ostrovid2.jpg
+ | alt3 = Cute cat
+ | caption3 = [[Eurasian lynx]] was reintroduced and protected after extensive hunting in the past.
+ | width3 = 236
+}}
+{{Clear}}
+
+==Economy==
+{{Main|Economy of the Czech Republic}}
+[[File:Schengenzone.svg|thumb|left|The Czech Republic is part of the EU single market and the [[Schengen Area]].]]
+[[File:SkodaSuperbII.jpg|thumb|[[Škoda Auto]] is one of the largest car manufacturers in Central Europe. In 2014, it sold a record number of 1,037,000 cars and said it aimed to double sales by 2018. (image of [[Škoda Superb]])]]
+[[File:CBNod.JPG|thumb|300px|Czech National Bank in Prague]]
+
+The Czech Republic possesses a developed,<ref>{{cite web|url=http://www.czech.cz/en/czech-republic/getting-to-know-czech-republic/|title=Getting to know Czech Republic|author=www.mccanndigital.cz|publisher=|accessdate=13 September 2014}}</ref> [[World Bank high-income economy|high-income]]<ref>{{cite web|url=http://web.worldbank.org/WBSITE/EXTERNAL/DATASTATISTICS/0,,contentMDK:20421402~pagePK:64133150~piPK:64133175~theSitePK:239419,00.html#High_income |title=World Bank 2007 |publisher=Web.worldbank.org |accessdate=25 April 2010}}</ref> economy with a per capita GDP rate that is 87% of the European Union average.<ref>{{cite web|url=http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tec00114&plugin=1|title=GDP per capita in PPS|publisher=Eurostat|accessdate=16 June 2015}}</ref> The most stable and prosperous of the post-Communist states, the Czech Republic saw growth of over 6% annually in the three years before the outbreak of the [[Late-2000s financial crisis|recent global economic crisis]]. Growth has been led by exports to the European Union, especially Germany, and foreign investment, while domestic demand is reviving.
+
+Most of the economy has been privatised, including the banks and telecommunications. A 2009 survey in cooperation with the Czech Economic Association found that the majority of Czech economists favour continued liberalization in most sectors of the economy.<ref>{{Cite journal|author=Stastny, Daniel|title=Czech Economists on Economic Policy: A Survey|journal=Econ Journal Watch|volume=7|issue=3|pages= 275–287|year= 2010|url=http://econjwatch.org/issues/volume-7-issue-3-september-2010}}</ref>
+
+The country has been a member of the [[Schengen Area]] since 1 May 2004, having abolished border controls, completely opening its borders with all of its neighbours ([[Germany]], [[Austria]], [[Poland]] and [[Slovakia]]) on 21 December 2007.<ref>{{cite web|title=Czech Republic to join Schengen|url=http://www.praguepost.com/articles/2006/12/13/czech-republic-to-join-schengen.php|archiveurl=https://web.archive.org/web/20080225173344/http://www.praguepost.com/articles/2006/12/13/czech-republic-to-join-schengen.php|archivedate=25 February 2008|publisher=The Prague Post|date=13 December 2006|accessdate =8 October 2007}}</ref> The Czech Republic became a member of the [[World Trade Organisation]] on 1 January 1995. In 2012, Nearly 80% of Czech exports went to, and more than 65% of Czech imports came from, other European Union member states.<ref>{{cite web|title=MIT Observatory of Economic Complexity|url=https://atlas.media.mit.edu/en/profile/country/cze/}}</ref>
+
+Czech Republic would become the 49th largest economy in the world by 2050 with a [[GDP (nominal)|GDP]] of US$ $342 billion.<ref>{{cite web|url=http://www.businessinsider.com/these-economies-will-dominate-the-world-in-2050-2012-1?op=1|title=These Economies Will Dominate The World In 2050|publisher=[[Business Insider]]}}</ref>
+
+[[Monetary policy]] is conducted by the [[Czech National Bank]], whose independence is guaranteed by the Constitution.<ref>{{cite web|title=Czech Republic 1993 (rev. 2013)|url=https://www.constituteproject.org/constitution/Czech_Republic_2013?lang=en#617|website=Constitute|accessdate=29 April 2015}}</ref> The official currency is the [[Czech crown]], and it had been [[Floating exchange rate|floating]] until 7. 11. 2013, when the [[central bank]] temporarily pegged the exchange rate at 27 crowns per euro in order to fight [[deflation]].<ref>{{cite web|url=http://byznys.ihned.cz/c1-61176370-cnb-po-11-letech-zahajila-intervence-koruna-okamzite-spadla-na-ctyrlete-minimum|title=ČNB po 11 letech zahájila intervence. Koruna okamžitě spadla na čtyřleté minimum|work=Hospodářské noviny}}</ref> When it joined EU, the Czech Republic obligated itself to adopt the [[euro]], but the date of adoption has not been determined.
+
+The [[Programme for International Student Assessment]], coordinated by the [[Organisation for Economic Co-operation and Development|OECD]], currently ranks the Czech education system as the 15th best in the world, higher than the OECD average.<ref>{{cite web|url=http://www.oecd.org/dataoecd/42/8/39700724.pdf |title=Range of rank on the PISA 2006 science scale|work=OECD.org |format=PDF|accessdate=25 April 2010}}</ref> The Czech Republic is ranked 24th in the 2015 [[Index of Economic Freedom]].
+
+Leading Czech transportation companies include [[Škoda Auto]] (automobiles), [[Škoda Transportation]] (tramways, trolleybuses, metro), [[Tatra (company)|Tatra]] (the third oldest car maker in the world), [[Karosa]] (buses), [[Aero Vodochody]] (airplanes) and [[Jawa Motors]] (motorcycles). http://www.worlddiplomacy.org states that "Elections in 2013 brought a new government for the Czech republic. Although starting off 2013 rather weakly, the economy rebounded strongly in the coming quarters and most recently (Q1,2015) the economy has enjoyed the fastest GDP increase in the entire EU, clocking at 2.8% compared with Q4,2014, or 3.9% year-on-year."<ref>{{cite web|url=http://www.worlddiplomacy.org/Countries/CzechRepublic/InfoCze.html|title=Czech Republic – Truth Prevails|publisher=|accessdate=13 September 2014}}</ref>
+
+In November 2015, Czech [[GDP growth]] was 4.5%, giving the [[Czech economy]] the highest growth rate in Europe.<ref>{{cite news|url=http://www.bloomberg.com/news/articles/2015-08-14/czechs-power-eu-s-fastest-gdp-growth-as-romania-hungary-stumble|title=Czechs Power EU's Fastest GDP Growth as Romania, Hungary Stumble|publisher=[[Bloomberg News|Bloomberg Business]]|accessdate=14 August 2015}}</ref>
+
+[[Unemployment rate]] is at 4.1%, giving the Czech Republic the lowest unemployment rate in the whole [[European Union]].<ref name="eurostatunemp16"/>
+
+===Energy===
+{{Main|Energy in the Czech Republic}}
+[[File:Nuclear.power.plant.Dukovany.jpg|thumb|[[Dukovany Nuclear Power Station]]]]
+Production of Czech electricity exceeds consumption by about 10 TWh per year, which are exported. [[Nuclear power]] presently provides about 30 percent of the total power needs, its share is projected to increase to 40 percent. In 2005, 65.4 percent of electricity was produced by steam and combustion power plants (mostly coal); 30 percent by [[nuclear power|nuclear plants]]; and 4.6 percent from renewable sources, including hydropower. The largest Czech power resource is [[Temelín Nuclear Power Station]], another [[nuclear power plant]] is in [[Dukovany Nuclear Power Station|Dukovany]].
+
+The Czech Republic is reducing its dependence on highly polluting low-grade [[Lignite|brown coal]] as a source of energy. Natural gas is procured from Russian [[Gazprom]], roughly three-fourths of domestic consumption and from [[Norway|Norwegian]] companies, which make up most of the remaining one-fourth. Russian gas is imported via Ukraine ([[Druzhba pipeline]]), Norwegian gas is transported through Germany. Gas consumption (approx. 100 TWh in 2003–2005) is almost double electricity consumption. South Moravia has small [[Oil and gas deposits in the Czech Republic|oil and gas deposits]].
+
+===Transportation infrastructure===
+{{Main|Transport in the Czech Republic}}
+[[File:Grygov, nádraží, jednotka 680.002.jpg|thumb|left|The Czech railway network is largely electrified and is among the [[Rail usage statistics by country|densest in Europe]].]]
+[[Václav Havel Airport Prague|Václav Havel Airport]] in Prague is the main international airport in the country. In 2010, it handled 11.6&nbsp;million passengers, which makes it the fifth [[List of the busiest airports in Europe|busiest airport]] in Central and Eastern Europe. In total, the Czech Republic has [[List of airports in the Czech Republic|46 airports]] with paved runways, six of which provide international air services in [[Brno]], [[Karlovy Vary]], [[Mošnov]] (near [[Ostrava]]), [[Pardubice]], Prague and [[Kunovice (Uherské Hradiště District)|Kunovice]] (near [[Uherské Hradiště]]).
+
+[[České dráhy]] (the Czech Railways) is the main railway operator in the Czech Republic, with about 180&nbsp;million passengers carried yearly. Its cargo division, [[ČD Cargo]], is the fifth largest railway cargo operator in the European Union.{{Citation needed|date=September 2011}} With {{convert|9505|km|2|abbr=on}} of tracks, the Czech Republic has one of the densest railway networks in Europe.<ref>{{cite web|url=http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Transport_infrastructure_at_regional_level#Railways |title=Transport infrastructure at regional level – Statistics explained |publisher=Epp.eurostat.ec.europa.eu |accessdate=25 April 2010}}</ref> Of that number, {{convert|2926|km|2|abbr=on}} is electrified, {{convert|7617|km|2|abbr=on}} are single-line tracks and {{convert|1866|km|2|abbr=on}} are double and multiple-line tracks.<ref>{{cite web|url=http://provoz.szdc.cz/portal/Show.aspx?oid=185802 |title=Railway Network in the Czech Republic|work=SZDC.cz |accessdate=9 November 2010}}</ref> In 2006 the new Italian [[tilting train]]s [[Pendolino]] [[ČD Class 680]] entered service. They have reached a speed of 237&nbsp;km/h setting a new Czech railway speed record.
+
+Russia, via pipelines through Ukraine and to a lesser extent, Norway, via pipelines through Germany, supply the Czech Republic with liquid and natural gas.
+
+The road network in the Czech Republic is {{convert|55653|km|2|abbr=on}} long.<ref>{{cs icon}} [http://www.rsd.cz/rsd/rsd.nsf/0/80345976071FCBACC12575CF004E133E/$file/RSD2009en.pdf Roads and Motorways in the Czech Republic]. RSD.cz (2009).</ref> There are 775,8&nbsp;km of motorways and 439,1&nbsp;km of expressways.{{citation needed|date=December 2015}} The [[Speed limits by country|speed limit]] is 50&nbsp;km/h within towns, 90&nbsp;km/h outside of towns and 130&nbsp;km/h on expressways.{{citation needed|date=December 2015}}
+
+===Communications===
+{{Main|Internet in the Czech Republic}}
+{{Update|inaccurate=yes|date=August 2012}}
+The Czech Republic ranks in the top 10 countries worldwide with the fastest average internet speed.<ref>{{cite web|url=http://www.news.com.au/technology/state-of-the-internet-reports-reveals-internet-speeds-around-the-world/story-e6frfro0-1226344876391 |title='State of the Internet' report reveals the fastest web speeds around the world|author=Lee Taylor|date=2 May 2012|work=news.com.au|accessdate=2 May 2012}}</ref>
+The Czech Republic has the most [[Wi-Fi]] subscribers in the European Union.<ref>[http://www.ey.com/global/content.nsf/Czech_Republic_E/2007_WiFi_survey_EN 2007 WiFi survey EN<!-- Bot generated title -->]{{Dead link|date=October 2009}}</ref><ref>{{cite web|url=http://liveweb.archive.org/http://www.volny.cz/horvitz/os-info/czech.html |title=Openspectrum.info – Czech Republic |publisher=Volweb.cz|accessdate=25 April 2010}}</ref> By the beginning of 2008, there were over 800 mostly local [[Wireless Internet service provider|WISPs]],<ref>{{cite web|title=Wi-Fi: Poskytovatelé bezdrátového připojení|url=http://www.internetprovsechny.cz/wifi-poskytovatele.php|publisher=internetprovsechny.cz|accessdate=17 March 2008}}</ref><ref>{{cite web|title=Bezdrátové připojení k internetu|url=http://www.bezdratovepripojeni.cz|publisher=bezdratovepripojeni.cz|accessdate=18 May 2008}}</ref> with about 350,000 subscribers in 2007. Plans based on either [[General Packet Radio Service|GPRS]], [[Enhanced Data Rates for GSM Evolution|EDGE]], [[Universal Mobile Telecommunications System|UMTS]] or [[CDMA2000]] are being offered by all three mobile phone operators ([[T-Mobile]], [[Telefónica|Telefónica O2]], [[Vodafone]]) and internet provider [[U:fon]]. Government-owned [[Český Telecom]] slowed down broadband penetration. At the beginning of 2004, [[local-loop unbundling]] began and alternative operators started to offer [[ADSL]] and also [[Symmetric digital subscriber line|SDSL]]. This and later privatisation of Český Telecom helped drive down prices.
+
+On 1 July 2006, Český Telecom was acquired by globalized company (Spain owned) Telefónica group and adopted new name [[Telefónica O2 Czech Republic]]. As of June 2014, VDSL and ADSL2+ are offered in many variants, with download speeds of up to 40 Mbit/s and upload speeds of up to 2Mbit/s. Cable internet is gaining popularity with its higher download speeds ranging from 2 Mbit/s to 1 Gbit/s.
+
+===Science and technology===
+{{Prose|section|date=November 2014}}
+[[File:Prof. Ing. RTDr. Otto Wichterle.jpg|thumb|upright|[[Otto Wichterle]], inventor of the [[contact lens]]]]
+The Czech lands have a long and rich scientific tradition. The research based on cooperation between [[List of universities in the Czech Republic|universities]], [[Academy of Sciences of the Czech Republic|Academy of Sciences]] and specialised research centers brings new inventions and impulses in this area. Important inventions include the modern [[contact lens]], the separation of modern [[blood type]]s, and the production of [[Semtex]] [[plastic explosive]]. In March 1978, Czechoslovakian [[Vladimír Remek]] was the first person outside of the Soviet Union and the United States to go into space.
+
+Prominent scientists who lived and worked in historically Czech lands include:
+* [[John Amos Comenius]] (1592–1670), teacher, educator and the founder of modern education.<ref name="science1">{{Wayback |df=yes|date=20090324033030 |url=http://www.czech.cz/en/economy-business-science/science/ingenious-inventions?i=1 |title=Ingenious inventions }}. Czech.cz. Retrieved 3 March 2009.</ref>
+* [[Jan Marek Marci]] (1595–1667), mathematician, physicist and imperial physician, one of the founders of [[spectroscopy]].<ref>{{cite book|last1=Burns|first1=Thorburn|editor1-last=Burgess|editor1-first=C.|editor2-last=Mielenz|editor2-first=K. D.|title=Advances in Standards and Methodology in Spectrophotometry|date=1987|publisher=Elsevier Science|location=Burlington|isbn=9780444599056|page=1|url=https://books.google.cz/books?id=6Rg7AAAAQBAJ&pg=PA1&lpg=PA1&dq=Marci|chapter=Aspects of the development of colorimetric analysis and quantitative molecular spectroscopy in the ultraviolet-visible region}}</ref>
+* [[Václav Prokop Diviš]] (1698–1765), inventor of the first grounded [[lightning rod]].
+* [[Bernard Bolzano]] (1781–1848), noted mathematician, logician, philosopher, and pacifist.
+* [[Jan Evangelista Purkyně]] (1787–1869), anatomist and physiologist responsible for the discovery of [[Purkinje cells]], [[Purkinje fibres]] and [[sweat gland]]s, as well as [[Purkinje images]] and the [[Purkinje effect|Purkinje shift]].
+* [[Josef Ressel]] (1793–1857), inventor of the [[propeller|screw propeller]] and [[Protractor compass|modern compass]].<ref name="science1" />
+* [[Jakub Kryštof Rad]] (1799–1871), inventor of [[Sugar|sugar cubes]].
+* [[Gregor Mendel]] (1822–1884), often called the "''father of [[genetics]]''", is famed for his research concerning the inheritance of genetic traits.<ref name="science1" />
+*[[Josef Hlavka]] (15 February 1831 – 11 March 1908), was a Czech architect, builder, philanthropist and founder of the oldest Czech foundation for sciences and arts.
+* [[Jakub Husník]] (1837–1916), improved the process of [[photolithography]].
+* [[Karel Klíč]] (1841–1926), painter and photographer, inventor of the [[photogravure]].
+* [[František Křižík]] (1847–1941), electrical engineer, inventor of the [[arc lamp]].
+* [[Jan Janský]] (1873–1921), serologist and neurologist, discovered the [[ABO blood groups]].
+* [[Bedřich Hrozný]] (1879–1952), deciphered the [[Hittite language]].<ref name="science1" />
+* [[Josef Čapek]] (1887–1945) and [[Karel Čapek]] (1890–1938), brothers who originated the word [[robot]].
+* [[František Burian]] and [[Arnold Jirásek]], founded the first [[plastic surgery]] in 1927.<ref>[http://www.quido.cz/osobnosti/burian.html František Burian] {{wayback|df=yes|url=http://www.quido.cz/osobnosti/burian.html |date=20141006131541 }}</ref>
+* [[Jaroslav Heyrovský]] (1890–1967), inventor of [[polarography]], [[Analytical chemistry|electroanalytical chemistry]] and recipient of the Nobel Prize.<ref name="science1" />
+* [[Oldřich Homuta]], inventor of [[Remoska]] oven in 1957.
+* [[Otto Wichterle]] (1913–1998) and [[Drahoslav Lím]] (1925–2003), Czech [[chemist]]s responsible for the invention of the modern [[contact lens]] and silon ([[synthetic fiber]]).<ref>[http://www.eyetopics.com/articles/18/1/The-History-of-Contact-Lenses.html The History of Contact Lenses]. Retrieved 3 March 2009.</ref>
+* [[Stanislav Brebera]] (1925–2012), inventor of the [[plastic explosive]] [[Semtex]] in 1966.<ref>{{cite web | title=Velikáni české vědy | url=http://www.velikani-ceske-vedy.estranky.cz/clanky/biografie/stanislav-brebera |accessdate=1 November 2010}}</ref>
+* [[Ladislav Mareš]], inventor of the first machine producing [[Nanofiber|nanofibres]], "Nanospider".<ref>{{cite web|url=http://byznys.lidovky.cz/vynalezl-stroje-na-nanovlakna-ted-svou-firmu-opousti-pfc-/firmy-trhy.aspx?c=A120103_172330_firmy-trhy_nev |title=Vynalezl stroje na nanovlákna. Teď svou firmu opouští |publisher=Byznys.lidovky.cz |accessdate=14 May 2014}}</ref>
+* [[Antonín Holý]] (1936–2012), scientist and chemist, in 2009 was involved in creation of the most effective drug in the treatment of AIDS.<ref>{{cite web |url=http://www.eu2009.cz/en/czech-presidency/presidency-faces/faces-of-the-presidency-3642/ |title=Faces of the Presidency |accessdate=8 January 2009 |work= eu2009.cz|publisher=EU2009.cz |date=}}</ref>
+
+A number of other scientists are also connected in some way with the Czech lands, including astronomers [[Johannes Kepler]] and [[Tycho Brahe]], the founder of the [[psychoanalytic school]] of psychiatry [[Sigmund Freud]], physicists [[Christian Doppler]], [[Ernst Mach]], [[Nikola Tesla]], [[Albert Einstein]], engineer [[Viktor Kaplan]], automotive engineer [[Ferdinand Porsche]] and logician [[Kurt Gödel]].
+
+===Tourism===
+{{Main|Tourism in the Czech Republic}}
+[[File:Night view of the Castle and Charles Bridge, Prague - 8034.jpg|thumb|[[Prague]] is one of the most visited cities in Europe.]]
+The Czech economy gets a substantial income from tourism. [[Prague]] is the fifth most visited city in Europe after London, Paris, Istanbul and Rome.<ref name="Bremner 2015">{{cite web |url=http://blog.euromonitor.com/2015/01/top-100-city-destinations-ranking.html|title=Top 100 City Destinations Ranking|publisher=[[Euromonitor International]] |first=Caroline |last=Bremner |year=2015|accessdate=9 February 2015}}</ref> In 2001, the total earnings from tourism reached 118&nbsp;billion [[Czech koruna|CZK]], making up 5.5% of [[Measures of national income and output|GNP]] and 9% of overall export earnings. The industry employs more than 110,000 people – over 1% of the population.<ref>{{cite web|url=http://www.czechtourism.com/index.php?show=001006&lang=3|archiveurl=https://web.archive.org/web/20070328141615/http://www.czechtourism.com/index.php?show=001006&lang=3|archivedate=28 March 2007|title=Promotion Strategy of the Czech Republic in 2004–2010|accessdate=19 December 2006|publisher=Czech Tourism}}</ref>
+The country's reputation has suffered with guidebooks and tourists reporting overcharging by taxi drivers and pickpocketing problems mainly in Prague, though the situation has improved recently.<ref name="radio">{{cite web|url=http://www.radio.cz/en/article/106877 |title=Prague sees significant dip in tourist numbers |publisher=Radio.cz |date=21 April 2010 |accessdate=25 April 2010}}</ref><ref name="indy">{{cite web|url=http://www.independent.co.uk/news/world/europe/prague-mayor-goes-undercover-to-expose-the-great-taxi-ripoff-486682.html|title=Prague mayor goes undercover to expose the great taxi rip-off|work=The Independent|accessdate=13 September 2014}}</ref> Since 2005, Prague's mayor, [[Pavel Bém]], has worked to improve this reputation by cracking down on petty crime<ref name="indy" /> and, aside from these problems, Prague is a safe city.<ref>{{cite web|url=http://www.myczechrepublic.com/prague/safety.html|title=Tips on Staying Safe in Prague|publisher=|accessdate=13 September 2014}}</ref> Also, the Czech Republic as a whole generally has a low crime rate.<ref>{{cite web|url=http://travel.state.gov/travel/cis_pa_tw/cis/cis_1099.html#crime|title=Czech Republic – Country Specific Information|publisher=|accessdate=13 September 2014}}</ref> For tourists, the Czech Republic is considered a safe destination to visit. The low crime rate makes most cities and towns very safe to walk around.
+
+One of the most visited tourist attractions in the Czech Republic<ref>{{cite web|url=http://ostrava.idnes.cz/tri-nejvyhledavanejsi-cile-turistu-jsou-v-praze-a-ostrave-pns-/ostrava-zpravy.aspx?c=A160120_2219878_ostrava-zpravy_woj|publisher=|accessdate=12 May 2016}}</ref> is the [[Nether district Vítkovice]] in Ostrava, a post-industrial city on the northeast of the country. The territory was formerly the site of steel production, but now it hosts a technical museum with many interactive expositions for tourists.
+
+[[File:Karlstejn.jpg|thumb|left|Medieval castles such as [[Karlštejn]] are frequent tourist attractions.]]
+There are several centres of tourist activity. The [[spa town]]s, such as [[Karlovy Vary]], [[Mariánské Lázně]] and [[Františkovy Lázně]] and [[Jáchymov]], are particularly popular relaxing holiday destinations.{{Citation needed|date=September 2011}}
+Architectural heritage is another object of visitor´s interest – it includes many [[List of castles in the Czech Republic|castles and châteaux]]  from different historical epoques, namely [[Karlštejn|Karlštejn Castle]], [[Český Krumlov]] and the [[Lednice–Valtice Cultural Landscape|Lednice–Valtice area]].
+There are 12 [[List of cathedrals in the Czech Republic|cathedrals]]  and 15 churches elevated to the rank of [[Minor basilica|basilica]] by the Pope, calm monasteries, many modern and ancient churches – for example [[Pilgrimage Church of Saint John of Nepomuk]] is one of those inscribed on the World Heritage List. Away from the towns, areas such as [[Bohemian Paradise|Český ráj]], [[Bohemian Forest|Šumava]] and the [[Krkonoše|Krkonoše Mountains]] attract visitors seeking outdoor pursuits.
+
+The country is also known for its various [[List of museums in the Czech Republic|museums]]. [[puppeteer|Puppetry]] and [[marionette]] exhibitions are very popular, with a number of puppet [[theatre festival|festivals]] throughout the country.{{Citation needed|date=September 2011}}
+Aquapalace Praha in [[Čestlice]] near Prague, is the biggest [[water park]] in central Europe.<ref>{{cite web|url=http://www.konstrukce.cz/clanek/aquapalace-praha-bude-nejvetsim-aquaparkem-ve-stredni-evrope/ |title=Aquapalace Praha bude největším aquaparkem ve střední Evropě |publisher=Konstrukce.cz |accessdate=27 May 2012}}</ref>
+
+The Czech Republic has a number of [[beer festival]]s, including: [[Czech Beer Festival]] (the biggest [[Czech beer]] festival, it is usually 17 days long and held every year in May in Prague), [[Pilsner Fest]] (every year in August in [[Plzeň]]), The "[[Olomoucký pivní festival]]" (in [[Olomouc]]) or festival "[[Slavnosti piva v Českých Budějovicích]]" (in [[České Budějovice]]).
+
+==Demographics==
+{{Main|Demographics of the Czech Republic}}
+
+{{Largest cities of the Czech Republic}}
+
+{{Historical populations
+|type =
+|footnote =
+|1857 | 7016531
+|1869 | 7617230
+|1880 | 8222013
+|1890 | 8665421
+|1900 | 9372214
+|1910 | 10078637
+|1921 | 10009587
+|1930 | 10674386
+|1950 | 8896133
+|1961 | 9571531
+|1970 | 9807697
+|1980 | 10291927
+|1991 | 10302215
+|2001 | 10230060
+|2011 | 10436560
+|2014 | 10528477
+|2015 | 10541466
+}}
+
+According to preliminary results of the 2011 census, the majority of the inhabitants of the Czech Republic are [[Czechs]] (63.7%), followed by [[Moravians (ethnic group)|Moravians]] (4.9%), [[Slovaks]] (1.4%), [[Poles]] (0.4%), [[Germans]] (0.2%) and [[Silesians]] (0.1%). As the 'nationality' was an optional item, a substantial number of people left this field blank (26.0%).<ref>[http://notes2.czso.cz/cz/sldb2011/cd_sldb2011_11_12/index_html_files/PVCR062.pdf První předběžné výsledky Sčítání lidu, domů a bytů 2011: Obyvatelstvo podle národnosti podle krajů]. (PDF) . Retrieved on 12 August 2012.</ref> According to some estimates, there are about 250,000 [[Romani people]] in the Czech Republic.<ref>{{cite web|url=http://romove.radio.cz/en/article/18158 |title=The History and Origin of the Roma |publisher=Romove.radio.cz |accessdate=25 April 2010}}</ref><ref>{{Cite news|last=Green |first=Peter S. |url=http://query.nytimes.com/gst/fullpage.html?res=9401E6DA103CF936A3575BC0A9679C8B63&sec=&spon=&pagewanted=all |title=British Immigration Aides Accused of Bias by Gypsies |work=New York Times |date=5 August 2001 |accessdate=25 April 2010}}</ref>
+
+There were 437,581 foreigners residing in the country in September 2013, according to the [[Czech Statistical Office]],<ref name="czso.cz">[http://www.czso.cz/csu/cizinci.nsf/t/7800512362/$File/c01t01.pdf Foreigners by type of residence, sex and citizenship], ''Czech Statistical Office'', 30 September 2013</ref> with the largest groups being Ukrainian (106,714), Slovak (89,273), Vietnamese (61,102), Russian (32,828), Polish (19,378), German (18,099), Bulgarian (8,837), American (6,695), Romanian (6,425), Moldovan (5,860), Chinese (5,427), British (5,413), Mongolian (5,308), Kazakh (4,850), Belarusian (4,562).<ref name="czso.cz"/>
+
+The [[History of the Jews in the Czech Republic|Jewish]] population of Bohemia and Moravia, 118,000 according to the 1930 census, was virtually annihilated by the Nazi Germans during [[the Holocaust]].<ref>{{cite web|url=http://www.ushmm.org/wlc/article.php?lang=en&ModuleId=10007323 |title=The Holocaust in Bohemia and Moravia |publisher=Ushmm.org |accessdate=25 April 2010}}</ref> There were approximately 4,000 Jews in the Czech Republic in 2005.<ref>{{cite web|url=https://www.jewishvirtuallibrary.org/jsource/Judaism/jewpop.html|title=The Virtual Jewish Library|publisher=|accessdate=13 September 2014}}</ref> The former Czech prime minister, [[Jan Fischer (politician)|Jan Fischer]], is of Jewish origin and faith.<ref>"[http://www.radio.cz/en/article/118537 PM Fischer visits Israel]". Radio Prague. 22 July 2009.</ref>
+
+The [[total fertility rate]] (TFR) in 2015 was estimated at 1.44 children born/woman, which is below the replacement rate of 2.1, and one of the lowest in the world.<ref>https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html</ref> In 2015, 47.8% of births were to unmarried women.<ref>https://www.czso.cz/csu/czso/ari/population-change-4-quarter-of-2015</ref>
+The life expectancy in 2013 was estimated at 77.56 years (74.29 years male, 81.01 years female).<ref name="cia.gov">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html |title=The World Factbook |publisher=Cia.gov |accessdate=14 May 2014}}</ref> Immigration increased the population by almost 1% in 2007. About 77,000 people immigrate to the Czech Republic annually.<ref>"[http://groups.yahoo.com/group/scotch-irish/message/50884 Press: Number of foreigners in ČR up ten times since 1989]". Prague Monitor. 11 November 2009. {{wayback|df=yes|url=http://groups.yahoo.com/group/scotch-irish/message/50884 |date=20141228052536 }}</ref> [[Vietnamese people in the Czech Republic|Vietnamese]] immigrants began settling in the Czech Republic during the Communist period, when they were invited as [[guest workers]] by the Czechoslovak government.<ref>{{Cite news|first=Coilin|last=O'Connor|url=http://www.radio.cz/en/article/91826|title=Is the Czech Republic's Vietnamese community finally starting to feel at home?|work=Czech Radio|date=29 May 2007|accessdate=1 February 2008}}</ref> In 2009, there were about 70,000 Vietnamese in the Czech Republic.<ref>{{cite web|url=http://www.nytimes.com/2009/06/05/world/europe/05iht-viet.html?pagewanted=1&_r=1|title=Crisis Strands Vietnamese Workers in a Czech Limbo|publisher=|accessdate=13 September 2014}}</ref> Most decide to stay in the country permanently.<ref>{{Wayback |df=yes|date=20090603021134 |url=http://www.czech.cz/en/current-affairs/work-and-study/foreigners-working-in-the-czech-republic |title="Foreigners working in the Czech Republic"}}. Ministry of Foreign Affairs. July 2006.</ref>
+
+At the turn of the 20th century, Chicago was the city with the third largest Czech population,<ref>[http://www.encyclopedia.chicagohistory.org/pages/153.html Czechs and Bohemians]. Encyclopedia of Chicago.</ref> after [[Prague]] and [[Vienna]].<ref>{{cite web|url=http://www.wieninternational.at/en/node/3586|title=Czech and Slovak roots in Vienna|work=wieninternational.at|accessdate=13 September 2014}}</ref> According to the 2010 US census, there are 1,533,826 Americans of full or partial [[Czech American|Czech]] descent.<ref>{{cite web | url = http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_B04003&prodType=table | title = Total ancestry reported | publisher=U.S. Census Bureau | accessdate = 13 July 2014}}</ref>
+
+===Religion===
+[[File:Europe belief in god upd.png|thumb|180px|Czech Republic has the lowest rate of citizens who answered "''I believe there is a God''" in the EU]]
+{{Main|Religion in the Czech Republic|Religion in the European Union}}
+{{bar box
+|title=Religion in the Czech Republic (2011)<ref name="Czech Statistical Office">{{cite web|url=http://www.czso.cz/sldb2011/eng/redakce.nsf/i/tab_7_1_population_by_religious_belief_and_by_municipality_size_groups/$File/PVCR071_ENG.pdf|title= Population by religious belief and by municipality size groups
+|accessdate=23 April 2012|publisher=Czech Statistical Office}}</ref>
+|titlebar=
+|float=right
+|bars=
+{{bar percent|Undeclared|DarkGray|45}}
+{{bar percent|Irreligion|Gray|34}}
+{{bar percent|Roman Catholicism|MediumOrchid|10}}
+{{bar percent|Other religions|YellowGreen|9}}
+{{bar percent|Protestantism|DodgerBlue|0.8}}
+}}
+The Czech Republic has one of the least religious populations in the world, being the country with the third most atheistic population by percentage, behind only China and Japan.<ref name = "Religion-and-Atheism">{{Cite web|url = http://redcresearch.ie/wp-content/uploads/2012/08/RED-C-press-release-Religion-and-Atheism-25-7-12.pdf|title = GLOBAL INDEX OF RELIGION AND ATHEISM|accessdate = 10 October 2013}}</ref> Historically, the Czech people have been characterised as "tolerant and even indifferent towards religion".<ref>Richard Felix Staar, ''Communist regimes in Eastern Europe'', Issue 269, p. 90</ref> According to the 2011 census, 34% of the population stated they had no religion, 10.3% was Roman Catholic, 0.8% was [[Protestant]] (0.5% [[Evangelical Church of Czech Brethren|Czech Brethren]] and 0.4% [[Czechoslovak Hussite Church|Hussite]]), and 9% followed other forms of religion both denominational or not (of which 863 people answered they are [[Neopaganism|Pagan]]). 45% of the population did not answer the question about religion.<ref name="Czech Statistical Office"/> From 1991 to 2001 and further to 2011 the adherence to Roman Catholicism decreased from 39% to 27% and then to 10%; Protestantism similarly declined from 3.7% to 2% and then to 0.8%.<ref>{{cite web|url=http://www.czso.cz/csu/2008edicniplan.nsf/engt/24003E05ED/$File/4032080119.pdf|title= Population by denomination and sex: as measured by 1921, 1930, 1950, 1991 and 2001 censuses
+|language=Czech, English|accessdate=9 March 2010|publisher=Czech Statistical Office}}</ref>
+
+According to a [[Eurobarometer|Eurobarometer Poll]] in 2010,<ref name=EUROBAROMETER>{{cite web|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_341_en.pdf|title=Eurobarometer on Biotechnology 2010 – page 381|accessdate=1 February 2013|format=PDF}}</ref> 16% of Czech citizens responded that "they believe there is a God" (the lowest rate among the countries of the European Union),<ref>{{cite web|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_341_en.pdf|title=Eurobarometer on Biotechnology 2010 – page 381}}</ref> whereas 44% answered that "they believe there is some sort of spirit or life force" and 37% said that "they do not believe there is any sort of spirit, God or life force".
+
+According to new polls about Religiosity in the [[European Union]] in 2012 by [[Eurobarometer]] found that [[Agnostic|Non believer/Agnostic]] is the largest religion in Czech Republic accounting 39% of Czech citizens.<ref name=EUROBAROMETER2012>{{citation|title=Discrimination in the EU in 2012|work=[[Eurobarometer|Special Eurobarometer]] |year=2012 |series=383 |page=233 |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_393_en.pdf |accessdate=14 August 2013 |publisher=[[European Commission]] |location=[[European Union]]}} The question asked was "Do you consider yourself to be...?" With a card showing: Catholic, Orthodox, Protestant, Other Christian, Jewish, Muslim, Sikh, Buddhist, Hindu, Atheist, and Non-believer/Agnostic.  Space was given for Other (SPONTANEOUS) and DK. Jewish, Sikh, Buddhist, Hindu did not reach the 1% threshold.</ref> Christianity account 34% of Czech citizens, [[Catholic Church|Catholic]]s are the largest Christian group in Czech Republic, accounting for 29% of Czech citizens,<ref name="EUROBAROMETER2012" /> while [[Protestant]]s make up 2%, and Other Christian make up 3%. [[Atheist]] accounts for 20%, Undeclared accounts for 6%.<ref name="EUROBAROMETER2012" />
+
+===Education===
+{{Main|Education in the Czech Republic}}
+{{expand section|date=August 2015}}
+Education in the Czech Republic is compulsory for 9 years, but the average number of years of education is 13.1.<ref name="Sign In">{{Cite web|title = Sign In|url = http://oep.oxfordjournals.org/content/early/2013/12/10/oep.gpt036.full#sec-1|accessdate = 17 September 2015}}</ref> Additionally, the Czech Republic has a relatively equal educational system in comparison with other countries in Europe.<ref name="Sign In"/>
+
+==Culture==
+{{Main|Culture of the Czech Republic}}
+
+===Art===
+{{multiple image
+| footer    = ''Spring'', ''Summer'', ''Autumn'' and ''Winter'' (1896) by [[Art Nouveau]] artist [[Alphonse Mucha]]
+| width     = 90
+| image1    = Alfons Mucha - 1896 - Spring.jpg
+| alt1      = Painting of a woman
+| image2    = Alfons Mucha - 1896 - Summer.jpg
+| alt2      = Painting of a woman
+| image3    = Alfons Mucha - 1896 - Autumn.jpg
+| alt3      = Painting of a woman
+| image4    = Alfons Mucha - 1896 - Winter.jpg
+| alt4      = Painting of a woman
+}}
+
+Czechia is known worldwide for its individually made, mouth blown and decorated art glass and crystal. One of the best Czech painters and decorative artists was [[Alphonse Mucha]] (1860–1939) mainly known for [[Art Nouveau|art nouveau]] posters and his cycle of 20 large canvases named [[the Slav Epic]], which depicts the history of Czechs and other [[Slavs]]. {{As of|2012}}, [[the Slav Epic]] can be seen in the Veletržní Palace of the [[National Gallery in Prague]], which manages the largest collection of art in Czechia.
+
+{{Prose|section|date=November 2014}}
+Other notable Czech artists include:
+*[[Max Švabinský]] (1873–1962) – painter, illustrator, [[abstract art]]
+*[[Emil Filla]] (1882–1953) – painter, [[cubism]]
+*[[Josef Čapek]] (1887–1945) – painter, [[cubism]]
+*[[Bohumil Kubišta]] (1884–1918) – painter, [[cubism]]
+*[[Václav Špála]] (1885–1945) – painter, [[cubism]]
+*[[František Kupka]] (1871–1954) – painter, [[abstract art]]
+*[[Jan Zrzavý]] (1890–1977) – painter, graphic artist, illustrator
+*[[Karel Teige]] (1900–1951) – painter, illustrator, [[surrealism]]
+*[[Toyen]] (1902–1980) – painter, illustrator, [[surrealism]]
+*[[Jiří Anderle]] (1936) – graphic artist
+*[[Mikoláš Aleš]] (1852 – 1913) – painter, drawer, decorator, illustrator
+*[[Josef Mánes]] (1820–1871) – painter, illustrator, graphic artist
+*[[Stanislav Kolíbal]] (1925) – sculptor, graphic artist
+*[[Josef Šíma]] (1891–1971) – painter
+*[[Zdeněk Burian]] (1905–1981) – illustrator, painter
+*[[Vojtěch Hynais]]
+*[[Josef Václav Myslbek]]
+*[[Julius Mařák]]
+*[[Josef Lada]]
+*[[Karel Škréta]] (1610–1674) – illustrator, [[Baroque|barroco]]
+
+===Architecture===
+{{Main|Czech Gothic architecture|Czech Renaissance architecture|Czech Baroque architecture}}
+The earliest preserved stone buildings in Bohemia and Moravia date back to the time of the [[Christianization]] in the 9th and 10th century. Since the Middle Ages Czechia has been using the same architectural styles as most of [[Western Europe|Western]] and [[Central Europe]]. The oldest still standing churches were built in the [[Romanesque architecture|Romanesque style]]. During the 13th century it was replaced by the [[Czech Gothic architecture|Gothic style]]. In the 14th century Emperor Charles IV invited to his court in Prague talented architects from France and Germany, [[Matthias of Arras]] and [[Peter Parler]]. During the Middle Ages, many fortified castles were built by the king and aristocracy, as well as many monasteries. During the [[Hussite wars]], many of them were damaged or destroyed.
+
+[[File:Letohrádek královny Anny by Crazyspeak (2).jpg|thumb|left|Royal Summer Palace in Prague considered the purest Renaissance architecture outside Italy<ref name=guide>{{cite book|title=Prague : City Guidebook|date=2000|publisher=Kartografie|location=Prague|isbn=80-7011-597-1|page=40|edition=1st}}</ref>]]
+The [[Renaissance architecture|Renaissance style]] penetrated the Bohemian Crown in the late 15th century when the older Gothic style started to be slowly mixed with Renaissance elements (architects [[Matěj Rejsek]], [[Benedikt Rejt]]). An outstanding example of the pure Renaissance architecture in Bohemia is the [[Royal Summer Palace (Prague)|Royal Summer Palace]], which was situated in a newly established garden of [[Prague Castle]]. Evidence of the general reception of the Renaissance in Bohemia, involving a massive influx of Italian architects, can be found in spacious châteaux with elegant arcade courtyards and geometrically arranged gardens.<ref name=architecture>{{cite web|title=History of Czech Architecture|url=http://eu2009.cz/en/czech-republic/architecture-and-design/history/history-of-czech-architecture-2461/|website=eu2009.cz|publisher=Czech Presidency of the European Union|accessdate=20 July 2015}}</ref> Emphasis was placed on comfort, and buildings that were built for entertainment purposes also appeared.<ref name=czecharchitecture>{{cite web|title=The History of Architecture|url=http://www.czech.cz/en/66608-the-history-of-architecture|website=www.czech.cz|accessdate=18 August 2015}}</ref>
+
+[[File:Věž a kupole kostela sv. Mikuláše na Malé Straně v Praze.jpg|thumb|[[St. Nicholas Church (Malá Strana)|St. Nicholas’ Church]] in Prague, a magnificent exemplar of the Bohemian Baroque]]
+In the 17th century, the Baroque style spread throughout the Crown of Bohemia. Very outstanding are the architectural projects of the Czech nobleman and imperial generalissimo [[Albrecht von Wallenstein]] from the 1620s. His architects [[Andrea Spezza]] and [[Giovanni de Galliano Pieroni|Giovanni Pieroni]] reflected the most recent Italian production and were very innovative at the same time. [[Czech Baroque architecture]] is considered to be a unique part of the European cultural heritage thanks to its extensiveness and extraordinariness. In the first third of the 18th century the Bohemian lands were one of the leading artistic centers of the Baroque style. In Bohemia there was completed the development of the Radical Baroque style created in Italy by [[Francesco Borromini]] and [[Guarino Guarini]] in a very original way.<ref name=kotalik>{{cite book|last=Kotalík|first=Jiří|title=Architektura barokní|year=2002|publisher=Správa Pražského hradu a DaDa|location=Praha|isbn=80-86161-38-2|page=13|edition=Deset století architektury|language=Czech}}</ref> Leading architects of the Bohemian Baroque were [[Jean Baptiste Mathey|Jean-Baptiste Mathey]], [[František Maxmilián Kaňka]], [[Christoph Dientzenhofer]], and his son [[Kilian Ignaz Dientzenhofer]].
+
+[[File:Church of St John of Nepomuk at Zelená hora CZ.jpg|thumb|left|[[Pilgrimage Church of Saint John of Nepomuk]] by [[Jan Blažej Santini-Aichel|Santini]]]]
+In the 18th century Bohemia produced an architectural peculiarity – the ''Baroque Gothic style'', a synthesis of the Gothic and Baroque styles. This was not a simple return to Gothic details, but rather an original Baroque transformation. The main representative and originator of this style was [[Jan Blažej Santini-Aichel]], who used this style in renovating medieval monastic buildings.<ref name=architecture/>
+
+During the 19th century, the [[Revival architecture|revival architectural styles]] were very popular in the Bohemian monarchy. Many churches were restored to their presumed medieval appearance and there were constructed many new buildings in the [[Romanesque Revival architecture|Neo-Romanesque]], [[Gothic Revival architecture|Neo-Gothic]] and [[Renaissance Revival architecture|Neo-Renaissance]] styles. At the turn of the 19th and 20th centuries the new art style appeared in the Czech lands – [[Art Nouveau]]. The best-known representatives of Czech Art Nouveau architecture were [[Osvald Polívka]], who designed the [[Municipal House]] in Prague, [[Josef Fanta]], the architect of the [[Praha hlavní nádraží|Prague Main Railway Station]], and [[Jan Kotěra]].
+
+Bohemia contributed an unusual style to the world's architectural heritage when Czech architects attempted to transpose the [[Cubism]] of painting and sculpture into architecture. During the first years of the independent Czechoslovakia (after 1918), a specifically Czech architectural style, called ''‘Rondo-Cubism’'', came into existence. Together with the pre-war [[Cubism#Czech Cubist architecture|Czech Cubist architecture]] it is unparalleled elsewhere in the world. The first Czechoslovak president [[Tomáš Garrigue Masaryk|T. G. Masaryk]] invited the prominent [[Slovenia|Slovene]] architect [[Jože Plečnik]] to Prague, where he modernized the [[Prague Castle|Castle]] and built some other buildings. Between World Wars I and II, [[Functionalism (architecture)|Functionalism]], with its sober, progressive forms, took over as the main architectural style in the newly established Czechoslovak Republic. In the city of Brno, one of the most impressive functionalist works has been preserved – [[Villa Tugendhat]], designed by the architect [[Ludwig Mies van der Rohe]].<ref name=architecture/> The most significant Czech architects of this era were [[Adolf Loos]], [[Pavel Janák]] and [[Josef Gočár]].
+
+[[File:PG07ME957 edit.jpg|thumb|right|[[Dancing House]] in Prague]]
+After the World War II and the Communist coup in 1948 the art in Czechoslovakia came under the strong Soviet influence. [[Hotel International Prague|Hotel International]] in Prague is a brilliant example of the so-called [[Socialist realism]], the Stalinistic art style of the 1950s. Czechoslovak avant-garde artistic movement known as the ''[[Brussels style]]'' (called after the Brussels World's Fair [[Expo 58]]) became popular in the time of political liberalization of Czechoslovakia in the 1960s.
+
+Even today, the Czech Republic is not shying away from the most modern trends of international architecture. This fact is attested to by a number of projects by world-renowned architects ([[Frank Gehry]], [[Jean Nouvel]], [[Ricardo Bofill]], and [[John Pawson]]). There are also contemporary Czech architects whose works can be found all over the world ([[Eva Jiřičná]], [[Jan Kaplický]]).<ref name=architecture/>
+
+===Literature===
+{{Main|Czech literature}}
+[[File:Kafka portrait.jpg|thumb|left|170px|[[Franz Kafka]]]]
+[[Czech literature]] is the literature written by [[Czechs]], mostly in the [[Czech language]], although other languages like [[Old Church Slavonic]], [[Latin]] or German have been also used, such as by author [[Franz Kafka]], who—while bilingual in Czech and German{{sfn|Hawes|2008|p = 29}}{{sfn|Sayer|1996|pp = 164–210}}—wrote his works in German, during the era of Austrian rule.
+
+Influential Czech authors who wrote in Latin include [[Cosmas of Prague]] († 1125), [[Peter of Zittau]] († 1339), [[Jan Hus|John Hus]] († 1415), [[Bohuslav Hasištejnský z Lobkovic]] (1461–1510), [[Jan Dubravius]] (1486–1553), [[Tadeáš Hájek]] (1525–1600), [[Johannes Vodnianus Campanus]] (1572–1622), and [[Bohuslav Balbín]] (1621–1688). In the late 13th century the royal court in Prague was one of the centers of German [[Minnesang]]. The most famous Czech medieval German-language work is the ''Ploughman of Bohemia'' (''[[Der Ackermann aus Böhmen]]''), written around 1401 by [[Johannes von Tepl]]. The heyday of Czech German-language literature can be seen in the first half of the 20th century, which is represented by the well-known names of [[Franz Kafka]], [[Max Brod]], [[Franz Werfel]], [[Rainer Maria Rilke]], [[Egon Kisch|Egon Erwin Kisch]], and others.
+
+The [[Bible translations into Czech|Bible translations]] played an important role in the development of Czech literature and standard Czech language. The oldest Czech translation of the [[Psalms]] originated in the late 13th century and the first Czech translation of the whole Bible was finished around 1360. The first complete printed Czech Bible was published in 1488 ([[Prague Bible]]). The first complete Czech Bible translation from original languages was published between 1579–93 and is known as the [[Bible of Kralice]].
+
+Czech-language literature can be divided into several main time periods: the Middle Ages ([[Chronicle of Dalimil]]); the Hussite period ([[Tomáš Štítný ze Štítného]], [[Jan Hus]], [[Petr Chelčický]]); the [[Renaissance humanism]] ([[Henry the Younger of Poděbrady]], [[Luke of Prague]], [[Wenceslaus Hajek]], [[Jan Blahoslav]], [[Daniel Adam z Veleslavína]]); the Baroque period ([[John Amos Comenius]], [[Adam Václav Michna z Otradovic]], [[Bedřich Bridel]], [[Jan František Beckovský]]); the Enlightenment and Czech reawakening in the 19th century ([[Václav Matěj Kramerius]], [[Karel Hynek Mácha]], [[Karel Jaromír Erben]], [[Karel Havlíček Borovský]], [[Božena Němcová]], [[Jan Neruda]], [[Alois Jirásek]]); the avant-garde of the interwar period ([[Karel Čapek]], [[Jaroslav Hašek]], [[Vítězslav Nezval]], [[Jaroslav Seifert]], [[Bohuslav Reynek]]); the years under Communism and the Prague Spring ([[Josef Škvorecký]], [[Bohumil Hrabal]], [[Milan Kundera]], [[Arnošt Lustig]], [[Václav Havel]]); and the literature of the post-Communist Czech Republic ([[Ivan Martin Jirous]]).
+
+[[Jaroslav Seifert]] was the only Czech writer awarded the [[Nobel Prize in Literature]]. A famous antiwar comedy novel ''[[The Good Soldier Švejk]]'' by [[Jaroslav Hašek]] is the most translated Czech book in history. It was depicted by [[Karel Steklý]] in two color films ''[[The Good Soldier Schweik (1956 film)|The Good Soldier Schweik]]'' in 1956 and 1957.
+
+Czech literature and culture played a major role on at least two occasions, when Czechs lived under oppression and political activity was suppressed. On both of these occasions, in the early 19th century and then again in the 1960s, the Czechs used their cultural and literary effort to strive for political freedom, establishing a confident, politically aware nation.{{Citation needed|date=September 2011}}
+
+===Music===
+[[File:Dvorak.jpg|thumb|upright|[[Antonín Dvořák]]]]
+{{Main|Music of the Czech Lands|Moravian traditional music}}
+
+The musical tradition of Czechia arose from first church hymns, whose first evidence is suggested at the break of 10th and 11th century. The first significant pieces of Czech music include two chorales, which in their time performed the function of anthems: "Hospodine pomiluj ny" ([[Lord, Have Mercy on Us]]) from around 1050, unmistakably the oldest and most faithfully preserved popular spiritual song to have survived to the present, and the [[hymn]] "Svatý Václave" ([[Saint Wenceslas]]) or "[[Saint Wenceslas Chorale]]" from around 1250.<ref>The chronicles of Beneš Krabice of Veitmil – the hymn "Svatý Václave" mentioned there as old and well-known in the end of the 13th century [http://www.clavmon.cz/clavis/FRRB/chronica/CRONICA%20ECCLESIAE%20PRAGENSIS.htm]</ref> Its roots can be found in the 12th century and it still belongs to the most popular religious songs to this day. In 1918, in the beginning of the [[Czechoslovakia|Czechoslovak]] state, the song was discussed as one of the possible choices for the national anthem. The authorship of the anthem "Lord, Have Mercy on Us" is ascribed by some historians to [[Saint Adalbert of Prague]] (sv.Vojtěch), bishop of [[Prague]], living between 956 and 997.<ref>Dějiny české hudby v obrazech (History of Czech music in pictures); in Czech</ref>
+[[File:Prague Municipal Smetana Hall.jpg|thumb|150px|left|Smetana Hall in [[Prague]], one of the main venues in the annual Prague Spring Festival]] 
+The wealth of musical culture in the Czech Republic lies in the long-term high-culture classical music tradition during all historical periods, especially in the [[Baroque music|Baroque]], [[Classical period (music)|Classicism]], [[Romantic music|Romantic]], [[Modernism (music)|modern classical]] music and in the [[traditional music|traditional]] folk music of Bohemia, Moravia and [[Silesia]]. Since the early eras of artificial music, Czech musicians and composers have often been influenced by genuine folk music (e.g. [[polka]] which originated in Bohemia). Among the most notable Czech composers are [[Adam Michna]], [[Jan Dismas Zelenka]], [[Johann Stamitz|Jan Václav Antonín Stamic]], [[Jiří Antonín Benda]], [[Johann Baptist Wanhal|Jan Křtitel Vaňhal]], [[Josef Mysliveček]], [[Anton Reicha|Antonín Rejcha]], [[Bedřich Smetana]], [[Antonín Dvořák]], [[Gustav Mahler]], [[Josef Suk (composer)|Josef Suk]], [[Leoš Janáček]], [[Bohuslav Martinů]], [[Alois Hába]], [[Miloslav Kabeláč]] and [[Petr Eben]], not forgetting the famous musicians and interpreters, e.g. [[František Benda]], [[Jan Kubelík]], [[Emma Destinnová]], [[Rudolf Firkušný]], [[Czech Philharmonic Orchestra]], [[Panocha Quartet]] and many others.
+
+Czech music can be considered to have been beneficial in both the European and worldwide context, several times co-determined or even determined a newly arriving era in musical art,<ref>{{cite web|url=http://www.expats.cz/prague/article/czech-culture/czech-music-history/|title=Czech Music|publisher=}}</ref> above all of [[Classical period (music)|Classical]] era, as well as by original attitudes in [[Baroque (music)|Baroque]], [[Romantic (music)|Romantic]] and [[modern classical]] music.
+
+The most famous music festival in the country is [[Prague Spring International Music Festival]] of [[classical music]], a permanent showcase for outstanding performing artists, symphony orchestras and chamber music ensembles of the world.
+
+The Czech Republic first entered the [[Eurovision Song Contest]] in [[Eurovision Song Contest 2007|2007]]. They qualified for the grand final for the first time in [[Eurovision Song Contest 2016|2016]] when they finished in 25th place.
+
+===Theatre===
+{{Main|Theatre of the Czech Republic}}
+
+The roots of Czech theatre can be found in the Middle Ages, especially in cultural life of [[gothic period]]. In the 19th century, the theatre played an important role in the national awakening movement and later, in the 20th century it became a part of the modern European theatre art. Original Czech cultural phenomenon came into being at the end of the 1950s. This project called [[Laterna magika]] (The Magic Lantern) was the brainchild of renowned film and theater director [[Alfred Radok]], resulting in productions that combined theater, dance and film in a poetic manner, considered the first [[multimedia art]] project in international context
+
+===Film===
+{{Main|Cinema of the Czech Republic}}
+The tradition of Czech cinematography started in the second half of 1890s. Peaks of the production in the era of silent movies represent historical [[drama]] "The Builder of the Temple", social and erotic (very controversial and innovative at that time ) drama "Erotikon" directed by [[Gustav Machatý]].<ref>{{cite web|url=http://www.openculture.com/2015/06/gustav-machatys-erotikon-1929-ekstase-1933-cinemas-earliest-explorations-of-womens-sensuality.html|title=Gustav Machatý’s Erotikon (1929) & Ekstase (1933): Cinema’s Earliest Explorations of Women’s Sensuality|work=Open Culture}}</ref> Early sound film era of Czech film was very productive, above all in mainstream genres with special role of comedies by [[Martin Frič]] or [[Karel Lamač]], however more internationally 
+successful were drammatic movies, above all famous [[romantic drama]] film "[[Ecstasy (film)|Ecstasy]]" by Gustav Machatý, and romantic "The River" by  [[Josef Rovenský]].  
+ 
+[[File:Fabworldofjulesverne.jpg|thumb|upright|left|American poster of Karel Zeman's 1958 film ''A Deadly Invention'']] 
+After the repressive period of Nazi occupation of the country and early communist official dramaturgy of socialist realism in movies at the turn of 1940s and 1950s with a few exceptions such a "[[Krakatit]]" by [[Otakar Vávra]] or "Men without wings" by [[František Čáp]] (awarded by [[Palme d'Or]]  of the [[Cannes Film Festival]]  in 1946), new era of the Czech film begun by outstanding animated films by important filmmakers such as [[Karel Zeman]], a pioneer with special effects (culminating in successful films such as artistically exceptional "Vynález zkázy" (A Deadly Invention), performed in anglophone countries under the name "The Fabulous World of Jules Verne" from 1958, which combined acted drama with animation, and [[Jiří Trnka]], the founder of the modern puppet film.<ref>{{cite web|url=http://www.czech.cz/en/About-CZ/Facts-about-the-Czech-Republic/History-of-Czech-cinematography|title=History of Czech cinematography|publisher=}}</ref> Another Czech cultural phenomenon came into being at the end of the 1950s. This project called [[Laterna magika]] (The Magic Lantern), resulting in productions that combined theater, dance and film in a poetic manner, considered the first [[multimedia art]] project in international context (mentioned also in "Theatre section" above).
+
+In 1960s, so called Czech New Wave (also [[Czechoslovak New Wave]]) received international acclaim. It is linked with names of [[Miloš Forman]], [[Věra Chytilová]], [[Jiří Menzel]], [[Ján Kadár]], [[Elmar Klos]], [[Evald Schorm]], [[Vojtěch Jasný]], [[Ivan Passer]], [[Jan Schmidt]], [[Juraj Herz]], [[Jan Němec]], Jaroslav Papoušek, etc. The hallmark of the films of this movement were long, often improvised [[dialogue]]s, [[Black humour|black]] and [[absurdity|absurd]] [[humor]] and the occupation of non-actors. Directors are trying to preserve natural atmosphere wthout refinement and artificial arrangement of scenes. The unique personality of 1960s and the beginning of 1970s with original manuscript, deep psychological impact and extraordinarily high quality art is the director [[František Vláčil]]. His films [[Marketa Lazarová]], [[Údolí včel]] ("The Valley of The Bees") or [[Adelheid]] belong to the srtistic peaks of Czech cinema production. The film "Marketa Lazarová" was voted the all-time best Czech movie in a prestigious 1998 poll of Czech film critics and publicists. Another internationally well-known author is [[Jan Švankmajer]] (in the beginning of the career conjoined with above mentioned project "Laterna Magika"), a filmmaker and artist whose work spans several media. He is a self-labeled [[surrealism|surrealist]] known for his [[animation]]s and features, which have greatly influenced many artists worldwide.<ref>{{cite news|title= Brooding Cartoons From Jan Svankmajer |publisher= LA Times|date=19 July 1991|url= http://articles.latimes.com/1991-07-19/entertainment/ca-2291_1_political-cartoon|accessdate=24 August 2010 | first=Charles | last=Solomon}}</ref>
+
+Films [[The Shop on Main Street]] (1965), [[Closely Watched Trains]] (1967) and [[Kolya]] (1996) won the  [[Academy Award for Best Foreign Language Film]] while six others earned 
+a nomination: [[Loves of a Blonde]] (1966), [[The Fireman's Ball]] (1968), [[My Sweet Little Village]] (1986), [[The Elementary School]] (1991), [[Divided We Fall (film)|Divided We Fall]] (2000) and [[Želary]] (2003). 
+The [[Czech Lion]] is the highest award for Czech film achievement.
+
+The [[Barrandov Studios]] in Prague are the largest film studios in country and one of the largest in Europe with many many popular film locations in the country.<ref>{{cite web|title=KFTV|url=http://www.kftv.com/country/Czech_Republic/guide/general|publisher=Wilmington Publishing and Information Ltd|accessdate=26 October 2012}}</ref> Filmmakers have come to [[Prague]] to shoot scenery no longer found in Berlin, Paris and Vienna. The city of [[Karlovy Vary]] was used as a location for the 2006 James Bond film Casino Royale.<ref>{{cite web|title=Czech Film Commission – Karlovy Vary|url=http://www.filmcommission.cz/news/detail/id/85|publisher=Czech Film Commission|accessdate=26 October 2012}}</ref>
+
+[[Karlovy Vary International Film Festival]] is one of the oldest in the world and has become Central and Eastern Europe's leading film event. It is also one of few film festivals have been given competitive status by the [[FIAPF]]. Other film festivals held in the country include [[Febiofest]], [[Jihlava International Documentary Film Festival]], [[One World Film Festival]], [[Zlín Film Festival]] and [[Fresh Film Festival]].
+
+===Media===
+Since the Czech Republic is a democratic republic, journalists and media should be free to write about everything, except supporting [[nazism]], [[racism]] and violating the [[Czech law]]. The country was ranked as the 13th most free press in the World Freedom Index by [[Reporters Without Borders]] in 2014.<ref>{{cite web|title=Biggest rises and falls in the 2014 World Press Freedom Index|url=http://rsf.org/index2014/en-index2014.php|publisher=[[Reporters Without Borders]]|accessdate=17 July 2015}}</ref>
+
+The most trusted media in the Czech Republic are [[public service]]s. [[Czech Television]], the only national public television service, owns the 24-hour news channel [[ČT24]].<ref>{{cite web|title=Nejserióznější zpravodajství hledejte na webu ct24.cz|url=http://www.ceskatelevize.cz/ct24/media-it/304989-nejserioznejsi-zpravodajstvi-hledejte-na-webu-ct24-cz/|publisher=[[Czech Television]]|accessdate=17 July 2015}}</ref> Other public services are [[Czech Radio]] and the [[Czech News Agency]] (ČTK). Privately owned television services such as [[TV Nova (Czech Republic)|TV Nova]], [[TV Prima]] and [[TV Barrandov]] are also very popular, with TV Nova being the most popular channel in the Czech Republic.
+
+Newspapers are quite popular in the Czech Republic. The best-selling daily national newspapers are [[Blesk]] (average 1.15M daily readers), [[Mladá fronta DNES]] (average 752,000 daily readers) and Daily (average 72,000 daily readers).<ref>{{cite web|title=Čechy nejvíce zajímá bulvár. Nejčtenější v zemi je deník Blesk|url=http://ekonomika.eurozpravy.cz/ceska-republika/93351-cechy-nejvice-zajima-bulvar-nejctenejsi-v-zemi-je-denik-blesk/|publisher=[[Czech News Agency]]|accessdate=17 July 2015}}</ref>
+
+===Video games===
+{{Main|Video gaming in the Czech Republic}}
+
+The Czech Republic is home to several globally successful video game developers, including [[2K Czech|Illusion Softworks]] (2K Czech), [[Bohemia Interactive]], [[Keen Software House]], [[Amanita Design]] and [[Madfinger Games]]. The Czech video game development scene has a long history, and a number of Czech games were produced for the [[ZX Spectrum]], [[PMD 85]] and [[Atari 8-bit family|Atari]] systems in the 1980s. In the early 2000s, a number of Czech games achieved international acclaim, including ''[[Hidden & Dangerous]]'', ''[[Operation Flashpoint: Cold War Crisis|Operation Flashpoint]]'', ''[[Vietcong (video game)|Vietcong]]'' and ''[[Mafia: The City of Lost Heaven|Mafia]]''. Today, the most globally successful Czech games include ''[[ARMA (series)|ARMA]]'', ''[[DayZ (video game)|DayZ]]'', ''[[Space Engineers]]'', ''[[Machinarium]]'', ''[[Shadowgun]]'' and ''[[Blackhole (video game)|BLACKHOLE]]''. The [[Anifilm#Czech Game of the Year Awards|Czech Game of the Year Awards]] are held annually at the [[Anifilm]] festival in [[Třeboň]].
+
+===Cuisine===
+{{Main|Czech cuisine}}
+
+Czech cuisine is marked by a strong emphasis on meat dishes. Pork is quite common; beef and chicken are also popular. Goose, duck, rabbit and wild game are served. Fish is rare, with the occasional exception of fresh [[trout]] and [[carp]], which is served at Christmas.
+
+[[Beer in the Czech Republic|Czech beer]] has a long and important history. The first brewery is known to have existed in 993 and the Czech Republic has the highest [[List of countries by beer consumption per capita|beer consumption per capita]] in the world. The famous "[[Pilsner|pilsner style]] [[beer]]" (pils) originated in the western Bohemian city of [[Plzeň]], where the world's first-ever blond lager [[Pilsner Urquell]] is still being produced, making it the inspiration for more than two-thirds of the beer produced in the world today. Further south the town of [[České Budějovice]], known as Budweis in German, lent its name to its beer, eventually known as [[Budweiser Budvar]]. Apart from these and other major brands, the Czech Republic also boasts a growing number of top quality small breweries and mini-breweries seeking to continue the age-old tradition of quality and taste, whose output matches the best in the world.
+
+Tourism is slowly growing around the Southern Moravian region too, which has been producing [[Czech wine|wine]] since the Middle Ages; about 94% of [[vineyard]]s in the Czech Republic are Moravian. Aside from [[slivovitz]], Czech beer and wine, the Czechs also produce two unique [[liquor]]s, [[Fernet Stock]] and [[Becherovka]]. [[Kofola]] is a non-alcoholic domestic [[cola]] [[soft drink]] which competes with [[Coca-Cola]] and [[Pepsi]] in popularity.
+
+Some popular Czech dishes include:
+
+* ''Vepřo knedlo zelo'': roast pork with bread dumplings and stewed cabbage
+* ''[[Svíčková|Svíčková na smetaně]]'': roast sirloin of beef with steamed dumplings and cream of vegetable sauce
+* ''Rajská (omáčka)'': beef in tomato sauce, traditionally served with dumplings
+* ''Koprovka'': beef in dill sauce, traditionally served with dumplings
+* ''Pečená kachna'': roast duck with bread or potato dumplings and braised red cabbage
+* ''[[Guláš]]'': a variety of beef and pork goulash stews, served with dumplings or bread
+* ''[[Smažený sýr]]'': fried cheese, typically served with potatoes or french fries and [[tartar sauce]]
+* ''[[Potato pancake|Bramboráky]]'': potato pancakes, traditionally served with sour cabbage
+
+There is also a large variety of local sausages, wurst, pâtés, and smoked and cured meats. Czech desserts include a wide variety of whipped cream, chocolate, and fruit pastries and tarts, crêpes, creme desserts and cheese, poppy seed filled and other types of traditional cakes such as ''[[Buchteln|buchty]]'', ''[[Kolach|koláč]]e'' and [[Apple strudel|''štrůdl'']].
+
+<gallery caption="Czech cuisine" mode="packed" style="font-size:95%; line-height:130%;">
+File:Budvar-mug.JPG|A mug of [[Budweiser Budvar]]
+File:Svíčková na smetaně.JPG|[[Svíčková]]: [[Sirloin steak]] with [[List of root vegetables|root vegetable]] and [[cream]] [[gravy]], [[dumplings]], and [[cranberry|cranberries]]
+File:VeproKnedloZelo-00.jpg|Vepřo-knedlo-zelo: roast pork, [[sauerkraut]] and dumplings
+File:Makový koláček.jpg|[[Sweet roll]] (Koláč) with [[poppy seed]]
+File:Tvarohové knedlíky plněné jahodami.jpg|Strawberry filled dumplings with [[cottage cheese]]
+File:Nakrajeny mazanec (5).JPG|[[Easter]] bread
+</gallery>
+
+===Sports===
+[[File:HC LEV Record O2.jpg|thumb|Ice hockey is one of the most popular sports in the Czech Republic and the Czech national team is one of the [[Big Six (ice hockey)|world's best teams]]]]{{Main|Sport in the Czech Republic}}
+Sports play a part in the life of many Czechs, who are generally loyal supporters of their favorite teams or individuals. The two leading sports in the Czech Republic are [[ice hockey]] and [[association football|football]]. Tennis is also a very popular sport in the Czech Republic. The many other sports with professional leagues and structures include basketball, volleyball, [[team handball]], [[track and field athletics]] and [[floorball]]. [[Czech Republic men's national ice hockey team|The Czech ice hockey team]] won the gold medal at the [[1998 Winter Olympics]] and has won twelve gold medals at the [[IHWC|World Championships]] (including 6 as Czechoslovakia), including three straight from [[1999 Men's World Ice Hockey Championships|1999]] to [[2001 Men's World Ice Hockey Championships|2001]]. In total the country has won 14 gold medals in [[Summer Olympic Games|summer]] (plus 49 as Czechoslovakia) and five gold medals (plus two as Czechoslovakia) in [[Winter Olympic Games|winter]] [[All-time Olympic Games medal table|Olympic history]].
+
+The Czechoslovakia national football team was a consistent performer on the international scene, with eight appearances in the FIFA World Cup Finals, finishing in second place in 1934 and 1962. The team also won the European Football Championship in 1976, came in third in 1980 and won the Olympic gold in 1980. After dissolution of Czechoslovakia, the Czech national football team finished in second (1996) and thrird (2004) place at the European Football Championship.
+
+Sport is a source of strong waves of patriotism, usually rising several days or weeks before an event. The events considered the most important by Czech fans are: the [[Ice Hockey World Championships]], [[Ice hockey at the Olympic Games|Olympic Ice hockey tournament]], [[UEFA European Football Championship]], [[UEFA Champions League]], [[FIFA World Cup]] and qualification matches for such events.<ref>{{cite web|url=http://www.prague.fm/11845/pragues-most-popular-sports/ |title=Prague's Most Popular Sports |publisher=Prague.fm |accessdate=14 May 2014}}</ref> In general, any international match of the Czech ice hockey or football national team draws attention, especially when played against a traditional rival.
+
+The Czech Republic also has great influence in tennis, with such players as [[Ivan Lendl]], 8 times Grand Slam singles champion, [[2010 Wimbledon Championships – Men's Singles]] finalist [[Tomáš Berdych]], [[2011 Wimbledon Championships – Women's Singles|2011]] and [[2014 Wimbledon Championships – Women's Singles]] champion [[Petra Kvitová]], [[1998 Wimbledon]] Women's Singles title [[Jana Novotná]], [[2015 French Open – Women's Singles]] finalist [[Lucie Šafářová]], [[2011 Wimbledon Championships – Women's Doubles]] champion [[Květa Peschke]] and 18 time Grand Slam champion [[Martina Navratilova]].
+
+One of the most popular Czech sport is [[hiking]], mainly in the Czech mountains. The word "tourist" in the Czech language also means a trekker or hiker. For beginners, thanks to the more than 100 years long tradition, there is a unique system of [[waymarking]], one of the best in Europe. There is a network of around 40,000&nbsp;km of perfectly marked{{citation needed|date=April 2015}} short and long distance trails crossing the whole country and all the Czech mountains – not only in the [[Bohemian Forest|Šumava]] Mountains, but also in the [[Bohemian-Moravian Highlands|Vysočina]], [[Ore Mountains|Krušné hory]], [[Jizera Mountains|Jizerské hory]], [[Moravian-Silesian Beskids|Beskydy]], [[Jeseníky]], [[Orlické hory]] and [[Krkonoše|Giant Mountains – Krkonoše]].
+
+==See also==
+* [[List of Czech Republic-related topics]]
+* [[Outline of the Czech Republic]]
+* <!-- {{wikipedia books link|Czech Republic}} -->
+
+==References==
+<!--To add a reference simply enclose the text you want to appear here inside a pair in the correct place in the body of the article.-->
+;Notes
+{{Reflist|30em}}
+
+;Sources
+*{{cite book |last=Angi |first=János |editor1-last=Pósán |editor1-first=László |editor2-last=Papp |editor2-first=Imre |editor3-last=Bárány |editor3-first=Attila |editor4-last=Orosz |editor4-first=István |editor5-last=Angi |editor5-first=János | title=Európa a korai középkorban ''["Europe in the Early Middle Ages"]'' |publisher=Multiplex Media – Debrecen University Press |year=1997 |pages=358–365 |chapter=A nyugati szláv államok [=Western Slavic states] |isbn=963-04-9196-6|ref=harv}}
+
+==Further reading==
+* Hochman, Jiří. ''Historical dictionary of the Czech State'' (1998)
+
+==External links==
+{{Sister project links|voy=Czech Republic|Czech Republic}}
+*{{CIA World Factbook link|ez|Czech Republic}}
+* [http://www.state.gov/p/eur/ci/ez/ Czech Republic] information from the [[United States Department of State]]
+* [http://www.loc.gov/rr/international/european/czechr/cz.html Portals to the World] from the United States [[Library of Congress]]
+* [http://ucblibraries.colorado.edu/govpubs/for/czechrepublic.htm Czech Republic] at ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Europe/Czech_Republic}}
+* [http://www.bbc.co.uk/news/world-europe-17220018 Czech Republic profile] from the [[BBC News]]
+*{{Wikiatlas|the Czech Republic}}
+*{{osmrelation-inline|51684}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=CZ Key Development Forecasts for the Czech Republic] from [[International Futures]]
+* [http://www.czech.cz/en/ Czech Republic]
+* [http://www1.ceses.cuni.cz/benacek/hist%20kniha2.pdf History of Czech Economic and Political Alignments Viewed as a Transition]
+
+'''Government'''
+* [http://www.vlada.cz/en/ Governmental website]
+* [http://www.hrad.cz/en/ Presidential website]
+* [http://portal.gov.cz/portal/obcan/ Portal of the Public Administration]
+* [http://www.senat.cz/index-eng.php Senate]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/czech-republic.html Chief of State and Cabinet Members]
+
+'''News'''
+* [http://www.praguepost.com/ The Prague Post]
+* [http://aktualne.centrum.cz/czechnews/ CzechNews]
+* [http://www.ceskenoviny.cz/news/ Czech News Agency News]
+* [http://praguemonitor.com/ Prague Daily Monitor]
+* [http://www.radio.cz/en/ Radio Prague]
+
+'''Statistics'''
+* [http://www.czso.cz/eng/redakce.nsf/i/home Czech Statistical Office]
+
+'''Trade'''
+*[http://wits.worldbank.org/CountryProfile/Country/CZE/Year/2012/Summary World Bank Summary Trade Statistics Czech Republic]
+
+'''Travel'''
+* [http://www.czechtourism.com/Homepage.aspx?lang=en-GB&selectedculture=en-US Czech Tourism] official travel site of the Czech Republic
+* [http://www.kct.cz/cms/czech-tourist-klub-kct/ Czech tourist club official webpage]
+
+{{Czech Republic topics}}
+{{Navboxes
+| title = Articles related to the Czech Republic
+| list =
+{{Navboxes
+| title = Geographic locale
+| list =
+{{Countries of Europe}}
+}}
+{{Navboxes
+| title = International membership
+| list =
+{{Members of the European Union (EU)}}
+{{Council of Europe}}
+{{North Atlantic Treaty Organisation (NATO)}}
+{{Organisation for Economic Co-operation and Development}}
+{{La Francophonie}}
+}}
+}}
+{{Coord|49|45|N|15|30|E|type:country_region:CZ_scale:9000000|display=title}}
+
+{{Portal bar|Prague|Czech Republic|NATO|European Union|Europe|Geography}}
+
+{{Authority control}}
+
+[[Category:Czech Republic| ]]
+[[Category:Countries in Europe]]
+[[Category:Czech-speaking countries and territories]]
+[[Category:Landlocked countries]]
+[[Category:Liberal democracies]]
+[[Category:Member states of NATO]]
+[[Category:Member states of the Council of Europe]]
+[[Category:Member states of the European Union]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:Slavic countries and territories]]
+[[Category:States and territories established in 1993]]
+[[Category:Central Europe]]

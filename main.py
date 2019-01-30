@@ -4,6 +4,7 @@ import argparse
 import os
 import time
 
+# pass -h argument for help
 parser = argparse.ArgumentParser(description="Indexing")
 parser.add_argument('-k', '--keyword', type=str, required=True ,help="Keyword")
 parser.add_argument('-d', '--directory', type=str, required=True,help="Path to the document directory which has to be indexed")
@@ -13,29 +14,37 @@ args = parser.parse_args()
 keyword = args.keyword
 directory=args.directory
 load=args.loadindex
-docs=os.listdir('./Docs/')
-print(len(docs))
+docs=os.listdir(directory)
 
 if __name__ == "__main__": 
-    thread_objects=[]
-    documents=[]
-    set_doc=[]
-    j=0
-    start=time.time()
-    for i in range(len(docs)):
-        if i%10 !=0:
-            set_doc.append(docs[i])
-        else:
-            set_doc.append(docs[i])
-            print('t start')
-            thread_objects.append(threading.Thread(target=indexing.main_method, args=(keyword,directory,load,set_doc,)))
-            set_doc=[]
-            thread_objects[j].start()
-            thread_objects[j].join()
-            j+=1
+    if not load:
+        thread_objects=[]
+        documents=[]
+        set_doc=[]
+        j=0
+        start=time.time()
+        for i in range(len(docs)):
+            file_count=j
+            # set of 10 documents is given to one thread 
+            if i%10 !=0:
+                # Collecting names of 10 documents which is to be processed by thread
+                set_doc.append(docs[i])
+            else:
+                # Once 10 douments are found the thread is started 
+                set_doc.append(docs[i])
+                print('thread '+str(j)+' start')
+                thread_objects.append(threading.Thread(target=indexing.main_method, args=(keyword,directory,load,set_doc,file_count,)))
+                set_doc=[]
+                thread_objects[j].start()
+                thread_objects[j].join()
+                j+=1
 
 
-    end=time.time()
-    print("Done!",end-start) 
+        end=time.time()
+        print('Indexded '+str(len(docs))+' documents in '+str(end-start)+' Seconds') 
+    indexing.make_dict_object()
 
+    if load:
+        set_doc=os.listdir('./Docs/')
+        indexing.main_method(keyword,directory,load,set_doc,0)
 

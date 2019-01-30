@@ -1,0 +1,636 @@
+Democratic Republic of the Congo
+
+{{distinguish2|the neighbouring [[Republic of the Congo]]}}
+{{pp-move-indef}}
+{{Use dmy dates|date=April 2015}}
+{{coord|-2.88|23.656|display=title|type:country}}
+
+{{Infobox country
+|conventional_long_name = Democratic Republic of the Congo
+|native_name =
+{{resize|80%|{{native name|fr|République démocratique du Congo}}}}<br />
+{{resize|80%|{{native name|kg|Repubilika ya Kôngo ya Dimokalasi}}}}<br />
+{{resize|80%|{{native name|ln|Republíki ya Kongó Demokratíki}}}}<br />
+{{resize|80%|{{native name|sw|Jamhuri ya Kidemokrasia ya Kongo}}}}<br />
+{{resize|80%|{{native name|lu|Ditunga dia Kongu wa Mungalaata}}}}
+|common_name = the Democratic Republic of the Congo
+|image_flag = Flag of the Democratic Republic of the Congo.svg
+|image_coat = Coat of arms of the Democratic Republic of the Congo.svg
+|symbol_type = Coat of arms
+|image_map = Democratic_Republic_of_the_Congo_(orthographic_projection).svg
+|map_caption = {{map caption |countryprefix= |location_color=dark green}}
+|image_map2 = Democratic Republic of the Congo - Location Map (2013) - COD - UNOCHA.svg
+|national_motto = {{native phrase|fr|"Justice – Paix – Travail"|italics=off|nolink=on}}<br />{{small|"Justice – Peace – Work"}}
+|national_anthem = {{native name|fr|[[Debout Congolais]]|nolink=on}}<br />{{small|"Arise, Congolese"}}<br /><center>[[File:National Anthem of Democratic Republic of the Congo by US Navy Band.ogg]]</center>
+|official_languages = [[French language|French]]
+|national_languages = {{unbulleted list |[[Lingala language|Lingala]] |[[Kituba language|Kituba]] ("Kikongo ya leta") |[[Swahili language|Swahili]] |[[Luba-Kasai language|Tshiluba]]}}
+|demonym = <span class="nowikilink">Congolese</span>
+|ethnic_groups = ''See [[#Ethnic groups|Ethnic groups]] section below''
+|capital = [[Kinshasa]]
+|latd=4 |latm=19 |latNS=S |longd=15 |longm=19 |longEW=E
+|largest_city = capital
+|government_type = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] republic
+|leader_title1 = [[President of the Democratic Republic of the Congo|President]]
+|leader_name1 = [[Joseph Kabila]]
+|leader_title2 = [[Prime Minister of the Democratic Republic of the Congo|Prime Minister]]
+|leader_name2 = [[Augustin Matata Ponyo]]
+|legislature = [[Parliament of the Democratic Republic of the Congo|Parliament]]
+|upper_house = [[Senate (Democratic Republic of the Congo)|Senate]]
+|lower_house = [[National Assembly (Democratic Republic of the Congo)|National Assembly]]
+|sovereignty_type = Independence
+|established_event1 = from [[Belgium]]
+|established_date1 = 30 June 1960<ref name="cia.gov"/>
+|area_km2 = 2,345,409
+
+|area_sq_mi = 905,355 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 11th
+|area_magnitude = 1 E+12
+|percent_water = 4.3
+|population_estimate = 81,680,000<ref>[http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=95&pr.y=10&sy=2015&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&c=636&s=LP&grp=0&a= Democratic Republic of the Congo] IMF population estimates</ref>
+|population_estimate_year = 2015
+|population_estimate_rank = 19th
+|population_density_km2 = 33.01
+|population_density_sq_mi = 75.9 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 182nd
+|GDP_PPP_year = 2016
+|GDP_PPP = $68.691 billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=9&c=614%2C668%2C638%2C674%2C616%2C676%2C748%2C678%2C618%2C684%2C624%2C688%2C622%2C728%2C626%2C692%2C628%2C694%2C632%2C714%2C636%2C716%2C634%2C722%2C662%2C718%2C642%2C724%2C643%2C199%2C644%2C733%2C646%2C734%2C648%2C738%2C652%2C742%2C656%2C746%2C654%2C754%2C664%2C698%2C666&s=NGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|title=Democratic Republic of the Congo
+|publisher=international monetary fund }}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_per_capita = $816<ref name=imf2/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal_year = 2016
+|GDP_nominal = $42.056 billion<ref name=imf2/>
+|GDP_nominal_rank =
+|GDP_nominal_per_capita = $499<ref name=imf2/>
+|GDP_nominal_per_capita_rank =
+|Gini_year = 2006
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 44.4
+|Gini_ref = <ref name=gini>{{cite web|title=GINI index|url=http://data.worldbank.org/indicator/SI.POV.GINI?page=1|publisher=World Bank|accessdate=30 July 2013}}</ref>
+|Gini_rank =
+|HDI_year = 2014<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.433 <!--number only-->
+|HDI_ref = <ref name="HDI"/>
+|HDI_rank = 176th
+|currency = [[Congolese franc]]
+|currency_code = CDF
+|time_zone = [[West Africa Time|WAT]] and [[Central Africa Time|CAT]]
+|utc_offset = {{nowrap|+1 to +2}}
+|time_zone_DST =
+|utc_offset_DST =
+|drives_on = right
+|calling_code = [[+243]]
+|iso3166code = CD
+|cctld = [[.cd]]}}
+
+The '''Democratic Republic of the Congo''' ({{IPAc-en|ˈ|k|ɒ|ŋ|ɡ|əʊ}}; {{IPA-fr|kɔ̃ɡo}}; {{lang-fr|link=no|République démocratique du Congo}}), also known as '''DR Congo''', '''DRC''', '''DROC''', '''Congo-Kinshasa''', or simply the '''Congo'''<ref name=Starbird>{{cite book |last1=Starbird |first1=Caroline |last2=Deboer |first2=Dale |last3=Pettit |first3=Jenny |year=2004 |title=Teaching International Economics and Trade |trans_title= |url=https://books.google.com/books?id=EKiS9SZNPe0C&pg=PA78 |publisher=Center for Teaching International Relations, [[University of Denver]] |publication-date= |page=78 |isbn=9780943804927 |quote=Aid Applicant: The Democratic Republic of the Congo (DROC) |ref= }}</ref><ref name=USTR>{{cite book |last=[[Office of the United States Trade Representative]] |editor-last=[[United States House of Representatives]] [[United States House Committee on Ways and Means|Committee on Ways and Means]]  |date=May 2003  |title=2003 Comprehensive Report on U.S. Trade and Investment Policy Toward Sub-Saharan Africa |url=https://books.google.com/books?id=HnGGEqGukvgC&pg=PA87&dq=%22DROC%22+congo&hl=en&sa=X&ei=E8ybUurQH8fqoASHqYCYBg&ved=0CCwQ6AEwADgK#v=onepage&q=%22DROC%22%20congo&f=false  |others=Message from the President of the United States |publisher=[[United States Government Printing Office]]  |publication-date= |page=87  |isbn=9781428950146 |quote=Democratic Republic of the Congo (DROC) will become eligible for AGOA trade benefits upon formation of a transitional government.}}</ref> is a country located in Central Africa. From 1971 to 1997 it was named [[Zaire]]. The DRC borders the [[Republic of the Congo]], the [[Central African Republic]], and [[South Sudan]] to the north; [[Uganda]], [[Rwanda]], [[Burundi]] and [[Tanzania]] to the east; [[Zambia]] and [[Angola]] to the south; and the [[Atlantic Ocean]] to the west. It is the second largest country in Africa by area, the largest in [[Subsaharan]] Africa, and the [[List of countries and dependencies by area|eleventh largest in the world]]. With a population of over 79 million,<ref name="cia.gov">
+{{cite web|author=Central Intelligence Agency|title=Democratic Republic of the Congo|work=The World Factbook|publisher=Central Intelligence Agency|location=Langley, Virginia |year=2014|url=https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html|accessdate=29 April 2014}}</ref> the Democratic Republic of the Congo is the most populated [[List of countries where French is an official language|officially Francophone country]], the fourth most populated nation in Africa and the [[List of countries by population|nineteenth most populated country in the world]].
+
+The Congolese Civil Wars, which began in 1996, brought about the end of [[Mobutu Sese Seko]]'s 32-year reign<ref name="cia.gov" /> and devastated the country. The wars ultimately involved nine African nations, multiple groups of [[MONUSCO|UN peacekeepers]] and twenty armed groups,<ref>
+{{cite web|url=http://www.csmonitor.com/2004/0623/p01s04-woaf.html|title=Rumblings of war in heart of Africa|author1=McLaughlin, Abraham |author2=Woodside, Duncan |work=The Christian Science Monitor|date=23 June 2004}}</ref><ref name=Bowers>{{cite web|url=http://mydd.com/story/2006/7/24/135222/827|archiveurl=https://web.archive.org/web/20081007113538/http://mydd.com/story/2006/7/24/135222/827|archivedate=7 October 2008|title=World War Three|author=Bowers, Chris |publisher=My Direct Democracy|date=24 July 2006}}</ref> and resulted in the deaths of 5.4 million people.<ref name=IRC2007fullreport>{{cite report|author=Coghlan, Benjamin|url=http://www.rescue.org/sites/default/files/resource-file/2006-7_congoMortalitySurvey.pdf|format=PDF|title=Mortality in the Democratic Republic of Congo: An ongoing crisis: Full 26-page report|accessdate=21 March 2013|year=2007|page=26|display-authors=etal}}</ref><ref name="The deadliest war in the world">{{cite news|last=Robinson|first=Simon|url=http://content.time.com/time/magazine/article/0,9171,1198921,00.html|title=The deadliest war in the world|work=Time|date=28 May 2006|accessdate=2 May 2010}}</ref><ref>{{cite news|first=Joe|last=Bavier|url=http://www.reuters.com/article/2008/01/22/us-congo-democratic-death-idUSL2280201220080122|title=Congo War driven crisis kills 45,000 a month|agency=Reuters|date=22 January 2008|accessdate=2 May 2010}}</ref><ref name=IRC2007Facts>{{cite web|title=Measuring Mortality in the Democratic Republic of Congo|year=2007|url=http://www.rescue.org/sites/default/files/resource-file/IRC_DRCMortalityFacts.pdf|format=PDF|publisher=[[International Rescue Committee]]}}</ref>
+
+The Democratic Republic of Congo is extremely rich in natural resources, but political instability, a lack of infrastructure, deep rooted corruption, and centuries of both commercial and colonial extraction and exploitation have limited holistic development. Besides the capital, [[Kinshasa]], the other major cities, [[Lubumbashi]] and [[Mbuji-Mayi]], are both mining communities. DR Congo's largest export is raw minerals, with China accepting over 50% of DRC's exports in 2012. {{As of|2013}}, according to the [[Human Development Index]] (HDI), DR Congo has a low level of human development, ranking 176 out of 187 countries.<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report  |year=2015 |accessdate=14 December 2015 |publisher=United Nations Development Programme }}</ref>
+
+==Etymology==
+{{further|Name of the Congo}}
+The Democratic Republic of the Congo was formerly known as, in chronological order, [[Congo Free State]], [[Belgian Congo]], [[Republic of the Congo (Léopoldville)]], Democratic Republic of the Congo, [[Republic of Zaire]] and Democratic Republic of the Congo (again).<ref name="cia.gov"/>
+
+The country was known officially as the "Democratic Republic of the Congo" from 1965 to 27 October 1971, when it was changed to the "Republic of Zaire."<ref name="kisanganibobb">{{cite web |author1=Emizet Francois Kisangani |author2=Scott F. Bobb |title=Historical Dictionary of the Democratic Republic of the Congo |url=https://books.google.com/books?id=FvAWPTaRvFYC&lpg=PR51&ots=T6mqUdXPyo&dq=27%20october%201971%20zaire&pg=PR51#v=onepage&q=27%20october%201971%20zaire&f=false |publisher=Scarecrow Press |accessdate=29 April 2016 |date=2010 |page=i}}</ref> In 1992, the Sovereign National Conference voted to change the name of the country to the "Democratic Republic of the Congo," but the change was not put into practice.<ref>{{cite book|author=Nzongola-Ntalaja, Georges |title=From Zaire to the Democratic Republic of the Congo|url=https://books.google.com/books?id=cvjNXc0tsyEC&pg=PA5|year=2004|publisher=Nordic Africa Institute|isbn=978-91-7106-538-4|pages=5–}}</ref> The country's name was restored by former president [[Laurent Kabila]] following the fall of long time dictator [[Mobutu Sese Seko]] in 1997.<ref>{{cite book|author=Yusuf, A. A.|title=African Yearbook of International Law, 1997|url=https://books.google.com/books?id=iVd1jaPmtl0C&pg=PA49|year=1998|publisher=Martinus Nijhoff Publishers|isbn=978-90-411-1055-8}}</ref>
+
+==History==
+{{Main|History of the Democratic Republic of the Congo}}
+
+===Early history===
+{{Main|Early Congolese history}}
+[[File:Nyangwe.jpg|thumb|Village attacked by Arab-Swahili slavers near [[Nyangwe]], end of 19th century]]
+
+The area now known as the DR Congo was populated as early as 80,000 years ago, as shown by the 1988 discovery of the [[Semliki harpoon]] at Katanda, one of the oldest barbed harpoons ever found, and which is believed to have been used to catch giant river catfish.<ref>{{cite web|url=http://humanorigins.si.edu/evidence/behavior/katanda-bone-harpoon-point |title=Katanda Bone Harpoon Point &#124; The Smithsonian Institution's Human Origins Program |publisher=Humanorigins.si.edu |accessdate=10 March 2015}}</ref><ref>{{cite web|url=http://link.springer.com/article/10.1023%2FA%3A1021659928822 |title=Barbed Bone Points: Tradition and Continuity in Saharan and Sub-Saharan Africa |publisher=Springerlink.com |date=1 September 1998 |accessdate=10 March 2015}}</ref>
+
+Some historians think that [[Bantu peoples]] began settling in the extreme northwest of Central Africa at the beginning of the 5th century and then gradually started to expand southward.
+
+Their propagation was accelerated by the transition from [[Stone Age]] to [[Iron Age]] techniques. The people living in the south and southwest were mostly [[Bushmen|San Bushmen]] and hunter-gatherer groups, whose technology involved only minimal use of metal technologies. The development of metal tools during this time period revolutionized agriculture and [[animal husbandry]]. This led to the displacement of the [[hunter-gatherer]] groups in the east and southeast.
+
+The 10th century marked the [[Bantu expansion|final expansion of the Bantu]] in West-Central Africa. Rising populations soon made possible intricate local, regional and foreign commercial networks that traded mostly in salt, iron and copper.
+
+===Congo Free State (1877–1908)===
+{{Main|Colonisation of the Congo|Congo Free State}}
+[[File:Stanley Founding of Congo Free State 186 View of Leopoldville Station and Port 1884 The Baptist Mission on the summit of Leopold Hill.jpg|thumb|View of [[Kinshasa|Leopoldville]] Station and Port in 1884.]]
+[[Belgian Congo|Belgian exploration]] and administration took place from the 1870s until the 1920s. It was first led by [[Sir Henry Morton Stanley]], who undertook his explorations under the sponsorship of [[King Leopold II of Belgium]]. The eastern regions of the precolonial Congo were heavily disrupted by constant [[slave raiding]], mainly from Arab–Swahili [[Arab slave trade|slave traders]] such as the infamous [[Tippu Tip]],<ref>[http://www.bbc.co.uk/worldservice/specials/1624_story_of_africa/page51.shtml The East African slave trade]. BBC World Service | The Story of Africa.</ref> who was well known to Stanley. Leopold had designs on what was to become the Congo as a colony.<ref name="cfskeyes">Keyes, Michael. [http://www.threemonkeysonline.com/the-congo-free-state-a-colony-of-gross-excess/2/ ''The Congo Free State – a colony of gross excess''.] September 2004.</ref> In a succession of negotiations, Leopold, professing humanitarian objectives in his capacity as chairman of the [[front organization]] ''[[Association Internationale Africaine]]'', actually played one European rival against another. {{citation needed|date=March 2013}}
+
+Leopold formally acquired rights to the Congo territory at the [[Conference of Berlin]] in 1885 and made the land his private property and named it the Congo Free State.<ref name="cfskeyes"/> Leopold's regime began various infrastructure projects, such as construction of the [[Matadi–Kinshasa Railway|railway that ran from the coast to the capital]] of Leopoldville (now Kinshasa). It took eight years to complete. Nearly all such projects were aimed at increasing the assets which Leopold and his associates could extract from the colony.<ref name=b1>[[Adam Hochschild|Hochschild, Adam]]. ''[[King Leopold's Ghost]]'', Houghton Mifflin Harcourt, 1999; ISBN 0-547-52573-7</ref>
+
+In the Free State, colonists brutalized the local population to produce rubber, for which the spread of automobiles and development of rubber tires created a growing international market. The sale of rubber made a fortune for Leopold, who built several buildings in [[Brussels]] and [[Ostend]] to honor himself and his country. To enforce the rubber quotas, the army, the ''[[Force Publique]]'', was called in and made the practice of cutting off the limbs of the natives a matter of policy.<ref name="google748">Fage, John D. (1982). [https://books.google.com/books?id=8DSa_viBgsgC&pg=PA748 The Cambridge history of Africa: From the earliest times to c. 500 BC], [[Cambridge University Press]]. p. 748; ISBN 0-521-22803-4</ref>
+
+During the period of 1885–1908, millions of Congolese died as a consequence of exploitation and disease. In some areas the population declined dramatically – it has been estimated that [[African trypanosomiasis|sleeping sickness]] and [[smallpox]] killed nearly half the population in the areas surrounding the lower [[Congo River]].<ref name="google748"/> A government commission later concluded that the population of the Congo had been "reduced by half" during this period,<ref name=b1/> but determining precisely how many people died is impossible, as no accurate records exist.
+
+===Belgian Congo (1908–1960)===
+{{Main|Belgian Congo}}
+In 1908, the Belgian parliament, despite initial reluctance, bowed to international pressure (especially that from the United Kingdom) and took over the Free State from [[King Leopold II]]. On 18 October 1908, the Belgian parliament voted in favour of annexing the Congo as a Belgian colony. Executive power rested with the Belgian Minister of Colonial Affairs, assisted by a Colonial Council (Conseil Colonial) (both located in Brussels) and the Belgian parliament exercised legislative authority over the Belgian Congo. In 1926, the colonial capital moved from Boma to Léopoldville, some 300&nbsp;km further upstream in the interior.
+
+The transition from the Congo Free State to the Belgian Congo was a break but it was also marked by a large degree of continuity. The last Governor-general of the Congo Free State, Baron Wahis, remained in office in the Belgian Congo and the majority of Leopold II’s administration with him.<ref>Stengers, Jean (2005), ''Congo: Mythes et réalités'', Brussels: Editions Racine.</ref> Opening up the Congo and its natural and mineral riches for the Belgian economy remained the main motive for colonial expansion – however, other priorities, such as healthcare and basic education, slowly gained in importance.
+[[File:Congo belge campagne 1918.jpg|thumb|[[Force Publique]] soldiers in the Belgian Congo in 1918. At its peak, the Force Publique had around 19,000 African soldiers, led by 420 white officers.]]
+Colonial administrators ruled the territory and a dual legal system existed (a system of European courts and one of indigenous courts, ''tribunaux indigènes''). Indigenous courts had only limited powers and remained under the firm control of the colonial administration. In 1936 it was recorded that there were 728 Belgian administrators controlling the Colony. No political activity was permitted in the Congo whatsoever<ref>{{cite book|last=Meredith|first=Martin|title=The Fate of Africa|year=2005|publisher=Public Affairs|location=New York|page=6}}</ref> and the ''[[Force Publique]]'', a locally recruited army under Belgian command, put down any attempts at rebellion.
+
+The Belgian population of the colony increased from 1,928 in 1910 to nearly 89,000 in 1959.
+
+The Belgian Congo was directly involved in the two world wars. During [[World War I]], an initial stand-off between the ''Force Publique'' and the German colonial army in German East Africa (Tanganyika) turned into open warfare with a joint Anglo-Belgian invasion of German colonial territory in 1916 and 1917 during the [[East African Campaign (World War I)|East African Campaign]]. The ''Force Publique'' gained a notable victory when it marched into [[Tabora]] in September 1916, under the command of General [[Charles Tombeur]] after heavy fighting.
+
+After the war, Belgium was rewarded for the participation of the ''Force Publique'' in the East African campaign with a [[League of Nations]] mandate over the former German colony of Ruanda-Urundi. During [[World War II]], the Belgian Congo was a crucial source of income for the Belgian government in exile in London. The ''Force Publique'' again participated in the Allied campaigns in Africa. Belgian Congolese forces under the command of Belgian officers notably fought against the Italian colonial army in Ethiopia in [[Asosa]], [[Bortaï]] and [[Saïo]] under Major-General [[Auguste-Eduard Gilliaert]] during the second [[East African Campaign (World War II)|East African Campaign]].<ref name = "WP">{{cite news|last=McCrummen|first=Stephanie|title=Nearly Forgotten Forces of WWII|agency=Washington Post Foreign Service|date=4 August 2009|work=The Washington Post|url=http://www.washingtonpost.com/wp-dyn/content/article/2009/08/03/AR2009080302959.html}}</ref>
+
+===Independence and political crisis (1960–1965)===
+{{Main|Congo Crisis}}
+
+[[File:PatricelumumbaIISG.jpg|thumb|[[Patrice Lumumba]] was the first Prime Minister of the Democratic Republic of the Congo.]]
+In May 1960, a growing nationalist movement, the [[Mouvement National Congolais]] or MNC Party, led by [[Patrice Lumumba]], won the parliamentary elections. Patrice Lumumba thus became the first Prime Minister of the Democratic Republic of the Congo. The parliament elected as President [[Joseph Kasavubu]], of the Alliance des Bakongo (ABAKO) party. Other parties that emerged included the [[Parti Solidaire Africain]] (or PSA) led by [[Antoine Gizenga]], and the Parti National du Peuple (or PNP) led by Albert Delvaux and [[Laurent Mbariko]]. (Congo 1960, dossiers du CRISP, Belgium).
+
+The Belgian Congo achieved independence on 30 June 1960 under the name "République du Congo" ("Republic of Congo" or "Republic of the Congo" in English). Shortly after independence, the provinces of [[Katanga Province|Katanga]] (led by [[Moise Tshombe]]) and [[South Kasai]] engaged in secessionist struggles against the new leadership.<ref>"[http://content.time.com/time/magazine/article/0,9171,826488-4,00.html Jungle Shipwreck]", ''Time'', 25 July 1960.</ref> Most of the 100,000 Europeans who had remained behind after independence fled the country,<ref>{{cite web|url=http://www.historylearningsite.co.uk/united_nations_congo.htm|title=The United Nations and the Congo |publisher=Historylearningsite.co.uk|date=30 March 2007|accessdate=2 May 2010}}</ref> opening the way for Congolese to replace the European military and administrative elite.<ref>[http://citation.allacademic.com/meta/p_mla_apa_research_citation/2/5/4/6/0/pages254609/p254609-19.php "Hearts of Darkness"], allacademic.com</ref>
+
+As the neighboring French colony of Middle Congo (Moyen Congo) also chose the name "Republic of Congo" upon achieving its independence, the two countries were more commonly known as "Congo-Léopoldville" and "Congo-Brazzaville", after their capital cities.
+
+On 5 September 1960, Kasavubu dismissed Lumumba from office. Lumumba declared Kasavubu's action unconstitutional and a crisis between the two leaders developed. (cf. ''Sécession au Katanga'' – J.Gerald-Libois -Brussels- CRISP)
+
+On 14 September, Lumumba was arrested by forces loyal to [[Joseph Mobutu]]. On 17 January 1961, he was handed over to Katangan authorities and executed by Belgian-led Katangese troops.<ref>{{cite web|url=http://www.democracynow.org/2011/1/21/patrice_lumumba_50_years_later_remembering|title=Patrice Lumumba: 50 Years Later, Remembering the U.S.-Backed Assassination of Congo’s First Democratically Elected Leader|work=Democracy Now!|date=21 January 2011|accessdate=10 March 2015}}</ref> Amidst widespread confusion and chaos, a temporary government was led by technicians (Collège des Commissaires) with [[Evariste Kimba]]. The Katanga secession was ended in January 1963 with the assistance of UN forces. Several short-lived governments, of [[Joseph Ileo]], [[Cyrille Adoula]] and Moise Tshombe, took over in quick succession.
+
+Lumumba had previously appointed [[Joseph Mobutu]] chief of staff of the new Congo army, [[Military of the Democratic Republic of Congo|Armée Nationale Congolaise]] (ANC). {{citation needed|date=September 2013}} Taking advantage of the leadership crisis between Kasavubu and Lumumba, Mobutu garnered enough support within the army to create mutiny. With financial support from the United States and Belgium, Mobutu paid his soldiers privately. The aversion of Western powers to communism and leftist ideology influenced their decision to finance Mobutu's quest to neutralize Kasavubu and Lumumba in a [[coup d'état|coup]] by proxy. A [[Republic of the Congo (Léopoldville) constitutional referendum, 1964|constitutional referendum]] after Mobutu's coup of 1965 resulted in the country's official name being changed to the "Democratic Republic of the Congo."<ref name="cia.gov"/> In 1971 Mobutu changed the name again, this time to "Republic of Zaire".<ref name=britannica>{{cite web|last1=Payanzo|first1=Ntsomo|title=Democratic Republic of the Congo (DRC)|url=http://www.britannica.com/place/Democratic-Republic-of-the-Congo|website=britannica.com|publisher=Encyclopædia Britannica|accessdate=2 October 2015}}</ref><ref name="kisanganibobb" />
+
+===Zaire (1971–1997)===
+{{Main|Zaire}}
+
+[[File:Mobutu Nixon.gif|thumb|[[Mobutu Sese Seko]] and Richard Nixon in Washington, D.C., 1973.]]
+The new president had the support of the United States because of his staunch [[Anti-communism|opposition]] to Communism, believing that his administration would serve as an effective counter to communist movements in Africa. A one-party system was established, and Mobutu declared himself head of state. He periodically held elections in which he was the only candidate. Although relative peace and stability were achieved, Mobutu's government was guilty of severe human rights violations, political repression, a [[cult of personality]] and corruption.
+
+Corruption became so prevalent the term "le mal Zairois" or "Zairean Sickness",<ref>{{cite web|url=http://www.cycad.com/cgi-bin/Aida/203/203_zaire.html|title="Zaire: The Hoax of Independence", The Aida Parker Newsletter #203, 4 August 1997|publisher=cycad.com}}</ref> meaning gross corruption, theft and mismanagement, was coined, reportedly by Mobutu himself.<ref>Young, C. & Turner, T. (1985) ''The Rise and Decline of the Zairian State'', p. 74; ISBN 978-0-299-10110-7</ref>  International aid, most often in the form of loans, enriched Mobutu while he allowed national infrastructure such as roads to deteriorate to as little as one-quarter of what had existed in 1960. Zaire became a "[[kleptocracy]]" as Mobutu and his associates [[embezzlement|embezzled]] government funds.
+
+In a campaign to identify himself with African nationalism, starting on 1 June 1966, Mobutu renamed the nation's cities: Léopoldville became [[Kinshasa]] [the country was now Democratic Republic of The Congo&nbsp;–&nbsp;Kinshasa], Stanleyville became [[Kisangani]], Elisabethville became [[Lubumbashi]], and Coquilhatville became [[Mbandaka]]. This renaming campaign was completed in the 1970s.
+
+In 1971, Mobutu renamed the country the ''Republic of Zaire'',<ref name="kisanganibobb" /> its fourth name change in 11 years and its sixth overall. The Congo River was renamed the Zaire River.
+
+During the 1970s and 1980s, he was invited to visit the United States on several occasions, meeting with U.S. Presidents [[Richard Nixon]], [[Ronald Reagan]] and [[George H. W. Bush]].<ref>Johns, Michael (29 June 1989) [https://web.archive.org/web/20060715000000/http://www.heritage.org/research/africa/upload/91612_1.pdf "Zaire's Mobutu Visits America"], Heritage Foundation Executive Memorandum #239.<!-- date?? --></ref> Following the [[dissolution of the Soviet Union]] U.S. relations with Mobutu cooled, as he was no longer deemed necessary as a [[Cold War]] ally. Opponents within Zaire stepped up demands for reform. This atmosphere contributed to Mobutu's declaring the Third Republic in 1990, whose constitution was supposed to pave the way for democratic reform. The reforms turned out to be largely cosmetic. Mobutu continued in power until armed forces forced him to flee Zaire, in 1997.
+
+===Civil wars (1996–present)===
+{{Main|First Congo War|Second Congo War|Kivu Conflict}}
+[[File:Second Congo War Africa map en.png|thumb|Belligerents of the [[Second Congo War]]]]
+By 1996, following the [[Rwandan Civil War]] and [[Rwandan Genocide|genocide]] and the ascension of a [[Tutsi]]-led government in Rwanda, Rwandan [[Hutu]] militia forces ([[Interahamwe]]) fled to eastern Zaire and used refugee camps as a base for incursion against Rwanda. They allied with the Zairian armed forces (FAZ) to launch a campaign against Congolese ethnic Tutsis in eastern Zaire.<ref>Thom, William G. [http://wayback.archive.org/web/20060821184303/http://www.lib.unb.ca/Texts/JCS/bin/get5.cgi?directory=fall99/&filename=THOM.htm "Congo-Zaire's 1996–97 civil war in the context of evolving patterns of military conflict in Africa in the era of independence"], ''Conflict Studies Journal at the University of New Brunswick'', Vol. XIX No. 2, Fall 1999.<!-- ISBN needed --></ref>
+
+A coalition of Rwandan and Ugandan armies invaded Zaire to overthrow the government of Mobutu, and ultimately to control the mineral resources of Zaire, launching the [[First Congo War]]. The coalition allied with some opposition figures, led by [[Laurent-Désiré Kabila]], becoming the [[Alliance of Democratic Forces for the Liberation of Congo]] (AFDL). In 1997 Mobutu fled and Kabila marched into Kinshasa, naming himself president and reverting the name of the country to the Democratic Republic of the Congo.
+
+Kabila later requested that foreign military forces return to their own countries—he had concerns that the Rwandan officers running his army were plotting a coup in order to give the presidency to a Tutsi who would report directly to the Rwandan president, [[Paul Kagame]]. Rwandan troops retreated to Goma and launched a new Tutsi-led rebel military movement called the [[Rassemblement Congolais pour la Democratie]] (RCD) to fight against Kabila, while Uganda instigated the creation of new rebel movement called the [[Movement for the Liberation of Congo]] (MLC), led by the Congolese warlord [[Jean-Pierre Bemba]]. The two rebel movements, along with Rwandan and Ugandan troops, started the [[Second Congo War]] by attacking the DRC army in 1998. Angolan, Zimbabwean and Namibian militaries entered on the side of the government.
+
+Kabila was assassinated in 2001. His son, [[Joseph Kabila]], succeeded him and called for multilateral peace-talks. UN peacekeepers, [[MONUC]], now known as MONUSCO, arrived in April 2001. Talks led to the signing of a peace accord in which Kabila would share power with former rebels. By June 2003 all foreign armies except those of Rwanda had pulled out of Congo. A [[Transitional Government of the Democratic Republic of the Congo|transitional government]] was set up until the election was over. A constitution was approved by voters, and on 30 July 2006 DRC held its [[Democratic Republic of the Congo general election, 2006|first multi-party elections]]. An election-result dispute between Kabila and Jean-Pierre Bemba turned into an all-out battle between their supporters in the streets of [[Kinshasa]]. MONUC took control of the city. A new election took place in October 2006, which Kabila won, and on December 2006 he was sworn in as President.
+[[File:Refugees in Congo.jpeg|thumb|Refugees in the Congo]]
+
+However, [[Laurent Nkunda]], a member of an RCD branch integrated to the army, [[RCD-Goma]], defected along with troops loyal to him and formed the [[National Congress for the Defence of the People]] (CNDP), which began an armed rebellion against the government, starting the [[Kivu conflict]]. They were believed{{by whom|date=May 2015}} to be again backed by Rwanda as a way to tackle the Hutu group, [[Democratic Forces for the Liberation of Rwanda]] (FDLR). In March 2009, after a deal between the DRC and Rwanda, Rwandan troops entered the DRC and arrested Nkunda and were allowed to pursue FDLR militants. The CNDP signed a peace treaty with the government in which it agreed to become a political party and to have its soldiers integrated into the national army in exchange for the release of its imprisoned members.<ref>{{cite news|url= https://www.google.com/hostednews/afp/article/ALeqM5j-U_1NZdVdXyssb9DPt47IHx7j7Q|title= DR Congo government, CNDP rebels 'sign peace deal'|date=23 March 2012|agency= Agence France-Presse|publisher= Google News|accessdate= 18 November 2012|archivedate= 18 November 2012|archiveurl= http://www.webcitation.org/6CKVBitcD|deadurl=no}}</ref> In 2012 the leader of the CNDP, [[Bosco Ntaganda]], and troops loyal to him, mutinied and formed the rebel military [[March 23 Movement]], claiming a violation of the treaty by the government.<ref>{{cite web|url=http://allafrica.com/stories/201204040870.html|title=Congo-Kinshasa: General Ntaganda and Loyalists Desert Armed Forces|first=Melanie|last=Gouby|date=4 April 2012|publisher= allafrica.com|accessdate= 18 November 2012|archivedate= 18 November 2012|archiveurl= http://www.webcitation.org/6CKVC5lJo|deadurl=no}}</ref>
+
+In the resulting [[M23 rebellion]], M23 briefly captured the provincial capital of [[Goma]] in November 2012.<ref>{{cite web|url=http://www.bbc.co.uk/news/world-africa-20565711|title=Rebels in DR Congo withdraw from Goma|date=1 December 2012|publisher=BBC News|accessdate=10 December 2012}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/news/world-africa-20405739|title=Goma: M23 rebels capture DR Congo city|date=20 November 2012|publisher=BBC News|accessdate= 18 November 2012}}</ref> Neighboring countries, particularly Rwanda, have been accused of using rebels groups as proxies to gain control of the resource-rich country and of arming rebels, a claim they deny.<ref>{{cite news|url= http://www.bbc.co.uk/news/world-africa-19973366|title= Rwanda defence chief leads DR Congo rebels, UN report says|publisher=BBC News|accessdate= 21 November 2012|date=17 October 2012}}</ref><ref>{{cite news |url= http://www.bbc.co.uk/news/world-africa-18320288|title= Rwanda military aiding DRC mutiny, report says|publisher= BBC News|accessdate=21 November 2012|date=4 June 2012}}</ref> In March 2013, the United Nations [[Security Council]] authorized the [[United Nations Force Intervention Brigade]], the first offensive United Nations peacekeeping unit, to neutralize armed groups.<ref name=UN1>{{cite web|url= http://www.un.org/apps/news/story.asp?NewsID=44876|title= Tanzanian troops arrive in eastern DR Congo as part of UN intervention brigade|publisher= United Nations|accessdate=8 September 2013|date=10 May 2013}}</ref> On 5 November 2013, M23 declared an end to its insurgency.<ref>{{cite news|url= http://www.bbc.co.uk/news/world-africa-24816223|title= DR Congo M23 rebels 'end insurgency'|publisher=BBC News|accessdate=5 November 2013|date=5 November 2013}}</ref>
+
+[[File:Opening ceremony of new PNC headquarters in Goma (6988913212).jpg|thumb|People fleeing their villages due to fighting between [[Military of the Democratic Republic of the Congo|FARDC]] and rebels groups, [[North Kivu]], 2012]]
+Additionally, in northern [[Katanga Province|Katanga]], the [[Mai-Mai]] created by Laurent Kabila slipped out of the control of Kinshasa with [[Gédéon Kyungu Mutanga]]'s [[Mai Mai Kata Katanga]] briefly invading the provincial capital of [[Lubumbashi]] in 2013 and 400,000 persons displaced in the province {{As of|2013|lc=y}}.<ref>{{cite news|url= http://www.bbc.co.uk/news/world-africa-23422038|title= Katanga: Fighting for DR Congo's cash cow to secede|publisher= BBC News|accessdate=12 September 2013|date=11 August 2013}}</ref> On and off fighting in the [[Ituri conflict]] occurred between the [[Nationalist and Integrationist Front]] (FNI) and the [[Union of Congolese Patriots]] (UPC) who claimed to represent the [[Lendu]] and [[Hema people|Hema]] ethnic groups, respectively. In the northeast, [[Joseph Kony]]'s [[LRA]] moved from their original bases in Uganda and South Sudan to DR Congo in 2005 and set up camps in the Garamba National Park.<ref>{{cite news|last= Fessy|first=Thomas|url= http://news.bbc.co.uk/2/hi/africa/7685235.stm |title=Congo terror after LRA rebel raids|publisher=BBC News |date=23 October 2008|accessdate=2 May 2010}}</ref><ref>{{cite news|url= http://news.bbc.co.uk/2/hi/africa/7635719.stm|title=thousands flee LRA in DR Congo|publisher=BBC News|date=25 September 2008|accessdate=2 May 2010}}</ref>
+
+In 2009 people in the Congo continued to die at a rate of an estimated 45,000 per month<ref>Kristof, Nicholas D. (31 January 2010) [http://www.nytimes.com/2010/01/31/opinion/31kristof.html "Orphaned, Raped and Ignored"], ''The New York Times''</ref> - estimates of the number who have died from the long conflict range from 900,000 to 5,400,000.<ref>Butty, James (21 January 2010) [http://www.voanews.com/content/butty-congo-war-death-toll-questioned-21jan10-82223332/152921.html "A New Study Finds Death Toll in Congo War too High"], VOA News, 21 January 2010.</ref> The death toll is due to widespread disease and famine; reports indicate that almost half of the individuals who have died are children under five years of age.<ref>{{cite news| url=http://www.nytimes.com/2008/01/23/world/africa/23congo.html|work=The New York Times|title=Congo's Death Rate Unchanged Since War Ended|first= Lydia|last= Polgreen|date= 23 January 2008|accessdate=27 March 2010}}</ref> There have been frequent reports of weapon bearers killing civilians, of the destruction of property, of widespread sexual violence,<ref>[http://ihl.ihlresearch.org/index.cfm?fuseaction=page.viewpage&pageid=2104 "IHL and Sexual Violence"]. The Program for Humanitarian Policy and Conflict Research.<!-- date?? --></ref> causing hundreds of thousands of people to flee their homes, and of other breaches of humanitarian and human rights law. One study found that more than [[Sexual violence in the Democratic Republic of the Congo|400,000 women are raped]] in the Democratic Republic of Congo every year.<ref>
+[http://www.independent.co.uk/news/world/africa/400000-rapes-in-congo-in-one-year-2283102.html "400,000 rapes in Congo in one year"]. ''The Independent'', 12 May 2011.
+</ref>
+
+In 2015 [[2015 Congolese protests|major protests]] broke out across the country and protesters demanded that [[Joseph Kabila]] step down as President. The protests began after the passage of a law by the Congolese lower house that, if also passed by the Congolese upper house, would keep Kabila in power at least until a national census was conducted (a process which would likely take several years and therefore keep him in power past the planned 2016 elections, which he is constitutionally barred from participating in).
+
+This bill passed; however, it was gutted of the provision that would keep Joseph Kabila in power until a census took place.  A census is supposed to take place, but it is no longer tied to when the elections take place.  {{As of | 2015}} elections are scheduled for late 2016 and a tenuous peace holds over the Congo.
+
+==Geography==
+[[File:Cg-map.png|thumb|The map of Democratic Republic of Congo]]
+[[File:Democratic Republic of the Congo map of Köppen climate classification.svg|thumb|Democratic Republic of the Congo map of Köppen climate classification.]]
+{{Main|Geography of the Democratic Republic of the Congo}}
+The Democratic Republic of the Congo (DRC) is located in central [[sub-Saharan Africa]], bounded by (clockwise from the southwest) [[Angola]], the South Atlantic Ocean, the [[Republic of Congo]], the [[Central African Republic]], [[South Sudan]], Uganda, [[Rwanda]], Burundi, [[Tanzania]] across [[Lake Tanganyika]], and [[Zambia]]. The country lies between latitudes [[6th parallel north|6°N]] and [[14th parallel south|14°S]], and longitudes [[12th meridian east|12°]] and [[32nd meridian east|32°E]]. It straddles the [[Equator]], with one-third to the North and two-thirds to the South. The size of Congo, {{convert|2345408|km2|sqmi}}, is slightly greater than the combined areas of Spain, France, Germany, Sweden, and Norway.
+
+As a result of its equatorial location, the DRC experiences high precipitation and has the highest frequency of thunderstorms in the world. The annual rainfall can total upwards of {{convert|2000|mm|in|disp=5}} in some places, and the area sustains the [[Congo Rainforest]], the second largest rain forest in the world (after the [[Amazon rainforest|Amazon]]). This massive expanse of lush jungle covers most of the vast, low-lying central [[drainage basin|basin]] of the river, which slopes toward the Atlantic Ocean in the west. This area is surrounded by plateaus merging into savannas in the south and southwest, by mountainous terraces in the west, and dense grasslands extending beyond the [[Congo River]] in the north. High, glaciated mountains are found in the extreme eastern region ([[Rwenzori Mountains]]). {{citation needed|date=September 2013}}
+
+The [[tropical climate]] has also produced the Congo River system which dominates the region topographically along with the rainforest it flows through, though they are not mutually exclusive. The name for the Congo state is derived in part from the river. The river basin (meaning the Congo River and all of its myriad tributaries) occupies nearly the entire country and an area of nearly {{convert|1000000|km2|sqmi|abbr=on}}. The river and its tributaries (major ones include the [[Kasai River|Kasai]], [[Sangha River|Sangha]], [[Ubangi River|Ubangi]], [[Ruzizi River|Ruzizi]], [[Aruwimi]], and [[Lulonga River|Lulonga]]) form the backbone of Congolese economics and transportation.
+{{MapLibrary|dem_congo_sat.jpg|Democratic Republic of the Congo}}
+
+The sources of the Congo are in the [[Albertine Rift Mountains]] that flank the western branch of the [[East African Rift]], as well as [[Lake Tanganyika]] and [[Lake Mweru]]. The river flows generally west from [[Kisangani]] just below [[Boyoma Falls]], then gradually bends southwest, passing by [[Mbandaka]], joining with the [[Ubangi River]], and running into the [[Pool Malebo]] (Stanley Pool). [[Kinshasa]] and [[Brazzaville]] are on opposite sides of the river at the Pool (see NASA image). Then the river narrows and falls through a number of cataracts in deep canyons (collectively known as the [[Livingstone Falls]]), and then running past [[Boma, Congo|Boma]] into the Atlantic Ocean. The river also has the second-largest flow and the second-largest [[drainage basin|watershed]] of any river in the world (trailing the [[Amazon River|Amazon]] in both respects). The river and a 37&nbsp;km wide strip of coastline on its north bank provide the country's only outlet to the Atlantic. {{citation needed|date=September 2013}}
+
+The previously mentioned [[Albertine Rift]] plays a key role in shaping the Congo's geography. Not only is the northeastern section of the country much more mountainous, but due to the rift's [[tectonics|tectonic]] activities, this area also experiences [[volcanic]] activity, occasionally with loss of life. The geologic activity in this area also created the famous [[African Great Lakes]], three of which lie on the Congo's eastern frontier: [[Lake Albert (Africa)|Lake Albert]] (known during the Mobutu era as Lake Mobutu Sese Seko), Lake Kivu (Unknown until late 1712), [[Lake Edward]] (known during the [[Idi Amin|Amin]] era as Lake Idi Amin Dada), and [[Lake Tanganyika]]. Lake Edward and Lake Albert are connected by the [[Semliki River]]. {{citation needed|date=September 2013}}
+
+The [[Rift valley]] has exposed an enormous amount of mineral wealth throughout the south and east of the Congo, making it accessible to mining. [[Cobalt]], copper, [[cadmium]], industrial and gem-quality [[diamonds]], gold, silver, [[zinc]], [[manganese]], [[tin]], [[germanium]], [[uranium]], [[radium]], [[bauxite]], iron ore, and coal are all found in plentiful supply, especially in the Congo's southeastern Katanga region. {{citation needed|date=September 2013}}
+
+[[File:Nyiragongo2004.jpg|thumb|[[Mount Nyiragongo]], which last erupted in 2002.]]
+[[File:La rivière Lulilaka, parc national de Salonga, 2005.jpg|thumb|[[Salonga National Park]].]]
+On 17 January 2002 [[Mount Nyiragongo]] erupted in Congo, with the lava running out at 64&nbsp;km/h (40&nbsp;mph) and 46 m (50 yards) wide. One of the three streams of extremely fluid lava flowed through the nearby city of [[Goma]], killing 45 and leaving 120,000 homeless. Four hundred thousand people were evacuated from the city during the eruption. The lava poisoned the water of [[Lake Kivu]], killing fish. Only two planes left the local airport because of the possibility of the explosion of stored petrol. The lava passed the airport but ruined the runway, entrapping several airplanes. Six months after the 2002 eruption, nearby [[Mount Nyamulagira]] also erupted. Mount Nyamulagira also erupted in 2006 and again in January 2010. {{citation needed|date=September 2013}}
+
+[[World Wide Fund for Nature]] [[ecoregion]]s located in the Congo include:
+* [[Central Congolian lowland forests]] – home to the rare [[bonobo]] primate
+* The [[Eastern Congolian swamp forests]] along the Congo River
+* The [[Northeastern Congolian lowland forests]], with one of the richest concentrations of primates in the world
+* [[Southern Congolian forest-savanna mosaic]]
+* A large section of the [[Central Zambezian Miombo woodlands]]
+* The [[Albertine Rift montane forests]] region of high forest runs along the eastern borders of the country.
+
+[[World Heritage Site]]s located in Democratic Republic of Congo are:
+[[Virunga National Park]] (1979),
+[[Garamba National Park]] (1980),
+[[Kahuzi-Biega National Park]] (1980),
+[[Salonga National Park]] (1984) and
+[[Okapi Wildlife Reserve]] (1996).
+
+===Provinces===
+{{Main|Provinces of the Democratic Republic of the Congo|Districts of the Democratic Republic of the Congo|Territories of the Democratic Republic of the Congo}}{{Further|Administrative divisions of the Democratic Republic of the Congo}}
+The country is currently divided into 26 [[Provinces of the Democratic Republic of the Congo|provinces]] and the city-province of Kinshasa. The provinces are subdivided into [[Districts of the Democratic Republic of the Congo|districts]] which are divided into [[Territories of the Democratic Republic of the Congo|territories]].<ref name="cia.gov" />
+
+{|
+| rowspan="13" | [[File:Provinces_de_la_République_démocratique_du_Congo_-_2005.svg|thumb|250px]]
+| 1. Kinshasa       || 14. Ituri           
+|-
+| 2. Kongo-Central  || 15. Haut-Uele       
+|-
+| 3. Kwango         || 16. Tshopo         
+|-
+| 4. Kwilu          || 17. Bas-Uele       
+|-
+| 5. Mai-Ndombe     || 18. Nord-Ubangi     
+|-
+| 6. Kasaï          || 19. Mongala  
+|-
+| 7. Kasaï-Central  || 20. Sud-Ubangi     
+|-
+| 8. Kasaï-Oriental || 21. Équateur       
+|-
+| 9. Lomami         || 22. Tshuapa         
+|-
+| 10. Sankuru       || 23. Tanganyika     
+|-
+| 11. Maniema       || 24. Haut-Lomami     
+|-
+| 12. South Kivu    || 25. Lualaba         
+|-
+| 13. North Kivu    || 26. Haut-Katanga   
+|}
+
+===Flora and fauna===
+{{Main|Wildlife of the Democratic Republic of the Congo}}
+The [[rainforest]]s of the Democratic Republic of the Congo contain great [[biodiversity]], including many rare and [[endemic (ecology)|endemic]] species, such as the [[common chimpanzee]] and the [[bonobo]], the [[African forest elephant]], [[mountain gorilla]], [[okapi]] and [[white rhino]]. Five of the country's [[national park]]s are listed as [[World Heritage Site]]s: the [[Garamba National Park|Garumba]], [[Kahuzi-Biega National Park|Kahuzi-Biega]], [[Salonga National Park|Salonga]] and [[Virunga National Park]]s, and the [[Okapi Wildlife Reserve]].
+The Democratic Republic of the Congo is the most biodiverse African country.<ref>{{cite web|url=http://www.press.uchicago.edu/Misc/Chicago/468283.html|title=Lambertini, A Naturalist's Guide to the Tropics, excerpt|accessdate=30 June 2008}}</ref>
+
+The civil war and resultant poor economic conditions have endangered much of this biodiversity. Many park wardens were either killed or could not afford to continue their work. All five sites are listed by [[UNESCO]] as World Heritage in Danger. Over the past century or so, the DRC has developed into the center of what has been called the Central African "[[bushmeat]]" problem, which is regarded by many as a major environmental as well as socio-economic crisis. "Bushmeat" is another word for the meat of wild animals. It is typically obtained through trapping, usually with wire snares, or otherwise with shotguns, poisoned arrows or arms originally intended for use in the DRC's numerous military conflicts. {{citation needed|date=September 2013}}
+
+<center>
+<gallery>
+File:Bas-congo.JPG|[[Bas-Congo]] landscape
+File:Male gorilla in SF zoo.jpg|A male [[Western gorilla]]
+File:Hippo pod edit.jpg|[[Hippopotamus]]
+File:African Forest Elephant.jpg|The [[African forest elephant]]
+</gallery>
+</center>
+
+The [[bushmeat]] crisis has emerged in the DRC mainly as a result of the poor living conditions of the Congolese people and a lack of education about the dangers of eating it. A rising population combined with deplorable economic conditions has forced many Congolese to become dependent on bushmeat, either as a means of acquiring income (hunting the meat and selling), or are dependent on it for food. Unemployment and urbanization throughout Central Africa have exacerbated the problem further by turning cities like the urban sprawl of [[Kinshasa]] into the prime market for commercial bushmeat. {{citation needed|date=September 2013}}
+
+This combination has caused not only widespread endangerment of local fauna, but has forced humans to trudge deeper into the wilderness in search of the desired animal meat. This overhunting results in the deaths of more animals and makes resources even more scarce for humans. The hunting has also been facilitated by the extensive logging prevalent throughout the Congo's rainforests (from corporate logging, in addition to farmers clearing out forest for agriculture), which allows hunters much easier access to previously unreachable jungle terrain, while simultaneously eroding away at the [[habitats]] of animals.<ref>[https://web.archive.org/web/20050908074106/http://www.bushmeat.org/pdf/19%20May%2001%20AM%2001%20Policy-Fotabong%20and%20Gartlan.pdf "The Bushman crisis: long term solutions – international, national and local policies"], ''[[World Wide Fund for Nature|WWF]]'' (2001).</ref> [[Deforestation]] is accelerating in Central Africa.<ref>Adelaja, Abiose [http://www.scidev.net/global/policy/news/deforestation-accelerating-in-central-africa.html Deforestation accelerating in Central Africa], scidev.net, 8 June 2007.</ref>
+
+A case that has particularly alarmed conservationists is that of [[primates]]. The Congo is inhabited by several [[great ape]] species&nbsp; — the [[common chimpanzee]] (''Pan troglodytes''), the [[bonobo]] (''Pan paniscus''), the [[eastern gorilla]] (''Gorilla beringei''), and possibly the [[western gorilla]] (''Gorilla gorilla'').<ref>[http://www.iucnredlist.org/details/9404/0 Gorilla gorilla] IUCN Red List</ref>  It is the only country in the world in which bonobos are found in the wild. Much concern has been raised about great ape extinction. Because of hunting and habitat destruction, the chimpanzee, the bonobo and the gorilla, each of whose population once numbered in the millions, have now dwindled down to only about 200,000<ref name = "gorillas">{{cite web|url=http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=556&ArticleID=6033&l=en&t=long|title=Gorillas on Thin Ice|date= 15 January 2009|publisher= [[United Nations Environment Programme]]|accessdate=19 May 2010}}</ref> gorillas, 100,000<ref name="chimpanzees">{{cite journal|author=Vigilant, Linda|year=2004|title=Chimpanzees|journal=Current Biology|volume=14|issue=10|pages=R369–R371|doi= 10.1016/j.cub.2004.05.006|pmid=15186757}}</ref> chimpanzees and possibly only about 10,000<ref name="chimpanzees"/> bonobos. Gorillas, chimpanzees, and bonobos are all classified as [[Wikipedia:Conservation status|Endangered]] by the [[World Conservation Union]], as well as the okapi, which is also native to the area geography.
+
+==Politics==
+
+===Government===
+{{Main|Politics of the Democratic Republic of the Congo}}
+
+[[File:Joseph kabila.jpg|thumb|[[Joseph Kabila]] has been President of the Democratic Republic of the Congo since January 2001.]]
+After a four-year interlude between two constitutions, with new political institutions established at the various levels of government, as well as new administrative divisions for the provinces throughout the country, a new constitution came into effect in 2006 and politics in the Democratic Republic of the Congo finally settled into a stable [[presidential system|presidential]] [[democratic republic]].
+The 2003 transitional constitution<ref>[[s:fr:Constitution de la transition de la République démocratique du Congo (2003)|Full text of constitution (in French)]]</ref> had established a parliament with a [[bicameralism|bicameral]] legislature, consisting of a [[Senate of the Democratic Republic of the Congo|Senate]] and a [[National Assembly of the Democratic Republic of the Congo|National Assembly]].
+
+The Senate had, among other things, the charge of drafting the new constitution of the country. The executive branch was vested in a 60-member cabinet, headed by a [[President of the Democratic Republic of the Congo|President]] and four vice presidents. The President was also the Commander-in Chief of the armed forces. The transitional constitution also established a relatively independent judiciary, headed by a Supreme Court with constitutional interpretation powers.{{citation needed|date=September 2013}}
+
+The 2006 constitution, also known as the Constitution of the Third Republic, came into effect in February 2006. It had concurrent authority, however, with the transitional constitution until the inauguration of the elected officials who emerged from the July 2006 elections. Under the new constitution, the legislature remained bicameral; the executive was concomitantly undertaken by a President and the government, led by a Prime Minister, appointed from the party able to secure a majority in the National Assembly.
+
+The government&nbsp;– not the President&nbsp;– is responsible to the Parliament. The new constitution also granted new powers to the provincial governments, creating provincial parliaments which have oversight of the Governor and the head of the provincial government, whom they elect. The new constitution also saw the disappearance of the Supreme Court, which was divided into three new institutions. The constitutional interpretation prerogative of the Supreme Court is now held by the [[Constitutional Court of the Democratic Republic of the Congo|Constitutional Court]].<ref>{{cite web|title=Congo (Democratic Republic of the) 2005 (rev. 2011)|url=https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011?lang=en#940|website=Constitute|accessdate=23 April 2015}}</ref>
+
+Although located in the Central African [[United Nations geoscheme|UN subregion]], the nation is also economically and regionally affiliated with Southern Africa as a member of the [[Southern African Development Community]] (SADC).<ref>{{cite web |title=Member States |work=Southern African Development Community: Towards a common future |url=http://www.sadc.int/member-states }}</ref>
+
+===Corruption===
+Mobutu Sese Seko ruled the DRC, which he renamed [[Zaire]], from 1965 to 1997. A relative explained how the government illicitly collected revenue: "Mobutu would ask one of us to go to the bank and take out a million. We'd go to an intermediary and tell him to get five million. He would go to the bank with Mobutu's authority, and take out ten. Mobutu got one, and we took the other nine."<ref name=a>{{cite book|last=Ludwig|first=Arnold M.|year=2002|title=King of the Mountain: The Nature of Political Leadership|page=72|isbn=0-8131-2233-3}}</ref> Mobutu institutionalized corruption to prevent political rivals from challenging his control, leading to an [[Economy of the Democratic Republic of the Congo#1990s|economic collapse in 1996]].<ref name=b>{{cite book|last=Nafziger|first=E. Wayne|author2=Raimo Frances Stewart|year=2000|title=War, Hunger, and Displacement: The Origins of Humanitarian Emergencies|page=261|isbn=0-19-829739-4}}</ref>
+
+Mobutu allegedly stole as much as US$4 to US$5 Billion while in office;<ref name=c>{{cite book|last=Mesquita|first=Bruce Bueno de|year=2003|title=The Logic of Political Survival|page=167|isbn=0-262-02546-9}}</ref> in July 2009, a Swiss court determined that the [[statute of limitations]] had run out on an [[international asset recovery]] case of about $6.7 million of deposits of Mobutu's in a Swiss bank, and therefore the assets should be returned to Mobutu's family.<ref>[http://www.assetrecovery.org/kc/node/f00029e9-7084-11de-aa2f-77980ee7d563.11 "Court agrees to release Mobutu assets"]. Swissinfo, Basel Institute of Governance, 14 July 2009.</ref>
+
+President [[Joseph Kabila]] established the Commission of Repression of Economic Crimes upon his ascension to power in 2001.<ref name=d>{{cite book|last=Werve|first=Jonathan|year=2006|title=The Corruption Notebooks 2006|page=57}}</ref>
+
+===Human rights===
+[[File:DRC- Child Soldiers.jpg|thumb|A group of demobilized [[child soldiers]] in the Democratic Republic of the Congo]]
+{{Main|Human rights in the Democratic Republic of the Congo}}
+{{Further|Sexual violence in the Democratic Republic of the Congo|Child soldiers in the Democratic Republic of the Congo}}
+
+The [[International Criminal Court investigation in the Democratic Republic of the Congo]] was initiated by Joseph Kabila in April 2004. The international Criminal Court prosecutor opened the case in June 2004.
+
+[[The United Nations]] [[Committee on the Elimination of Discrimination against Women]] in 2006 expressed concern that in the post-war transition period, the promotion of women's human rights and gender equality is not seen as a priority.<ref>{{cite web|url=http://www.un.org/womenwatch/daw/cedaw/cedaw36/cc/DRC/0647846E.pdf|title=Concluding comments of the Committee on the Elimination of Discrimination against Women: Democratic Republic of the Congo|publisher=United Nations|format=PDF}}</ref><ref>{{cite web|url=https://web.archive.org/web/*/http://www.peacewomen.org/un/ecosoc/CEDAW/36th_session/DRC/NGO_report.pdf|title=Violence Against Women in the Democratic Republic of Congo (DRC)|publisher=peacewomen.org|format=PDF}}</ref> The east of the country in particular, has been described as the "rape capital of the world" and the prevalence of [[sexual violence]] has been described as the worst in the world.<ref name="washingtonpost.com">{{cite news|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/09/08/AR2007090801194.html|title=Prevalence of Rape in E. Congo Described as Worst in World|work=The Washington Post|date=9 September 2007|accessdate=2 May 2010|first=Stephanie|last=McCrummen}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/8650112.stm|title=UN official calls DR Congo 'rape capital of the world.'|date=28 April 2010|publisher=BBC|accessdate=23 November 2012}}</ref>
+
+[[Violence against women]] seems to be perceived by large sectors of society to be normal.<ref>{{cite web|url=http://www.onug.ch/__80256edd006b9c2e.nsf/%28httpNewsByYear_en%29/a4f381eea9d4ab63c12573280031fbf3?OpenDocument&Click=|archiveurl=https://web.archive.org/web/20080217035544/http://www.onug.ch/__80256edd006b9c2e.nsf/%28httpNewsByYear_en%29/a4f381eea9d4ab63c12573280031fbf3?OpenDocument&Click=|archivedate=17 February 2008|title=UN expert on violence against women expresses serious concerns following visit to Democratic Republic of Congo|date=30 July 2007|publisher=UNOG.ch}}</ref> The 2013–2014 [[Demographic and Health Surveys|DHS survey]] (pp.&nbsp;299) found that 74.8% of women agreed that a husband is justified in beating his wife in certain circumstances.<ref>Ministère du Plan et Suivi de la Mise en œuvre de la Révolution de la Modernité (MPSMRM), Ministère de la Santé Publique (MSP) et ICF International (2014). [http://dhsprogram.com/pubs/pdf/FR300/FR300.pdf Enquête Démographique et de Santé en République Démocratique du Congo 2013–2014]. Rockville, Maryland, USA : MPSMRM, MSP and ICF International</ref> [[Female genital mutilation]] (FGM) is also practiced in DRC, although not on a large scale. The prevalence of FGM is estimated at about 5% of women in the country.<ref>Matundu Mbambi, Annie and Faray-Kele, Marie-Claire (April–December 2010) [http://www.peacewomen.org/assets/file/Resources/NGO/hrinst_genderinequalityinthedrc_wilpf_december2010english.pdf GENDER INEQUALITY AND SOCIAL INSTITUTIONS IN THE D.R.CONGO.]. peacewomen.org</ref><ref>[http://www.brighamandwomens.org/Departments_and_Services/obgyn/services/africanwomenscenter/FGCprevalence.aspx "Female Genital Cutting Rates | African Women's Health Center at BWH"]. brighamandwomens.org.</ref> FGM is illegal: the law imposes a penalty of two to five years of prison and a fine of 200,000 Congolese francs on any person who violates the "physical or functional integrity" of the genital organs.<ref>[http://www.justice.gov/eoir/vll/country/canada_coi/dem%20rep%20of%20congo/COD104024.E.pdf RESPONSES TO INFORMATION REQUESTS (RIRs)]. justice.gov. 17 April 2012</ref><ref>The law on sexual violence, DRC 2006 (Les lois sur les violences sexuelles) reads (''in French''): "Article 3, Paragraphe 7: De la mutilation sexuelle; Article 174g; Sera puni d’une peine de servitude pénale de deux à cinq ans et d’une amende de deux cent mille francs congolais constants, quiconque aura posé un acte qui porte atteinte à l’intégrité physique ou fonctionnelle des organes génitaux d’une personne. Lorsque la mutilation a entraîné la mort, la peine est de servitude pénale à perpétuité."[http://monusco.unmissions.org/LinkClick.aspx?fileticket=aXFfmf5vsm8%3D&tabid=11245&mid=14386&language=en-US]</ref>
+
+In July 2007, the International Committee of the Red Cross expressed concern about the situation in eastern DRC.<ref>{{cite web|url=http://www.irinnews.org/report/73033/drc-civilians-bearing-brunt-of-south-kivu-violence|title=DRC: 'Civilians bearing brunt of South Kivu violence'|quote=The International Committee of the Red Cross (ICRC) has expressed concern over abuses against civilians, especially women and children, in South Kivu in eastern Democratic Republic of Congo. It frequently receives reports of abductions, executions, rapes, and pillage.}}</ref> A phenomenon of 'pendulum displacement' has developed, where people hasten at night to safety. According to Yakin Ertürk, the [[United Nations Special Rapporteur|UN Special Rapporteur]] on Violence against Women who toured eastern Congo in July 2007, violence against women in North and South Kivu included 'unimaginable brutality'. "Armed groups attack local communities, loot, rape, kidnap women and children, and make them work as sexual slaves", Ertürk added.<ref>{{cite web|url=http://www.irinnews.org/report/73524/drc-pendulum-displacement-in-the-kivus|title=DRC: 'Pendulum displacement' in the Kivus|date=1 August 2007|agency=IRIN}}</ref> In December 2008 GuardianFilms of ''[[The Guardian]]'' released a film documenting the testimony of over 400 women and girls who had been abused by marauding militia.<ref>{{cite news|url=http://www.theguardian.com/world/video/2008/dec/05/congo|work=The Guardian|location=London|title=Rape in a lawless land|first=Christian|last=Bennett|date=5 December 2008|accessdate=27 March 2010}}</ref>
+
+In June 2010, [[Oxfam]] reported a dramatic increase in the number of rapes occurring in the Democratic Republic of the Congo, while researchers from [[Harvard]] discovered that rapes committed by civilians had increased seventeenfold.<ref>{{cite web|url=http://www.aljazeera.com/news/africa/2010/04/201041595648701631.html|title=Rapes 'surge' in DR Congo |publisher=Al Jazeera|date=15 April 2010|accessdate=22 November 2010}}</ref> In June 2014 [[Freedom from Torture]] published reported rape and sexual violence being used routinely by state officials in Congolese prisons as punishment for politically active women.<ref name="freedomfromtorture.org">[http://www.freedomfromtorture.org/sites/default/files/drc_report_a5_-_web_.pdf Rape As torture in the DRC]. Freedom From Torture. June 2014</ref> The women included in the report were abused in several locations across the country including the capital Kinshasa and other areas away from the conflict zones.<ref name="freedomfromtorture.org"/>
+
+[[Child soldiers]] have been used on a large scale in DRC, and in 2011 it was estimated that 30,000 children were still operating with armed groups.{{sfn|Drumbl|2012|p=32}}
+
+Instances of child labor and [[forced labor]] have been observed and reported in the [[U.S. Department of Labor]]'s ''Findings on the Worst Forms of Child Labor'' in the DRC in 2013<ref>{{cite web|url=http://www.dol.gov/ilab/reports/child-labor/congo_democratic_republic.htm|title=Findings on the Worst Forms of Child Labor – Democratic Republic of the Congo|work=United States Department of Labor|accessdate=10 March 2015}}</ref> and 6 goods produced by the country's mining industry have been listed in the department's ''[[List of Goods Produced by Child Labor or Forced Labor]]'' in December 2014.
+
+In 2015, figures both inside and outside of the country such as Filimbi and [[Emmanuel Weyi]] have spoken out about the need to curb violence and instability as the 2016 elections approach.<ref>{{Cite web|url=http://www.voanews.com/content/drc-democratic-republic-of-congo-filimbi-release/2822647.html|title=Rights Groups, DRC Lawmakers Call for ‘Filimbi’ Activists’ Release|website=VOA|access-date=2016-03-31}}</ref><ref>{{Cite web|url=http://africaagenda.org/is-emmanuel-weyi-the-change-the-drc-needs/|title=Is Emmanuel Weyi "the change" the DRC needs?|website=Africa Agenda|language=en-US|access-date=2016-03-31}}</ref>
+
+===Foreign relations and military===
+{{See also|Foreign relations of the Democratic Republic of the Congo|Military of the Democratic Republic of the Congo}}
+The global growth in demand for scarce raw materials and the industrial surges in China, India, Russia, Brazil and other [[Developing country|developing countries]] require that [[Developed country|developed countries]] employ new, integrated and responsive strategies for identifying and ensuring, on a continual basis, an adequate supply of strategic and critical materials required for their security needs. Highlighting the DR Congo's importance to United States national security, the effort to establish an elite Congolese unit is the latest push by the U.S. to professionalize armed forces in this strategically important region. {{citation needed|date=September 2013}}
+
+There are economic and strategic incentives to bringing more security to the Congo, which is rich in natural resources such as [[cobalt]]. Cobalt is a strategic and critical metal used in many diverse industrial and military applications. The largest use of cobalt is in [[superalloy]]s, which are used to make [[jet engine]] parts. Cobalt is also used in [[magnetic alloy]]s and in cutting and wear-resistant materials such as cemented [[carbide]]s. The [[chemical industry]] consumes significant quantities of cobalt in a variety of applications including catalysts for petroleum and chemical processing; drying agents for paints and inks; ground coats for porcelain enamels; decolourisers for ceramics and glass; and pigments for ceramics, paints, and plastics. The country contains 80% of the world's cobalt reserves.<ref>{{cite web|author=Vandiver, John|url=http://www.stripes.com/news/gis-retrain-congo-troops-known-for-being-violent-1.101774|title=An April 2009 report to Congress by the National Defense Stockpile Center|publisher=Stripes.com|accessdate=22 November 2010}}</ref>
+
+==Economy and infrastructure==
+{{Main|Economy of the Democratic Republic of the Congo}}
+
+[[File:Democratic Republic of the Congo GDP evolution-fr.svg|thumb|Evolution of GDP]]
+The [[Central Bank of the Congo]] is responsible for developing and maintaining the [[Congolese franc]], which serves as the primary form of currency in the Democratic Republic of the Congo. In 2007, The World Bank decided to grant the Democratic Republic of Congo up to $1.3 billion in assistance funds over the next three years.<ref>{{cite news|title=World Bank Pledges $1 Billion to Democratic Republic of Congo|date=10 March 2007|work=VOA News|publisher=Voice of America|url=http://www.voanews.com/content/a-13-2007-03-10-voa4-66771457/564310.html|accessdate=25 December 2008}}</ref> Kinshasa is currently negotiating membership of the [[Organization for the Harmonization of Business Law in Africa]] (OHADA).<ref name="ohada.com">{{cite web|title=OHADA.com: The business law portal in Africa|url=http://www.ohada.com/index.php|accessdate=22 March 2009}}</ref>
+
+The Democratic Republic of Congo is widely considered to be one of the richest countries in the world regarding natural resources; its untapped deposits of raw minerals are estimated to be worth in excess of US$24 trillion.<ref>{{cite web|url=http://www.thefreelibrary.com/DR+Congo's+$24+trillion+fortune.-a0193800184|title=DR Congo's $24 trillion fortune.|publisher=Thefreelibrary.com|accessdate=22 July 2011}}</ref><ref>{{cite web|url=http://www.newsaboutcongo.com/2009/03/congo-with-24-trillion-in-mineral-wealth-but-still-poor.html|title=Congo with $24 Trillion in Mineral Wealth BUT still Poor|publisher=News About Congo|date=15 March 2009|accessdate=22 July 2011}}</ref><ref>{{cite web|last=Kuepper|first=Justin|url=http://theotcinvestor.com/mining-companies-could-see-big-profits-in-congo-855|title=Mining Companies Could See Big Profits in Congo|publisher=Theotcinvestor.com|date=26 October 2010|accessdate=22 July 2011}}</ref> The Congo has 70% of the world's [[coltan]], a third of its [[cobalt]], more than 30% of its diamond reserves, and a tenth of its copper.<ref>[[Coltan]] is a major source of [[tantalum]] which is used in the fabrication of electronic components in computers and mobile phones. The Coltan mines are small, and non-mechanized. [http://news.bbc.co.uk/2/hi/africa/5209428.stm DR Congo poll crucial for Africa"], BBC News. 16 November 2006.</ref><ref>Bream, Rebecca (8 November 2007). [http://www.ft.com/cms/s/0/eec69b16-8d6e-11dc-a398-0000779fd2ac.html "A bid for front-line command in Africa"]. ''Financial Times''.</ref>
+
+Despite such vast mineral wealth, the economy of the Democratic Republic of the Congo has declined drastically since the mid-1980s. The African country generated up to 70% of its export revenue from minerals in the 1970s and 1980s, and was particularly hit when resource prices deteriorated at that time. By 2005, 90% of the DRC's revenues derived from its minerals (Exenberger and Hartmann 2007:10).<ref name=ExenbergerHartmann2007>
+{{cite web|url=http://eeecon.uibk.ac.at/wopec2/repec/inn/wpaper/2007-31.pdf|format=PDF|title=The Dark Side of Globalization. The Vicious Cycle of Exploitation from World Market Integration: Lesson from the Congo|author1=Exenberger, Andreas |author2=Hartmann, Simon |year=2007|work=Working Papers in Economics and Statistics|publisher=University of Innsbruck}}</ref> The country's woes mean that, despite its potential, its citizens are among the poorest people on earth, the Congolese being consistently assigned the lowest, or near lowest, [[List of countries by GDP (nominal) per capita|nominal GDP per capita]] in the world. The DRC is also one of the twenty lowest ranked countries on the [[Corruption Perception Index]].
+
+===Mining===
+{{main|Mining industry of the Democratic Republic of the Congo}}
+[[File:Diamonds- Zaire, (DR Congo) (8458935824).jpg|thumb|Rough diamonds ~1 to 1.5 mm in size from DR Congo.]]
+The Congo is the world's largest producer of [[cobalt]] ore,<ref>{{cite web|url=http://www.indexmundi.com/en/commodities/minerals/cobalt/cobalt_t8.html|title=Cobalt: World Mine Production, By Country|accessdate=30 June 2008}}</ref> and a major producer of copper and diamonds, the latter coming from the Kasai province in the West. By far the largest mines in the Congo are located in the Katanga (formerly Shaba) province in the south, and are highly mechanized, with a maximum capacity of several millions of tons per year of copper and cobalt ore, and with the capability of refining it into metal. In terms of annual carats produced, the DRC is the second largest diamond-producing nation in the world, with artisanal and small-scale miners accounting for most production.
+
+At the time of its independence in 1960, DRC was the second most industrialized country in Africa after South Africa; it boasted a thriving mining sector and its agriculture sector was relatively productive.<ref>[https://web.archive.org/web/20091125042436/http://www.societecivile.cd/node/4243 Province orientale: le diamant et l'or quelle part dans la reconstruction socio – économique de la Province?] (in French) @ societecivile.cd, 23 October 2009.</ref> The two recent conflicts (the [[First Congo War|First]] and [[Second Congo War]]s), which began in 1996, have dramatically reduced national output and government revenue, have increased external debt, and have resulted in deaths of more than five million people from war, and associated [[famine]] and disease. [[Malnutrition]] affects approximately two thirds of the country's population. {{citation needed|date=September 2013}}
+
+Foreign businesses have curtailed operations due to uncertainty about the outcome of the conflict, lack of infrastructure, and the difficult operating environment. The war has intensified the impact of such basic problems as an uncertain legal framework, corruption, inflation, and lack of openness in government economic policy and financial operations.
+
+Conditions improved in late 2002 with the withdrawal of a large portion of the invading foreign troops. A number of [[International Monetary Fund]] and [[World Bank]] missions have met with the government to help it develop a coherent economic plan, and President Joseph Kabila has begun implementing reforms. Much economic activity lies outside the GDP data. A [[United Nations Human Development Index]] report shows human development to be one of the worst in decades. Through 2011 the Democratic Republic of the Congo had the lowest Human Development Index of the 187 ranked countries, classified lower than [[Niger]] despite a higher margin of improvement than the latter country from 2010's numbers. {{citation needed|date=September 2013}}
+
+[[File:Democratic Republic of Congo, Trends in the Human Development Index 1970-2010.png|thumb|350px|DR Congo's [[Human Development Index]] scores, 1970–2010.]]
+[[File:Basankusu collecting firewood by Francis Hannaway.jpg|thumb|Collecting firewood in [[Basankusu]].]]
+The economy of the second largest country in Africa relies heavily on mining. However, the smaller-scale economic activity occurs in the [[informal sector]] and is not reflected in GDP data.<ref>{{cite web|url=http://www.researchandmarkets.com/research/e074e9/democratic_republi|title=Economic activity in DRC|publisher=Research and Markets|accessdate=22 November 2010}}</ref> A third of the DRC's diamonds are believed to be smuggled, making quantifying production very difficult.<ref name=Kitco>[http://www.kitco.com/ind/Zimnisky/2013-08-20-Ranking-Of-The-World-s-Diamond-Mines-By-Estimated-2013-Production.html "Ranking Of The World's Diamond Mines By Estimated 2013 Production"], ''[[Kitco]]'', 20 August 2013.</ref> In 2002, [[tin]] was discovered in the east of the country, but, to date, mining has been on a small scale.<ref>{{cite news|url=http://www.nytimes.com/2008/11/16/world/africa/16congo.html?scp=2&sq=congo&st=nyt|title=Congo's Riches, Looted by Renegade Troops|work=The New York Times|first=Lydia|last=Polgreen|date=16 November 2008|accessdate=27 March 2010}}</ref> Smuggling of the [[conflict minerals]], coltan and [[cassiterite]] (ores of tantalum and tin, respectively), has helped fuel the war<ref>{{cite web|url=http://www.unwatchable.cc/the-true-story/what-is-happening-in-the-congo/|archiveurl=https://web.archive.org/web/20110930123653/http://www.unwatchable.cc/the-true-story/what-is-happening-in-the-congo/|archivedate=30 September 2011|title=What is happening in the Congo}}</ref> in the Eastern Congo.
+
+In September 2004 the state-owned [[Gécamines]], signed an agreement with Global Enterprises Corporate (GEC), a company formed by the merging of [[Dan Gertler|Dan Gertler International]] in partnership with [[Beny Steinmetz Global]], to rehabilitate and operate the [[Kananga Mine|Kananga]] and [[Tilwezembe Mine|Tilwezembe]] copper mines. The deal was ratified by presidential decree. In 2007 a World Bank report reviewed The Democratic Republic of Congo's three biggest mining contracts finding that the 2005 deals including one with [[Global Enterprises Company]], a company co-owned by Dan Getler, were approved with "a complete lack of transparency" (Mahtani, 3 January 2007).<ref name=FinancialTimes20070103>{{cite news|magazine=Financial Times|author=Mahtani, Dino |date=3 January 2007|title=Transparency fears lead to review of Congo contracts}}</ref><ref name=Sergeant20070403>{{cite web|url=http://www.mineweb.com/archive/nikanors-drc-mining-contract-quandary/|title=Nikanor's DRC mining contract quandary|author=Sergeant, Barry |date=3 April 2007|accessdate=16 November 2011}}</ref>
+<ref name=KatangaHist>{{cite web|url=http://www.katangamining.com/kat/about_us/history|archiveurl=https://web.archive.org/web/20120120200816/http://www.katangamining.com/kat/about_us/history|archivedate=20 January 2012|title=History|publisher=Katanga Mining|accessdate=16 November 2011}}</ref> Gertler and Steinmetz placed Global Enterprises Corporate (GEC)'S 75% share in KOV into [[Nikanor Plc]] registered in the [[Isle of Man]], which reached a market capitalization of $1.5 billion by 2007.<ref name=Sergeant20070403/> In February 2007, 22% of the [[Nikanor Mining]] company was owned by the Gertner Family Trust and 14% by Dan Gertler.<ref>{{cite web|url=http://www.miningweekly.com/article/drcs-katanga-governor-woos-bona-fide-resources-investors-heaps-praise-on-nikanor-2007-02-26|title=DRC's Katanga governor woos bona fide resources investors, heaps praise on Nikanor|work=Mining weekly|author=Creamer, Martin |date=26 February 2007|accessdate=15 November 2011}}</ref> In January 2008 Katanga Mining acquired Nikanor PLC for $452m.<ref name="KatangaHist"/>
+
+In April 2006 Gertler's DGI took a major stake in DEM Mining, a cobalt-copper mining and services company based in Katanga.<ref name=Sergeant20070403/> In June 2006 Gertler bought [[Tremalt]], which had a half share in the [[Mukondo Mine]] for about $60m from the Zimbabwean businessman [[John Bredenkamp]]. In 2007 Tremalt was owned by Prairie International Ltd, of which Dan Gertler's family trust was a major shareholder. Tremalt owned 80% of Savannah Mining, which held concessions C17 and C18 in Katanga Province and 50% of the Mukondo project. The other 50% of Mukonda was held by Boss Mining, which in turn was 80% owned by [[Central African Mining & Exploration Company]] (CAMEC). Boss Mining had rented and operated Bredenkamp's half of Mukondo. Gertler terminated this arrangement.<ref name=Sergeant20070403/>
+
+[[Katanga Mining|Katanga Mining Limited]], a Swiss-owned company, owns the Luilu Metallurgical Plant, which has a capacity of 175,000 tonnes of copper and 8,000 tonnes of cobalt per year, making it the largest cobalt refinery in the world. After a major rehabilitation program, the company restarted copper production in December 2007 and cobalt production in May 2008.<ref>{{cite web|url=http://www.katangamining.com/media/news-releases/2008/2008-08-12.aspx|title=Katanga Project Update and 2Q 2008 Financials, Katanga Mining Limited, 12 August 2008}}</ref>
+
+In April 2013, anti-corruption NGOs revealed that tax authorities in the country had failed to account for $88 million from the mining sector, despite booming production figures and positive industrial performance. The missing funds date from 2010 and tax bodies should have reportedly paid them into the central bank.<ref>{{Citation|url=http://www.miningweekly.com/article/watchdog-says-88m-missing-in-congolese-mining-taxes-2013-04-16|title=Watchdog says $88m missing in Congolese mining taxes|year=2013|work=[[Mining Weekly]]|publication-place=South Africa}}</ref> Later in 2013 the [[Extractive Industries Transparency Initiative]] suspended the country as a candidate for membership due to insufficient reporting, monitoring and independence of audits. In July 2013 the country improved its accounting and transparency to the point where the EITI gave the country full membership.
+
+===Transportation===
+{{Main|Transport in the Democratic Republic of the Congo}}
+[[File:First train in Kindu, DRC.jpg|thumb||Train from [[Lubumbashi]] arriving in [[Kindu]] on a newly refurbished line.]]
+Ground transport in the Democratic Republic of Congo has always been difficult. The terrain and climate of the [[Congo Basin]] present serious barriers to road and rail construction, and the distances are enormous across this vast country. Chronic economic mismanagement and internal conflicts have led to long-term under-investment.
+
+====Rail====
+{{Main|Rail transport in the Democratic Republic of the Congo}}
+[[File:Train rdc.svg|300px|thumb||Map of rail network]]
+Rail transportation is provided by the [[Congo Railroad Company]] (Société Nationale des Chemins de Fer du Congo) and the [[Office National des Transports (Congo)]] (ONATRA) and the Office of the Uele Railways (Office des Chemins de fer des Ueles, CFU).
+
+====Road====
+The Democratic Republic of the Congo has fewer all-weather paved highways than any country of its population and size in Africa — a total of 2250&nbsp;km, of which only 1226&nbsp;km is in good condition (see below). To put this in perspective, the road distance across the country in any direction is more than 2500&nbsp;km (e.g. Matadi to Lubumbushi, 2700&nbsp;km by road). The figure of 2250&nbsp;km converts to 35&nbsp;km of paved road per 1,000,000 of population. Comparative figures for Zambia and Botswana are 721&nbsp;km and 3427&nbsp;km respectively.<ref>The figures are obtained by dividing the population figures in the Wikipedia country articles by the paved roads figure in the 'Transport in [country]' articles.</ref>
+
+Three routes in the [[Trans-African Highway network]] pass through DR Congo:
+* [[Tripoli-Cape Town Highway]]: this route crosses the western extremity of the country on National Road No. 1 between Kinshasa and [[Matadi]], a distance of 285&nbsp;km on one of the only paved sections in fair condition.
+* [[Lagos-Mombasa Highway]]: the DR Congo is the main missing link in this east-west highway and requires a new road to be constructed before it can function.
+* [[Beira-Lobito Highway]]: this east-west highway crosses [[Katanga Province|Katanga]] and requires re-construction over most of its length, being an earth track between the Angolan border and [[Kolwezi]], a paved road in very poor condition between Kolwezi and [[Lubumbashi]], and a paved road in fair condition over the short distance to the Zambian border.
+
+====Water====
+The Democratic Republic of Congo has thousands of kilometres of [[navigable]] [[waterway]]s, and traditionally water transport has been the dominant means of moving around approximately two-thirds of the country.
+
+====Air====
+As of April 2014 DR Congo had two major national airlines ([[Compagnie Africaine d'Aviation|CAA]] and [[Korongo Airlines]]) which offered flights inside DR Congo and to a small number of international locations. [[Korongo Airlines]] was based in Lumbumbashi and [[Compagnie Africaine d'Aviation|CAA]] was based in Kinshasa but both airlines operated many of the same flight routes. Several international airlines offer flights to the country's two international airports [[N'djili Airport|Kinshasa (Ndjili) International Airport (FIH)]] and [[Lubumbashi International Airport]]. All air carriers certified by the DRC have been banned from European Union airports by the European Commission, due to inadequate safety standards.<ref>[http://wayback.archive.org/web/20110430124922/http://ec.europa.eu/transport/air-ban/doc/list_en.pdf List of airlines banned within the EU], Official EC list, updated 20 April 2011. Retrieved 20 September 2011.</ref>
+
+===Energy===
+{{Main|Energy in the Democratic Republic of the Congo}}
+In the Democratic Republic of the Congo, there are both coal and [[crude oil]] resources that were mainly used domestically in 2008. The Democratic Republic of Congo has infrastructure for hydro-electricity from the [[Congo River]] at the [[Inga dams]].<ref>{{cite web|url=http://www.suedwind-institut.de/fileadmin/fuerSuedwind/Publikationen/Publikationen_Franz%C3%B6sisch/2004-15_Energi%C3%A9_hydraulique_de_barrage_d_Inga.pdf|title=Energie hydraulique des barrages d’Inga : Grands potentiels pour le développement de la République Démocratique du Congo et de l’Afrique|trans-title=Technical Study preparing lobby-work on energy-resources and conflict prevention – Hydroelectric power dams at Inga:  Great potential for the development of the Democratic Republic of Congo and Africa|language=French|format=PDF|publisher=suedwind-institut.de|accessdate=27 February 2013}}</ref> The Democratic Republic of Congo also possesses 50% of Africa's forests and a river system that could provide [[hydro-electric]] power to the entire continent, according to a UN report on the country's strategic significance and its potential role as an economic power in central Africa.<ref>{{cite web|author=Vandiver, John  |url=http://www.stripes.com/news/gis-retrain-congo-troops-known-for-being-violent-1.101774 |title=DR Congo economic and strategic significance|publisher=Stripes.com |accessdate=22 November 2010}}</ref>
+
+The generation and distribution of electricity is controlled by [[Société nationale d'électricité (SNEL)]]
+
+===Education===
+{{Main|Education in the Democratic Republic of the Congo}}
+[[File:DRC classroom.jpg|thumb|A classroom in the Democratic Republic of the Congo.]]
+In 2014 the [[literacy]] rate for the population between the ages of 15 and 49 was estimated to be 75.9% (88.1% male and 63.8% female) according to a [[Demographic and Health Surveys|DHS]] nationwide survey.<ref>{{cite web|url=http://dhsprogram.com/pubs/pdf/FR300/FR300.pdf |title=Enquête Démographique et de Santé en République Démocratique du Congo 2013-2014 |author=Ministère du Plan et Suivi de la Mise en oeuvre de la Révolution de la Modernité (MPSMRM), Ministère de la Santé Publique (MSP), and [[ICF International]]|pages=41–43 |accessdate=2015-05-16}}</ref> The education system in the Democratic Republic of the Congo is governed by three government ministries: the ''Ministère de l'Enseignement Primaire, Secondaire et Professionnel (MEPSP''), the ''Ministère de l'Enseignement Supérieur et Universitaire (MESU)'' and the  ''Ministère des Affaires Sociales (MAS)''. Primary education in the Democratic Republic of the Congo is not free or compulsory,{{citation needed|date=May 2015}} even though the Congolese constitution says it should be (Article 43 of the 2005 Congolese Constitution).<ref>{{fr icon}} [http://fr.wikisource.org/wiki/Constitution_de_la_R%C3%A9publique_d%C3%A9mocratique_du_Congo#Article_43 Constitution de la République démocratique du Congo – Wikisource]. Fr.wikisource.org. Retrieved 27 February 2013.</ref>
+
+As a result of the 6-year civil war in the late 1990s-early 2000s, over 5.2 million children in the country did not receive any education.<ref name=ilab>"Congo, Democratic Republic of the." [http://wayback.archive.org/web/20061201190837/http://www.dol.gov/ilab/media/reports/iclp/tda2005/tda2005.pdf www.dol.gov] 2005 Findings on the Worst Forms of Child Labor, Bureau of International Labor Affairs, U.S. Department of Labor (2006). ''This article incorporates text from this source, which is in the [[public domain]].</ref> Since the end of the civil war, the situation has improved tremendously, with the number of children enrolled in primary schools rising from 5.5 million in 2002 to 12 million in 2012, and the number of children enrolled in secondary schools rising from 2.8 million in 2007 to 3.9 million in 2012 according to [[UNESCO]].<ref>{{cite web|url=http://data.uis.unesco.org/ |title=UIS.Stat (see: Education >> Participation >> Enrollment >> Enrollment by level of education) |author=UNESCO Institute for Statistics|accessdate=2015-05-16}}</ref>
+
+Actual school attendance has also improved greatly in recent years, with primary school net attendance estimated to be 82.4% in 2014 (82.4% of children ages 6–11 attended school; 83.4% for boys, 80.6% for girls).<ref>{{cite web|url=http://dhsprogram.com/pubs/pdf/FR300/FR300.pdf |title=Enquête Démographique et de Santé en République Démocratique du Congo 2013-2014 |author=Ministère du Plan et Suivi de la Mise en oeuvre de la Révolution de la Modernité (MPSMRM), Ministère de la Santé Publique (MSP), and [[ICF International]]|page=XXV |accessdate=2015-05-16}}</ref>
+
+===Health===
+{{Main|Health in the Democratic Republic of the Congo}}
+{{Further|HIV/AIDS in the Democratic Republic of the Congo}}
+The [[List of hospitals in the Democratic Republic of the Congo|hospitals in the Democratic Republic of the Congo]] include the [[Kinshasa General Hospital|General Hospital of Kinshasa]]. DRC has the world's second-highest rate of [[infant mortality]] (after [[Chad]]). In April 2011, through aid from [[GAVI Alliance|Global Alliance for Vaccines]], a new vaccine to prevent [[pneumococcal disease]] was introduced around [[Kinshasa]].<ref>{{cite news| url=http://www.nytimes.com/2011/04/12/health/12global.html?_r=1&partner=rss&emc=rss|work=The New York Times|first=Donald G.|last=McNeil Jr|title=Congo, With Donors' Help, Introduces New Vaccine for Pneumococcal Disease|date=11 April 2011}}</ref>
+
+In 2012, it was estimated that about 1.1% of adults aged 15–49 were living with [[HIV/AIDS]].<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2155.html |title=The World Factbook – Field Listing : HIV/AIDS : adult prevalence rate |publisher=Cia.gov |year=2012 |accessdate=10 March 2015}}</ref> [[Malaria]] is also a problem.<ref>{{cite web|url=http://www.irinnews.org/report/77948/drc-malaria-still-biggest-killer |title=DRC: Malaria still biggest killer |agency=IRIN |date=28 April 2008 |accessdate=10 March 2015}}</ref><ref>{{cite web|url=http://www.who.int/malaria/publications/country-profiles/profile_cod_en.pdf |title=Democratic Republic of the Congo, Epidemiological profile, World Malaria Report 2014 |publisher=World Health Organization |format=PDF |accessdate=10 March 2015}}</ref> [[Yellow fever]] also affects DRC.<ref>{{cite web|url=http://www.who.int/csr/don/2014_04_24_yellowfever/en/ |title=Yellow fever in the Democratic Republic of Congo |publisher=World Health Organization |date=24 April 2014 |accessdate=10 March 2015}}</ref>
+
+[[Maternal health]] is poor in DRC. According to 2010 estimates, DRC has the 17th highest [[maternal mortality]] rate in the world.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2223rank.html |title=The World Factbook – Country Comparison : Maternal mortality rate |publisher=Cia.gov |year=2010 |accessdate=10 March 2015}}</ref> According to [[UNICEF]], 43.5% of children under five are [[stunted]].<ref>[http://scalingupnutrition.org/sun-countries/democratic-republic-of-congo "Democratic Republic of Congo"]. scalingupnutrition.org.</ref>
+
+=== Crime and law enforcement ===
+{{Main|Law enforcement in the Democratic Republic of the Congo}}
+The Congolese National Police (PNC) are the primary police force in the Democratic Republic of the Congo.<ref>{{cite book|title=Democratic Republic of the Congo: Poverty Reduction Strategy Paper-Progress Report (EPub)|url=https://books.google.com/books?id=c57UNFOGOwwC&pg=PT56|year=2010|publisher=International Monetary Fund|isbn=978-1-4552-2241-4|pages=56–}}</ref>
+
+==Demographics==
+{{Main|Demographics of the Democratic Republic of the Congo}}
+
+===Largest cities===
+{{Largest cities of the Democratic Republic of the Congo}}
+
+===Ethnic groups===
+[[File:Kongo people2.jpg|thumb|[[Kongo people|Kongo]] youth and adults in [[Kinshasa|Kinshasa, Democratic Republic of Congo]]]]
+[[File:Cecilia and her family.jpg|thumb|Family in Rutshuru, North Kivu, Democratic Republic of the Congo]]
+Over 200 ethnic groups populate the Democratic Republic of the Congo, of which the majority are [[Bantu peoples]]. Together, [[Mongo people|Mongo]], [[Luba people|Luba]] and [[Kongo people|Kongo]] peoples (Bantu) and [[Mangbetu people|Mangbetu]]-[[Zande people|Azande]] peoples constitute around 45% of the population.
+
+In 2009, the United Nations estimated the country's population to be 66 million people,<ref>"[http://data.un.org/CountryProfile.aspx?crName=Democratic%20Republic%20of%20the%20Congo Democratic Republic of the Congo]". UNdata.</ref> a rapid increase from 39.1 million in 1992 despite the ongoing war.<ref>"[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+zr0053) Zaire – Population]". [[Library of Congress Country Studies]].</ref> As many as 250 ethnic groups have been identified and named. The most numerous people are the [[Kongo people|Kongo]], [[Luba people|Luba]], and [[Mongo people|Mongo]]. About 600,000 [[Congo Pygmies|Pygmies]] are the aboriginal people of the DR Congo.<ref>"[http://www.smh.com.au/articles/2003/05/22/1053585643490.html Pygmies want UN tribunal to address cannibalism]." ''The Sydney Morning Herald''. 23 May 2003.</ref> Although several hundred local languages and dialects are spoken, the linguistic variety is bridged both by widespread use of French and the national intermediary languages [[Kituba]], [[Tshiluba language|Tshiluba]], [[Swahili language|Swahili]], and [[Lingala language|Lingala]].
+
+===Migration===
+[[File:Opening ceremony of new PNC headquarters in Goma (7134901927).jpg|thumb|[[File:Kinshasa -Gombe.JPG|thumb|249x249px|Downton in Gombe]]|2x2px]]
+Given the situation in the country and the condition of state structures, it is extremely difficult to obtain reliable data. However, evidence suggests that DRC continues to be a destination country for immigrants in spite of recent declines. Immigration is seen to be very diverse in nature, with refugees and asylum-seekers – products of the numerous and violent conflicts in the [[African Great Lakes|Great Lakes Region]] – constituting an important subset of the population in the country. Additionally, the country's large mine operations attract migrant workers from Africa and beyond and there is considerable migration for commercial activities from other African countries and the rest of the world, but these movements are not well studied.<ref name="IOMProfile"/>
+
+Transit migration towards South Africa and Europe also plays a role. Immigration in the DRC has decreased steadily over the past two decades, most likely as a result of the armed violence that the country has experienced. According to the [[International Organization for Migration]], the number of immigrants in the DRC has declined from just over 1 million in 1960, to 754,000 in 1990, to 480,000 in 2005, to an estimated 445,000 in 2010. Official figures are unavailable on migrant workers, partly due to the predominance of the [[informal economy]] in the DRC. Data are also lacking on irregular immigrants, however given neighbouring country ethnic links to nationals of the DRC, irregular migration is assumed to be a significant phenomenon in the country.<ref name="IOMProfile">{{Cite journal|url=http://publications.iom.int/bookstore/index.php?main_page=product_info&cPath=41_42&products_id=592|publisher=International Organization for Migration|title=Migration en République Démocratique du Congo: Profil national 2009|year=2009|accessdate=17 August 2010}}</ref>
+
+Figures on the number of Congolese nationals abroad vary greatly depending on the source, from 3 to 6 million. This discrepancy is due to a lack of official, reliable data. Emigrants from the DRC are above all long-term emigrants, the majority of which live within Africa and to a lesser extent in Europe; 79.7% and 15.3% respectively, according to estimates on 2000 data. New destination countries include South Africa and various points en route to Europe. The DRC has produced a considerable number of [[refugees]] and [[asylum-seekers]] located in the region and beyond. These numbers peaked in 2004 when, according to [[UNHCR]], there were more than 460,000 refugees from the DRC; in 2008, Congolese refugees numbered 367,995 in total, 68% of whom were living in other African countries.<ref name="IOMProfile"/>
+
+Since 2003, more than 400,000 Congolese migrants have been expelled from [[Angola]].<ref>"[http://www.ipsnews.net/2012/05/calls-for-angola-to-investigate-abuse-of-congolese-migrants "Calls for Angola to Investigate Abuse of Congolese Migrants"], Inter Press Service. 21 May 2012.</ref>
+
+===Religion===
+{{Main|Religion in the Democratic Republic of the Congo}}
+{{Pie chart
+|thumb = right
+|caption = Religion in the Democratic Republic of the Congo by [[Pew Research Center]] (2013)<ref name=religion2>{{cite web|url=http://www.pewforum.org/files/2010/04/sub-saharan-africa-chapter-1.pdf |title=Pew Forum on Religion & Public Life / Islam and Christianity in Sub-Saharan Africa}}</ref>
+|label1 = [[Catholic Church|Catholicism]]
+|color1 = DarkOrchid
+|value1 = 36.8
+|label2 = [[Protestantism]]
+|value2 = 32
+|color2 = DodgerBlue
+|label3 = Other [[Christian]]
+|value3 = 11.2
+|color3 = #B9F2FF
+|label4 = [[Sunni Islam]]
+|value4 = 6
+|color4 = #056608
+|label5 = [[Shia Islam]]
+|value5 = 1.2
+|color5 = #4A5D23
+|label6 = [[Ahmadiyya Islam]]
+|value6 = 0.7
+|color6 = #967117
+|label7 = Other [[Muslim]]
+|value7 = 4.1
+|color7 = #177245
+|label8 = [[Traditional African religion|Indigenous religion]]
+|value8 = 3
+|color8 = Crimson
+|label9 = Other or non-specified
+|value9 = 1
+|color9 = #848482
+|label10 = [[Irreligion|Unaffiliated]]
+|value10 = 4
+|color10 = #A9A9A9
+}}
+
+Christianity is the majority religion in the Democratic Republic of the Congo, followed by about 95% of the population according to [[Pew Research Center]]<ref name=religion>{{cite web|url=http://www.pewforum.org/2012/12/18/table-religious-composition-by-country-in-percentages/|title=Global Religious Landscape|publisher=Pew Forum}}</ref> 2010 estimate, and 80% according to [[CIA World Factbook]]<ref name="cia.gov"/> and [[Pew Research Center]] 2013 data.<ref name="religion2"/> Indigenous beliefs accounts for about 1.8–10%, and Islam for 10–12%.<ref name="cia.gov"/><ref name="religion2"/>
+
+There are about 35 million Catholics in the country.<ref name="cia.gov"/> There are six [[archdiocese]]s and 41 [[dioceses]].<ref>{{Catholic-hierarchy|diocese|qview5|Structured View of Dioceses|21 January 2015}}</ref> The impact of the Roman Catholic Church in the Democratic Republic of Congo is difficult to overestimate. Schatzberg has called it the country's "only truly national institution apart from the state."<ref>Schatzberg, Michael G (February 1980) Politics and Class in Zaire: Bureaucracy, Business and Beer in Lisala, Africana Pub. Co. ISBN 0-8419-0438-3</ref> Its schools have educated over 60% of the nation's primary school students and more than 40% of its secondary students. The church owns and manages an extensive network of hospitals, schools, and clinics, as well as many diocesan economic enterprises, including farms, ranches, stores, and artisans' shops. {{citation needed|date=September 2013}}
+
+[[Kimbanguism]] was seen as a threat to the colonial regime and was banned by the Belgians. Kimbanguism, officially "the church of Christ on Earth by the prophet Simon Kimbangu", now has about three million members,<ref name=Adherents>[http://wayback.archive.org/web/20010707120530/http://www.adherents.com/adhloc/Wh_365.html "Zaire (Democratic Republic of Congo)", Adherents.com – Religion by Location.] Sources quoted are ''The World Factbook'' (1998), 'official government web site' of ''Democratic Republic of Congo''. Retrieved 25 May 2007.</ref> primarily among the [[Kongo people|Bakongo]] of [[Bas-Congo]] and [[Kinshasa]].
+
+62 Protestant denominations are federated under the umbrella of the [[Church of Christ in Congo]]. It is often simply referred to as ''the Protestant Church'', since it covers most of the DRC Protestants. With more than 25 million members, it constitutes [[List of the largest Protestant churches|one of the largest Protestant bodies]] in the world.
+
+According to the [[Pew Forum]], [[Islam in the Democratic Republic of the Congo|Islam]] is the faith of 12% of the population.<ref name="religion2"/> According to the [[CIA World Factbook]], Muslims make up 10% of the population.<ref name="cia.gov"/> Islam was introduced and mainly spread by traders/merchants.<ref>Insoll, Timothy  (2003) [http://catdir.loc.gov/catdir/samples/cam033/2002031056.pdf The Archaeology of Islam in Sub-Saharan Africa], Cambridge University Press; ISBN 0-521-65702-4</ref> Congolose Muslims are divided into [[Sunnis]] (50%), [[Shia]]s (10%), [[Ahmadiyya|Ahmadis]] (6%), and [[non-denominational Muslims]] (14%).<ref>Pew Forum on Religious & Public life. 9 August 2012. Retrieved 29 October 2013</ref> In 2013 the [[Allied Democratic Forces]], a group linked to [[Al-Qaeda]] began [[Allied Democratic Forces#2013 resurgence|carrying out attacks in Congo]] which killed civilians, mostly Christians.<ref>{{cite web|author=Bariyo, Nicholas |url=http://www.wsj.com/articles/SB10001424052702304858104579263631858707624 |title=Women and Children Slaughtered in Congo Attack |work=The Wall Street Journal |date=17 December 2013 |accessdate=10 March 2015}}</ref>
+
+The first members of the [[Baha'i Faith]] to live in the country came from Uganda in 1953. Four years later the first local administrative council was elected. In 1970 the National Spiritual Assembly (national administrative council) was first elected.  Though the religion was banned in the 1970s and 1980s, due to misrepresentations of foreign governments, the ban was lifted by the end of the 1980s. In 2012 plans were announced to build a national [[Baha'i House of Worship]] in the country.<ref>[http://bahaiwritings.files.wordpress.com/2012/04/ridvan-message-2012.pdf Ridvan Message 2012]. p. 3. Universal House of Justice;</ref>
+
+Traditional religions embody such concepts as [[monotheism]], [[animism]], [[vitalism]], [[spirit worship|spirit]] and [[ancestor worship]], [[witchcraft]], and sorcery and vary widely among ethnic groups. The syncretic sects often merge elements of Christianity with traditional beliefs and rituals and are not recognized by mainstream churches as part of Christianity. New variants of ancient beliefs have become widespread, led by US-inspired Pentecostal churches which have been in the forefront of witchcraft accusations particularly against children and the elderly.{{Clarify|reason=What is the new belief? Witchcraft, or the accusations of witchcraft?|date=January 2013}}<ref>De Boeck, Filip and Plissart, Marie-Frangoise (1899) ''Kinshasa tales of the invisible City'',  Ludion, ISBN 90-5544-554-1</ref> Children accused of witchcraft are sent away from homes and family, often to live on the street. The usual term for these children is ''enfants sorciers'' (child witches) or ''enfants dits sorciers'' (children accused of witchcraft) and can lead to physical violence against these children.{{Clarify|reason=What leads to violence?|date=January 2013}}<ref>{{cite web|author=Bureau of Democracy, Human Rights, and Labor|title=2010 Human Rights Report: Democratic Republic of the Congo|work=2010 Country Reports on Human Rights Practices|publisher=US Department of State|year=2011|url=http://www.state.gov/j/drl/rls/hrrpt/2010/af/154340.htm|accessdate=24 April 2011}}</ref> Non-denominational church organizations have been formed to capitalize on this belief by charging exorbitant fees for [[exorcisms]]. Though recently outlawed, children have been subjected to often-violent abuse at the hands of self-proclaimed prophets and priests.<ref>{{cite news|last=Harris|first=Dan|title=Children in Congo forced into exorcisms|work=world news|publisher=USA today|url=http://www.usatoday.com/news/world/2009-05-20-childwitch_N.htm|archiveurl=https://web.archive.org/web/20121104115309/http://usatoday30.usatoday.com/news/world/2009-05-20-childwitch_N.htm|archivedate=4 November 2012|accessdate=24 April 2011|date=21 May 2009}}</ref>
+
+===Languages===
+[[File:Map - DR Congo, major languages.svg|thumb|Major Bantu languages in the Congo]]
+{{Main|Languages of the Democratic Republic of the Congo}}
+French is the [[official language]] of the Democratic Republic of the Congo. It is culturally accepted as the ''[[lingua franca]]'' facilitating communication among the many different ethnic groups of the Congo. According to the 2014 [[Organisation internationale de la Francophonie|OIF]] report, 33 million Congolese people (47% of the population) can read and write French.<ref>{{cite book |author=[[Organisation internationale de la Francophonie]] |title= La langue française dans le monde 2014 |url=http://www.francophonie.org/Langue-Francaise-2014/ |location=Paris |publisher=Éditions Nathan |page=17 |date=2014 |isbn=978-2-09-882654-0 |access-date=2015-05-16 }}</ref> In the capital city [[Kinshasa]], 67% of the population can read and write French, and 68.5% can speak and understand it.<ref>{{cite book |author=[[Organisation internationale de la Francophonie]] |title= La langue française dans le monde 2014 |url=http://www.francophonie.org/Langue-Francaise-2014/ |location=Paris |publisher=Éditions Nathan |page=30 |date=2014 |isbn=978-2-09-882654-0 |access-date=2015-05-16 }}</ref>
+
+Approximately 242 languages are spoken in the country, but only four have the status of national languages: [[Kituba language|Kituba]] ("Kikongo ya leta"), [[Lingala language|Lingala]], [[Tshiluba language|Tshiluba]], and [[Swahili language|Swahili]]. Although some people speak these regional, or trade languages as first languages, most of the population speak them as a second language after their own tribal language. Lingala was made the official language of the colonial army, the "[[Force Publique]]", under Belgian colonial rule, and it remains to this day the predominant language in the armed forces. Since the recent rebellions, a good part of the army in the East also uses Swahili where it is prevalent.
+
+When the country was a Belgian colony, the Belgian colonizers instituted teaching and use of the four national languages in primary schools, making it one of the few African nations to have had literacy in local languages during the European colonial period. This trend was reversed after independence with French made the sole language of education at all levels.<ref name=lang_educ>{{cite book |author=[[Organisation internationale de la Francophonie]] |title= La langue française dans le monde 2014 |url=http://www.francophonie.org/Langue-Francaise-2014/ |location=Paris |publisher=Éditions Nathan |page=117 |date=2014 |isbn=978-2-09-882654-0 |access-date=2015-05-16 }}</ref> Since 1975, the four national languages have been reintroduced in the first two years of primary education, with French becoming the sole language of education from the 3rd year onwards, but in practice many primary schools in urban areas use solely French since the 1st year of education.<ref name=lang_educ />
+
+==Culture==
+{{Main|Culture of the Democratic Republic of the Congo}}
+
+[[File:Hemba male figure1.jpg|thumb||upright|A [[Hemba]] male statue]]
+The culture of the Democratic Republic of the Congo reflects the diversity of its hundreds of [[ethnic group]]s and their differing ways of life throughout the country&nbsp; — from the mouth of the [[Congo River|River Congo]] on the coast, upriver through the [[rainforest]] and [[savanna]] in its centre, to the more densely populated mountains in the far east. Since the late 19th century, traditional ways of life have undergone changes brought about by [[colonialism]], the struggle for independence, the stagnation of the Mobutu era, and most recently, the [[First Congo War|First]] and [[Second Congo War]]s. Despite these pressures, the [[convention (norm)|customs]] and cultures of the Congo have retained much of their individuality. The country's 60 million inhabitants are mainly rural. The 30% who live in urban areas have been the most open to [[Western culture|Western]] influences.
+
+=== Music ===
+Another notable feature in Congo culture is its music. The DRC has blended its ethnic musical sources with Cuban [[Cuban Rumba|rumba]], and [[merengue music|merengue]] to give birth to [[soukous]].<ref>{{cite book|url=https://books.google.com/books?id=XEeTAgAAQBAJ&pg=PA133|author=Stone, Ruth M. |title=The Garland Handbook of African Music |page=133 |accessdate=24 August 2014}}</ref> Other African nations produce music genres that are derived from Congolese soukous. Some of the African bands sing in [[Lingala]], one of the main languages in the DRC. The same Congolese soukous, under the guidance of "le sapeur", [[Papa Wemba]], has set the tone for a generation of young men always dressed up in expensive designers' clothes, they came to be known as the 4th generation of Congolese music and they mostly come from the former well-known band Wenge Musica. The Congo is also known for its art. Traditional art includes masks and wooden statues.
+
+===Sports===
+Many sports are played in the Democratic Republic of the Congo, including [[Football in the Democratic Republic of the Congo|football]], basketball and [[Rugby union in the Democratic Republic of the Congo|rugby]]. The sports are played in numerous stadiums throughout the country, including the [[Stade Frederic Kibassa Maliba]].<ref>[http://www.worldstadiums.com/africa/countries/dr_congo.shtml Stadiums in the Democratic Republic Congo]. World Stadiums. Retrieved 27 February 2013.</ref>
+
+Internationally, the country is especially famous for its [[NBA]] players. [[Dikembe Mutombo]] is one of the best African basketball players to ever play the game. Mutombo is well known for humanitarian projects in his home country. [[Serge Ibaka]], [[Bismack Biyombo]], [[Christian Eyenga]] and [[Emmanuel Mudiay]] are others who gained significant international attention.
+
+Since 1968 the Democratic Republic of the Congo has participated in the [[DR Congo at the Olympics|Olympic Games]].
+
+===Food===
+{{Main|Congolese cuisine}}
+
+===Media===
+Newspapers of the DRC include ''[[L'Avenir (newspaper)|L'Avenir]]'', ''La Cité africaine de Matadi'', ''La Conscience'', ''L'Observateur'', ''Le Phare'', ''[[Le Potentiel]]'', ''Le Soft'' and ''LeCongolais.CD'',<ref>{{cite web|last1=International|first1=Courrier|title=Le Congolais|url=http://www.courrierinternational.com/notule-source/le-congolais|website=www.courrierinternational.com/|publisher=Courrier International}}</ref> a web-based daily.<ref>"[http://www-sul.stanford.edu/depts/ssrg/africa/congok/congoknews.html Countries: Democatric Republic of the Congo: News]" ([http://www.webcitation.org/6PAgrjRnm Archive]).{{sic}} [[Stanford University]] Libraries & Academic Information Resources. Retrieved 28 April 2014.</ref> Radio Télévision Nationale Congolaise (RTNC) is the national broadcaster of the Democratic Republic of the Congo. RTNC currently broadcasts in [[Lingala language|Lingala]], French, and English.
+
+==Environmental issues==
+A dense tropical rainforest in the DRC's central river basin and eastern highlands is bordered on the west within the Albertine Rift (the western branch of Africa's Great Rift System) and includes several of Africa's Great Lakes.
+
+'''Major environmental issues'''
+
+The Democratic Republic of the Congo's major environmental issues include:
+* deforestation
+* poaching, which threatens wildlife populations
+* water pollution
+* displaced refugees, who cause or are otherwise responsible for most of these problems: significant deforestation, soil erosion, wildlife poaching
+* mining of minerals (coltan - a mineral used in creating capacitors, diamonds, and gold), causing environmental damage
+
+==Renewable energy==
+Because of sunlight, potential for solar development is very high in the DRC.  There are already about 836 solar power systems in the DRC, with a total power of 83&nbsp;kW{{citation needed|date=April 2016}}, located in Equateur (167), Katanga (159), Nord-Kivu (170), the two Kasaï provinces (170), and Bas-Congo (170).  Also, the 148 Caritas network system has a total power of 6.31 kW7.{{citation needed|date=April 2016}}
+
+==See also==
+{{portal|Geography|Africa|Democratic Republic of the Congo|French language and French-speaking world}}
+* [[Outline of the Democratic Republic of the Congo]]
+* [[Index of Democratic Republic of the Congo-related articles]]
+* [[Army of Democratic Republic of Congo]]
+* [[International rankings of the Democratic Republic of the Congo]]
+* [[Child soldiers in the Democratic Republic of the Congo]]
+* <!-- [[Bibliography of the Democratic Republic of the Congo]] -->
+* <!-- {{wikipedia books link|Democratic Republic of the Congo}} -->
+
+{{clear}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{refbegin|30em}}
+* Clark, John F., ''The African Stakes of the Congo War'', 2004.
+* {{cite book| last=Devlin| first=Larry| authorlink=Larry Devlin| title=Chief of Station, Congo: A Memoir of 1960–67| publisher=PublicAffairs| location=New York| year=2007| isbn=978-1-58648-405-7}}.
+* Drummond, Bill and Manning, Mark, ''The Wild Highway'', 2005.
+* Edgerton, Robert, ''The Troubled Heart of Africa: A History of the Congo.'' St. Martin's Press, December 2002.
+* Exenberger, Andreas/Hartmann, Simon. [http://eeecon.uibk.ac.at/wopec2/repec/inn/wpaper/2007-31.pdf ''The Dark Side of Globalization. The Vicious Cycle of Exploitation from World Market Integration: Lesson from the Congo''], Working Papers in Economics and Statistics 31, University Innsbruck 2007.
+* Exenberger, Andreas/Hartmann, Simon. [http://vkc.library.uu.nl/vkc/seh/research/Lists/Events/Attachments/6/Paper.ExenbergerHartmann.pdf ''Doomed to Disaster? Long-term Trajectories of Exploitation in the Congo], Paper to be presented at the Workshop "Colonial Extraction in the Netherlands Indies and Belgian Congo: Institutions, Institutional Change and Long Term Consequences", Utrecht 3–4 December 2010.
+* Gondola, Ch. Didier, "The History of Congo", Westport: Greenwood Press, 2002.
+* Joris, Lieve, translated by Waters, Liz, ''The Rebels' Hour'', Atlantic, 2008.
+* Justenhoven, Heinz-Gerhard; Ehrhart, Hans Georg. Intervention im Kongo: eine kritische Analyse der Befriedungspolitik von UN und EU. Stuttgart: Kohlhammer, 2008. (In German) ISBN 978-3-17-020781-3.
+* [[Barbara Kingsolver|Kingsolver, Barbara]]. ''[[The Poisonwood Bible]]'' HarperCollins, 1998.
+* Larémont, Ricardo René, ed. 2005. ''Borders, nationalism and the African state''. Boulder, Colorado and London: Lynne Rienner Publishers.
+* Lemarchand, Reni and Hamilton, Lee; ''Burundi: Ethnic Conflict and Genocide.'' Woodrow Wilson Center Press, 1994.
+* Mealer, Bryan: "All Things Must Fight To Live", 2008. ISBN 1-59691-345-2.
+* [[Linda Melvern|Melvern, Linda]], ''Conspiracy to Murder: The Rwandan Genocide and the International Community''. Verso, 2004.
+* Miller, Eric: "The Inability of Peacekeeping to Address the Security Dilemma", 2010. ISBN 978-3-8383-4027-2.
+* Mwakikagile, Godfrey, ''Nyerere and Africa: End of an Era'', Third Edition, New Africa Press, 2006, "Chapter Six: Congo in The Sixties: The Bleeding Heart of Africa", pp.&nbsp;147 – 205, ISBN 978-0-9802534-1-2; Mwakikagile, Godfrey, ''Africa and America in The Sixties: A Decade That Changed The Nation and The Destiny of A Continent'', First Edition, New Africa Press, 2006, ISBN 978-0-9802534-2-9.
+* Nzongola-Ntalaja, Georges, ''The Congo from Leopold to Kabila: A People's History'', 2002.
+* O'Hanlon, Redmond, ''Congo Journey'', 1996.
+* O'Hanlon, Redmond, ''No Mercy: A Journey into the Heart of the Congo'', 1998.
+* Prunier, Gérard, ''Africa's World War: Congo, the Rwandan Genocide, and the Making of a Continental Catastrophe'', 2011 (also published as ''From Genocide to Continental War: The Congolese Conflict and the Crisis of Contemporary Africa: The Congo Conflict and the Crisis of Contemporary Africa'').
+* Renton, David; Seddon, David; Zeilig, Leo. ''The Congo: Plunder and Resistance'', 2007. ISBN 978-1-84277-485-4.
+* Reyntjens, Filip, ''The Great African War: Congo and Regional Geopolitics, 1996–2006 '', 2009.
+* Rorison, Sean, ''Bradt Travel Guide: Congo&nbsp; — Democratic Republic/Republic'', 2008.
+* Schulz, Manfred. ''Entwicklungsträger in der DR Kongo: Entwicklungen in Politik, Wirtschaft, Religion, Zivilgesellschaft und Kultur'', Berlin: Lit, 2008, (in German) ISBN 978-3-8258-0425-1.
+* Stearns, Jason: ''Dancing in the Glory of Monsters: the Collapse of the Congo and the Great War of Africa'', Public Affairs, 2011.
+* Tayler, Jeffrey, ''Facing the Congo'', 2001.
+* Turner, Thomas, ''The Congo Wars: Conflict, Myth and Reality'', 2007.
+* [[David Van Reybrouck|Van Reybrouck]], David, ''Congo: The Epic History of a People'', 2014
+* Wrong, Michela, ''In the Footsteps of Mr. Kurtz: Living on the Brink of Disaster in Mobutu's Congo''.
+{{refend}}
+* Osman, Mohamed Omer Guudle(November,2011) Africa: A rich Continent where poorest people live, The Case of DR Congo and the exploitation of the World Market
+
+== External links ==
+{{Sister project links|voy=Democratic Republic of the Congo}}
+{{Commons category|Mines in the Democratic Republic of the Congo}}
+* [http://wayback.archive.org/web/20090506023504/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/congo-democratic-republic-of-the.html Chief of State and Cabinet Members]
+* [http://m.bbc.com/news/world-africa-13283212 Country Profile] from the [[BBC News]]
+* {{CIA World Factbook link|cg|Democratic Republic of the Congo}}
+* [http://ucblibraries.colorado.edu/govpubs/for/DRCongo.htm Democratic Republic of the Congo] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Africa/Congo,_Democratic_Republic_of_the}}
+* {{Wikiatlas|Democratic Republic of the Congo}}
+* [http://www.globalissues.org/article/87/the-democratic-republic-of-congo The Democratic Republic of Congo from Global Issues]
+* {{cite web |url=http://www-sul.stanford.edu/depts/ssrg/africa/zaire.html |title=Democratic Republic of the Congo |work=Africa South of the Sahara: Selected Internet Resources |publisher=Stanford University |location=USA |editor=Karen Fung }}
+
+{{DRC topics}}
+{{Countries of Africa}}
+{{Navboxes
+|title = International membership
+|list  =
+{{Southern African Development Community}}
+{{African Union}}
+}}
+{{Navboxes
+|title = Languages
+|list  =
+{{La Francophonie}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Congo, Democratic Republic Of The}}
+[[Category:Democratic Republic of the Congo| ]]
+[[Category:Countries in Africa]]
+[[Category:Bantu countries and territories]]
+[[Category:French-speaking countries and territories]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the African Union]]
+[[Category:Least developed countries]]
+[[Category:Republics]]
+[[Category:Swahili-speaking countries and territories]]
+[[Category:Member states of the United Nations]]
+[[Category:Central African countries]]
+[[Category:States and territories established in 1960]]

@@ -1,0 +1,345 @@
+Creative Commons
+
+{{About|the organization|their published licenses|Creative Commons license|usage of product|List of works available under a Creative Commons license}}
+{{Infobox organization
+| name   = Creative Commons
+| logo   = [[File:CC-logo.svg|Creative Commons logo|200px]]
+| founded_date      = {{start date and age|2001}}
+| founder           = [[Lawrence Lessig]]
+| origins           = 
+| key_people        = Ryan Merkley, CEO
+| area_served       =
+| product           =
+| focus             = Expansion of "reasonable", flexible copyright
+| method            = [[Creative Commons license]]
+| revenue           =
+| endowment         =
+| num_volunteers    =
+| num_employees     =
+| num_members       =
+| subsidiaries      =
+| owner             =
+| Non-profit_slogan =
+| homepage          = {{ConditionalURL}}
+| dissolved         =
+| footnotes         =
+}}
+'''Creative Commons''' ('''CC''') is an American [[non-profit organization]] devoted to expanding the range of [[creativity|creative]] works available for others to build upon legally and to share.<ref>{{cite web|url=http://wiki.creativecommons.org/FAQ |title=Frequently Asked Questions |publisher=Creative Commons |date = |accessdate=20 December 2011}}</ref> The organization has released several [[copyright]]-[[license]]s known as [[Creative Commons license]]s free of charge to the public. These licenses allow creators to communicate which rights they reserve, and which rights they [[waive]] for the benefit of recipients or other creators. An easy-to-understand one-page explanation of rights, with associated visual symbols, explains the specifics of each Creative Commons license. Creative Commons licenses do not replace copyright, but are based upon it. They replace individual negotiations for specific rights between copyright owner (licensor) and [[licensee]], which are necessary under an "all rights reserved" copyright management, with a "some rights reserved" management employing standardized licenses for re-use cases where no commercial compensation is sought by the copyright owner. The result is an agile, low-overhead and low-cost copyright-management regime, profiting both copyright owners and licensees. [[Wikipedia]] uses one of these licenses.<ref>{{cite web |url=http://wikimediafoundation.org/wiki/Terms_of_Use |title=Wikimedia Foundation Terms of Use |accessdate=June 11, 2012}}</ref>
+
+The organization was founded in 2001 by [[Lawrence Lessig]], [[Hal Abelson]], and [[Eric Eldred]]<ref>{{cite web|url=http://creativecommons.org/about/history|title=Creative Commons: History|accessdate=2011-10-09}}</ref> with the support of [[Center for the Public Domain]]. The first article in a general interest publication about Creative Commons, written by [[Hal Plotkin]], was published in February 2002.<ref>{{cite news|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2002/02/11/creatcom.DTL|title=All Hail Creative Commons Stanford professor and author Lawrence Lessig plans a legal insurrection |last=Plotkin |first=Hal |work= |publisher=SFGate.com |accessdate=2011-03-08 |date=11 February 2002}}</ref> The first set of copyright licenses was released in December 2002.<ref>{{cite web|url=http://creativecommons.org/about/history/|title=History of Creative Commons |accessdate=2009-11-08}}</ref> The founding management team that developed the licenses and built the Creative Commons infrastructure as we know it today included [[Molly Shaffer Van Houweling]], Glenn Otis Brown, Neeru Paharia, and Ben Adida.<ref>{{cite web|url=http://creativecommons.org/press-releases/entry/3483|title=Creative Commons Announces New Management Team |last=Haughey |first=Matt |date=2002-09-18|publisher=creativecommons.org |accessdate=2013-05-07}}</ref> 
+
+In 2003 the [[Open Content Project]], a 1998 precursor project by [[David A. Wiley]], announced the Creative Commons as successor project and Wiley joined as CC director.<ref>{{cite web||archivedate=2003-08-02|archiveurl=http://web.archive.org/web/20030802222546/http://opencontent.org/|url=http://opencontent.org/ |title=OpenContent is officially closed. And that's just fine. |publisher=opencontent.org |date=30 June 2003 |accessdate=2016-02-21 |quote=I'm closing OpenContent because I think Creative Commons is doing a better job of providing licensing options which will stand up in court.|author=[[David A. Wiley]]}}</ref><ref>[https://blog.creativecommons.org/2003/06/23/creativecommonswelcomesdavidwileyaseducationaluselicenseprojectlead/ Creative Commons Welcomes David Wiley as Educational Use License Project Lead] by matt on creativecommons.org (June 23rd, 2003)</ref> [[Matthew Haughey]] and [[Aaron Swartz]]<ref>{{cite web|url=http://creativecommons.org/weblog/entry/36298|title=Remembering Aaron Swartz |last=Lessig|first=Lawrence |date=2013-01-12 |publisher=creativecommons.org |accessdate=2013-05-07}}</ref> also played a role in the early stages of the project.{{citation needed|date=April 2016}} 
+
+As of January 2016 there were an estimated 1.1 billion works licensed under the various Creative Commons licenses.<ref>{{cite web|url=https://stateof.creativecommons.org/2015/|title=State of the Commons |accessdate=2016-03-07}}</ref> As of March 2015, [[Flickr]] alone hosts over 306 million Creative Commons licensed photos.<ref>{{cite web|url=https://www.flickr.com/creativecommons |title=Explore Creative Commons |publisher=Flickr |accessdate=15 March 2015}}</ref> Creative Commons is governed by a board of directors. Their licenses have been embraced by many as a way for creators to take control of how they choose to share their copyrighted works.
+
+==Aim and influence==
+[[File:GoldenNica CreativeCommons.jpg|thumb|[[Prix Ars Electronica|Golden Nica Award]] (2004)]]
+[[File:Lawrence Lessig (9).jpg|thumb|[[Lawrence Lessig]] (January 2008)]]
+[[File:Creative Commons Japan Seminar-200709-1.jpg|thumb|Creative Commons Japan Seminar, [[Tokyo]] (2007)]]
+[[File:CC some rights reserved.svg|thumb|CC some rights reserved]]
+[[File:Creativecommons spanien.jpg|thumb|A sign in a pub in [[Granada]] notifies customers that the music they are listening to is freely distributable under a Creative Commons license.]]
+
+Creative Commons has been described as being at the forefront of the [[copyleft]] movement, which seeks to support the building of a richer [[public domain]] by providing an alternative to the automatic "all rights reserved" [[copyright]], and has been dubbed "some rights reserved."<ref>{{cite news| first= Sharee L. | last= Broussard| title= The copyleft movement: creative commons licensing | publisher= Communication Research Trends | url=http://cscc.scu.edu/trends/v26/v26_n3.pdf  | date=September 2007 | accessdate=2015-10-20}}</ref> David Berry and Giles Moss have credited Creative Commons with generating interest in the issue of [[intellectual property]] and contributing to the re-thinking of the role of the "[[commons]]" in the "[[information age]]". Beyond that, Creative Commons has provided "institutional, practical and legal support for individuals and groups wishing to experiment and communicate with culture more freely."<ref>{{cite web|last=Berry |first=David |url=http://www.freesoftwaremagazine.com/articles/commons_without_commonality/ |title=On the "Creative Commons": a critique of the commons without commonalty |publisher=Free Software Magazine |date=15 July 2005 |accessdate=20 December 2011}}</ref>
+
+Creative Commons attempts to counter what Lawrence Lessig, founder of Creative Commons, considers to be a dominant and increasingly restrictive [[permission culture]]. Lessig describes this as "a culture in which creators get to create only with the permission of the powerful, or of creators from the past".<ref>{{Cite book| first=Lawrence | last=Lessig |url=http://www.free-culture.cc/freeculture.pdf |year=2004 | title=Free Culture | publisher=Penguin Press | location=New York | page=8 |format=PDF| isbn=1-59420-006-8| accessdate=2015-10-20}}</ref> Lessig maintains that modern culture is dominated by traditional content distributors in order to maintain and strengthen their monopolies on cultural products such as popular music and popular cinema, and that Creative Commons can provide alternatives to these restrictions.<ref>{{Cite news| author=Ermert, Monika | title=Germany debuts Creative Commons | work=The Register | date=2004-06-15| url=http://www.theregister.co.uk/2004/06/15/german_creative_commons/ }}</ref><ref>{{cite web| author=Lessig, Lawrence| year=2006| title=Lawrence Lessig on Creative Commons and the Remix Culture | format=mp3 | work=Talking with Talis | url=http://talk.talis.com/archives/2006/01/lawrence_lessig.html |archiveurl=https://web.archive.org/web/20080205034639/http://talk.talis.com/archives/2006/01/lawrence_lessig.html | archivedate=2008-02-05 | accessdate=2006-04-07}}</ref>
+
+==Governance and staff==
+
+Creative Commons staff include two full-time legal counsel, as well as a number of open education, free culture and free software veterans including:
+
+* Cable Green, Director of Open Education
+* Matt Lee, Technical Lead ([[Libre.fm]] and [[GNU social]] founder)
+* Ryan Merkley, CEO
+* Mari Moreshead
+* Sarah Hinchliff-Pearson, Senior Counsel
+* Paul Stacey
+* Jane Park
+* Timothy Vollmer
+* Diane Peters, General Counsel
+* Rob Myers
+* Scott Seethaler
+K. Steezy
+
+
+{{see also|Category:Members of the Creative Commons Board of Directors}}
+{{As of|2015}}, the Board of Creative Commons consists of:<ref name="CCBoard">{{cite web |url=http://creativecommons.org/board |title=Board of Directors - Creative Commons |publisher=Creative Commons |accessdate=2015-03-10}}</ref><div style="column-count:2; -moz-column-count:2; -webkit-column-count:2;">
+* Johnathan Nightingale
+* Kate Spelman
+* Ben Adida
+* Renata Avila
+* [[Paul Brest]], Chair
+* Dorothy Gordon
+* [[Johann Paul Keller|Paul Keller]]
+* Ryan Merkley, CEO
+* Diane Peters, Corporate Secretary
+* Thomas Rubin
+* Chris Sprigman
+* Christopher Thorne, Vice Chair
+* Jongsoo Yoon
+</div>
+
+The Advisory Board consists of:<ref name="CCBoard" /><div style="column-count:2; -moz-column-count:2; -webkit-column-count:2;">
+* [[Hal Abelson]]
+* [[Esther Wojcicki]] 
+* Laurie Racine
+* Eric Saltzman
+* Molly Van Houweling
+* [[Michael W. Carroll]]
+* [[John Abele]]
+* Catherine Casserly
+* [[Brian Fitzgerald (academic)|Brian Fitzgerald]]
+* [[Sue Gardner]]
+* Spencer Hyman
+* [[Joi Ito]]
+* [[Lawrence Lessig]] (emeritus)
+* Mohamed Nanabhay
+* Annette Thomas
+* [[Jimmy Wales]]
+</div>
+
+CC's [[Audit Committee]] has three members, who are also members of the Board. {{as of|2016}}, they are Dorothy Gordon, Jonathan Nightingale, and Chris Sprigman.
+
+==Affiliate network==
+As of 2015, there are more than 100 affiliates working in over 75 jurisdictions to support and promote CC activities around the world.<ref>{{cite web|url=https://wiki.creativecommons.org/CC_Affiliate_Network |title=CC Affiliate Network |publisher=Creative Commons |accessdate= 15 March 2015}}</ref>
+
+===South Korea===
+'''Creative Commons Korea''' ('''CC Korea''') is the affiliated network of Creative Commons in South Korea. In March 2005, CC Korea was initiated by Jongsoo Yoon (in Korean: 윤종수), a Presiding Judge of Incheon District Court, as a project of Korea Association for Infomedia Law (KAFIL). The major Korean portal sites, including Daum and Naver, have been participating in the use of Creative Commons licences. In January 2009, the Creative Commons Korea Association was consequently founded as a non-profit incorporated association. Since then, CC Korea has been actively promoting the liberal and open culture of creation as well as leading the diffusion of Creative Common in the country.
+
+*Creative Commons Korea<ref>{{cite web|url=http://www.cckorea.org/xe/?mid=main |title=Creative Commons Korea |publisher=CCkorea.org |date= |accessdate=20 December 2011}}</ref>
+*Creative Commons Asia Conference 2010<ref>{{cite web|url=http://wiki.creativecommons.org/CC_Asia_Conference_2010 |title=CC Asia Conference 2010 |publisher=Creative Commons |date=21 July 2010 |accessdate=20 December 2011}}</ref>
+
+===Bassel Khartabil===
+[[Bassel Khartabil]] is a Palestinian Syrian open source software developer and has served as project lead and public affiliate for Creative Commons Syria.<ref>{{cite web|url=http://wiki.creativecommons.org/Syria|title=Syria|publisher=}}</ref> Since March 15, 2012 he has been detained by the Syrian government in Damascus at Adra Prison. On October 17, 2015 Creative Commons Board of Directors approved a resolution calling for Bassel Khartabil release.<ref>[http://creativecommons.org/weblog/entry/46253 Creative Commons Board of Directors approves resolution calling for Bassel Khartabil release - Creative Commons Blog - Creative Commons<!-- Bot generated title -->]</ref>
+
+==Criticism==
+All current CC licenses (except the CC0 Public Domain Dedication tool) require attribution, which can be inconvenient for works based on multiple other works.<ref>{{cite web
+ |url          = http://blog.ninapaley.com/2010/03/04/the-limits-of-attribution/
+ |title        = The Limits of Attribution
+ |last1        = Paley
+ |first1       = Nina
+ |authorlink1  = Nina Paley
+ |date         = 2010-03-04
+ |work         = Nina Paley's Blog
+ |archiveurl   =
+ |archivedate  =
+ |deadurl      =
+ |accessdate   = 2013-01-30
+ |quote        =
+ |ref          =
+ |separator    =
+ |postscript   =
+}}</ref> Critics feared that Creative Commons could erode the copyright system over time<ref name="John Dvorak, Creative Commons Humbug">{{Cite journal
+  |url=http://www.pcmag.com/article2/0,2817,1838244,00.asp
+  |title=Creative Commons Humbug
+  |author=John Dvorak
+  |publisher=PC Magazine
+  |date=July 2005
+  |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref> or allow "some of our most precious resources — the creativity of individuals — to be simply tossed into the commons to be exploited by whomever has spare time and a magic marker."<ref name="Maritza Schaeffer, Note and Comment: Contemporary Issues In the Visual Art World: How Useful Are Creative Commons Licenses?">{{cite news| first= Maritza | last= Schaeffer| title= Note and Comment: Contemporary Issues in the Visual Art Realm: How Useful are Creative Commons Licenses? | publisher= Journal of Law and Policy| url=http://practicum.brooklaw.edu/sites/default/files/print/pdfs/journals/journal-law-and-policy/volume-17/issue-1/jlp_v17i_7.pdf | year=2009 | accessdate=2015-10-20}}</ref>
+
+Critics also worried that the lack of rewards for content producers will dissuade artists from publishing their work, and questioned whether Creative Commons is the [[commons]] that it purports to be.<ref name="Niva Elkin-Koren, Exploring Creative Commons: A Skeptical View of a Worthy Pursuit">{{cite web| first= Niva| last= Elkin-Koren| title= Exploring Creative Commons: A Skeptical View of a Worthy Pursuit | publisher= The Future of the Public Domain (P. Bernt Hugenholtz and Lucie Guibault, eds.)| url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=885466 | year=2006 | accessdate=2015-10-20}}</ref>
+
+Creative Commons founder Lawrence Lessig countered that copyright laws have not always offered the strong and seemingly indefinite protection that today's law provides. Rather, the duration of copyright used to be limited to much shorter terms of years, and some works never gained protection because they did not follow the now-abandoned compulsory format.<ref name="Lawrence Lessig, The Creative Commons">{{cite web| first= Lawrence| last= Lessig| title= The Creative Commons | publisher= 65 Mont. L. Rev. 1| url= | year=2004}}</ref>
+
+The maintainers of [[Debian]], a [[GNU]] and [[Linux distribution]] known for its rigid adherence to a particular definition of [[software freedom]],<ref name="debian-social-contract">{{cite web
+ |url=http://www.debian.org/social_contract
+ |title=Debian Social Contract
+ |publisher=Debian
+ |date=2004-04-26
+ |accessdate=2013-11-26
+}}</ref> rejected the Creative Commons Attribution License prior to version 3 as incompatible with the [[Debian Free Software Guidelines]] (DFSG) due to the license's anti-[[Digital rights management|DRM]] provisions (which might, due to ambiguity, be covering more than DRM) and its requirement that downstream users remove an author's credit upon request from the author.<ref name="debian-cc20-summary">{{cite web
+  |url=http://evan.prodromou.name/ccsummary/ccsummary.html
+  |title=Summary of Creative Commons 2.0 Licenses
+  |publisher=debian-legal (mailing list)
+  |author=Evan Prodromou
+  |date=3 April 2005
+}}</ref> Version 3.0 of the Creative Commons licenses addressed these concerns<ref>{{cite web
+  |url = http://creativecommons.org/weblog/entry/7249
+  |title = Version 3.0 Launched
+  |accessdate = 2007-07-05
+  |publisher = Creative Commons
+  |date = 2007-02-23
+  |first = Mia
+  |last = Garlick}}</ref> and is considered to be compatible with the DFSG.<ref>{{cite web
+  |url = https://wiki.debian.org/DFSGLicenses#CreativeCommonsShare-Alike.28CC-SA.29v3.0
+  |title = The DFSG and Software Licenses - Creative Commons Share-Alike (CC-SA) v3.0
+  |accessdate = 2009-03-16
+  |publisher = Debian Wiki
+}}</ref>
+
+===License proliferation and incompatibility===
+[[Mako Hill]] asserted that Creative Commons fails to establish a "base level of freedom" that all Creative Commons licenses must meet, and with which all licensors and users must comply. "By failing to take any firm ethical position and draw any line in the sand, CC is a missed opportunity.... CC has replaced what could have been a call for a world where 'essential rights are unreservable' with the relatively hollow call for 'some rights reserved.{{' "}} He also argued that Creative Commons worsens [[license proliferation]], by providing multiple licenses that are [[license compatibility|incompatible]].<ref name="Mako Hill, Towards a Standard of Freedom">{{cite web
+  |url=http://mako.cc/writing/toward_a_standard_of_freedom.html
+  |title=Towards a Standard of Freedom: Creative Commons and the Free Software Movement
+  |author=Benjamin Mako Hill
+  |date=29 July 2005
+}}</ref>
+
+The Creative Commons website states, "Since each of the six CC licenses functions differently, resources placed under different licenses may not necessarily be combined with one another without violating the license terms."<ref>{{Cite journal
+|url = http://learn.creativecommons.org/wp-content/uploads/2009/10/cclearn-explanations-cc-license-compatability.pdf
+|title = CC Learn Explanations: Remixing OER: A guide to License Compatibility
+|publisher = Creative Commons CC Learn
+|accessdate = 29 November 2010
+|postscript = <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}
+}}</ref> Works licensed under incompatible licenses may not be recombined in a [[derivative work]] without obtaining permission from the copyright owner.<ref>{{cite web
+|url = http://wiki.creativecommons.org/FAQ#Can_I_combine_two_different_Creative_Commons_licensed_works.3F_Can_I_combine_a_Creative_Commons_licensed_work_with_another_non-CC_licensed_work.3F
+|title = Can I combine two different Creative Commons licensed works? Can I combine a Creative Commons licensed work with another non-CC licensed work?
+|work = FAQ
+|publisher = Creative Commons
+|accessdate = 16 September 2009
+}}</ref><ref name="Creative Commons Attribution ShareAlike 3.0 Unported">{{cite web
+|url =http://creativecommons.org/licenses/by-sa/3.0/
+|title = Creative Commons Attribution ShareAlike 3.0 Unported
+|publisher = Creative Commons
+|accessdate = 18 November 2009
+}}</ref><ref name="Creative Commons Attribution Non-Commercial Share-Alike 3.0 Unported">{{cite web
+|url =http://creativecommons.org/licenses/by-nc-sa/3.0/
+|title = Creative Commons Attribution Share-Alike 3.0 Unported
+|publisher = Creative Commons
+|accessdate = 18 November 2009
+}}</ref>
+
+[[Richard Stallman]] of the [[Free Software Foundation|FSF]] stated in 2005 that he couldn’t support Creative Commons as an activity because "it adopted some additional licenses which do not give everyone that minimum freedom", that freedom being "the freedom to share, noncommercially, any published work".<ref>{{cite web
+|url = http://www.fsf.org/blogs/rms/entry-20050920.html
+|first = Richard M.
+|last = Stallman
+|title = Fireworks in Montreal
+|publisher = FSF Blogs
+|accessdate = 18 November 2009
+}}</ref> Those licenses have since been retired by Creative Commons.<ref>{{cite web
+|url = https://creativecommons.org/licenses/nc/1.0/
+|title = NonCommercial 1.0 Generic (CC NC 1.0)
+|publisher = Creative Commons
+|accessdate = 13 November 2015
+}}</ref>
+
+===License misuse===
+[[File:CC guidant les contributeurs.jpg|thumb|right|''Creative Commons guiding the contributors''. This image is a derivative work of ''[[Liberty Leading the People]]'' by [[Eugène Delacroix]].]]
+
+Creative Commons is only a service provider for standardized license text, not a party in any agreement. Abusive users can brand the copyrighted works of legitimate copyright holders with Creative Commons licenses and re-upload these works to the internet. No central database of Creative Commons works is controlling all licensed works and the responsibility of the Creative Commons system rests entirely with those using the licences.<ref name="Andrew Orlowski, Tragedy of the Creative Commons" >{{cite web| first= Andrew | last= Orlowski| title= The Tragedy of the Creative Commons| publisher= | url=http://andreworlowski.com/2009/07/16/the-tragedy-of-the-creative-commons/ |date=July 2009}}</ref> This situation is, however, not specific to Creative Commons. All copyright owners must individually defend their rights and no central database of copyrighted works or existing license agreements exists. The [[United States Copyright Office]] does keep a database of all works registered with it, but absence of registration does not imply absence of copyright.
+
+Although Creative Commons offers multiple licenses for different uses, some critics suggested that the licenses still do not address the differences among the media or among the various concerns that different authors have.<ref name="Niva Elkin-Koren, Exploring Creative Commons: A Skeptical View of a Worthy Pursuit" />
+
+Lessig wrote that the point of Creative Commons is to provide a middle ground between two extreme views of copyright protection—one demanding that all rights be controlled, and the other arguing that none should be controlled. Creative Commons provides a third option that allows authors to pick and choose which rights they want to control and which they want to grant to others. The multitude of licenses reflects the multitude of rights that can be passed on to subsequent creators.<ref name="Lawrence Lessig, The Creative Commons" />
+
+===Criticism of the non-commercial license===
+[[Erik Möller]] raised concerns about the use of Creative Commons' non-commercial license. Works distributed under the Creative Commons Non-Commercial license are not compatible with many open-content sites, including Wikipedia, which explicitly allow and encourage some commercial uses. Möller explained that "the people who are likely to be hurt by an -NC license are not large corporations, but small publications like weblogs, advertising-funded radio stations, or local newspapers."<ref name="Erik Moller, The Case for Free Use: Reasons Not to Use a Creative Commons -NC License">{{cite web
+  |url=http://www.opensourcejahrbuch.de/download/jb2006/chapter_06/osjb2006-06-02-en-moeller.pdf
+  |title=The Case for Free Use: Reasons Not to Use a Creative Commons -NC License
+  |author=Erik Moeller
+  |publisher=Open Source Jahrbuch
+  |year=2006
+}}</ref>
+
+Lessig responded that the current copyright regime also harms compatibility and that authors can lessen this incompatibility by choosing the least restrictive license.<ref name="Lawrence Lessig, CC in Review: Lawrence Lessig on Important Freedoms">{{cite web| first= Lawrence| last= Lessig| authorlink=Lawrence Lessig| title= CC in Review: Lawrence Lessig on Important Freedoms | publisher= Creative Commons| url=http://creativecommons.org/weblog/entry/5719 | year=2005 | accessdate=2015-10-20}}</ref> Additionally, the non-commercial license is useful for preventing someone else from capitalizing on an author's work when the author still plans to do so in the future.<ref name="Lawrence Lessig, CC in Review: Lawrence Lessig on Important Freedoms" /><ref>{{cite web|url=https://sites.google.com/site/hmdmhdfmhdjmzdtjmzdtzktdkztdjz/commons|title=On Free, and the Differences between Culture and Code|publisher=[[Chaos Communication Congress|23C3 ''Who can you trust?'']]|year=2006|type=video|id=google video docid=7661663613180520595|accessdate=2014-02-07}}</ref> The non-commercial licenses have also been criticized for being too vague about which uses count as "commercial" and "non-commercial".<ref>{{cite web
+|url=http://www.cnet.com/news/does-the-noncommercial-creative-commons-license-make-sense/
+|title=Does the Noncommercial Creative Commons license make sense?
+|date=2007-11-26|author=Gordon Haff|publisher=[[CNET]]|accessdate=2015-02-22}}</ref><ref>{{cite web
+|url=http://lists.ibiblio.org/pipermail/cc-licenses/2005-April/002215.html
+|title=Use cases for NonCommercial license clause
+|date=2005-04-19|author=Evan Prodromou|authorlink=Evan Prodromou|publisher=cc-licenses mailing list|accessdate=2015-02-22}}</ref>
+
+===Personality rights===
+In 2007, [[Virgin Mobile Australia]] launched a bus stop advertising campaign which promoted its mobile phone text messaging service using the work of amateur photographers who uploaded their work to photo-sharing site [[Flickr]] using a [[Creative Commons Attribution 2.5|Creative Commons by Attribution]] license. Users licensing their images this way freed their work for use by any other entity, as long as the original creator was attributed credit, without any other compensation being required. Virgin upheld this single restriction by printing a URL, leading to the photographer's Flickr page, on each of their ads. However, one picture depicted 15-year-old Alison Chang posing for a photo at her church's fund-raising carwash, with the superimposed, mocking slogan "Dump Your Pen Friend".<ref>{{cite web|url=http://www.out-law.com/page-8494 |title=Lawsuit over Virgin Mobile's use of Flickr girl blames Creative Commons |work=Out-law.com |date=2007-09-25 |accessdate=2013-05-23}}</ref><ref name="permission">{{cite news|first=Noam|last=Cohen|title=Use My Photo? Not Without Permission|url=http://www.nytimes.com/2007/10/01/technology/01link.html|quote=One moment, Alison Chang, a 15-year-old student from Dallas, is cheerfully goofing around at a local church-sponsored car wash, posing with a friend for a photo. Weeks later, that photo is posted online and catches the eye of an ad agency in Australia, and the altered image of Alison appears on a billboard in Adelaide as part of a [[Virgin Mobile]] advertising campaign.|work=[[The New York Times]]|date=2007-10-01|accessdate=2013-07-24}}</ref> Chang sued Virgin Mobile and Creative Commons. The photo was taken by Alison's church youth counsellor, Justin Ho-Wee Wong, who uploaded the image to Flickr under the Creative Commons license.<ref name="permission"/>
+
+{{quote|The case hinges on privacy, the right of people not to have their likeness used in an ad without permission. So, while Mr. Wong may have given away his rights as a photographer, he did not, and could not, give away Alison's [[Personality rights|rights]]. In the lawsuit, which Mr. Wong is also a party to, there is an argument that Virgin did not honor all the terms of the nonrestrictive license.<ref name="permission"/>}}
+
+On 27 November 2007, Chang filed for a voluntary dismissal of the lawsuit against Creative Commons, focusing their lawsuit against Virgin Mobile.<ref>{{cite news|last=Gross|first=Grant|title=Lawsuit Against Creative Commons Dropped|work=[[PC World]]|date=2007-12-01|url=http://www.pcworld.com/businesscenter/article/140189/lawsuit_against_creative_commons_dropped.html|accessdate=2008-05-25}}</ref> The case was thrown out of court due to lack of jurisdiction and subsequently Virgin Mobile did not incur any damages towards the defendant.<ref>{{cite news|last=LaVine|first=Lindsay|title=Use Photos in Advertisements? Take These Steps to Avoid a Lawsuit|url=http://www.nbcnews.com/id/50261013/ns/business-small_business/t/use-photos-advertisements-take-these-steps-avoid-lawsuit/|accessdate=2013-07-24|newspaper=[[NBC News]]|date=2012-12-20}}</ref>
+
+==See also==
+<div style="column-count:2; -moz-column-count:2; -webkit-column-count:2;">
+*[[Free culture movement]]
+*[[Open access]]
+*[[Open content]]
+*[[Open source]]
+</div>
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+*  {{Cite journal
+  |last=Ardito  |first=Stephanie C.
+  |title=Public-Domain Advocacy Flourishes
+  |journal=Information Today
+  |volume=20  |issue=7 |year=2003
+  |pages=17, 19
+  |ref=Ardito, Public-Domain Advocacy Flourishes
+}}
+*Asschenfeldt, Christiane. "[http://indico.cern.ch/conferenceDisplay.py?confId=a035925 Copyright and Licensing Issues—The International Commons.]" In ''CERN Workshop Series on Innovations in Scholarly Communication: Implementing the Benefits of OAI (OAI3), 12–14 February 2004 at CERN, Geneva, Switzerland''. Geneva: CERN, 2004. (video)
+*Brown, Glenn Otis. "[https://web.archive.org/web/20110614224322/http://www.syllabus.com/article.asp?id=7475 Academic Digital Rights: A Walk on the Creative Commons.]" ''Syllabus Magazine'' (April 2003).
+*"[http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0000009 Out of the Way: How the Next Copyright Revolution Can Help the Next Scientific Revolution.]" ''PLoS Biology'' 1, no. 1 (2003): 30–31.
+*Chillingworth, Mark. "[https://web.archive.org/web/20100228042054/http://www.iwr.co.uk/iwreview/1155821/ Creative Commons Attracts BBC's Attention.]" ''Information World Review'', 11 June 2004.
+*Conhaim, Wallys W. "[http://newsbreaks.infotoday.com/nbreader.asp?ArticleID=17167 Creative Commons Nurtures the Public Domain.]" ''Information Today'' 19, no. 7 (2002): 52, 54.
+* {{Cite journal
+  |url=http://xml.coverpages.org/ni2004-04-28-a.html
+  |title=Delivering Classics Resources with TEI-XML, Open Source, and Creative Commons Licenses
+  |journal=Cover Pages
+  |date=28 April 2004
+  |ref=Cover Pages, Delivering Classics Resources
+}}
+*Denison, D.C. "For Creators, An Argument for Alienable Rights." ''Boston Globe'', 22 December 2002, E2.
+* {{cite web
+  |last=Ermert  |first=Monika
+  |url=http://www.theregister.co.uk/2004/06/15/german_creative_commons/
+  |title=Germany Debuts Creative Commons
+  |publisher=The Register
+  |date=15 June 2004
+  |ref=Ermert, Germany Debuts Creative Commons
+}}
+*Fitzgerald, Brian, and Ian Oi. "[http://eprints.qut.edu.au/122/ Free Culture: Cultivating the Creative Commons.]" (2004).
+* Hietanen, Herkko "[https://www.doria.fi/handle/10024/42778 The Pursuit of Efficient Copyright Licensing — How Some Rights Reserved Attempts to Solve the Problems of All Rights Reserved]" (2008) PhD dissertation.
+*Johnstone, Sally M. "Sharing Educational Materials Without Losing Rights." ''Change'' 35, no. 6 (2003): 49–51.
+*{{Cite journal
+  |last=Lessig |first=Lawrence |authorlink=Lawrence Lessig
+  |year=2003
+  |title=The Creative Commons
+  |journal=Florida Law Review
+  |volume=55
+  |pages=763–777
+}}
+* Möller Erik, [https://web.archive.org/web/20080410233936/http://www.opensourcejahrbuch.de/download/jb2006/chapter_06/osjb2006-06-02-en-moeller.pdf The Case for Free Use: Reasons Not to Use a Creative Commons -NC License], in [http://www.opensourcejahrbuch.de/ Open Source Jahrbuch 2006].
+*{{cite news
+  |last=Plotkin  |first=Hal
+  |url=http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2002/02/11/creatcom.DTL
+  |title=All Hail Creative Commons: Stanford Professor and Author Lawrence Lessig Plans a Legal Insurrection
+  |publisher=SFGate
+  |date=11 February 2002
+  |ref=Plotkin, All Hail Creative Commons
+}}
+* Richard, Phillip, [http://www.thembj.org/2012/10/copyright-inefficiency/ "Copyright Inefficiency"], ''Music Business Journal'', [[Berklee College of Music]] (Oct. 2012)
+*{{Cite journal|last=Schloman |first=Barbara F. |url=http://nursingworld.org/ojin/infocol/info_12.htm |title=Creative Commons: An Opportunity to Extend the Public Domain |journal=Online Journal of Issues in Nursing |date=13 October 2003 |ref=Schloman, Creative Commons |deadurl=yes |archiveurl=https://web.archive.org/web/20031022095028/http://nursingworld.org/ojin/infocol/info_12.htm |archivedate=October 22, 2003 }}
+*{{Cite journal
+  |doi=10.1038/scientificamerican0303-46
+  |last=Stix  |first=Gary
+  |url=http://www.sciam.com/article.cfm?chanID=sa006&colID=7&articleID=000C2691-4F88-1E40-89E0809EC588EEDF
+  |archiveurl=https://web.archive.org/web/20050915115752/http://www.sciam.com/article.cfm?chanID=sa006&colID=7&articleID=000C2691-4F88-1E40-89E0809EC588EEDF
+  |archivedate=2005-09-15
+  |title=Some Rights Reserved
+  |journal=[[Scientific American]]
+  |volume=288
+  |date=March 2003
+  |issue=3
+
+  |page=46
+  |ref=Stix, Some Rights Reserved
+}}
+*Weitzman, Jonathan B., and Lawrence Lessig. "[http://wayback.archive.org/web/20070530042929/http://www.biomedcentral.com/openaccess/archive/?page=features&issue=16 Open Access and Creative Common Sense.]" ''Open Access Now'', 10 May 2004.
+
+==External links==
+{{sisterlinks|commons=Category:Creative Commons|s=Category:Creative Commons|n=no|b=no|v=Creative Commons|voy=no|species=no|wikt=Creative Commons|d=Q43449|q=Creative Commons}}
+*{{Official website|name = Creative Commons}}
+*[https://wiki.creativecommons.org/ Creative Commons wiki]
+*[http://mirrors.creativecommons.org/ Short Flash animation describing Creative Commons]
+{{Creative Commons}}
+{{Intellectual property activism}}
+{{Open movements}}
+
+{{Authority control}}
+
+[[Category:Creative Commons| ]]
+[[Category:Computer law organizations]]
+[[Category:Copyleft]]
+[[Category:Copyright law organizations]]
+[[Category:Intellectual property organizations]]
+[[Category:Organizations established in 2001]]
+[[Category:501(c)(3) nonprofit organizations]]

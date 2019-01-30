@@ -1,0 +1,464 @@
+Costa Rica
+
+{{for|cities in other countries|Costa Rica, Sinaloa|Costa Rica, Mato Grosso do Sul}}
+{{pp-move-indef}}
+{{pp-semi-vandalism|small=yes}}
+{{Coord|10|N|84|W|display=title}}
+{{Infobox country
+ | conventional_long_name   = Republic of Costa Rica
+ | native_name              = ''República de Costa Rica''
+ | common_name              = Costa Rica
+ | image_flag               = Flag of Costa Rica.svg
+ | image_coat               = Coat of arms of Costa Rica.svg
+ | image_map                = Costa Rica (orthographic projection).svg
+ | image_map2       = Map of Costa Rica.svg|frameless|upright=1.3
+ | national_motto           = 
+ | national_anthem          = {{native phrase|es|"[[Noble patria, tu hermosa bandera]]"|italics=off}}<br />{{small|"Noble motherland, your beautiful flag"}}<br /><center>[[File:Costa Rica National Anthem.ogg]]</center>
+ | official_languages       = [[Spanish language|Spanish]]
+ | regional_languages       = {{hlist |[[Limonese Creole|Mekatelyu]] |[[Bribri language|Bribri]] |[[Jamaican Patois|Patois]]}}
+ | demonym                  = {{hlist |[[Costa Rican people|Costa Rican]] |[[Tico]]}}
+ | religion                 = [[Roman Catholicism in Costa Rica|Roman Catholicism]] 
+ | ethnic_groups            = {{vunblist
+  | {{nowrap|83.6% [[White people|White]] or [[Mestizo]]}}
+  |  6.7% [[Mulatto]]
+  |  2.4% [[Indigenous peoples of the Americas|Amerindian]]
+  |  1.1% [[Black people|Black]]
+  |  1.1% other
+  |  2.9% none 
+  |  2.2% unspecified
+ }}
+ | ethnic_groups_year       = 2011<ref name=CIA/>
+ | capital                  = [[San José, Costa Rica|San José]]
+ | latd                     = 9 |latm=56 |latNS=N |longd=84 |longm=5 |longEW=W
+ | largest_city             = capital
+ | government_type          = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[constitutional republic]]
+ | leader_title1            = [[President of Costa Rica|President]]
+ | leader_name1             = [[Luis Guillermo Solís]]
+ | leader_title2            = [[Vice President of Costa Rica|1st Vice-President]]
+ | leader_name2             = [[Helio Fallas Venegas]]
+ | leader_title3            = [[Vice President of Costa Rica|2nd Vice-President]]
+ | leader_name3             = [[Ana Helena Chacón Echeverría]]
+ | legislature              = [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+ | area_rank                = 128th
+ | area_magnitude           = 1 E10
+ | area                     = {{convert|51100|km2|sqmi|abbr=on}}
+ | area_km2                 = 51,100
+ | area_sq_mi               = 19,653
+ | percent_water            = 0.7
+ | population_census        = 4,586,353<ref name=2011Census>{{cite web |url=http://www.elfinancierocr.com/economia-y-politica/Censo_2011-INEC-Centro_Centroamericano_de_Poblacion-correccion_0_266373372.html |title=Costa Rica tiene 4,6 millones de habitantes, según corrección del Censo 2011 |author=El Financiero |publisher=El Financiero, Costa Rica |date=2013-03-20 |accessdate=2013-05-23 |language=Spanish}}</ref>
+ | population_estimate_rank = 123rd
+ | population_census_year   = 2011
+ | population_density_km2   = 84<ref name=2011Census/>
+ | population_density_sq_mi = 220 <!--Do not remove per [[WP:MOSNUM]]-->
+ | population_density_rank  = 107th
+ | GDP_PPP                  = $74.324 billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?sy=2013&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=71&pr1.y=12&c=238&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Costa Rica |publisher=International Monetary Fund |accessdate=2015-09-05}}</ref>
+ | GDP_PPP_year             = 2015
+ | GDP_PPP_per_capita       = $15,365<ref name=imf2/>
+ | GDP_PPP_per_capita_rank  = 
+ | GDP_nominal              = $52.800 billion<ref name=imf2/>
+ | GDP_nominal_year         = 2015
+ | GDP_nominal_per_capita   = $10,916<ref name=imf2/>
+ | sovereignty_type         = Independence declared
+ | established_event1       = from [[Spain]]
+ | established_date1        = September 15, 1821
+ | established_event2       = from [[First Mexican Empire]]
+ | established_date2        = July 1, 1823
+ | established_event3       = {{nowrap|from the [[Central American Federation|United Provinces<br>of Central America]]}}
+ | established_date3        = 1838
+ | established_event4       = Recognized by Spain
+ | established_date4        = May 10, 1850
+ | established_event5       = Constitution
+ | established_date5        = November 7, 1949<ref name=CIA>{{cite web |author=Central Intelligence Agency |title=Costa Rica |work=The World Factbook |publisher=Central Intelligence Agency |location=Langley, Virginia |year=2011 |url=https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html |accessdate=2011-10-04}}</ref>
+ | Gini_year                = 2009
+ | Gini_change              = <!--increase/decrease/steady-->
+ | Gini                     = 40.7 <!--number only-->
+ | Gini_ref                 = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2011-03-02}}</ref>
+ | Gini_rank                = 
+ | HDI_year                 = 2014<!-- Please use the year to which the data refers, not the publication year-->
+ | HDI_change               = increase <!--increase/decrease/steady-->
+ | HDI                      = 0.766 <!--number only-->
+ | HDI_ref                  = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report |date=2015 |accessdate=14 December 2015 |publisher=United Nations Development Programme }}</ref>
+ | HDI_rank                 = 69th
+ | currency                 = [[Costa Rican colón]]
+ | currency_code            = CRC
+ | country_code             = 
+ | time_zone                = [[Central Time Zone|CST]]
+ | utc_offset               = −6
+ | drives_on                = right
+ | calling_code             = [[+506]]
+ | cctld                    = [[.cr]]
+                              [[.co.cr]]
+}}
+
+'''Costa Rica''' ({{IPAc-en|audio=En-us-Costa Rica.ogg|ˌ|k|ɒ|s|t|ə|_|ˈ|r|iː|k|ə}}; {{IPA-es|ˈkosta ˈrika|lang}}; literally meaning, "Rich Coast"), officially the '''Republic of Costa Rica''' ({{lang-es|República de Costa Rica}}),<!-- {{IPA-es|reˈpuβlika ðe ˈkosta ˈrika|}} --> is a country in [[Central America]], bordered by [[Nicaragua]] to the north, [[Panama]] to the southeast, the Pacific Ocean to the west, the [[Caribbean Sea]] to the east, and [[Ecuador]] to the south of [[Cocos Island]]. It has a population of around 4.5 million, of whom nearly a quarter live in the metropolitan area of the capital and largest city, [[San José, Costa Rica|San José]].
+
+Costa Rica was sparsely inhabited by indigenous people before coming under [[Spanish Empire|Spanish rule]] in the 16th century. It remained a peripheral colony of the empire until independence as part of the short-lived [[First Mexican Empire]], followed by membership in the [[United Provinces of Central America]], from which it formally declared sovereignty in 1847. Since then, Costa Rica has remained among the most stable, prosperous, and progressive nations in Latin America. Following a [[Costa Rican Civil War|brief but bloody civil war]], it permanently [[Military of Costa Rica|abolished its army]] in 1949, becoming the first of only a few sovereign [[List of countries without armed forces|nations without a standing army]].<ref>{{cite web|url=http://www.elespiritudel48.org/docu/h013.htm|author=El Espíritu del 48|title=Abolición del Ejército|accessdate=2008-03-09|language=Spanish}}</ref><ref>{{cite web|accessdate=2009-06-09|url=http://dev.prenhall.com/divisions/hss/worldreference/CR/defense.html|title=Costa Rica|publisher=World Desk Reference}}</ref><ref>{{cite web|accessdate=2009-06-09|url=http://www.ucdp.uu.se/gpdatabase/gpcountry.php?id=39&regionSelect=4-Central_Americas|title=Costa Rica|publisher=Uppsala University}}</ref>
+
+Costa Rica has consistently performed favorably in the [[Human Development Index]] (HDI), placing 69th in the world {{As of|2015|lc=y}}, among the highest of any Latin American nation.<ref name=HDI12>{{cite web |title=Costa Rica – Country Profile: Human Development Indicators|url=http://hdr.undp.org/en/countries/profiles/CRI|accessdate=2016-04-05 |publisher=[[UNDP]] |author=UNDP Human Development Report 2015}}</ref> It has also been cited by the [[United Nations Development Programme]] (UNDP) as having attained much higher human development than other countries at the same income levels, with a better record on human development and inequality than the median of the region.<ref name=HDI10>{{cite book|title=Table 1: Human development index 2010 and its components|url=http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf|archiveurl=https://web.archive.org/web/20101108160356/http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf|archivedate=2010-11-08|format=PDF|accessdate=2010-11-06|author=UNDP Human Development Report 2010|pages= 5, 49, 144}}</ref> Its rapidly developing economy, once heavily dependent on agriculture, has diversified to include sectors such as finance, pharmaceuticals, and [[ecotourism]].
+
+Costa Rica is known for its progressive environmental policies, being the only country to meet all five criteria established to measure environmental sustainability.<ref name=HDI11>{{cite web |title=Table 1: Human Development Index and its components.
+|url=http://hdr.undp.org/en/countries/profiles/CRI|accessdate=2016-04-05 |publisher=[[UNDP]] |author=UNDP Human Development Report 2015}} ''pp. 4, 42 (see Table 2.4 and Box 2.10) and 128''.</ref> It was ranked 42nd in the world, and third in the Americas, in the 2016 [[Environmental Performance Index]],<ref name=EPI2012>{{cite web|title=2016 EPI Country Rankings|url= http://epi.yale.edu/country-rankings|accessdate=2016-04-05| author=Yale Center for Environmental Law & Policy / Center for International Earth Science Information Network at Columbia University}}</ref> was twice ranked the best performing country in the [[New Economics Foundation]]'s (NEF) [[Happy Planet Index]], which measures environmental sustainability,<ref name=HPI01>{{cite news|url=http://www.nacion.com/2012-06-14/AldeaGlobal/Costa-Rica-es-nuevamente-el-pais-mas-feliz-del-mundo--segun-indice--Happy-Planet-.aspx|title=Costa Rica es nuevamente el país más feliz del mundo, según índice 'Happy Planet'|language=Spanish|trans_title=Costa Rica once again the happiest nation of the world, according to the Happy Planet Index|author=Irene Rodríguez|work=[[La Nación (San José)|La Nación]]|date=2012-06-14|accessdate=2012-06-14}}</ref><ref name=HPI02>{{cite news|url=http://www.guardian.co.uk/environment/2012/jun/14/uk-happy-index-developed-world|title=UK citizens better off than EU counterparts, says happiness index |author= Fiona Harvey|work=[[The Guardian]]|date=2012-06-14|accessdate=2012-06-14}}</ref> and was identified by the NEF as the [[Environmentally friendly|greenest]] country in the world in 2009.<ref>{{cite news | title= Costa Rica is the world's happiest and greenest country in the world | url =http://www.guardian.co.uk/environment/2009/jul/04/costa-rica-happy-planet-index |author=Ashley Seager |date=2008-07-04 |publisher=The Guardian|accessdate = 2009-07-04 | location=London}}</ref> Costa Rica officially plans to become a [[carbon neutral|carbon-neutral]] country by 2021.<ref>{{cite news | title= Costa Rica Aims to Be a Carbon-Neutral Nation | url =http://www.npr.org/templates/story/story.php?storyId=19141333 | author=John Burnett |date=2008-02-18 |publisher= National Public Radio (NPR.org)|accessdate = 2009-04-27}}</ref><ref>{{cite news | title= Costa Rica Aims to Become First "Carbon Neutral" Country | url =http://www.worldwatch.org/node/4958 | author=Alana Herro |publisher=[[Worldwatch Institute]]|date=2007-03-12|accessdate = 2009-04-27}}</ref><ref>{{cite news | title= País quiere ser primera nación con balance neutro de carbono | url =http://nacion.com/ln_ee/2007/febrero/21/aldea1002694.html | archiveurl =https://web.archive.org/web/20090216202509/http://nacion.com/ln_ee/2007/febrero/21/aldea1002694.html | archivedate =2009-02-16 | publisher=[[La Nación (San José)|La Nación]]|author=Alejandro Vargas|date=2007-02-21|accessdate = 2009-04-27| language=Spanish}}</ref> In 2012, it became the first country in the Americas to ban recreational hunting.<ref>[http://www.rawstory.com/rs/2012/10/03/costa-rica-set-to-ban-hunting-a-first-in-the-americas/ Costa Rica set to ban hunting, a first in the Americas]. The Raw Story (2012-10-03). Retrieved on 2013-08-16.</ref><ref>[http://elpais.cr/frontend/noticia_detalle/1/73259 Costa Rica se convierte en primer país del continente en prohibir la cacería deportiva – Diario Digital Nuestro País]. Elpais.cr. Retrieved on 2013-08-16.</ref>
+
+== History ==
+{{Main|History of Costa Rica}}
+
+[[File:Stone sphere.jpg|thumb|A stone sphere created by the [[Diquis culture]] at the [[Museo Nacional de Costa Rica|National Museum of Costa Rica]]. [[Stone spheres of Costa Rica|The sphere]] is the icon of the country's cultural identity.]]
+
+=== Pre-Columbian period ===
+Historians have classified the [[Indigenous peoples of the Americas|indigenous people]] of Costa Rica as belonging to the [[Intermediate Area]], where the peripheries of the [[Mesoamerican]] and [[Andean]] native cultures overlapped. More recently, [[Pre-Columbian era|pre-Columbian]] Costa Rica has also been described as part of the [[Isthmo-Colombian Area]].
+
+The oldest evidence (stone tool making) of human occupation in Costa Rica is associated with the arrival of various groups of [[hunter-gatherer]]s about 10,000 to 7,000 years [[Before Common Era|BCE]] in the [[Turrialba|Turrialba Valley]]. The presence of [[Clovis culture]] type spearheads and arrows from [[South America]] opens the possibility that, in this area, two different cultures coexisted.<ref name=precolumbian1>{{harvnb|Botey Sobrado|2002| pp=30–31|sp=yes}}</ref>
+
+Agriculture became evident in the populations that lived in Costa Rica about 5,000 years ago. They mainly grew [[tubers]] and roots (like carrots). For the first and second millennia BCE there were already settled farming communities. These were small and scattered, although the transition from hunting and gathering to agriculture as the main livelihood in the territory is still unknown.<ref name=precolumbian2>{{harvnb|Botey Sobrado|2002| p=32|sp=yes}}</ref>
+
+The earliest use of [[pottery]] appears around 2,000 to 3,000 BCE. Shards of pots, cylindrical vases, platters, gourds and other forms of vases decorated with grooves, prints, and some modelled after animals have been found.<ref name=precolumban3>{{harvnb|Botey Sobrado|2002| pp=32–33|sp=sí}}</ref>
+ 
+The impact of indigenous peoples on modern Costa Rican culture has been relatively small compared to other nations, since the country lacked a strong native civilization to begin with. Most of the native population was absorbed into the Spanish-speaking colonial society through inter-marriage, except for some small remnants, the most significant of which are the [[Bribri people|Bribri]] and [[Boruca people|Boruca]] tribes who still inhabit the mountains of the [[Cordillera de Talamanca]], in the southern part of Costa Rica, near the frontier with [[Panama]].
+
+=== Spanish colonization ===
+Accounts differ as to whether the name ''la costa rica'' (Spanish for "rich coast") was first applied by [[Christopher Columbus]], who sailed to the eastern shores of Costa Rica during his final voyage in 1502,<ref name="embassy">{{cite web | title=About Costa Rica | work=Embassy of Costa Rica in Washington DC | url=http://www.costarica-embassy.org/index.php?q=node/19 | accessdate=2012-09-18 }}</ref> and reported the presence of vast quantities of gold jewelry among the natives,<ref name="lp">{{cite web | title=History of Costa Rica | work=Lonely Planet | url=http://www.lonelyplanet.com/costa-rica/history | accessdate=2012-09-18 }}</ref> or by the conquistador [[Gil González Dávila]], who landed on the west coast in 1522, met with the natives, and appropriated some of their gold.<ref name="dk">{{cite book |year=2010 | page=42 |title=DK Eyewitness Travel Guide: Costa Rica}}</ref>
+
+[[File:Iglesia Inmaculada Concepcion Ujarras.jpg|thumb|The [[Ujarrás]] historical site in the Orosí Valley, [[Cartago province]]. The church was built between 1686 and 1693.]]
+During most of the colonial period, Costa Rica was the southernmost province of the [[Captaincy General of Guatemala]], which was nominally part of the [[New Spain|Viceroyalty of New Spain]], but which, in practice, operated as a largely autonomous entity within the [[Spanish Empire]]. Costa Rica's distance from the capital in [[Guatemala]], its legal prohibition under Spanish law to trade with its southern neighbors in Panama, then part of the [[Viceroyalty of New Granada]] (i.e., [[Colombia]]), and the lack of resources such as gold and silver, made Costa Rica into a poor, isolated, and sparsely inhabited region within the Spanish Empire.<ref>{{cite book | title= Claudia Quirós. La Era de la Encomienda. Historia de Costa Rica. Editorial de la Universidad de Costa Rica. 1990.}}</ref> Costa Rica was described as "the poorest and most miserable Spanish colony in all America" by a Spanish governor in 1719.<ref>{{cite book |author=Shafer, D. Michael |title=Winners and losers: how sectors shape the developmental prospects of states |publisher=Cornell University Press |location=Ithaca, N.Y. |year=1994|isbn=0-8014-8188-0}}</ref>
+
+Another important factor behind Costa Rica's poverty was the lack of a significant indigenous population available for [[encomienda]] (forced labor), which meant most of the Costa Rican settlers had to work on their own land, preventing the establishment of large ''[[hacienda]]s'' (plantations). For all these reasons, Costa Rica was, by and large, unappreciated and overlooked by the [[Habsburg Spain|Spanish Crown]] and left to develop on its own. The circumstances during this period are believed to have led to many of the idiosyncrasies for which Costa Rica has become known, while concomitantly setting the stage for Costa Rica's development as a more egalitarian society than the rest of its neighbors. Costa Rica became a "rural democracy" with no oppressed [[mestizo]] or indigenous class. It was not long before Spanish settlers turned to the hills, where they found rich volcanic soil and a milder climate than that of the lowlands.<ref>{{cite web|url=http://www.costarica.com/Destinations/Cities-and-Towns/Cartago/ |title=Costa Rica – Cartago |publisher=Costarica.com |date=2009-05-22 |accessdate=2010-06-26}}</ref>
+
+=== Independence ===
+Like the rest of Central America, Costa Rica never fought for independence from Spain. On September 15, 1821, after the final Spanish defeat in the [[Mexican War of Independence]] (1810–21), the authorities in Guatemala declared the independence of all of Central America. That date is still celebrated as Independence Day in Costa Rica, even though, technically, under the [[Spanish Constitution of 1812]] that had been readopted in 1820, [[Nicaragua]] and Costa Rica had become an autonomous province with its capital in [[León, Nicaragua|León]].
+
+Upon independence, Costa Rican authorities faced the issue of officially deciding the future of the country. Two bands formed, the Imperialists, defended by [[Cartago, Costa Rica|Cartago]] and [[Heredia Province|Heredia cities]] which were in favor of joining the [[First Mexican Empire|Mexican Empire]], and the Republicans, represented by the cities of [[San José, Costa Rica|San José]] and [[Alajuela]] who defended full independence. Because of the lack of agreement on these two possible outcomes, the first civil war of Costa Rica occurred. The Battle of Ochomogo, which took place on the Hill of Ochomogo, located in the [[Costa Rican Central Valley|Central Valley]] in 1823. The conflict was won by the Republicans and as a consequence, the city of [[Cartago, Costa Rica|Cartago]] lost its status as the capital, which moved to [[San José, Costa Rica|San José]].<ref>{{Cite book|title = Cartilla Histórica de Costa Rica|publisher = EUNED|year = 2005|isbn = 9789968313759|location = |pages = }}</ref><ref>{{Cite book|title = Apuntes para la historia de la ciudad de Alajuela|last = Alarmvogel.|publisher = Impr. Nacional|year = 1966|isbn = |location = San José, Costa Rica|pages = |oclc = 14462048}}</ref><ref>Obregón Loría, Rafael. "Hechos Militares y Políticos de Nuestra Historia Patria". Museo Histórico Cultural Juan Santamaría, Costa Rica, 1981.</ref>
+[[File:First postal stamp CR 4 Reales 1863.jpg|thumb|The 1849 [[Coat of arms of Costa Rica|national coat of arms]] was featured in the first postal stamp issued in 1862]]
+
+In 1838, long after the Federal Republic of Central America ceased to function in practice, Costa Rica formally withdrew and proclaimed itself sovereign. The considerable distance and poor communication routes between [[Guatemala City]] and the Central Plateau, where most of the Costa Rican population lived then and still lives now, meant the local population had little allegiance to the federal government in Guatemala. From colonial times to now, Costa Rica's reluctance to become politically tied with the rest of Central America has been a major obstacle to efforts for greater regional integration.
+
+=== Economic growth ===
+Coffee was first planted in Costa Rica in the early 19th century, and was first shipped to Europe in 1843, soon becoming Costa Rica's first major export. Coffee production would remain Costa Rica's principal source of wealth well into the 20th century. Most of the coffee exported was grown around the main centers of population in the Central Plateau and then transported by [[Bullock cart|oxcart]] to the [[Pacific Ocean|Pacific]] port of [[Puntarenas]]. Since the main market for the coffee was in Europe, it soon became a high priority to develop a transportation route from the Central Plateau to the Atlantic Ocean. For this purpose, in the 1870s, the Costa Rican government contracted with U.S. businessman [[Minor C. Keith]] to build a railroad to the [[Western Caribbean Zone|Caribbean]] port of [[Limón]]. Despite enormous difficulties with construction, disease, and financing, the railroad was completed in 1890.
+
+Most Afro-Costa Ricans, who constitute about 3% of the country's population, descend from [[Jamaica]]n immigrants who worked in the construction of that railway.<ref>{{cite news| title= Blacks of Costa Rica |url =http://www.everyculture.com/Middle-America-Caribbean/Blacks-of-Costa-Rica.html | work =World Culture Encyclopedia | accessdate = 2007-11-23}}</ref> U.S. convicts, Italians and Chinese immigrants also participated in the construction project. In exchange for completing the railroad, the Costa Rican government granted Keith large tracts of land and a lease on the train route, which he used to produce bananas and export them to the United States. As a result, bananas came to rival coffee as the principal Costa Rican export, while foreign-owned corporations (including the [[United Fruit Company]]) began to hold a major role in the national economy.{{Citation needed|date=July 2011}}
+
+==== 20th century ====
+Historically, Costa Rica has generally enjoyed greater peace and more consistent political stability compared with many of its fellow Latin American nations. Since the late 19th century, however, Costa Rica has experienced two significant periods of violence. In 1917–19, General [[Federico Tinoco Granados]] ruled as a military dictator until he was overthrown and forced into exile. The unpopularity of Tinoco's regime led, after he was overthrown, to a considerable decline in the size, wealth, and political influence of the Costa Rican military. In 1948, [[José Figueres Ferrer]] led an armed uprising in the wake of a disputed presidential election between the previous president [[Rafael Ángel Calderón Guardia]] (he served as president between 1940 and 1944) and [[Otilio Ulate Blanco]].<ref>See [http://reachian.googlepages.com/seniorthesis2 Ian Holzhauer, "The Presidency of Calderón Guardia" (University of Florida History Thesis, 2004)]</ref> With more than 2,000 dead, the resulting 44-day [[Costa Rican Civil War]] was the bloodiest event in Costa Rica during the 20th century.
+
+The victorious rebels formed a government junta that [[military of Costa Rica|abolished the military]] altogether, and oversaw the drafting of a new constitution by a democratically elected assembly.<ref>"[http://www.nytimes.com/2010/01/07/opinion/07kristof.html?_r=1 The Happiest People]". The New York Times. January 6, 2010.</ref> Having enacted these reforms, the junta relinquished its power on November 8, 1949, to the new democratic government. After the ''coup d'état'', Figueres became a national hero, winning the country's first democratic election under the new constitution in 1953. Since then, Costa Rica has held 14 presidential elections, the latest [[Costa Rican general election, 2014|in 2014]]. All of them have been widely regarded by the international community as peaceful and transparent.{{citation needed|date=May 2014}} With uninterrupted democracy dating back to at least 1948, the country is the region's most stable.
+
+== Geography ==
+[[File:Costa Rica map of Köppen climate classification.svg|thumb|Costa Rica map of Köppen climate classification.]]
+{{Main|Geography of Costa Rica}}
+[[File:Arenal Volcano as seen from Monteverde.jpg|thumb|[[Arenal Volcano]]]]
+Costa Rica is located on the Central American [[isthmus]], lying between latitudes [[8th parallel north|8°]] and [[12th parallel north|12°N]], and longitudes [[82nd meridian west|82°]] and [[86th meridian west|86°W]]. It borders the [[Caribbean Sea]] (to the east) and the Pacific Ocean (to the west), with a total of {{convert|1290|km|mi}} of coastline, {{convert|212|km|mi|abbr=on}} on the Caribbean coast and {{convert|1016|km|mi|abbr=on}} on the Pacific. Costa Rica also borders [[Nicaragua]] to the north ({{convert|309|km|mi|abbr=on|disp=or}} of border) and [[Panama]] to the south-southeast ({{convert|330|km|mi|abbr=on|disp=or}} of border). In total, Costa Rica comprises {{convert|51100|km2|sqmi}} plus {{convert|589|km2|sqmi}} of [[territorial waters]].
+
+The highest point in the country is [[Cerro Chirripó]], at {{convert|3819|m|ft}}; it is the fifth highest peak in Central America. The highest volcano in the country is the [[Irazú Volcano]] ({{convert|3431|m|ft|abbr=on|disp=or}}) and the largest lake is [[Lake Arenal]]. There are 14 known volcanoes in Costa Rica, and six of them have been active in the last 75 years.<ref>[[List of volcanoes in Costa Rica]]</ref>  The country has also experienced at least ten earthquakes of magnitude 5.7 or higher (3 of magnitude 7.0 or higher) in the last century.<ref>[[List of earthquakes in Costa Rica]]</ref>
+
+Costa Rica also comprises several islands. [[Cocos Island]] ({{convert|24|km2|sqmi|disp=or}}) stands out because of its distance from the continental landmass, {{convert|300|mi|km|abbr=on}} from [[Puntarenas]], but [[Calero Island]] is the largest island of the country ({{convert|151.6|km2|sqmi|disp=or}}). Over 25% of Costa Rica's national territory is protected by [[SINAC]] (the National System of Conservation Areas), which oversees all of the country's [[List of Conservation Areas of Costa Rica|protected areas]]. Costa Rica also possesses the greatest density of species in the world.<ref>{{cite web|url=http://www.inbio.ac.cr/es/biod/estrategia/estudio.html |title=estudiofi |publisher=Inbio.ac.cr |accessdate=2010-06-26}}</ref>
+
+=== Climate ===
+Because Costa Rica is located between 8 and 12 degrees north of the [[Equator]], the climate is [[Tropical climate|tropical]] year round. However, the country has many [[microclimate]]s depending on elevation, rainfall, topography, and by the geography of each particular region.
+
+Costa Rica's seasons are defined by how much rain falls during a particular period. The year can be split into two periods, the dry season known to the residents as summer, and the rainy season, known locally as winter. The "summer" or dry season goes from December to April, and "winter" or rainy season goes from May to November, which almost coincides with the [[List of Atlantic hurricane seasons|Atlantic hurricane season]], and during this time, it rains constantly in some regions.
+
+The location receiving the most rain is the Caribbean slopes of the [[Cordillera Central, Costa Rica|Central Cordillera]] mountains, with an annual rainfall of over {{convert|5000|mm|1|abbr=on}}. Humidity is also higher on the Caribbean side than on the Pacific side. The mean annual temperature on the coastal lowlands is around {{convert|27|°C|0|abbr=on}}, {{convert|20|°C|0|abbr=on}} in the main populated areas of the Central Cordillera, and below {{convert|10|°C|0|abbr=on}} on the summits of the highest mountains.<ref>{{cite web|last=Eggar|first=Marc|title=Climate/Weather|url=http://www.worldheadquarters.com/cr/climate/|accessdate=28 June 2011}}</ref>
+{{weather box
+| location = Costa Rica
+| source = <ref>"[http://www.costaricaguides.com/Climate.html Costa Rica Weather]". Costa Rica Guides</ref>
+|metric first=yes
+|single line=yes
+|Jan high C=27
+|Feb high C=27
+|Mar high C=28
+|Apr high C=28
+|May high C=27
+|Jun high C=27
+|Jul high C=27
+|Aug high C=27
+|Sep high C=26
+|Oct high C=26
+|Nov high C=26
+|Dec high C=26
+|Jan low C=17
+|Feb low C=18
+|Mar low C=18
+|Apr low C=18
+|May low C=18
+|Jun low C=18
+|Jul low C=18
+|Aug low C=18
+|Sep low C=17
+|Oct low C=18
+|Nov low C=18
+|Dec low C=18
+|Jan precipitation mm=6.3
+|Feb precipitation mm=10.2
+|Mar precipitation mm=13.8
+|Apr precipitation mm=79.9
+|May precipitation mm=267.6
+|Jun precipitation mm=280.1
+|Jul precipitation mm=181.5
+|Aug precipitation mm=276.9
+|Sep precipitation mm=355.1
+|Oct precipitation mm=330.6
+|Nov precipitation mm=135.5
+|Dec precipitation mm=33.5
+|Jan percentsun=40
+|Feb percentsun=37
+|Mar percentsun=39
+|Apr percentsun=33
+|May percentsun=25
+|Jun percentsun=20
+|Jul percentsun=21
+|Aug percentsun=22
+|Sep percentsun=20
+|Oct percentsun=22
+|Nov percentsun=25
+|Dec percentsun=34
+}}
+
+=== Flora and fauna ===
+[[File:Red eyed tree frog edit2.jpg|thumb|Red-eyed Tree Frog (''[[Agalychnis callidryas]]'')]]
+[[File:HeliconiusDorisLinnaeus.jpg|thumb|''[[Heliconius doris]]'' Linnaeus butterfly of Costa Rica]]
+{{Further|Wildlife of Costa Rica}}
+Costa Rica is home to a rich variety of plants and animals. While the country has only about 0.1% of the world's landmass, it contains 5% of the world's [[biodiversity]].<ref name="Guardian07">{{cite news |url=http://www.guardian.co.uk/travel/2007/may/26/saturday.costarica | publisher=The Guardian |title= Shades of green |author= Leo Hickman |date=2007-05-26|accessdate=2008-06-08 | location=London}}</ref><ref name="Honey99">{{Cite journal | last = Honey | first = Martha | year = 1999 | title = Ecotourism and Sustainable Development: Who Owns Paradise?| pages = 128–181| publisher = Island Press; 1 edition, Washington, D.C. | isbn= 1-55963-582-7}} Chapter 5. Costa Rica: On the Beaten Path</ref> Around 25% of the country's land area is in protected national parks and protected areas,<ref>{{cite web|url=http://unfccc.int/resource/docs/2006/sbsta/eng/misc05.pdf |title=United Nations Framework Convention on Climate Change. "Issues relating to reducing emissions from deforestation in developing countries and recommendations on any further process" |format=PDF |accessdate=2010-06-26}}</ref><ref>{{cite web |url=http://earthtrends.wri.org/pdf_library/country_profiles/bio_cou_188.pdf | publisher= World Resources Institute |title= Biodiversity and Protected Areas – Costa Rica |author= Earth Trends |year=2003 |accessdate=2008-06-08|format=PDF}}</ref> the largest percentage of protected areas in the world (developing world average 13%, developed world average 8%).<ref name=ODI1/><ref>{{cite web |url=http://www.worldheadquarters.com/cr/protected_areas/ | publisher= World Headquarters|title=Costa Rica National Parks and Reserves|year=2007|accessdate=2008-06-08}}</ref><ref>{{cite web |url=http://planetasustentavel.abril.com.br/noticia/desenvolvimento/conteudo_280147.shtml?func=2 | publisher= Revista Veja|title=O desafio da economia verde |author1=Leonardo Coutinho |author2=Otávio Cabral |language=Portuguese |date=2008-05-21|accessdate=2008-06-08}} Published on website "Planeta Sustentável"</ref> Costa Rica has successfully managed to diminish [[deforestation]] from some of the worst rates in the world from 1973 to 1989, to almost zero by 2005.<ref name=ODI1>Jessica Brown and Neil Bird 2010. [http://www.odi.org.uk/resources/details.asp?id=5049&title=costa-rica-sustainable-resource-management-successfully-tackling-tropical-deforestation Costa Rica sustainable resource management: Successfully tackling tropical deforestation]. London: [[Overseas Development Institute]]</ref>
+
+One national park, the [[Corcovado National Park]], is internationally renowned among ecologists for its biodiversity (including [[big cats]] and [[tapirs]]) and is where visitors can expect to see an abundance of wildlife.<ref>[http://costa-rica-guide.com/Natural/Corcovado.html Corcovado National Park]</ref><ref>{{cite web|url=http://www.govisitcostarica.com/region/city.asp?cID=350 |title=Diversity of Corcovado National Park |publisher=Govisitcostarica.com |accessdate=2010-06-26}}</ref> Corcovado is the one park in Costa Rica where [[List of Costa Rican monkey species|all four Costa Rican monkey species]] can be found.<ref name=watching>{{cite book|title=Watching Wildlife Central America|author1=Hunter, L.  |author2=Andrew, D.|publisher=Lonely Planet|year=2002|page=97|isbn=1-86450-034-4}}</ref> These include the [[white-headed capuchin]], the [[mantled howler]], the endangered [[Geoffroy's spider monkey]],<ref name=watching/><ref>{{IUCN2008|assessors=Cuarón, A.D., Morales, A., Shedden, A., Rodriguez-Luna, E. & de Grammont, P.C.|year=2008|id=2279|title=Ateles geoffroyi|downloaded=20 February 2009}}</ref> and the [[Central American squirrel monkey]], found only on the Pacific coast of Costa Rica and a small part of [[Panama]], and considered endangered until 2008, when its status was upgraded to vulnerable. Deforestation, illegal pet-trading, and hunting are the main reasons for its threatened status.<ref>{{IUCN2008|assessors=Wong, G., Cuarón, A.D., Rodriguez-Luna, E. & de Grammont, P.C.|year=2008|id=19836|title=Saimiri oerstedii|downloaded=20 February 2009}}</ref>
+
+[[Tortuguero National Park]] – the name ''Tortuguero'' can be translated as "Full of Turtles" – is home to spider, howler, and white-throated capuchin monkeys; the [[three-toed sloth]] and [[two-toed sloth]]; 320 species of birds; and a variety of reptiles. The park is recognized for the annual nesting of the endangered [[green turtle]], and is the most important nesting site for the species. Giant [[leatherback turtle|leatherback]], [[hawksbill turtle|hawksbill]], and [[Loggerhead Sea Turtle|loggerhead]] turtles also nest there. The [[Monteverde Cloud Forest Reserve]] is home to about 2,000 plant species,<ref name="karttv">{{cite web|url=http://www.govisitcostarica.com/region/city.asp?cID=402 |title=Monteverde Cloud Forest Reserve |publisher=Govisitcostarica.com |accessdate=2010-06-26}}</ref> including numerous orchids. Over 400 types of birds and more than 100 species of mammals can be found there.<ref name="karttv"/>
+
+Over 840 species of birds have been identified in Costa Rica. As is the case in much of Central America, the avian species in Costa Rica are a mix of North and South American species. The country's abundant fruit trees, many of which bear fruit year round, are hugely important to the birds, some of whom survive on diets that consist only of one or two types of fruit. Some of the country's most notable avian species include the [[resplendent quetzal]], [[scarlet macaw]], [[three-wattled bellbird]], [[bare-necked umbrellabird]], and the [[keel-billed toucan]].<ref>{{cite web|last=Stater|first=Adam|title=Birds of Costa Rica|url=http://www.anywherecostarica.com/flora-fauna/bird}}</ref> The [[Instituto Nacional de Biodiversidad]] is allowed to collect royalties on any biological discoveries of medical importance. Costa Rica is a center of biological diversity for reptiles and [[amphibians]], including the world's fastest running lizard, the spiny-tailed iguana (''[[Ctenosaura similis]]'').<ref name='Garland1984'>{{cite journal|last=Garland|first=T., Jr.|year=1984|title=Physiological correlates of locomotory performance in a lizard: an allometric approach|url=http://www.biology.ucr.edu/people/faculty/Garland/Garl1984.pdf|journal=American Journal of Physiology|volume=247|issue=5 Pt 2|pages=R806–R815|pmid=6238543}}</ref>
+{{clear}}
+
+== Economy ==
+[[File:Intel Costa 12 2007 SJO 105b.jpg|thumb|An [[Intel]] microprocessor facility in Costa Rica is responsible for 20% of Costa Rican exports and 5% of the country's GDP.]]
+[[File:DirkvdM orosi valley bird.jpg|thumb|A [[Coffee production in Costa Rica|coffee plantation]] in the [[Orosí|Orosí Valley]]]]
+{{Main|Economy of Costa Rica}}
+According to the [[World Bank]], Costa Rica's GDP per capita is US$12,874 [[Purchasing Power Parity|PPP]] ({{As of|2013|lc=y}}); however, this [[developing country]] still faces lack of maintenance and new investment in infrastructure, a poverty rate estimated to be 23%,<ref name=CIA/><ref>[http://hdr.undp.org/en/media/HDI_2008_EN_Tables.pdf Human development indices 2008]. undp.org</ref> a 7.8% unemployment rate (2012 est.),<ref name=CIA/> and a [[trade deficit]] of 5.2%. For the [[fiscal year]] 2007, the country showed a government [[Economic surplus|surplus]]. Economic growth in 2008 diminished to a 3% increase in the face of the [[Financial crisis of 2007–08|global recession]] (down from 7% and 9% growth in the prior two years).<ref name=CIA/><ref>{{cite news| title=Costa Rica: Economy |url =http://www.state.gov/r/pa/ei/bgn/2019.htm | work =U.S. State Department |accessdate = 2007-11-02}}</ref>
+
+Costa Rica's [[inflation]] rate was an estimated 4.5% in 2012. On October 16, 2006, a new [[Foreign exchange market|currency exchange]] system was introduced, allowing the value of the [[Costa Rican colón|CRC colón]] to float between two bands as done previously by [[Chile]]. This policy's objective was to allow the Central Bank to be able to better tackle inflation and discourage the use of U.S. dollars. However, as of August 2009, the value of the [[Costa Rican colón|colón]], Costa Rica's unit of currency, against the dollar has decreased to 86% of its late-2006 value (see commonly available [[forex]] trading charts). As of April 2014, it trades around 550 to the US$,<ref>{{cite web|url=http://indicadoreseconomicos.bccr.fi.cr/indicadoreseconomicos/Cuadros/frmVerCatCuadro.aspx?idioma=1&CodCuadro=%20400 |title=Tipo cambio de compra y de venta del dĂłlar de los Estados Unidos de AmĂŠrica |publisher=Indicadoreseconomicos.bccr.fi.cr |accessdate=2010-06-26}}</ref> and about 760 colones to the euro.
+
+The central government offers tax exemptions for those willing to invest in the country. Several global high-tech corporations have already started developing in the area and are exporting goods, including [[Intel]], [[GlaxoSmithKline]], and [[Procter & Gamble]]. In 2006, Intel's [[microprocessor]] facility alone was responsible for 20% of Costa Rican exports and 4.9% of its GDP.<ref>{{cite web|url=http://eleconomista.es/empresas-finanzas/noticias/81837/10/06/Intel-supone-el-49-por-ciento-del-PIB-de-Costa-Rica.html |title=Intel supone el 4,9 por ciento del PIB de Costa Rica|date=2006-10-06|publisher=El Economista|accessdate=2008-04-13|language=Spanish }}</ref><ref>{{cite web|url=http://www.lavanguardia.com/internet/20071113/53410660334/intel-fabrica-el-procesador-mas-veloz-del-mundo-en-costa-rica.html|title=Intel fabrica el procesador "más veloz del mundo" en Costa Rica|date=2007-11-13|publisher=La Vanguardia|accessdate=2008-04-13|language=Spanish }}</ref> In 2014, Intel announced it would end manufacturing in Costa Rica and lay off 1,500 staff. The facility now continues as a test and design facility with approximately 1,600 remaining staff.<ref>{{cite web|url=http://www.reuters.com/article/2014/04/09/us-intel-costa-rica-idUSBREA371TJ20140409|title=Intel closes Costa Rica operation, cuts 1,500 jobs|date=2014-04-08}}</ref> Trade with Southeast Asia and [[Russia]] boomed during 2004 and 2005, and the country obtained full [[Asia-Pacific Economic Cooperation Forum]] (APEC) membership in 2007 after becoming an observer in 2004. The ''[[Financial Times]]'' Intelligence Unit awarded Costa Rica as "Caribbean and Central American Country of the Future 2011/12" for its success in attracting [[foreign direct investment]] (FDI) as first in the region in terms of FDI project numbers since 2003.<ref>{{cite news|url=http://www.fdiintelligence.com/Locations/Americas/Caribbean-and-Central-American-Countries-of-the-Future-2011-12|title=Caribbean and Central American Countries of the Future 2011/12|author=Jacqueline Walls |work=[[Financial Times]] Intelligence Unit|date=2011-08-11 |accessdate=2011-08-23}}</ref><ref>{{cite news|url=http://www.nacion.com/2011-08-23/Economia/costa-rica-lidera-ranquin-regional-de-atraccion--de-inversiones--.aspx|title=Costa Rica lidera ranquin regional de atracción de inversiones|work=[[La Nación (Costa Rica)|La Nación]] |date=2011-08-22|accessdate=2011-08-23|language=Spanish}}</ref>
+
+Pharmaceuticals, financial outsourcing, software development, and [[ecotourism]] have become the prime industries in Costa Rica's economy. High levels of education among its residents make the country an attractive investing location. Since 1999, tourism earns more foreign exchange than the combined exports of the country's three main [[cash crops]]: bananas, pineapples and coffee.<ref name="ICT2006">{{cite web|author=Departamento de Estadísticas ICT |url=http://www.visitcostarica.com/ict/backoffice/treeDoc/files/Anuario%20de%20Turismo%202006%20(VERSION%20FINAL).pdf|title=Anuário Estadísticas de Demanda 2006|publisher=Intituto Costarricense de Turismo|year=2006|language=Spanish|accessdate=2008-07-29|format=PDF}} Table 44 and 45</ref> [[Coffee production in Costa Rica|Coffee production]] has played a key role in Costa Rica's history and economy, and by 2006, was the third cash crop export.<ref name="ICT2006"/>
+
+The largest coffee growing areas are in the provinces of San José, Alajuela, Heredia, Puntarenas, and Cartago. Costa Rica is famous for its gourmet coffee beans, with Costa Rican [[Tarrazu coffee|Tarrazú]] among the finest [[arabica coffee]] beans in the world used for making [[espresso]] coffee, together with [[Jamaican Blue Mountain Coffee|Jamaican Blue Mountain]], Guatemalan [[Antigua Guatemala|Antigua]] and [[Ethiopian Sidamo (coffee)|Ethiopian Sidamo]].<ref>{{cite web | url=http://veja.abril.com.br/300708/p_140.shtml|title=Os melhores grãos do mundo |author=[[Veja (magazine)|Revista VEJA]] | publisher=[[Editora Abril]]|date=2008-07-31 |accessdate=2008-07-29 |language=Portuguese }} Edition 2071. Print edition p. 140</ref><ref>{{cite news | url=http://query.nytimes.com/gst/fullpage.html?res=9400E0D7173BF936A3575AC0A96F958260&sec=&spon=&pagewanted=2|title=The World Before Starbucks |author=Betty Fussell| publisher=The New York Times |date=1999-09-05 |accessdate=2008-07-29}}</ref><ref>{{cite news | url=http://query.nytimes.com/gst/fullpage.html?res=9E0CE3DB153FF931A3575AC0A964958260&sec=&spon=&pagewanted=1|title=Americans Wake Up and Smell the Coffee |author=Florence Fabricant| publisher=The New York Times |date=1992-09-02 |accessdate=2008-07-29}}</ref><ref>{{cite web | url=http://www.ferriscoffee.com/coffee.html|title=Ferris Gourmet Coffee Beans: Single origin coffees |publisher=Ferris Coffee & Nuts |accessdate=2008-07-29 |archiveurl = https://web.archive.org/web/20080320064833/http://www.ferriscoffee.com/coffee.html |archivedate = March 20, 2008}}</ref>
+
+Costa Rica's location provides access to American markets as it has the same [[time zone]] as the central part of the United States and direct ocean access to Europe and Asia. In a countrywide referendum on October 5, 2007, Costa Rican voters narrowly backed a free trade agreement, with 51.6% of "Yes" votes.<ref>{{cite web|url=http://www.latinamericapress.org/article.asp?lanCode=1&artCode=5348 |title=Latinamerica Press |publisher=Latinamerica Press |accessdate=2010-06-26 |archiveurl = https://web.archive.org/web/20080510105108/http://www.latinamericapress.org/article.asp?lanCode=1&artCode=5348 |archivedate = May 10, 2008}}</ref>
+
+[[File:Poas crater.jpg|thumb|[[Poás Volcano National Park|Poás Volcano Crater]] is one of the country's main [[Tourism in Costa Rica|tourist attractions]].]]
+Costa Rica stands as the most visited nation in the Central American region, with 2.2 million foreign visitors in 2011, followed by Panama with almost 1.5 million visitors.<ref name=WTO2012Highlights>{{cite web |url=http://mkt.unwto.org/sites/all/files/docpdf/unwtohighlights12enlr_1.pdf|title=UNWTO Tourism Highlights 2012 Edition|publisher=[[World Tourism Organization]] (UNWTO)|accessdate=2012-08-20|date=June 2012}} p. 10</ref> International tourist receipts rose to {{USD|2.4}} billion in 2012, and the lead country of origin was the United States with 864,340 tourists, followed by Nicaragua with 474,011 visitors, and Canada with 136,261.<ref name=LN032013>{{cite news|url=http://www.nacion.com/2013-03-09/Economia/Visitas-turisticas-en-el-2012-fueron-las-mas-altas-de-los-ultimos-cinco-anos.aspx|title=Visitas turisticas en el 2012 fueron las más altas de los últimos cinco años|language=Spanish|trans_title=Tourist arrivals in 2012 the highest during the last five years|author=Andrea González|work=[[La Nacion (San Jose)|La Nacion]] |date=2013-03-08|accessdate=2013-03-11}}</ref> In 2005, tourism contributed 8.1% of the country's GNP, and represented 13.3% of direct and indirect employment.<ref>{{cite web | last = Altés | first = Carmen | year = 2006 | title = El Turismo en América Latina y el Caribe y la experiencia del BID| pages = 9, 47| publisher = [[Inter-American Development Bank]]; Sustainable Development Department, Technical Paper Series ENV-149, Washington, D.C. |url=http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=984876}}</ref> Tourism now earns more [[Foreign exchange reserves|foreign exchange]] than bananas and coffee combined.<ref name="ICT2006"/><ref>{{cite web |url=http://www.elempleo.co.cr/clientes/news_cli.asp?not_id=22|language=Spanish |date=2004-12-29|accessdate=2008-04-13|publisher=La Nación|title= Turismo, principal motor de la economía durante el 2004 |author=José Enrique Rojas}}</ref>
+
+A pioneer of [[ecotourism]], Costa Rica draws many tourists to its extensive national parks and protected areas.<ref>{{Cite journal | last = Honey | first = Martha | year = 1999 | title = Ecotourism and Sustainable Development: Who Owns Paradise?| page = 5| publisher = Island Press; 1 edition, Washington, D.C. | isbn = 1-55963-582-7}}</ref> In the 2011 [[Travel and Tourism Competitiveness Report|Travel and Tourism Competitiveness Index]], Costa Rica ranked 44th in the world and second among Latin American countries after Mexico.<ref name=TTCI2011>{{cite web| url =http://www3.weforum.org/docs/WEF_TravelTourismCompetitiveness_Report_2011.pdf| author=Jennifer Blanke and Thea Chiesa, Editors |year = 2011 | title = Travel & Tourism Competitiveness Report 2011 | publisher = [[World Economic Forum]], Geneva, Switzerland|accessdate=2011-03-14}}</ref> In the "natural resources" subindex, Costa Rica ranks sixth worldwide in the natural resources pillar, but 104th in terms of cultural resources.<ref name=TTCI2011/> Costa Rica ranks third of sixty countries covered in the 2014 ''Global Green Economy Index''.<ref name="ggei">{{cite web|url=http://dualcitizeninc.com/GGEI-Report2014.pdf |title=2014 Global Green Economy Index |publisher=Dual Citizen LLC |date=19 October 2014 |accessdate=19 October 2014}}</ref> In the sustainable tourism category, Costa Rica is ranked first.
+
+Costa Rica has also developed a system of [[Payment for ecosystem services|payments for environmental services]].<ref name=ODI1/> Similarly, Costa Rica has a tax on water pollution to penalize businesses and homeowners that dump sewage, agricultural chemicals, and other pollutants into waterways.<ref>[http://www.laht.com/article.asp?ArticleId=331428&CategoryId=23558 "Costa Rica taxing firms that dump wastewater into rivers"], ''Latin American Herald Tribune'',  7 April 2007.</ref> In May 2007, the Costa Rican government announced its intentions to become 100% [[carbon neutral]] by 2021.<ref>{{cite news |url=http://www.worldchanging.com/archives/007549.html |title=Bright Green: Costa Rica and New Zealand on Path to Carbon Neutrality |work=Worldchanging
+|accessdate=2011-05-05 |date=2007-11-07 |first=Janet L. |last=Sawin}}</ref> {{As of|2015}}, 93 percent of the country's energy comes from [[Renewable energy in Costa Rica|renewable sources]].<ref>{{cite news |title= Costa Rica uses 100 pct. clean energy to generate power for over 90 days |work= EFE |publisher= Fox News Latino |date= August 13, 2015 |url= http://latino.foxnews.com/latino/news/2015/08/13/costa-rica-uses-100-pct-clean-energy-to-generate-power-for-over-0-days/?utm_content=buffer704f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer }}</ref>
+
+In 1996, the Forest Law was enacted to provide direct financial incentives to landowners for the provision of environmental services.<ref name=ODI1/> This helped reorient the forestry sector away from commercial timber production and the resulting [[deforestation]], and helped create awareness of the services it provides for the economy and society (i.e., [[carbon fixation]], hydrological services such as producing fresh drinking water, biodiversity protection, and provision of scenic beauty).<ref name=ODI1/>
+
+== Governance ==
+{{Main|Politics of Costa Rica}}
+
+=== Administrative divisions ===
+[[File:Provinces Costa Rica.png|thumb|Provinces of Costa Rica]]
+{{Main|Administrative divisions of Costa Rica}}
+
+Costa Rica is composed of seven provinces, which in turn are divided into 81 cantons ({{lang-es|link=no|cantón}}, plural {{lang|es|''cantones''}}), each of which is directed by a mayor. Mayors are chosen democratically every four years by each canton. There are no provincial legislatures. The cantons are further divided into 473 districts ({{lang|es|''distritos''}}). The provinces are:
+
+# [[Alajuela Province|Alajuela]]
+# [[Cartago Province|Cartago]]
+# [[Guanacaste Province|Guanacaste]]
+# [[Heredia Province|Heredia]]
+# [[Limón Province|Limón]]
+# [[Puntarenas Province|Puntarenas]]
+# [[San José Province|San José]]
+
+=== Foreign relations ===
+{{Main|Foreign relations of Costa Rica}}
+[[File:Localisation de l'ile de Clipperton.png|thumb|upright=2|The extent of Costa Rica's western [[EEZ]] in the Pacific.]]
+[[File:Barack Obama with Costa Rican children.jpg|thumb|[[Barack Obama]] and [[Laura Chinchilla]] with Costa Rican children in [[San José, Costa Rica|San José]].]]
+Costa Rica is an active member of the [[United Nations]] and the [[Organization of American States]]. The [[Inter-American Court of Human Rights]] and the [[United Nations University of Peace]] are based in Costa Rica. It is also a member of many other international organizations related to [[human rights]] and democracy, such as the [[Community of Democracies]]. A main foreign policy objective of Costa Rica is to foster human rights and sustainable development as a way to secure stability and growth.<ref>{{cite web|url=http://www.rree.go.cr/?sec=ministerio&cat=politica%20exterior |title=Costa Rican Ministry of International Relations Declaration of Objectives |publisher=Costa Rican Ministry of International relations |accessdate=2011-04-23}}</ref>
+
+Costa Rica is a member of the [[International Criminal Court]], without a [[Bilateral Immunity Agreement]] of protection for the [[United States military]] (as covered under [[Rome Statute of the International Criminal Court|Article 98]]). Costa Rica is an observer of the [[Organisation Internationale de la Francophonie]].
+
+On September 10, 1961, some months after [[Fidel Castro]] declared [[Cuba]] a socialist state, Costa Rican President [[Mario Echandi]] ended diplomatic relations with Cuba through ''Executive Decree Number 2''. This freeze lasted 47 years until President [[Óscar Arias|Óscar Arias Sánchez]] re-established normal relations on 18 March 2009, saying, "If we have been able to turn the page with regimes as profoundly different to our reality as occurred with the USSR or, more recently, with the Republic of China, how would we not do it with a country that is geographically and culturally much nearer to Costa Rica?" Arias announced that both countries would exchange ambassadors.<ref>[http://articles.cnn.com/2009-03-18/world/costa.rica.cuba.ties_1_costa-rica-president-oscar-arias-cuban-people?_s=PM:WORLD "Costa Rica re-establishes ties with Cuba"], ''CNN World'', 2009-03-18.</ref>
+
+Costa Rica has a long-term disagreement with [[Nicaragua]] over the [[Costa Rica – Nicaragua San Juan River border dispute|San Juan River]], which defines the border between the two countries, and Costa Rica's [[Freedom of navigation|rights of navigation]] on the river.<ref>{{cite web|url=http://www.nacion.com/2011-03-08/ElPais/UltimaHora/UH-HAYA1.aspx|title=IJC Court Ruling |publisher=nacion.com |accessdate=2011-03-08}}</ref> In 2010, there was also a [[Costa Rica – Nicaragua San Juan River border dispute#2010 Isla Calero dispute|dispute around Isla Calero]], and the impact of Nicaraguan [[dredging]] of the river in that area.<ref>{{cite web|url=http://www.icj-cij.org/docket/files/150/16324.pdf?PHPSESSID=dfc78e071a095818c7de6e8f8f29aa1b |title=International Court of Justice recent provisional Costa Rica-Nicaragua decision |accessdate=2011-11-02}}</ref>
+
+On July 14, 2009, the [[International Court of Justice]] in the Hague upheld Costa Rica's navigation rights for commercial purposes to subsistence fishing on their side of the river. An 1858 treaty extended navigation rights to Costa Rica, but Nicaragua denied passenger travel and fishing were part of the deal; the court ruled Costa Ricans on the river were not required to have Nicaraguan tourist cards or visas as Nicaragua argued, but, in a nod to the Nicaraguans, ruled that Costa Rican boats and passengers must stop at the first and last Nicaraguan port along their route. They must also have an identity document or passport. Nicaragua can also impose timetables on Costa Rican traffic. Nicaragua may require Costa Rican boats to display the [[flag of Nicaragua]], but may not charge them for departure clearance from its ports. These were all specific items of contention brought to the court in the 2005 filing.<ref>{{cite web|url=http://www.allbusiness.com/legal/legal-services-litigation/12579933-1.html |archiveurl=https://web.archive.org/web/20110511230540/http://www.allbusiness.com/legal/legal-services-litigation/12579933-1.html |archivedate=2011-05-11 |title=World Court Settles San Juan River Dispute; Nicaragua and Costa Rica Both Claim Victory |publisher=Allbusiness.com|date=2009-07-16 |accessdate=2010-12-21}}</ref>
+
+On June 1, 2007, Costa Rica broke diplomatic ties with [[Taiwan]], switching recognition to the People's Republic of China. Costa Rica was the first of the Central American nations to do so. President [[Óscar Arias Sánchez]] admitted the action was a response to economic exigency.<ref>{{Wayback |date=20110511230533 |url=http://www.allbusiness.com/caribbean/4505299-1.html |title=Costa Rica Boots Taiwan, Welcomes China In Diplomatic Switch }}. allbusiness.com (2007-06-14). Retrieved: 2010-05-20</ref> In response, the PRC built a new, $100 million, state-of-the-art [[Association football|football]] [[Estadio Nacional de Costa Rica (2011)|stadium in Parque la Sabana]], in the province of San José. Approximately 600 Chinese engineers and laborers took part in this project, and it was inaugurated in March 2011, with a match between the national teams of [[Costa Rica national football team|Costa Rica]] and [[China national football team|China]].
+
+Costa Rica finished a term on the [[United Nations Security Council]], having been elected for a nonrenewable, two-year term in the [[United Nations Security Council election, 2007|2007 election]]. Its term expired on December 31, 2009; this was Costa Rica's third time on the Security Council.
+
+== Demographics ==
+{{Main|Demographics of Costa Rica}}
+{{Costa Rican censuses}}
+The [[Costa Rica 2011 Census|2011 census]] counted a population of 4,301,712 people distributed among the following groups: 83.6% whites or [[mestizo]]s, 6.7% [[mulatto]]es, 2.4% [[Indigenous peoples of the Americas|Native American]], 1.1% black or [[Afro-Costa Rican|Afro-Caribbean]], and 5.2% others.<ref name=CIA/> An average Costa Rican from the Central Valley has an 67.5% European, 29.3% Amerindian and 3.2% African ancestry.<ref>{{cite journal|title=Geographic Patterns of Genome Admixture in Latin American Mestizos|last1=Wang|first1=Sijia|last2=Ray|first2=Nicolas|last3=Rojas|first3=Winston|last4=Parra|first4=Maria V.|last5=Bedoya|first5=Gabriel|last6=Gallo|first6=Carla|last7=Poletti|first7=Giovanni|last8=Mazzotti|first8=Guido|last9=Hill|first9=Kim|accessdate=31 January 2013|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2265669/bin/pgen.1000037.s006.xls|pmc=2265669|pmid=18369456|doi=10.1371/journal.pgen.1000037|volume=4|issue=3|date=March 2008|journal=PLoS Genetics|pages=e1000037}}</ref>
+
+There are also over 104,000 Native American or indigenous inhabitants, representing 2.4% of the population. Most of them live in secluded reservations, distributed among eight ethnic groups: Quitirrisí (in the Central Valley), Matambú or [[Chorotega people|Chorotega]] (Guanacaste), [[Maleku people|Maleku]] (northern Alajuela), [[Bribri people|Bribri]] (southern Atlantic), Cabécar (Cordillera de Talamanca), [[Guaymí]] (southern Costa Rica, along the Panamá border), [[Boruca people|Boruca]] (southern Costa Rica) and Térraba (southern Costa Rica).
+
+The population of European ancestry is primarily of [[Spanish people|Spanish]] descent,<ref name=CIA/> with significant numbers of Italian, German, English, Dutch, French, Irish, Portuguese, and Polish families, as well a sizable Jewish community. The majority of the Afro-Costa Ricans are [[Creole English]]-speaking descendants of 19th century black [[Jamaican]] immigrant workers.
+
+[[File:Niños costarricenses.JPG|thumb|Costa Rican school children]]
+The 2011 census classified 83.6% of the population as white or mestizo. Mulattoes (mix of white and black) represented 6.7% and indigenous people 2.4%.<ref name=CIA/> Native and European mixed blood populations are far less than in other Latin American countries. Exceptions are [[Guanacaste Province|Guanacaste]], where almost half the population is visibly mestizo, a legacy of the more pervasive unions between Spanish colonists and Chorotega Amerindians through several generations, and [[Limón]], where the vast majority of the Afro-Costa Rican community lives.
+
+Costa Rica hosts many refugees, mainly from [[Colombia]] and [[Nicaragua]]. As a result of that and illegal immigration, an estimated 10–15% (400,000–600,000) of the Costa Rican population is made up of Nicaraguans.<ref>[http://www.state.gov/r/pa/ei/bgn/2019.htm www.state.gov "Background Note: Costa Rica – People"], United States Department of State.</ref><ref>{{cite news| url=http://articles.latimes.com/2006/mar/23/world/fg-costa23 | work=Los Angeles Times | title=Costa Rica Seeks to Shut Its Doors to Illegal Migrants From Nicaragua | first1=Marla | last1=Dickerson | first2=Rebecca | last2=Kimitch | date=2006-03-23 | accessdate=2010-05-02}}</ref> Some Nicaraguans migrate for seasonal work opportunities and then return to their country. Costa Rica took in many refugees from a range of other Latin American countries fleeing civil wars and dictatorships during the 1970s and 1980s, notably from [[Chile]] and [[Argentina]], as well as people from [[El Salvador]] who fled from [[guerrillas]] and government [[death squad]]s.<ref>{{cite book |author1=Biesanz, Karen Zubris |author2=Biesanz, Mavis Hiltunen |author3=Biesanz, Richard |title=The Ticos: Culture and Social Change in Costa Rica |publisher=[[Lynne Rienner Publishers]] |location=Boulder, CO |year= 1998|page=118 |isbn=1-55587-737-0}}</ref>
+
+According to the [[World Bank]], in 2010 about 489,200 immigrants lived in the country, mainly from Nicaragua, Panama, El Salvador, Honduras, Guatemala, and Belize, while 125,306 Costa Ricans live abroad in the United States, Panama, Nicaragua, Spain, Mexico, Canada, Germany, Venezuela, [[Dominican Republic]], and [[Ecuador]].<ref>{{cite web|url=http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1199807908806/CostaRica.pdf|title=Costa Rica country profile (from the Migration and Remittances Factbook 2011)|publisher=World Bank|accessdate=2011-08-17}}</ref>
+
+{{Largest cities of Costa Rica}}
+
+=== Religion ===
+{{Pie chart
+|thumb = right
+|caption = Religion in Costa Rica<ref name=report>[http://www.state.gov/g/drl/rls/irf/2008/108520.htm International Religious Freedom Report 2008: Costa Rica]. United States [[Bureau of Democracy, Human Rights and Labor]] (September 14, 2007)</ref><ref name="buddhistchannel.tv">[http://www.buddhistchannel.tv/index.php?id=71,11009,0,0,1,0 Buddhism in Costa Rica by Terrence Johnson, The Costa Rican News, August 5, 2012]</ref>
+|label1 = [[Catholic Church|Catholicism]]
+|value1 = 70.5
+|color1 = DodgerBlue
+|label2 = [[Protestantism]]
+|value2 = 13.8
+|color2 = DarkOrchid
+|label3 = [[Irreligion]]
+|value3 = 11.3
+|color3 = Gray
+|label4 = [[Buddhism]]
+|value4 = 2.1
+|color4 = Gold
+|label5 = Other religions
+|value5 = 2.2
+|color5 = Red
+}}
+
+{{Main|Religion in Costa Rica}}
+[[File:Basilica de los Angeles 2007.jpg|thumb|Basílica de Nuestra Señora de los Ángeles (Basilica of Our Lady of the Angels), during 2007 pilgrimage]]
+
+Christianity is Costa Rica's predominant religion, with [[Roman Catholicism]] being the official [[state religion]] according to the 1949 Constitution, which at the same time guarantees [[freedom of religion]].
+
+According to the most recent nationwide survey of religion, conducted in 2007 by the [[University of Costa Rica]], 70.5% of Costa Ricans are Roman Catholics (44.9% practicing Catholics), 13.8% are [[Evangelicalism|evangelical Protestants]], 11.3% report that they do not have a religion, and 4.3% belong to another religion. The rate of secularism is high by Latin American standards.
+
+Due to small, but continuous, immigration from Asia and the Middle East, other religions have grown, the most popular being [[Buddhism]], with about 100,000 practitioners (over 2% of the population).<ref name="buddhistchannel.tv"/> Most Buddhists are members of the [[Han Chinese]] community of about 40,000 with some new local converts. There are also smaller numbers of [[Hindu]], Jewish, [[Bahá’í]], and [[Islam in Costa Rica|Muslim]] adherents.
+
+The Sinagoga Shaarei Zion synagogue<ref>[http://www.centroisraelita.com/ Centro Israelita de Costa Rica, Comunidad Judía de Costa Rica], Costa Rican Jewish Community</ref> is near [[La Sabana Metropolitan Park]] in [[San José, Costa Rica|San José]]. Several homes in the neighborhood east of the park display the [[Star of David]] and other Jewish symbols.<ref>{{cite web|url=http://www.jcpa.org/dje/articles2/costarica.htm |title=Jewish Community in Costa Rica |publisher=Jcpa.org |accessdate=2010-06-26}}</ref>
+
+[[The Church of Jesus Christ of Latter-day Saints]] claims more than 35,000 members, and has a [[San José Costa Rica Temple|temple in San José]] that served as a regional worship center for Costa Rica.<ref>{{Wayback |date=20100825062417 |url=http://newsroom.lds.org/ldsnewsroom/eng/contact-us/costa-rica |title=Costa Rica }}. LDS Newsroom. Retrieved 2008-12-13.</ref> However, they represent less than 1% of the population.<ref>{{cite web|url=http://www.ldschurchtemples.com/sanjose/ |title=San José Costa Rica LDS (Mormon) Temple |publisher=Ldschurchtemples.com |accessdate=2010-06-26}}</ref><ref>{{cite web|url=http://www.lds.org/temples/geographical/0,11380,1899-1---19,00.html |title=List of LDS (Mormon) temples in Central America and the Caribbean |publisher=Lds.org |accessdate=2010-06-26}}</ref>
+
+=== Languages ===
+{{main|Languages of Costa Rica}}
+The primary language spoken in Costa Rica is [[Spanish language|Spanish]], which features characteristics [[Costa Rican Spanish|distinct to the country]]. Some native languages are still spoken in indigenous reservations; the most numerically important are the [[Bribri language|Bribri]], [[Maléku language|Maléku]], [[Cabécar language|Cabécar]] and [[Ngäbere language]]s, some of which have several thousand speakers in Costa Rica – others a few hundred. Some languages, such as [[Teribe language|Teribe]] and [[Boruca language|Boruca]], have fewer than a thousand speakers. A [[English-based creole language|Creole-English]] language, [[Jamaican Patois|Jamaican ''patois'']] (also known as [[Limonese Creole|Mekatelyu]]), is spoken along the Caribbean coast. About 10.7% of Costa Rica's adult population (18 or older) also speaks English, 0.7% French, and 0.3% speaks [[Portuguese language|Portuguese]] or German as a second language.<ref>{{cite news|url=http://wvw.nacion.com/ln_ee/2008/marzo/11/pais1457622.html|title=Solo 1 de cada 10 adultos habla un segundo idioma|publisher=[[La Nación (Costa Rica)]]|author=Jairo Villegas|date=2008-03-13|accessdate=2010-07-22}}</ref>
+
+== Culture ==
+[[File:Gallo Pinto at breakfast.jpg|right|thumb|Costa Rican breakfast with [[gallo pinto]]]]
+[[File:World's Largest Oxcart Sarchi Costa Rica.JPG|thumb|The [[Bullock cart|oxcart]] is a national symbol.]]
+{{Main|Culture of Costa Rica}}
+
+Costa Rica was the point where the Mesoamerican and South American native cultures met. The northwest of the country, the Nicoya peninsula, was the southernmost point of [[Nahuatl]] cultural influence when the Spanish conquerors ([[conquistadores]]) came in the 16th century. The central and southern portions of the country had [[Chibcha]] influences. The Atlantic coast, meanwhile, was populated with African workers during the 17th and 18th centuries.
+
+As a result of the immigration of Spaniards, their 16th-century Spanish culture and its evolution marked everyday life and culture until today, with Spanish language and the Catholic religion as primary influences.
+
+The Department of Culture, Youth, and Sports is in charge of the promotion and coordination of cultural life. The work of the department is divided into Direction of Culture, Visual Arts, Scenic Arts, Music, Patrimony and the System of Libraries. Permanent programs, such as the National Symphony Orchestra of Costa Rica and the Youth Symphony Orchestra, are conjunctions of two areas of work: Culture and Youth.{{Citation needed|date=June 2009}}
+
+Dance-oriented genres, such as ''[[Soca music|soca]]'', ''[[Salsa music|salsa]]'', ''[[Bachata (music)|bachata]]'', ''[[Merengue music|merengue]]'', ''[[cumbia]]'' and Costa Rican swing are enjoyed increasingly by older rather than younger people. The guitar is popular, especially as an accompaniment to folk dances; however, the marimba was made the national instrument.
+
+"''Pura Vida''" is the most recognizable phrase attached to Costa Ricans, and it reflects the Costa Rican way of life. Often, people walking down the streets, or buying food at shops say hello by saying "''Pura Vida''", which means pure life, or good life. It can be phrased as a question or as an acknowledgement of one's presence. A recommended response to "How are you?" would be "''Pura Vida''".{{Citation needed|date=August 2010}}
+
+=== Cuisine ===
+{{Further|Costa Rican cuisine}}
+Costa Rican cuisine is a blend of [[Indigenous peoples of the Americas|Native American]], Spanish, African and many other cuisine origins. Dishes such as the very traditional [[Tamal (dish)|tamale]] and many others made of corn are the most representative of its indigenous inhabitants, and similar to other neighboring Mesoamerican countries. Spaniards brought many new ingredients to the country from other lands, especially spices and domestic animals. And later in the 19th century, the African flavor lent its presence with influence from other Caribbean mixed flavors. This is how Costa Rican cuisine today is very varied, with every new ethnic group who had recently become part of the country's population influencing the country's cuisine.<ref>{{cite web|url=http://www.southerncostarica.biz/General/cat-others/Costarican-Typical-Food/179/ |title=Costa Rican Typical Food |publisher=Southerncostarica.biz |accessdate=2011-11-02}}</ref>{{Unreliable source?|date=February 2011}}
+
+=== Sports ===
+{{main|Costa Rica at the Olympics|Association football in Costa Rica}}
+[[File:Claudia Poll.jpg|thumb|[[Claudia Poll]] won Costa Rica's first Olympic gold medal in 1996]]
+Costa Rica entered the [[Summer Olympics]] for the first time in 1936 with the fencer [[Bernardo de la Guardia]] and the [[Winter Olympics]] for the first time in 1980 with the skier [[Arturo Kinch]]. All four of Costa Rica's Olympic medals were won by the sisters [[Silvia Poll|Silvia]] and [[Claudia Poll]] in [[Swimming (sport)|swimming]], with Claudia winning the only gold medal in [[Swimming at the 1996 Summer Olympics|1996]].
+
+Football is the most popular sport in Costa Rica. The [[Costa Rica national football team|national team]] has played in four [[FIFA World Cup]] tournaments and reached the quarter-finals for the first time in [[2014 FIFA World Cup|2014]].<ref>{{cite web|title=World Cup: Costa Rica defies the odds in winning Group D|author=Griffiths, F.|url=http://www.thestar.com/sports/soccer/2014/06/24/world_cup_costa_rica_defies_the_odds_in_winning_group_d.html|date=June 24, 2014|accessdate=2014-06-29|publisher=[[Toronto Star]]}}</ref><ref>{{cite web|title=Navas Carries Costa Rica to World Cup Quarters|publisher=[[ABC News]]|author=Martel, B.|date=June 29, 2014|accessdate=2014-06-29|url=http://abcnews.go.com/Sports/wireStory/navas-carries-costa-rica-world-cup-quarters-24358976}}</ref> Its best performance in the regional [[CONCACAF Gold Cup]] was runner-up in [[2002 CONCACAF Gold Cup|2002]]. [[Paulo Wanchope]], a forward who played for three clubs in England's [[Premier League]] in the late 1990s and early 2000s, is credited with enhancing foreign recognition of Costa Rican football.<ref>{{cite news|last1=Barlow|first1=Matt|title=Paulo Wanchope dazzled at Derby... but now the Costa Rica assistant manager is plotting a giantkilling against England at World Cup|url=http://www.dailymail.co.uk/sport/worldcup2014/article-2645612/Paulo-Wanchope-dazzled-Derby-Costa-Rica-assistant-manager-plotting-giantkilling-against-England-World-Cup.html|accessdate=30 June 2014|work=[[Daily Mail]]|date=1 June 2014}}</ref>
+
+== Education ==
+{{Main|Education in Costa Rica}}
+
+The literacy rate in Costa Rica is 96.3%,<ref name=CIA/> one of the highest in Latin America. When the army was abolished in 1949, it was said that the "army would be replaced with an army of teachers".<ref>[http://www.sinabi.go.cr/Biblioteca%20Digital/BIBLIOGRAFIA/Bibliografias/Bib%20Abolicion%20ejercito.pdf Abolición del Ejército en Costa Rica]. Ministerio de Cultura, Juventud y Deportes, San José, Costa Rica. 2004. ISBN 9968-856-21-5</ref> Universal [[public education]] is guaranteed in the constitution; primary education is obligatory, and both preschool and high school are free. There are only a few schools in Costa Rica that go beyond the 12th grade. Students who finish 11th grade receive a Costa Rican Bachillerato Diploma accredited by the Costa Rican Ministry of Education.
+
+There are both state and private universities. The [[University of Costa Rica]] has been awarded the title "Meritorious Institution of Costa Rican Education and Culture".
+
+== Health ==
+{{Main|Health care in Costa Rica}}
+According to the [[UNDP]], in 2010 the [[life expectancy]] at birth for Costa Ricans was 79.3 years.<ref>{{cite web | url=http://hdrstats.undp.org/en/countries/profiles/CRI.html|author=2011 [[Human Development Report]]|publisher=[[UNDP]]| title=International Human Development Indicators| accessdate=2012-06-18}}</ref> The [[Nicoya Peninsula]] is considered one of the [[Blue Zone]]s in the world, where people commonly live active lives past the age of 100 years.<ref>{{cite web|url=http://news.nationalgeographic.com/news/2008/04/080414-longest-lived.html|title=Long-Lived Costa Ricans Offer Secrets to Reaching 100|publisher=[[National Geographic Magazine|National Geographic]] News|date=2008-04-14|author=Anne Casselman|accessdate=2011-03-04}}</ref><ref>{{cite news|url=http://abcnews.go.com/Technology/LivingLonger/story?id=2843049&page=1|title=Report from the 'Blue Zone': Why Do People Live Long in Costa Rica?|work=ABC News|author=[[Dan Buettner]]|date=2007-02-02|accessdate=2011-03-04}}</ref> The [[New Economics Foundation]] (NEF) ranked Costa Rica first in its 2009 [[Happy Planet Index]], and once again in 2012. The index measures the health and happiness they produce per unit of environmental input.<ref name=HPI01/><ref name=HPI02/> According to NEF, Costa Rica's lead is due to its very high [[life expectancy]] which is second highest in [[the Americas]], and higher than the United States. The country also experienced well-being higher than many richer nations and a per capita [[ecological footprint]] one-third the size of the United States.<ref>{{cite web|url=http://www.neweconomics.org/blog/2012/06/14/measuring-what-matters-the-happy-planet-index-2012|title=Measuring what matters: the Happy Planet Index 2012 |author=Nic Marks|publisher=[[New Economics Foundation]]|date=2012-06-14|accessdate=2012-06-17}}</ref>
+
+In 2002, there were 0.58 new general practitioner (medical) consultations and 0.33 new specialist consultations per capita, and a hospital admission rate of 8.1%. Preventive health care is also successful. In 2002, 96% of Costa Rican women used some form of contraception, and [[antenatal care]] services were provided to 87% of all pregnant women. All children under one have access to well-baby clinics, and the immunization coverage rate in 2002 was above 91% for all antigens.{{citation needed|date=March 2011}} Costa Rica has a very low [[malaria]] incidence of 48 per 100,000 in 2000 and no reported cases of [[measles]] in 2002. The perinatal mortality rate dropped from 12.0 per 1000 in 1972 to 5.4 per 1000 in 2001.<ref>{{cite journal |doi=10.2105/AJPH.2006.099598 |last1=Unger |first1=Jean-Pierre|last2=Buitrón |first2=René |last3=Soors |first3=Werner |last4=Soors |pmc=2376989 | year=2008 |first4=W. |title=Costa Rica: Achievements of a Heterodox Health Policy |journal=American Journal of Public Health |volume=98 |issue= 4|pages=636–643 |url=http://ajph.aphapublications.org/cgi/content/full/98/4/636 |pmid=17901439 }}</ref>
+
+Costa Rica has been cited in various journals as Central America's great health success story.{{Citation needed|date=December 2010}} Its healthcare system is ranked higher than that of the United States, despite having a fraction of its GDP.<ref>{{cite journal |last1=Jacob |first1=Brian | year=2009 |title=CLOSING THE GAPS: The Challenge to Protect Costa Rica's Health Care System |journal=The Georgetown Public Policy Review |issue= 77|url= https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=15+Geo.+Public+Pol%27y+Rev.+77&srctype=smi&srcid=3B15&key=c9ac6e737b89580642db61a5300fe8fc}}</ref> Prior to 1940, government hospitals and charities provided most health care. But since the 1941 creation of the Social Insurance Administration (''Caja Costarricense de Seguro Social'' – CCSS), Costa Rica has provided [[universal health care]] to its wage-earning residents, with coverage extended to dependants over time. In 1973, the CCSS took over administration of all 29 of the country's public hospitals and all health care, also launching a Rural Health Program (''Programa de Salud Rural'') for primary care to rural areas, later extended to primary care services nationwide. In 1993, laws were passed to enable elected health boards that represented health consumers, social insurance representatives, employers, and social organizations. By the year 2000, social health insurance coverage was available to 82% of the Costa Rican population. Each health committee manages an area equivalent to one of the 83 administrative cantons of Costa Rica. There is limited use of private, for-profit services (around 14.4% of the national total health expenditure). About 7% of GDP is allocated to the health sector, and over 70% is government funded.
+
+Primary health care facilities in Costa Rica include health clinics, with a [[general practitioner]], nurse, clerk, pharmacist and a primary health technician<!---, around one per two population--- Clarify?---->. In 2008, there were five specialty national hospitals, three general national hospitals, seven regional hospitals, 13 peripheral hospitals, and 10 major clinics serving as referral centers for primary care clinics, which also deliver biopsychosocial services, family and community medical services and promotion and prevention programs. Patients can choose private health care to avoid waiting lists.{{citation needed|date=March 2011}}
+
+Costa Rica is among the Latin America countries that have become popular destinations for [[medical tourism]].<ref name=Herrick>{{Cite book|last= Herrick|first=Devon M.|title=Medical Tourism: Global Competition in Health Care|year =2007|pages= 4–6, 9|publisher=National Center for Policy Analysis, Dallas, Texas| isbn =1-56808-178-2|url=http://www.unf.edu/brooks/center/pdfs/Medical%20Tourism%20Herrick.pdf|archiveurl=https://web.archive.org/web/20110720093845/http://www.unf.edu/brooks/center/pdfs/Medical%20Tourism%20Herrick.pdf|archivedate=2011-07-20}}</ref><ref name=Bookman>{{Cite book|last1=Bookman| first1=Milica Z.|last2=Bookman |first2=Karla R.| title =Medical Tourism in Developing Countries| year =2007| pages= 3–4, 58, 95, and 134–135|publisher=[[Palgrave Macmillan]], New York|isbn =978-0-230-60006-5}}</ref> In 2006, Costa Rica received 150,000 foreigners that came for medical treatment.<ref name=Herrick/><ref name=Bookman/><ref name=Stats>{{cite web|url=http://www.health-tourism.com/medical-tourism/statistics/|title=Medical Tourism Statistics and Facts|publisher=Health-Tourism.com|accessdate=2011-03-02}}</ref> Costa Rica is particularly attractive to Americans due to geographic proximity, high quality of medical services, and lower medical costs.<ref name=Bookman/>
+
+Since 2012, [[smoking in Costa Rica]] is subject to some of the most restrictive regulations in the world.
+
+==See also==
+{{portal|History|New Spain|Geography|North America|Central America|Latin America|Costa Rica}}
+*[[Index of Costa Rica-related articles]]
+*[[Outline of Costa Rica]]
+*[[Public finances in Costa Rica]]
+{{clear}}
+
+== References ==
+
+{{Reflist|30em}}
+
+== Further reading ==
+{{refbegin|30em}}
+* Blake, Beatrice. "The New Key to Costa Rica" Berkeley, California: Ulysses Press, 2009.
+* Edelman, Marc. ''Peasants Against Globalization: Rural Social Movements in Costa Rica'' Stanford: Stanford University Press, 1999.
+* Huhn, Sebastian: ''[http://www.giga-hamburg.de/dl/download.php?d=/content/publikationen/pdf/wp101_huhn.pdf Contested Cornerstones of Nonviolent National Self-Perception in Costa Rica: A Historical Approach]'', 2009.
+* Keller, Marius; Niestroy, Ingeborg; García Schmidt, Armando; Esche, Andreas. [http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-1B9BCB48-52BE5142/bst_engl/xcms_bst_dms_38974_39008_2.pdf "Costa Rica: Pioneering Sustainability"]. Excerpt (pp.&nbsp;81–102) from Bertelsmann Stiftung (ed.). ''Winning Strategies for a Sustainable Future''. Gütersloh, Germany: Verlag Bertelsmann Stiftung, 2013.
+* Lara, Sylvia Lara, Tom Barry, and Peter Simonson. ''Inside Costa Rica: The Essential Guide to Its Politics, Economy, Society and Environment'' London: Latin America Bureau, 1995.
+* Lehoucq, Fabrice E. and Ivan Molina. ''Stuffing the Ballot Box: Fraud, Electoral Reform, and Democratization in Costa Rica'' Cambridge: Cambridge University Press, 2002.
+* Lehoucq, Fabrice E. ''[http://www.iadb.org/res/publications/pubfiles/pubS-306.pdf Policymaking, Parties, and Institutions in Democratic Costa Rica]'', 2006.
+* Palmer, Steven and Iván Molina. ''The Costa Rica Reader: History, Culture, Politics'' Durham and London: Duke University Press, 2004.
+* Sandoval, Carlos. ''Threatening Others: Nicaraguans and the Formation of National Identities in Costa Rica'' Athens: Ohio University Press, 2004.
+* Wilson, Bruce M. ''Costa Rica: Politics, Economics, and Democracy: Politics, Economics and Democracy.'' Boulder, London: Lynne Rienner Publishers, 1998.
+{{refend}}
+
+== External links ==
+{{Sister project links|voy=Costa Rica }}
+*{{CIA_World_Factbook link|cs|Costa Rica}}
+*[http://ucblibraries.colorado.edu/govpubs/for/costarica.htm Costa Rica] at ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Central_America/Costa_Rica}}
+*[http://news.bbc.co.uk/2/hi/americas/country_profiles/1166587.stm Costa Rica profile] from the [[BBC News]]
+*{{Wikiatlas|Costa Rica}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=CR Key Development Forecasts for Costa Rica] from [[International Futures]]
+; Government and administration
+* [http://www.casapres.go.cr Casa Presidencial Official presidential website] {{es icon}}
+;Trade
+*[http://wits.worldbank.org/CountryProfile/Country/CRI/Year/2012/Summary World Bank Summary Trade Statistics Costa Rica]
+<!-- ********************************************************************
+Please do not place any more travel links here, or they will be removed - see Wikipedia policies at http://en.wikipedia.org/wiki/WP:EL or http://en.wikipedia.org/wiki/WP:SPAM. If you have a link that you REALLY think merits inclusion, please place it on the discussion page
+*********************************************************** -->
+
+{{Geographic location
+ | Centre = {{flagu|Costa Rica}}
+ | N  = {{Flag|Cuba}} <br /> ''[[Caribbean Sea]]''
+ | NE = {{Flag|Jamaica}} <br /> ''[[Caribbean Sea]]''
+ | E  = {{Flag|Panama}}
+ | SE = ''[[Pacific Ocean]]'' <br /> {{Flag|Colombia}} <br /> {{Flag|Ecuador}}
+ | S  = ''[[Pacific Ocean]]''
+ | SW = ''[[Pacific Ocean]]'' <br /> {{Flagicon|Ecuador}} [[Galápagos Islands]]
+ | W  = ''[[Pacific Ocean]]''
+ | NW = {{Flag|Nicaragua}}
+}}
+
+{{Costa Rica topics}}
+{{Navboxes
+|title = Geographic locale
+|list  =
+{{Central America topic}}
+{{North America topic}}
+}}
+
+{{Authority control}}
+
+[[Category:Costa Rica| ]]
+[[Category:Countries in the Caribbean]]
+[[Category:Countries in Central America]]
+[[Category:Former Spanish colonies]]
+[[Category:Liberal democracies]]
+[[Category:Republics]]
+[[Category:Spanish-speaking countries and territories]]
+[[Category:States and territories established in 1821]]
+[[Category:Member states of the United Nations]]
+[[Category:1821 establishments in North America]]

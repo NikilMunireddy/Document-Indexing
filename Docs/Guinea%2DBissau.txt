@@ -1,0 +1,434 @@
+Guinea-Bissau
+
+{{distinguish|Guinea|Equatorial Guinea|Papua New Guinea}}
+{{pp-move-indef|small=yes}}
+{{Use dmy dates|date=March 2015}}
+
+{{Infobox country
+|conventional_long_name = Republic of Guinea-Bissau
+|native_name = {{native name|pt|República da Guiné-Bissau|fontsize=70%}}
+|common_name = Guinea-Bissau
+|image_flag = Flag of Guinea-Bissau.svg
+|image_coat = Coat of arms of Guinea-Bissau.svg
+|symbol_type = Emblem
+|image_map = Location Guinea Bissau AU Africa.svg
+|map_caption = {{map caption |countryprefix= |location_color=dark blue |region=Africa |region_color=dark grey |subregion=the [[African Union]] |subregion_color=light blue}}
+|national_motto = <br/>{{native phrase|pt|"Unidade, Luta, Progresso"|italics=off|nolink=on}}<br/>{{small|"Unity, Fight, Progress"}}
+|national_anthem = <br/>{{native name|pt|[[Esta é a Nossa Pátria Bem Amada]]|nolink=on}}<br/>{{small|''This is Our Beloved Homeland''}}<br/><center>[[File:National Anthem of Guinea-Bissau by US Navy Band.ogg]]</center>
+|official_languages = [[Portuguese language|Portuguese]]
+|national_languages = [[Upper Guinea Creole]]
+|demonym = Bissau-Guinean<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#pu "Guinea-Bissau" – Field Listing: Nationality.] ''The World Factbook 2013-14.'' Washington, DC: Central Intelligence Agency, 2013. Retrieved 15 July 2015.</ref>
+|capital = [[Bissau]]
+|ethnic_groups =
+ {{unbulleted list
+  | 30% [[Balanta people|Balanta]]
+  | 20% [[Fula people|Fula]]
+  | 14% [[Manjack people|Manjaca]]
+  | 13% [[Mandinka people|Mandinga]]
+  |  7% [[Papel people|Papel]]
+  | &gt;1% others
+ }}
+|latd=11 |latm=52 |latNS=N |longd=15 |longm=36 |longEW=W
+|largest_city = capital
+|government_type = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[republic]]
+|leader_title1 = [[List of Presidents of Guinea-Bissau|President]]
+|leader_name1 = [[José Mário Vaz]]
+|leader_title2 = {{nowrap|[[List of Prime Ministers of Guinea-Bissau|Prime Minister]]}}
+|leader_name2 = [[Baciro Djá]]
+|legislature = {{nowrap|[[National People's Assembly (Guinea-Bissau)|National People's Assembly]]}}
+|area_rank = 136th
+|area_magnitude = 1 E9
+|area_km2 = 36,125
+|area_sq_mi = 13,948
+|percent_water = 22.4
+|population_estimate = 1,693,398<ref name="cia">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html|title=The World Factbook -- Field Listing - Population - CIA|accessdate=2015-03-07|publisher=Central Intelligence Agency}}</ref>
+|population_estimate_rank = 148th
+|population_estimate_year = 2014
+|population_density_km2 = 44.1
+|population_density_sq_mi = 115.5
+|population_density_rank = 154th
+|GDP_PPP = $2.838 billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=9&c=614%2C668%2C638%2C674%2C616%2C676%2C748%2C678%2C618%2C684%2C624%2C688%2C622%2C728%2C626%2C692%2C628%2C694%2C632%2C714%2C636%2C716%2C634%2C722%2C662%2C718%2C642%2C724%2C643%2C199%2C644%2C733%2C646%2C734%2C648%2C738%2C652%2C742%2C656%2C746%2C654%2C754%2C664%2C698%2C666&s=NGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Guinea-Bissau |publisher=International Monetary Fund |accessdate=17 April 2013}}</ref>
+|GDP_PPP_year = 2016
+|GDP_PPP_per_capita = $1,561<ref name=imf2/>
+|GDP_nominal = $1.116 billion<ref name=imf2/>
+|GDP_nominal_year = 2016
+|GDP_nominal_per_capita = $613<ref name=imf2/>
+|sovereignty_type = [[Guinea-Bissau War of Independence|Independence]] {{nobold|from [[Portugal]]}}
+|established_event1 = Declared
+|established_date1 = 24 September 1973
+|established_event2 = Recognized
+|established_date2 = 10 September 1974
+|Gini_year = 2002
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 35 <!--number only-->
+|Gini_ref = |Gini_rank =
+|HDI_year = 2013<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = steady<!--increase/decrease/steady-->
+|HDI = 0.396 <!--number only-->
+|HDI_rank = 177th
+|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |year=2014 |accessdate=27 July 2014 |publisher=United Nations Development Programme | pages=21–25}}</ref>
+|currency = [[West African CFA franc]]
+|currency_code = XOF
+|country_code =
+|time_zone = [[GMT]]
+|utc_offset = +0
+|time_zone_DST = |utc_offset_DST =
+|drives_on = right
+|calling_code = [[+245]]
+|cctld = [[.gw]]
+}}
+
+'''Guinea-Bissau''' ({{IPAc-en|audio=En-us-Guinea-Bissau.ogg|ˈ|ɡ|ɪ|n|i|_|b|ɪ|ˈ|s|aʊ}}, {{respell|GI|nee-bi|SOW|'}}), officially the '''Republic of Guinea-Bissau''' ({{lang-pt|República da Guiné-Bissau}}, {{IPA-pt|ʁeˈpublikɐ dɐ ɡiˈnɛ biˈsaw|pron}}), is a country in [[West Africa]]. It covers {{convert|36125|km2}} with an estimated population of 1,704,000.
+
+Guinea-Bissau was once part of the kingdom of [[Kaabu|Gabu]], as well as part of the [[Mali Empire]]. Parts of this kingdom persisted until the 18th century, while a few others were under some rule by the [[Portuguese Empire]] since the 16th century. In the 19th century, it was colonized as  [[Portuguese Guinea]]. Upon independence, declared in 1973 and recognised in 1974, the name of its capital, [[Bissau]], was added to the country's name to prevent confusion with Guinea (formerly [[French Guinea]]). Guinea-Bissau has a history of political instability since independence, and no elected president has successfully served a full five-year term.
+
+Only 14% of the population speaks [[Portuguese language|Portuguese]], established as the official language in the colonial period. Almost half the population (44%) speaks [[Guinea-Bissau Creole|Crioulo]], a [[Portuguese-based creole languages|Portuguese-based creole language]], and the remainder speak a variety of native African languages. The main religions are [[African traditional religions]] and [[Islam]]; there is a [[Christianity|Christian]] (mostly Roman Catholic) minority. The country's per-capita [[gross domestic product]] is one of the [[List of countries by GDP (PPP) per capita|lowest in the world]].
+
+Guinea-Bissau is a member of the [[United Nations]], [[African Union]], [[Economic Community of West African States]], [[Organisation of Islamic Cooperation]], the [[Latin Union]], [[Community of Portuguese Language Countries]], [[La Francophonie]] and the [[South Atlantic Peace and Cooperation Zone]].
+
+==History==
+{{Main|History of Guinea-Bissau|Portuguese Guinea}}
+Guinea-Bissau was once part of the kingdom of [[Kaabu|Gabu]], part of the [[Mali Empire]]; parts of this kingdom persisted until the 18th century. Other parts of the territory in the current country were considered by the Portuguese as part of [[Portuguese Empire|their empire]].<ref>[http://www.accessgambia.com/information/kaabu.html Empire of Kaabu, West Africa]. Accessgambia.com. Retrieved 22 June 2013.</ref> [[Portuguese Guinea]] was known as the [[Slave Coast]], as it was a major area for the exportation of African slaves by Europeans to the western hemisphere.
+
+Early reports of Europeans reaching this area include those of the [[Venice|Venetian]] [[Alvise Cadamosto]]'s voyage of 1455,<ref>[http://www.nndb.com/people/689/000095404/ Alvise Cadamosto]. Nndb.com. Retrieved 22 June 2013.</ref> the 1479–1480 voyage by Flemish-French trader [[Eustache de la Fosse]],<ref>{{cite book|author=Eustache De La Fosse|title=Voyage d'Eustache Delafosse sur la côte de Guinée, au Portugal et en Espagne: 1479–1481|url=https://books.google.com/books?id=kMEIcypviaAC|accessdate=19 December 2012|year=1992|publisher=Editions Chandeigne|isbn=978-2-906462-03-8}}</ref> and [[Diogo Cão]]. In the 1480s this Portuguese explorer reached the [[Congo River]] and the lands of [[Bakongo]], setting up the foundations of modern [[Angola]], some 4200&nbsp;km down the African coast from Guinea-Bissau.<ref>{{Wayback |df=yes|date=20070208055908 |url=http://www.win.tue.nl/~engels/discovery/cao.html |title=Diogo Cão }}. win.tue.nl</ref>
+
+Although the rivers and coast of this area were among the first places colonized by the Portuguese, who set up trading posts in the 16th century, they did not explore the interior until the 19th century. The local African rulers in Guinea, some of whom prospered greatly from the [[slave trade]], controlled the inland trade and did not allow the Europeans into the interior. They kept them in the fortified coastal settlements where the trading took place.<ref name="history">[http://africanhistory.about.com/od/guineabissau/p/GuineaBissauHs1.htm "A Brief History of Guinea-Bissau – Part 1"]. Africanhistory, US Department of State, at About.com. Retrieved 22 June 2013.</ref> African communities that fought back against slave traders also distrusted European adventurers and would-be settlers. The Portuguese in Guinea were largely restricted to the port of [[Bissau]] and [[Cacheu]]. A small number of European settlers established isolated farms along Bissau's inland rivers.<ref name="history"/>
+
+For a brief period in the 1790s, the British tried to establish a rival foothold on an offshore island, at [[Bolama]].<ref>[http://www.inep-bissau.org/Arquivos/Projectos/BritishLibraryEndangeredArchivesProgram/tabid/274/Default.aspx British Library – Endangered Archive Programme (EAP)]. Inep-bissau.org (18 March 1921). Retrieved 22 June 2013.</ref> But by the 19th century the Portuguese were sufficiently secure in Bissau to regard the neighbouring coastline as their own special territory, also up north in part of present South Senegal.
+
+An [[Guinea-Bissau War of Independence|armed rebellion]] beginning in 1956 by the [[Partido Africano da Independência da Guiné e Cabo Verde|African Party for the Independence of Guinea and Cape Verde]] (PAIGC) under the leadership of [[Amílcar Cabral]] gradually consolidated its hold on then [[Portuguese Guinea]].<ref>[http://www.marxists.org/subject/africa/cabral/1966/weapon-theory.htm Amilcar Cabral 1966 "The Weapon of Theory"]. Address delivered to the first Tricontinental Conference of the Peoples of Asia, Africa and Latin America held in Havana in January 1966. Marxists.org. Retrieved 22 June 2013.</ref> Unlike guerrilla movements in other [[Portuguese Empire|Portuguese colonies]], the PAIGC rapidly extended its military control over large portions of the territory, aided by the jungle-like terrain, its easily reached borderlines with neighbouring allies, and large quantities of arms from [[Cuba]], [[China]], the [[Soviet Union]], and left-leaning African countries.<ref>[http://www.marxists.org/subject/africa/cabral/paigcpgm.htm The PAIC Programme Appendix]. Marxists.org. Retrieved 22 June 2013.</ref> Cuba also agreed to supply artillery experts, doctors, and technicians.<ref name="Cuba! Africa! Revolution!">{{cite video
+| people = El Tahri, Jihan
+|year = 2007
+| title = Cuba! Africa! Revolution!
+| url = http://www.bbc.co.uk/programmes/b0074tpz
+| accessdate =2 May 2007
+| publisher = BBC Television
+| time= 50:00–60:00}}
+</ref> The PAIGC even managed to acquire a significant anti-aircraft capability in order to defend itself against aerial attack. By 1973, the PAIGC was in control of many parts of Guinea, although the movement suffered a setback in January 1973 when Cabral was assassinated.<ref>{{cite news| url=http://www.guardian.co.uk/global-development/poverty-matters/2011/jan/17/lumumba-50th-anniversary-african-leaders-assassinations | location=London | work=The Guardian | first=Victoria | last=Brittain | title=Africa: a continent drenched in the blood of revolutionary heroes | date=17 January 2011}}</ref>
+
+===Independence (1973)===
+[[File:Hastear da bandeira da Guiné Bissau após o arrear da de Portugal.jpg|250px|thumb|[[PAIGC]] forces raise the [[flag of Guinea-Bissau]] in 1974.]]
+Independence was unilaterally declared on 24 September 1973. Recognition became universal following the 25 April 1974 socialist-inspired [[Carnation Revolution|military coup]] in Portugal, which overthrew Lisbon's [[Estado Novo (Portugal)|Estado Novo regime]].<ref>[http://diplomaticandconsular.com/index.php?option=com_content&view=article&id=377&catid=123&Itemid=29&act=cp Embassy of The Republic of Guinea-Bissau – Country Profile]. Diplomaticandconsular.com (12 April 2012). Retrieved 22 June 2013.</ref>
+
+[[Luís Cabral]], brother of Amílcar and co-founder of PAIGC, was appointed the first [[President of Guinea-Bissau]]. Following independence, the PAIGC killed thousands of local Guinean soldiers who had fought along with the [[Portuguese Army]] against guerrillas. Some escaped to settle in Portugal or other African nations.<ref>[http://expresso.sapo.pt/guine-bissau-morreu-luis-cabral-primeiro-presidente-do-pais=f517916 Guiné-Bissau: Morreu Luís Cabral, primeiro presidente do país]. Expresso.sapo.pt (30 May 2009). Retrieved 22 June 2013.</ref> One of the massacres occurred in the town of [[Bissorã]]. In 1980 the PAIGC acknowledged in its newspaper ''Nó Pintcha'' (dated 29 November 1980) that many Gueinean soldiers had been executed and buried in unmarked collective graves in the woods of Cumerá, Portogole, and Mansabá.
+
+The country was controlled by a revolutionary council until 1984. The first multi-party elections were held in 1994. An army uprising in May 1998 led to the [[Guinea-Bissau Civil War]] and the president's ousting in June 1999.<ref>[http://www.ucdp.uu.se/gpdatabase/gpcountry.php?id=68&regionSelect=2-Southern_Africa# [[Uppsala Conflict Data Program]] Conflict Encyclopedia, Guinea Bissau: government, in depth, Negotiations, Veira's surrender and the end of the conflict], viewed 12 July 2013,</ref> Elections were held again in 2000, and [[Kumba Ialá]] was elected president.<ref>[http://www.afrol.com/articles/16350 Guinea-Bissau's Kumba Yala: from crisis to crisis]. Afrol.com. Retrieved 22 June 2013.</ref>
+
+In September 2003, a military coup was conducted. The military arrested Ialá on the charge of being "unable to solve the problems".<ref>Smith, Brian (27 September 2003) [http://www.wsws.org/articles/2003/sep2003/guin-s27.shtml "US and UN give tacit backing to Guinea Bissau coup"],  Wsws.org, September 2003. Retrieved 22 June 2013</ref> After being delayed several times, [[Guinea-Bissau legislative election, 2004|legislative elections]] were held in March 2004. A [[mutiny]] of military factions in October 2004 resulted in the death of the head of the armed forces and caused widespread unrest.
+
+===Vieira years===
+[[File:Bissau - Abandoned tank.JPG|thumb|300px|An abandoned tank from the [[Guinea-Bissau Civil War|1998–1999 civil war]] in the capital [[Bissau]], 2003.]]
+In June 2005, presidential elections were held for the first time since the coup that deposed Ialá. Ialá returned as the candidate for the PRS, claiming to be the legitimate president of the country, but the election was won by former president [[João Bernardo Vieira]], deposed in the 1999 coup. Vieira beat [[Malam Bacai Sanhá]] in a runoff election. Sanhá initially refused to concede, claiming that [[electoral fraud|tampering]] and electoral fraud occurred in two [[constituencies]] including the capital, Bissau.<ref>[http://www.irinnews.org/Report/55801/GUINEA-BISSAU-Vieira-officially-declared-president GUINEA-BISSAU: Vieira officially declared president]. irinnews.org (10 August 2005).</ref>
+
+Despite reports of arms entering the country prior to the election and some "disturbances during campaigning," including attacks on government offices by unidentified gunmen, foreign [[Election monitoring|election monitors]] described the 2005 election overall as "calm and organized".<ref>{{cite news | title=Army man wins G Bissau election | publisher=BBC News | date=28 July 2005 | url=http://news.bbc.co.uk/1/hi/world/africa/4723627.stm | accessdate=5 January 2010 | location=London}}</ref>
+
+Three years later, PAIGC won a strong parliamentary majority, with 67 of 100 seats, in the parliamentary election held in November 2008.<ref>[https://www.google.com/hostednews/afp/article/ALeqM5hcxUy2rY8cESZ5tK12XKzJzkzLgw Guinea Bissau vote goes smooth amid hopes for stability]. AFP via Google.com (16 November 2008). Retrieved 22 June 2013.</ref> In November 2008, President Vieira's official residence was attacked by members of the armed forces, killing a guard but leaving the president unharmed.<ref>{{cite news|url=http://www.independent.co.uk/news/world/africa/coup-attempt-fails-in-guineabissau-1032371.html |title=Coup attempt fails in Guinea-Bissau |publisher=The Independent UK independent.co.uk |date=24 November 2008 |accessdate=28 June 2010 | location=London | first=Assimo | last=Balde}}</ref>
+
+On 2 March 2009, however, Vieira was assassinated by what preliminary reports indicated to be a group of soldiers avenging the death of the head of joint chiefs of staff, General [[Batista Tagme Na Wai]]. Tagme died in an explosion on Sunday, 1 March 2009, target of an assassination. Military leaders in the country pledged to respect the constitutional order of succession. National Assembly Speaker [[Raimundo Pereira]] was appointed as an interim president until a nationwide [[Guinea-Bissau presidential election, 2009|election]] on 28 June 2009.<ref>{{cite web|url=http://www.bissaudigital.com/noticias.php?idnoticia=3609 |title=Já foi escolhida a data para a realização das eleições presidenciais entecipadas |publisher=Bissaudigital.com |date=1 April 2009 |accessdate=26 June 2010}}</ref> It was won by [[Malam Bacai Sanhá]].
+
+On the evening of 12 April 2012, members of the country's military staged a [[2012 Guinea-Bissau coup d'état|coup d'état]] and arrested the interim president and a leading presidential candidate.<ref>{{cite news | title=Tiny Guinea-Bissau becomes latest West African nation hit by coup  | date=12 April 2012 | url=http://www.mcclatchydc.com/2012/04/12/145057/tiny-guinea-bassau-becomes-latest.html | accessdate=14 April 2012 | location=Bissau}}</ref> Former vice chief of staff, General [[Mamadu Ture Kuruma]], assumed control of the country in the transitional period and started negotiations with opposition parties.<ref>{{cite web|url=https://www.google.com/hostednews/afp/article/ALeqM5gq-cyAdeGs3liZQlCd2mIxBvmQog?docId=CNG.a1b03f8f1a0eb41d95bf872bb307d7bf.681 |title=Fears grow for members of toppled G.Bissau government |agency=Agence France-Presse |date=14 April 2012 |accessdate=2 May 2012|author=Embalo, Allen Yero }}</ref><ref>{{cite web|url=http://www.rnw.nl/africa/bulletin/guinea-bissau-opposition-vows-reach-deal-junta |title=Guinea-Bissau opposition vows to reach deal with junta &#124; Radio Netherlands Worldwide |publisher=Rnw.nl |date=15 April 2012 |accessdate=2 May 2012}}</ref>
+
+==Politics==
+{{Main|Politics of Guinea-Bissau}}
+[[File:Bissau3.jpg|thumb|300px|The [[National People's Assembly (Guinea-Bissau)|National People's Assembly of Guinea-Bissau]].]]
+
+Guinea-Bissau is a [[republic]]. In the past, the government had been highly centralized. Multi-party governance was not established until mid-1991. The president is the head of state and the prime minister is the head of government. Since 1974, no president has successfully served a full five-year term.<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html CIA Factbook: Guinea-Bissau] "Introduction"</ref>
+
+At the legislative level, a unicameral ''Assembleia Nacional Popular'' ([[National People's Assembly of Guinea-Bissau|National People's Assembly]]) is made up of 100 members. They are popularly elected from multi-member constituencies to serve a four-year term. The judicial system is headed by a ''Tribunal Supremo da Justiça'' (Supreme Court), made up of nine justices appointed by the president; they serve at the pleasure of the president.<ref>[http://www.stj.pt/internacional/cptlp/201-cptlp-guine Guinea-Bissau Supreme Court]. Stj.pt. Retrieved 22 June 2013.</ref>
+
+===Political culture===
+[[João Bernardo Vieira|João Bernardo "Nino" Vieira]] was elected in 2005 as President of Guinea-Bissau as an independent, being declared winner of the second round by the CNE (Comité Nacional de Eleições). Vieira returned to power in 2005 six years after being ousted from office during a civil war. Previously, he held power for 19 years after taking power in 1980 in a [[bloodless coup]]. In that action, he toppled the government of Luís Cabral.
+
+He was killed on 2 March 2009, possibly by soldiers in retaliation for the assassination of General [[Batista Tagme Na Waie]], the head of the joint chiefs of staff, killed in an explosion.<ref>{{Wayback |df=yes|date=20090308111020 |url=http://www.news.com.au/dailytelegraph/story/0,22049,25128786-5012772,00.html |title=Soldiers kill fleeing President }}. news.com.au (2 March 2009).</ref> Vieira's death did not trigger widespread violence, but there were signs of turmoil in the country, according to the [[advocacy group]] [[Swisspeace]].<ref>{{cite web|url=http://beforeproject.org/2009/05/on-the-radio-waves-in-guinea-bissau/ |title=On the Radio Waves in Guinea-Bissau |last=Elections, Guinea-Bissau |date=27 May 2009 |publisher=swisspeace |accessdate=7 February 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20091208151404/http://beforeproject.org/2009/05/on-the-radio-waves-in-guinea-bissau/ |archivedate=8 December 2009 }}</ref> [[Malam Bacai Sanhá]] was elected after a transition. In the 2009 election to replace the assassinated Vieira, Sanhá was the presidential candidate of the PAIGC while [[Kumba Ialá]] was the presidential candidate of the PRS.
+
+In 2012, President Rachide Sambu-balde [[Malam Bacai Sanhá]] died. He belonged to PAIGC ([[African Party for the Independence of Guinea and Cape Verde]]), one of the two major political parties in Guinea-Bissau, along with the PRS ([[Party for Social Renewal]]). There are more than 20 minor parties.<ref>[http://www.nationsencyclopedia.com/Africa/Guinea-Bissau-POLITICAL-PARTIES.html#b Guinea-Bissau Political Parties]. Nationsencyclopedia.com. Retrieved 22 June 2013.</ref>
+
+===Foreign relations===
+{{Further|Foreign relations of Guinea-Bissau}}
+
+Guinea-Bissau follows a nonaligned foreign policy and seeks friendly and cooperative relations with a wide variety of states and organizations.
+
+===Military===
+{{Further|Military of Guinea-Bissau}}
+
+A 2008 estimate put the size of the Guinea-Bissau Armed Forces at around 4,000 personnel.<ref>http://www.un.org/peace/peacebuilding/Country-Specific%20Configurations/Guinea-Bissau/Background%20Paper%20on%20SSR%2018.06.2008.pdf</ref>
+
+===Administrative divisions===
+{{main|Regions of Guinea-Bissau|Sectors of Guinea-Bissau}}
+
+{{Regions of Guinea-Bissau Image Map}}
+Guinea-Bissau is divided into eight [[Regions of Guinea-Bissau|regions]] ({{lang|pt|''regiões''}}) and one [[Autonomous entity|autonomous]] [[Sectors of Guinea-Bissau|sector]] ({{lang|pt|''sector autónomo''}}). These, in turn, are subdivided into 37 [[Sectors of Guinea-Bissau|Sector]]s. The regions are:
+{{columns
+|col1 =
+*[[Bafatá Region|Bafatá]]
+*[[Biombo Region|Biombo]]
+*[[Bissau Region|Bissau]]{{sup|a}}
+*[[Bolama Region|Bolama]]
+*[[Cacheu Region|Cacheu]]
+*[[Gabu Region|Gabu]]
+*[[Oio Region|Oio]]
+*[[Quinara Region|Quinara]]
+*[[Tombali Region|Tombali]]
+{{small|{{sup|a}} [[Autonomous administrative division|Autonomous]] sector.}}
+|col2 =
+}}
+
+==Geography==
+{{Main|Geography of Guinea-Bissau}}
+
+[[File:Un-guinea-bissau.png|thumb|450px|A map of Guinea Bissau.]]	
+[[File:20130612-DSC 9042 (9290793821) (2).jpg|thumb|Bissau-Guinean landscape.]]
+[[File:20130611-DSC 9018 (9290631541) (2).jpg|thumb|230px|Typical scenery in Guinea-Bissau.]]
+
+Guinea-Bissau is bordered by [[Senegal]] to the north and [[Guinea]] to the south and east, with the [[Atlantic Ocean]] to its west. It lies mostly between latitudes [[11th parallel north|11°]] and [[13th parallel north|13°N]] (a small area is south of 11°), and longitudes [[13th meridian west|13°]] and [[17th meridian west|17°W]].
+
+At {{convert|36125|km2|sqmi|0}}, the country is larger in size than [[Taiwan]] or [[Belgium]]. It lies at a low altitude; its highest point is {{convert|300|m|ft|0}}. The terrain of is mostly low coastal plain with swamps of [[Guinean mangroves]] rising to [[Guinean forest-savanna mosaic]] in the east.<ref name=fact>[https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html]</ref> Its [[monsoon]]-like rainy season alternates with periods of hot, dry [[harmattan]] winds blowing from the [[Sahara]]. The [[Bijagos Archipelago]] lies off of the mainland.<ref>Nossiter, Adam (4 November 2009) [http://travel.nytimes.com/2009/11/08/travel/08Bijagos.html?pagewanted=all&_r=0 "Bijagós, a Tranquil Haven in a Troubled Land"], ''The New York Times'', 8 November 2009</ref>
+
+===Climate===
+{{main|Climate of Guinea-Bissau}}
+
+Guinea-Bissau is warm all year around and there is little temperature fluctuation; it averages {{convert|26.3|C|F}}. The average rainfall for Bissau is {{convert|2024|mm|in|1}} although this is almost entirely accounted for during the rainy season which falls between June and September/October. From December through April, the country experiences drought.<ref>[http://www.nationsencyclopedia.com/Africa/Guinea-Bissau-CLIMATE.html#b Guinea-Bissau Climate]. Nationsencyclopedia.com. Retrieved 22 June 2013.</ref>
+
+[[File:Klimadiagramm-deutsch-Bissau-Guinea-Bissau.png|centre|600px]]
+
+===Environmental issues===
+Severe environmental issues include [[deforestation]]; soil erosion; overgrazing and overfishing.<ref name="fact"/>
+
+==Economy==
+{{Main|Economy of Guinea-Bissau}}
+[[File:20130610-DSC_8982_(9104448544)_(2).jpg|thumb|350px|A neighborhood in Bissau.]]
+
+Guinea-Bissau's [[GDP per capita]] is one of the [[List of countries by GDP (PPP) per capita|lowest in the world]], and its [[Human Development Index]] is one of the [[List of countries by Human Development Index|lowest on earth]]. More than two-thirds of the population lives below the poverty line.<ref>[http://data.worldbank.org/country/guinea-bissau World Bank profile]. World Bank.org (31 May 2013). Retrieved 22 June 2013.</ref> The economy depends mainly on agriculture; fish, [[cashew nuts]] and [[ground nuts]] are its major exports.
+
+A long period of political instability has resulted in depressed economic activity, deteriorating social conditions, and increased macroeconomic imbalances. It takes longer on average to register a new business in Guinea-Bissau (233 days or about 33 weeks) than in any other country in the world except [[Suriname]].  [The Economist, Pocket World in Figures, 2008 Edition, London: Profile Books]
+
+Guinea-Bissau has started to show some economic advances after a pact of stability was signed by the main political parties of the country, leading to an [[IMF]]-backed structural reform program.<ref>[http://www.imf.org/external/country/gnb/index.htm Guinea-Bissau and the IMF]. Imf.org (13 May 2013). Retrieved 22 June 2013.</ref> The key challenges for the country in the period ahead are to achieve fiscal discipline, rebuild public administration, improve the economic climate for private investment, and promote economic diversification. After the country became independent from Portugal in 1974 due to the [[Portuguese Colonial War]] and the [[Carnation Revolution]], the rapid exodus of the Portuguese civilian, military, and political authorities resulted in considerable damage to the country's economic infrastructure, [[social order]], and [[standard of living]].
+
+After several years of economic downturn and political instability, in 1997, Guinea-Bissau entered the [[CFA franc]] monetary system, bringing about some internal monetary stability.<ref>[http://www.uemoa.int/Pages/Home.aspx CFA Franc and Guinea-Bissau]. Uemoa.int. Retrieved 22 June 2013.</ref> The civil war that took place in 1998 and 1999, and a military coup in September 2003 again disrupted economic activity, leaving a substantial part of the economic and social infrastructure in ruins and intensifying the already widespread poverty. Following the parliamentary elections in March 2004 and presidential elections in July 2005, the country is trying to recover from the long period of instability, despite a still-fragile political situation.
+
+Beginning around 2005, drug traffickers based in Latin America began to use Guinea-Bissau, along with several neighboring West African nations, as a transshipment point to Europe for [[cocaine]].<ref>[http://www.time.com/time/photogallery/0,29307,1933291,00.html Guinea-Bissau:A narco-state?]. ''Time''. (29 October 2009). Retrieved 22 June 2013.</ref> The nation was described by a United Nations official as being at risk for becoming a "[[narco-state]]".<ref name="drugs">{{cite news | title=Route of Evil: How a tiny West African nation became a key smuggling hub for Colombian cocaine, and the price it is paying| url=http://www.washingtonpost.com/wp-dyn/content/article/2008/05/24/AR2008052401676.html | newspaper=The Washington Post | last=Sullivan | first=Kevin | date=25 May 2008}}</ref> The government and the military have done little to stop drug trafficking, which increased after the [[2012 Guinea-Bissau coup d'état|2012 coup d'état]].<ref>{{cite news | title=Guinea-Bissau drug trade 'rises since coup' | publisher=BBC News | date=31 July 2012 | url=http://www.bbc.co.uk/news/world-africa-19060861 | accessdate=5 October 2012 | location=London}}</ref>
+
+Guinea-Bissau is a member of the [[Organization for the Harmonization of Business Law in Africa]] ([[OHADA]]).<ref name="ohada.com">{{cite web | title = OHADA.com: The business law portal in Africa | url = http://www.ohada.com/index.php | accessdate =22 March 2009}}</ref>
+
+==Society==
+
+===Demographics===
+{{Main|Demographics of Guinea-Bissau}}
+
+[[File:Guinea-Bissau demography.png|thumb|350px|Guinea-Bissau's population between 1961 and 2003.]]
+[[File:Pyramide Guinee-Bissau.PNG|thumb|350px|Guinea-Bissau's [[population pyramid]], 2005. In 2010, 41.3% of Guinea-Bissau's population were aged under 15.<ref name="WPP 2010"/>]]
+[[File:Gabumainstreet.jpg|thumb|right|200px|Guinea-Bissau's third largest city, [[Gabú]]]]
+
+According to the 2010 revison of the UN ''World Population Prospects'', Guinea-Bissau's population was 1,515,000 in 2010, compared to 518,000 in 1950.<ref name="WPP 2010"/> The proportion of the population below the age of 15 in 2010 was 41.3%, 55.4% were aged between 15 and 65 years of age, while 3.3% were aged 65 years or older.<ref name="WPP 2010">[http://esa.un.org/unpd/wpp/index.htm Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2010 Revision]</ref>
+
+===Ethnic groups===
+The population of Guinea-Bissau is ethnically diverse and has many distinct languages, customs, and social structures.
+
+Guinea-Bissauans can be divided into the following ethnic groups:
+*[[Fula people|Fula]] and the [[Mandinka language|Mandinka]]-speaking people, who comprise the largest portion of the population and are concentrated in the north and northeast;
+*[[Balanta]] and Papel people, who live in the southern coastal regions; and
+*[[Manjaco]] and Mancanha, who occupy the central and northern coastal areas.
+Most of the remainder are ''[[mestizo|mestiços]]'' of mixed [[Portuguese people|Portuguese]] and African descent, including a [[Cape Verde]]an minority.<ref>[http://www.joshuaproject.net/countries.php?rog3=PU Guinea-Bissau ethnic classifications], Joshuaproject.net. Retrieved 22 June 2013.</ref>
+
+Portuguese natives comprise a very small percentage of Guinea-Bissauans. After Guinea-Bissau gained independence, most of the Portuguese nationals left the country. The country has a tiny [[overseas Chinese|Chinese]] population.<ref>[http://www.china.org.cn/english/features/focac/183519.htm China-Guinea-Bissau]. China.org.cn. Retrieved 22 June 2013.</ref> These include traders and merchants of mixed Portuguese and Chinese ancestry from [[Macau]], a former Asian [[Portugal|Portuguese]] colony.
+
+===Major cities===
+Main cities in Guinea-Bissau include:
+
+{| class="wikitable"
+|-
+!rowspan="2" | Rank !! rowspan="2" | City !! colspan="2" | Population !! rowspan="2" | Region
+|-
+!1979 Census !! 2005 estimate
+|-
+|align=right | 1 || [[Bissau]] || align=right | 109,214 || align=right | 388,028 || [[Bissau Region|Bissau]]
+|-
+|align=right | 2 || [[Bafatá]] || align=right | 13,429 || align=right | 22,521 || [[Bafatá Region|Bafatá]]
+|-
+|align=right | 3 || [[Gabú]] || align=right | 7,803 || align=right | 14,430 || [[Gabú Region|Gabú]]
+|-
+|align=right | 4 || [[Bissorã]] || align=right | ''N/A'' || align=right | 12,688 || [[Oio Region|Oio]]
+|-
+|align=right | 5 || [[Bolama]] || align=right | 9,100 || align=right | 10,769 || [[Bolama Region|Bolama]]
+|-
+|align=right | 6 || [[Cacheu]] || align=right | 7,600 || align=right | 10,490 || [[Cacheu Region|Cacheu]]
+|-
+|align=right | 7 || [[Bubaque]] || align=right | 8,400 || align=right | 9,941 || [[Bolama Region|Bolama]]
+|-
+|align=right | 8 || [[Catió]] || align=right | 5,170 || align=right | 9,898 || [[Tombali Region|Tombali]]
+|-
+|align=right | 9 || [[Mansôa]] || align=right | 5,390 || align=right | 7,821 || [[Oio Region|Oio]]
+|-
+|align=right | 10 || [[Buba]] || align=right | ''N/A'' || align=right | 7,779 || [[Quinara Region|Quinara]]
+|-
+|align=right | 11 || [[Quebo]] || align=right | ''N/A'' || align=right | 7,072 || [[Quinara Region|Quinara]]
+|-
+|align=right | 12 || [[Canchungo]] || align=right | 4,965 || align=right | 6,853 || [[Cacheu Region|Cacheu]]
+|-
+|align=right | 13 || [[Farim]] || align=right | 4,468 || align=right | 6,792 || [[Oio Region|Oio]]
+|-
+|align=right | 14 || [[Quinhámel]] || align=right | ''N/A'' || align=right | 3,128 || [[Biombo Region|Biombo]]
+|-
+|align=right | 15 || [[Fulacunda]] || align=right | ''N/A'' || align=right | 1,327 || [[Quinara Region|Quinara]]
+|}
+
+===Languages===
+{{Main|Languages of Guinea-Bissau}}
+14% of the population speaks the official language [[Portuguese language|Portuguese]],  the language of government and national communication during centuries of colonial rule. 44% speak [[Guinea-Bissau Creole|Kriol]], a [[Portuguese-based creole languages|Portuguese-based creole language]], which is effectively a national language of communication among groups. The remainder speak a variety of native African languages unique to ethnicities.<ref>[http://www.ethnologue.org/show_language.asp?code=pov Crioulo, Upper Guinea]. Ethnologue.org. Retrieved 22 June 2013.</ref>
+
+Most Portuguese and Mestiços speak one of the African languages and Kriol as second languages. French is also taught in schools because Guinea-Bissau is surrounded by French-speaking nations. Guinea-Bissau is a full member of the [[Francophonie]].<ref>[http://www.francophonie.org/Welcome-to-the-International.html WELCOME TO THE INTERNATIONAL ORGANISATION OF LA FRANCOPHONIE'S OFFICIAL WEBSITE]. Francophonie.org. Retrieved 22 June 2013.</ref>
+
+===Religion===
+{{main|Religion  in Guinea-Bissau}}
+{{Bar box
+|title=Religion in Guinea-Bissau<ref name="Ref-1">[https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html "Guinea-Bissau"], ''CIA the World Factbook'', Cia.gov. Retrieved 5 February 2012.</ref><ref name=EB/>
+|titlebar=#ddd
+|width   =  200px
+|barwidth= 100px
+|left1=religion
+|right1=percent
+|float=right
+|bars=
+{{Bar percent|Islam|green|50}}
+{{Bar percent|[[Indigenous peoples|Indigenous]]|red|40}}
+{{Bar percent|Christianity|blue|10}}
+}}
+[[File:Bafata1.jpg|thumb|300px|Men in Islamic garb, [[Bafatá]], Guinea-Bissau.]]
+Throughout the 20th century, most Bissau-Guineans practiced some form of [[Animism]]. In the early 21st century, many have adopted Islam, which is now practiced by 50% of the country's population. Most of Guinea-Bissau's Muslims are of the [[Sunni Islam|Sunni]] denomination with approximately 2% belonging to the [[Ahmadiyya]] sect.<ref name="pew">{{cite web |url=http://www.pewforum.org/uploadedFiles/Topics/Religious_Affiliation/Muslim/the-worlds-muslims-full-report.pdf | title=The World's Muslims: Unity and Diversity | accessdate=2 June 2014 | date=9 August 2012 | publisher=Pew Forum on Religious & Public life}}</ref>
+
+Approximately 10% of the country's population belong to the Christian community, and 40% continue to hold [[Indigenous peoples|Indigenous]] beliefs. These statistics can be misleading, however, as many residents practice syncretic forms of Islamic and Christian faiths, combining their practices with traditional African beliefs.<ref name="Ref-1"/><ref name=EB>[http://www.britannica.com/EBchecked/topic/248853/Guinea-Bissau/ "Guinea-Bissau"], ''Encyclopædia Britannica''</ref>
+
+===Health===
+The [[World Health Organization|WHO]] estimates there are fewer than 5 physicians per 100,000 persons in the country,<ref>The WHO identified only 78 physicians in the entire Guinea-Bissau health workforce in 2009 data. ({{cite web |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title= Health workforce, infrastructure, essential medicines |page= 118 |year= 2010 |format= PDF }}) And the World Bank estimates that Guinea-Bissau had [https://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&idim=country:GNB&dl=en&hl=en&q=guinea-bissau+population 1,575,446 residents in 2008]. At the current rate of growth, 2009 population was expected to reach about 1.61 million people. Only 0.0048% are known to be medical doctors involved in patient care. The WHO estimate an average of about 20 per 100,000 across Africa, but reports a density per 10,000 population of '''<0.5''' in its ''Physicians data covering the period to 2009''. Guinea-Bissau has an unusually high ratio of nursing staff to doctors: including nurses and [[midwive]]s; there are 64 medical professionals per 100,000 Bissau-Guineans</ref> down from 12 per 100,000 in 2007.<ref>The WHO estimates that there were 188 physicians working in the entire country {{As of|2007|lc=y}} ({{cite web |url= http://www.who.int/whosis/whostat/EN_WHS09_Table6.pdf |title= Health workforce, infrastructure, essential medicines |page= 98 |year= 2009}}). And The [[World Bank]] estimates that Guinea-Bissau had 1,541,040 residents in 2007 ({{cite web |url= https://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&idim=country:GNB&dl=en&hl=en&q=guinea-bissau+population |title=  Midyear estimates of the resident population |year= 2010}}). So, about 0.0122% of the permanent population were known to be medical doctors involved in patient care, {{As of|2007|lc=y}}.</ref>
+
+The prevalence of HIV-infection among the adult population is 1.8%.<ref name="notTwentyPercent">The WHO estimates a 1.8% HIV-infection rate from 2007 data among 15- to 49-year-old Bissau-Guineans – see statistics on page 65 of: {{cite web |publisher= WHO |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title= 2. Cause-specific mortality and morbidity |format= PDF |year= 2010}}. (The section's introduction describes estimation methodology).</ref> Only 20% of infected pregnant women [[Antiretroviral drug#Prevention of mother-to-child-transmission (PMTCT)|receive anti retroviral coverage]] to prevent transmission to newborns.<ref>{{As of|2008}}, only 20% of HIV-infected mothers or sufferers with advanced cases had anti-retroviral drug access, see: {{cite web |publisher= WHO |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title= Health service coverage |page= 91 |year= 2010}}. Coverage in the general population is lower.</ref>
+
+[[Malaria]] kills more residents; 9% of the population have reported infection,<ref>{{cite web |publisher= WHO |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title= Selected infectious diseases |page= 76 |year= 2010 |accessdate=9 June 2010 }} – 148,542 reported cases in 2008.</ref> It causes three times as many deaths as AIDS.<ref>According to the 2010 WHO report, the latest Malaria mortality rate per 100,000 Bissau-Guineans (180) is substantially greater than that for AIDS (65). ({{cite web |publisher= WHO |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title= Cause-specific mortality and morbidity |page= 64 |year= 2010 |accessdate=9 June 2010 }}) Among children younger than 5, malaria is nine times more deadly (p. 65).</ref> In 2008, fewer than half of children younger than five slept under [[Mosquito net|antimalaria nets]] or had access to [[antimalarial drugs]].<ref>{{cite web |publisher= WHO |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title= Global Health Indicators: 4. Health service coverage |page= 91 |year= 2010}}</ref>
+
+The [[World Health Organization|WHO]]'s estimate of life expectancy for a child born in 2008 was 49 years and 47 years for a boy.<ref>{{cite web |url= http://www.who.int/whosis/whostat/EN_WHS10_Part2.pdf |title=  Global Health Indicators: Mortality and burden of disease |page= 50 |year= 2010}}. ''Healthy'' [[life expectancy]] at birth was 42. The probability of dying between a live-birth and age 5 was 19.5% (down from 24% in 1990, p.51).</ref>
+
+Despite lowering rates in surrounding countries, [[cholera]] rates were reported in November 2012 to be on the rise, with 1,500 cases reported and nine deaths. A 2008 cholera epidemic in Guinea-Bissau affected 14,222 people and killed 225.<ref>{{cite web
+| url = http://allafrica.com/stories/201211141254.html?aa_source=mf-hdlns
+| title = Guinea Bissau: Cholera On the Rise
+| year = 2012
+| publisher = [[allafrica.com]]
+| accessdate = 15 November 2012
+}}</ref>
+
+The 2010 [[maternal mortality]] rate per 100,000 births for Guinea Bissau was 1000. This compares with 804.3 in 2008 and 966 in 1990. The under 5 mortality rate, per 1,000 births, was 195 and the neonatal mortality as a percentage of under 5's mortality was 24. The number of midwives per 1,000 live births was 3; one out of eighteen [[pregnant women]] die as a result of pregnancy.<ref name="SOWMY">{{cite web|url=http://www.unfpa.org/sowmy/report/home.html|title=The State Of The World's Midwifery|publisher=United Nations Population Fund|accessdate=August 2011}}</ref> According to a 2013 UNICEF report, 50% of women in Guinea Bissau had undergone [[female genital mutilation]].<ref name=UNICEF2013p27>[http://www.unicef.org/media/files/FGCM_Lo_res.pdf UNICEF 2013], p. 27.</ref> In 2010, Guinea Bissau had the 7th highest maternal mortality rate in the world.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2223rank.html|title=Country Comparison :: Maternal mortality rate|work=The World Factbook|accessdate=15 October 2014}}</ref>
+
+===Education===
+{{main|Education  in Guinea-Bissau}}
+Education is compulsory from the age of 7 to 13.<ref name="dol.gov">{{cite web|url=http://www.dol.gov/ilab/media/reports/iclp/tda2001/guinea-bissau.htm |title=Bureau of International Labor Affairs (ILAB) – U.S. Department of Labor |publisher=Dol.gov |accessdate=26 June 2010}}</ref> The enrollment of boys is higher than that of girls.<ref name="dol.gov"/> In 1998, the gross primary enrollment rate was 53.5%, with higher enrollment ratio for males (67.7%) compared to females (40%).<ref name=ilab>[http://www.dol.gov/ilab/media/reports/iclp/tda2001/guinea-bissau.htm "Guinea-Bissau"]. ''2001 Findings on the Worst Forms of Child Labor''. [[Bureau of International Labor Affairs]], [[U.S. Department of Labor]] (2002). ''This article incorporates text from this source, which is in the [[public domain]].</ref>
+
+[[Child labor]] is very common.<ref name="dol.gov"/> In 2011 the [[literacy rate]] was estimated at 55.3% (68.9% male, and
+42.1% female).<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2103.html|work=The World Factbook|accessdate=15 October 2014|title=Field Listing :: Literacy}}</ref>
+
+Guinea-Bissau has several secondary schools (general as well as technical) and a [[List of universities in Guinea-Bissau|number of universities]], to which an institutionally autonomous Faculty of Law as well as a Faculty of Medicine<ref>The latter is maintained by Cuba and functions in different cities.</ref> have been added.
+
+==Culture==
+[[File:Guinea-bissau-bissau-1.jpg|thumb|300px|Carnival in Bissau.]]
+
+===Music===
+{{main|Music of Guinea-Bissau}}
+The music of Guinea-Bissau is usually associated with the [[polyrhythm]]ic [[gumbe]] [[musical genre|genre]], the country's primary musical export. However, civil unrest and other factors have combined over the years to keep gumbe, and other genres, out of mainstream audiences, even in generally syncretist African countries.<ref>Lobeck, Katharina (21 May 2003) [http://www.bbc.co.uk/music/reviews/bhw6 Manecas Costa Paraiso di Gumbe Review]. BBC. Retrieved 22 June 2013.</ref>
+
+The [[Cabasa|calabash]] is the primary [[musical instrument]] of Guinea-Bissau,<ref>[http://www.freewebs.com/laminsaho/thekora.htm The Kora ]. Freewebs.com. Retrieved 22 June 2013.</ref> and is used in extremely swift and rhythmically complex [[dance music]]. Lyrics are almost always in [[Guinea-Bissau Creole]], a [[Portuguese language|Portuguese]]-based [[creole language]], and are often humorous and topical, revolving around current events and controversies, especially [[AIDS]].<ref>[http://www.radioafrica.com.au/Discographies/GuineaBissauan.html Radio Africa: Guinea Bissau vinyl discography]. Radioafrica.com.au. Retrieved 22 June 2013.</ref>
+
+The word ''gumbe'' is sometimes used generically, to refer to any music of the country, although it most specifically refers to a unique style that fuses about ten of the country's [[folk music]] traditions.<ref>http://gumbe.com Gumbe</ref> [[Music of Guinea-Bissau|Tina and tinga]] are other popular genres, while extent folk traditions include ceremonial music used in funerals, [[initiation]]s and other rituals, as well as [[Balanta]] brosca and kussundé, [[Mandinka people|Mandinga]] djambadon, and the kundere sound of the [[Bissagos Islands]].<ref>[http://ccas11bijagos.pbworks.com/w/page/35504203/Music%20of%20Guinea-Bissau Music of Guinea-Bissau]. Ccas11bijagos.pbworks.com. Retrieved 22 June 2013.</ref>
+
+===Cuisine===
+{{Further|Cuisine of Guinea-Bissau}}
+
+Rice is a staple in the diet of residents near the coast and millet a staple in the interior. Fruits and vegetables are commonly eaten along with [[cereal grain]]s. The Portuguese encouraged [[peanut]] production. [[Vigna subterranea]] (Bambara groundnut) and [[Macrotyloma geocarpum]] (Hausa groundnut) are also grown. [[Black-eyed pea]]s are also part of the diet. [[Palm oil]] is harvested.
+
+Common dishes include [[soup]]s and [[stew]]s. Common ingredients include [[yam (vegetable)|yam]]s, [[sweet potato]], [[cassava]], onion, tomato and [[plantain]]. Spices, peppers and chilis are used in cooking, including [[Aframomum melegueta]] seeds (Guinea pepper).
+
+===Film===
+[[Flora Gomes]] is an internationally renowned film director; his most famous film is ''Nha Fala'' ({{lang-en|My Voice}}).<ref>[http://spot.pcc.edu/~mdembrow/Nha%20Fala.htm Nha Fala/My Voice]. spot.pcc.edu</ref> Gomes's ''[[Mortu Nega]]'' (''Death Denied'') (1988)<ref>[http://newsreel.org/nav/title.asp?tc=CN0061 ''Mortu Nega'']. California Newsreel. Newsreel.org. Retrieved 22 June 2013.</ref> was the first fiction film and the second feature film ever made in Guinea-Bissau. (The first feature film was ''N’tturudu'', by director Umban u’Kest in 1987.)  At [[FESPACO]] 1989, ''Mortu Nega'' won the prestigious Oumarou Ganda Prize. [[Mortu Nega]] is in Creole with English subtitles. In 1992, Gomes directed ''Udju Azul di Yonta'',<ref>[http://newsreel.org/nav/title.asp?tc=CN0099 ''Udju Azul di Yonta'']. California Newsreel. Newsreel.org. Retrieved 22 June 2013.</ref> which was screened in the [[Un Certain Regard]] section at the [[1992 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/68/year/1992.html |title=Festival de Cannes: Udju Azul di Yonta |accessdate=16 August 2009|publisher=festival-cannes.com}}</ref> Gomes has also served on the boards of many Africa-centric film festivals.<ref>[http://www.watsoninstitute.org/events_detail.cfm?id=1018 Flora Gomes The Two Faces of War: National Liberation in Guinea-Bissau]. Watsoninstitute.org (25 October 2007). Retrieved 22 June 2013.</ref>
+
+==See also==
+{{portal|Geography|Africa|<!--West Africa-->|<!--African Union-->|<!--ECOWAS-->|Guinea-Bissau}}
+* [[Outline of Guinea-Bissau]]
+* [[Index of Guinea-Bissau-related articles]]
+*[[Transport in Guinea-Bissau]]
+*[[2010 Guinea-Bissau military unrest]]
+
+==References==
+{{CIA World Factbook}}
+{{Reflist|30em}}
+
+==Further reading==
+{{refbegin}}
+*Abdel Malek, K.,"Le processus d'accès à l'indépendance de la Guinée-Bissau.",In : Bulletin de l'Association des Anciens Elèves de l'Institut National de Langues et de Cultures Orientales, N°1, Avril 1998. – pp.&nbsp;53–60
+* Forrest, Joshua B., ''Lineages of State Fragility.  Rural Civil Society in Guinea-Bissau'' (Ohio University Press/James Currey Ltd., 2003)
+* Galli, Rosemary E, ''Guinea Bissau: Politics, Economics and Society'', (Pinter Pub Ltd, 1987)
+* Lobban, Jr., Richard Andrew and Mendy, Peter Karibe, ''Historical Dictionary of the Republic of Guinea-Bissau'', third edition (Scarecrow Press, 1997)
+* Vigh, Henrik, ''Navigating Terrains of War: Youth And Soldiering in Guinea-Bissau'', (Berghahn Books, 2006)
+{{refend}}
+
+==External links==
+{{sisterlinks|Guinea-Bissau|voy=Guinea-Bissau}}
+*[http://www.bolama.net/pt/guine-bissau-links.html Link collection related to Guinea-Bissau on bolama.net]
+*[http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1043287.stm Country Profile] from [[BBC News]]
+*{{CIA World Factbook link|pu|Guinea-Bissau}}
+*[http://ucblibraries.colorado.edu/govpubs/for/guineabissau.htm Guinea-Bissau] from ''UCB Libraries GovPubs''
+*[http://www.britannica.com/EBchecked/topic/248853/Guinea-Bissau/ Guinea-Bissau] at ''Encyclopædia Britannica''
+*{{dmoz|Regional/Africa/Guinea-Bissau}}
+*{{wikiatlas|Guinea-Bissau}}
+*[http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=GW Key Development Forecasts for Guinea-Bissau] from [[International Futures]]
+
+; Government
+*{{Official website|http://www.guinebissaurepublic.com/ }}
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-g/guinea-bissau.html Chief of State and Cabinet Members]
+*[http://www.constitutionnet.org/files/Guinea-Bissau%20Constitution.pdf Constitution of the Republic of Guinea-Bissau]
+*[http://portuguese-american-journal.com/guinea-bissau-prime-ministers-fate-unknow-after-apparent-military-coup-west-africa/ Guinea-Bissau: Prime Minister’s fate unknown after apparent military coup – West Africa] – Portuguese American Journal
+*[http://www.hnkcnews.com/2014/04/12/guinea-bissau-holds-first-post-coup-election/ Guinea-Bissau Holds First Post-Coup Election]
+;Trade
+*[http://wits.worldbank.org/CountryProfile/Country/GNB/Year/2005/Summary Guinea-Bissau 2005 Summary Trade Statistics]
+; News media
+*[http://allafrica.com/guineabissau/ news headline links] from [[AllAfrica.com]]
+; Tourism
+*{{Wikivoyage-inline}}
+
+; Health
+* The State of the World's Midwifery – [http://www.unfpa.org/sowmy/resources/docs/country_info/profile/en_GuineaBissau_SoWMy_Profile.pdf Guinea-Bissau Country Profile]
+
+; GIS information
+*[http://www.luisfilipemarques.com/site/master-thesis/ Master Thesis] about the developing [http://www.luisfilipemarques.com/site/management-and-integration-of-gi/ Geographical Information for Guinea-Bissau]
+
+{{coord|12|N|15|W|region:GW_dim:200000_type:country|display=title}}
+{{Guinea-Bissau topics}}
+{{Navboxes
+|title = Geographic locale
+|list  =
+{{Countries of Africa}}
+}}
+{{Navboxes
+|title = International membership and history
+|list  =
+{{African Union}}
+{{Community of Portuguese Language Countries (CPLP)|state=collapsed}}
+{{La Francophonie|state=collapsed}}
+{{Organisation of Islamic Cooperation|state=collapsed}}
+{{Portuguese overseas empire}}
+}}
+
+{{Authority control}}
+
+[[Category:Guinea-Bissau| ]]
+[[Category:Countries in Africa]]
+[[Category:Economic Community of West African States]]
+[[Category:Former Portuguese colonies]]
+[[Category:Least developed countries]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Community of Portuguese Language Countries]]
+[[Category:Member states of the Organisation of Islamic Cooperation]]
+[[Category:Member states of the United Nations]]
+[[Category:Portuguese-speaking countries and territories]]
+[[Category:Republics]]
+[[Category:States and territories established in 1974]]
+[[Category:West African countries]]
+[[Category:World Digital Library related]]
+[[Category:Small Island Developing States]]

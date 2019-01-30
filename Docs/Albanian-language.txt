@@ -1,0 +1,1021 @@
+Albanian language
+
+{{hatnote|''Gjuha Shqipe'' redirects here. You may be looking for [[Albania]].}}
+{{Use dmy dates|date=April 2012}}
+{{Infobox language
+|name          = Albanian
+|nativename    = {{lang|sq|''Shqip''}}
+|pronunciation = {{IPA-sq|ʃcip|}}
+|states        = [[Southeastern Europe]] and [[Albanian diaspora]]
+|speakers      = {{sigfig|5.37|2}} million
+|dateprefix    = ca.&nbsp;
+|date          = 2011
+|ref           = e18
+|familycolor   = Indo-European
+|dia1          = [[Gheg]]
+|dia2          = [[Tosk]]
+|dia3          = [[Arbëresh language|Arbëreshë]]
+|dia4          = [[Arvanitika]]
+|script        = [[Latin script|Latin]] ([[Albanian alphabet]])<br>[[Albanian Braille]]
+|nation        = {{ALB}}<br>{{KOS}}{{efn|name=status}}
+|minority      = {{MKD}}<br>{{ITA}}<br>{{SRB}}<br>{{MNE}}<br>{{CRO}}<br>{{ROM}}
+|agency=officially by the Social Sciences and Albanological Section of the [[Academy of Sciences of Albania]]
+|iso1=sq
+|iso2b=alb
+|iso2t=sqi
+|lingua=55-AAA-aaa to 55-AAA-ahe (25 varieties)
+|iso3=sqi
+|lc1=aae |ld1=[[Arbëresh language|Arbëreshë]]
+|lc2=aat |ld2=[[Arvanitika]]
+|lc3=aln |ld3=[[Gheg]]
+|lc4=als |ld4=[[Tosk]]
+|glotto=alba1267
+|glottorefname= Albanian
+|map=Albanian dialects.svg
+|notice=IPA
+}}
+
+'''Albanian''' ({{lang|sq|''shqip''}} {{IPA-sq|ʃcip|}} or {{lang|sq|''gjuha shqipe''}} {{IPA-sq|ˈɟuha ˈʃcipɛ|}}, meaning ''Albanian language'') is an [[Indo-European languages|Indo-European language]] spoken by five million people,<ref name="e18"/> primarily in [[Albania]], [[Kosovo]], the [[Republic of Macedonia]], and [[Greece]], but also in other areas of [[Southeastern Europe]] in which there is an Albanian population, including [[Montenegro]] and the [[Preševo Valley]] of [[Serbia]]. Centuries-old communities speaking Albanian-based dialects can be found scattered in [[Greece]], southern [[Italy]],<ref>http://www.minorityrights.org/1617/italy/albanians.html</ref> [[Sicily]], and [[Ukraine]].<ref>http://www.albanianlanguage.net/</ref> As a result of a modern [[diaspora]], there are also Albanian speakers elsewhere in those countries as well as in other parts of the world, including [[Austria]], [[Germany]], [[Hungary]], the [[Netherlands]], the [[Scandinavia]]n countries, [[Switzerland]], the [[United Kingdom]], [[Brazil]], [[Canada]], the [[United States]], [[Australia]], [[New Zealand]], [[Singapore]], and [[Turkey]].
+
+== History ==
+{{Albanians}}
+{{Indo-European topics}}
+
+The first written mention of the Albanian language was on 14 July 1285 in [[Dubrovnik]] (modern-day [[Croatia]]), when a certain Matthew, witness of a crime, stated "I heard a voice shouting on the mountainside in the ''Albanian tongue''" ({{lang-lat|Audivi unam vocem, clamantem in monte in lingua albanesca}}).<ref name="Hammond1976">{{cite book|author =Nicholas Geoffrey Lemprière Hammond|title=Migrations and invasions in Greece and adjacent areas|url=https://books.google.com/books?id=O9saAAAAYAAJ|accessdate=23 January 2013|year=1976|publisher=Noyes Press|isbn=978-0-8155-5047-1|page=57}}</ref><ref name="Zeitschrift für Balkanologie">{{cite book|title=Zeitschrift für Balkanologie|url=https://books.google.com/books?id=iLkWAQAAMAAJ|accessdate=23 January 2013|year=1990|publisher=R. Trofenik|page=102}}</ref> The first audio recording of Albanian was made by [[Norbert Jokl]] on 4 April 1914 in [[Vienna]].<ref name="Elsie2010">{{cite book|author =Robert Elsie|authorlink=Robert Elsie|title=Historical Dictionary of Albania|url=https://books.google.com/books?id=6inIiCF_930C&pg=PA216|accessdate=30 September 2013|year=2010|publisher=Rowman & Littlefield|isbn=978-0-8108-6188-6|page=216}}</ref> During the five-century period of the [[Ottoman Albania|Ottoman presence in Albania]], the language was not officially recognized until 1909, when the [[Congress of Dibra]] decided that Albanian schools would finally be allowed.<ref name="Torte">{{cite web|last=Torte|first=Rexhep|url=http://www.albaniapress.com/lajme/9518/Perfundoi-shenimi-i-100-vjetorit-te-Kongresit-te-Dibres.html|title=Përfundoi shënimi i 100-vjetorit të Kongresit të Dibrës|publisher=Albaniapress|date=2009-08-04}}</ref>
+
+=== Linguistic affinities ===
+
+The Albanian language is an [[Indo-European languages|Indo-European language]] in a [[language family#Subdivision|branch]] by itself, sharing its branch [[language isolate|with no other extant language]]. The other extant Indo-European languages in a branch by themselves are [[Armenian language|Armenian]] and, in some classifications, [[Greek language|Greek]]. Though sharing lexical [[isogloss]]es with Greek, [[Balto-Slavic languages|Balto-Slavic]], and [[Germanic languages|Germanic]], the vocabulary of Albanian is quite distinct. Once hastily grouped with Germanic and Balto-Slavic based on the merger of [[Proto-Indo-European language|Proto-Indo-European]] *''ǒ'' and *''ǎ'' into *''ǎ'' in a supposed "northern group",{{sfn|Watkins|1998|p=38}} Albanian has been proven to be distinct from these two because this vowel shift is only part of a larger [[Chain shift|push chain]] that affected all long vowels.{{sfn|Labov|1994|p=42}} Albanian does share two features with Balto-Slavic languages: a lengthening of syllabic consonants before voiced obstruents and a distinct treatment of long syllables ending in a sonorant.{{sfn|Hamp|1994|pp=66–67}} Conservative features of Albanian include the retention of the distinction between active and [[Voice (grammar)#Middle|middle voice]], present tense, and [[aorist]].
+
+Albanian is considered to have evolved from an ancient [[Paleo-Balkan language]], usually taken to be either [[Illyrian languages|Illyrian]] or [[Thracian language|Thracian]]. (See also [[Thraco-Illyrian]] and [[Messapian language]].)
+
+=== Linguistic influences ===
+
+The earliest loanwords attested in Albanian come from [[Doric Greek]],<ref name="huld">{{cite journal
+| author = Huld, Martin E. | title = Accentual Stratification of Ancient Greek Loanwords in Albanian | journal=Zeitschrift für vergleichende Sprachforschung|issue=99.2 | year = 1986 | pages = 245–253}}</ref> whereas the strongest influence came from [[Latin]]. The period during which Proto-Albanian and Latin interacted was protracted and drawn out roughly from the 2nd century BC to the 5th century AD.{{sfn|Mallory|Adams|1997|p=9}} This is borne out into roughly three layers of borrowings, the largest number belonging to the second layer. The first, with the fewest borrowings, was a time of less important interaction. The final period, probably preceding the Slavic or Germanic invasions, also has a notably smaller number of borrowings. Each layer is characterized by a different treatment of most vowels, the first layer having several that follow the evolution of Early Proto-Albanian into Albanian; later layers reflect vowel changes endemic to Late Latin and presumably [[Proto-Romance language|Proto-Romance]]. Other formative changes include the syncretism of several noun case endings, especially in the plural, as well as a large-scale palatalization.
+
+A brief period followed, between the 7th and 9th centuries, that was marked by heavy borrowings from [[South Slavic languages|Southern Slavic]], some of which predate the "o-a" shift common to the modern forms of this language group. Starting in the latter 9th century, there was a period characterized by protracted contact with the Proto-Romanians, or Vlachs, though lexical borrowing seems to have been mostly one sided—from Albanian into Romanian. Such borrowing indicates that the Romanians migrated from an area where the majority was Slavic (i.e. Middle Bulgarian) to an area with a majority of Albanian speakers (i.e. [[Dardania (Europe)|Dardania]], where Vlachs are recorded in the 10th century). Their movement is probably related to the expansion of the [[Bulgarian Empire]] into Albania around that time.
+
+=== Latin influence ===
+
+[[Jernej Kopitar]] (1780–1844) was the first to note Latin's influence on Albanian and claimed "the Latin loanwords in the Albanian language had the pronunciation of the time of Emperor Augustus".{{sfn|Kopitar|1829|p=254}} Kopitar gave examples such as Albanian "qiqer" from Latin ''cicer'' (meaning ''chickpeas''), "qytet" from ''civitas'' (meaning ''city''), "peshk" from ''piscis'' (meaning ''fish'') and "shigjetë" from ''sagitta'' (meaning ''arrow''). The hard pronunciations of Latin {{angle bracket|c}} and {{angle bracket|g}} are retained as palatal and velar stops in the Albanian loanwords. Gustav Meyer (1888){{sfn|Meyer|1888|p=805}} and [[Wilhelm Meyer-Lübke]] (1914){{sfn|Meyer-Lübke|1914|p=32}} later corroborated this. Meyer noted the similarity between the Albanian verbs ''shqipoj'' and ''shqiptoj'' (both meaning ''to enunciate'') and the Latin word ''excipio'' (meaning ''to welcome''). Therefore, he believed that the word ''Shqiptar'' (meaning ''Albanian'') was derived from ''shqipoj'', which in turn was derived from the Latin word ''excipio''. [[Johann Georg von Hahn]], an Austrian linguist, previously proposed the same theory in 1854.<ref>{{cite book|title=Wir sind die Deinen. Studien zur albanischen Sprache, Literatur und Kulturgeschichte, dem Gedenken an Martin Camaj (1925–1992) gewidmet|author =Bardhyl Demiraj|publisher=Harrassowitz Verlag|isbn=978-3-447-06221-3|date=2010}}</ref>
+
+[[Eqrem Çabej]] also noticed, among other things, the archaic Latin elements in Albanian:{{sfn|Çabej|1962|pp=13–51}}
+
+# Latin /au/ becomes Albanian /a/ in the earliest borrowings: "aurum" > "ar" ; "gaudium" > "gaz" ; "laurus" > "lar". But Latin /au/ is retained in later borrowings: "causa" > "kafshë" ; "laud" > "lavd".
+# Latin /ō/ becomes Albanian /e/ in the oldest Latin borrowings: "pōmum" > "pemë" ; "hōra" > "herë". An analogous mutation occurred from Proto-Indo-European to Albanian; PIE ''*nōs'' became Albanian "ne", PIE ''*oḱtō'' + suffix ''-ti-'' became Albanian "tetë" etc.
+# Latin unstressed internal and initial syllables become lost in Albanian: "cubitus" > "kub" ; "medicus" > "mjek" ; "paludem" > V. Latin "padule" > "pyll". An analogous mutation occurred from Proto-Indo-European to Albanian. In contrast, in later Latin borrowings, the internal syllable is retained: "paganus" > "pagan" ; "plaga" > "plagë" etc.
+# Latin /tj/, /dj/, /kj/ palatalized to Albanian /s/, /z/, /c/: "vitius" > "ves" ; "ratio" > "arsye" ; "radius" > "rreze" ; "facies" > "faqe" ; "socius" > "shoq" etc.
+
+Haralambie Mihăescu demonstrated that:
+
+* Some 85 Latin words have survived in Albanian but not (as inherited) in any [[Romance language]]. A few examples include ''bubulcus'' > ''bujk'', ''hibernalia'' > ''mërrajë'', ''sarcinarius'' > ''shelqëror'', ''trifurcus'' > ''tërfurk'', ''accipiter'' > ''skifter'', ''musconea'' > ''mushkonjë'', ''chersydrus'' > ''kuçedër'', ''spleneticum'' > ''shpretkë'', ''solanum'' > ''shullë''.{{sfn|Mihaescu|1966|pp=1, 30}}
+* 151 Albanian words of Latin origin were not inherited in Romanian. A few examples include Albanian ''mik'' from Latin ''amicus'', or ''armik'' from ''inimicus'', ''arsye'' from ''rationem'', ''bekoj'' from ''benedicere'', ''qelq'' from ''calix'' (''calicis''), ''kështjellë'' from ''castellum'', ''qind'' from ''centum'', ''gjel'' from ''gallus'', ''gjymtyrë'' from ''iunctura'', ''mjek'' from ''medicus'', ''rrjetë'' from ''rete'', ''shpresoj'' from ''sperare'', ''vullnet'' from ''voluntas'' (''voluntatis'').{{sfn|Mihaescu|1966|pp=1, 21}}
+* Some Albanian church terminology have phonetic features which demonstrate their very early borrowing from Latin. A few examples include Albanian ''altar'' from Latin ''altare'', ''engjëll'' from ''angelus'', ''bekoj'' from ''benedicere'',''i krishterë'' from ''christianus'', ''kryq'' from ''crux'' (''crucis''), ''kishë'' from ''ecclesia'', ''ipeshkv'' from ''episcopus'', ''ungjill'' from ''evangelium'', ''mallkoj'' from ''maledicere'', ''meshë'' from ''missa'', ''murg'' from ''monacus'', "pagan" from ''paganus''.{{sfn|Mihaescu|1966|pp=1–2}}
+
+Other authors{{sfn|Rosetti|1986|pp=195–197}} have detected Latin loanwords in Albanian with an ancient sound pattern from the 1st century BC, for example, Albanian ''qingëlë'' from Latin ''cingula'' and Albanian ''e vjetër'' from Latin ''vetus''/''veteris''. The  [[Romance languages]] inherited these words from Vulgar Latin: Vulgar ''*cingla'' became N. Romanian ''chinga'', meaning "belly band, saddle girth", and Vulgar ''veteran'' became N. Romanian ''bătrân'', meaning "old".
+
+Albanian, [[Basque language|Basque]], and the surviving [[Celtic languages]] such as [[Irish language|Irish]] and [[Welsh language|Welsh]] are the non-Romance languages today that have this sort of extensive Latin element dating from ancient Roman times, which have undergone the sound changes associated with the languages.
+
+[[File:Getae 200bc.jpg|thumb|left|text-top|upright=1.1|Illyrians, Dacians, Getae and Thracians at 200 BC]]
+
+=== Historical presence and location ===
+{{Main|Origin of the Albanians}}
+
+The place where the Albanian language was formed is uncertain, but analysis has suggested that it was in a mountainous region rather than on a plain or seacoast:{{sfn|Hamp|1963|}} while the words for plants and animals characteristic of mountainous regions are entirely original, the names for fish and for agricultural activities (such as [[plough]]ing) are borrowed from other languages.{{sfn|Fine|1991|p=10}}
+A deeper analysis of the vocabulary, however, shows that this could be a consequence of the prolonged Latin domination of the coastal and plain areas of the country, rather than evidence of the original environment where the Albanian language was formed. For example, the word for 'fish' is borrowed from Latin, but not the word for 'gills', which is native. Indigenous are also the words for 'ship', 'raft' and 'navigation', 'sea shelves' and a few names of fish kinds, but not the words for 'sail', 'row', 'harbor', objects pertaining navigation itself and a large part of sea fauna. This rather shows that Proto-Albanians were pushed away from coastal areas in early times (probably after the Latin conquest of the region) thus losing large parts (or the majority) of sea environment lexicon. A similar phenomenon could be observed with agricultural terms. While the words for 'arable land', 'corn', 'wheat', 'cereals', 'vineyard', 'yoke', 'harvesting', cattle breeding etc. are native, the words for 'ploughing', 'farm' and 'farmer', agricultural practices, and some harvesting tools are foreign. This, again, points to intense contacts with other languages and people, rather than providing evidence of a possible ''Urheimat''.
+
+[[File:AlbaniaPeriodical.jpg|thumb|October 1899 issue of the magazine Albania, the most important Albanian periodical of the early 20th century]]
+
+The centre of Albanian settlement remained the [[Mat (river)|Mat]] river. In 1079, they were recorded farther south in the valley of the [[Shkumbin]] river.{{sfn|Kazhdan|1991|pp=52–53}} The Shkumbin, a seasonal stream that lies near the old [[Via Egnatia]], is approximately the boundary of the primary dialect division for Albanian, Tosk-Gheg. The characteristics of Tosk and Gheg in the treatment of the native and loanwords from other languages are evidence that the dialectal split preceded the [[Slavic migration to the Balkans]],{{sfn|Brown|Ogilvie|2008|p=23}}{{sfn|Fortson|2004|p=392}}{{sfn|Mallory|Adams|1997|p=9}} which means that in that period (5th to 6th centuries AD) Albanians were occupying nearly the same area around the Shkumbin river, which straddled the [[Jireček Line]].{{sfn|Demiraj|1999|}}{{sfn|Hamp|1963|}}
+
+References to the existence of Albanian as a distinct language survive from the 14th century, but they failed to cite specific words. The oldest surviving documents written in Albanian are the "[[formula e pagëzimit]]" (Baptismal formula), ''Un'te paghesont' pr'emenit t'Atit e t'Birit e t'Spertit Senit''. ("I baptize thee in [[Trinitarian formula|the name of the Father, and the Son, and the Holy Spirit]]") recorded by Pal Engjelli, Bishop of Durrës in 1462 in the Gheg dialect, and some [[New Testament]] verses from that period.
+
+The oldest known Albanian printed book, ''[[Meshari]]'', or "missal", was written in 1555 by [[Gjon Buzuku]], a [[Roman Catholic]] cleric. In 1635, [[Frang Bardhi]] wrote the first Latin–Albanian dictionary. The first Albanian school is believed to have been opened by [[Franciscan]]s in 1638 in [[Pdhanë]].
+
+One of the earliest dictionaries of Albanian language was written in 1693 [[Italian language]] manuscript authored by Montenegrin sea captain [[Julije Balović]] ''Pratichae Schrivaneschae'' which includes a multilingual dictionary of hundreds of the most often used words in the everydays life on Italian, Slavo-Illirico, [[Greek language|Greek]], Albanian and [[Turkish language]].<ref>{{cite book|last=Pantić|first=Miroslav|title=Književnost na tlu Crne Gore i Boke Kotorske od XVI do XVIII veka|url=https://books.google.com/books?id=G5FiAAAAMAAJ|year=1990|publisher=Srpska književna zadruga|page=98}}</ref>
+
+== Classification ==
+
+Albanian was demonstrated to be an Indo-European language in 1854 by the [[Comparative linguistics|philologist]] [[Franz Bopp]]. The Albanian language constitutes its own branch of the Indo-European language family.<ref>{{cite book |title=Indo-European language and culture: an introduction |last= Fortson |first= Benjamin W |authorlink= |year=2004 |publisher=Blackwell Publishing |location= |isbn=1-4051-0315-9|page=390 |pages= |url=https://books.google.com/books?id=5hOtPBF6XWwC&printsec=frontcover&dq='Indo-European+Language+and+Culture:++An+Introduction'&cd=1#v=onepage&q&f=false |accessdate=28 May 2010}} ''Albanian forms its own separate branch of Indo-European; it is the last branch to appear in written records''</ref>
+
+Albanian was formerly compared by some Indo-Europeanists with Balto-Slavic and Germanic,<ref>Watkins, Calvert. "Proto-Indo-European: Comparison and Reconstruction", in The Indo-European Languages, Anna Giacalone Ramat and Paolo Ramat, eds. London: Routledge, 1998.</ref> both of which share a number of [[isogloss]]es with Albanian. Moreover, Albanian has undergone a vowel shift in which stressed, long ''o'' has fallen to ''a'', much like in the former and opposite the latter. Likewise, Albanian has taken the old relative ''jos'' and innovatively used it exclusively to qualify adjectives, much in the way Balto-Slavic has used this word to provide the definite ending of adjectives. Other linguists link Albanian with [[Greek language|Greek]] and [[Armenian language|Armenian]], while placing Germanic and Balto-Slavic in another branch of Indo-European.<ref name = mallory>[https://books.google.com/books?id=yfZZX1qjpvkC&printsec=frontcover#PPA111,M1 Google Books], [[J. P. Mallory|Mallory, J. P.]] and Adams, D. Q.: The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World</ref><ref name = holm>[http://www.hjholm.de/SLRD.pdf JHholm.de], Holm, Hans J.: The Distribution of Data in Word Lists and its Impact on the Subgrouping of Languages. In: Christine Preisach, Hans Burkhardt, Lars Schmidt-Thieme, Reinhold Decker (eds.): Data Analysis, Machine Learning, and Applications. Proc. of the 31st Annual Conference of the German Classification Society (GfKl), University of Freiburg, 7–9 March 2007. Springer-Verlag, Heidelberg-Berlin</ref><ref name = holm2>[http://www.hjholm.de/ HJholm.de] A possible Homeland of the Indo-European Languages And their Migrations in the Light of the Separation Level Recovery (SLRD) Method&nbsp;– Hans J. Holm</ref> Nakhleh, Ringe, and [[Tandy Warnow|Warnow]] argued that Albanian can be placed at a variety of points within the Indo-European tree with equally good fit; determining its correct placement is hampered by the loss of much of its former diagnostic inflectional morphology and vocabulary.<ref>{{cite web|url=http://www.cs.rice.edu/~nakhleh/Papers/81.2nakhleh.pdf |title=Perfect Phylogenetic Networks: A New Methodology for Reconstructing the Evolutionary History of Natural Languages, pg. 396 |format=PDF |date= |accessdate=22 September 2010| archiveurl= https://web.archive.org/web/20101105223804/http://www.cs.rice.edu/~nakhleh/Papers/81.2nakhleh.pdf| archivedate= 5 November 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+=== Origin ===
+Albanian is often seen as the descendant of [[Illyrian language|Illyrian]],<ref>Fine, JA. ''The Early medieval Balkans.'' University of Michigan Press, 1991. p.10. [https://books.google.com/books?id=YbS9QmwDC58C&printsec=frontcover&dq=isbn:0472081497&cd=1#v=onepage&q=&f=false Google Books]</ref> although this hypothesis has been challenged by some linguists, who maintain that it derives from [[Dacian language|Dacian]] or [[Thracian language|Thracian]].<ref>Fine, JA. ''The Early medieval Balkans.'' University of Michigan Press, 1991. p.11. [https://books.google.com/books?id=YbS9QmwDC58C&printsec=frontcover&dq=isbn:0472081497&cd=1#v=onepage&q=&f=false Google Books]</ref> (Illyrian, Dacian, and Thracian, however, may have formed a subgroup or a [[Sprachbund]]; see [[Thraco-Illyrian]].)
+
+=== (Old) Albanian ===
+According to the central hypothesis of a project undertaken by the Austrian Science Fund FWF, Old Albanian had a significant influence on the development of many Balkan languages. Intensive research now aims to confirm this theory. This little-known language is being researched using all available texts before a comparison with other Balkan languages is carried out. The outcome of this work will include the compilation of a lexicon providing an overview of all Old Albanian verbs.<ref>{{cite web|url=https://www.fwf.ac.at/en/research-in-practice/project-presentations/2008/old-albanian-living-legacy-of-a-dead-language/  |title=FWF Austrian Science Fund&nbsp;– Press&nbsp;– (Old) Albanian&nbsp;– Living legacy of a dead language? |publisher=Fwf.ac.at |date= |accessdate=22 September 2010}}</ref>{{outdated inline|date=February 2015}}
+
+=== Proto-IE features ===
+The demonstrative pronoun ''ko'' is ancestral to Albanian ''ky/kjo'' and English ''he''.
+
+Albanian is compared to other Indo-European languages below, but note that Albanian has exhibited some notable instances of [[semantic drift]] (such as ''motër'' meaning "sister" rather than "mother" or the Latin loans ''gjelbër'' and ''verdhë'' having become switched in meaning).
+
+{| class="wikitable collapsible collapsed"
+|+ Vocabulary of Albanian and other Indo-European languages
+<!-- Please, do not add more languages to the table — it's meant to give a notion of Albanian's place within the IE, so one language from each sub-branch is enough. Adding Tocharian might be OK, but not another Germanic or Celtic language. -->
+!Albanian !! muaj !! ri !! nënë !! motër !! natë !! hundë !! tre !! zi !! kuqe !! gjelbër !! verdhë !! ujk
+|-
+! colspan="14" style="text-align:center; background:#dedede"| Other [[Indo-European languages]]
+|-
+| '''[[Indo-European languages|Indo-European]]''' || mḗh₁n̥s || newijos || méh₂tēr || swésōr || nókʷts || nas || treies || neḱrós || h₁rudhrós || ǵʰelh₃wos || bʰlēwos || wĺ̥kʷos
+|-
+| '''[[English language|English]]''' || month || new || mother || sister || night || nose || three || black || red || green || yellow || wolf
+|-
+| '''[[Spanish language|Spanish]]''' || mes || nuevo || madre || hermana || noche || nariz || tres || negro || rojo || verde || amarillo || lobo
+|-
+| '''[[German language|German]]''' || Monat || neu || Mutter || Schwester || Nacht || Nase || drei || schwarz || rot || grün || gelb || Wolf
+|-
+| '''[[Swedish language|Swedish]]''' || månad || ny || mo(de)r || syster || natt || näsa || tre || svart || röd || grön || gul || varg/ulv
+|-
+| '''[[Lithuanian language|Lithuanian]]''' || mėnesis || naujas || motina || sesuo || naktis || nosis || trys || juodas || raudonas || žalias || geltonas || vilkas
+|-
+| '''[[Old Church Slavonic]]''' || {{Script|Cyrs|мѣсѧць}}<br> <small>měsęcь</small> || {{Script|Cyrs|новъ}}<br> <small>novъ</small> || {{Script|Cyrs|мати}}<br> <small>mati</small> || {{Script|Cyrs|сестра}}<br> <small>sestra</small> || {{Script|Cyrs|ношть}}<br> <small>noštь</small> || {{Script|Cyrs|носъ}}<br> <small>nosъ</small> || {{Script|Cyrs|три}}, {{Script|Cyrs|триѥ}}<br> <small>tri, trije</small> || {{Script|Cyrs|чрънъ}}<br> <small>črъnъ</small> || {{Script|Cyrs|чръвенъ}}<br> <small>črъvenъ</small> || {{Script|Cyrs|зеленъ}}<br> <small>zelenъ</small> || {{Script|Cyrs|жльтъ}}<br> <small>žlьtъ</small> || {{Script|Cyrs|влькъ}}<br> <small>vlьkъ</small>
+|-
+| '''[[Czech language|Czech]]''' || měsíc || nový || matka || sestra || noc || nos || tři || černý || červený || zelený || žlutý || vlk
+|-
+| '''[[Ancient Greek]]''' || μήν<br> <small>mḗn</small> || νέος<br> <small>néos</small> || μήτηρ<br> <small>mḗtēr</small> || ἀδελφή<br> <small>adelphḗ</small> || νύξ<br> <small>núks</small> || ῥίς<br> <small>rhís</small> || τρεῖς<br> <small>treîs</small> || μέλας<br> <small>mélas</small> || ἐρυθρός<br> <small>eruthrós</small> || χλωρός<br> <small>khlōrós</small> || ξανθός<br> <small>ksanthós</small> || λύκος<br> <small>lúkos</small>
+|-
+| '''[[Armenian language|Armenian]]''' || ամիս<br> <small>amis</small> || նոր<br> <small>nor</small> || մայր<br> <small>mayr</small> || քույր<br> <small>k'uyr</small> || գիշեր<br> <small>gišer</small> || քիթ<br> <small>k'it</small> || երեք<br> <small>yerek'</small> || սեւ<br> <small>sev</small> || կարմիր<br> <small>karmir</small> || կանաչ<br> <small>kanač</small> || դեղին<br> <small>deġin</small> || գայլ<br> <small>gayl</small>
+|-
+| '''[[Latin language|Latin]]''' || mēnsis || novus || māter || soror || nox || nāsus || trēs || āter, niger || ruber || viridis || flāvus || lupus
+|-
+| '''[[Italian language|Italian]]''' || mese || nuovo || madre || sorella || notte || naso || tre || nero || rosso || verde || giallo || lupo
+|-
+| '''[[Irish language|Irish]]''' || mí || nua || máthair || deirfiúr || oíche || srón || trí || dubh || dearg || glas || buí || faolchú
+|-
+| '''[[Sanskrit]]''' || मास<br> <small>māsa</small> || नव<br> <small>nava</small> || मातृ<br> <small>mātṛ</small> || स्वसृ<br> <small>svasṛ</small> || नक्त/निश्<br> <small>nakta/nish</small> || नस<br> <small>nasa</small> || त्रि<br> <small>tri</small> || काल<br> <small>kāla</small> || रुधिर<br> <small>rudhira</small> || हरि<br> <small>hari</small> || पीत<br> <small>pīta</small> || वृक<br> <small>vṛka</small>
+|-
+|  '''[[French language|French]]'''  || mois || nouveau || mère || sœur || nuit || nez || trois || noir || rouge || vert || jaune || loup
+|-
+|  '''[[Afrikaans language|Afrikaans]]'''  || maand || nuwe || ma || suster || nag || neus || drie || swart || rooi || groen || geel || wolf
+|-
+|  '''[[Russian language|Russian]]''' || месяц<br> <small>mesjac</small> || новый<br> <small> novyj </small> || мать<br> <small> mat' </small> || сестра<br> <small>sestra</small> || ночь<br> <small>noch'</small> || нос<br> <small>nos</small> || три <br> <small>tri</small> || чёрный<br> <small>chornyj</small> || красный<br> <small>krasnyj</small> || зелёный<br> <small>zeljonyj</small> || жёлтый<br> <small>zhjoltyj</small> || волк<br> <small>volk</small>
+|}
+
+=== Albanian-PIE phonological correspondences ===
+
+Phonologically Albanian is not so conservative. Like many IE stocks it has merged the two series of voiced stops (e.g. both *''d'' and *''dʰ'' became ''d''). In addition the voiced stops tend to disappear in between vowels. There is almost complete loss of final syllables and very widespread loss of other unstressed syllables (e.g. ''mik'', "friend" from Lat. ''amicus''). PIE *''o'' appears as ''a'' (also as ''e'' if a high front vowel ''i'' follows), while *''ē'' and *''ā'' become ''o'', and PIE *''ō'' appears as ''e''. The palatals, velars, and labiovelars all remain distinct before front vowels, a conservation found otherwise in [[Luvian]] and related Anatolian languages. Thus PIE *''ḱ'', *''k'', and *''kʷ'' become ''th'', ''q'', and ''s'', respectively (before back vowels *''ḱ'' becomes ''th'', while *''k'' and *''kʷ'' merge as ''k'').{{citation needed|date=January 2013}} Another remarkable retention is the preservation of initial *''h<sub>4</sub>'' as Alb. ''h'' (all other laryngeals disappear completely).<ref name="ReferenceA">Encyclopedia of Indo-European culture By J. P. Mallory, Douglas Q. Adams Edition: illustrated Published by [[Taylor & Francis]], 1997 ISBN 1-884964-98-2, ISBN 978-1-884964-98-5</ref>{{dubious|date=January 2013}}
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European bilabial plosives in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *p || p || ''*'''p'''ékʷo''—"cook" || '''''p'''jek'' "to cook, roast, bake"
+|-
+| *b || b || ''*sor'''b'''éi̯e/o''—"drink, slurp" || ''gjer'''b''''' "to drink"
+|-
+| *bʰ || b || ''*'''bʰ'''aḱeh₂''—"bean" || '''''b'''athë'' "broad bean"
+|}
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European coronal plosives in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *t || t || ''*'''t'''úh₂''—"thou" || '''''t'''i'' "you (singular)"
+|-
+| *d || d || ''*'''d'''iHtis''—"light" || '''''d'''itë'' "day"
+|-
+| || dh<ref group=* name=ivcr>Between vowels or after ''r''</ref> || ''*pér'''d'''e/o''—"fart" || ''pjer'''dh''''' "to fart"
+|-
+| || g || ''*'''d'''l̥h₁gʰós''—"long" || '''''g'''jatë'' "long" (Tosk dial. ''glatë'')
+|-
+| *dʰ || d || ''*'''dʰ'''égʷʰe/o''—"burn" || '''''d'''jeg'' "to burn"
+|-
+| || dh<ref group=* name=ivcr/> || ''*gʰór'''dʰ'''os''—"enclosure" || ''gar'''dh''''' "fence"
+|}
+
+<references group=* />
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European palatal plosives in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *ḱ || th || ''*'''ḱ'''éh₁mi''—"I say" || '''''th'''em'' "I say"
+|-
+| || s<ref group=*>Before ''u̯/u'' or ''i̯/i''</ref> || ''*'''ḱ'''uk''—"horn" || '''''s'''utë'' "doe"
+|-
+| || k<ref group=*>Before [[sonorant]]</ref> || ''*'''ḱ'''reh₂u''—"limb" || '''''k'''rah'' "arm"
+|-
+| || ç/c<ref group=*>Archaic relic</ref> || ''*'''ḱ'''entro''—"to stick" || '''''ç'''andër'' "prop"
+|-
+| *ǵ || dh || ''*'''ǵ'''ómbʰos''—"tooth, peg" || '''''dh'''ëmb'' "tooth"
+|-
+| || d<ref group=* name=anlaut>Syllable-initial and followed by [[sibilant]]</ref> || ''*'''ǵ'''ēusnō''—"to enjoy" || '''''d'''ua'' "to love, want"
+|-
+| *ǵʰ || dh || ''*'''ǵʰ'''edi̯e/o''—"to defecate" || '''''dh'''jes'' "to defecate"
+|-
+| || d<ref group=* name=anlaut/> || ''*'''ǵʰ'''r̥sdʰi''—"grain, barley" || '''''d'''rithë'' "grain"
+|}
+
+<references group=* />
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European velar plosives in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *k || k || ''*'''k'''ágʰmi''—"I catch, grasp" || '''''k'''am'' "I have"
+|-
+| || q || ''*'''k'''lau-ei̯e/o''—"to weep" || '''''q'''aj'' "to weep, cry" (Gheg ''qanj'', Salamis ''kla'')
+|-
+| *g || g || ''*h₃lí'''g'''os''—"sick" || ''li'''g'''ë'' "bad"
+|-
+| || gj || ''*h₁reu'''g'''e''—"to retch" || ''re'''gj''''' "to tan hides"
+|-
+| *gʰ || g || ''*'''gʰ'''órdʰos''—"enclosure" || '''''g'''ardh'' "fence"
+|-
+| || gj || ''*'''gʰ'''édni̯e/o''—"get" || '''''gj'''ej'' "to find" (Gheg ''gjêj'')
+|}
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European labialized velar plosives in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *kʷ || k || ''*'''kʷ'''eh₂sleh₂''—"cough" || '''''k'''ollë'' "cough"
+|-
+| || s || ''*'''kʷ'''éle/o''—"turn" || '''''s'''jell'' "to fetch, bring"
+|-
+| || q || ''*'''kʷ'''ṓd''—"that" || '''''q'''ë'' "that"
+|-
+| *gʷ || g || ''*'''gʷ'''r̥''—"stone" || '''''g'''ur'' "stone"
+|-
+| || z || ''*'''gʷ'''ērHu''—"heaviness" || '''''z'''or'' "heaviness; trouble"
+|-
+| *gʷʰ || g || ''*dʰé'''gʷʰ'''e/o''—"to burn" || ''dje'''g''''' "to burn"
+|-
+| || z || ''*h<sub>1</sub>en-dʰo'''gʷʰ'''éi̯e/o''—"to ignite" || ''nde'''z''''' "to kindle, turn on"
+|}
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondence of Proto-Indo-European *''s'' in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *s || gj<ref group=*>Initial</ref> || ''*'''s'''éḱstis''—"six" || '''''gj'''ashtë'' "six"
+|-
+| || h<ref group=*>Between vowels</ref> || ''*no'''s'''ōm''—"us" (gen.) || ''na'''h'''e'' "us" (dat.)
+|-
+| || sh<ref group=*>Between vowels and after ''u̯/i̯/r/k'' ([[ruki sound law|ruki]] law)</ref> || ''*bʰreu'''s'''inos''—"break" || ''bre'''sh'''ër'' "hail"
+|-
+| || th<ref group=*>Cluster -sd-</ref> || ''*gʷé'''sd'''os''—"leaf" || ''gje'''th''''' "leaf"
+|-
+| || h<ref group=*>Cluster -sḱ-</ref> || ''*'''sḱ'''i-eh₂''—"shadow" || '''''h'''ije'' "shadow"
+|-
+| || f<ref group=*>Cluster -sp-</ref> || ''*'''sp'''élnom''—"speech" || '''''f'''jalë'' "word"
+|-
+| || sht<ref group=*>Cluster -st-</ref> || ''*h₂o'''st'''i'' "bone" || ''a'''sht''''' "bone"
+|-
+| || th<ref group=*>Dissimilation with following vowel</ref> || ''*'''s'''uh₁s''—"swine" || '''''th'''i'' "boar"
+|-
+| || ∅ || ''h₁é'''s'''mi''—"am" || ''jam'' "to be"
+|}
+
+<references group=* />
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European sonorants in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *i̯ || gj<ref group=*>Before i, e, a</ref> || ''*'''i̯'''ése/o''—"to ferment" || '''''gj'''esh'' "to knead"
+|-
+| || j<ref group=*>Before back vowels</ref> || ''*'''i̯'''uHs''—"you" (nom.) || '''''j'''u'' "you (plural)"
+|-
+| || ∅<ref group=*>After front vowels</ref> || ''*bʰér'''i̯'''ō''—"bear, carry" || ''bie(r)'' "to bring"
+|-
+| || h<ref group=*>After all other vowels</ref> || ''*streh₂'''i̯'''eh₂''—"straw" || ''stro'''h'''ë'' "kennel"
+|-
+| *u̯ || v || ''*'''u̯'''oséi̯e/o''—"to dress" || '''''v'''esh'' "to wear, dress"
+|-
+| *m || m || ''*'''m'''eh₂tr-eh₂''—"maternal" || '''''m'''otër'' "sister"
+|-
+| *n || n || ''*'''n'''ōs''—"we" (acc.) || '''''n'''e'' "we"
+|-
+| || nj || ''*e'''n'''i-h₁ói-no''—"that one" || '''''nj'''ë'' "one" (Gheg '''''nj'''â'', '''''nj'''o'')
+|-
+| || ∅/^ || ''*pé'''n'''kʷe''—"five" || ''p'''e'''së'', Gheg ''p'''ê'''s'' "five"
+|-
+| || r || ''*ǵʰeime'''n'''''—"winter" || ''dimë'''r''''' "winter" (Gheg ''dimën'')
+|-
+| *l || l || ''*h₃'''l'''ígos''—"sick" || '''''l'''igë'' "bad"
+|-
+| || ll || ''*kʷé'''l'''e/o''—"turn" || ''sje'''ll''''' "to fetch, bring"
+|-
+| *r || r || ''*'''r'''epe/o''—"take" || '''''r'''jep'' "peel"
+|-
+| || rr || ''*u̯'''r'''h₁ḗn''—"sheep" || '''''rr'''unjë'' "yearling lamb"
+|-
+| *n̥ || e || ''*h₁'''n̥'''men''—"name" || '''''e'''mër'' "name"
+|-
+| *m̥ || e || ''*u̯iḱ'''m̥'''ti''—"twenty" || (''një'')''z'''e'''t'' "twenty"
+|-
+| *l̥ || uj || ''*u̯'''ĺ̥'''kʷos''—"wolf" || ''ujk'' "wolf" (Chamian ''ulk'')
+|-
+| *r̥ || ri, ir || ''*ǵʰ'''r̥'''sdom''—"grain, barley" || ''d'''ri'''thë'' "grain"
+|}
+
+<references group=* />
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European laryngeals in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *h1 || ∅ || ''*'''h₁'''ésmi''—"am" || ''jam'' "to be"
+|-
+| *h2 || ∅ || ''*'''h₂'''r̥tḱos''—"bear" || ''ari'' "bear"
+|-
+| *h3 || ∅ || ''*'''h₃'''ónr̥''—"dream" || ''ëndërr'' "dream"
+|-
+| *h4 || h || ''*'''h<sub>4</sub>'''órǵʰii̯eh₂''—"testicle" || '''''h'''erdhe'' "testicle"
+|}
+
+{| class="wikitable collapsible collapsed"
+|+ Correspondences of Proto-Indo-European vowels in Albanian
+!PIE !! Albanian !! PIE !! Albanian
+|-
+| *i || i || ''*s'''í'''nos''—"bosom" || ''gj'''i''''' "bosom, breast"
+|-
+| || e || ''*du̯'''i'''gʰeh₂''—"twig" || ''d'''e'''gë'' "branch"
+|-
+| *ī || i || ''*d'''īH'''tis''—"light" || ''d'''i'''të'' "day"
+|-
+| *e || e || ''*p'''é'''nkʷe''—"five" || ''p'''e'''së'' "five" (Gheg ''pês'')
+|-
+| || je || ''*u̯'''é'''tos''—"year" (loc.) || ''v'''je'''t'' "last year"
+|-
+| *ē || o || ''*ǵʰ'''ē'''sreh₂''—"hand" || ''d'''o'''rë'' "hand"
+|-
+| *a || a || ''*bʰ'''a'''ḱeh₂''- "bean" || ''b'''a'''thë'' "bean"
+|-
+| || e || ''*h₂'''é'''lbʰit''—"barley" || '''''e'''lb'' "barley"
+|-
+| *o || a || ''*gʰ'''ó'''rdʰos''—"enclosure" || ''g'''a'''rdh'' "fence"
+|-
+| *ō || e || ''*h₂oḱt'''ō'''tis''—"eight" || ''t'''e'''të'' "eight"
+|-
+| *u || u || ''*s'''u'''pnos''—"sleep" || ''gj'''u'''më'' "sleep"
+|-
+| *ū || y || ''*s'''uH'''sos''—"grandfather" || ''gj'''y'''sh'' "grandfather"
+|-
+| || i || ''*m'''ū'''s''—"mouse" || ''m'''i''''' "mouse"
+|}
+
+== Dialects ==
+{{Main|Albanian dialects}}
+
+Albanian is divided into two major dialects: [[Gheg]], [[Tosk]], and a transitional dialect zone between them.<ref>Gjinari, Jorgji. Dialektologjia shqiptare</ref>
+The [[Shkumbin]] river is roughly the dividing line, with Gheg spoken north of the Shkumbin and Tosk south of it.<ref>Concise Encyclopedia of Languages of the World By Keith Brown, Sarah Ogilvie Contributor Keith Brown, Sarah Ogilvie Edition: illustrated Published by Elsevier, 2008 ISBN 0-08-087774-5, ISBN 978-0-08-087774-7</ref> There are also other dialects like Arbëresh and Arvanitika, which are mixtures between Gheg and Tosk with some archaic features of Albanian. They are spoken in some areas of Italy and Greece.
+
+== Standard Albanian ==
+
+Since [[World War II]], standard Albanian used in Albania has been based on the Tosk dialect. Kosovo and other areas where Albanian is official adopted the Tosk standard in 1969.<ref name="Agim">Agim Morina, "Udhërrëfyes i shkurtë i standardizimit të shqipes," [http://dodonapress.blogspot.co.uk/2015/02/udherrefyes-i-shkurte-i-historise-se.html ''DodonaPress'' (2015-02-21)], also in [http://plisi.org/2015/02/24/udherrefyes-shkurte-historise-standardizimit-shqipes/ ''Plisi.org'' (2015-02-24)].</ref>
+
+=== Elbasan-based Standard ===
+
+Until the early 20th century, Albanian writing developed in three main literary traditions: [[Gheg]], [[Tosk]], and [[Arbëreshë people|Arbëreshë]]. Throughout this time, an intermediate subdialect spoken around [[Elbasan]] served as ''lingua franca'' among the Albanians, but was less prevalent in writing. A congress of Albanian writers held in 1909 recommended the use of the Elbasan subdialect for literary purposes and as a basis of a unified national language. While technically classfied as a southern Gheg variety, the Elbasan speech is closer to Tosk in phonology and practically a hybrid between other Gheg subdialects and literary Tosk.<ref name=Agim />
+
+Between 1916 and 1918, the [[Albanian Literary Commission]] met in Shkodër under the leadership of [[Luigj Gurakuqi]] with the purpose of establishing a unified orthography for the language. The Commission, made up of representatives from the north and south of Albania, reaffirmed the Elbasan subdialect as the basis of a national tongue. The rules published in 1917 defined spelling for the Elbasan variety for official purposes. The Commission did not, however, discourage publications in one of the dialects, but rather laid a foundation for Gheg and Tosk to gradually converge into one.<ref name="Agim"/>
+
+When the Congress of Lushnje met in the aftermath of World War I to form a new Albanian government, the 1917 decisions of the Literary Commission were upheld. The Elbasan subdialect remained in use for administrative purposes and many new writers embraced for creative writing. Gheg and Tosk continued to develop freely and interaction between the two dialects increased.
+
+=== Tosk Standard ===
+
+At the end of World War II, however, the new communist regime radically imposed the use of the Tosk dialect in all facets of life: administration, education, and literature.  Most Communist leaders were Tosks from the south.<ref name="Agim"/> Standardization was directed by the [[Centre of Albanological Studies#Institute of Linguistics and Literature|Institute of Albanian Language and Literature]] of the [[Academy of Sciences of Albania]].{{sfn|Lloshi||p=10}} Two dictionaries were published in 1954: an Albanian language dictionary and a [[Russian language|Russian]]–Albanian dictionary. New orthography rules were eventually published in 1967{{sfn|Lloshi||p=10}} and 1973 ''Drejtshkrimi i gjuhës shqipe'' (Orthography of the Albanian Language).<ref>{{cite book |title=Drejtshkrimi i gjuhës shqipe |last=Kostallari |first=Androkli |authorlink= |year=1973 |publisher="Instituti i Gjuhësisë dhe i Letërsisë" ( in "Akademia e Shkencave e RPS të Shqipërisë", today "Akademia e Shkencave e Republikës së Shqipërisë"), |location= |isbn= |page=  |url=https://books.google.com/books?id=M4LLPwAACAAJ&dq=Drejtshkrimi+i+gjuh%C3%ABs+shqipe|ref="Drejtshkrimi i gjuhës shqipe" }}</ref>
+
+More recent dictionaries from the Albanian government are ''Fjalori Drejtshkrimor i Gjuhës Shqipe'' (1976) (Orthographic Dictionary of the Albanian Language)<ref>{{cite book |title=Fjalori drejtshkrimor i gjuhës shqipe |last=Kostallari |first=Androkli |authorlink= |year=1976 |publisher="Instituti i Gjuhësisë dhe i Letërsisë" (in "Akademia e Shkencave e RPS të Shqipërisë", today "Akademia e Shkencave e Republikës së Shqipërisë"), |location= |isbn= |page= |pages= | url=https://books.google.com/books?id=3MilQQAACAAJ&dq='''Fjalori+drejtshkrimor+i+gjuh%C3%ABs+shqipe'''&cd=2|ref="Fjalori Drejtshkrimor i Gjuhës Shqipe"}}</ref> and ''Dictionary of Today's Albanian language'' (''Fjalori Gjuhës së Sotme Shqipe'') (1980).{{sfn|Lloshi||p=10}}<ref>{{cite book |title=Fjalori i Gjuhës së Sotme Shqipe |last="Akademia e Shkencave e RPS të Shqipërisë", today "Akademia e Shkencave e Republikës së Shqipërisë" , "Instituti i Gjuhësisë dhe i Letërsisë" (Albania). |first= |authorlink= |year=1980 |publisher=[[Academy of Sciences of Albania]] |location=Tirana |isbn= |page= |pages= |url=https://books.google.com/books?id=IrsAGwAACAAJ&dq=Fjalor+i+gjuhes+se+sotme+shqipe&hl=en&ei=q540TIjLDYa8lQen8MjSBw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA |accessdate=7 July 2010 }}</ref> Prior to World War II, dictionaries consulted by developers of the standard have included ''Lexikon tis Alvanikis glossis'' (Albanian: ''Fjalori i Gjuhës Shqipe'' ([[Kostandin Kristoforidhi]], 1904),{{sfn|Lloshi||p=9}} ''Fjalori i Bashkimit'' (1908),{{sfn|Lloshi||p=9}} and "Fjalori i Gazullit" (1941).{{sfn|Lloshi||p=12}}
+
+=== Calls for Reform ===
+{{further|Albanian Orthography Congress}}
+Since the fall of the communist regime, Albanian orthography has stirred heated debate among scholars, writers, and public opinion in Albania and Kosovo, with hardliners opposed to any changes in the orthography, moderates supporting varying degrees of reform, and radicals calling for a return to the Elbasan dialect. Criticism of Standard Albanian has centred on the exclusion of the 'me+' infinitive and the Gheg lexicon. Critics say that Standard Albanian disenfranchises and stigmatizes Gheg speakers, affecting the quality of writing and impairing effective public communication. Supporters of the Tosk standard contend view the [[Albanian Orthography Congress|1972 Congress]] as a milestone achievement in Albanian history and dismiss calls for reform as efforts to "divide the nation" or "create two languages." Moderates, who are especially prevalent in Kosovo, generally stress the need for a unified Albanian language, but believe that the 'me+' infinitive and Gheg words should be included. Proponents of the Elbasan dialect have been vocal, but have gathered little support in the public opinion. In general, those involved in the language debate come from diverse backgrounds and there is no significant correlation between one's political views, geographic origin, and position on Standard Albanian.
+
+Many writers have continued to write in the Elbasan dialect, which is somewhat erroneously referred to as Gheg (other Gheg variants have found much more limited use in literature). But most publications adhere to a strict policy of not accepting submissions that are not written in Tosk. Some print media even translate direct speech, replacing the 'me+' infinitive with other verb forms and making other changes in grammar and word choice. Even authors who have published in the Elbasan dialect will frequently write in the Tosk standard.
+
+In the recent years, a group of academics for Albania and Kosovo have proposed minor changes in the orthography. Hardline academics boycotted the initiative, while other reformers have viewed it as superficial. Media such as Rrokum and Java have offered content that is almost exclusively in the Elbasan dialect. Meanwhile, author and linguist [[Agim Morina]] has promoted a reformed version of the Tosk standard that aims at reflecting the natural development of the language among all Albanians. Morina's variant incorporates the 'me+' infinitive, accommodates for Gheg features, and provides for simpler and dialect-neutral rules.
+
+=== Education ===
+
+Albanian is the medium of instruction in most Albanian schools. The literacy rate in Albania for the total population, age 9 or older, is about 99%. Elementary education is compulsory (grades 1–9), but most students continue at least until a secondary education. Students must pass graduation exams at the end of the 9th grade and at the end of the 12th grade in order to continue their education.
+
+== Geographic distribution ==
+
+Albanian is spoken by approximately 5.4 million people,<ref name="e18"/> mainly in [[Demographics of Albania|Albania]], [[Albanians in Kosovo|Kosovo]], [[Ethnic groups in Turkey|Turkey]], the [[Albanians in the Republic of Macedonia|Republic of Macedonia]], [[Albanian communities in Greece|Greece]] and Italy ([[Arbereshe]])<!-- [[Albanians in Serbia proper|Serbia proper]], [[Albanians in Montenegro|Montenegro]], [[Albanians of Romania|Romania]] and Bulgaria (in the single village of [[Mandritsa]]) --> and by [[Albanian diaspora|immigrant communities]] in many other countries, notably the [[Ethnic groups in the UK|United Kingdom]], the [[Albanian Americans|United States]], [[Ethnic groups in Germany|Germany]], the [[Ethnic groups in the Netherlands|Netherlands]], and [[Ethnic groups in Switzerland|Switzerland]].
+<!--
+    *  Albania 3,700,000
+    *  Kosovo 2,000,000
+    *  Turkey 2,300,000
+    *  Macedonia 520,000
+    *  Greece 445,000
+    *  Italy 455,000
+    *  Serbia proper 61,647
+    *  Montenegro 31,163
+    *  Romania 10,000
+    *  Bulgaria 141
+
+    *  United Kingdom 250,000
+    *  USA 433,000
+    *  Netherlands 106,000
+    *  Germany 350,000–400,000
+    *  Switzerland 400,000
+-->
+
+=== Standard ===
+Standard Albanian, based on the [[Tosk Albanian|Tosk]] dialect of southern Albania, is the [[official language]] of [[Albania]] and [[Kosovo]] and is also official in municipalities of the Republic of Macedonia where ethnic Albanians form more than 20% of the municipal population.<ref>[http://www.president.gov.mk/en/about-macedonia/basic-facts.html]</ref> It is also an official language of [[Montenegro]], where it is spoken in municipalities with ethnic Albanian populations.
+
+== Phonology ==
+Standard Albanian has 7 [[vowel]]s and 29 [[consonant]]s. [[Gheg Albanian|Gheg]] uses [[long vowel|long]] and [[nasal vowel]]s, which are absent in [[Tosk Albanian|Tosk]], and the mid-central vowel ''ë'' is lost at the end of the word. The stress is fixed mainly on the last syllable. Gheg ''n'' (''femën'': compare English ''feminine'') changes to ''r'' by [[rhotacism#Linguistics|rhotacism]] in Tosk (''femër'').
+
+=== Consonants ===
+{| class="wikitable" style=text-align:center
+|-
+! rowspan="2" colspan="2" | 
+! rowspan="2" | [[Labial consonant|Labial]]
+! rowspan="2" | [[Interdental consonant|Dental]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Postalveolar consonant|Post-<br>alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! rowspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|- 
+! {{small|plain}}
+! {{small|[[Velarization|velar.]]}}
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA|m}}
+|
+| {{IPA|n}}
+| ||
+| {{IPA|ɲ}}
+| {{IPA|ŋ}}
+|
+|-
+! rowspan="2" | [[Stop consonant|Plosive]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA|p}}
+|
+| {{IPA|t}}
+| || ||
+| {{IPA|k}}
+|
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+| {{IPA|b}}
+|
+| {{IPA|d}}
+| || ||
+| {{IPA|ɡ}}
+|
+|-
+! rowspan=2| [[Affricate consonant|Affricate]]
+! {{small|[[voicelessness|voiceless]]}}
+| ||
+| {{IPA|t͡s}}
+|
+| {{IPA|t͡ʃ}}
+| {{IPA|c͡ç}}
+| ||
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+| ||
+| {{IPA|d͡z}}
+|
+| {{IPA|d͡ʒ}}
+| {{IPA|ɟ͡ʝ}}
+| ||
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA|f}}
+| {{IPA|θ}}
+| {{IPA|s}}
+|
+| {{IPA|ʃ}}
+| ||
+| {{IPA|h}}
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+| {{IPA|v}}
+| {{IPA|ð}}
+| {{IPA|z}}
+|
+| {{IPA|ʒ}}
+| || ||
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| ||
+| {{IPA|l}}
+| {{IPA|ɫ}}
+|
+| {{IPA|j}}
+| ||
+|-
+! colspan="2" | [[Flap consonant|Flap]]
+| ||
+| {{IPA|ɾ}}
+| || || || ||
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+| ||
+| {{IPA|r}}
+| || || || ||
+|}
+
+{| class="wikitable"
+|-
+![[help:IPA|IPA]] !! Description !! Written as !! Pronounced as in
+|-
+| {{IPA|m}} || [[Bilabial nasal]] || m || {{bold dark red|m}}an
+|-
+| {{IPA|n}} || [[Alveolar nasal]] || n || {{bold dark red|n}}ot
+|-
+| {{IPA|ɲ}} || [[Palatal nasal]] || nj || ~o{{bold dark red|ni}}on
+|-
+| {{IPA|ŋ}}|| [[Velar nasal]] || ng || ba{{bold dark red|ng}}
+|-
+| {{IPA|p}} || [[Voiceless bilabial plosive]] || p || s{{bold dark red|p}}in
+|-
+| {{IPA|b}} || [[Voiced bilabial plosive]] || b || {{bold dark red|b}}at
+|-
+| {{IPA|t}} || [[Voiceless alveolar plosive]] || t || s{{bold dark red|t}}and
+|-
+| {{IPA|d}} || [[Voiced alveolar plosive]] || d || {{bold dark red|d}}ebt
+|-
+| {{IPA|k}} || [[Voiceless velar plosive]] || k || s{{bold dark red|c}}ar
+|-
+| {{IPA|ɡ}} || [[Voiced velar plosive]] || g || {{bold dark red|g}}o
+|-
+| {{IPA|t͡s}} || [[Voiceless alveolar affricate]] || c || ha{{bold dark red|ts}}
+|-
+| {{IPA|d͡z}} || [[Voiced alveolar affricate]] || x || goo{{bold dark red|ds}}
+|-
+| {{IPA|t͡ʃ}} || [[Voiceless postalveolar affricate]] || ç || {{bold dark red|ch}}in
+|-
+| {{IPA|d͡ʒ}} || [[Voiced postalveolar affricate]] || xh || {{bold dark red|j}}et
+|-
+| {{IPA|c͡ç}} || [[Voiceless palatal affricate]] || q ||~{{bold dark red|c}}ute [[Received Pronunciation|(RP)]]
+|-
+| {{IPA|ɟ͡ʝ}} || [[Voiced palatal affricate]] || gj ||~{{bold dark red|g}}ules (RP)
+|-
+| {{IPA|f}} || [[Voiceless labiodental fricative]] || f || {{bold dark red|f}}ar
+|-
+| {{IPA|v}} || [[Voiced labiodental fricative]] || v || {{bold dark red|v}}an
+|-
+| {{IPA|θ}} || [[Voiceless dental fricative]] || th || {{bold dark red|th}}in
+|-
+| {{IPA|ð}} || [[Voiced dental fricative]] || dh || {{bold dark red|th}}en
+|-
+| {{IPA|s}} || [[Voiceless alveolar fricative]] || s || {{bold dark red|s}}on
+|-
+| {{IPA|z}} || [[Voiced alveolar fricative]] || z || {{bold dark red|z}}ip
+|-
+| {{IPA|ʃ}} || [[Voiceless postalveolar fricative]] || sh || {{bold dark red|sh}}ow
+|-
+| {{IPA|ʒ}} || [[Voiced postalveolar fricative]] || zh || vi{{bold dark red|s}}ion
+|-
+| {{IPA|h}} || [[Voiceless glottal fricative]] || h || {{bold dark red|h}}at
+|-
+| {{IPA|r}} || [[Alveolar trill]] || rr || [[Spanish language|Spanish]] pe{{bold dark red|rr}}o
+|-
+| {{IPA|ɾ}} || [[Alveolar tap]] || r || [[Spanish language|Spanish]] pe{{bold dark red|r}}o
+|-
+| {{IPA|l}} || [[Alveolar lateral approximant]] || l || {{bold dark red|l}}ean
+|-
+| {{IPA|ɫ}} || [[Velarized alveolar lateral approximant]] || ll || ba{{bold dark red|ll}}
+|-
+| {{IPA|j}} || [[Palatal approximant]] || j || {{bold dark red|y}}es
+|}
+
+'''Notes:'''
+
+* The contrast between flapped ''r'' and trilled ''rr'' is the same as in Spanish or [[Armenian language|Armenian]].  In most of the dialects, as also in standard Albanian, the single "r" merges from an alveolar flap {{IPA|/ɾ/}} into a retroflex flap {{IPA|[ɽ]}}, or even an alveolar approximant {{IPA|[ɹ]}} when it is at the end of a word.
+* The palatal nasal {{IPA|/ɲ/}} corresponds to the Spanish ''ñ'' and the French and Italian ''gn''. It is pronounced as one sound, not a nasal plus a glide.
+* The ''ll'' sound is a velarised lateral, close to English ''[[dark L]]''.
+* The letter ''ç'' is sometimes written ''ch'' due to technical limitations because of its use in English sound and its analogy to the other [[digraph (orthography)|digraph]]s ''xh'', ''sh'', and ''zh''. Usually it is written simply ''c'' or more rarely ''q'' with context resolving any ambiguities.
+* Many speakers merge the palatal sounds ''q'' and ''gj'' into the palatoalveolar sounds ''ç'' and ''xh''. This is especially common in Northern Gheg, but is increasingly the case in Tosk as well.<ref>Kolgjini, Julie M. (2004). ''Palatalization in albanian : an acoustic investigation of stops and affricates.'' Ph.D. Dissertation, University of Texas at Arlington. ISBN 0496859366.</ref>
+
+=== Vowels ===
+
+{| class="wikitable"
+|-
+![[help:IPA|IPA]] !! Description !! Written as !! Pronounced as in
+|-
+| {{IPA|i}} || [[Close front unrounded vowel]] || i || s{{bold dark red|ee}}d
+|-
+| {{IPA|ɛ}} || [[Open-mid front unrounded vowel]] || e || b{{bold dark red|e}}d
+|-
+| {{IPA|a}} || [[Open central unrounded vowel]] || a || f{{bold dark red|a}}ther, [[Spanish language|Spanish]] c{{bold dark red|a}}sa
+|-
+| {{IPA|ə}} || [[Schwa]] || ë || {{bold dark red|a}}bout, th{{bold dark red|e}}
+|-
+| {{IPA|ɔ}} || [[Open-mid back rounded vowel]] || o || l{{bold dark red|aw}}
+|-
+| {{IPA|y}} || [[Close front rounded vowel]] || y || [[French language|French]] t{{bold dark red|u}}, [[German language|German]] {{bold dark red|ü}}ber
+|-
+| {{IPA|u}} || [[Close back rounded vowel]] || u || b{{bold dark red|oo}}t
+|}
+
+==== Schwa ====
+Although the Indo-European [[schwa]] (ə or -h2-) was preserved in Albanian, in some cases it was lost, possibly when a [[stressed syllable]] preceded it.<ref>Orel, Vladimir (2000). ''[https://books.google.com/books?id=xvKH56aT5mEC&pg=PA3&dq=schwa+proto-Albanian#v=onepage&q=schwa%20proto-Albanian&f=false A concise historical grammar of the Albanian language: reconstruction of Proto-Albanian]''. BRILL. p. 3. ISBN 978-90-04-11647-4. Retrieved 15 December 2010</ref> Until the standardization of the modern [[Albanian alphabet]], in which the schwa is spelled as ''ë'', as in the work of [[Gjon Buzuku]] in the 16th century, various vowels and [[gliding vowel]]s were employed, including ''ae'' by [[Lekë Matrënga]] and ''é'' by [[Pjetër Bogdani]] in the late 16th and early 17th century.<ref>{{cite web|url=https://openaccess.leidenuniv.nl/bitstream/1887/14920/2/de+Vaan+-+PIE+e+in+Albanian.pdf|title=PIE *e in Albanian|last=de Vaan|first=Michiel|page=72|accessdate=16 December 2010}}</ref><ref name="Elsie(London2005">{{cite book|last1=Elsie|first1=Robert|last2=(London|first2=Centre for Albanian Studies|last3=England)|first3=|title=Albanian literature: a short history|url=https://books.google.com/books?id=ox3Wx1Nl_2MC&pg=PA16&dq=schwa+albanian&hl=en&ei=Zh0JTaHODsqe4QaWuPCeAQ&sa=X&oi=book_result&ct=result&resnum=3&ved=0CCkQ6AEwAjgK#v=onepage&q=schwa%20albanian&f=false|accessdate=15 December 2010|year=2005|publisher=I.B.Tauris|isbn=978-1-84511-031-4|page=16}}</ref> The schwa in Albanian has a great degree of variability from extreme back to extreme front articulation.<ref name="schwa">{{cite web|url=http://www.kfs.oeaw.ac.at/publications/2001_granser_moosmueller_the_schwa_in_albanian.pdf|title=The schwa in Albanian|last=Granser|first=Thedor|last2=Moosmüller|first2=Sylvia|publisher=Institute of Acoustics of the Austrian Academy of Sciences|accessdate=15 December 2010}}</ref> Within the borders of [[Albania]], the phoneme is pronounced about the same in both the Tosk and the Gheg dialect due to the influence of standard Albanian. Howevever, in the Gheg dialects spoken in the neighbouring Albanian-speaking areas of [[Kosovo]] and [[Republic of Macedonia|Macedonia]], the phoneme is still pronounced as back and rounded.<ref name="schwa"/>
+
+== Grammar ==
+{{see also | Albanian morphology}}
+Albanian has a canonical word order of [[subject–verb–object|SVO]] (subject–verb–object) like English and many other Indo-European languages.<ref>Maxwell, Daniel Newhall. (1979). A Crosslinguistic Correlation between Word Order and Casemarking
+institution. Bloomington: Indiana University Pub.</ref> Albanian [[noun]]s are [[Albanian morphology|inflected]] by [[Grammatical gender|gender]] (masculine, feminine and neuter) and [[Grammatical number|number]] (singular and plural). There are five [[declension]]s with six cases ([[nominative]], [[accusative]], [[genitive]], [[dative case|dative]], [[ablative]], and [[vocative]]), although the vocative only occurs with a limited number of words, and the forms of the genitive and dative are identical (a genitive is produced when the prepositions ''i/e/të/së'' are used with the dative). Some dialects also retain a locative case, which is not present in standard Albanian. The cases apply to both definite and indefinite nouns, and there are numerous cases of [[syncretism (linguistics)|syncretism]].
+
+The following shows the declension of ''mal'' (mountain), a masculine noun which takes "i" in the definite singular:
+
+{| class="wikitable"
+|-
+! !! '''Indefinite singular''' !! '''Indefinite plural''' !! '''Definite singular''' !! '''Definite plural'''
+|-
+| '''[[Nominative]]''' || një mal (a mountain) || male (mountains) || mali (the mountain) || malet (the mountains)
+|-
+| '''[[Accusative]]''' || një mal || male || malin || malet
+|-
+| '''[[Genitive]]''' || i/e/të/së një mali || i/e/të/së maleve || i/e/të/së malit || i/e/të/së maleve
+|-
+| '''[[Dative]]''' || një mali || maleve || malit || maleve
+|-
+| '''[[Ablative]]''' || (prej) një mali || (prej) malesh || (prej) malit || (prej) maleve
+|}
+
+The following shows the declension of the masculine noun ''zog'' (bird), a masculine noun which takes "u" in the definite singular:
+
+{| class="wikitable"
+|-
+! !! '''Indefinite singular''' !! '''Indefinite plural''' !! '''Definite singular''' !! '''Definite plural'''
+|-
+| '''[[Nominative]]''' || një zog (a bird) || zogj (birds) || zogu (the bird) || zogjtë (the birds)
+|-
+| '''[[Accusative]]''' || një zog || zogj || zogun || zogjtë
+|-
+| '''[[Genitive]]''' || i/e/të/së një zogu || i/e/të/së zogjve || i/e/të/së zogut || i/e/të/së zogjve
+|-
+| '''[[Dative]]''' || një zogu || zogjve || zogut || zogjve
+|-
+| '''[[Ablative]]''' || (prej) një zogu || (prej) zogjsh || (prej) zogut || (prej) zogjve
+|}
+
+The following table shows the declension of the feminine noun ''vajzë'' (girl):
+
+{| class="wikitable"
+|-
+! !! '''Indefinite singular''' !! '''Indefinite plural''' !! '''Definite singular''' !! '''Definite plural'''
+|-
+| '''[[Nominative]]''' || një vajzë (a girl) || vajza (girls) || vajza (the girl) || vajzat (the girls)
+|-
+| '''[[Accusative]]''' || një vajzë || vajza || vajzën || vajzat
+|-
+| '''[[Genitive]]''' || i/e/të/së një vajze || i/e/të/së vajzave || i/e/të/së vajzës || i/e/të/së vajzave
+|-
+| '''[[Dative]]''' || një vajze || vajzave || vajzës || vajzave
+|-
+| '''[[Ablative]]''' || (prej) një vajze || (prej) vajzash || (prej) vajzës || (prej) vajzave
+|}
+
+The definite article is placed after the noun as in many other [[Balkan languages]], like in [[Romanian language|Romanian]], [[Macedonian language|Macedonian]] and [[Bulgarian language|Bulgarian]].
+
+* The definite article can be in the form of noun suffixes, which vary with gender and case.
+** For example, in singular nominative, masculine nouns add ''-i'', or those ending in -g/-k/-h take ''-u'' (to avoid palatalization):
+*** ''mal'' (mountain) / ''mali'' (the mountain);
+*** ''libër'' (book) / ''libri'' (the book);
+*** ''zog'' (bird) / ''zogu'' (the bird).
+** Feminine nouns take the suffix ''-(i/j)a'':
+*** ''veturë'' (car) / ''vetura'' (the car);
+*** ''shtëpi'' (house) / ''shtëpia'' (the house);
+*** ''lule'' (flower) / ''lulja'' (the flower).
+* Neuter nouns take ''-t''.
+
+Albanian has developed an analytical [[verb]]al structure in place of the earlier synthetic system, inherited from [[Proto-Indo-European language|Proto-Indo-European]]. Its complex system of [[Grammatical mood|mood]]s (six types) and [[Grammatical tense|tense]]s (three simple and five complex constructions) is distinctive among [[Balkan languages]]. There are two general types of [[Grammatical conjugation|conjugations]].
+
+Albanian verbs, like those of other Balkan languages, have an "[[admirative]]" mood (''mënyra habitore'') that is used to indicate surprise on the part of the speaker or to imply that an event is known to the speaker by report and not by direct observation. In some contexts, this mood can be translated using English "apparently".
+
+* ''Ti '''flet''' shqip.'' "You '''speak''' Albanian." (indicative)
+* ''Ti '''fliske''' shqip!'' "You '''(surprisingly) speak''' Albanian!" (admirative)
+* ''Rruga '''është''' e mbyllur.'' "The street '''is''' closed." (indicative)
+* ''Rruga '''qenka''' e mbyllur.'' "'''(Apparently,)''' The street '''is''' closed." (admirative)
+
+For more information on verb conjugation and on inflection of other parts of speech, see [[Albanian morphology]].
+
+=== Word order ===
+Albanian word order is relatively free [http://eujournal.org/index.php/esj/article/viewFile/4690/4482]. However, the most common order is [[subject–verb–object]], and negation is expressed by the particles ''nuk'' or ''s''' in front of the verb, for example:
+
+* ''Toni nuk flet anglisht'' "Tony does not speak English";
+* ''Toni s'flet anglisht'' "Tony doesn't speak English";
+* ''Nuk e di'' "I do not know";
+* ''S'e di'' "I don't know".
+
+However, the verb can optionally occur in sentence-initial position, especially with verbs in the non-active form (''forma joveprore''):
+
+* '''''Parashikohet''' një ndërprerje'' "An interruption '''is anticipated'''".
+
+In imperative sentences, the particle ''mos'' is used:
+
+* ''Mos harro'' "do not forget!".
+* [[subject–verb–object|SVO]]: Agimi i hëngri të gjithë portokallët.
+* [[subject–object–verb|SOV]]: Agimi të gjithë portokallët i hëngri.
+* [[Object–verb–subject|OVS]]: Të gjithë portokallët i hëngri Agimi.
+* [[Object–subject–verb|OSV]]: Të gjithë portokallët Agimi i hëngri.
+* [[Verb–subject–object|VSO]]: I hëngri Agimi të gjithë portokallët.
+
+=== Numerals ===
+{|
+|valign="top"|
+{| class="wikitable"
+|-
+| një—one
+| tetëmbëdhjetë—eighteen
+|-
+| dy—two
+| nëntëmbëdhjetë—nineteen
+|-
+| tri/tre—three
+| njëzet—twenty
+|-
+| katër—four
+| njëzetenjë—twenty-one
+|-
+| pesë—five
+| njëzetedy—twenty-two
+|-
+| gjashtë—six
+| tridhjetë—thirty
+|-
+| shtatë—seven
+| dyzet/katërdhjetë—forty
+|-
+| tetë—eight
+| pesëdhjetë—fifty
+|-
+| nëntë—nine
+| gjashtëdhjetë—sixty
+|-
+| dhjetë—ten
+| shtatëdhjetë—seventy
+|-
+| njëmbëdhjetë—eleven
+| tetëdhjetë—eighty
+|-
+| dymbëdhjetë—twelve
+| nëntëdhjetë—ninety
+|-
+| trembëdhjetë—thirteen
+| njëqind—one hundred
+|-
+| katërmbëdhjetë—fourteen
+| pesëqind—five hundred
+|-
+| pesëmbëdhjetë—fifteen
+| njëmijë—one thousand
+|-
+| gjashtëmbëdhjetë—sixteen
+| një milion—one million
+|-
+| shtatëmbëdhjetë—seventeen
+| një miliard—one billion
+|-
+|}
+|}
+
+== Orthography ==
+{{Main|Albanian alphabet|Albanian braille}}
+[[File:Albanian keyboard layout.jpg|thumb|Albanian [[keyboard layout]].]]
+
+The Albanian language has been written using many different alphabets since the earliest records from the 15th century. The history of Albanian language orthography is closely related to the cultural orientation and knowledge of certain foreign languages among Albanian writers.{{sfn|Lloshi||p=12}} The earliest written Albanian records come from the Gheg area in makeshift spellings based on Italian or Greek and sometimes in Arabic characters. Originally, the Tosk dialect was written in the [[Greek alphabet]] and the Gheg dialect was written in the [[Latin script]]. Both dialects had also been written in the [[Ottoman Turkish language|Ottoman Turkish]] version of the [[Arabic script]], [[Cyrillic script|Cyrillic]], and some local alphabets ([[Elbasan alphabet|Elbasan]], [[Vithkuqi alphabet|Büthakukye/Vithkuqi]], Todhri, Veso Bey, Jan Vellara and others, see [[Albanian alphabet#Original Alphabets|original Albanian alphabets]]). More specifically, the writers from northern Albania and under the influence of the Catholic Church used Latin letters, those in southern Albania and under the influence of the Greek Orthodox church used Greek letters, while others throughout Albania and under the influence of Islam used Arabic letters. There were initial attempts to create an original Albanian alphabet during the 1750–1850 period. These attempts intensified after the [[League of Prizren]] and culminated with the [[Congress of Manastir]] held by Albanian intellectuals from 14 to 22 November 1908, in Manastir (present day [[Bitola]]), which decided on which alphabet to use, and what the standardized spelling would be for standard Albanian. This is how the literary language remains. The alphabet is the Latin alphabet with the addition of the letters ''ë'', ''ç'', and nine [[Digraph (orthography)|digraphs]].
+
+== Literary tradition ==
+
+=== Earliest undisputed texts ===
+{{See also|Formula e pagëzimit|Meshari}}
+
+The earliest known texts in Albanian:
+* a 208-page parchment written by Theodor of Shkodra discovered in the secret archives of Vatican [https://books.google.com/books?id=ox3Wx1Nl_2MC&pg=PA5&lpg=PA5&dq=theodor+of+shkodra&source=bl&ots=leUNicZJF0&sig=SSnLa7n_6m-f9jYT7OS2Rft9zJk&hl=en&sa=X&ved=0CB8Q6AEwAGoVChMIko-bh-GnxwIVhl2SCh1NvgCm#v=onepage&q=theodor%20of%20shkodra&f=false]. The work is a manuscript decorated with golden miniatures and colored initials, divided in three parts. Pages 1–97 deal with theology, 98–146 with philosophy, and pages 147–208 with a history of the known world from AD 153 to 1209. On the final page of the manuscript we find a note by the author "With the assistance and great love of the blessed Lord, I finished this in the year 1210 on the 9th day of March."
+* the "[[formula e pagëzimit]]" (baptismal Formula), which dates back to 1462 and was authored by [[Pal Engjëlli]] (or Paulus Angelus) (c. 1417&nbsp;– 1470), Archbishop of [[Durrës]]. Engjëlli was a close friend and counsellor of [[Skanderbeg]].{{sfn|Prifti|1982|p=3}} It was written in a pastoral letter for a synod at the Holy Trinity in Mat and read in Latin characters as follows: ''Unte paghesont premenit Atit et Birit et Spertit Senit'' (standard Albanian: "Unë të pagëzoj në emër të Atit, të Birit e të Shpirtit të Shenjtë" "I baptize you in the name of the Father and the Son and the Holy Spirit"). It was discovered and published in 1915 by [[Nicolae Iorga]].{{sfn|Iorga|1s971|p=102}}
+* the ''[[Fjalori i Arnold von Harfit]]'' ([[Arnold Ritter von Harff's lexicon]]), a short list of Albanian phrases with German glosses, dated 1496.{{sfn|Anamali|2002|p=311}}
+* a song, recorded in the Greek alphabet, retrieved from an old [[codex]] that was written in Greek. The document is also called ''Perikopeja e Ungjillit të Pashkëve" or "Perikopeja e Ungjillit të Shën Mateut'' ("The Song of the Easter Gospel, or "The Song of Saint Matthew's Gospel"). Although the codex is dated to during the 14th century, the song, written in Albanian by an anonymous writer, seems to be a 16th-century writing. The document was found by [[Arbëreshë people|Arbëreshë]] people who had emigrated to [[Italy]] in the 15th century.{{sfn|Lloshi|2008|p=97}}
+
+[[File:Buzuku meshari.jpg|left|thumb|[[Meshari]] of [[Gjon Buzuku]] 1554–1555]]
+
+The first book in Albanian is the [[Meshari]] ("The Missal"), written by [[Gjon Buzuku]] between 20 March 1554 and 5 January 1555. The book was written in the [[Gheg]] dialect in the [[Latin script]] with some Slavic letters adapted for Albanian vowels. The book was discovered in 1740 by [[Gjon Nikollë Kazazi]], the Albanian [[archbishop]] of [[Skopje]]. It contains the liturgies of the main [[holiday]]s. There are also texts of prayers and rituals and [[catechism|catechetical]] texts. The grammar and the vocabulary are more archaic than those in the Gheg texts from the 17th century. The 188 pages of the book comprise about 154,000 words with a total vocabulary of c. 1,500 different words. The text is archaic yet easily interpreted because it is mainly a translation of known texts, in particular portions of the [[Bible]]. The book also contains passages from the [[Psalm]]s, the [[Book of Isaiah]], the [[Book of Jeremiah]], the [[First Epistle to the Corinthians|Letters to the Corinthians]], and many illustrations. The uniformity of spelling seems to indicate an earlier tradition of writing. The only known copy of the Meshari is held by the [[Vatican Library|Apostolic Library]].<ref>{{cite web | title=Meshari | url=http://www.bksh.al/gsdl/cgi-bin/library.exe?e=d-01000-00---off-0antikuar--00-1--0-10-0---0---0prompt-10---4-------0-1l--11-en-50---20-about---00-3-1-00-0-0-11-1-0utfZz-8-00&a=d&c=antikuar&cl=CL2.3 | work= | publisher=[[National Library of Albania]] | author= | date= | accessdate=14 May 2010}}</ref> In 1968 the book was published with transliterations and comments by linguists.
+
+=== Disputed earlier text ===
+
+[[File:Oldest Surviving Albanian Text.jpg|thumb|right|Possibly the oldest surviving Albanian text, highlighted in red, from the Bellifortis manuscript, written by Konrad Kyeser around 1402–1405.]]
+
+In 1967 two scholars claimed to have found a brief text in Albanian inserted into the [[Bellifortis]] text, a book written in Latin dating to 1402–1405.{{sfn|Todericiu|1967|}}
+
+{{quote|"A star has fallen in a place in the woods, distinguish the star, distinguish it.<br>
+Distinguish the star from the others, they are ours, they are.<br>
+Do you see where the great voice has resounded? Stand beside it<br>
+That thunder. It did not fall. It did not fall for you, the one which would do it.<br>
+...<br>
+Like the ears, you should not believe ... that the moon fell when ...<br>
+Try to encompass that which spurts far ...<br>
+Call the light when the moon falls and no longer exists ..."}}
+
+Dr. [[Robert Elsie]], a specialist in Albanian studies, considers that "The Todericiu/Polena Romanian translation of the non-Latin lines, although it may offer some clues if the text is indeed Albanian, is fanciful and based, among other things, on a false reading of the manuscript, including the exclusion of a whole line."{{sfn|Elsie|1986|p=158–162}}
+
+=== Ottoman period ===
+
+In 1635, [[Frang Bardhi]] (1606–1643) published in [[Rome]] his ''Dictionarum latinum-epiroticum'', the first known Latin-Albanian dictionary. Other scholars who studied the language during the 17th century include [[Andrea Bogdani]] (1600–1685), author of the first Latin-Albanian grammar book, [[Nilo Katalanos]] (1637–1694) and others.{{sfn|Marmullaku|1975|p=17}}
+
+== Vocabulary ==
+
+=== Cognates with Illyrian ===
+{{See also|Illyrian languages}}
+
+* Andena/Andes/Andio/Antis&nbsp;— personal Illyrian names based on a root-word ''and-'' or ''ant-'', found in both the southern and the Dalmatian-Pannonian (including modern [[Bosnia and Herzegovina]]) onomastic provinces; cf. Alb. ''andë'' (northern Albanian dialect, or Gheg) and ''ëndë'' (southern Albanian dialect or Tosk) "appetite, pleasure, desire, wish"; ''Andi'' proper name, ''Andizetes'', an Illyrian people inhabiting the Roman province of Panonia.<ref name="balkancenter.org">Adzanela (Axhanela) Ardian, ''Illyrian Bosnia and Herzegovina-an overview of a cultural legacy'', 2004, http://www.academia.edu/2490281/Illyrian_Bosnia_and_Herzegovina-an_Overview_of_a_Cultural_Legacy_Ancient_Illyrians_of_Bosnia_and_Herzegovina</ref>
+* ''aran'' "field"; cf. Alb. ''arë''; plural ''ara''<ref name="Mann1977">{{cite book|author =Suart E. Mann|title=An Albanian Historical Grammar|url=https://books.google.com/books?id=3LJiAAAAMAAJ&dq=lo%C3%BAgeon+%2B+Illyrian&focus=searchwithinvolume&q=aran+%2B+Illyrian|year=1977|publisher=Buske|isbn=978-3-87118-262-4}}</ref>
+* ''Ardiaioi/Ardiaei'', name of an Illyrian people, cf. Alb. ''ardhja'' "arrival" or "descent", connected to ''hardhi'' "vine-branch, grape-vine", with a sense development similar to Germanic *stamniz, meaning both ''stem, tree stalk'' and ''tribe, lineage''. However, the insufficiency of this theory is that so far there is no certainty as to the historical or etymological development of either ''ardhja/hardhi'' or ''Ardiaioi'', as with many other words.<ref name="balkancenter.org"/>
+* ''Bilia'' "daughter"; cf. Alb. ''bijë'', dial. ''bilë''<ref>[https://books.google.com/books?id=8D5mAAAAMAAJ&q=bilia+Illyrian+albanian&dq=bilia+Illyrian+albanian&hl=en&sa=X&ei=u3sMVKW4BYHgyQOK14KQDA&ved=0CBoQ6AEwAA Sborník prací Filozofické fakulty brněnské univerzity: Řada klasická, Volume 10]</ref>
+* ''Bindo/Bindus'', an Illyrian deity from Bihać, Bosnia and Herzegovina; cf. Alb. ''bind'' "to convince" or "to make believe", ''përbindësh'' "monster".<ref>Ushaku, Ruzhdi, Hulumtime etnoliguistike, chapter: The continuation of Illyrian  Bind  in Albanian Mythology and Language, Fakulteti filologjise, Prishtine, 2000, p. 46-48</ref>
+* ''bounon'', "hutt, cottage"; cf. Alb ''bun''<ref name="Mayani 1962">{{cite book |title=The Etruscans begin to speak |last=Mayani |first=Zĕchariă |authorlink= |year=1962 |publisher=Souvenir Press |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=MMMkAAAAMAAJ&q=drenis+%2B+Illyrian&dq=drenis+%2B+Illyrian&hl=nl&ei=CEQGTseoKYmdOqPUwMoN&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA |accessdate=25 June 2011 }}</ref>
+* ''brisa'', "husk of grapes"; cf. Alb ''bërsí'' "lees, dregs; mash" ( < PA *''brutiā'')<ref name="IG">{{cite web|url=http://indoeuro.bizland.com/project/glossary/illy.html|title=Illyrian Glossary|publisher=bizland.com}}</ref>
+* ''Barba-'' "swamp", a toponym from ''Metubarbis'';  possibly related to Alb. ''bërrakë'' "swampy soil"<ref name="IG"/>
+* ''can-'' "dog"; related to Alb. ''qen''<ref name="IG"/>
+* ''Daesitiates'', a name of an Illyrian people, cf. Alb. ''dash'' "ram", corresponding contextually with south Slavonic ''dasa'' "ace", which might represent a borrowing and adaptation from Illyrian (or some other ancient language).<ref name="balkancenter.org"/>
+* ''mal'', "mountain"; cf. Alb ''mal''<ref>{{cite book |title=The Illyrians: history and culture |last=Stipčević |first=Aleksandar |authorlink= |year=1977 |publisher=Noyes Press |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=NLcWAQAAIAAJ&q=mal+%2B+Illyrian&dq=mal+%2B+Illyrian&hl=nl&ei=F0UGTszDH9GSOuvv3I4L&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDEQ6AEwAQ |accessdate=25 June 2011 }}</ref>
+* ''bardi'', "white"; cf. Alb ''bardhë''<ref>{{cite book |title=Language, Volumes 1–3|author =Linguistic Society of America |authorlink= |year=1964 |publisher=Linguistic Society of America |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=9_04AAAAMAAJ&q=bardi+%2B+Illyrian&dq=bardi+%2B+Illyrian&hl=nl&ei=okQGTpGOIIehOvrp0MQN&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDQQ6AEwAg |accessdate=25 June 2011 }}</ref>
+* ''drakoina'' "supper"; cf. Alb. ''darke'', ''dreke''<ref name="ReferenceB">Orel, Vladimir; Albanian Etymological Dictionary, Brill, 1998 ISBN 90 04 11024 0</ref>
+* ''drenis'', "deer"; cf. Alb ''dre, dreni''<ref name="Mayani 1962"/>
+* ''delme'' "sheep"; cf. Alb ''dele'', Gheg dialect ''delme''<ref name="Millennium Studies">{{cite book |title=Diokletian und die Tetrarchie: Aspekte einer Zeitenwende |last= |first= |authorlink= |year= |publisher=Millennium Studies |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=dSrxcnuJn44C&pg=PA152&dq=delme+%2B+Illyrian&hl=en&ei=Xj8GTs30Loy28QPPxOTBDQ&sa=X&oi=book_result&ct=result&resnum=8&ved=0CEoQ6AEwBw#v=onepage&q=delme%20%2B%20Illyrian&f=false |accessdate=25 June 2011 }}</ref>
+* ''dard'', "pear"; cf. Alb ''dardhë''<ref>{{cite book |title=Homeric whispers: intimations of orthodoxy in the Iliad and Odyssey |last= |first= |authorlink= |year= |publisher= |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=G4sYfFuSfekC&pg=PA72&dq=dardhe+%2B+illyrian&hl=nl&ei=OGQGTtTxL4aZOo6znMgN&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDMQ6AEwAg#v=onepage&q=dardhe%20%2B%20illyrian&f=false |accessdate=25 June 2011 }}</ref>
+* ''Hyllus'' (the name of an Illyrian king); cf. Alb. ''yll'' (''hyll'' in some northern dialects) "star", also Alb. ''hyj'' "god", ''Ylli'' proper name.<ref name="ReferenceB"/>
+* ''sīca'', "dagger"; cf. Alb ''thikë'' or ''thika'' "knife"<ref>{{cite book |title=Albanien: Schätze aus dem Land der Skipetaren|last= |first= |authorlink= |year= |publisher= |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=MyOFAAAAIAAJ&q=sica+thika&dq=sica+thika&hl=nl&ei=mWUGTuebGM-gOuakocAN&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDYQ6AEwAg |accessdate=25 June 2011 }}</ref>
+* ''Ulc-'', "wolf" (pln. ''Ulcinium''); cf. Alb ''ujk'' "wolf", ''ulk'' (Northern Dialect)<ref>{{cite book |title=Ancient Indo-European dialects: proceedings, Volume 1963 |last= |first= |authorlink= |year= |publisher=Millennium Studies |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=0c9CAAAAIAAJ&q=%22ulk%22+%2B+Illyrian&dq=%22ulk%22+%2B+Illyrian&hl=nl&ei=zxcHTvHGNMKa8QPj_cyvDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDEQ6AEwAQ |accessdate=25 June 2011 }}</ref>
+* ''loúgeon'', "pool"; cf. Alb ''lag'', ''legen'' "to wet, soak, bathe, wash" ( < PA *''lauga''), ''lëgatë'' "pool" ( < PA *''leugatâ''), ''lakshte'' "dew" ( < PA ''laugista'')<ref>{{cite book |title=An Albanian historical grammar |last= |first= |authorlink= |year=1977 |publisher= |location= |isbn= |page= |pages= |url=https://books.google.com/books?id=3LJiAAAAMAAJ&q=lo%C3%BAgeon+%2B+Illyrian&dq=lo%C3%BAgeon+%2B+Illyrian&hl=nl&ei=dD4HTrJnyIQ6lOKdxQ0&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDEQ6AEwAQ |accessdate=26 June 2011 }}</ref>
+* ''mag-'' "great";  cf. Alb. ''i madh'' "big , great"<ref name="IG"/>
+* ''mantía'' "bramblebush"; Old and dial. Alb ''mandë'' "berry, mulberry" (mod. Alb ''mën, man''){{citation needed|date=September 2011}}
+* ''rhinos'', "fog, mist"; cf. Old Alb ''ren'' "cloud" (mod. Alb ''re, rê'') ( < PA *''rina'')<ref>Indo-european language and culture: an introduction Blackwell textbooks in linguistics Author Benjamin W. Fortson Edition 2, illustrated, reprint Publisher John Wiley and Sons, 2009 ISBN 1-4051-8896-0, ISBN 978-1-4051-8896-8 p.465</ref>
+* ''Vendum'' "place"; cf. Proto-Alb. wen-ta (Mod. Alb. vend)<ref name="ReferenceB"/>
+
+=== Early Greek loans ===
+There are some 30 [[Ancient Greek]] loanwords in Albanian.<ref name="Linguistics p.412"/> Many of these reflect a dialect which voiced its aspirants, as did the Macedonian dialect. Other loanwords are Doric; these words mainly refer to commodity items and trade goods and probably came through trade with a now-extinct intermediary.<ref name="huld"/>
+* bletë; "hive, bee" < Attic ''mélitta'' "bee" (vs. Ionic ''mélissa'').<ref>Vladimir Orel (2000) postulates a Vulgar Latin intermediary for no good reason. Mallory & Adams (1997) erroneously give the word as native, from *''melítiā'', the protoform underlying Greek ''mélissa''; however, this protoform gave Albanian ''mjalcë'' "bee", which is a natural derivative of Proto-Albanian *''melita'' "honey" (mod. ''mjaltë'').</ref>
+* drapër; "sickle" < (NW) ''drápanon''<ref name="Ancient Indo-European Dialects p.102">Ancient Indo-European dialects: proceedings, Volume 1963 Ancient Indo-European Dialects: Proceedings, University of California, Los Angeles. Center for Research in Languages and Linguistics Authors Henrik Birnbaum, Jaan Puhvel, University of California, Los Angeles. Center for Research in Languages and Linguistics Editors Henrik Birnbaum, Jaan Puhvel Publisher University of California Press, 1966 p.102</ref>
+* kumbull; "plum" < ''kokkúmelon''<ref name="Ancient Indo-European Dialects p.102"/>
+* lakër; "cabbage, green vegetables" < ''láchanon'' "green; vegetable"<ref name="Proto-Albanian Author Vladimir Ė p.23">A concise historical grammar of the Albanian language: reconstruction of Proto-Albanian Author Vladimir Ė. Orel Publisher BRILL, 2000 ISBN 90-04-11647-8, ISBN 978-90-04-11647-4 p.23</ref>
+* lëpjetë; "orach, dock" < ''lápathon''<ref>A concise historical grammar of the Albanian language: reconstruction of Proto-Albanian Author Vladimir Ė. Orel Publisher BRILL, 2000 ISBN 90-04-11647-8, ISBN 978-90-04-11647-4 p.102</ref>
+* leva (lyej); "to smear, oil" < *''liwenj'' < *''elaiwā'' < Gk ''elai(w)ṓn'' "oil"{{clarify|reason= elai(w)ṓn means olive-yard; élai(w)on means oil, olive oil. Also Beekes and Van Beek Dictionary (for example) reads both being derived from elai(w)ā (the olive tree), not the other way round.|date=September 2014}}
+* mokër; "millstone" < (NW) ''māchaná'' "device, instrument"<ref name="Linguistics p.412">The Field of Linguistics, Volume 2 Volume 1 of World of linguistics Authors Bernd Kortmann, Johan Van Der Auwera Editors Bernd Kortmann, Johan Van Der Auwera Publisher Walter de Gruyter, 2010 ISBN 3-11-022025-3, ISBN 978-3-11-022025-4 p.412</ref>
+* mollë; "apple" < ''mēlon'' "fruit"<ref>Guillaum Bonnet, ''Les mots latins de l'albanais'' (Paris: L'Harmattan, 1998), 324.</ref>
+* pjepër; "melon" < ''pépōn''
+* presh; "leek" < ''práson''<ref name="Proto-Albanian Author Vladimir Ė p.23"/>
+* shpellë; "cave" < ''spḗlaion''
+* trumzë; "thyme" < (NW) ''thýmbrā, thrýmbrē''<ref name="Ancient Indo-European Dialects p.102"/>
+
+=== Gothic loans ===
+
+Some [[Gothic language|Gothic]] loanwords were borrowed through [[Late Latin]], while others came from the Ostrogothic expansion into parts of Praevalitana around Nakšić and the Gulf of Kotor in Montenegro.
+
+* fat; "groom, husband" < Goth ''brūþ'''faþ'''s'' "bridegroom"<ref>The word ''fat'' has both the meaning of "fate, luck" and "groom, husband". This may indicate two separate words that are homophones, one derived from Gothic and the other from Latin ''fātum''; although, Orel (2000) sees them as the same word. Similarly, compare Albanian ''shortë'' "fate; spouse, wife" which mirrors the dichotomy in meaning of ''fat'' but is considered to stem from one single source—Latin ''sortem'' "fate".</ref>
+* horr; "scoundrel", horrë; "hussy, whore" < Goth ''hors'' "adulterer", *''hora'' "whore"{{Citation needed|date=June 2011}}
+* shkulkë; "boundary marker for pastures made of branches" < Late Latin ''sculca'' < Goth ''skulka'' "guardian"{{Citation needed|date=June 2011}}
+* shkumë; "foam" < Late Latin < Goth ''skūma''{{Citation needed|date=June 2011}}
+* tirq; "trousers" < Late Latin ''tubrucus'' < Goth *''þiobrok'' "knee-britches"; cf. OHG ''dioh-bruoh'', Eng thigh, breeches{{Citation needed|date=June 2011}}
+
+The earliest accepted document in the Albanian language is from the 15th century. It is assumed that [[Ancient Greek language|Greek]] and [[Balkan Latin]] (which was the ancestor of Romanian and other Balkan Romance languages) would exert a great influence on Albanian. Examples of words borrowed from Latin: ''qytet < civitas'' (city), ''qiell < caelum'' (sky), ''mik < amicus'' (friend).
+
+After the [[Slavs]] arrived in the [[Balkans]], the [[Slavic languages]] became an additional source of loanwords. The rise of the [[Ottoman Empire]] meant an influx of [[Turkish language|Turkish]] words; this also entailed the borrowing of Persian and Arabic words through Turkish. Many Albanian names (such as [[Enver Hoxha]]) are of Turkish origin. Some loanwords from Modern Greek also exist especially in the south of Albania. A lot of the borrowed words have been re-substituted from Albanian rooted words or modern Latinized (international) words.
+
+== See also ==
+{{Portal|Albania|Languages}}
+* [[Arbëresh language]]
+* [[Arvanitika]]
+* [[Gheg Albanian]]
+* [[Tosk Albanian]]
+* [[Illyrian languages]]
+* [[Thraco-Illyrian]]
+* [[List of Romanian words of possible Dacian origin]]&nbsp;– occasional correspondence in Albanian
+* [[Dacian language]]
+
+== Notes ==
+{{notes
+|notes =
+{{efn
+|name = status
+|{{Kosovo-note}}
+}}
+}}
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+{{Refbegin|colwidth=30em}}
+* Ajeti, Idriz. La presence de l'albanais dans les parlers des populations slaves de la Peninsule Balkanique а la lumiere de la langue et de la toponymie. SA 1968/2
+* Ajeti, Idriz. Për historinë e marrëdhënieve të hershme gjuhësore shqiptare-sllave. SF 1972/4
+* Banfi, Emanuele. Linguistica balcanica. Bologna 1985
+* Banfi, Emanuele. Storia linguistica del sud-est europeo. Milano 1991
+* Bopp, Franz. Über das Albanesische in seinen verwandtschaftlichen Beziehungen. Berlin (1855)
+* Buchholz, Oda / Fiedler, Wilfried: Albanische Grammatik ; Leipzig : VEB Verlag Enzyklopädie, (1987)
+* Camaj, Martin. ''Albanian Grammar''. Wiesbaden, Germany: Otto Harrassowitz.
+* Çabej, Eqrem. Disa probleme themelore të historisë së vjetër të gjuhës shqipe. BUSHT,SSHSH 1962/4 (In German SA 1964/1)
+* Çabej, Eqrem. Rreth disa Çështjeve të historisë së gjuhës shqipe. BUSHT,SSHSH1963/3 (In Romanian SCL 1954/4)
+* Çabej, Eqrem. Mbi disa rregulla të fonetikës historike të shqipes. SF 1970/2 (In German "Die Sprache", Wien 1972)
+* Çabej, Eqrem. L'ancien nom national des albanais. SA 1972/1
+* Çabej, Eqrem. Problemi i vendit të formimit të gjuhës shqipe. SF 1972/4
+* Çabej, Eqrem. Karakteristikat e huazimeve latine të gjuhës shqipe. SF 1974/2 (In German RL 1962/1)
+* Çabej, Eqrem. Studime etimologjike në fushë të shqipes.; vëll. II, Tiranë 1976
+* Çabej, Eqrem. Studime etimologjike në fushë të shqipes; vëll. I. Tiranë 1982
+* Camarda, Demetrio. [https://books.google.com/books?id=YWQCAAAAQAAJ&printsec=frontcover&dq=Saggio+di+grammatologia+comparata+sulla+lingua+albanese&cd=2#v=onepage&q&f=false Saggio di grammatologia comparata sulla lingua albanese. Livorno (1864)]
+* Camarda, Demetrio. [https://books.google.com/books?id=syYTAAAAYAAJ&pg=PT238&dq=Appendice+al+Saggio+di+grammatologia+sulla+lingua+albanese&cd=2#v=onepage&q&f=false Appendice al Saggio di grammatologia sulla lingua albanese. Prato (1866)]
+* Campbell, George L., ed. ''Compendium of the World’s Languages'', 2nd edn., ''vol. 1: Abaza to Kurdish'', s.v. "Albanian". London and New York: Routledge, 2000, pp.&nbsp;50–7.
+* Cimochowski, Waclaw. Recherches sur l'histoire du sandhi dans la langue albanaise. LP II, 1950
+* Cimochowski, Waclaw. Des recherches sur la toponomastique de l'Albanie. LP VIII, 1960
+* Cimochowski, Waclaw. Pozicioni gjuhësor i ilirishtes ballkanike në rrethin e gjuhëve indoevropiane. SF 1973/2
+* [[Shaban Demiraj|Demiraj, Shaban]]. ("Albanian" in pp.&nbsp;480–501) [https://books.google.com/books?id=vwUMNCYbLL0C&printsec=frontcover&dq=The+Indo-European+Languages,+Anna+Giacalone+Ramat+and+Paolo+Ramat&hl=en&ei=RoLuS4jZL4T78Ab9x9D9Cg&sa=X&oi=book_result&ct=book-thumbnail&resnum=1&ved=0CCkQ6wEwAA#v=onepage&q&f=false "Albanian", within The Indo-European Languages, edited by Anna Giacalone Ramat and Paolo Ramat, eds. London: Routledge, 1998];
+* Demiraj, Shaban. Gjuha shqipe dhe historia e saj. Shtëpia botuese e librit universitar (Tirane) 1988
+* Demiraj, Shaban. Fonologjia historike e gjuhës shqipe. (Akademia e Shkencave e Shqiperise. Instituti i Gjuhesise dhe i Letersise) TOENA (Tirane), 1996
+* Demiraj, Shaban. Prejardhja e shqiptarëve në dritën e dëshmive të gjuhës shqipe. Shkenca (Tirane) 1999
+* Demiraj, Shaban. Gramatikë historike e gjuhës shqipe. (Akademia e Shkencave e Shqiperise. Instituti i Gjuhesise dhe i Letersise) 2002
+* De Simone, Carlo. Gli illiri del Sud. Tentativo di una definizione. "Iliria" (Tiranë) 1986/1
+* Desnickaja, A.V. Albanskij jazyk i ego dialekty. Leningrad 1968
+* Desnickaja, A.V. Language Interferences and Historical Dialectology Linguistics, EJ088069 (1973)
+* Desnickaja, A.V. Osnovy balkanskogo jazykoznanija, Cast 1. Leningrad: Nauka Press. 1990
+* [[Mahir Domi|Domi, Mahir]]. Prapashtesa ilire dhe shqipe, përkime dhe paralelizma. SF 1974/4
+* Domi, Mahir. Considerations sur les traits communs ou paralleles de l'albanais avec les autres langues balkaniques et sur leur etude. SA 1975/1
+* [[Encyclopædia Britannica]], "Albanian language" article, 15th edn. (1985).
+* Fortson IV, Benjamin W. ("Albanian" in pp.&nbsp;390–399) [https://books.google.com/books?id=5hOtPBF6XWwC&printsec=frontcover&dq='Indo-European+Language+and+Culture:++An+Introduction'&cd=1#v=onepage&q&f=false Indo-European Language and Culture: An Introduction''. London: Blackwell, 2004].
+* Gjinari, Jorgji. Për historinë e dialekteve të gjuhës shqipe. SF 1968/4
+* Gjinari, Jorgji. Mbi vazhdimësinë e ilirishtes në gjuhën shqipe. SF 1969/3
+* Gjinari, Jorgji. Struktura dialektore e shqipes e parë në lidhje me historinë e popullit. SF 1976/3
+* Gjinari, Jorgji. Dëshmi të historisë së gjuhës shqipe për kohën dhe vendin e formimit të popullit shqiptar. SF 1982/3
+* Gjinari, Jorgji. ''Dialektologjia shqiptare''. Prishtinë: Universiteti, 1970.
+* Hahn, Georg von. Albanesische Studien. Wien (1853)
+* Hamp, E. P. "Albanian", in ''Encyclopedia of Language and Linguistics'', edited by R. E. Asher, vol. 1. Oxford: Pergamon, 1994, pp.&nbsp;65–7.
+* Huld, Martin E. Basic Albanian etymologies. Columbus, OH: Slavica Publishers. (1984)
+* Katicic, Radoslav. Ancient languages of the Balkans (Trends in linguistics). The Hague and Paris: Mouton. (1976)
+* Kopitar, B.J. Albanische, walachische und bulgarische Sprache. Vienna (1829)
+* Kretschmer, Paul. [https://books.google.com/books?id=f00TAAAAYAAJ&printsec=frontcover&dq=Einleitung+in+die+Geschichte+der+griechischen+Sprache&cd=1#v=onepage&q&f=false Einleitung in die Geschichte der griechischen Sprache, (Introduction of the History of the Greek Language), Göttingen, (1896)]
+* Kretschmer, Paul. Sprachliche Vorgeschichte des Balkans, (Parahistoria gjuhësore e Ballkanit), Revue Internationale des e'tudes balkaniquee, vol. II (1935)
+* [[Maximilian Lambertz|Lambertz, Maximilian]]. Lehrgang des Albanischen. Teil I: Albanisch-Deutsches Wörterbuch. Teil II: Albanische Chrestomathie. Teil III: Grammatik der albanischen Sprache (Berlin: [[Deutscher Verlag der Wissenschaften]] 1954, Berlin 1955, Halle/Saale 1959)
+* Mallory, J.P. and D.Q. Adams. "Albanian", in Encyclopedia of Indo-European Culture''. London: Fitzroy Dearborn, 1997.
+* Mayer, Antun. Die Sprache der alten Illyrier. B. II. Wien 1959
+* Mann, Stuart E.: An Albanian Historical Grammar ; Hamburg : Helmut Buske Verlag, 1977
+* Meyer, Gustav. [https://books.google.com/books?id=E-IGAAAAQAAJ&printsec=frontcover&dq=Albanesische+Studien&cd=1#v=onepage&q&f=false Albanesische Studien. I&nbsp;– Wien 1882; III&nbsp;– 1892; V&nbsp;– 1896]
+* Miklosich, Franz: Albanische Forschungen. I: Die slavischen Elemente im Albanischen. Wien (1870)
+* Miklosich, Franz. Albanische Forschugen, II: Die romanischen Elemente im Albanischen. Wien (1870)
+* Mihaescu, Haralambie. Les elements latins de la langue albanaise. RESEE 1966/1-2
+* Mihaescu, Haralambie La langue latine dans le sud-est de l’Europe. Bucuresti-Paris: Editura Academiei-Les Belles Lettres (1978)
+* Newmark, Leonard et al. ''Standard Albanian: A Reference Grammar for Students''. Standford: Stanford University Press, 1982.
+* Ölberg, Hermann. Einige Uberlegungen zur Autochtonie der Albaner auf der Balkanhalbinsel. Akten Innsbruck (1972)
+* Ölberg, Hermann. Kontributi i gjuhësisë për çështjen e atdheut ballkanik të shqiptarëve. SF 1982/3
+* Pedersen, Holger. Bidrag til den albanesiske sproghistorie. (Festskrift til Vilhelm Thomsen). Kobenhavn (1894)
+* Pedersen, Holger. Albanesisch 1905. Rom. Jb. IX (1905). Erlangen (1909)
+* Pellegrini, Giovan Battista : I rapporti linguistici interadriatici e l’elemento Latino dell’albanese në: Abruzzo. Rivista dell'Istituto di Studi Abruzzesi XIX, 1980
+* Pellegrini, Giovan Battista : Disa vëzhgime mbi elementin Latin të shqipes (Some observations over the Latin element of the Albanian language), in: SF 1982/3
+* Pellegrini, Giovan Battista : Avviamento alla linguistica albanese (Edizione rinnovata) (1997)
+* Pisani, Vittore L'albanais et les autres langues indoeuropéennes, "Annuaire de l'Institut de philologie et d'histoire orientales etslaves", t. X, Bruxelles, 1950
+* Pisani, Vittore. Les origines de la langue albanaise. SA 1964/1
+* Pisani, Vittore. Sulla genesi dell'albanese. Akten Innsbruck (1972)
+* Orel, Vladimir. [https://books.google.com/books?id=xvKH56aT5mEC&printsec=frontcover&dq=Concise+Historical+Grammar+of+the+Albanian+Language&cd=1#v=onepage&q&f=false A Concise Historical Grammar of the Albanian Language: Reconstruction of Proto-Albanian''. Leiden: Brill, 2000].
+* Price, Glanville, ed. ''Encyclopedia of the Languages of Europe'', s.v. "Albanian". Oxford: Blackwell, 1998, pp.&nbsp;4–8.
+* Riza, Selman. Studime albanistike. Prishtina 1979
+* Sandfeld, Kristian. Linguistique balkanique, problemes et resultats. Paris 1930
+* Tagliavini, Carlo. La stratificazione del lessico albanese. Elementi indoeuropei. Bologna 1965
+* Thumb, A. Altgriechische Elemente des Albanesischen. IF 26 (1926)
+* Thunmann, Johann. [https://books.google.com/books?id=HJBBAAAAcAAJ&pg=PA208&dq=Untersuchungen+%C3%BCber+die+Geschichte+der+%C3%B6stlichen+europ%C3%A4ischen+V%C3%B6lker&cd=1#v=onepage&q&f=false Untersuchungen über die Geschichte der östlichen europäischen Völker. Laipzig (1774)]
+* Watkins, Calvert. [https://books.google.com/books?id=vwUMNCYbLL0C&printsec=frontcover&dq=The+Indo-European+Languages,+Anna+Giacalone+Ramat+and+Paolo+Ramat&hl=en&ei=RoLuS4jZL4T78Ab9x9D9Cg&sa=X&oi=book_result&ct=book-thumbnail&resnum=1&ved=0CCkQ6wEwAA#v=onepage&q&f=false "Proto-Indo-European: Comparison and Reconstruction", in ''The Indo-European Languages'', Anna Giacalone Ramat and Paolo Ramat, eds. London: Routledge, 1998].
+* Ylli, Xhelal; Sobolev, Andrej N. ''Albanskii gegskii govor sela Muhurr''. Muenchen: Biblion Verlag, 2003. ISBN 3-932331-36-2
+{{Refend}}
+
+== External links ==
+{{Interwiki|code=sq}}
+{{Wikibooks}}
+{{Wiktionary category}}
+{{Commons category|Albanian language}}
+{{Wikivoyage|Albanian phrasebook|Albanian|a phrasebook}}
+* [http://www.utexas.edu/cola/centers/lrc/eieol/albol-0-X.html Albanian Lessons] (free online through the [http://www.utexas.edu/cola/lrctr/ Linguistics Research Center] at UT Austin)
+* [http://www.lingodict.com/albanian-dictionary-and-translator/ Albanian Translation]
+* [http://www.bablefishfx.com/english-to-albanian-translator/ Albanian Dictionary]
+* [http://en.wiktionary.org/wiki/Appendix:Albanian_Swadesh_list Albanian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\ier\alb&limit=-1 Albanian basic lexicon at the Global Lexicostatistical Database]
+* {{YouTube|slZUDZUc_-8|Doctor John Bassett Trumper discussing the classification of Albanian within Indo-European}}
+* [http://association-albania.com/La-figure-emblematique-du.html?var_mode=calcul The emblematic figure of the Albanian linguist, Pr. Eqrem ÇABEJ (1908–1980, by Prof. Remzi Përnaska] on the [http://association-albania.com/ cultural website Albania] (fr), (sh), (en)
+
+; Dictionaries
+* [http://www.fjalori.shkenca.org Albanian Online Dictionary (40 000 lemmas)]
+* [http://www.argjiro.net/fjalor English&nbsp;– Albanian / Albanian&nbsp;– English]
+* [http://www.bksh.al/adlib/scripts/wwwopac.exe?DATABASE=books&OPAC_URL=/adlib/expert/index_al.html&LANGUAGE=1&%250=63675&LIMIT=50 Dictionary on Western Barbarisms and Albanian Responsible Words entry on the National Library of Albania (Hysenbegasi, Arion. Fjalor i barbarizmave perëndimore në gjuhën shqipe dhe fjalëve përgjegjëse shqipe. Ombra GVG, Tirana, 2011)]
+
+{{Languages of Albania}}
+{{Languages of Kosovo}}
+{{Languages of Macedonia}}
+{{Languages of Serbia}}
+{{Albania topics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Albanian Language}}
+<!-- categories -->
+[[Category:Albanian language]]
+[[Category:Indo-European languages]]
+[[Category:Languages of Albania]]
+[[Category:Languages of Greece]]
+[[Category:Languages of Italy]]
+[[Category:Languages of Kosovo]]
+[[Category:Languages of Montenegro]]
+[[Category:Languages of Serbia]]
+[[Category:Languages of the Republic of Macedonia]]
+[[Category:Languages of Turkey]]
+[[Category:Subject–verb–object languages]]
+[[Category:Languages of Bulgaria]]

@@ -1,0 +1,1847 @@
+Devanagari
+
+{{Redirect|Nagari}}
+{{Use Indian English|date=June 2013}}
+{{Use dmy dates|date=May 2016}}
+{{Infobox writing system
+|name=Devanagari
+|altname = {{lang|und-Deva|देवनागरी}}
+|sample=Chandas typeface specimen.svg
+|caption=Devanagari script (vowels top, consonants bottom) in [[Chandas font]].
+|type=[[Abugida]]
+|languages=Several [[languages of India]] and [[Languages of Nepal|Nepal]], including, [[Hindi language|Hindi]], [[Marathi language|Marathi]], [[Nepali language|Nepali]], [[Pali language|Pali]], [[Konkani language|Konkani]], [[Bodo language|Bodo]], [[Maithili language|Maithili]], [[Sindhi language|Sindhi]] and [[Sanskrit language|Sanskrit]]. Formerly used to write [[Punjabi language|Punjabi]] and [[Gujarati language|Gujarati]].
+|time=Early signs: 1st century CE,<ref name=gazett/> modern form: 10th century CE<ref name="taylor2003">{{Citation | title=History of the Alphabet: Aryan Alphabets, Part 2 | author=Isaac Taylor | year=1883 | isbn=978-0-7661-5847-4 |publisher= Kegan Paul, Trench & Co | url=https://archive.org/stream/alphabet00unkngoog#page/n348/mode/2up/|page=333 | quote=''...&nbsp;In the Kutila this develops into a short horizontal bar, which, in the Devanagari, becomes a continuous horizontal line ... three cardinal inscriptions of this epoch, namely, the Kutila or Bareli inscription of 992, the [[Chalukya]] or Kistna inscription of 945, and a Kawi inscription of 919 ... the Kutila inscription is of great importance in Indian epigraphy, not only from its precise date, but from its offering a definite early form of the standard Indian alphabet, the Devanagari ...''}}</ref><ref>{{Cite book| publisher = Oxford University Press| isbn = 978-0-19-509984-3| last = Salomon| first = Richard| title = Indian epigraphy: a guide to the study of inscriptions in Sanskrit, Prakrit, and the other Indo-Aryan languages| location = Oxford| series = South Asia research| date = 1998|pp=39–41}}</ref>
+|region=India and Nepal
+|fam1=[[Brāhmī script|Brāhmī]]
+|fam2=[[Gupta script|Gupta]]
+|fam3=[[Nāgarī script|Nāgarī]]
+|sisters=[[Gurmukhi script|Gurmukhi]], [[Nandinagari]]
+|children=[[Gujarāti script|Gujarati]]<br />[[Moḍī script|Moḍī]]
+|unicode=[http://www.unicode.org/charts/PDF/U0900.pdf U+0900–U+097F] Devanagari, <br />[http://www.unicode.org/charts/PDF/UA8E0.pdf U+A8E0–U+A8FF] Devanagari&nbsp;Extended, <br />[http://www.unicode.org/charts/PDF/U1CD0.pdf U+1CD0–U+1CFF] Vedic&nbsp;Extensions
+|iso15924=Deva
+ }}
+
+{{Devanagari abugida sidebar}}
+{{brahmic}}
+'''Devanagari''' ({{IPAc-en|ˌ|d|eɪ|v|ə|ˈ|n|ɑː|ɡ|ər|iː}} {{respell|DAY|və|NAH|gər-ee}}; {{IPA-hi|d̪eːʋˈnaːɡri|lang}}; {{lang|sa|देवनागरी}} '''''devanāgarī''''' a compound of "[[Deva (Hinduism)|deva]]" [{{lang|sa|देव}}] and "[[Nāgarī script|nāgarī]]" [{{lang|sa|नागरी}}]), also called '''Nagari''' (''Nāgarī'', {{lang|sa|नागरी}}),<ref name=kathleen>Kathleen Kuiper (2010), The Culture of India, New York: The Rosen Publishing Group, ISBN 978-1615301492, page 83</ref> is an [[abugida]] (alphasyllabary) alphabet of [[India]] and [[Nepal]]. It is written from left to right, has a strong preference for symmetrical rounded shapes within squared outlines, and is recognisable by a horizontal line that runs along the top of full letters.<ref name=georgec/> In a cursory look, the Devanagari script appears different from other [[Indic scripts]] such as [[Bengali script|Bangla]], [[Oriya script|Oriya]] or [[Gurmukhi script|Gurmukhi]], but a closer examination reveals they are very similar except for angles and structural emphasis.<ref name=georgec>George Cardona and Danesh Jain (2003), The Indo-Aryan Languages, Routledge, ISBN 978-0415772945, pages 72-74</ref>
+
+The Nagari script has roots in the ancient Brahmi script family.<ref>George Cardona and Danesh Jain (2003), The Indo-Aryan Languages, Routledge, ISBN 978-0415772945, pages 68-69</ref> Some of the earliest epigraphical evidence attesting to the developing Sanskrit Nagari script in ancient India, in a form similar to Devanagari, is from the 1st to 4th century CE inscriptions discovered in [[Gujarat]].<ref name=gazett>{{Google books|0bkMAAAAIAAJ|Gazetteer of the Bombay Presidency}}, Rudradaman’s inscription from 1st through 4th century CE found in Gujarat, India, Stanford University Archives, pages 30-45, particularly Devanagari inscription on Jayadaman's coins pages 33-34</ref> The Nagari script was in regular use by the 7th century CE and fully it was developed by about the end of first millennium.<ref name=kathleen/><ref name=salomon1000/> The use of Sanskrit in Nagari script in medieval India is attested by numerous pillar and cave temple inscriptions, including the 11th-century Udayagiri inscriptions in [[Madhya Pradesh]],<ref>Michael Willis (2001), Inscriptions from Udayagiri: locating domains of devotion, patronage and power in the eleventh century, South Asian Studies, 17(1), pages 41-53</ref> a brick with inscriptions found in [[Uttar Pradesh]], dated to be from 1217 CE, which is now held at the British Museum.<ref>[http://www.britishmuseum.org/explore/highlights/highlight_objects/asia/b/brick_with_sanskrit_inscriptio.aspx Brick with Sanskrit inscription in Nagari script], 1217 CE, found in Uttar Pradesh, India (British Museum)</ref> The script's proto- and related versions have been discovered in ancient relics outside of India, such as in [[Sri Lanka]], [[Myanmar]] and [[Indonesia]]; while in East Asia, ''Siddha Matrika'' script considered as the closest precursor to Nagari was in use by Buddhists.<ref name=george/><ref>Wayan Ardika (2009), Form, Macht, Differenz: Motive und Felder ethnologischen Forschens (Editors: Elfriede Hermann et al.), Universitätsverlag Göttingen, ISBN 978-3940344809, pages 251-252; Quote: "Nagari script and Sanskrit language in the inscription at Blangjong suggests that Indian culture was already influencing Bali (Indonesia) by the 10th century AD."</ref> Nagari has been the ''[[primus inter pares]]'' of the Indic scripts.<ref name=george>George Cardona and Danesh Jain (2003), The Indo-Aryan Languages, Routledge, ISBN 978-0415772945, pages 75-77</ref>
+
+The Devanagari script is used for over 120 languages,<ref name=devasilusa>[http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Deva Devanagari (Nagari)], Script Features and Description, [[SIL International]] (2013), United States</ref> including [[Hindi language|Hindi]],<ref>[http://www.omniglot.com/writing/hindi.htm Hindi], Omniglot Encyclopedia of Writing Systems and Languages</ref> [[Marathi language|Marathi]], [[Nepali language|Nepali]], [[Pali language|Pali]], [[Konkani language|Konkani]], [[Bodo language|Bodo]], [[Sindhi language|Sindhi]] and [[Maithili language|Maithili]] among other languages and dialects, making it one of the most used and [[List of writing systems by adoption|adopted writing systems]] in the world.<ref>{{cite web|url=http://www.omniglot.com/language/articles/devanagari.htm|title=Devanagari script|work=omniglot.com|author=David Templin|accessdate=5 April 2015}}</ref> The Devanagari script is also used for classical Sanskrit texts.<ref name=devasilusa/> The Devanagari script is closely related to the [[Nandinagari]] script commonly found in numerous ancient manuscripts of South India,<ref>George Cardona and Danesh Jain (2003), The Indo-Aryan Languages, Routledge, ISBN 978-0415772945, page 75</ref><ref>Reinhold Grünendahl (2001), South Indian Scripts in Sanskrit Manuscripts and Prints, Otto Harrassowitz Verlag, ISBN 978-3447045049, pages xxii, 201-210</ref> and it is distantly related to a number of southeast Asian scripts.<ref name=devasilusa/>
+
+Devanagari script has forty-seven primary characters, of which fourteen are vowels and thirty-three are consonants.<ref name=george/> The ancient Nagari script for Sanskrit had two additional consonantal characters.<ref name=george/> The script has no capital or small letters as in Latin, and weighs all characters as equal.<ref>Akira Nakanishi, Writing systems of the World, ISBN 978-0804816540, page 48</ref> Generally the orthography of the script reflects the pronunciation of the language.<ref name=devasilusa/>
+
+==Origins==
+[[File:Falongsibeiye.png|right|thumb|400px| [[Uṣṇīṣa Vijaya Dhāraṇī Sūtra]]  in [[Siddham]] on [[Arecaceae|palm]]-leaf in 609 CE. [[Hōryū-ji]], Japan. The last line is a complete Sanskrit syllabary in Siddhaṃ script]]
+Devanagari is part of the [[Brahmic family]] of scripts of  [[Nepal]], [[India]], [[Tibet]], and South-East Asia.<ref name="fischer2004">{{Citation | title=A history of writing | author=Steven Roger Fischer | year=2004 | isbn=978-1-86189-167-9 |publisher=Reaktion Books | url=https://books.google.com/books?id=Ywo0M9OpbXoC | quote=''...&nbsp;an early branch of this, as of the fourth century CE, was the Gupta script, Brahmi's first main daughter ... the Gupta alphabet became the ancestor of most Indic scripts (usually through later Devanagari) ... Nagari, of India's north-west, first appeared around 633 CE ... in the eleventh century, Nagari had become Devanagari, or 'heavenly Nagari', since it was now the main vehicle, out of several, for Sanskrit literature ...''}}</ref> It is a descendant of the [[Gupta script]], along with [[Siddham script|Siddham]] and [[Sharada script|Sharada]].<ref name="fischer2004"/> Variants of script called ''Nāgarī'', recognizably close to Devanagari, are first attested from the 1st century CE Rudradaman inscriptions in Sanskrit, while the modern standardized form of Devanagari was in use by about 1000 AD.<ref name=salomon1000>Richard Salomon (2014), Indian Epigraphy, Oxford University Press, ISBN 978-0195356663, pages 40-42</ref><ref>Krishna Chandra Sagar (1993), Foreign Influence on Ancient India, South Asia Books, ISBN 978-8172110284, page 137</ref> Medieval inscriptions suggest widespread diffusion of the Nagari-related scripts, with biscripts presenting local script along with the adoption of Nagari scripts. For example, the mid 8th century Pattadakal pillar in [[Karnataka]] has text in both Siddha Matrika script, and an early Telugu-Kannada script; while, the Kangra Jvalamukhi inscription in [[Himachal Pradesh]] is written in both Sharada and Devanagari scripts.<ref name=richardbiscript>Richard Salomon (2014), Indian Epigraphy, Oxford University Press, ISBN 978-0195356663, page 71</ref>
+
+[[File:Rigveda MS2097.jpg|thumb|A 19th century [[Vedas|Rigveda]] manuscript in Devanagari.]]
+The 7th-century Tibetan king [[srong-brtsan sgam-po|Srong-tsan-gambo]] ordered that all foreign books be transcribed into the Tibetan language.  He sent his ambassador [[Thonmi Sambhota|Tonmi Sambota]] to India to acquire alphabet and writing methods; returning with Sanskrit Nagari script from Kashmir corresponding to 24 Tibetan sounds and innovating new symbols for 6 local sounds.<ref>William Woodville Rockhill, {{Google books|avFDAQAAMAAJ|Annual Report of the Board of Regents of the Smithsonian Institution|page=671}}, United States National Museum, page 671</ref> Other closely related scripts such as Siddham Matrka was in use in Indonesia, Vietnam, Japan and other parts of East Asia by between 7th- to 10th-century.<ref>David Quinter (2015), From Outcasts to Emperors: Shingon Ritsu and the Mañjuśrī Cult in Medieval Japan, Brill, ISBN 978-9004293397, pages 63-65 with discussion on [[Uṣṇīṣa Vijaya Dhāraṇī Sūtra]]</ref><ref name=richard>Richard Salomon (2014), Indian Epigraphy, Oxford University Press, ISBN 978-0195356663, pages 157-160</ref> Sharada remained in parallel use in [[Kashmir]]. An early version of Devanagari is visible in the [[Kutila inscription of Bareilly]] dated to [[Vikram Samvat]] 1049 (i.e. 992 CE), which demonstrates the emergence of the horizontal bar to group letters belonging to a word.<ref name="taylor2003"/> One of the oldest surviving Sanskrit text from early post-Maurya period available consists of 1,413 Nagari pages of a commentary by Patanjali, with a composition date of about 150 BCE, the surviving copy transcribed about 14th century CE.<ref>[[Michael Witzel]] (2006), in Between the Empires : Society in India 300 BCE to 400 CE (Editor: [[Patrick Olivelle]]), Oxford University Press, ISBN 978-0195305326, pages 477-480 with footnote 60;<br>Original manuscript, dates in Saka Samvat, and uncertainties associated with it: [https://archive.org/stream/vykaraamahbhshy00kielgoog#page/n8/mode/2up Mahabhasya of Patanjali], F Kielhorn</ref>
+
+''{{IAST|Nāgarī}}'' is the Sanskrit feminine of ''{{IAST|Nāgara}}'' "relating or belonging to a town or city, urban". It is a phrasing with ''lipi'' ("script") as ''{{IAST|nāgarī lipi}}'' "script relating to a city", or "spoken in city".<ref>Monier Williams Online Dictionary, [http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/tamil/index.html nagara], Cologne Sanskrit Digital Lexicon, Germany</ref>
+
+The use of the name ''{{IAST|devanāgarī}}'' is relatively recent, and the older term ''{{IAST|nāgarī}}'' is still common.<ref name="fischer2004"/> The rapid spread of the term ''{{IAST|devanāgarī}}'' may be related to the almost exclusive use of this script to publish Sanskrit texts in print since the 1870s.<ref name="fischer2004"/>
+
+==Principle==
+{{Refimprove section|date=April 2015}}
+As a Brahmic abugida, the fundamental principle of Devanagari is that each letter represents a consonant, which carries an inherent [[schwa]] vowel. This is usually written in Latin as ''a'', though it is represented as [ə] in the [[International Phonetic Alphabet]].<ref>{{Harvcoltxt|Salomon|2003|p=70}}</ref> The letter {{lang|und-Deva|[[wikt:क|क]]}} is read ''ka'', the two letters {{lang|und-Deva|क[[wikt:न|न]]}} are ''kana'', the three {{lang|und-Deva|कन[[wikt:य|य]]}} are ''kanaya'', etc. Other vowels, or the absence of vowels, require modification of these consonants or their own letters:
+[[File:A page from Dictionary using Devnagari.jpg|thumb|Devanagari text from Vayu Purana.]]
+* A final consonant is marked with the diacritic {{lang|und-Deva|{{IAST|्}}}}, called the ''[[virāma]]'' in Sanskrit, ''halant'' in Hindi, and occasionally a "killer stroke" in English. This cancels the inherent vowel, so that from {{lang|und-Deva|क्नय}} ''knaya'' is derived {{lang|und-Deva|क्नय्}} ''knay''. The ''halant'' is often used for consonant clusters when typesetting conjunct ligatures is not feasible.
+* [[Consonant cluster]]s are written with [[Typographical ligature|ligatures]] ''({{IAST|saṃyuktākṣara}}'' "conjuncts"). For example, the three consonants {{lang|und-Deva|क्}}, {{lang|und-Deva|न्}}, and {{lang|und-Deva|य्}}, (''k'', ''n'', ''y''), when written consecutively without virāma form {{lang|und-Deva|कनय}}, as shown above. Alternatively, they may be joined as clusters to form {{lang|und-Deva|क्नय}} ''knaya'', {{lang|und-Deva|कन्य}} ''kanya'', or {{lang|und-Deva|क्न्य}} ''knya''. This system was originally created for use with the [[Middle Indo-Aryan languages]], which have a very limited number of clusters (the only clusters allowed are [[gemination|geminate consonants]] and clusters involving [[homorganic]] [[nasal stop]]s).  When applied to Sanskrit, however, it added a great deal of complexity to the script, due to the large variety of clusters in this language (up to five consonants, e.g. ''rtsny'').  Much of this complexity is required at least on occasion in the modern [[Indo-Aryan languages]], due to the large number of clusters allowed and especially due to borrowings from Sanskrit.
+* Vowels other than the inherent ''a'' are written with [[diacritics]] (termed ''matras''). For example, using {{lang|und-Deva|क}} ''ka'', the following forms can be derived: {{lang|und-Deva|के}} ''ke'', {{lang|und-Deva|कु}} ''ku'', {{lang|und-Deva|की}} ''kī'', {{lang|und-Deva|का}} ''kā'', etc.
+* For vowels as an independent syllable (in writing, unattached to a preceding consonant), either at the beginning of a word or (in Hindi) after another vowel, there are full-letter forms. For example, while the vowel ''ū'' is written with the diacritic {{lang|und-Deva|{{IAST|ू}}}} in {{lang|und-Deva|कू}} ''kū'', it has its own letter {{lang|und-Deva|ऊ}} in {{lang|und-Deva|ऊक}} ''ūka'' and (in Hindi but not Sanskrit) {{lang|und-Deva|कऊ}} ''kaū''.
+
+Such a letter or ligature, with its diacritics, is called an ''{{IAST|akṣara}}'' "syllable". For example, {{lang|und-Deva|कनय}} ''kanaya'' is written with what are counted as three ''akshara,'' whereas {{lang|und-Deva|क्न्य}} ''knya'' and {{lang|und-Deva|कु}} ''ku'' are each written with one.
+
+When [[handwriting]], letters are usually written without the distinctive horizontal bar, which is added only once the word is completed.<ref>{{cite web|url=http://archives.conlang.info/sae/shaunvhon/fialphonfhoen.html |title=Archives.conlang.info |publisher=Archives.conlang.info |date=2004-12-07 |accessdate=2011-06-13}}</ref>
+
+==Letters==
+The [[collating sequence|letter order]] of Devanagari, like nearly all Brahmic scripts, is based on [[phonetics|phonetic]] principles that consider both the [[manner of articulation|manner]] and [[place of articulation]] of the consonants and vowels they represent. This arrangement is usually referred to as the ''{{IAST|varṇamālā}}'' "[[garland]] of letters".<ref>{{Harvcoltxt|Salomon|2003|p=71}}</ref> The format of Devanagari for Sanskrit serves as the prototype for its application, with minor variations or additions, to other languages.<ref name="Salomon 2003 75">{{Harvcoltxt|Salomon|2003|p=75}}</ref>
+
+===Vowels===
+The vowels and their arrangement are:<ref>{{Harvcoltxt|Wikner|1996|pp=13, 14}}</ref>
+
+{|class="wikitable" style="text-align:center; width:60%"
+|-
+!
+!Independent form
+!Romanised
+!As diacritic with {{lang|und-Deva|प}}
+!rowspan="8" style="width:20px"|
+!Independent form
+!Romanised
+!As diacritic with {{lang|und-Deva|प}}
+|-
+!''{{IAST|kaṇṭhya}}''<br>([[Guttural]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|अ}}
+|{{IAST|a}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|प}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|आ}}
+|{{IAST|ā}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पा}}
+|-
+!''{{IAST|tālavya}}''<br>([[Palatal]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|इ}}
+|{{IAST|i}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पि}}
+<!--When you input [p] [i], you should see [i] [p] as the correct result.
+If not, that means your computer does not support Indic script. Please do not swap.-->
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ई}}
+|{{IAST|ī}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पी}}
+|-
+!''{{IAST|oṣṭhya}}''<br>([[Labial consonant|Labial]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|उ}}
+|{{IAST|u}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पु}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ऊ}}
+|{{IAST|ū}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पू}}
+|-
+!''{{IAST|mūrdhanya}}''<br>([[Retroflex consonant|Retroflex]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ऋ}}
+|{{IAST|ṛ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पृ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ॠ}}
+|{{IAST|ṝ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पॄ}}
+|-
+!''{{IAST|dantya}}''<br>([[Dental consonant|Dental]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ऌ}}
+|{{IAST|ḷ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पॢ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ॡ}}
+|{{IAST|ḹ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पॣ}}
+|-
+!''{{IAST|kaṇṭhatālavya}}''<br>(Palatoguttural)
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ए}}
+|{{IAST|e}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पे}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ऐ}}
+|{{IAST|ai}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पै}}
+|-
+!''{{IAST|kaṇṭhoṣṭhya}}''<br>(Labioguttural)
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ओ}}
+|{{IAST|o}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पो}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|औ}}
+|{{IAST|au}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पौ}}
+|-
+!''{{IAST|}}''
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|अं}}
+|{{IAST|aṃ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पं}}
+|
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|अः}}
+|{{IAST|aḥ}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|पः}}
+|}
+
+* Arranged with the vowels are two consonantal [[diacritic]]s, the final [[nasal stop|nasal]] ''[[anusvāra]]'' <span style="font-size:14pt;">{{lang|und-Deva|[[ं]]}}</span> ''{{IAST|ṃ}}'' and the final [[fricative]] ''[[visarga]]'' <span style="font-size:14pt;">{{lang|und-Deva|[[ः]]}}</span> ''{{IAST|ḥ}}'' (called <span style="font-size:14pt;">{{lang|und-Deva|[[अं]]}}</span> ''{{IAST|aṃ}}'' and <span style="font-size:14pt;">{{lang|und-Deva|[[अः]]}}</span> ''{{IAST|aḥ}}).'' {{Harvcoltxt|Masica|1991|p=146}} notes of the ''anusvāra'' in Sanskrit that "there is some controversy as to whether it represents a homorganic [[nasal stop]] [...], a [[nasalized vowel|nasalised vowel]], a nasalised [[semivowel]], or all these according to context". The ''visarga'' represents post-vocalic [[voiceless glottal fricative]] {{IPA|[h]}}, in Sanskrit an [[allophone]] of ''{{IAST|s}},'' or less commonly ''{{IAST|r}},'' usually in word-final position. Some traditions of recitation append an echo of the [[vowel]] after the breath:<ref>{{Harvcoltxt|Wikner|1996|p=6}}</ref> <span style="font-size:14pt;">{{lang|und-Deva|इः}}</span> {{IPA|[ihi]}}. {{Harvcoltxt|Masica|1991|p=146}} considers the ''visarga'' along with letters <span style="font-size:14pt;">{{lang|und-Deva|ङ}}</span> ''{{IAST|ṅa}}'' and <span style="font-size:14pt;">{{lang|und-Deva|ञ}}</span> ''{{IAST|ña}}'' for the "largely predictable" [[velar nasal|velar]] and [[palatal nasal]]s to be examples of "phonetic overkill in the system".
+* Another diacritic is the ''[[Chandrabindu|candrabindu]]''/''[[anunāsika]]'' <span style="font-size:14pt;">{{lang|und-Deva|[[ँ]]}}</span> {{lang|und-Deva|[[अँ]]}}. {{Harvcoltxt|Salomon|2003|pp=76–77}} describes it as a "more emphatic form" of the ''{{IAST|anusvāra}},'' "sometimes [...] used to mark a true [vowel] nasalization". In a New Indo-Aryan language such as Hindi the distinction is formal: the ''{{IAST|candrabindu}}'' indicates [[nasalized vowel|vowel nasalisation]]<ref>{{Harvcoltxt|Snell|2000|pp=44–45}}</ref> while the ''{{IAST|anusvār}}'' indicates a homorganic [[nasal stop|nasal]] preceding another consonant:<ref>{{Harvcoltxt|Snell|2000|p=64}}</ref> e.g. <span style="font-size:14pt;">{{lang|hi|हँसी}}</span> {{IPA|[ɦə̃si]}} "[[laughter]]", <span style="font-size:14pt;">{{lang|hi|गंगा}}</span> {{IPA|[ɡəŋɡɑ]}} "the [[Ganges]]". When an ''akshara'' has a vowel diacritic above the top line, that leaves no room for the ''candra'' ("moon") stroke ''candrabindu,'' which is dispensed with in favour of the lone dot:<ref>{{Harvcoltxt|Snell|2000|p=45}}</ref> <span style="font-size:14pt;">{{lang|hi|हूँ}}</span> {{IPA|[ɦũ]}} "am", but <span style="font-size:14pt;">{{lang|hi|हैं}}</span> {{IPA|[ɦɛ̃]}} "are". Some writers and typesetters dispense with the "moon" stroke altogether, using only the dot in all situations.<ref>{{Harvcoltxt|Snell|2000|p=46}}</ref>
+* The ''[[avagraha]]'' <span style="font-size:14pt;">{{lang|und-Deva|[[ऽ]]}}</span> {{lang|und-Deva|[[अऽ]]}} (usually [[transliteration|transliterated]] with an [[apostrophe]]) is a Sanskrit [[punctuation mark]] for the [[elision]] of a [[vowel]] in [[sandhi]]: <span style="font-size:14pt;">{{lang|sa|एकोऽयम्}}</span> ''{{IAST|eko'yam}}'' ( ← ''{{IAST|ekas}}'' + ''{{IAST|ayam}}'') "this one". An original [[long vowel]] lost to coalescence is sometimes marked with a double ''avagraha:'' <span style="font-size:14pt;">{{lang|sa|सदाऽऽत्मा}}</span> ''{{IAST|sadā'tmā}}'' ( ← ''{{IAST|sadā}}'' + ''{{IAST|ātmā}}'') "always, the self".<ref>{{Harvcoltxt|Salomon|2003|p=77}}</ref> In Hindi, {{Harvcoltxt|Snell|2000|p=77}} states that its "main function is to show that a vowel is sustained in a cry or a shout": <span style="font-size:14pt;">{{lang|hi|आईऽऽऽ!}}</span> ''{{IAST|āīīī!}}''<!-- include bit on 77 about prosody? -->. In Madhyadeshi Languages like Bhojpuri, Awadhi, Maithili, etc. which have "quite a number of [[verb]]al forms [that] end in that inherent vowel",<ref>{{Harvcoltxt|Verma|2003|p=501}}</ref> the ''avagraha'' is used to mark the ''non-''elision of word-final inherent ''a'', which otherwise is a modern [[Orthography|orthographic]] convention: <span style="font-size:14pt;">{{lang|und-Deva|बइठऽ}}</span> ''{{IAST|baiṭha}}'' "sit" versus <span style="font-size:14pt;">{{lang|und-Deva|*बइठ}}</span> ''{{IAST|baiṭh}}''
+* The syllabic consonants ''{{IAST|ṝ}}, {{IAST|ḷ}},'' and ''{{IAST|ḹ}}'' are specific to Sanskrit and not included in the ''{{IAST|varṇamālā}}'' of other languages. The sound represented by ''{{IAST|ṛ}}'' has also been lost in the modern languages, and its pronunciation now ranges from {{IPA|[ɾɪ]}} (Hindi) to {{IPA|[ɾu]}} (Marathi).
+* ''{{IAST|ḹ}}'' is not an actual [[phoneme]] of Sanskrit, but rather a graphic convention included among the vowels in order to maintain the symmetry of short–long pairs of letters.<ref name="Salomon 2003 75"/>
+* There are non-regular formations of <span style="font-size:14pt;">{{lang|und-Deva|रु}}</span> ''ru'' and <span style="font-size:14pt;">{{lang|und-Deva|रू}}</span> ''rū''.
+
+===Consonants===
+The table below shows the consonant letters (in combination with inherent vowel ''a'') and their arrangement. To the right of the Devanagari letter it shows the scientific transcription ([[IAST]]), and the phonetic value ([[IPA]]).<ref>{{Harvcoltxt|Wikner|1996|pp=73}}</ref>
+
+{|class="wikitable" style="text-align:center; width:95%"
+|-
+!
+! colspan=8 | ''{{IAST|sparśa}}''<br>([[Plosive consonant|Plosive]])
+! colspan=2 | ''{{IAST|anunāsika}}''<br>([[Nasal stop|Nasal]])
+! colspan=2 | ''{{IAST|antastha}}''<br>([[Approximant]])
+! colspan=4 | ''{{IAST|ūṣma/saṃghaṣhrī}}''<br>([[Fricative consonant|Fricative]])
+|-
+! [[Voice (phonetics)|Voicing]] →
+| colspan="4"| ''{{IAST|aghoṣa}}''
+| colspan="8" style="background:beige;"| ''{{IAST|ghoṣa}}''
+| colspan="2"| ''{{IAST|aghoṣa}}''
+| colspan="2" style="background:beige;"| ''{{IAST|ghoṣa}}''
+|-
+! [[Aspiration (phonetics)|Aspiration]] →
+| colspan=2 | ''{{IAST|alpaprāṇa}}''
+| colspan=2 style="background:beige;"| ''{{IAST|mahāprāṇa}}''
+| colspan=2 | ''{{IAST|alpaprāṇa}}''
+| colspan=2 style="background:beige;"| ''{{IAST|mahāprāṇa}}''
+| colspan=4 | ''{{IAST|alpaprāṇa}}''
+| colspan=4 style="background:beige;"| ''{{IAST|mahāprāṇa}}''
+|-
+!''{{IAST|kaṇṭhya}}''<br>([[Guttural]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|क}}||{{IAST|ka}}<br>{{IPA|/k/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ख}}||{{IAST|kha}}<br>{{IPA|/kʰ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ग}}||{{IAST|ga}}<br>{{IPA|/ɡ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|घ}}||{{IAST|gha}}<br>{{IPA|/ɡʱ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ङ}}||{{IAST|ṅa}}<br>{{IPA|/ŋ/}}
+| colspan=4 |
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ह}}||{{IAST|ha}}<br>{{IPA|/ɦ/}}
+|-
+!''tālavya''<br>([[Palatal]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|च}}||{{IAST|ca}}<br>{{IPA|/c, t͡ʃ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|छ}}||{{IAST|cha}}<br>{{IPA|/cʰ, t͡ʃʰ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ज}}||{{IAST|ja}}<br>{{IPA|/ɟ, d͡ʒ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|झ}}||{{IAST|jha}}<br>{{IPA|/ɟʱ, d͡ʒʱ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ञ}}||{{IAST|ña}}<br>{{IPA|/ɲ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|य}}||{{IAST|ya}}<br>{{IPA|/j/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|श}}||{{IAST|śa}}<br>{{IPA|/ɕ, ʃ/}}
+| colspan=2 rowspan=4 |
+|-
+!''mūrdhanya''<br>([[Retroflex consonant|Retroflex]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ट}}||{{IAST|ṭa}}<br>{{IPA|/ʈ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ठ}}||{{IAST|ṭha}}<br>{{IPA|/ʈʰ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ड}}||{{IAST|ḍa}}<br>{{IPA|/ɖ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ढ}}||{{IAST|ḍha}}<br />{{IPA|/ɖʱ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ण}}||{{IAST|ṇa}}<br />{{IPA|/ɳ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|र}}||{{IAST|ra}}<br />{{IPA|/r/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ष}}||{{IAST|ṣa}}<br />{{IPA|/ʂ/}}
+|-
+!''dantya''<br>([[Dental consonant|Dental]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|त}}||{{IAST|ta}}<br>{{IPA|/t̪/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|थ}}||{{IAST|tha}}<br>{{IPA|/t̪ʰ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|द}}||{{IAST|da}}<br>{{IPA|/d̪/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ध}}||{{IAST|dha}}<br>{{IPA|/d̪ʱ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|न}}||{{IAST|na}}<br>{{IPA|/n/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ल}}||{{IAST|la}}<br>{{IPA|/l/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|स}}||{{IAST|sa}}<br>{{IPA|/s/}}
+|-
+!''{{IAST|oṣṭhya}}''<br>([[Labial consonant|Labial]])
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|प}}||{{IAST|pa}}<br>{{IPA|/p/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|फ}}||{{IAST|pha}}<br>{{IPA|/pʰ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|ब}}||{{IAST|ba}}<br>{{IPA|/b/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|भ}}||{{IAST|bha}}<br>{{IPA|/bʱ/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|म}}||{{IAST|ma}}<br>{{IPA|/m/}}
+| style="background:#ccc; font-size:24px;"|{{lang|und-Deva|व}}||{{IAST|va}}<br>{{IPA|/w, ʋ/}}
+| colspan="2"|
+|}
+* Rounding this out where applicable is {{lang|und-Deva|ळ}} ''{{IAST|ḷa}}'' {{IPA|/{{PUA|[[Retroflex lateral flap]]}} /}} (also {{IPA|/ɭ̆/}} in [[IPA]]), the intervocalic [[retroflex lateral flap|lateral flap]] allophone of the [[voiced retroflex stop]] in [[Vedic Sanskrit]], which is a [[phoneme]] in languages such as [[Marathi language|Marathi]], [[Konkani language|Konkani]], and [[Rajasthani language|Rajasthani]].<ref>Masica (1991:97)</ref>
+* Beyond the Sanskritic set, new shapes have rarely been formulated. {{Harvcoltxt|Masica|1991|p=146}} offers the following, "In any case, according to some, all possible sounds had already been described and provided for in this system, as Sanskrit was the original and perfect language. Hence it was difficult to provide for or even to conceive ''other'' sounds, unknown to the [[phonetician]]s of Sanskrit". Where foreign borrowings and internal developments did inevitably accrue and arise in New Indo-Aryan languages, they have been ignored in writing, or dealt through means such as [[diacritic]]s and [[Typographic ligature|ligatures]] (ignored in recitation).
+** The most prolific diacritic has been the [[subscript]] dot (''[[Nukta|nuqtā]]'') <span style="font-size:14pt;">{{lang|und-Deva|़}}</span>. [[Hindi]] uses it for the [[Persian language|Persian]], [[Arabic language|Arabic]] and English sounds <span style="font-size:14pt;">{{lang|hi|[[क़]]}}</span> ''[[Voiceless uvular plosive|qa]]'' {{IPA|/qä/}}, <span style="font-size:14pt;">{{lang|hi|[[ख़]]}}</span> ''[[Voiceless velar fricative|xa]]'' {{IPA|/xä/}}, <span style="font-size:14pt;">{{lang|hi|[[ग़]]}}</span> ''{{IAST|[[Voiced velar fricative|ġa]]}}'' {{IPA|/ɣä/}}, <span style="font-size:14pt;">{{lang|hi|[[ज़]]}}</span> ''[[Voiced alveolar fricative|za]]'' {{IPA|/zä/}}, <span style="font-size:14pt;">{{lang|hi|[[श़]]}}</span> or <span style="font-size:14pt;">{{lang|hi|[[झ़]]}}</span> ''[[Voiced postalveolar fricative|zha]]'' {{IPA|/ʒä/}}, and <span style="font-size:14pt;">{{lang|hi|[[फ़]]}}</span> ''[[Voiceless labiodental fricative|fa]]'' {{IPA|/fä/}}, and for the [[allophonic]] developments <span style="font-size:14pt;">{{lang|hi|[[ड़]]}}</span> ''{{IAST|[[Retroflex flap|ṛa]]}}'' {{IPA|/ɽä/}} and <span style="font-size:14pt;">{{lang|hi|[[ढ़]]}}</span> ''{{IAST|ṛha}}'' {{IPA|/ɽʱä/}}. (Although <span style="font-size:14pt;">{{lang|hi|ऴ}}</span> ''{{IAST|ḷha}}'' {{IPA|/ɭʱä/}} could also exist there is no use of it in Hindi.)
+** [[Sindhi language|Sindhi]]'s and [[Saraiki dialect|Saraiki]]'s  [[implosive]]s are accommodated with a line attached below: <span style="font-size:14pt;">{{lang|sd-Deva|[[Voiced velar implosive|ॻ]]}}</span> {{IPA|[ɠə]}}, <span style="font-size:14pt;">{{lang|sd-Deva|[[Voiced palatal implosive|ॼ]]}}</span> {{IPA|[ʄə]}}, <span style="font-size:14pt;">{{lang|sd-Deva|[[Voiced alveolar implosive|ॾ]]}}</span> {{IPA|[ɗə]}}, <span style="font-size:14pt;">{{lang|sd-Deva|[[Voiced bilabial implosive|ॿ]]}}</span> {{IPA|[ɓə]}}.
+** [[Aspiration (phonetics)|Aspirated]] [[sonorant]]s may be represented as conjuncts/[[Typographic ligature|ligatures]] with <span style="font-size:14pt;">{{lang|und-Deva|ह}}</span> ''ha'': <span style="font-size:14pt;">{{lang|und-Deva|म्ह}}</span> ''mha'', <span style="font-size:14pt;">{{lang|und-Deva|न्ह}}</span> ''nha'', <span style="font-size:14pt;">{{lang|und-Deva|ण्ह}}</span> ''{{IAST|ṇha}}'', <span style="font-size:14pt;">{{lang|und-Deva|व्ह}}</span> ''vha'', <span style="font-size:14pt;">{{lang|und-Deva|ल्ह}}</span> ''lha'', <span style="font-size:14pt;">{{lang|und-Deva|ळ्ह}}</span> ''{{IAST|ḷha}}'', <span style="font-size:14pt;">{{lang|und-Deva|र्ह}}</span> ''rha''.
+** {{Harvcoltxt|Masica|1991|p=147}} notes [[Marwari language|Marwari]] as using {{lang|mwr-Deva|ॸ}} for ''{{IAST|ḍa}}'' {{IPA|[ɗə]}} (while {{lang|mwr-Deva|ड}} represents {{IPA|[ɽə]}}).
+For a list of the 297 (33×9) possible Sanskrit consonant-(short) vowel [[phoneme]]s, see [[Āryabhaṭa numeration]].
+
+====Schwa syncope in consonants====
+{{Main|Schwa deletion in Indo-Aryan languages}}
+In many Indo-Aryan languages, the schwa ('ə') implicit in each consonant of the script is "obligatorily deleted" at the end of words and in certain other contexts,<ref name="hyman1988">{{Citation | title=Language, speech, and mind, Part 2 |author1=Larry M. Hyman |author2=Victoria Fromkin |author3=Charles N. Li | date=1988| isbn=0-415-00311-3 | publisher=Taylor & Francis | url=https://books.google.com/books?id=R6IOAAAAQAAJ | quote=''...&nbsp;The implicit /a/ is not read when the symbol appears in word-final position or in certain other contexts where it is obligatorily deleted via the so-called schwa-deletion rule which plays a crucial role in Hindi word phonology ...''}}</ref> unlike in Marathi{{citation needed|date=December 2015}} or Sanskrit. This phenomenon has been termed the "''[[Schwa deletion in Indo-Aryan languages|schwa syncope rule]]''" or the "''schwa deletion rule''" of Hindi.<ref name="hyman1988" /><ref name="bhatia1987">{{Citation | title=A history of the Hindi grammatical tradition: Hindi-Hindustani grammar, grammarians, history and problems | author=Tej K. Bhatia | year=1987 | isbn=90-04-07924-6 | publisher=BRILL | url=https://books.google.com/books?id=jJOXzRXsSK0C | quote=''...&nbsp;Hindi literature fails as a reliable indicator of the actual pronunciation because it is written in the Devanagari script ... the schwa syncope rule which operates in Hindi ...''}}</ref> One formalisation of this rule has been summarised as {{nowrap|''ə'' → ∅ {{!}} ''VC''_''CV''}}. In other words, when a schwa-succeeded consonant is followed by a vowel-succeeded consonant, the schwa inherent in the first consonant is deleted.<ref name="bhatia1987" /><ref name="choudhury2004">{{Citation | title=A Diachronic Approach for Schwa Deletion in Indo Aryan Languages |author1=Monojit Choudhury |author2=Anupam Basu |author3=Sudeshna Sarkar |date = July 2004| journal=Proceedings of the Workshop of the ACL Special Interest Group on Computational Phonology (SIGPHON) | isbn= | publisher=Association for Computations Linguistics | url=http://www.aclweb.org/anthology/W/W04/W04-0103.pdf | quote=''...&nbsp;schwa deletion is an important issue for grapheme-to-phoneme conversion of IAL, which in turn is required for a good Text-to-Speech synthesiser ...''}}</ref> However, this formalisation is inexact and incomplete (it sometimes deletes a schwa when it should not and, at other times, it fails to delete it when it should) and can cause errors. Schwa deletion is computationally important because it is essential to building [[Speech synthesis|text-to-speech]] software for Hindi.<ref name="choudhury2004" /><ref name="tyson2009">{{Citation | title=Prosodic rules for schwa-deletion in Hindi text-to-speech synthesis |author1=Naim R. Tyson |author2=Ila Nagar | date=2009| journal=International Journal of Speech Technology | isbn= | publisher= | url=http://www.springerlink.com/content/131xm66677g74418/fulltext.pdf | quote=''...&nbsp;Without the appropriate deletion of schwas, any speech output would sound unnatural. Since the orthographical representation of Devanagari gives little indication of deletion sites, modern TTS systems for Hindi implemented schwa deletion rules based on the segmental context where schwa appears ...''}}</ref>
+
+As a result of schwa syncope, the Hindi pronunciation of many words differs from that expected from a literal Sanskrit-style rendering of Devanagari. For instance, {{lang|hi|राम}} is ''rām'' (not ''rāma''), {{lang|hi|रचना}} is ''racnā'' (not ''racanā''), {{lang|hi|वेद}} is ''vēd'' (not ''vēda'') and {{lang|hi|नमकीन}} is ''namkīn'' (not ''namakīna'').<ref name="choudhury2004" /><ref name="tyson2009" /> The name of the script itself is pronounced ''devnāgrī'' (not ''devanāgarī'').<ref name="ref91gufod">{{Citation | title=The rāgs of North Indian music: their structure and evolution | author=Nazir Ali Jairazbhoy | publisher=Popular Prakashan, 1995 | isbn=978-81-7154-395-3 | url=https://books.google.com/books?id=hGLRqLscf78C | quote=''...&nbsp;The Devnagri (Devanagari) script is syllabic and all consonants carry the inherent vowel a unless otherwise indicated. The principal difference between modern Hindi and the classical Sanskrit forms is the omission in Hindi ...''}}</ref>
+
+Correct schwa deletion is also critical because, in some cases, the same Devanagari letter sequence is pronounced two different ways in Hindi depending on context, and failure to delete the appropriate schwas can change the sense of the word.<ref name="choudhury2002">{{Citation | title=A Rule Based Schwa Deletion Algorithm for Hindi |author1=Monojit Choudhury |author2=Anupam Basu |date = July 2004| isbn= | journal=Proceedings of the International Conference On Knowledge-Based Computer Systems | url=http://www.mla.iitkgp.ernet.in/papers/schwadeletionhindi.pdf | quote=''...&nbsp;Without any schwa deletion, not only the two words will sound very unnatural, but it will also be extremely difficult for the listener to distinguish between the two, the only difference being nasalisation of the e at the end of the former. However, a native speaker would pronounce the former as dha.D-kan-eM and the later as dha.Dak-ne, which are clearly distinguishable ...''}}</ref> For instance, the letter sequence '{{lang|hi|रक}}' is pronounced differently in {{lang|hi|हरकत}} (''harkat'', meaning ''movement'' or ''activity'') and {{lang|hi|सरकना}} (''saraknā'', meaning ''to slide''). Similarly, the sequence {{lang|hi|धड़कने}} in {{lang|hi|दिल धड़कने लगा}} (''the heart started beating'') and in {{lang|hi|दिल की धड़कनें}} (''beats of the heart'') is identical prior to the nasalisation in the second usage. Yet, it is pronounced ''dhaṛaknē'' in the first and ''dhaṛkanē'' in the second.<ref name="choudhury2002"/> While native speakers correctly pronounce the sequences differently in different contexts, non-native speakers and voice-synthesis software can make them ''"sound very unnatural"'', making it ''"extremely difficult for the listener"'' to grasp the intended meaning.<ref name="choudhury2002"/>
+
+====Allophony of 'v' and 'w' in Hindi====
+{{IPA|[v]}} (the [[voiced labiodental fricative]]) and {{IPA|[w]}} (the [[voiced labio-velar approximant]]) are both [[allophone]]s of the single [[phoneme]] represented by the [[grapheme|letter]] '{{lang|hi|व}}' in Hindi Devanagari. More specifically, they are ''conditional allophones'', i.e. rules apply on whether '{{lang|hi|व}}' is pronounced as {{IPA|[v]}} or {{IPA|[w]}} depending on context. Native Hindi speakers pronounce '{{lang|hi|व}}' as {{IPA|[v]}} in ''vrat'' ({{lang|hi|व्रत}}, ''fast'') and {{IPA|[w]}} in ''pakvān'' ({{lang|hi|पकवान}}, ''food dish''), perceiving them as a single phoneme and without being aware of the allophone distinctions they are systematically making.<ref name="ref25lojir">{{Citation | title=Implications of Hindi Prosodic Structure (Current Trends in Phonology: Models and Methods) | author=Janet Pierrehumbert, Rami Nair, Volume Editor: Bernard Laks | publisher=European Studies Research Institute, University of Salford Press, 1996 | isbn=978-1-901471-02-1 | url=https://books.google.com/books?id=_jqjQwAACAAJ | quote=''...&nbsp;showed extremely regular patterns. As is not uncommon in a study of subphonemic detail, the objective data patterned much more cleanly than intuitive judgments ... [w] occurs when /व/ is in onglide position ... [v] occurs otherwise ...''}}</ref> However, this specific allophony can become obvious when speakers switch languages. Non-native speakers of Hindi might pronounce '{{lang|hi|व}}' in '{{lang|hi|व्रत}}' as {{IPA|[w]}}, i.e. as ''wrat'' instead of the more correct ''vrat''. This results in a minor intelligibility problem because ''wrat'' can easily be confused for ''aurat'',{{Citation needed|date=February 2011}} which means ''woman'', instead of the intended ''fast'' (abstaining from food), in Hindi.<ref name="ref25lojir"/>
+
+===Conjuncts===
+:''You will be able to see the ligatures only if your system has a Unicode font installed that includes the required ligature glyphs (such as one of the [[TDIL]]<ref>{{cite web|url=http://ildc.in/Sanskrit/sdownload.html |title=TDIL (Technology Development for Indian Languages) Font Download|publisher=TDIL|date= |accessdate=2014-01-03}}</ref> fonts, see "external links" below).''
+
+As mentioned, successive consonants lacking a vowel in between them may physically join together as a ''conjunct'' or [[Ligature (typography)|ligature]]. Conjuncts are used mostly with loan words. Native words typically use the basic consonant and native speakers know to suppress the vowel. For example, the native Hindi word ''karnā'' is written {{lang|und-Deva|करना}} (''ka-ra-nā'').<ref>Saloman, Richard (2007) “Typological Observations on the Indic Scripts” in ''The Indic Scripts: Paleographic and Linguistic Perspecticves'' D.K. Printworld Ltd., New Delhi. ISBN 812460406-1. p. 33.</ref> The government of these clusters ranges from widely to narrowly applicable rules, with special exceptions within. While standardised for the most part, there are certain variations in clustering, of which the [[Unicode]] used on this page is just one scheme. The following are a number of rules:
+* 24 out of the 36 consonants contain a vertical right stroke (<span style="font-size:14pt;">{{lang|und-Deva|ख}}</span>, <span style="font-size:14pt;">{{lang|und-Deva|घ}}</span>, <span style="font-size:14pt;">{{lang|und-Deva|ण}}</span> etc.). As first or middle fragments/members of a cluster, they lose that stroke. e.g. <span style="font-size:14pt;">{{lang|und-Deva|त}}</span> + <span style="font-size:14pt;">{{lang|und-Deva|व}}</span> = <span style="font-size:14pt;">{{lang|und-Deva|त्व}}</span> ''tva'', <span style="font-size:14pt;">{{lang|und-Deva|ण}}</span> + <span style="font-size:14pt;">{{lang|und-Deva|ढ}}</span> = <span style="font-size:14pt;">{{lang|und-Deva|ण्ढ}}</span> ''ṇḍha'', <span style="font-size:14pt;">{{lang|und-Deva|स}}</span> + <span style="font-size:14pt;">{{lang|und-Deva|थ}}</span> = <span style="font-size:14pt;">{{lang|und-Deva|स्थ}}</span> ''stha''. In Unicode, these consonants without their vertical stems are called half forms.<ref name="Unicode ch. 9">{{cite web|title=The Unicode Standard, chapter 9, South Asian Scripts I|url=http://www.unicode.org/versions/Unicode6.0.0/ch09.pdf|work=The Unicode Standard, v. 6.0|publisher=Unicode, Inc|accessdate=Feb 12, 2012}}</ref>  <span style="font-size:14pt;">{{lang|und-Deva|श}}</span> ''ś(a)'' appears as a different, simple ribbon-shaped fragment preceding <span style="font-size:14pt;">{{lang|und-Deva|व}}</span> ''va'', <span style="font-size:14pt;">{{lang|und-Deva|न}}</span> ''na'', <span style="font-size:14pt;">{{lang|und-Deva|च}}</span> ''ca'', <span style="font-size:14pt;">{{lang|und-Deva|ल}}</span> ''la'', and <span style="font-size:14pt;">{{lang|und-Deva|र}}</span> ''ra'', causing these second members to be shifted down and reduced in size. Thus <span style="font-size:14pt;">{{lang|und-Deva|श्व}}</span> ''śva'', <span style="font-size:14pt;">{{lang|und-Deva|श्न}}</span> ''śna'', <span style="font-size:14pt;">{{lang|und-Deva|श्च}}</span> ''śca'' <span style="font-size:14pt;">{{lang|und-Deva|श्ल}}</span> ''śla'', and <span style="font-size:14pt;">{{lang|und-Deva|श्र}}</span> ''śra''.
+* <span style="font-size:14pt;">{{lang|und-Deva|र}}</span> ''r(a)'' as a first member takes the form of a curved upward dash above the final character or its ''ā-''diacritic. e.g. <span style="font-size:14pt;">{{lang|und-Deva|र्व}}</span> ''rva'', <span style="font-size:14pt;">{{lang|und-Deva|र्वा}}</span> ''rvā'', <span style="font-size:14pt;">{{lang|und-Deva|र्स्प}}</span> ''rspa'', <span style="font-size:14pt;">{{lang|und-Deva|र्स्पा}}</span> ''rspā''. As a final member with <span style="font-size:14pt;">{{lang|und-Deva|ट ठ ड ढ ङ छ}}</span> it is two lines below the character, pointed downwards and apart. Thus <span style="font-size:14pt;">{{lang|und-Deva|ट्र ठ्र ड्र ढ्र ङ्र छ्र}}</span>. Elsewhere as a final member it is a diagonal stroke extending leftwards and down. e.g. <span style="font-size:14pt;">{{lang|und-Deva|क्र ग्र भ्र}}</span>. <span style="font-size:14pt;">{{lang|und-Deva|त}}</span> ''ta'' is shifted up to make <span style="font-size:14pt;">{{lang|und-Deva|त्र}}</span> ''tra''.
+* As first members, remaining characters lacking vertical strokes such as <span style="font-size:14pt;">{{lang|und-Deva|द}}</span> ''d(a)'' and <span style="font-size:14pt;">{{lang|und-Deva|ह}}</span> ''h(a)'' may have their second member, reduced in size and lacking its horizontal stroke, placed underneath. <span style="font-size:14pt;">{{lang|und-Deva|क}}</span> ''k(a)'', <span style="font-size:14pt;">{{lang|und-Deva|छ}}</span> ''ch(a)'', and <span style="font-size:14pt;">{{lang|und-Deva|फ}}</span> ''ph(a)'' shorten their right hooks and join them directly to the following member.
+* The conjuncts for ''{{IAST|kṣ}}'' and ''{{IAST|jñ}}'' are not clearly derived from the letters making up their components. The conjunct for ''{{IAST|kṣ}}'' is <span style="font-size:14pt;">{{lang|und-Deva|क्ष}}</span> (<span style="font-size:14pt;">{{lang|und-Deva|क्}}</span> + <span style="font-size:14pt;">{{lang|und-Deva|ष}}</span>) and for ''{{IAST|jñ}}'' it is <span style="font-size:14pt;">{{lang|und-Deva|ज्ञ}}</span> (<span style="font-size:14pt;">{{lang|und-Deva|ज्}}</span> + <span style="font-size:14pt;">{{lang|und-Deva|ञ}}</span>).
+
+The table below shows '''all''' the 1296 viable symbols for the biconsonantal [[consonant cluster|clusters]] formed by collating the 36 fundamental symbols of '''Sanskrit''' as listed in {{Harvcoltxt|Masica|1991|pp=161–162}}. Scroll your cursor over the conjuncts to reveal their romanizations (in [[ISO 15919]]<ref>The romanization shown is identical to [[International Alphabet of Sanskrit Transliteration|IAST]], except that {{lang|und-Deva|ळ}} (which is not used in Sanskrit) has the ISO romanization ḷ, which in IAST is the dental vowel l.</ref>) and IPA transcriptions. Note that not all these conjuncts appear in genuine words.
+
+====Biconsonantal conjuncts====
+<div lang="und-Deva">
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:15px"
+|-
+! !!{{H:title|ka (IPA:kə)|क|dotted=no}} !!{{H:title|kha (IPA:kʰə)|ख|dotted=no}} !!|{{H:title|ga (IPA:ɡə)|ग|dotted=no}} !!{{H:title|gha (IPA:ɡʱə)|घ|dotted=no}} !!{{H:title|ṅa (IPA:ŋə)|ङ|dotted=no}} !!{{H:title|ca (IPA:cɕə)|च|dotted=no}} !!{{H:title|cha (IPA:cɕʰə)|छ|dotted=no}} !!{{H:title|ja (IPA:ɟʝə)|ज|dotted=no}} !!{{H:title|jha (IPA:ɟʝʱə)|झ|dotted=no}} !!{{H:title|ña (IPA:ɲə)|ञ|dotted=no}} !!{{H:title|ṭa (IPA:ʈə)|ट|dotted=no}} !!{{H:title|ṭha (IPA:ʈʰə)|ठ|dotted=no}} !!{{H:title|ḍa (IPA:ɖə)|ड|dotted=no}} !!{{H:title|ḍha (IPA:ɖʱə)|ढ|dotted=no}} !!{{H:title|ṇa (IPA:ɳə)|ण|dotted=no}} !!{{H:title|ta (IPA:t̪ə)|त|dotted=no}} !!{{H:title|tha (IPA:t̪ʰə)|थ|dotted=no}} !!{{H:title|da (IPA:d̪ə)|द|dotted=no}} !!{{H:title|dha (IPA:d̪ʱə)|ध|dotted=no}} !!{{H:title|na (IPA:n̪ə)|न|dotted=no}} !!{{H:title|pa (IPA:pə)|प|dotted=no}} !!{{H:title|pha (IPA:pʰə)|फ|dotted=no}} !!{{H:title|ba (IPA:bə)|ब|dotted=no}} !!{{H:title|bha (IPA:bʱə)|भ|dotted=no}} !!{{H:title|ma (IPA:mə)|म|dotted=no}} !!{{H:title|ya (IPA:jə)|य|dotted=no}} !!{{H:title|ra (IPA:rə)|र|dotted=no}} !!{{H:title|la (IPA:lə)|ल|dotted=no}} !!{{H:title|va (IPA:və)|व|dotted=no}} !!{{H:title|śa (IPA:ʃə)|श|dotted=no}} !!{{H:title|ṣa (IPA:ʂə)|ष|dotted=no}} !!{{H:title|sa (IPA:sə)|स|dotted=no}} !!{{H:title|ha (IPA:hə)|ह|dotted=no}} !!{{H:title|ḷa (IPA:ɭə)|ळ|dotted=no}} !!{{H:title|kṣa (IPA:kʂə)|क्ष|dotted=no}} !!{{H:title|jña (IPA:ɟʝɲə)|ज्ञ|dotted=no}}
+|-
+!{{H:title|k (IPA:k)|क|dotted=no}}
+
+|{{H:title|kka (IPA:kkə)|क्क|dotted=no}}
+|{{H:title|kkha (IPA:kkʰə)|क्ख|dotted=no}}
+|{{H:title|kga (IPA:kɡə)|क्ग|dotted=no}}
+|{{H:title|kgha (IPA:kɡʱə)|क्घ|dotted=no}}
+|{{H:title|kṅa (IPA:kŋə)|क्ङ|dotted=no}}
+|{{H:title|kca (IPA:kcɕə)|क्च|dotted=no}}
+|{{H:title|kcha (IPA:kcɕʰə)|क्छ|dotted=no}}
+|{{H:title|kja (IPA:kɟʝə)|क्ज|dotted=no}}
+|{{H:title|kjha (IPA:kɟʝʱə)|क्झ|dotted=no}}
+|{{H:title|kña (IPA:kɲə)|क्ञ|dotted=no}}
+|{{H:title|kṭa (IPA:kʈə)|क्ट|dotted=no}}
+|{{H:title|kṭha (IPA:kʈʰə)|क्ठ|dotted=no}}
+|{{H:title|kḍa (IPA:kɖə)|क्ड|dotted=no}}
+|{{H:title|kḍha (IPA:kɖʱə)|क्ढ|dotted=no}}
+|{{H:title|kṇa (IPA:kɳə)|क्ण|dotted=no}}
+|[[wikt:क्त|{{H:title|kta (IPA:kt̪ə)|'''क्त'''|dotted=no}}]]
+|{{H:title|ktha (IPA:kt̪ʰə)|क्थ|dotted=no}}
+|{{H:title|kda (IPA:kd̪ə)|क्द|dotted=no}}
+|{{H:title|kdha (IPA:kd̪ʱə)|क्ध|dotted=no}}
+|{{H:title|kna (IPA:kn̪ə)|क्न|dotted=no}}
+|{{H:title|kpa (IPA:kpə)|क्प|dotted=no}}
+|{{H:title|kpha (IPA:kpʰə)|क्फ|dotted=no}}
+|{{H:title|kba (IPA:kbə)|क्ब|dotted=no}}
+|{{H:title|kbha (IPA:kbʱə)|क्भ|dotted=no}}
+|{{H:title|kma (IPA:kmə)|क्म|dotted=no}}
+|{{H:title|kya (IPA:kjə)|क्य|dotted=no}}
+|{{H:title|kra (IPA:krə)|क्र|dotted=no}}
+|{{H:title|kla (IPA:klə)|क्ल|dotted=no}}
+|{{H:title|kva (IPA:kvə)|क्व|dotted=no}}
+|{{H:title|kśa (IPA:kʃə)|क्श|dotted=no}}
+|[[wikt:क्ष|{{H:title|kṣa (IPA:kʂə)|'''क्ष'''|dotted=no}}]]
+|{{H:title|ksa (IPA:ksə)|क्स|dotted=no}}
+|{{H:title|kha (IPA:khə)|क्ह|dotted=no}}
+|{{H:title|kḷa (IPA:kɭə)|क्ळ|dotted=no}}
+|{{H:title|kkṣa (IPA:kkʂə)|क्क्ष|dotted=no}}
+|{{H:title|kjña (IPA:kɟʝɲə)|क्ज्ञ|dotted=no}}
+|-
+!{{H:title|kh (IPA:kʰ)|ख|dotted=no}}
+
+|{{H:title|khka (IPA:kʰkə)|ख्क|dotted=no}}
+|{{H:title|khkha (IPA:kʰkʰə)|ख्ख|dotted=no}}
+|{{H:title|khga (IPA:kʰɡə)|ख्ग|dotted=no}}
+|{{H:title|khgha (IPA:kʰɡʱə)|ख्घ|dotted=no}}
+|{{H:title|khṅa (IPA:kʰŋə)|ख्ङ|dotted=no}}
+|{{H:title|khca (IPA:kʰcɕə)|ख्च|dotted=no}}
+|{{H:title|khcha (IPA:kʰcɕʰə)|ख्छ|dotted=no}}
+|{{H:title|khja (IPA:kʰɟʝə)|ख्ज|dotted=no}}
+|{{H:title|khjha (IPA:kʰɟʝʱə)|ख्झ|dotted=no}}
+|{{H:title|khña (IPA:kʰɲə)|ख्ञ|dotted=no}}
+|{{H:title|khṭa (IPA:kʰʈə)|ख्ट|dotted=no}}
+|{{H:title|khṭha (IPA:kʰʈʰə)|ख्ठ|dotted=no}}
+|{{H:title|khḍa (IPA:kʰɖə)|ख्ड|dotted=no}}
+|{{H:title|khḍha (IPA:kʰɖʱə)|ख्ढ|dotted=no}}
+|{{H:title|khṇa (IPA:kʰɳə)|ख्ण|dotted=no}}
+|{{H:title|khta (IPA:kʰt̪ə)|ख्त|dotted=no}}
+|{{H:title|khtha (IPA:kʰt̪ʰə)|ख्थ|dotted=no}}
+|{{H:title|khda (IPA:kʰd̪ə)|ख्द|dotted=no}}
+|{{H:title|khdha (IPA:kʰd̪ʱə)|ख्ध|dotted=no}}
+|{{H:title|khna (IPA:kʰn̪ə)|ख्न|dotted=no}}
+|{{H:title|khpa (IPA:kʰpə)|ख्प|dotted=no}}
+|{{H:title|khpha (IPA:kʰpʰə)|ख्फ|dotted=no}}
+|{{H:title|khba (IPA:kʰbə)|ख्ब|dotted=no}}
+|{{H:title|khbha (IPA:kʰbʱə)|ख्भ|dotted=no}}
+|{{H:title|khma (IPA:kʰmə)|ख्म|dotted=no}}
+|{{H:title|khya (IPA:kʰjə)|ख्य|dotted=no}}
+|{{H:title|khra (IPA:kʰrə)|ख्र|dotted=no}}
+|{{H:title|khla (IPA:kʰlə)|ख्ल|dotted=no}}
+|{{H:title|khva (IPA:kʰvə)|ख्व|dotted=no}}
+|{{H:title|khśa (IPA:kʰʃə)|ख्श|dotted=no}}
+|{{H:title|khṣa (IPA:kʰʂə)|ख्ष|dotted=no}}
+|{{H:title|khsa (IPA:kʰsə)|ख्स|dotted=no}}
+|{{H:title|khha (IPA:kʰhə)|ख्ह|dotted=no}}
+|{{H:title|khḷa (IPA:kʰɭə)|ख्ळ|dotted=no}}
+|{{H:title|khkṣa (IPA:kʰkʂə)|ख्क्ष|dotted=no}}
+|{{H:title|khjña (IPA:kʰɟʝɲə)|ख्ज्ञ|dotted=no}}
+|-
+!{{H:title|g (IPA:ɡ)|ग|dotted=no}}
+
+|{{H:title|gka (IPA:ɡkə)|ग्क|dotted=no}}
+|{{H:title|gkha (IPA:ɡkʰə)|ग्ख|dotted=no}}
+|{{H:title|gga (IPA:ɡɡə)|ग्ग|dotted=no}}
+|{{H:title|ggha (IPA:ɡɡʱə)|ग्घ|dotted=no}}
+|{{H:title|gṅa (IPA:ɡŋə)|ग्ङ|dotted=no}}
+|{{H:title|gca (IPA:ɡcɕə)|ग्च|dotted=no}}
+|{{H:title|gcha (IPA:ɡcɕʰə)|ग्छ|dotted=no}}
+|{{H:title|gja (IPA:ɡɟʝə)|ग्ज|dotted=no}}
+|{{H:title|gjha (IPA:ɡɟʝʱə)|ग्झ|dotted=no}}
+|{{H:title|gña (IPA:ɡɲə)|ग्ञ|dotted=no}}
+|{{H:title|gṭa (IPA:ɡʈə)|ग्ट|dotted=no}}
+|{{H:title|gṭha (IPA:ɡʈʰə)|ग्ठ|dotted=no}}
+|{{H:title|gḍa (IPA:ɡɖə)|ग्ड|dotted=no}}
+|{{H:title|gḍha (IPA:ɡɖʱə)|ग्ढ|dotted=no}}
+|{{H:title|gṇa (IPA:ɡɳə)|ग्ण|dotted=no}}
+|{{H:title|gta (IPA:ɡt̪ə)|ग्त|dotted=no}}
+|{{H:title|gtha (IPA:ɡt̪ʰə)|ग्थ|dotted=no}}
+|{{H:title|gda (IPA:ɡd̪ə)|ग्द|dotted=no}}
+|{{H:title|gdha (IPA:ɡd̪ʱə)|ग्ध|dotted=no}}
+|{{H:title|gna (IPA:ɡn̪ə)|ग्न|dotted=no}}
+|{{H:title|gpa (IPA:ɡpə)|ग्प|dotted=no}}
+|{{H:title|gpha (IPA:ɡpʰə)|ग्फ|dotted=no}}
+|{{H:title|gba (IPA:ɡbə)|ग्ब|dotted=no}}
+|{{H:title|gbha (IPA:ɡbʱə)|ग्भ|dotted=no}}
+|{{H:title|gma (IPA:ɡmə)|ग्म|dotted=no}}
+|{{H:title|gya (IPA:ɡjə)|ग्य|dotted=no}}
+|{{H:title|gra (IPA:ɡrə)|ग्र|dotted=no}}
+|{{H:title|gla (IPA:ɡlə)|ग्ल|dotted=no}}
+|{{H:title|gva (IPA:ɡvə)|ग्व|dotted=no}}
+|{{H:title|gśa (IPA:ɡʃə)|ग्श|dotted=no}}
+|{{H:title|gṣa (IPA:ɡʂə)|ग्ष|dotted=no}}
+|{{H:title|gsa (IPA:ɡsə)|ग्स|dotted=no}}
+|{{H:title|gha (IPA:ɡhə)|ग्ह|dotted=no}}
+|{{H:title|gḷa (IPA:ɡɭə)|ग्ळ|dotted=no}}
+|{{H:title|gkṣa (IPA:ɡkʂə)|ग्क्ष|dotted=no}}
+|{{H:title|gjña (IPA:ɡɟʝɲə)|ग्ज्ञ|dotted=no}}
+|-
+!{{H:title|gh (IPA:ɡʱ)|घ|dotted=no}}
+
+|{{H:title|ghka (IPA:ɡʱkə)|घ्क|dotted=no}}
+|{{H:title|ghkha (IPA:ɡʱkʰə)|घ्ख|dotted=no}}
+|{{H:title|ghga (IPA:ɡʱɡə)|घ्ग|dotted=no}}
+|{{H:title|ghgha (IPA:ɡʱɡʱə)|घ्घ|dotted=no}}
+|{{H:title|ghṅa (IPA:ɡʱŋə)|घ्ङ|dotted=no}}
+|{{H:title|ghca (IPA:ɡʱcɕə)|घ्च|dotted=no}}
+|{{H:title|ghcha (IPA:ɡʱcɕʰə)|घ्छ|dotted=no}}
+|{{H:title|ghja (IPA:ɡʱɟʝə)|घ्ज|dotted=no}}
+|{{H:title|ghjha (IPA:ɡʱɟʝʱə)|घ्झ|dotted=no}}
+|{{H:title|ghña (IPA:ɡʱɲə)|घ्ञ|dotted=no}}
+|{{H:title|ghṭa (IPA:ɡʱʈə)|घ्ट|dotted=no}}
+|{{H:title|ghṭha (IPA:ɡʱʈʰə)|घ्ठ|dotted=no}}
+|{{H:title|ghḍa (IPA:ɡʱɖə)|घ्ड|dotted=no}}
+|{{H:title|ghḍha (IPA:ɡʱɖʱə)|घ्ढ|dotted=no}}
+|{{H:title|ghṇa (IPA:ɡʱɳə)|घ्ण|dotted=no}}
+|{{H:title|ghta (IPA:ɡʱt̪ə)|घ्त|dotted=no}}
+|{{H:title|ghtha (IPA:ɡʱt̪ʰə)|घ्थ|dotted=no}}
+|{{H:title|ghda (IPA:ɡʱd̪ə)|घ्द|dotted=no}}
+|{{H:title|ghdha (IPA:ɡʱd̪ʱə)|घ्ध|dotted=no}}
+|{{H:title|ghna (IPA:ɡʱn̪ə)|घ्न|dotted=no}}
+|{{H:title|ghpa (IPA:ɡʱpə)|घ्प|dotted=no}}
+|{{H:title|ghpha (IPA:ɡʱpʰə)|घ्फ|dotted=no}}
+|{{H:title|ghba (IPA:ɡʱbə)|घ्ब|dotted=no}}
+|{{H:title|ghbha (IPA:ɡʱbʱə)|घ्भ|dotted=no}}
+|{{H:title|ghma (IPA:ɡʱmə)|घ्म|dotted=no}}
+|{{H:title|ghya (IPA:ɡʱjə)|घ्य|dotted=no}}
+|{{H:title|ghra (IPA:ɡʱrə)|घ्र|dotted=no}}
+|{{H:title|ghla (IPA:ɡʱlə)|घ्ल|dotted=no}}
+|{{H:title|ghva (IPA:ɡʱvə)|घ्व|dotted=no}}
+|{{H:title|ghśa (IPA:ɡʱʃə)|घ्श|dotted=no}}
+|{{H:title|ghṣa (IPA:ɡʱʂə)|घ्ष|dotted=no}}
+|{{H:title|ghsa (IPA:ɡʱsə)|घ्स|dotted=no}}
+|{{H:title|ghha (IPA:ɡʱhə)|घ्ह|dotted=no}}
+|{{H:title|ghḷa (IPA:ɡʱɭə)|घ्ळ|dotted=no}}
+|{{H:title|ghkṣa (IPA:ɡʱkʂə)|घ्क्ष|dotted=no}}
+|{{H:title|ghjña (IPA:ɡʱɟʝɲə)|घ्ज्ञ|dotted=no}}
+|-
+!{{H:title|ṅ (IPA:ŋ)|ङ|dotted=no}}
+
+|{{H:title|ṅka (IPA:ŋkə)|ङ्क|dotted=no}}
+|{{H:title|ṅkha (IPA:ŋkʰə)|ङ्ख|dotted=no}}
+|{{H:title|ṅga (IPA:ŋɡə)|ङ्ग|dotted=no}}
+|{{H:title|ṅgha (IPA:ŋɡʱə)|ङ्घ|dotted=no}}
+|{{H:title|ṅṅa (IPA:ŋŋə)|ङ्ङ|dotted=no}}
+|{{H:title|ṅca (IPA:ŋcɕə)|ङ्च|dotted=no}}
+|{{H:title|ṅcha (IPA:ŋcɕʰə)|ङ्छ|dotted=no}}
+|{{H:title|ṅja (IPA:ŋɟʝə)|ङ्ज|dotted=no}}
+|{{H:title|ṅjha (IPA:ŋɟʝʱə)|ङ्झ|dotted=no}}
+|{{H:title|ṅña (IPA:ŋɲə)|ङ्ञ|dotted=no}}
+|{{H:title|ṅṭa (IPA:ŋʈə)|ङ्ट|dotted=no}}
+|{{H:title|ṅṭha (IPA:ŋʈʰə)|ङ्ठ|dotted=no}}
+|{{H:title|ṅḍa (IPA:ŋɖə)|ङ्ड|dotted=no}}
+|{{H:title|ṅḍha (IPA:ŋɖʱə)|ङ्ढ|dotted=no}}
+|{{H:title|ṅṇa (IPA:ŋɳə)|ङ्ण|dotted=no}}
+|{{H:title|ṅta (IPA:ŋt̪ə)|ङ्त|dotted=no}}
+|{{H:title|ṅtha (IPA:ŋt̪ʰə)|ङ्थ|dotted=no}}
+|{{H:title|ṅda (IPA:ŋd̪ə)|ङ्द|dotted=no}}
+|{{H:title|ṅdha (IPA:ŋd̪ʱə)|ङ्ध|dotted=no}}
+|{{H:title|ṅna (IPA:ŋn̪ə)|ङ्न|dotted=no}}
+|{{H:title|ṅpa (IPA:ŋpə)|ङ्प|dotted=no}}
+|{{H:title|ṅpha (IPA:ŋpʰə)|ङ्फ|dotted=no}}
+|{{H:title|ṅba (IPA:ŋbə)|ङ्ब|dotted=no}}
+|{{H:title|ṅbha (IPA:ŋbʱə)|ङ्भ|dotted=no}}
+|{{H:title|ṅma (IPA:ŋmə)|ङ्म|dotted=no}}
+|{{H:title|ṅya (IPA:ŋjə)|ङ्य|dotted=no}}
+|{{H:title|ṅra (IPA:ŋrə)|ङ्र|dotted=no}}
+|{{H:title|ṅla (IPA:ŋlə)|ङ्ल|dotted=no}}
+|{{H:title|ṅva (IPA:ŋvə)|ङ्व|dotted=no}}
+|{{H:title|ṅśa (IPA:ŋʃə)|ङ्श|dotted=no}}
+|{{H:title|ṅṣa (IPA:ŋʂə)|ङ्ष|dotted=no}}
+|{{H:title|ṅsa (IPA:ŋsə)|ङ्स|dotted=no}}
+|{{H:title|ṅha (IPA:ŋhə)|ङ्ह|dotted=no}}
+|{{H:title|ṅḷa (IPA:ŋɭə)|ङ्ळ|dotted=no}}
+|{{H:title|ṅkṣa (IPA:ŋkʂə)|ङ्क्ष|dotted=no}}
+|{{H:title|ṅjña (IPA:ŋɟʝɲə)|ङ्ज्ञ|dotted=no}}
+|-
+!{{H:title|c (IPA:cɕ)|च|dotted=no}}
+
+|{{H:title|cka (IPA:cɕkə)|च्क|dotted=no}}
+|{{H:title|ckha (IPA:cɕkʰə)|च्ख|dotted=no}}
+|{{H:title|cga (IPA:cɕɡə)|च्ग|dotted=no}}
+|{{H:title|cgha (IPA:cɕɡʱə)|च्घ|dotted=no}}
+|{{H:title|cṅa (IPA:cɕŋə)|च्ङ|dotted=no}}
+|{{H:title|cca (IPA:cɕcɕə)|च्च|dotted=no}}
+|{{H:title|ccha (IPA:cɕcɕʰə)|च्छ|dotted=no}}
+|{{H:title|cja (IPA:cɕɟʝə)|च्ज|dotted=no}}
+|{{H:title|cjha (IPA:cɕɟʝʱə)|च्झ|dotted=no}}
+|{{H:title|cña (IPA:cɕɲə)|च्ञ|dotted=no}}
+|{{H:title|cṭa (IPA:cɕʈə)|च्ट|dotted=no}}
+|{{H:title|cṭha (IPA:cɕʈʰə)|च्ठ|dotted=no}}
+|{{H:title|cḍa (IPA:cɕɖə)|च्ड|dotted=no}}
+|{{H:title|cḍha (IPA:cɕɖʱə)|च्ढ|dotted=no}}
+|{{H:title|cṇa (IPA:cɕɳə)|च्ण|dotted=no}}
+|{{H:title|cta (IPA:cɕt̪ə)|च्त|dotted=no}}
+|{{H:title|ctha (IPA:cɕt̪ʰə)|च्थ|dotted=no}}
+|{{H:title|cda (IPA:cɕd̪ə)|च्द|dotted=no}}
+|{{H:title|cdha (IPA:cɕd̪ʱə)|च्ध|dotted=no}}
+|{{H:title|cna (IPA:cɕn̪ə)|च्न|dotted=no}}
+|{{H:title|cpa (IPA:cɕpə)|च्प|dotted=no}}
+|{{H:title|cpha (IPA:cɕpʰə)|च्फ|dotted=no}}
+|{{H:title|cba (IPA:cɕbə)|च्ब|dotted=no}}
+|{{H:title|cbha (IPA:cɕbʱə)|च्भ|dotted=no}}
+|{{H:title|cma (IPA:cɕmə)|च्म|dotted=no}}
+|{{H:title|cya (IPA:cɕjə)|च्य|dotted=no}}
+|{{H:title|cra (IPA:cɕrə)|च्र|dotted=no}}
+|{{H:title|cla (IPA:cɕlə)|च्ल|dotted=no}}
+|{{H:title|cva (IPA:cɕvə)|च्व|dotted=no}}
+|{{H:title|cśa (IPA:cɕʃə)|च्श|dotted=no}}
+|{{H:title|cṣa (IPA:cɕʂə)|च्ष|dotted=no}}
+|{{H:title|csa (IPA:cɕsə)|च्स|dotted=no}}
+|{{H:title|cha (IPA:cɕhə)|च्ह|dotted=no}}
+|{{H:title|cḷa (IPA:cɕɭə)|च्ळ|dotted=no}}
+|{{H:title|ckṣa (IPA:cɕkʂə)|च्क्ष|dotted=no}}
+|{{H:title|cjña (IPA:cɕɟʝɲə)|च्ज्ञ|dotted=no}}
+|-
+!{{H:title|ch (IPA:cɕʰ)|छ|dotted=no}}
+
+|{{H:title|chka (IPA:cɕʰkə)|छ्क|dotted=no}}
+|{{H:title|chkha (IPA:cɕʰkʰə)|छ्ख|dotted=no}}
+|{{H:title|chga (IPA:cɕʰɡə)|छ्ग|dotted=no}}
+|{{H:title|chgha (IPA:cɕʰɡʱə)|छ्घ|dotted=no}}
+|{{H:title|chṅa (IPA:cɕʰŋə)|छ्ङ|dotted=no}}
+|{{H:title|chca (IPA:cɕʰcɕə)|छ्च|dotted=no}}
+|{{H:title|chcha (IPA:cɕʰcɕʰə)|छ्छ|dotted=no}}
+|{{H:title|chja (IPA:cɕʰɟʝə)|छ्ज|dotted=no}}
+|{{H:title|chjha (IPA:cɕʰɟʝʱə)|छ्झ|dotted=no}}
+|{{H:title|chña (IPA:cɕʰɲə)|छ्ञ|dotted=no}}
+|{{H:title|chṭa (IPA:cɕʰʈə)|छ्ट|dotted=no}}
+|{{H:title|chṭha (IPA:cɕʰʈʰə)|छ्ठ|dotted=no}}
+|{{H:title|chḍa (IPA:cɕʰɖə)|छ्ड|dotted=no}}
+|{{H:title|chḍha (IPA:cɕʰɖʱə)|छ्ढ|dotted=no}}
+|{{H:title|chṇa (IPA:cɕʰɳə)|छ्ण|dotted=no}}
+|{{H:title|chta (IPA:cɕʰt̪ə)|छ्त|dotted=no}}
+|{{H:title|chtha (IPA:cɕʰt̪ʰə)|छ्थ|dotted=no}}
+|{{H:title|chda (IPA:cɕʰd̪ə)|छ्द|dotted=no}}
+|{{H:title|chdha (IPA:cɕʰd̪ʱə)|छ्ध|dotted=no}}
+|{{H:title|chna (IPA:cɕʰn̪ə)|छ्न|dotted=no}}
+|{{H:title|chpa (IPA:cɕʰpə)|छ्प|dotted=no}}
+|{{H:title|chpha (IPA:cɕʰpʰə)|छ्फ|dotted=no}}
+|{{H:title|chba (IPA:cɕʰbə)|छ्ब|dotted=no}}
+|{{H:title|chbha (IPA:cɕʰbʱə)|छ्भ|dotted=no}}
+|{{H:title|chma (IPA:cɕʰmə)|छ्म|dotted=no}}
+|{{H:title|chya (IPA:cɕʰjə)|छ्य|dotted=no}}
+|{{H:title|chra (IPA:cɕʰrə)|छ्र|dotted=no}}
+|{{H:title|chla (IPA:cɕʰlə)|छ्ल|dotted=no}}
+|{{H:title|chva (IPA:cɕʰvə)|छ्व|dotted=no}}
+|{{H:title|chśa (IPA:cɕʰʃə)|छ्श|dotted=no}}
+|{{H:title|chṣa (IPA:cɕʰʂə)|छ्ष|dotted=no}}
+|{{H:title|chsa (IPA:cɕʰsə)|छ्स|dotted=no}}
+|{{H:title|chha (IPA:cɕʰhə)|छ्ह|dotted=no}}
+|{{H:title|chḷa (IPA:cɕʰɭə)|छ्ळ|dotted=no}}
+|{{H:title|chkṣa (IPA:cɕʰkʂə)|छ्क्ष|dotted=no}}
+|{{H:title|chjña (IPA:cɕʰɟʝɲə)|छ्ज्ञ|dotted=no}}
+|-
+!{{H:title|j (IPA:ɟʝ)|ज|dotted=no}}
+
+|{{H:title|jka (IPA:ɟʝkə)|ज्क|dotted=no}}
+|{{H:title|jkha (IPA:ɟʝkʰə)|ज्ख|dotted=no}}
+|{{H:title|jga (IPA:ɟʝɡə)|ज्ग|dotted=no}}
+|{{H:title|jgha (IPA:ɟʝɡʱə)|ज्घ|dotted=no}}
+|{{H:title|jṅa (IPA:ɟʝŋə)|ज्ङ|dotted=no}}
+|{{H:title|jca (IPA:ɟʝcɕə)|ज्च|dotted=no}}
+|{{H:title|jcha (IPA:ɟʝcɕʰə)|ज्छ|dotted=no}}
+|{{H:title|jja (IPA:ɟʝɟʝə)|ज्ज|dotted=no}}
+|{{H:title|jjha (IPA:ɟʝɟʝʱə)|ज्झ|dotted=no}}
+|[[wikt:ज्ञ|{{H:title|jña (IPA:ɟʝɲə)|'''ज्ञ'''|dotted=no}}]]
+|{{H:title|jṭa (IPA:ɟʝʈə)|ज्ट|dotted=no}}
+|{{H:title|jṭha (IPA:ɟʝʈʰə)|ज्ठ|dotted=no}}
+|{{H:title|jḍa (IPA:ɟʝɖə)|ज्ड|dotted=no}}
+|{{H:title|jḍha (IPA:ɟʝɖʱə)|ज्ढ|dotted=no}}
+|{{H:title|jṇa (IPA:ɟʝɳə)|ज्ण|dotted=no}}
+|{{H:title|jta (IPA:ɟʝt̪ə)|ज्त|dotted=no}}
+|{{H:title|jtha (IPA:ɟʝt̪ʰə)|ज्थ|dotted=no}}
+|{{H:title|jda (IPA:ɟʝd̪ə)|ज्द|dotted=no}}
+|{{H:title|jdha (IPA:ɟʝd̪ʱə)|ज्ध|dotted=no}}
+|{{H:title|jna (IPA:ɟʝn̪ə)|ज्न|dotted=no}}
+|{{H:title|jpa (IPA:ɟʝpə)|ज्प|dotted=no}}
+|{{H:title|jpha (IPA:ɟʝpʰə)|ज्फ|dotted=no}}
+|{{H:title|jba (IPA:ɟʝbə)|ज्ब|dotted=no}}
+|{{H:title|jbha (IPA:ɟʝbʱə)|ज्भ|dotted=no}}
+|{{H:title|jma (IPA:ɟʝmə)|ज्म|dotted=no}}
+|{{H:title|jya (IPA:ɟʝjə)|ज्य|dotted=no}}
+|{{H:title|jra (IPA:ɟʝrə)|ज्र|dotted=no}}
+|{{H:title|jla (IPA:ɟʝlə)|ज्ल|dotted=no}}
+|{{H:title|jva (IPA:ɟʝvə)|ज्व|dotted=no}}
+|{{H:title|jśa (IPA:ɟʝʃə)|ज्श|dotted=no}}
+|{{H:title|jṣa (IPA:ɟʝʂə)|ज्ष|dotted=no}}
+|{{H:title|jsa (IPA:ɟʝsə)|ज्स|dotted=no}}
+|{{H:title|jha (IPA:ɟʝhə)|ज्ह|dotted=no}}
+|{{H:title|jḷa (IPA:ɟʝɭə)|ज्ळ|dotted=no}}
+|{{H:title|jkṣa (IPA:ɟʝkʂə)|ज्क्ष|dotted=no}}
+|{{H:title|jjña (IPA:ɟʝɟʝɲə)|ज्ज्ञ|dotted=no}}
+|-
+!{{H:title|jh (IPA:ɟʝʱ)|झ|dotted=no}}
+
+|{{H:title|jhka (IPA:ɟʝʱkə)|झ्क|dotted=no}}
+|{{H:title|jhkha (IPA:ɟʝʱkʰə)|झ्ख|dotted=no}}
+|{{H:title|jhga (IPA:ɟʝʱɡə)|झ्ग|dotted=no}}
+|{{H:title|jhgha (IPA:ɟʝʱɡʱə)|झ्घ|dotted=no}}
+|{{H:title|jhṅa (IPA:ɟʝʱŋə)|झ्ङ|dotted=no}}
+|{{H:title|jhca (IPA:ɟʝʱcɕə)|झ्च|dotted=no}}
+|{{H:title|jhcha (IPA:ɟʝʱcɕʰə)|झ्छ|dotted=no}}
+|{{H:title|jhja (IPA:ɟʝʱɟʝə)|झ्ज|dotted=no}}
+|{{H:title|jhjha (IPA:ɟʝʱɟʝʱə)|झ्झ|dotted=no}}
+|{{H:title|jhña (IPA:ɟʝʱɲə)|झ्ञ|dotted=no}}
+|{{H:title|jhṭa (IPA:ɟʝʱʈə)|झ्ट|dotted=no}}
+|{{H:title|jhṭha (IPA:ɟʝʱʈʰə)|झ्ठ|dotted=no}}
+|{{H:title|jhḍa (IPA:ɟʝʱɖə)|झ्ड|dotted=no}}
+|{{H:title|jhḍha (IPA:ɟʝʱɖʱə)|झ्ढ|dotted=no}}
+|{{H:title|jhṇa (IPA:ɟʝʱɳə)|झ्ण|dotted=no}}
+|{{H:title|jhta (IPA:ɟʝʱt̪ə)|झ्त|dotted=no}}
+|{{H:title|jhtha (IPA:ɟʝʱt̪ʰə)|झ्थ|dotted=no}}
+|{{H:title|jhda (IPA:ɟʝʱd̪ə)|झ्द|dotted=no}}
+|{{H:title|jhdha (IPA:ɟʝʱd̪ʱə)|झ्ध|dotted=no}}
+|{{H:title|jhna (IPA:ɟʝʱn̪ə)|झ्न|dotted=no}}
+|{{H:title|jhpa (IPA:ɟʝʱpə)|झ्प|dotted=no}}
+|{{H:title|jhpha (IPA:ɟʝʱpʰə)|झ्फ|dotted=no}}
+|{{H:title|jhba (IPA:ɟʝʱbə)|झ्ब|dotted=no}}
+|{{H:title|jhbha (IPA:ɟʝʱbʱə)|झ्भ|dotted=no}}
+|{{H:title|jhma (IPA:ɟʝʱmə)|झ्म|dotted=no}}
+|{{H:title|jhya (IPA:ɟʝʱjə)|झ्य|dotted=no}}
+|{{H:title|jhra (IPA:ɟʝʱrə)|झ्र|dotted=no}}
+|{{H:title|jhla (IPA:ɟʝʱlə)|झ्ल|dotted=no}}
+|{{H:title|jhva (IPA:ɟʝʱvə)|झ्व|dotted=no}}
+|{{H:title|jhśa (IPA:ɟʝʱʃə)|झ्श|dotted=no}}
+|{{H:title|jhṣa (IPA:ɟʝʱʂə)|झ्ष|dotted=no}}
+|{{H:title|jhsa (IPA:ɟʝʱsə)|झ्स|dotted=no}}
+|{{H:title|jhha (IPA:ɟʝʱhə)|झ्ह|dotted=no}}
+|{{H:title|jhḷa (IPA:ɟʝʱɭə)|झ्ळ|dotted=no}}
+|{{H:title|jhkṣa (IPA:ɟʝʱkʂə)|झ्क्ष|dotted=no}}
+|{{H:title|jhjña (IPA:ɟʝʱɟʝɲə)|झ्ज्ञ|dotted=no}}
+|-
+!{{H:title|ñ (IPA:ɲ)|ञ|dotted=no}}
+
+|{{H:title|ñka (IPA:ɲkə)|ञ्क|dotted=no}}
+|{{H:title|ñkha (IPA:ɲkʰə)|ञ्ख|dotted=no}}
+|{{H:title|ñga (IPA:ɲɡə)|ञ्ग|dotted=no}}
+|{{H:title|ñgha (IPA:ɲɡʱə)|ञ्घ|dotted=no}}
+|{{H:title|ñṅa (IPA:ɲŋə)|ञ्ङ|dotted=no}}
+|{{H:title|ñca (IPA:ɲcɕə)|ञ्च|dotted=no}}
+|{{H:title|ñcha (IPA:ɲcɕʰə)|ञ्छ|dotted=no}}
+|{{H:title|ñja (IPA:ɲɟʝə)|ञ्ज|dotted=no}}
+|{{H:title|ñjha (IPA:ɲɟʝʱə)|ञ्झ|dotted=no}}
+|{{H:title|ñña (IPA:ɲɲə)|ञ्ञ|dotted=no}}
+|{{H:title|ñṭa (IPA:ɲʈə)|ञ्ट|dotted=no}}
+|{{H:title|ñṭha (IPA:ɲʈʰə)|ञ्ठ|dotted=no}}
+|{{H:title|ñḍa (IPA:ɲɖə)|ञ्ड|dotted=no}}
+|{{H:title|ñḍha (IPA:ɲɖʱə)|ञ्ढ|dotted=no}}
+|{{H:title|ñṇa (IPA:ɲɳə)|ञ्ण|dotted=no}}
+|{{H:title|ñta (IPA:ɲt̪ə)|ञ्त|dotted=no}}
+|{{H:title|ñtha (IPA:ɲt̪ʰə)|ञ्थ|dotted=no}}
+|{{H:title|ñda (IPA:ɲd̪ə)|ञ्द|dotted=no}}
+|{{H:title|ñdha (IPA:ɲd̪ʱə)|ञ्ध|dotted=no}}
+|{{H:title|ñna (IPA:ɲn̪ə)|ञ्न|dotted=no}}
+|{{H:title|ñpa (IPA:ɲpə)|ञ्प|dotted=no}}
+|{{H:title|ñpha (IPA:ɲpʰə)|ञ्फ|dotted=no}}
+|{{H:title|ñba (IPA:ɲbə)|ञ्ब|dotted=no}}
+|{{H:title|ñbha (IPA:ɲbʱə)|ञ्भ|dotted=no}}
+|{{H:title|ñma (IPA:ɲmə)|ञ्म|dotted=no}}
+|{{H:title|ñya (IPA:ɲjə)|ञ्य|dotted=no}}
+|{{H:title|ñra (IPA:ɲrə)|ञ्र|dotted=no}}
+|{{H:title|ñla (IPA:ɲlə)|ञ्ल|dotted=no}}
+|{{H:title|ñva (IPA:ɲvə)|ञ्व|dotted=no}}
+|{{H:title|ñśa (IPA:ɲʃə)|ञ्श|dotted=no}}
+|{{H:title|ñṣa (IPA:ɲʂə)|ञ्ष|dotted=no}}
+|{{H:title|ñsa (IPA:ɲsə)|ञ्स|dotted=no}}
+|{{H:title|ñha (IPA:ɲhə)|ञ्ह|dotted=no}}
+|{{H:title|ñḷa (IPA:ɲɭə)|ञ्ळ|dotted=no}}
+|{{H:title|ñkṣa (IPA:ɲkʂə)|ञ्क्ष|dotted=no}}
+|{{H:title|ñjña (IPA:ɲɟʝɲə)|ञ्ज्ञ|dotted=no}}
+|-
+!{{H:title|ṭ (IPA:ʈ)|ट|dotted=no}}
+
+|{{H:title|ṭka (IPA:ʈkə)|ट्क|dotted=no}}
+|{{H:title|ṭkha (IPA:ʈkʰə)|ट्ख|dotted=no}}
+|{{H:title|ṭga (IPA:ʈɡə)|ट्ग|dotted=no}}
+|{{H:title|ṭgha (IPA:ʈɡʱə)|ट्घ|dotted=no}}
+|{{H:title|ṭṅa (IPA:ʈŋə)|ट्ङ|dotted=no}}
+|{{H:title|ṭca (IPA:ʈcɕə)|ट्च|dotted=no}}
+|{{H:title|ṭcha (IPA:ʈcɕʰə)|ट्छ|dotted=no}}
+|{{H:title|ṭja (IPA:ʈɟʝə)|ट्ज|dotted=no}}
+|{{H:title|ṭjha (IPA:ʈɟʝʱə)|ट्झ|dotted=no}}
+|{{H:title|ṭña (IPA:ʈɲə)|ट्ञ|dotted=no}}
+|{{H:title|ṭṭa (IPA:ʈʈə)|'''ट्ट'''|dotted=no}} <!-- It appears to be irregular but doesn't have a page on Wiktionary -->
+|{{H:title|ṭṭha (IPA:ʈʈʰə)|'''ट्ठ'''|dotted=no}} <!-- It appears to be irregular but doesn't have a page on Wiktionary -->
+|{{H:title|ṭḍa (IPA:ʈɖə)|ट्ड|dotted=no}}
+|{{H:title|ṭḍha (IPA:ʈɖʱə)|ट्ढ|dotted=no}}
+|{{H:title|ṭṇa (IPA:ʈɳə)|ट्ण|dotted=no}}
+|{{H:title|ṭta (IPA:ʈt̪ə)|ट्त|dotted=no}}
+|{{H:title|ṭtha (IPA:ʈt̪ʰə)|ट्थ|dotted=no}}
+|{{H:title|ṭda (IPA:ʈd̪ə)|ट्द|dotted=no}}
+|{{H:title|ṭdha (IPA:ʈd̪ʱə)|ट्ध|dotted=no}}
+|{{H:title|ṭna (IPA:ʈn̪ə)|ट्न|dotted=no}}
+|{{H:title|ṭpa (IPA:ʈpə)|ट्प|dotted=no}}
+|{{H:title|ṭpha (IPA:ʈpʰə)|ट्फ|dotted=no}}
+|{{H:title|ṭba (IPA:ʈbə)|ट्ब|dotted=no}}
+|{{H:title|ṭbha (IPA:ʈbʱə)|ट्भ|dotted=no}}
+|{{H:title|ṭma (IPA:ʈmə)|ट्म|dotted=no}}
+|{{H:title|ṭya (IPA:ʈjə)|ट्य|dotted=no}}
+|{{H:title|ṭra (IPA:ʈrə)|ट्र|dotted=no}}
+|{{H:title|ṭla (IPA:ʈlə)|ट्ल|dotted=no}}
+|{{H:title|ṭva (IPA:ʈvə)|ट्व|dotted=no}}
+|{{H:title|ṭśa (IPA:ʈʃə)|ट्श|dotted=no}}
+|{{H:title|ṭṣa (IPA:ʈʂə)|ट्ष|dotted=no}}
+|{{H:title|ṭsa (IPA:ʈsə)|ट्स|dotted=no}}
+|{{H:title|ṭha (IPA:ʈhə)|ट्ह|dotted=no}}
+|{{H:title|ṭḷa (IPA:ʈɭə)|ट्ळ|dotted=no}}
+|{{H:title|ṭkṣa (IPA:ʈkʂə)|ट्क्ष|dotted=no}}
+|{{H:title|ṭjña (IPA:ʈɟʝɲə)|ट्ज्ञ|dotted=no}}
+|-
+!{{H:title|ṭh (IPA:ʈʰ)|ठ|dotted=no}}
+
+|{{H:title|ṭhka (IPA:ʈʰkə)|ठ्क|dotted=no}}
+|{{H:title|ṭhkha (IPA:ʈʰkʰə)|ठ्ख|dotted=no}}
+|{{H:title|ṭhga (IPA:ʈʰɡə)|ठ्ग|dotted=no}}
+|{{H:title|ṭhgha (IPA:ʈʰɡʱə)|ठ्घ|dotted=no}}
+|{{H:title|ṭhṅa (IPA:ʈʰŋə)|ठ्ङ|dotted=no}}
+|{{H:title|ṭhca (IPA:ʈʰcɕə)|ठ्च|dotted=no}}
+|{{H:title|ṭhcha (IPA:ʈʰcɕʰə)|ठ्छ|dotted=no}}
+|{{H:title|ṭhja (IPA:ʈʰɟʝə)|ठ्ज|dotted=no}}
+|{{H:title|ṭhjha (IPA:ʈʰɟʝʱə)|ठ्झ|dotted=no}}
+|{{H:title|ṭhña (IPA:ʈʰɲə)|ठ्ञ|dotted=no}}
+|{{H:title|ṭhṭa (IPA:ʈʰʈə)|ठ्ट|dotted=no}}
+|{{H:title|ṭhṭha (IPA:ʈʰʈʰə)|'''ठ्ठ'''|dotted=no}} <!-- It appears to be irregular but doesn't have a page on Wiktionary -->
+|{{H:title|ṭhḍa (IPA:ʈʰɖə)|ठ्ड|dotted=no}}
+|{{H:title|ṭhḍha (IPA:ʈʰɖʱə)|ठ्ढ|dotted=no}}
+|{{H:title|ṭhṇa (IPA:ʈʰɳə)|ठ्ण|dotted=no}}
+|{{H:title|ṭhta (IPA:ʈʰt̪ə)|ठ्त|dotted=no}}
+|{{H:title|ṭhtha (IPA:ʈʰt̪ʰə)|ठ्थ|dotted=no}}
+|{{H:title|ṭhda (IPA:ʈʰd̪ə)|ठ्द|dotted=no}}
+|{{H:title|ṭhdha (IPA:ʈʰd̪ʱə)|ठ्ध|dotted=no}}
+|{{H:title|ṭhna (IPA:ʈʰn̪ə)|ठ्न|dotted=no}}
+|{{H:title|ṭhpa (IPA:ʈʰpə)|ठ्प|dotted=no}}
+|{{H:title|ṭhpha (IPA:ʈʰpʰə)|ठ्फ|dotted=no}}
+|{{H:title|ṭhba (IPA:ʈʰbə)|ठ्ब|dotted=no}}
+|{{H:title|ṭhbha (IPA:ʈʰbʱə)|ठ्भ|dotted=no}}
+|{{H:title|ṭhma (IPA:ʈʰmə)|ठ्म|dotted=no}}
+|{{H:title|ṭhya (IPA:ʈʰjə)|ठ्य|dotted=no}}
+|{{H:title|ṭhra (IPA:ʈʰrə)|ठ्र|dotted=no}}
+|{{H:title|ṭhla (IPA:ʈʰlə)|ठ्ल|dotted=no}}
+|{{H:title|ṭhva (IPA:ʈʰvə)|ठ्व|dotted=no}}
+|{{H:title|ṭhśa (IPA:ʈʰʃə)|ठ्श|dotted=no}}
+|{{H:title|ṭhṣa (IPA:ʈʰʂə)|ठ्ष|dotted=no}}
+|{{H:title|ṭhsa (IPA:ʈʰsə)|ठ्स|dotted=no}}
+|{{H:title|ṭhha (IPA:ʈʰhə)|ठ्ह|dotted=no}}
+|{{H:title|ṭhḷa (IPA:ʈʰɭə)|ठ्ळ|dotted=no}}
+|{{H:title|ṭhkṣa (IPA:ʈʰkʂə)|ठ्क्ष|dotted=no}}
+|{{H:title|ṭhjña (IPA:ʈʰɟʝɲə)|ठ्ज्ञ|dotted=no}}
+|-
+!{{H:title|ḍ (IPA:ɖ)|ड|dotted=no}}
+
+|{{H:title|ḍka (IPA:ɖkə)|ड्क|dotted=no}}
+|{{H:title|ḍkha (IPA:ɖkʰə)|ड्ख|dotted=no}}
+|{{H:title|ḍga (IPA:ɖɡə)|ड्ग|dotted=no}}
+|{{H:title|ḍgha (IPA:ɖɡʱə)|ड्घ|dotted=no}}
+|{{H:title|ḍṅa (IPA:ɖŋə)|ड्ङ|dotted=no}}
+|{{H:title|ḍca (IPA:ɖcɕə)|ड्च|dotted=no}}
+|{{H:title|ḍcha (IPA:ɖcɕʰə)|ड्छ|dotted=no}}
+|{{H:title|ḍja (IPA:ɖɟʝə)|ड्ज|dotted=no}}
+|{{H:title|ḍjha (IPA:ɖɟʝʱə)|ड्झ|dotted=no}}
+|{{H:title|ḍña (IPA:ɖɲə)|ड्ञ|dotted=no}}
+|{{H:title|ḍṭa (IPA:ɖʈə)|ड्ट|dotted=no}}
+|{{H:title|ḍṭha (IPA:ɖʈʰə)|ड्ठ|dotted=no}}
+|{{H:title|ḍḍa (IPA:ɖɖə)|ड्ड|dotted=no}}
+|{{H:title|ḍḍha (IPA:ɖɖʱə)|ड्ढ|dotted=no}}
+|{{H:title|ḍṇa (IPA:ɖɳə)|ड्ण|dotted=no}}
+|{{H:title|ḍta (IPA:ɖt̪ə)|ड्त|dotted=no}}
+|{{H:title|ḍtha (IPA:ɖt̪ʰə)|ड्थ|dotted=no}}
+|{{H:title|ḍda (IPA:ɖd̪ə)|ड्द|dotted=no}}
+|{{H:title|ḍdha (IPA:ɖd̪ʱə)|ड्ध|dotted=no}}
+|{{H:title|ḍna (IPA:ɖn̪ə)|ड्न|dotted=no}}
+|{{H:title|ḍpa (IPA:ɖpə)|ड्प|dotted=no}}
+|{{H:title|ḍpha (IPA:ɖpʰə)|ड्फ|dotted=no}}
+|{{H:title|ḍba (IPA:ɖbə)|ड्ब|dotted=no}}
+|{{H:title|ḍbha (IPA:ɖbʱə)|ड्भ|dotted=no}}
+|{{H:title|ḍma (IPA:ɖmə)|ड्म|dotted=no}}
+|{{H:title|ḍya (IPA:ɖjə)|ड्य|dotted=no}}
+|{{H:title|ḍra (IPA:ɖrə)|ड्र|dotted=no}}
+|{{H:title|ḍla (IPA:ɖlə)|ड्ल|dotted=no}}
+|{{H:title|ḍva (IPA:ɖvə)|ड्व|dotted=no}}
+|{{H:title|ḍśa (IPA:ɖʃə)|ड्श|dotted=no}}
+|{{H:title|ḍṣa (IPA:ɖʂə)|ड्ष|dotted=no}}
+|{{H:title|ḍsa (IPA:ɖsə)|ड्स|dotted=no}}
+|{{H:title|ḍha (IPA:ɖhə)|ड्ह|dotted=no}}
+|{{H:title|ḍḷa (IPA:ɖɭə)|ड्ळ|dotted=no}}
+|{{H:title|ḍkṣa (IPA:ɖkʂə)|ड्क्ष|dotted=no}}
+|{{H:title|ḍjña (IPA:ɖɟʝɲə)|ड्ज्ञ|dotted=no}}
+|-
+!{{H:title|ḍh (IPA:ɖʱ)|ढ|dotted=no}}
+
+|{{H:title|ḍhka (IPA:ɖʱkə)|ढ्क|dotted=no}}
+|{{H:title|ḍhkha (IPA:ɖʱkʰə)|ढ्ख|dotted=no}}
+|{{H:title|ḍhga (IPA:ɖʱɡə)|ढ्ग|dotted=no}}
+|{{H:title|ḍhgha (IPA:ɖʱɡʱə)|ढ्घ|dotted=no}}
+|{{H:title|ḍhṅa (IPA:ɖʱŋə)|ढ्ङ|dotted=no}}
+|{{H:title|ḍhca (IPA:ɖʱcɕə)|ढ्च|dotted=no}}
+|{{H:title|ḍhcha (IPA:ɖʱcɕʰə)|ढ्छ|dotted=no}}
+|{{H:title|ḍhja (IPA:ɖʱɟʝə)|ढ्ज|dotted=no}}
+|{{H:title|ḍhjha (IPA:ɖʱɟʝʱə)|ढ्झ|dotted=no}}
+|{{H:title|ḍhña (IPA:ɖʱɲə)|ढ्ञ|dotted=no}}
+|{{H:title|ḍhṭa (IPA:ɖʱʈə)|ढ्ट|dotted=no}}
+|{{H:title|ḍhṭha (IPA:ɖʱʈʰə)|ढ्ठ|dotted=no}}
+|{{H:title|ḍhḍa (IPA:ɖʱɖə)|ढ्ड|dotted=no}}
+|{{H:title|ḍhḍha (IPA:ɖʱɖʱə)|ढ्ढ|dotted=no}}
+|{{H:title|ḍhṇa (IPA:ɖʱɳə)|ढ्ण|dotted=no}}
+|{{H:title|ḍhta (IPA:ɖʱt̪ə)|ढ्त|dotted=no}}
+|{{H:title|ḍhtha (IPA:ɖʱt̪ʰə)|ढ्थ|dotted=no}}
+|{{H:title|ḍhda (IPA:ɖʱd̪ə)|ढ्द|dotted=no}}
+|{{H:title|ḍhdha (IPA:ɖʱd̪ʱə)|ढ्ध|dotted=no}}
+|{{H:title|ḍhna (IPA:ɖʱn̪ə)|ढ्न|dotted=no}}
+|{{H:title|ḍhpa (IPA:ɖʱpə)|ढ्प|dotted=no}}
+|{{H:title|ḍhpha (IPA:ɖʱpʰə)|ढ्फ|dotted=no}}
+|{{H:title|ḍhba (IPA:ɖʱbə)|ढ्ब|dotted=no}}
+|{{H:title|ḍhbha (IPA:ɖʱbʱə)|ढ्भ|dotted=no}}
+|{{H:title|ḍhma (IPA:ɖʱmə)|ढ्म|dotted=no}}
+|{{H:title|ḍhya (IPA:ɖʱjə)|ढ्य|dotted=no}}
+|{{H:title|ḍhra (IPA:ɖʱrə)|ढ्र|dotted=no}}
+|{{H:title|ḍhla (IPA:ɖʱlə)|ढ्ल|dotted=no}}
+|{{H:title|ḍhva (IPA:ɖʱvə)|ढ्व|dotted=no}}
+|{{H:title|ḍhśa (IPA:ɖʱʃə)|ढ्श|dotted=no}}
+|{{H:title|ḍhṣa (IPA:ɖʱʂə)|ढ्ष|dotted=no}}
+|{{H:title|ḍhsa (IPA:ɖʱsə)|ढ्स|dotted=no}}
+|{{H:title|ḍhha (IPA:ɖʱhə)|ढ्ह|dotted=no}}
+|{{H:title|ḍhḷa (IPA:ɖʱɭə)|ढ्ळ|dotted=no}}
+|{{H:title|ḍhkṣa (IPA:ɖʱkʂə)|ढ्क्ष|dotted=no}}
+|{{H:title|ḍhjña (IPA:ɖʱɟʝɲə)|ढ्ज्ञ|dotted=no}}
+|-
+!{{H:title|ṇ (IPA:ɳ)|ण|dotted=no}}
+
+|{{H:title|ṇka (IPA:ɳkə)|ण्क|dotted=no}}
+|{{H:title|ṇkha (IPA:ɳkʰə)|ण्ख|dotted=no}}
+|{{H:title|ṇga (IPA:ɳɡə)|ण्ग|dotted=no}}
+|{{H:title|ṇgha (IPA:ɳɡʱə)|ण्घ|dotted=no}}
+|{{H:title|ṇṅa (IPA:ɳŋə)|ण्ङ|dotted=no}}
+|{{H:title|ṇca (IPA:ɳcɕə)|ण्च|dotted=no}}
+|{{H:title|ṇcha (IPA:ɳcɕʰə)|ण्छ|dotted=no}}
+|{{H:title|ṇja (IPA:ɳɟʝə)|ण्ज|dotted=no}}
+|{{H:title|ṇjha (IPA:ɳɟʝʱə)|ण्झ|dotted=no}}
+|{{H:title|ṇña (IPA:ɳɲə)|ण्ञ|dotted=no}}
+|{{H:title|ṇṭa (IPA:ɳʈə)|ण्ट|dotted=no}}
+|{{H:title|ṇṭha (IPA:ɳʈʰə)|ण्ठ|dotted=no}}
+|{{H:title|ṇḍa (IPA:ɳɖə)|ण्ड|dotted=no}}
+|{{H:title|ṇḍha (IPA:ɳɖʱə)|ण्ढ|dotted=no}}
+|{{H:title|ṇṇa (IPA:ɳɳə)|ण्ण|dotted=no}}
+|{{H:title|ṇta (IPA:ɳt̪ə)|ण्त|dotted=no}}
+|{{H:title|ṇtha (IPA:ɳt̪ʰə)|ण्थ|dotted=no}}
+|{{H:title|ṇda (IPA:ɳd̪ə)|ण्द|dotted=no}}
+|{{H:title|ṇdha (IPA:ɳd̪ʱə)|ण्ध|dotted=no}}
+|{{H:title|ṇna (IPA:ɳn̪ə)|ण्न|dotted=no}}
+|{{H:title|ṇpa (IPA:ɳpə)|ण्प|dotted=no}}
+|{{H:title|ṇpha (IPA:ɳpʰə)|ण्फ|dotted=no}}
+|{{H:title|ṇba (IPA:ɳbə)|ण्ब|dotted=no}}
+|{{H:title|ṇbha (IPA:ɳbʱə)|ण्भ|dotted=no}}
+|{{H:title|ṇma (IPA:ɳmə)|ण्म|dotted=no}}
+|{{H:title|ṇya (IPA:ɳjə)|ण्य|dotted=no}}
+|{{H:title|ṇra (IPA:ɳrə)|ण्र|dotted=no}}
+|{{H:title|ṇla (IPA:ɳlə)|ण्ल|dotted=no}}
+|{{H:title|ṇva (IPA:ɳvə)|ण्व|dotted=no}}
+|{{H:title|ṇśa (IPA:ɳʃə)|ण्श|dotted=no}}
+|{{H:title|ṇṣa (IPA:ɳʂə)|ण्ष|dotted=no}}
+|{{H:title|ṇsa (IPA:ɳsə)|ण्स|dotted=no}}
+|{{H:title|ṇha (IPA:ɳhə)|ण्ह|dotted=no}}
+|{{H:title|ṇḷa (IPA:ɳɭə)|ण्ळ|dotted=no}}
+|{{H:title|ṇkṣa (IPA:ɳkʂə)|ण्क्ष|dotted=no}}
+|{{H:title|ṇjña (IPA:ɳɟʝɲə)|ण्ज्ञ|dotted=no}}
+|-
+!{{H:title|t (IPA:t̪)|त|dotted=no}}
+
+|{{H:title|tka (IPA:t̪kə)|त्क|dotted=no}}
+|{{H:title|tkha (IPA:t̪kʰə)|त्ख|dotted=no}}
+|{{H:title|tga (IPA:t̪ɡə)|त्ग|dotted=no}}
+|{{H:title|tgha (IPA:t̪ɡʱə)|त्घ|dotted=no}}
+|{{H:title|tṅa (IPA:t̪ŋə)|त्ङ|dotted=no}}
+|{{H:title|tca (IPA:t̪cɕə)|त्च|dotted=no}}
+|{{H:title|tcha (IPA:t̪cɕʰə)|त्छ|dotted=no}}
+|{{H:title|tja (IPA:t̪ɟʝə)|त्ज|dotted=no}}
+|{{H:title|tjha (IPA:t̪ɟʝʱə)|त्झ|dotted=no}}
+|{{H:title|tña (IPA:t̪ɲə)|त्ञ|dotted=no}}
+|{{H:title|tṭa (IPA:t̪ʈə)|त्ट|dotted=no}}
+|{{H:title|tṭha (IPA:t̪ʈʰə)|त्ठ|dotted=no}}
+|{{H:title|tḍa (IPA:t̪ɖə)|त्ड|dotted=no}}
+|{{H:title|tḍha (IPA:t̪ɖʱə)|त्ढ|dotted=no}}
+|{{H:title|tṇa (IPA:t̪ɳə)|त्ण|dotted=no}}
+|[[wikt:त्त|{{H:title|tta (IPA:t̪t̪ə)|'''त्त'''|dotted=no}}]]
+|{{H:title|ttha (IPA:t̪t̪ʰə)|त्थ|dotted=no}}
+|{{H:title|tda (IPA:t̪d̪ə)|त्द|dotted=no}}
+|{{H:title|tdha (IPA:t̪d̪ʱə)|त्ध|dotted=no}}
+|{{H:title|tna (IPA:t̪n̪ə)|त्न|dotted=no}}
+|{{H:title|tpa (IPA:t̪pə)|त्प|dotted=no}}
+|{{H:title|tpha (IPA:t̪pʰə)|त्फ|dotted=no}}
+|{{H:title|tba (IPA:t̪bə)|त्ब|dotted=no}}
+|{{H:title|tbha (IPA:t̪bʱə)|त्भ|dotted=no}}
+|{{H:title|tma (IPA:t̪mə)|त्म|dotted=no}}
+|{{H:title|tya (IPA:t̪jə)|त्य|dotted=no}}
+|{{H:title|tra (IPA:t̪rə)|'''त्र'''|dotted=no}} <!-- It is an irregular ligature but doesn't have a page on Wiktionary -->
+|{{H:title|tla (IPA:t̪lə)|त्ल|dotted=no}}
+|{{H:title|tva (IPA:t̪və)|त्व|dotted=no}}
+|{{H:title|tśa (IPA:t̪ʃə)|त्श|dotted=no}}
+|{{H:title|tṣa (IPA:t̪ʂə)|त्ष|dotted=no}}
+|{{H:title|tsa (IPA:t̪sə)|त्स|dotted=no}}
+|{{H:title|tha (IPA:t̪hə)|त्ह|dotted=no}}
+|{{H:title|tḷa (IPA:t̪ɭə)|त्ळ|dotted=no}}
+|{{H:title|tkṣa (IPA:t̪kʂə)|त्क्ष|dotted=no}}
+|{{H:title|tjña (IPA:t̪ɟʝɲə)|त्ज्ञ|dotted=no}}
+|-
+!{{H:title|th (IPA:t̪ʰ)|थ|dotted=no}}
+
+|{{H:title|thka (IPA:t̪ʰkə)|थ्क|dotted=no}}
+|{{H:title|thkha (IPA:t̪ʰkʰə)|थ्ख|dotted=no}}
+|{{H:title|thga (IPA:t̪ʰɡə)|थ्ग|dotted=no}}
+|{{H:title|thgha (IPA:t̪ʰɡʱə)|थ्घ|dotted=no}}
+|{{H:title|thṅa (IPA:t̪ʰŋə)|थ्ङ|dotted=no}}
+|{{H:title|thca (IPA:t̪ʰcɕə)|थ्च|dotted=no}}
+|{{H:title|thcha (IPA:t̪ʰcɕʰə)|थ्छ|dotted=no}}
+|{{H:title|thja (IPA:t̪ʰɟʝə)|थ्ज|dotted=no}}
+|{{H:title|thjha (IPA:t̪ʰɟʝʱə)|थ्झ|dotted=no}}
+|{{H:title|thña (IPA:t̪ʰɲə)|थ्ञ|dotted=no}}
+|{{H:title|thṭa (IPA:t̪ʰʈə)|थ्ट|dotted=no}}
+|{{H:title|thṭha (IPA:t̪ʰʈʰə)|थ्ठ|dotted=no}}
+|{{H:title|thḍa (IPA:t̪ʰɖə)|थ्ड|dotted=no}}
+|{{H:title|thḍha (IPA:t̪ʰɖʱə)|थ्ढ|dotted=no}}
+|{{H:title|thṇa (IPA:t̪ʰɳə)|थ्ण|dotted=no}}
+|{{H:title|thta (IPA:t̪ʰt̪ə)|थ्त|dotted=no}}
+|{{H:title|ththa (IPA:t̪ʰt̪ʰə)|थ्थ|dotted=no}}
+|{{H:title|thda (IPA:t̪ʰd̪ə)|थ्द|dotted=no}}
+|{{H:title|thdha (IPA:t̪ʰd̪ʱə)|थ्ध|dotted=no}}
+|{{H:title|thna (IPA:t̪ʰn̪ə)|थ्न|dotted=no}}
+|{{H:title|thpa (IPA:t̪ʰpə)|थ्प|dotted=no}}
+|{{H:title|thpha (IPA:t̪ʰpʰə)|थ्फ|dotted=no}}
+|{{H:title|thba (IPA:t̪ʰbə)|थ्ब|dotted=no}}
+|{{H:title|thbha (IPA:t̪ʰbʱə)|थ्भ|dotted=no}}
+|{{H:title|thma (IPA:t̪ʰmə)|थ्म|dotted=no}}
+|{{H:title|thya (IPA:t̪ʰjə)|थ्य|dotted=no}}
+|{{H:title|thra (IPA:t̪ʰrə)|थ्र|dotted=no}}
+|{{H:title|thla (IPA:t̪ʰlə)|थ्ल|dotted=no}}
+|{{H:title|thva (IPA:t̪ʰvə)|थ्व|dotted=no}}
+|{{H:title|thśa (IPA:t̪ʰʃə)|थ्श|dotted=no}}
+|{{H:title|thṣa (IPA:t̪ʰʂə)|थ्ष|dotted=no}}
+|{{H:title|thsa (IPA:t̪ʰsə)|थ्स|dotted=no}}
+|{{H:title|thha (IPA:t̪ʰhə)|थ्ह|dotted=no}}
+|{{H:title|thḷa (IPA:t̪ʰɭə)|थ्ळ|dotted=no}}
+|{{H:title|thkṣa (IPA:t̪ʰkʂə)|थ्क्ष|dotted=no}}
+|{{H:title|thjña (IPA:t̪ʰɟʝɲə)|थ्ज्ञ|dotted=no}}
+|-
+!{{H:title|d (IPA:d̪)|द|dotted=no}}
+
+|{{H:title|dka (IPA:d̪kə)|द्क|dotted=no}}
+|{{H:title|dkha (IPA:d̪kʰə)|द्ख|dotted=no}}
+|{{H:title|dga (IPA:d̪ɡə)|द्ग|dotted=no}}
+|{{H:title|dgha (IPA:d̪ɡʱə)|द्घ|dotted=no}}
+|{{H:title|dṅa (IPA:d̪ŋə)|द्ङ|dotted=no}}
+|{{H:title|dca (IPA:d̪cɕə)|द्च|dotted=no}}
+|{{H:title|dcha (IPA:d̪cɕʰə)|द्छ|dotted=no}}
+|{{H:title|dja (IPA:d̪ɟʝə)|द्ज|dotted=no}}
+|{{H:title|djha (IPA:d̪ɟʝʱə)|द्झ|dotted=no}}
+|{{H:title|dña (IPA:d̪ɲə)|द्ञ|dotted=no}}
+|{{H:title|dṭa (IPA:d̪ʈə)|द्ट|dotted=no}}
+|{{H:title|dṭha (IPA:d̪ʈʰə)|द्ठ|dotted=no}}
+|{{H:title|dḍa (IPA:d̪ɖə)|द्ड|dotted=no}}
+|{{H:title|dḍha (IPA:d̪ɖʱə)|द्ढ|dotted=no}}
+|{{H:title|dṇa (IPA:d̪ɳə)|द्ण|dotted=no}}
+|{{H:title|dta (IPA:d̪t̪ə)|द्त|dotted=no}}
+|{{H:title|dtha (IPA:d̪t̪ʰə)|द्थ|dotted=no}}
+|[[wikt:द्द|{{H:title|dda (IPA:d̪d̪ə)|'''द्द'''|dotted=no}}]]
+|[[wikt:द्ध|{{H:title|ddha (IPA:d̪d̪ʱə)|'''द्ध'''|dotted=no}}]]
+|{{H:title|dna (IPA:d̪n̪ə)|द्न|dotted=no}}
+|{{H:title|dpa (IPA:d̪pə)|द्प|dotted=no}}
+|{{H:title|dpha (IPA:d̪pʰə)|द्फ|dotted=no}}
+|[[wikt:द्ब|{{H:title|dba (IPA:d̪bə)|'''द्ब'''|dotted=no}}]]
+|[[wikt:द्भ|{{H:title|dbha (IPA:d̪bʱə)|'''द्भ'''|dotted=no}}]]
+|[[wikt:द्म|{{H:title|dma (IPA:d̪mə)|'''द्म'''|dotted=no}}]]
+|[[wikt:द्य|{{H:title|dya (IPA:d̪jə)|'''द्य'''|dotted=no}}]]
+|{{H:title|dra (IPA:d̪rə)|द्र|dotted=no}}
+|{{H:title|dla (IPA:d̪lə)|द्ल|dotted=no}}
+|[[wikt:द्व|{{H:title|dva (IPA:d̪və)|'''द्व'''|dotted=no}}]]
+|{{H:title|dśa (IPA:d̪ʃə)|द्श|dotted=no}}
+|{{H:title|dṣa (IPA:d̪ʂə)|द्ष|dotted=no}}
+|{{H:title|dsa (IPA:d̪sə)|द्स|dotted=no}}
+|{{H:title|dha (IPA:d̪hə)|द्ह|dotted=no}}
+|{{H:title|dḷa (IPA:d̪ɭə)|द्ळ|dotted=no}}
+|{{H:title|dkṣa (IPA:d̪kʂə)|द्क्ष|dotted=no}}
+|{{H:title|djña (IPA:d̪ɟʝɲə)|द्ज्ञ|dotted=no}}
+|-
+!{{H:title|dh (IPA:d̪ʱ)|ध|dotted=no}}
+
+|{{H:title|dhka (IPA:d̪ʱkə)|ध्क|dotted=no}}
+|{{H:title|dhkha (IPA:d̪ʱkʰə)|ध्ख|dotted=no}}
+|{{H:title|dhga (IPA:d̪ʱɡə)|ध्ग|dotted=no}}
+|{{H:title|dhgha (IPA:d̪ʱɡʱə)|ध्घ|dotted=no}}
+|{{H:title|dhṅa (IPA:d̪ʱŋə)|ध्ङ|dotted=no}}
+|{{H:title|dhca (IPA:d̪ʱcɕə)|ध्च|dotted=no}}
+|{{H:title|dhcha (IPA:d̪ʱcɕʰə)|ध्छ|dotted=no}}
+|{{H:title|dhja (IPA:d̪ʱɟʝə)|ध्ज|dotted=no}}
+|{{H:title|dhjha (IPA:d̪ʱɟʝʱə)|ध्झ|dotted=no}}
+|{{H:title|dhña (IPA:d̪ʱɲə)|ध्ञ|dotted=no}}
+|{{H:title|dhṭa (IPA:d̪ʱʈə)|ध्ट|dotted=no}}
+|{{H:title|dhṭha (IPA:d̪ʱʈʰə)|ध्ठ|dotted=no}}
+|{{H:title|dhḍa (IPA:d̪ʱɖə)|ध्ड|dotted=no}}
+|{{H:title|dhḍha (IPA:d̪ʱɖʱə)|ध्ढ|dotted=no}}
+|{{H:title|dhṇa (IPA:d̪ʱɳə)|ध्ण|dotted=no}}
+|{{H:title|dhta (IPA:d̪ʱt̪ə)|ध्त|dotted=no}}
+|{{H:title|dhtha (IPA:d̪ʱt̪ʰə)|ध्थ|dotted=no}}
+|{{H:title|dhda (IPA:d̪ʱd̪ə)|ध्द|dotted=no}}
+|{{H:title|dhdha (IPA:d̪ʱd̪ʱə)|ध्ध|dotted=no}}
+|{{H:title|dhna (IPA:d̪ʱn̪ə)|ध्न|dotted=no}}
+|{{H:title|dhpa (IPA:d̪ʱpə)|ध्प|dotted=no}}
+|{{H:title|dhpha (IPA:d̪ʱpʰə)|ध्फ|dotted=no}}
+|{{H:title|dhba (IPA:d̪ʱbə)|ध्ब|dotted=no}}
+|{{H:title|dhbha (IPA:d̪ʱbʱə)|ध्भ|dotted=no}}
+|{{H:title|dhma (IPA:d̪ʱmə)|ध्म|dotted=no}}
+|{{H:title|dhya (IPA:d̪ʱjə)|ध्य|dotted=no}}
+|{{H:title|dhra (IPA:d̪ʱrə)|ध्र|dotted=no}}
+|{{H:title|dhla (IPA:d̪ʱlə)|ध्ल|dotted=no}}
+|{{H:title|dhva (IPA:d̪ʱvə)|ध्व|dotted=no}}
+|{{H:title|dhśa (IPA:d̪ʱʃə)|ध्श|dotted=no}}
+|{{H:title|dhṣa (IPA:d̪ʱʂə)|ध्ष|dotted=no}}
+|{{H:title|dhsa (IPA:d̪ʱsə)|ध्स|dotted=no}}
+|{{H:title|dhha (IPA:d̪ʱhə)|ध्ह|dotted=no}}
+|{{H:title|dhḷa (IPA:d̪ʱɭə)|ध्ळ|dotted=no}}
+|{{H:title|dhkṣa (IPA:d̪ʱkʂə)|ध्क्ष|dotted=no}}
+|{{H:title|dhjña (IPA:d̪ʱɟʝɲə)|ध्ज्ञ|dotted=no}}
+|-
+!{{H:title|n (IPA:n̪)|न|dotted=no}}
+
+|{{H:title|nka (IPA:n̪kə)|न्क|dotted=no}}
+|{{H:title|nkha (IPA:n̪kʰə)|न्ख|dotted=no}}
+|{{H:title|nga (IPA:n̪ɡə)|न्ग|dotted=no}}
+|{{H:title|ngha (IPA:n̪ɡʱə)|न्घ|dotted=no}}
+|{{H:title|nṅa (IPA:n̪ŋə)|न्ङ|dotted=no}}
+|{{H:title|nca (IPA:n̪cɕə)|न्च|dotted=no}}
+|{{H:title|ncha (IPA:n̪cɕʰə)|न्छ|dotted=no}}
+|{{H:title|nja (IPA:n̪ɟʝə)|न्ज|dotted=no}}
+|{{H:title|njha (IPA:n̪ɟʝʱə)|न्झ|dotted=no}}
+|{{H:title|nña (IPA:n̪ɲə)|न्ञ|dotted=no}}
+|{{H:title|nṭa (IPA:n̪ʈə)|न्ट|dotted=no}}
+|{{H:title|nṭha (IPA:n̪ʈʰə)|न्ठ|dotted=no}}
+|{{H:title|nḍa (IPA:n̪ɖə)|न्ड|dotted=no}}
+|{{H:title|nḍha (IPA:n̪ɖʱə)|न्ढ|dotted=no}}
+|{{H:title|nṇa (IPA:n̪ɳə)|न्ण|dotted=no}}
+|{{H:title|nta (IPA:n̪t̪ə)|न्त|dotted=no}}
+|{{H:title|ntha (IPA:n̪t̪ʰə)|न्थ|dotted=no}}
+|{{H:title|nda (IPA:n̪d̪ə)|न्द|dotted=no}}
+|{{H:title|ndha (IPA:n̪d̪ʱə)|न्ध|dotted=no}}
+|{{H:title|nna (IPA:n̪n̪ə)|न्न|dotted=no}}
+|{{H:title|npa (IPA:n̪pə)|न्प|dotted=no}}
+|{{H:title|npha (IPA:n̪pʰə)|न्फ|dotted=no}}
+|{{H:title|nba (IPA:n̪bə)|न्ब|dotted=no}}
+|{{H:title|nbha (IPA:n̪bʱə)|न्भ|dotted=no}}
+|{{H:title|nma (IPA:n̪mə)|न्म|dotted=no}}
+|{{H:title|nya (IPA:n̪jə)|न्य|dotted=no}}
+|{{H:title|nra (IPA:n̪rə)|न्र|dotted=no}}
+|{{H:title|nla (IPA:n̪lə)|न्ल|dotted=no}}
+|{{H:title|nva (IPA:n̪və)|न्व|dotted=no}}
+|{{H:title|nśa (IPA:n̪ʃə)|न्श|dotted=no}}
+|{{H:title|nṣa (IPA:n̪ʂə)|न्ष|dotted=no}}
+|{{H:title|nsa (IPA:n̪sə)|न्स|dotted=no}}
+|{{H:title|nha (IPA:n̪hə)|न्ह|dotted=no}}
+|{{H:title|nḷa (IPA:n̪ɭə)|न्ळ|dotted=no}}
+|{{H:title|nkṣa (IPA:n̪kʂə)|न्क्ष|dotted=no}}
+|{{H:title|njña (IPA:n̪ɟʝɲə)|न्ज्ञ|dotted=no}}
+|-
+!{{H:title|p (IPA:p)|प|dotted=no}}
+
+|{{H:title|pka (IPA:pkə)|प्क|dotted=no}}
+|{{H:title|pkha (IPA:pkʰə)|प्ख|dotted=no}}
+|{{H:title|pga (IPA:pɡə)|प्ग|dotted=no}}
+|{{H:title|pgha (IPA:pɡʱə)|प्घ|dotted=no}}
+|{{H:title|pṅa (IPA:pŋə)|प्ङ|dotted=no}}
+|{{H:title|pca (IPA:pcɕə)|प्च|dotted=no}}
+|{{H:title|pcha (IPA:pcɕʰə)|प्छ|dotted=no}}
+|{{H:title|pja (IPA:pɟʝə)|प्ज|dotted=no}}
+|{{H:title|pjha (IPA:pɟʝʱə)|प्झ|dotted=no}}
+|{{H:title|pña (IPA:pɲə)|प्ञ|dotted=no}}
+|{{H:title|pṭa (IPA:pʈə)|प्ट|dotted=no}}
+|{{H:title|pṭha (IPA:pʈʰə)|प्ठ|dotted=no}}
+|{{H:title|pḍa (IPA:pɖə)|प्ड|dotted=no}}
+|{{H:title|pḍha (IPA:pɖʱə)|प्ढ|dotted=no}}
+|{{H:title|pṇa (IPA:pɳə)|प्ण|dotted=no}}
+|{{H:title|pta (IPA:pt̪ə)|प्त|dotted=no}}
+|{{H:title|ptha (IPA:pt̪ʰə)|प्थ|dotted=no}}
+|{{H:title|pda (IPA:pd̪ə)|प्द|dotted=no}}
+|{{H:title|pdha (IPA:pd̪ʱə)|प्ध|dotted=no}}
+|{{H:title|pna (IPA:pn̪ə)|प्न|dotted=no}}
+|{{H:title|ppa (IPA:ppə)|प्प|dotted=no}}
+|{{H:title|ppha (IPA:ppʰə)|प्फ|dotted=no}}
+|{{H:title|pba (IPA:pbə)|प्ब|dotted=no}}
+|{{H:title|pbha (IPA:pbʱə)|प्भ|dotted=no}}
+|{{H:title|pma (IPA:pmə)|प्म|dotted=no}}
+|{{H:title|pya (IPA:pjə)|प्य|dotted=no}}
+|{{H:title|pra (IPA:prə)|प्र|dotted=no}}
+|{{H:title|pla (IPA:plə)|प्ल|dotted=no}}
+|{{H:title|pva (IPA:pvə)|प्व|dotted=no}}
+|{{H:title|pśa (IPA:pʃə)|प्श|dotted=no}}
+|{{H:title|pṣa (IPA:pʂə)|प्ष|dotted=no}}
+|{{H:title|psa (IPA:psə)|प्स|dotted=no}}
+|{{H:title|pha (IPA:phə)|प्ह|dotted=no}}
+|{{H:title|pḷa (IPA:pɭə)|प्ळ|dotted=no}}
+|{{H:title|pkṣa (IPA:pkʂə)|प्क्ष|dotted=no}}
+|{{H:title|pjña (IPA:pɟʝɲə)|प्ज्ञ|dotted=no}}
+|-
+!{{H:title|ph (IPA:pʰ)|फ|dotted=no}}
+
+|{{H:title|phka (IPA:pʰkə)|फ्क|dotted=no}}
+|{{H:title|phkha (IPA:pʰkʰə)|फ्ख|dotted=no}}
+|{{H:title|phga (IPA:pʰɡə)|फ्ग|dotted=no}}
+|{{H:title|phgha (IPA:pʰɡʱə)|फ्घ|dotted=no}}
+|{{H:title|phṅa (IPA:pʰŋə)|फ्ङ|dotted=no}}
+|{{H:title|phca (IPA:pʰcɕə)|फ्च|dotted=no}}
+|{{H:title|phcha (IPA:pʰcɕʰə)|फ्छ|dotted=no}}
+|{{H:title|phja (IPA:pʰɟʝə)|फ्ज|dotted=no}}
+|{{H:title|phjha (IPA:pʰɟʝʱə)|फ्झ|dotted=no}}
+|{{H:title|phña (IPA:pʰɲə)|फ्ञ|dotted=no}}
+|{{H:title|phṭa (IPA:pʰʈə)|फ्ट|dotted=no}}
+|{{H:title|phṭha (IPA:pʰʈʰə)|फ्ठ|dotted=no}}
+|{{H:title|phḍa (IPA:pʰɖə)|फ्ड|dotted=no}}
+|{{H:title|phḍha (IPA:pʰɖʱə)|फ्ढ|dotted=no}}
+|{{H:title|phṇa (IPA:pʰɳə)|फ्ण|dotted=no}}
+|{{H:title|phta (IPA:pʰt̪ə)|फ्त|dotted=no}}
+|{{H:title|phtha (IPA:pʰt̪ʰə)|फ्थ|dotted=no}}
+|{{H:title|phda (IPA:pʰd̪ə)|फ्द|dotted=no}}
+|{{H:title|phdha (IPA:pʰd̪ʱə)|फ्ध|dotted=no}}
+|{{H:title|phna (IPA:pʰn̪ə)|फ्न|dotted=no}}
+|{{H:title|phpa (IPA:pʰpə)|फ्प|dotted=no}}
+|{{H:title|phpha (IPA:pʰpʰə)|फ्फ|dotted=no}}
+|{{H:title|phba (IPA:pʰbə)|फ्ब|dotted=no}}
+|{{H:title|phbha (IPA:pʰbʱə)|फ्भ|dotted=no}}
+|{{H:title|phma (IPA:pʰmə)|फ्म|dotted=no}}
+|{{H:title|phya (IPA:pʰjə)|फ्य|dotted=no}}
+|{{H:title|phra (IPA:pʰrə)|फ्र|dotted=no}}
+|{{H:title|phla (IPA:pʰlə)|फ्ल|dotted=no}}
+|{{H:title|phva (IPA:pʰvə)|फ्व|dotted=no}}
+|{{H:title|phśa (IPA:pʰʃə)|फ्श|dotted=no}}
+|{{H:title|phṣa (IPA:pʰʂə)|फ्ष|dotted=no}}
+|{{H:title|phsa (IPA:pʰsə)|फ्स|dotted=no}}
+|{{H:title|phha (IPA:pʰhə)|फ्ह|dotted=no}}
+|{{H:title|phḷa (IPA:pʰɭə)|फ्ळ|dotted=no}}
+|{{H:title|phkṣa (IPA:pʰkʂə)|फ्क्ष|dotted=no}}
+|{{H:title|phjña (IPA:pʰɟʝɲə)|फ्ज्ञ|dotted=no}}
+|-
+!{{H:title|b (IPA:b)|ब|dotted=no}}
+
+|{{H:title|bka (IPA:bkə)|ब्क|dotted=no}}
+|{{H:title|bkha (IPA:bkʰə)|ब्ख|dotted=no}}
+|{{H:title|bga (IPA:bɡə)|ब्ग|dotted=no}}
+|{{H:title|bgha (IPA:bɡʱə)|ब्घ|dotted=no}}
+|{{H:title|bṅa (IPA:bŋə)|ब्ङ|dotted=no}}
+|{{H:title|bca (IPA:bcɕə)|ब्च|dotted=no}}
+|{{H:title|bcha (IPA:bcɕʰə)|ब्छ|dotted=no}}
+|{{H:title|bja (IPA:bɟʝə)|ब्ज|dotted=no}}
+|{{H:title|bjha (IPA:bɟʝʱə)|ब्झ|dotted=no}}
+|{{H:title|bña (IPA:bɲə)|ब्ञ|dotted=no}}
+|{{H:title|bṭa (IPA:bʈə)|ब्ट|dotted=no}}
+|{{H:title|bṭha (IPA:bʈʰə)|ब्ठ|dotted=no}}
+|{{H:title|bḍa (IPA:bɖə)|ब्ड|dotted=no}}
+|{{H:title|bḍha (IPA:bɖʱə)|ब्ढ|dotted=no}}
+|{{H:title|bṇa (IPA:bɳə)|ब्ण|dotted=no}}
+|{{H:title|bta (IPA:bt̪ə)|ब्त|dotted=no}}
+|{{H:title|btha (IPA:bt̪ʰə)|ब्थ|dotted=no}}
+|{{H:title|bda (IPA:bd̪ə)|ब्द|dotted=no}}
+|{{H:title|bdha (IPA:bd̪ʱə)|ब्ध|dotted=no}}
+|{{H:title|bna (IPA:bn̪ə)|ब्न|dotted=no}}
+|{{H:title|bpa (IPA:bpə)|ब्प|dotted=no}}
+|{{H:title|bpha (IPA:bpʰə)|ब्फ|dotted=no}}
+|{{H:title|bba (IPA:bbə)|ब्ब|dotted=no}}
+|{{H:title|bbha (IPA:bbʱə)|ब्भ|dotted=no}}
+|{{H:title|bma (IPA:bmə)|ब्म|dotted=no}}
+|{{H:title|bya (IPA:bjə)|ब्य|dotted=no}}
+|{{H:title|bra (IPA:brə)|ब्र|dotted=no}}
+|{{H:title|bla (IPA:blə)|ब्ल|dotted=no}}
+|{{H:title|bva (IPA:bvə)|ब्व|dotted=no}}
+|{{H:title|bśa (IPA:bʃə)|ब्श|dotted=no}}
+|{{H:title|bṣa (IPA:bʂə)|ब्ष|dotted=no}}
+|{{H:title|bsa (IPA:bsə)|ब्स|dotted=no}}
+|{{H:title|bha (IPA:bhə)|ब्ह|dotted=no}}
+|{{H:title|bḷa (IPA:bɭə)|ब्ळ|dotted=no}}
+|{{H:title|bkṣa (IPA:bkʂə)|ब्क्ष|dotted=no}}
+|{{H:title|bjña (IPA:bɟʝɲə)|ब्ज्ञ|dotted=no}}
+|-
+!{{H:title|bh (IPA:bʱ)|भ|dotted=no}}
+
+|{{H:title|bhka (IPA:bʱkə)|भ्क|dotted=no}}
+|{{H:title|bhkha (IPA:bʱkʰə)|भ्ख|dotted=no}}
+|{{H:title|bhga (IPA:bʱɡə)|भ्ग|dotted=no}}
+|{{H:title|bhgha (IPA:bʱɡʱə)|भ्घ|dotted=no}}
+|{{H:title|bhṅa (IPA:bʱŋə)|भ्ङ|dotted=no}}
+|{{H:title|bhca (IPA:bʱcɕə)|भ्च|dotted=no}}
+|{{H:title|bhcha (IPA:bʱcɕʰə)|भ्छ|dotted=no}}
+|{{H:title|bhja (IPA:bʱɟʝə)|भ्ज|dotted=no}}
+|{{H:title|bhjha (IPA:bʱɟʝʱə)|भ्झ|dotted=no}}
+|{{H:title|bhña (IPA:bʱɲə)|भ्ञ|dotted=no}}
+|{{H:title|bhṭa (IPA:bʱʈə)|भ्ट|dotted=no}}
+|{{H:title|bhṭha (IPA:bʱʈʰə)|भ्ठ|dotted=no}}
+|{{H:title|bhḍa (IPA:bʱɖə)|भ्ड|dotted=no}}
+|{{H:title|bhḍha (IPA:bʱɖʱə)|भ्ढ|dotted=no}}
+|{{H:title|bhṇa (IPA:bʱɳə)|भ्ण|dotted=no}}
+|{{H:title|bhta (IPA:bʱt̪ə)|भ्त|dotted=no}}
+|{{H:title|bhtha (IPA:bʱt̪ʰə)|भ्थ|dotted=no}}
+|{{H:title|bhda (IPA:bʱd̪ə)|भ्द|dotted=no}}
+|{{H:title|bhdha (IPA:bʱd̪ʱə)|भ्ध|dotted=no}}
+|{{H:title|bhna (IPA:bʱn̪ə)|भ्न|dotted=no}}
+|{{H:title|bhpa (IPA:bʱpə)|भ्प|dotted=no}}
+|{{H:title|bhpha (IPA:bʱpʰə)|भ्फ|dotted=no}}
+|{{H:title|bhba (IPA:bʱbə)|भ्ब|dotted=no}}
+|{{H:title|bhbha (IPA:bʱbʱə)|भ्भ|dotted=no}}
+|{{H:title|bhma (IPA:bʱmə)|भ्म|dotted=no}}
+|{{H:title|bhya (IPA:bʱjə)|भ्य|dotted=no}}
+|{{H:title|bhra (IPA:bʱrə)|भ्र|dotted=no}}
+|{{H:title|bhla (IPA:bʱlə)|भ्ल|dotted=no}}
+|{{H:title|bhva (IPA:bʱvə)|भ्व|dotted=no}}
+|{{H:title|bhśa (IPA:bʱʃə)|भ्श|dotted=no}}
+|{{H:title|bhṣa (IPA:bʱʂə)|भ्ष|dotted=no}}
+|{{H:title|bhsa (IPA:bʱsə)|भ्स|dotted=no}}
+|{{H:title|bhha (IPA:bʱhə)|भ्ह|dotted=no}}
+|{{H:title|bhḷa (IPA:bʱɭə)|भ्ळ|dotted=no}}
+|{{H:title|bhkṣa (IPA:bʱkʂə)|भ्क्ष|dotted=no}}
+|{{H:title|bhjña (IPA:bʱɟʝɲə)|भ्ज्ञ|dotted=no}}
+|-
+!{{H:title|m (IPA:m)|म|dotted=no}}
+
+|{{H:title|mka (IPA:mkə)|म्क|dotted=no}}
+|{{H:title|mkha (IPA:mkʰə)|म्ख|dotted=no}}
+|{{H:title|mga (IPA:mɡə)|म्ग|dotted=no}}
+|{{H:title|mgha (IPA:mɡʱə)|म्घ|dotted=no}}
+|{{H:title|mṅa (IPA:mŋə)|म्ङ|dotted=no}}
+|{{H:title|mca (IPA:mcɕə)|म्च|dotted=no}}
+|{{H:title|mcha (IPA:mcɕʰə)|म्छ|dotted=no}}
+|{{H:title|mja (IPA:mɟʝə)|म्ज|dotted=no}}
+|{{H:title|mjha (IPA:mɟʝʱə)|म्झ|dotted=no}}
+|{{H:title|mña (IPA:mɲə)|म्ञ|dotted=no}}
+|{{H:title|mṭa (IPA:mʈə)|म्ट|dotted=no}}
+|{{H:title|mṭha (IPA:mʈʰə)|म्ठ|dotted=no}}
+|{{H:title|mḍa (IPA:mɖə)|म्ड|dotted=no}}
+|{{H:title|mḍha (IPA:mɖʱə)|म्ढ|dotted=no}}
+|{{H:title|mṇa (IPA:mɳə)|म्ण|dotted=no}}
+|{{H:title|mta (IPA:mt̪ə)|म्त|dotted=no}}
+|{{H:title|mtha (IPA:mt̪ʰə)|म्थ|dotted=no}}
+|{{H:title|mda (IPA:md̪ə)|म्द|dotted=no}}
+|{{H:title|mdha (IPA:md̪ʱə)|म्ध|dotted=no}}
+|{{H:title|mna (IPA:mn̪ə)|म्न|dotted=no}}
+|{{H:title|mpa (IPA:mpə)|म्प|dotted=no}}
+|{{H:title|mpha (IPA:mpʰə)|म्फ|dotted=no}}
+|{{H:title|mba (IPA:mbə)|म्ब|dotted=no}}
+|{{H:title|mbha (IPA:mbʱə)|म्भ|dotted=no}}
+|{{H:title|mma (IPA:mmə)|म्म|dotted=no}}
+|{{H:title|mya (IPA:mjə)|म्य|dotted=no}}
+|{{H:title|mra (IPA:mrə)|म्र|dotted=no}}
+|{{H:title|mla (IPA:mlə)|म्ल|dotted=no}}
+|{{H:title|mva (IPA:mvə)|म्व|dotted=no}}
+|{{H:title|mśa (IPA:mʃə)|म्श|dotted=no}}
+|{{H:title|mṣa (IPA:mʂə)|म्ष|dotted=no}}
+|{{H:title|msa (IPA:msə)|म्स|dotted=no}}
+|{{H:title|mha (IPA:mhə)|म्ह|dotted=no}}
+|{{H:title|mḷa (IPA:mɭə)|म्ळ|dotted=no}}
+|{{H:title|mkṣa (IPA:mkʂə)|म्क्ष|dotted=no}}
+|{{H:title|mjña (IPA:mɟʝɲə)|म्ज्ञ|dotted=no}}
+|-
+!{{H:title|y (IPA:j)|य|dotted=no}}
+
+|{{H:title|yka (IPA:jkə)|य्क|dotted=no}}
+|{{H:title|ykha (IPA:jkʰə)|य्ख|dotted=no}}
+|{{H:title|yga (IPA:jɡə)|य्ग|dotted=no}}
+|{{H:title|ygha (IPA:jɡʱə)|य्घ|dotted=no}}
+|{{H:title|yṅa (IPA:jŋə)|य्ङ|dotted=no}}
+|{{H:title|yca (IPA:jcɕə)|य्च|dotted=no}}
+|{{H:title|ycha (IPA:jcɕʰə)|य्छ|dotted=no}}
+|{{H:title|yja (IPA:jɟʝə)|य्ज|dotted=no}}
+|{{H:title|yjha (IPA:jɟʝʱə)|य्झ|dotted=no}}
+|{{H:title|yña (IPA:jɲə)|य्ञ|dotted=no}}
+|{{H:title|yṭa (IPA:jʈə)|य्ट|dotted=no}}
+|{{H:title|yṭha (IPA:jʈʰə)|य्ठ|dotted=no}}
+|{{H:title|yḍa (IPA:jɖə)|य्ड|dotted=no}}
+|{{H:title|yḍha (IPA:jɖʱə)|य्ढ|dotted=no}}
+|{{H:title|yṇa (IPA:jɳə)|य्ण|dotted=no}}
+|{{H:title|yta (IPA:jt̪ə)|य्त|dotted=no}}
+|{{H:title|ytha (IPA:jt̪ʰə)|य्थ|dotted=no}}
+|{{H:title|yda (IPA:jd̪ə)|य्द|dotted=no}}
+|{{H:title|ydha (IPA:jd̪ʱə)|य्ध|dotted=no}}
+|{{H:title|yna (IPA:jn̪ə)|य्न|dotted=no}}
+|{{H:title|ypa (IPA:jpə)|य्प|dotted=no}}
+|{{H:title|ypha (IPA:jpʰə)|य्फ|dotted=no}}
+|{{H:title|yba (IPA:jbə)|य्ब|dotted=no}}
+|{{H:title|ybha (IPA:jbʱə)|य्भ|dotted=no}}
+|{{H:title|yma (IPA:jmə)|य्म|dotted=no}}
+|{{H:title|yya (IPA:jjə)|य्य|dotted=no}}
+|{{H:title|yra (IPA:jrə)|य्र|dotted=no}}
+|{{H:title|yla (IPA:jlə)|य्ल|dotted=no}}
+|{{H:title|yva (IPA:jvə)|य्व|dotted=no}}
+|{{H:title|yśa (IPA:jʃə)|य्श|dotted=no}}
+|{{H:title|yṣa (IPA:jʂə)|य्ष|dotted=no}}
+|{{H:title|ysa (IPA:jsə)|य्स|dotted=no}}
+|{{H:title|yha (IPA:jhə)|य्ह|dotted=no}}
+|{{H:title|yḷa (IPA:jɭə)|य्ळ|dotted=no}}
+|{{H:title|ykṣa (IPA:jkʂə)|य्क्ष|dotted=no}}
+|{{H:title|yjña (IPA:jɟʝɲə)|य्ज्ञ|dotted=no}}
+|-
+!{{H:title|r (IPA:r)|र|dotted=no}}
+
+|{{H:title|rka (IPA:rkə)|र्क|dotted=no}}
+|{{H:title|rkha (IPA:rkʰə)|र्ख|dotted=no}}
+|{{H:title|rga (IPA:rɡə)|र्ग|dotted=no}}
+|{{H:title|rgha (IPA:rɡʱə)|र्घ|dotted=no}}
+|{{H:title|rṅa (IPA:rŋə)|र्ङ|dotted=no}}
+|{{H:title|rca (IPA:rcɕə)|र्च|dotted=no}}
+|{{H:title|rcha (IPA:rcɕʰə)|र्छ|dotted=no}}
+|{{H:title|rja (IPA:rɟʝə)|र्ज|dotted=no}}
+|{{H:title|rjha (IPA:rɟʝʱə)|र्झ|dotted=no}}
+|{{H:title|rña (IPA:rɲə)|र्ञ|dotted=no}}
+|{{H:title|rṭa (IPA:rʈə)|र्ट|dotted=no}}
+|{{H:title|rṭha (IPA:rʈʰə)|र्ठ|dotted=no}}
+|{{H:title|rḍa (IPA:rɖə)|र्ड|dotted=no}}
+|{{H:title|rḍha (IPA:rɖʱə)|र्ढ|dotted=no}}
+|{{H:title|rṇa (IPA:rɳə)|र्ण|dotted=no}}
+|{{H:title|rta (IPA:rt̪ə)|र्त|dotted=no}}
+|{{H:title|rtha (IPA:rt̪ʰə)|र्थ|dotted=no}}
+|{{H:title|rda (IPA:rd̪ə)|र्द|dotted=no}}
+|{{H:title|rdha (IPA:rd̪ʱə)|र्ध|dotted=no}}
+|{{H:title|rna (IPA:rn̪ə)|र्न|dotted=no}}
+|{{H:title|rpa (IPA:rpə)|र्प|dotted=no}}
+|{{H:title|rpha (IPA:rpʰə)|र्फ|dotted=no}}
+|{{H:title|rba (IPA:rbə)|र्ब|dotted=no}}
+|{{H:title|rbha (IPA:rbʱə)|र्भ|dotted=no}}
+|{{H:title|rma (IPA:rmə)|र्म|dotted=no}}
+|{{H:title|rya (IPA:rjə)|र्य|dotted=no}}
+|{{H:title|rra (IPA:rrə)|र्र|dotted=no}}
+|{{H:title|rla (IPA:rlə)|र्ल|dotted=no}}
+|{{H:title|rva (IPA:rvə)|र्व|dotted=no}}
+|{{H:title|rśa (IPA:rʃə)|र्श|dotted=no}}
+|{{H:title|rṣa (IPA:rʂə)|र्ष|dotted=no}}
+|{{H:title|rsa (IPA:rsə)|र्स|dotted=no}}
+|{{H:title|rha (IPA:rhə)|र्ह|dotted=no}}
+|{{H:title|rḷa (IPA:rɭə)|र्ळ|dotted=no}}
+|{{H:title|rkṣa (IPA:rkʂə)|र्क्ष|dotted=no}}
+|{{H:title|rjña (IPA:rɟʝɲə)|र्ज्ञ|dotted=no}}
+|-
+!{{H:title|l (IPA:l)|ल|dotted=no}}
+
+|{{H:title|lka (IPA:lkə)|ल्क|dotted=no}}
+|{{H:title|lkha (IPA:lkʰə)|ल्ख|dotted=no}}
+|{{H:title|lga (IPA:lɡə)|ल्ग|dotted=no}}
+|{{H:title|lgha (IPA:lɡʱə)|ल्घ|dotted=no}}
+|{{H:title|lṅa (IPA:lŋə)|ल्ङ|dotted=no}}
+|{{H:title|lca (IPA:lcɕə)|ल्च|dotted=no}}
+|{{H:title|lcha (IPA:lcɕʰə)|ल्छ|dotted=no}}
+|{{H:title|lja (IPA:lɟʝə)|ल्ज|dotted=no}}
+|{{H:title|ljha (IPA:lɟʝʱə)|ल्झ|dotted=no}}
+|{{H:title|lña (IPA:lɲə)|ल्ञ|dotted=no}}
+|{{H:title|lṭa (IPA:lʈə)|ल्ट|dotted=no}}
+|{{H:title|lṭha (IPA:lʈʰə)|ल्ठ|dotted=no}}
+|{{H:title|lḍa (IPA:lɖə)|ल्ड|dotted=no}}
+|{{H:title|lḍha (IPA:lɖʱə)|ल्ढ|dotted=no}}
+|{{H:title|lṇa (IPA:lɳə)|ल्ण|dotted=no}}
+|{{H:title|lta (IPA:lt̪ə)|ल्त|dotted=no}}
+|{{H:title|ltha (IPA:lt̪ʰə)|ल्थ|dotted=no}}
+|{{H:title|lda (IPA:ld̪ə)|ल्द|dotted=no}}
+|{{H:title|ldha (IPA:ld̪ʱə)|ल्ध|dotted=no}}
+|{{H:title|lna (IPA:ln̪ə)|ल्न|dotted=no}}
+|{{H:title|lpa (IPA:lpə)|ल्प|dotted=no}}
+|{{H:title|lpha (IPA:lpʰə)|ल्फ|dotted=no}}
+|{{H:title|lba (IPA:lbə)|ल्ब|dotted=no}}
+|{{H:title|lbha (IPA:lbʱə)|ल्भ|dotted=no}}
+|{{H:title|lma (IPA:lmə)|ल्म|dotted=no}}
+|{{H:title|lya (IPA:ljə)|ल्य|dotted=no}}
+|{{H:title|lra (IPA:lrə)|ल्र|dotted=no}}
+|{{H:title|lla (IPA:llə)|ल्ल|dotted=no}}
+|{{H:title|lva (IPA:lvə)|ल्व|dotted=no}}
+|{{H:title|lśa (IPA:lʃə)|ल्श|dotted=no}}
+|{{H:title|lṣa (IPA:lʂə)|ल्ष|dotted=no}}
+|{{H:title|lsa (IPA:lsə)|ल्स|dotted=no}}
+|{{H:title|lha (IPA:lhə)|ल्ह|dotted=no}}
+|{{H:title|lḷa (IPA:lɭə)|ल्ळ|dotted=no}}
+|{{H:title|lkṣa (IPA:lkʂə)|ल्क्ष|dotted=no}}
+|{{H:title|ljña (IPA:lɟʝɲə)|ल्ज्ञ|dotted=no}}
+|-
+!{{H:title|v (IPA:v)|व|dotted=no}}
+
+|{{H:title|vka (IPA:vkə)|व्क|dotted=no}}
+|{{H:title|vkha (IPA:vkʰə)|व्ख|dotted=no}}
+|{{H:title|vga (IPA:vɡə)|व्ग|dotted=no}}
+|{{H:title|vgha (IPA:vɡʱə)|व्घ|dotted=no}}
+|{{H:title|vṅa (IPA:vŋə)|व्ङ|dotted=no}}
+|{{H:title|vca (IPA:vcɕə)|व्च|dotted=no}}
+|{{H:title|vcha (IPA:vcɕʰə)|व्छ|dotted=no}}
+|{{H:title|vja (IPA:vɟʝə)|व्ज|dotted=no}}
+|{{H:title|vjha (IPA:vɟʝʱə)|व्झ|dotted=no}}
+|{{H:title|vña (IPA:vɲə)|व्ञ|dotted=no}}
+|{{H:title|vṭa (IPA:vʈə)|व्ट|dotted=no}}
+|{{H:title|vṭha (IPA:vʈʰə)|व्ठ|dotted=no}}
+|{{H:title|vḍa (IPA:vɖə)|व्ड|dotted=no}}
+|{{H:title|vḍha (IPA:vɖʱə)|व्ढ|dotted=no}}
+|{{H:title|vṇa (IPA:vɳə)|व्ण|dotted=no}}
+|{{H:title|vta (IPA:vt̪ə)|व्त|dotted=no}}
+|{{H:title|vtha (IPA:vt̪ʰə)|व्थ|dotted=no}}
+|{{H:title|vda (IPA:vd̪ə)|व्द|dotted=no}}
+|{{H:title|vdha (IPA:vd̪ʱə)|व्ध|dotted=no}}
+|{{H:title|vna (IPA:vn̪ə)|व्न|dotted=no}}
+|{{H:title|vpa (IPA:vpə)|व्प|dotted=no}}
+|{{H:title|vpha (IPA:vpʰə)|व्फ|dotted=no}}
+|{{H:title|vba (IPA:vbə)|व्ब|dotted=no}}
+|{{H:title|vbha (IPA:vbʱə)|व्भ|dotted=no}}
+|{{H:title|vma (IPA:vmə)|व्म|dotted=no}}
+|{{H:title|vya (IPA:vjə)|व्य|dotted=no}}
+|{{H:title|vra (IPA:vrə)|व्र|dotted=no}}
+|{{H:title|vla (IPA:vlə)|व्ल|dotted=no}}
+|{{H:title|vva (IPA:vvə)|व्व|dotted=no}}
+|{{H:title|vśa (IPA:vʃə)|व्श|dotted=no}}
+|{{H:title|vṣa (IPA:vʂə)|व्ष|dotted=no}}
+|{{H:title|vsa (IPA:vsə)|व्स|dotted=no}}
+|{{H:title|vha (IPA:vhə)|व्ह|dotted=no}}
+|{{H:title|vḷa (IPA:vɭə)|व्ळ|dotted=no}}
+|{{H:title|vkṣa (IPA:vkʂə)|व्क्ष|dotted=no}}
+|{{H:title|vjña (IPA:vɟʝɲə)|व्ज्ञ|dotted=no}}
+|-
+!{{H:title|ś (IPA:ʃ)|श|dotted=no}}
+
+|{{H:title|śka (IPA:ʃkə)|श्क|dotted=no}}
+|{{H:title|śkha (IPA:ʃkʰə)|श्ख|dotted=no}}
+|{{H:title|śga (IPA:ʃɡə)|श्ग|dotted=no}}
+|{{H:title|śgha (IPA:ʃɡʱə)|श्घ|dotted=no}}
+|{{H:title|śṅa (IPA:ʃŋə)|श्ङ|dotted=no}}
+|{{H:title|śca (IPA:ʃcɕə)|श्च|dotted=no}}
+|{{H:title|ścha (IPA:ʃcɕʰə)|श्छ|dotted=no}}
+|{{H:title|śja (IPA:ʃɟʝə)|श्ज|dotted=no}}
+|{{H:title|śjha (IPA:ʃɟʝʱə)|श्झ|dotted=no}}
+|{{H:title|śña (IPA:ʃɲə)|श्ञ|dotted=no}}
+|{{H:title|śṭa (IPA:ʃʈə)|श्ट|dotted=no}}
+|{{H:title|śṭha (IPA:ʃʈʰə)|श्ठ|dotted=no}}
+|{{H:title|śḍa (IPA:ʃɖə)|श्ड|dotted=no}}
+|{{H:title|śḍha (IPA:ʃɖʱə)|श्ढ|dotted=no}}
+|{{H:title|śṇa (IPA:ʃɳə)|श्ण|dotted=no}}
+|{{H:title|śta (IPA:ʃt̪ə)|श्त|dotted=no}}
+|{{H:title|śtha (IPA:ʃt̪ʰə)|श्थ|dotted=no}}
+|{{H:title|śda (IPA:ʃd̪ə)|श्द|dotted=no}}
+|{{H:title|śdha (IPA:ʃd̪ʱə)|श्ध|dotted=no}}
+|{{H:title|śna (IPA:ʃn̪ə)|श्न|dotted=no}}
+|{{H:title|śpa (IPA:ʃpə)|श्प|dotted=no}}
+|{{H:title|śpha (IPA:ʃpʰə)|श्फ|dotted=no}}
+|{{H:title|śba (IPA:ʃbə)|श्ब|dotted=no}}
+|{{H:title|śbha (IPA:ʃbʱə)|श्भ|dotted=no}}
+|{{H:title|śma (IPA:ʃmə)|श्म|dotted=no}}
+|{{H:title|śya (IPA:ʃjə)|श्य|dotted=no}}
+|[[wikt:श्र|{{H:title|śra (IPA:ʃrə)|'''श्र'''|dotted=no}}]]
+|{{H:title|śla (IPA:ʃlə)|श्ल|dotted=no}}
+|{{H:title|śva (IPA:ʃvə)|श्व|dotted=no}}
+|{{H:title|śśa (IPA:ʃʃə)|श्श|dotted=no}}
+|{{H:title|śṣa (IPA:ʃʃə)|श्ष|dotted=no}}
+|{{H:title|śsa (IPA:ʃsə)|श्स|dotted=no}}
+|{{H:title|śha (IPA:ʃhə)|श्ह|dotted=no}}
+|{{H:title|śḷa (IPA:ʃɭə)|श्ळ|dotted=no}}
+|{{H:title|śkṣa (IPA:ʃkʃə)|श्क्ष|dotted=no}}
+|{{H:title|śjña (IPA:ʃɟʝɲə)|श्ज्ञ|dotted=no}}
+|-
+!{{H:title|ṣ (IPA:ʂ)|ष|dotted=no}}
+
+|{{H:title|ṣka (IPA:ʃkə)|ष्क|dotted=no}}
+|{{H:title|ṣkha (IPA:ʃkʰə)|ष्ख|dotted=no}}
+|{{H:title|ṣga (IPA:ʃɡə)|ष्ग|dotted=no}}
+|{{H:title|ṣgha (IPA:ʃɡʱə)|ष्घ|dotted=no}}
+|{{H:title|ṣṅa (IPA:ʃŋə)|ष्ङ|dotted=no}}
+|{{H:title|ṣca (IPA:ʃcɕə)|ष्च|dotted=no}}
+|{{H:title|ṣcha (IPA:ʃcɕʰə)|ष्छ|dotted=no}}
+|{{H:title|ṣja (IPA:ʃɟʝə)|ष्ज|dotted=no}}
+|{{H:title|ṣjha (IPA:ʃɟʝʱə)|ष्झ|dotted=no}}
+|{{H:title|ṣña (IPA:ʃɲə)|ष्ञ|dotted=no}}
+|{{H:title|ṣṭa (IPA:ʃʈə)|ष्ट|dotted=no}}
+|{{H:title|ṣṭha (IPA:ʃʈʰə)|ष्ठ|dotted=no}}
+|{{H:title|ṣḍa (IPA:ʃɖə)|ष्ड|dotted=no}}
+|{{H:title|ṣḍha (IPA:ʃɖʱə)|ष्ढ|dotted=no}}
+|{{H:title|ṣṇa (IPA:ʃɳə)|ष्ण|dotted=no}}
+|{{H:title|ṣta (IPA:ʃt̪ə)|ष्त|dotted=no}}
+|{{H:title|ṣtha (IPA:ʃt̪ʰə)|ष्थ|dotted=no}}
+|{{H:title|ṣda (IPA:ʃd̪ə)|ष्द|dotted=no}}
+|{{H:title|ṣdha (IPA:ʃd̪ʱə)|ष्ध|dotted=no}}
+|{{H:title|ṣna (IPA:ʃn̪ə)|ष्न|dotted=no}}
+|{{H:title|ṣpa (IPA:ʃpə)|ष्प|dotted=no}}
+|{{H:title|ṣpha (IPA:ʃpʰə)|ष्फ|dotted=no}}
+|{{H:title|ṣba (IPA:ʃbə)|ष्ब|dotted=no}}
+|{{H:title|ṣbha (IPA:ʃbʱə)|ष्भ|dotted=no}}
+|{{H:title|ṣma (IPA:ʃmə)|ष्म|dotted=no}}
+|{{H:title|ṣya (IPA:ʃjə)|ष्य|dotted=no}}
+|{{H:title|ṣra (IPA:ʃrə)|ष्र|dotted=no}}
+|{{H:title|ṣla (IPA:ʃlə)|ष्ल|dotted=no}}
+|{{H:title|ṣva (IPA:ʃvə)|ष्व|dotted=no}}
+|{{H:title|ṣśa (IPA:ʃʃə)|ष्श|dotted=no}}
+|{{H:title|\1ṣa (IPA:ʃʃə)|ष्ष|dotted=no}}
+|{{H:title|ṣsa (IPA:ʃsə)|ष्स|dotted=no}}
+|{{H:title|ṣha (IPA:ʃhə)|ष्ह|dotted=no}}
+|{{H:title|ṣḷa (IPA:ʃɭə)|ष्ळ|dotted=no}}
+|{{H:title|ṣkṣa (IPA:ʃkʃə)|ष्क्ष|dotted=no}}
+|{{H:title|ṣjña (IPA:ʃɟʝɲə)|ष्ज्ञ|dotted=no}}
+|-
+!{{H:title|s (IPA:s)|स|dotted=no}}
+
+|{{H:title|ska (IPA:skə)|स्क|dotted=no}}
+|{{H:title|skha (IPA:skʰə)|स्ख|dotted=no}}
+|{{H:title|sga (IPA:sɡə)|स्ग|dotted=no}}
+|{{H:title|sgha (IPA:sɡʱə)|स्घ|dotted=no}}
+|{{H:title|sṅa (IPA:sŋə)|स्ङ|dotted=no}}
+|{{H:title|sca (IPA:scɕə)|स्च|dotted=no}}
+|{{H:title|scha (IPA:scɕʰə)|स्छ|dotted=no}}
+|{{H:title|sja (IPA:sɟʝə)|स्ज|dotted=no}}
+|{{H:title|sjha (IPA:sɟʝʱə)|स्झ|dotted=no}}
+|{{H:title|sña (IPA:sɲə)|स्ञ|dotted=no}}
+|{{H:title|sṭa (IPA:sʈə)|स्ट|dotted=no}}
+|{{H:title|sṭha (IPA:sʈʰə)|स्ठ|dotted=no}}
+|{{H:title|sḍa (IPA:sɖə)|स्ड|dotted=no}}
+|{{H:title|sḍha (IPA:sɖʱə)|स्ढ|dotted=no}}
+|{{H:title|sṇa (IPA:sɳə)|स्ण|dotted=no}}
+|{{H:title|sta (IPA:st̪ə)|स्त|dotted=no}}
+|{{H:title|stha (IPA:st̪ʰə)|स्थ|dotted=no}}
+|{{H:title|sda (IPA:sd̪ə)|स्द|dotted=no}}
+|{{H:title|sdha (IPA:sd̪ʱə)|स्ध|dotted=no}}
+|{{H:title|sna (IPA:sn̪ə)|स्न|dotted=no}}
+|{{H:title|spa (IPA:spə)|स्प|dotted=no}}
+|{{H:title|spha (IPA:spʰə)|स्फ|dotted=no}}
+|{{H:title|sba (IPA:sbə)|स्ब|dotted=no}}
+|{{H:title|sbha (IPA:sbʱə)|स्भ|dotted=no}}
+|{{H:title|sma (IPA:smə)|स्म|dotted=no}}
+|{{H:title|sya (IPA:sjə)|स्य|dotted=no}}
+|{{H:title|sra (IPA:srə)|स्र|dotted=no}}
+|{{H:title|sla (IPA:slə)|स्ल|dotted=no}}
+|{{H:title|sva (IPA:svə)|स्व|dotted=no}}
+|{{H:title|sśa (IPA:sʃə)|स्श|dotted=no}}
+|{{H:title|sṣa (IPA:sʂə)|स्ष|dotted=no}}
+|{{H:title|ssa (IPA:ssə)|स्स|dotted=no}}
+|{{H:title|sha (IPA:shə)|स्ह|dotted=no}}
+|{{H:title|sḷa (IPA:sɭə)|स्ळ|dotted=no}}
+|{{H:title|skṣa (IPA:skʂə)|स्क्ष|dotted=no}}
+|{{H:title|sjña (IPA:sɟʝɲə)|स्ज्ञ|dotted=no}}
+|-
+!{{H:title|h (IPA:h)|ह|dotted=no}}
+
+|{{H:title|hka (IPA:hkə)|ह्क|dotted=no}}
+|{{H:title|hkha (IPA:hkʰə)|ह्ख|dotted=no}}
+|{{H:title|hga (IPA:hɡə)|ह्ग|dotted=no}}
+|{{H:title|hgha (IPA:hɡʱə)|ह्घ|dotted=no}}
+|{{H:title|hṅa (IPA:hŋə)|ह्ङ|dotted=no}}
+|{{H:title|hca (IPA:hcɕə)|ह्च|dotted=no}}
+|{{H:title|hcha (IPA:hcɕʰə)|ह्छ|dotted=no}}
+|{{H:title|hja (IPA:hɟʝə)|ह्ज|dotted=no}}
+|{{H:title|hjha (IPA:hɟʝʱə)|ह्झ|dotted=no}}
+|{{H:title|hña (IPA:hɲə)|ह्ञ|dotted=no}}
+|{{H:title|hṭa (IPA:hʈə)|ह्ट|dotted=no}}
+|{{H:title|hṭha (IPA:hʈʰə)|ह्ठ|dotted=no}}
+|{{H:title|hḍa (IPA:hɖə)|ह्ड|dotted=no}}
+|{{H:title|hḍha (IPA:hɖʱə)|ह्ढ|dotted=no}}
+|{{H:title|hṇa (IPA:hɳə)|ह्ण|dotted=no}}
+|{{H:title|hta (IPA:ht̪ə)|ह्त|dotted=no}}
+|{{H:title|htha (IPA:ht̪ʰə)|ह्थ|dotted=no}}
+|{{H:title|hda (IPA:hd̪ə)|ह्द|dotted=no}}
+|{{H:title|hdha (IPA:hd̪ʱə)|ह्ध|dotted=no}}
+|{{H:title|hna (IPA:hn̪ə)|ह्न|dotted=no}}
+|{{H:title|hpa (IPA:hpə)|ह्प|dotted=no}}
+|{{H:title|hpha (IPA:hpʰə)|ह्फ|dotted=no}}
+|{{H:title|hba (IPA:hbə)|ह्ब|dotted=no}}
+|{{H:title|hbha (IPA:hbʱə)|ह्भ|dotted=no}}
+|[[wikt:ह्म|{{H:title|hma (IPA:hmə)|'''ह्म'''|dotted=no}}]]
+|[[wikt:ह्य|{{H:title|hya (IPA:hjə)|'''ह्य'''|dotted=no}}]]
+|{{H:title|hra (IPA:hrə)|ह्र|dotted=no}}
+|{{H:title|hla (IPA:hlə)|ह्ल|dotted=no}}
+|{{H:title|hva (IPA:hvə)|ह्व|dotted=no}}
+|{{H:title|hśa (IPA:hʃə)|ह्श|dotted=no}}
+|{{H:title|hṣa (IPA:hʂə)|ह्ष|dotted=no}}
+|{{H:title|hsa (IPA:hsə)|ह्स|dotted=no}}
+|{{H:title|hha (IPA:hhə)|ह्ह|dotted=no}}
+|{{H:title|hḷa (IPA:hɭə)|ह्ळ|dotted=no}}
+|{{H:title|hkṣa (IPA:hkʂə)|ह्क्ष|dotted=no}}
+|{{H:title|hjña (IPA:hɟʝɲə)|ह्ज्ञ|dotted=no}}
+|-
+!{{H:title|ḷ (IPA:ɭ)|ळ|dotted=no}}
+
+|{{H:title|ḷka (IPA:ɭkə)|ळ्क|dotted=no}}
+|{{H:title|ḷkha (IPA:ɭkʰə)|ळ्ख|dotted=no}}
+|{{H:title|ḷga (IPA:ɭɡə)|ळ्ग|dotted=no}}
+|{{H:title|ḷgha (IPA:ɭɡʱə)|ळ्घ|dotted=no}}
+|{{H:title|ḷṅa (IPA:ɭŋə)|ळ्ङ|dotted=no}}
+|{{H:title|ḷca (IPA:ɭcɕə)|ळ्च|dotted=no}}
+|{{H:title|ḷcha (IPA:ɭcɕʰə)|ळ्छ|dotted=no}}
+|{{H:title|ḷja (IPA:ɭɟʝə)|ळ्ज|dotted=no}}
+|{{H:title|ḷjha (IPA:ɭɟʝʱə)|ळ्झ|dotted=no}}
+|{{H:title|ḷña (IPA:ɭɲə)|ळ्ञ|dotted=no}}
+|{{H:title|ḷṭa (IPA:ɭʈə)|ळ्ट|dotted=no}}
+|{{H:title|ḷṭha (IPA:ɭʈʰə)|ळ्ठ|dotted=no}}
+|{{H:title|ḷḍa (IPA:ɭɖə)|ळ्ड|dotted=no}}
+|{{H:title|ḷḍha (IPA:ɭɖʱə)|ळ्ढ|dotted=no}}
+|{{H:title|ḷṇa (IPA:ɭɳə)|ळ्ण|dotted=no}}
+|{{H:title|ḷta (IPA:ɭt̪ə)|ळ्त|dotted=no}}
+|{{H:title|ḷtha (IPA:ɭt̪ʰə)|ळ्थ|dotted=no}}
+|{{H:title|ḷda (IPA:ɭd̪ə)|ळ्द|dotted=no}}
+|{{H:title|ḷdha (IPA:ɭd̪ʱə)|ळ्ध|dotted=no}}
+|{{H:title|ḷna (IPA:ɭn̪ə)|ळ्न|dotted=no}}
+|{{H:title|ḷpa (IPA:ɭpə)|ळ्प|dotted=no}}
+|{{H:title|ḷpha (IPA:ɭpʰə)|ळ्फ|dotted=no}}
+|{{H:title|ḷba (IPA:ɭbə)|ळ्ब|dotted=no}}
+|{{H:title|ḷbha (IPA:ɭbʱə)|ळ्भ|dotted=no}}
+|{{H:title|ḷma (IPA:ɭmə)|ळ्म|dotted=no}}
+|{{H:title|ḷya (IPA:ɭjə)|ळ्य|dotted=no}}
+|{{H:title|ḷra (IPA:ɭrə)|ळ्र|dotted=no}}
+|{{H:title|ḷla (IPA:ɭlə)|ळ्ल|dotted=no}}
+|{{H:title|ḷva (IPA:ɭvə)|ळ्व|dotted=no}}
+|{{H:title|ḷśa (IPA:ɭʃə)|ळ्श|dotted=no}}
+|{{H:title|ḷṣa (IPA:ɭʂə)|ळ्ष|dotted=no}}
+|{{H:title|ḷsa (IPA:ɭsə)|ळ्स|dotted=no}}
+|{{H:title|ḷha (IPA:ɭhə)|ळ्ह|dotted=no}}
+|{{H:title|ḷḷa (IPA:ɭɭə)|ळ्ळ|dotted=no}}
+|{{H:title|ḷkṣa (IPA:ɭkʂə)|ळ्क्ष|dotted=no}}
+|{{H:title|ḷjña (IPA:ɭɟʝɲə)|ळ्ज्ञ|dotted=no}}
+|}<!--
+क्ष्ण kṣṇ क्ष्म kṣm क्ष्य kṣy त्र्य try स्त्य sty स्त्र str प्त्र ptr प्स्य psy त्क्र tkr त्क्व tkv त्क्ष tkṣ त्त्न ttn त्त्र ttr त्त्व ttv त्प्र tpr त्प्ल tpl त्स्न tsn त्स्य tsy त्स्व tsv च्छ्य cchy च्छ्र cchr ज्ज्य jjy ज्ज्व jjv क्त्र ktr क्त्व ktv क्ष्ण्य kṣṇy ग्ध्र gdhr ग्न्य gny ग्र्य gry म्प्र mpr न्त्य nty न्त्र ntr न्द्ध nddh न्द्र ndr न्ध्य ndhy न्ध्र ndhr ण्ड्र ṇḍr र्ग्य rgy र्ग्र rgr र्घ्य rghy र्ङ्ग rṅg र्ज्य rjy र्ढ्य rḍhy र्ण्य rṇy र्त्त rtt र्त्त्र rttr र्त्म rtm र्त्य rty र्त्र rtr र्त्स rts र्द्ध rddh र्द्र rdr र्द्व rdv र्ध्म rdhm र्ध्र rdhr र्ध्व rdhv र्म्य rmy र्स्व rsv र्ष्ट्र rṣṭr र्ष्ण rṣṇ र्ष्म rṣm र्ष्य rṣy ष्क्र ṣkr ष्क्व ṣkv ष्प्य ṣpy ष्म्य ṣmy
+
+द्व्य dvy ट्ट ṭṭ ट्ठ ṭṭh ड्ड ḍḍ ड्ढ ḍḍh ड्य ḍy द्ध्म ddhm द्ध्व ddhv ण्ड्व ṇḍv ड्व ḍv द्ग्र dgr द्द्य ddy द्द्र ddr द्ब्र dbr
+ङ्क ṅk ङ्क ṅkt ङ्क्र ṅkr ङ्क्ष ṅkṣ ङ्क्ष्य ṅkṣy ङ्ख ṅkh ङ्ग ṅg ङ्घ ṅgh ण्ड्य ṇḍy ष्ट्व ṣṭv ष्ठ्य ṣṭhy
+
+!क!!ख!!ग!!घ!!च!!छ!!ज!!झ!!ट!!ठ!!ड!!ढ!!ण!!त!!थ!!द!!ध!!न!!प!!फ!!ब!!भ!!म!!य!!र!!ल!!व!!श!!ष!!स!!ह
+
+-->
+</div>
+
+===Accent marks===
+{{Main|Vedic accent}}
+The [[pitch accent]] of [[Vedic Sanskrit]] is written with various symbols depending on [[shakha]]. In the [[Rigveda]], ''anudātta'' is written with a bar below the line ({{lang|sa|◌॒}}), ''svarita'' with a stroke above the line ({{lang|sa|◌॑}}) while ''udātta'' is unmarked.
+
+===Punctuation===
+The end of a sentence or half-verse may be marked with a dot known as a ''{{IAST|pūrṇa virām}}'' or a vertical line ''danda'': {{lang|und-Deva|।}}. The end of a full verse may be marked with two vertical lines: {{lang|und-Deva|॥}}. A comma, or ''{{IAST|alpa virām}}'', is used to denote a natural pause in speech.<ref>Unicode Consortium, The Unicode Standard, Version 3.0, Volume 1, ISBN 978-0201616330, Addison-Wesley, pages 221-223</ref><ref name=ijetr>[http://www.ijetr.org/finalpdf/1386305476.pdf Transliteration from Hindi Script to Meetei Mayek] Watham and Vimal (2013), IJETR, page 550</ref> Other punctuation marks such as colon, semi-colon, exclamation mark, dash and question mark currently in use in Devanagari script match those in European languages.<ref>Michael Shapiro (2014), The Devanagari Writing System in ''A Primer of Modern Standard Hindi'', Motilal Banarsidass, ISBN 978-8120805088, page 26</ref>
+
+===Old forms===
+The following letter variants are also in use, particularly in older texts.<ref>{{Harvsp|Bahri|2004|p=(xiii)}}</ref>
+
+{| class="wikitable" style="text-align: center; margin: 0; margin-left: 2em"
+
+|+ Letter variants
+
+|-
+
+! Standard form !! Variant form
+
+|- style="background: white"
+
+| [[File:Devanagari a.svg|15px]] || [[File:Devanagari a old.svg|15px]]
+
+|- style="background: white"
+
+| [[File:Devanagari jh.svg|15px]] || [[File:Devanagari jh old.svg|15px]]
+
+|- style="background: white"
+
+| [[File:Devanagari nn.svg|15px]] || [[File:Devanagari nn old.svg|15px]]
+
+|- style="background: white"
+
+| [[File:Devanagari l.svg|15px]] || [[File:Devanagari l old.svg|15px]]
+
+|}
+
+===Numerals===
+{{See also|Indian numerals|Brahmi numerals|Hindu-Arabic numeral system}}
+
+{| class="wikitable" style="margin:auto;"
+|-
+|+ '''Devanagari digits'''
+|- style="font-size:14pt;"
+| {{lang|und-Deva|[[०]]}} || {{lang|und-Deva|[[१]]}} || {{lang|und-Deva|[[२]]}} || {{lang|und-Deva|[[३]]}} || {{lang|und-Deva|[[४]]}}
+| {{lang|und-Deva|[[५]]}} || {{lang|und-Deva|[[६]]}} || {{lang|und-Deva|[[७]]}} || {{lang|und-Deva|[[८]]}} || {{lang|und-Deva|[[९]]}}
+|-
+| 0 || 1 || 2 || 3 || 4
+| 5 || 6 || 7 || 8 || 9
+|}
+
+===Fonts===
+A variety of fonts are in use for Devanagari. These include, but are not limited to, [[Akshar (typeface)|Akshar]],<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/akshar.shtml Akshar Unicode] South Asia Language Resource, University of Chicago (2009)</ref> [[Annapurna]],<ref>[http://software.sil.org/annapurna/ Annapurna SIL Unicode], SIL International (2013)</ref> [[Arial]],<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/arialunicode.shtml Arial Unicode] South Asia Language Resource, University of Chicago (2009)</ref> [[CDAC-Gist Surekh]],<ref name=surekhfont>[http://salrc.uchicago.edu/resources/fonts/available/hindi/surekh.shtml CDAC-GIST Surekh Unicode] South Asia Language Resource, University of Chicago (2009)</ref> [[CDAC-Gist Yogesh]],<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/yogesh.shtml CDAC-GIST Yogesh] South Asia Language Resource, University of Chicago (2009)</ref> [[Chandas (typeface)|Chanda]],<ref name=harvard/> Gargi,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/gargi.shtml Gargi] South Asia Language Resource, University of Chicago (2009)</ref> Gurumaa,<ref>[http://kde-look.org/content/show.php?content=16645 Gurumaa Unicode - a sans font] KDE (2012)</ref> Jaipur,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/jaipur.shtml Jaipur] South Asia Language Resource, University of Chicago (2009)</ref> Jana,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/janahindi.shtml Jana] South Asia Language Resource, University of Chicago (2009)</ref> Kalimati,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/kalimati.shtml Kalimati] South Asia Language Resource, University of Chicago (2009)</ref> Kanjirowa,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/kanjirowa.shtml Kanjirowa] South Asia Language Resource, University of Chicago (2009)</ref> Mangal,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/mangal.shtml Mangal] South Asia Language Resource, University of Chicago (2009)</ref> Raghu,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/raghindi.shtml Raghu] South Asia Language Resource, University of Chicago (2009)</ref> Sanskrit Ashram,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/sanskrit2003.shtml Sanskrit Ashram] South Asia Language Resource, University of Chicago (2009)</ref> Santipur OT,<ref name=harvard/> Thyaka,<ref>[http://salrc.uchicago.edu/resources/fonts/available/hindi/thyakarabison.shtml Thyaka] South Asia Language Resource, University of Chicago (2009)</ref> and Uttara.<ref name=harvard>[http://isites.harvard.edu/icb/icb.do?keyword=k21214&pageid=icb.page104271 Sanskrit Devanagari Fonts] Harvard University (2010); see [http://www.sanskritweb.net/cakram/ Chanda and Uttara ttf] 2010 archive (Accessed: July 8, 2015)</ref>
+
+The form of Devanagari fonts vary with function. According to Harvard College for Sanskrit studies, "Uttara [companion to Chanda] is the best in terms of ligatures but, because it is designed for Vedic as well, requires so much vertical space that it is not well suited for the "user interface font" (though an excellent choice for the "original field" font). Santipur OT is a beautiful font reflecting a very early [medieval era] typesetting style for Devanagari. Sanskrit 2003<ref>[http://www.unicode.org/charts/PDF/U0900.pdf Devanagari font] Unicode Standard 8.0 (2015)</ref> is a good all-around font and has more ligatures than most fonts, though students will probably find the spacing of the CDAC-Gist Surekh<ref name=surekhfont/> font makes for quicker comprehension and reading."<ref name=harvard/>
+
+==Transliteration==
+{{Main|Devanagari transliteration}}
+There are several methods of [[Romanisation]] or [[transliteration]] from Devanagari to the [[Latin alphabet|Roman script]].<ref name="ref17yebif">{{Citation | title=Transliteration into Roman and Devanagari of the languages of the Indian group | author=Daya Nand Sharma | publisher=Survey of India, 1972 | isbn= | url=https://books.google.com/books?id=HWJJAAAAYAAJ | quote=''... With the passage of time there has emerged a practically uniform system of transliteration of Devanagari and allied alphabets. Nevertheless, no single system of Romanisation has yet developed ...''}}</ref>
+
+===Hunterian system===
+{{Main|Hunterian transliteration}}
+The [[Hunterian transliteration|Hunterian system]] is the "''national system of romanisation in [[India]]''" and the one officially adopted by the [[Government of India]].<ref name="ref04xufam">{{Citation | title=Technical reference manual for the standardisation of geographical names | author=United Nations Group of Experts on Geographical Names, United Nations Department of Economic and Social Affairs | publisher=United Nations Publications, 2007 | isbn=978-92-1-161500-5 | url=https://books.google.com/books?id=mh8u32ANQxAC | quote=''... ISO 15919 ... There is no evidence of the use of the system either in India or in international cartographic products ... The Hunterian system is the actually used national system of romanisation in India ...''}}</ref><ref name="ref48luvep">{{Citation | title=United Nations Regional Cartographic Conference for Asia and the Far East, Volume 2 | author=United Nations Department of Economic and Social Affairs | publisher=United Nations, 1955 | isbn= | url=https://books.google.com/books?id=QKsvAAAAYAAJ | quote=''... In India the Hunterian system is used, whereby every sound in the local language is uniformly represented by a certain letter in the Roman alphabet ...''}}</ref><ref name="ref65puqac">{{Citation | title=Indian scientific & technical publications, exhibition 1960: a bibliography | author=National Library (India) | publisher=Council of Scientific &amp; Industrial Research, Government of India, 1960 | isbn= | url=https://books.google.com/books?id=8VYEAQAAIAAJ | quote=''... The Hunterian system of transliteration, which has international acceptance, has been used ...''}}</ref>
+
+===ISO 15919===
+{{Main|ISO 15919}}
+A standard transliteration convention was codified in the ISO 15919 standard of 2001. It uses diacritics to map the much larger set of Brahmic graphemes to the Latin script. The Devanagari-specific portion is nearly identical to the academic standard for Sanskrit, [[IAST]].<ref name=scriptsource/>
+
+===IAST===
+The [[IAST|International Alphabet of Sanskrit Transliteration (IAST)]] is the academic standard for the romanisation of Sanskrit. IAST is the de facto standard used in printed publications, like books, magazines, and electronic texts with Unicode fonts. It is based on a standard established by the ''Congress of Orientalists'' at [[Athens]] in 1912. The ISO 15919 standard of 2001 codified the transliteration convention to include an expanded standard for sister scripts of Devanagari.<ref name=scriptsource>[http://scriptsource.org/cms/scripts/page.php?item_id=script_detail_sort&key=Deva Devanagari IAST conventions] Script Source (2009), SIL International, United States</ref>
+
+The [[National Library at Kolkata romanisation]], intended for the romanisation of all Indic scripts, is an extension of IAST.
+
+===Harvard-Kyoto===
+Compared to IAST, [[Harvard-Kyoto]] looks much simpler. It does not contain all the diacritic marks that IAST contains. It was designed to simplify the task of putting large amount of Sanskrit textual material into machine readable form, and the inventors stated that it reduces the effort needed in transliteration of Sanskrit texts on the keyboard.<ref name=translitwijastyk/> This makes typing in Harvard-Kyoto much easier than IAST. Harvard-Kyoto uses [[capital letters]] that can be difficult to read in the middle of words.
+
+===ITRANS===
+[[ITRANS]] is a lossless transliteration scheme of Devanagari into [[ASCII]] that is widely used on [[Usenet]]. It is an extension of the [[Harvard-Kyoto]] scheme. In ITRANS, the word ''devanāgarī'' is written "devanaagarii" or "devanAgarI". ITRANS is associated with an application of the same name that enables typesetting in [[Brahmic family|Indic scripts]]. The user inputs in Roman letters and the ITRANS pre-processor translates the Roman letters into Devanagari (or other Indic languages). The latest version of [[ITRANS]] is version 5.30 released in July, 2001. It is similar to Velthius system and was created by Avinash Chopde to help print various Indic scripts with personal computers.<ref name=translitwijastyk>[http://indology.info/email/members/wujastyk/ Transliteration of Devanāgarī] D. Wujastyk (1996)</ref>
+
+==== Velthuis ====
+{{Main|Velthuis}}
+
+The disadvantage of the above [[ASCII]] schemes is case-sensitivity, implying that transliterated names may not be capitalized. This difficulty is avoided with the system developed in 1996 by Frans Velthuis for [[TeX]], loosely based on IAST, in which case is irrelevant.
+
+===ALA-LC Romanisation===
+ALA-LC<ref>{{cite web|url=http://www.loc.gov/catdir/cpso/roman.html |title=LOC.gov |publisher=LOC.gov |date= |accessdate=2011-06-13}}</ref> romanisation is a transliteration scheme approved by the Library of Congress and the American Library Association, and widely used in North American libraries. Transliteration tables are based on languages, so there is a table for Hindi,<ref>{{cite web|url=http://www.loc.gov/catdir/cpso/romanization/hindi.pdf |title=0001.eps |format=PDF |date= |accessdate=2011-06-13}}</ref> one for Sanskrit and Prakrit,<ref>{{cite web|url=http://www.loc.gov/catdir/cpso/romanization/sanskrit.pdf |title=LOC.gov |format=PDF |date= |accessdate=2011-06-13}}</ref> etc.
+
+===WX===
+{{main|WX notation}}
+WX is a Roman transliteration scheme for Indian languages, widely used among the [[natural language processing]] community in India. It originated at [[IIT Kanpur]] for computational processing of Indian languages. The salient features of this transliteration scheme are as follows.
+*Every consonant and every vowel has a single mapping into Roman. Hence it is a [[prefix code]], advantageous from computation point of view.
+*Lower-case letters are used for unaspirated consonants and short vowels, while capital letters are used for aspirated consonants and long vowels. While the retroflex stops are mapped to 't, T, d, D, N', the dentals are mapped to 'w, W, x, X, n'. Hence the name 'WX', a reminder of this idiosyncratic mapping.
+
+==Encodings==
+
+===ISCII===
+[[ISCII]] is an 8-bit encoding. The lower 128 codepoints are plain [[ASCII]], the upper 128 codepoints are ISCII-specific.
+
+It has been designed for representing not only Devanagari but also various other [[Indic scripts]] as well as a Latin-based script with diacritic marks used for transliteration of the Indic scripts.
+
+ISCII has largely been superseded by Unicode, which has, however, attempted to preserve the ISCII layout for its Indic language blocks.
+
+===Unicode===
+
+{{Main|Devanagari (Unicode block)|Devanagari Extended|Vedic Extensions|l2=Devanagari Extended (Unicode block)|l3=Vedic Extensions (Unicode block)}}
+
+The Unicode Standard defines three blocks for Devanagari: Devanagari (U+0900–U+097F), Devanagari Extended (U+A8E0–U+A8FF), and Vedic Extensions (U+1CD0–U+1CFF).
+
+{{Unicode chart Devanagari}}
+{{Unicode chart Devanagari Extended}}
+{{Unicode chart Vedic Extensions}}
+
+==Devanagari keyboard layouts==
+<!-- [[Keyboard layout#Devanagari]] links here -->
+: ''For a list of Devanagari input tools and fonts, please see [[Help:Multilingual support (Indic)]].''
+[[File:इन्स्क्रिप्ट कळपाटाची ओळख.ogg|200px|right| Introduction to Inscript Key board]]
+[[InScript]] is the standard [[Keyboard (computing)|keyboard]] layout for Devanagari. It is inbuilt in all modern major [[operating system]]s. [[Microsoft Windows]] supports the InScript layout (using the [[Mangal (font)|Mangal]] font), which can be used to input unicode Devanagari characters. InScript is also available in some touchscreen mobile phones.
+
+===InScript layout===
+[[Image:Devanagari INSCRIPT Keyboard.JPG|800px|none|Devanagari INSCRIPT bilingual keyboard layout]]
+A Devanagari INSCRIPT bilingual keyboard.
+
+===Typewriter===
+This layout was used on manual typewriters when computers were not available or were uncommon. For backward compatibility some typing tools like [[Indic IME]] still provide this layout.
+
+[[Image:Hindi typewriter.jpg|800px|none|Standard typewriter keyboard layout used in India]]
+
+===Phonetic===
+Such tools work on phonetic transliteration. The user writes in Roman and the [[Input method editor|IME]] automatically converts it into Devanagari. Some popular phonetic typing tools are [[Baraha]]IME and [[Google IME]].
+[[Image:Bolnagri map.png|frame|none|240px|[[Bolnagri]] phonetic keyboard layout for Linux/GNOME]]
+
+[[File:Marathi Wikipedia ULS.webm|thumb|right|300px|One can use [[:MW:Universal Language Selector|ULS]] {{lang|und-Deva|"अक्षरांतरण"}} ([[Transliteration]]) or {{lang|und-Deva|"मराठी लिपी"}} ([[InScript keyboard|Inscript]]) typing options to search or edit [[:mr:|Marathi Wikipedia]] articles as shown in this video clip; One can click on the '''cc'' to change the subtitle languages to Marathi, English, Sanskrit, Kokani, Ahirani languages.]]
+
+The [[Mac OS X]] operating system includes two different [[keyboard layout]]s for Devanagari: one is much like INSCRIPT/KDE Linux, the other is a phonetic layout called "Devanagari QWERTY".
+
+Any one of Unicode fonts input system is fine for Indic language Wikipedia and other wikiprojects, including Hindi, Bhojpuri, Marathi, Nepali Wikipedia. Some people use [[InScript keyboard|inscript]]. Majority uses either [[Google transliteration|Google phonetic transliteration]] or input facility [[:MW:Universal Language Selector|Universal Language Selector]] provided on Wikipedia.On Indic language wikiprojects Phonetic facility provided initially was java-based later supported by Narayam extension for phonetic input facility. Currently Indic language  Wiki projects are supported by [[:MW:Universal Language Selector|Universal Language Selector (ULS)]], that offers both phonetic keyboard (Aksharantaran,Marathi:{{lang|und-Deva|अक्षरांतरण}}, Hindi:{{lang|und-Deva|लिप्यंतरण, बोलनागरी}} ) and [[InScript keyboard]] (Marathi:{{lang|und-Deva|मराठी लिपी}}).
+<!-- Commented out because images were deleted:
+{|
+|+ for example, the Devanagari-qwerty layout is:
+|-
+| [[Image:Devanāgarī-qwerty-layout.jpg|400px]] || [[Image:Devanāgarī-qwerty-layout-option.jpg|400px]]
+|}
+-->
+
+The [[Ubuntu Linux]] operating system supports several [[keyboard layouts]] for Devanagari, including Harvard-Kyoto, [[WX notation]], Bolanagari and phonetic.
+
+==See also==
+* [[Clip font]]
+* [[Devanagari transliteration]]
+* [[Devanagari Braille]]
+* [[ISCII]]
+* [[Nagari Pracharini Sabha]]
+* [[Nepali language|Nepali]]
+* [[Schwa deletion in Indo-Aryan languages]]
+
+==References==
+; Footnotes
+{{reflist|30em}}
+
+; General references
+* {{Citation
+|last=Masica
+|first=Colin
+|authorlink=Colin Masica
+|year=1991
+|title=The Indo-Aryan Languages
+| place= Cambridge
+|publisher=Cambridge University Press
+|isbn=978-0-521-29944-2
+|url=https://books.google.com/books?id=J3RSHWePhXwC&printsec=frontcover&dq=indo-aryan+languages
+}}.
+* {{Citation
+|last=Snell
+|first=Rupert
+|year=2000
+|title=[[Teach Yourself]] Beginner's Hindi Script
+|publisher=Hodder & Stoughton
+|isbn=978-0-07-141984-0
+}}.
+* {{Citation
+|last=Salomon
+|first=Richard
+|year=2003
+|chapter=Writing Systems of the Indo-Aryan Languages
+| editor1-last= Cardona
+| editor1-first= George
+| editor2-last= Jain
+| editor2-first= Dhanesh
+|title=The Indo-Aryan Languages
+|publisher=Routledge
+|isbn=978-0-415-77294-5
+|pages=67–103
+}}.
+* {{Citation
+|last=Verma
+|first=Sheela
+|year=2003
+|chapter=Magahi
+| editor1-last= Cardona
+| editor1-first= George
+| editor2-last= Jain
+| editor2-first= Dhanesh
+|title=The Indo-Aryan Languages
+|publisher=Routledge
+|isbn=978-0-415-77294-5
+|pages=498–514
+}}.
+* {{Citation
+|last=Wikner
+|first=Charles
+|year=1996
+|title=A Practical Sanskrit Introductory
+|url=http://sanskritdocuments.org/learning_tutorial_wikner/index.html
+}}.
+
+===Census and catalogues of manuscripts in Devanagari===
+Thousands of manuscripts of ancient and medieval era Sanskrit texts in Devanagari have been discovered since the 19th century. Major catalogs and census include:
+* {{Google books|JjxFAAAAYAAJ|A Catalogue of Sanskrit Manuscripts in Private Libraries}}, Medical Hall Press, Princeton University Archive
+* {{Google books|QD-Qmb2XIr8C|A Descriptive Catalogue of the Sanskrit Manuscripts}}, Vol 1: Upanishads, Friedrich Otto Schrader (Compiler), University of Michigan Library Archives
+* [https://archive.org/stream/preliminarylisto00adya#page/n3/mode/2up A preliminary list of the Sanskrit and Prakrit manuscripts], Vedas, Sastras, Sutras, Schools of Hindu Philosophies, Arts, Design, Music and other fields, Friedrich Otto Schrader (Compiler), (Devanagiri manuscripts are identified by Character code '''De.''')
+* [https://archive.org/stream/p1a4catalogueofs01greauoft#page/n7/mode/2up Catalogue of the Sanskrit Manuscripts], Part 1: Vedic Manuscripts, Harvard University Archives (mostly Devanagari)
+* [https://archive.org/stream/catalogueofsansk04wind#page/n15/mode/2up Catalogue of the Sanskrit Manuscripts], Part 4: Manuscripts of Hindu schools of Philosophy and Tantra, Harvard University Archives (mostly Devanagari)
+* [https://archive.org/stream/catalogueofsansk04wind#page/n15/mode/2up Catalogue of the Sanskrit Manuscripts], Part 5: Manuscripts of Medicine, Astronomy and Mathematics, Architecture and Technical Science Literature, Julius Eggeling (Compiler), Harvard University Archives (mostly Devanagari)
+* {{Google books|6nooAAAAYAAJ|Catalogue of the Sanskrit Manuscripts}}, Part 6: Poetic, Epic and Purana Literature, Harvard University Archives (mostly Devanagari)
+* [[David Pingree]] (1970-1981), Census of the Exact Sciences in Sanskrit: Volumes 1 through 5, [http://www.dianepublishing.net/SearchResults.asp?Search=david+pingree&Search.x=0&Search.y=0 American Philosophical Society], Manuscripts in various Indic scripts including Devanagari
+
+==External links==
+{{Wikibooks|Devanagari}}
+{{Commons category multi|Devanagari stroke order|Devanagari pronunciation}}
+{{wikivoyage|Learning Devanagari}}
+* [http://www.unicode.org/charts/PDF/U0900.pdf Unicode Chart for Devanagari]
+* [http://www.avashy.com/hindiscripttutor.htm Hindi/Devanagari Script Tutor]
+* [http://hindi-store.tipsadda.com/search/label/tools Devnagari Unicode Legacy Font Converters]
+* [http://salrc.uchicago.edu/resources/fonts/ Digital Nagari fonts], University of Chicago
+* [http://www.wazu.jp/gallery/Fonts_Devanagari.html Devanagari in different fonts], Wazu, Japan (Alternate collection: [http://luc.devroye.org/indic.html  Luc Devroye's comprehensive Indic Fonts], McGill University)
+* [http://www.britishmuseum.org/explore/highlights/highlight_objects/asia/b/brick_with_sanskrit_inscriptio.aspx Brick with Sanskrit inscription in Nagari script], 1217 CE, found in Uttar Pradesh, India (British Museum)
+* {{Google books|0bkMAAAAIAAJ|Gazetteer of the Bombay Presidency|page=30}}, Rudradaman’s inscription in Sanskrit Nagari script from 1st through 4th century CE (coins and epigraphy), found in Gujarat, India, pages 30–45
+* [http://www.currentscience.ac.in/cs/Volumes/100/02/0150.pdf Numerals and Text in Devanagari], 9th century temple in Gwalior Madhya Pradesh, India, Current Science
+* [http://www.jstor.org/stable/599893 On the Name Devanāgarī], Walter H. Maurer (1976), Journal of the American Oriental Society, Vol. 96, No. 1, pages 101-104
+
+{{Devanagari abugida}}
+{{Navboxes|title=Devanagari Navigational boxes
+| titlestyle = background:#FAE5b0;
+|list=
+
+{{Marathi language topics}}
+{{Hindi topics|state=collapsed}}
+{{Sanskrit language topics}}
+{{list of writing systems}}
+}}
+
+[[Category:Articles containing video clips]]
+[[Category:Brahmic scripts]]
+[[Category:Hindi]]
+[[Category:Hindustani orthography]]
+[[Category:Scripts encoded in Unicode 1.0]]

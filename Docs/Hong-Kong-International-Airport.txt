@@ -1,0 +1,820 @@
+Hong Kong International Airport
+
+{{Redirect-acronym|HKIA|[[Hong Kong Institute of Architects]]}}
+{{Redirect|Hong Kong Airport|the old airport at Kai Tak|Kai Tak Airport|the only other existing airport in the territory|Shek Kong Airfield}}
+{{EngvarB|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox airport
+|name         = Hong Kong International Airport
+|nativename   = Chek Lap Kok Airport
+|nativename-a = {{lang|zh-hk|{{nobold|香港國際機場}}}}<br/>{{lang|zh-hk|{{nobold|赤鱲角機場}}}}
+|nativename-r =
+|image        = HongKongAirportlogo.svg
+|image-width  = 200
+|image2       = A bird's eye view of Hong Kong International Airport.JPG
+|image2-width = 250
+|IATA         = HKG
+|ICAO         = VHHH
+|type         = Public
+|owner        =
+|operator     = [[Airport Authority Hong Kong]]
+|city-served  = [[Hong Kong]]
+|location     = [[Chek Lap Kok]], Hong Kong
+|opened = 6 July 1998
+|hub          =
+<div>
+*[[Air Hong Kong]]
+*[[Cathay Pacific]]
+*[[Dragonair]]
+*[[Hong Kong Airlines]]
+*[[HK Express]]
+*[[Kalitta Air]]
+*[[UPS Airlines]]<ref name="pressroom.ups.com">{{cite web|url=http://www.pressroom.ups.com/Fact+Sheets/UPS+Air+Operations+Facts|title=UPS Air Operations Facts - UPS Pressroom|publisher=|accessdate=10 May 2015}}</ref>
+</div>
+|focus_city =
+<div>
+*[[China Airlines]]
+*[[China Eastern Airlines]]
+</div>
+|elevation-m  = 9
+|elevation-f  = 28
+|latd = 22 | latm = 18 | lats = 32 | latNS = N
+|longd=113 | longm= 54 | longs= 52 | longEW= E
+|coordinates_region     = HK
+|website      = {{url|www.hongkongairport.com}}
+|pushpin_map            = Hong Kong
+|pushpin_label          = HKG
+|pushpin_map_caption    = Location in Hong Kong
+|metric-elev  =
+|metric-rwy   =
+|r1-number    = 07R/25L
+|r1-length-f  = 12,467
+|r1-length-m  = 3,800
+|r1-surface   = [[Asphalt]]
+|r2-number    = 07L/25R
+|r2-length-f  = 12,467
+|r2-length-m  = 3,800
+|r2-surface   = Asphalt
+|stat-year    = 2015
+|stat1-header = Passengers
+|stat1-data   = 68,488,000
+|stat2-header = Movements
+|stat2-data = 406,000
+|stat3-header = Cargo (metric tonnes)
+|stat3-data   = 4,380,000
+|footnotes    = [[Airports Council International|ACI]]<ref name="2012stats">{{cite web|url= http://www.aci.aero/media/afc782a2-a258-4c49-a700-fea9047d15fb/News/Releases/2013/PR_260313_Prelim_2012_World_Traffic_Rankings-final_pdf|title=2012 Passenger Traffic (Preliminary)|date=26 March 2013|format=PDF|accessdate=13 April 2013}}</ref>
+}}
+{{Chinese
+|t={{linktext|香港|國際|機場}}
+|s={{linktext|香港|国际|机场}}
+|j=Hoeng<sup>1</sup>gong<sup>2</sup> Gwok<sup>3</sup>zai<sup>3</sup> Gei<sup>1</sup>coeng<sup>4</sup>
+|h=Hiong<sup>1</sup>gong<sup>3</sup> Get<sup>5</sup>({{small|''or'' gok<sup>5</sup>}})zi<sup>4</sup> Gi<sup>1</sup>cong<sup>2</sup>
+|y=Hēunggóng Gwokjai Gēichèuhng
+|p=Xiānggǎng Guójì Jīchǎng
+|myr=Syang<sup>1</sup> gang<sup>3</sup> Gwo<sup>2</sup> ji<sup>4</sup> Ji<sup>1</sup> chang<sup>3</sup>
+|altname=Chek Lap Kok Airport
+|t2={{linktext|赤|鱲|角|機場}}
+|s2={{linktext|赤|鱲|角|机场}}
+|j2=Cek<sup>3</sup>laap<sup>6</sup>gok<sup>3</sup> Gei<sup>1</sup>coeng<sup>4</sup>
+|h2=Cak<sup>5</sup>lap<sup>6</sup>gok<sup>5</sup> Gi<sup>1</sup>cong<sup>2</sup>
+|y2=Cheklaahp Gok Gēichèuhng
+|p2=Chìliè Jiǎo Jīchǎng
+|myr2=Chr<sup>4</sup> lye<sup>4</sup> Jyau<sup>3</sup> Ji<sup>1</sup> chang<sup>3</sup>
+}}
+{{contains Chinese text}}
+'''Hong Kong International Airport''' {{Airport codes|HKG|VHHH}} is the main airport in [[Hong Kong]]. It is located on the [[Islands and peninsulas of Hong Kong#Islands|island]] of [[Chek Lap Kok]], which largely comprises land [[Land reclamation in Hong Kong|reclaimed]] for the construction of the airport itself. The airport is also colloquially known as '''Chek Lap Kok Airport''' (赤鱲角機場), to distinguish it from its predecessor, the closed [[Kai Tak Airport]].
+
+The airport has been in commercial operation since 1998, replacing the Kai Tak Airport. It is an important regional trans-shipment centre, passenger hub and gateway for destinations in [[Mainland China]] (with 45 destinations) and the rest of Asia. The airport is the world's busiest cargo gateway and one of the world's busiest passenger airports.<ref name="auto">{{cite web |url= http://www.hongkongairport.com/eng/business/about-the-airport/welcome.html |title=About Hong Kong Airport |accessdate=13 March 2016}}</ref> It is also home to one of the world's largest passenger terminal buildings (the largest when opened in 1998).
+
+The airport is operated by the [[Airport Authority Hong Kong]] 24 hours a day and is the primary hub for [[Cathay Pacific]] (the flag carrier of Hong Kong), [[Dragonair]], [[Hong Kong Airlines]], [[Hong Kong Express Airways]] and [[Air Hong Kong]] (cargo carrier). The airport is one of the hubs of [[Oneworld alliance]], and it is also one of the Asian-Pacific cargo hubs for [[UPS Airlines]].<ref name="pressroom.ups.com"/> It is a [[focus city]] for many airlines, including [[China Airlines]] and [[China Eastern Airlines]]. [[Singapore Airlines]], [[Ethiopian Airlines]] and [[Air India]] utilize Hong Kong as a stopover point for their flights.
+
+HKIA is an important contributor to Hong Kong's economy, with approximately 65,000 employees. More than 100 airlines operate flights from the airport to over 180 cities across the globe. In 2015, HKIA handled 68.5 million passengers,<ref name="auto"/> making it the [[World's busiest airports by passenger traffic|8th busiest airport worldwide]] by passenger traffic.<ref>{{cite web |url=http://www.aci.aero/Data-Centre/Monthly-Traffic-Data/Passenger-Summary/Year-to-date |title=Year to date Passenger Traffic |publisher=ACI |date=2016-03-13 |accessdate=2016-03-13}}</ref> Since 2010, it has also surpassed [[Memphis International Airport]] to become the [[World's busiest airports by cargo traffic|world's busiest airport by cargo traffic]].<ref>{{cite web|url= http://www.businessweek.com/news/2011-01-26/cathay-pacific-hong-kong-airport-become-biggest-for-freight.html|title=Cathay Pacific, Hong Kong Airport Become Biggest for Freight |work=Bloomberg BusinessWeek|date=26 January 2011|accessdate=7 May 2011|first=Neil|last=Denslow |archiveurl=https://web.archive.org/web/20110417033044/http://www.businessweek.com/news/2011-01-26/cathay-pacific-hong-kong-airport-become-biggest-for-freight.html|archivedate=17 April 2011}}</ref>
+
+==History==
+
+[[File:Hkia from lantau.JPG|thumb|View of the airport from the [[Ngong Ping 360]] cable car]]
+[[File:Lantau Island reclamation.png|thumb|Map showing the reclaimed land of Lantau Island, Lam Chau and Chek Lap Kok.]]
+[[File:A View of Hong Kong Airport.JPG|thumb|A front view of Hong Kong Airport]]
+[[File:HKIA at night.jpg|thumb|The exterior of Hong Kong International Airport at night-time]]
+
+{{See also|Aviation history of Hong Kong}}
+Chek Lap Kok Airport was designed as a replacement for the [[Kai Tak International Airport|former Hong Kong International Airport]] (commonly known as Kai Tak Airport) originally built in 1925. Located in the densely built-up [[Kowloon City District]] with a single runway extending into [[Kowloon Bay]], Kai Tak had only limited room for expansion to cope with steadily increasing air traffic. By the 1990s, Kai Tak had become one of the world's busiest airports – it far exceeded its annual passenger and cargo design capacities, and one out of every three flights experienced delays, largely due to lack of space for aircraft, gates, and a second runway.<ref>{{cite book|last=Genzberger|first=Christine|title= Hong Kong Business: The Portable Encyclopedia for Doing Business with Hong Kong|publisher= World Trade Press|year=1994|page=239|url=https://books.google.com/?id=jzTkeovg_-MC&pg=PA239| isbn=978-0-9631864-7-8}}</ref> In addition, [[noise mitigation]] measures restricted nighttime flights, as severe noise pollution (exceeding 105&nbsp;[[dB(A)]] in Kowloon City) adversely affected an estimated total of at least 340,000 people.<ref>{{cite journal|author=[http://www.epd.gov.hk/epd/english/boards/advisory_council/maincontent.html Hong Kong Advisory Council on the Environment]|title=Proposal to Optimise Kai Tak Capacity|date=July 1995|url=http://www.epd.gov.hk/epd/textonly/english/boards/advisory_council/files/ace_paper9531.pdf|format=PDF|accessdate=13 June 2006}}</ref><ref>{{cite book|last=Dempsey|first=Paul |title=Airport Planning and Development Handbook: A Global Survey|publisher=McGraw-Hill Professional|year=1999|page=106|url = https://books.google.com/?id=DLi4-CEGl4YC&pg=PA106|isbn=978-0-07-134316-9}}</ref>
+
+A 1974 planning study by the [[Civil Aviation Department (Hong Kong)|Civil Aviation]] and [[Development Bureau|Public Works]] departments identified the small island of Chek Lap Kok, off [[Lantau Island]], as a possible airport replacement site. Away from the congested city centre, flight paths would be routed over the [[South China Sea]] rather than populous urban areas, enabling efficient round-the-clock operation of multiple runways. The Chek Lap Kok (CLK) airport master plan and civil engineering studies were completed towards the end of 1982 and 1983 respectively. In February 1983, however, the government shelved the project for financial and economic reasons. In 1988, the Port & Airport Development Strategy (PADS) Study was undertaken by consultants, headed by [[Mott MacDonald|Mott MacDonald Hong Kong Limited]], reporting in December 1989. This study looked at forecasts for both airport and port traffic to the year 2011 and came up with three recommended strategies for overall strategic development in Hong Kong. One of the three assumed maintaining the existing airport at Kai Tak; a second assumed a possible airport in the Western Harbour between Lantau Island and Hong Kong Island; and the third assumed a new airport at Chek Lap Kok. The consultants produced detailed analyses for each scenario, enabling Government to consider these appraisals for each of the three "Recommended Strategies". In October 1989 the Governor of Hong Kong announced to the Legislative Council that a decision had been made on the long-term port and airport development strategy for the territory. The strategy to be adopted was that which included a replacement airport at Chek Lap Kok and incorporating new container terminals 8 and 9 at [[Stonecutters Island]] and east of the island of Tsing Yi respectively.<ref>Port & Airport Development Strategy Study, Final Report, December 1989 by Study Consultants Mott MacDonald Hong Kong et al. for Lands and Works Branch of Hong Kong Government Secretariat</ref>
+
+In the PADS study the consultants advised that the earliest the airport could be opened was January 1998. However, in reaching the government's decision, this date was modified to January 1997, six months prior to the handover of the territory to China. Construction of the new airport began in 1991. As construction progressed, an agreement was reached with China that as much as possible of the airport would be completed before the handover to China in July 1997. In the event, British Prime Minister John Major opened the [[Tsing Ma Bridge]], the main access to [[Lantau Island]] and the airport and its supporting community in May 1997, prior to the transfer of sovereignty to China. The airport itself was opened in July 1998.
+
+The construction period was very rushed; specialists considered that only a 10–20-year period was sufficient for this massive project. Another cause for this rush was due to the uncertain future of the airport construction after the transfer of sovereignty over Hong Kong to the People's Republic of China. It was originally believed that Beijing preferred to keep everything basically intact and minimise financial commitments for big projects, therefore stopping all construction despite the need for the new airport. In practice, the airport did not finish in time for the handover. However, China gave an additional year's grace period to finish the project.<ref name=buildhkg>{{cite episode|title=Building Hong Kong's Airport|series=Extreme Engineering|serieslink=Extreme Engineering|airdate=14 May 2003|season=1|number=7}}</ref><ref>{{cite book|author=Rikkie Yeung|title=Moving Millions: The Commercial Success and Political Controversies of Hong Kong's Railways|publisher=[[Hong Kong University]] Press|year=2008|isbn=978-962-209-963-0}}</ref>
+
+Hong Kong International Airport was built on a large [[artificial island]], formed by levelling [[Chek Lap Kok]] and [[Lam Chau]] islands ({{convert|3.02|km2|sqmi}} and {{convert|0.08|km2|sqmi}} respectively), and [[Land reclamation in Hong Kong|reclaiming]] {{convert|9.38|km2|sqmi}} of the adjacent seabed. The {{convert|12.48|km2|acre|adj = on}} airport site added nearly 1% to Hong Kong's total surface area, connecting to the north side of Lantau Island near [[Tung Chung]] [[new town]].<ref name=site_prep>{{cite book|author1=Plant, G.W. |author2=Covil, C.S |author3=Hughes, R.A. |author4=Airport Authority Hong Kong |title=Site Preparation for the New Hong Kong International Airport|publisher=Thomas Telford|year=1998|pages=1, 3–4, 43, 556|url= https://books.google.com/?id=NVlGrr9WOp4C&printsec=frontcover|isbn=978-0-7277-2696-4}}</ref>
+
+Construction of the new airport was only part of the [[Airport Core Programme]], which also involved construction of new road and rail links to the airport, with associated bridges and tunnels, and major land reclamation projects on both [[Hong Kong Island]] and in [[Kowloon]]. The project is the most expensive airport project ever, according to [[Guinness Book of World Records|Guinness World Records]]. Construction of the new airport was voted as one of the Top 10 Construction Achievements of the 20th Century at the ConExpo conference in 1999.<ref>CONEXPO-CON/AGG '99 (1999). ''[http://www.tfhrc.gov/pubrds/julaug99/topten.htm Top 10 Construction Achievements of the 20th Century]''. ISBN 0-9530219-5-5. Retrieved 10 November 2005</ref>
+
+The detailed design for the airport terminal was awarded to a consortium led by Mott Connell (the Hong Kong office of UK consultant Mott MacDonald) with [[British Airports Authority]] as specialist designers for airport related aspects, [[Foster and Partners]] as architects and [[Ove Arup]] as specialist structural designers for the roof. Mott Connell were the designers for foundations, all other structural components and the mechanical and electrical work. Project architects were Foster and Partners. The sides of the terminals, predominantly glass, were designed to break during high speed winds, relieving pressure and allowing the terminal to withstand an intense typhoon.<ref name=buildhkg/>
+
+The airport was officially opened in an [[opening ceremony]] by the then-[[President of the People's Republic of China]] [[Jiang Zemin]] at noon [[Hong Kong Time]] on 2 July 1998. Actual operation of the airport commenced on 6 July 1998, concluding the six-year construction that cost US$20&nbsp;billion. On that day at 06:25 [[Hong Kong Time]], [[Cathay Pacific]] flight 889 became the first commercial flight to land at the airport, pipping the original CX 292 from Rome which was the scheduled first arrival.<ref>{{cite news |author=<!--Staff writer(s); no by-line.--> |title= Hong Kong's flying start|url= http://news.bbc.co.uk/1/hi/world/asia-pacific/127058.stm|newspaper= BBC News|date= 5 July 1998|access-date= 30 December 2015}}</ref> However, the airport had already started to experience some technical difficulties on the first day of opening. The [[flight information display system]] (FIDS) had suddenly shut down which caused long delays. Shortly afterwards, the cargo communication link with Kai Tak, where all the data was stored, went down. In the same period of time, someone had accidentally deleted a critical database for cargo services. This meant that cargo had to be manually stored. At one point, the airport had to turn away freight headed for and exported from Hong Kong (except food and medical supplies) while it sorted out the mess. HKIA simply could not keep up without an automated computer assisting.<ref name=buildhkg/> For three to five months after its opening, it suffered various severe organisational, mechanical and technical problems that almost crippled the airport. Computer glitches were to blame for the crisis. Lau Kang-way, a Hong Kong politician, was quoted saying "This was meant to be a first-class project, but it has turned into a ninth-class airport and a disgrace. Our airport has become the laughing stock of the world."<ref>{{cite book|last=Gordon|first=Alastair|title=Naked Airport|publisher=Metropolitan Books|date=September 2004|isbn=0-8050-6518-0}}</ref><ref>{{cite news |url=http://query.nytimes.com/gst/fullpage.html?res=9E00E4D91F3EF93AA35754C0A96E958260 |title=INTERNATIONAL BUSINESS; Problems Continue to Mount at New Hong Kong Airport|work=[[The New York Times]]|date=9 July 1998|first=Mark|last=Landler}}</ref> At one time, the government reopened the [[cargo terminal]] at Kai Tak Airport to handle freight traffic because of a breakdown at the new cargo terminal, named Super Terminal One (ST1).<ref>{{cite web|title=Calendar of Events|work=Hong Kong Yearbook|accessdate=15 August 2009|year=1998|url=http://www.yearbook.gov.hk/1998/ewww/events/index07.htm}}</ref> However, after six months the airport started to operate normally.
+
+On 31 July 2000, [[Todd Salimuchai]], a regularised illegal immigrant in Hong Kong with [[statelessness|no provable nationality]], forced his way through a security checkpoint using a fake pistol, took a woman hostage, and boarded a Cathay Pacific aircraft. He demanded to be flown to Burma, which he claimed was his native country but had refused to admit him due to his lack of documents. He surrendered to police two and a half hours later.<ref name="TheStandard20060710">{{citation|url=http://www.thestandard.com.hk/news_detail.asp?pp_cat=11&art_id=22547&sid=8717578&con_type=3|periodical=The Standard|date=10 July 2006|accessdate=28 May 2011|title=The tale of a man with no country}}</ref>
+
+Officially opened in June 2007, the second airport terminal, called T2, (check-in facility only) is linked with the [[Airport Express (MTR)|MTR Airport Express]] on a new platform. The terminal also features a new shopping mall, [[Hong Kong SkyCity|SkyPlaza]], providing a large variety of shops and restaurants, together with a few entertainment facilities. T2 also houses a 36-bay coach-station for buses to and from mainland China and 56 airline check-in counters, as well as customs and immigration facilities.
+
+Besides T2, the SkyCity Nine Eagles Golf Course has been opened in 2007 whereas the second airport hotel, the Hong Kong SkyCity Marriott Hotel; and a permanent cross-boundary ferry terminal, the [[Skypier]], began operations in 2008 and 2009 respectively. Development around T2 also includes the AsiaWorld-Expo which has started operation in late 2005.<ref>[http://www.hongkongairport.com/eng/aboutus/scbrochure.html Hong Kong International Airport – About AA – SkyCity Brochure] {{wayback|url=http://www.hongkongairport.com/eng/aboutus/scbrochure.html |date=20060427082559 |df=y }}</ref> A second passenger concourse, the North Satellite Concourse (NSC), opened in 2010, followed by the Midfield Concourse in December 2015.
+
+==Composition==
+[[File:Hong Kong Airport.svg|thumb|Layout of Hong Kong International Airport]]
+Hong Kong International Airport covers an area of {{convert|1255|ha|sqmi}}. The airport has a total of 90 boarding gates,<ref>{{cite web|url=http://www.hongkongairport.com/eng/passenger/departure/all/check-in-departure/airport-check-in.html|title=Hong Kong International Airport – Interactive Map |publisher=Hongkongairport.com|accessdate=7 May 2011}}</ref> with 78 [[jet bridge]] gates (1–4, 15–36, 40–50, 60–71, 201–219, 501–510) and 12 virtual gates (228–230, 511–513, 520–525) which are used as assembly points for passengers, who are then ferried to the aircraft by apron buses. Of the 66 jet bridges, five (Gates 15,23,60,62,64) are capable of handling the [[Airbus A380]], the current users of which are [[Singapore Airlines]], [[Emirates (airline)|Emirates]], [[Qantas]], [[British Airways]], [[Asiana Airlines]], [[Thai Airways]], [[Air France]] and [[Lufthansa]]. Previous users were [[Korean Air]], [[Malaysia Airlines]], and [[China Southern Airlines]].
+
+===Terminal 1===
+
+Terminal 1 of the HKIA, with an area measuring {{convert|570000|m2|sqft}}, is the third largest airport passenger terminal building in the world, after [[Dubai International Airport]]'s Terminal 3 and [[Beijing Capital International Airport]]'s Terminal 3.<ref>{{cite web|url=http://en.beijing2008.cn/news/olympiccities/beijing/n214259388.shtml|title=The 'dragon' unveiled: Beijing's T3 starts operations|publisher=The Official Website of the Beijing 2008 Olympic Games |accessdate=7 May 2011}}</ref>
+
+At its opening, Terminal 1 was the largest airport passenger terminal building, with a total gross floor area of {{convert|531000|m2|sqft}}. It briefly conceded the status to [[Bangkok]]'s [[Suvarnabhumi Airport]] ({{convert|563000|m2|sqft|abbr = on}}) when the latter opened on 15 September 2006, but reclaimed the title when the East Hall was expanded, bringing the total area to its current size of {{convert|570000|m2|sqft}}. (The East Hall expansion, designed by architecture firm [[Aedas]],<ref>{{cite web|url= http://www1.aedas.com/HKIA-East-Hall-Extension|title=Project Page: Hong Kong International Airport – East Hall Extension|publisher=Aedas.com}}</ref> included a {{convert|39000|m2|sqft|adj = on}} expansion to SkyMart, a shopping mall). Terminal 1's title as the world's largest was surrendered to [[Beijing Capital International Airport]] Terminal 3 on 29 February 2008.
+<gallery mode="packed">
+File:HKIA-ME3B.JPG|Terminal 1 Departures Hall entrance
+File:Hong Kong airport terminal 1.jpg|The interior of Terminal 1 at night-time
+File:Hong Kong Airport Inside.JPG|Check-in counters at Terminal 1
+File:Hong Kong International Airport, Arrival Hall 6, Mar 06.JPG|Level 5 – Arrivals Hall
+</gallery>
+
+===Terminal 2===
+
+Terminal 2 with an area measuring {{convert|140000|m2|sqft|abbr = on}}, together with the [[Hong Kong SkyCity|SkyPlaza]], opened on 28 February 2007 along with the opening of the [[Airport (MTR)|Airport Station's]] Platform 3.<ref>{{cite web|url=http://mtr.com.hk/eng/corporate/file_rep/PR-07-012-E.pdf|title=Press release of platform 3 opening|format=PDF|accessdate=7 May 2011}}</ref> It is only a check-in and processing facility for departing passengers with no gates or arrival facilities (passengers are transported underground to gates at Terminal 1). So far most [[low-cost carriers]] and some full-service carriers have relocated their check-in operations to T2. The SkyPlaza is situated within Terminal 2. Architecture firm [[Aedas]] and [[Skidmore, Owings and Merrill]] designed Terminal 2 and the SkyPlaza.<ref>{{cite web|url=http://www.worldbuildingsdirectory.com/project.cfm?id=1106|title=Project in Detail: Hong Kong International Airport: Terminal 2 / Sky Plaza|publisher=World Buildings Directory}}</ref><ref>{{cite web|url= http://www.aedas.com/HKIA-Terminal-2|title=Project Page: Hong Kong International Airport – Terminal 2 and Skyplaza|publisher=Aedas.com}}</ref><ref>{{cite web|url= http://www.som.com/content.cfm/hong_kong_international_airport_terminal_2_skyplaza|title=Project Page: Hong Kong International Airport – Terminal 2 and Skyplaza|publisher=SOM.com}}</ref>
+
+<gallery mode="packed">
+File:HK Skyplazaview 20070709.jpg|SkyPlaza at the Hong Kong International Airport Terminal 2 ceiling
+File:SkyPlaza at the Hong Kong International Airport Terminal 2.JPG|SkyPlaza at the Hong Kong International Airport Terminal 2
+File:SkyPlaza, Hong Kong International Airport (Hong Kong).jpg|SkyPlaza, Hong Kong International Airport (Hong Kong)
+</gallery>
+
+===North Satellite Concourse===
+
+In 2007, HKIA began the construction of a two-storey North Satellite Concourse (NSC), which opened in December 2009.<ref>{{cite web|url=http://www.hongkongairport.com/eng/media/press-releases/pr_981.html|title=HKIA Opens New Passenger Concourse to Enhance Service |publisher=Hongkongairport.com|date=15 December 2009|accessdate=7 May 2011}}</ref> This concourse was designed for [[narrow-body aircraft]] and is equipped with 10 [[jet bridge]]s. The concourse has a floor area of {{convert|20000|m2|sqft}} and will be able to serve more than five million passengers annually. There is a shuttle bus service between the NSC and Terminal 1 every four minutes. The North Satellite Concourse was built so the airport could accommodate at least 90 percent of its passengers by aerobridges. It has two levels (one for departures and one for arrivals). Architecture firm [[Aedas]] designed North Satellite Concourse<ref>{{cite web|url= http://www.aedas.com/North-Satellite-Concourse|title=Project Page: Hong Kong International Airport – North Satellite Concourse|publisher=Aedas.com}}</ref>
+<gallery mode="packed">
+File:Hong Kong Airport Satellite Terminal Exterior.JPG|Exterior view of Hong Kong Airport Satellite Terminal. Connection by airport shuttle bus to main terminal travelling along marked roadway at bottom left.
+File:Hong Kong Airport Satellite Terminal Interior 1.JPG|Interior view of Satellite Terminal, Hong Kong Airport. Escalator leads up from bus connection to main terminal building.
+File:Hong Kong Airport Satellite Terminal Interior 2.JPG|Interior view of Satellite Terminal, Hong Kong Airport. Central internet kiosk with coffee shop behind.
+</gallery>
+
+===Midfield Concourse===
+
+On 25 January 2011, Airport Authority Hong Kong (AA) unveiled phase 1 of its midfield development project which is targeted for completion by the end of 2015. The midfield area is located to the west of Terminal 1 and between the two existing runways. It is the last piece of land on the airport island available for large-scale development. This will include 20 aircraft parking stands, three of these will be wide enough to serve the [[Airbus A380]], and cater for an additional 10&nbsp;million passengers annually. Passengers will reach the concourse through an extension of the underground automated people mover.<ref>{{cite web|title=Airport Authority Unveils Phase 1 Midfield Development|publisher=Airport Authority Hong Kong|date=27 January 2011
+|url=http://www.hongkongairport.com/eng/media/press-releases/pr_1020.html|accessdate=28 January 2011}}</ref> Architecture firm [[Aedas]] designed the Midfield Concourse.<ref>{{cite web|url= http://www1.aedas.com/Midfield-Concourse|title=Project Page: Hong Kong International Airport – Midfield Concourse|publisher=Aedas.com}}</ref> The Concourse began operations on 28 December 2015, and the first flight that used it was the HX658 operated by the [[Hong Kong Airlines]] flying from Hong Kong to [[Okinawa]]. On 31 March 2016, the Concourse was officially inaugurated in a ceremony marking its full commissioning.<ref>{{cite web|url= https://www.hongkongairport.com/eng/media/press-releases/pr_1209.html|title=Press Releases: HKIA Celebrates Grand Opening of Midfield Concourse -- On-schedule Full Operation Increases Airport’s Passenger Handling Capacity|publisher=Airport Authority Hong Kong}}</ref>
+
+The current airlines using Midfield Concourse are [[Hong Kong Airlines]], [[HK Express]], AirAsia Group ([[AirAsia]], [[Thai AirAsia]] and [[AirAsia Zest]]), [[Cebu Pacific]], [[Peach Aviation]], [[Vanilla Air]], [[Jet Airways]], [[Turkish Airlines]], [[S7 Airlines]], [[Shenzhen Airlines]], [[Sichuan Airlines]], [[Juneyao Airlines]], [[Spring Airlines]], [[Bangkok Airways]], Jetstar Group ([[Jetstar Japan]] and [[Jetstar Pacific]]), [[Tigerair]], [[Royal Brunei Airlines]], [[SriLankan Airlines]], [[Jin Air]], [[Royal Nepal Airlines]], [[Aurora (airline)|Aurora]], [[Fiji Airways]], Palau Pacific Airways operated by [[Air Explore]], [[Lufthansa]], [[Malindo Air]], [[Siam Air]], [[Myanmar National Airlines]], [[Eastar Jet]] and [[Malaysia Airlines]].
+
+<gallery mode="packed">
+File:Hong Kong International Airport Midfield Concourse.jpg|Aerial view of Midfield Concourse, Hong Kong International Airport.
+File:HKIA Midfield Concourse Interior view2 201604.jpg|Interior view of Midfield Concourse
+File:HKIA Midfield Concourse Interior 201604.jpg|Interior view of sitting area
+File:HKIA Midfield Concourse Peoplemover Platform 201604.jpg|Interior view of Automated People Mover Platform
+</gallery>
+
+===Other buildings===
+
+[[Cathay Pacific City]], the head office of [[Cathay Pacific]], is located on the airport property.<ref>"[http://www.cathaypacific.com/cpa/en_INTL/contactus/portcountrycontacts?countryCode=HK Hong Kong]." [[Cathay Pacific]]. Retrieved 8 September 2010.</ref> Dragonair House (港龍大厦), the head office of [[Dragonair|Cathay Dragon]], is also on the airport property.<ref>"[http://www.dragonair.com/da/en_INTL/contactus/portcountrycontacts?countryCode=HK Hong Kong]." [[Dragonair]]. Retrieved 8 September 2010.</ref> The head office of [[Air Hong Kong]], as of 2004, is located on the fourth floor of the South Tower of Cathay Pacific City.<ref>"Directory: World Airlines." ''[[Flight International]]''. 16–22 March 2004. [http://www.flightglobal.com/pdfarchive/view/2004/2004-09%20-%200067.html?search=%22Air%20France%22 65]. "AIR HONG KONG LD1 (AHK) 4F South Tower; Cathay Pacific City, 8 Scenic Road, Hong Kong International Airport, Lantau, Hong Kong (SAR), China"</ref>
+
+The [[Civil Aviation Department (Hong Kong)|Civil Aviation Department]] has its headquarters at Hong Kong International Airport.<ref>"[http://www.cad.gov.hk/english/contactCAD.html Contact Us]." [[Civil Aviation Department (Hong Kong)|Civil Aviation Department]]. Retrieved on August 11, 2014. "Director-General of Civil Aviation, Civil Aviation Department Headquarters, 1 Tung Fai Road, Hong Kong International Airport, Lantau, Hong Kong " [http://www.cad.gov.hk/chinese/contactCAD.html Traditional Chinese address]: "來函民航處處長 香港大嶼山香港國際機場 東輝路1號 民航處總部辦公大樓", [http://www.cad.gov.hk/sc/contactCAD.html Simplified Chinese address]: "来函民航处处长 香港大屿山香港国际机场 东辉路1号 民航处总部办公大楼"</ref>
+
+The head office of [[Hong Kong Airlines]] was previously on Level 2 of the CNAC House (中航大廈, Cantonese: ''jung1 hong4 daai6 ha6'', Mandarin: ''Zhōngháng Dàshà'') at HKIA.<ref>"[http://www.hongkongairlines.com/cms/language!dispatchModule.action?menuId=299&country_code=HK&request_locale=en_GB Contact Us – Hong Kong]." Hong Kong Airlines. Retrieved 7 November 2011. "Headquarter Office Address: L2 CNAC House, 12 Tung Fai Road, Hong Kong International Airport, Lantau, Hong Kong"</ref><ref>"[http://www.hongkongairlines.com/cms/language!dispatchModule.action?menuId=299&country_code=HK&request_locale=zh_TW 聯繫我們 > 香港辦事處]." Hong Kong Airlines. Retrieved 7 November 2011. "地址: 香港大嶼山香港國際機場東輝路12號中航大廈2樓"</ref>
+<gallery mode="packed">
+File:HKIA Control Tower.JPG|Control tower seen from an aircraft
+File:HKIA Super Terminal 1 201308.jpg|Super Terminal 1
+File:HKIA Apron1.JPG|View of the outside. A [[Boeing C-17]] Globemaster is in the lower left corner
+</gallery>
+
+==Future development==
+
+<!-- Deleted image removed: [[File:Updated Triple Runway Layout at Hong Kong International.jpg|thumb|Updated layout plan (as of Dec. 2012) of the third runway option as published in the ''Hong Kong International Airport Master Plan 2030''.]] -->
+
+In June 2010, the Airport Authority unveiled plans to develop in stages the vast midfield site of the airport island. Stage 1 will involve the construction of a new 20 gate passenger concourse to be built in 2 phases (completion 2015 and 2020) with 11 gates in phase 1 growing to 20 gates in phase 2. Configuration of the new concourse is similar to those at [[Hartsfield-Jackson Atlanta International Airport]], [[Denver International Airport]], [[Washington Dulles International Airport]], [[Heathrow Terminal 5]] and [[Incheon International Airport]]. After stage 1 of midfield development is completed in 2020, there will be sufficient lands remaining for further new concourses to be built as and when demand for them materialises.<ref>{{cite journal|url=http://www.legco.gov.hk/yr09-10/english/panels/edev/papers/edevcb1-2086-1-e.pdf|title=Midfield Expansion Project of Airport Authority Hong Kong Purpose|publisher=Legislative Council Panel on Economic Development|format=PDF}}</ref>
+
+===Master Plan 2030===
+
+One year after, on 2 June 2011, the Airport Authority announced and released their latest version of a 20-year blueprint for the airport's development, the ''[[Hong Kong International Airport Master Plan 2030]]''.<ref>{{cite press release|title=Airport Authority Hong Kong Unveils Development Options – Three-month Public Consultation Launched to Collect Feedback.|publisher=[[Hong Kong Airport Authority]]|date=2 June 2011|url= http://www.hkairport2030.com/en/information/press/20110602.html|accessdate=2 June 2011}}</ref> The study took three years and according to the authority, nine consulting organisations have been hired for the research, observation, planning and advice. The main focus is to improve the overall capacity and aircraft handling ability of the airport. Based on this, two options have been developed.
+
+====Option 1: Two-runway system====
+
+To maintain the current two-runway system, there will be enhancements to the terminal and apron facilities to increase the airport's capacity. This option will enable the airport to handle a maximum of 420,000 flight movements per year, with annual passenger and cargo throughput increased to 74 million and six million tonnes respectively. The approximate cost of this plan is $23.4 billion [[Hong Kong dollar]]s in 2010 prices, or HK$42.5 billion in money-of-the-day{{when|date=July 2014}} prices. However, the Airport Authority estimates that the airport will reach its maximum runway capacity sometime around 2020 if no extra runway is added.
+
+====Option 2: Three-runway system====
+
+This plan will focus on adding a third runway to the north of the Chek Lap Kok, the existing island the airport is built on, by land reclamation, using [[deep cement mixing]], of about {{convert|650|ha|acres}}. Associated facilities, additional terminals, airfield and apron facilities, will be built as well, and, combined with the new runway, it is estimated that the airport would be able to handle a maximum of 620,000 flights per year (102 per hour, or about one flight every 36 seconds), and meet forecast annual passenger and cargo throughput of about 97 million and 8.9 million tonnes by 2030 respectively. {{Citation needed|date=May 2016}}
+
+There are possible drawbacks. Development costs are a concern: although the proposal would increase the number of direct jobs associated with HKIA to 150,000 by 2030 and generate an ENPV of HK$912 billion (in 2009 dollars), the estimated cost is approximately $86.2 billion (2010) Hong Kong Dollars, or HK$141.5 billion (at money-of-the-day prices).<ref>{{cite web|title=LCQ7: Financial arrangement of the three-runway system project at Hong Kong International Airport|url=http://www.info.gov.hk/gia/general/201504/22/P201504210517.htm|publisher=Legislative Council|accessdate=22 April 2015|date=22 April 2015}}</ref> There are also environmental and local noise pollution concerns.
+
+On 20 March 2012, the Hong Kong Government adopted this option as the official expansion plan.<ref>{{cite web|url=http://www.hkairport2030.com/en/information/press/20120320.html|title=三跑道系統 - 香港國際機場|publisher=|accessdate=10 May 2015}}</ref>
+
+==Airlines and destinations==
+
+===Passenger===
+[[File:Leong Untitled (7181360384).jpg|thumb|[[United Airlines]] [[Boeing 777-200]] and [[Boeing 737-800]] taxiing.]]
+[[File:Hong Kong destinations in China and Taiwan.gif|thumbnail|right|Nonstop routes from Hong Kong to destinations in Mainland China and Taiwan.]]
+[[File:Hong Kong to Asia & Pacific destinations.gif|thumbnail|right|Nonstop routes from Hong Kong to destinations in Asia and Pacific.]]
+[[File:Hong Kong to other Destinations.gif|thumbnail|right|Nonstop routes from Hong Kong to destinations in America, Africa, and Europe.]]
+{{Airport-dest-list|3rdcoltitle = Terminal
+<!-- -->
+|[[Aeroflot]]| [[Moscow-Sheremetyevo]] |1
+<!-- -->
+|[[Aeroflot]]<br>{{nowrap|operated by [[Aurora (airline)|Aurora]]}}| [[Vladivostok International Airport|Vladivostok]]<ref>{{cite web|title="Аврора" открывает рейс в Гонконг|url=http://flyaurora.ru/?ELEMENT_ID=253|website=http://flyaurora.ru/|publisher=Aurora Airlines|accessdate=9 June 2014}}</ref> |2
+<!-- -->
+|[[AirAsia]]| [[Kota Kinabalu International Airport|Kota Kinabalu]], [[Kuala Lumpur International Airport|Kuala Lumpur–International]] |2
+<!-- -->
+|[[AirAsia Zest]]| [[Ninoy Aquino International Airport|Manila]]<ref>[http://www.abs-cbnnews.com/business/04/21/15/airasia-offers-piso-fare-manila-hong-kong-flights AirAsia offers piso fare for Manila-Hong Kong flights | ABS-CBN News<!-- Bot generated title -->]</ref> |2
+<!-- -->
+|[[Air Astana]]| [[Almaty International Airport|Almaty]] |2
+<!-- -->
+|[[Air Busan]]| [[Gimhae International Airport|Busan]] |2
+<!-- -->
+|[[Air Canada]]| [[Toronto-Pearson]], [[Vancouver International Airport|Vancouver]] |1
+<!-- -->
+|[[Air China]]| [[Beijing-Capital]], [[Chengdu Shuangliu International Airport|Chengdu]], [[Chongqing Jiangbei International Airport|Chongqing]], [[Dalian Zhoushuizi International Airport|Dalian]], [[Tianjin Binhai International Airport|Tianjin]]<br>'''Seasonal''': [[Ordos Ejin Horo Airport|Ordos]] |1
+<!-- -->
+|[[Air France]]| [[Paris-Charles de Gaulle]] |1
+<!-- -->
+|[[Air India]]| [[Indira Gandhi International Airport|Delhi]], [[Chhatrapati Shivaji International Airport|Mumbai]], [[Osaka-Kansai]], [[Incheon International Airport|Seoul-Incheon]] |1
+<!-- -->
+|[[Air Leisure]]| '''Charter:''' [[Cairo International Airport|Cairo]], [[Aswan International Airport|Aswan]] |2
+<!-- -->
+|[[Air Mauritius]]| [[Sir Seewoosagur Ramgoolam International Airport|Port Louis]] |1
+<!-- -->
+|[[Air New Zealand]]| [[Auckland Airport|Auckland]] |1
+<!-- -->
+|[[Air Niugini]]| [[Jacksons International Airport|Port Moresby]] |1
+<!-- -->
+|[[All Nippon Airways]]| [[Chubu International Airport|Nagoya-Centrair]], [[Osaka-Kansai]], [[Tokyo-Haneda]] |1
+<!-- -->
+|[[All Nippon Airways]]<br>{{nowrap|operated by [[Air Japan]]}}| [[Tokyo-Narita]] |1
+<!-- -->
+|[[American Airlines]]| [[Dallas/Fort Worth International Airport|Dallas/Fort Worth]], [[Los Angeles International Airport|Los Angeles]] (begins 8 September 2016)<ref>[http://finance.yahoo.com/news/american-airlines-responds-customer-demand-223000099.html;_ylt=AwrC1Crjcd9WrnIANCPQtDMD;_ylu=X3oDMTBydWNmY2MwBGNvbG8DYmYxBHBvcwM0BHZ0aWQDBHNlYwNzcg-- American Airlines Responds to Customer Demand With New Service From Los Angeles to Hong Kong - Yahoo Finance<!-- Bot generated title -->]</ref> |1
+<!-- -->
+|[[Asiana Airlines]]| [[Incheon International Airport|Seoul-Incheon]] |1
+<!-- -->
+|[[Austrian Airlines]]| [[Vienna Airport|Vienna]] (resumes 5 September 2016)<ref>[http://airlineroute.net/2016/03/09/os-hkg-sep16/ Austrian Resumes Hong Kong Service from Sep 2016 | Airline Route<!-- Bot generated title -->]</ref> |1
+<!-- -->
+|[[Bangkok Airways]]| [[Samui Airport|Koh Samui]] |2
+<!-- -->
+|[[Beijing Capital Airlines]]| [[Wanzhou Wuqiao Airport|Wanzhou]] |1
+<!-- -->
+|[[British Airways]]| [[London-Heathrow]] |1
+<!-- -->
+|[[Cathay Pacific]]| [[Adelaide Airport|Adelaide]], [[Amsterdam Airport Schiphol|Amsterdam]], [[Auckland Airport|Auckland]], [[Bahrain International Airport|Bahrain]], [[Bangkok-Suvarnabhumi]], [[Beijing-Capital]], [[Logan International Airport|Boston]],<ref>{{cite web|url=http://www.bostonglobe.com/business/2014/08/21/logan-adding-direct-flight-hong-kong/Sr2OSM0gxeAEQrUGJtEvVI/story.html|title=Logan adding direct flight to Hong Kong|work=BostonGlobe.com|accessdate=10 May 2015}}</ref> [[Brisbane Airport|Brisbane]], [[Cairns Airport|Cairns]], [[Mactan-Cebu International Airport|Cebu]], [[Chennai International Airport|Chennai]], [[Chicago-O'Hare]], [[Bandaranaike International Airport|Colombo]], [[Indira Gandhi International Airport|Delhi]], [[Ngurah Rai International Airport|Denpasar/Bali]], [[Dubai International Airport|Dubai-International]], [[Düsseldorf Airport|Düsseldorf]],<ref>{{cite web|url=http://www.cathaypacific.com/cx/en_HK/hidden-pages/special-highlight/travel-information/dusseldorf-port/dusseldorf-route.html?DESTINATION=DUS&DEPARTUREDATE=20150901&ARRIVALDATE=20150907|title=Fly non-stop from Hong Kong to Düsseldorf, 4 times a week starting 1 September 2015|publisher=|accessdate=10 May 2015}}</ref> [[Frankfurt Airport|Frankfurt]], [[Fukuoka Airport|Fukuoka]], [[Tan Son Nhat International Airport|Ho Chi Minh City]], [[Rajiv Gandhi International Airport|Hyderabad]], [[Soekarno-Hatta International Airport|Jakarta-Soekarno-Hatta]], [[OR Tambo International Airport|Johannesburg]], [[Kuala Lumpur International Airport|Kuala Lumpur–International]], [[London-Gatwick]] (resumes 2 September 2016),<ref>{{cite web|title=Cathay Pacific’s new Gatwick service to offer more choice and flexibility for London travel|url=http://www.cathaypacific.com/cx/en_HK/about-us/press-room/press-release/2015/Cathay-Pacific-new-Gatwick-service-for-London-travel.html|publisher=Cathay Pacific|date=10 December 2015|accessdate=10 December 2015}}</ref> [[London-Heathrow]], [[Los Angeles International Airport|Los Angeles]], [[Adolfo Suárez Madrid–Barajas Airport|Madrid]] (begins 2 June 2016),<ref>{{cite web|url=http://airlineroute.net/2015/09/10/cx-mad-jun16/|title=Cathay Pacific to Launch Madrid Service from June 2016|publisher=Airlineroute.net|date=10 September 2015|accessdate=10 September 2015}}</ref> [[Ibrahim Nasir International Airport|Malé]], [[Manchester Airport|Manchester]], [[Ninoy Aquino International Airport|Manila]], [[Melbourne Airport|Melbourne]], [[Milan-Malpensa]], [[Chhatrapati Shivaji International Airport|Mumbai]], [[Chubu International Airport|Nagoya-Centrair]], [[New York-JFK]], [[Newark Liberty International Airport|Newark]], [[Osaka-Kansai]], [[Paris-Charles de Gaulle]], [[Perth Airport|Perth]], [[King Khalid International Airport|Riyadh]], [[Rome-Fiumicino]], [[San Francisco International Airport|San Francisco]], [[New Chitose Airport|Sapporo-Chitose]], [[Incheon International Airport|Seoul-Incheon]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Singapore Changi Airport|Singapore]], [[Juanda International Airport|Surabaya]], [[Sydney Airport|Sydney]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Tokyo-Haneda]], [[Tokyo-Narita]], [[Toronto-Pearson]], [[Vancouver International Airport|Vancouver]], [[Zürich Airport|Zürich]] |1
+<!-- -->
+|[[Cebu Pacific]]| [[Mactan-Cebu International Airport|Cebu]], [[Clark International Airport|Clark]], [[Iloilo International Airport|Iloilo]], [[Kalibo International Airport|Kalibo]], [[Ninoy Aquino International Airport|Manila]] |1
+<!-- -->
+|[[China Airlines]]| [[Soekarno-Hatta International Airport|Jakarta-Soekarno-Hatta]], [[Kaohsiung International Airport|Kaohsiung]], [[Tainan Airport|Tainan]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]] <br> '''Charter:''' [[Hiroshima Airport|Hiroshima]], [[Miho–Yonago Airport|Yonago]]|1
+<!-- -->
+|[[China Eastern Airlines]]|[[Fuzhou Changle International Airport|Fuzhou]], [[Hangzhou Xiaoshan International Airport|Hangzhou]], [[Hefei Xinqiao International Airport|Hefei]], [[Jinan Yaoqiang International Airport|Jinan]], [[Kunming Changshui International Airport|Kunming]], [[Nanchang Changbei International Airport|Nanchang]], [[Nanjing Lukou International Airport|Nanjing]], [[Ningbo Lishe International Airport|Ningbo]], [[Qingdao Liuting International Airport|Qingdao]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Shijiazhuang Zhengding International Airport|Shijiazhuang]], [[Taiyuan Wusu International Airport|Taiyuan]], [[Wenzhou Longwan International Airport|Wenzhou]], [[Sunan Shuofang International Airport|Wuxi]], [[Xi'an Xianyang International Airport|Xi'an]]|1
+<!-- -->
+|[[China Southern Airlines]]| [[Beijing-Capital]], [[Jieyang Chaoshan Airport|Jieyang]], [[Meixian Airport|Meixian]], [[Shenyang Taoxian International Airport|Shenyang]], [[Wuhan Tianhe International Airport|Wuhan]], [[Yiwu Airport|Yiwu]], [[Zhengzhou Xinzheng International Airport|Zhengzhou]] |1
+<!-- -->
+|[[City Airways]]| [[Chiang Mai International Airport|Chiang Mai]], [[Don Mueang International Airport|Bangkok-Don Mueang]], [[Phuket International Airport|Phuket]] |2
+<!-- -->
+|[[Delta Air Lines]]| [[Seattle-Tacoma International Airport|Seattle/Tacoma]]|1
+<!-- -->
+|[[Dragonair]]| [[Kempegowda International Airport|Bangalore]], [[Beijing-Capital]], [[Gimhae International Airport|Busan]], [[Changsha Huanghua International Airport|Changsha]], [[Chengdu Shuangliu International Airport|Chengdu]], [[Chiang Mai International Airport|Chiang Mai]], [[Chongqing Jiangbei International Airport|Chongqing]], [[Clark International Airport|Clark]], [[Đà Nẵng International Airport|Da Nang]], [[Ngurah Rai International Airport|Denpasar/Bali]],<ref>{{cite press release|url=http://www.dragonair.com/ka/en_HK/about-us/media-centre/press-release/2014/Dragonair_to_launch_flights_to_bali_in_april.html|title=Dragonair to launch flights to Bali in April|publisher=[[Dragonair]]|date=5 March 2014|accessdate=5 March 2014}}</ref> [[Shahjalal International Airport|Dhaka]], [[Fukuoka Airport|Fukuoka]], [[Fuzhou Changle International Airport|Fuzhou]], [[Guangzhou Baiyun International Airport|Guangzhou]], [[Guilin Liangjiang International Airport|Guilin]], [[Haikou Meilan International Airport|Haikou]], [[Hangzhou Xiaoshan International Airport|Hangzhou]], [[Noi Bai International Airport|Hanoi]], [[Hiroshima Airport|Hiroshima]],<ref>[https://www.dragonair.com/ka/en_HK/hidden-pages/special-highlight/travel-information/hiroshima-port/hiroshima-route.html Explore even more of Japan with our latest destination – Hiroshima. - Dragonair<!-- Bot generated title -->]</ref> [[Jeju International Airport|Jeju]], [[Kaohsiung International Airport|Kaohsiung]], [[Tribhuvan International Airport|Kathmandu]], [[Netaji Subhas Chandra Bose International Airport|Kolkata]], [[Kota Kinabalu International Airport|Kota Kinabalu]], [[Kunming Changshui International Airport|Kunming]], [[Naha Airport|Naha]], [[Nanjing Lukou International Airport|Nanjing]], [[Ningbo Lishe International Airport|Ningbo]], [[Penang International Airport|Penang]], [[Phnom Penh International Airport|Phnom Penh]], [[Phuket International Airport|Phuket]], [[Qingdao Liuting International Airport|Qingdao]], [[Sanya Phoenix International Airport|Sanya]], [[Shanghai Hongqiao International Airport|Shanghai-Hongqiao]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Siem Reap International Airport|Siem Reap]], [[Taichung Airport|Taichung]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Haneda Airport|Tokyo-Haneda]], [[Wenzhou Yongqiang International Airport|Wenzhou]], [[Wuhan Tianhe International Airport|Wuhan]], [[Xi'an Xianyang International Airport|Xi'an]], [[Xiamen Gaoqi International Airport|Xiamen]], [[Yangon International Airport|Yangon]], [[Zhengzhou Xinzheng International Airport|Zhengzhou]] |1
+<!-- -->
+|[[Eastar Jet]]| [[Incheon International Airport|Seoul-Incheon]] |2
+<!-- -->
+|[[El Al]]| [[Ben Gurion International Airport|Tel Aviv-Ben Gurion]] |1
+<!-- -->
+|[[Emirates (airline)|Emirates]]| [[Bangkok-Suvarnabhumi]], [[Dubai International Airport|Dubai-International]] |1
+<!-- -->
+|[[Etihad Airways]]| [[Abu Dhabi International Airport|Abu Dhabi]] |1
+<!-- -->
+|[[Ethiopian Airlines]]| [[Bole International Airport|Addis Ababa]], [[Incheon International Airport|Seoul-Incheon]],<ref>{{cite news|title=香港直航往返首爾只需$2,040起 – 埃塞俄比亞航空|url=http://www.meethk.com/?p=14035}}</ref> [[Narita International Airport|Tokyo-Narita]]<ref>{{cite web | url=http://ucanfly2.ga/6289/ | title=埃塞俄比亞航空新航線坐787！香港往來東京成田$1616 | accessdate=1 October 2015}}</ref> |1
+<!-- -->
+|[[EVA Air]]| [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]] |1
+<!-- -->
+|[[Fiji Airways]]| [[Nadi International Airport|Nadi]] |1
+<!-- -->
+|[[Finnair]]| [[Helsinki Airport|Helsinki]] |1
+<!-- -->
+|[[Garuda Indonesia]]| [[Ngurah Rai International Airport|Denpasar/Bali]], [[Soekarno-Hatta International Airport|Jakarta-Soekarno-Hatta]] |1
+<!-- -->
+|[[Hong Kong Airlines]] | [[Auckland Airport|Auckland]] (begins 10 November 2016),<ref>{{cite web|url=http://www.routesonline.com/news/38/airlineroute/266975/hong-kong-airlines-files-planned-auckland-launch-schedule-from-nov-2016/|title=Hong Kong Airlines Files Planned Auckland Launch Schedule from Nov 2016|publisher=routesonline|accessdate=11 May 2016}}</ref> [[Bangkok-Suvarnabhumi]], [[Beijing-Capital]], [[Cairns Airport|Cairns]], [[Changchun Longjia International Airport|Changchun]], [[Chengdu Shuangliu International Airport|Chengdu]], [[Chongqing Jiangbei International Airport|Chongqing]], [[Ngurah Rai International Airport|Denpasar/Bali]], [[Fuzhou Changle International Airport|Fuzhou]], [[Gold Coast Airport|Gold Coast]],<ref name="ReferenceA">[http://www.hongkongairlines.com/en_HK/news/detail?id=10004513672 Hong Kong Airlines – Hong Kong to Worldwide Air tickets, Online Special Air fares and Airline Reservation<!-- Bot generated title -->]</ref> [[Guiyang Longdongbao International Airport|Guiyang]] [[Haikou Meilan International Airport|Haikou]], [[Hangzhou Xiaoshan International Airport|Hangzhou]], [[Noi Bai International Airport|Hanoi]], [[Hohhot Baita International Airport|Hohhot]], [[Kagoshima Airport|Kagoshima]], [[Krabi Airport|Krabi]],<ref>[http://www.theborneopost.com/2016/01/21/kuching-airlines-first-in-malaysia/ Kuching airline’s first in Malaysia – BorneoPost Online | Borneo , Malaysia, Sarawak Daily News | Largest English Daily In Borneo<!-- Bot generated title -->]</ref> [[Kuching Airport|Kuching]] ,<ref>{{cite web|url=http://airlineroute.net/2016/04/20/hx-kch-may16/|title=Hong Kong Airlines Adds Kuching Service from late-May 2016|publisher=airlineroute|accessdate=20 April 2016}}</ref> [[Kumamoto Airport|Kumamoto]],<ref name="airlineroute.net">[http://airlineroute.net/2015/09/21/hx-kbvkmj-w15/ Hong Kong Airlines Proposes Krabi / Kumamoto Service Launch in W15 | Airline Route<!-- Bot generated title -->]</ref> [[Miyazaki Airport|Miyazaki]],<ref>{{cite web|url=http://airlineroute.net/2015/02/03/hx-kmi-apr15/|title=Hong Kong Airlines Plans Miyazaki Service from late-March 2015|publisher=Airlineroute.net|date=3 February 2015|accessdate=3 February 2015}}</ref> [[Naha Airport|Naha]], [[Nanchang Changbei International Airport|Nanchang]],<ref>{{cite web|url=http://airlineroute.net/2015/03/26/hx-khn-s15/|title=Hong Kong Airlines Adds Nanchang Service from late-April 2015|publisher=Airlineroute.net|date=26 March 2015|accessdate=26 March 2015}}</ref> [[Nanjing Lukou International Airport|Nanjing]], [[Nanning Wuxu International Airport|Nanning]], [[Okayama Airport|Okayama]],<ref>{{cite web|url=http://airlineroute.net/2016/02/19/hx-okj-s16/|title=Hong Kong Airlines Adds Okayama Service from late-March 2016|publisher=airlineroute|accessdate=19 February 2016}}</ref> [[Kansai International Airport|Osaka-Kansai]] (begins 15 July 2016),<ref>{{cite web|url=http://www.routesonline.com/news/38/airlineroute/267019/hong-kong-airlines-files-planned-osaka-schedule-from-july-2016/|title=Hong Kong Airlines Files Planned Osaka Schedule from July 2016|publisher=routesonline|accessdate=16 May 2016}}</ref> [[Phnom Penh International Airport|Phnom Penh]], [[Sanya Phoenix International Airport|Sanya]], [[New Chitose Airport|Sapporo-Chitose]], [[Shanghai Hongqiao International Airport|Shanghai-Hongqiao]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Taiyuan Wusu International Airport|Taiyuan]], [[Tianjin Binhai International Airport|Tianjin]], [[Narita International Airport|Tokyo-Narita]] (resumes 1 July 2016),<ref>{{cite web|url=http://airlineroute.net/2016/04/11/hx-nrt-jul16/|title=Hong Kong Airlines to Resume Tokyo Narita Service from July 2016|publisher=Airlineroute.net|date=11 April 2016|accessdate=14 April 2016}}</ref> [[Xuzhou Guanyin Airport|Xuzhou]], [[Yancheng Nanyang Airport|Yancheng]] |1
+<!-- -->
+|{{nowrap|[[HK Express]]}}|[[Gimhae International Airport|Busan]],<ref>{{cite web|title=HK Express to Start Busan Service from Aug 2014|url=http://airlineroute.net/2014/05/12/uo-pus-aug14/|work=Airlineroute.net|accessdate=16 May 2014|author=JL|date=12 May 2014}}</ref> [[Chiang Mai International Airport|Chiang Mai]], [[Da Nang International Airport|Da Nang]],<ref>{{cite web|url=http://airlineroute.net/2015/01/23/uo-dad-s15/|title=HK Express to Start Da Nang Service from April 2015|publisher=|accessdate=10 May 2015}}</ref> [[Fukuoka Airport|Fukuoka]], [[Hiroshima Airport|Hiroshima]], [[New Ishigaki Airport|Ishigaki]] (begins 16 June 2016),<ref name="HK_Japan">{{cite web|url=http://airlineroute.net/2016/03/29/uo-japan-s16/|title=HK Express Adds 3 New Routes to Japan in S16|publisher=airlineroute|accessdate=29 March 2016}}</ref> [[Jeju International Airport|Jeju]], [[Kagoshima Airport|Kagoshima]] (begins 11 July 2016),<ref name="HK_Japan"/> [[Kunming Changshui International Airport|Kunming]], [[Lanzhou Zhongchuan International Airport|Lanzhou]], [[Mandalay International Airport|Mandalay]] (begins 5 September 2016),<ref name="ReferenceB">[http://airlineroute.net/2015/12/31/uo-rgnmdl-sep16/ HK Express Delays Myanmar Launch to Sep 2016 | Airline Route<!-- Bot generated title -->]</ref> [[Chubu International Airport|Nagoya-Centrair]], [[Ningbo Lishe International Airport|Ningbo]], [[Osaka-Kansai]], [[Phuket Airport|Phuket]], [[Incheon International Airport|Seoul-Incheon]], [[Siem Reap International Airport|Siem Reap]],<ref>{{cite web|url=http://airlineroute.net/2015/01/29/uo-rep-oct15/|title=HK Express to Star Siem Reap Service from Oct 2015|publisher=Airline Route|date=29 January 2015|accessdate=29 January 2015}}</ref> [[Taichung Airport|Taichung]], [[Takamatsu Airport|Takamatsu]] (begins 6 July 2016),<ref name="HK_Japan"/> [[Tokyo-Haneda]], [[Tokyo-Narita]], [[Sunan Shuofang International Airport|Wuxi]],<ref>{{cite web|url= http://airlineroute.net/2015/02/11/uo-wux-apr15/|title=HK Express Adds Hong Kong – Wuxi Service from April 2015|publisher=AirlineRoute.net|date=11 February 2015|accessdate=14 March 2015}}</ref> [[Yangon International Airport|Yangon]] (begins 1 September 2016)<ref name="ReferenceB" /><br>'''Seasonal:''' [[Dunhuang Airport|Dunhuang]]<br> '''Charter:''' [[Magong Airport|Magong]]<ref>[http://airlineroute.net/2015/06/11/uo-mzg-jun15/ HK Express Plans Hong Kong – Magong Charter Service from mid-June 2015 | Airline Route<!-- Bot generated title -->]</ref>  |2
+<!-- -->
+|[[Japan Airlines]]| [[Tokyo-Haneda]], [[Tokyo-Narita]] <br> '''Charter:''' [[New Chitose Airport|Sapporo]]|1
+<!-- -->
+|[[Jeju Air]]| [[Incheon International Airport|Seoul-Incheon]] |2
+<!-- -->
+|[[Jet Airways]]| [[Indira Gandhi International Airport|Delhi]], [[Chhatrapati Shivaji International Airport|Mumbai]] |2
+<!-- -->
+|[[Jetstar Asia Airways]]|[[Singapore Changi Airport|Singapore]]|2
+<!-- -->
+|[[Jetstar Japan]]| [[Osaka-Kansai]],<ref>{{cite web|url=http://airlineroute.net/2014/12/03/gk-hkg-mar15/|title=Jetstar Japan Adds Osaka – Hong Kong Service from late-Feb 2015|publisher=|accessdate=10 May 2015}}</ref> [[Narita International Airport|Tokyo-Narita]]<ref>{{cite web|url=http://airlineroute.net/2015/04/07/gk-nrthkg-jun15/|title=Jetstar Japan to Start Tokyo - Hong Kong Service from June 2015|publisher=Airlineroute.net|date=7 April 2015|accessdate=7 April 2015}}</ref> |2
+<!-- -->
+|[[Jetstar Pacific Airlines]]| [[Noi Bai International Airport|Hanoi]]<ref>{{cite web|url=http://english.thesaigontimes.vn/40494/Jetstar-Pacific-to-start-Hanoi-Hong-Kong-service-in-Sept.html|title=Jetstar Pacific to start Hanoi-Hong Kong service in Sept|publisher=The Saigon Times|date=17 April 2015|accessdate=18 April 2015}}</ref><br>'''Charter:''' [[Cam Ranh International Airport|Nha Trang]]<ref>[http://airlineroute.net/2015/11/27/bl-cxr-w15/ Jetstar Pacific Adds New Cam Ranh/Nha Trang – China Charters in W15 | Airline Route<!-- Bot generated title -->]</ref> |2
+<!-- -->
+|[[Jin Air]]| [[Incheon International Airport|Seoul-Incheon]] |2
+<!-- -->
+|[[Juneyao Airlines]]| [[Shanghai Pudong International Airport|Shanghai-Pudong]]|1
+<!-- -->
+|[[Kenya Airways]]| [[Bangkok-Suvarnabhumi]], [[Jomo Kenyatta International Airport|Nairobi-Jomo Kenyatta]] |1
+<!-- -->
+|[[KLM]]| [[Amsterdam Airport Schiphol|Amsterdam]] |1
+<!-- -->
+|[[Korean Air]]| [[Gimhae International Airport|Busan]], [[Incheon International Airport|Seoul-Incheon]] <br> '''Charter:''' [[Cheongju International Airport|Cheongju]], [[Daegu International Airport|Daegu]]|1
+<!-- -->
+|[[Lion Air]]|'''Charter''': [[Ngurah Rai International Airport|Denpasar]]<ref>{{cite web|url=http://airlineroute.net/2015/08/06/jt-dpshkg-aug15/|title=Lion Air Adds Denpasar - Hong Kong Charter in August 2015|publisher=Airlineroute.net|date=6 August 2015|accessdate=6 August 2015}}</ref>|2
+<!-- -->
+|[[Lufthansa]]| [[Frankfurt Airport|Frankfurt]], [[Munich Airport|Munich]] |1
+<!-- -->
+|[[Malaysia Airlines]]| [[Kuala Lumpur International Airport|Kuala Lumpur–International]] |1
+<!-- -->
+|[[Malindo Air]]| [[Kuala Lumpur International Airport|Kuala Lumpur–International]]<ref>[http://english.astroawani.com/business-news/malindo-air-introduces-daily-services-hong-kong-88529 Malindo Air introduces daily services to Hong Kong | Astro Awani<!-- Bot generated title -->]</ref> |1
+<!-- -->
+|[[Mandarin Airlines]]| [[Taichung Airport|Taichung]]<br>'''Seasonal charter''': [[Taitung Airport|Taitung]]<ref>[http://airlineroute.net/2015/05/19/ci-ttthkg-jun15/ China Airlines Adds Taitung – Hong Kong Charter June – Aug 2015 | Airline Route<!-- Bot generated title -->]</ref> |1 
+<!-- -->
+|[[Mega Maldives]]| [[Ibrahim Nasir International Airport|Malé]] |1
+<!-- -->
+|[[MIAT Mongolian Airlines]]| [[Chinggis Khaan International Airport|Ulaanbaatar]] |1
+<!-- -->
+|[[Myanmar National Airlines]]| [[Yangon International Airport|Yangon]]<ref>[http://airlineroute.net/2015/10/22/ub-hkg-dec15/ Myanmar National Airlines Adds Hong Kong Service from Dec 2015 | Airline Route<!-- Bot generated title -->]</ref> |1
+<!-- -->
+|[[Nepal Airlines]]| [[Tribhuvan International Airport|Kathmandu]] |1
+<!-- -->
+|[[Orient Thai Airlines]]| [[Bangkok-Suvarnabhumi]] |1
+<!-- -->
+| Palau Pacific Airways<br>{{nowrap|operated by [[Air Explore]]}}| '''Charter:''' [[Roman Tmetuchl International Airport|Koror]] |2
+<!-- -->
+|[[Peach (airline)|Peach]]| [[Naha Airport|Naha]],<ref>http://www.flypeach.com/Portals/0/PressReleases/2014/141125-Press-Release-EN.pdf</ref> [[Osaka-Kansai]] |2
+<!-- --> 
+|[[Philippine Airlines]]| [[Ninoy Aquino International Airport|Manila]] |1
+<!-- --> 
+|[[Qantas]]| [[Brisbane Airport|Brisbane]], [[Melbourne Airport|Melbourne]], [[Sydney Airport|Sydney]] |1
+<!-- -->
+|[[Qatar Airways]]| [[Hamad International Airport|Doha]] |1
+<!-- -->
+|[[Royal Brunei Airlines]]| [[Brunei International Airport|Bandar Seri Begawan]] |1
+<!-- -->
+|[[Royal Jordanian]]| [[Queen Alia International Airport|Amman-Queen Alia]], [[Bangkok-Suvarnabhumi]] |1
+<!-- -->
+|[[S7 Airlines]]| [[Vladivostok International Airport|Vladivostok]]<br>'''Seasonal''': [[Irkutsk Airport|Irkutsk]]<!--S7 Airlines does not operate flights from Hong Kong to Khabarovsk, Irkutsk and Novosibirsk in summer 2014, but these flights will resume in September and October. Therefore, they should be listed as seasonal destinations--><ref>{{cite web|url=http://www.s7.ru/home/info/timetable.dot|title=S7 Airlines - Расписание полетов S7 Airlines - купить авиабилеты|publisher=|accessdate=10 May 2015}}</ref> |1
+<!-- -->
+|[[S7 Airlines]]<br>{{nowrap|operated by [[Globus Airlines]]}}| '''Seasonal''': [[Tolmachevo Airport|Novosibirsk]] |1
+<!-- -->
+|[[Scandinavian Airlines]]| [[Stockholm-Arlanda]]<ref>{{cite web|url=http://airlineroute.net/2015/01/29/sk-hkg-sep15/|title=SAS to Start Stockholm – Hong Kong Service from mid-Sep 2015|publisher=|accessdate=10 May 2015}}</ref> |2<!-- -->
+|[[Scoot]]| [[Singapore Changi Airport|Singapore]] |1
+<!-- -->
+|[[Shanghai Airlines]]| [[Shanghai Hongqiao International Airport|Shanghai-Hongqiao]] |1
+<!-- -->
+|[[Shenzhen Airlines]]| [[Harbin Taiping International Airport|Harbin]], [[Jinan Yaoqiang International Airport|Jinan]],<ref>[http://airlineroute.net/2015/11/24/zh-tnahkg-dec15/ Shenzhen Airlines Adds New Jinan – Hong Kong Sector from Dec 2015 | Airline Route<!-- Bot generated title -->]</ref> [[Quanzhou Jinjiang Airport|Quanzhou]], [[Yantai Penglai International Airport|Yantai]] |2
+<!-- -->
+|[[Siam Air]]| [[Don Mueang International Airport|Bangkok-Don Mueang]]<ref>{{cite web|url=http://airlineroute.net/2014/10/21/o8-dmkhkg-oct14/|title=Siam Air Begins Bangkok – Hong Kong Service from Oct 2014|publisher=|accessdate=10 May 2015}}</ref> |2
+<!-- -->
+|[[Sichuan Airlines]]| [[Chengdu Shuangliu International Airport|Chengdu]], [[Yichang Sanxia Airport|Yichang]], [[Zhanjiang Airport|Zhanjiang]] |1
+<!-- -->
+|[[Singapore Airlines]]| [[San Francisco International Airport|San Francisco]], [[Singapore Changi Airport|Singapore]] |1
+<!-- -->
+|[[South African Airways]]| [[OR Tambo International Airport|Johannesburg]] |1
+<!-- -->
+|[[Spring Airlines]]| [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Shijiazhuang Zhengding International Airport|Shijiazhuang]], [[Luoyang Beijiao Airport|Luoyang]]<ref>{{cite web|url=http://www.wcarn.com/news/43/43454.html|title=Spring Airlines to Resume Nonstop Luoyang-HK Service|publisher=|accessdate=10 May 2015}}</ref> |2
+<!-- -->
+|[[SriLankan Airlines]]| [[Bangkok-Suvarnabhumi]], [[Bandaranaike International Airport|Colombo]] |1
+<!-- -->
+|{{nowrap|[[Swiss International Air Lines]]}}| [[Zürich Airport|Zürich]] |1
+<!-- -->
+|{{nowrap|[[Swiss International Air Lines]]}}<br>{{nowrap|operated by [[Swiss Global Air Lines]]}} | [[Zürich Airport|Zürich]] |1
+<!-- -->
+|[[Thai AirAsia]]| [[Don Mueang International Airport|Bangkok-Don Mueang]], [[Chiang Mai International Airport|Chiang Mai]], [[Phuket International Airport|Phuket]] |2
+<!-- -->
+|[[Thai Airways]]| [[Bangkok-Suvarnabhumi]], [[Phuket International Airport|Phuket]], [[Incheon International Airport|Seoul-Incheon]] |2
+<!-- -->
+|[[Tigerair]]| [[Singapore Changi Airport|Singapore]] |2
+<!-- -->
+|[[Turkish Airlines]] |[[Istanbul-Atatürk]] |1
+<!-- -->
+|[[United Airlines]]| [[Chicago-O'Hare]], [[Antonio B. Won Pat International Airport|Guam]], [[Tan Son Nhat International Airport|Ho Chi Minh City]], [[Newark Liberty International Airport|Newark]], [[San Francisco International Airport|San Francisco]], [[Singapore Changi Airport|Singapore]] |1 
+<!-- -->
+|[[Vanilla Air]]| [[Tokyo-Narita]]<ref>{{cite web|url=http://airlineroute.net/2014/09/11/jw-hkgkhh-w14/|title=Vanilla Air Adds Hong Kong / Kaohsiung Service in W14|publisher=|accessdate=10 May 2015}}</ref> |2
+<!-- -->
+|[[Vietnam Airlines]]| [[Noi Bai International Airport|Hanoi]], [[Tan Son Nhat International Airport|Ho Chi Minh City]] |1
+<!-- -->
+|[[Virgin Atlantic]]| [[London-Heathrow]] |1
+<!-- -->
+|[[XiamenAir]]| [[Fuzhou Changle International Airport|Fuzhou]], [[Quanzhou Jinjiang Airport|Quanzhou]], [[Wuyishan Airport|Wuyishan]], [[Xiamen Gaoqi International Airport|Xiamen]] |1
+<!-- -->
+}}
+
+===Cargo===
+
+{{Airport destination list
+<!-- -->
+|[[AeroLogic]]|[[Ashgabat International Airport|Ashgabat]], [[Frankfurt Airport|Frankfurt]], [[Malpensa Airport|Milan-Malpensa]]
+<!-- -->
+|[[Air France Cargo]]|[[Bahrain International Airport|Bahrain]], [[King Fahd International Airport|Dammam]], [[Dubai International Airport|Dubai-International]], [[King Abdulaziz International Airport|Jeddah]], [[Kuwait International Airport|Kuwait]], [[Paris-Charles de Gaulle]]
+<!-- -->
+|[[Air Hong Kong]]|[[Suvarnabhumi Airport|Bangkok-Suvarnabhumi]], [[Beijing Capital International Airport|Beijing-Capital]], [[Tan Son Nhat International Airport|Ho Chi Minh City]], [[Ninoy Aquino International Airport|Manila]], [[Chubu International Airport|Nagoya-Centrair]], [[Kansai International Airport|Osaka-Kansai]], [[Penang International Airport|Penang]], [[Incheon International Airport|Seoul-Incheon]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Singapore Changi Airport|Singapore]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Narita International Airport|Tokyo-Narita]]
+<!-- -->
+|[[AirBridgeCargo Airlines]]|[[Almaty International Airport|Almaty]], [[Amsterdam Airport Schiphol|Amsterdam]], [[Clark International Airport|Clark]], [[Frankfurt Airport|Frankfurt]], [[Yemelyanovo Airport|Krasnoyarsk]], [[Moscow-Domodedovo]], [[Moscow-Sheremetyevo]], [[Moscow-Vnukovo]], [[Singapore Changi Airport|Singapore]], [[Pulkovo Airport|St. Petersburg]], [[Koltsovo Airport|Yekaterinburg]]
+<!-- -->
+|[[ANA Cargo]]|[[Chubu International Airport|Nagoya-Centrair]], [[Naha Airport|Naha]], [[Kansai International Airport|Osaka-Kansai]], [[Narita International Airport|Tokyo-Narita]]
+<!-- -->
+|[[Asiana Cargo]]|[[Incheon International Airport|Seoul-Incheon]]
+<!-- -->
+|[[Cargolux]]|[[Abu Dhabi International Airport|Abu Dhabi]], [[Almaty International Airport|Almaty]], [[Queen Alia International Airport|Amman-Queen Alia]], [[Heydar Aliyev International Airport|Baku]], [[Barcelona El Prat Airport|Barcelona]], [[Beirut Rafic Hariri International Airport|Beirut]], [[Budapest Ferenc Liszt International Airport|Budapest]], [[Chicago-O'Hare]],<ref>[http://www.aircargoworld.com/Air-Cargo-News/2013/06/cargolux-adds-hong-kong-ohio-service/1414141 Cargolux adds Hong Kong-Ohio service | Air Cargo World News<!-- Bot generated title -->]</ref> [[King Fahd International Airport|Dammam]], [[Hamad International Airport|Doha]], [[Dubai International Airport|Dubai-International]], [[Helsinki Airport|Helsinki]], [[Tan Son Nhat International Airport|Ho Chi Minh City]], [[Sary-Arka Airport|Karaganda]], [[Komatsu Airport|Komatsu]], [[London Stansted Airport|London-Stansted]], [[Los Angeles International Airport|Los Angeles]], [[Luxembourg – Findel Airport|Luxembourg]], [[New York-JFK]], [[Nuremberg Airport|Nuremberg]], [[Rickenbacker International Airport|Rickenbacker]], [[King Khalid International Airport|Riyadh]], [[Singapore Changi Airport|Singapore]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Upington Airport|Upington]], [[Vienna International Airport|Vienna]]
+<!-- -->
+|[[Cargolux|Cargolux Italia]]|[[Almaty International Airport|Almaty]], [[Dubai International Airport|Dubai-International]], [[Malpensa Airport|Milan-Malpensa]], [[Kansai International Airport|Osaka-Kansai]]
+<!-- -->
+|[[Cathay Pacific Cargo]]|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Bengaluru International Airport|Bangalore]], [[Bangkok-Suvarnabhumi]], [[Beijing Capital International Airport|Beijing-Capital]], [[Calgary International Airport|Calgary]], [[Chengdu Shuangliu International Airport|Chengdu]], [[Chennai International Airport|Chennai]], [[Chongqing Jiangbei International Airport|Chongqing]], [[Indira Gandhi International Airport|Delhi]], [[Shahjalal International Airport|Dhaka]], [[Al Maktoum International Airport|Dubai-Al Maktoum]], [[Miguel Hidalgo y Costilla International Airport|Guadalajara]], [[Noi Bai International Airport|Hanoi]], [[Tan Son Nhat International Airport|Ho Chi Minh City]], [[Soekarno-Hatta International Airport|Jakarta-Soekarno-Hatta]], [[Manchester Airport|Manchester]], [[Melbourne Airport|Melbourne]], [[Benito Juárez International Airport|Mexico City]], [[Malpensa Airport|Milan-Malpensa]], [[Chhatrapati Shivaji International Airport|Mumbai]], [[Osaka-Kansai]], [[Penang International Airport|Penang]], [[Rickenbacker International Airport|Rickenbacker]], [[Incheon International Airport|Seoul-Incheon]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Singapore Changi Airport|Singapore]], [[Sydney Airport|Sydney]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Tokyo-Narita]], [[Xiamen Gaoqi International Airport|Xiamen]], [[Zhengzhou Xinzheng International Airport|Zhengzhou]]
+<!-- -->
+|[[China Airlines Cargo]]|[[Ninoy Aquino International Airport|Manila]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]]
+<!-- -->
+|[[China Cargo Airlines]]|[[Qingdao Liuting International Airport|Qingdao]], [[Shanghai Pudong International Airport|Shanghai-Pudong]]
+<!-- -->
+|[[DHL Aviation]]<br>{{nowrap|operated by [[AeroLogic]]}}|[[Leipzig/Halle Airport|Leipzig/Halle]]<ref name="AeroLogic routemap">{{cite web|title=2013 summer schedule|url=http://www.aerologic.aero/network|publisher=Aero Logic|accessdate=13 August 2013}}</ref>
+<!-- -->
+|[[DHL Aviation]]<br>{{nowrap|operated by [[Atlas Air]]}}|[[Abu Dhabi International Airport|Abu Dhabi]], [[Adana Şakirpaşa Airport|Adana]], [[Ted Stevens Anchorage International Airport|Anchorage]], [[Naval Air Station Whidbey Island|Ault Field]], [[Austin-Bergstrom International Airport|Austin]], [[Bagram Airfield|Bagram]], [[Heydar Aliyev International Airport|Baku]], [[Chicago-O'Hare]], [[Cincinnati/Northern Kentucky International Airport|Cincinnati]], [[Guaraní International Airport|Ciudad del Este]], [[Dover Air Force Base|Dover]], [[Dubai International Airport|Dubai-International]], [[Eielson AFB]], [[Antonio B. Won Pat International Airport|Guam]], [[Frankfurt-Hahn Airport|Hahn]], [[Huntsville International Airport|Huntsville]], [[Marine Corps Air Station Iwakuni|Iwakuni]], [[Kadena Air Base|Kadena]], [[Kagoshima Airport|Kagoshima]], [[Kandahar International Airport|Kandahar]], [[Sary-Arka Airport|Karaganda]], [[Kuwait International Airport|Kuwait]], [[Murtala Muhammed International Airport|Lagos]], [[Luxembourg – Findel Airport|Luxembourg]], [[Mazar-e Sharif International Airport|Mazar-i-Sharif]], [[Melbourne Airport|Melbourne]], [[Miami International Airport|Miami]], [[New York-JFK]], [[Kansai International Airport|Osaka-Kansai]], [[Osan Air Base|Osan]], [[New Chitose Airport|Sapporo-Chitose]], [[Incheon International Airport|Seoul-Incheon]], [[Sharjah International Airport|Sharjah]], [[Sydney Airport|Sydney]], [[Toledo Express Airport|Toledo]], [[Zvartnots International Airport|Yerevan]]
+<!-- -->
+|[[DHL Aviation]]<br>{{nowrap|operated by [[DHL Air UK]]}}|[[Indira Gandhi International Airport|Delhi]], [[Leipzig/Halle Airport|Leipzig/Halle]]
+<!-- -->
+|[[DHL Aviation]]<br>{{nowrap|operated by [[Kalitta Air]]}}|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Astana International Airport|Astana]], [[Bagram Airfield|Bagram]], [[Bahrain International Airport|Bahrain]], [[Brussels Airport|Brussels]], [[Chicago-O'Hare]], [[Cincinnati/Northern Kentucky International Airport|Cincinnati]], [[Dallas/Fort Worth International Airport|Dallas/Fort Worth]], [[Indira Gandhi International Airport|Delhi]], [[Al Maktoum International Airport|Dubai-Al Maktoum]], [[Kabul International Airport|Kabul]], [[Kadena Air Base|Kadena]], [[Jinnah International Airport|Karachi]], [[Khabarovsk Novy Airport|Khabarovsk]], [[Los Angeles International Airport|Los Angeles]], [[Chubu International Airport|Nagoya-Centrair]], [[New York-JFK]], [[Newark Liberty International Airport|Newark]], [[Rickenbacker International Airport|Rickenbacker]], [[Rio de Janeiro-Galeão]], [[Incheon International Airport|Seoul-Incheon]]
+<!-- -->
+|[[DHL Aviation]]<br>{{nowrap|operated by [[Polar Air Cargo]]}}|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Bahrain International Airport|Bahrain]], [[Viracopos-Campinas International Airport|Campinas]], [[Chicago-O'Hare]], [[Cincinnati/Northern Kentucky International Airport|Cincinnati]], [[Leipzig/Halle Airport|Leipzig/Halle]], [[Los Angeles International Airport|Los Angeles]], [[New York-JFK]], [[Incheon International Airport|Seoul-Incheon]]
+<!-- -->
+|[[DHL Aviation]]<br>{{nowrap|operated by [[Southern Air]]}}|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Cincinnati/Northern Kentucky International Airport|Cincinnati]], [[Leipzig/Halle Airport|Leipzig/Halle]], [[Los Angeles International Airport|Los Angeles]], [[Sharjah International Airport|Sharjah]]
+<!-- -->
+|[[Donghai Airlines]]|[[Chengdu Shuangliu International Airport|Chengdu]], [[Shenzhen Bao'an International Airport|Shenzhen]]
+<!-- -->
+|[[Emirates SkyCargo]]|[[Al Maktoum International Airport|Dubai-Al Maktoum]], [[Cochin International Airport|Kochi]], [[Trivandrum International Airport|Thiruvananthapuram]]
+<!-- -->
+|[[Ethiopian Cargo|Ethiopian Airlines Cargo]]<ref>[http://www.ethiopianairlines.com/en/cargo/schedule.aspx Ethiopian Airlines Cargo Schedule]</ref>|[[Bole International Airport|Addis Ababa]], [[Chennai International Airport|Chennai]], [[Maastricht Aachen Airport|Maastricht/Aachen]]<ref>[http://www.cargoforwarder.eu/2015/10/27/breaking-news-ethiopian-moves-dhl-flights-to-maastricht/ Ethiopian moves ‘DHL’ flights to Maastricht - CargoForwarder Global<!-- Bot generated title -->]</ref>
+<!-- -->
+|[[Etihad Airways|Etihad Cargo]]|[[Abu Dhabi International Airport|Abu Dhabi]], [[Amsterdam Airport Schiphol|Amsterdam]], [[Ted Stevens Anchorage International Airport|Anchorage]], [[Viracopos International Airport|Campinas—Viracopos]], [[Chicago-O'Hare]], [[Chittagong Airport|Chittagong]], [[Indira Gandhi International Airport|Delhi]], [[Shahjalal International Airport|Dhaka]], [[Hamid Karzai International Airport|Kabul]], [[Jorge Chávez International Airport|Lima]], [[Miami International Airport|Miami]], [[Mariscal Sucre International Airport|Quito]], [[Sharjah International Airport|Sharjah]]
+<!-- -->
+|[[EVA Air Cargo]]|[[Chongqing Jiangbei International Airport|Chongqing]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]]<ref>[http://mcms.evaair.com/NR/rdonlyres/CEF13C01-D0EF-4E10-8DF7-D3DF7C6F3229/0/call_en.pdf EVA Air Cargo Schedule]</ref>
+<!-- -->
+|[[FedEx Express]]|[[Almaty International Airport|Almaty]], [[Ted Stevens Anchorage International Airport|Anchorage]], [[Indira Gandhi International Airport|Delhi]], [[Ninoy Aquino International Airport|Manila]], [[Memphis International Airport|Memphis]], [[Kansai International Airport|Osaka-Kansai]], [[Paris-Charles de Gaulle]], [[Incheon International Airport|Seoul-Incheon]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Tokyo-Narita]]
+<!-- -->
+|{{nowrap|[[Hong Kong Airlines|Hong Kong Airlines Cargo]]}}|[[Suvarnabhumi Airport|Bangkok-Suvarnabhumi]], [[Shahjalal International Airport|Dhaka]], [[Noi Bai International Airport|Hanoi]], [[Kansai International Airport|Osaka-Kansai]], [[Nanning Wuxu International Airport|Nanning]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Singapore Changi Airport|Singapore]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Xiamen Gaoqi International Airport|Xiamen]], [[Zhengzhou Xinzheng International Airport|Zhengzhou]]<ref>{{cite web|url=http://www.hkairlinescargo.com/ENG/cargoScheduleOriginal!initSearch.action|title=Hong Kong Airlines Cargo|publisher=|accessdate=10 May 2015}}</ref>
+<!-- -->
+|[[IAG Cargo]]<br>{{nowrap|operated by [[Qatar Airways|Qatar Airways Cargo]]}}|[[London Stansted Airport|London-Stansted]]<ref name="ch-aviation.com">[http://www.ch-aviation.com/portal/news/25025-british-airways-axes-b747-8f-contract-with-atlas-air British Airways axes B747-8(F) contract with Atlas Air]. ch-aviation.com. Retrieved on 16 May 2014.</ref>
+<!-- -->
+|[[Korean Air Cargo]]|[[Incheon International Airport|Seoul-Incheon]]
+<!-- -->
+|[[Lufthansa Cargo]]|[[Almaty International Airport|Almaty]], [[Bahrain International Airport|Bahrain]], [[Frankfurt Airport|Frankfurt]], [[Leipzig/Halle Airport|Leipzig/Halle]]
+<!-- -->
+|[[Martinair Cargo]]<br>{{nowrap|operated by [[KLM Cargo]]}}|[[Amsterdam Airport Schiphol|Amsterdam]], [[Chennai International Airport|Chennai]], [[Al Maktoum International Airport|Dubai-Al Maktoum]], [[Kuwait International Airport|Kuwait]], [[Chhatrapati Shivaji International Airport|Mumbai]]
+<!-- -->
+|[[MASkargo]]|[[Kuala Lumpur International Airport|Kuala Lumpur–International]], [[Ninoy Aquino International Airport|Manila]], [[Penang International Airport|Penang]]
+<!-- -->
+|[[Nippon Cargo Airlines]]|[[Kansai International Airport|Osaka-Kansai]], [[Narita International Airport|Tokyo-Narita]]
+<!-- -->
+|[[Qantas Freight]]<ref>{{cite web|url=http://www.qantas.com.au/qfreight/qfe/home/au/en#Flight_Information|title=Welcome to Qantas Freight|publisher=|accessdate=10 May 2015}}</ref>|[[Auckland Airport|Auckland]], [[Cairns Airport|Cairns]], [[Sydney Airport|Sydney]]
+<!-- -->
+|[[Qatar Airways|Qatar Airways Cargo]]|[[Hamad International Airport|Doha]]
+<!-- -->
+|[[Saudia Cargo]]|[[King Fahd International Airport|Dammam]], [[King Abdulaziz International Airport|Jeddah]], [[King Khalid International Airport|Riyadh]], [[Trivandrum International Airport|Thiruvananthapuram]], [[Cochin International Airport|Kochi]]
+<!-- -->
+|[[SF Airlines]]|[[Ningbo Lishe International Airport|Ningbo]], [[Xiamen Gaoqi International Airport|Xiamen]]<ref>[http://news.carnoc.com/list/235/235312.html 顺丰开通厦门—香港—宁波—香港—厦门航线]</ref>
+<!-- -->
+|[[Silk Way Airlines]]|[[Baku]]
+<!-- -->
+|[[Singapore Airlines Cargo]]<ref>{{cite web|url=http://www.siacargo.com/FPSearch.aspx|title=Welcome to SIA Cargo - E timetables|publisher=|accessdate=10 May 2015}}</ref>|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Seattle-Tacoma International Airport|Seattle/Tacoma]], [[Sharjah International Airport|Sharjah]], [[Singapore Changi Airport|Singapore]]
+<!-- -->
+|[[TNT Airways]]|[[Dubai International Airport|Dubai-International]], [[Liège Airport|Liège]]
+<!-- -->
+|[[Transmile Air Services]]|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Senai International Airport|Johor Bahru]], [[Kuala Lumpur International Airport|Kuala Lumpur–International]], [[March Joint Air Reserve Base|Riverside]], [[Sultan Abdul Aziz Shah Airport|Subang]]
+<!-- -->
+|{{nowrap|[[Tri-MG Intra Asia Airlines]]}}| [[Mactan-Cebu International Airport|Cebu]], [[Clark International Airport|Clark]]
+<!-- -->
+|[[Turkish Airlines Cargo]]|[[Almaty International Airport|Almaty]], [[Manas International Airport|Bishkek]], [[Indira Gandhi International Airport|Delhi]], [[Istanbul-Atatürk]]<ref>[http://wwwdownload.thy.com/kargo/pdf/winter2012_2013.pdf Turkish Airlines Cargo Winter Schedule]</ref>
+<!-- -->
+|[[Kuzu Airlines Cargo|ULS Cargo]]|[[Suvarnabhumi Airport|Bangkok-Suvarnabhumi]], [[Beijing-Capital]], [[Ninoy Aquino International Airport|Manila]], [[Chubu International Airport|Nagoya-Centrair]], [[Kansai International Airport|Osaka-Kansai]], [[Penang International Airport|Penang]], [[Incheon International Airport|Seoul-Incheon]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Singapore Changi Airport|Singapore]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]], [[Tokyo-Narita]]
+<!-- -->
+|[[UPS Airlines]]|[[Ted Stevens Anchorage International Airport|Anchorage]], [[Clark International Airport|Clark]], [[Cologne Bonn Airport|Cologne/Bonn]], [[Dubai International Airport|Dubai-International]], [[Honolulu International Airport|Honolulu]], [[Louisville International Airport|Louisville]], [[Chhatrapati Shivaji International Airport|Mumbai]], [[Ontario International Airport|Ontario]], [[Kansai International Airport|Osaka-Kansai]], [[Philadelphia International Airport|Philadelphia]], [[New Chitose Airport|Sapporo-Chitose]], [[Incheon International Airport|Seoul-Incheon]], [[Singapore Changi Airport|Singapore]], [[Sydney Airport|Sydney]], [[Taiwan Taoyuan International Airport|Taipei-Taoyuan]]
+<!-- -->
+|[[Yangtze River Express]]|[[Shuangliu International Airport|Chengdu]], [[Hangzhou Xiaoshan International Airport|Hangzhou]], [[Qingdao Liuting International Airport|Qingdao]], [[Shanghai Pudong International Airport|Shanghai-Pudong]], [[Tianjin Binhai International Airport|Tianjin]], [[Zhengzhou Xinzheng International Airport|Zhengzhou]]
+}}
+
+==Operations==
+
+[[File:Hong Kong International Airport (526352478).jpg|thumb|left|The airport control tower and a taxiing [[China Airlines]] Airbus A330-300]]
+{| border="1" cellpadding="4" cellspacing="0" style="float:right; width:25%; margin:0 0 1em 1em; background:#f9f9f9; border:1px #aaa solid; border-collapse:collapse; font-size:90%;"
+|-
+! style="text-align:center; background:#8CD1C4;" colspan="4"|Operations and Statistics<ref name="Facts and Figures">{{cite web|title=Facts and Figures|url=http://www.hongkongairport.com/eng/business/about-the-airport/facts-figures/facts-sheets.html|work=Hong Kong International Airport|publisher=Airport Authority Hong Kong|accessdate=21 November 2011}}</ref><ref name="Air Traffic Statistics">{{cite web|title=Air Traffic Statistics|url=http://www.hongkongairport.com/eng/business/about-the-airport/facts-figures/air-traffic-statistics.html|work=Hong Kong International Airport|publisher=Airport Authority Hong Kong|accessdate=21 November 2011}}</ref><ref>{{cite web|url=http://www.moodiereport.com/document.php?c_id=6&doc_id=38036 |title=Passenger traffic surges at Hong Kong International Airport in 2013 |publisher=TheMoodieReport.com |date= |accessdate=3 March 2014}}</ref>
+|- colspan="4" style="background:lightgrey;"
+!<small>year</small>
+!<small>Passenger</small><br><small>movements</small>
+!<small>Airfreight</small><br><small>movements </small><br><small>(tonnes)</small>
+!<small>Aircraft</small><br><small>movement</small>
+|-
+|1998
+|28,631,000
+|1,628,700
+|163,200
+|-
+|1999
+|30,394,000
+|1,974,300
+|167,400
+|-
+|2000
+|33,374,000
+|2,240,600
+|181,900
+|-
+|2001
+|33,065,000
+|2,074,300
+|196,800
+|-
+|2002
+|34,313,000
+|1,637,797
+|206,700
+|-
+|2003
+|27,433,000
+|2,642,100
+|187,500
+|-
+|2004
+|37,142,000
+|3,093,900
+|237,300
+|-
+|2005
+|40,740,000
+|3,402,000
+|263,500
+|-
+|2006
+|44,443,000
+|3,580,000
+|280,000
+|-
+|2007
+|47,783,000
+|3,742,000
+|295,580
+|-
+|2008
+|48,582,000
+|3,627,000
+|301,000
+|-
+|2009
+|45,499,604
+|3,440,581
+|273,505
+|-
+|2010
+|50,410,819
+|4,112,416
+|306,535
+|-
+|2011
+|53,909,000
+|3,939,000
+|333,760
+|-
+|2012
+|56,057,751
+|4,062,261
+|352,000
+|-
+|2013
+|59,913,000
+|4,122,000
+|372,040
+|-
+|2014
+|63,367,000
+|4,376,000
+|390,955
+|-
+|2015
+|68,488,000
+|4,380,000
+|406,000
+|-
+! colspan="4" style="background:#8CD1C4;"|Capacity
+|-
+! colspan=3|<small>Passenger (current)</small>
+|68,488,000
+<!--With the addition of the North Satellite Concourse (5m capacity) in 2010, per www.jcdecauxasia.com/images/uploads/jan-hk-apns.pdf -->
+|-
+! colspan=3|<small>Passenger (ultimate)</small>
+|70,000,000
+|-
+!colspan=3|<small>Cargo (current)</small>
+|4.4m tons
+|-
+!colspan=3|<small>Cargo (ultimate)</small>
+|7.4m tons
+|-
+!colspan=3|<small>Apron (current)</small>
+|96
+|-
+! colspan="4" style="background:#8CD1C4;"|Number of destinations
+|-
+!colspan=3|<small>International (air)</small>
+|154
+|-
+!colspan=3|<small>International (water)</small>
+|6
+|}
+[[File:HKG tower view of runway.jpg|thumb|left|The view of the airport from the control tower, with an [[EVA Air]] Boeing 747 on a nearby taxiway]]
+[[File:Inside the Airport Control Tower.jpg|thumb|left|The interior of the airport control tower]]
+
+The airport is operated by the [[Airport Authority Hong Kong]], a statutory body wholly owned by the Government of Hong Kong [[Special Administrative Region of the People's Republic of China|Special Administrative Region]].<ref name=Introduction>{{cite web|title=Introduction|url=http://www.hongkongairport.com/eng/business/airport-authority/introduction.html|work=Hong Kong International Airport|publisher=Airport Authority Hong Kong|accessdate=21 November 2011}}</ref>
+
+The airport has two parallel runways, both of which are {{convert|3800|m|ft}} in length and {{convert|60|m|ft}} wide. The south runway has a [[Instrument Landing System|Category II Precision Approach]], while the north runway has the higher Category IIIA rating, which allows pilots to land in only {{convert|200|m|ft|adj = on}} visibility. The two runways have a capacity of over 60 aircraft movements an hour. The Airport is upgrading ATC and runways so that they can handle 68 movements per hour. Normally, the north runway (07L/25R) is used for landing passenger planes. The south runway (07R/25L) is used for passenger planes taking off and cargo flights due to its proximity to the cargo terminal.<ref name="Facts and Figures"/>
+
+There are 49 frontal stands at the main passenger concourse, 28 remote stands and 25 cargo stands. There are also five parking bays at the Northwest Concourse. A satellite concourse with 10 frontal stands for narrow body aircraft has been commissioned to the north of the main concourse at the end of 2009, bringing the total number of frontal stands at the airport to 59.
+
+The airport was the [[World's busiest airports by passenger traffic|third busiest for passenger traffic]] in Asia in 2010, and the [[World's busiest airports by cargo traffic|world's busiest airport for cargo traffic]] in 2010. In terms of international traffic, the airport is the third busiest for passenger traffic and the busiest for cargo since its operation in 1998. There are over 95 international airlines providing about 900 scheduled passenger and all-cargo flights each day between Hong Kong and some 160 destinations worldwide. About 76 percent of these flights are operated with wide-body jets. There are also an average of approximately 31 non-scheduled passenger and cargo flights each week.<ref>{{cite web |url=http://www.hongkongairport.com/eng/business/about-the-airport/welcome.html|title=Our Business – The Airport – Welcome to HKIA – Hong Kong International Airport|author=Airport Authority Hong Kong}}</ref>
+
+The operation of scheduled air services to and from Hong Kong is facilitated by air services agreements between Hong Kong and other countries. Since the opening of HKIA, the [[Hong Kong Government|Hong Kong Special Administrative Region Government]] has implemented a policy of progressive liberalisation of air services. Many [[low-cost airlines]] have started various regional routes to compete head-on with full-service carriers on trunk routes.<ref name="Vision and Missions">{{cite web|title=Vision and Missions|url=http://www.hongkongairport.com/eng/business/airport-authority/vision-mission.html|work=Hong Kong International Airport|publisher=Airport Authority Hong Kong|accessdate=21 November 2011}}</ref>
+
+The airport's long term expansion opportunities are subject to variables. An HKD 80 billion proposal to build a third runway has been under feasibility study and consultation but would be very expensive as it would involve additional reclamation from deep waters, and the building cost of the third runway may be as high as the building cost of the entire airport. On the other hand, there exists only one airway between Hong Kong and mainland China, and this single route is often and easily backed up causing delays on both sides. In addition, China requires that aircraft flying the single air route between Hong Kong and the mainland must be at an altitude of at least 15,000 feet. Talks are underway to persuade the Chinese military to relax its airspace restriction in view of worsening air traffic congestion at the airport. Other than that, Hong Kong Airport Authority is co-operating with other airports in the area to relieve air traffic and in the future, Shenzhen may act as a regional airport while Hong Kong receives all the international flights.<ref name="Hong Kong International Airport Master Plan 2030">{{cite web|title=Publications|url= http://www.hkairport2030.com/en/information/publications.html|work=Hong Kong International Airport|publisher=Airport Authority Hong Kong|accessdate=21 November 2011}}</ref>
+
+==Air traffic==
+
+The [[Government Flying Service (Hong Kong)|Government Flying Service]] provides short and long range search and rescue services, police support, medical evacuation and general purpose flights for the Government.
+
+===Passenger facilities===
+
+Despite its size, the passenger terminal was designed for convenience. The layout and signage, moving walkways and the automated people mover help passengers move through the building. The [[Hong Kong International Airport Automated People Mover|HKIA Automated People Mover]], a driverless [[people mover]] system with 3 stations transports passengers between the check-in area and the gates. The trains travel at {{convert|62|km/h|mph}}. The airport also boasts an IMAX theatre that has the largest screen in Hong Kong.  The theatre is located in Terminal 2, level 6 and can seat 350 persons at a time.<ref>{{cite web|url=http://flight-hub-reviews.com/hong-kong-international-flight-hub/|title=Hong Kong International Aviation Hub|author=travelsites33|date=19 April 2015|work=Flight Hub Reviews|accessdate=10 May 2015}}</ref>
+
+====Hong Kong Business Aviation Centre====
+
+[[File:HKIA Business Aviation Centre.jpg|thumb|300px|Hong Kong Business Aviation Centre]]
+The Hong Kong Business Aviation Centre (BAC) is located within the airport and has its own terminal and facilities separate from the public terminal. It provides services for executive aircraft and passengers, including a passenger lounge, private rooms and showers, business centre facilities, ground handling, baggage handling, fuelling, security, customs and flight planning. Designated spaces and hangars are also provided at the BAC for private aircraft.
+
+===Intermodal transportation hub===
+
+To sustain the growth of passengers, the Airport Authority formulated a "push and pull through" strategy to expand its connections to new sources of passengers and cargo. This means adapting the network to the rapidly growing markets in China and in particular to the [[Pearl River Delta]] region (PRD). In 2003, a new Airport-Mainland Coach Station opened. The coach station has a {{convert|230|m2|sqft|adj = on}} waiting lounge and sheltered bays for ten coaches. Many buses operate each day to transport passengers between HKIA and major cities in the Mainland.<ref>[http://www.hongkongairport.com/eng/cbt/cross.html Transport to Guangdong] {{wayback|url=http://www.hongkongairport.com/eng/cbt/cross.html |date=20060318141546 |df=y }}</ref>
+
+The Coach Station was relocated to the ground floor (level 3) of Terminal 2 in 2007. The 36 bays at the new Coach Station allow cross-border coaches to make 320 trips a day carrying passengers between the airport and 90 cities and towns in the PRD. Local tour and hotel coaches also operate from T2. The coach station at T2 has shops and waiting lounges as well as a mainland coach service centre which gathers all operators together.<ref>{{cite web|url= http://www.hongkongairport.com/eng/business/about-the-airport/welcome.html|title=Our Business – The Airport – Welcome to HKIA – Hong Kong International Airport |publisher=Hongkongairport.com|accessdate=7 May 2011}}</ref>
+
+In late September 2003, the SkyPier high-speed ferry terminal opened. Passengers arriving at the SkyPier board buses to the terminal and arriving air passengers board ferries at the pier for their ride back to the PRD. Passengers travelling both directions can bypass custom and immigration formalities, which reduces transit time. Four ports – [[Shekou Industrial Zone|Shekou]], [[Shenzhen]], Macau and [[Humen Town|Humen]] ([[Dongguan]]) – were initially served. As of August 2007, SkyPier serves Shenzhen's Shekou and [[Fuyong]], Dongguan's Humen, Macau, [[Zhongshan]] and [[Zhuhai]]. Passengers travelling from Shekou and Macau can complete airline check-in procedures with participating airlines before boarding the ferries and go straight to the boarding gate for the flight at HKIA.
+
+In 2009, the permanent SkyPier Terminal opened. The permanent ferry terminal is equipped with four berths, but the terminal is designed to accommodate eight berths. Transfer desks and baggage handling facilities are included, and the terminal is directly connected to the airport automatic people mover system.
+
+[[File:HK Airport Terminal 1.jpg|thumb|800px|center|Terminal 1.]]
+[[File:VHHH baggage claim area.jpg|thumb|center|800px|Baggage Claim Area]]
+
+===Baggage and cargo facilities===
+
+[[File:Super Terminal01.jpg|thumb|SuperTerminal 1]]
+[[File:Asia Airfreight Terminal.jpg|thumb|Asia Airfreight Terminal]]
+[[File:DHL HKIA.jpg|thumb|DHL Central Asia Hub]]
+Ramp handling services are provided by [[Hong Kong Airport Services Limited]] (HAS), [[Jardine Air Terminal Services Limited]] and SATS HK Limited. Their services include the handling of mail and passenger baggage, transportation of cargo, aerobridge operations and the operation of passenger stairways. The airport has an advanced baggage handling system (BHS), the main section of which is located in the basement level of the passenger terminal, and a separate remote transfer facility at the western end of the main concourse for handling of tight connection transfer bags.
+
+HKIA handles over three million tonnes of cargo annually.<ref>[http://www.hongkongairport.com/eng/afacilities/index.html Air Cargo – HKIA] {{wayback|url=http://www.hongkongairport.com/eng/afacilities/index.html |date=20060318195727 |df=y }}</ref> [[Hong Kong Air Cargo Terminals Limited]] operates one of the two air cargo terminals at the airport. Its headquarters, the {{convert|328000|m2|sqft|adj = on}} SuperTerminal 1,<ref>{{cite web|url=http://www.hactl.com/en/superterminal/default.htm|title=SuperTerminal 1 |publisher=Hactl.com|accessdate=7 May 2011}}</ref> is the world's second largest stand-alone air cargo handling facility, after the opening of the West Cargo Handling Area of the [[Shanghai Pudong International Airport]] on 26 March 2008. The designed capacity is 2.6&nbsp;million tonnes of freight a year. The second air cargo terminal is operated by [[Asia Airfreight Terminal|Asia Airfreight Terminal Company Limited]], and has a capacity of 1.5&nbsp;million tonnes a year.<ref>{{cite web|url=http://www.aat.com.hk/our_terminal/ |title=Asia Airfreight Terminal – Our Terminal |publisher=Aat.com.hk |accessdate=7 May 2011}}</ref> DHL operates the DHL Central Asia Hub cargo facility which handles 35,000 parcels and 40,000 packages per hour. [[Hongkong Post]] operates the Air Mail Centre (AMC) and processes 700,000 packages per day. It is envisaged that HKIA's total air cargo capacity per annum will reach nine million tonnes ultimately.<ref>{{cite web|url=http://www.gov.hk/en/about/abouthk/factsheets/docs/civil_aviation.pdf|title=Hong Kong Fact Sheets – Civil Aviation|format=PDF|accessdate=7 May 2011}}</ref>
+
+===Aircraft maintenance services===
+
+Both line and base maintenance services are undertaken by [[HAECO|Hong Kong Aircraft Engineering Company]] (HAECO), while [[China Aircraft Services Limited]] (CASL) and Pan Asia Pacific Aviation Services Limited carry out line maintenance. Line maintenance services include routine servicing of aircraft performed during normal turnaround periods and regularly scheduled layover periods. Base maintenance covers all airframe maintenance services and for this HAECO has a three-bay hangar, which can accommodate up to three Boeing 747-400 aircraft and two Airbus A320 aircraft, and an adjoining support workshop. HAECO also has the world's largest mobile hangar, weighing over 400 tons. It can be used to enclose half of a [[wide-body]] aeroplane, so that the whole facility can fully enclose four 747s when the mobile hangar is used.
+
+On 29 May 2009, CASL opened its first aircraft maintenance hangar in the maintenance area of the airport. The new hangar occupies an area of about {{convert|10000|m2|sqft}} and can accommodate one wide-body and one [[narrow-body]] aircraft at the same time; the hangar also has an about {{convert|10000|m2|sqft|adj = on}} area in its annexe building. CASL specialises in [[Airbus A320 family]] and [[Boeing 737 Next Generation]] series heavy maintenance.<ref>{{cite web|url=http://www.casl.com.hk/|title=CASL|publisher=|accessdate=10 May 2015}}</ref>
+
+===Airport based ground services===
+{{Unreferenced section|date=May 2016}}
+The Air Traffic Control Complex (ATCX), located at the centre of the airfield, is the nerve centre of the entire air traffic control system. Some 370 air traffic controllers and supporting staff work around the clock to provide air traffic control services for the [[Hong Kong Flight Information Region]] (FIR). At the Air Traffic Control Tower, controllers provide 24-hour aerodrome control services to aircraft operating at the airport. A backup Air Traffic Control Centre/Tower constructed to the north of the ATCX is available for operational use in the event normal services provided in the ATCX are disrupted by unforeseen circumstances. Apart from serving as an operational backup, the facilities are also used for air traffic control training.
+
+The Airport Meteorological Office (AMO) of the [[Hong Kong Observatory]] (HKO) provides weather services for the aviation community. The AMO makes routine and special weather observations and provides fixed-time aerodrome forecasts and landing forecasts for the HKIA. It issues aerodrome warnings on adverse weather for protection of aerodrome facilities and aircraft on the ground. It also issues significant weather information on thunderstorms, [[tropical cyclone]]s, [[turbulence]], icing and other hazardous weather. The AMO issues alerts of low-level [[windshear]] and turbulence. Windshear detection is made using traditional [[doppler weather radar]]s as well as the more effective [[doppler LIDAR]], of which Hong Kong International Airport was the first to introduce. Doppler LIDAR systems use lasers to detect windshear and wind direction even when atmospheric conditions are too dry for Doppler radar to work.
+
+===Fire and rescue services===
+Rescue and fire fighting services within the airport are covered by the Airport Fire Contingent of the [[Hong Kong Fire Services Department]]. The contingent has 282 members, operating two fire stations and two rescue berths for 24-hour emergency calls. It is equipped with 14 fire appliances which can respond to incidents within two minutes in optimum conditions of visibility and surface conditions, satisfying the relevant recommendation of the [[International Civil Aviation Organisation]]. Two high capacity rescue boats, supported by eight speed boats, form the core of sea rescue operations. Two ambulances are also assigned at each of the airport fire stations.
+
+==Ground transport==
+
+The airport is connected to inner Hong Kong by the [[North Lantau Highway]] on [[Lantau Island]].
+
+There is an [[Hong Kong International Airport Automated People Mover|automated people mover]], operated by the Airport Authority and maintained by [[MTR Corporation]], connecting the East Hall to the West Hall and Terminal 2. It was extended to SkyPier in late 2009.
+
+===Bus===
+
+[[File:HKairport t2 01.JPG|thumb|Cross-boundary coach bus terminal located in terminal 2]]
+{{Main|Buses in Hong Kong}}
+
+[[Citybus (Hong Kong)|Citybus]], [[New Lantao Bus]], [[Long Win Bus]] and [[Discovery Bay|Discovery Bay Transit Services]] operate 25 bus routes to the airport from various parts of Hong Kong, available at the Airport Ground Transportation Centre and Cheong Tat Road. The bus companies also offer 10 overnight "N" services.<ref>{{cite web|url=http://www.hongkongairport.com/eng/transport/to-from-airport/bus.html|title=Public Buses|publisher=Airport Authority Hong Kong|year=2009|accessdate=26 March 2009}} Note that I have included Discovery Bay services as per the schedule at [http://www.hkri.com/icms2/template?series=101&article=1054]</ref>
+
+Passengers can also take the S1 Citybus<ref>{{cite web|url= http://www.nwstbus.com.hk/routes/routeinfo.aspx?intLangID=1&route=S1&routetype=D&company=5|title=S1 Bus|publisher=Chow Tai Fook Enterprises|year=2009|accessdate=7 November 2009}}</ref> to the [[Tung Chung MTR Station]]. From there they can board the [[Tung Chung Line (MTR)|MTR Tung Chung line]] which follows the same route as the [[Airport Express (MTR)|MTR Airport Express]] to Central with cheaper fare but longer journey time.
+
+Coach services are available to major cities and towns in [[Guangdong|Guangdong Province]], such as [[Dongguan]], [[Guangzhou]] and [[Shenzhen]].
+
+===Ferry===
+
+[[File:SkyPier 201111.JPG|thumb|Skypier]]
+Direct ferry services are available from the airport to various destinations throughout the [[Pearl River Delta]] via [[Skypier]]. Passengers using these services are treated as transit passengers and are not considered to have entered Hong Kong for immigration purposes. For this reason, access to the ferry terminal is before immigration in the airport for arriving passengers. Check-in services are available at these piers. Four ports – [[Shekou Industrial Zone|Shekou]], [[Shenzhen Bao'an International Airport|Shenzhen Airport (Fuyong)]], Macau and [[Humen Town|Humen (Dongguan)]] – were initially served, extending to [[Guangzhou]] and [[Zhongshan]] at the end of 2003. The [[Zhuhai]] service began on 10 July 2007 while a [[Nansha District|Nansha]] service started on 14 July 2009.<ref>{{cite web|url=http://www.hongkongairport.com/eng/media/press-releases/pr_965.html|title=New Ferry Service between HKIA and Nansha Port Commences|publisher=Hongkongairport.com|date=14 July 2009|accessdate=7 May 2011}}</ref>
+
+===Rail===
+
+[[File:MTR-Airport-Express-Line.jpg|thumb|Airport Express connecting between the airport and the central business district of [[Central, Hong Kong|Central]].]]
+[[File:Airport MTR Station, Mar 06.JPG|thumb|Airport Express – [[Airport Station (MTR)|Airport Station]]]]
+{{Main|Rail transport in Hong Kong}}
+
+The fastest service from the city to the airport is the [[Airport Express (MTR)|Airport Express]], a dedicated high-speed [[airport rail link|rail link]] operated by [[MTR Corporation]] as part of the [[MTR]] [[rapid transit]] network. The line makes intermediate stops at [[Tsing Yi Station|Tsing Yi Island]], [[Kowloon Station (MTR)|West Kowloon]], and terminates at [[Hong Kong Station]] at the northern coast of [[Central and Western District]] on [[Hong Kong Island]]. It takes just 24 minutes to reach the airport from Hong Kong station.<ref>{{cite web|url=http://www.discoverhongkong.com/eng/trip-planner/gethere-airport.html|title=Hong Kong Airport Transportation Information |publisher=Discoverhongkong.com|accessdate=7 May 2011}}</ref> MTR offers free shuttle bus services between Airport Express stations and hotels in the area, and free transfers are available to and from other MTR lines. In addition, both Hong Kong and Kowloon stations provide in-town check-in services for major airlines. There are also discount promotions for group tickets annually.
+
+The Airport Express line originally terminated at [[Airport Station (MTR)|Airport Station]], where trains open doors on both sides, allowing direct access to either Terminal 1 or Terminal 2. It was later extended to [[AsiaWorld–Expo Station|AsiaWorld–Expo]] on 20 December 2005 to facilitate the opening of the nearby [[AsiaWorld-Expo]]. During events at the station some [[Tung Chung Line]] services, which largely share the same route and track as the Airport Express, serve this station instead of [[Tung Chung Station|Tung Chung]], but these trains do not stop at the airport itself.
+
+===Taxi===
+
+{{Main|Taxicabs of Hong Kong}}
+
+The airport is served by all three different types of taxi, distinguished by their colour:
+*<span title="red">{{colorbox|Red}}</span> '''Urban taxis''' connect the Airport with [[Hong Kong Island]], [[Kowloon]] and parts of the new towns of [[Tsuen Wan]], [[Sha Tin]] and [[Tseung Kwan O]] (urban taxis can go anywhere in Hong Kong except southern [[Lantau Island]]).
+*<span title="Green">{{colorbox|green}}</span> '''New Territories taxis''' connect the airport with the [[New Territories]], except those parts of the Tsuen Wan, Sha Tin and Tseung Kwan O served by urban taxis.
+*<span title="Blue">{{colorbox|blue}}</span> '''Lantau taxis''' connect the airport with the rest of Lantau Island.
+
+===Airport hotels===
+
+There are 3 hotels located in the nearby area, which are the Hong Kong Skycity Marriott Hotel (connected to AsiaWorld Expo),<ref>{{cite web|author=Hong Kong SkyCity Marriott Hotel |url=http://www.marriott.com/hotels/travel/hkgap-hong-kong-skycity-marriott-hotel/ |title=Hong Kong Skycity Marriott Hotel|publisher=Marriott.com|accessdate=7 May 2011}}</ref> Novotel Hong Kong Citygate (Tung Chung)<ref>{{cite web|url=http://www.accorhotels.com/6239 |title=Novotel Hong Kong Citygate |publisher=Accorhotels.com|date=2 May 2011|accessdate=7 May 2011}}</ref> and Regal Airport Hotel.<ref>{{cite web|url=http://www.regalhotel.com/Regal-Airport-Hotel/Main/hotel-home.aspx|title=Regal Airport Hotel Hong Kong|publisher=regalhotel.com}}</ref> In 2013, the Regal Airport Hotel was named by [[Skytrax]] as the best airport hotel in the world.<ref>{{cite web|url=http://www.worldairportawards.com/Awards_2013/besthotels.htm|title=World's Best Airport Hotels 2013}}</ref>
+
+==Accidents and incidents==
+
+The following are events at the current HKIA (see [[Kai Tak Airport#Accidents|accidents]] and [[Kai Tak Airport#Incidents|incidents]] at [[Kai Tak Airport|the former HKIA at Kai Tak]]):
+
+*On 22 August 1999, [[Mandarin Airlines Flight 642|China Airlines Flight 642]] (an [[McDonnell Douglas MD-11|MD-11]] operated by subsidiary [[Mandarin Airlines]]), which was landing at Hong Kong International Airport during [[Tropical Storm Sam (1999)|Typhoon Sam]] after a flight from Bangkok International Airport (now [[Bangkok]] [[Don Mueang International Airport]]), rolled over and caught fire, coming to rest upside down beside the runway. Of the 315 passengers and crew on board, three people were killed and 219 were injured.
+* On 13 April 2010, [[Cathay Pacific Flight 780]] from [[Surabaya]] [[Juanda International Airport]] to Hong Kong landed safely after both engines failed due to contaminated fuel. 57 passengers were injured. Its two pilots received the [[Polaris Award]] from the International Federation of Air Line Pilots' Associations for their heroism and airmanship.<ref>{{cite news |title=Pilots reveal death-defying ordeal as engines failed on approach to Chek Lap Kok |url=http://www.scmp.com/magazines/post-magazine/article/1491534/pilots-reveal-death-defying-ordeal-engines-failed-approach |accessdate=21 April 2014|newspaper=South China Morning Post |date=20 April 2014}}</ref>
+
+==Accolades==
+
+*[[AETRA]] Best Airport Worldwide (2005)
+*[[Air Cargo News]] Cargo Airport of the Year (2002–2003)
+*[[Air Cargo World]] Air Cargo Excellence (2007)
+*[[Air Transport Research Society]] Asia Pacific Airport Efficiency Excellence Award (2007)
+*[[Asiaweek]] Asia's Best Airport (2000)
+*[[British Constructional Steelwork Association]], the [[Steel Construction Institute]] and [[British Steel]] Structural Steel Design Award (1999)
+*[[Business Traveller]] Best Airport in China (2006–2008, 2010–2014)
+*[[Centre for Asia Pacific Aviation]] CAPA International Airport of the Year (2007)
+*[[Conde Nast Traveller]] World's Best Airport (2007)
+*[[Construction Industry Manufacturers Association]] CONEXPO-CON/AGG '99 Top 10 Construction Achievements of the 20th Century – Airport Core Programme (1999)
+*[[Federation of Asia Pacific Aircargo Associations]] Most Friendly Airport for Cargo (2005)
+*[[Hong Kong Institute of Architects]] Silver Medal for Architecture (1999)
+*[[Hong Kong Institute of Certified Public Accountants]] Diamond – Best Corporate Governance Disclosure Awards (2004)
+*[[International Air Transport Association]] ([[IATA]]) Eagle Award (2002)
+*Payload Asia Awards Asia Pacific Airport of the Year – Industry Choice Award (2014–2015)
+*[[Raven Fox]] Award for Travel-Retail Excellence in Asia / Pacific (1999–2000)
+*[[Skytrax]] World's Best Airport (2001–2005, 2007–2008, 2011)
+*Smart Travel Asia World's Best Airport (2006–2007, 2011, 2014)
+*[[SmartTravelAsia.com]] Best Airport Worldwide (2006–2007)
+*[[TravelWeekly]] Best International Airport (2007)
+*[[TravelWeeklyChina]] Best Airport Facilities (2006)
+*TTG Best Airport (2002, 2004–2008; Survey was not held in 2003 owing to SARS)
+*[[WTA World Travel Awards]] Asia/ Pacific's Leading Airport (2000)
+
+{| class="wikitable" style="text-align:center"
+|-
+! Year !! style="width:300px;"|Award !! style="width:330px;"|Category !! Results !! Ref
+|-
+| 2008 || rowspan=6|Airport Service Quality Awards<br>by [[Airports Council International]] || rowspan=2|Best Airport Worldwide || rowspan=3|3rd ||<ref>[http://www.airportservicequalityawards.com/pastwinners2008 "ASQ Award for winners for 2008"] ''Airports Council International''. Retrieved 13 April 2012</ref>
+|-
+| rowspan=3|2009 || rowspan=3|<ref>[http://www.aci.aero/cda/aci_common/display/main/aci_content07_c.jsp?zn=aci&cp=1-7-46^35015_666_2__ "ACI Airport Service Quality Awards 2009, Asia Pacific airports sweep top places in worldwide awards"] ''Airports Council International''. 16 February 2010. Retrieved 13 April 2012</ref>
+|-
+| Best Airport in Asia-Pacific
+|-
+| Best Airport by Size (over 40 million passenger) || {{won}}
+|-
+| 2010 || rowspan=2|Best Airport Worldwide || 3rd ||<ref>[http://www.airportservicequalityawards.com/pastwinners2010 "ASQ Award for winners for 2010"] ''Airports Council International''. Retrieved 13 April 2012</ref>
+|-
+| 2011 || 4th ||<ref>[http://www.cnngo.com/seoul/visit/worlds-best-airports-773549 "World's best airports announced – Asia dominates"] ''CNN Go''. 15 February 2012. Retrieved 12 April 2012</ref>
+|}
+
+==See also==
+{{Portal|Hong Kong|Aviation}}
+*[[Airport Authority Hong Kong]]
+*[[Airport Security Unit (Hong Kong)|Airport Security Unit]]
+*[[Government Flying Service]] – a search and rescue service that operates from HKIA
+*[[Kai Tak International Airport|Kai Tak Airport]] – former Hong Kong International Airport (closed in 1998)
+*[[List of buildings, sites, and areas in Hong Kong]]
+*''[[Megaprojects and Risk: An Anatomy of Ambition]]''
+*[[Shek Kong Airfield]] – a military airport in Hong Kong
+*[[Transport in Hong Kong]]
+*[[World's busiest airports by cargo traffic]]
+*[[World's busiest airports by passenger traffic]]
+
+==References==
+{{reflist|20em}}
+
+==External links==
+{{wikivoyage}}
+{{Commons category|Hong Kong International Airport}}
+* {{official website|http://www.hongkongairport.com}}
+* [http://worldaerodata.com/wad.cgi?id=HK59907&sch=VHHH/ World Aero Data – Hong Kong International Airport]
+* [http://www.opennav.com/airport/VHHH openNav: HKG / VHHH charts]
+
+{{HKIA}}
+{{Transport in Hong Kong}}
+{{Hong Kong topics}}
+{{Pearl River Delta transit}}
+{{Immigration Control Stations in Hong Kong}}
+
+{{Authority control}}
+
+[[Category:Hong Kong International Airport]]
+[[Category:Chek Lap Kok]]
+[[Category:Airports in Hong Kong]]
+[[Category:Airports established in 1998]]
+[[Category:Artificial island airports]]
+[[Category:Norman Foster buildings]]
+[[Category:Lattice shell structures]]
+[[Category:Articles containing video clips]]
+[[Category:Neo-futurism architecture]]
+[[Category:1998 establishments in Hong Kong]]

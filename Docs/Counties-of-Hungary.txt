@@ -1,0 +1,107 @@
+Counties of Hungary
+
+{{no footnotes|date=February 2013}}
+{{Politics of Hungary}}
+'''[[Hungary]]''' is subdivided administratively into 19 '''[[county|counties]]''' (''megyék'', singular: ''megye'') and the capital city (''főváros'') [[Budapest]]. The counties are further subdivided into 175 [[Districts of Hungary|districts]] (''járások'', singular: ''járás''). The capital Budapest is subdivided into [[List of districts in Budapest|23 districts]] (''kerületek'', singular: ''kerület'').
+
+There are 23 towns with county's rights (''megyei jogú városok'', singular: ''megyei jogú város''), sometimes called urban counties. The local authorities of these towns have extended powers but they are not independent territorial units.
+
+{{Hungary counties imagemep 450}}
+
+{| class="wikitable sortable" 
+!Name of subdivision!![[County seat]]!![[Area]]<br>(km{{sup|2}})!![[Population]] (2012)!![[Population density]]<br />(people/km{{sup|2}}, 2012)!!Municipalities
+|-
+|[[Budapest]]||-||525||1,740,041||3,314||23
+|-
+|{{Hungarian county link|Bács-Kiskun}}||[[Kecskemét]]||8,445||522,312||62||119
+|-
+|{{Hungarian county link|Baranya}}||[[Pécs]]||4,430||388,907||88||301
+|-
+|{{Hungarian county link|Békés}}||[[Békéscsaba]]||5,630||357,740||64||75
+|-
+|{{Hungarian county link|Borsod-Abaúj-Zemplén}}||[[Miskolc]]||7,247||678,261||94||358
+|-
+|{{Hungarian county link|Csongrád}}||[[Szeged]]||4,263||419,366||98||60
+|-
+|{{Hungarian county link|Fejér}}||[[Székesfehérvár]]||4,358||425,581||98||108
+|-
+|{{Hungarian county link|Győr-Moson-Sopron}}||[[Győr]]||4,208||451,827||107||183
+|-
+|{{Hungarian county link|Hajdú-Bihar}}||[[Debrecen]]||6,211||538,037||87||82
+|-
+|{{Hungarian county link|Heves}}||[[Eger]]||3,637||305,336||84||121
+|-
+|{{Hungarian county link|Jász-Nagykun-Szolnok}}||[[Szolnok]]||5,582||383,128||69||78
+|-
+|{{Hungarian county link|Komárom-Esztergom}}||[[Tatabánya]]||2,264||310,200||137||76
+|-
+|{{Hungarian county link|Nógrád}}||[[Salgótarján]]||2,545||198,933||78||131
+|-
+|{{Hungarian county link|Pest}}||[[Budapest]]||6,391||1,245,048||195||187
+|-
+|{{Hungarian county link|Somogy}}||[[Kaposvár]]||6,036||315,850||52||245
+|-
+|{{Hungarian county link|Szabolcs-Szatmár-Bereg}}||[[Nyíregyháza]]||5,936||551,871||93||229
+|-
+|{{Hungarian county link|Tolna}}||[[Szekszárd]]||3,703||229,116||62||109
+|-
+|{{Hungarian county link|Vas}}||[[Szombathely]]||3,336||256,458||77||216
+|-
+|{{Hungarian county link|Veszprém}}||[[Veszprém]]||4,493||354,565||79||217
+|-
+|{{Hungarian county link|Zala}}||[[Zalaegerszeg]]||3,784||285,154||75||258
+|-
+|'''[[Hungary]]'''||-||'''93,030'''||'''9,957,731'''||'''107'''||'''3176'''
+|}
+
+There are five towns with county's rights in addition to the county seats:
+
+* [[Érd]] (Pest county)
+* [[Dunaújváros]] (Fejér county)
+* [[Hódmezővásárhely]] (Csongrád county)
+* [[Nagykanizsa]] (Zala county)
+* [[Sopron]] (Győr-Moson-Sopron county)
+<!--
+* [http://www.bacskiskun.hu/]
+* [http://www.baranya.hu/]
+* [http://www.bekesmegye.hu/]
+* [http://www.baz.hu/]
+* [http://www.csongrad-megye.hu/]
+* [http://www.fejer.hu/]
+* [http://www.gymsmo.hu/]
+* [http://www.hbmo.hu/]
+* [http://www.hevesmegye.hu/]
+* [http://www.jnszm.hu/site/]
+* [[Komárom-Esztergom]]
+* [http://www.nograd.hu/]
+* [http://www.pestmegye.hu/]
+* [http://www.somogy.hu/]
+* [http://www.szszbmo.hu/]
+* [http://www.tolnamegye.hu/]
+* [http://www.vasmegye.hu/]
+* [http://www.vpmegye.hu/]
+* [http://www.zala.hu/]
+-->
+
+== See also ==
+* [[Regions of Hungary]]
+* [[Subregions of Hungary]]
+* [[Administrative divisions of the Kingdom of Hungary]] (until 1918)
+** [[Counties of the Kingdom of Hungary]]
+* [[Administrative divisions of the Kingdom of Hungary (1941-44)]]
+* [[List of towns in Hungary]]
+* [[ISO 3166-2:HU]]
+
+== References ==
+*[http://www.ksh.hu/docs/hun/hnk/hnk_2012.pdf Gazetteer of Hungary, 2012]
+
+{{Hungarian counties}}
+{{Articles on first-level administrative divisions of European countries}}
+{{Types of administrative country subdivision}}
+
+[[Category:Counties of Hungary| ]]
+[[Category:Subdivisions of Hungary]]
+[[Category:Lists of country subdivisions|Hungary, Counties]]
+[[Category:Country subdivisions of Europe|Hungary 1]]
+[[Category:First-level administrative country subdivisions|Counties, Hungary]]
+[[Category:Hungary geography-related lists|Counties]]

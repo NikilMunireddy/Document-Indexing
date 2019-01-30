@@ -1,0 +1,126 @@
+Hymenoptera
+
+{{Automatic taxobox
+|fossil_range= [[Triassic]] – recent {{fossilrange|251|0}}
+| image = Orange Caterpillar Parasite Wasp.jpg
+| image_caption = female ''[[Tryphoninae|Netelia]] producta''
+| image2 = Stridulations-Reveal-Cryptic-Speciation-in-Neotropical-Sympatric-Ants-pone.0015363.s008.ogg
+| image2_caption = [[stridulation]]s of a ''[[Pachycondyla apicalis]]'' worker
+| taxon = Hymenoptera
+| authority = [[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]
+| display_parents = 2
+| subdivision_ranks = [[Suborders]]
+| subdivision =
+[[Apocrita]]<br />
+[[Sawfly|Symphyta]]
+}}
+''' Hymenoptera''' is the third-largest [[order (biology)|order]] of [[insect]]s, comprising the [[sawfly|sawflies]], [[wasp]]s, [[bee]]s, and [[ant]]s. Over 150,000 species are recognized,<ref name="Mayhew2007">{{cite journal|last1=Mayhew|first1=Peter J.|title=Why are there so many insect species? Perspectives from fossils and phylogenies|journal=Biological Reviews|volume=82|issue=3|year=2007|pages=425–454|issn=1464-7931|doi=10.1111/j.1469-185X.2007.00018.x}}</ref><ref name="JankeKlopfstein2013">{{cite journal|last1=Janke|first1=Axel|last2=Klopfstein|first2=Seraina|last3=Vilhelmsen|first3=Lars|last4=Heraty|first4=John M.|last5=Sharkey|first5=Michael|last6=Ronquist|first6=Fredrik|title=The Hymenopteran Tree of Life: Evidence from Protein-Coding Genes and Objectively Aligned Ribosomal Data|journal=PLoS ONE|volume=8|issue=8|year=2013|pages=e69344|issn=1932-6203|doi=10.1371/journal.pone.0069344}}</ref> with many more remaining to be described. The name refers to the  wings of the insects, but the original derivation is ambiguous.<ref name=Grissel10>{{Cite book|title=Bees, Wasps, and Ants: The Indispensable Role of Hymenoptera in Gardens|publisher=Timber Press, Inc.|last=Grissell|first=Eric|year=2010}}</ref>{{rp|42}} All references agree that the derivation involves the [[Ancient Greek language|Ancient Greek]] [[wikt:πτερόν|πτερόν]] (''pteron'') for wing. The Ancient Greek [[wikt:ὑμήν|ὑμήν]] (''hymen'') for membrane provides a plausible [[etymology]] for the term because these insects have membranous wings. However, a key characteristic of this order is that the [[Insect wing|hind wings]] are connected to the [[Insect wing|fore wings]] by a series of [[hamuli|hooks]]. Thus, another plausible etymology involves [[Hymen (god)|Hymen]], the Ancient Greek god of marriage, as these insects have "married wings" in flight.
+
+Females typically have a special [[ovipositor]] for inserting eggs into hosts or otherwise inaccessible places. The ovipositor is often modified into a [[stinger (organ)|stinger]]. The young develop through [[holometabolism]] (complete [[metamorphosis (biology)|metamorphosis]])—that is, they have a worm-like larval stage and an inactive pupal stage before they mature.
+
+==Evolution==
+Hymenoptera originated in the [[Triassic]], with the oldest fossils belonging to the family [[Xyelidae]]. Social hymenopterans appeared during the [[Cretaceous]].<ref name=IIBD1>{{cite book |author= Hoell, H.V., Doyen, J.T. & Purcell, A.H. |year=1998 |title=Introduction to Insect Biology and Diversity, 2nd ed. |publisher= Oxford University Press |page= 320|isbn= 0-19-510033-6}}</ref> The evolution of this group has been intensively studied by [[Alex Rasnitsyn|A. Rasnitsyn]], [[Michael S. Engel|M. S. Engel]], G. Dlussky, and others.
+
+This clade has been studied by examining the mitochondrial DNA.<ref name=Mao2014>Mao M, Gibson T, Dowton M (2014) Higher-level phylogeny of the Hymenoptera inferred from mitochondrial genomes. Mol Phylogenet Evol</ref> Although this study was unable to resolve all the ambiguities in this clade, some relationships could be established.  The ''[[Aculeata]]'', ''[[Ichneumonomorpha]]'', and ''[[Proctotrupomorpha]]'' were monophyletic. The ''[[Megalyroidea]]'' and ''[[Trigonalyoidea]]'' are sister clades as are the ''[[Chalcidoidea]]''+''[[Diaprioidea]]''. The ''[[Cynipoidea]]'' was generally recovered as the sister group to ''[[Chalcidoidea]]'' and ''[[Diaprioidea]]'' which are each other's closest relations.
+
+==Anatomy==
+[[File:Bombus muscorum1.jpg|thumb|''[[Bombus muscorum]]'' drinking nectar with its long proboscis]]
+Hymenopterans range in size from very small to large insects, and usually have two pairs of wings. Their [[insect mouthparts|mouthparts]] are adapted for chewing, with well-developed [[Mandible (insect mouthpart)|mandible]]s (ectognathous mouthparts).  Many species have further developed the mouthparts into a lengthy [[proboscis]], with which they can drink liquids, such as [[nectar]]. They have large [[compound eyes]], and typically three simple eyes, ([[ocelli]]).
+
+The forward margin of the hind wing bears a number of hooked bristles, or "[[hamuli]]", which lock onto the fore wing, keeping them held together. The smaller species may have only two or three hamuli on each side, but the largest wasps may have a considerable number, keeping the wings gripped together especially tightly. Hymenopteran wings have relatively few veins compared with many other insects, especially in the smaller species.
+
+In the more ancestral hymenopterans, the [[ovipositor]] is blade-like, and has evolved for slicing plant tissues. In the majority, however, it is modified for piercing, and, in some cases, is several times the length of the body. In some species, the ovipositor has become modified as a [[stinger]], and the [[egg (biology)|eggs]] are laid from the base of the structure, rather than from the tip, which is used only to inject [[venom]]. The sting is typically used to immobilise prey, but in some wasps and bees may be used in defense.<ref name=IIBD/>
+
+The larvae of the more ancestral hymenopterans resemble [[caterpillar]]s in appearance, and like them, typically feed on leaves. They have large chewing mandibles, three pairs of thoracic limbs, and, in most cases, a number of abdominal [[proleg]]s. Unlike caterpillars, however, the prolegs have no grasping spines, and the antennae are reduced to mere stubs.
+
+The larvae of other hymenopterans, however, more closely resemble [[maggot]]s, and are adapted to life in a protected environment. This may be the body of a host organism, or a cell in a nest, where the adults will care for the larva. Such larvae have soft bodies with no limbs. They are also unable to defecate until they reach adulthood due to having an incomplete digestive tract, presumably to avoid contaminating their environment.<ref name=IIBD/>
+
+==Reproduction==
+
+===Sex determination===
+{{main|Haplodiploid sex-determination system}}
+
+Among most or all hymenopterans, sex is [[sex-determination system|determined]] by the number of [[chromosome]]s an individual possesses.<ref name=Cowan2004>{{cite journal |author1=David P. Cowan |author2=Julie K. Stahlhut | title = Functionally reproductive diploid and haploid males in an inbreeding hymenopteran with complementary sex determination | journal = PNAS | volume = 101 | issue = 28 | pages = 10374–9 | date = July 13, 2004 | doi=10.1073/pnas.0402481101                                    | pmid = 15232002 | pmc = 478579 }}</ref> Fertilized eggs get two sets of chromosomes (one from each parent's respective [[gamete]]s), some develop into [[diploid]] females, while unfertilized eggs only contain one set (from the mother), so develop into [[haploid]] males; the act of fertilization is under the voluntary control of the egg-laying female.<ref name=IIBD>{{cite book |author= Hoell, H.V., Doyen, J.T. & Purcell, A.H. |year=1998 |title=Introduction to Insect Biology and Diversity, 2nd ed. |publisher= Oxford University Press |pages= 570–579|isbn= 0-19-510033-6}}</ref>  This phenomenon is called [[haplodiploidy]].
+
+However, the actual genetic mechanisms of haplodiploid sex determination may be more complex than simple chromosome number. In many Hymenoptera, sex is actually determined by a single gene locus with many alleles.<ref name=Cowan2004/> In these species, haploids are male and diploids heterozygous at the sex locus are female, but occasionally a diploid will be homozygous at the sex locus and develop as a male, instead. This is especially likely to occur in an individual whose parents were [[siblings]] or other close relatives. Diploid males are known to be produced by inbreeding in many ant, bee, and wasp species. Diploid biparental males are usually sterile but a few species that have fertile diploid males are known.<ref>{{Cite journal | last1 = Elias | first1 = J. | last2 = Mazzi | first2 = D. | last3 = Dorn | first3 = S. | editor1-last = Bilde | editor1-first = Trine | title = No Need to Discriminate? Reproductive Diploid Males in a Parasitoid with Complementary Sex Determination | doi = 10.1371/journal.pone.0006024 | journal = PLoS ONE | volume = 4 | issue = 6 | pages = e6024 | year = 2009 | pmid =  19551142| pmc =2696080 }}</ref>
+
+One consequence of haplodiploidy is that females on average actually have more genes in common with their sisters than they do with their own daughters.  Because of this, cooperation among kindred females may be unusually advantageous, and has been hypothesized to contribute to the multiple origins of [[eusociality]] within this order.<ref name=IIBD/> In many colonies of bees, ants, and wasps, worker females will remove eggs laid by other workers due to increased relatedness to direct siblings, a phenomenon known as [[worker policing]].<ref>Davies, N.R., Krebs, J.R., and West, S.A. An Introduction to Behavioral Ecology. 4th ed. West Sussex: Wiley-Blackwell, 2012. Print. pp. 387–388</ref>
+
+===Thelytoky===
+{{main|Thelytoky}}
+
+Some hymenopterans take advantage of [[parthenogenesis]], the creation of [[embryo]]s without [[fertilisation]]. [[Thelytoky]] is a particular form of parthenogenesis in which female embryos are created (without fertilisation). The form of thelytoky in hymenopterans is a kind of automixis in which two haploid products (proto-eggs) from the same meiosis fuse to form a diploid zygote. This process tends to maintain [[Zygosity|heterozygosity]] in the passage of the genome from mother to daughter. It is found in several ant species including the desert ant ''[[Cataglyphis cursor]]'',<ref name="pmid15576621">{{cite journal |vauthors=Pearcy M, Aron S, Doums C, Keller L |title=Conditional use of sex and parthenogenesis for worker and queen production in ants |journal=Science |volume=306 |issue=5702 |pages=1780–3 |year=2004 |pmid=15576621 |doi=10.1126/science.1105453 |url=}}</ref> the clonal raider ant ''[[Cerapachys biroi]]'',<ref name="pmid24508170">{{cite journal |vauthors=Oxley PR, Ji L, Fetter-Pruneda I, McKenzie SK, Li C, Hu H, Zhang G, Kronauer DJ |title=The genome of the clonal raider ant Cerapachys biroi |journal=Curr. Biol. |volume=24 |issue=4 |pages=451–8 |year=2014 |pmid=24508170 |pmc=3961065 |doi=10.1016/j.cub.2014.01.018 |url=}}</ref> the predaceous ant ''[[Platythyrea punctata]]'',<ref name=Kellner>Katrin Kellner, Jurgen Heinze (2011). Mechanism of facultative parthenogenesis in the ant Platythyrea punctata.  Evol. Ecol. 25: 77-89. DOI 10.1007/s10682-010-9382-5</ref> and the electric ant (little fire ant) ''[[Wasmannia auropunctata]]''.<ref name=Rey>{{cite journal |vauthors=Rey O, Loiseau A, Facon B, Foucaud J, Orivel J, Cornuet JM, Robert S, Dobigny G, Delabie JH, Mariano Cdos S, Estoup A |title=Meiotic recombination dramatically decreased in thelytokous queens of the little fire ant and their sexually produced workers |journal=Mol. Biol. Evol. |volume=28 |issue=9 |pages=2591–601 |year=2011 |pmid=21459760 |doi=10.1093/molbev/msr082 |url=}}</ref> It also occurs in the Cape honey bee ''[[Apis mellifera capensis]]''.<ref name=Baudry>{{cite journal |vauthors=Baudry E, Kryger P, Allsopp M, Koeniger N, Vautrin D, Mougel F, Cornuet JM, Solignac M |title=Whole-genome scan in thelytokous-laying workers of the Cape honeybee (Apis mellifera capensis): central fusion, reduced recombination rates and centromere mapping using half-tetrad analysis |journal=Genetics |volume=167 |issue=1 |pages=243–52 |year=2004 |pmid=15166151 |pmc=1470879 |doi= |url=}}</ref>
+
+[[Oocyte]]s that undergo automixis with central fusion often have a reduced rate of [[Chromosomal crossover|crossover recombination]].  A low rate of recombination helps to maintain [[heterozygosity]] and avoid [[inbreeding depression]].  Species that display central fusion with reduced recombination include the ants ''P. punctata''<ref name=Kellner /> and ''W. auropunctata''<ref name=Rey /> and the honey bee ''A. m. capensis''.<ref name=Baudry />  In ''A. m. capensis'', the recombination rate during the meiosis is reduced by more than 10-fold.<ref name=Baudry />  In ''W. auropunctata'' the reduction is 45-fold.<ref name=Rey />
+
+Single queen colonies of the narrow headed ant ''[[Formica exsecta]]'' illustrate the possible deleterious effects of increased homozygosity.  In this ant, colonies with more homozygous queens age more rapidly. The result is reduced colony survival.<ref name="pmid19127611">{{cite journal |vauthors=Haag-Liautard C, Vitikainen E, Keller L, Sundström L |title=Fitness and the level of homozygosity in a social insect |journal=J. Evol. Biol. |volume=22 |issue=1 |pages=134–42 |year=2009 |pmid=19127611 |doi= |url=}}</ref>
+
+==Diet==
+Different species of Hymenoptera show a wide range of feeding habits. The most primitive forms are typically herbivorous, feeding on leaves or pine needles. Stinging wasps are predators, and will provision their larvae with immobilised prey, while bees feed on nectar and [[pollen]].
+
+A number of species are [[parasitoid]] as larvae. The adults inject the eggs into a paralysed host, which they begin to consume after hatching. Some species are even [[hyperparasitoid]], with the host itself being another parasitoid insect. Habits intermediate between those of the herbivorous and parasitoid forms are shown in some hymenopterans, which inhabit the galls or nests of other insects, stealing their food, and eventually killing and eating the occupant.<ref name=IIBD/>
+
+==Classification==
+[[File:Stethomostus.fuliginosus.-.lindsey.jpg|thumb|[[Symphyta]]: the sawfly ''[[Stethomostus fuliginosus]]'']]
+[[File:Gaint Honey Bee (Apis dorsata) on Tribulus terrestris W IMG 1020.jpg|thumb|[[Apocrita]]: the giant honey bee ''[[Apis dorsata]]'']]
+
+The Hymenoptera are divided into two groups, the Symphyta which have no waist, and the Apocrita which have a narrow waist.<ref>Aguiar, A.P., Deans, A.R., Engel, M.S., Forshage, M., Huber, J.T., Jennings, J.T., Johnson, N.F., Lelej, A.S., Longino, J.T., Lohrmann, V., Mikó, I., Ohl, M., Rasmussen, C., Taeger A. & Yu, D.S.K. 2013, Order Hymenoptera Linnaeus, 1758. In: Zhang, Z.-Q. (Ed.) Animal Biodiversity: An Outline of Higher-level Classification and Survey of Taxonomic Richness (Addenda 2013). Zootaxa, 3703, 1–82.</ref>
+
+===Symphyta===
+The suborder [[Sawfly|Symphyta]] includes the [[sawflies]], [[horntail]]s, and [[Orussidae|parasitic wood wasps]]. The group may be [[paraphyletic]], as it has been suggested that the family [[Orussidae]] may be the group from which the [[Apocrita]] arose. They have an unconstricted junction between the thorax and abdomen. The larvae are herbivorous, free-living eruciforms, with three pairs of true legs, [[proleg]]s (on every segment, unlike [[Lepidoptera]]) and [[ocelli]]. The prolegs do not have crochet hooks at the ends unlike the larvae of the Lepidoptera.
+
+===Apocrita===
+The wasps, bees, and ants together make up the suborder [[Apocrita]], characterized by a constriction between the first and second abdominal segments called a wasp-waist ([[petiole (insect)|petiole]]), also involving the fusion of the first abdominal segment to the [[Thorax (insect anatomy)|thorax]]. Also, the larvae of all Apocrita lack legs, prolegs, or ocelli. The hindgut of the larvae also remains closed during development, with feces being stored inside the body, with the exception of some bee larvae where the larval anus through developmental reversion has reappeared. In general, the anus only opens at the completion of larval growth.<ref name="Missouri2007">{{cite book |last=Hunt |first=James H. |title=The Evolution of Social Wasps |url=http://books.google.com/books?id=bFMoSxCVSVIC&pg=PA12 |date=2007 |publisher=Oxford University Press, USA |isbn=978-0-19-804207-5|page=12}}</ref>
+
+==See also==
+*[[List of bees, wasps and ants of Great Britain]]
+*[[Hymenoptera genome database]]
+*[[Worker policing]]
+
+==References==
+{{Reflist|28em}}
+
+==Further reading==
+* {{cite book |author1=Gullan, P. J. |author2=Cranston, P. S. | title=The Insects: An Outline of Entomology | publisher=Wiley Blackwell | edition=Fifth | year=2014}}
+* {{cite book |author=[[David Grimaldi (entomologist)|Grimaldi, D.]] and [[Michael S. Engel|Engel, M.S.]] |title=Evolution of the Insects |year=2005 |publisher=[[Cambridge University Press]] |isbn=0-521-82149-5}}
+* {{cite book |author=[[Alex Rasnitsyn|Rasnitsyn, A.P.]] and Quicke, D.L.J. |title=History of Insects |year=2002 |publisher=[[Kluwer Academic Publishers]] |isbn=1-4020-0026-X |pages=242–254}}
+
+==External links==
+{{commons category}}
+{{wikispecies}}
+{{wiktionary|Hymenoptera}}
+;General
+* [http://hymao.org/ Hymenoptera Anatomy Ontology project]
+* [http://glossary.hymao.org/ Hymenoptera Anatomy Glossary]
+* [http://www.forum.hymis.de/ Hymenoptera Forum] German and International
+* [http://www.hymis.eu/fotos/topical/topical.php?nav1=topical Hymenoptera Information System] (German)
+* [http://www.cirrusimage.com/hymenoptera.htm Hymenoptera of North America – large format reference photographs, descriptions, taxonomy]
+* [http://www.hymenopterists.org/ International Society of Hymenopterists]
+* [http://www.bwars.com/ Bees, Wasps and Ants Recording Society] (UK)
+* [http://www.lasius.narod.ru/ Ants Photo Gallery] (RU)
+* [http://fossilinsects.net/index.html International Palaeoentomological Society]
+* [http://www.sel.barc.usda.gov/selhome/sphecos/sph30ttl.htm Sphecos Forum for Aculeate Hymenopterra]
+* [http://morphbank.net/Browse/ByImage/index.php?keywords=&tsnKeywords=hymenoptera&spKeywords=&viewKeywords=whole+body&localityKeywords=&listField1=imageId&orderAsc1=DESC&listField2=&orderAsc2=ASC&listField3=&orderAsc3=ASC&numPerPage=20&goTo=&resetOffset=&activeSubmit=2 Hymenoptera images on MorphBank, a biological image database]
+* [http://www.insectlifeforms.com/Orders564/ANTS_-_BEES_PLUS_WASPS_HYMENOPTERA_60502050_564.aspx Order Hymenoptera] Insect Life Forms
+
+;Systematics
+* [http://hymenoptera.ucr.edu Hymenopteran Systematics]
+* [http://hol.osu.edu Hymenoptera Online] 1000+ images
+
+;Regional Lists
+* [http://www.ufrrj.br/institutos/ib/ento/tomo11.pdf Insetos do Brasil]
+* [http://www.landcareresearch.co.nz/research/biosystematics/invertebrates/hymenoptera/ New Zealand Hymenoptera]
+* [http://www.waspweb.org/Afrotropical_wasps/index.htm Waspweb] [[Afrotropical]] Hymenoptera Excellent images
+* [http://www.environment.gov.au/biodiversity/abrs/online-resources/fauna/afd/taxa/HYMENOPTERA checklist of Australian Hymenoptera]
+
+;Books
+* [http://www.library.illinois.edu/blog/digitizedbotw/2009/02/bees_and_wasps_and_ants_oh_my.html Bees and Wasps and Ants, Oh My!]
+
+{{Orders of Insects}}
+{{Hymenoptera}}
+
+{{Authority control}}
+
+[[Category:Hymenoptera| ]]
+[[Category:Insect orders]]
+[[Category:Extant Triassic first appearances]]

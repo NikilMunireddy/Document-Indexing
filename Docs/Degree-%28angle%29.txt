@@ -1,0 +1,92 @@
+Degree (angle)
+
+{{Infobox Unit
+| name = Degree
+| standard = [[Non-SI units mentioned in the SI|Non-SI accepted unit]]
+| quantity = [[Angle]]
+| symbol = °<ref name="HP48_UG">{{cite book | title=HP&nbsp;48G Series – User's Guide (UG) | publisher=[[Hewlett-Packard]] | edition=8 | date=December 1994 | id=HP 00048-90126, (00048-90104) | orig-year=1993<!-- edition 1 (1993-05) --> | url=http://www.hpcalc.org/details.php?id=3937 | accessdate=2015-09-06}}</ref><ref name="HP50g_UG">{{cite book | title=HP 50g graphing calculator user's guide (UG) | publisher=[[Hewlett-Packard]] | edition=1 | date=2006-04-01 | id=HP F2229AA-90006 | url=http://www.hpcalc.org/details.php?id=6512 | accessdate=2015-10-10}}</ref>
+| symbol2 = deg<ref name="HP-Prime_UG">{{cite book | title=HP Prime Graphing Calculator User Guide (UG) | publisher=[[Hewlett-Packard Development Company, L.P.]] | edition=1 | date=October 2014 | id=HP 788996-001 | url=http://h10032.www1.hp.com/ctg/Manual/c04119981.pdf | accessdate=2015-10-13}}</ref>
+| units1     = [[Turn (unit)|turn]]s
+| inunits1   = {{sfrac|1|360}}
+| units2     = [[radian]]s
+| inunits2   = {{sfrac|{{pi}}|180}}
+| units3     = [[Gon (unit)|gon]]s
+| inunits3   = {{sfrac|10|9}}<sup>g</sup>
+}}[[Image:Degree diagram.svg|thumb|One degree (shown in red) and<br />eighty nine (shown in blue)]]
+A '''degree''' (in full, a '''degree of arc''', '''arc degree''', or '''arcdegree'''), usually denoted by '''°''' (the [[degree symbol]]), is a measurement of [[plane (mathematics)|plane]] [[angle]], defined by representing a [[Turn (geometry)|full rotation]] as 360 degrees.
+
+It is not an [[SI unit]], as the SI unit for angles is [[radian]], but it is mentioned in the SI brochure as an [[Non-SI units mentioned in the SI|accepted unit]].<ref>{{cite news | author=Bureau International des Poid et Mesures | title=The International System of Units (SI) | date=2006 | edition=8 | url=http://www.bipm.org/en/si/si_brochure/chapter4/table6.html}}</ref> Because a full rotation equals 2{{pi}} radians, one degree is equivalent to {{sfrac|{{pi}}|180}} radians.
+
+==History==
+[[Image:Equilateral chord.svg|thumb||right|A circle with an equilateral [[Chord (geometry)|chord]] (red). One sixtieth of this arc is a degree. Six such chords complete the circle.]]
+The original motivation for choosing the degree as a unit of rotations and angles is unknown. One theory states that it is related to the fact that 360 is approximately the number of days in a year.<ref>{{cite web | url=http://mathworld.wolfram.com/Degree.html | title=Degree | publisher=MathWorld}}</ref> Ancient [[astronomers]] noticed that the sun, which follows through the [[ecliptic]] path over the course of the year, seems to advance in its path by approximately one degree each day. Some ancient [[calendar]]s, such as the [[Iranian calendar|Persian calendar]], used 360 days for a year. The use of a calendar with 360 days may be related to the use of [[sexagesimal]] numbers.
+
+Another theory is that the Babylonians subdivided the circle using the angle of an equilateral triangle as the basic unit and further subdivided the latter into 60 parts following their [[sexagesimal]] numeric system.<ref>{{cite book | first=James Hopwood | last=Jeans | authorlink=James Hopwood Jeans | title=The Growth of Physical Science | date=1947 | url=https://books.google.com/books?hl=en&lr=&id=JX49AAAAIAAJ&oi=fnd&pg=PA7 | pages=7}}</ref><ref>{{cite book |first=Francis Dominic | last=Murnaghan | authorlink=Francis Dominic Murnaghan (mathematician) | title=Analytic Geometry | date=1946 | pages=2}}</ref> The [[history of trigonometry|earliest trigonometry]], used by the [[Babylonian astronomy|Babylonian astronomers]] and their [[Greek astronomy|Greek]] successors, was based on [[chord (geometry)|chords]] of a circle. A chord of length equal to the radius made a natural base quantity. One sixtieth of this, using their standard [[sexagesimal]] divisions, was a degree.
+
+[[Aristarchus of Samos]] and [[Hipparchus]] seem to have been among the first [[Greek astronomy|Greek scientists]] to exploit Babylonian astronomical knowledge and techniques systematically.<ref>{{cite web | url=http://www.dioi.org/cot.htm#dqsr | first=Dennis | last=Rawlins | title=On Aristarchus | journal=DIO - The International Journal of Scientific History}}</ref><ref>{{cite book | first=Gerald J. | last=Toomer | authorlink=G. J. Toomer | title=Hipparchus and Babylonian astronomy}}</ref> [[Timocharis]], Aristarchus, [[Aristillus]], [[Archimedes]], and Hipparchus were the first Greeks known to divide the circle in 360 degrees of 60 [[arc minute]]s.<ref>{{cite book | title=Aristarchos Unbound: Ancient Vision / The Hellenistic Heliocentrists' Colossal Universe-Scale / Historians' Colossal Inversion of Great & Phony Ancients / History-of-Astronomy and the Moon in Retrograde! | journal=DIO - The International Journal of Scientific History | volume=14 | chapter=2 (Footnote 24)| date=March 2008 | pages=19 | url=http://www.dioi.org/vols/we0.pdf | issn=1041-5440 | accessdate=2015-10-16}}</ref> [[Eratosthenes]] used a simpler [[sexagesimal]] system dividing a circle into 60 parts.
+
+The division of the circle into 360 parts also occurred in ancient [[India]], as evidenced in the [[Rigveda]]:<ref>{{cite book | author=Dirghatamas | authorlink=Dirghatamas | title=Rigveda | pages=1.164.48}}</ref>
+
+{{quotation
+|Twelve spokes, one wheel, navels three.<br />
+Who can comprehend this?<br />
+On it are placed together<br />
+three hundred and sixty like pegs.<br />
+They shake not in the least.
+|[[Dirghatamas]]
+|Rigveda 1.164.48}}
+
+Another motivation for choosing the number 360 may have been that it is [[highly composite number|readily divisible]]: 360 has 24 [[divisor]]s,<ref group="note">The divisors of 360 are 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 24, 30, 36, 40, 45, 60, 72, 90, 120, 180, and 360.</ref> making it one of only 7 numbers such that no number less than twice as much has more divisors {{OEIS|id=A072938}}.<ref>{{cite web | url=http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.brefeld.homepage.t-online.de%2Fteilbarkeit.html&act=url | title=Divisibility highly composite numbers | first=Werner | last=Brefeld}}</ref><ref>{{cite book | first=Werner | last=Brefeld | title=(not defined) | publisher=[[Rowohlt Verlag]] | date=2015 | pages=''Not yet published''}}</ref> Furthermore, it is divisible by every number from 1 to 10 except 7.<ref group="note">Contrast this with the relatively unwieldy [[2520 (number)|2520]], which is the [[least common multiple]] for every number from 1 to 10.</ref> This property has many useful applications, such as dividing the world into 24 [[time zone]]s, each of which is nominally 15° of [[longitude]], to correlate with the established [[hour|24-hour]] [[day]] convention.
+
+Finally, it may be the case that more than one of these factors has come into play.  According to that theory, the number is approximately 365 because of the apparent movement of the sun against the celestial sphere and that it was rounded to 360 for some of the mathematical reasons cited above.
+
+==Subdivisions==
+For many practical purposes, a degree is a small enough angle that whole degrees provide sufficient precision. When this is not the case, as in [[astronomy]] or for [[Geographic coordinate system|geographic coordinates]] ([[latitude]] and [[longitude]]), degree measurements may be written using [[decimal degrees]]. For example, 40.1875°, with the degree symbol behind the decimals.
+
+Alternatively, the traditional [[sexagesimal]] [[Units of measurement|unit]] subdivisions can be used. One degree is divided into 60 ''minutes (of arc)'', and one minute into 60 ''seconds (of arc)''. Use of degrees-minutes-seconds is also called DMS notation. These subdivisions, also called the ''[[arcminute]]'' and ''[[arcsecond]]'', are respectively represented as a single and double [[Prime (symbol)|prime]]. For example, 40.1875° = 40°&nbsp;11′&nbsp;15″, or using [[quotation mark]] characters as 40°&nbsp;11'&nbsp;15". Additional precision can be provided using decimals for the arcseconds component.
+
+The older system of [[third (angle)|third]]s, [[fourth (angle)|fourth]]s, etc., which continues the sexagesimal unit subdivision, was used by [[al-Kashi]] and other ancient astronomers, but is rarely used today. These subdivisions were denoted{{Citation needed|date=January 2008}} by writing the [[Roman numeral]] for the number of sixtieths in superscript: 1<sup>I</sup> for a "[[prime (symbol)|prime]]" (minute of arc), 1<sup>II</sup> for a [[Double prime|second]], 1<sup>III</sup> for a [[Triple prime|third]], 1<sup>IV</sup> for a [[Quarter prime|fourth]], etc. Hence the modern symbols for the minute and second of arc, and the word "second" also refer to this system.{{Citation needed|date=April 2009}}
+
+==Alternative units==
+{{See also|Angle#Measuring angles|l1=Measuring angles}}
+
+[[File:Degree-Radian Conversion.svg|thumb|300px|A chart to convert between degrees and radians]]
+In most [[mathematics|mathematical]] work beyond practical geometry, angles are typically measured in [[radian]]s rather than degrees. This is for a variety of reasons; for example, the [[trigonometric function]]s have simpler and more "natural" properties when their arguments are expressed in radians. These considerations outweigh the convenient divisibility of the number 360. One complete [[Turn (geometry)|turn]] (360°) is equal to 2''[[Pi|{{pi}}]]'' radians, so 180° is equal to {{pi}} radians, or equivalently, the degree is a [[mathematical constant]]: 1° = {{frac|{{pi}}|180}}.
+
+The [[Turn (geometry)|turn]] (or revolution, full circle, full rotation, cycle) is used in technology and science. 1 turn = 360°.
+
+With the invention of the [[metric system]], based on powers of ten, there was an attempt to replace degrees by decimal "degrees"<ref group="note">These new and decimal "degrees" must not be confused with [[decimal degrees]].</ref> called ''[[grad (angle)|grad]]'' or ''[[gon (angle)|gon]]'', where the number in a right angle is equal to 100&nbsp;''gon'' with 400&nbsp;''gon'' in a full circle (1° = {{frac|10|9}} gon). Although that idea was abandoned by Napoleon, grades continued to be used in several fields and many [[scientific calculator]]s support them.  Decigrades {{frac|1|4,000}} were used with French artillery sights in World War I.
+
+An [[angular mil]], which is most used in military applications, has at least three specific variants, ranging from {{frac|1|6,400}} to {{frac|1|6,000}}, each approximately equal to one milliradian.  However, {{frac|1|6,000}} used by the Russian Army originated in Imperial Russia, where an equilateral chord was divided into tenths to give a circle of 600 units (this may be seen on a lining plane, an early device for aiming [[indirect fire]] artillery, dating from about 1900, in the St Petersberg Museum of Artillery).
+
+{{Table of angles}}
+
+==See also==
+* [[Compass]]
+* [[Geographic coordinate system]]
+* [[Gradian]]
+* [[Meridian arc]]
+* [[Square degree]]
+* [[Square minute]]
+* [[Square second]]
+* [[Steradian]]
+
+==Notes==
+<references group="note"/>
+
+==References==
+<references/>
+
+==External links==
+{{Commons category|Degree (angle)}}
+*{{cite web | url=http://www.mathopenref.com/degrees.html | title=Degrees as an angle measure}}, with interactive animation
+*{{cite web | url=http://mathworld.wolfram.com/Degree.html | title=Degree}} at [[MathWorld]]
+*{{cite web | last1=Gray | first1=Meghan | title=° Degree of Angle | url=http://www.sixtysymbols.com/videos/degree.htm | work=Sixty Symbols | publisher=[[Brady Haran]] for the [[University of Nottingham]] | last2=Merrifield | first2=Michael | last3=Moriarty | first3=Philip | date=2009}}
+
+{{SI units}}
+
+{{DEFAULTSORT:Degree (Angle)}}
+[[Category:Units of plane angle]]
+[[Category:Imperial units]]
+[[Category:Mathematical constants]]
+[[Category:Customary units of measurement in the United States]]

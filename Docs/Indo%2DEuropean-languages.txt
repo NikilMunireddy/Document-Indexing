@@ -1,0 +1,925 @@
+Indo-European languages
+
+{{about|the family of languages found in much of Europe and Asia||Indo-European (disambiguation)}}
+{{Infobox language family
+|name     = Indo-European
+|region   = Before the 16th century: [[Europe]], [[Western Asia|West]], [[Central Asia|Central]], and [[South Asia]]; today: worldwide
+|familycolor = Indo-European
+|family   = One of the world's primary [[language family|language families]]
+|protoname = [[Proto-Indo-European language|Proto-Indo-European]]
+|child1   = [[Albanian language|Albanian]]
+|child2   = [[Anatolian languages|Anatolian]] (extinct)
+|child3   = [[Armenian language|Armenian]]
+|child4   = [[Balto-Slavic languages|Balto-Slavic]] ([[Baltic languages|Baltic]] and [[Slavic languages|Slavic]])
+|child5   = [[Celtic languages|Celtic]]
+|child6   = [[Germanic languages|Germanic]]
+|child7   = [[Hellenic languages|Hellenic]]
+|child8   = [[Indo-Iranian languages|Indo-Iranian]] ([[Indo-Aryan languages|Indo-Aryan]], [[Iranian languages|Iranian]], and [[Nuristani languages|Nuristani]])
+|child9   = [[Italic languages|Italic]] (including [[Romance languages|Romance]])
+|child10  = [[Tocharian languages|Tocharian]] (extinct)
+|iso2=ine
+|iso5=ine–
+|glotto=indo1319
+|glottorefname= Indo-European
+|map      = Indo-European branches map.svg
+|mapcaption=Present-day native distribution of Indo-European languages, within their homeland of Eurasia:
+{{legend|#00cdff|[[Albanian language|Albanian]]}}
+{{legend|#800080|[[Armenian language|Armenian]]}}
+{{legend|#00d400|[[Balto-Slavic languages|Balto-Slavic]] ([[Baltic languages|Baltic]])}}
+{{legend|#008000|[[Balto-Slavic languages|Balto-Slavic]] ([[Slavic languages|Slavic]])}}
+{{legend|#ffa600|[[Celtic languages|Celtic]]}}
+{{legend|#d40000|[[Germanic languages|Germanic]]}}
+{{legend|#FFDD55|[[Hellenic languages|Hellenic]] ([[Greek language|Greek]])}}
+{{legend|#000080|[[Indo-Iranian languages|Indo-Iranian]] ([[Indo-Aryan languages|Indo-Aryan]], [[Iranian languages|Iranian]], and [[Nuristani languages|Nuristani]])}}
+{{legend|#977f12|[[Italic languages|Italic]] ([[Romance languages|Romance]])}}
+{{legend|#c0c0c0|Non-Indo-European languages}}
+Dotted/striped areas indicate where [[multilingualism]] is common
+}}
+{{Indo-European topics}}
+The '''Indo-European languages''' are a [[language family|family]] of several hundred related [[list of Indo-European languages|languages and dialects]]. There are about 445 living Indo-European languages, according to the estimate by ''[[Ethnologue]]'', with over two-thirds (313) of them belonging to the [[Indo-Iranian languages|Indo-Iranian branch]].<ref>{{cite web|url=http://www.ethnologue.com/show_family.asp?subid=2-16|title=Ethnologue report for Indo-European|publisher=Ethnologue.com}}</ref> The Indo-European family includes most of the modern [[languages of Europe]], and parts of [[Western Asia|Western]], [[Central Asia|Central]] and [[South Asia]]. It was also predominant in ancient [[Anatolia]] (present-day [[Turkey]]), and the ancient [[Tarim Basin]] (present-day [[Northwest China]]) and most of [[Central Asia]] until the invasion and migrations of Turkic speakers especially during the [[Mongol invasions and conquests|Mongol–Turkic]] conquest in the 13th century. With written evidence appearing since the [[Bronze Age]] in the form of the [[Anatolian languages]] and [[Mycenaean Greek]], the Indo-European family is significant to the field of [[historical linguistics]] as possessing the second-longest [[recorded history]], after the [[Afroasiatic languages|Afroasiatic family]].
+
+Several [[#Suggested macrofamilies|disputed proposals]] link Indo-European to other major language families.
+
+==History of Indo-European linguistics==
+{{Main|Indo-European studies}}
+In the 16th century, European visitors to the [[Indian subcontinent]] began to suggest similarities among [[Indo-Aryan languages|Indo-Aryan]], [[Iranian languages|Iranian]], and [[languages of Europe|European]] languages. In 1583, English [[Jesuit]] missionary [[Thomas Stephens (Jesuit)|Thomas Stephens]] in [[Goa]] wrote a letter to his brother (not published until the 20th century)<ref name="auroux">{{cite book|first=Sylvain|last=Auroux|title=History of the Language Sciences|page=1156|isbn=3-11-016735-2|publisher=Walter de Gruyter|location=Berlin, New York|year=2000|url=https://books.google.com/?id=yasNy365EywC&pg=PA1156&vq=stephens+sassetti&dq=3110167352}}</ref> in which he noted similarities between Indian languages (specifically [[Sanskrit]]) and [[Greek language|Greek]] and [[Latin]].
+
+Another account to mention the ancient language [[Sanskrit]] came from [[Filippo Sassetti]], a merchant born in [[Florence]] in 1540, who travelled to the Indian subcontinent. Writing in 1585, he noted some word similarities between Sanskrit and Italian (these included ''devaḥ''/''dio'' "God", ''sarpaḥ''/''serpe'' "serpent", ''sapta''/''sette'' "seven", ''aṣṭa''/''otto'' "eight", and ''nava''/''nove'' "nine").<ref name="auroux"/> However, neither Stephens's nor Sassetti's observations led to further scholarly inquiry.<ref name="auroux"/>
+
+In 1647, [[Dutch people|Dutch]] linguist and scholar [[Marcus Zuerius van Boxhorn]] noted the similarity among certain Asian and European languages and supposed that they were derived from a primitive common language which he called ''[[Scythian]]''. He included in his hypothesis [[Dutch language|Dutch]], [[Albanian language|Albanian]], [[Greek language|Greek]], [[Latin language|Latin]], [[Persian language|Persian]], and [[German language|German]], later adding [[Slavic languages|Slavic]], [[Celtic languages|Celtic]], and [[Baltic languages]]. However, Van Boxhorn's suggestions did not become widely known and did not stimulate further research.
+[[File:Franz Bopp (2).jpg|right|thumb|160px|Franz Bopp, pioneer in the field of comparative linguistic studies.]]
+Ottoman Turkish traveller [[Evliya Çelebi]] visited Vienna in 1665–1666 as part of a diplomatic mission and noted a few similarities between words in German and in Persian.
+[[Gaston-Laurent Coeurdoux|Gaston Coeurdoux]] and others made observations of the same type. Coeurdoux made a thorough comparison of Sanskrit, Latin and Greek [[grammatical conjugation|conjugation]]s in the late 1760s to suggest a relationship among them. Meanwhile, [[Mikhail Lomonosov]] compared different language groups, including Slavic, Baltic ("Kurlandic"), Iranian ("[[Median language|Medic]]"), [[Finnish language|Finnish]], [[Chinese language|Chinese]], "Hottentot", and others, noting that related languages (including Latin, Greek, German and Russian) must have separated in antiquity from common ancestors.<ref name=Lomonosov>[http://feb-web.ru/feb/lomonos/texts/lo0/lo7/lo7-5952.htm M. V. Lomonosov (drafts for ''Russian Grammar'', published 1755). In: Complete Edition, Moscow, 1952, vol. 7, pp. 652–659]:
+Представимъ долготу времени, которою сіи языки раздѣлились. ... Польской и россійской языкъ коль давно раздѣлились! Подумай же, когда курляндской! Подумай же, когда латинской, греч., нѣм., росс. О глубокая древность! [Imagine the depth of time when these languages separated! ... Polish and Russian separated so long ago! Now think how long ago [this happened to] Kurlandic! Think when [this happened to] Latin, Greek, German, and Russian! Oh, great antiquity!]</ref>
+
+The hypothesis reappeared in 1786 when [[William Jones (philologist)|Sir William Jones]] first lectured on the striking similarities among three of the oldest languages known in his time: [[Latin]], [[Greek language|Greek]], and [[Sanskrit]], to which he tentatively added [[Gothic language|Gothic]], [[Celtic languages|Celtic]], and [[Persian language|Persian]],<ref>{{cite web|url= http://www.billposer.org/Papers/iephm.pdf |title= Indo-European Practice and Historical Methodology (cited on pp. 14-15). |format= PDF |date= |accessdate= 2010-08-07}}</ref> though his classification contained some inaccuracies and omissions.<ref>Roger Blench {{Wayback |date= 20060517091902 |url= http://www.rogerblench.info/Archaeology%20data/CH4-BLENCH.pdf |title= Archaeology and Language: methods and issues }}. In: A Companion To Archaeology. J. Bintliff ed. 52-74. Oxford: Basil Blackwell, 2004. (He erroneously included [[Egyptian language|Egyptian]], [[Japanese language|Japanese]], and [[Chinese language|Chinese]] in the Indo-European languages, while omitting [[Hindi]].){{dead link|date= May 2011}}</ref>
+
+[[Thomas Young (scientist)|Thomas Young]] first used the term ''Indo-European'' in 1813, deriving from the geographical extremes of the language family: from [[Western Europe]] to [[North India]].<ref>
+{{cite book | author=Robinson, Andrew 
+| title=The Last Man Who Knew Everything: Thomas Young, the Anonymous Genius who Proved Newton Wrong and Deciphered the Rosetta Stone, among Other Surprising Feats 
+| publisher=Penguin 
+| year=2007 
+| isbn=0-13-134304-1}}
+</ref><ref>In ''London Quarterly Review'' X/2 1813.; cf. Szemerényi 1999:12, footnote 6</ref> A synonym is ''Indo-Germanic'' (''Idg.'' or ''IdG.''), specifying the family's southeasternmost and northwesternmost branches. This first appeared in French (''indo-germanique'') in 1810 in the work of [[Conrad Malte-Brun]]; in most languages this term is now dated or less common than ''Indo-European'', although in German ''indogermanisch'' remains the standard scientific term. A [[Indo-European studies#Naming|number of other synonymous terms]] have also been used.
+
+[[Franz Bopp]]'s ''Comparative Grammar'' appeared between 1833 and 1852 and marks the beginning of [[Indo-European studies]] as an academic discipline. The classical phase of Indo-European [[comparative linguistics]] leads from this work to [[August Schleicher]]'s 1861 ''Compendium'' and up to [[Karl Brugmann]]'s ''[[Grundriss der vergleichenden Grammatik der indogermanischen Sprachen|Grundriss]]'', published in the 1880s. Brugmann's [[neogrammarian]] reevaluation of the field and [[Ferdinand de Saussure]]'s development of the [[laryngeal theory]] may be considered{{by whom|date=October 2015}} the beginning of "modern" Indo-European studies. The generation of Indo-Europeanists active in the last third of the 20th century (such as [[Calvert Watkins]], [[Jochem Schindler]], and [[Helmut Rix]]) developed a better understanding of morphology and of [[Indo-European ablaut|ablaut]] in the wake of [[Jerzy Kuryłowicz|Kuryłowicz]]'s 1956 ''Apophony in Indo-European,'' who in 1927 pointed out the existence of the Hittite consonant ḫ.<ref>{{Cite book|title="ə indo-européen et ḫ hittite". In Taszycki, W. and Doroszewski, W., Symbolae grammaticae in honorem Ioannis Rozwadowski|last=Kurylowicz|first=Jerzy|publisher=|year=1927|isbn=|location=|pages=vol. 1, 95–104}}</ref> [[Jerzy Kuryłowicz|Kuryłowicz]]'s discovery supported Ferdinand de Saussure’s 1879 proposal of the existence of coefficients ''sonantiques'', elements de Saussure reconstructed to account for vowel length alternations in Indo-European languages. This led to the so-called [[laryngeal theory]], a major step forward in Indo-European linguistics and a confirmation of de Saussure's theory.{{citation needed|date=May 2016}}
+
+==Classification==
+[[File:IndoEuropeanTreeDielli1.svg|thumb|300px|Classification of Indo-European languages. Red: Extinct languages. White: categories or unattested proto-languages.  Left half: [[centum]] languages; right half: [[satem]] languages]]
+[[File:Indo-European_Europe.PNG|thumb|300px|Predominant Indo-European languages in Europe: {{legend|#FF8036|Germanic}}
+{{legend|#40A605|Romanic}}
+{{legend|#8000FF|Slavic}}
+{{legend|#8080FF|Baltic}}
+{{legend|#808040|Hellenic (Greek)}}
+{{legend|#FF0000|Albanian}}
+{{legend|#C7C7C6|Non-Indo-European}}]]
+
+{{See also|Indo-European migrations|List of languages by first written accounts}}
+The various subgroups of the Indo-European language family include ten major branches, given in the chronological order of their emergence according to David Anthony:{{sfn|Anthony|2007|p=100}}
+# [[Anatolian languages|Anatolian]] ([[Asia Minor]]), the earliest attested branch. Emerged around 4200 BC.{{sfn|Anthony|2007|p=100}} Isolated terms in [[Luwian]]/[[Hittites|Hittite]] mentioned in [[Semitic languages|Semitic]] [[Akkadian language|Old Assyrian]] texts from the 20th and 19th centuries BC, [[Hittite texts]] from about 1650 BC;<ref>http://www.leidenuniv.nl/en/researcharchive/index.php3-c=178.htm</ref><ref>http://oi.uchicago.edu/pdf/ar/61-70/65-66/65-66_CHD.pdf</ref> extinct by [[Late Antiquity]].
+# [[Tocharian languages|Tocharian]], emerged around 3700 BC,{{sfn|Anthony|2007|p=100}} extant in two dialects (Turfanian and Kuchean, or Tocharian A and B), attested from roughly the 6th to the 9th century AD. Marginalized by the [[Old Turkic]] [[Uyghur Khaganate]] and probably extinct by the 10th century.
+# [[Germanic languages|Germanic]] (from [[Proto-Germanic]]), emerged around 3300 BC,{{sfn|Anthony|2007|p=100}} earliest testimonies in [[runic]] inscriptions from around the 2nd century AD, earliest coherent texts in [[Gothic language|Gothic]], 4th century AD. [[Old English]] manuscript tradition from about the 8th century AD.
+# [[Italic languages|Italic]], including [[Latin]] and its descendants (the [[Romance languages]]), emerged around 3000 BC,{{sfn|Anthony|2007|p=100}} attested from the 7th century BC.
+# [[Celtic languages|Celtic]], descended from [[Proto-Celtic language|Proto-Celtic]], emerged around 3000 BC.{{sfn|Anthony|2007|p=100}} [[Lepontic language|Lepontic]] inscriptions date as early as the 6th century BC; [[Celtiberian language|Celtiberian]] from the 2nd century BC; [[Primitive Irish]] [[Ogham inscription]]s from the 5th century AD, earliest inscriptions in [[Old Welsh]] from the 8th century AD. 
+# [[Armenian language|Armenian]], emerged around 2800 BC.{{sfn|Anthony|2007|p=100}} Alphabet writings known from the beginning of the 5th century AD.
+# [[Balto-Slavic languages|Balto-Slavic]], emerged around 2800 BC,{{sfn|Anthony|2007|p=100}} believed by most Indo-Europeanists<ref>such as Schleicher 1861, Szemerényi 1957, Collinge 1985, and Beekes 1995</ref> to form a phylogenetic unit, while a minority ascribes similarities to prolonged language contact.
+#* [[Slavic languages|Slavic]] (from [[Proto-Slavic]]), attested from the 9th century AD (possibly earlier; see [[Slavic runes]]), earliest texts in [[Old Church Slavonic]].
+#* [[Baltic languages|Baltic]], attested from the 14th century AD; for languages attested that late, they retain unusually many archaic features attributed to [[Proto-Indo-European language|Proto-Indo-European]] (PIE).
+# [[Hellenic languages|Hellenic]], emerged around 2500 BC.{{sfn|Anthony|2007|p=100}} Fragmentary records in [[Mycenaean language|Mycenaean]] [[Greek language|Greek]] from between 1450 and 1350 BC have been found.<ref>{{cite web|url=http://www.science20.com/news_articles/tablet_discovery_pushes_earliest_european_writing_back_150_years-77650|title=Tablet Discovery Pushes Earliest European Writing Back 150 Years}}</ref> [[Homer]]ic texts date to the 8th century BC. (See [[Proto-Greek language|Proto-Greek]], [[History of Greek]].)
+# [[Indo-Iranian languages|Indo-Iranian]], emerged around 2200 BC,{{sfn|Anthony|2007|p=100}} attested circa 1400 BC, descended from [[Proto-Indo-Iranian language|Proto-Indo-Iranian]] (dated to the late 3rd millennium BC).
+#* [[Indo-Aryan languages|Indo-Aryan]] (including [[Dardic languages|Dardic]]), attested from around 1400 BC in [[Hittite language|Hittite]] texts from [[Asia Minor]], showing [[Indo-Aryan superstrate in Mitanni|traces of Indo-Aryan]] words.<ref>{{Cite journal | url = https://books.google.com/?id=MazdaWXQFuQC&pg=SL1-PA114&lpg=SL1-PA114&dq=oldest+mitanni+Attested+words+1400+bc#v=onepage&q=oldest%20mitanni%20Attested%20words%201400%20bc&f=false | title = Indian History | isbn = 9788184245684}}</ref><ref>http://www.ancient.eu.com/Mitanni/</ref> Epigraphically from the 3rd century BC in the form of [[Prakrit]] ([[Edicts of Ashoka]]). The [[Rigveda]] is assumed to preserve intact records [[Patha|via oral tradition]] dating from about the mid-[[2nd millennium BC]] in the form of [[Vedic Sanskrit]].
+#* [[Iranian languages|Iranian]] or Iranic, attested from roughly 1000 BC in the form of [[Avestan language|Avestan]]. Epigraphically from 520 BC in the form of [[Old Persian]] ([[Behistun inscription]]).
+#* [[Nuristani languages|Nuristani]]
+# [[Albanian language|Albanian]], attested from the 14th century AD; [[Proto-Albanian language]] likely evolved from [[Paleo-Balkan languages|Paleo-Balkan]] predecessors.<ref>''Of the Albanian Language.'' William Martin Leake, London, 1814.</ref><ref>{{cite web|url=http://linguistlist.org/forms/langs/LLDescription.cfm?code=txh|title=The Thracian language|publisher=The Linguist List|accessdate=2008-01-27|quote=An ancient language of Southern Balkans, belonging to the Satem group of Indo-European. This language is the most likely ancestor of modern Albanian (which is also a Satem language), though the evidence is scanty. 1st Millennium BC – 500 AD.}}</ref>
+
+In addition to the classical ten branches listed above, several extinct and little-known languages have existed:
+
+* [[Illyrian languages|Illyrian]]: possibly related to Messapian, Albanian, or both
+* [[Venetic language|Venetic]]: shares several similarities with Latin and the Italic languages, but also has some affinities with other IE languages, especially Germanic and Celtic.<ref>Michel Lejeune (1974), ''Manuel de la langue vénète.'' Heidelberg: Indogermanische Bibliothek, Lehr- und Handbücher.</ref><ref>[[Julius Pokorny]] (1959), ''Indogermanisches Etymologisches Wörterbuch''. Publisher Bern.
+</ref>
+* [[Liburnian language|Liburnian]]: doubtful affiliation, features shared with Venetic, Illyrian, and [[Indo-Hittite]], significant transition of the [[Pre-Indo-European languages|Pre-Indo-European]] elements
+* [[Messapian language|Messapian]]: not conclusively deciphered
+* [[Phrygian language|Phrygian]]: language of the ancient [[Phrygians]]
+* [[Paionian language|Paionian]]: extinct language once spoken north of Macedon
+* [[Thracian language|Thracian]]: possibly including Dacian
+* [[Dacian language|Dacian]]: possibly very close to Thracian
+* [[Ancient Macedonian language|Ancient Macedonian]]: proposed relationship to Greek.
+* [[Ligurian language (ancient)|Ligurian]]—possibly close to or part of Celtic.<ref name=kruta1>{{cite book|last=Kruta|first=Venceslas|title=The Celts|year=1991|publisher=Thames and Hudson|pages=54}}</ref>
+* [[Sicel language|Sicel]]: an ancient language spoken by the Sicels (Greek Sikeloi, Latin Siculi), one of the three indigenous (i.e. pre-Greek and pre-Punic) tribes of Sicily. Proposed relationship to Latin or proto-Illyrian (Pre-Indo-European) at an earlier stage.<ref>Fine, John (1985). The ancient Greeks: a critical history. Harvard University Press. p. 72. ISBN 0674033140. "Most scholars now believe that the Sicans and Sicels, as well as the inhabitants of southern Italy, were basically of Illyrian stock superimposed on an aboriginal "Mediterranean" population."</ref>
+* [[Lusitanian language|Lusitanian]]: possibly related to (or part of) Celtic, Ligurian, or Italic
+* [[Cimmerian language|Cimmerian]]: possibly Iranic, Thracian, or Celtic
+
+===Grouping===
+{{Further|Language families}}
+
+Membership of these languages in the Indo-European language family is determined by [[Genetic (linguistics)|genetic]] relationships, meaning that all members are presumed descendants of a common ancestor, [[Proto-Indo-European language|Proto-Indo-European]]. (The word "genetic" here has nothing to do with human genetics; it refers to [[Genetic (linguistics)|relationships between languages]].) Membership in the various branches, groups and subgroups of Indo-European is also genetic, but here the defining factors are ''shared innovations'' among various languages, suggesting a common ancestor that split off from other Indo-European groups. For example, what makes the Germanic languages a branch of Indo-European is that much of their structure and phonology can be stated in rules that apply to all of them. Many of their common features are presumed innovations that took place in [[Proto-Germanic language|Proto-Germanic]], the source of all the Germanic languages.
+
+===Tree versus wave model===
+{{See also|Language change}}
+The "[[tree model]]" is considered an appropriate representation of the genetic history of a language family if communities do not remain in contact after their languages have started to diverge. In this case, subgroups defined by shared innovations form a nested pattern. The tree model is not appropriate in cases where languages remain in contact as they diversify; in such cases subgroups may overlap, and the "[[Wave model (linguistics)|wave model]]" is a more accurate representation.<ref>{{Citation
+  | last = François
+  | first = Alexandre
+  | contribution = Trees, Waves and Linkages: Models of Language Diversification
+  | editor1-last = Bowern
+  | editor1-first = Claire
+  | editor2-last = Evans
+  | editor2-first = Bethwyn
+  | title = The Routledge Handbook of Historical Linguistics
+  | series= 
+  | pages = 161–189
+  | publisher = Routledge
+  | place = London
+  | year = 2014
+  | isbn = 978-0-41552-789-7
+  | contribution-url = http://alex.francois.free.fr/data/AlexFrancois_2014_HHL_Trees-waves-linkages_Diversification.pdf
+  | ref = francois
+ }}.</ref> Most approaches to Indo-European subgrouping to date have assumed that the tree model is by and large valid for Indo-European;<ref>{{cite journal | title=From August Schleicher to Sergei Starostin: on the development of the tree-diagram models of the Indo-European languages | author=Blažek, Václav | journal=Journal of Indo-European Studies | year=2007 | volume=35 | issue=1–2 | pages=82–109}}</ref> however, there is also a long tradition of wave-model approaches.<ref>{{cite book | title=Les dialectes indo-européens | publisher=Honoré Champion | author=Meillet, Antoine | year=1908 | location=Paris}}</ref><ref>{{cite book | title=I dialetti indoeuropei | publisher=Paideia | author=Bonfante, Giuliano | year=1931 | location=Brescia}}</ref><ref>{{cite book | title=Die Gliederung des indogermanischen Sprachgebiets | publisher=Carl Winter Universitätsverlag | author=Porzig, Walter | year=1954 | location=Heidelberg}}</ref>
+
+In addition to genetic changes, many of the early changes in Indo-European languages can be attributed to [[language contact]]. It has been asserted, for example, that many of the more striking features shared by Italic languages (Latin, Oscan, Umbrian, etc.) might well be [[Areal feature (linguistics)|areal features]]. More certainly, very similar-looking alterations in the systems of [[long vowel]]s in the West Germanic languages greatly postdate any possible notion of a [[proto-language]] innovation (and cannot readily be regarded as "areal", either, because English and continental West Germanic were not a linguistic area). In a similar vein, there are many similar innovations in Germanic and Balto-Slavic that are far more likely areal features than traceable to a common proto-language, such as the uniform development of a [[high vowel]] (*''u'' in the case of Germanic, *''i/u'' in the case of Baltic and Slavic) before the PIE syllabic resonants *''ṛ,* ḷ, *ṃ, *ṇ'', unique to these two groups among IE languages, which is in agreement with the wave model. The [[Balkan sprachbund]] even features areal convergence among members of very different branches.
+
+Using an extension to the ''Ringe-Warnow model of language evolution'', early IE was confirmed to have featured limited contact between distinct lineages, whereas only the Germanic subfamily exhibited a less treelike behaviour as it acquired some characteristics from neighbours early in its evolution rather than from its direct ancestors. The internal diversification of especially West Germanic is cited to have been radically non-treelike.<ref>{{Cite journal |url=http://www.cs.rice.edu/~nakhleh/Papers/NRWlanguage.pdf |title=Perfect Phylogenetic Networks: A New Methodology for Reconstructing the Evolutionary History of Natural Languages |first=Luay |last=Nakhleh |first2=Don |last2=Ringe |lastauthoramp=yes |first3=Tandy |last3=Warnow|author3-link=Tandy Warnow |year=2005 |journal=Language: Journal of the Linguistic Society of America |volume=81 |issue=2 |pages=382–420 |doi=10.1353/lan.2005.0078 |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. --> }}</ref>
+
+===Proposed subgroupings===
+{{Hypothetical Indo-European subfamilies}}
+Specialists have postulated the existence of higher-order subgroups such as [[Italo-Celtic]], [[Graeco-Armenian]], [[Graeco-Aryan]], and Balto-Slavo-Germanic. However, unlike the ten traditional branches, these are all controversial to a greater or lesser degree.<ref>{{cite book | title=Encyclopedia of Indo-European Culture | publisher=Fitzroy Dearborn | author=Mallory, J.P., Adams, D.Q. | year=1997 | location=London}}</ref>
+
+The Italo-Celtic subgroup was at one point uncontroversial, considered by [[Antoine Meillet]] to be even better established than Balto-Slavic.{{sfn|Porzig|1954|p=39}} The main lines of evidence included the genitive suffix ''-ī''; the superlative suffix ''-m̥mo''; the change of /p/ to /kʷ/ before another /kʷ/ in the same word (as in ''penkʷe'' > ''*kʷenkʷe'' > Latin ''quīnque'', Old Irish ''cóic''); and  the subjunctive morpheme ''-ā-''.{{sfn|Fortson|2004|p=247}} This evidence was prominently challenged by [[Calvert Watkins]];<ref>{{cite encyclopedia | title=Italo-Celtic revisited | encyclopedia=Ancient Indo-European dialects | publisher=University of California Press | author=Watkins, Calvert |editor1=Birnbaum, Henrik |editor2=Puhvel, Jaan | year=1966 | location=Berkeley | pages=29–50}}</ref> but other, stronger evidence has since emerged.<ref>{{cite encyclopedia | title=Italo-Celtica: linguistic and cultural points of contact between Italic and Celtic | encyclopedia=Proceedings of the 23rd annual UCLA Indo-European conference | publisher=Hempen | author=Weiss, Michael |editor1=Jamison, Stephanie W. |editor2=Melchert, H. Craig |editor3=Vine, Brent | year=2012 | location=Bremen | pages=151–173}}</ref>
+
+Evidence for a relationship between Greek and Armenian includes the regular change of the [[Laryngeal theory|second laryngeal]] to ''a'' at the beginnings of words, as well as terms for "woman" and "sheep".<ref>{{cite journal | title=Review of ''The linguistic relationship between Armenian and Greek'' by James Clackson | author=Greppin, James | journal=Language | year=1996 | volume=72 | issue=4 | pages=804–807 | doi=10.2307/416105}}</ref> Greek and Indo-Iranian share innovations mainly in verbal morphology and patterns of nominal derivation.<ref>{{cite book | title=Indoiranisch-griechische Gemeinsamkeiten der Nominalbildung und deren indogermanische Grundlagen | publisher=Institut für Sprachwissenschaft der Universität Innsbruck | author=Euler, Wolfram | year=1979 | location=Innsbruck}}</ref> Relations have also been proposed between Phrygian and Greek,<ref>Lubotsky - The Old Phrygian Areyastis-inscription, Kadmos 27, 9-26, 1988</ref> and between Thracian and Armenian.<ref>Kortlandt - The Thraco-Armenian consonant shift, Linguistique Balkanique 31, 71-74, 1988</ref><ref>{{cite book|authorlink=Colin Renfrew|last=Renfrew|first=Colin|year=1987|title=Archaeology & Language. The Puzzle of the Indo-European Origins|location=London|publisher=Jonathan Cape|isbn= 0-224-02495-7}}</ref> Some fundamental shared features, like the [[aorist]] (a verb form denoting action without reference to duration or completion) having the perfect active particle -s fixed to the stem, link this group closer to Anatolian languages<ref>Encyclopædia Britannica, vol.22, Helen Hemingway Benton Publisher, Chicago, (15th ed.) 1981, p.593</ref> and Tocharian. Shared features with Balto-Slavic languages, on the other hand (especially present and preterit formations), might be due to later contacts.<ref>George S. Lane, Douglas Q. Adams,
+Britannica 15th edition 22:667, "The Tocharian problem"</ref>
+The [[Indo-Hittite]] hypothesis proposes the Indo-European language family to consist of two main branches: one represented by the Anatolian languages and another branch encompassing all other Indo-European languages. Features that separate Anatolian from all other branches of Indo-European (such as the gender or the verb system) have been interpreted alternately as archaic debris or as innovations due to prolonged isolation. Points proffered in favour of the Indo-Hittite hypothesis are the (non-universal) Indo-European agricultural terminology in Anatolia<ref>The supposed autochthony of Hittites, the Indo-Hittite hypothesis and migration of agricultural "Indo-European" societies became intrinsically linked together by C. Renfrew. (Renfrew, C 2001a The Anatolian origins of Proto-Indo-European and the autochthony of the Hittites. In [[Robert Drews|R. Drews]] ed., Greater Anatolia and the Indo-Hittite language. family: 36-63. Washington, DC: Institute for the Study of Man).</ref> and the preservation of laryngeals.<ref>''Britannica'' 15th edition, 22 p. 586 "Indo-European languages, The parent language, Laryngeal theory" - W.C.; p. 589, 593 "Anatolian languages" - Philo H.J. Houwink ten Cate, H. Craig Melchert and Theo P.J. van den Hout</ref> However, in general this hypothesis is considered to attribute too much weight to the Anatolian evidence. According to another view, the Anatolian subgroup left the Indo-European parent language comparatively late, approximately at the same time as Indo-Iranian and later than the Greek or Armenian divisions. A third view, especially prevalent in the so-called French school of Indo-European studies, holds that extant similarities in non-satem languages in general — including Anatolian — might be due to their peripheral location in the Indo-European language area and early separation, rather than indicating a special ancestral relationship.<ref>''Britannica'' 15th edition, 22 p.594, "Indo-Hittite hypothesis"</ref> Hans J. Holm, based on lexical calculations, arrives at a picture roughly replicating the general scholarly opinion and refuting the Indo-Hittite hypothesis.<ref>{{cite book|url=http://www.hjholm.de/|last=Holm|first=Hans J.|chapter=The Distribution of Data in Word Lists and its Impact on the Subgrouping of Languages|editor1-first= Christine|editor1-last= Preisach|editor2-first=Hans |editor2-last=Burkhardt|editor3-first=Lars|editor3-last=Schmidt-Thieme|editor4-first==Reinhold|display-editors = 3 |editor4-last=Decker|title=Data Analysis, Machine Learning, and Applications. Proc. of the 31st Annual Conference of the German Classification Society (GfKl), University of Freiburg, March 7–9, 2007|publisher=Springer-Verlag|location=Heidelberg-Berlin|year=2008|series=Studies in Classification, Data Analysis, and Knowledge Organization|isbn=978-3-540-78239-1|quote=The result is a partly new chain of separation for the main Indo-European branches, which fits well to the grammatical facts, as well as to the geographical distribution of these branches. In particular it clearly demonstrates that the Anatolian languages did not part as first ones and thereby refutes the Indo-Hittite hypothesis.}}</ref>
+
+===Satem and centum languages===
+[[File:Indo-European isoglosses.png|thumb|350px|Some significant isoglosses in Indo-European daughter languages at around 500 BC.
+{{Legend|#9fc7f3|Blue: centum languages}}
+{{Legend|#ef7a6e|Red: satem languages}}
+{{Legend|#f6a20f|Orange: languages with [[Augment (linguistics)|augment]]}}
+{{Legend|#a1f091|Green: languages with PIE *-tt- > -ss-}}
+{{Legend|#f6d3ab|Tan: languages with PIE *-tt- > -st-}}
+{{Legend|#fdd1d1|Pink: languages with instrumental, dative and ablative plural endings (and some others) in *-m- rather than *-bh-}}]]
+{{Main|Centum and satem languages}}
+The division of the Indo-European languages into [[centum and satem languages|satem and centum groups]] was put forward by Peter von Bradke in 1890, although a similar type of division had been proposed by [[Karl Brugmann]] in 1886. In the satem languages, which include the Balto-Slavic and Indo-Iranian branches, as well as (in most respects) Albanian and Armenian, the reconstructed [[Proto-Indo-European phonology#Consonants|Proto-Indo-European palatovelars]] remained distinct and were fricativized, while the labiovelars merged with the "plain velars". In the centum languages, the palatovelars merged with the plain velars, while the labiovelars remained distinct. The results of these alternative developments are exemplified by the words for "hundred" in Avestan (''satem'') and Latin (''centum'') – the initial palatovelar developed into a fricative [s] in the former, but became an ordinary velar [k] in the latter.
+
+Rather than being a genetic separation, the centum–satem division is commonly seen as resulting from innovative changes that spread across PIE dialect branches over a particular geographical area; the centum–satem [[isogloss]] intersects a number of other isoglosses that mark distinctions between features in the early IE branches. It may be that the centum branches in fact reflect the original state of affairs in PIE, and only the satem branches shared a set of innovations, which affected all but the peripheral areas of the PIE dialect continuum.<ref>''Britannica'' 15th edition, vol.22, 1981, p.588, 594</ref> Kortlandt proposes that the ancestors of Balts and Slavs took part in satemization before being drawn later into the western Indo-European sphere.<ref>{{cite web|url=http://www.kortlandt.nl/publications/art111e.pdf |title=Frederik Kortlandt-The spread of the Indo-Europeans, 1989 |format=PDF |date= |accessdate=2010-08-07}}</ref>
+
+===Suggested macrofamilies===
+{{See also|Origin of language}}
+
+Some linguists propose that Indo-European languages form part of one of several hypothetical [[macrofamily|macrofamilies]]. However, these theories remain highly controversial, not being accepted by most linguists in the field. Some of the smaller proposed macrofamilies are:
+* [[Pontic languages|Pontic]], postulated by [[John Colarusso]], which joins Indo-European with [[Northwest Caucasian languages|Northwest Caucasian]].
+* [[Indo-Uralic languages|Indo-Uralic]], joining Indo-European with [[Uralic languages|Uralic]].
+Other, greater proposed families including Indo-European languages, are:
+* [[Eurasiatic languages|Eurasiatic]], a theory championed by [[Joseph Greenberg]].
+* [[Nostratic languages|Nostratic]], comprising all or some of the Eurasiatic languages, as well as the [[Kartvelian languages|Kartvelian]], [[Uralic languages|Uralic]], [[Dravidian languages|Dravidian]] (or even the [[Elamo-Dravidian languages|Elamo-Dravidian]] macrofamily), [[Altaic languages|Altaic]], and [[Afroasiatic languages|Afroasiatic]] language families. 
+Objections to such groupings are not based on any theoretical claim about the likely historical existence or non-existence of such macrofamilies; it is entirely reasonable to suppose that they might have existed. The serious difficulty lies in identifying the details of actual relationships between language families, because it is very hard to find concrete evidence that transcends chance resemblance, or is not equally likely explained as being due to [[loanword|borrowing]] (including [[Wanderwort|Wanderwörter]], which can travel very long distances). Because the [[signal-to-noise ratio]] in historical linguistics declines steadily over time, at great enough time-depths it becomes open to reasonable doubt that it can even be possible to distinguish between signal and noise.
+
+==Evolution==
+
+===Proto-Indo-European===
+{{Main|Proto-Indo-European language}}
+[[File:IE expansion.png|300px|thumb|Scheme of Indo-European migrations from ca. 4000 to 1000 BC according to the [[Kurgan hypothesis]].]]
+The proposed Proto-Indo-European language (PIE) is the hypothetical common ancestor of the Indo-European languages, spoken by the [[Proto-Indo-Europeans]]. From the 1960s, knowledge of Anatolian became certain enough to establish its relationship to PIE. Using the method of [[internal reconstruction]] an earlier stage, called [[Pre-Proto-Indo-European]], has been proposed.
+
+PIE was an [[inflected language]], in which the grammatical relationships between words were signaled through inflectional morphemes (usually endings). The [[root (linguistics)|roots]] of PIE are basic [[morpheme]]s carrying a [[lexical (semiotics)|lexical]] meaning. By addition of [[suffix]]es, they form [[stem (linguistics)|stems]], and by addition of [[desinence]]s (usually endings), these form grammatically inflected words ([[Indo-European noun|noun]]s or [[Indo-European verb|verb]]s). The hypothetical [[Indo-European verb]] system is complex and, like the noun, exhibits a system of [[Indo-European ablaut|ablaut]].
+
+===Diversification===
+{{See also|Indo-European migrations}}
+[[File:IE5500BP.png|thumb|Indo-European languages ca. 3500 BC]]
+[[File:IE4500BP.png|thumb|Indo-European languages ca. 2500 BC]]
+[[File:IE3500BP.png|thumb|Indo-European languages ca. 1500 BC]]
+[[File:IE2500BP.png|thumb|Indo-European languages ca. 500 BC]]
+[[File:IE1500BP.png|thumb|Indo-European languages ca. 500 AD]]
+The diversification of the parent language into the attested branches of daughter languages is historically unattested. The timeline of the evolution of the various daughter languages, on the other hand, is mostly undisputed, quite regardless of the question of [[Indo-European origins]].
+
+Using a mathematical analysis borrowed from evolutionary biology, Don Ringe and Tandy Warnow propose the following evolutionary tree of Indo-European branches:{{sfn|Anthony|2007|p=56-58}}
+* Pre-[[Anatolian languages|Anatolian]] (before 3500 BC)
+* Pre-[[Tocharian languages|Tocharian]] 
+* Pre-Italic and Pre-Celtic (before 2500 BC)
+* Pre-Armenian and Pre-Greek (after 2500 BC)
+* Pre-Germanic and Pre-Balto-Slavic;{{sfn|Anthony|2007|p=56-58}} proto-Germanic ca. 500 BC{{sfn|Ringe|2006|p=67}}
+* Proto-[[Indo-Iranian languages|Indo-Iranian]] (2000 BC)
+
+David Anthony proposes the following sequence:{{sfn|Anthony|2007|p=100}}
+* Pre-[[Anatolian languages|Anatolian]] (4200 BC)
+* Pre-[[Tocharian languages|Tocharian]] (3700 BC)
+* [[Germanic parent language|Pre-Germanic]] (3300 BC)
+* Pre-Italic and Pre-Celtic (3000 BC)
+* Pre-Armenian (2800 BC)
+* Pre-Balto-Slavic (2800 BC)
+* Pre-Greek (2500 BC)
+* Proto-[[Indo-Iranian languages|Indo-Iranian]] (2200 BC); split between Iranian and Old Indic 1800 BC
+
+From 1500 BC the following sequence may be given:
+* 1500 BC–1000 BC: The [[Nordic Bronze Age]] develops pre-[[Proto-Germanic]], and the (pre)-[[Proto-Celtic]] [[Urnfield]] and [[Hallstatt culture|Hallstatt]] cultures emerge in Central Europe, introducing the [[Iron Age]]. Migration of the Proto-[[Italic languages|Italic]] speakers into the Italian peninsula ([[Bagnolo stele]]). Redaction of the [[Rigveda]] and rise of the [[Vedic civilization]] in the [[Punjab region|Punjab]]. The [[Mycenaean civilization]] gives way to the [[Greek Dark Ages]].
+* 1000 BC–500 BC: The [[Celtic languages]] spread over Central and Western Europe. [[Baltic languages]] are spoken in a huge area from present-day Poland to the Ural Mountains.<ref>{{cite web|url=http://www.utexas.edu/cola/centers/lrc/iedocctr/ie-lg/Balto-Slavic.html |title=Indo-European Languages: Balto-Slavic Family |publisher=Utexas.edu |date=2008-11-10 |accessdate=2010-08-07}}</ref> [[Proto Germanic]]. [[Homer]] and the beginning of [[Classical Antiquity]]. The Vedic Civilization gives way to the [[Mahajanapadas]]. [[Siddhartha Gautama]] preaches [[Buddhism]]. [[Zoroaster]] composes the [[Gathas]], rise of the [[Achaemenid Empire]], replacing the [[Elamites]] and [[Babylonia]]. Separation of Proto-Italic into [[Osco-Umbrian languages|Osco-Umbrian]] and [[Latin-Faliscan languages|Latin-Faliscan]]. Genesis of the [[Greek alphabet|Greek]] and [[Old Italic alphabet|Old Italic]] alphabets. A variety of [[Paleo-Balkan languages]] are spoken in Southern Europe.
+* 500 BC–1 BC/AD: [[Classical Antiquity]]: spread of [[Ancient Greek|Greek]] and [[Latin]] throughout the Mediterranean and, during the [[Hellenistic period]] ([[Indo-Greeks]]), to Central Asia and the [[Hindukush]]. [[Kushan Empire]], [[Mauryan Empire]]. [[Proto-Germanic language|Proto-Germanic]]. The Anatolian languages are [[language death|extinct]].
+* 1 BC/ AD 500: [[Late Antiquity]], [[Gupta period]]; attestation of [[Armenian language|Armenian]]. [[Proto-Slavic]]. The [[Roman Empire]] and then the [[Migration period]] marginalize the Celtic languages to the British Isles.
+* 500–1000: [[Early Middle Ages]]. The [[Viking Age]] forms an [[Old Norse]] [[Koiné language|koine]] spanning Scandinavia, the British Isles and Iceland. The [[Islamic conquest]] and the [[Turkic expansion]] results in the [[Arabization]] and [[Turkification]] of significant areas where Indo-European languages were spoken. [[Tocharian languages|Tocharian]] is extinct in the course of the Turkic expansion while [[Northeastern Iranian languages|Northeastern Iranian]] ([[Scytho-Sarmatian]]) is reduced to small refugia. Slavic languages spread over wide areas in central, eastern and southeastern Europe, largely replacing Romance in the Balkans (with the exception of Romanian) and whatever was left of the [[paleo-Balkan languages]] with the exception of Albanian.
+* 1000–1500: [[Late Middle Ages]]: Attestation of [[Albanian language|Albanian]] and [[Baltic languages|Baltic]].
+* 1500–2000: [[Early modern Europe|Early Modern period]] to present: [[Colonialism]] results in the spread of Indo-European languages to every continent, most notably [[Romance language|Romance]] (North, Central and South America, North and Sub-Saharan Africa, West Asia), [[West Germanic languages|West Germanic]] ([[English language|English]] in North America, Sub-Saharan Africa, East Asia and Australia; to a lesser extent Dutch and German), and [[Russian language|Russian]] to Central Asia and North Asia.
+
+===Important languages for reconstruction===
+In reconstructing the history of the Indo-European languages and the form of the [[Proto-Indo-European language]], some languages have been of particular importance. These generally include the ancient Indo-European languages that are both well-attested and documented at an early date, although some languages from later periods are important if they are particularly [[conservative (language)|linguistically conservative]] (most notably, [[Lithuanian language|Lithuanian]]). Early poetry is of special significance because of the rigid [[poetic meter]] normally employed, which makes it possible to reconstruct a number of features (e.g. [[vowel length]]) that were either unwritten or corrupted in the process of transmission down to the earliest extant written [[manuscript]]s.
+
+Most important of all:
+*[[Vedic Sanskrit]] (c. 1500 – 500 BC). This language is unique in that its source documents were all composed orally, and were passed down through [[oral tradition]] ([[shakha]] schools) for c. 2,000 years before ever being written down. The oldest documents are all in poetic form; oldest and most important of all is the [[Rig Veda]] (c. 1500 BC).
+*[[Mycenaean Greek]] (c. 1450 BC)<ref>[http://news.nationalgeographic.com/news/2011/03/110330-oldest-writing-europe-tablet-greece-science-mycenae-greek Ancient Tablet Found: Oldest Readable Writing in Europe]</ref> and [[Ancient Greek]] (c. 750 – 400 BC). Mycenaean Greek is the oldest recorded form, but its value is lessened by the limited material, restricted subject matter, and highly ambiguous writing system. More important is Ancient Greek, documented extensively beginning with the two [[Homeric poems]] (the [[Iliad]] and the [[Odyssey]], c. 750 BC).
+*[[Hittite language|Hittite]] (c. 1700 – 1200 BC). This is the earliest-recorded of all Indo-European languages, and highly divergent from the others due to the early separation of the [[Anatolian languages]] from the remainder. It possesses some highly archaic features found only fragmentarily, if at all, in other languages. At the same time, however, it appears to have undergone a large number of early phonological and grammatical changes which, combined with the ambiguities of its writing system, hinder its usefulness somewhat.
+
+Other primary sources:
+*[[Latin]], attested in a huge amount of poetic and prose material in the [[Classical Latin|Classical]] period (c. 200 BC – 100 AD) and limited [[Old Latin|older material]] from as early as c. 600 BC.
+*[[Gothic language|Gothic]] (the most archaic well-documented [[Germanic language]], c. 350 AD), along with the combined witness of the other old Germanic languages: most importantly, [[Old English]] (c. 800 – 1000 AD), [[Old High German]] (c. 750 – 1000 AD) and [[Old Norse]] (c. 1100 – 1300 AD, with limited earlier sources dating all the way back to c. 200 AD).
+*[[Old Avestan]] (c. 1700 – 1200 BC) and [[Avestan language|Younger Avestan]] (c. 900 BC). Documentation is sparse, but nonetheless quite important due to its highly archaic nature.
+*Modern [[Lithuanian language|Lithuanian]], with limited records in [[Old Lithuanian]] (c. 1500 – 1700 AD).
+*[[Old Church Slavonic]] (c. 900 – 1000 AD).
+
+Other secondary sources, of lesser value due to poor attestation:
+*[[Luwian language|Luwian]], [[Lycian language|Lycian]], [[Lydian language|Lydian]] and other [[Anatolian languages]] (c. 1400 – 400 BC).
+*[[Oscan]], [[Umbrian]] and other [[Italic languages|Old Italic]] languages (c. 600 – 200 BC).
+*[[Old Persian]] (c. 500 BC).
+*[[Old Prussian]] (c. 1350 – 1600 AD); even more archaic than Lithuanian.
+
+Other secondary sources, of lesser value due to extensive phonological changes and relatively limited attestation:
+*[[Old Irish]] (c. 700 – 850 AD).
+*[[Tocharian language|Tocharian]] (c. 500 – 800 AD), underwent large phonetic shifts and mergers in the proto-language, and has an almost entirely reworked declension system.
+*[[Classical Armenian]] (c. 400 – 500 AD).
+*[[Albanian language|Albanian]] (c. 1450 – current time).
+
+===Sound changes===
+{{Main|Indo-European sound laws}}
+As the Proto-Indo-European (PIE) language broke up, its sound system diverged as well, changing according to various [[sound law]]s evidenced in the [[daughter language]]s.
+
+PIE is normally reconstructed with a complex system of 15 [[stop consonant]]s, including an unusual three-way [[phonation]] ([[voice (phonetics)|voicing]]) distinction between [[voicelessness|voiceless]], [[voice (phonetics)|voiced]] and "[[voiced aspirated]]" (i.e. [[breathy voiced]]) stops, and a three-way distinction among [[velar consonant]]s (''k''-type sounds) between "palatal" ''ḱ ǵ ǵh'', "plain velar" ''k g gh'' and [[Labialized velar consonant|labiovelar]] ''kʷ gʷ gʷh''. (The correctness of the terms ''palatal'' and ''plain velar'' is disputed; see [[Proto-Indo-European phonology]].)  All daughter languages have reduced the number of distinctions among these sounds, often in divergent ways.
+
+As an example, in [[English language|English]], one of the [[Germanic language]]s, the following are some of the major changes that happened:
+{{ordered list
+|1= As in other [[centum]] languages, the "plain velar" and "palatal" stops merged, reducing the number of stops from 15 to 12.
+|2= As in the other Germanic languages, the [[Germanic sound shift]] changed the realization of all stop consonants, with each consonant shifting to a different one:
+: {{PIE|bʰ}} → {{PIE|b}} → {{PIE|p}} → {{PIE|f}}
+: {{PIE|dʰ}} → {{PIE|d}} → {{PIE|t}} → {{PIE|θ}}
+: {{PIE|gʰ}} → {{PIE|g}} → {{PIE|k}} → {{PIE|x}} (Later initial {{PIE|x}} →{{PIE|h}})
+: {{PIE|gʷʰ}} → {{PIE|gʷ}} → {{PIE|kʷ}} → {{PIE|xʷ}} (Later initial {{PIE|xʷ}} →{{PIE|hʷ}})
+Each original consonant shifted one position to the right.  For example, original {{PIE|dʰ}} became {{PIE|d}}, while original {{PIE|d}} became {{PIE|t}} and original {{PIE|t}} became {{PIE|θ}} (written ''th'' in English).  This is the original source of the English sounds written ''f'', ''th'', ''h'' and ''wh''.  Examples, comparing English with Latin, where the sounds largely remain unshifted:
+:For PIE ''p'': ''piscis'' vs. ''fish''; ''pēs, pēdis'' vs. ''foot''; ''pluvium'' "rain" vs. ''flow''; ''pater'' vs. ''father''
+:For PIE ''t'': ''trēs'' vs. ''three''; ''māter'' vs. ''mother''
+:For PIE ''d'': ''decem'' vs. ''ten''; ''pēdis'' vs. ''foot''; ''quid'' vs. ''what''
+:For PIE ''k'': ''centum'' vs. ''hund(red)''; ''capere'' "to take" vs. ''have''
+:For PIE ''kʷ'': ''quid'' vs. ''what''; ''quandō'' vs. ''when''
+|3= Various further changes affected consonants in the middle or end of a word:
+*The voiced stops resulting from the sound shift were softened to voiced [[fricative consonant|fricative]]s (or perhaps the sound shift directly generated fricatives in these positions).
+*[[Verner's law]] also turned some of the voiceless fricatives resulting from the sound shift into voiced fricatives or stops.  This is why the ''t'' in Latin ''centum'' ends up as ''d'' in ''hund(red)'' rather than the expected ''th''.
+*Most remaining ''h'' sounds disappeared, while remaining ''f'' and ''th'' became voiced.  For example, Latin ''decem'' ends up as ''ten'' with no ''h'' in the middle (but note ''taíhun'' "ten" in [[Gothic language|Gothic]], an archaic Germanic language).  Similarly, the words ''seven'' and ''have'' have a voiced ''v'' (compare Latin ''septem'', ''capere''), while ''father'' and ''mother'' have a voiced ''th'', although not spelled differently (compare Latin ''pater'', ''māter'').
+}}
+
+None of the daughter-language families (except possibly [[Anatolian languages|Anatolian]], particularly [[Luvian language|Luvian]]) reflect the plain velar stops differently from the other two series, and there is even a certain amount of dispute whether this series existed at all in PIE.  The major distinction between [[Centum-satem isogloss|''centum'' and ''satem'']] languages corresponds to the outcome of the PIE plain velars:
+*The "central" ''satem'' languages ([[Indo-Iranian languages|Indo-Iranian]], [[Balto-Slavic languages|Balto-Slavic]], [[Albanian language|Albanian]], and [[Armenian language|Armenian]]) reflect both "plain velar" and labiovelar stops as plain velars, often with secondary [[Palatalization (sound change)|palatalization]] before a [[front vowel]] (''e i ē ī'').  The "palatal" stops are palatalized and often appear as [[sibilant]]s (usually but not always distinct from the secondarily palatalized stops).
+*The "peripheral" ''centum'' languages ([[Germanic languages|Germanic]], [[Italic languages|Italic]], [[Celtic languages|Celtic]], [[Greek language|Greek]], [[Anatolian languages|Anatolian]] and [[Tocharian language|Tocharian]]) reflect both "palatal" and "plain velar" stops as plain velars, while the labiovelars continue unchanged, often with later reduction into plain [[labial consonant|labial]] or [[velar consonant]]s.
+
+The three-way PIE distinction between voiceless, voiced and voiced aspirated stops is considered extremely unusual from the perspective of [[linguistic typology]]—particularly in the existence of voiced aspirated stops without a corresponding series of voiceless aspirated stops. None of the various daughter-language families continue it unchanged, with numerous "solutions" to the apparently unstable PIE situation:
+*The [[Indo-Aryan language]]s preserve the three series unchanged but have evolved a fourth series of voiceless aspirated consonants.
+*The [[Iranian language]]s probably passed through the same stage, subsequently changing the aspirated stops into fricatives.
+*[[Greek language|Greek]] converted the voiced aspirates into voiceless aspirates.
+*[[Italic languages|Italic]] probably passed through the same stage, but reflects the voiced aspirates as voiceless fricatives, especially ''f'' (or sometimes plain voiced stops in [[Latin]]).
+*[[Celtic languages|Celtic]], [[Balto-Slavic languages|Balto-Slavic]], [[Anatolian languages|Anatolian]], and [[Albanian language|Albanian]] merge the voiced aspirated into plain voiced stops.
+*[[Germanic languages|Germanic]] and [[Armenian language|Armenian]] change all three series in a [[chain shift]] (e.g. with ''bh b p'' becoming ''b p f'' (known as ''[[Grimm's law]]'' in Germanic).
+
+Among the other notable changes affecting consonants are:
+*The [[Ruki sound law]] (''s'' becomes {{IPA|/ʃ/}} before ''r, u, k, i'') in the ''[[satem]]'' languages.
+*Loss of prevocalic ''p'' in [[Proto-Celtic]].
+*Development of prevocalic ''s'' to ''h'' in [[Proto-Greek]], with later loss of ''h'' between vowels.
+*[[Verner's law]] in [[Proto-Germanic]].
+*[[Grassmann's law]] (dissimilation of aspirates) independently in Proto-Greek and Proto-Indo-Iranian.
+
+The following table shows the basic outcomes of PIE consonants in some of the most important daughter languages for the purposes of reconstruction.  For a fuller table, see [[Indo-European sound laws]].
+
+{| class=wikitable style="white-space: nowrap;"
+|+ '''Proto-Indo-European consonants and their [[Reflex (linguistics)|reflexes]] in selected Indo-European daughter languages'''
+! rowspan=2|PIE !! rowspan=2|[[Sanskrit|Skr.]] !! rowspan=2|[[Old Church Slavonic|O.C.S.]] !! rowspan=2|[[Lithuanian language|Lith.]] !! rowspan=2|[[Greek language|Greek]] !! rowspan=2|[[Latin]] !! rowspan=2|[[Old Irish]] !! rowspan=2|[[Gothic language|Gothic]] !! rowspan=2|English !! colspan=6|Examples
+|- align=center
+! PIE !! Eng. !! [[Sanskrit|Skr.]] !! [[Ancient Greek|Gk.]] !! [[Latin|Lat.]] !! [[Lithuanian language|Lith.]] etc.
+|- align=center
+!'''{{PIE|*p}}'''
+|'''{{PIE|p}}'''; '''{{PIE|ph}}'''<SUP>H</SUP>
+| colspan="4"|'''{{PIE|p}}'''
+|'''{{PIE|Ø}}''';<br/>'''{{PIE|ch}}'''<SUP>T</SUP> {{IPA|[x]}}
+|'''{{PIE|f}}''';<br/>`-'''{{PIE|b}}'''- {{IPA|[β]}}
+|'''{{PIE|f}}''';<br/>-'''{{PIE|v/f}}'''-
+|''*pṓds ~ *ped-'' || ''foot'' || ''pád-'' || ''poús (podós)'' || ''pēs (pedis)'' || ''pãdas''
+|- align=center
+!'''{{PIE|*t}}'''
+|'''{{PIE|t}}'''; '''{{PIE|th}}'''<SUP>H</SUP>
+| colspan="4"|'''{{PIE|t}}'''
+|'''{{PIE|t}}''';<br/>-'''{{PIE|th}}'''- {{IPA|[θ]}}
+|'''{{PIE|þ}}''' {{IPA|[θ]}};<br/>`-'''{{PIE|d}}'''- {{IPA|[ð]}};<br/>'''{{PIE|t}}'''<SUP>T-</SUP>
+|'''{{PIE|th}}''';<br/>`-'''{{PIE|d}}'''-;<br/>'''{{PIE|t}}'''<SUP>T-</SUP>
+|''*tréyes'' || ''three'' || ''tráyas''|| ''treĩs'' || ''trēs'' || ''trỹs''
+|- align=center
+!'''{{PIE|*ḱ}}'''
+|'''{{PIE|ś}}''' {{IPA|[ɕ]}}
+|'''{{PIE|s}}'''
+|'''{{PIE|š}}''' {{IPA|[ʃ]}}
+| rowspan="2"|'''{{PIE|k}}'''
+| rowspan="2"|'''{{PIE|c}}''' {{IPA|[k]}}
+| rowspan="4"|'''{{PIE|c}}''' {{IPA|[k]}};<br/>-'''{{PIE|ch}}'''- {{IPA|[x]}}
+| rowspan="2"|'''{{PIE|h}}''';<br/>`-'''{{PIE|g}}'''- {{IPA|[ɣ]}}
+| rowspan="2"|'''{{PIE|h}}''';<br/>-'''{{PIE|Ø}}'''-;<br/>`-'''{{PIE|y}}'''-
+|''*ḱm̥tóm'' || ''hund(red)'' || ''śatám'' || ''he-katón'' || ''centum'' || ''šimtas''
+|- align=center
+!'''{{PIE|*k}}'''
+| rowspan="3"|'''{{PIE|k}}'''; '''{{PIE|c}}'''<SUP>E</SUP> {{IPA|[tʃ]}};<br/>'''{{PIE|kh}}'''<SUP>H</SUP>
+| rowspan="3"|'''{{PIE|k}}''';<br/>'''{{PIE|č}}'''<SUP>E</SUP> {{IPA|[tʃ]}};<br/>'''{{PIE|c}}'''<sup>E'</sup> {{IPA|[ts]}}
+| rowspan="3"|'''{{PIE|k}}'''
+|''*kreuh₂''<br/> "raw meat" || OE ''hrēaw''<br/> > ''raw'' || ''kravíṣ-'' || ''kréas'' || ''cruor'' || ''kraûjas''
+|- align=center
+!rowspan=2|'''{{PIE|*kʷ}}'''
+|rowspan=2|'''{{PIE|p}}''';<br/>'''{{PIE|t}}'''<SUP>E</SUP>;<br/>'''{{PIE|k}}'''<SUP>(u)</SUP>
+|rowspan=2|'''{{PIE|qu}}''' {{IPA|[kʷ]}};<br/>'''{{PIE|c}}'''<SUP>(O)</SUP> {{IPA|[k]}}
+|rowspan=2|'''{{PIE|ƕ}}''' {{IPA|[ʍ]}};<br/>`-'''{{PIE|gw/w}}'''-
+|rowspan=2|'''{{PIE|wh}}''';<br/>`-'''{{PIE|w}}'''-
+| ''*kʷid, kʷod'' || ''what'' || ''kím'' || ''tí'' || ''quid, quod'' ||''kas'', ''kad''
+|- align=center
+| ''*kʷekʷlom'' || ''wheel'' || ''cakrá-'' || ''kúklos'' || || ''kãklas''
+|- align=center
+!'''{{PIE|*b}}'''
+|'''{{PIE|b}}'''; '''{{PIE|bh}}'''<SUP>H</SUP>
+| colspan="4"|'''{{PIE|b}}'''
+|'''{{PIE|b}}''' {{IPA|[b]}};<br/>-'''{{IPA|[β]}}'''-
+| colspan="2"|'''{{PIE|p}}'''
+|- align=center
+!'''{{PIE|*d}}'''
+|'''{{PIE|d}}'''; '''{{PIE|dh}}'''<SUP>H</SUP>
+| colspan="4"|'''{{PIE|d}}'''
+|'''{{PIE|d}}''' {{IPA|[d]}};<br/>-{{IPA|[ð]}}-
+| colspan="2"|'''{{PIE|t}}'''
+| ''*déḱm̥(t)'' || ''ten'',<br/>[[Gothic language|Goth.]] ''taíhun'' || ''dáśa'' || ''déka'' || ''decem'' || ''dẽšimt''
+|- align=center
+!'''{{PIE|*ǵ}}'''
+|'''{{PIE|j}}''' {{IPA|[dʒ]}};<br/>'''{{PIE|h}}'''<SUP>H</SUP> {{IPA|[ɦ]}}
+|'''{{PIE|z}}'''
+|'''{{PIE|ž}}''' {{IPA|[ʒ]}}
+| colspan="2" rowspan="2"|'''{{PIE|g}}'''
+| rowspan="2"|'''{{PIE|g}}''' {{IPA|[ɡ]}};<br/>-{{IPA|[ɣ]}}-
+| rowspan="2"|'''{{PIE|k}}'''
+| rowspan="2"|'''{{PIE|c / k}}''';<br/>'''{{PIE|ch}}'''<SUP>E'</SUP>
+| ''*ǵénu, *ǵnéu-'' || OE ''cnēo''<br/> > ''knee'' || ''jā́nu'' || ''gónu'' || ''genu'' ||
+|- align=center
+!'''{{PIE|*g}}'''
+| rowspan="2"|'''{{PIE|g}}''';<br/> '''{{PIE|j}}'''<sup>E</sup> {{IPA|[dʒ]}};<br/>'''{{PIE|gh}}'''<SUP>H</SUP>;<br/> '''{{PIE|h}}'''<SUP>H,E</SUP> {{IPA|[ɦ]}}
+| rowspan="2"|'''{{PIE|g}}''';<br/>'''{{PIE|ž}}'''<sup>E</sup> {{IPA|[ʒ]}};<br/>'''{{PIE|dz}}'''<sup>E'</sup>
+| rowspan="2"|'''{{PIE|g}}'''
+|''*yugóm'' || ''yoke'' || ''yugám'' || ''zugón'' || ''iugum'' || ''jùngas''
+|- align=center
+!'''{{PIE|*gʷ}}'''
+|'''{{PIE|b}}''';<br/>'''{{PIE|d}}'''<sup>e</sup>;<br/>'''{{PIE|g}}'''<SUP>(u)</SUP>
+|'''{{PIE|u}}''' {{IPA|[w > v]}};<br/>'''{{PIE|gu}}'''<sup>n−</sup> {{IPA|[ɡʷ]}}
+| rowspan="2"|'''{{PIE|b}}''' {{IPA|[b]}};<br/>-{{IPA|[β]}}-
+|'''{{PIE|q}}''' {{IPA|[kʷ]}}
+|'''{{PIE|qu}}'''
+| ''*gʷīw-'' || ''quick''<br/>"alive" || ''jīvá-'' || ''bíos'',<br/>''bíotos'' || ''vīvus'' || ''gývas''
+|- align=center
+!'''{{PIE|*bʰ}}'''
+|'''{{PIE|bh}}''';<br/> '''{{PIE|b}}'''<sup>..Ch</sup>
+| colspan="2"|'''{{PIE|b}}'''
+|'''{{PIE|ph}}''';<br/> '''{{PIE|p}}'''<sup>..Ch</sup>
+|'''{{PIE|f}}'''-;<br/>'''{{PIE|b}}'''
+|'''{{PIE|b}}''' {{IPA|[b]}};<br/>-{{IPA|[β]}}-;<br/>-'''{{PIE|f}}'''
+|'''{{PIE|b}}''';<br/>-'''{{PIE|v/f}}'''-<SUP>(rl)</SUP>
+| ''*bʰerō'' || ''bear'' "carry" || ''bhar-'' || ''phérō'' || ''ferō'' || [[Old Church Slavonic|OCS]] ''berǫ''
+|- align=center
+!'''{{PIE|*dʰ}}'''
+|'''{{PIE|dh}}''';<br/> '''{{PIE|d}}'''<sup>..Ch</sup>
+| colspan="2"|'''{{PIE|d}}'''
+|'''{{PIE|th}}''';<br/> '''{{PIE|t}}'''<sup>..Ch</sup>
+|'''{{PIE|f}}'''-;<br/>'''{{PIE|d}}''';<br/>'''{{PIE|b}}'''<SUP>(r),l,u-</SUP>
+|'''{{PIE|d}}''' {{IPA|[d]}};<br/>-{{IPA|[ð]}}-
+|'''{{PIE|d}}''' {{IPA|[d]}};<br/>-{{IPA|[ð]}}-;<br/>-'''{{PIE|þ}}'''
+|'''{{PIE|d}}'''
+|''*dʰwer-, dʰur-'' || ''door'' || ''dhvā́raḥ'' || ''thurā́'' || ''forēs'' || ''dùrys''
+|- align=center
+!'''{{PIE|*ǵʰ}}'''
+|'''{{PIE|h}}''' {{IPA|[ɦ]}};<br/> '''{{PIE|j}}'''<sup>..Ch</sup>
+|'''{{PIE|z}}'''
+|'''{{PIE|ž}}''' {{IPA|[ʒ]}}
+| rowspan="2"|'''{{PIE|kh}}''';<br/> '''{{PIE|k}}'''<sup>..Ch</sup>
+| rowspan="2"|'''{{PIE|h}}''';<br/>'''{{PIE|h/g}}'''<SUP>R</SUP>
+| rowspan="4"|'''{{PIE|g}}''' {{IPA|[ɡ]}};<br/>-{{IPA|[ɣ]}}-
+| rowspan="2"|'''{{PIE|g}}''';<br/>-'''{{PIE|g}}'''- {{IPA|[ɣ]}};<br/>-'''{{PIE|g}}''' {{IPA|[x]}}
+| rowspan="2"|'''{{PIE|g}}''';<br/>-'''{{PIE|y/w}}'''-<SUP>(rl)</SUP>
+| ''*ǵʰans-'' || ''goose'',<br/> [[Old High German|OHG]] ''gans'' || ''haṁsáḥ'' || ''khḗn'' || ''(h)ānser'' || ''žąsìs''
+|- align=center
+!'''{{PIE|*gʰ}}'''
+| rowspan="3"|'''{{PIE|gh}}''';<br/>'''{{PIE|h}}'''<sup>E</sup> {{IPA|[ɦ]}};<br/> '''{{PIE|g}}'''<sup>..Ch</sup>;<br/> '''{{PIE|j}}'''<sup>E..Ch</sup>
+| rowspan="3"|'''{{PIE|g}}''';<br/>'''{{PIE|ž}}'''<sup>E</sup> {{IPA|[ʒ]}};<br/>'''{{PIE|dz}}'''<sup>E'</sup>
+| rowspan="3"|'''{{PIE|g}}'''
+|- align=center
+!rowspan=2|'''{{PIE|*gʷʰ}}'''
+|rowspan=2|'''{{PIE|ph}}''';<br/>'''{{PIE|th}}'''<sup>E</sup>;<br/>'''{{PIE|kh}}'''<SUP>(u)</SUP>;<br/> '''{{PIE|p}}'''<sup>..Ch</sup>;<br/>'''{{PIE|t}}'''<sup>E..Ch</sup>;<br/>'''{{PIE|k}}'''<SUP>(u)..Ch</SUP>
+|rowspan=2|'''{{PIE|f}}'''-;<br/>'''{{PIE|g}}''' /<br/>-'''{{PIE|u}}'''- {{IPA|[w]}};<br/><sup>n</sup>'''{{PIE|gu}}''' {{IPA|[ɡʷ]}}
+|rowspan=2|'''{{PIE|g}}''';<br/>'''{{PIE|b}}'''-;<br/>-'''{{PIE|w}}'''-;<br/><sup>n</sup>'''{{PIE|gw}}'''
+|rowspan=2|'''{{PIE|g}}''';<br/>'''{{PIE|b}}'''-;<br/>-'''{{PIE|w}}'''-
+| ''*sneigʷʰ-'' || ''snow'' || ''sneha-'' || ''nípha'' || ''nivis'' || ''sniẽgas''
+|- align=center
+| ''*gʷʰerm-'' || ??''warm'' || ''gharmáḥ'' || ''thermós'' || ''formus'' || [[Latvian language|Latv.]] ''gar̂me''
+|- align=center
+! rowspan="2"|'''{{PIE|*s}}'''
+| colspan="3"|'''{{PIE|s}}'''
+| rowspan="2"|'''{{PIE|h}}'''-;<br/>-'''{{PIE|s}}''';<br/>'''{{PIE|s}}'''<SUP>(T)</SUP>;<br/>-'''{{PIE|Ø}}'''-;<br/>{{IPA|[¯]}}<SUP>(R)</SUP>
+| rowspan="2"|'''{{PIE|s}}''';<br/>-'''{{PIE|r}}'''-
+| rowspan="2"|'''{{PIE|s}}''' {{IPA|[s]}};<br/>-{{IPA|[h]}}-
+| rowspan="2"|'''{{PIE|s}}''';<br/>`-'''{{PIE|z}}'''-
+| rowspan="2"|'''{{PIE|s}}''';<br/>`-'''{{PIE|r}}'''-
+| ''*septḿ̥'' || ''seven'' || ''saptá'' || ''heptá'' || ''septem'' || ''septynì''
+|- align=center
+|'''{{PIE|ṣ}}'''<SUP>ruki-</SUP> {{IPA|[ʂ]}}
+|'''{{PIE|x}}'''<SUP>ruki-</SUP> {{IPA|[x]}}
+|'''{{PIE|š}}'''<SUP>ruki-</SUP> {{IPA|[ʃ]}}
+| ''*h₂eusōs''<br/>"dawn" || ''east'' || ''uṣā́ḥ'' || ''āṓs'' || ''aurōra'' || ''aušra''
+|- align=center
+! '''{{PIE|*m}}'''
+| colspan="5"|'''{{PIE|m}}'''
+| '''{{PIE|m}}''' {{IPA|[m]}};<br/>-{{IPA|[w̃]}}-
+| colspan="2"|'''{{PIE|m}}'''
+| ''*mūs'' || ''mouse'' || ''mū́ṣ-'' || ''mũs'' || ''mūs'' || [[Old Church Slavonic|OCS]] ''myšĭ''
+|- align=center
+! '''{{PIE|*-m}}'''
+| -'''{{PIE|m}}'''
+| -'''{{PIE|˛}}''' {{IPA|[˜]}}
+| colspan="2"| -'''{{PIE|n}}'''
+| -'''{{PIE|m}}'''
+| -'''{{PIE|n}}'''
+| colspan="2"| -'''{{PIE|Ø}}'''
+| ''*ḱm̥tóm'' || ''hund(red)'' || ''śatám'' || ''(he)katón'' || ''centum'' || [[Old Prussian|OPrus]] ''simtan''
+|- align=center
+! '''{{PIE|*n}}'''
+|'''{{PIE|n}}'''
+|'''{{PIE|n}}''';<br/>-'''{{PIE|˛}}''' {{IPA|[˜]}}
+| colspan="6"|'''{{PIE|n}}'''
+| ''*nokʷt-'' || ''night'' || ''nákt-'' || ''núkt-'' || ''noct-'' || ''naktis''
+|- align=center
+! '''{{PIE|*l}}'''
+|'''{{PIE|r}}''' (dial. '''{{PIE|l}}''')
+| colspan="7"|'''{{PIE|l}}'''
+| ''*leuk-'' || ''light'' || ''rócate'' || ''leukós'' || ''lūx'' || ''laũkas''
+|- align=center
+! '''{{PIE|*r}}'''
+| colspan="8"|'''{{PIE|r}}'''
+| ''*h₁reudʰ-'' || ''red'' || ''rudhirá-'' || ''eruthrós'' || ''ruber'' || ''raũdas''
+|- align=center
+! '''{{PIE|*i̯}}'''
+| '''{{PIE|y}}''' {{IPA|[j]}}
+| colspan="2"|'''{{PIE|j}}''' {{IPA|[j]}}
+|'''{{PIE|z}}'''  {{IPA|[zd > dz > z]}} /<br/>'''{{PIE|h}}''';<br/>-'''{{PIE|Ø}}'''-
+|'''{{PIE|i}}''' {{IPA|[j]}};<br/>-'''{{PIE|Ø}}'''-
+|'''{{PIE|Ø}}'''
+|'''{{PIE|j}}'''
+|'''{{PIE|y}}'''
+|''*yugóm'' || ''yoke'' || ''yugám'' || ''zugón'' || ''iugum'' || ''jùngas''
+|- align=center
+! '''{{PIE|*u̯}}'''
+|'''{{PIE|v}}''' {{IPA|[ʋ]}}
+|'''{{PIE|v}}'''
+|'''{{PIE|v}}''' {{IPA|[ʋ]}}
+|'''{{PIE|w > h / Ø}}'''
+|'''{{PIE|u}}''' {{IPA|[w > v]}}
+|'''{{PIE|f}}''';<br/>-'''{{PIE|Ø}}'''-
+| colspan="2"|'''{{PIE|w}}'''
+|''*h₂weh₁n̥to-'' || ''wind'' || ''vā́taḥ'' || ''áenta'' || ''ventus'' || ''vėtra''
+|-
+! PIE !! [[Sanskrit|Skr.]] !! [[Old Church Slavonic|O.C.S.]] !! [[Lithuanian language|Lith.]] !! [[Greek language|Greek]] !! [[Latin]] !! [[Old Irish]] !! [[Gothic language|Gothic]] !! English
+|}
+
+:Notes:
+*'''C'''- At the beginning of a word.
+*-'''C'''- Between vowels.
+*-'''C''' At the end of a word.
+*`-'''C'''- Following an unstressed vowel ([[Verner's law]]).
+*-'''C'''-<sup>(rl)</sup> Between vowels, or between a vowel and '''{{PIE|r, l}}''' (on either side).
+*'''C'''<sup>T</sup> Before a (PIE) stop ('''{{PIE|p, t, k}}''').
+*'''C'''<sup>T−</sup> After a (PIE) obstruent ('''{{PIE|p, t, k}}''', etc.; '''{{PIE|s}}''').
+*'''C'''<sup>(T)</sup> Before or after an obstruent ('''{{PIE|p, t, k}}''', etc.; '''{{PIE|s}}''').
+*'''C'''<sup>H</sup> Before an original laryngeal.
+*'''C'''<sup>E</sup> Before a (PIE) front vowel ('''{{PIE|i, e}}''').
+*'''C'''<sup>E'</sup> Before secondary (post-PIE) front-vowels.
+*'''C'''<sup>e</sup> Before '''{{PIE|e}}'''.
+*'''C'''<sup>(u)</sup> Before or after a (PIE) '''{{PIE|u}}''' ([[boukólos rule]]).
+*'''C'''<sup>(O)</sup> Before or after a (PIE) '''{{PIE|o, u}}''' ([[boukólos rule]]).
+*'''C'''<sup>n−</sup> After '''{{PIE|n}}'''.
+*'''C'''<sup>R</sup> Before a [[sonorant]] ('''{{PIE|r, l, m, n}}''').
+*'''C'''<sup>(R)</sup> Before or after a [[sonorant]] ('''{{PIE|r, l, m, n}}''').
+*'''C'''<sup>(r),l,u−</sup> Before '''{{PIE|r, l}}''' or after '''{{PIE|r, u}}'''.
+*'''C'''<sup>ruki−</sup> After '''{{PIE|r, u, k, i}}''' ([[Ruki sound law]]).
+*'''C'''<sup>..Ch</sup> Before an aspirated consonant in the next syllable ([[Grassmann's law]], a.k.a. [[dissimilation of aspirates]]).
+*'''C'''<sup>E..Ch</sup> Before a (PIE) front vowel ('''{{PIE|i, e}}''') as well as before an aspirated consonant in the next syllable ([[Grassmann's law]], a.k.a. [[dissimilation of aspirates]]).
+*'''C'''<sup>(u)..Ch</sup> Before or after a (PIE) '''{{PIE|u}}''' as well as before an aspirated consonant in the next syllable ([[Grassmann's law]], a.k.a. [[dissimilation of aspirates]]).
+
+===Comparison of conjugations===
+
+The following table presents a comparison of conjugations of the [[vowel stems|thematic]] [[present tense|present indicative]] of the verbal root *{{PIE|bʰer-}} of the English verb ''[[wikt:bear|to bear]]'' and its reflexes in various early attested IE languages and their modern descendants or relatives, showing that all languages had in the early stage an inflectional verb system.
+
+{| class="wikitable" style="text-align: center;"
+|+
+|-
+!
+! [[Proto-Indo-European language|Proto-Indo-European]]<br/> (*{{PIE|[[wikt:Appendix:Proto-Indo-European/bʰer-|bʰer-]]}} 'to carry')
+|-
+! I (1st sg.)
+| *{{PIE|bʰéroh₂}}
+|-
+! You (2nd sg.)
+| *{{PIE|bʰéresi}}
+|-
+! He/She/It (3rd sg.)
+| *{{PIE|bʰéreti}}
+|-
+! We (1st dual)
+| *{{PIE|bʰérowos}}
+|-
+! You (2nd dual)
+| *{{PIE|bʰéreth₁es}}
+|-
+! They (3rd dual)
+| *{{PIE|bʰéretes}}
+|-
+! We (1st pl.)
+| *{{PIE|bʰéromos}}
+|-
+! You (2nd pl.)
+| *{{PIE|bʰérete}}
+|-
+! They (3rd pl.)
+| *{{PIE|bʰéronti}}
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+
+|-
+! rowspan="2" | Major subgroup
+! rowspan="2" | [[Hellenic languages|Hellenic]]
+! colspan="2" | [[Indo-Iranian languages|Indo-Iranian]]
+! rowspan="2" | [[Italic languages|Italic]]
+! rowspan="2" | [[Celtic languages|Celtic]]
+! rowspan="2" | [[Armenian languages|Armenian]]
+! rowspan="2" | [[Germanic languages|Germanic]]
+! colspan="2" | [[Balto-Slavic languages|Balto-Slavic]]
+! rowspan="2" | [[Albanian languages|Albanian]]
+|-
+<!-- Indo-Iranian -->
+! [[Indo-Aryan languages|Indo-Aryan]]
+! [[Iranian languages|Iranian]]
+<!-- Balto-Slavic -->
+! [[Baltic languages|Baltic]]
+! [[Slavic languages|Slavic]]
+|-
+! Ancient representative
+! [[Ancient Greek]]
+! [[Vedic Sanskrit]]
+! [[Avestan language|Avestan]]
+! [[Latin]]
+! [[Old Irish]]
+! [[Classical Armenian|Classical Arm.]]
+! [[Gothic language|Gothic]]
+! [[Old Prussian language|Old Prussian]]
+! [[Old Church Slavic|Old Church Sl.]]
+! [[Old Albanian]]
+|-
+! I (1st sg.)
+| [[wikt:φέρω|phérō]]
+| bhárāmi
+| barā
+| [[wikt:fero#Latin|ferō]]
+| biru; berim
+| berem
+| baíra /bɛra/
+|
+| berǫ
+| *berja
+|-
+! You (2nd sg.)
+| phéreis
+| bhárasi
+| barahi
+| fers
+| biri; berir
+| beres
+| baíris
+|
+| bereši
+|
+|-
+! He/She/It (3rd sg.)
+| phérei
+| bhárati
+| baraiti
+| fert
+| berid
+| berē
+| baíriþ
+|
+| beretъ
+|
+|-
+! We (1st dual)
+| —
+| bhárāvas
+| barāvahi
+| —
+| —
+| —
+| baíros
+|
+| berevě
+|
+|-
+! You (2nd dual)
+| phéreton
+| bhárathas
+| —
+| —
+| —
+| —
+| baírats
+|
+| bereta
+|
+|-
+! They (3rd dual)
+| phéreton
+| bháratas
+| baratō
+| —
+| —
+| —
+| —
+|
+| berete
+|
+|-
+! We (1st pl.)
+| phéromen
+| bhárāmas
+| barāmahi
+| ferimus
+| bermai
+| beremk`
+| baíram
+|
+| beremъ
+|
+|-
+! You (2nd pl.)
+| phérete
+| bháratha
+| baraϑa
+| fertis
+| beirthe
+| berēk`
+| baíriþ
+|
+| berete
+|
+|-
+! They (3rd pl.)
+| phérousi
+| bháranti
+| barəṇti
+| ferunt
+| berait
+| beren
+| baírand
+|
+| berǫtъ
+|  
+|-
+! Modern representative
+! [[Modern Greek]]
+! [[Hindustani language|Hindustani]]
+! [[Persian language|Persian]]
+! [[French language|French]]
+! [[Irish language|Irish]]
+! [[Armenian language|Armenian (Eastern; Western)]]
+! [[German language|German]]
+! [[Lithuanian language|Lithuanian]]
+! [[Czech language|Czech]]
+! [[Albanian language|Albanian]]
+|-
+! I (1st sg.)
+| férno
+| (maiṃ) bharūṃ
+| (man) {mi}baram
+| (je) {con}fère
+| [[wikt:beir#Irish|beirim]]
+| berum em; g'perem
+| (ich) {ge}bäre
+| beriu
+| [[wikt:brát#Czech|beru]]
+| (unë) bie
+|-
+! You (2nd sg.)
+| férnis
+| (tū) bhare
+| (to) {mi}bari
+| (tu) {con}fères
+| beirir
+| berum es; g'peres
+| (du) {ge}bierst
+| beri
+| bereš
+| (ti) bie
+|-
+! He/She/It (3rd sg.)
+| férni
+| (vah) bhare
+| (un) {mi}bare / (ān) {mi}barad
+| (il)  {con}fère
+| beireann; %beiridh
+| berum ē; g'perē
+| (er)(sie)(es) {ge}biert
+| beria
+| bere
+| (ai/ajo) bie
+|-
+! We (1st dual)
+| 
+| 
+|
+| 
+| 
+| 
+| 
+| beriava
+| 
+|
+|-
+! You (2nd dual)
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|beriata
+| 
+|
+|-
+! They (3rd dual)
+| 
+| 
+|
+|
+|
+|
+|
+| beria
+| 
+|
+|-
+! We (1st pl.)
+| férnume
+| (ham) bhareṃ
+| (mā) {mi}barim
+| (nous) {con}férons
+| beirimid; beiream
+| berum enk`; g'perenk`
+| (wir) {ge}bären
+| beriame
+| berem(e)
+| (ne) biem
+|-
+! You (2nd pl.)
+| férnete
+| (tum) bharo
+| (šomā) {mi}barid
+| (vous) {con}férez
+| beireann sibh; %beirthaoi
+| berum ek`; g'perek`
+| (ihr) {ge}bärt
+| beriate
+| berete
+| (ju) bini
+|-
+! They (3rd pl.)
+| férnun
+| (ve) bhareṃ
+| (unā) / (ānān) {mi}barand
+| (ils) {con}fèrent
+| beirid
+| berum en; g'peren
+| (sie) {ge}bären
+| beria
+| berou
+| (ata/ato) bien
+|}
+
+While similarities are still visible between the modern descendants and relatives of these ancient languages, the differences have increased over time. Some IE languages have moved from [[synthetic language|synthetic]] verb systems to largely [[periphrasis|periphrastic]] systems. The [[pronoun]]s of periphrastic forms are in brackets when they appear. Some of these verbs have undergone a change in meaning as well.
+*In Modern Irish ''beir'' usually only carries the meaning ''to bear'' in the sense of bearing a child; its common meanings are ''to catch, grab''.
+*The Hindi verb ''bharnā'', the continuation of the Sanskrit verb, can have a variety of meanings, but the most common is "to fill". The forms given in the table, although etymologically derived from the present indicative, now have the meaning of [[subjunctive]].  The present indicative is conjugated periphrastically, using a participle (etymologically the Sanskrit present participle ''bharant-'') and an auxiliary: ''maiṃ bhartā hūṃ, tū bhartā hai, vah bhartā hai, ham bharte haiṃ, tum bharte ho, ve bharte haiṃ'' (masculine forms).
+*German is not directly descended from Gothic, but the Gothic forms are a close approximation of what the early West Germanic forms of c. 400 AD would have looked like.  The cognate of Germanic ''beranan'' (English ''bear'') survives in German only in the compound ''gebären'', meaning "bear (a child)".
+*The Latin verb ''ferre'' is irregular, and not a good representative of a normal thematic verb. In French, other verbs now mean "to carry" and ''ferre'' only survives in compounds such as ''souffrir'' "to suffer" (from Latin ''sub-'' and ''ferre'') and {{lang|fr|''conférer''}} "to confer" (from Latin "con-" and "ferre").
+* In Modern [[Greek language|Greek]], ''phero'' φέρω (modern transliteration ''fero'') "to bear" is still used but only in specific contexts and is most common in such compounds as αναφέρω, διαφέρω, εισφέρω, εκφέρω, καταφέρω, προφέρω, προαναφέρω, προσφέρω etc. The form that is (very) common today is ''pherno'' φέρνω (modern transliteration ''ferno'') meaning "to bring". Additionally, the perfective form of ''pherno'' (used for the subjunctive voice and also for the future tense) is also ''phero''.
+* In Modern [[Russian language|Russian]] ''брать'' (brat') carries the meaning ''to take''. ''Бремя'' (br'em'a) means ''burden'', as something heavy to bear, and derivative ''беременность'' (b'er'em'ennost') means ''pregnancy''.
+
+== Comparison of cognates ==
+{{Main|Indo-European vocabulary}}
+{{See also|Proto-Indo-European numerals|List of numbers in various languages}}
+
+==Present distribution of Indo-European languages==
+[[File:Indo-European-speaking_world.png|thumb|left|340px|Countries where an Indo-European language is:<br />{{legend|#04B45F|a primary de facto national or official language}}
+{{legend|#2EFE64|a secondary official language}}
+{{legend|#b6f2e2|officially recognized}}]]
+[[File:Languages of North America.svg|thumb|210px|The approximate present-day distribution of Indo-European languages within the Americas by country:<br/>
+[[Romance languages|Romance]]:
+{{legend|#3EBA00|[[Spanish language|Spanish]]}}
+{{legend|#EA6500|[[Portuguese language|Portuguese]]–[[Galician language|Galician]]}}
+{{legend|#001E96|[[French language|French]]}}
+[[Germanic languages|Germanic]]:
+{{legend|#C60000|[[English language|English]]}}
+{{legend|#FFD000|[[Dutch language|Dutch]]}} ]]
+Today, Indo-European languages are spoken by almost 3 billion [[Native speaker#Defining "native speaker"|native speakers]] across all inhabited continents,<ref>{{cite web|url=http://www.ethnologue.com/ethno_docs/distribution.asp?by=family |title=Ethnologue list of language families |publisher=Ethnologue.com |date= |accessdate=2010-08-07}}</ref> the largest number by far for any recognised language family. Of the [[List of languages by number of native speakers|20 languages with the largest numbers of native speakers]] according to ''Ethnologue'', 11 are Indo-European: [[Spanish language|Spanish]], [[English language|English]], [[Hindi]], [[Portuguese language|Portuguese]], [[Bengali language|Bengali]], [[Russian language|Russian]], [[Punjabi language|Punjabi]], [[German language|German]], [[French language|French]], [[Marathi language|Marathi]], and [[Urdu]], accounting for over 1.7 billion native speakers.<ref>{{cite web|url=http://www.ethnologue.com/ethno_docs/distribution.asp?by=size |title=Ethnologue list of languages by number of speakers |publisher=Ethnologue.com |date= |accessdate=2010-08-07}}</ref>
+
+Following centuries of [[European colonization]], many modern countries now have an Indo-European language as their official language.
+
+{{Clear}}
+
+==See also==
+{{columns-list|2|
+* [[Afroasiatic languages]]
+* [[Grammatical conjugation]]
+* ''[[The Horse, The Wheel and Language]]'' (book)
+* [[Indo-European copula]]
+* [[Indo-European sound laws]]
+* [[Indo-European studies]]
+* [[Indo-European vocabulary]]
+* [[Indo-Semitic languages]]
+* [[Language family]]
+* [[Languages of Asia]]
+* [[Languages of Europe]]
+* [[Languages of India]]
+* [[List of Indo-European languages]]
+* [[Proto-Indo-European root]]
+* [[Proto-Indo-European religion]]
+}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Sources==<!-- CurrAnthropol40:73. -->
+{{refbegin}}
+*{{cite book | last = Anthony | first = David W. | title = The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World | publisher = Princeton University Press | year = 2007 | isbn = 0-691-05887-3 | ref = harv }}
+*{{Cite book |last=Auroux |first=Sylvain |title=History of the Language Sciences |publisher=Walter de Gruyter |location=Berlin |year=2000 |isbn=3-11-016735-2 }}
+*{{cite book | last=Fortson | first=Benjamin W. | title=Indo-European Language and Culture: An Introduction |location=Malden, Massachusetts | publisher=Blackwell | year=2004 | isbn=1-4051-0315-9}}
+*{{cite book|title=Grundriss der Vergleichenden Grammatik der indogermanischen Sprachen|first=Karl|last=Brugmann|authorlink=Karl Brugmann|language=German|volume=Erster Band|location=Strassburg|publisher=Karl J. Trübner|year=1886}}
+*{{Cite book |last=Houwink ten Cate |first=H. J. |last2=Melchert |first2=H. Craig |lastauthoramp=yes |last3=van den Hout |first3=Theo P. J. |chapter=Indo-European languages, The parent language, Laryngeal theory |title=Encyclopædia Britannica |volume=22 |publisher=Helen Hemingway Benton |location=Chicago |edition=15th |year=1981 }}
+*{{Cite book |last=Holm |first=Hans J. |chapter=The Distribution of Data in Word Lists and its Impact on the Subgrouping of Languages |editor-first=Christine |editor-last=Preisach |editor2-first=Hans |editor2-last=Burkhardt |editor3-first=Lars |editor3-last=Schmidt-Thieme |editor4-first=Reinhold |display-editors = 3 |editor4-last=Decker |title=Data Analysis, Machine Learning, and Applications |series=Proceedings of the 31st Annual Conference of the German Classification Society (GfKl), University of Freiburg, March 7–9, 2007 |publisher=Springer-Verlag |location=Heidelberg-Berlin |year=2008 |isbn=978-3-540-78239-1 }}
+*{{Cite journal |last=Kortlandt |first=Frederik |year=1990 |title=The Spread of the Indo-Europeans |journal=Journal of Indo-European Studies |volume=18 |issue=1–2 |pages=131–140 |doi= |url=http://www.kortlandt.nl/publications/art111e.pdf }}
+*{{Cite journal |last=Lubotsky |first=A. |title=The Old Phrygian Areyastis-inscription |journal=Kadmos |volume=27 |issue= |pages=9–26 |year=1988 |doi= }}
+*{{Cite journal |last=Kortlandt |first=Frederik |title=The Thraco-Armenian consonant shift |journal=Linguistique Balkanique |volume=31 |issue= |pages=71–74 |year=1988 |doi= }}
+*{{Cite book |last=Lane |first=George S. |last2=Adams |first2=Douglas Q. |chapter=The Tocharian problem |title=Encyclopædia Britannica |volume=22 |publisher=Helen Hemingway Benton |location=Chicago |edition=15th |year=1981 }}
+*{{Cite book |authorlink=Colin Renfrew, Baron Renfrew of Kaimsthorn |last=Renfrew |first=C. |chapter=The Anatolian origins of Proto-Indo-European and the autochthony of the Hittites |editor-first=R. |editor-last=Drews |editor-link=Robert Drews |title=Greater Anatolia and the Indo-Hittite language family |publisher=Institute for the Study of Man |location=Washington, DC |year=2001 |isbn=0-941694-77-1 }}
+*{{Cite book |title=Compendium der vergleichenden Grammatik der indogermanischen Sprachen |first=August |last=Schleicher |authorlink=August Schleicher |language=German |year=1861 |location=Weimar |publisher=Böhlau (reprinted by Minerva GmbH, Wissenschaftlicher Verlag) |isbn=3-8102-1071-4 }}
+*{{Cite book |last = Szemerényi |first = Oswald |authorlink=Oswald Szemerényi |first2=David |last2=Jones |first3=Irene |last3=Jones |title=Introduction to Indo-European Linguistics |publisher=Oxford University Press |year=1999 |isbn=0-19-823870-3 }}
+*{{cite book|title=Über Methode und Ergebnisse der arischen (indogermanischen) Alterthumswissenshaft |first=Peter |last=von Bradke|language=German|year=1890|location=Giessen|publisher=J. Ricker'che Buchhandlung|ref=CITEREFvon Bradke1890}}
+{{refend}}
+
+==Further reading==
+*{{cite book | author=Beekes, Robert S. P. | authorlink=Robert S. P. Beekes
+|title=Comparative Indo-European Linguistics | location=[[Amsterdam]] | publisher=John Benjamins | year=1995}}
+*{{cite book|authorlink=Byomkes Chakrabarti|last=Chakrabarti|first=Byomkes|year=1994|title=A comparative study of Santali and Bengali|location=Calcutta|publisher=K.P. Bagchi & Co.|isbn= 81-7074-128-9}}
+*{{cite book | author=Collinge, N. E. | title=The Laws of Indo-European | location=[[Amsterdam]] | publisher=John Benjamins | year=1985 }}
+*{{cite book|authorlink=J.P. Mallory|last=Mallory|first=J.P.|year=1989|title=In Search of the Indo-Europeans|location=London|publisher=Thames and Hudson|isbn=0-500-27616-1}}
+*{{cite book|authorlink=Colin Renfrew|last=Renfrew|first=Colin|year=1987|title=Archaeology & Language. The Puzzle of the Indo-European Origins|location=London|publisher=Jonathan Cape|isbn= 0-224-02495-7}}
+* [[Antoine Meillet|Meillet, Antoine]]. ''Esquisse d’une grammaire comparée de l’arménien classique'', 1903.
+*{{cite book | last1 = Ramat | first1 = Paolo | last2 = Ramat | first2 = Anna Giacalone | year=1998 | title=The Indo-European languages | publisher=Routledge}}
+* [[August Schleicher|Schleicher, August]], ''A Compendium of the Comparative Grammar of the Indo-European Languages'' (1861/62).
+*{{cite book | editor1-last=Strazny | editor1-first=Philip | editor2-last = Trask | editor2-first = R.L. | editor2-link = Larry Trask | year=2000 | title=Dictionary of Historical and Comparative Linguistics | publisher=Routledge | edition=1 | isbn=978-1-57958-218-0 }}
+*{{cite journal | author=[[Oswald Szemerényi|Szemerényi, Oswald]] | title=The problem of Balto-Slav unity | journal=Kratylos | year=1957 | volume=2 | pages=97–123}}
+*{{cite book | last = Watkins | first = Calvert | title = The American Heritage Dictionary of Indo-European Roots | publisher = Houghton Mifflin | year = 2000 | isbn = 978-0-618-08250-6 }}
+* Remys, Edmund, ''General distinguishing features of various Indo-European languages and their relationship to Lithuanian''. Berlin, New York: Indogermanische Forschungen, Vol. 112, 2007.
+* [[Pierre Chantraine|P. Chantraine]] (1968), ''[https://archive.org/details/Dictionnaire-Etymologique-Grec Dictionnaire étymologique de la langue grecque],'' Klincksieck, Paris.
+
+==External links==
+
+===Databases===
+*{{cite web|title=Comparative Indo-European|url=http://www.wordgumbo.com/ie/cmp/|first=Isidore|last=Dyen|first2=Joseph|last2= Kruskal|first3=Paul|last3=Black|year=1997|accessdate=13 December 2009|publisher=wordgumbo}}
+*{{cite web|title=Indo-European|url=http://languageserver.uni-graz.at/ls/group?id=4|publisher=LLOW Languages of the World|accessdate=14 December 2009}}
+*{{cite web|title=Indo-European Documentation Center|url=http://www.utexas.edu/cola/centers/lrc/iedocctr/ie.html|publisher=Linguistics Research Center, [[University of Texas at Austin]]|year=2009|accessdate=14 December 2009}}
+*{{Cite book|editor-last=Lewis|editor-first=M. Paul|year=2009|title=Ethnologue: Languages of the World, Online version|edition=Sixteenth|location=Dallas, Tex.|publisher=SIL International|contribution=Language Family Trees: Indo-European|url=http://www.ethnologue.com/show_family.asp?subid=2-16|postscript=<!--None-->}}.
+*{{cite web|title=Thesaurus Indogermanischer Text- und Sprachmaterialien: TITUS|url=http://titus.uni-frankfurt.de/indexe.htm|year=2003|publisher=TITUS, University of Frankfurt|language=German|accessdate=13 December 2009}}
+*{{cite web|title=Indo-European Lexical Cognacy Database (IELex)|url=http://ielex.mpi.nl|publisher=Max Planck Institute for Psycholinguistics, Nijmegen}}
+
+===Lexica===
+*{{cite web|title=Indo-European Etymological Dictionary (IEED)|url=http://www.indoeuropean.nl|publisher=Department of Comparative Indo-European Linguistics, Leiden University|location=Leiden, Netherlands|accessdate=14 December 2009}}
+*{{cite book|title=The American Heritage Dictionary of the English Language |edition=Fourth |origyear=2000 |chapter=Indo-European Roots Index |date=August 22, 2008 |publisher=Internet Archive: Wayback Machine |url=http://www.bartleby.com/61/IEroots.html |accessdate=9 December 2009 |deadurl=yes |archiveurl=https://web.archive.org/20091001095157/http://www.bartleby.com/61/IEroots.html |archivedate=1 October 2009 }}
+*{{cite book|last=Köbler|first=Gerhard|title=Indogermanisches Wörterbuch|url=http://www.koeblergerhard.de/idgwbhin.html|edition=5th|year=2014|publisher=Gerhard Köbler|language=German|accessdate=29 March 2015}}
+*{{cite web|title=Lexicon of Early Indo-European Loanwords Preserved in Finnish|url=http://www.iki.fi/jschalin/?cat=10|first=Johan |last=Schalin|publisher=Johan Schalin|year=2009|accessdate=9 December 2009}}
+
+{{commons category|Indo-European languages}}
+{{wikinews|New research shows over 400 languages originated in Turkey}}
+
+{{Language families}}
+{{Authority control}}
+
+{{DEFAULTSORT:Indo-European Languages}}
+[[Category:Articles with inconsistent citation formats]]
+[[Category:Indo-European|Languages]]
+[[Category:Indo-European languages| ]]

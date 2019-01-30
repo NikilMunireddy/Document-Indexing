@@ -1,0 +1,124 @@
+Acalyptratae
+
+{{Taxobox
+| name = Acalyptratae
+| image = Marsh_fly01.jpg
+| image_caption = Marsh fly ([[Sciomyzidae]])
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Fly|Diptera]]
+| subordo = [[Brachycera]]
+| zoosectio = [[Schizophora]]
+| zoosubsectio = '''Acalyptratae'''
+| subdivision_ranks = Superfamilies
+| subdivision = 
+[[Carnoidea]] <br/>
+[[Conopoidea]] <br/>
+[[Diopsoidea]] <br/>
+[[Ephydroidea]] <br/>
+[[Lauxanioidea]] <br/>
+[[Nerioidea]] <br/>
+[[Opomyzoidea]] <br/>
+[[Sciomyzoidea]] <br/>
+[[Sphaeroceroidea]] <br/>
+[[Tephritoidea]]
+}}
+The '''Acalyptratae''' are a subsection of the [[Schizophora]], commonly referred to as the '''acalyptrate muscoids''' (or simply '''acalyptrates'''). It is a very large assemblage, exhibiting very diverse habits, with one notable and perhaps surprising exception; no known acalyptrates are obligate blood-feeders ([[hematophagous]]), though this life history is common throughout the remaining [[Diptera]].
+
+The name Acalypterae was first used by [[Justin Pierre Marie Macquart]] in 1835 for a section of his tribe Muscides for all acalyptrates (except [[Conopidae|conopids]]) plus [[Scathophagidae|scathophagids]] and [[Phoridae|phorids]].
+
+The name refers to the lack of [[calypter]]s in the members of this group of flies.
+
+==Classification==
+*Subsection Acalyptratae
+**Superfamily [[Conopoidea]]
+***[[Conopidae]]
+**Superfamily [[Tephritoidea]]
+***[[Ctenostylidae]]
+***[[Lonchaeidae]]
+***[[Pallopteridae]]
+***[[Piophilidae]]
+***[[Platystomatidae]]
+***[[Pyrgotidae]]
+***[[Richardiidae]]
+***[[Tephritidae]] (including Tachiniscididae)
+***[[Ulidiidae]]
+**Superfamily [[Nerioidea]]
+***[[Cypselosomatidae]]
+***[[Micropezidae]]
+***[[Neriidae]]
+***[[Pseudopomyzidae]]
+**Superfamily [[Diopsoidea]]
+***[[Diopsidae]]
+***[[Gobryidae]]
+***[[Megamerinidae]]
+***[[Nothybidae]]
+***[[Psilidae]]
+***[[Somatiidae]]
+***[[Syringogastridae]]
+***[[Strongylophthalmyiidae]]
+***[[Tanypezidae]]
+**Superfamily [[Sciomyzoidea]]
+***[[Coelopidae]]
+***[[Dryomyzidae]]
+***[[Helosciomyzidae]]
+***[[Helcomyzidae]]
+***[[Heterocheilidae]]
+***[[Ropalomeridae]]
+***[[Sepsidae]]
+***[[Sciomyzidae]] (including Huttoninidae and Phaeomyiidae)
+**Superfamily [[Sphaeroceroidea]]
+***[[Chyromyidae]]
+***[[Heleomyzidae]]
+***[[Nannodastiidae]]
+***[[Sphaeroceridae]]
+**Superfamily [[Lauxanioidea]]
+***[[Celyphidae]]
+***[[Chamaemyiidae]]
+***[[Lauxaniidae]]
+**Superfamily [[Opomyzoidea]]
+***[[Agromyzidae]]
+***[[Anthomyzidae]]
+***[[Asteiidae]]
+***[[Aulacigastridae]]
+***[[Clusiidae]]
+***[[Fergusoninidae]]
+***[[Marginidae]]
+***[[Neminidae]]
+***[[Neurochaetidae]]
+***[[Odiniidae]]
+***[[Opomyzidae]]
+***[[Periscelididae]]
+***[[Teratomyzidae]]
+***[[Xenasteiidae]]
+**Superfamily [[Ephydroidea]]
+***[[Camillidae]]
+***[[Curtonotidae]]
+***[[Diastatidae]]
+***[[Ephydridae]]
+***[[Drosophilidae]]
+**Superfamily [[Carnoidea]]
+***[[Acartophthalmidae]]
+***[[Australimyzidae]]
+***[[Braulidae]]
+***[[Canacidae]]
+***[[Carnidae]]
+***[[Chloropidae]]
+***[[Cryptochetidae]]
+***[[Inbiomyiidae]]
+***[[Milichiidae]]
+***[[Tethinidae]]
+**Acalyptratae Incertae Sedis
+***[[Paraleucopidae]]
+
+==External links==
+
+*McAlpine, David K., 1958 A key to the Australian families of Acalptrate Diptera (Insecta) ''Records of the Australian Museum'' 24 (12) 183-190 [http://australianmuseum.net.au/journal/McAlpine-1958-Rec-Aust-Mus-2412-183190/ pdf full text and figures]
+{{wikispecies|Acalyptrata}}
+
+{{Diptera|2}}
+
+[[Category:Muscomorpha]]
+
+{{fly-stub}}

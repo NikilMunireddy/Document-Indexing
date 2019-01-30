@@ -1,0 +1,1468 @@
+Arcade game
+
+{{redirect|Coin-op|other coin-operated machines|Vending machine}}
+{{Use dmy dates|date=October 2012}}
+{{Refimprove|date=September 2013}}
+{{Video Games}}
+
+An '''arcade game''' or '''coin-op''' is a [[coin-operated]] entertainment machine typically installed in public businesses such as restaurants, bars and [[amusement arcade]]s. Most arcade games are [[video game]]s, [[Pinball|pinball machines]], [[Electromechanics|electro-mechanical games]], [[redemption game]]s or [[merchandisers]].
+
+While exact dates are debated, the [[golden age of arcade video games]] is usually defined as a period beginning sometime in the late 1970s and ending sometime in the mid-1980s. Excluding a brief resurgence in the early 1990s, the arcade industry subsequently declined in the Western hemisphere as competing home-based [[video game consoles]] increased in capability and decreased in cost.
+
+==Arcade action games==
+The term "arcade game" is also used to refer to an [[action game|action video game]] that was designed to play similarly to an arcade game with frantic, addictive gameplay.<ref>{{cite web|title=Genre Definitions|url=http://www.mobygames.com/glossary/genres|publisher=Mobygames|accessdate=7 October 2014}}</ref> The focus of arcade action games is on the user's reflexes, and the games usually feature very little puzzle-solving, complex thinking, or strategy skills. Games with complex thinking are called [[strategy video games]] or [[puzzle video games]].
+
+==History==
+The first popular "arcade games" included early [[amusement park|amusement-park]] [[midway (fair)|midway]] games such as [[wikt:shooting gallery|shooting galleries]], [[ball]]-[[wikt:toss|toss]] games, and the earliest coin-operated machines, such as those that claimed to tell a person's [[Fortune teller machine|fortune]] or that played mechanical music. The old midways of 1920s-era [[amusement park]]s (such as [[Coney Island]] in New York) provided the inspiration and atmosphere of later arcade games.
+
+In the 1930s the first coin-operated [[pinball]] machines emerged. These early amusement machines differed from their later electronic cousins in that they were made of wood. They lacked  plungers or lit-up bonus surfaces on the playing field, and used mechanical instead of electronic scoring-readouts. By around 1977 most pinball machines in production switched to using [[Solid-state (electronics)|solid-state]] [[electronics]] both for operation and for scoring.<ref>[http://www.pinrepair.com/arcade/ Vintage Coin Operated Fortune Tellers, Arcade Games, Digger/Cranes, Gun Games and other Penny Arcade games, pre-1977] from Marvin's Marvelous Mechanical Museum</ref>
+
+===Electro-mechanical games===
+In 1966, [[Sega]] introduced an electro-mechanical game called ''[[Periscope (arcade game)|Periscope]]''.<ref name=Kent/> It was an early [[submarine simulator]] and [[light gun shooter]],<ref>Brian Ashcraft (2008) ''Arcade Mania! The Turbo Charged World of Japan's Game Centers'', p. 133, Kodansha International</ref> which used lights and plastic waves to simulate sinking ships from a submarine.<ref>Steve L. Kent (2001), ''The ultimate history of video games: from Pong to Pokémon and beyond: the story behind the craze that touched our lives and changed the world'', p. 102, [[Prima Games|Prima]], ISBN 0-7615-3643-4</ref> It became an instant success in Japan, Europe, and North America,<ref name=Wolf-149/> where it was the first arcade game to cost a [[Quarter (United States coin)|quarter]] per play,<ref name=Kent>[[Steven L. Kent]] (2000), ''The First Quarter: A 25-Year History of Video Games'', p. 83, BWD Press, ISBN 0-9704755-0-0</ref> which would remain the standard price for arcade games for many years to come.<ref name=Wolf-149>Mark J. P. Wolf (2008), [https://books.google.com/books?id=XiM0ntMybNwC ''The video game explosion: a history from PONG to Playstation and beyond''], p. 149, [[ABC-CLIO]], ISBN 0-313-33868-X</ref> In 1967, [[Taito]] released an electro-mechanical arcade game of their own, ''Crown Soccer Special'', a two-player [[sports game]] that simulated association football, using various electronic components, including electronic versions of pinball flippers.<ref>{{KLOV game|16047|Crown Soccer Special}}</ref>
+
+The company Sega later produced gun games which resemble [[first-person shooter]] video games, but were in fact electro-mechanical games that used [[Rear projection effect|rear]] [[Image projector|image projection]] in a manner similar to the ancient [[zoetrope]] to produce moving animations on a [[Projection screen|screen]].<ref name="Cohen">{{citation|title=Killer Shark: The Undersea Horror Arcade Game from Jaws|author=D.S. Cohen|publisher=[[About.com]]|url=http://classicgames.about.com/od/arcadegames/p/KillerShark.htm|accessdate=3 May 2011}}</ref> The first of these was the [[light gun]] game ''[[Light gun shooter#History|Duck Hunt]]'',<ref name="Duck">{{cite web|title=1969 Sega Duck Hunt (Arcade Flyer)|work=pinrepair.com|url=http://www.pinrepair.com/arcade/sduckhu.htm|accessdate=3 May 2011}}</ref> which Nintendo released in 1969;<ref>{{KLOV game|13152|Duck Hunt (1969)}}</ref> it featured animated moving targets on a screen, printed out the player's [[Score (game)|score]] on a ticket, and had sound effects that were volume controllable.<ref name="Duck"/> That same year, Sega released an electro-mechanical arcade [[racing game]] ''Grand Prix'', which had a [[First person (video games)|first-person view]], electronic sound, a dashboard with a [[racing wheel]] and accelerator,<ref>{{KLOV game|17382|Grand Prix}}</ref> and a [[2.5D|forward]]-[[scrolling]] road projected on a screen.<ref>Bill Loguidice & Matt Barton (2009), ''Vintage games: an insider look at the history of Grand Theft Auto, Super Mario, and the most influential games of all time'', p. 198, [[Focal Press]], ISBN 0-240-81146-1</ref> Another Sega release that year was ''Missile'', a [[Shooter game|shooter]] and [[Vehicular combat game|vehicle combat simulation]] that featured electronic sound and a moving film strip to represent the targets on a projection screen. It was also the earliest known arcade game to feature a [[joystick]] with a fire [[Push-button|button]], which was used as part of an early [[Dual analog control|dual-control]] scheme, where two [[D-pad|directional buttons]] are used to move the player's tank and a two-way joystick is used to shoot and steer the missile onto oncoming planes displayed on the screen; when a plane is hit, an explosion is animated on screen along with an explosion sound.<ref name="Missile">{{KLOV game|10600|Missile}}</ref> In 1970,<ref>{{KLOV game|5190|S.A.M.I.}}</ref> the game was released in North America as ''S.A.M.I.'' by [[Midway Games|Midway]].<ref name="Missile"/> That same year, Sega released ''Jet Rocket'', a [[combat flight simulator]] featuring [[Aircraft flight control system|cockpit controls]] that could move the player aircraft around a landscape displayed on a screen and shoot missiles onto targets that explode when hit.<ref>{{KLOV game|17309|Jet Rocket}}</ref>
+
+Throughout the 1970s, electro-mechanical arcade games were gradually replaced by electronic video games, following the release of ''Pong'' in 1972.<ref>Brian Ashcraft (2008) ''Arcade Mania! The Turbo Charged World of Japan's Game Centers'', p. 134, Kodansha International</ref> In 1972, Sega released an electro-mechanical game called ''Killer Shark'', a first-person light gun shooter known for appearing in the 1975 film ''[[Jaws (film)|Jaws]]''.<ref name="Cohen"/> In 1974, [[Nintendo]] released ''[[Wild Gunman]]'', a light gun shooter that used [[Full motion video based game|full-motion]] [[video projection]] from [[16 mm film]] to display live-action [[cowboy]] opponents on the screen.<ref>{{KLOV game|10432|Wild Gunman (1974)}}</ref> One of the last successful electro-mechanical arcade games was ''[[F-1 (arcade game)|F-1]]'', a racing game developed by [[Namco]] and distributed by [[Atari]] in 1976;<ref>{{KLOV game|7743|F-1}}</ref> the game was shown in the films ''[[Dawn of the Dead (1978 film)|Dawn of the Dead]]'' (1978)<ref>{{YouTube|3UVzepqkmts|Mall Arcade (Dawn Of The Dead)}}</ref> and ''[[Midnight Madness (film)|Midnight Madness]]'' (1980), as was Sega's ''Jet Rocket'' in the latter film. The 1978 video game ''[[Space Invaders]]'', however, dealt a yet more powerful blow to the popularity of electro-mechanical games.<ref>Brian Ashcraft (2008) ''Arcade Mania! The Turbo Charged World of Japan's Game Centers'', p. 136, Kodansha International</ref>
+
+===Arcade video games===
+{{see also|Timeline of arcade video game history}}
+{{VG history}}
+
+In 1971 students at [[Stanford University]] set up the ''[[Galaxy Game]]'', a coin-operated version of the [[Spacewar!|Spacewar]] video game. This ranks as the earliest known instance of a coin-operated video game. Later in the same year, [[Nolan Bushnell]] created the first mass-manufactured game, ''[[Computer Space]]'', for [[Nutting Associates]].
+
+In 1972, [[Atari]] was formed by [[Nolan Bushnell]] and [[Ted Dabney]]. Atari essentially created the coin-operated [[video game industry]] with the game ''[[Pong]]'', the first successful electronic [[ping pong]] video game. ''Pong'' proved to be popular, but imitators helped keep Atari from dominating the fledgling coin-operated video game market.
+
+====Golden age====
+{{main|Golden age of arcade video games}}
+Taito's ''[[Space Invaders]]'', in 1978, proved to be the first [[Blockbuster (entertainment)|blockbuster]] arcade video game.<ref>{{citation|author=Chris Kohler|year=2005|title=Power-up: how Japanese video games gave the world an extra life|page=18| publisher= [[BradyGames]]|isbn=0-7440-0424-1|url=https://books.google.com/books?id=auMTAQAAIAAJ| accessdate=27 March 2011}}</ref> Its success marked the beginning of the golden age of arcade video games. Video game arcades sprang up in shopping malls, and small "corner arcades" appeared in restaurants, grocery stores, bars and movie theaters all over the United States, Japan and other countries during the late 1970s and early 1980s. ''Space Invaders'' (1978), ''[[Galaxian]]'' (1979), ''[[Pac-Man]]'' (1980), ''[[Battlezone (1980 video game)|Battlezone]]'' (1980), ''[[Defender (arcade game)|Defender]]'' (1980), and ''[[Bosconian]]'' (1981) were especially popular. By 1981, the arcade video game industry was worth $8 billion<ref>{{cite news|title=Can Lasers Save VIdeo Arcades?|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=PI&s_site=philly&p_multi=PI&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB29715971BCAA2&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM| accessdate=13 March 2012| newspaper=[[The Philadelphia Inquirer]]|date=3 February 1984|quote=Last year, arcade game revenues were approximately $5 billion, compared to $8 billion in 1981 and $7 billion in 1982.}}</ref> (${{formatprice|{{inflation|US|8000000000|1981|r=0}}}} in {{CURRENTYEAR}}).
+
+During the late 1970s and 1980s, chains such as [[Chuck E. Cheese's]], [[Ground Round]], [[Dave and Busters]], [[ShowBiz Pizza Place]] and [[Gatti's Pizza]] combined the traditional restaurant and/or bar environment with arcades.<ref name="daveandbustersexample">{{cite web|title=Dave and Buster's About Page|url=http://www.daveandbusters.com/About/|accessdate=20 September 2007}}</ref> By the late 1980s, the arcade video game craze was beginning to fade due to advances in home [[video game console]] technology. By 1991, US arcade video game revenues had fallen to $2.1 billion.<ref>{{cite news|last=Johnson|first=Tracy|title=Are Arcades Archaic? Business down, owners add zip and zap to lure players|url=http://pqasb.pqarchiver.com/boston/access/61734163.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Apr+03%2C+1992&author=Tracy+Johnson%2C+Contributing+Reporter&pub=Boston+Globe+%28pre-1997+Fulltext%29&desc=Are+Arcades+Archaic%3F+Business+down%2C+owners+add+zip+and+zap+to+lure+players&pqatl=google|accessdate=17 April 2012|newspaper=[[The Boston Globe]]|date=3 April 1992|page=89}}</ref>
+
+====Late 1980s====
+[[Sega AM2]]'s ''[[Hang-On]]'', designed by [[Yu Suzuki]] and running on the [[Sega Space Harrier]] hardware, was the first of Sega's "Super Scaler" [[arcade system board]]s that allowed [[2.5D|pseudo-3D]] [[Sprite (computer graphics)#Move to 3D|sprite-scaling]] at high [[frame rate]]s.<ref>[http://uk.retro.ign.com/articles/974/974695p3.html IGN Presents the History of SEGA: World War], [[IGN]]</ref> The pseudo-3D [[Sprite (computer graphics)|sprite]]/[[Tile engine|tile]] scaling was handled in a similar manner to textures in later [[Texture mapping|texture-mapped]] [[3D computer graphics|polygonal 3D]] games of the 1990s.<ref name=pseudo>[http://www.extentofthejam.com/pseudo/ Extentofthejam.com]</ref> Designed by [[Sega AM2]]'s [[Yu Suzuki]], he stated that his "designs were always 3D from the beginning. All the calculations in the system were 3D, even from Hang-On. I calculated the position, scale, and zoom rate in 3D and converted it backwards to [[2D computer graphics|2D]]. So I was always thinking in 3D."<ref name=suzuki>[http://web.archive.org/web/20131113174154/http://www.1up.com/features/disappearance-suzuki-part-1?pager.offset=2 Web.archive.org]</ref> It was controlled using a [[video game arcade cabinet]] resembling a [[motorbike]], which the player moves with their body. This began the "Taikan" trend, the use of [[Motion controller|motion-controlled]] hydraulic arcade cabinets in many arcade games of the late 1980s, two decades before motion controls became popular on [[video game console]]s.<ref>[http://web.archive.org/web/20131113173854/http://www.1up.com/features/disappearance-suzuki-part-1?pager.offset=1 Web.archive.org]</ref>
+
+====Renaissance====
+In the early 1990s, the arcades experienced a major resurgence with the 1991 release of [[Capcom]]'s ''[[Street Fighter II]]'',<ref>{{citation|title=Gamers: writers, artists & programmers on the pleasures of pixels|author=Shanna Compton|publisher=[[Soft Skull Press]]|year=2004|isbn=1-932360-57-3|page=119|url=https://books.google.com/books?id=-sCO-gODwy4C&pg=PA119}}</ref> which popularized competitive [[fighting game]]s and revived the arcade industry to a level of popularity not seen since the days of ''Pac-Man'',<ref name="tao2">Spencer, Spanner, [http://www.eurogamer.net/articles/a_taoofbeatemups_pt2_retro The Tao of Beat-'em-ups (part 2)], ''EuroGamer'', 12 February 2008. Retrieved 8 March 2009</ref> setting off a renaissance for the arcade game industry in the early 1990s.<ref>http://www.theverge.com/2013/1/16/3740422/the-life-and-death-of-the-american-arcade-for-amusement-only</ref> Its success led to a wave of other popular games which mostly were in the fighting genre, such as ''[[Pit-Fighter]]'' (1990) by [[Atari]], ''[[Mortal Kombat]]'' by [[Midway Games]],<ref name="nytimes2002"/> ''[[Fatal Fury: King of Fighters]]'' (1992) by [[SNK Playmore|SNK]], ''[[Virtua Fighter]]'' (1993) by [[SEGA]], ''[[Killer Instinct (1994 video game)|Killer Instinct]]'' (1994) by [[Rare Ltd.|Rare]], and ''[[The King of Fighters]]'' (1994–2005) by SNK. In 1993, ''[[Electronic Games]]'' noted that when "historians look back at the world of coin-op during the early 1990s, one of the defining highlights of the video game art form will undoubtedly focus on fighting/martial arts themes" which it described as "the backbone of the industry" at the time.<ref>{{citation|title=Insert Coin Here: Getting a Fighting Chance|author=Jay Carter|magazine=[[Electronic Games]]|date=July 1993|issue=10|url=https://archive.org/stream/Electronic-Games-1993-07/Electronic%20Games%201993-07#page/n15/mode/2up|accessdate=2014-12-16}}</ref>
+
+[[3D computer graphics|3D polygon graphics]] were popularized by the [[Sega Model 1]] games ''[[Virtua Racing]]'' (1992) and ''[[Virtua Fighter (arcade game)|Virtua Fighter]]'' (1993),<ref name=vracing>{{cite web|title=Virtua Racing – Arcade (1992) |url=http://www.gamespot.com/gamespot/features/video/15influential/p13_01.html |work=15 Most Influential Games of All Time |publisher=[[GameSpot]] |accessdate=19 January 2014 |date=14 March 2001 |deadurl=yes |archiveurl=https://web.archive.org/20131231101921/http://www.gamespot.com/gamespot/features/video/15influential/p13_01.html |archivedate=31 December 2013 }}</ref> followed by [[racing game]]s<ref name="tao2"/> like the [[Namco System 22]] title ''[[Ridge Racer]]'' (1993) and [[Sega Model 2]] title ''[[Daytona USA (video game)|Daytona USA]]'', and [[light gun shooter]]s like Sega's ''[[Virtua Cop]]'' (1994)<ref name="ngage">[http://uk.ngage.ign.com/articles/528/528915p1.html Virtua Cop], ''IGN,'' 7 July 2004. Retrieved 7 February 2009</ref> and Mesa Logic's ''[[Area 51 (1995 video game)|Area 51]]'' (1995), gaining considerable popularity in the arcades.<ref name="tao2"/> By 1994, arcade games in the United States were generating revenues of $7 billion<ref name="business_1994">{{cite journal|title=Business Week|journal=[[Bloomberg Businessweek]]|year=1994|issue=3392–3405|url=https://books.google.com/books?ei=-DogT8i_I4TsOenhsbAO&id=kAseAQAAMAAJ|accessdate=25 January 2012|page=58|publisher=[[Bloomberg L.P.|Bloomberg]]|quote=Hollywood's aim, of course, is to tap into the $7 billion that Americans pour into arcade games each year – and the $6 billion they spend on home versions for Nintendo and Sega game machines. Combined, it is a market nearly 2 ½ times the size of the $5 billion movie box office.}}</ref> in quarters (equivalent to ${{formatprice|{{inflation|US|7000000000|1994|r=0}}}} in {{CURRENTYEAR}}),<ref name="cpi_inflation"/> in comparison to home console game sales of $6 billion,<ref name="business_1994"/> with many of the best-selling home video games in the early 1990s often being arcade ports.<ref name="Mark Stephen Pierce Atari Games Corporation 1998 444">{{citation|title=Digital illusion: entertaining the future with high technology|chapter=Coin-Op: The Life (Arcade Videogames)|author=Mark Stephen Pierce (Atari Games Corporation)|publisher=[[ACM Press]]|year=1998|isbn=0-201-84780-9|chapterurl=https://web.archive.org/web/20110723224105/http://www.communication.illinois.edu/csandvig/classes/Pierce.pdf|accessdate=2 May 2011|page=444}}</ref> Combined, total US arcade and console game revenues of $13 billion in 1994 (${{formatprice|{{inflation|US|13000000000|1994|r=0}}}} in {{CURRENTYEAR}}) was nearly two and a half times the $5 billion revenue grossed by movies in the United States at the time.<ref name="business_1994"/>
+
+Around the mid-1990s, the [[History of video game consoles (fifth generation)|fifth-generation]] home consoles, [[Sega Saturn]], [[PlayStation]], and [[Nintendo 64]], began offering [[true 3D]] graphics. By 1995, personal computers followed, with [[3D accelerator]] cards. While [[Arcade system board|arcade systems]] such as the [[Sega Model 3]] remained considerably more advanced than home systems in the late 1990s,<ref>{{cite journal|title=News: Virtua Fighter 3|journal=[[Computer and Video Games]]|date=May 1996| issue=174|pages=10–1}}</ref><ref>http://www.thg.ru/smoke/19991022/print.html</ref> the technological advantage that arcade games had, in their ability to customize and use the latest graphics and sound chips, slowly began narrowing, and the convenience of home games eventually caused a decline in arcade gaming. [[Sega]]'s [[History of video game consoles (sixth generation)|sixth generation]] console, the [[Dreamcast]], could produce 3D graphics comparable to the [[Sega NAOMI]] arcade system in 1998, after which Sega produced more powerful arcade systems such as the [[Sega NAOMI|Sega NAOMI Multiboard]] and [[Sega Hikaru]] in 1999 and the [[Sega NAOMI 2]] in 2000, before Sega eventually stopped manufacturing expensive proprietary arcade system boards, with their subsequent arcade boards being based on more affordable commercial console or PC components.
+
+====Decline====
+Arcade video games had declined in popularity so much by the late 1990s, that revenues in the United States dropped to $1.33 billion in 1999,<ref>{{cite news|last=Henry|first=Lydia|title=Skee-ball Mania|url=https://news.google.com/newspapers?id=ZFsxAAAAIBAJ&sjid=0aIFAAAAIBAJ&pg=5114,5262090|accessdate=13 March 2012|newspaper=[[Reading Eagle]]|date=26 April 2001|page=36}}</ref> and reached a low of $866 million in 2004.<ref>{{cite news|title=Video killed the arcade star|url=http://www.eastvalleytribune.com/article_9b22d9ea-1810-5465-8bd9-a4e3204de569.html?mode=story|accessdate=7 March 2012|newspaper=[[East Valley Tribune]]|date=20 April 2006}}</ref> Furthermore, by the early 2000s, networked gaming via computers and then consoles across the Internet had also appeared,<ref name="online games">{{cite web|last=Mabry|first=Donald J.|title=Evolution of Online Games|url=http://www.historicaltextarchive.com/s/online-games.php|archiveurl=https://web.archive.org/web/20080209100942/http://www.historicaltextarchive.com/s/online-games.php|archivedate=9 February 2008|accessdate=21 September 2007}}</ref> replacing the venue of head-to-head competition and social atmosphere once provided solely by arcades.<ref name="socialarcades">{{cite web|last=Fuller|first=Brad|title=Awakening the Arcade|url=http://blogs.oreilly.com/digitalmedia/2005/11/awakening-the-arcade.html|accessdate=21 September 2007}}</ref>
+
+The arcades also lost their status as the forefront of new game releases. Given the choice between playing a game at an arcade three or four times (perhaps 15 minutes of play for a typical arcade game), and renting, at about the same price, exactly the same game—for a video game console—the console became the preferred choice. Fighting games were the most attractive feature for arcades, since they offered the prospect of face-to-face competition and tournaments, which correspondingly led players to practice more (and spend more money in the arcade), but they could not support the business all by themselves.
+
+[[File:Video game - Ms Pacman and Galaga.jpg|right|thumb|Recent 20th anniversary arcade machine, combining two classic video games.]]
+To remain viable, arcades added other elements to complement the video games such as [[redemption game]]s, merchandisers, and food service. Referred to as "fun centers" or "family fun centers",<ref name="familyfuncenterexample">{{cite web|title=Bullwinkles Family Fun Center|url=http://fun-center.com/WA/|accessdate=20 September 2007| archiveurl= https://web.archive.org/web/20070911154700/http://www.fun-center.com/WA/| archivedate= 11 September 2007 <!--DASHBot-->| deadurl= no}}</ref> some of the longstanding chains such as [[Chuck E. Cheese's]] and [[Gatti's Pizza]] ("GattiTowns")<ref name="gatti">{{cite web|title=Gatti's Pizza: About Us|url=http://www.gattispizza.com/about.php|accessdate=20 September 2007}}</ref> also changed to this format. Many old video game arcades have long since closed, and classic coin-operated games have become largely the province of dedicated hobbyists.
+
+====Today====
+Today's arcades have found a niche in games that use special controllers largely inaccessible to home users. An alternative interpretation{{By whom|date=February 2015}} (one that includes fighting games, which continue to thrive and require no special controller) is that the arcade game is now a more socially-oriented hangout, with games that focus on an individual's performance, rather than the game's content, as the primary form of novelty. Examples of today's popular genres are [[rhythm game]]s such as ''[[Dance Dance Revolution]]'' (1998) and ''[[DrumMania]]'' (1999), and [[rail shooter]]s such as ''[[Virtua Cop]]'' (1994), ''[[Time Crisis]]'' (1995)  and  ''[[The House of the Dead (arcade game)|House of the Dead]]'' (1996).{{Citation needed|date=July 2013}}
+
+In the Western world, the arcade video game industry still exists today but in a greatly reduced form. Video arcade game hardware is often based on home game consoles to reduce development costs; there are video arcade versions of [[Dreamcast]] ([[Sega NAOMI|NAOMI]], [[Atomiswave]]), [[PlayStation 2]] ([[Namco System 246|System 246]]), [[Nintendo GameCube]] ([[Triforce (arcade system board)|Triforce]]), and [[Microsoft]] [[Xbox (console)|Xbox]] ([[Sega Chihiro|Chihiro]]) home consoles and [[Personal computer|PC]] (e.g. [[Taito Type X]]). Some arcades have survived by expanding into ticket-based prize redemption and more physical games with no home console equivalent, such as [[skee ball]] and [[Whac-A-Mole]]. Some genres, particularly [[Music video game|dancing]] and [[rhythm game]]s (such as [[Konami]]'s ''[[Dance Dance Revolution]]''), continue to be popular in arcades.
+
+Worldwide, arcade game revenues gradually increased from $1.8 billion in 1998 to $3.2 billion in 2002, rivalling [[PC game]] sales of $3.2 billion that same year.<ref>{{cite journal|last=Chou|first=Yuntsai|title=G-commerce in East Asia: Evidence and Prospects|journal=Journal of Interactive Advertising|date=Fall 2003|volume=4|issue=1|url=http://jiad.org/article43|accessdate=31 January 2012}}</ref> In particular, arcade video games are a thriving [[Video gaming in the People's Republic of China|industry in China]], where arcades are widespread across the country.<ref>{{cite web|last=Jou|first=Eric|title=The Wonderful and Seedy World of Chinese Arcades|url=http://kotaku.com/5894415/the-wonderful-and-seedy-world-of-chinese-arcades/gallery/1|publisher=Kotaku|accessdate=9 April 2012|date=19 March 2012}}</ref> The US market has also experienced a slight resurgence, with the number of video game arcades across the nation increasing from 2,500 in 2003 to 3,500 in 2008, though this is significantly less than the 10,000 arcades in the early 1980s. As of 2009, a successful arcade game usually sells around 4000 to 6000 units worldwide.<ref>{{cite book|title=Digital sport for performance enhancement and competitive evolution : intelligent gaming technologies|year=2009|publisher=[[IGI Global|Information Science Reference]]|location=Hershey, PA|isbn=1-60566-406-5|url=https://books.google.com/books?id=kags8xC1xzsC&pg=PA260|editor1=Nigel K. Li Pope |editor2=Kerri-Ann L. Kuhn |editor3=John J.H. Forster |accessdate=14 March 2012|page=260}}</ref>
+
+The relative simplicity yet solid gameplay of many of these early games has inspired a new generation of fans who can play them on mobile phones or with [[emulator]]s such as [[MAME]]. Some classic arcade games are reappearing in commercial settings, such as Namco's ''Ms. Pac-Man 20 Year Reunion / Galaga Class of 1981'' two-in-one game,<ref name="Ms._Pac-Man">{{cite web|url= http://www.klov.com/game_detail.php?game_id=8784|title= Ms. Pac-Man/Galaga&nbsp;— Class Of 1981|accessdate=10 September 2006|publisher= [[Killer List of Videogames|KLOV]]}}</ref> or integrated directly into controller hardware (joysticks) with replaceable flash drives storing [[ROM image|game ROMs]]. Arcade classics have also been reappearing as [[mobile game]]s, with ''Pac-Man'' in particular selling over 30 million downloads in the United States by 2010.<ref>{{cite news|title=Namco Networks' Pac-Man Franchise Surpasses 30 Million Paid Transactions in the United States on Brew |url=http://www.allbusiness.com/technology/software-services-applications-internet/14737270-1.html |accessdate=22 February 2012 |agency=[[AllBusiness.com]] |year=2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120511131022/http://www.allbusiness.com/technology/software-services-applications-internet/14737270-1.html |archivedate=11 May 2012 }}</ref> Arcade classics have also begun to appear on multi-game arcade machines for home users.<ref>
+{{cite web
+|url=http://www.bespoke-arcades.co.uk/arcade-machines
+|title=Arcade Machines of the highest quality
+|publisher=Bespoke Arcades
+|accessdate=25 Jun 2013
+}}
+</ref>
+
+==== Japan ====
+In the [[Video gaming in Japan|Japanese gaming industry]], arcades have remained popular through to the present day. As of 2009, out of Japan's $20 billion gaming market, $6 billion of that amount is generated from arcades, which represent the largest sector of the Japanese video game market, followed by home [[console game]]s and [[mobile game]]s at $3.5 billion and $2 billion, respectively.<ref>{{cite journal|last=Sambe|first=Yukiharu|title=Japan’s Arcade Games and Their Technology|journal=Lecture Notes in Computer Science|year=2009|volume=5709|series=Entertainment Computing– ICEC 2009|doi=10.1007/978-3-642-04052-8_62|url=http://www.springerlink.com/content/tkv51714762l3645/|accessdate=25 January 2012|page=338}}</ref> In 2005, arcade ownership and operation accounted for a majority of [[Namco]]'s for example.<ref>{{cite web|last=Carless|first=Simon|title=Namco, Bandai To Merge|url=http://www.gamasutra.com/php-bin/news_index.php?story=5405|publisher=[[Gamasutra]]|accessdate=13 March 2012|date=2 May 2005}}</ref> With considerable withdrawal from the arcade market from companies such as [[Capcom]], [[Sega]] became the strongest player in the arcade market with 60% marketshare in 2006.<ref>{{Cite web|title = Video Games Daily {{!}} Yu Suzuki: The Kikizo Interview (Page 2)|url = http://archive.videogamesdaily.com/features/sega_yu_suzuki_iv_feb06_p2.asp|website = archive.videogamesdaily.com|accessdate = 2015-06-28}}</ref> However, due to the country's [[Great Recession|economic recession]], the Japanese arcade industry has also been steadily declining, from [[Japanese yen|¥]]702.9 billion (US$8.7 billion) in 2007 to ¥504.3 billion ($6.2 billion) in 2010.<ref name="capcom_market">{{cite web|title=Market Data|url=http://www.capcom.co.jp/ir/english/business/market.html|website=[[Capcom]] Investor Relations|accessdate=14 April 2012|date=14 October 2011}}</ref> In 2013, estimation of revenue is ¥470 billion.<ref name="capcom_market"/>
+
+In the Japanese market, [[Computer network|network]] and card features introduced by ''[[Virtua Fighter 4]]'' and ''[[World Club Champion Football]]'', and novelty cabinets such as [[Kidō Senshi Gundam: Senjō no Kizuna|''Gundam Pod'']] machines have caused revitalizations in arcade profitability in Japan. The reason for the continued popularity of arcades in comparison to the west, are heavy [[population density]] and an infrastructure similar to [[casino]] facilities.
+
+Former rivals in the Japanese arcade industry, [[Konami]], [[Taito]], [[Bandai Namco]] and [[Sega]], are now working together to keep the arcade industry vibrant. This is evidenced in the sharing of arcade networks, and venues having games from all major companies rather than only games from their own company.<ref>{{Cite web|title = Interview: Takenobu Mitsuyoshi|url = http://www.tssznews.com/2013/03/28/interview-takenobu-mitsuyoshi/|website = TSSZ News|accessdate = 2015-06-28|first = Danny|last = Russell}}</ref>
+
+==Technology==
+{{See also|Arcade system board|List of Sega arcade system boards|Sprite (computer graphics)}}
+[[File:Neogeoguts.JPG|thumb|right|Inside of a [[Neo Geo (console)|Neo Geo]]]]
+Virtually all modern arcade games (other than the very traditional midway-type games at county fairs) make extensive use of solid state [[electronics]] and [[integrated circuit]]s. In the past, coin-operated arcade video games generally used custom per-game hardware often with multiple [[Central processing unit|CPUs]], highly specialized [[Sound chip|sound]] and [[Graphics processing unit|graphics chips]], and the latest in expensive [[computer graphics]] display technology. This allowed [[arcade system board]]s to produce more complex graphics and sound than what was then possible on [[video game console]]s or [[personal computer]]s, which is no longer the case today. Recent arcade game hardware is often based on modified video game console hardware or high-end PC components.
+
+Arcade games frequently have more immersive and realistic game controls than either [[PC game|PC]] or [[console game]]s, including specialized ambiance or control accessories: fully enclosed dynamic cabinets with [[force feedback]] controls, dedicated [[lightgun]]s, rear-projection displays, reproductions of automobile or airplane cockpits, motorcycle or horse-shaped controllers, or highly dedicated controllers such as [[dance pad|dancing mats]] and [[fishing rod]]s. These accessories are usually what set modern video games apart from other games, as they are usually too bulky, expensive, and specialized to be used with typical home PCs and consoles.
+
+==Arcade genre==
+<!-- This section is linked from [[Endorfun]] -->
+Arcade games often have short levels, simple and intuitive control schemes, and rapidly increasing difficulty. This is due to the environment of the Arcade, where the player is essentially renting the game for as long as their in-game avatar can stay alive (or until they run out of [[token coin|token]]s).
+
+Games on consoles or PCs can be referred to as "arcade games" if they share these qualities or are direct ports of arcade titles. Many independent developers are now producing games in the arcade genre that are designed specifically for use on the Internet. These games are usually designed with [[Macromedia Flash|Flash]]/[[Java (programming language)|Java]]/[[DHTML]] and run directly in web-browsers.
+
+Arcade [[racing game]]s have a simplified [[physics engine]] and do not require much learning time when compared with [[racing simulator]]s. Cars can turn sharply without braking or understeer, and the [[artificial intelligence|AI]] rivals are sometimes programmed so they are always near the player ([[rubberband effect]]).
+
+Arcade [[flight]] games also use simplified physics and controls in comparison to [[flight simulator]]s. These are meant to have an easy [[learning curve]], in order to preserve their action component. Increasing numbers of console flight video games, from [[Crimson Skies: High Road to Revenge|Crimson Skies]] to [[Ace Combat]] and [[Secret Weapons Over Normandy]] indicate the falling of manual-heavy flight sim popularity in favor of instant arcade flight action.<ref>{{cite web|author=Butts, Steve |year=2003 |title=Secret Weapon Over Normandy Review |url=http://ps2.ign.com/articles/441/441056p1.html |work=[[IGN]] |accessdate=15 August 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070214100501/http://ps2.ign.com/articles/441/441056p1.html |archivedate=14 February 2007 }}</ref>
+
+Other types of arcade-style games include [[fighting game]]s (often played with an [[arcade controller]]), [[beat 'em up]] games (including fast-paced [[hack and slash]] games), [[light gun shooter|light gun]] [[rail shooters]] and "[[bullet hell]]" [[shooter game|shooters]] (intuitive controls and rapidly increasing difficulty), [[music game]]s (particularly [[rhythm game]]s), and [[mobile game|mobile]]/[[casual game]]s (intuitive controls and often played in short sessions).
+
+==Emulation==
+{{main|List of video game emulators#Arcade}}
+[[Emulator]]s such as [[MAME]], which can be run on modern computers and a number of other devices, aim to preserve the games of the past.
+
+Legitimate emulated titles started to appear on the [[Sony PlayStation]] and [[Sega Saturn]], with CD-ROM compilations such as [[Arcade's Greatest Hits: The Atari Collection 1]], and on the [[PlayStation 2]] and [[GameCube]] with DVD-ROM titles such as [[Midway Arcade Treasures]].
+
+Arcade games are currently being downloaded and emulated through the [[Wii|Nintendo Wii]] [[Virtual Console]] Service starting in 2009 with ''[[Gaplus]]'', ''[[Mappy]]'', ''[[Space Harrier]]'', ''[[Star Force]]'', ''[[The Tower of Druaga]]'', ''[[Tecmo Bowl]]'', ''[[Altered Beast]]'' and many more.  Other classic arcade games such as ''[[Asteroids (video game)|Asteroids]]'', ''[[Tron (video game)|Tron]]'', ''[[Discs of Tron]]'', ''[[Yie Ar Kung-Fu]]'', ''[[Pac-Man]]'', ''[[Joust (video game)|Joust]]'', ''[[Battlezone (1980 video game)|Battlezone]]'', ''[[Dig Dug]]'', ''[[Robotron: 2084]]'', and ''[[Missile Command]]'' are emulated on [[PlayStation Network]] and [[Xbox Live Arcade]].
+
+==Locations==
+In addition to restaurants and video arcades, arcade games are also found in bowling alleys, college campuses, dormitories, laundromats, movie theaters, supermarkets, shopping malls, airports, ice rinks, corner shops, truck stops, bar/pubs, hotels, and even bakeries. In short, arcade games are popular in places open to the public where people are likely to have free time.
+
+==List of highest-grossing arcade video games==
+{{see also|List of best-selling video games|Golden age of arcade video games}}
+
+For arcade games, success was usually judged by either the number of [[Video game arcade cabinet|arcade hardware]] units sold to operators, or the amount of revenue generated, from the number of coins (such as [[Quarter (United States coin)|quarters]] or [[100 yen coin]]s) inserted into machines,<ref>{{citation|title=The video game explosion: a history from PONG to Playstation and beyond|author=Mark J. P. Wolf|publisher=[[ABC-CLIO]]|year=2008|isbn=0-313-33868-X|page=275|url=https://books.google.com/books?id=XiM0ntMybNwC&pg=PA275|accessdate=10 April 2011|quote=What are the best-selling video games? There are a number of factors to consider when attempting to answer this question. First, there are several different types of video games, which makes comparisons difficult, or perhaps unfair. Arcade games are played for a quarter a play (although some are 50 cents, or even more), while home games are bought outright, and their systems must be purchased as well.}}</ref> and/or the hardware sales (with arcade hardware prices often ranging from $1000 to $4000 or more). This list only includes arcade games that have either sold more than 1000 hardware units or generated a revenue of more than US$1&nbsp;million. Most of the games in this list date back to the [[golden age of arcade video games]], though some are also from before and after the golden age.
+
+{| class="wikitable sortable"
+|-
+! Game
+! Release year
+! Hardware units sold
+! Estimated gross revenue <br> <small>(US$ without inflation)</small>
+! Estimated gross revenue <br> <small>(US$ with {{CURRENTYEAR}} inflation)</small><ref name="cpi_inflation">{{cite web|title=CPI Inflation Calculator|publisher=[[Bureau of Labor Statistics]]|url=http://www.bls.gov/data/inflation_calculator.htm|accessdate=22 February 2012}}</ref>
+|-
+| ''[[Space Invaders]]''
+| 1978
+| 360,000 <small>(up to 1980)</small><ref name="invaders_sales">
+* {{citation|title=Asia Pacific perspectives, Japan|volume=1|author=Jiji Gaho Sha, inc.|year=2003|publisher=[[University of Virginia]]|url=https://books.google.com/books?id=CTRWAAAAYAAJ|accessdate=9 April 2011|page=57|quote=At that time, a game for use in entertainment arcades was considered a hit if it sold 1000 units; sales of Space Invaders topped 300,000 units in Japan and 60,000 units overseas.}}
+* {{citation|title=Genesis II, creation and recreation with computers|author=[[Dale Peterson]]|publisher=[[Prentice Hall|Reston Publishing]]|year=1983|isbn=0-8359-2434-3|url=https://books.google.com/books?id=DL1YAAAAMAAJ|accessdate=1 May 2011|page=175|quote=By 1980, some 300,000 Space Invader video arcade games were in use in Japan, and an additional 60,000 in the United States.}}
+* {{cite book|last=Kohler|first=Chris|title=[[Power-Up: How Japanese Video Games Gave the World an Extra Life]]|year=2004|publisher=BradyGames|location=Indianapolis, Ind.|isbn=0-7440-0424-1|page=[https://books.google.com/books?id=auMTAQAAIAAJ&q="represented+a+significant+portion+of+the+cost" 19]|quote=Within one year of its US release, an additional 60,000 machines had been sold. One arcade owner said of Space Invaders that it was the first arcade game whose intake "represented a significant portion of the cost of [buying] the game in any one week." That is, it was the first video game that paid for itself within about a month.}}</ref>
+| {{sort|2600|$2.702&nbsp;billion}} <small>(up to 1982)</small>{{refn|''Space Invaders'':
+* $2&nbsp;billion (4&nbsp;billion quarters) by 1982: {{cite news|title=Making&nbsp;millions, 25 cents at a time|work=[[The Fifth Estate (TV)|The Fifth Estate]]|publisher=Canadian Broadcasting Corporation|date=23 November 1982|url=http://archives.cbc.ca/arts_entertainment/media/clips/15869/|accessdate=30 April 2011}}
+* $1&nbsp;billion (8&nbsp;billion quarters) by 1981: {{citation|title=Visual Programming Environments: Applications and Issues|first=Ephraim P.|last=Glinert|publisher=[[IEEE Computer Society Press]]|year=1990|isbn=0-8186-8974-9|url=https://books.google.com/books?id=NMtWAAAAMAAJ|accessdate=10 April 2011|page=321|quote=As of mid-1981, according to Steve Bloom, author of ''Video Invaders'', more than four&nbsp;billion quarters had been dropped into Space Invaders games around the world}}
+* $600&nbsp;million Japan cabinet sales in 1978: {{cite journal|title=Can Asteroids Conquer Space Invaders?|journal=Electronic Games|date=Winter 1981|volume=1|issue=1|pages=30–33 [31]|url=http://www.digitpress.com/library/magazines/electronic_games/electronic_games_winter81.pdf|accessdate=1 February 2012}}
+* $102&nbsp;million US cabinet sales by 1979.<ref name="nytimes2002"/>
+|group=n|name=SpaceInvaders}}
+| ${{formatprice|{{inflation|US|2702000000|1978|r=0}}}}
+|-
+| ''[[Pac-Man]]''
+| 1980
+| 400,000 <small>(up to 1982)</small><ref name="pac_sales">{{cite book|last=Kao|first=John J.|title=Entrepreneurship, creativity & organization: text, cases & readings|year=1989|publisher=[[Prentice Hall]]|location=Englewood Cliffs, NJ|isbn=0-13-283011-6|url=https://books.google.com/books?id=P-MJAQAAMAAJ|authorlink=John Kao|accessdate=12 February 2012|page=45|quote=Estimates counted 7&nbsp;billion coins that by 1982 had been inserted into some 400,000 Pac Man machines worldwide, equal to one game of Pac Man for every person on earth. US domestic revenues from games and licensing of the Pac Man image for T-shirts, pop songs, to wastepaper baskets, etc. exceeded $1&nbsp;billion.}}</ref>
+| {{sort|2500|$2.5&nbsp;billion}} <small>(up to 1999)</small>{{#tag:ref|''Pac-Man'':
+* Estimated 10&nbsp;billion [[Quarter (United States coin)|quarters]] ($2.5&nbsp;billion) by 1999:
+** {{cite news|title=Pac Man turns 25: A pizza dinner yields a cultural phenomenon – and&nbsp;millions of dollars in quarters|date=10 May 2005|author=Chris Morris|publisher=CNN|url=http://money.cnn.com/2005/05/10/commentary/game_over/column_gaming/index.htm|accessdate=23 April 2011|quote=In the late 1990s, Twin Galaxies, which tracks video game world record scores, visited used game auctions and counted how many times the average Pac Man machine had been played. Based on those findings and the total number of machines that were manufactured, the organization said it believed the game had been played more than 10&nbsp;billion times in the 20th century.| archiveurl= https://web.archive.org/web/20110515011836/http://money.cnn.com/2005/05/10/commentary/game_over/column_gaming/index.htm| archivedate= 15 May 2011 <!--DASHBot-->| deadurl= no}}
+** {{citation|title=The video game explosion: a history from PONG to Playstation and beyond|author=Mark J. P. Wolf|publisher=[[ABC-CLIO]]|year=2008|isbn=0-313-33868-X|page=73|url=https://books.google.com/books?id=XiM0ntMybNwC&pg=PA73|accessdate=10 April 2011|quote=It would go on to become arguably the most famous video game of all time, with the arcade game alone taking in more than a&nbsp;billion dollars, and one study estimated that it had been played more than 10&nbsp;billion times during the twentieth century.}}
+* Estimated 7&nbsp;billion coins (7&nbsp;billion quarters / $1.75&nbsp;billion) by 1982.<ref name="pac_sales"/>
+* $1&nbsp;billion cabinet sales by 1982:
+** {{Cite book|title=America in the 1980s|author=Marlene Targ Brill|publisher=[[Lerner Publishing Group|Twenty-First Century Books]]|year=2009|isbn=0-8225-7602-3|page=120|url=https://books.google.com/books?id=NjmhJKkoKW0C&pg=PT120|accessdate=1 May 2011}}
+* $1&nbsp;billion revenue in 1980:
+** {{cite book|last=Kline|first=Stephen|title=Digital play: the interaction of technology, culture, and marketing|year=2003|publisher=[[McGill-Queen's University Press]]|location=Montréal, Quebec|isbn=0-7735-2591-2|url=https://books.google.com/books?id=gw5V10iLEsUC&pg=PA96|edition=Reprint|author2=Nick Dyer-Witheford|author3=Greig de Peuter|accessdate=25 February 2012|page=96|quote=The game produced one&nbsp;billion dollars in 1980 alone}}
+|group=n|name=PacMan}}
+| ${{formatprice|{{inflation|US|2500000000|1980|r=0}}}}
+|-
+| ''[[Street Fighter II]]''
+| 1991
+| 200,000 <small>(up to 1992)</small> <br> <small>(''[[Street Fighter II: The World Warrior|The World Warrior]]'': 60,000 <br> ''[[Street Fighter II′: Champion Edition|Champion Edition]]'': 140,000)</small>{{refn|''Street Fighter II'':
+* ''[[Street Fighter II′: Champion Edition]]'': 140,000<ref name="curran38">{{citation|title=Game plan: great designs that changed the face of computer gaming|author=Ste Curran|publisher=Rotovision|year=2004|isbn=2-88046-696-2|page=38|url=https://books.google.com/books?id=TXcWlWkIZ0AC&pg=PA38|accessdate=11 April 2011|quote=When ''Street Fighter II′'' (pronounced street fighter two dash) was released just a short time later, it sold around 140,000 units, at [[¥]]160.000 (c. US $1300 / £820) each. The figures were beyond massive – they were simply unheard of. [[Capcom]]'s ''Titanic'' wasn't sinking. Anything but. The game was a runaway success in its territory of choice, bringing Western gamers as much joy as it had in the East.}}</ref>
+* ''[[Street Fighter II: The World Warrior]]'': 60,000<ref name="kent446">{{citation|author=Steven L. Kent|year=2001|title=The Ultimate History of Video Games: The Story behind the Craze that Touched Our Lives and Changed the World|publisher=[[Prima Games|Prima]]|url=https://books.google.com/books?id=C2MH05ogU9oC|accessdate=9 April 2011|page=446|quote=Capcom will not release the final numbers, but some outsiders have estimated that more than 60,000 Street Fighter II arcade machines were sold worldwide.}}</ref>
+|group=n}}
+| {{sort|2312|$2.312&nbsp;billion}} <small>(up to 1995)</small> <br> <small>(''The World Warrior'' <br> ''Champion Edition'')</small><ref name="Kirsh-228">{{citation|title=top-10-biggest-grossing-arcade-games-of-all-time|year=2013|isbn=0-7619-2976-2|url=http://www.usgamer.net/articles/top-10-biggest-grossing-arcade-games-of-all-time|accessdate=23 April 2011|page=228|quote=Due to the relative ease of making illegal versions of Capcom's [[CP System]] boards, many pirated copies of the arcade game also existed, which would likely boost its revenue number considerably. But for obvious reasons, the actual sum will never be known. }}</ref>
+| ${{formatprice|{{inflation|US|2312000000|1991|r=0}}}} <br> <small>(''The World Warrior'' <br> ''Champion Edition'')</small>
+|-
+| ''[[Donkey Kong (video game)|Donkey Kong]]''
+| 1981
+| 132,000 <small>(up to 1982)</small>{{refn|''Donkey Kong'':
+* Japan: 65,000 of ''[[Donkey Kong (video game)|Donkey Kong]]''
+** {{cite book|author=Brian Ashcraft ; with Jean Snow. ; forewords by Kevin Williams|title=Arcade Mania: The Turbo-charged World of Japan's Game Centers|year=2008|publisher=[[Kodansha]]|location=Tokyo|isbn=4-7700-3078-9|url=https://books.google.com/books?ei=DH03T87uGYbp8QO-rtHMAg&id=wX8kAQAAIAAJ&dq="sixty-five+thousand"|edition=1st|author2=Crecente, Brian|accessdate=12 February 2012|quote=Jumpman hopped over barrels, climbed ladders, and jumped from suspended platform to suspended platform as he tried to rescue a damsel from his pissed-off pet gorilla. The game was a smash, and sixty-five thousand cabinets were sold in Japan, propping up the then-struggling Nintendo and laying the groundwork for Nintendo and ''Donkey Kong'' creator Shigeru Miyamoto to dominate gaming throughout the 1980s and beyond.}}
+* United States: 67,000 of ''Donkey Kong''
+** {{cite web|last=Bienaimé|first=Pierre|title=Square Roots: Donkey Kong (NES)|url=http://www.nintendojo.com/features/columns/square-roots/square-roots-donkey-kong-nes|publisher=Nintendojo|accessdate=8 April 2012|date=13 January 2012|quote=Donkey Kong sold some 67,000 arcade cabinets in two years, making two of its American distributors sudden millionaires thanks to paid commission. As a barometer of success, know that Pac-Man and Ms. Pac-Man are the only arcade games to have sold over 100,000 units in the United States.}}
+* United States: 30,000 of ''[[Donkey Kong Jr.]]'' and 5000 of ''[[Donkey Kong 3]]''.<ref name="Kent-352"/>
+|group=n|name=DonkeyKong}}
+| {{sort|0280|$280&nbsp;million}} <small>(up to 1982)</small> <br> <small>(US hardware sales)</small><ref name="DK_gross">{{citation|title=Wii Innovate – How Nintendo Created a New Market Through the Strategic Innovation Wii|author=Jörg Ziesak|publisher=[[:de:GRIN Verlag|GRIN Verlag]]|year=2009|isbn=3640497740|page=50|url=https://books.google.com/books?id=C8rHXoUCbfAC&pg=PA2029|accessdate=9 April 2011|quote=Donkey Kong was Nintendo's first international smash hit and the main reason behind the company's breakthrough in the Northern American market. In the first year of its publication, it earned Nintendo 180&nbsp;million US dollars, continuing with a return of 100&nbsp;million dollars in the second year.}}</ref>
+| ${{formatprice|{{inflation|US|280000000|1981|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Ms. Pac-Man]]''
+| 1981
+| 125,000 <small>(up to 1988)</small><ref name="mspac_sales">{{cite news|title=Bally Will Quit Making Pinball, Video Machines|url=https://news.google.com/newspapers?id=4FtQAAAAIBAJ&sjid=kw4EAAAAIBAJ&pg=6893,2823984|accessdate=9 March 2012|newspaper=[[Toledo Blade]]|date=11 July 1988|page=22}}</ref><ref name="Wolf-44">{{citation|title=The medium of the video game|author=Mark J. P. Wolf|publisher=[[University of Texas Press]]|year=2001|isbn=0-292-79150-X|page=44|url=https://books.google.com/books?id=lKZriBxbcwQC&pg=PA44|accessdate=9 April 2011}}</ref>
+|
+|
+|-
+| ''[[Asteroids (video game)|Asteroids]]''
+| 1979
+| {{sort|100|100,000}} <small>(up to 2001)</small><ref name="Wolf-44"/><ref name="kent_asteroids">{{citation|title=The ultimate history of video games: from Pong to Pokémon and beyond : the story behind the craze that touched our lives and changed the world|author=Steve L. Kent|publisher=[[Prima Games|Prima]]|year=2001|isbn=0-7615-3643-4|page=132|quote=Atari sold more than 70,000 Asteroids machines in the United States. The game did not do as well in Europe and Asia, however. Only about 30,000 units were sold overseas.}}</ref>
+| {{sort|0800|$800&nbsp;million}} <small>(up to 1991)</small><ref name="asteroids_gross">{{cite journal|last=Gottschalk|first=S.|title=Videology: Video-Games as Postmodern Sites/Sights of Ideological Reproduction|journal=Symbolic Interaction|year=1995|volume=18|issue=1|url=http://cdclv.unlv.edu/archives/interactionism/gottschalk/video.html|accessdate=26 February 2012}}</ref><ref>{{cite journal|title=Forbes , Volume 127|journal=[[Forbes]]|year=1981|url=https://books.google.com/books?id=6y68AAAAIAAJ&q=%22At+$2000+a+unit,+Atari+has+made+about+$140+million+from+that+game+alone%22&dq=%22At+$2000+a+unit,+Atari+has+made+about+$140+million+from+that+game+alone%22&hl=en&sa=X&ei=GexIT7TzOqec0AXU3v2uDg&ved=0CDEQ6AEwAA|accessdate=25 February 2012|page=102|quote=At $2000 a unit, Atari has made about $140&nbsp;million from that game alone.}}</ref>
+| ${{formatprice|{{inflation|US|800000000|1991|r=0}}}}
+|-
+| ''[[Defender (video game)|Defender]]''
+| 1981
+| {{sort|060|60,000}} <small>(up to 2002)</small><ref name="defender_sales">{{cite book|last=Sellers|first=John|title=Arcade fever: the fan's guide to the golden age of video games|year=2001|publisher=Running Press|location=Philadelphia|isbn=0-7624-0937-1|url=https://books.google.com/books?id=8_3TjWRSLuAC|accessdate=25 February 2012|page=51|quote=Williams sold around 60,000 units of Defender, easily the company's most successful game.}}</ref><ref>{{citation|author=Steven L. Kent|year=2001|title=The Ultimate History of Video Games: The Story behind the Craze that Touched Our Lives and Changed the World|publisher=[[Prima Games|Prima]]|url=https://books.google.com/books?id=C2MH05ogU9oC|accessdate=9 April 2011|page=147|quote=Defender was Williams Electronics' biggest seller. More than 55,000 units were placed worldwide.}}</ref>
+| {{sort|1000|$1&nbsp;billion}} <small>(up to 2002)</small><ref name="defender_gross">{{cite book|last=Morrison|first=Michael|title=Sams teach yourself game programming in 24 hours|year=2002|publisher=Sams Publishing|location=Indianapolis, IN|isbn=0-672-32461-X|url=https://books.google.com/books?id=herTOT2QVWoC&pg=PP2|edition=1. printing.|accessdate=23 February 2012|page=2}}</ref><ref>{{citation|title=The video game explosion: a history from PONG to Playstation and beyond|author=Mark J. P. Wolf|publisher=[[ABC-CLIO]]|isbn=0-313-33868-X|page=104|url=https://books.google.com/books?id=XiM0ntMybNwC&pg=PA104|accessdate=19 April 2011}}</ref>
+| ${{formatprice|{{inflation|US|1000000000|2002|r=0}}}}
+|-
+| ''[[Galaxian]]''
+| 1979
+| {{sort|040|40,000}} <small>(in the US up to 1982)</small><ref name="galaxian1">{{cite web|title=MIDWAY MFG. CO. v. ARTIC INTERN.|url=http://il.findacase.com/research/wfrmDocViewer.aspx/xq/fac.19820310_0000061.NIL.htm/qx|accessdate=6 March 2012|date=10 March 1982}}</ref><ref name="galaxian2">{{citation|title=United States Patents Quarterly, Volume 216|work=[[United States Patents Quarterly]]|volume=216|author=[[Bureau of National Affairs]]|publisher=Associated Industry Publications|year=1983|url=https://books.google.com/books?id=EbVCAQAAIAAJ|accessdate=9 April 2011|quote=Since February 1980, Midway has sold in excess of 40,000 Galaxian games}}</ref>
+|
+|
+|-
+| ''[[Donkey Kong Jr.]]''
+| 1982
+| {{sort|030|30,000}} <small>(in the US up to 1982)</small>{{#tag:ref|''Donkey Kong'':
+* Japan: 65,000 of ''[[Donkey Kong (video game)|Donkey Kong]]''
+** {{cite book|author=Brian Ashcraft ; with Jean Snow. ; forewords by Kevin Williams|title=Arcade Mania: The Turbo-charged World of Japan's Game Centers|year=2008|publisher=[[Kodansha]]|location=Tokyo|isbn=4-7700-3078-9|url=https://books.google.com/books?ei=DH03T87uGYbp8QO-rtHMAg&id=wX8kAQAAIAAJ&dq="sixty-five+thousand"|edition=1st|author2=Crecente, Brian|accessdate=12 February 2012|quote=Jumpman hopped over barrels, climbed ladders, and jumped from suspended platform to suspended platform as he tried to rescue a damsel from his pissed-off pet gorilla. The game was a smash, and sixty-five thousand cabinets were sold in Japan, propping up the then-struggling Nintendo and laying the groundwork for Nintendo and ''Donkey Kong'' creator Shigeru Miyamoto to dominate gaming throughout the 1980s and beyond.}}
+* United States: 67,000 of ''Donkey Kong''
+** {{cite web|last=Bienaimé|first=Pierre|title=Square Roots: Donkey Kong (NES)|url=http://www.nintendojo.com/features/columns/square-roots/square-roots-donkey-kong-nes|publisher=Nintendojo|accessdate=8 April 2012|date=13 January 2012|quote=Donkey Kong sold some 67,000 arcade cabinets in two years, making two of its American distributors sudden millionaires thanks to paid commission. As a barometer of success, know that Pac-Man and Ms. Pac-Man are the only arcade games to have sold over 100,000 units in the United States.}}
+* United States: 30,000 of ''[[Donkey Kong Jr.]]'' and 5000 of ''[[Donkey Kong 3]]''.<ref name="Kent-352"/>
+|group=n|name=DonkeyKong}}
+|
+|
+|-
+| ''[[Mr. Do!]]''
+| 1982
+| {{sort|030|30,000}} <small>(in the US up to 1982)</small><ref name="kent_do">{{citation|title=The ultimate history of video games: from Pong to Pokémon and beyond : the story behind the craze that touched our lives and changed the world|author=Steve L. Kent|publisher=[[Prima Games|Prima]]|year=2001|isbn=0-7615-3643-4|page=352|quote=In 1982, Universal Sales made arcade history with a game called Mr Do! Instead of selling dedicated Mr Do! machines, Universal sold the game as a kit. The kit came with a customized control panel, a computer board with Mr Do! read-only memory (ROM) chips, stickers that could be placed on the side of stand-up arcade machines for art, and a plastic marquee. It was the first game ever sold as a conversion only. According to former Universal Sales western regional sales manager Joe Morici, the company sold approximately 30,000 copies of the game in the United States alone.}}</ref>
+|
+|
+|-
+| ''[[Popeye (video game)|Popeye]]''
+| 1982
+| {{sort|020|20,000}} <small>(in the US up to 1982)</small><ref name="Kent-352">{{citation|author=Steven L. Kent|year=2001|title=The Ultimate History of Video Games: The Story behind the Craze that Touched Our Lives and Changed the World|publisher=[[Prima Games|Prima]]|url=https://books.google.com/books?id=C2MH05ogU9oC|accessdate=9 April 2011|page=352|quote=With more than 60,000 units sold in the United States, ''Donkey Kong'' was Nintendo's biggest arcade hit. The arcade industry began its long collapse the year after Donkey Kong was released, and Nintendo's arcade fortunes eroded quickly. Nintendo released ''Donkey Kong Junior'' in 1982 and sold only 30,000 machines, 20,000 ''Popeye'' machines (also 1982), and a mere 5000 copies of ''Donkey Kong 3'' (1983).}}</ref>
+|
+|
+|-
+| ''[[Out Run]]''
+| 1986
+| {{sort|020|20,000}} <small>(up to 1987)</small><ref>{{cite book|title=Out Run: ZX Spectrum Instructions|year=1987|publisher=[[U.S. Gold]]|url=http://www.worldofspectrum.org/infoseekid.cgi?id=0003563|accessdate=23 February 2012}}</ref>
+|
+|
+|-
+| ''[[Pump It Up (video game)|Pump It Up]]''
+| 1999
+| {{sort|020|20,000}} <small>(up to 2005)</small><ref name="pump_sales">{{cite news|title=Pump It Up: Exceed drops to PS2 / Xbox|publisher=Punch Jump Crew|date=8 September 2005}}</ref>
+|
+|
+|-
+| ''[[NBA Jam]]''
+| 1993
+| {{sort|020|20,000}} <small>(up to 2013)</small><ref>[http://www.huffingtonpost.com/2013/09/26/nba-jam-rigged_n_3998321.html The Huffington Post]</ref>
+| {{sort|1000|$1 billion}} <small>(up to 2010)</small><ref>[http://www.computerandvideogames.com/268241/obama-bush-beastie-boys-star-in-nba-jam/ Computerandvideogames.com]</ref>
+| ${{formatprice|{{inflation|US|1000000000|2010|r=0}}}}
+|-
+| ''[[Gun Fight]]''
+| 1975
+| {{sort|008|8,000}} <small>(up to 1976)</small><ref>[http://www.arcade-history.com/?n=gun-fight-upright-model-no.-597&page=detail&id=1040 Arcade-history.com]</ref><ref name="kent91"/>
+| 
+| 
+|-
+| ''[[List of Sega arcade games#Sega Chihiro games|Sega Network Mahjong MJ3]]''
+| 2005
+| {{sort|007.608|7,608}} <small>(up to 2006)</small><ref name="sega_mar06">{{cite web|title=FY Ending March 2006: Full Year Results Presentation|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2006/e_200603_4q_pre.pdf#page=11|publisher=[[Sega Sammy Holdings]]|page=11|accessdate=17 May 2012|date=16 May 2006}}</ref>
+| 
+| 
+|-
+| ''[[Hang-On]]''
+| 1985
+| {{sort|007.5|7,500}} <small>(up to 1985)</small><ref name="hangon_sales">{{cite news|title=Motorcycle game to Atari |url=http://www.gamearchive.com/General/Articles/ClassicNews/1985/NewsBytes10-1-85.htm |accessdate=7 March 2012 |newspaper=NewsBytes |date=1 October 1985 |archiveurl=https://web.archive.org/web/20090105185108/http://www.gamearchive.com/General/Articles/ClassicNews/1985/NewsBytes10-1-85.htm |archivedate=5 January 2009 |quote=So far, Sega has shipped approx. 7,000 Hang-ons to the Japanese and overseas market. ATARI IRELAND gets 500 sets for the initial shipment, a report says. |deadurl=unfit }}</ref>
+|
+|
+|-
+| ''[[Dinosaur King]]''
+| 2005
+| {{sort|007|7,000}} <small>(up to 2006)</small><ref name="sega_sep06">{{cite web|title=FY 2007: Interim Results (April-September 2006)|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2007/e_200703_2q_pre.pdf#page=11|publisher=[[Sega Sammy Holdings]]|accessdate=18 May 2012|pages=11–13|date=10 November 2006}}</ref>
+| 
+| 
+|-
+| ''[[Speed Race|Wheels (Speed Race)]]''
+| 1974
+| {{sort|007|7,000}} <small>(up to 1975)</small><ref>[http://www.arcade-history.com/?n=wheels-no.-591&page=detail&id=4772 Arcade-history.com]</ref><ref>[http://allincolorforaquarter.blogspot.co.uk/2012/08/what-was-best-selling-us-arcade-video.html Allincolorforaquarter.blogspot.co.uk]</ref>
+| 
+| 
+|-
+| ''[[List of Sega arcade games#Sega Chihiro games|Sega Network Mahjong MJ2]]''
+| 2003
+| {{sort|005.486|5,486}} <small>(up to 2005)</small>{{refn|''Sega Network Mahjong MJ2'':
+* April 2004 to March 2005: 4,984<ref name="sega_mar05">{{cite web|title=FY2004 Financial Results (for the year ended March 31, 2005)|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2005/e_200503_4q_pre.pdf#page=11|publisher=[[Sega Sammy Holdings]]|page=11|accessdate=17 May 2012|location=Tokyo|date=25 May 2005}}</ref>
+* April 2005 to June 2005: 502<ref name="sega_jun05">{{cite web|title=FY2005 1Q Results: Amusement Machine Sales|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2006/e_200603_1q_pre.pdf#page=6|work=FY2005 1Q Business Results (April–June 2005)|publisher=[[Sega Sammy Holdings]]|accessdate=18 May 2012|page=6|date=4 August 2005}}</ref>
+|group=n|name=MJ2}}
+| 
+| 
+|-
+| ''[[Donkey Kong 3]]''
+| 1983
+| {{sort|005|5,000}} <small>(in the US up to 1982)</small><ref group="n" name="DonkeyKong"/>
+|
+|
+|-
+| ''[[Sangokushi Taisen|Sangokushi Taisen 2]]''
+| 2006
+| {{sort|004.041|4,041}} <small>(up to 2007)</small>{{refn|''Sangokushi Taisen 2'':
+* 3,211 units during April–September 2006.<ref name="sega_sep06"/>
+* 830 units during April–September 2007.<ref name="sega_sep07"/>
+|group=n|name=SangokushiTaisen2}}
+| 
+| 
+|-
+| ''[[Initial D Arcade Stage 4]]''
+| 2007
+| {{sort|003.904|3,904}} <small>(up to 2007)</small>{{refn|''Initial D Arcade Stage 4'':
+* 3,056 units in fiscal year ending March 2007.<ref name="sega_mar07">{{cite web|title=Fiscal Year Ended March 2007: Full Year Results|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2007/e_200703_4q_pre.pdf#page=11|publisher=[[Sega Sammy Holdings]]|accessdate=17 May 2012|page=11|date=14 May 2007}}</ref>
+* 848 units during April–September 2007.<ref name="sega_sep07">{{cite web|title=Fiscal Year 2008: Interim Results|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2008/e_200803_2q_pre.pdf#page=11|publisher=[[Sega Sammy Holdings]]|accessdate=19 May 2012|page=11|date=12 November 2007}}</ref>
+|group=n|name=Stage4}}
+| 
+| 
+|-
+| ''[[Mario Bros.]]''
+| 1983
+| {{sort|003.8|3,800}} <small>(in the US up to 1983)</small><ref name="atari_memo2"/>
+|
+|
+|-
+| ''[[Dance Dance Revolution]]''
+| 1998
+| {{sort|003.5|3,500}} <small>(in Japan as of 1999)</small><ref name="konami_report99">({{cite web|title=Special Feature: Music Simulation Games Rock the Market|url=http://www.konami.co.jp/report/report99/english/special01.html|work=Annual Report|publisher=[[Konami]]|accessdate=6 March 2012|archiveurl=https://web.archive.org/web/20040625160414/http://www.konami.co.jp/report/report99/english/special01.html|archivedate=25 June 2004|year=1999|page=2}})</ref>
+|
+|
+|-
+| ''[[Zoo Keeper (video game)|Zoo Keeper]]''
+| 1982
+| {{sort|003|3,000}} <small>(in the US up to 1983)</small><ref name="atari_memo1"/>
+|
+|
+|-
+| ''[[Initial D Arcade Stage]]''
+| 2001
+| {{sort|002.534|2,534}} <small>(up to 2004)</small><ref name="sega_sep04">{{cite web|title=First Half Business Results (April–September 2004)|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2005/e_200503_2q_pre.pdf#page=4|publisher=[[Sega Sammy Holdings]]|accessdate=17 May 2012|page=4|date=11 November 2004}}</ref>
+| 
+| 
+|-
+| ''[[World Club Champion Football]]''
+| 2002
+| {{sort|002.479|2,479}} <small>(up to 2009)</small>{{refn|''World Club Champion Football'' series, unit sales:
+* ''World Club Champion Football: European Clubs 2004–2005'' - 514 units in fiscal year ending March 2006<ref name="sega_mar06"/>
+* ''World Club Champion Football: European Clubs 2004–2005 Ver. 2'' - 276 units during April–September 2006 (240 satellite units during April–June 2006,<ref name="sega_jun06">{{cite web|title=Segment Results: Amusement Machines|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2007/e_200703_1q_pre.pdf#page=10|work=FY 2007: 1st Quarter Results (April–June 2006)|publisher=[[Sega Sammy Holdings]]|accessdate=18 May 2012|page=10|date=28 July 2006}}</ref> and 36 body units during April–September 2006)<ref name="sega_sep06"/>
+* ''World Club Champion Football: Intercontinental Clubs 2008–2009'' - 1,689 units from June 2008 to December 2009<ref group="n" name="IntercontinentalSales"/>
+|group=n|name=wccf}}
+| {{sort|0706.014|$706.014 million}} <small>(up to 2012)</small>{{refn|''World Club Champion Football'' series, revenue:
+* Series revenues up until March 2009 - $552.3 million
+** 480 million player cards sold. Prices could range from ¥300 for a single card from an arcade machine to ¥1000 for a starter pack.<ref name="DigInfo TV">{{cite web|title=AOU 2009 - Sega World Club Champion Football Intercontinental Clubs 2007-2008|url=http://www.diginfo.tv/v/09-0061-r-en.php|work=AOU Amusement Expo 2009|publisher=DigInfo TV|accessdate=18 May 2012|date=2 March 2009}}</ref> A ¥1000 starter pack consists of 11 player cards, equivalent to ¥90.91 each.<ref name="GameSpot">{{cite web|title=Sports Gaming in Japan: World Club Champion Football|url=http://uk.gamespot.com/news/sports-gaming-in-japan-world-club-champion-football-6233603|publisher=[[GameSpot]]|accessdate=18 May 2012|date=22 September 2009}}</ref> Total revenues from player card sales thus range from ¥43.64 billion (at ¥90.91 per card) to ¥144 billion (at ¥300 per card). In US dollars, this is equivalent to a range of $552.3 million to $1.82244 billion.<ref name="xe_currency"/> The lowest value of $552.3 million will be assumed.
+* ''World Club Champion Football: Intercontinental Clubs'' revenues from April 2009 to June 2012 - $150.1 million<ref group="n" name="Intercontinental"/>
+|group=n|name=wccf_revenue}}
+| ${{formatprice|{{inflation|US|706014000|2002|r=0}}}}
+|-
+| ''[[Mortal Kombat (1992 video game)|Mortal Kombat]]''
+| 1992
+| 24,000 <small>(up to 2002)</small><ref name="nytimes2002">{{cite news|last=Horwitz|first=Jeremy|title=Technology: Mortal Apathy?|url=http://www.nytimes.com/2002/07/08/technology/08MIDW.html|accessdate=4 March 2012|newspaper=[[The New York Times]]|date=8 July 2002}}</ref>
+| {{sort|0570|$570&nbsp;million}} <small>(up to 2002)</small><ref name="nytimes2002"/>
+| ${{formatprice|{{inflation|US|570000000|2002|r=0}}}}
+|-
+| ''[[Jungle Hunt]]''
+| 1982
+| {{sort|018|18,000}} <small>(in the US up to 1983)</small><ref name="atari_memo1">{{cite web|last=Fujihara|first=Mary|title=Inter Office Memo|url=http://www.atarigames.com/index.php?option=com_content&view=article&id=48:atari-sales-estimates-for-other-manufactures-games&catid=5:atari-inter-office-memos&Itemid=5|publisher=[[Atari]]|accessdate=18 March 2012|date=25 July 1983}}</ref>
+|
+|
+|-
+| ''[[Scramble (video game)|Scramble]]''
+| 1981
+| {{sort|015.136|15,136}} <small>(up to 1981)</small><ref name="stern_production_numbers"/>
+| 
+| 
+|-
+| ''[[Mushiking: King of the Beetles]]''
+| 2003
+| {{sort|013.5|13,500}} <small>(up to 2005)</small><ref name="sega_sep05">{{cite web|title=FY Ending March 2006: Interim Results Presentation (April–September 2005)|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2006/e_200603_2q_pre.pdf|publisher=[[Sega Sammy Holdings]]|accessdate=17 May 2012|date=22 November 2005}}</ref>
+| {{sort|0530|$530&nbsp;million}} <small>(up to 2007)</small>{{refn|''Mushiking'':
+* 420 million<ref name="gamesetwatch_sega">{{cite web|last=Carless|first=Simon|title=Uemura – Sega's Hidden Game Design Power?|url=http://www.gamesetwatch.com/2007/03/uemura_segas_hidden_game_desig_1.php|publisher=GameSetWatch|accessdate=17 May 2012|date=29 March 2007}}</ref> [[100 yen coin]]s<ref name="kotaku_sega"/> = ¥42 billion
+* Currency conversion: $530 million<ref name="xe_currency"/>
+|group=n|name=Mushiking}}
+| ${{formatprice|{{inflation|US|530000000|2003|r=0}}}}
+|-
+| ''[[List of Konami games#2000-2009|Mahjong Fight Club 3]]''
+| 2004
+| {{sort|013|13,000}} <small>(up to 2004)</small><ref name="konami05">{{cite web|title=FY2005 Third quarter Financial Results (April–December 2004)|url=http://www.konami.co.jp/en/ir/pdf/meeting/2005/050127.pdf#page=15|publisher=[[Konami]]|accessdate=20 April 2012|archiveurl=https://web.archive.org/web/20060116103026/http://www.konami.co.jp/en/ir/pdf/meeting/2005/050127.pdf#page=15|archivedate=16 January 2006|page=15|date=27 January 2005}}</ref>
+|
+|
+|-
+| ''[[Super Cobra]]''
+| 1981
+| {{sort|012.337|12,337}} <small>(up to 1981)</small><ref name="stern_production_numbers"/>
+| 
+| 
+|-
+| ''[[Oshare Majo: Love and Berry]]''
+| 2004
+| {{sort|010.3|10,300}} <small>(up to 2006)</small><ref name="sega_dec06">{{cite web|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2007/e_200703_3q_pre.pdf#page=11|title=Fiscal Year Ending March 2007: 3rd Quarter Results (April-December 2006)|publisher=[[Sega Sammy Holdings]]|accessdate=19 May 2012|pages=11–13|date=7 February 2007}}</ref><ref name="sega_dec05">{{cite web|title=Fiscal Year Ending March 2006: 3rd quarter Results (April–December 2005)|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2006/e_200603_3q_pre.pdf#page=8|publisher=[[Sega Sammy Holdings]]|accessdate=17 May 2012|page=8|date=8 February 2006}}</ref>
+| {{sort|0302.68|$302.68&nbsp;million}} <small>(up to 2007)</small>{{refn|''Love and Berry'':
+* 240 million<ref name="gamesetwatch_sega"/> [[100 yen coin]]s<ref name="kotaku_sega">{{cite web|last=Ashcraft|first=Brian|title=How Sega Reels in Girls|url=http://kotaku.com/130966/how-sega-reels-in-girls|publisher=Kotaku|accessdate=17 May 2012|date=14 October 2005}}</ref> = ¥24 billion
+* Currency conversion: $302.68 million<ref name="xe_currency"/>
+|group=n|name=LoveBerry}}
+| ${{formatprice|{{inflation|US|302680000|2004|r=0}}}}
+|-
+| ''[[Centipede (video game)|Centipede]]''
+| 1981
+| {{sort|055|55,988}} <small>(up to 1991)</small><ref name="atari_production">{{cite web|title=Atari Production Numbers Memo|url=http://www.atarigames.com/index.php?option=com_content&view=article&id=47:atari-production-numbers-memo&catid=5:atari-inter-office-memos&Itemid=5|publisher=[[Atari Games]]|accessdate=18 March 2012|date=4 January 2010}}</ref>
+| {{sort|0115|$115.65 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|115650000|1991|r=0}}}}
+|-
+| ''[[Shining (series)|Shining Force Cross]]''
+| 2009
+| {{sort|002.289|2,389}} <small>(up to 2009)</small><ref name="sega_dec09"/>
+|
+|
+|-
+| ''[[Pengo (video game)|Pengo]]''
+| 1982
+| {{sort|002|2,000}} <small>(in the US up to 1983)</small><ref name="atari_memo1"/>
+|
+|
+|-
+| ''[[Sangokushi Taisen]]''
+| 2005
+| {{sort|001.942|1,942}} <small>(up to 2006)</small>{{refn|''Sangokushi Taisen'':
+* As of March 2005: 421<ref name="sega_mar05"/>
+* April 2005 to March 2006: 1,521<ref name="sega_mar06"/>
+|group=n|name=Sangokushi}}
+| 
+| 
+|-
+| ''[[World Club Champion Football|World Club Champion Football: Intercontinental Clubs]]''
+| 2008
+| {{sort|001.689|1,689}} <small>(up to 2009)</small>{{refn|''World Club Champion Football: Intercontinental Clubs''
+* ''World Club Champion Football: Intercontinental Clubs 2006-2007'' - 831 units from June 2008 to March 2009<ref name="sega_mar09"/>
+* ''World Club Champion Football: Intercontinental Clubs 2008–2009'' - 858 units from April 2009 to December 2009<ref name="sega_dec09"/>
+|group=n|name=IntercontinentalSales}}
+| {{sort|0150.1|$150.1 million}} <small>(up to 2012)</small>{{refn|''World Club Champion Football: Intercontinental Clubs''
+* Fiscal year ended 31 March 2010: ¥4.2  billion<ref name="sega_mar10">{{cite web|title=Appendix of Consolidated Financial Statements: Year Ended March 31, 2010|url=http://www.segasammy.co.jp/english/pdf/release/1003hosoku_e_final.pdf#page=3|publisher=[[Sega Sammy Holdings]]|accessdate=13 April 2012|page=3|date=14 May 2010}}</ref>
+* Fiscal year ended 31 March 2011: ¥3.8 billion<ref name="sega_mar11">{{cite web|title=Appendix of Consolidated Financial Statements: Year Ended March 31, 2011|url=http://www.segasammy.co.jp/english/pdf/release/1103appendix_e_final.pdf#page=3|publisher=[[Sega Sammy Holdings]]|accessdate=13 April 2012|page=3|date=13 May 2011}}</ref>
+* Fiscal year ended 31 March 2012: ¥3.6 billion<ref name="sega12"/><ref name="sega_dec11">{{cite web|title=Appendix of Consolidated Financial Statements: 9 Months Ended December 31, 2011|url=http://www.segasammy.co.jp/english/pdf/release/20120203_tanshin_hosoku_final_e.pdf#page=3|publisher=[[Sega Sammy Holdings]]|accessdate=13 April 2012|page=3|date=3 February 2012}}</ref>
+* 1st Quarter Ended 30 June 2012: ¥0.5 billion<ref name="sega_jun12"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥4.2 billion = $51.9159 million
+** ¥3.8 billion = $46.9716 million
+** ¥3.6 billion = $44.8253 million
+** ¥0.5 billion = $6.3784 million
+|group=n|name=Intercontinental}}
+| ${{formatprice|{{inflation|US|150100000|2008|r=0}}}}
+|-
+| ''[[Dragon's Lair]]''
+| 1983
+| {{sort|016|16,000}} <small>(up to 1983)</small><ref name="kent_lair">{{citation|title=The ultimate history of video games: from Pong to Pokémon and beyond : the story behind the craze that touched our lives and changed the world|author=Steve L. Kent|publisher=[[Prima Games|Prima]]|year=2001|isbn=0-7615-3643-4|page=225|quote=Cinematronics sold more than 16,000 Dragon's Lair machines in 1983, for an average price of $4300. Coleco purchased the home rights to the game, giving Cinematronics an additional $2 million.}}</ref><ref>{{cite news|last=Harmetz|first=Aljean|title=Daring Dirk Perk For Arcades|url=https://news.google.com/newspapers?id=7qMyAAAAIBAJ&sjid=Bu8FAAAAIBAJ&pg=3206,953643|accessdate=28 February 2012|newspaper=[[Ottawa Citizen]]|date=13 August 1983|page=29}}</ref>
+| {{sort|0048|$68.8&nbsp;million}} <small>(up to 1983)</small><ref name="kent_lair"/><ref name="Allgame-Dyer"/>
+| ${{formatprice|{{inflation|US|68800000|1983|r=0}}}}
+|-
+| ''[[Mortal Kombat II]]''
+| 1993
+| 27,000 <small>(up to 2002)</small><ref name="nytimes2002"/>
+| {{sort|0100|$100 million}} <small>(up to 1994)</small><ref>http://www.deseretnews.com/article/347090/VIDEO-ARCADES-HANGOUT-CHOICE-OF-A-NEW-GENERATION.html</ref>
+| ${{formatprice|{{inflation|US|100000000|1994|r=0}}}}
+|-
+| ''[[Pole Position (video game)|Pole Position]]''
+| 1982
+| {{sort|021|21,000}} <small>(in the US up to 1983)</small><ref name="atari_memo2">{{cite web|last=Fujihara|first=Mary|title=Inter Office Memo|url=http://www.atarigames.com/index.php?option=com_content&view=article&id=49:atari-sales-estimates-for-other-manufactures-2&catid=5:atari-inter-office-memos&Itemid=5|publisher=[[Atari]]|accessdate=18 March 2012|date=2 November 1983}}</ref>
+| {{sort|0062|$60.933 million}} <small>(up to 1983)</small><ref name="atari_memo2"/><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|60933000|1982|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Starhorse|StarHorse3 Season I: A New Legend Begins]]''
+| 2011
+| 
+| {{sort|0132.18|$132.18 million}} <small>(up to 2012)</small>{{refn|''StarHorse3 Season I: A New Legend Begins''
+* Fiscal year ended March 2012: ¥10.1 billion<ref name="sega12">{{cite web|title=Appendix of Consolidated Financial Statements: Year Ended March 31, 2012|url=http://www.segasammy.co.jp/english/pdf/release/20120511_hosoku_e_final.pdf#page=3|publisher=[[Sega Sammy Holdings]]|accessdate=17 May 2012|page=3|date=11 May 2012}}</ref>
+* 1st Quarter Ended 30 June 2012: ¥0.5 billion<ref name="sega_jun12"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥10.1 billion = $125.8 million
+** ¥0.5 billion = $6.3784 million
+|group=n|name=StarHorse3}}
+| ${{formatprice|{{inflation|US|132180000|2011|r=0}}}}
+|-
+| ''[[Border Break]]''
+| 2009
+| {{sort|002.998|2,998}} <small>(up to 2009)</small><ref name="sega_dec09">{{cite web|title=Appendix of Consolidated Financial Statements: 9 Months Ended December 31, 2009|url=http://www.segasammy.co.jp/english/pdf/release/201003_3qhosoku_e__final.pdf#page=3|publisher=[[Sega Sammy Holdings]]|accessdate=13 April 2012|page=3|date=5 February 2010}}</ref>
+| {{sort|0107|$107 million}} <small>(up to 2012)</small>{{refn|''Border Break'':
+* Fiscal year ended 31 March 2010: ¥3.3 billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥2.5 billion<ref name="sega_mar11"/>
+* Fiscal year ended 31 March 2012: ¥2.3 billion<ref name="sega12"/><ref name="Sega Sammy Holdings">{{cite web|title=Appendix of Consolidated Financial Statements 6 Months Ended September 30, 2011|url=http://www.segasammy.co.jp/english/pdf/release/20111031_2012_2qhosoku_e_final.pdf#page=3|publisher=[[Sega Sammy Holdings]]|accessdate=13 April 2012|page=3|date=31 October 2011}}</ref>
+* 1st Quarter Ended 30 June 2012: ¥0.5 billion<ref name="sega_jun12">{{cite web|title=FY Ending March 2013: 1st Quarter Results Presentation (Ended June 2012)|url=https://www.segasammy.co.jp/english/pdf/release/20120801_presen_e_final.pdf#page=12|publisher=[[Sega Sammy Holdings]]|accessdate=2 September 2012|page=11|date=1 August 2012}}</ref>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥3.3 billion = $40.7317 million
+** ¥2.5 billion = $30.8542 million
+** ¥2.3 billion = $28.6371 million
+** ¥0.5 billion = $6.3784 million
+|group=n|name=BorderBreak}}
+| ${{formatprice|{{inflation|US|107000000|2009|r=0}}}}
+|-
+| ''[[Dig Dug]]''
+| 1982
+| {{sort|022.228|22,228}}<ref name="atari_production"/> <small>(in the US up to 1983)</small><ref name="atari_memo1"/>
+| {{sort|0046.3|$46.3 million}} <small>(up to 1983)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|46300000|1982|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Tempest (video game)|Tempest]]''
+| 1981
+| {{sort|030|29,000}} <small>(up to 1983)</small><ref name="atari_memo2"/>
+| {{sort|0062|$62.408 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|62408000|1991|r=0}}}}
+|-
+| ''[[List of Taito games|TV Basketball (Basketball)]]''
+| 1974
+| {{sort|001.4|1,400}} <small>(up to 1974)</small><ref>http://allincolorforaquarter.blogspot.co.uk/2013/11/video-game-firsts.html</ref>
+| 
+| 
+|-
+| ''[[The House of the Dead 4]]''
+| 2005
+| {{sort|001.008|1,008}} <small>(up to 2005)</small><ref name="sega_dec05_appendix">{{cite web|title=Amusement Machine: 3Q Principle Titles|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2006/e_200603_3q_pre_sup.pdf#page=4|work=Fiscal Year Ending March 2006: 3rd Quarter Appendix (April–December 2005)|publisher=[[Sega Sammy Holdings]]|accessdate=18 May 2012|page=4|date=8 February 2006}}</ref>
+| 
+| 
+|-
+| ''[[Radar Scope]]''
+| 1980
+| {{sort|001|1,000}} <small>(in the US up to 1980)</small><ref>{{KLOV game|9238|Radar Scope}}</ref>
+|
+|
+|-
+| ''[[Tron (video game)|Tron]]''
+| 1982
+| {{sort|000.8|800}} <small>(in the US up to 1982)</small><ref>{{cite news|last=Harmetz|first=Aljean|title=Movie Themes Come To Video Games|url=https://news.google.com/newspapers?id=OwEzAAAAIBAJ&sjid=WBMEAAAAIBAJ&pg=5470,748067|accessdate=28 February 2012|newspaper=[[Star-News]]|date=3 July 1982}}</ref>
+| {{sort|0045|$45&nbsp;million}} <small>(up to 1983)</small><ref>{{citation|title=The naked computer: a layperson's almanac of computer lore, wizardry, personalities, memorabilia, world records, mind blowers, and tomfoolery|author1=Jack B. Rochester |author2=John Gantz |publisher=[[William Morrow and Company]]|year=1983|isbn=0-688-02450-5|url=https://books.google.com/books?id=walFAAAAYAAJ|accessdate=20 April 2011|page=164|quote=Although the Disney Studios expected to make over $400&nbsp;million from this siliconic extravaganza, our source at Variety tells us that its North American rentals were $15&nbsp;million and estimated total gross, $30&nbsp;million. The arcade game Tron, made by Bally, grossed more.}}</ref>
+| {{sort|0102|$102&nbsp;million}}
+|-
+| ''[[Sangokushi Taisen|Sengoku Taisen]]''
+| 2010
+| 
+| {{sort|0094.04|$94.04 million}} <small>(up to 2012)</small>{{refn|''Sengoku Taisen'':
+* Fiscal year ended 31 March 2011: ¥6.4 billion<ref name="sega_mar11"/>
+* Fiscal year ended 31 March 2012: ¥1.2 billion<ref name="sega12"/>
+Currency conversion:<ref name="xe_currency"/>
+* ¥6.4 billion = $79.1 million
+* ¥1.2 billion = $14.94 million
+|group=n|name=Sengoku}}
+| ${{formatprice|{{inflation|US|94040000|2010|r=0}}}}
+|-
+| ''[[Dragon Quest: Monster Battle Road]]''
+| 2007
+| 
+| {{sort|0078.2|$78.2 million}} <small>(up to 2008)</small>{{refn|''Dragon Quest: Monster Battle Road''
+* ¥4.5 billion from June 2007 to March 2008<ref name="se_mar08">{{cite web|title=Outline of Results Briefing|url=http://www.square-enix.com/eng/pdf/explanatory_20080625_01.pdf#page=4|publisher=[[Square Enix]]|accessdate=18 May 2012|page=4|date=23 May 2008}}</ref>
+** Currency conversion: $56.731 million<ref name="xe_currency"/>
+* ¥1.7 billion from April 2008 to September 2008<ref name="se_08q2"/>
+** Currency conversion: $21.4317 million<ref name="xe_currency"/>
+|group=n|name=BattleRoad}}
+| ${{formatprice|{{inflation|US|78200000|2007|r=0}}}}
+|-
+| ''[[Starhorse|StarHorse2]]''
+| 2005
+| {{sort|038.614|38,614}} <small>(up to 2009)</small>{{refn|''StarHorse2'':
+* From April 2005 to March 2007: 18,079 units
+** ''StarHorse2: New Generation'' – 7,819 units from April 2005 to June 2006 (6,020 units in fiscal year ended March 2006,<ref name="sega_mar06"/> and 1,799 units during April–June 2006)<ref name="sega_sep06"/>
+** ''StarHorse2: Second Fusion'' - 10,260 units from April 2006 to March 2007 (8,105 conversion kits during April–December 2006,<ref name="sega_dec06"/> and 2,155 body and satellite units in fiscal year ending March 2007)<ref name="sega_mar07"/>
+* From April 2007 to March 2008: 10,275 units (756 body and satellite units of ''StarHorse2: Second Fusion'' during April–September 2007,<ref name="sega_sep07"/> and 9,519 conversion kits in fiscal year ended March 2008)<ref name="sega_mar08">{{cite web|title=Segment Results: Amusement Machines|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2008/e_200803_4q_pre.pdf#page=13|work=FY 2008: Full Year Results (Ending March 2008)|publisher=[[Sega Sammy Holdings]]|accessdate=19 May 2012|page=13|date=15 May 2008}}</ref>
+* From April 2009 to December 2009: 10,657 units of ''StarHorse2: Fifth Expansion''<ref name="sega_dec09"/>
+|group=n|name=StarHorse2Sales}}
+| {{sort|0059.321|$59.321 million}} <small>(up to 2011)</small> <br> <small>(''Fifth Expansion'')</small>{{refn|''StarHorse2: Fifth Expansion'':
+* Fiscal year ended 31 March 2010: ¥2.8 billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥2 billion<ref name="sega_mar11"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥2.8 billion = $34.6039 million
+** ¥2 billion = $24.7171 million
+|group=n|name=StarHorse2}}
+| ${{formatprice|{{inflation|US|59321000|2005|r=0}}}} <br> <small>(''Fifth Expansion'')</small>
+|-
+| ''[[Q*bert]]''
+| 1982
+| {{sort|025|25,000}} <small>(up to 2001)</small><ref>{{cite book|title=The ultimate history of video games: from Pong to Pokémon and beyond : the story behind the craze that touched our lives and changed the world|author=Steve L. Kent|publisher=[[Prima Games|Prima]]|year=2001|isbn=0-7615-3643-4|page=224|quote=Gottlieb sold approximately 25,000 Q*Bert arcade machines.}}</ref>
+| 
+| 
+|-
+| ''[[Robotron: 2084]]''
+| 1982
+| {{sort|023|23,000}} <small>(up to 1983)</small><ref name="atari_memo2"/>
+|
+|
+|-
+| ''[[Samba de Amigo]]''
+| 1999
+| {{sort|003|3,000}} <small>(up to 2000)</small><ref name="iol_samba">{{cite web|title=Japanese gamers shake it, shake it!|url=http://www.iol.co.za/news/back-page/japanese-gamers-shake-it-shake-it-1.47183|publisher=[[Independent Online (South Africa)]]|accessdate=19 April 2012|location=South Africa|date=14 August 2000}}</ref>
+| {{sort|0047.11|$47.11 million}} <small>(up to 2000)</small>{{refn|''Samba de Amigo'': ¥3.84 billion
+* Currency conversion: $47.11 million<ref name="xe_currency"/>
+|group=n|name=Samba}}
+| ${{formatprice|{{inflation|US|47110000|1999|r=0}}}}
+|-
+| ''[[Asteroids Deluxe]]''
+| 1981
+| {{sort|022.399|22,399}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0046.1|$46.1 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|46100000|1999|r=0}}}}
+|-
+| ''[[Missile Command]]''
+| 1980
+| {{sort|019.9|19,999}} <small>(up to 2010)</small><ref>{{cite book|last=Fulton|first=Jeff|title=The essential guide to Flash games : building interactive entertainment with ActionScript 3.0|year=2010|publisher=Friends of ED|location=[Berkeley, Calif.]|isbn=1-4302-2614-5|url=https://books.google.com/books?id=VCR7XYUncEsC&pg=PA138|edition=New|accessdate=7 February 2012|page=138|chapter=A short history of Missile Command|quote=While certainly not the size of Asteroids, the game was still a huge hit with almost 20,000 units sold.}}</ref>
+| {{sort|0036.8|$36.8 million}} <small>(up to 1991)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|36800000|1991|r=0}}}}
+|-
+| ''[[Berzerk (video game)|Berzerk]]''
+| 1980
+| {{sort|015.78|15,780}} <small>(up to 1981)</small><ref name="stern_production_numbers">{{cite web|title=Stern Production Numbers and More CCI Photos|url=http://www.tokensonly.com/2012/05/misc/stern-production-numbers-and-more-cci-photos/|accessdate=21 July 2013|date=1 May 2012}}</ref>
+| 
+| 
+|-
+| ''[[Sangokushi Taisen|Sangokushi Taisen 3]]''
+| 2007
+| 
+| {{sort|0054.4|$54.4 million}} <small>(up to 2011)</small>{{refn|''Sangokushi Taisen 3'':
+* Fiscal year ended 31 March 2010: ¥1.8 billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥2.6 billion<ref name="sega_mar11"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥1.8 billion = $22.2401 million
+** ¥2.6 billion = $32.1248 million
+|group=n|name=Sangokushi3}}
+| ${{formatprice|{{inflation|US|54400000|2007|r=0}}}}
+|-
+| ''[[Pong]]''
+| 1972
+| {{sort|010|8,500–19,000}}<ref name="time74">{{citation|title=Business 1974: Industry: Space Age Pinball, Atari's PONG|work=[[Time (magazine)|Time]]|url=http://www.time.com/time/magazine/article/0,9171,952086,00.html|accessdate=21 April 2011|quote=Typical of the new games is Pong, a popular version of electronic table tennis manufactured by two-year-old Atari, Inc. (estimated fiscal 1974 revenue: $14&nbsp;million) of Los Gatos, Calif. Atari sold some 8,500 games to U.S. amusement parlors and other businesses last year.|date=5 October 1983}}</ref><ref name="ashley9">{{citation|title=Computer and Video Game Law: Cases and Materials|author1=Ashley S. Lipson |author2=Robert D. Brain |publisher=Carolina Academic Press|year=2009|isbn=1-59460-488-6|url=https://books.google.com/books?id=IxNDAQAAIAAJ|accessdate=11 April 2011|page=9|quote=Atari eventually sold more than 19,000 Pong machines, giving rise to many imitations. Pong made its first appearance in 1972 at "Andy Capp's," a small bar in Sunnyvale, California, where the video game was literally "overplayed" as eager customers tried to cram quarters into an already heavily overloaded coin slot.}}</ref>
+| {{sort|0011|$11&nbsp;million}} <small>(up to 1973)</small><ref name="pong_gross">{{cite news|last=Barack|first=Lauren|title=In Blast From the Past, Atari Video Games Plan a Return|url=http://pqasb.pqarchiver.com/nypost/access/334044141.html?dids=334044141:334044141&FMT=ABS&FMTS=ABS:FT&type=current&date=May+08%2C+2003&author=Lauren+Barack&pub=New+York+Post&desc=IN+BLAST+FROM+THE+PAST%2C+ATARI+VIDEO+GAMES+PLAN+A+RETURN&pqatl=google|accessdate=28 February 2012|newspaper=[[New York Post]]|date=8 May 2003|page=34|quote=It's first hit game, "Pong," launched in 1972, made $11&nbsp;million in revenue in just one year.}}</ref>
+| ${{formatprice|{{inflation|US|11000000|1973|r=0}}}}
+|-
+| ''[[Lord of Vermilion]]''
+| 2008
+| 
+| {{sort|0050.443|$50.443 million}} <small>(up to 2008)</small>{{refn|''Lord of Vermilion'': ¥4 billion<ref name="se_08q2">{{cite web | title=Outline of Results Briefing by SQUARE ENIX HOLDINGS held on November 7, 2008 | url=http://www.square-enix.com/eng/pdf/news/20081126en.pdf#page=4 | work=Square-Enix.com | accessdate=20 December 2008}}</ref>
+* Currency conversion: $50.443 million<ref name="xe_currency"/>
+|group=n|name=Vermillion}}
+| ${{formatprice|{{inflation|US|50443000|2008|r=0}}}}
+|-
+| ''[[List of Sega arcade games#Sega Lindbergh games|Sega Network Mahjong MJ4]]''
+| 2008
+| {{sort|012.892|12,892}} <small>(up to 2009)</small>{{refn|''Sega Network Mahjong MJ4'':
+* Fiscal year ended March 2008: 10,427<ref name="sega_mar08"/>
+* Fiscal year ended March 2009: 2,465<ref name="sega_mar09">{{cite web|title=Segment Results: Amusement Machine|url=http://www.segasammy.co.jp/english/ir/library/pdf/settlement/2009/e_200903_4q_pre.pdf#page=15|work=Fiscal Year 2009: Full Year Results (Ending March 2009)|publisher=[[Sega Sammy Holdings]]|accessdate=19 May 2012|page=15|date=14 May 2009}}</ref>
+|group=n|name=MJ4Sales}}
+| {{sort|0047|$47 million}} <small>(up to 2010)</small>{{refn|Fiscal year ended 31 March 2010: ¥3.8 billion<ref name="sega_mar10"/>
+* Currency conversion: $47 million<ref name="xe_currency"/>
+|group=n|name=MJ4}}
+| ${{formatprice|{{inflation|US|47000000|2008|r=0}}}}
+|-
+| ''[[Kangaroo (video game)|Kangaroo]]''
+| 1982
+| {{sort|009.803|9,803}}<ref name="atari_production"/> <small>(up to 1983)</small><ref name="atari_memo1"/>
+| {{sort|0020.58|$20.58 million}} <small>(up to 1983)</small> <br> <small>(US hardware sales)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|20580000|1982|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Battlezone (1980 video game)|Battlezone]]''
+| 1980
+| {{sort|015.122|15,122}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0031.2|$31.2 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|31200000|1999|r=0}}}}
+|-
+| ''[[Stargate (video game)|Stargate]]''
+| 1983
+| {{sort|015|15,000}} <small>(up to 1983)</small><ref name="atari_memo2"/>
+|
+|
+|-
+| ''[[Space Duel]]''
+| 1982
+| {{sort|012.038|12,038}} <small>(up to 1991)</small><ref name="atari_production"/>
+|
+|
+|-
+| ''[[Big Buck Hunter|Big Buck Hunter Pro]]''
+| 2006
+| {{sort|010|10,000}} <small>(up to 2009)</small><ref name="bigbuck_safari"/><ref name="bbh_sales">{{cite news|last=Strang|first=Katie|title=Shootout at the local pub: Big Buck Hunter is a hit|url=http://www.azcentral.com/ent/vgames/articles/0424shooter-CR.html|accessdate=18 March 2012|newspaper=[[The Arizona Republic]]|date=24 April 2007}}</ref>
+|
+|
+|-
+| ''[[Sente Technologies|Snake Pit]]''
+| 1983
+| {{sort|009|9,000}} <small>(up to 1983)</small><ref>{{cite news|title=Entering The Snakepit – A Winner |url=http://www.gamearchive.com/General/Articles/ClassicNews/1983/NewsBytes12-20-83.htm |accessdate=7 March 2012 |newspaper=NewsBytes |date=20 December 1983 |archiveurl=https://web.archive.org/web/20090225183758/http://www.gamearchive.com/General/Articles/ClassicNews/1983/NewsBytes12-20-83.htm |archivedate=25 February 2009 |deadurl=unfit }}</ref>
+|
+|
+|-
+| ''[[Bagman (video game)|Bagman]]''
+| 1983
+| {{sort|005|5,000}} <small>(in the US up to 1983)</small><ref name="atari_memo1"/>
+|
+|
+|-
+| ''[[Big Buck Hunter|Big Buck Safari]]''
+| 2008
+| {{sort|005.5|5,500}} <small>(up to 2009)</small><ref name="bigbuck_safari">{{cite web|title=Big Buck Safari® Reaches Two Milestones! |url=http://rawthrills.com/09-01-2009 |publisher=[[Raw Thrills]] |accessdate=19 May 2012 |date=1 September 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20130301000000*/http://rawthrills.com/09-01-2009 |archivedate=2013-03-01 }}</ref>
+|
+|
+|-
+| ''[[Hard Drivin']]''
+| 1989
+| {{sort|003.118|3,318}} <small>(up to 1989)</small><ref name="atari_production"/>
+| {{sort|0022.9|$22.9 million}} <small>(up to 1989)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|22900000|1989|r=0}}}}
+|-
+| ''[[Gauntlet (1985 video game)|Gauntlet]]''
+| 1985
+| {{sort|007.848|7,848}} <small>(up to 1985)</small><ref name="atari_production"/>
+| {{sort|0018.01|$18.01 million}} <small>(up to 1985)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|18010000|1985|r=0}}}}
+|-
+| ''[[List of Sega arcade games#Sega RingEdge games|Sega Network Mahjong MJ5]]''
+| 2011
+| 
+| {{sort|0034.87|$34.87 million}} <small>(up to 2012)</small>{{refn|Fiscal year ended March 2012: ¥2.8 billion<ref name="sega12"/>
+* Currency conversion: $34.87 million<ref name="xe_currency"/>
+|group=n|name=MJ5}}
+| ${{formatprice|{{inflation|US|34870000|2011|r=0}}}}
+|-
+| ''[[Millipede (video game)|Millipede]]''
+| 1982
+| {{sort|009.99|9,990}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0020|$20.669 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|20669000|1991|r=0}}}}
+|-
+| ''[[Race Drivin']]''
+| 1990
+| {{sort|003.525|3,525}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0020.03|$20.03 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|20030000|1991|r=0}}}}
+|-
+| ''[[Time Traveler (video game)|Time Traveler]]''
+| 1991
+|
+| {{sort|0018|$18&nbsp;million}} <small>(up to 1991)</small><ref name="Allgame-Dyer">{{cite web|title=Rick Dyer: Biography|publisher=[[Allgame]]|url=http://www.allgame.com/person.php?id=3332|accessdate=10 April 2011}}</ref>
+| ${{formatprice|{{inflation|US|18000000|1991|r=0}}}}
+|-
+| ''[[Space Ace]]''
+| 1984
+|
+| {{sort|0013|$13&nbsp;million}} <small>(up to 1984)</small><ref name="Allgame-Dyer"/>
+| ${{formatprice|{{inflation|US|13000000|1984|r=0}}}}
+|-
+| ''[[Xevious]]''
+| 1982
+| {{sort|005.295|5,295}} <small>(in the US up to 1983)</small><ref name="atari_production"/>
+| {{sort|0011.1|$11.1 million}} <small>(up to 1983)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|11100000|1982|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Big Buck Hunter|Big Buck Hunter Pro: Open Season]]''
+| 2009
+| {{sort|003|3,000}} <small>(up to 2010)</small><ref name="bbhp_os">{{cite web|title=Big Buck Hunter Open Season pushes 3000 units in 90 days|url=http://arcadeheroes.com/2010/01/07/big-buck-hunter-open-season-pushes-3000-units-in-90-days/|publisher=Arcade Heroes|accessdate=16 June 2012|author=Shaggy|date=7 January 2010}}</ref>
+|
+|
+|-
+| ''[[Silver Strike Bowling|Silver Strike Live]]''
+| 2010
+| {{sort|003|3,000}} <small>(up to 2010)</small><ref>{{cite web|title=Silver Strike LIVE starts shipping next week|url=http://arcadeheroes.com/2010/02/11/silver-strike-live-starts-shipping-next-week/|publisher=Arcade Heroes|accessdate=16 June 2012|author=Shaggy|date=11 February 2010}}</ref>
+|
+|
+|-
+| ''[[Hydro Thunder#Sequel|H2Overdrive]]''
+| 2009
+| {{sort|002|2,000}} <small>(up to 2010)</small><ref>{{cite web|title=Operator bowled over by H2Overdrive|url=http://www.namco.co.uk/press-office/10-03-05.html|publisher=[[Namco Bandai Games]]|accessdate=16 June 2012|date=5 March 2010}}</ref>
+|
+|
+|-
+| ''[[Atari Football]]''
+| 1978
+| {{sort|011.306|11,306}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0017.266|$17.266 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|17266000|1999|r=0}}}}
+|-
+| ''[[Final Lap]]''
+| 1987
+| {{sort|001.15|1,150}} <small>(in the US up to 1988)</small><ref name="atari_production"/>
+| {{sort|0009.5|$9.5 million}} <small>(up to 1988)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|9500000|1987|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Paperboy (video game)|Paperboy]]''
+| 1984
+| {{sort|003.442|3,442}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0008.6|$8.6 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|8600000|1991|r=0}}}}
+|-
+| ''[[Star Wars (1983 video game)|Star Wars]]''
+| 1983
+| {{sort|012.695|12,695}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0007.595|$7.595 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|7595000|1991|r=0}}}}
+|-
+| ''[[Beatmania]]''
+| 1997
+| {{sort|025|25,000}} <small>(up to 2000)</small><ref name="beatmania_sales">{{cite news|last=Beals|first=Gregory|title=Kings of Cool|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NWEC&p_theme=nwec&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EC05F8B217664C7&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|accessdate=19 April 2012|newspaper=[[Newsweek]]|date=11 December 2000|quote=Konami has sold 25,000 Beatmania machines in three years. In the arcade industry, selling 1000 units is considered a success.}}</ref>
+| {{sort|0012.4|$12.4&nbsp;million}} <small>(up to 1998)</small> <br> <small>(Japan hardware sales)</small>{{refn|''Beatmania'':
+* [[Japanese yen|¥]]1 billion in May 1998<ref name="konami_report99"/>
+* Yen-Dollar currency conversion: $12.4&nbsp;million<ref name="xe_currency"/>
+|group=n|name=Beatmania}}
+| ${{formatprice|{{inflation|US|12400000|1997|r=0}}}} <br> <small>(Japan hardware sales)</small>
+|-
+| ''[[Sprint 2]]''
+| 1976
+| {{sort|008.2|8,200}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0012.669|$12.669 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|12669000|1999|r=0}}}}
+|-
+| ''[[Championship Sprint]]''
+| 1986
+| {{sort|003.595|3,595}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0008.26|$8.26 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|8260000|1991|r=0}}}}
+|-
+| ''[[Pole Position II]]''
+| 1983
+| {{sort|002.4|2,400}} <small>(in the US up to 1983)</small><ref name="atari_production"/>
+| {{sort|0007.43|$7.43 million}} <small>(up to 1983)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|7430000|1983|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Breakout (video game)|Breakout]]''
+| 1976
+| {{sort|011|11,000}} <small>(up to 1999)</small><ref name="atari_production99">{{cite web|title=Production Numbers|url=http://www.atarigames.com/atarinumbers90s.pdf|publisher=[[Atari]]|accessdate=19 March 2012|year=1999}}</ref>
+| {{sort|0012.045|$12.045 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|12045000|1999|r=0}}}}
+|-
+| ''[[Sea Wolf (video game)|Sea Wolf]]''
+| 1976
+| {{sort|010|10,000}} <small>(up to 2000)</small><ref name="seawolf_sales">{{citation|title=The first quarter: a 25-year history of video games|author=Steven L. Kent|publisher=BWD Press|year=2000|isbn=0-9704755-0-0|url=https://books.google.com/books?id=ny-CAAAAMAAJ|accessdate=9 April 2011|page=83|quote=Sea Wolf, which was another creation of Dave Nutting, did solid business, selling more than 10,000 machines.}}</ref>
+|
+|
+|-
+| ''[[Lunar Lander (arcade game)|Lunar Lander]]''
+| 1979
+| {{sort|004.830|4,830}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0008.19|$8.19 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|8190000|1999|r=0}}}}
+|-
+| ''[[Super Sprint]]''
+| 1986
+| {{sort|008.2|2,232}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0007.8|$7.8 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|7800000|1999|r=0}}}}
+|-
+| ''[[Marble Madness]]''
+| 1984
+| {{sort|004|4,000}} <small>(up to 1985)</small><ref name="GDC2011">{{cite web| url = http://www.gamasutra.com/view/news/33375/gdc_2011_mark_cerny_discusses_.php| title = GDC 2011: Mark Cerny Discusses Marble Madness' Turbulent Development| first = Kyle| last = Orland| publisher = Gamasutra| date = 4 March 2011| accessdate =8 March 2011| archiveurl= https://web.archive.org/web/20110320065109/http://www.gamasutra.com/view/news/33375/gdc_2011_mark_cerny_discusses_.php| archivedate= 20 March 2011 <!--DASHBot-->| deadurl= no}}</ref>
+| {{sort|0006.3|$6.3 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|6300000|1991|r=0}}}}
+|-
+| ''[[Sea Wolf (video game)|Sea Wolf II]]''
+| 1978
+| {{sort|004|4,000}} <small>(up to 2000)</small><ref>{{citation|title=The first quarter: a 25-year history of video games|author=Steven L. Kent|publisher=BWD Press|year=2000|isbn=0-9704755-0-0|url=https://books.google.com/books?id=ny-CAAAAMAAJ|accessdate=9 April 2011|page=83}}</ref>
+|
+|
+|-
+| ''[[Rolling Thunder (video game)|Rolling Thunder]]''
+| 1986
+| {{sort|002.406|2,406}} <small>(in the US up to 1987)</small><ref name="atari_production"/>
+| {{sort|0004.8|$4.8 million}} <small>(up to 1987)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|4800000|1986|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Tetris]]''
+| 1989
+| {{sort|005.771|5,771}} <small>(in the US up to 1991)</small><ref name="atari_production"/>
+| {{sort|0005.2|$5.2 million}} <small>(up to 1991)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|5200000|1991|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Arabian (video game)|Arabian]]''
+| 1983
+| {{sort|001.95|1,950}} <small>(in the US up to 1983)</small><ref name="atari_memo1"/>
+| {{sort|0003.9|$3.9 million}} <small>(up to 1983)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|3900000|1983|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Terminator Salvation (arcade game)|Terminator Salvation]]''
+| 2010
+| {{sort|001|1,000}} <small>(up to 2010)</small><ref name="terminator_salvation">{{cite web|title=Initial sales numbers for Terminator Salvation arcade|url=http://arcadeheroes.com/2010/05/03/initial-sales-numbers-for-terminator-salvation-arcade/|publisher=Arcade Heroes|accessdate=16 June 2012|author=Shaggy|date=3 May 2010}}</ref>
+| {{sort|0008|$8 million}} <small>(up to 2010)</small><ref name="terminator_salvation"/>
+| ${{formatprice|{{inflation|US|8000000|2010|r=0}}}}
+|-
+| ''[[Blasteroids]]''
+| 1987
+| {{sort|002|2,000}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0004.69|$4.69 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|4690000|1991|r=0}}}}
+|-
+| ''[[Super Breakout]]''
+| 1978
+| {{sort|004.805|4,805}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0005.7|$5.7 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|5700000|1999|r=0}}}}
+|-
+| ''[[Pac-Mania]]''
+| 1987
+| {{sort|001.412|1,412}} <small>(in the US up to 1987)</small><ref name="atari_production"/>
+| {{sort|0002.82|$2.82 million}} <small>(up to 1987)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|2820000|1987|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Indiana Jones and the Temple of Doom (1985 video game)|Indiana Jones and the Temple of Doom]]''
+| 1985
+| {{sort|002.825|2,825}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0003.2|$3.2 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|3200000|1991|r=0}}}}
+|-
+| ''[[Four Trax]]''
+| 1989
+| {{sort|000.205|205}} <small>(in the US & EU as of 1989)</small><ref name="atari_production"/>
+| {{sort|0002.9|$2.9 million}} <small>(up to 1989)</small><ref name="atari_production"/> <br> <small>(US & EU hardware sales)</small>
+| ${{formatprice|{{inflation|US|2900000|1989|r=0}}}} <br> <small>(US & EU hardware sales)</small>
+|-
+| ''[[Assault (1988 video game)|Assault]]''
+| 1988
+| {{sort|001.079|1,079}} <small>(in the US up to 1988)</small><ref name="atari_production"/>
+| {{sort|0002.5|$2.5 million}} <small>(up to 1988)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|2500000|1988|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Gauntlet II]]''
+| 1986
+| {{sort|003.52|3,520}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0002.4|$2.4 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|2400000|1991|r=0}}}}
+|-
+| ''[[Guitar Hero Arcade]]''
+| 2009
+| {{sort|002|2,000}} <small>(up to 2009)</small><ref>{{cite web|title=Betson: 2000 Guitar Hero units have been sold in three months|url=http://arcadeheroes.com/2009/06/10/betson-2000-guitar-hero-units-have-been-sold-in-three-months/|publisher=Arcade Heroes|accessdate=16 June 2012|author=Shaggy|date=10 June 2009}}</ref>
+| 
+| 
+|-
+| ''[[Kee Games|Drag Race]]''
+| 1977
+| {{sort|001.9|1,900}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0002.8|$2.8 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|2800000|1999|r=0}}}}
+|-
+| ''[[Night Driver]]''
+| 1976
+| {{sort|002.1|2,100}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0011.165|$2.4675 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|2467500|1999|r=0}}}}
+|-
+| ''[[I, Robot (video game)|I, Robot]]''
+| 1984
+| {{sort|000.7|750-1,000}}<ref name="atari_production"/><ref>Buchanan, Levi (28 August 2008). [http://retro.ign.com/articles/906/906161p1.html The Revolution of I, Robot], IGN.</ref>
+| {{sort|0001.5|$1.5 million}} <small>(up to 1984)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|1500000|1984|r=0}}}}
+|-
+| ''[[R.B.I. Baseball]]''
+| 1987
+| {{sort|003.945|3,945}} <small>(in the US up to 1987)</small><ref name="atari_production"/>
+| {{sort|0001.4|$1.6 million}} <small>(up to 1987)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|1600000|1987|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Computer Space]]''
+| 1971
+| {{sort|001.5|1,500–2,000}} <small>(up to 1984)</small><ref>{{cite journal|title=Atari: From Starting Block To Auction Block|journal=[[InfoWorld]]|date=6 August 1984|volume=6|issue=32|publisher=InfoWorld Media Group|issn=0199-6649|page=52|url=https://books.google.com/books?id=HC8EAAAAMBAJ&pg=PA52|accessdate=5 March 2012}}</ref><ref>{{cite web|last=Modine|first=Austin|title=Before Pong, there was Computer Space|url=http://www.theregister.co.uk/2008/12/13/tob_computer_space/print.html|publisher=The Register|accessdate=23 February 2012|date=13 December 2008}}</ref>
+|
+|
+|-
+| ''[[Death Race (video game)|Death Race]]''
+| 1976
+| {{sort|001|1,000}} <small>(up to 1976)</small><ref name="kent91">{{citation|author=Steven L. Kent|year=2001|title=The Ultimate History of Video Games: The Story behind the Craze that Touched Our Lives and Changed the World|publisher=[[Prima Games|Prima]]|url=https://books.google.com/books?id=C2MH05ogU9oC|accessdate=9 April 2011|page=91|quote=According to Kauffman, [[Exidy]] sold only 1,000 Death Race machines, just a fraction of the number of ''Sea Wolf'' and ''Gun Fight'' machines Midway placed that same year, but Death Race stirred up protests and was even discussed on CBS’s ''60 Minutes''.}}</ref>
+| 
+| 
+|-
+| ''[[List of Sega arcade games#System 16B|Dunk Shot]]''
+| 1986
+| {{sort|000.556|556}} <small>(in the US up to 1987)</small><ref name="atari_production"/>
+| {{sort|0001.4|$1.4 million}} <small>(up to 1987)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|1400000|1986|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Star Wars: Return of the Jedi (arcade game)|Star Wars: Return of the Jedi]]''
+| 1984
+| {{sort|000.8|800}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0001.68|$1.68 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|1680000|1991|r=0}}}}
+|-
+| ''[[Dragon Spirit]]
+| 1987
+| {{sort|000.6|600}} <small>(in the US up to 1987)</small><ref name="atari_production"/>
+| {{sort|0001.2|$1.2 million}} <small>(up to 1987)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|1200000|1987|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[List of light gun games#Arcade|Triple Hunt]]''
+| 1977
+| {{sort|000.865|865}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0001.2|$1.2 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|1200000|1999|r=0}}}}
+|}
+
+===Best-selling arcade video game franchises===
+{{see also|List of best-selling video game franchises}}
+
+These are the combined hardware sales of at least two or more arcade games that are part of the same franchise. This list only includes franchises that have sold at least 5,000 hardware units or grossed at least $10 million revenues.
+
+{| class="wikitable sortable"
+|-
+! Franchise
+! Original release year
+! Total hardware units sold
+! Gross revenue <br> <small>(US$ without inflation)</small>
+! Gross revenue <br> <small>(US$ with {{CURRENTYEAR}} inflation)</small><ref name="cpi_inflation"/>
+|-
+| ''[[List of Pac-Man video games|Pac-Man]]''
+| 1980
+| 526,412 <small>(up to 1988)</small>{{refn|''Pac-Man'' series:
+* ''[[Pac-Man]]'': 400,000<ref name="pac_sales"/>
+* ''[[Ms. Pac-Man]]'': 125,000<ref name="mspac_sales"/>
+* ''[[Pac-Mania]]'': 1,412<ref name="atari_production"/>
+|group=n}}
+| {{sort|3853|$3.853&nbsp;billion}} <small>(up to 1999)</small>{{refn|''Pac-Man'' series:
+* ''[[Pac-Man]]'': $3.5 billion in 1999{{refn|''Pac-Man'':
+* Estimated 10&nbsp;billion [[Quarter (United States coin)|quarters]] ($2.5&nbsp;billion) by 1999:
+** {{cite news|title=Pac Man turns 25: A pizza dinner yields a cultural phenomenon – and&nbsp;millions of dollars in quarters|date=10 May 2005|author=Chris Morris|publisher=CNN|url=http://money.cnn.com/2005/05/10/commentary/game_over/column_gaming/index.htm|accessdate=23 April 2011|quote=In the late 1990s, Twin Galaxies, which tracks video game world record scores, visited used game auctions and counted how many times the average Pac Man machine had been played. Based on those findings and the total number of machines that were manufactured, the organization said it believed the game had been played more than 10&nbsp;billion times in the 20th century.| archiveurl= https://web.archive.org/web/20110515011836/http://money.cnn.com/2005/05/10/commentary/game_over/column_gaming/index.htm| archivedate= 15 May 2011 <!--DASHBot-->| deadurl= no}}
+** {{citation|title=The video game explosion: a history from PONG to Playstation and beyond|author=Mark J. P. Wolf|publisher=[[ABC-CLIO]]|year=2008|isbn=0-313-33868-X|page=73|url=https://books.google.com/books?id=XiM0ntMybNwC&pg=PA73|accessdate=10 April 2011|quote=It would go on to become arguably the most famous video game of all time, with the arcade game alone taking in more than a&nbsp;billion dollars, and one study estimated that it had been played more than 10&nbsp;billion times during the twentieth century.}}
+* Estimated 7&nbsp;billion coins (7&nbsp;billion quarters / $1.75&nbsp;billion) by 1982.<ref name="pac_sales"/>
+* $1&nbsp;billion cabinet sales by 1982:
+** {{Cite book|title=America in the 1980s|author=Marlene Targ Brill|publisher=[[Lerner Publishing Group|Twenty-First Century Books]]|year=2009|isbn=0-8225-7602-3|page=120|url=https://books.google.com/books?id=NjmhJKkoKW0C&pg=PT120|accessdate=1 May 2011}}
+* $1&nbsp;billion revenue in 1980:
+** {{cite book|last=Kline|first=Stephen|title=Digital play: the interaction of technology, culture, and marketing|year=2003|publisher=[[McGill-Queen's University Press]]|location=Montréal, Quebec|isbn=0-7735-2591-2|url=https://books.google.com/books?id=gw5V10iLEsUC&pg=PA96|edition=Reprint|author2=Nick Dyer-Witheford|author3=Greig de Peuter|accessdate=25 February 2012|page=96|quote=The game produced one&nbsp;billion dollars in 1980 alone}}
+|group=n|name=PacMan}}
+* ''[[Ms. Pac-Man]]'': $350 million in 1988<ref name=mspac_revenue>''Ms. Pac-Man'' revenue: 125,000 units, [https://news.google.com/newspapers?id=4FtQAAAAIBAJ&sjid=kw4EAAAAIBAJ&pg=6893,2823984] $2800 each [https://news.google.com/newspapers?id=goBQAAAAIBAJ&sjid=TxIEAAAAIBAJ&pg=7084,2952506]</ref>
+* ''[[Pac-Mania]]'': $2.82 million in the US in 1987<ref name="atari_production"/>
+|group=n}}
+| ${{formatprice|{{inflation|US|3853000000|1980|r=0}}}}
+|-
+| ''[[Street Fighter]]''
+| 1987
+| 500,000 <small>(up to 2002)</small><ref>{{cite news|title=Call-it Entertainment, Inc. Partners with Capcom to Launch Street Fighter Wireless Game Series|url=http://www.wirelessdevnet.com/news/2002/137/news9.html|accessdate=17 April 2012|date=16 May 2002|agency=[[Business Wire]]}}</ref><ref name="Guiness-77">{{citation|title=Guinness World Records Gamer's Edition 2008|work=[[Guinness World Records Gamer's Edition]]|year=2008|publisher=[[Guinness World Records]]|isbn=1-904994-21-0|url=https://books.google.com/books?id=OJQFSlyMEfAC|accessdate=9 April 2011|page=77|quote=Street Fighter has sold over 25&nbsp;million console games and 500,000 arcade units generating more than a&nbsp;billion dollars in revenue.}}</ref>
+| {{sort|2312|$2.312&nbsp;billion}} <small>(up to 1993)</small> <br> <small>(''[[Street Fighter II: The World Warrior]]'' <br> ''[[Street Fighter II′: Champion Edition]]'')</small><ref name="Kirsh-228"/>
+| ${{formatprice|{{inflation|US|2312000000|1987|r=0}}}} <br> <small>(''Street Fighter II: The World Warrior'' <br> ''Street Fighter II': Champion Edition'')</small>
+|-
+| ''[[List of Space Invaders video games|Space Invaders]]''
+| 1978
+| 360,000 <small>(up to 1980)</small><ref name="invaders_sales"/>
+| {{sort|2600|$2.702&nbsp;billion}} <small>(up to 1982)</small>{{#tag:ref|''Space Invaders'':
+* $2&nbsp;billion (4&nbsp;billion quarters) by 1982: {{cite news|title=Making&nbsp;millions, 25 cents at a time|work=[[The Fifth Estate (TV)|The Fifth Estate]]|publisher=Canadian Broadcasting Corporation|date=23 November 1982|url=http://archives.cbc.ca/arts_entertainment/media/clips/15869/|accessdate=30 April 2011}}
+* $1&nbsp;billion (8&nbsp;billion quarters) by 1981: {{citation|title=Visual Programming Environments: Applications and Issues|first=Ephraim P.|last=Glinert|publisher=[[IEEE Computer Society Press]]|year=1990|isbn=0-8186-8974-9|url=https://books.google.com/books?id=NMtWAAAAMAAJ|accessdate=10 April 2011|page=321|quote=As of mid-1981, according to Steve Bloom, author of ''Video Invaders'', more than four&nbsp;billion quarters had been dropped into Space Invaders games around the world}}
+* $600&nbsp;million Japan cabinet sales in 1978: {{cite journal|title=Can Asteroids Conquer Space Invaders?|journal=Electronic Games|date=Winter 1981|volume=1|issue=1|pages=30–33 [31]|url=http://www.digitpress.com/library/magazines/electronic_games/electronic_games_winter81.pdf|accessdate=1 February 2012}}
+* $102&nbsp;million US cabinet sales by 1979.<ref name="nytimes2002"/>
+|group=n|name=SpaceInvaders}}
+| ${{formatprice|{{inflation|US|2702000000|1978|r=0}}}}
+|-
+| ''[[List of Pac-Man clones|Pac-Man Clones]]''
+| 1980
+| 300,000 <small>(up to 2002)</small><ref>{{cite web|title=The History of Video Games|url=http://serialkiller.org/articles/videogames_history/videogames_history.pdf#page=7|publisher=[[GameSpot]]|accessdate=14 March 2012|author1=Leonard Herman |author2=Jer Horwitz |author3=Steve Kent |author4=Skyler Miller |page=7|year=2002}}</ref>
+| 
+| 
+|-
+|''[[Mario (franchise)|Mario]]''
+| 1981
+| 170,800 <small>(up to 1983)</small>{{refn|''Mario'' series:
+* ''[[Donkey Kong]]'' series: 167,000<ref group="n" name="DonkeyKong"/>
+* ''[[Mario Bros.]]'': 3,800<ref name="atari_memo2"/>
+|group=n}}
+| {{sort|0280|$280&nbsp;million}} <small>(up to 1982)</small> <br> <small>(US hardware sales)</small><ref name="DK_gross"/>
+| ${{formatprice|{{inflation|US|280000000|1981|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Donkey Kong]]''
+| 1981
+| 167,000 <small>(up to 1983)</small><ref group="n" name="DonkeyKong"/>
+| {{sort|0280|$280&nbsp;million}} <small>(up to 1982)</small> <br> <small>(US hardware sales)</small><ref name="DK_gross"/>
+| ${{formatprice|{{inflation|US|280000000|1981|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Asteroids (video game)#Legacy|Asteroids]]''
+| 1979
+| 136,437 <small>(up to 1999)</small>{{refn|''Asteroids'' series:
+* ''[[Asteroids (video game)|Asteroids]]'': 100,000<ref name="kent_asteroids"/>
+* ''Asteroids'' sequels:<ref name="atari_production99"/>
+** ''[[Asteroids Deluxe]]'': 22,399
+** ''[[Space Duel]]'': 12,038
+** ''[[Blasteroids]]'': 2,000
+|group=n}}
+| {{sort|0850|$850.79&nbsp;million}} <small>(up to 1999)</small>{{refn|''Asteroids'' series:
+* ''[[Asteroids (video game)|Asteroids]]'': $800 million in 1991<ref name="asteroids_gross"/>
+* ''Asteroids'' sequels:
+** ''[[Asteroids Deluxe]]'': $46.1 million in 1999<ref name="atari_production99"/>
+** ''[[Blasteroids]]'': $4.69 million in 1991<ref name="atari_production"/>
+|group=n}}
+| ${{formatprice|{{inflation|US|850790000|1999|r=0}}}}
+|-
+| ''[[Golden Tee Golf]]''
+| 1989
+| 100,000 <small>(up to 2011)</small><ref name="WhatIsGT">{{cite web|url = http://www.goldentee.com/gt/GT/TheGame/WhatIsGT/ | title = What is Golden Tee? | publisher = [[Incredible Technologies]]}}</ref>
+| 
+| 
+|-
+| ''[[Defender (video game)#Remakes and sequels|Defender]]''
+| 1981
+| {{sort|075|75,000}} <small>(up to 2002)</small>{{refn|''Defender'' series:
+* ''[[Defender (video game)|Defender]]'': 60,000<ref name="defender_sales"/>
+* ''[[Stargate (video game)|Stargate]]'': 15,000<ref name="atari_memo2"/>
+|group=n}}
+| {{sort|1000|$1&nbsp;billion}} <small>(up to 2002)</small><ref name="defender_gross"/>
+| ${{formatprice|{{inflation|US|1000000000|2002|r=0}}}}
+|-
+| ''[[Centipede (video game)#Legacy|Centipede]]''
+| 1981
+| {{sort|0|65,978}} <small>(up to 1991)</small>{{refn|''Centipede'' series:<ref name="atari_memo2"/><ref name="atari_production"/>
+* ''[[Centipede (video game)|Centipede]]'': 55,988
+''[[Millipede (video game)|Millipede]]'': 9,990
+|group=n}}
+| {{sort|0136.3|$136.3 million}} <small>(up to 1991)</small>{{refn|''Centipede'' series:<ref name="atari_production"/>
+* ''[[Centipede (video game)|Centipede]]'': $115.65 million
+''[[Millipede (video game)|Millipede]]'': $20.669 million
+|group=n}}
+| ${{formatprice|{{inflation|US|136300000|1991|r=0}}}}
+|-
+| ''[[Mortal Kombat]]''
+| 1992
+| {{sort|0|51,000}} <small>(up to 2002)</small><ref name="nytimes2002"/>
+| {{sort|1000|$1&nbsp;billion}} <small>(up to 1995)</small><ref>{{cite news|last=Sickinger|first=Ted|title=The year of Mortal Kombat|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=KC&p_theme=kc&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EAF423FC2FB96A0&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|accessdate=4 March 2012|newspaper=[[The Kansas City Star]]|date=6 November 1995|page=1|quote=More than 1 billion quarters have dropped through its slots since 1992. The first two home versions sold more than 10 million copies at $50 and $60 apiece.}}</ref>
+| ${{formatprice|{{inflation|US|1000000000|2002|r=0}}}}
+|-
+| ''[[Galaxian#Standard arcade games|Galaxian]]''
+| 1979
+| {{sort|040|40,986}} <small>(in the US up to 1988)</small>{{refn|''Galaxian'' series:
+* ''[[Galaxian]]'': 40,000 in the US<ref name="galaxian1"/><ref name="galaxian2"/>
+* ''[[Galaga '88]]'': 986 in the US<ref name="atari_production"/>
+|group=n}}
+|
+|
+|-
+| ''[[Starhorse]]''
+| 2000
+| {{sort|038.734|38,734}} <small>(up to 2009)</small>{{refn|''StarHorse'' series:
+* ''Starhorse Progress'' – 120 in fiscal year ended March 2005<ref name="sega_mar05"/>
+* ''StarHorse2'' – 38,614 up to 2009{{#tag:ref|''StarHorse2'':
+* From April 2005 to March 2007: 18,079 units
+** ''StarHorse2: New Generation'' – 7,819 units from April 2005 to June 2006 (6,020 units in fiscal year ended March 2006,<ref name="sega_mar06"/> and 1,799 units during April–June 2006)<ref name="sega_sep06"/>
+** ''StarHorse2: Second Fusion'' - 10,260 units from April 2006 to March 2007 (8,105 conversion kits during April–December 2006,<ref name="sega_dec06"/> and 2,155 body and satellite units in fiscal year ending March 2007)<ref name="sega_mar07"/>
+* From April 2007 to March 2008: 10,275 units (756 body and satellite units of ''StarHorse2: Second Fusion'' during April–September 2007,<ref name="sega_sep07"/> and 9,519 conversion kits in fiscal year ended March 2008)<ref name="sega_mar08"/>
+* From April 2009 to December 2009: 10,657 units of ''StarHorse2: Fifth Expansion''<ref name="sega_dec09"/>
+|group=n|name=StarHorse2Sales}}
+|group=n}}
+| {{sort|0191.501|$191.501 million}} <small>(up to 2012)</small>{{refn|''[[Starhorse]]'' series, 2009–2011:
+* ''Starhorse2'' – $59.321 million{{#tag:ref|''StarHorse2: Fifth Expansion'':
+* Fiscal year ended 31 March 2010: ¥2.8 billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥2 billion<ref name="sega_mar11"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥2.8 billion = $34.6039 million
+** ¥2 billion = $24.7171 million
+|group=n|name=StarHorse2}}
+* ''StarHorse3 Season I: A New Legend Begins'' – $132.18 million{{#tag:ref|''StarHorse3 Season I: A New Legend Begins''
+* Fiscal year ended March 2012: ¥10.1 billion<ref name="sega12"/>
+* 1st Quarter Ended 30 June 2012: ¥0.5 billion<ref name="sega_jun12"/>
+*Currency conversion:<ref name="xe_currency"/>
+** ¥10.1 billion = $125.8 million
+** ¥0.5 billion = $6.3784 million
+|group=n|name=StarHorse3}}
+|group=n}}
+| ${{formatprice|{{inflation|US|191501000|2000|r=0}}}}
+|-
+| ''[[Big Buck Hunter|Big Buck]]''
+| 2000
+| {{sort|033.5|33,500}} <small>(up to 2010)</small>{{refn|''Big Buck'' series:
+* ''Big Buck Hunter'' series sales up until April 2007: 22,500 units, including 7,500 ''Big Buck Hunter Pro'' units.<ref name="bbh_sales"/>
+* Series sales after April 2007 until September 2009: additional 2,500 ''Big Buck Hunter Pro'' units and 5,500 ''Big Buck Safari'' units.<ref name="bigbuck_safari"/>
+* ''Big Buck Hunter Pro: Open Season'' sales from September 2009 to January 2010: 3,000 units<ref name="bbhp_os"/>
+|group=n}}
+| 
+| 
+|-
+| ''[[Mr. Do!]]''
+| 1982
+| {{sort|030|30,000}} <small>(in the US up to 1982)</small><ref name="kent_do"/>
+|
+|
+|-
+| ''[[Dragon Quest: Monster Battle Road]]''
+| 2007
+| 
+| {{sort|0078.2|$78.2 million}} <small>(up to 2008)</small>{{#tag:ref|''Dragon Quest: Monster Battle Road''
+* ¥4.5 billion from June 2007 to March 2008<ref name="se_mar08"/>
+** Currency conversion: $56.731 million<ref name="xe_currency">{{cite web|title=Currency Conversion|url=http://www.xe.com/ucc/|publisher=[[XE.com]]|accessdate=13 April 2012}}</ref>
+* ¥1.7 billion from April 2008 to September 2008<ref name="se_08q2"/>
+** Currency conversion: $21.4317 million<ref name="xe_currency"/>
+|group=n|name=BattleRoad}}
+| ${{formatprice|{{inflation|US|78200000|2007|r=0}}}}
+|-
+| ''[[Lord of Vermilion]]''
+| 2008
+| 
+| {{sort|0050.443|$50.443 million}} <small>(up to 2008)</small>{{#tag:ref|''Lord of Vermilion'': ¥4 billion<ref name="se_08q2"/>
+* Currency conversion: $50.443 million<ref name="xe_currency"/>
+|group=n|name=Vermillion}}
+| ${{formatprice|{{inflation|US|50443000|2008|r=0}}}}
+|-
+| ''[[List of Bemani series|Bemani]]''
+| 1997
+| {{sort|045|28,500}} <small>(up to 2000)</small>{{refn|''Bemani'' series, sales:
+* ''[[Beatmania]]'' as of 2000: 25,000<ref name="beatmania_sales"/>
+* ''[[Dance Dance Revolution]]'' in Japan as of May 1999: 3,500<ref name="konami_report99"/>
+|group=n}}
+| {{sort|0012.4|$12.4&nbsp;million}} <small>(up to 1998)</small> <br> <small>(Japan hardware sales)</small>{{#tag:ref|''Beatmania'':
+* [[Japanese yen|¥]]1 billion in May 1998<ref name="konami_report99"/>
+* Yen-Dollar currency conversion: $12.4&nbsp;million<ref name="xe_currency"/>
+|group=n|name=Beatmania}}
+| ${{formatprice|{{inflation|US|12400000|1997|r=0}}}} <br> <small>(Japan hardware sales)</small>
+|-
+| ''[[Scramble (video game)#Reception and legacy|Scramble]]''
+| 1981
+| {{sort|027.473|27,473}} <small>(up to 1981)</small><ref name="stern_production_numbers"/>
+| 
+| 
+|-
+| ''[[List of Sega arcade games|Sega Network Mahjong]]''
+| 2000
+| {{sort|025.986|25,986}} <small>(up to 2006)</small>{{refn|''Sega Network Mahjong MJ'' series:
+* ''Sega Network Mahjong MJ2'' from April 2004 to June 2005: 5,486 units{{#tag:ref|''Sega Network Mahjong MJ2'':
+* April 2004 to March 2005: 4,984<ref name="sega_mar05"/>
+* April 2005 to June 2005: 502<ref name="sega_jun05"/>
+|group=n|name=MJ2}}
+* ''Sega Network Mahjong MJ3'' from April 2005 to March 2006: 7,608 units<ref name="sega_mar06"/>
+* ''Sega Network Mahjong MJ4'' from April 2007 to March 2009: 12,892{{#tag:ref|''Sega Network Mahjong MJ4'':
+* Fiscal year ended March 2008: 10,427<ref name="sega_mar08"/>
+* Fiscal year ended March 2009: 2,465<ref name="sega_mar09"/>
+|group=n|name=MJ4Sales}}
+|group=n}}
+| {{sort|0081.87|$81.87 million}} <small>(up to 2012)</small>{{refn|''Sega Network Mahjong MJ'' series, 2009–2012:
+* ''Sega Network Mahjong MJ4'': $47 million in fiscal year 2010{{#tag:ref|Fiscal year ended 31 March 2010: ¥3.8 billion<ref name="sega_mar10"/>
+* Currency conversion: $47 million<ref name="xe_currency"/>
+|group=n|name=MJ4}}
+* ''Sega Network Mahjong MJ5'': $34.87 million in fiscal year 2012{{#tag:ref|Fiscal year ended March 2012: ¥2.8 billion<ref name="sega12"/>
+* Currency conversion: $34.87 million<ref name="xe_currency"/>
+|group=n|name=MJ5}}
+|group=n}}
+| ${{formatprice|{{inflation|US|81870000|2000|r=0}}}}
+|-
+| ''[[Pole Position (video game)#Sequels|Pole Position]]''
+| 1982
+| {{sort|0|24,550}} <small>(in the US up to 1983)</small>{{refn|''Pole Position'' series US sales:
+* ''[[Pole Position (video game)|Pole Position]]'': 21,000<ref name="atari_memo2"/>
+* ''Pole Position'' sequels:<ref name="atari_production"/>
+** ''[[Pole Position II]]'': 2,400
+** ''[[Final Lap]]'': 1,150
+|group=n}}
+| {{sort|0077.9|$77.9 million}} <small>(up to 1988)</small> <br> <small>(US hardware sales)</small>{{refn|''Pole Position'' series US sales:<ref name="atari_memo2"/><ref name="atari_production"/>
+* ''[[Pole Position (video game)|Pole Position]]'': $60.933 million in 1983
+* ''[[Pole Position II]]'': $7.43 million in 1983
+* ''[[Final Lap]]'': $9.5 million in 1988
+|group=n}}
+| ${{formatprice|{{inflation|US|77900000|1982|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Dig Dug]]''
+| 1982
+| {{sort|022.228|22,228}}<ref name="atari_production"/> <small>(in the US up to 1983)</small><ref name="atari_memo1"/>
+| {{sort|0046.3|$46.3 million}} <small>(up to 1983)</small><ref name="atari_production"/> <br> <small>(US hardware sales)</small>
+| ${{formatprice|{{inflation|US|46300000|1982|r=0}}}} <br> <small>(US hardware sales)</small>
+|-
+| ''[[Pump It Up (video game)|Pump It Up]]''
+| 1999
+| {{sort|020|20,000}} <small>(up to 2005)</small><ref name="pump_sales"/>
+| 
+| 
+|-
+| ''[[Breakout (video game)|Breakout]]''
+| 1976
+| {{sort|015.805|15,805}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0017.745|$17.745 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|17745000|1999|r=0}}}}
+|-
+| ''[[Star Wars computer and video games|Star Wars]]''
+| 1983
+| {{sort|0|14,039}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0009.275|$9.275 million}} <small>(up to 1983)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|9275000|1991|r=0}}}}
+|-
+| ''[[Sprint 2|Sprint]]''
+| 1976
+| {{sort|014.027|14,027}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| {{sort|0028.729|$28.729 million}} <small>(up to 1999)</small><ref name="atari_production99"/>
+| ${{formatprice|{{inflation|US|28729000|1999|r=0}}}}
+|-
+| ''[[Mushiking: King of the Beetles|Mushiking]]''
+| 2003
+| {{sort|013.5|13,500}} <small>(up to 2005)</small><ref name="sega_sep05"/>
+| {{sort|0530|$530&nbsp;million}} <small>(up to 2007)</small>{{#tag:ref|''Mushiking'':
+* 420 million<ref name="gamesetwatch_sega"/> [[100 yen coin]]s<ref name="kotaku_sega"/> = ¥42 billion
+* Currency conversion: $530 million<ref name="xe_currency"/>
+|group=n|name=Mushiking}}
+| ${{formatprice|{{inflation|US|530000000|2003|r=0}}}}
+|-
+| ''[[Sea Wolf (video game)|Sea Wolf]]''
+| 1976
+| {{sort|0|14,000}} <small>(up to 2000)</small><ref name="seawolf_sales"/>
+| 
+| 
+|-
+| ''[[List of Konami games#2000-2009|Mahjong Fight Club]]''
+| 2002
+| {{sort|013|13,000}} <small>(up to 2004)</small><ref name="konami05"/>
+|
+|
+|-
+| ''[[:Template:Gauntlet series|Gauntlet]]''
+| 1985
+| {{sort|0|11,368}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0020.41|$20.41 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| ${{formatprice|{{inflation|US|20410000|1991|r=0}}}}
+|-
+| ''[[Oshare Majo: Love and Berry|Love and Berry]]''
+| 2004
+| {{sort|010.3|10,300}} <small>(up to 2006)</small><ref name="sega_dec06"/>
+| {{sort|0302.68|$302.68&nbsp;million}} <small>(up to 2007)</small>{{#tag:ref|''Love and Berry'':
+* 240 million<ref name="gamesetwatch_sega"/> [[100 yen coin]]s<ref name="kotaku_sega"/> = ¥24 billion
+* Currency conversion: $302.68 million<ref name="xe_currency"/>
+|group=n|name=LoveBerry}}
+| ${{formatprice|{{inflation|US|302680000|2004|r=0}}}}
+|-
+| ''[[Sangokushi Taisen]]''
+| 2005
+| {{sort|009.929|9,929}} <small>(up to 2008)</small>{{refn|''Sangokushi Taisen'' series:
+* Sales from January 2005 to September 2006: 5,153 units
+** ''Sangokushi Taisen'' from January 2005 to March 2006: 1,942 units{{#tag:ref|''Sangokushi Taisen'':
+* As of March 2005: 421<ref name="sega_mar05"/>
+* April 2005 to March 2006: 1,521<ref name="sega_mar06"/>
+|group=n|name=Sangokushi}}
+** ''Sangokushi Taisen 2'' during April–September 2006: 3,211 units<ref name="sega_sep06"/>
+* Sales from April 2007 to March 2008: 4,776
+**166 body units of ''Sangokushi Taisen 2'' during April–September 2007<ref name="sega_sep07"/>
+** 4,610 satellite units of ''Sangokushi Taisen'' from April 2007 to March 2008<ref name="sega_mar08"/>
+|group=n}}
+| {{sort|0148.44|$148.44 million}} <small>(up to 2012)</small>{{refn|''[[Sangokushi Taisen]]'' series, 2009–2011:
+* ''Sangokushi Taisen 3'': $54.4 million{{#tag:ref|''Sangokushi Taisen 3'':
+* Fiscal year ended 31 March 2010: ¥1.8 billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥2.6 billion<ref name="sega_mar11"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥1.8 billion = $22.2401 million
+** ¥2.6 billion = $32.1248 million
+|group=n|name=Sangokushi3}}
+* ''Sengoku Taisen'': $94.04 million{{#tag:ref|''Sengoku Taisen'':
+* Fiscal year ended 31 March 2011: ¥6.4 billion<ref name="sega_mar11"/>
+* Fiscal year ended 31 March 2012: ¥1.2 billion<ref name="sega12"/>
+Currency conversion:<ref name="xe_currency"/>
+* ¥6.4 billion = $79.1 million
+* ¥1.2 billion = $14.94 million
+|group=n|name=Sengoku}}
+|group=n}}
+| ${{formatprice|{{inflation|US|148440000|2005|r=0}}}}
+|-
+| ''[[Pong]]''
+| 1972
+| {{sort|010|8500–19,000}}<ref name="time74"/><ref name="ashley9"/>
+| {{sort|0011|$11&nbsp;million}} <small>(up to 1973)</small><ref name="pong_gross"/>
+| ${{formatprice|{{inflation|US|11000000|1973|r=0}}}}
+|-
+| ''[[Hang-On]]''
+| 1985
+| {{sort|007.5|7,500}} <small>(up to 1985)</small><ref name="hangon_sales"/>
+|
+|
+|-
+| ''[[Initial D Arcade Stage]]''
+| 2001
+| {{sort|007.111|7,111}} <small>(up to 2005)</small>{{refn|''Initial D'' series:
+* ''Initial D Arcade Stage'': 2,534 units from April 2004 to September 2004<ref name="sega_sep04"/>
+* ''Initial D Arcade Stage Ver. 3'': 673 units from April 2004 to March 2005<ref name="sega_mar05"/>
+* ''[[Initial D Arcade Stage 4]]'': 3,904 units from April 2006 to September 2007{{#tag:ref|''Initial D Arcade Stage 4'':
+* 3,056 units in fiscal year ending March 2007.<ref name="sega_mar07"/>
+* 848 units during April–September 2007.<ref name="sega_sep07"/>
+|group=n|name=Stage4}}
+|group=n}}
+| 
+| 
+|-
+| ''[[Dinosaur King]]''
+| 2005
+| {{sort|007|7,000}} <small>(up to 2006)</small><ref name="sega_sep06"/>
+| 
+| 
+|-
+| ''[[Race Drivin'|Hard Drivin']]''
+| 1989
+| {{sort|006.843|6,843}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0022.9|$42.93 million}} <small>(up to 1991)</small><ref name="atari_production"/>
+| {{sort|0075.48|$75.48 million}}
+|-
+| ''[[Xevious]]''
+| 1982
+| {{sort|005.295|5,295}} <small>(in the US up to 1983)</small><ref name="atari_production"/>
+| 
+| 
+|-
+| ''[[Samba de Amigo]]''
+| 1999
+| {{sort|003|3,000}} <small>(up to 2000)</small><ref name="iol_samba"/>
+| {{sort|0047.11|$47.11 million}} <small>(up to 2000)</small>{{#tag:ref|''Samba de Amigo'': ¥3.84 billion
+* Currency conversion: $47.11 million<ref name="xe_currency"/>
+|group=n|name=Samba}}
+| ${{formatprice|{{inflation|US|47110000|1999|r=0}}}}
+|-
+| ''[[Border Break]]''
+| 2009
+| {{sort|002.998|2,998}} <small>(up to 2009)</small><ref name="sega_dec09"/>
+| {{sort|0107|$107 million}} <small>(up to 2012)</small>{{#tag:ref|''Border Break'':
+* Fiscal year ended 31 March 2010: ¥3.3 billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥2.5 billion<ref name="sega_mar11"/>
+* Fiscal year ended 31 March 2012: ¥2.3 billion<ref name="sega12"/><ref name="Sega Sammy Holdings"/>
+* 1st Quarter Ended 30 June 2012: ¥0.5 billion<ref name="sega_jun12"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥3.3 billion = $40.7317 million
+** ¥2.5 billion = $30.8542 million
+** ¥2.3 billion = $28.6371 million
+** ¥0.5 billion = $6.3784 million
+|group=n|name=BorderBreak}}
+| ${{formatprice|{{inflation|US|107000000|2009|r=0}}}}
+|-
+| ''[[World Club Champion Football]]''
+| 2002
+| {{sort|002.479|2,479}} <small>(up to 2009)</small>{{#tag:ref|''World Club Champion Football'' series, unit sales:
+* ''World Club Champion Football: European Clubs 2004–2005'' - 514 units in fiscal year ending March 2006<ref name="sega_mar06"/>
+* ''World Club Champion Football: European Clubs 2004–2005 Ver. 2'' - 276 units during April–September 2006 (240 satellite units during April–June 2006,<ref name="sega_jun06"/> and 36 body units during April–September 2006)<ref name="sega_sep06"/>
+* ''World Club Champion Football: Intercontinental Clubs 2008–2009'' - 1,689 units from June 2008 to December 2009{{#tag:ref|''World Club Champion Football: Intercontinental Clubs''
+* ''World Club Champion Football: Intercontinental Clubs 2006-2007'' - 831 units from June 2008 to March 2009<ref name="sega_mar09"/>
+* ''World Club Champion Football: Intercontinental Clubs 2008–2009'' - 858 units from April 2009 to December 2009<ref name="sega_dec09"/>
+|group=n|name=IntercontinentalSales}}
+|group=n|name=wccf}}
+| {{sort|0706.014|$706.014 million}} <small>(up to 2012)</small>{{#tag:ref|''World Club Champion Football'' series, revenue:
+* Series revenues up until March 2009 - $552.3 million
+** 480 million player cards sold. Prices could range from ¥300 for a single card from an arcade machine to ¥1000 for a starter pack.<ref name="DigInfo TV"/> A ¥1000 starter pack consists of 11 player cards, equivalent to ¥90.91 each.<ref name="GameSpot"/> Total revenues from player card sales thus range from ¥43.64 billion (at ¥90.91 per card) to ¥144 billion (at ¥300 per card). In US dollars, this is equivalent to a range of $552.3 million to $1.82244 billion.<ref name="xe_currency"/> The lowest value of $552.3 million will be assumed.
+* ''World Club Champion Football: Intercontinental Clubs'' revenues from April 2009 to June 2012 - $150.1 million{{#tag:ref|''World Club Champion Football: Intercontinental Clubs''
+* Fiscal year ended 31 March 2010: ¥4.2  billion<ref name="sega_mar10"/>
+* Fiscal year ended 31 March 2011: ¥3.8 billion<ref name="sega_mar11"/>
+* Fiscal year ended 31 March 2012: ¥3.6 billion<ref name="sega12"/><ref name="sega_dec11"/>
+* 1st Quarter Ended 30 June 2012: ¥0.5 billion<ref name="sega_jun12"/>
+* Currency conversion:<ref name="xe_currency"/>
+** ¥4.2 billion = $51.9159 million
+** ¥3.8 billion = $46.9716 million
+** ¥3.6 billion = $44.8253 million
+** ¥0.5 billion = $6.3784 million
+|group=n|name=Intercontinental}}
+|group=n|name=wccf_revenue}}
+| ${{formatprice|{{inflation|US|706014000|2002|r=0}}}}
+|}
+
+==See also==
+{{Portal|Video games}}
+{|
+|
+* [[Video game arcade cabinet|Arcade cabinet]]
+* [[Arcade system board]]
+* [[Claw crane]]
+* [[Money booth]]
+* [[Golden age of arcade video games]]
+* [[Score (game)#Video games|Score]]
+* [[Medal game]]
+* [[Japan Amusement Machinery Manufacturers Association|JAMMA]]
+|
+* [[Killer List of Videogames]]
+* [[List of arcade video games]]
+* [[Neo Geo (system)|Neo-Geo]]
+* [[Pinball]]
+* [[Recycle It, Don't Trash It!]]
+* [[Skee ball]]
+* [[Winners Don't Use Drugs]]
+|}
+
+==Footnotes==
+{{Reflist|group=n|colwidth=25em}}
+
+==References==
+{{Reflist|colwidth=25em}}
+
+==External links==
+{{Commons category|Arcade games}}
+* [http://arcade-museum.com/vaps/ The Video Arcade Preservation Society]
+* [http://aa.arcade-museum.com/ Online collection of ''Automatic Age'' trade journals, 1925-1945] 
+* [http://wayback.archive.org/web/20120103092700/http://system16.com/ System 16 – The Arcade Museum]
+* [http://www.arcade-history.com/ Arcade History (Coin-Op Database)]
+* [http://adangerousbusiness.com/2010/01/05/the-museum-of-soviet-video-games/ The Museum of Soviet Arcade Games] (blog article)
+
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+   ======================={{No more links}}=============================-->
+
+{{DEFAULTSORT:Arcade Game}}
+[[Category:Arcade games| ]]
+[[Category:Video game platforms]]
+[[Category:Video game terminology]]

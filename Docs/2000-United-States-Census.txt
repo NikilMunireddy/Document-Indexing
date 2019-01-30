@@ -1,0 +1,494 @@
+2000 United States Census
+
+{{Use mdy dates|date=November 2013}}
+{{Infobox census
+| name           = Twenty-second Census<br>of the United States
+| logo           = [[File:Seal of the United States Census Bureau.svg|120px]]
+| logo_caption   = U.S. Census Bureau Seal
+| image          = [[File:US-Census-2000Logo.svg|150px]]
+| image_caption  = Census Logo
+| country        = United States
+| region_type    = state
+| date           = April 1, 2000
+| population     = 281,421,906
+| percent_change = {{increase}} 13.2%
+| most_populous  = [[California]]<br>33,871,648
+| least_populous = [[Wyoming]]<br>493,782
+}}
+The '''Twenty-second [[United States Census]]''', known as '''Census 2000''' and conducted by the [[United States Census Bureau|Census Bureau]], determined the resident population of the [[United States]] on April 1, 2000, to be 281,421,906, an increase of 13.2% over the 248,709,873 people enumerated during the [[1990 United States Census|1990 Census]].<ref>{{cite web |url=http://www2.census.gov/prod2/statcomp/documents/1991-02.pdf |format=PDF|title=Population and Area (Historical Censuses) |publisher=United States Census Bureau| accessdate= June 20, 2008 <!--DASHBot-->| archiveurl= //web.archive.org/web/20080624185938/http://www2.census.gov/prod2/statcomp/documents/1991-02.pdf| archivedate= June 24, 2008| deadurl= no}}</ref> This was the twenty-second federal census and was at the time the largest civilly administered peacetime effort in the United States.<ref>{{cite web|url=http://www.census.gov/prod/2001pubs/mso-01icdp.pdf |title=Census.gov '&#39;Introduction to Census 2000 Data Products'&#39; |format=PDF |date= |accessdate=April 25, 2011}}</ref>
+
+Approximately 16 percent of households received a "long form" of the 2000 census, which contained over 100 questions. Full documentation on the 2000 census, including census forms and a procedural history, is available from  the [[Integrated Public Use Microdata Series]].
+
+==Data availability==
+[[Microdata (statistics)|Microdata]] from the 2000 census is freely available through the [[Integrated Public Use Microdata Series]]. [[Aggregate data]] for small areas, together with electronic boundary files, can be downloaded from the [[National Historical Geographic Information System]].
+Personally identifiable information will be available in 2072.<ref>{{Cite web|title = The "72-Year Rule" - History - U.S. Census Bureau|url = https://www.census.gov/history/www/genealogy/decennial_census_records/the_72_year_rule_1.html|website = www.census.gov|accessdate = 2015-10-26|language = en|first = US Census Bureau, Census History Staff,|last = PIO}}</ref>
+
+==State rankings==
+<!-- Please do not add Puerto Rico, it is better if the territories have their own list. -->
+{|class="toccolours sortable" style="padding:0.5em;"
+|-  style="background:#b2beb5; vertical-align:bottom;"
+! style="width:40px" | <center>Rank</center>
+! <center>State</center>
+! <center>Population as of<br /><small>1990 Census</small><ref name="census2000"/></center>
+! <center>Population as of<br /><small>2000 Census</small><ref name="census2000">{{cite web|url=http://www.census.gov/population/cen2000/tab05.txt|title=Resident Population of the 50 States, and the District of Columbia April 1, 2000 (Census 2000) and April 1, 1990 (1990 Census)|date=December 28, 2000|publisher=[[United States Census Bureau]]|accessdate=August 24, 2012}}</ref></center>
+! <center>Change</center>
+! <center>Percent<br/>change</center>
+|-  style="text-align:center; background:#eee;"
+| 1
+| align=left | '''{{flag|California}}'''
+| 29,760,021
+| 33,871,648
+| {{increase}} 4,111,627
+| {{increase}} 13.8%
+|-  style="text-align:center; background:#fff;"
+| 2
+| align=left | '''{{flag|Texas}}'''
+| 16,986,510
+| 20,851,820
+| {{increase}} 3,865,510
+| {{increase}} 22.8%
+|-  style="text-align:center; background:#eee;"
+| 3
+| align=left | '''{{flag|New York}}'''
+| 17,990,455
+| 18,976,457
+| {{increase}} 986,002
+| {{increase}} 5.5%
+|-  style="text-align:center; background:#fff;"
+| 4
+| align=left | '''{{flag|Florida}}'''
+| 12,937,926
+| 15,982,378
+| {{increase}} 3,044,452
+| {{increase}} 23.5%
+|-  style="text-align:center; background:#eee;"
+| 5
+| align=left | '''{{flag|Illinois}}'''
+| 11,430,602
+| 12,419,293
+| {{increase}} 988,691
+| {{increase}} 8.6%
+|-  style="text-align:center; background:#fff;"
+| 6
+| align=left | '''{{flag|Pennsylvania}}'''
+| 11,881,643
+| 12,281,054
+| {{increase}} 399,411
+| {{increase}} 3.4%
+|-  style="text-align:center; background:#eee;"
+| 7
+| align=left | '''{{flag|Ohio}}'''
+| 10,847,115
+| 11,353,140
+| {{increase}} 506,025
+| {{increase}} 4.7%
+|-  style="text-align:center; background:#fff;"
+| 8
+| align=left | '''{{flag|Michigan}}'''
+| 9,295,297
+| 9,938,444
+| {{increase}} 643,147
+| {{increase}} 6.9%
+|-  style="text-align:center; background:#eee;"
+| 9
+| align=left | '''{{flag|New Jersey}}'''
+| 7,730,188
+| 8,414,350
+| {{increase}} 684,162
+| {{increase}} 8.9%
+|-  style="text-align:center; background:#fff;"
+| 10
+| align=left | '''{{flag|Georgia (U.S. state)|2003|name=Georgia}}'''
+| 6,478,216
+| 8,186,453
+| {{increase}} 1,708,237
+| {{increase}} 26.4%
+|-  style="text-align:center; background:#eee;"
+| 11
+| align=left | '''{{flag|North Carolina}}'''
+| 6,628,637
+| 8,049,313
+| {{increase}} 1,420,676
+| {{increase}} 21.4%
+|-  style="text-align:center; background:#fff;"
+| 12
+| align=left | '''{{flag|Virginia}}'''
+| 6,187,358
+| 7,078,515
+| {{increase}} 891,157
+| {{increase}} 14.4%
+|-  style="text-align:center; background:#eee;"
+| 13
+| align=left | '''{{flag|Massachusetts}}'''
+| 6,016,425
+| 6,349,097
+| {{increase}} 332,672
+| {{increase}} 5.5%
+|-  style="text-align:center; background:#fff;"
+| 14
+| align=left | '''{{flag|Indiana}}'''
+| 5,544,159
+| 6,080,485
+| {{increase}} 536,326
+| {{increase}} 9.7%
+|-  style="text-align:center; background:#eee;"
+| 15
+| align=left | '''{{flag|Washington}}'''
+| 4,866,692
+| 5,894,121
+| {{increase}} 1,027,429
+| {{increase}} 21.1%
+|-  style="text-align:center; background:#fff;"
+| 16
+| align=left | '''{{flag|Tennessee}}'''
+| 4,877,185
+| 5,689,283
+| {{increase}} 812,098
+| {{increase}} 16.7%
+|-  style="text-align:center; background:#eee;"
+| 17
+| align=left | '''{{flag|Missouri}}'''
+| 5,117,073
+| 5,595,211
+| {{increase}} 478,138
+| {{increase}} 9.3%
+|-  style="text-align:center; background:#fff;"
+| 18
+| align=left | '''{{flag|Wisconsin}}'''
+| 4,891,769
+| 5,363,675
+| {{increase}} 471,906
+| {{increase}} 9.6%
+|-  style="text-align:center; background:#eee;"
+| 19
+| align=left | '''{{flag|Maryland}}'''
+| 4,781,468
+| 5,296,486
+| {{increase}} 515,018
+| {{increase}} 10.8%
+|-  style="text-align:center; background:#fff;"
+| 20
+| align=left | '''{{flag|Arizona}}'''
+| 3,665,228
+| 5,130,632
+| {{increase}} 1,465,404
+| {{increase}} 40.0%
+|-  style="text-align:center; background:#eee;"
+| 21
+| align=left | '''{{flag|Minnesota}}'''
+| 4,375,099
+| 4,919,479
+| {{increase}} 544,380
+| {{increase}} 12.4%
+|-  style="text-align:center; background:#fff;"
+| 22
+| align=left | '''{{flag|Louisiana|1912}}'''
+| 4,219,973
+| 4,468,976
+| {{increase}} 249,003
+| {{increase}} 5.9%
+|-  style="text-align:center; background:#eee;"
+| 23
+| align=left | '''{{flag|Alabama}}'''
+| 4,040,587
+| 4,447,100
+| {{increase}} 406,513
+| {{increase}} 10.1%
+|-  style="text-align:center; background:#fff;"
+| 24
+| align=left | '''{{flag|Colorado}}'''
+| 3,294,394
+| 4,301,261
+| {{increase}} 1,006,867
+| {{increase}} 30.6%
+|-  style="text-align:center; background:#eee;"
+| 25
+| align=left | '''{{flag|Kentucky}}'''
+| 3,685,296
+| 4,041,769
+| {{increase}} 356,473
+| {{increase}} 9.7%
+|-  style="text-align:center; background:#fff;"
+| 26
+| align=left | '''{{flag|South Carolina}}'''
+| 3,486,703
+| 4,012,012
+| {{increase}} 525,309
+| {{increase}} 15.1%
+|-  style="text-align:center; background:#eee;"
+| 27
+| align=left | '''{{flag|Oklahoma|1988|size=23px}}'''
+| 3,145,585
+| 3,450,654
+| {{increase}} 305,069
+| {{increase}} 9.7%
+|-  style="text-align:center; background:#fff;"
+| 28
+| align=left | '''{{flag|Oregon}}'''
+| 2,842,321
+| 3,421,399
+| {{increase}} 579,078
+| {{increase}} 20.4%
+|-  style="text-align:center; background:#eee;"
+| 29
+| align=left | '''{{flag|Connecticut}}'''
+| 3,287,116
+| 3,405,565
+| {{increase}} 118,449
+| {{increase}} 3.6%
+|-  style="text-align:center; background:#fff;"
+| 30
+| align=left | '''{{flag|Iowa}}'''
+| 2,776,755
+| 2,926,324
+| {{increase}} 149,569
+| {{increase}} 5.4%
+|-  style="text-align:center; background:#eee;"
+| 31
+| align=left | '''{{flag|Mississippi|1996}}'''
+| 2,573,216
+| 2,844,658
+| {{increase}} 271,442
+| {{increase}} 10.5%
+|-  style="text-align:center; background:#fff;"
+| 32
+| align=left | '''{{flag|Kansas}}'''
+| 2,477,574
+| 2,688,418
+| {{increase}} 210,844
+| {{increase}} 8.5%
+|-  style="text-align:center; background:#eee;"
+| 33
+| align=left | '''{{flag|Arkansas}}'''
+| 2,350,725
+| 2,673,400
+| {{increase}} 322,675
+| {{increase}} 13.7%
+|-  style="text-align:center; background:#fff;"
+| 34
+| align=left | '''{{flag|Utah|1913}}'''
+| 1,722,850
+| 2,233,169
+| {{increase}} 510,319
+| {{increase}} 29.6%
+|-  style="text-align:center; background:#eee;"
+| 35
+| align=left | '''{{flag|Nevada}}'''
+| 1,201,833
+| 1,998,257
+| {{increase}} 796,424
+| {{increase}} 66.3%
+|-  style="text-align:center; background:#fff;"
+| 36
+| align=left | '''{{flag|New Mexico}}'''
+| 1,515,069
+| 1,819,046
+| {{increase}} 303,977
+| {{increase}} 20.1%
+|-  style="text-align:center; background:#eee;"
+| 37
+| align=left | '''{{flag|West Virginia}}'''
+| 1,793,477
+| 1,808,344
+| {{increase}} 14,867
+| {{increase}} 0.8%
+|-  style="text-align:center; background:#fff;"
+| 38
+| align=left | '''{{flag|Nebraska}}'''
+| 1,578,385
+| 1,711,263
+| {{increase}} 132,878
+| {{increase}} 8.4%
+|-  style="text-align:center; background:#eee;"
+| 39
+| align=left | '''{{flag|Idaho}}'''
+| 1,006,749
+| 1,293,953
+| {{increase}} 287,204
+| {{increase}} 28.5%
+|-  style="text-align:center; background:#fff;"
+| 40
+| align=left | '''{{flag|Maine}}'''
+| 1,227,928
+| 1,274,923
+| {{increase}} 46,995
+| {{increase}} 3.8%
+|-  style="text-align:center; background:#eee;"
+| 41
+| align=left | '''{{flag|New Hampshire}}'''
+| 1,109,252
+| 1,235,786
+| {{increase}} 126,534
+| {{increase}} 11.4%
+|-  style="text-align:center; background:#fff;"
+| 42
+| align=left | '''{{flag|Hawaii}}'''
+| 1,108,229
+| 1,211,537
+| {{increase}} 103,308
+| {{increase}} 9.3%
+|-  style="text-align:center; background:#eee;"
+| 43
+| align=left | '''{{flag|Rhode Island}}'''
+| 1,003,464
+| 1,048,319
+| {{increase}} 44,855
+| {{increase}} 4.5%
+|-  style="text-align:center; background:#fff;"
+| 44
+| align=left | '''{{flag|Montana}}'''
+| 799,065
+| 902,195
+| {{increase}} 103,130
+| {{increase}} 12.9%
+|-  style="text-align:center; background:#eee;"
+| 45
+| align=left | '''{{flag|Delaware}}'''
+| 666,168
+| 783,600
+| {{increase}} 117,432
+| {{increase}} 17.6%
+|-  style="text-align:center; background:#fff;"
+| 46
+| align=left | '''{{flag|South Dakota}}'''
+| 696,004
+| 754,844
+| {{increase}} 58,840
+| {{increase}} 8.5%
+|-  style="text-align:center; background:#eee;"
+| 47
+| align=left | '''{{flag|North Dakota}}'''
+| 638,800
+| 642,200
+| {{increase}} 3,400
+| {{increase}} 0.5%
+|-  style="text-align:center; background:#fff;"
+| 48
+| align=left | '''{{flag|Alaska}}'''
+| 550,043
+| 626,932
+| {{increase}} 76,889
+| {{increase}} 14.0%
+|-  style="text-align:center; background:#eee;"
+| 49
+| align=left | '''{{flag|Vermont}}'''
+| 562,758
+| 608,827
+| {{increase}} 46,069
+| {{increase}} 8.2%
+|-  style="text-align:center; background:#fff;"
+| —
+| align=left | '''{{flag|Washington, D.C.|1938|name=District of Columbia}}'''
+| 606,900
+| 572,059
+| {{decrease}} -34,841
+| {{decrease}} -5.7%
+|-  style="text-align:center; background:#eee;"
+| 50
+| align=left | '''{{flag|Wyoming}}'''
+| 453,588
+| 493,782
+| {{increase}} 40,194
+| {{increase}} 8.9%
+|-  style="text-align:center; background:#b2beb5;" class="sortbottom"
+| &nbsp;
+| align=left | '''{{flag|United States|1960|size=23px}}'''
+| '''248,709,873'''
+| '''281,421,906'''
+| '''32,712,033'''
+| '''13.2%'''
+|}
+
+==Population profile==
+{{see also|Race and ethnicity in the United States Census}}
+
+The U.S. resident population includes the total number of people in the 50 states and the [[Washington, D.C.|District of Columbia]]. The Bureau also enumerated the residents of the [[Territories of the United States|U.S. territory]] of [[Puerto Rico]]; its population was 3,808,610, an 8.1% increase over the number from a decade earlier.
+
+In an introduction to a more detailed population profile (see [[#External links and references|references below]]), the Census Bureau highlighted the following facts about U.S population dynamics:
+
+* 75% of respondents said they were [[White American|White or Caucasian]] and no other race;
+* [[Hispanics in the United States|Hispanics]] accounted for 12.5% of the U.S. population, up from 9% in 1990;
+* 12.4% (34.5 million Americans) were of [[Germans|German]] descent; [[German American]]s
+* 12.3% were of Black or [[African American]] descent;
+* 3.6% of respondents were [[Asian American|Asian]];
+* 2.4% (6.8 million Americans)<ref>Jayson, Sharon. "'Colorblind' Generation Doesn't Blink at interracial Relationships." USA TODAY. February 7, 2006: n.p. SIRS Researcher. Web. Oct 25, 2010.</ref> of respondents were [[Multiracial American|multiracial]] (2 or more races). The 2000 Census was the first time survey options for multiracial Americans were provided.
+* Between 1990 and 2000, the population aged 45 to 54 grew by 49% and those aged 85 and older grew 38%;
+* Women outnumbered men two to one among those aged 85 and older;
+* Almost one in five adults had some type of [[Americans with disabilities|disability]] in 1997 and the likelihood of having a disability increased with age;
+* Families (as opposed to men or women living alone) still dominated [[Household income in the United States|American households]], but less so than they did thirty years ago;
+* Since 1993, both families and non-families have seen median household incomes rise, with "households headed by a woman without a spouse present" growing the fastest;
+* People in married-couple families had the lowest [[Poverty in the United States|poverty]] rates;
+* The poor of any age were more likely than others to lack [[health insurance]] coverage;
+* The number of [[Primary education|elementary]] and [[Secondary education|high school]] students in 2000 fell just short of the all-time high of 49 million reached in 1970;
+* Improvements in educational attainment cross racial and ethnic lines; and
+* The majority (51%) of U.S. households had access to [[Home computer|computers]]; 42% have [[Internet access]].<ref>{{Cite journal | first = Eric | last = Newburger | title = Home Computers and Internet Use in the United States: August 2000 | journal = Current Population Reports | publisher = U.S. CENSUS BUREAU | pages = 1–2 | date = September 2001| id = | url = http://www.census.gov/prod/2001pubs/p23-207.pdf | format = PDF | accessdate = December 5, 2014 | postscript = }}</ref>
+
+==Changes in population==
+
+Regionally, the [[U.S. Southern States|South]] and [[The West (U.S.)|West]] experienced the bulk of the nation's population increase, 14,790,890 and 10,411,850, respectively. This meant that the [[mean center of U.S. population]] moved to [[Phelps County, Missouri]]. The [[U.S. Northeast|Northeast]] grew by 2,785,149; the [[Midwest]] by 4,724,144.
+
+[[File:2000-census-percent-change.png|750px]]
+
+[[File:2000-census-numeric-change.png|750px]]
+{{-}}
+(maps not to scale)
+
+==Reapportionment==
+
+[[File:2000 census reapportionment.svg|750px]]
+
+The results of the census are used to determine how many [[congressional district]]s each state is [[United States congressional apportionment|apportioned]]. Congress defines the formula, in accordance with Title 2 of the U.S. Code, to reapportion among the states the 435 seats in the [[United States House of Representatives]]. The apportionment population consists of the resident population of the fifty states, plus the overseas military and federal civilian employees and their dependents living with them who could be allocated to a state. Each member of the House represents a population of about 647,000. The populations of the District of Columbia and Puerto Rico are excluded from the apportionment population because they do not have voting seats in the U. S. House of Representatives.
+
+Since [[U.S. Census, 1790|the first census in 1790]], the decennial count has been the basis for the [[United States]] representative form of government. Article I, Section II specifies that "The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative." In 1790, each member of the House represented about 34,000 residents. Since then, the House more than quadrupled in size, and in 1911 the [[United States congressional apportionment|number of representatives]] was fixed at 435. Today, each member represents about 20 times as many constituents.
+
+==Adjustment controversy==
+
+In the years leading up to the 2000 census, there was substantial controversy over whether the Bureau should adjust census figures based on a follow-up survey, called the post-enumeration survey, of a sample of blocks. (In 1999, the Supreme Court ruled 5-4 that the Constitution prohibits the use of such figures for apportionment purposes, but it may be permissible for other purposes where feasible.) The controversy was partly technical, but also partly political, since based on data from the 1990 census both parties believed that adjustment would likely have the effect, after redistricting, of slightly increasing Democratic representation in legislative bodies, but would also give Utah an additional, probably Republican, representative to Congress.<ref>{{cite web|url=http://www.jstor.org/stable/420917 |title=Partisan Politics at Work:Sampling and the 2000 Census |publisher=American Political Science Association |date= |accessdate=}}</ref><ref>[http://www.brook.edu/comm/policybriefs/pb56.htm ] {{wayback|url=http://www.brook.edu/comm/policybriefs/pb56.htm |date=20060122164949 }}</ref>
+
+Following the census, discrepancies between the adjusted census figures and demographic estimates of population change could not be resolved in time to meet legal deadlines for the provision of redistricting data, and the Census Bureau therefore recommended that the unadjusted results be used for this purpose.<ref>{{cite web|url=http://www.census.gov/dmd/www/EscapRep.html |title=Census 2000 ESCAP |publisher=Census.gov |date= |accessdate=April 25, 2011}}</ref> This recommendation was followed by the Secretary of Commerce (the official in charge of making the determination).
+
+==Utah controversy==
+After the census was tabulated, [[Utah]] challenged the results in two different ways. Utah was extremely close to gaining a fourth congressional seat, falling 857 people short, which in turn was allocated to [[North Carolina]]. The margin was later shortened to 80 people, after the federal government discovered that it overcounted the population of North Carolina by 2,673 residents.<ref>{{cite news| url=http://www.accessmylibrary.com/coms2/summary_0286-9047917_ITM | work=The Salt Lake Tribune | title=Census Blooper Costly for Utah; Error May Have Resulted in Loss of House Seat | date=October 1, 2003| accessdate= February 25, 2009 <!--DASHBot-->| archiveurl= //web.archive.org/web/20090315040845/http://www.accessmylibrary.com/coms2/summary_0286-9047917_ITM| archivedate= March 15, 2009| deadurl= yes}}</ref> The Census Bureau counted members of the military and other federal civilian employees serving abroad as residents of their home state but did not count other individuals living outside the United States. Utah claimed that individuals traveling abroad as religious missionaries should be counted as residents and that the failure to do so imposed a burden on [[Mormon]] religious practice. Almost half of all Mormon missionaries, more than 11,000 individuals, were from Utah; only 102 came from North Carolina. If this policy were changed, then Utah would have received an additional seat instead of North Carolina. On November 26, 2002, the Supreme Court affirmed the lower court ruling that rejected Utah's efforts to have Mormon missionaries counted.<ref>Greenhouse, Linda. [http://query.nytimes.com/gst/fullpage.html?res=940DE5DF1E3AF934A15752C1A9679C8B63&scp=1&sq=utah%20mormon%20abroad%20census&st=cse "Justices Deal Utah a Setback In Its Bid to Gain a House Seat"], ''[[The New York Times]]'', November 27, 2001. Accessed July 16, 2008.</ref>
+
+The state of Utah then filed another lawsuit alleging that the statistical methods used in computing the state populations were improper and cost Utah the seat. The Bureau uses a method called [[Imputation (statistics)|imputation]] to assign a number of residents to addresses where residents cannot be reached after multiple efforts. While nationwide the imputation method added .4% to the population, the rate in Utah was .2%. The state challenged that the use of imputation violates the Census Act of 1957 and that it also fails the Constitution's requirement in Article I, Section 2 that an "actual enumeration" be used for apportionment.<ref>Greenhouse, Linda. [http://query.nytimes.com/gst/fullpage.html?res=9904E3DB103BF930A15752C0A9649C8B63 "Supreme Court Roundup; Justices to Hear Utah's Challenge to Procedure in 2000 Census"], ''[[The New York Times]]'', January 23, 2002. Accessed July 16, 2008.</ref> This case, ''[[Utah v. Evans]]'', made it to the [[Supreme Court of the United States|Supreme Court]], but Utah was again defeated.<ref>Greenhouse, Linda. [http://query.nytimes.com/gst/fullpage.html?res=9B03E6D7123FF932A15755C0A9649C8B63&sec=&spon=&pagewanted=2 "THE SUPREME COURT: RIGHT TO PRIVACY; Supreme Court Finds Law On Educational Privacy Isn't Meant for Individuals"], ''[[The New York Times]]'', June 21, 2002. Accessed July 16, 2008.</ref>
+
+==Gay and lesbian controversy==
+[[File:Census2000Person2.png|thumb|Census 2000 Long Form Questionnaire showing the Person '''2''' section including questions ''2'' and ''3'' which allow data to be compiled regarding same-sex partners]]
+The census forms did not include any questions regarding [[sexual orientation]], making it impossible to compile data comparing heterosexual and homosexual populations. However, two questions ''were'' asked that allowed same-sex partnerships to be counted. The questionnaires asked the sex of each person in a household and they asked what the relationship was between each of the members of the household. Respondents could check "Husband/wife" or "unmarried partner" or a number of other relationships.<ref>{{cite web|url=http://www.census.gov/dmd/www/pdf/d02p.pdf |title=Census 2000 Long Form Questionnaire |format=PDF |date= |accessdate=April 25, 2011| archiveurl= //web.archive.org/web/20110604102745/http://www.census.gov/dmd/www/pdf/d02p.pdf| archivedate= June 4, 2011 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite web|url=http://www.census.gov/dmd/www/pdf/d61a.pdf |title=Census 2000 Short Form Questionnaire |format=PDF |date= |accessdate=April 25, 2011| archiveurl= //web.archive.org/web/20110604092229/http://www.census.gov/dmd/www/pdf/d61a.pdf| archivedate= June 4, 2011 <!--DASHBot-->| deadurl= no}}</ref> Responses were tabulated and the [[United States Census Bureau|Census Bureau]] reported that there were more than 658,000 same-sex couples heading households in the United States. However, only about 25% of gay men and 40% of lesbians are in shared-household partnerships at any one time, according to non-Census surveys.<ref>{{cite web|url=http://www.urban.org/toolkit/issues/gayresearchfocus.cfm |title=Gay and Lesbian Demographics |publisher=Urban.org |date= |accessdate=April 25, 2011| archiveurl= //web.archive.org/web/20110428131238/http://www.urban.org/toolkit/issues/gayresearchfocus.cfm| archivedate= April 28, 2011 <!--DASHBot-->| deadurl= no}}</ref> For every same-sex couple tallied in the census, there could be three to six more homosexual un-partnered individuals who would not be counted as gay. The Census reported that same-sex male couples numbered 336,001 and female same-sex couples numbered 329,522.<ref>{{cite web|url=http://www.gaydemographics.org/USA/SF4/SF4states.html |title=US Census unmarried couple data listed by state |publisher=Gaydemographics.org |date= |accessdate=April 25, 2011 |dead-url=yes |archiveurl=https://web.archive.org/20090818043524/http://www.gaydemographics.org:80/USA/SF4/SF4states.html |archivedate=August 18, 2009 }}</ref> Extrapolating from those figures and the surveyed partnering habits of homosexuals, as many as 4.3 million homosexual adults could have been living in the U.S. in 2000. The exact number cannot be known because the Census did not count them specifically. Bisexual and transgender populations were not counted, either, because there were no questions regarding this information. Also unavailable is the number of additional same-sex couples living under the same roof as the first, though this applies to additional heterosexual couples as well. The lack of accurate numbers makes it difficult for lawmakers who are considering legislation on hate crimes or social services for gay families with children.<ref>{{cite news|url=http://pqasb.pqarchiver.com/washingtonpost/access/50941427.html?dids=50941427:50941427&FMT=ABS&FMTS=ABS:FT&date=MAR+12%2C+2000&author=Phuong+Ly&pub=The+Washington+Post&desc=Be+Counted+In+Census%2C+Groups+Urge+Gay+Live-Ins&pqatl=google |title=The Washington Post, March 12, 2000. Be Counted In Census, Groups Urge Gay Live-Ins |publisher=Pqasb.pqarchiver.com |date= March 12, 2000|accessdate=April 25, 2011 |first=Phuong |last=Ly}}</ref> It also makes for less accuracy when predicting the fertility of a population.<ref name="census.gov">{{cite web|url=http://www.census.gov/population/www/documentation/twps0034.html |title=Unbinding the Ties: Edit Effects of Marital Status on Same Gender Couples |publisher=Census.gov |date=January 7, 2009 |accessdate=April 25, 2011}}</ref>
+
+Another issue that concerned gay rights advocates involved the automatic changing of data during the tabulation process. This automatic software data compiling method, called [[Register allocation|''allocation'']], was designed to counteract mistakes and discrepancies in returned questionnaires. Forms that were filled out by two same-sex persons who checked the "Husband/wife" relationship box were treated as a discrepancy. The Census Bureau explained that [[Same-sex marriage|same-sex "Husband/wife"]] data samples were changed to "unmarried partner" by computer processing methods in 99% of the cases. In the remaining 1%, computer systems used one of two possibilities: a) one of the two listed sexes was changed, making the partnership appear heterosexual, or b) if the two partners were more than 15 years apart in age, they might have been reassigned into a familial parent/child relationship.<ref name="technicalnote">{{cite web|url=http://www.census.gov/population/www/cen2000/samesex.html |title=Technical Note on Same-Sex Unmarried Partner Data From the 1990 and 2000 Censuses |publisher=Census.gov |date=January 7, 2009 |accessdate=April 25, 2011}}</ref> The process of automatic reassignment of same-sex marriage data was initiated so that the Census Bureau would not contravene the [[Defense of Marriage Act]] passed in 1996. The Act states:
+{{cquote|In determining the meaning of any Act of Congress, or of any ruling, regulation or interpretation of the various administrative bureaus and agencies of the United States, the word 'marriage' means only a legal union between one man and one woman as husband and wife, and the word 'spouse' refers only to a person of the opposite sex who is a husband or wife.<ref name="technicalnote" />}}
+
+With allocation moving married same-sex couples to the unmarried partner category, social scientists lost information that could have been extracted relating to the social stability of a same gender couple who identify themselves as married.<ref name="census.gov"/>
+
+==References==
+{{reflist|2}}
+{{refbegin}}
+* [http://www.senate.gov/civics/constitution_item/constitution.htm#a1_sec1 Constitution Article I Section II re Enumeration and Apportionment]
+{{refend}}
+
+==Further reading==
+*{{Cite journal |last=Anderson |first=Margo |last2=Fienberg |first2=Stephen E. |year=1999 |title=To Sample or Not to Sample? The 2000 Census Controversy |journal=The Journal of Interdisciplinary History |volume=30 |issue=1 |pages=1–36 |doi=10.1162/002219599551895 |postscript=<!--None--> }}.
+
+==External links==
+{{Commons category|2000 United States Census}}
+
+===United States Census Bureau===
+* [http://www.census.gov/main/www/cen2000.html Census 2000 gateway]
+* [http://www.census.gov/population/www/pop-profile/profile2000.html Population Profile of the United States: 2000]
+* [http://www.census.gov/population/pop-profile/2000/profile2000.ppt Population Profile Introductory slide show], in [[Microsoft PowerPoint|MS Powerpoint]] format
+* [http://quickfacts.census.gov/qfd/ State and County QuickFacts], the most requested information
+* [http://factfinder.census.gov American FactFinder], for population, housing, economic, and geographic data
+* [http://www.census.gov/dmd/www/pdf/d61a.pdf 2000 United States Census Form]
+
+===Other 2000 census websites===
+* [http://www.mla.org/census_main MLA Language Map] from the [[Modern Language Association]]
+* [http://people.howstuffworks.com/census.htm How the Census Works] via Howstuffworks.com
+
+{{Demographics of the United States}}
+
+{{USCensus}}
+
+[[Category:2000 in the United States|Census 2000]]
+[[Category:United States Census]]
+[[Category:2000 censuses|United States]]

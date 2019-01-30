@@ -1,0 +1,152 @@
+Crambidae
+
+{{Taxobox
+| name = Crambidae
+| image = Scoparia.ambigualis.jpg
+| image_width = 240px
+| image_caption = ''[[Scoparia ambigualis]]''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| zoodivisio = [[Ditrysia]]
+| unranked_superfamilia = [[Obtectomera]]
+| superfamilia = [[Pyraloidea]]
+| familia = '''Crambidae'''
+| familia_authority = [[Pierre André Latreille|Latreille]], 1810
+|<!-- type_species = ''Crambus pascuella''
+| type_species_authority = [[Carolus Linnaeus|Linnaeus]], 1758 [use of param is wrong. Citation needs to be as originally described - not in genus Crambus!] -->
+| diversity = Some 11,630 species
+| diversity_link = List of crambid genera
+| subdivision_ranks = [[Subfamilies]]<!-- see below for subspecies accounts to move to subfamily pages when these are created -->
+| subdivision = 
+[[Acentropinae]] (=[[Nymphulinae]])<br>
+[[Cathariinae]]<br>
+[[Crambinae]]<br>
+[[Cybalomiinae]]<br>
+[[Glaphyriinae]] (=Evergestinae, Noordinae) <br>
+[[Heliothelinae]]<br>
+[[Lathrotelinae]]<br>
+[[Linostinae]]<br>
+[[Midilinae]]<br>
+[[Musotiminae]]<br>
+[[Odontiinae]]<br>
+[[Pyraustinae]]<br>
+[[Schoenobiinae]]<br>
+[[Scopariinae]]<br>
+[[Spilomelinae]] (=Wurthiinae)
+}}
+The '''Crambidae''' are the '''grass moth''' family of [[Lepidoptera]] ([[butterflies]] and [[moth]]s). They are quite variable in appearance, the nominal subfamily Crambinae (grass moths) taking up closely folded postures on grass stems where they are inconspicuous, while other subfamilies include brightly coloured and patterned insects which rest in wing-spread attitudes.
+
+In many classifications, the Crambidae have been treated as a [[subfamily]] of the [[Pyralidae]] or snout-moths. The principal difference is a structure in the [[ear]]s called the praecinctorium, which joins two tympanic membranes in the Crambidae, and is absent from the Pyralidae. The latest review by Munroe and Solis, in Kristensen (1999), retains the Crambidae as a full family.
+
+==Interactions with Humans==
+Since crambids are relatively common throughout human settlements, the moths tend to affect crops and gardens, whether harmfully, beneficially or harmlessly.
+==Beneficial crambids==
+*Water hyacinth moth ''[[Niphograpta albiguttalis]]'', is used to control its host (''[[Eichhornia crassipes]]''), in [[Florida]].
+*Water veneer, ''[[Acentria ephemerella]]'' is a biocontrol agent used against [[Myriophyllum spicatum|Eurasian watermilfoil]]
+*Bamboo borer, ''[[Omphisa fuscidentalis]]'', of which the caterpillars are used for human consumption (see [[entomophagy]])
+
+==Harmless crambids==
+*Mint moth ''[[Pyrausta aurata]]''
+
+==Harmful crambids==
+Crambid larvae are typically [[stem borer]]s in plants of the [[grass]] family. As this family contains many important crops, some Crambidae species achieve pest status. The [[European corn borer]] ''Ostrinia nubilalis'' is perhaps the best known - introduced to the [[USA]] in the early 1900s, it is now widespread in all but the westernmost states. Other pest species include:
+* ''[[Chilo (moth)|Chilo]] partellus'', spotted stalk borer
+* ''[[Chilo suppressalis]]'', Asiatic rice borer
+* ''[[Crambus]]'' spp., sod webworms
+* ''[[Duponchelia fovealis]]''
+* ''[[Diatraea saccharalis]]'', sugarcane borer
+* ''[[Maruca]]'' spp., bean pod borers
+* ''[[Scirpophaga innotata]]'', rice white stemborer
+* ''Diatraea grandiosella'', [[southwestern corn borer]]
+* ''[[Desmia maculalis]]'', grape leaffolder
+
+==Gallery==
+<gallery>
+Image:Maruca vitrata.jpg|''[[Maruca vitrata]]''
+File:Moth from Spilomelinae under Crambidae W IMG_2758.jpg|[[Spilomelinae]] species
+File:Agriphila straminella on Achillea.ogv|''[[Agriphila straminella]]'' on Achillea
+File:Aethaloessa calidalis by Kadavoor.jpg|''[[Aethaloessa calidalis]]''
+File:Bocchoris inspersalis on Desmodium triflorum at Kadavoor.jpg|''[[Bocchoris inspersalis]]'' on ''[[Desmodium triflorum]]''
+</gallery>
+
+<!-- =Subfamilies=
+The '''Acentropinae''' (= Nymphulinae) comprise more than 700 species worldwide. The early stages are almost always aquatic. Acentropinae are supported as monophyletic by the presence of enlarged, chimney-like stigmata on abdominal segments 2 to 4 of the pupa. The priority of the name Acentropinae over Nymphulinae was ruled upon by the [[International Commission on Zoological Nomenclature]] in 2003, case 3048, Opinion 2021.
+
+The '''Cathariinae''' comprise only one genus with ''Catharia pyrenaealis'' from the Pyrenees and ''C. simplonialis'' from the European Alps. Both species fly at high altitudes. However, their classification is uncertain. Some entomologists support the hypothesis that both populations are conspecific, and that Cathariinae is subordinate to Odontiinae. All characters supporting the Cathariinae are reductions: the chaetosemata, male gnathos, and female tympanal organs are reduced.
+
+The '''Cybalomiinae''' comprise about 55 species in dry regions of southern Europe, Africa, Asia, Australia, western North America, central and South America, and the Antilles. So far as known, the larvae of most species feed on Cruciferae and Capparidaceae. The chaetosemata are absent. In males, the fore wings have a fovea between R3+4 und R5 and the gnathos is distally strongly sclerotised, spatulate, or triangular.
+
+The '''Glaphyriinae''' (= Alatuncusiinae, Dichogaminae) comprise about 200 species mainly in the New World, except ''Hellula undalis'' is described from Italy, and is a pest of crucifers in the Old World and Hawaii. The male genitalia have an uncus, but the gnathos is much reduced or absent. The larvae feed as leaf folders on Cruciferae or Capparidaceae, miners in ''Opuntia'' stems and heads of ''Typha'' spp., case bearers on lichens, parasites on psychid caterpillars, and inquilines in nests of vespid wasps.
+
+The '''Heliothelinae''' are a small group with only 48 described species in the Old World. They are characterized by an inwardly directed spine in the female corpus bursae. The two main groups in Heliothelinae are the Heliothelini, which are adapted to hot and dry environments and the moths are day flyers and have a noctuoid appearance, and the Hoploscopini, which occur in lower altitudes of tropical mountain rain forests in the Oriental region and Queensland; the adults are nocturnal.
+
+The '''Linostinae''' comprise only one genus with three species, and occur from southern Mexico to Bolivia and southern Brazil. The life history of the early stages is unknown. Linostine moths have broad, white wings with fine, black markings. The maxillary palpi, proboscis, ocelli, and chaetosemata are absent.
+
+The '''Midilinae''' comprise 47 species ranging from Mexico to northern Argentinia, but they are absent from the West Indies. Known larvae are borers in Araceae. The moths have an unpyraloid-like appearance with broad wings and a robust body. They are often confused with Geometridae, Noctuidae, or even Saturniidae. The wings of many species have hyaline discal spots and angulate or sinuate terminal margins.
+
+'''Musotiminae''' comprise 166 species in the tropics, New Zealand, Micronesia and Samoa. Many of the known larvae feed on ferns and are white, delicate moths with dark black or orange markings. Musotimines can be distinguished by the following combination of characters, but they are not unique to the musotimines: spinula present, ductus seminalis originating beyond the middle of the ductus bursae, labial palpus upturned, and chaetosemata present.
+
+The '''Noordinae''' comprise one genus with six species in the Near East, the Indian subregion, and some islands of the Indian Ocean, including Madagascar and Australia, where one species might be introduced. The larvae live in the buds of ''Moringa'' (Moringaceae). The moths are small but robust. Their tympanal organs are partly imbedded in the thorax. The male valvae are broadly rounded (resembling those of Odontiinae) and segment VIII bears complex sclerotizations with androconiae.
+
+The '''Odontiinae''' comprise 367 species for which more than 100 generic names have been introduced in the scientific literature. Species of this subfamily are present on all continents and continental islands, except New Zealand. The group is most numerous and diverse in eremic habitats where the moths are often diurnal. The larvae of Odontiini are generally leaf miners, while those of Eurhypiini are leaf folders, flower and bud feeders, and fruit and stem borers. Odontiine larvae use a wide range of host plants, but mostly Dicotyledonae. Male odontiines have a semimembraneous uncus which is broad and distally bilobed, and the valva is more or less broadly rounded at the apex.
+
+The '''Schoenobiinae''' comprise 169 species in the temperate and tropical zones of both hemispheres. The larvae bore in marsh-living Poaceae. Species of ''Scirpophaga'' in the Old World and ''Rupela'' in the New World are important pests of rice. Sternite VIII of the males in all but four primitive genera have a rounded membraneous area, covered by a posteriorly directed brush of stiff scales arising from the posterior margin of sternite VII, associated with a platelike, scale-bearing coremata flanking the vinculum.
+
+The '''Scopariinae''' comprise more than 530 described species in the temperate zones of the Northern and Southern Hemispheres, on oceanic islands and in mountain rain forests of the tropics. Uniquely in the Pyraloidea, the larvae are known to feed on mosses, but there are also feeding records from lycopodes, lichens, and seed-plants.
+Scopariine moths are best characterized by their wing pattern elements with the typical X-like distal discoidal stigma and a dentation of the postmedian line towards this stigma.
+-->
+
+<!--
+==See also==
+* [[List of crambid genera]]
+
+[this list is in need of complete genus-by-genus overhaul. It is a list of all crambid genus-level taxa that have ever been established, NOT a list of currently valid crambid genera! It cannot be linked, and it might be better to delete it completely because fixing it might not be worth the effort of manually reviweing 1,600+ taxa.]
+-->
+
+==Taxonomy==
+*subfamilia [[incertae sedis]]
+**''[[Exsilirarcha]]'' <small>Salmon & Bradley, 1956</small>
+*Subfamily [[Acentropinae]] <small>Stephens, 1836</small>
+*Subfamily [[Crambinae]] <small>Latreille, 1810</small>
+*Subfamily [[Cybalomiinae]] <small>Marion, 1955</small>
+*Subfamily [[Glaphyriinae]] <small>W. T. M. Forbes, 1923</small> (= Evergestinae <small>Marion, 1952</small>, Noordinae <small>Minet, 1980</small>)<ref name="Regier">Regier, J. C., C. Mitter, M. A. Solis, J. E. Hayden, B. Landry, M. Nuss, T. J. Simonsen, S.-H. Yen , A. Zwick & M. P. Cummings 2012: [http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3113.2012.00641.x/epdf A molecular phylogeny for the pyraloid moths (Lepidoptera: Pyraloidea) and its implications for higher-level classification.] – Systematic Entomology, London 37 (4): 635–656.</ref>
+**''[[Noorda]]'' <small> Walker, 1859</small> (= Epinoorda Rebel, 1902)
+*Subfamily [[Heliothelinae]] <small>Amsel, 1961</small>
+*Subfamily [[Lathrotelinae]] <small>Clarke, 1971</small><ref>Minet, J. 2015: Lathrotelidae Clarke, 1971: a rehabilitated name deserving subfamily rank (Lepidoptera, Crambidae). – Bulletin de la Société entomologique de France, Paris 120 (1): 109–112.</ref>
+*Subfamily [[Linostinae]] <small>Amsel, 1956</small>
+**''[[Linosta]]'' <small> Möschler, 1882</small>
+*Subfamily [[Midilinae]] <small>Munroe, 1958</small>
+*Subfamily [[Musotiminae]] <small>Meyrick, 1884</small>
+*Subfamily [[Odontiinae]] <small>Guenée, 1854</small>
+*Subfamily [[Pyraustinae]] <small>Meyrick, 1890</small>
+*Subfamily [[Schoenobiinae]] <small>Duponchel, 1846</small>
+*Subfamily [[Scopariinae]] <small>Guenée, 1854</small>
+*Subfamily [[Spilomelinae]] <small>Guenée, 1854</small> (= Wurthiinae <small>Roepke, 1916</small>)<ref name="Regier" />
+**''[[Deuterophysa]]'' <small>Warren, 1889</small>
+**''[[Niphopyralis]]'' <small>Hampson, 1893</small>
+**''[[Udea]]'' <small>Guenée in Duponchel, 1845</small>
+
+==References==
+<references/>
+{{commons category}}	
+{{wikispecies}}
+
+==Literature==
+Kristensen, N.P. (Ed.). 1999. Lepidoptera, Moths and Butterflies. Volume 1: Evolution, Systematics, and Biogeography. ''Handbuch der Zoologie. Eine Naturgeschichte der Stämme des Tierreiches / Handbook of Zoology. A Natural History of the phyla of the Animal Kingdom.'' Band / Volume IV Arthropoda: Insecta Teilband / Part 35: 491 pp. Walter de Gruyter, Berlin, New York.
+
+==See also==
+* [[List of crambid genera]]
+
+==External links==
+* Family [http://lepidoptera.pro/family/crambidae/ Crambidae] at Lepidoptera.pro
+* [http://entomology.ifas.ufl.edu/creatures/beneficial/leps/waterlily_leafcutter.htm ''Synclita obliteralis'', waterlily leafcuter] on the [[University of Florida|UF]] / [[Institute of Food and Agricultural Sciences|IFAS]] Featured Creatures Web site
+*[http://entomology.ifas.ufl.edu/creatures/field/sugarcane_borer.htm ''Diatraea saccharalis'', sugarcane borer]
+*[http://www.cirrusimage.com/moth_grape_leaf_folder.htm Grape Leaffolder Moth] Cirrus Digital
+
+{{Lepidoptera}}
+
+[[Category:Crambidae| ]]
+[[Category:Moth families]]
+[[Category:Articles containing video clips]]

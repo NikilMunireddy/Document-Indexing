@@ -1,0 +1,67 @@
+All About Jazz
+
+{{ref improve|date=September 2014}}
+{{Infobox website
+| name = ''All About Jazz''
+| logo = All-about-jazz-logo.png
+| logo_size = 220px      
+| logo_alt = 
+| logo_caption =       <!-- or: | logocaption =  -->
+| screenshot = 
+| collapsible =        <!-- set as "on", "y", etc, otherwise omit/leave blank -->
+| collapsetext =       <!-- collapsible area's heading (default "Screenshot"); omit/leave blank if collapsible not set -->
+| background =         <!-- for collapsetext heading; default grey (gainsboro) -->
+| screenshot_size =    <!-- default 300px -->
+| screenshot_alt = 
+| caption = 
+| url =                {{URL|www.allaboutjazz.com}}
+| slogan = 
+| commercial =         <!-- "Yes", "No" or leave blank -->
+| type = [[Music]], [[jazz]], [[online magazine]]
+| registration = 1995
+| language = English
+| num_users = 
+| content_license =    <!-- or: | content_licence = -->
+| programming_language = 
+| owner =              <!-- or: | owners = -->
+| author =             <!-- or: creator / authors / creators -->
+| editor =             Michael Ricci
+| launch_date =        1995
+| revenue = 
+| alexa =              <!-- {{increase}} {{steady}} {{decrease}} [http://www.alexa.com/siteinfo/example.com ##] (US/Global MM/YYYY) -->
+| ip = 
+| current_status = 
+| footnotes 
+}}
+
+'''''All About Jazz''''' is an [[online magazine]]<ref>{{cite book|last1=Colwell|first1=Richard|last2=Hewitt|first2=Michael|title=Teaching of Instrumental Music|chapter=Web Sites|chapter-url=https://books.google.com/books?id=WrhmCgAAQBAJ&pg=PT1045|publisher=[[Routledge]]|year=2015|accessdate=October 31, 2015|edition=4th|isbn=1317350839}}</ref> and website for [[jazz]] enthusiasts and industry professionals. It is based in [[Philadelphia, PA|Philadelphia]].
+
+==Overview==
+Founded by Michael Ricci in 1995, ''All About Jazz'' is maintained by a volunteer staff of writers, editors, and musicians, and provides coverage of all genres of jazz from independent to major [[record label]] releases. As an [[advocacy]] site, All About Jazz aims to raise the awareness of jazz music, its history and its players. It has been awarded "Jazz Website of the Year" thirteen times by the [[Jazz Journalists Association]].<ref name="aaj-jja-award">{{cite web|url=http://www.jjajazzawards.org/|title=Jazz Journalists Association: JJA Jazz Awards - Past JJA Award Winners|publisher=jjajazzawards.org|work='''Manual search required''' (left column)|accessdate=July 23, 2014|archiveurl=http://web.archive.org/web/20140706100133/http://www.jjajazzawards.org/|archivedate=July 6, 2014|deadurl=no <!-- alternative link (manual search required), http://www.jazzhouse.org/  -->}}</ref>
+
+Ricci launched [http://www.jazznearyou.com Jazz Near You], a jazz event discovery and listing platform in 2012.
+
+==References==
+{{Reflist}}
+
+==About the website==
+*[http://jnpdi.blogspot.com/2007/09/michael-ricci-alma-do-allaboutjazz-em.html Jazz No País Do Improviso! Interview (2007)]
+*[http://www.allaboutjazz.com/php/article.php?id=736 Jazznin Interview (2003)]
+*[http://www.allaboutjazz.com/php/article.php?id=948 All About All About Jazz (Humor)]
+
+==External links==
+*{{Official website|www.allaboutjazz.com|All About Jazz}} – official website
+*{{Official website|italia.allaboutjazz.com|All About Jazz}} – official website {{it icon}}
+*[http://forums.allaboutjazz.com Forums] at All About Jazz
+*[http://www.jazznearyou.com Jazz Near You]
+
+[[Category:American online magazines]]
+[[Category:American music magazines]]
+[[Category:Jazz magazines]]
+[[Category:Music websites]]
+[[Category:Magazines established in 1995]]
+[[Category:Magazines published in Pennsylvania]]
+[[Category:Media in Philadelphia, Pennsylvania]]
+
+{{jazz-stub}}
+{{italic title}}

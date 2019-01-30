@@ -1,0 +1,98 @@
+Cossidae
+
+{{redirect|Goat miller|the species called "goat moth"|Cossus cossus}}
+{{refimprove|date=May 2011}}
+{{taxobox
+ | name                = Cossidae
+ | image               = Cossulamagnifica.JPG
+ | image_width         = 200px
+ | image_caption       = ''[[Cossula magnifica]]'' ([[Cossulinae]])
+ | regnum              = [[Animal]]ia
+ | phylum              = [[Arthropod]]a
+ | classis             = [[Insect]]a
+ | ordo                = [[Lepidoptera]]
+ | superfamilia        = [[Cossoidea]]
+ | familia             = '''Cossidae'''
+ | familia_authority   = Leach, 1815
+ | subdivision_ranks   = Subfamilies
+|<!-- diversity = about 670 species
+ | diversity_link      = Lepidopteran diversity [information outdated: more than 113 genera] -->
+ | subdivision         = 
+}}
+'''Cossidae''', the '''cossid millers''' or '''carpenter millers''', make up a [[family (biology)|family]] of mostly large [[Miller (moth)|miller moth]]s. Ths family contains over 110 [[genera]] with almost 700 known [[species]], and many more species await description. Carpenter millers are [[nocturnal]] [[Lepidoptera]] found worldwide, except the [[Southeast Asia]]n [[subfamily]] [[Ratardinae]] which is mostly active during the day.
+
+[[Image:Witchetty grub.jpg|thumb|left|[[Witchetty grub]]s of the [[Zeuzerinae]] ''[[Endoxyla leucomochla]]'']]
+This family includes many species with large [[caterpillar]]s and [[moth]]s with a [[wingspan]] from {{convert|9|-|24|cm|in|frac=4|abbr=on}}. These moths are mostly grey in color; some have long narrow wings and resemble [[hawkmoth]]s (Sphingidae) which are more advanced [[Macrolepidoptera]] however. Many are twig, bark or leaf [[mimic]]s, and Cossidae often have some sort of large marking at the tip of the forewing uppersides, conspicuous in flight but resembling a broken-off twig when the animals are resting. Most cossid caterpillars are tree borers, in some species taking up to three years to mature. The caterpillars [[pupa]]te within their tunnels; they often have an unpleasant smell, hence another colloquial name is '''goat moths'''.
+
+The family includes the [[Carpenterworm]] (''[[Prionoxystus robiniae]]'') and the [[goat moth]] (''Cossus cossus'') which have gained notoriety as [[pest (organism)|pest]]s. On the other hand, the large caterpillars of species that do not smell badly are often [[Entomophagy|edible]]. [[Witchetty grub]]s &ndash; among the [[Outback]]'s most famous [[bush tucker]] &ndash; are most commonly the caterpillars of ''[[Endoxyla leucomochla]]'', one of the more than 80 cossid species in [[Australia]]. In [[Chile]], the sweet-smelling caterpillars of the [[Chilean Moth]] (''[[Chilecomadia moorei]]'') are harvested in quantity and internationally traded as [[butterworm]]s, for use as [[pet food]] and [[fishing bait]].
+
+==Systematics==
+Some other families, such as [[Dudgeoneidae]], [[Metarbelidae]] and [[Ratardidae]], have been included within this one time and again. The first is considered a distinct family of the [[Cossoidea]] today recognizable by their [[abdominal]] [[tympanal organ]]s which the Cossidae lack, whereas the other two are usually kept in the Cossidae as [[subfamilies]]. Some unrelated millers were included in the Cossidae in error too, such as the [[genus]] ''[[Holcoceroides]]'' which are more primitive [[Ditrysia]], or the [[Andesianidae]] which are even more ancient [[Heteroneura]].
+
+The Cossidae were usually divided into six [[subfamilies]].<ref>Pitkin & Jenkins (2004) and see references in Savela (2006)</ref> However, numerous new [[subfamilies]] have been described recently, the current taxonomy is:
+[[File:Древоточец эвкалиптовый.jpg|thumb|right|Specimens of the large [[Zeuzerinae]] genus ''[[Xyleutes]]'']]
+*'''Subfamily [[Catoptinae]]'''
+*'''Subfamily [[Chilecomadiinae]]'''
+*'''Subfamily [[Cossinae]]'''
+*'''Subfamily [[Cossulinae]]'''
+*'''Subfamily [[Hypoptinae]]'''
+*'''Subfamily [[Mehariinae]]'''
+*'''Subfamily [[Metarbelinae]]''' <small>(disputed)</small>
+*'''Subfamily [[Politzariellinae]]'''
+*'''Subfamily [[Pseudocossinae]]'''
+*'''Subfamily [[Ratardinae]]''' <small>(disputed)</small>
+*'''Subfamily [[Stygiinae]]'''
+*'''Subfamily [[Zeuzerinae]]'''
+
+[[File:Zyganisus caliginosus (ento-csiro-au).jpg|thumb|right|''[[Zyganisus caliginosus]]'' belongs to an [[Australia]]n genus of unclear affiliations]]
+'''''[[Incertae sedis]]'''''
+<div float="left">
+{{col-begin|width=70%}}
+{{col-1-of-3}}
+* ''[[Acritocera]]''
+* ''[[Anastomophleps]]''
+* ''[[Archaeoses]]''
+* ''[[Charmoses]]''
+{{col-2-of-3}}
+* ''[[Dolecta]]''
+* ''[[Eusthenica]]'' (or in [[Glyphipterigidae]])
+* †''[[Gurnetia]]''
+* ''[[Huayna]]''
+{{col-3-of-3}}
+* ''[[Psychidarbela]]''
+* ''[[Ptilomacra]]''
+* ''[[Schausiania]]''
+{{col-end}}
+</div>
+
+==Excluded genera==
+* †''[[Achthina]]''
+* ''[[Adelopsyche]]''
+* ''[[Degia]]''
+* ''[[Hemilipia]]''
+* ''[[Mekla (moth)|Mekla]]''
+* ''[[Nomima]]''
+* ''[[Pecticossus]]''
+* ''[[Phragmatoecioides]]''
+* ''[[Pseudurgis]]''
+* ''[[Synaptophleps]]''
+* ''[[Theatrista]]''
+* ''[[Trigonocyttara]]''
+* †''[[Xyleutites]]''
+* ''[[Westia]]''
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* Pitkin, Brian & Jenkins, Paul (2004): Butterflies and Moths of the World, Generic Names and their Type-species &ndash; [http://www.nhm.ac.uk/jdsml/research-curation/research/projects/butmoth/GenusList3.dsml?searchPageURL=index.dsml&FAMILYqtype=equals&FAMILY=Cossidae&sort=GENUS Cossidae]. Version of 2004-NOV-05. Retrieved 2009-FEB-28.
+* Savela, Markku (2006): Markku Savela's Lepidoptera and some other life forms &ndash; [http://www.nic.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/cossoidea/cossidae/index.html Cossidae]. Version of December 28, 2006. Retrieved February 28, 2009.
+
+==External links==
+{{commons category}}
+*[http://www.flickr.com/search/?q=cossidae Flickr] Cossidae
+
+{{Lepidoptera}}
+
+[[Category:Cossidae| ]]
+[[Category:Moth families]]

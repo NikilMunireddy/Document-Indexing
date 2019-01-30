@@ -1,0 +1,174 @@
+Conoidea
+
+{{Automatic taxobox
+| name = Conoidea
+| image = Conus californicus.jpg
+| image_caption = A live ''[[Californiconus californicus]]'', ''[[in situ]]'', anterior end on the right
+| taxon = Conoidea
+| authority = [[John Fleming (naturalist)|Fleming]], 1822<ref>[[John Fleming (naturalist)|Fleming J.]] (June 1822). ''The philosophy of zoology, a general view of the structure, functions and classification of animals'' '''2'''. Constable & Co., Edinburgh, 618 pp., Conidae is on the page 490.</ref>
+| subdivision_ranks = Families
+| subdivision = ''See text''
+}}
+'''Conoidea''' is a [[Taxonomic rank|superfamily]] of [[predatory]] [[sea snail]]s, [[marine (ocean)|marine]] [[gastropod]] [[Mollusc|mollusk]]s within the suborder [[Hypsogastropoda]]. This superfamily is a very large group of marine mollusks, estimated at about 340 recent valid genera and subgenera, and considered by one authority to contain 4,000 named living species.<ref name="Puillandre 2008"/> 
+
+This superfamily includes the [[Turridae|turrids]], the [[Terebridae|terebras]] (also known as auger snails or auger shells) and the [[Conidae|cones]] or cone snails.<ref name="Puillandre 2008"/> The [[Phylogeny|phylogenetic relationships]] within this superfamily are poorly established. Several families (especially the [[Turridae]]), subfamilies and genera are thought to be [[polyphyletic]].<ref name="Puillandre 2008">{{Cite journal 
+| last1 = Puillandre | first1 = N. 
+| last2 = Samadi | first2 = S. 
+| last3 = Boisselier | first3 = M. -C. 
+| last4 = Sysoev | first4 = A. V. 
+| last5 = Kantor | first5 = Y. I. 
+| last6 = Cruaud | first6 = C. 
+| last7 = Couloux | first7 = A. 
+| last8 = Bouchet | first8 = P. 
+| doi = 10.1016/j.ympev.2007.11.007 
+| title = Starting to unravel the toxoglossan knot: Molecular phylogeny of the "turrids" (Neogastropoda: Conoidea) 
+| journal = Molecular Phylogenetics and Evolution 
+| volume = 47 
+| issue = 3 
+| pages = 1122–1134 
+| year = 2008 
+| pmid = 18180170 
+| pmc = 
+}}</ref>
+
+In contrast to Puillandre's estimate, Bandyopadhyay et al. (2008)<ref>{{Cite journal | last1 = Bandyopadhyay | first1 = P. K. | last2 = Stevenson | first2 = B. J. | last3 = Ownby | first3 = J. P. | last4 = Cady | first4 = M. T. | last5 = Watkins | first5 = M. | last6 = Olivera | first6 = B. M. | doi = 10.1016/j.ympev.2007.08.002 | title = The mitochondrial genome of Conus textile, coxI–coxII intergenic sequences and Conoidean evolution | journal = Molecular Phylogenetics and Evolution | volume = 46 | issue = 1 | pages = 215–223 | year = 2008 | pmid =  17936021| pmc =2718723 }}</ref> estimated that the superfamily Conoidea contains about 10,000 species.<!-- including fossil species ? --> Tucker (2004) even speaks of 11,350 species in the group of taxa commonly referred to as turrids.<ref name="Tucker"> Tucker, J.K. 2004 ''Catalog of recent and fossil turrids (Mollusca: Gastropoda).'' Zootaxa 682:1–1295. </ref> 3000 recent taxa are potentially valid species. Little more than half of the known taxa are fossil species. Many species are little known and need more investigation to find their exact systematic place.<ref name="Tucker" />
+
+The superfamily is known for its toxoglossan [[radula]], which is used to inject powerful [[neurotoxin]]s into its prey; within the superfamily there are four somewhat different varieties of radula. <ref>{{cite journal|last=Kantor|first=Yuri I.|author2=Taylor|title=John D.|journal=J. Mollus. Stud.|year=1991|volume=57|issue=1|pages=129–134|doi=10.1093/mollus/57.1.129|url=http://mollus.oxfordjournals.org/content/57/1/129.extract|accessdate=27 August 2011}}</ref>
+
+The radula types <ref>{{cite journal|last=Kantor|first=Yuri I.|author2=Taylor|title=John D.|journal=J.Zool.,Lond.|year=2000|volume=252|pages=251–262|url=http://www.sevin.ru/laboratories/Marine_Invertebrates/kantor/071_Kantor_Taylor_2000.pdf|accessdate=27 August 2011}}</ref> are as follows:
+* Type 1 Drilliidae type: five teeth in each row with comb-like lateral teeth and flat-pointed marginal teeth
+* Type 2 Turridae type: two or three teeth in a row with the marginal teeth being of the duplex or wishbone form.
+* Type 3 Pseudomelatomidae type: two or three teeth in a row with curved and solid marginal teeth.
+* Type 4 hypodermic type: two hollow, enrolled, marginal teeth in each row with an absent or reduced radular membrane.
+
+In 2009, a proposed new classification of this superfamily was published by John K. Tucker and Manuel J. Tenorio.  In 2011, a new classification of this superfamily was published by Bouchet et al.  Both classifications were based upon [[cladistic|cladistical]] analyses and included modern taxonomic [[molecular phylogeny]] studies.
+
+==Families==
+===1993 taxonomy===
+;Families and subfamilies included within the superfamily Conoidea according to Taylor, ''et al.'' 1993<ref> Taylor J. D., Kantor Y. I. & Sysoev A. V. (1993). "Foregut anatomy, feeding mechanisms, relationships and classification of Conoidea (Toxoglossa) (Gastropoda)". ''Bull. Nat. Hist. Mus. (Zool.)'' '''59''': 125–169. </ref>
+* [[Clavatulidae]] Clay, 1853
+* [[Conidae]] [[John Fleming (naturalist)|Fleming]], 1822
+*** [[Coninae]] – cone snails
+*** [[Clathurellinae]]
+*** [[Conorbiinae]]
+*** [[Mangeliinae]]
+*** [[Oenopotinae]]
+*** [[Raphitominae]]
+* [[Drilliidae]] Olsson, 1964
+* [[Pseudomelatomidae]] Morrison, 1964
+* [[Strictispiridae]] McLean, 1971
+* [[Terebridae]] Mörch, 1852 – auger shells
+* [[Turridae]] H. Adams & A. Adams, 1853 (1838) – turrids
+This same classification was accepted by Bouchet & Rocroi in 2005 <ref> Bouchet P., Rocroi J.-P., Frýda J., Hausdorf B., Ponder W., Valdés Á. & Warén A. (2005). "Classification and nomenclator of gastropod families". Malacologia: International Journal of Malacology (Hackenheim, Germany: ConchBooks) 47 (1–2): 1–397. ISBN 3-925919-72-4. ISSN 0076-2997 </ref>
+
+===2009 taxonomy===
+In 2009 John K. Tucker and Manuel J. Tenorio proposed a classification system for the [[Conidae|cone shells and their allies]] (which resorb their inner walls during growth) based upon a [[cladistic|cladistical]] analysis of anatomical characters including the [[Radula|radular tooth]], the [[morphology (biology)|morphology]] (i.e. shell characters), as well as an analysis of prior [[molecular phylogeny]] studies, all of which were used to construct phylogenetic trees.<ref name="Systematic">Tucker J.K. & Tenorio M.J. (2009) Systematic classification of Recent and fossil conoidean gastropods. Hackenheim: Conchbooks. 296 pp., at p. 133</ref>  In their phylogeny, Tucker and Tenorio noted the close relationship of the cone species within the various clades, corresponding to their proposed families and genera; this also corresponded to the results of prior molecular studies by Puillandre ''et al.'' and others.<ref name="Bandy">P.K. Bandyopadhyay, B.J. Stevenson, J.P. Ownby, M.T. Cady, M. Watkins, & B. Olivera (2008), ''The mitochondrial genome of Conus textile, coxI-conII intergenic sequences and conoidean evolution.'' Molecular Phylogenetics and Evolution 46: 215-223.</ref><ref name="Williams">S.T. Williams & T.F. Duda, Jr. (2008), ''Did tectonic activity stimulate Oligo-Miocene speciation in the Indo-West Pacific?'' Evolution 62:1618-1634.</ref><ref name="Cunha">R.L. Cunha, R. Castilho, L. Ruber, & R. Zardoya (2005), ''Patterns of cladogenesis in the venomous marine gastropod genus Conus from the Cape Verde Islands'' Systematic Biology 54(4):634-650.</ref><ref name="Duda & Kohn">T.F. Duda, Jr. & A.J. Kohn (2005), ''Species-level phylogeography and evolutionary history of the hyperdiverse marine gastropod genus Conus'', Molecular Phylogenetics and Evolution 34:257-272.</ref><ref name="Duda & Rolan">T.F. Duda, Jr. & E. Rolan (2005), ''Explosive radiation of Cape Verde Conus, a marine species flock'', Molecular Ecology 14:267-272.</ref><ref name="Vallejo">B. Vallejo, Jr. (2005), ''Inferring the mode of speciation in the Indo-West Pacific Conus (Gastropoda: Conidae)'', Journal of Biogeography 32:1429-1439.</ref><ref name="Puillandre">N. Puillandre, S. Samadi, M. Boesselier, A. Sysoev, Y. Kantor, C. Cruaud, A. Couloux, & P. Bouchett (2008), ''Starting to unravel the toxoglossan knot: molecular phylogeny of the "turrid" (Neogastropoda: Conoidea),'' Molecular Phylogenetics and Evolution 47:1122-1134.</ref>  This 2009 proposed classification system also outlined the taxonomy for the other clades of Conoidean gastropods (that do ''not'' resorb their inner walls), also based upon morphological, anatomical, and molecular studies, and removes the [[Turridae|turrid snails]] (which are a distinct large and diverse group) from the [[Conidae|cone snails]] and creates a number of new families.<ref name="Systematic" />  For Tucker and Tenorio’s classification system for the [[Conidae|cone shells and their allies]] (and the other clades of Conoidean gastropods) see [[Tucker & Tenorio cone snail taxonomy 2009]].
+
+===2011 taxonomy===
+The original classification, Taylor ''et al.'' 1993 (and Bouchet & Rocroi in 2005) was thoroughly changed by the publication in 2011 of the article.<ref> [http://mollus.oxfordjournals.org/content/77/3/273.full Bouchet P., Kantor Yu.I., Sysoev A. & Puillandre N. (2011) A new operational classification of the Conoidea. Journal of Molluscan Studies 77: 273–308.]</ref> The authors presented a new classification of the Conoidea on the genus level, based on anatomical characters but also on the [[molecular phylogeny]] as presented by Puillandre N., et al., 2008.<ref> Puillandre N., et al., 2008 " Starting to unravel the toxoglossan knot: molecular phylogeny of the 'turrids' (Neogastropoda: Conoidea)". Molecular Phylogenetics and Evolution 2008;47:1122–1134 </ref> They recognize fifteen families: [[Conidae]], [[Terebridae]], and the [[polyphyletic]] family [[Turridae]] resolved into 13 [[monophyletic]] families (containing 358 currently recognized genera and subgenera). The authors follow tentatively the classification for the family Conidae as presented by Tucker & Tenorio, 2009<ref name="Systematic" />  who divided the monogeneric family Conidae into 82 genera. However, there is no final opinion on this issue yet, as a new molecular phylogeny of the Conidae is in preparation. There are a number of genera within the Conoidea that could not be assigned to any family.
+
+In 2012, a new lineage in the Conoidea was revealed, leading to the creation of a new family [[Bouchetispiridae]] <small>Kantor, Strong & Puillandre, 2012</small> that includes one genus ''[[Bouchetispira]]'' <small>Kantor, Strong & Puillandre, 2012</small>  and one species ''[[Bouchetispira vitrea]]'' <small>Kantor, Strong & Puillandre, 2012</small>, which was found on an isolated sea mount off [[New Caledonia]]. This is probably the sole survivor of a larger [[clade]].<ref> [http://dx.doi.org/10.1093/mollus/eys007 Kantor Y.I., Strong E.E. & Puillandre N. (2012) ''A new lineage of Conoidea (Gastropoda: Neogastropoda) revealed by morphological and molecular data''. Journal of Molluscan Studies 78: 246–255] </ref>
+
+'''Recognized families in the Conoidea (as of 2012):'''
+* [[Borsoniidae]] <small>Bellardi, 1875</small>
+* [[Bouchetispiridae]] <small>Kantor, Strong & Puillandre, 2012</small>
+* [[Clathurellidae]] <small>H. Adams & A. Adams, 1858</small>
+* [[Clavatulidae]] <small>Gray, 1853</small>
+* [[Cochlespiridae]] <small>Powell, 1942</small>
+* [[Conidae]] <small>Fleming, 1822</small>
+* [[Conorbidae]] <small>de Gregorio, 1880</small>
+* [[Drilliidae]] <small>Olsson, 1964</small>
+* [[Horaiclavidae]] <small>Bouchet, Kantor, Sysoev & Puillandre, 2011</small>
+* [[Mangeliidae]] <small>P. Fischer, 1883</small>
+* [[Mitromorphidae]] <small>Casey, 1904</small>
+* [[Pseudomelatomidae]] <small>Morrison, 1966</small>
+* [[Raphitomidae]] <small>Bellardi, 1875</small>
+* [[Strictispiridae]] <small>McLean, 1971</small>
+* [[Terebridae]] <small>Mörch, 1852</small>
+* [[Turridae]] <small>H. Adams & A. Adams, 1853 (1838)</small>
+;Genera not assigned to a family:
+* † ''[[Austroclavus]]'' <small>Powell, 1942</small> 
+* † ''[[Austrotoma]]'' <small>Finlay, 1924</small> 
+* ''[[Bathyferula]]'' <small>Stahlschmidt, Lamy & Fraussen, 2012</small>
+* † ''[[Campylacrum]]'' <small>Finlay & Marwick, 1937</small> 
+* † ''[[Clinuropsis]]'' <small>Vincent, 1913</small> 
+* † ''[[Cosmasyrinx]]'' <small>Marwick, 1931</small> 
+* ''[[Cryptomella]]'' <small>Finlay, 1924</small>
+* ''[[Echinoturris]]'' <small>Powell, 1935</small>
+* ''[[Eoscobinella]]'' <small>Powell, 1942</small>
+* † ''[[Eothesbia]]'' <small>Finlay & Marwick, 1937</small> 
+* † ''[[Eoturris]]'' <small>Finlay & Marwick, 1937</small> 
+* ''[[Hemipleurotoma]]'' <small>Cossmannn, 1889</small>
+* † ''[[Insolentia]]'' <small>Finlay, 1926</small> 
+* ''[[Mangaoparia]]'' <small>Vella, 1954</small>
+* ''[[Maoricrassus]]'' <small>Vella, 1954</small>
+* † ''[[Marshallaria]]'' <small>Finlay & Marwick, 1937</small> 
+* † ''[[Moniliopsis]]'' <small>Cossmann, 1918</small> 
+* ''[[Notogenota]]'' <small>Powell, 1942</small>
+* † ''[[Orthosurcula]]'' <small>Casey, 1904</small> 
+* ''[[Parasyngenochilus]]'' <small>Long, 1981</small>
+* † ''[[Parasyrinx]]'' <small>Finlay, 1924</small> 
+* ''[[Pleurotomoides]]'' <small>Bronn, 1831</small>
+* † ''[[Pseudoinquisitor]]'' <small>Powell, 1942</small> 
+* † ''[[Rugobela]]'' <small>Finlay, 1924</small> 
+* ''[[Sinistrella]]'' <small>Meyer, 1887</small>
+* ''[[Tahudrillia]]'' <small>Powell, 1942</small>
+* † ''[[Tahuia]]'' <small>Maxwell, 1992</small> 
+* † ''[[Waitara (gastropod)|Waitara]]'' <small>Marwick, 1931</small> 
+* † ''[[Zeatoma]]'' <small>Maxwell, 1992</small>
+;Families and subfamilies brought into synonymy:
+* Acusidae <small>Gray, 1853</small>: synonym of [[Terebridae]] <small>Mörch, 1852</small>
+* Clavidae <small>Casey, 1904</small>: synonym of [[Drilliidae]] <small>Olsson, 1964</small>
+* Clionellidae <small>Stimpson, 1865</small>: synonym of [[Clavatulidae]] <small>Gray, 1853</small>
+* Conilithidae <small>Tucker & Tenorio, 2009</small>: synonym of [[Conidae]] <small>Fleming, 1822</small>
+* Crassispirinae <small>McLean, 1971</small>: synonym of [[Pseudomelatomidae]] <small>Morrison, 1966</small>
+* Cytharinae <small>Thiele, 1929</small>: synonym of [[Mangeliidae]] <small>P. Fischer, 1883</small>
+* Daphnellinae <small>Casey, 1904</small>: synonym of [[Raphitomidae]] <small>Bellardi, 1875</small>
+* Diptychomitrinae <small>L. Bellardi, 1888</small>: synonym of [[Mitromorphidae]] <small>Casey, 1904</small>
+* Melatomidae <small>Gill, 1871</small>: synonym of [[Clavatulidae]] <small>Gray, 1853</small>
+* Mitrolumnidae <small>Sacco, 1904</small>: synonym of [[Mitromorphidae]] <small>Casey, 1904</small>
+* Oenopotinae <small>Bogdanov, 1987</small>: synonym of [[Mangeliidae]] <small>P. Fischer, 1883</small>
+* Pervicaciidae <small>Rudman, 1969</small>: synonym of [[Terebridae]] <small>Mörch, 1852</small>
+* Pleurotomellinae <small>F. Nordsieck, 1968</small>: synonym of [[Raphitomidae]] <small>Bellardi, 1875</small>
+* Pleurotomidae: synonym of [[Turridae]] <small>H. Adams & A. Adams, 1853 (1838)</small>
+* Pseudotominae <small>Bellardi, 1875</small>: synonym of [[Borsoniidae]] <small>Bellardi, 1875</small>
+* Pusionellinae <small>Gray, 1853</small>: synonym of [[Clavatulidae]] <small>Gray, 1853</small>
+* Taraninae <small>Casey, 1904</small>: synonym of [[Raphitomidae]] <small>Bellardi, 1875</small>
+* Taranteconidae <small>Tucker & Tenorio, 2009</small>: synonym of [[Conidae]] <small>Fleming, 1822</small>
+* Thatcheriidae <small>Powell, 1942</small>: synonym of [[Raphitomidae]] <small>Bellardi, 1875</small>
+* Turriculinae <small>Powell, 1942</small>: synonym of [[Clavatulidae]] <small>Gray, 1853</small>
+* Zemaciinae <small>Sysoev, 2003</small>: synonym of [[Borsoniidae]] <small>Bellardi, 1875</small>
+* Zonulispirinae <small>McLean, 1971</small>: synonym of [[Pseudomelatomidae]] <small>Morrison, 1966</small>
+;Genera (not assigned to a family) brought into synonymy:
+* ''Defrancia'' <small>Millet, 1826</small>: synonym of ''[[Pleurotomoides]]'' Bronn, 1831
+* ''Fusosurcula'' <small>Is. Taki, 1951</small>: synonym of † ''[[Orthosurcula]]'' Casey, 1904
+
+==References==
+{{Reflist}}
+
+;Secondary sources
+
+* [http://mollus.oxfordjournals.org/content/77/3/273.full Bouchet P., Kantor Yu.I., Sysoev A. & Puillandre N. (2011) A new operational classification of the Conoidea. Journal of Molluscan Studies 77: 273–308.]
+* [http://mollus.oxfordjournals.org/content/77/3/259.full Puillandre N., Kantor Yu.I., Couloux A., Meyer C., Rawlings T., Todd J.A., and Bouchet P. (2011) The dragon tamed? A molecular phylogeny of the Conoidea (Gastropoda). J. of Molluscan Studies (2011) 77(3): 259–272.]
+* {{cite journal
+ | journal = [[Zootaxa]]
+ | pages = 1–1295
+ | title = Catalog of Recent and fossil turrids (Mollusca: Gastropoda)
+ | last = Tucker
+ | first = John K.
+ | volume = 682
+ | date=12 October 2004
+ | doi =
+ | url = http://www.mapress.com/zootaxa/list/list2004.html#October%202004
+ | accessdate=
+}}
+* {{Cite journal | last1 = Kantor | first1 = Y. I. | last2 = Taylor | first2 = J. D. | doi = 10.1111/j.1469-7998.2000.tb00620.x | title = Formation of marginal radular teeth in Conoidea (Neogastropoda) and the evolution of the hypodermic envenomation mechanism | journal = Journal of Zoology | volume = 252 | issue = 2 | pages = 251 | year = 2000 | pmid =  | pmc = }}
+
+== External links ==
+{{wikispecies|Conoidea}}
+
+
+{{DEFAULTSORT:Conoidea}}
+[[Category:Neogastropoda]]
+[[Category:Gastropod superfamilies]]
+[[Category:Marine gastropods]]

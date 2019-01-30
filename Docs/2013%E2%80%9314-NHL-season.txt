@@ -1,0 +1,546 @@
+2013–14 NHL season
+
+{{Use mdy dates|date=March 2014}}
+{{Infobox sports season
+| title            = 2013–14 NHL season
+| league           = [[National Hockey League]]
+| sport            = [[Ice hockey]]
+| duration         = October 1, 2013 – June 13, 2014
+| no_of_games      = 82
+| no_of_teams      = 30
+| attendance       = 52,347,789
+| season           = Regular season
+| season_champ_name= [[Presidents' Trophy]]
+| season_champs    = [[Boston Bruins]]
+| MVP              = [[Sidney Crosby]] ([[Pittsburgh Penguins|Pittsburgh]])
+| MVP_link         = Hart Memorial Trophy
+| top_scorer       = [[Sidney Crosby]] ([[Pittsburgh Penguins|Pittsburgh]])
+| top_scorer_link  = Art Ross Trophy
+| playoffs         = Playoffs
+| playoffs_link    = 2014 Stanley Cup playoffs
+| conf1            = Eastern
+| conf1_link       = Eastern Conference (NHL)
+| conf1_champ      = [[New York Rangers]]
+| conf1_runner-up  = [[Montreal Canadiens]]
+| conf2            = Western
+| conf2_link       = Western Conference (NHL)
+| conf2_champ      = [[Los Angeles Kings]]
+| conf2_runner-up  = [[Chicago Blackhawks]]
+| finals           = Stanley Cup
+| finals_link      = 2014 Stanley Cup Finals
+| finals_champ     = [[Los Angeles Kings]]
+| finals_runner-up = [[New York Rangers]]
+| playoffs_MVP     = [[Justin Williams]]
+| playoffs_MVP_link=
+| nextseason_year  = [[2014–15 NHL season|2014–15]]
+| prevseason_year  = [[2012–13 NHL season|2012–13]]
+| seasonslistnames = [[List of NHL seasons|NHL]]
+}}
+The '''2013–14 NHL season''' was the [[List of NHL seasons|97th]] season of operation (96th season of play) of the [[National Hockey League]] (NHL). This season features a realignment of the league's 30 teams from a six to a four division format. The regular season began Tuesday, October 1, and concluded Sunday, April 13. The Stanley Cup playoffs began April 16.
+
+==League business==
+
+===Realignment===
+The relocation of the former [[Atlanta Thrashers]] franchise to the current [[Winnipeg Jets]] in 2011 prompted the league to discuss realignment. On December 5, 2011, the NHL Board of Governors approved a conference realignment plan that would eliminate the current six-division setup and move into a four-conference structure from the 2012–2013 season.<ref name="http://www.nhl.com/ice/news.htm?id=604852">{{cite news | url=http://www.nhl.com/ice/news.htm?id=604852 | title=Governors adopt radical four-conference realignment plan | date=December 5, 2011 | first=Dan | last=Rosen | work=NHL.com | accessdate=December 5, 2011}}</ref> Under the plan, which was designed to better accommodate the [[Effects of time zones on North American broadcasting|effects of time zone differences]], each team would have played 50 or 54 intra-conference games, depending on whether it was in a seven- or eight-team conference, and two games (home and road) against each non-conference team. On January 6, 2012, the league announced that the [[National Hockey League Players' Association|NHLPA]] had rejected the proposed realignment, citing concerns about fairness, travel and the inability to see a draft schedule before approving, and that as a result, it would not implement the realignment until at least 2013–14.<ref>[http://www.wgrz.com/sports/article/149232/4/NHL-realignment-on-hold-after-union-balks NHL realignment on hold after union balks]. ''The Sports Network''. Retrieved January 6, 2012.</ref><ref>[http://www.hockeybuzz.com/blog.php?post_id=41111&blogger_id=1 NHL Alignment Will NOT Change as NHLPA Rejects Re-alignment. Here's why...]. ''Hockeybuzz.com''. Retrieved January 8, 2012.</ref>
+
+Upon NHLPA rejection of the previous realignment, a new joint NHL-NHLPA plan was proposed in February 2013 as a modification of the previous plan with both the [[Columbus Blue Jackets]] and [[Detroit Red Wings]] moving to the East and the Winnipeg Jets moving to the West. This revised plan also adjusted the previously proposed four-conference system to a four-division/two-conference system, with the Eastern Conference consisting of two eight-team divisions, and the Western Conference consisting of two seven-team divisions. A new playoff format was also introduced to accommodate the new proposal, with the top three teams in each division making the playoffs, along with two wild-cards in each conference (for a total of 16 playoff teams).<ref>{{cite web|url=http://www.tsn.ca/nhl/story/?id=416887|title=NHL Realignment Includes Four Divisions, Wild Card Teams|work=[[The Sports Network|TSN]]|date=February 26, 2013}}</ref> The NHLPA officially gave its consent to the NHL's proposed realignment plan on March 7,<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=659069&navid=nhl:topheads|title=Board of Governors Vote Next Step For Realignment Plan|work=[[NHL.com]]|author= Dan Rosen|date=March 8, 2013}}</ref> and then the NHL's Board of Governors approved the realignment and the new playoff format on March 14, to be implemented prior to the 2013–2014 season.<ref name=Realignment20130314>{{cite web|url=http://www.nhl.com/ice/news.htm?id=660138|title=Realignment plan approved by Board of Governors|work=[[NHL.com]]|author=Dan Rosen|date=March 14, 2013}}</ref> The league then announced the names of the divisions on July 19: the two eight-team divisions in the Eastern Conference would be the [[Atlantic Division (NHL)|Atlantic Division]] and the [[Metropolitan Division]], and the two seven-team divisions in the Western Conference would be the [[Central Division (NHL)|Central Division]] and the [[Pacific Division (NHL)|Pacific Division]].<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=678456|title=NHL introduces new division names with schedule|work=[[NHL.com]]|author=Dan Rosen|date=July 19, 2013}}</ref>
+
+The new alignment was as follows:
+
+{{col-begin}}
+{{col-2}}
+'''Western Conference'''
+{| class="wikitable" style="width:100%;"
+|-
+!  style="background:#fdd; width:50%;"| Pacific Division
+!  style="background:#ffe5b4; width:50%;"| Central Division
+|-
+| [[Anaheim Ducks]] || [[Chicago Blackhawks]]
+|-
+| [[Calgary Flames]] || [[Colorado Avalanche]]
+|-
+| [[Edmonton Oilers]] || [[Dallas Stars]]
+|-
+| [[Los Angeles Kings]] || [[Minnesota Wild]]
+|-
+| [[Arizona Coyotes|Phoenix Coyotes]] || [[Nashville Predators]]
+|-
+| [[San Jose Sharks]] || [[St. Louis Blues]]
+|-
+| [[Vancouver Canucks]] || [[Winnipeg Jets]]
+|}
+{{col-2}}
+'''Eastern Conference'''
+{| class="wikitable" style="width:100%;"
+|-
+!  style="background:#ddf; width:50%;"| Atlantic Division
+!  style="background:#dfd; width:50%;"| Metropolitan Division
+|-
+| [[Boston Bruins]] || [[Carolina Hurricanes]]
+|-
+| [[Buffalo Sabres]] || [[Columbus Blue Jackets]]
+|-
+| [[Detroit Red Wings]] || [[New Jersey Devils]]
+|-
+| [[Florida Panthers]] || [[New York Islanders]]
+|-
+| [[Montreal Canadiens]] || [[New York Rangers]]
+|-
+| [[Ottawa Senators]] || [[Philadelphia Flyers]]
+|-
+| [[Tampa Bay Lightning]] || [[Pittsburgh Penguins]]
+|-
+| [[Toronto Maple Leafs]] || [[Washington Capitals]]
+|}
+{{col-end}}
+{{NHL Labelled Map|realignment=2013|float=center}}
+</small>
+
+===Canadian TV deals===
+The league's Canadian broadcast agreements with [[Hockey Night in Canada|CBC]] and [[NHL on TSN|TSN]]/[[NHL on RDS|RDS]] expired at the end of the season.<ref>{{cite news | url=http://www.theglobeandmail.com/sports/cbc-has-much-at-stake-in-next-nhl-television-rights-negotiation/article4601079/ | title=CBC has much at stake in next NHL television rights negotiation  | publisher=The Globe and Mail | date=October 11, 2012 | accessdate=June 1, 2013 | location=Toronto}}</ref> At the same time, the league had reportedly aimed for its next round of Canadian television contracts to have a value of at least $3.2 billion in total. During negotiations, NHL commissioner [[Gary Bettman]] had reportedly recognized the broadcaster's financial difficulties and budget cuts imposed by the [[Conservative Party of Canada|federal Conservative government]] which had decreased CBC's chances of maintaining rights to ''Hockey Night in Canada'' and offered CBC a simplified broadcast package which would have consisted of a national doubleheader on Saturday nights (as opposed to regional coverage of multiple games), reduced playoff coverage, and the loss of digital rights and the All-Star Game. Rights to the remaining properties not covered under the CBC's contract would have been offered to other broadcasters.<ref>{{cite news | url=http://www.theglobeandmail.com/sports/hockey/cbcs-hockey-night-in-canada-window-set-to-close/article13571882/ | title=CBC's Hockey Night in Canada window set to close  | publisher=The Globe and Mail | date=August 2, 2013 | accessdate=November 3, 2013 | location=Toronto}}</ref><ref name=gandm-howcbclost>{{cite news|last1=Shoalts|first1=David|title=Hockey Night in Canada: How CBC lost it all|url=http://www.theglobeandmail.com/sports/hockey/hockey-night-in-canada-how-cbc-lost-it-all/article21072643/|website=The Globe and Mail|accessdate=11 October 2014|location=Toronto|date=October 10, 2014}}</ref>  However, CBC Sports' staff, including executive director [[Jeffrey Orridge]], continued to insist that it have exclusivity for every Saturday night game involving Canadian teams. In turn, CBC was failed to reach a deal;  [[BCE]] (owners of [[Bell Media]] and previous cable rightsholder [[The Sports Network|TSN]] and over the air broadcaster, [[CTV Television Network|CTV]]) made a bid for sole national rights to the NHL, and attempted to contact the CBC in regards to forming a partnership. However, CBC Sports' staff did not respond. In turn, [[Rogers Communications]] also made a bid of its own.<ref name=gandm-howcbclost/>
+
+On November 26, 2013, the NHL announced it had sold twelve seasons' worth of exclusive national broadcast rights to NHL games to Rogers, who would broadcast games across its numerous platforms, including [[Sportsnet]], [[Sportsnet One]], and [[City (TV network)|City]], at a price of C$5.2 billion. ''[[Hockey Night in Canada]]'' would continue on the CBC for the next four seasons; the CBC would give Rogers six hours of free airtime each night to air the broadcasts but paid no rights fee. CBC would be allotted time during the broadcasts to promote its other programming. French language broadcasts were moved to [[TVA Sports]] under a sub-licensing deal with Rogers. The moves have left both Bell Media (except for its regional properties) and the CBC (which in turn, it would no longer compete with private broadcasters for professional sports) officially shut out of the national NHL broadcasts.<ref name=gandm-rogersnhl14>{{cite news|title=Rogers reaches 12-year broadcast deal with NHL worth $5.2-billion|url=http://www.theglobeandmail.com/report-on-business/rogers-reaches-12-year-broadcast-deal-with-nhl-worth-52-billion/article15600412/|work=The Globe and Mail|accessdate=November 26, 2013|location=Toronto|date=November 27, 2013}}</ref><ref>{{cite news|url=http://www.cbc.ca/news/canada/cbc-to-cut-657-jobs-will-no-longer-compete-for-professional-sports-rights-1.2605504|title=CBC to cut 657 jobs, will no longer compete for professional sports rights|publisher=CBC News|date=10 April 2014|accessdate=10 April 2014}}</ref>
+
+===Rule changes===
+* All players with fewer than 25 games experience were required to wear visors. The additional minor penalty for instigating a fight when wearing a visor was removed. Players were now assessed an extra minor penalty for unsportsmanlike conduct should they remove their helmet prior to fighting.<ref name=nhl-rule-changes-2013 />
+*Jerseys which were not worn properly (such as being tucked in), and other equipment infractions would now result in a minor penalty.
+*The base of the goal frame was now shallower and narrower by 4 inches. The overall width of the base of the frame was reduced from 96 to 88 inches and the depth of the base of the frame was reduced from 44 to 40 inches.<ref>{{cite web|url=http://ingoalmag.com/wp-content/uploads/2013/09/Approved-Goal-Frame-2013-2014.jpg|title=Approved Goal Frame 2013-14|accessdate=April 8, 2014}}</ref> Additionally, the corners where the goal post meets the crossbar were bent with a smaller radius, allowing more area across the goal plane.<ref>[http://bluejacketsxtra.dispatch.com/content/blogs/puck-rakers/2013/09/little-change-big-difference.html ] {{wayback|url=http://bluejacketsxtra.dispatch.com/content/blogs/puck-rakers/2013/09/little-change-big-difference.html |date=20130910040230 }}</ref> The size of the goal itself remains 6 feet wide and 4 feet tall.
+*The attainable pass exception to the icing rule was removed. Officials would nullify a potential icing only if a player made contact with the puck.
+*Goaltender's equipment was modified. Pads couldn't rise higher on the goaltender's leg than 45 percent of the distance between the center of the knee and pelvis. The pads could rise no higher than nine inches above the knee for goalies with an upper-leg measurement of 20 inches.
+*A new hybrid icing rule was adopted. The hybrid icing rule required officials to stop play immediately in a potential icing situation where, in the judgement of the official, the defender would win a race to the puck ahead of an attacker, and the puck would cross the goal line. The official was to make his judgement when a player gains an imaginary line connecting the end-zone faceoff dots. Note that the first player to gain this imaginary line may not have been the one who would win a race to the puck.<ref name=nhl-rule-changes-2013>[http://www.nhl.com/ice/news.htm?id=684940 Hybrid icing tops list of rule changes for 2013-14]. NHL.com Retrieved September 30, 2013.</ref>
+
+===Uniforms===
+*The Dallas Stars debuted a new logo, featuring a star with the letter D on it, as well as redesigned uniforms. The green on the uniform was restored as the dominant color, using a brighter shade called "Victory Green," reminiscent of the [[Minnesota North Stars|team]] before their move to Dallas, thus making the colors easier to distinguish.<ref>{{cite web | title=Behind The Scenes: The Creation of the Stars' New Logo and Uniforms | url=http://stars.nhl.com/club/news.htm?id=672977 | publisher=NHL.com | date=June 4, 2013 | accessdate=June 5, 2013}}</ref>
+*The Nashville Predators add a slightly tapered gold stripe to the pants and they reverse the color pattern on their road socks. Previously, the color pattern matched that of the ends of the sleeves.
+*The Anaheim Ducks introduced a replica of their inaugural 1993–94 jersey to wear in a regular season game against the Ottawa Senators on October 13.
+*The Anaheim Ducks, Florida Panthers, and Boston Bruins were all wearing special patches to commemorate their first season in the NHL. The Ducks and Panthers were each wearing 20th season patches, and the Bruins were wearing 90th season patches. The Bruins' commemorative patch features six stars which signify the franchise's six Stanley Cup victories.
+*The Carolina Hurricanes debuted a new uniform design that features different striping patterns on the home and away jerseys.<ref>{{cite web | title=Hurricanes Introduce New Home and Road Uniforms | url=http://hurricanes.nhl.com/club/news.htm?id=672903 | publisher=NHL.com | date=June 4, 2013 | accessdate=June 5, 2013}}</ref>
+*The Toronto Maple Leafs and Detroit Red Wings wore specialized jerseys for the [[2014 Winter Classic]].
+*The Los Angeles Kings and Pittsburgh Penguins retired their third jerseys.
+*The San Jose Sharks modified their home and away jerseys.<ref>{{cite web|last=Stubits|first=Brian|url=http://www.cbssports.com/nhl/eye-on-hockey/23236738/sharks-unveil-newlook-jerseys-with-classic-approach-less-orange|title=Sharks unveil new-look jerseys with classic approach, less orange|publisher=[[CBS Sports]]|date=August 20, 2013|accessdate=October 31, 2013}}</ref>
+*The Minnesota Wild changed their away jersey.
+*The Buffalo Sabres added a new third jersey, featuring a gold front and navy back.
+*The Calgary Flames retired their throwback third, and added a new third jersey partially inspired by [[Western wear]].
+*The New York Islanders, New York Rangers, Chicago Blackhawks, Pittsburgh Penguins, Los Angeles Kings and Anaheim Ducks each unveiled new jerseys featuring chromed logos for the [[2014 Stadium Series]].
+*Although the New Jersey Devils also introduced a chromed version of their original red and green logo, they wore their red and green throwback jerseys unaltered (save for a Stadium Series patch) for their Stadium Series game against the Rangers.
+*The Ottawa Senators and Vancouver Canucks wore specialized jerseys for the 2014 Heritage Classic. The Canucks reused the 1915 [[Vancouver Millionaires]] design from the previous season, while the Senators wore an off-white version of their black third jersey.
+
+==Regular season==
+{| class="wikitable" style="float:right;"
+|+ Coaching changes
+!colspan="3"|Offseason
+|-
+!Team
+!2012–13 coach
+!2013–14 coach
+|-
+|[[Dallas Stars]]
+|[[Glen Gulutzan]]
+|[[Lindy Ruff]]
+|-
+|[[Edmonton Oilers]]
+|[[Ralph Krueger]]
+|[[Dallas Eakins]]
+|-
+|[[New York Rangers]]
+|[[John Tortorella]]
+|[[Alain Vigneault]]
+|-
+|[[Vancouver Canucks]]
+|Alain Vigneault
+|John Tortorella
+|-
+|[[Colorado Avalanche]]
+|[[Joe Sacco (ice hockey)|Joe Sacco]]
+|[[Patrick Roy]]
+|-
+
+!colspan="3"|In-season
+|-
+!Team
+!Outgoing coach
+!Incoming coach
+|-
+|[[Philadelphia Flyers]]
+|[[Peter Laviolette]]
+|[[Craig Berube]]
+|-
+|[[Buffalo Sabres]]
+|[[Ron Rolston]]
+|[[Ted Nolan]]
+|-
+|[[Florida Panthers]]
+|[[Kevin Dineen]]
+|[[Peter Horachek]]
+|-
+|[[Winnipeg Jets]]
+|[[Claude Noël|Claude Noel]]
+|[[Paul Maurice]]
+|}
+With realignment, a new scheduling format was introduced. Among the changes, the scheduling of inter-conference games ensured that all 30 teams would play in all 30 arenas at least once per season.<ref name=Realignment20130314/> Each team played 82 games – 50 or 54 games within their conference, depending on whether they were in a seven- or eight-team division, and two games (home and road) against each non-conference club. The regular season opened on October 1, 2013, with the first game seeing the [[Toronto Maple Leafs]] defeat the home team [[Montreal Canadiens]] by a score of 4–3.<ref>{{cite web|url=http://www.nhl.com/ice/schedulebyweek.htm?date=09/26/2013 |title=NHL Hockey Schedule for September 26, 2013 to October 3, 2013 - NHL.com - Schedule |publisher=NHL.com |date= |accessdate=2014-04-08}}</ref>
+
+The annual Christmas trade freeze was in effect from December 20, 2013, through December 26, 2013.<ref>{{cite news|url=http://ftw.usatoday.com/2013/12/nhl-roster-freeze-kicks-in-at-midnight/ |title=NHL roster freeze kicks in at midnight &#124; For The Win |publisher=Ftw.usatoday.com |date=2013-12-19 |accessdate=2014-04-08}}</ref>
+
+===Olympics===
+{{Main|Ice hockey at the 2014 Winter Olympics – Men's tournament}}
+There was no [[National Hockey League All-Star Game|all-star game]] this season, due to the [[2014 Winter Olympics]] in [[Sochi]], [[Russia]]. Prior to the season, NHL, [[International Ice Hockey Federation]] (IIHF) and Olympic officials reached an agreement to send NHL players to the Olympics game. The league took a break on February 9 and resumed play on February 25.<ref>{{cite news |url=http://www.cbc.ca/sports/hockey/nhl/story/2013/07/19/sp-olympics-nhl-sochi-russia-gary-bettman.html |title=NHL players to compete at 2014 Sochi Olympics |publisher=CBC |date=July 19, 2013}}</ref> All players participating in their respective national teams gathered in four U.S. airports and flew to Sochi on February 9 and 10.
+
+===Winter Classic===
+{{main|2014 NHL Winter Classic}}
+The [[2014 NHL Winter Classic]] was held on January 1, 2014. The game, the sixth Winter Classic, featured the [[Toronto Maple Leafs]] and the [[Detroit Red Wings]] at [[Michigan Stadium]] at the [[University of Michigan]] in [[Ann Arbor, Michigan]]. The game was originally planned to be played on January 1, 2013, as the 2013 NHL Winter Classic, but was postponed due to the [[2012–13 NHL lockout]].<ref name=CBC20130407>{{cite news | url=http://www.cbc.ca/sports/hockey/nhl/story/2013/04/07/sp-nhl-hockey-2014-winter-classic-detroit-red-wings-toronto-maple-leafs.html | title=Red Wings, Maple Leafs to meet in 2014 NHL Winter Classic | publisher=CBC Sports | date=April 7, 2013 | accessdate=April 7, 2013}}</ref>
+
+[[HBO]] once again produced a four-part documentary chronicling the preparation of the two teams for the Winter Classic as part of its sports series ''[[24/7 (TV series)|24/7]]'' The special also aired in Canada on [[Sportsnet]].<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=688204 |title=24/7 on HBO to feature 2014 NHL Winter Classic, Detroit Red Wings, Toronto Maple Leafs - Bridgestone NHL Winter Classic - Maple Leafs vs. Red Wings |publisher=Nhl.com |date= |accessdate=2014-04-08}}</ref>
+
+===Heritage Classic returns===
+{{main|2014 Heritage Classic}}
+The [[2014 NHL Heritage Classic]] featured the [[Ottawa Senators]] facing off against the home team [[Vancouver Canucks]] at [[BC Place]] in [[Vancouver]], [[British Columbia]]. This was third Heritage Classic game held in Canada following the [[2011 Heritage Classic|Heritage Classic]] in 2011 when the Calgary Flames defeated the Montreal Canadiens 4–0 at [[McMahon Stadium]] in [[Calgary]], [[Alberta]]. Unlike previous Heritage Classics, the 2014 event was technically held indoors; BC Place kept its [[retractable roof]] closed because of inclement weather.
+
+===Debut of the Stadium Series===
+{{main|2014 NHL Stadium Series|}}
+On May 1, 2013, the NHL announced that the [[Chicago Blackhawks]] would host the [[Pittsburgh Penguins]] at [[Soldier Field]] in [[Chicago]] on March 1, 2014, as part of the new [[NHL Stadium Series]].<ref>{{cite web|title=Hawks to host Pens outside as part of 'Stadium Series'|publisher=National Hockey League|url=http://www.nhl.com/ice/news.htm?id=668718|date=May 1, 2013|accessdate=May 1, 2013}}</ref> The NHL announced an unprecedented six outdoor NHL games for the 2013–14 season: one Winter Classic, four Stadium Series games, and a Heritage Classic game.
+
+For the two Stadium Series games they were involved in at [[Yankee Stadium]], the [[New York Rangers]] were the away team due to contract obligations with [[Madison Square Garden]] as they can't receive income from other venues in New York as the home team (this claim is dubious as Madison Square Garden owns the team and could theoretically waive that clause with its own team at any time).{{Citation needed|date=July 2014}}
+
+The six outdoor games were:
+{| class="wikitable sortable" style="font-size: 95%;text-align: center;"
+|-
+! Date
+! Site
+! Away team
+! Home team
+|-
+|January 1, 2014
+|[[Michigan Stadium]], [[Ann Arbor, Michigan]]
+|'''[[Toronto Maple Leafs]]'''
+|[[Detroit Red Wings]]
+|-
+|January 25, 2014<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=669439 |title=Dodger Stadium to host Los Angeles Kings, Anaheim Ducks in January – NHL.com – News |publisher=NHL.com |date= |accessdate=July 3, 2013}}</ref>
+|[[Dodger Stadium]], [[Los Angeles]]
+|'''[[Anaheim Ducks]]'''
+|[[Los Angeles Kings]]
+|-
+|January 26, 2014<ref name="NHL.com">{{cite web|url=http://www.nhl.com/ice/news.htm?id=670867 |title=Stadium Series New York event to feature Islanders, Devils and Rangers at Yankee Stadium – NHL.com – News |publisher=NHL.com |date= |accessdate=July 3, 2013}}</ref>
+|[[Yankee Stadium]], [[New York City]]
+|'''[[New York Rangers]]'''
+|[[New Jersey Devils]]
+|-
+|January 29, 2014<ref name="NHL.com"/>
+|[[Yankee Stadium]], [[New York City]]
+|'''[[New York Rangers]]'''
+|[[New York Islanders]]
+|-
+|March 1, 2014<ref name="http">{{cite web|url=http://www.nhl.com/ice/news.htm?id=668718 |title=Blackhawks to host Penguins outdoors as part of Stadium Series – NHL.com – News |publisher=NHL.com |date= |accessdate=July 3, 2013}}</ref>
+|[[Soldier Field]], [[Chicago]]
+|[[Pittsburgh Penguins]]
+|'''[[Chicago Blackhawks]]'''
+|-
+|[[2014 Heritage Classic|March 2, 2014]]<ref name="http"/>
+|[[BC Place]], [[Vancouver]]
+|'''[[Ottawa Senators]]'''
+|[[Vancouver Canucks]]
+|}
+
+On November 18, 2013, the league announced ''NHL Revealed: A Season Like No Other'', a new seven-part series showing behind-the-scenes footage of top NHL players during the season. The program followed multiple players as they competed in the regular season, the Stadium Series, the Heritage Classic, and the Sochi Olympics. Unlike ''24/7'', language by players and coaches would be censored. The program aired in the United States on the [[NBC Sports Network]] starting on January 22, and in Canada on [[Canadian Broadcasting Corporation|CBC]] starting on January 23.<ref>{{cite web|last=Blackburn |first=Pete |url=http://thenosebleeds.com/nhl-announces-behind-the-scenes-documentary-series-on-top-players/ |title=NHL announces behind-the-scenes documentary series following star players |publisher=The Nosebleeds |date= |accessdate=2014-04-08}}</ref>
+
+===Postponed games===
+The [[Carolina Hurricanes]]-[[Buffalo Sabres]] game originally scheduled for January 7 was postponed due to the [[2014 North American cold wave]].  It was rescheduled for February 25.<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=699803&navid=nhl:topheads |title=Game between Carolina Hurricanes, Buffalo Sabres rescheduled for Feb. 25 - NHL.com - News |publisher=NHL.com |date= |accessdate=2014-04-08}}</ref>
+
+The [[Philadelphia Flyers]] postponed their game against the Hurricanes from January 21 to 22 due to the city of Philadelphia declaring a snow emergency. This resulted in the Hurricanes postponing their match with the [[Ottawa Senators]] from January 24 to 25 due to a rule stating that a team may not play games on three consecutive days.
+
+The [[Dallas Stars]] postponed their March 10 game versus the [[Columbus Blue Jackets]] after Dallas player [[Rich Peverley]], who had a history of heart problems, collapsed while on the players' bench midway through the first period, with Columbus leading 1–0. The game was abandoned at that point. This game was rescheduled for April 9. The game ran for 60 minutes, with Columbus leading 1–0 to start the game with a goal credited to [[Nathan Horton]] and assists credited to [[Matt Calvert]] and [[James Wisniewski]]. All other statistics were expunged. In the rescheduled game, the Blue Jackets won 3–1. This mirrors the actions taken by the league during a game between the Detroit Red Wings and Nashville Predators on November 21, 2005.<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=709778&navid=nhl:topheads |title=Postponed Dallas Stars-Columbus Blue Jackets game rescheduled for April 9 - NHL.com - News |publisher=NHL.com |date= |accessdate=2014-04-08}}</ref>
+<!--
+==Playoffs==
+{{Main|2014 Stanley Cup playoffs}}
+This was the first year of the NHL's divisional-based playoff system.
+
+{{2014 Stanley Cup playoffs}}-->
+
+==Standings==
+{{2013–14 NHL Eastern Conference standings}}
+
+{{2013–14 NHL Western Conference standings}}
+
+Tie Breakers:<br />
+1. Fewer number of games played.<br />
+2. Greater Regulation + OT Wins (ROW)<br />
+3. Greater number of points earned in head-to-head play.  (If teams played an unequal # of head-to-head games, the result of the first game on the home ice of the team with the extra home game is discarded.)<br />
+4. Greater Goal differential
+
+*Columbus were given a higher wild card seed than Detroit due to a higher amount of ROW's (38 to 34)
+
+==Player statistics==
+
+===Scoring leaders===
+The following players led the league in regular season points.<ref>{{cite web |url= http://www.nhl.com/ice/playerstats.htm |title= Player Stats: 2013–2014 Regular season: All Skaters&nbsp;– Total Points |publisher= National Hockey League }}</ref>
+
+<!-- IMPORTANT: Rank players by Pts, then G, then GP (fewer) If there is more than 10 players, '''nonetheless list all the leaders'''  -->
+{| class="wikitable sortable"
+|-
+! style="width: 12em;" | Player
+! style="width: 13em;" | Team
+! style="width: 4em;"  | {{abbr|GP|Games Played}}
+! style="width: 4em;"  | {{abbr|G|Goals}}
+! style="width: 4em;"  | {{abbr|A|Assists}}
+! style="width: 4em;"  | {{abbr|Pts|Points}}
+! data-sort-type="number" style="width: 4em;" | {{abbr|+/–|Plus/Minus}}
+! style="width: 4em;"  | {{abbr|PIM|Penalties In Minutes}}
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Sidney|Crosby}} || style="text-align:left;"| [[Pittsburgh Penguins]] || 80 || 36 || 68 || 104 || +18 || 46
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Ryan|Getzlaf}} || style="text-align:left;"| [[Anaheim Ducks]] || 77 || 31 || 56 || 87 || +28 || 31
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Claude|Giroux}} || style="text-align:left;"| [[Philadelphia Flyers]] || 82 || 28 || 58 || 86 || +7 || 46
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Tyler|Seguin}} || style="text-align:left;"| [[Dallas Stars]] || 80 || 37 || 47 || 84 || +16 || 18
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Corey|Perry}} || style="text-align:left;"| [[Anaheim Ducks]] || 81 || 43 || 39 || 82 || +32 || 65
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Phil|Kessel}} || style="text-align:left;"| [[Toronto Maple Leafs]] || 82 || 37 || 43 || 80 || −5 || 27
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Taylor|Hall}} || style="text-align:left;"| [[Edmonton Oilers]] || 75 || 27 || 53 || 80 || −15 || 44
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Alexander|Ovechkin}} || style="text-align:left;"| [[Washington Capitals]] || 78 || 51 || 28 || 79 || −35 || 48
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Joe|Pavelski}} || style="text-align:left;"| [[San Jose Sharks]] || 82 || 41 || 38 || 79 || +23 || 32
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Jamie|Benn}} || style="text-align:left;"| [[Dallas Stars]] || 81 || 34 || 45 || 79 || +21 || 64
+|}
+
+===Leading goaltenders===
+The following goaltenders led the league in regular season [[goals against average]] while playing at least 1800 minutes.<ref>{{cite web |url=http://www.nhl.com/ice/playerstats.htm?season=20132014&gameType=2&team=&position=G&country=&status=&viewName=goalsAgainstAverage |title=2013–2014 - Regular season: Goalie&nbsp;– GAA leaders |publisher=National Hockey League}}</ref>
+
+<!-- IMPORTANT: Rank players by GAA (lower), then SV%, then W, then GP -->
+{| class="wikitable sortable"
+|-
+! style="width: 10em;"  | Player
+! style="width: 12em;"  | Team
+! style="width: 3.5em;" | {{abbr|GP|Games Played}}
+! style="width: 6em;"   | {{abbr|TOI|Time On Ice}}
+! style="width: 3.5em;" | {{abbr|W|Wins}}
+! style="width: 3.5em;" | {{abbr|L|Losses}}
+! style="width: 3.5em;" | {{abbr|OTL|Overtime/Shootout Losses}}
+! style="width: 4em;"   | {{abbr|GA|Goals Against}}
+! style="width: 3.5em;" | {{abbr|SO|Shutouts}}
+! style="width: 4em;"   | {{abbr|SV%|Save Percentage}}
+! style="width: 4em;"   | {{Abbr|GAA|Goals Against Average}}
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Cory|Schneider}} || style="text-align:left;"| [[New Jersey Devils]] || 45 || {{tts|2679:54}} || 16 || 15 || 12 || 88 || 3 || .921 || 1.97
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Tuukka|Rask}} || style="text-align:left;"| [[Boston Bruins]] || 58 || {{tts|3386:27}} || 36 || 15 || 6 || 115 || 7 || .930 || 2.04
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Jonathan|Quick}} || style="text-align:left;"| [[Los Angeles Kings]] || 49 || {{tts|2904:26}} || 27 || 17 || 4 || 100 || 6 || .915 || 2.07
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Ben|Bishop}} || style="text-align:left;"| [[Tampa Bay Lightning]] || 63 || {{tts|3586:21}} || 37 || 14 || 7 || 133 || 5 || .924 || 2.23
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Jaroslav|Halák|Jaroslav Halák}} || style="text-align:left;"| [[St. Louis Blues|St. Louis]]/[[Washington Capitals|Washington]] || 52 || {{tts|2938:35}} || 29 || 13 || 7 || 110 || 5 || .921 || 2.25
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Corey|Crawford}} || style="text-align:left;"| [[Chicago Blackhawks]] || 59 || {{tts|3395:01}} || 32 || 16 || 10 || 128 || 2 || .917 || 2.26
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Anton|Khudobin}} || style="text-align:left;"| [[Carolina Hurricanes]] || 36 || {{tts|2084:18}} || 19 || 14 || 1 || 80 || 1 || .926 || 2.30
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Carey|Price}} || style="text-align:left;"| [[Montreal Canadiens]] || 59 || {{tts|3464:22}} || 34 || 20 || 5 || 134 || 6 || .927 || 2.32
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Henrik|Lundqvist}} || style="text-align:left;"| [[New York Rangers]] || 63 || {{tts|3655:19}} || 33 || 24 || 5 || 144 || 5 || .920 || 2.36
+|- style="text-align:center;"
+| style="text-align:left;"|{{sortname|Marc-Andre|Fleury|Marc-André Fleury}} || style="text-align:left;"| [[Pittsburgh Penguins]] || 64 || {{tts|3792:24}} || 39 || 18 || 5 || 150 || 5 || .915 || 2.37
+|}
+
+==Playoffs==
+{{Main|2014 Stanley Cup playoffs}}
+
+===Bracket===
+{{2014 Stanley Cup playoffs}}
+
+== NHL awards ==
+{{See also|List of 2013–14 NHL Three Star Awards}}
+Awards were presented at the NHL Awards ceremony in Las Vegas, Nevada on June 24, 2014. Finalists for voted awards were announced during the playoffs. Voting concluded immediately after the end of the regular season. The [[President's Trophy]], the [[Prince of Wales Trophy]] and [[Clarence S. Campbell Bowl]] were not presented at the awards ceremony. The [[Lester Patrick Trophy]] was announced during the summer and presented in the fall.
+
+{| class="wikitable" cellspacing="1"
+|+ 2013–14 NHL awards
+|-
+! Award !! Recipient(s) !! Runner(s)-up/Finalists
+|-
+| [[Stanley Cup]] || [[Los Angeles Kings]] || [[New York Rangers]] 
+|-
+| [[Presidents' Trophy]]<br /><small>(Best regular-season record)</small> || [[Boston Bruins]] || [[Anaheim Ducks]]
+|-
+| [[Prince of Wales Trophy]]<br /><small>(Eastern Conference champion)</small> || [[New York Rangers]] || [[Montreal Canadiens]]
+|-
+| [[Clarence S. Campbell Bowl]]<br /><small>(Western Conference champion)</small> || [[Los Angeles Kings]] || [[Chicago Blackhawks]]
+|-
+| [[Art Ross Trophy]]<br /><small>(Top scorer)</small> || [[Sidney Crosby]] <small>(Pittsburgh Penguins)</small> || [[Ryan Getzlaf]] <small>(Anaheim Ducks)</small>
+|-
+| [[Bill Masterton Memorial Trophy]]<br /><small>(Perseverance, Sportsmanship, and Dedication)</small> || [[Dominic Moore]] <small>(New York Rangers)</small> || [[Jaromír Jágr|Jaromir Jagr]] <small>(New Jersey Devils)</small><br />[[Manny Malhotra]] <small>(Carolina Hurricanes)</small>
+|-
+| [[Calder Memorial Trophy]]<br /><small>(Best first-year player)</small> || [[Nathan MacKinnon]] <small>(Colorado Avalanche)</small> || [[Tyler Johnson (ice hockey)|Tyler Johnson]] <small>(Tampa Bay Lightning)</small><br />[[Ondřej Palát|Ondrej Palat]] <small>(Tampa Bay Lightning)</small>
+|-
+| [[Conn Smythe Trophy]]<br /><small>(Most valuable player, playoffs)</small> || [[Justin Williams]] <small>(Los Angeles Kings)</small> || N/A
+|-
+| [[Frank J. Selke Trophy]]<br /><small>(Defensive forward)</small> ||[[Patrice Bergeron]] <small>(Boston Bruins)</small>||[[Anže Kopitar|Anze Kopitar]] <small>(Los Angeles Kings)</small><br />[[Jonathan Toews]] <small>(Chicago Blackhawks)</small>
+|-
+| [[Hart Memorial Trophy]]<br /><small>(Most valuable player, regular season)</small> || [[Sidney Crosby]] <small>(Pittsburgh Penguins)</small>||[[Ryan Getzlaf]] <small>(Anaheim Ducks)</small><br />[[Claude Giroux]] <small>(Philadelphia Flyers)</small>
+|-
+| [[Jack Adams Award]]<br /><small>(Best coach)</small> || [[Patrick Roy]] <small>(Colorado Avalanche)</small> || [[Mike Babcock]] <small>(Detroit Red Wings)</small><br />[[Jon Cooper (ice hockey)|Jon Cooper]] <small>(Tampa Bay Lightning)</small>
+|-
+| [[James Norris Memorial Trophy]]<br /><small>(Best defenseman)</small> || [[Duncan Keith]] <small>(Chicago Blackhawks)</small> || [[Zdeno Chára|Zdeno Chara]] <small>(Boston Bruins)</small><br />[[Shea Weber]] <small>(Nashville Predators)</small>
+|-
+| [[King Clancy Memorial Trophy]]<br /><small>(Leadership and humanitarian contribution)</small> || [[Andrew Ference]] <small>(Edmonton Oilers)</small> || N/A
+|-
+| [[Lady Byng Memorial Trophy]]<br /><small>(Sportsmanship and excellence)</small> || [[Ryan O'Reilly (ice hockey)|Ryan O'Reilly]] <small>(Colorado Avalanche)</small> || [[Patrick Marleau]] <small>(San Jose Sharks)</small><br />[[Martin St. Louis]] <small>(New York Rangers/Tampa Bay Lightning)</small>
+|-
+| [[Ted Lindsay Award]]<br /><small>(Outstanding player)</small> || [[Sidney Crosby]] <small>(Pittsburgh Penguins)</small> ||[[Ryan Getzlaf]] <small>(Anaheim Ducks)</small><br />[[Claude Giroux]] <small>(Philadelphia Flyers)</small>
+|-
+| [[Mark Messier Leadership Award]]<br /><small>(Leadership and community activities)</small> || [[Dustin Brown]] <small>(Los Angeles Kings)</small> ||[[Ryan Getzlaf]] <small>(Anaheim Ducks)</small><br />[[Jonathan Toews]] <small>(Chicago Blackhawks)</small>
+|-
+| [[Maurice "Rocket" Richard Trophy]]<br /><small>(Top goal-scorer)</small> || [[Alexander Ovechkin]] <small>(Washington Capitals)</small> || [[Corey Perry]] <small>(Anaheim Ducks)</small>
+|-
+| [[NHL Foundation Player Award]]<br /><small>(Award for community enrichment)</small> || [[Patrice Bergeron]] <small>(Boston Bruins)</small> || [[Brent Burns]] <small>(San Jose Sharks)</small><br />[[Duncan Keith]] <small>(Chicago Blackhawks)</small>
+|-
+| [[NHL General Manager of the Year Award]]<br /><small>(Top general manager)</small> || [[Bob Murray (ice hockey, born 1954)|Bob Murray]] <small>(Anaheim Ducks) || [[Marc Bergevin]] <small>(Montreal Canadiens)</small><br />[[Dean Lombardi]] <small>(Los Angeles Kings)</small>
+|-
+| [[Vezina Trophy]]<br /><small>(Best goaltender)</small> || [[Tuukka Rask]] <small>(Boston Bruins)</small> || [[Ben Bishop]] <small>(Tampa Bay Lightning)</small><br />[[Semyon Varlamov]] <small>(Colorado Avalanche)</small>
+|-
+| [[William M. Jennings Trophy]]<br /><small>(Goaltender(s) of team with fewest goals against)</small> || [[Jonathan Quick]]  <small>(Los Angeles Kings)</small> || [[Tuukka Rask]] & [[Chad Johnson (ice hockey)|Chad Johnson]] <small>(Boston Bruins)</small>
+|-
+| [[Lester Patrick Trophy]]<br /><small>(Service to ice hockey in U.S.)</small> || [[Bill Daly]] and [[Paul Holmgren]]  ||
+|}
+
+===All-Star teams===
+{| class="wikitable"
+|-
+! &nbsp; Position &nbsp; !! First Team !! Second Team !! Position !! All-Rookie
+|-
+| align=center | [[Goaltender|G]]
+| [[Tuukka Rask]], Boston Bruins
+| [[Semyon Varlamov]], Colorado Avalanche
+| align=center | [[Goaltender|G]]
+| [[Frederik Andersen]], Anaheim Ducks
+|-
+| align=center | [[Defenceman (ice hockey)|D]]
+| [[Duncan Keith]], Chicago Blackhawks
+| [[Shea Weber]], Nashville Predators
+| align=center | [[Defenceman (ice hockey)|D]]
+| [[Torey Krug]], Boston Bruins
+|-
+| align=center | [[Defenceman (ice hockey)|D]]
+| [[Zdeno Chára|Zdeno Chara]], Boston Bruins
+| [[Alex Pietrangelo]], St. Louis Blues
+| align=center | [[Defenceman (ice hockey)|D]]
+| [[Hampus Lindholm]], Anaheim Ducks
+|-
+| align=center | [[Centre (ice hockey)|C]]
+| [[Sidney Crosby]], Pittsburgh Penguins
+| [[Ryan Getzlaf]], Anaheim Ducks
+| align=center | [[Forward (ice hockey)|F]]
+| [[Tyler Johnson (ice hockey)|Tyler Johnson]], Tampa Bay Lightning
+|-
+| align=center | [[Winger (ice hockey)|RW]]
+| [[Corey Perry]], Anaheim Ducks
+| [[Alexander Ovechkin]], Washington Capitals
+| align=center | [[Forward (ice hockey)|F]]
+| [[Nathan MacKinnon]], Colorado Avalanche
+|-
+| align=center | [[Winger (ice hockey)|LW]]
+| [[Jamie Benn]], Dallas Stars
+| [[Joe Pavelski]], San Jose Sharks
+| align=center | [[Forward (ice hockey)|F]]
+| [[Ondřej Palát|Ondrej Palat]], Tampa Bay Lightning
+|-
+|}
+
+==Milestones==
+<!-- Please don't add any more players unless they meet the criteria at
+     Wikipedia:WikiProject_Ice_Hockey/NHL_season_pages_format#Debuts_and_Last_Games
+-->
+
+===First games===
+<!-- Do not add more players unless they meet notability requirements as outline here: [[Wikipedia:WikiProject Ice Hockey/NHL season pages format#Debuts and Last Games]] -->
+The following is a list of notable players who played their first NHL game during the 2013–14 season, listed with their first team:
+{| class="wikitable"
+|-
+! style="width:15em"| Player !! style="width:15em"| Team !! style="width:25em"| Notability
+|-
+| [[Nathan MacKinnon]] || [[Colorado Avalanche]] || [[List of first overall NHL draft picks|First overall pick in the 2013 Draft]], [[Calder Memorial Trophy]] winner
+<!-- Do not add more players unless they meet notability requirements as outline here: [[Wikipedia:WikiProject Ice Hockey/NHL season pages format#Debuts and Last Games]]. Very few will qualify during the season -->
+|}
+
+===Last games===
+<!-- Do not add more players unless they meet notability requirements as outline here: [[Wikipedia:WikiProject Ice Hockey/NHL season pages format#Debuts and Last Games]] -->
+The following is a list of players of note who played their last NHL game in 2013–14, listed with their team:
+
+{| class="wikitable"
+|-
+! style="width:15em"| Player !! style="width:15em"| Team !! style="width:25em"| Notability
+|-
+|[[Daniel Alfredsson]]<ref>[http://www.nhl.com/ice/news.htm?id=742398#&navid=nhl-search Alfredsson announces retirement after 18 seasons]</ref> || [[Detroit Red Wings]] || [[Calder Memorial Trophy]] winner, six-time [[NHL All-Star Team|NHL All-Star]], [[King Clancy Memorial Trophy]] winner, [[Mark Messier Leadership Award]] winner, over 1,200 games played.
+|-
+|[[Martin Biron]]<ref name=retired>{{cite news|last=TSN.ca staff|title=BIRON ANNOUNCES RETIREMENT AFTER 16 NHL SEASONS|url=http://www.tsn.ca/nhl/story/?id=434598|accessdate=October 20, 2013|newspaper=TSN.ca|date=October 29, 2013}}</ref> || [[New York Rangers]] || One of four players and the only goalie in league history to play for all three teams in the state of New York ([[Buffalo Sabres]], [[New York Islanders]] and New York Rangers), played 508 games over 16 seasons.
+|-
+|[[Radek Dvořák|Radek Dvorak]]<ref>[http://prohockeytalk.nbcsports.com/2015/01/27/dvorak-retires-after-18-nhl-seasons/ Dvorak retires after 18 NHL seasons]</ref> || [[Carolina Hurricanes]] || Over 1,200 games played.
+|-
+|[[Jean-Sébastien Giguère|Jean-Sebastien Giguere]]<ref>[http://www.nhl.com/ice/news.htm?id=720756 Avalanche goalie Giguere to retire: report]</ref> || [[Colorado Avalanche]] || 2003 Conn Smythe winner, 2007 Stanley Cup champion with Anaheim; and Best NHL Player ESPY Award 2003, the last active player to have been a member of the [[Hartford Whalers]].
+|-
+|[[Hal Gill]]<ref>[http://www.sportsnet.ca/hockey/nhl/former-maple-leafs-defenceman-hal-gill-retires/ Former Maple Leafs Defenceman Hal Gill Retires]</ref> || [[Philadelphia Flyers]] || Stanley cup champion with the [[Pittsburgh Penguins]]; [[Winter Olympics|Olympic]] [[bronze]] medalist; Over 1100 games played
+|-
+|[[Saku Koivu]]<ref>[http://www.nhl.com/ice/news.htm?id=730016&navid=nhl:topheads Saku Koivu retires after 18 seasons in NHL]</ref> || [[Anaheim Ducks]] || Over 1100 games played; [[Bill Masterton Trophy]] winner; [[King Clancy Memorial Trophy]] winner; NHL All-Star
+|-
+|[[George Parros]]<ref>[http://www.nhlpa.com/news/george-parros-retires-from-nhl-after-nine-seasons GEORGE PARROS RETIRES FROM NHL AFTER NINE SEASONS]</ref> || [[Montreal Canadiens]] || 2007 Stanley Cup champion with [[Anaheim Ducks]].
+|-
+|[[Mikael Samuelsson]]<ref>[http://www.iihf.com/home-of-hockey/news/news-singleview/?tx_ttnews%5Btt_news%5D=9503&cHash=ee84d6f461a577e9fb524b4c099d7f60 Samuelsson Retires]</ref> || [[Detroit Red Wings]] || Stanley Cup champion with the Red Wings; [[Triple Gold Club]] member.
+|-
+|[[Teemu Selänne|Teemu Selanne]]<ref>[http://www.nhl.com/ice/news.htm?id=719689&navid=nhl:topheads Selanne's career ends in Ducks' Game 7 loss to Kings]</ref> || [[Anaheim Ducks]] || 2007 Stanley Cup champion with Anaheim; inaugural [[Maurice "Rocket" Richard Trophy]] winner; played in 1,451 games. He is 11th on the all-time NHL goal list with 675, and is 15th on the all-time NHL point list with 1,457.
+|-
+|[[Ryan Smyth]]<ref name=Smyth>|-{{cite news|url=http://www.nhl.com/ice/news.htm?id=714037|title=Oilers' Smyth, 'Captain Canada,' set to retire|date=April 11, 2014|accessdate=April 11, 2014}}</ref>|| [[Edmonton Oilers]] || Won Gold Medal in 2002 Winter Olympics with Team Canada, played over 1,270 games in 19 seasons.
+|-
+|[[Tomáš Vokoun|Tomas Vokoun]]<ref>[http://www.cbc.ca/sports/hockey/nhl/tomas-vokoun-to-retire-after-15-nhl-seasons-1.2873138 Tomas Vokoun to retire after 15 NHL seasons]</ref> || [[Pittsburgh Penguins]] || Two-time NHL All-Star.
+|-
+|[[Ray Whitney (ice hockey)|Ray Whitney]]<ref>[http://www.nhl.com/ice/news.htm?id=749729&navid=nhl:topheads Ray Whitney announces his retirement]</ref>|| [[Dallas Stars]] || 2006 Stanley Cup champion with [[Carolina Hurricanes]]; Two-time NHL All-Star; over 1,300 games played.
+<!-- Do not add more players unless they meet notability requirements as outline here: [[Wikipedia:WikiProject Ice Hockey/NHL season pages format#Debuts and Last Games]]. Very few will qualify during the season -->
+|}
+
+===Major milestones reached===
+*On October 2, 2013, the [[Buffalo Sabres]] had four people under 20 years old ([[Mikhail Grigorenko]], [[Zemgus Girgensons]], [[Rasmus Ristolainen]] and [[Nikita Zadorov]]) on their active roster, the most on any NHL team's Opening Night roster since the 1995–96 season.<ref>{{cite web|url=https://twitter.com/PR_NHL/status/391947019017007104|title=@PR_NHL status update|publisher=[[Twitter]]|accessdate=October 20, 2013}}</ref>
+*On October 3, 2013, [[Boston Bruins]] forward [[Chris Kelly (ice hockey)|Chris Kelly]] became the first player in NHL history to score a team's first goal of the season on a penalty shot against the [[Tampa Bay Lightning]] at TD Garden.
+*On October 17, 2013, [[Edmonton Oilers]] forward [[Taylor Hall]] broke [[Wayne Gretzky]]'s franchise record when he scored twice in eight seconds. Gretzky had held the franchise record for fastest two goals by one player since December 18, 1981, when he scored twice in nine seconds.<ref>{{cite web |url=http://www.nhl.com/ice/news.htm?id=687306 |title=Hall breaks Oilers team record for fastest two goals|publisher=[[National Hockey League]] |date=October 17, 2013 |accessdate=October 18, 2013}}</ref>
+*On October 19, 2013, [[Arizona Coyotes|Phoenix Coyotes]] goaltender [[Mike Smith (ice hockey, born 1982)|Mike Smith]] became the 11th goaltender in league history to [[List of goaltenders who have scored a goal in an NHL game|score a goal]] when he scored against the [[Detroit Red Wings]].<ref>{{cite web|url=http://www.nhl.com/gamecenter/en/recap?id=2013020120 |title=Detroit Red Wings at Phoenix Coyotes |publisher=[[National Hockey League]] |date=October 19, 2013}}</ref>
+*On October 29, 2013, [[New Jersey Devils]] forward [[Jaromír Jágr|Jaromir Jagr]] scored his 119th career game-winning goal, surpassing [[Phil Esposito]]'s 118 as the most game-winning goals since the [[1967 NHL expansion]].<ref>{{cite web|url=http://www.tsn.ca/nhl/story/?id=435395 |title=Jagr sets modern record with 119th GWG, Devils top Lightning |publisher=[[The Sports Network]] |date=October 29, 2013}}</ref><ref>[[Gordie Howe]] held the record for most game-winning goals in league history with 121 until 2013.</ref>
+*On November 19, 2013, [[Tampa Bay Lightning]] forward [[Martin St. Louis]] participated in his 1,000th NHL game.<ref>{{cite web|url=http://lightning.nhl.com/club/news.htm?id=692300 |title=Martin St. Louis Skates In 1,000th Career NHL Game |publisher=[[Tampa Bay Lightning]] |date=November 19, 2013}}</ref>
+*On December 18, 2013, [[New Jersey Devils]] forward Jaromir Jagr scored his 122nd career game-winning goal, the most in league history. Gordie Howe held that record dating back to the 1967 season.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013020521 |title=Ottawa Senators at New Jersey Devils |publisher=National Hockey League |date=December 18, 2013}}</ref>
+*On December 20, 2013, [[Washington Capitals]] forward [[Alexander Ovechkin]] scored his 400th career goal. He became the sixth fastest player to reach that mark, getting it in 634 games, one less than [[Pavel Bure]].<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=696892 |title=Alex Ovechkin scores 400th career goal, Washington Capitals score 3 times on power play in 4-2 win over - NHL.com - News |publisher=NHL.com |date=2013-12-20 |accessdate=2014-04-08}}</ref>
+*On December 31, 2013, [[Anaheim Ducks]] forward [[Andrew Cogliano]] became the 20th player in league history to play [[List of NHL players with 500 consecutive games played|500 consecutive games]], and the fifth to do so to start his career.<ref>{{cite web |title=Postgame Notes and Quotes: Dec. 31 vs. SJ |url=http://ducks.nhl.com/club/news.htm?id=698417 |work=[[Anaheim Ducks]] |accessdate=January 1, 2014}}</ref>
+*On February 1, 2014, [[Los Angeles Kings]] defenseman [[Robyn Regehr]] participated in his 1,000th NHL game.<ref>{{cite web|url=http://kings.nhl.com/gamecenter/en/recap?id=2013020827 |title=Philadelphia Flyers at Los Angeles Kings Game Recap |publisher=[[Los Angeles Kings]] |date=February 1, 2014}}</ref>
+*On March 1, 2014, [[New Jersey Devils]] forward Jaromir Jagr scored his 700th career goal, becoming the seventh player in league history to reach this milestone.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013020903 |title=New Jersey Devils at New York Islanders |publisher=National Hockey League |date=March 1, 2014}}</ref>
+*On March 3, 2014, [[Dallas Stars]] coach [[Lindy Ruff]] recorded his 600th career regular season win against his former team the [[Buffalo Sabres]], becoming the 12th coach to reach this milestone.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013020921 |title=Buffalo Sabres at Dallas Stars |publisher=National Hockey League |date=March 3, 2014}}</ref>
+*On March 6, 2014, [[Colorado Avalanche]] forward [[Nathan MacKinnon]] broke one of Wayne Gretzky's records by earning a point in his 13th consecutive game, as the longest point streak by an 18-year-old. Gretzky had held the record for most consecutive points by an 18-year-old since the [[1979–80 NHL season]].<ref>{{cite web |url=http://www.nhl.com/ice/news.htm?id=708286 |title=MacKinnon breaks Gretzky's point-streak record|publisher=[[National Hockey League]] |date=March 6, 2014 |accessdate=March 7, 2014}}</ref>
+*On March 9, 2014, [[New York Rangers]] goaltender [[Henrik Lundqvist]] recorded his 300th career win, becoming the 29th goaltender to reach this milestone.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013020965 |title=Detroit Red Wings at New York Rangers |publisher=National Hockey League |date=March 9, 2014}}</ref>
+*On March 11, 2014, [[Minnesota Wild]] forward [[Matt Cooke]] participated in his 1,000th NHL game.<ref>{{cite web |url=http://wild.nhl.com/gamecenter/en/recap?id=2013020983 |title=Edmonton Oilers at Minnesota Wild |publisher=[[Minnesota Wild]] |date=March 11, 2014}}</ref>
+*On March 12, 2014, [[Vancouver Canucks]] forward [[Henrik Sedin]] participated in his 1,000th NHL game.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013020986 |title=Vancouver Canucks at Winnipeg Jets |publisher=National Hockey League |date=March 12, 2014}}</ref>
+*On March 18, 2014, [[New York Rangers]] goaltender Henrik Lundqvist passed [[Mike Richter]] to achieve the most wins in franchise history with his 302nd career victory.<ref>{{cite web |url=http://rangers.nhl.com/gamecenter/en/recap?id=2013021031 |title=Henrik Sets Wins Record as Rangers Big Second Powers 8-4 Victory |publisher=[[New York Rangers]] |date=March 19, 2014}}</ref>
+*On March 19, 2014, [[Chicago Blackhawks]] coach [[Joel Quenneville]] recorded his 700th career regular season win, becoming the third coach to reach this milestone.<ref name="autogenerated1">{{cite web |url=http://blackhawks.nhl.com/gamecenter/en/recap?id=2013021039 |title=St. Louis Blues at Chicago Blackhawks |publisher=[[Chicago Blackhawks]] |date=March 19, 2014}}</ref>
+*On March 19, 2014, [[Chicago Blackhawks]] forward [[Michal Handzuš|Michal Handzus]] participated in his 1,000th NHL game.<ref name="autogenerated1"/>
+*On March 20, 2014, [[Los Angeles Kings]] coach [[Darryl Sutter]] recorded his 500th career regular season win, becoming the 18th coach to reach this milestone.<ref>{{cite web |url=http://kings.nhl.com/gamecenter/en/recap?id=2013021049 |title=Washington Capitals at Los Angeles Kings |publisher=[[Los Angeles Kings]] |date=March 20, 2014}}</ref>
+*On March 22, 2014, [[New York Rangers]] goaltender Henrik Lundqvist passed [[Eddie Giacomin]] to become the franchise's all-time shutout leader with his 50th shutout.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013021061 |title=Lundqvist sets Rangers record with shutout of Devils |publisher=[[National Hockey League]] |date=March 23, 2014}}</ref>
+*On March 22, 2014, [[Los Angeles Kings]] goaltender [[Jonathan Quick]] passed [[Rogie Vachon]] to become the franchise's all-time wins leader with his 172nd win.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013021059 |title=Quick uses shutout to set Kings' victory mark |publisher=[[National Hockey League]] |date=March 23, 2014}}</ref>
+*On April 1, 2014, [[Pittsburgh Penguins]] captain [[Sidney Crosby]] recorded 100 points in a season for the fifth time in his career and first time since the [[2009–10 NHL Season|2009–10 season]].<ref>http://www.sportingnews.com/nhl/story/2014-04-01/sidney-crosby-100-points-nhl-leading-scorers-mvp-candidates-hart-trophy-penguins</ref>
+*On April 8, 2014, [[Detroit Red Wings]] coach [[Mike Babcock]] recorded his 414th career regular season win, passing [[Jack Adams]] for the most in franchise history.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013021180 |title=Red Wings top Sabres, close in on playoffs |publisher=[[National Hockey League]] |date=April 9, 2014}}</ref>
+*On April 10, 2014, [[Colorado Avalanche]] goaltender [[Semyon Varlamov]] set a franchise record for wins in a season with his 41st victory. He surpassed former goalie and current head coach [[Patrick Roy]]'s record of 40 set during the 2000–01 NHL season.<ref>{{cite web |url=http://www.nhl.com/gamecenter/en/recap?id=2013021204 |title=Avalanche hold Central lead after win vs. Canucks |publisher=[[National Hockey League]] |date=April 11, 2014}}</ref>
+*On April 10, 2014, [[Nashville Predators]] goaltender [[Pekka Rinne]] passed [[Tomáš Vokoun|Tomas Vokoun]] to become the franchises's all-time wins leader with his 162nd win.<ref>{{cite web |url=http://predators.nhl.com/gamecenter/en/recap?id=2013021200 |title=Coyotes' playoff chances hurt by Rinne, Predators |publisher=[[National Hockey League]] |date=April 10, 2014}}</ref>
+*On April 11, 2014, the [[Buffalo Sabres]] dressed their ninth goaltender of the season, an NHL record ([[Ryan Miller]], [[Jhonas Enroth]], [[Michal Neuvirth]], [[Nathan Lieuwen]], [[Jaroslav Halák|Jaroslav Halak]], [[Matt Hackett]], [[Andrey Makarov (ice hockey)|Andrey Makarov]], [[Connor Knapp]] and [[Ryan Vinz]]).<ref>Hoppe, Bill (April 11, 2014). [http://www.buffalohockeybeat.com/sabres-recall-goalie-connor-knapp-from-amerks/ Sabres recall goalie Connor Knapp from Amerks]. ''Olean Times Herald''. Retrieved April 11, 2014.</ref>
+*On April 11, 2014, [[Tampa Bay Lightning]] goaltender [[Kristers Gudļevskis|Kristers Gudlevskis]] made his NHL debut thus becoming the first player in history to play in [[ECHL]], [[American Hockey League|AHL]], [[National Hockey League|NHL]] and [[Ice hockey at the Olympic Games|Olympic Games]] during one season.<ref>http://lightning.nhl.com/gamecenter/en/recap?id=2013021207</ref>
+*On May 13, 2014, [[New York Rangers]] center [[Brad Richards]] notched his seventh career [[List of NHL game sevens|Game 7]] [[Stanley Cup playoffs]] win. Consequently, Richards was now 7–0 lifetime in Game 7s, tying former [[Toronto Maple Leafs]] defenseman [[Red Kelly]] in this league milestone.<ref>MORNING SKATE: STANLEY CUP PLAYOFFS EDITION (May 14, 2014). [http://www.sportstalkflorida.com/nhl-diary-lundqvist-ragners-win-5th-straight-game-7/]. ''Sports Talk Florida''. Retrieved May 14, 2014.</ref>
+
+==References==
+{{reflist|colwidth=25em}}
+
+==External links==
+{{Commonscat-inline|2013-2014 National Hockey League season}}
+*[http://www.nhl.com/ice/schedulebyseason.htm?season=20132014&gameType=2&team=&network=&venue= 2013–14 NHL season Schedule]
+
+{{NHL seasons|2013}}
+{{2013–14 NHL season by team}}
+{{2013–14 in men's ice hockey}}
+
+{{DEFAULTSORT:2013-14 Nhl Season}}
+[[Category:2013–14 NHL season| ]]
+[[Category:2013–14 in American ice hockey by league|1]]
+[[Category:2013–14 in Canadian ice hockey by league|1]]

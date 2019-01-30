@@ -1,0 +1,619 @@
+A-League
+
+{{About|the professional football league in Australia|the former American soccer league|A-League (1995–2004)}}
+
+{{Use Australian English|date=September 2013}}
+{{Use dmy dates|date=December 2014}}
+
+{{Infobox football league
+|logo            = Hyundai A-League logo.svg
+|pixels          = 150
+|country         = {{AUS}} {{NZL}}
+|other country = {{NZL}}
+|confed          = [[Asian Football Confederation|AFC]]
+|founded         = {{Start date and age|April 2004}}
+|first           = [[2005–06 A-League|2005–06]]
+|teams           = [[#Clubs|10]]
+
+|levels          = [[Australian football league system|1]]
+|domest_cup      = [[FFA Cup]]
+|confed_cup      = [[AFC Champions League]]
+|champions       = [[Adelaide United FC|Adelaide United]] 
+|season          = [[2016 A-League Grand Final|2016]]
+|most_champs     = [[Brisbane Roar FC|Brisbane Roar]]<br>[[Melbourne Victory FC|Melbourne Victory]] (3 titles each) 
+|premiers        = [[Adelaide United FC|Adelaide United]] 
+|prem_season     = [[2015–16 A-League|2015–16]]
+|most_prems      = [[Melbourne Victory FC|Melbourne Victory]] (3 titles)
+|tv              = [[Fox Sports (Australia)|Fox Sports]] (Australia)<br>[[SBS (Australian TV channel)|SBS]] (Australia)<br>[[Sky Sport (New Zealand)|Sky Sport]] (New Zealand)
+|website         = {{URL|http://www.a-league.com.au/|A-League.com.au}}
+|current         = [[2015–16 A-League]]
+}}
+
+The '''A-League''' is a [[professionalism in association football|professional]] men's [[association football]] league, run by [[Football Federation Australia]] (FFA). At the top of the [[Australian association football league system|Australian league system]], it is the country's primary competition for the sport. The A-League was established in 2004 as a successor to the [[National Soccer League]] (NSL) and competition commenced in August 2005. The league is currently contested by ten teams; nine based in [[Australia]] and one based in [[New Zealand]]. It is known as the '''Hyundai A-League''' (HAL) through a sponsorship arrangement with the [[Hyundai Motor Company]].
+
+Seasons run from October to May and include a 27-round [[Season (sports)#Regular season|regular season]] and an end-of-season finals series [[Playoffs|playoff]] tournament involving the highest-placed teams, culminating in a [[grand final]] match. The winner of the regular season tournament is dubbed 'premier' and the winner of the grand final is 'champion'. This differs from the other major football codes in Australia, where 'premier' refers to the winner of the grand final and the winner of the regular season is the '[[Minor premiership|minor premier]]'. The A-League's non-standard terminology is reflective of the increased prestige associated with winning the regular season in association football compared to other football codes in Australia.
+
+Successful A-League clubs gain qualification into the continental competition, the [[AFC Champions League|Asian Football Confederation Champions League]] (ACL) also known as "AFC Champions League". Similar to the [[United States]] and [[Canada]]'s [[Major League Soccer]], as well as other professional sports leagues in both Australia and in [[North America]], Australia's A-League does not practice [[promotion and relegation]], unlike various football leagues in [[Europe]].
+
+Since the league's [[2005–06 A-League|inaugural season]], a total of six clubs have been crowned A-League Premiers and five clubs have been crowned A-League Champions. The current premier is [[Adelaide United FC|Adelaide United]], who finished first in [[2015–16 A-League|2015–16]]. The current champion is [[Adelaide United FC|Adelaide United]], who won the [[2016 A-League Grand Final]].
+
+==History==
+
+===Origins===
+
+A national [[round-robin tournament]] existed in various forms prior to the formation of the A-League, with the most notable being the [[National Soccer League]] (NSL). The formation of the NSL came after [[Australia national soccer team|Australia]]'s qualification for the [[1974 FIFA World Cup]], which led to discussion of a national league, with 14 teams eventually chosen to participate in the [[1977 National Soccer League|inaugural season]] of the NSL in 1977.<ref name="worldgamedownunder">{{cite book | title=The world game downunder | publisher=Australian Society for Sports History | date=2006 | editor=Hay, Roy, ed; Murray, Bill  | location=Melbourne | page=120 | isbn=0975761668}}</ref>
+
+Under the guidance of the then-governing body, the Australian Soccer Federation (later Soccer Australia), the NSL flourished through the 1980s and early 1990s but then fell into decline with the increasing departure of Australian players to overseas leagues, a disastrous television deal with the [[Seven Network]] and the resulting lack of sponsorship.<ref name="roar-briefhistorynsl">{{cite web | url=http://www.theroar.com.au/2011/04/19/a-brief-history-of-the-nsl-part-iv/ | title=A brief history of the NSL: Part IV | work=The Roar | date=19 April 2011 | accessdate=9 April 2013}}{{unreliable source?|date=August 2014}}</ref> Few clubs continued to grow with [[Sydney Olympic FC|Sydney Olympic]], [[Perth Glory FC|Perth Glory]], and the newly established [[Adelaide United FC|Adelaide United]] the exception in a dying league.<ref name="sydneyolympic-origins">{{cite web | url=http://www.sydneyolympicfc.com/history/origins | title=Origins | publisher=Sydney Olympic Football Club | accessdate=9 April 2013}}</ref><ref name="ffa-history-wanderers">{{cite web|url=http://www.footballaustralia.com.au/howe-opinion-display/History-against-the-Wanderers/61310 |title=History against the Wanderers |publisher=Football Federation Australia |work=footballaustralia.com.au |date=21 February 2013 |accessdate=9 April 2013 |author=Howe, Andrew |deadurl=yes |archiveurl=https://web.archive.org/web/20140411063031/http://www.footballaustralia.com.au/howe-opinion-display/History-against-the-Wanderers/61310 |archivedate=11 April 2014 }}</ref><ref name="roar-wanderers-ghosts">{{cite web | url=http://www.theroar.com.au/2013/02/25/wanderers-help-lay-some-ex-nsl-ghosts-to-rest/ | title=Wanderers help lay some ex-NSL ghosts to rest | work=The Roar | date=25 February 2013 | accessdate=9 April 2013}}{{unreliable source?|date=August 2014}}</ref>
+
+In April 2003, the [[Government of Australia|Australian Federal Government]] initiated the Independent Soccer Review Committee to investigate the governance and management of the sport in Australia, including that of the NSL.<ref name="age-crawford-for-all">{{cite news | url=http://www.theage.com.au/opinion/society-and-culture/crawford-wants-sport-to-be-for-all-not-just-the-privileged-20091118-il27.html | title=Crawford wants sport to be for all, not just the privileged | work=The Age |publisher=Fairfax Media | date=18 November 2009 | accessdate=9 April 2013 | author=Baum, Greg | location=Melbourne}}</ref> In December 2003, the [[2003 Report of the Independent Soccer Review Committee|Crawford Report]] found that the NSL was financially unviable, and in response the chairman of the sports new governing body, [[Frank Lowy]] of [[Football Federation Australia]], announced that a task force would be formed to create a new national competition as a successor to the NSL which dissolved at the conclusion of the [[2003–04 National Soccer League|2003–04 season]] after 27 years of operation.<ref name="NSL-A-League">{{cite web | url=http://www.foxsports.com.au/football/a-league/simon-says-10-years-on-from-last-nsl-game-the-past-and-present-are-starting-to-share-the-future/story-e6frf4gl-1226877457498 | title=Simon Says: 10 years on from last NSL game, the past and present are starting to share the future | work=Fox Sports | date=8 April 2014 | accessdate=17 June 2014 | author=Hill, Simon | authorlink=Simon Hill}}</ref>
+
+===Foundations===
+The A-League was announced in April 2004, as a successor to the NSL.<ref name="NSL-A-League"/> Eight teams would be part of the new national competition, with one team from each city of [[Sydney]], [[Melbourne]], [[Brisbane]], [[Adelaide]], [[Perth]], [[Newcastle, New South Wales|Newcastle]], plus a [[New Zealand]] team and one from a remaining expressions of interest from either Melbourne or Sydney. The competition start date was set for August 2005.<ref name="age-jobs-on-hold">{{cite news | url=http://newsstore.fairfax.com.au/apps/viewDocument.ac?page=1&docID=AGE040323JKS7R6E192E | title=Hundreds of jobs on hold in league revamp | work=The Age | date=23 March 2004 | accessdate=5 September 2014 | author=Lynch, Michael | quote=If the ''eighth best" application comes from Sydney or Melbourne, either of those cities would have two teams.}}</ref><ref name="a-leagueHistory">{{cite web | url=http://www.a-league.com.au/about/our-history/ubjd1030hnyy1bgqqajtntuuy | title=Our History | publisher=Football Federation Australia | work=Hyundai A-League | accessdate=15 February 2013}}</ref>
+
+By June 2004, 20 submissions had been received and a month later 12 consortiums sent in their final bids for the eight spots. Three bids were received from Melbourne, two each from Sydney and Brisbane, one from each of the remaining preferred cities and a bid from the [[New South Wales]] [[Central Coast (New South Wales)|Central Coast]] city of [[Gosford]]. Over the next three months, each bid was reviewed and on 1 November 2004, the eight successful bidders and the major sponsor were revealed, for what would be known as the Hyundai A-League, with the [[Hyundai Motor Company]] unveiled as the official naming rights sponsor for the league.<ref name="a-leagueHistory"/>
+
+The eight founding teams for the league were [[Adelaide United FC|Adelaide United]], [[Central Coast Mariners FC|Central Coast Mariners]], [[Melbourne Victory FC|Melbourne Victory]], [[Newcastle Jets FC|Newcastle Jets]], [[New Zealand Knights FC|New Zealand Knights]], [[Perth Glory FC|Perth Glory]], [[Brisbane Roar FC|Queensland Roar]] and [[Sydney FC]], with three former NSL clubs taking part, those being Adelaide United, Newcastle Jets and Perth Glory, as well as Queensland Roar and New Zealand Knights who were formed from NSL clubs [[Queensland Lions Soccer Club|Brisbane Lions]] and [[Football Kingz FC|New Zealand Football Kingz]]. Each club was given a five-year exclusivity deal in its own market as part of the league's "one-city, one-team" policy. This was intended to allow clubs to grow and develop an identity in their respective region without local competition.<ref>{{cite web|title=Was one-team one-city a mistake by the FFA?|url=http://www.theroar.com.au/2012/12/18/was-one-team-one-city-a-mistake-by-the-ffa/|work=The Roar|accessdate=8 January 2013}}{{unreliable source?|date=August 2014}}</ref>
+
+On 26 August 2005, 16 months after the demise of the NSL, the [[2005–06 A-League|inaugural season]] of the A-League began.<ref name="a-leagueHistory"/>
+
+===Development===
+On 20 March 2007, it was announced that [[Wellington Phoenix FC|Wellington Phoenix]] would replace [[New Zealand Knights FC|New Zealand Knights]] from the start of the [[2007–08 A-League|2007–08 season]].<ref>{{cite web |url=http://www.heraldsun.com.au/sport/soccer/new-franchise-keeps-nz-in-a-league/story-e6frfg8x-1111113185168|title=New franchise keeps NZ in A-League|work=Herald Sun|publisher=Herald and Weekly Times|date=20 March 2007|accessdate=5 June 2010}}</ref> Both [[Gold Coast United FC|Gold Coast United]] and [[North Queensland Fury FC|North Queensland Fury]] joined the league in the [[2009–10 A-League|2009–10 season]]. On 12 June 2009, [[Melbourne City FC|Melbourne Heart]] was awarded a license to join the [[2010–11 A-League|2010–11 season]].<ref>{{Cite news|url=http://www.foxsports.com.au/story/0,8659,25629397-5000940,00.html?from=public_rss|title=Melbourne awarded licence for second A-League team|last=Reed|first=Ron|date=13 June 2009|work=[[Fox Sports (Australia)]]|accessdate=12 October 2009}}</ref> On 1 March 2011 [[North Queensland Fury FC|North Queensland Fury]]'s A-League license was revoked for financial reasons.<ref>{{cite web|url=http://au.fourfourtwo.com/news/197619,hal-hath-no-fury.aspx |title=HAL Hath No Fury |work=[[FourFourTwo (Australia)|Australian FourFourTwo]] |date=1 March 2011 |accessdate=22 December 2012}}</ref> On 29 February 2012, [[Gold Coast United FC|Gold Coast United]] also had its licence revoked.<ref>{{cite news| url=http://www.theaustralian.com.au/news/sport/gold-coast-owner-clive-palmer-loses-a-league-licence/story-e6frg7mf-1226285136612 | first=Ray | last=Gatt | title=Gold Coast owner Clive Palmer loses A-League licence | date=29 February 2012 | work=The Australian|publisher=News Limited}}</ref><ref>{{cite news|url=http://theworldgame.sbs.com.au/a-league/news/1095969/Glimmer-of-hope-for-Gold-Coast-s-future |title=Glimmer of hope for Gold Coast's future |work=The World Game |publisher=Special Broadcasting Service |date=4 March 2012 |accessdate=22 December 2012}}</ref> On 4 April 2012 it was announced that a new Western Sydney-based club, [[Western Sydney Wanderers FC|Western Sydney Wanderers]], would join the league for the [[2012–13 A-League|2012–13 season]].<ref>{{cite web|url=http://www.footballaustralia.com.au/news-display/New-Hyundai-ALeague-club-for-Western-Sydney/46702 |title=New Hyundai A-League club for Western Sydney|publisher=Football Federation Australia |date= |accessdate=22 December 2012}}</ref> In January 2014, Melbourne Heart was acquired by the [[City Football Group]] and was renamed [[Melbourne City FC|Melbourne City]] ahead of the [[2014–15 A-League|2014–15 season]].<ref name="theguardian.com">{{cite web|title=Manchester City buy A-League's Melbourne Heart|url=http://www.theguardian.com/football/2014/jan/23/manchester-city-buy-melbourne-heart|work=The Guardian|accessdate=23 January 2014}}</ref>
+
+==Competition format==
+
+===Regular season===
+The regular season runs mainly during the Australian summer, from early October to April of the following year. The competition consists of 27 rounds, with each team playing every other team three times. The teams allotted two home matches against an opponent in one season are allotted one home match against that opponent in the following season. Each match sees the winning team awarded three competition points, with one point each for a [[Tie (draw)|draw]]. The club at the top of this ladder is crowned A-League Premiers, and as of the [[2006–07 A-League|2006–07 season]], will be entered into the [[AFC Champions League]].<ref name="AFCCL">{{cite web|url=http://www.a-league.com.au/default.aspx?s=newsdisplay&id=3823 |title=Grand Final rematch to open HAL season |work=A-League.com.au|publisher=Football Federation Australia |date=1 May 2006 |accessdate=3 November 2006}}</ref><ref name="foxsports-newfinals">{{cite news | url=http://www.foxsports.com.au/football/a-league/a-league-season-full-fixture-list-and-new-finals-series/story-e6frf4gl-1226400860929 | title=2012–2013 A-League season: full fixture list and new finals series | work=Fox Sports | date=19 June 2012 | accessdate=2 January 2013}}</ref> The Premier is presented with a trophy known as the Premier's Plate.<ref>{{cite web|title=A-League: HAL 7 (2011–2012 Season)|url=http://back-of-the-net.com/2011-2012/R25/R25-Review.htm|publisher=back-of-the-net.com|accessdate=3 December 2014}}</ref>
+
+At the completion of the regular season the top six placed teams on the league table progress to the finals series. The position of each team is determined by the highest number of points accumulated during the regular season. If two or more teams are level on points, the following criteria are applied in order until one of the teams can be determined as the higher ranked:<ref>{{cite web |url=http://www.a-league.com.au/default.aspx?s=rules |title=Hyundai A-League > Rules |work=A-League.com.au |accessdate=3 November 2006| archiveurl= https://web.archive.org/web/20061004161114/http://a-league.com.au/default.aspx?s=rules| archivedate= 4 October 2006 | deadurl= no}}</ref>
+# Highest goal difference;
+# Highest number of goals scored;
+# Highest number of points accumulated in matches between the teams concerned;
+# Highest goal difference in matches between the teams concerned;
+# Highest number of goals scored in matches between the teams concerned;
+# Lowest number of red cards accumulated;
+# Lowest number of yellow cards accumulated;
+# Toss of a coin.<ref name="competitionrules">{{cite web | url=http://www.footballaustralia.com.au/site/_content/document/00000182-source.pdf | title=Hyundai A-League 2012/13 – Competition Rules Summary | publisher=Football Federation Australia | accessdate=24 December 2012}}</ref>
+
+===Finals series===
+[[File:Melbourne Victory 2007 A-League Grand Final.jpg|thumb|right|250px|[[Melbourne Victory FC|Melbourne Victory]] celebrating after their [[2007 A-League Grand Final]] victory.]]
+
+The A-League finals series is an end-of-season play-off tournament involving the highest-placed teams at the end of the regular season. The tournament was first contested in 2006 at the end of the [[2005–06 A-League|inaugural A-League season]]. The finals series culminates to the A-League Grand Final, where the winner is crowned A-League Champion and receives a place in the [[AFC Champions League]].<ref name="Hyundai A-League finals revamped - Football Australia 2013">{{cite web | url=http://www.footballaustralia.com.au/news-display/Hyundai-ALeague-finals-revamped/47768 | title=Hyundai A-League finals revamped | publisher=Football Federation Australia | work=footballaustralia.com.au | date=19 June 2012 | accessdate=17 October 2013}}</ref> The club that wins the Grand Final is presented with the A-League Trophy.
+
+Recently the competition has consisted of 6 teams (previously 4) who are placed by rank, as determined at the end of the regular season. The competition runs in 3 stages, with each match winner progressing to the next stage, eventually leading to the Grand Final between the 2 remaining teams.<ref name="Hyundai A-League finals revamped - Football Australia 2013" /> The series has involved three different formats since its inception, but the current format, introduced for the [[2012–13 A-League|2012–13 season]] involves a three-week knockout competition, with the first and second placed teams receiving byes to the semi-finals.<ref>http://www.theroar.com.au/football/a-league/fixtures/ {{unreliable source?|date=October 2013}}</ref> The sudden-death nature of the current format has drawn significant criticism for a perceived failure to adequately reward the top two teams from the regular season.<ref>http://www.theroar.com.au/2013/04/11/gallop-defends-a-league-finals-format/ {{unreliable source?|date=October 2013}}</ref>
+
+Typically, the team involved in the Grand Final which finished highest on the ladder hosts the championship match, but this is only if the FFA deems that team's [[Home (sports)|home ground]] to be of appropriate size. For example, in [[2008 A-League Grand Final|2008]], [[Central Coast Mariners FC|Central Coast Mariners]] (as the higher-placed team) hosted the Grand Final against the [[Newcastle Jets FC|Newcastle Jets]] at [[Sydney Football Stadium]], due to FFA deciding that Central Coast Mariners home stadium, [[Central Coast Stadium]] with a capacity of 20,000, was too small for the event.<ref>{{cite news | url=http://news.smh.com.au/sport/sfs-to-host-aleague-grand-final-20080212-1rrl.html | title=SFS to host A-League grand final | work=The Sydney Morning Herald | date=12 February 2008}}</ref>
+
+'''Grand final host stadium'''
+
+{| class="wikitable sortable"
+|-
+! Stadium !! Location !! {{Abbr|No.|Number}} hosted !! Years hosted
+|-
+|[[Docklands Stadium]]||[[Melbourne|Melbourne, Victoria]]||3||[[2007 A-League Grand Final|2007]], [[2009 A-League Grand Final|2009]], [[2010 A-League Grand Final|2010]]
+|-
+|[[Lang Park]]||[[Brisbane, Queensland]]||3||[[2011 A-League Grand Final|2011]], [[2012 A-League Grand Final|2012]], [[2014 A-League Grand Final|2014]]
+|-
+|[[Sydney Football Stadium]]||[[Sydney|Sydney, New South Wales]]||3||[[2006 A-League Grand Final|2006]], [[2008 A-League Grand Final|2008]], [[2013 A-League Grand Final|2013]]
+|-
+|[[Melbourne Rectangular Stadium]]||[[Melbourne|Melbourne, Victoria]]||1||[[2015 A-League Grand Final|2015]]
+|-
+|[[Adelaide Oval]]||[[Adelaide|Adelaide, South Australia]]||1||[[2016 A-League Grand Final|2016]]
+|}
+
+===Continental qualification===
+{{See also|Australian clubs in the AFC Champions League}}
+[[File:2010 AFC Champions League Adelaide United vs Jeonbuk Hyundai Motors.jpg|thumb|right|250px|[[Adelaide United FC|Adelaide United]] against [[Jeonbuk Hyundai Motors]] in the [[AFC Champions League]] in 2010.]]
+
+In 2004–05 Australia was still a part of the [[Oceania Football Confederation]] and [[Sydney FC]] won the right to compete in the [[OFC Champions League|Oceania Club Championship]] after defeating the [[Central Coast Mariners FC|Central Coast Mariners]] in a qualifying tournament. It has been suggested that the [[Wellington Phoenix FC|Wellington Phoenix]] should compete in the [[OFC Champions League]] after 2011, as the club will no longer be eligible for [[AFC Champions League]] football.
+
+A-League clubs are eligible for participation in the [[AFC Champions League]] competition each season since the [[2007 AFC Champions League|2007 edition of the tournament]].<ref>{{cite web |url=http://www.a-league.com.au/default.aspx?s=newsdisplay&id=4304 |title=Australia received two spots in AFC Champions League |date=18 July 2006}}</ref> These teams were determined by finishing positions in the 2005–06 A-League season, the 2008 competition by finishing positions in the 2006–07 season, and so on. The amount of qualification slots and their nature as direct entry to the group stage or a qualification play-off varies based on what the AFC determines for each nation in the competition for that season. Until 2012, for most seasons there were two direct entry positions. Originally the first qualification slot was given to the regular season winning club, with the second to the Grand Final winning club. Due to the dates of the respective competitions, an entire season passes before clubs compete. For example, [[Newcastle Jets FC|Newcastle Jets]] competed in the [[2009 AFC Champions League]], even though they finished last in the [[2008–09 A-League]] season.
+
+In 2012 the AFC revised the qualification process, with A-League spots were reduced from 2.5 to 1.5.<ref name="ffa-ACLcut">{{cite web|url=http://www.footballaustralia.com.au/news-display/AFC-cuts-Champions-League-slots/54279 |title=AFC cuts Champions League slots |publisher=Football Federation Australia |date=29 November 2012 |accessdate=1 March 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20141101072710/http://www.footballaustralia.com.au/news-display/AFC-cuts-Champions-League-slots/54279 |archivedate=1 November 2014 }}</ref><ref name="twg-acl-cut">{{cite news | url=http://theworldgame.sbs.com.au/afc-champions-league/news/1131051/A-League-misses-out-on-automatic-ACL-spot | title=A-League misses out on automatic ACL spot | work=The World Game |publisher=Special Broadcasting Service| date=30 November 2012 | agency=Australian Associated Press | accessdate=1 March 2013}}</ref> The AFC cited lack of a second division, stadia and that the league was not a separate entity to the FFA.<ref name="twg-micallef-acl">{{cite news | url=http://theworldgame.sbs.com.au/philip-micallef/blog/1131333/AFC-ruling-clouds-A-League-finals | title=AFC ruling clouds A-League finals | work=The World Game |publisher=Special Broadcasting Service| date=3 December 2012 | accessdate=1 March 2013 | author=Micallef, Philip}}</ref> For the [[2013 AFC Champions League]], the Premiers (team who finishes top of the ladder) received direct entry into the competition. The Champions (Grand Final winners) entered a play off against another Asian club for qualification.<ref name="abc-misses-acl-spot">{{cite news | url=http://www.abc.net.au/news/2012-11-30/a-league-misses-out-on-automatic-acl-spot/4400180 | title=A-League misses out on automatic ACL spot | work=ABC News | date=30 November 2012 | accessdate=17 October 2013 | publisher=Australian Broadcasting Corporation}}</ref> In the following season this was later revised back to 2.5 A-League spots.<ref>{{cite news|title=A-League wins extra Asia spot|url=http://www.theaustralian.com.au/sport/football/a-league-wins-extra-asia-spot/story-fn63e0vj-1226769971483|work=The Australian|publisher=News Limited|accessdate=11 May 2014}}</ref>
+
+===Other competitions===
+As of 2014, clubs also compete in the domestic [[FFA Cup]] tournament, with the only other cup competition for A-League clubs prior, the [[A-League Pre-Season Challenge Cup]], disbanding in 2008 after four seasons. The [[A-League All Stars Game]] is also played as a pre-season [[Exhibition game|friendly game]] between the league's finest players and a high-profile international.
+
+The majority of A-League clubs have teams in the [[National Youth League (Australia)|National Youth League]] (NYL), which runs in conjunction with the A-League as a national youth developmental and reserve league. All players in the youth teams are between the ages of 16 and 21 as of the start of the calendar year for each new season, while four over-age players from each of the senior teams are also allowed to be selected. In addition, the [[W-League (Australia)|W-League]] operates as the top division of women's league with affiliations to men's competition.<ref>{{cite web|url=http://www.footballaustralia.com.au/InsideFFA/default.aspx?s=insideffa_newsfeatures_newsitem&id=22966|title=Women in a league of their own|date=28 July 2008|publisher=[[Football Federation Australia]]}}</ref>
+
+==Clubs==
+{{right|{{A-League all clubs map}}}}
+
+The A-League is currently contested by 10 teams: nine from Australia and one from New Zealand. A total of 13 teams have competed at some stage in the league's short history. Only four of these clubs – [[Adelaide United FC|Adelaide United]], [[Brisbane Roar FC|Brisbane Roar]] (as [[Queensland Lions FC|Queensland Lions]]), [[Newcastle Jets FC|Newcastle Jets]], and [[Perth Glory FC|Perth Glory]] – existed before the A-League was formed. [[New Zealand Knights FC|New Zealand Knights]], [[Gold Coast United FC|Gold Coast United]] and [[North Queensland Fury FC|North Queensland Fury]] have formerly competed in the league.
+
+Unlike most European leagues, there is no system for [[promotion and relegation]] of teams. The A-League system thus shares some [[Professional sports league organization#Systems around the world|franchising]] elements with most other professional leagues in Australia, [[Major League Soccer]] and other [[Major professional sports leagues in the United States and Canada|major North American-based sports leagues]].
+
+=== Expansion ===
+{{Main|Expansion of the A-League}}
+
+While making a relatively modest start to ensure future stability, both the FFA and the football media indicated significant interest in expanding the league. The eight foundation clubs had exclusivity clauses for their respective cities valid for five years, but this did not exclude teams from other areas joining the league. Some have questioned the logic in expanding the league so soon as many clubs are struggling to stay afloat and think by expanding they are only diluting the playing talent even further.{{citation needed|date=November 2014}}
+
+Before the introduction of the A-League, FFA chairman [[Frank Lowy]] speculated that he hoped to expand the league into other cities, mentioning [[Canberra]], [[Hobart]], [[Wollongong, New South Wales|Wollongong]], [[Geelong]], [[Bendigo]], [[Cairns]], [[Ballarat]], [[Albury–Wodonga]], [[Launceston, Tasmania|Launceston]], [[Christchurch]], [[Auckland]], [[Sunshine Coast, Queensland|Sunshine Coast]] and possibly [[Darwin, Northern Territory|Darwin]] and later [[Singapore]].<ref>{{cite web | url=http://www.a-league.com.au/default.aspx?s=newsdisplay&id=601 | title=ASA announce several significant initiatives | publisher=[[Football Federation Australia|Australian Soccer Association]]|date=22 March 2004 | archiveurl=https://web.archive.org/web/20060909222618/http://a-league.com.au/default.aspx?s=newsdisplay&id=601 | archivedate=9 September 2006}}</ref><ref>{{cite web | url=http://www.a-league.com.au/default.aspx?s=newsdisplay&id=629 | title=A-League launch speech by FFA chairman Mr Frank Lowy AC | date=13 November 2004 | publisher=[[Football Federation Australia|Australian Soccer Association]]|archiveurl=https://web.archive.org/web/20060912075020/http://www.a-league.com.au/default.aspx?s=newsdisplay&id=629 | archivedate=12 September 2006}}</ref><ref>{{cite news |first=Paul |last=Osbourne |title=Chief talks up Townsville |url=http://www.foxsports.com.au/story/0,8659,20081770-5000940,00.html |work=[[Fox Sports (Australia)|Fox Sports]] |date=10 August 2006 |accessdate=6 February 2007| archiveurl= https://web.archive.org/web/20070312010117/http://www.foxsports.com.au/story/0,8659,20081770-5000940,00.html| archivedate= 12 March 2007 | deadurl= no}}</ref><ref>{{cite web | url=http://au.fourfourtwo.com/news/119653,gippsland%E2%80%99s-aleague-call.aspx | title=Gippsland's A-League Call | work=[[FourFourTwo (Australia)|Australian FourFourTwo]] | date=4 January 2010 | accessdate=22 December 2012 | last=Ormond | first=Aidan}}</ref>
+
+{| class="navbox wikitable" style="width:100%; text-align:left"
+|-
+! colspan="8"|Current clubs
+|-
+! Team
+! Location
+! Stadium
+! Capacity
+! Founded
+! Joined
+! Head coach
+! Captain
+|-
+|[[File:ADLicon.png|20px]] '''[[Adelaide United FC|Adelaide United]]'''
+| [[Adelaide]], [[South Australia|SA]]
+| [[Hindmarsh Stadium|Coopers Stadium]]
+| align=center | 16,500
+| align=center | 2003
+| align=center | 2005
+| {{flagicon|ESP}} [[Guillermo Amor]] 
+| {{flagicon|AUS}} [[Eugene Galekovic]]
+|-
+|[[File:BRIicon.png|20px]] '''[[Brisbane Roar FC|Brisbane Roar]]'''
+| [[Brisbane]], [[Queensland|QLD]]
+| [[Lang Park|Suncorp Stadium]]
+| align=center | 52,500
+| align=center | 1957
+| align=center | 2005
+| {{flagicon|AUS}} [[John Aloisi]]
+| {{flagicon|AUS}} [[Matt McKay]]
+|-
+|[[File:CCMicon.png|20px]] '''[[Central Coast Mariners FC|Central Coast Mariners]]'''
+| [[Gosford]], [[New South Wales|NSW]]
+| [[Central Coast Stadium]]
+| align=center | 20,059
+| align=center | 2004
+| align=center | 2005
+| {{flagicon|AUS}} [[Tony Walmsley]]
+ |{{flagicon|SCO}} [[Nick Montgomery]]
+|-
+|[[File:MCYicon.png|20px]] '''[[Melbourne City FC|Melbourne City]]'''
+| [[Melbourne]], [[Victoria (Australia)|VIC]]
+| [[Melbourne Rectangular Stadium|AAMI Park]]
+| align=center | 30,050
+| align=center | 2008
+| align=center | 2010
+| {{flagicon|NED}} [[John van 't Schip]]
+| {{flagicon|AUS}} [[Patrick Kisnorbo]]
+|-
+|[[File:MVCicon.png|20px]] '''[[Melbourne Victory FC|Melbourne Victory]]'''
+| [[Melbourne]], [[Victoria (Australia)|VIC]]
+| [[Melbourne Rectangular Stadium|AAMI Park]]<br />[[Docklands Stadium|Etihad Stadium]]
+| align=center | 30,050<br>56,347
+| align=center | 2004
+| align=center | 2005
+| {{flagicon|AUS}} [[Kevin Muscat]]
+| {{flagicon|AUS}} [[Carl Valeri]]
+|-
+|[[File:NEWicon.png|20px]] '''[[Newcastle Jets FC|Newcastle Jets]]'''
+| [[Newcastle, New South Wales|Newcastle]], [[New South Wales|NSW]]
+| [[Newcastle International Sports Centre|Hunter Stadium]]
+| align=center | 33,000
+| align=center | 2000
+| align=center | 2005
+| {{flagicon|AUS}} [[Scott Miller (soccer coach)|Scott Miller]]
+| {{flagicon|AUS}} [[Nigel Boogaard]]
+|-
+|[[File:PERicon.png|20px]] '''[[Perth Glory FC|Perth Glory]]'''
+| [[Perth]], [[Western Australia|WA]]
+| [[Perth Oval|nib Stadium]]
+| align=center | 20,500
+| align=center | 1995
+| align=center | 2005
+| {{flagicon|ENG}} [[Kenny Lowe]]
+| {{flagicon|AUS}} [[Richard Garcia]]
+|-
+|[[File:SYDicon.png|20px]] '''[[Sydney FC]]'''
+| [[Sydney]], [[New South Wales|NSW]]
+| [[Sydney Football Stadium|Allianz Stadium]]
+| align=center | 45,500
+| align=center | 2004
+| align=center | 2005
+| {{flagicon|AUS}} [[Graham Arnold]]
+| {{flagicon|AUS}} [[Alex Brosque]]
+|-
+|[[File:WELicon.png|20px]] '''[[Wellington Phoenix FC|Wellington Phoenix]]'''
+| [[Wellington]], [[New Zealand|NZ]]
+| [[Wellington Regional Stadium|Westpac Stadium]]
+| align=center | 34,500
+| align=center | 2007
+| align=center | 2007
+| {{flagicon|SCO}} [[Ernie Merrick]]
+| {{flagicon|NZL}} [[Andrew Durante]]
+|-
+|[[File:WSWicon.png|20px]] '''[[Western Sydney Wanderers FC|Western Sydney Wanderers]]'''
+| [[Sydney]], [[New South Wales|NSW]]
+| [[Parramatta Stadium|Pirtek Stadium]]
+| align=center | 21,487
+| align=center | 2012
+| align=center | 2012
+| {{flagicon|AUS}} [[Tony Popovic]]
+| {{flagicon|AUS}} [[Nikolai Topor-Stanley]]
+|}
+
+{| class="navbox wikitable" style="width:100%; text-align:left"
+|-
+! colspan="9"|Former clubs
+|-
+! Team
+! Location
+! Stadium
+! Capacity
+! Founded
+! Joined
+! Dissolved
+! Last head coach
+! Last captain
+|-
+|[[File:GCUicon.png|20px]] ''[[Gold Coast United FC|Gold Coast United]]''
+| [[Gold Coast, Queensland|Gold Coast]], [[Queensland|QLD]]
+| [[Robina Stadium|Skilled Park]]
+| align=center | 27,400
+| align=center | 2008
+| align=center | 2009
+| align=center | 2012
+| {{flagicon|ENG}} [[Mike Mulvey]]
+| {{flagicon|AUS}} [[Michael Thwaite]]
+|-
+|[[File:NZKicon.png|20px]] ''[[New Zealand Knights FC|New Zealand Knights]]''
+| [[Auckland]], [[New Zealand|NZ]]
+| [[North Harbour Stadium]]
+| align=center | 25,000
+| align=center | 1998
+| align=center | 2005
+| align=center | 2007
+| {{flagicon|NZ}} [[Ricki Herbert]]
+| {{flagicon|ENG}} [[Darren Bazeley]]
+|-
+|[[File:NQFicon.png|20px]] ''[[North Queensland Fury FC|North Queensland Fury]]''
+| [[Townsville]], [[Queensland|QLD]]
+| [[Willows Sports Complex|Dairy Farmers Stadium]]
+| align=center | 26,500
+| align=center | 2008
+| align=center | 2009
+| align=center | 2011
+| {{flagicon|CZE}} [[František Straka]]
+| {{flagicon|AUS}} [[Ufuk Talay]]
+|}
+
+=== Rivalries ===
+While there are only two [[Local derby|local derbies]] in the A-League, several rivalries have formed. These include:
+
+[[File:MVCicon.png|20px]] [[File:SYDicon.png|20px]] '''''"[[The Big Blue (A-League)|The Big Blue]]"''' – [[Melbourne Victory FC|Melbourne Victory]] v [[Sydney FC]]''<br>
+This match is so named because blue is the main colour of both teams' playing kits, and is also Australian slang for a fight or a contest.<ref name="macquarie-blue">{{cite encyclopedia | title=Blue | encyclopedia=The Macquarie Essential Dictionary | publisher=The Macquarie Library Pty Ltd | year=1999 | pages=81}}</ref> The rivalry has emerged as a result of a number of spiteful encounters between the teams in recent years, and due to the longstanding rivalry between Sydney and Melbourne, Australia's two largest cities. The teams have competed against each other in two grand finals; in [[2010 A-League Grand Final|2010]], with Sydney winning on penalties after a 1–1 draw, and in [[2015 A-League Grand Final|2015]], with Victory winning 3-0. In 2010, Sydney FC won the A-League Premiership on the final day of the season by defeating Victory 2–0. A Big Blue match is traditionally played on [[Australia Day]] each year.
+
+[[File:ADLicon.png|20px]] [[File:MVCicon.png|20px]] '''''"The Original Derby"''' – [[Adelaide United FC|Adelaide United]] v [[Melbourne Victory FC|Melbourne Victory]] ''<br>
+Contested the [[2007 A-League Grand Final|2007]] and [[2009 A-League Grand Final]]s, in which Melbourne won 6–0 and 1–0 respectively. The rivalry stems from the traditional rivalry between sporting teams from Victoria and South Australia but was strengthened by incidents in the 2006–07 season, such as the confrontation between Melbourne Victory captain [[Kevin Muscat]] and then Adelaide United coach [[John Kosmina]]. {{citation needed|date=October 2015}}
+
+[[File:CCMicon.png|20px]] [[File:NEWicon.png|20px]] '''''"[[F3 Derby]]"''' – [[Central Coast Mariners FC|Central Coast Mariners]] v {{ALeague NUJ}}''<br>
+Named after the former name of [[F3 freeway|the freeway]] that connects the cities of Newcastle and Gosford,<ref name="smh-fanssteamed">{{cite news | url=http://www.smh.com.au/news/football/fans-steamed-up-for-derby--if-they-get-there/2006/11/10/1162661897396.html | title=Fans steamed up for derby – if they get there | work=The Sydney Morning Herald |publisher=Fairfax Media| date=11 November 2006 | accessdate=12 November 2006}}</ref> this match features the only two clubs in the A-League that are not based in state capital cities. The two teams' stadiums are just one hour apart, and the derby was intensified when they competed against each other for the premiership in the [[2007–08 A-League|2007–08 A-League season]] and eventually met in the [[2008 A-League Grand Final|Grand Final]], which was won 1–0 by the Jets.
+
+[[File:MCYicon.png|20px]] [[File:MVCicon.png|20px]] '''''"[[Melbourne Derby (A-League)|Melbourne Derby]]"''' – [[Melbourne City FC|Melbourne City]] v [[Melbourne Victory FC|Melbourne Victory]]''<br>
+The two Melbourne clubs first met on 8 October 2010 in a lively game at [[AAMI Park]] in front of 25,897 fans. Melbourne Heart (as they were then known) came out on top with a 2–1 victory. A significant narrative in derby history is the role of Melbourne Victory as a more successful club both on and off the field, having joined the A-League five years earlier than Heart.<ref>{{cite web|url=http://www.theroar.com.au/2013/02/08/adelaide-united-vs-melbourne-victory-a-league-live-scores-blog/ |title=A-League live scores, blog: Reds vs Victory |publisher=The Roar |date= |accessdate=3 February 2014}}{{reliable source|date=August 2014}}</ref> The rivalry is one of the most intense and well respected in the A-league, producing noticeable atmosphere and some of the largest attendances in the league.
+
+[[File:SYDicon.png|20px]] [[File:WSWicon.png|20px]] '''''"[[Sydney Derby (A-League)|Sydney Derby]]"''' – [[Sydney FC]] v [[Western Sydney Wanderers FC|Western Sydney Wanderers]]''<br>
+The derby was contested for the first time in the 2012–13 season with the introduction of the second Sydney-based club, Western Sydney Wanderers, into the league. Sydney FC grabbed bragging rights by winning the first derby 1–0 at [[Parramatta Stadium]], however Western Sydney Wanderers won the return match at [[Allianz Stadium]] 2–0. A Sydney Derby held early in the 2015 season broke the Allianz Stadium record for attendance during a regular season in any football code, dating back to the stadium's opening in 1988.<ref>{{cite news|url=http://theworldgame.sbs.com.au/article/2014/10/19/flourishing-league-smashes-more-records |title=FLOURISHING A-LEAGUE SMASHES MORE RECORDS |work=The World Game|publisher=SBS |date= |accessdate=20 October 2014}}</ref> The Sydney Derby is intensified by the geographic distinction between the two clubs within Sydney, as well as historical grievances related to the foundation of Sydney FC.
+
+====Former====
+
+[[File:BRIicon.png|20px]] [[File:GCUicon.png|20px]] '''''"M1 Derby"''' – [[Brisbane Roar FC|Brisbane Roar]] v [[Gold Coast United FC|Gold Coast United]] '''(2009/10-2011/12)'''''<br>
+Known as the M1 Derby, it shared the name of the main highway between the two cities, the M1. Due to Brisbane's close proximity to the Gold Coast, Brisbane Roar's geographical derby opponent was naturally going to be Gold Coast United. The glitzy Coast side only won 1 more game between the two (4 to 3), having won the first 3 games, all in Gold Coast's first season of 2009–10. They would, however, win only 1 of the 6 other games the two sides would play. The rivalry, however, concluded on 5 April 2012 when Football Federation Australia officially announced the axing of the Gold Coast side.
+
+==Organisation==
+
+===Logo and trophies===
+[[File:A-League Trophy.svg|thumb|150px|The A-League Trophy was designed to resemble a [[laurel wreath]].]]
+
+The spherical A-League logo was designed by Coast Design Sydney. The two-toned [[ochre]] colours represent the [[sun]], [[earth]] and [[desert]] while the 'glow' emanating from the centre of the logo depicts the playing season's spring and summer time span. The eight 'A' figures that make up the ball shape represent the eight foundation clubs of the league.<ref>{{cite web|title=Logo signals refreshing new era |url=http://www.a-league.com.au/default.aspx?s=newsdisplay&id=616 |publisher=Football Federation Australia|work=A-League.com.au|date=1 November 2004 |accessdate=19 December 2006}}</ref>
+
+The A-League has two trophies which are competed for during the season: the Premier's Plate and the A-League Trophy.<ref name="fourfourtwo-trophy">{{cite news | url=http://au.fourfourtwo.com/features/3372,gold-medal-trophy.aspx | title=Gold medal trophy | work=[[FourFourTwo (Australia)|Australian FourFourTwo]] | date=19 March 2007 | accessdate=17 October 2013 | author=Ormond, Aidan}}</ref> The Premier's Plate is awarded to the A-League Premiers, the regular season winners, and the A-League Trophy is awarded to the A-League Champions, the winner of the Grand Final. Both pieces of silverware were designed by Sydney design company D3 design. The A-League Trophy is nicknamed the "Toilet Seat" due to its shape.<ref name="fox-toiletseat">{{cite news | url=http://www.foxsports.com.au/football/goal-line-technology-toilet-seats-and-mrps-simon-hill-reveals-his-hopes-and-dreams-for-football/story-e6frf423-1226546632480 | title=Goal-line technology,'toilet seats' and MRPs: Simon Hill reveals his hopes and dreams for football | work=Fox Sports | date=2 January 2013 | accessdate=15 February 2015 | author=Hill, Simon | authorlink=Simon Hill}}</ref><ref name="toiletseat">{{cite news | url=http://theworldgame.sbs.com.au/article/2014/10/02/top-10-league-flops | title=The top 10 A-League flops | work=The World Game | date=2 October 2014 | accessdate=15 February 2015 | quote=Then there's the A-League prize - a shiny metal ring that looks like something you stick your rear end in to eject fecal waste through. Aptly nicknamed the 'toilet seat', the A-League trophy is actually an impressive piece of kit close up, but in the lexicon of famous football championship bling, it's a definite flop.}}</ref><ref>{{cite web|title=EPL trophy influenced FFA Cup design|url=http://www.footballaustralia.com.au/news-display/EPL-trophy-influenced-FFA-Cup-design/89622|publisher=[[Football Federation Australia]]|accessdate=11 May 2014}}</ref> Where as the Premier's Plate follows a traditional trophy design, the A-League Trophy differs. In 2005, [[John O'Neill (sport administrator)|John O'Neill]], FFA CEO commented during the unveiling of the A-League Trophy, "We have a new national league and we feel it is important to re-define the conventional view of a trophy to reflect this". Clive Solari of D3 design explained the trophy's design, saying "We wanted our trophy concept to embody the historical significance of sport in a contemporary design. So we looked to history to see how great achievements have been rewarded across all types of games for thousands of years. The winners of the world's original sporting competition, the [[Olympic Games]], were presented with a [[laurel wreath]] on their heads. We used this model as a basis for a unique, cutting-edge design – our trophy is a modern and versatile translation of the wreath. The winners can hold it above their heads as a symbol of success".<ref>{{cite web|title=New A-League trophy revealed|url=http://theworldgame.sbs.com.au/news/647980/new-a-league-trophy-revealed|work=The World Game|publisher=Special Broadcasting Service|accessdate=27 February 2014}}</ref>
+
+===Squad formation and salary cap===
+{{See also|List of A-League players|List of foreign A-League players}}
+[[File:Alex Del Piero Sydney FC 2 cropped.jpg|thumb|150px|[[Alessandro Del Piero]] joined the league in 2012, as Sydney FC's marquee player.]]
+
+The A-League match-day squad includes the typical 11 players, and five substitutes of which one must be a goalkeeper. Prior to the [[2013–14 A-League|2013–14 season]], just four substitutes including one goalkeeper were allowed to be named in the starting line-ups for the teams.<ref>{{cite web|title=A-League increases available substitutes to five|url=http://www.sbnation.com/2013/8/15/4624170/a-league-substitutes|author=Orr, Michael|work=SBnation.com|publisher=Vox Media|accessdate=30 May 2014}}</ref>
+
+An A-League squad must comprise a minimum 20 players with a maximum of 26, subject to several limitations. Within the squad there can be a maximum of five "foreign" or "[[Visa (document)|Visa]]" players, from outside Australia (and New Zealand, in the case of [[Wellington Phoenix FC|Wellington Phoenix]]), that hold a temporary working-visa. Three players in the squad must also be under 20 years of age. In addition to these three under 20 players, clubs are allowed to sign an additional three youth players onto full-time contracts at a lower pay rate than the rest of the squad.<ref name="smh-cap-open">{{cite news | url=http://www.smh.com.au/sport/a-league/open-slather-as-clubs-push-for-squad-quotas-to-be-scrapped-20120129-1qo1l.html | title=Open slather as clubs push for squad quotas to be scrapped | work=The Sydney Morning Herald | publisher=Fairfax Media | date=30 January 2012 | accessdate=23 August 2013}}</ref><ref name="PFA_CBA">{{cite web|url=http://www.pfa.net.au/index.php?id=81 |title=A-league Collective Bargaining Agreement 2008–2013|publisher=Australian PFA |date=2 May 2010|accessdate=19 January 2011}}</ref><ref name="dailytele-salarycaprise">{{cite news | url=http://www.dailytelegraph.com.au/sport/soccer/a-league-salary-cap-to-rise/story-e6frey4r-1111113393772 | title=A-League salary cap to rise | work=The Daily Telegraph | date=23 April 2007 | accessdate=11 February 2011}}</ref> The A-League had initially proposed that the quota of five visa players per A-League club be reduced to four in the 2015–16 season, with the limit of four possibly become "3+1", which means three imports from anywhere and one from Asia (following regulations in the [[AFC Champions League]]).<ref>{{cite web | url=http://www.couriermail.com.au/sport/football/reducing-the-aleague-imports-to-four-will-only-help-the-development-of-our-young-australian-players/story-fnk6pqhe-1226855909589 | title=Reducing the A-League imports to four will only help the development of our young Australian players | work=The Courier-Mail | date=15 March 2014 | accessdate=15 June 2014 | author=Moore, Craig | authorlink=Craig Moore}}</ref> However, after opposition to the proposal by both players and managers, the move was placed on hold.<ref name="fox-visasports-backflip">{{cite news | url=http://www.foxsports.com.au/football/a-league/a-league-chiefs-are-set-to-backflip-and-not-reduce-visa-spots-for-next-season/story-e6frf4gl-1227195813689 | title=A-League chiefs are set to backflip and not reduce visa spots for next season | work=Fox Sports | date=24 January 2015 | accessdate=16 February 2015 | author=Davutovic, David}}</ref>
+
+Although A-League clubs have restricted salaries ([[salary cap]]), the league allows each club to have two "marquee" players whose salaries are exempt from the cap, plus a number of other 'exemptions' or 'allowances' to incentivize clubs to spend in specific areas. Guest players are also excluded for up to a maximum of 14 league matches.<ref name="msn.com">{{cite web|title=Sweeping changes to A-League cap unveiled|url=http://www.msn.com/en-au/sport/football/sweeping-changes-to-a-league-cap-unveiled/ar-BBlD3CO?ocid=mailsignout|accessdate=11 August 2015}}</ref> From the formation of the league, clubs have been allowed to sign one international marquee player. From the 2008–09 season, A-League clubs have been permitted a junior marquee player; one that is under the age of 23. Now known as the 'Homegrown Player allowance', clubs can spend up to a collective $150,000 on 3 Australian players aged 23 or younger that have come through the club's youth system.<ref name="A-League Salary Cap Summary">{{cite news|title=A-League Salary Cap Summary |url=http://www.a-league.com.au/about/competition-rules/1aw1ybfl0o1uo1k3rz9suqvqbb|publisher=[[Football Federation Australia]]}}</ref> On 19 April 2010, the A-League announced that, in addition to the international marquee and junior marquee, clubs would be allowed an Australian marquee player from the 2010–11 season.<ref name=autogenerated1>{{cite news|url=http://www.pfa.net.au/index.php?id=81 |title=A-League CBA|publisher=Australian PFA |date=2 May 2010|accessdate=2 May 2010| archiveurl= https://web.archive.org/web/20100419210857/http://www.pfa.net.au/index.php?id=81| archivedate= 19 April 2010 | deadurl= no}}</ref> Notable marquee and guest players in the A-League have included [[Alessandro Del Piero]], [[William Gallas]], [[Dwight Yorke]], [[Emile Heskey]], [[Robbie Fowler]], [[David Villa]] and former [[FIFA World Player of the Year]] [[Romário]]. Famous Australian Marquees include [[Harry Kewell]], [[John Aloisi]], [[Brett Emerton]] and [[Joshua Kennedy]].
+
+The A-League salary cap is $2.60 million for the 2015/16 Season. Clubs must spend at least the salary floor which is $2.275m (representing 87.5% of the Salary Cap). The salary cap applies to the 20 to 23 Players that clubs have registered to their A-League Player Roster. Unless specifically exempt, all payments and benefits provided by a Club to a Player are included in the club's salary cap.<ref name="A-League Salary Cap Summary"/>
+
+Commencing in the 2015/16 Season, players who have played at their club for 5–10 years will be covered by a "loyalty player allowance", allowing up to $200,000 of their salary to be exempted from the cap. Additionally, clubs are now permitted a mature-age rookie whose wages are outside the salary cap.<ref name="msn.com"/>
+
+{| class="wikitable" style="text-align:center"
+|+ A-League salaries and marquees
+|-
+!width=14%|Season 
+!width=14%|Marquee player
+!width=14%|Australian marquee
+!width=14%|Junior marquee
+!width=14%|Mature-aged rookie
+!width=14%|Salary cap
+!width=14%|Minimum salary
+|-
+| [[2005–06 A-League|2005–06]]  || {{Yes|1}} || {{No}}|| {{No}} || {{No}} || $1,500,000<ref name="Can our talent reside in the A-League?">{{cite web|title=Can our talent reside in the A-League?|url=http://www.theroar.com.au/2010/12/22/can-our-better-talent-reside-in-the-a-league/|publisher=theroar.com.au}}</ref> ||
+|-
+| [[2006–07 A-League|2006–07]]|| {{Yes|1}} || {{No}}|| {{No}} || {{No}} || $1,600,000<ref name="A-League lifts its salary cap to $1.8m">{{cite web|title=A-League lifts its salary cap to $1.8m|url=http://www.theage.com.au/news/Sport/ALeague-lifts-its-salary-cap-to-18m/2007/04/23/1177180562411.html|work=[[The Age]]|publisher=Fairfax Media}}</ref> ||
+|-
+| [[2007–08 A-League|2007–08]]|| {{Yes|1}} || {{No}}|| {{No}}|| {{No}} || $1,800,000<ref name="A-League lifts its salary cap to $1.8m" /> ||
+|-
+| [[2008–09 A-League|2008–09]]|| {{Yes|1}} || {{Yes|1}}|| {{No}} || {{No}} || $1,900,000<ref>{{cite news|title=New Season To Start With A Bang |url=http://au.fourfourtwo.com/news/75151,new-season-to-start-with-a-bang.aspx |work=[[FourFourTwo (Australia)|Australian FourFourTwo]] |deadurl=yes |archiveurl=https://web.archive.org/web/20080503031516/http://au.fourfourtwo.com/news/75151,new-season-to-start-with-a-bang.aspx |archivedate=3 May 2008 }}</ref> ||
+|-
+| [[2009–10 A-League|2009–10]]|| {{Yes|1}} || {{Yes|1}}|| {{No}} || {{No}} || $2,250,000<ref>{{cite web|title=Football federation ignored Sydney FC's alleged breach of salary cap|url=http://www.smh.com.au/sport/a-league/football-federation-ignored-sydney-fcs-alleged-breach-of-salary-cap-20110617-1g87w.html#ixzz3EPfV8ToY|work=[[Sydney Morning Herald]]|publisher=Fairfax Media}}</ref> ||
+|-
+| [[2010–11 A-League|2010–11]]|| {{Yes|1}} || {{Yes|1}}|| {{Yes|1}} || {{No}} || $2,350,000<ref name="Can our talent reside in the A-League?" /> ||
+|-
+| [[2011–12 A-League|2011–12]]|| {{Yes|1}} || {{Yes|1}}|| {{Yes|1}} || {{No}} || $2,400,000<ref>{{cite news|title=FFA, players on collision course |url=http://www.theaustralian.com.au/sport/football/ffa-players-on-collision-course/story-fn63e0vj-1226211746016|work=[[The Australian]]|publisher=News Limited}}</ref> ||
+|-
+| [[2012–13 A-League|2012–13]]|| {{Yes|1}} || {{Yes|1}}|| {{Yes|1}} || {{No}} || $2,468,000<ref name="A-League players strike a deal for a minor increase to salary cap, minimum wages" /> ||$48,000<ref>{{cite news|title=A-League clubs to see slight salary cap raise under new pay deal|url=http://www.abc.net.au/news/2013-07-01/clubs-see-slight-raise-in-new-a-league-pay-deal/4791864|work=ABC News|publisher=Australian Broadcasting Corporation|accessdate=23 September 2014}}</ref>
+|-
+| [[2013–14 A-League|2013–14]]|| {{Yes|1}} || {{Yes|1}}|| {{Yes|1}} || {{No}} || $2,500,000<ref name="A-League players strike a deal for a minor increase to salary cap, minimum wages" /> ||$50,000<ref name="A-League players strike a deal for a minor increase to salary cap, minimum wages">{{cite web|title=A-League players strike a deal for a minor increase to salary cap, minimum wages |url=http://www.adelaidenow.com.au/sport/football/a-league-players-strike-a-deal-for-a-minor-increase-to-salary-cap-minimum-wages/story-fnii0fc4-1226672749091|publisher=[[Adelaide Now]]}}</ref>
+|-
+| [[2014–15 A-League|2014–15]]|| {{Yes|1}} || {{Yes|1}}|| {{Yes|1}} || {{No}} || $2,550,000<ref name="A-League players strike a deal for a minor increase to salary cap, minimum wages" /> ||$51,000<ref name="Foreign marquee quota doubled in revised salary cap">{{cite web|title=Foreign marquee quota doubled in revised salary cap|url=http://theworldgame.sbs.com.au/article/2015/08/11/foreign-marquee-quota-doubled-revised-salary-cap?cid=trending|publisher=SBS website|accessdate=11 August 2015}}</ref>
+|-
+| [[2015–16 A-League|2015–16]]||colspan=2 {{Yes|2}} || {{Yes|1}} || {{Yes|1}} ||  $2,600,000<ref name="A-League Salary Cap Summary"/> || $55,000<ref name="A-League Salary Cap Summary"/> 
+|-
+|}
+
+===Stadiums===
+{{Main|List of A-League stadiums}}
+
+A-League football has been played in 27 stadia since the inaugural season of the A-League in 2005. [[Hindmarsh Stadium]], the home of [[Adelaide United FC|Adelaide United]], is currently the only [[soccer-specific stadium]] used in the A-League. [[Adelaide Oval]], secondary home of Adelaide United, has the greatest seating capacity (53,583) of any stadium used by an A-League club (discluding Melbourne's Etihad Stadium), although it is only the fourth [[List of sports venues in Australia|largest stadium in Australia by capacity]], and is an oval stadium, being designed for [[cricket]] and [[Australian rules football]].
+
+===Sponsorship===
+Since its formation, the A-League has been sponsored by an official naming rights partner.<ref name="a-leagueHistory"/> In 2004, the [[Hyundai Motor Company]] was announced as the sponsor for the first three seasons of the league, known for commercial purposes as the "Hyundai A-League". In 2008, Hyundai renewed its initial contract with [[Football Federation Australia|FFA]] for another four seasons until 2012, and that contract was further extended by four seasons until 2016.<ref name="hyundai-extends">{{cite press release| url=http://www.hyundai.com.au/about-hyundai/news/articles/hyundai-extends-a-league-partnership-until-2016 | title=Hyundai Extends A-League Partnership Until 2016 | publisher=Hyundai Motor Company, Australia | accessdate=10 May 2014}}</ref>
+
+===Media coverage===
+[[File:Newcastle-Sydney EnergyAustralia.jpg|thumb|right|250px|[[Newcastle Jets FC|Newcastle Jets]] against [[Sydney FC]] at [[Newcastle International Sports Centre|Newcastle Stadium]] in 2007.]]
+From the start of the 2005–06 season to the 2012–13 season, television coverage of the A-League in Australia had been restricted to the [[Pay television|subscription]]-only [[Fox Sports (Australia)|Fox Sports]] channel, to which only 7% of Australian residents have access.<ref>{{cite press release | url=http://www.foxtel.com.au/about-foxtel/communications/foxtel-announces-solid-growth-despite-difficult-consumer-env-140568.htm | title=FOXTEL Announces Solid Growth Despite Difficult Consumer Environment | publisher=Foxtel | date=11 August 2011 | accessdate=9 January 2013}}</ref> On 19 November 2012, [[free-to-air]] Australian [[public broadcasting]] [[Television broadcasting in Australia|television network]] [[Special Broadcasting Service|SBS]] secured the shared rights, alongside long-time A-League broadcasters Fox Sport, to the A-League from the 2013–14 season with a [[Australian dollar|A$]]160 million four-year broadcast deal.<ref>{{cite web|title=Football returns to free-to-air TV on SB|url=http://theworldgame.sbs.com.au/news/1129433/football-returns-to-free-to-air-tv-on-sbs|work=The World Game|publisher=Special Broadcasting Service|accessdate=16 February 2013}}</ref> In New Zealand the league has been broadcast on [[Sky Sport (New Zealand)|Sky Sport]] since its inaugural season.
+
+The growth of coverage of the A-League outside Australia saw the league broadcast in 65 countries around the world in 2013/14.<ref name="global broadcast">{{cite web|title=Hyundai A-League broadcast to global audience in 2013/14|url=http://www.footballaustralia.com.au/news-display/hyundai-a-league-broadcast-to-global-audience-in-2013/14/76856|publisher=footballaustralia.com.au|accessdate=10 October 2013}}</ref> Full match broadcasts are available in the United States, China, Italy, England, Ireland, Scotland, Wales, Canada, the Caribbean, Hong Kong, Singapore and Myanmar.<ref name="global broadcast" /> In addition to the full match broadcasts, highlights of A-League matches can be viewed in 53 countries throughout Asia and the Middle East, including Japan and South Korea.<ref name="global broadcast" /> In 2014, a three season deal with [[TEN Sports]] allowed the league to be broadcast live in Asian nations including Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.<ref name="Football Federation Australia">{{cite web|title=A-League and FFA Cup's Asia TV deal|url=http://www.footballaustralia.com.au/news-display/ALeague-and-FFA-Cups-Asia-TV-deal/90362|publisher=[[Football Federation Australia]]|accessdate=12 May 2014}}</ref> Every A-League match is also [[Streaming media|live streamed]] globally, allowing games to be viewed online through a subscription service provided in a partnership with the [[Football Federation Australia|FFA]].<ref>{{cite web|title=Watch A-League's Top Football LIVE!|url=http://www.aleague.livesport.tv/about|publisher=aleague.livesport.tv|accessdate=10 October 2013}}</ref>  Some games are televised live in the United States on [[Fox Sports 2]]. Most games in the United Kingdom are broadcast by [[BT Sport]] but use Fox Sports Graphics for every live game. For the 2014/15 Season, the A-League was broadcast in 173 countries.<ref name="A-League 2014/15 Season Report">{{cite web|title=Hyundai A-League 2014/15 Season Report|url=http://www.footballaustralia.com.au/dct/ffa-dtc-performgroup-eu-west-1/Hyundai%20A-League%202014-15%20season%20report_1s167ph9g7tdu1dx6bsd0fcwh4.pdf}}</ref>
+
+The A-League has been promoted using a number of different advertising slogans and strategies since its inception. At the start of the inaugural season, a {{A$}}3 million dollar advertising campaign was launched, with the television and film advertisements produced by [[Ridley Scott]]'s production company. The theme for the campaign was: "Football, but not as you know it". A new television advertisement was created for the start of the [[2007–08 A-League|2007–08 season]], which debuted on Foxtel's program Total Football. It was filmed at [[Bob Jane Stadium]] in Melbourne. Other campaigns include the "90 minutes, 90 emotions", which was used for two seasons from 2007–09 and was accompanied by the music track "My People" from Australian act [[The Presets]].<ref name="fourfourtwo-newad">{{cite news | url=http://au.fourfourtwo.com/news/58536,aleague-ad-hits-the-screens.aspx | title=New A-League ad hits the screens | work=[[FourFourTwo (Australia)|Australian FourFourTwo]] | date=9 August 2007 | accessdate=6 January 2008}}</ref>
+
+{| class="wikitable hlist"
+|-
+!Territory
+!Network
+|-
+| {{flagicon|AUS}} Australia
+|[[Special Broadcasting Service|SBS]], [[Fox Sports (Australia)|Fox Sports]]<ref>{{cite news|title=FFA announces new A-League broadcast deal|url=http://www.abc.net.au/news/2012-11-19/ffa-announces-new-a-league-broadcast-deal/4379596|publisher=[[Australian Broadcasting Corporation]]|work=ABC News|accessdate=4 November 2014}}</ref>
+|-
+| {{flagicon|NZL}} New Zealand
+|[[Sky Sport (New Zealand)|Sky Sport]]<ref>{{cite web|title=Cash block to Phoenix A-league licence extension |url=http://www.stuff.co.nz/sport/football/10666528/Cash-block-to-Phoenix-A-league-licence-extension|publisher=[[Stuff NZ]]|accessdate=4 November 2014}}</ref>
+|-
+| {{flagicon|AFG}} Afghanistan
+|[[TEN Sports]]<ref name="Football Federation Australia"/>
+|-
+| {{flagicon|BAN}} Bangladesh
+|[[TEN Sports]]<ref name="Football Federation Australia"/>
+|-
+| {{flagicon|HKG}} Hong Kong
+|[[Cable TV Hong Kong]]
+|-
+| {{flagicon|IND}} India
+|[[TEN Sports]]<ref name="Football Federation Australia"/>
+|-
+| {{flagicon|IRE}} Ireland
+|[[BT Sport]] 
+|-
+| {{flagicon|JAM}} Jamaica
+|[[Fox Soccer Plus]]<ref name="Fox Soccer Plus">{{cite web|title=Hyundai A-League on Fox Soccer Plus |url=http://www.foxsoccerplus.com/leagues/19-soccer/27-hyundai-a-league|publisher=[[Fox Soccer Plus]]|accessdate=4 November 2014}}</ref>
+|-
+| {{flagicon|PAK}} Pakistan
+|[[TEN Sports]]<ref name="Football Federation Australia"/>
+|-
+| {{flagicon|SRI}} Sri Lanka
+|[[TEN Sports]]<ref name="Football Federation Australia"/>
+|-
+| {{flagicon|GBR}} United Kingdom
+|[[BT Sport]]
+|-
+| {{flagicon|USA}} United States
+|[[ONE World Sports]], [[Fox Sports 2]], [[Fox Soccer Plus]]<ref name="Fox Soccer Plus"/>
+|-
+| {{flagicon|CHN}} China
+|[[LeTV]]<ref name="Fox Soccer Plus"/>
+|}
+
+==Honours==
+{{Main|List of A-League honours}}
+
+{| class="wikitable" style="text-align:center;margin-left:1em"
+|-
+!style="width:85px"|Season 
+!colspan=2|Champions
+!colspan=2|Premiers
+|-
+| [[2005–06 A-League|2005–06]] ||[[File:SYDicon.png|20px]]|| [[Sydney FC]] ||[[File:ADLicon.png|20px]]|| [[Adelaide United]]
+|-
+| [[2006–07 A-League|2006–07]] ||[[File:MVCicon.png|20px]]|| [[Melbourne Victory]] ||[[File:MVCicon.png|20px]]|| [[Melbourne Victory]]
+|-
+| [[2007–08 A-League|2007–08]] ||[[File:NEWicon.png|20px]]|| [[Newcastle Jets]] ||[[File:CCMicon.png|20px]]|| [[Central Coast Mariners]]
+|-
+| [[2008–09 A-League|2008–09]] ||[[File:MVCicon.png|20px]]|| [[Melbourne Victory]] ||[[File:MVCicon.png|20px]]|| [[Melbourne Victory]]
+|-
+| [[2009–10 A-League|2009–10]] ||[[File:SYDicon.png|20px]]|| [[Sydney FC]] ||[[File:SYDicon.png|20px]]|| [[Sydney FC]]
+|-
+| [[2010–11 A-League|2010–11]] ||[[File:BRIicon.png|20px]]|| [[Brisbane Roar]] ||[[File:BRIicon.png|20px]]|| [[Brisbane Roar]]
+|-
+| [[2011–12 A-League|2011–12]] ||[[File:BRIicon.png|20px]]|| [[Brisbane Roar]] ||[[File:CCMicon.png|20px]]|| [[Central Coast Mariners]]
+|-
+| [[2012–13 A-League|2012–13]] ||[[File:CCMicon.png|20px]]|| [[Central Coast Mariners]] ||[[File:WSWicon.png|20px]]|| [[Western Sydney Wanderers]]
+|-
+| [[2013–14 A-League|2013–14]] ||[[File:BRIicon.png|20px]]|| [[Brisbane Roar]] ||[[File:BRIicon.png|20px]]|| [[Brisbane Roar]]
+|-
+| [[2014–15 A-League|2014–15]] ||[[File:MVCicon.png|20px]]|| [[Melbourne Victory]] ||[[File:MVCicon.png|20px]]|| [[Melbourne Victory]]
+|-
+| [[2015–16 A-League|2015–16]] ||[[File:ADLicon.png|20px]]|| [[Adelaide United]] ||[[File:ADLicon.png|20px]]|| [[Adelaide United]]
+|}
+
+{| class="wikitable sortable" style="text-align: center;"
+|+ Regular season premierships
+|-
+! Club
+! Premiers
+! Runners-up
+! Winning seasons
+|-
+| align=left|[[Melbourne Victory FC|Melbourne Victory]]
+| 3
+| 1
+| align=left|[[2006–07 A-League|2006–07]], [[2008–09 A-League|2008–09]], [[2014–15 A-League|2014–15]]
+|-
+| align=left|[[Adelaide United FC|Adelaide United]]
+| 2
+| 2
+| align=left|[[2005–06 A-League|2005–06]], [[2015–16 A-League|2015–16]]
+|-
+| align=left|[[Central Coast Mariners FC|Central Coast Mariners]]
+| 2
+| 2
+| align=left|[[2007–08 A-League|2007–08]], [[2011–12 A-League|2011–12]]
+|-
+| align=left|[[Brisbane Roar FC|Brisbane Roar]]
+| 2
+| 1
+| align=left|[[2010–11 A-League|2010–11]], [[2013–14 A-League|2013–14]]
+|-
+| align=left|[[Sydney FC]]
+| 1
+| 2
+| align=left|[[2009–10 A-League|2009–10]]
+|-
+| align=left|[[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+| 1
+| 2
+| align=left|[[2012–13 A-League|2012–13]]
+|-
+| align=left|[[Newcastle Jets FC|Newcastle Jets]]
+| 0
+| 1
+| 
+|}
+
+{| class="wikitable sortable" style="text-align: center;"
+|+ Finals series championships 
+|-
+! Club
+! Champions
+! Runners-up
+! Winning Grand Finals
+|-
+| align=left|[[Melbourne Victory FC|Melbourne Victory]]
+| 3
+| 1
+| align=left|[[2007 A-League Grand Final|2007]], [[2009 A-League Grand Final|2009]], [[2015 A-League Grand Final|2015]]
+|-
+| align=left|[[Brisbane Roar FC|Brisbane Roar]]
+| 3
+| 0
+| align=left|[[2011 A-League Grand Final|2011]], [[2012 A-League Grand Final|2012]], [[2014 A-League Grand Final|2014]]
+|-
+| align=left|[[Sydney FC]]
+| 2
+| 1
+| align=left|[[2006 A-League Grand Final|2006]], [[2010 A-League Grand Final|2010]]
+|-
+| align=left|[[Central Coast Mariners FC|Central Coast Mariners]]
+| 1
+| 3
+| align=left|[[2013 A-League Grand Final|2013]]
+|-
+| align=left|[[Adelaide United FC|Adelaide United]]
+| 1
+| 2
+| align=left|[[2016 A-League Grand Final|2016]]
+|-
+| align=left|[[Newcastle Jets FC|Newcastle Jets]]
+| 1
+| 0
+| align=left|[[2008 A-League Grand Final|2008]]
+|-
+| align=left|[[Western Sydney Wanderers FC|Western Sydney Wanderers]]
+| 0
+| 3
+| 
+|-
+| align=left|[[Perth Glory FC|Perth Glory]]
+| 0
+| 1
+| 
+|}
+
+==Records==
+{{Main|A-League all-time records}}
+[[File:Vukovic 2015 FFA Cup Victory Adelaide.jpg|thumb|right|[[Melbourne Victory FC|Melbourne Victory]]'s [[Danny Vukovic]] holds the record for the most A-League appearances.<ref name="blstats">{{cite web |url=http://www.ultimatealeague.com/records.php?type=app&season=overall|title=Statistics: Player (Appearances) |accessdate=7 May 2016 |publisher=ultimatealeague.com}}</ref>]] 
+[[Danny Vukovic]], who plays for [[Melbourne Victory FC|Melbourne Victory]] holds the record for the most number of A-League appearances.<ref name="blstats"/>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Rank !! Name !! Appearances
+|-
+| 1 || style="text-align:left"|{{flagicon|AUS}} '''[[Danny Vukovic]]''' || 250
+|-
+| 2 || style="text-align:left"|{{flagicon|NZ}} '''[[Andrew Durante]]''' || 246
+|-
+| 3 || style="text-align:left"|{{flagicon|AUS}} '''[[Nikolai Topor-Stanley]]''' || 236
+|-
+| 4 || style="text-align:left"|{{flagicon|AUS}} '''[[Eugene Galekovic]]''' || 230
+|-
+| 5 || style="text-align:left"|{{flagicon|Malta}}  [[John Hutchinson (footballer)|John Hutchinson]] || 228
+|-
+| style="text-align:left" colspan="3"|<small>Source: [http://www.ultimatealeague.com/records.php?type=app&season=overall ultimatealeague.com]   Last updated: 7 May 2016</small>
+|}
+
+[[File:Archie Thompson-2012.jpg|thumb|150px|[[Archie Thompson]] is the highest goalscorer in A-League matches, and is seventh for number of appearances.]]
+ 
+[[Archie Thompson]], who plays for [[Melbourne Victory FC|Melbourne Victory]] (2005–present), holds the record for the greatest number of A-League goals, with 90 goals. Thompson also holds the league record for most goals in a single match, when scoring 5 goals against [[Adelaide United FC|Adelaide United]] on 18 February 2007, during the [[2007 A-League Grand Final]].<ref>{{cite web |url=http://www.ultimatealeague.com/records.php?type=pg&season=overall|title=Statistics: Goals (Overall) |accessdate=18 February 2013 |publisher=ultimatealeague.com}}</ref> [[Shane Smeltz]] has scored the [[List of A-League hat-tricks|most A-League hat-tricks]] with 4, playing for [[Gold Coast United FC|Gold Coast United]] and [[Perth Glory FC|Perth Glory]]. Smeltz is also the only player to have scored hat-tricks in consecutive matches.<ref>{{cite news | url=http://www.heraldsun.com.au/sport/football/hat-trick-to-shane-smeltz-sees-perth-glory-knock-out-melbourne-heart/story-e6frfg8x-1226315912798 | title=Hat-trick to Shane Smeltz sees Perth Glory knock out Melbourne Heart | work=[[Herald Sun]] | date=1 April 2012 | accessdate=25 April 2014 | author=Quartermaine, Braden}}</ref> In 2015 [[Sydney FC]] striker [[Marc Janko]] broke a record scoring in seven consecutive matches.
+
+{| class="wikitable" style="text-align:center"
+|-
+! Rank !! Name !! Goals !! Appearances !! Ratio
+|-
+| 1 || style="text-align:left"|{{flagicon|AUS}} '''[[Archie Thompson]]''' || 90 || 224 || 0.40
+|-
+| 2 || style="text-align:left"|{{flagicon|NZL}} '''[[Shane Smeltz]]''' || 89 || 178 || 0.50
+|-
+| 3 || style="text-align:left"|{{flagicon|ALB}} '''[[Besart Berisha]]''' || 81 || 130 || 0.62
+|-
+| 4 || style="text-align:left"|{{flagicon|AUS}} '''[[Mark Bridge]]''' || 58 || 225 || 0.26
+|-
+| 5 || style="text-align:left"|{{flagicon|AUS}} '''[[Alex Brosque]]''' || 52 || 165 || 0.32
+|-
+| style="text-align:left" colspan="5"|<small>Source: [http://www.ultimatealeague.com/records.php?type=pg&season=overall ultimatealeague.com]   Last Updated: 7 May 2016</small>
+|}
+
+==See also==
+{{Portal|A-League}}
+* [[List of A-League managers]]
+* [[A-League All Stars Game]]
+* [[A-League Pre-Season Challenge Cup]]
+* [[National Youth League (Australia)|National Youth League]]
+* [[W-League (Australia)|W-League]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{official website|1=http://www.a-league.com.au/}}
+
+{{A-League}}
+{{Soccer in Australia}}
+{{AFC Leagues}}
+{{Sports leagues of Australia}}
+{{Top level men's association football leagues around the world}}
+
+[[Category:A-League| ]]
+[[Category:Football Federation Australia]]
+[[Category:Top level football leagues in Asia|Australia]]
+[[Category:Summer association football leagues]]
+[[Category:Fox Sports (Australia)]]
+[[Category:Soccer leagues in Australia|1]]
+[[Category:Professional sports leagues in Australia]]
+[[Category:2004 establishments in Australia]]
+[[Category:Sports leagues established in 2004]]

@@ -1,0 +1,207 @@
+Autodromo Nazionale Monza
+
+{{Use dmy dates|date=November 2015}}
+{{Infobox motorsport venue
+|Name           = Autodromo Nazionale Monza
+|Location       = [[Monza]], Italy<ref name=MonzaNetCompany>{{cite web|title=Autodromo Nazionale Monza – Company profile|url=http://www.monzanet.it/eng/company_profile.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009}}</ref>
+|Coordinates    = {{Coord|45|37|14|N|9|17|22|E|type:landmark_region:IT-MI|display=inline,title}}
+|Time           = [[Central European Time|GMT +1]]
+|Image          = [[Image:Monza track map.svg|260px]]
+|Capacity       = 113,860
+|FIAGrade       = 1
+|Owner          = [[Monza|Comune di Monza]] & [[Milano]]<ref name=MonzaNetCompany/>
+|Operator       = SIAS S.p.A.<ref name=MonzaNetCompany/>
+|Broke_ground   = 15 May 1922
+|Opened         = 3 September 1922
+|Architect      = Alfredo Rosselli 
+|Events         = '''[[FIA]] [[Formula One]]'''<br>[[Italian Grand Prix]]<br>[[Italian motorcycle Grand Prix]], [[1000 km Monza]], [[World Touring Car Championship|WTCC]], [[Superbike World Championship|SBK]], [[Race of Two Worlds]]
+|Layout1        = Modern Grand Prix Circuit
+|Surface        = [[Asphalt]]
+|Length_km      = 5.793<ref name=F1.comLap/><ref name=MonzaNetStats>{{cite web|title=Autodromo Nazionale Monza – Areas & Structures|url=http://www.monzanet.it/eng/spazi_strutture.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009| archiveurl = http://web.archive.org/web/20080618011356/http://www.monzanet.it/eng/spazi_strutture.aspx| archivedate = 18 June 2008}}</ref>
+|Length_mi      = 3.600
+|Turns          = 11
+|Record_time    = 1:21.046
+|Record_driver  = {{flagicon|BRA}} [[Rubens Barrichello]]
+|Record_team    = [[Ferrari]]
+|Record_year    = [[2004 Italian Grand Prix|2004]]
+|Layout2        = Oval
+|Surface2       = Concrete/Asphalt
+|Length_km2     = 4.250<ref name=MonzaNetStats/>
+|Length_mi2     = 2.641
+|Turns2         = 2
+|Banking2       = ≈30°
+|Record_time2   = 0:54.0
+|Record_driver2 = {{flagicon|USA}} [[Bob Veith]]
+|Record_team2   = ''Bowes Seal Fast Special''
+|Record_year2   = 1958
+|Record_class2  = [[IndyCar]]
+|Layout3        = Junior Course
+|Surface3       = Asphalt
+|Length_km3     = 2.405<ref name=MonzaNetStats/>
+|Length_mi3     = 1.494
+|Turns3         = 
+|Record_time3   = 
+|Record_driver3 = 
+|Record_team3   = 
+|Record_year3   = 
+|Record_class3  = 
+|Layout4        = Combined Course
+|Surface4       = Asphalt
+|Length_km4     = 10.00
+|Length_mi4     = 6.213
+|Turns4         = 9
+|Record_time4   = 2.41.4
+|Record_driver4 = {{flagicon|USA}} [[Phil Hill]]
+|Record_team4   = Ferrari
+|Record_year4   = [[1960 Italian Grand Prix|1960]]
+|Record_class4  = F1
+}}
+
+The '''Autodromo Nazionale Monza''' is a [[race track]] located near the city of [[Monza]], north of [[Milan]], in [[Italy]]. The circuit's biggest event is the [[Formula One]] [[Italian Grand Prix]]. With the exception of [[1980 Italian Grand Prix|1980]], the race has been hosted there since the series's inception.<ref name=F1.comHistory>{{cite web|title=The hidden history of the Monza banking|url=http://www.formula1.com/news/features/2005/8/3500.html|work=Formula One Administration Ltd|publisher=Formula1.com|date=30 August 2005|accessdate=17 September 2009| archiveurl= http://web.archive.org/web/20091002073754/http://www.formula1.com/news/features/2005/8/3500.html| archivedate= 2 October 2009 | deadurl= no}}</ref>
+
+Built in the [[Royal Villa of Monza]] park in a woodland setting,<ref name=MonzaNet1922>{{cite web|title=1922–1928: Construction and first races on the original tracks|url=http://www.monzanet.it/eng/storia_1922_28.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009| archiveurl = http://web.archive.org/web/20080611175248/http://www.monzanet.it/eng/storia_1922_28.aspx| archivedate = 11 June 2008}}</ref> the site has three tracks – the {{convert|5.793|km|3|adj=on}} [[Grand Prix motor racing|Grand Prix]] track,<ref name=F1.comLap>{{cite web|title=Formula 1 Gran Premio Santander D'Italia 2009 (Monza) – interactive circuit map|url=http://www.formula1.com/races/in_detail/italy_818/|work=Formula One Administration Ltd|publisher=Formula1.com|date= 1999–2009|accessdate=17 September 2009}}</ref> the {{convert|2.405|km|3|adj=on}} Junior track,<ref name=MonzaNetStats/> and a {{convert|4.250|km|3|adj=on}} high speed oval track with steep bankings which has been unused for many decades and is now decaying.<ref name=F1.comHistory/> The major features of the main Grand Prix track include the ''Curva Grande'', the ''Curva di Lesmo'', the ''Variante Ascari'' and the ''Curva Parabolica''. The high speed curve, Curva Grande, is located after the ''Variante del Rettifilo'' which is located at the end of the front straight or ''Rettifilo Tribune'', and is usually taken flat out by Formula One cars.
+
+Drivers are on full throttle for most of the lap due to its long straights and fast corners, and is usually the scenario in which the open-wheeled Formula One cars show the raw [[speed]] they are capable of--{{convert|372|km/h|0}} during the mid-2000s [[V10 engine]] formula, although in [[2012 Italian Grand Prix|2012]] with the 2.4L [[V8 engine]]s, top speeds in Formula One rarely reached over {{convert|340|km/h|0}}; the 1.6L turbocharged [[hybrid electric vehicle|hybrid]] [[V6 engine]], 8-speed [[transmission (mechanics)|gearbox]] formula of 2014 displayed top speeds of up to {{convert|360|km/h|0}}. The circuit is generally flat, but has a gradual gradient from the second Lesmos to the Variante Ascari.  Due to the low [[aerodynamics|aerodynamic]] profile needed, with its resulting low [[downforce]],<ref name=Clarin>{{cite web|url=http://www.clarin.com/diario/2006/09/05/um/m-01265869.htm|title=Fórmula 1: los pilotos tienen miedo por la seguridad en Monza|publisher=Clairín.com|date=5 September 2006|language=Spanish|trans_title=Formula 1: the drivers are afraid for safety at Monza|accessdate=17 September 2009}}</ref> the grip is very low; [[understeer]] is a more serious issue than at other circuits; however, the opposite effect, [[oversteer]], is also present in the second sector, requiring the use of a very distinctive [[opposite lock]] technique. Since both maximum [[power (physics)|power]] and minimal drag are keys for speed on the straights, only competitors with enough power or aerodynamic efficiency at their disposal are able to challenge for the top places.<ref name=Clarin/>
+
+In addition to Formula One, the circuit hosts an endurance event, the [[1000 km Monza]], which has been run as part of the [[World Sportscar Championship]] and the [[Le Mans Series]]. Monza also featured the unique [[Race of Two Worlds]] events, which attempted to run Formula One and [[United States Auto Club]] [[American Championship Car Racing|National Championship]] cars against each other, and previously held rounds of [[Grand Prix motorcycle racing]], in the [[Italian motorcycle Grand Prix]]. Current major events are races of the [[World Touring Car Championship]] and the [[Superbike World Championship]], as well as various local championship races.
+
+The Monza circuit has been [[List of Autodromo Nazionale Monza fatal accidents|the site of many fatal accidents]], especially in the early years of the Formula One world championship,<ref name=Clarin/> and has claimed the lives of 52 drivers and 35 spectators. Track modifications have continuously occurred, to improve spectator safety and reduce curve speeds,<ref name=F1.comHistory/> but it is still criticised by the current drivers for its lack of run-off areas, most notoriously at the chicane that cuts the ''Variante della Roggia''.<ref name=Clarin/>
+
+==History==
+
+=== Early history ===
+[[Image:Bundesarchiv Bild 102-01319, Italien, Monza, Autorennen.jpg|thumb|The starting grid of the "[[Coppa Fiera di Milano|1st Cup Fiera di Milano]]" race held in 1925.]]
+[[Image:Bundesarchiv Bild 102-01321, Italien, Monza, Autorennen.jpg|thumb|A race in 1925 with cars racing across the bridge.]]
+[[Image:Monza banking 2003.JPG|thumb|The Pista di Alta Velocità banking, 2003.]]
+
+The first track was built from May to July 1922 by 3,500 workers, financed by the Milan Automobile Club<ref name=MonzaNet1922/> – which created the ''Società Incremento Automobilismo e Sport'' (SIAS) (English: ''Motoring and Sport Encouragement Company'') to run the track.<ref name=F1db/> The initial form was a {{convert|3.4|km2|2}} site with {{convert|10|km|1}} of [[macadam]]ised road – comprising a {{convert|4.5|km|2}} loop track, and a {{convert|5.5|km|2}} road track.<ref name=MonzaNet1922/><ref name=F1db/> The track was officially opened on 3 September 1922, with the maiden race the second Italian Grand Prix held on 10 September 1922.<ref name=F1db>{{cite web|title=Autodromo Nazionale di Monza – History|url=http://www.f1db.com/f1/page/Autodromo_Nazionale_di_Monza|work=The Formula One DataBase|publisher=F1db.com|date=6 April 2005|accessdate=17 September 2009| archiveurl= http://web.archive.org/web/20091002042349/http://www.f1db.com/f1/page/Autodromo_Nazionale_di_Monza| archivedate= 2 October 2009 | deadurl= no}}</ref>
+
+In 1928, the most serious Italian racing accident to date<ref name=MonzaNet1922/><ref name=Clarin/> ended in the death of driver [[Emilio Materassi]] and 27 spectators at that year's Grand Prix.<ref name=MonzaNet1922/><ref name=Clarin/> The accident led to further Grand Prix races confinement to the high-speed loop until 1932.<ref name=MonzaNet1929>{{cite web|title=1929–1939: In consequence of the Materassi's accident, races are run on the alternative tracks|url=http://www.monzanet.it/eng/storia_1929_39.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009|archiveurl=http://web.archive.org/web/20080415212757/http://www.monzanet.it/eng/storia_1929_39.aspx|archivedate=15 April 2008}}</ref> The 1933 race was marked by the deaths of three drivers<ref name=F1db/> and the Grand Prix layout was changed, with two chicanes added and the longer straights removed.<ref name=Monza33>{{cite web|url=http://forix.autosport.com/8w/monza33.html|title=8W – When? – 1933 Monza GP, ''"Black Sunday"''|publisher=Forix.autosport.com|date=May 2001|accessdate=17 September 2009}}</ref>
+
+There was major rebuilding in 1938–39, constructing new stands and entrances, resurfacing the track, moving portions of the track and adding two new bends.<ref name=F1db/><ref name=MonzaNet1929/> The resulting layout gave a Grand Prix lap of {{convert|6.300|km|2}}, in use until 1954.<ref name=MonzaNet1940>{{cite web|title=1940–1954: After the war interruption, the activity starts again in 1948|url=http://www.monzanet.it/eng/storia_1940_54.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009| archiveurl = http://web.archive.org/web/20080415212801/http://www.monzanet.it/eng/storia_1940_54.aspx| archivedate = 15 April 2008}}</ref> The outbreak of World War II meant racing at the track was suspended until 1948<ref name=MonzaNet1940/> and parts of the circuit degraded due to the lack of maintenance.<ref name=F1.comHistory/> Monza was renovated over a period of two months at the beginning of 1948<ref name=F1db/> and a Grand Prix was held on 17 October 1948.<ref name=MonzaNet1940/>
+
+===High speed oval===
+In 1954, work began to entirely revamp the circuit, resulting in a {{convert|5.750|km|3}} course, and a new {{convert|4.250|km|3}} high-speed oval with banked ''sopraelevata'' curves.<ref name=F1.comHistory/><ref name=MonzaNet1955>{{cite web|title=1955–1971: Construction of the high speed track and other important works|url=http://www.monzanet.it/eng/storia_1955_71.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009| archiveurl = http://web.archive.org/web/20080415212806/http://www.monzanet.it/eng/storia_1955_71.aspx| archivedate = 15 April 2008}}</ref> The two circuits could be combined to re-create the former {{convert|10|km|3}}<ref name=F1.comHistory/> long circuit, with cars running parallel on the main straight. The track infrastructure was also updated and improved to better accommodate the teams and spectators.<ref name=F1db/><ref name=MonzaNet1955/>
+
+The [[Automobile Club of Italy]] held {{convert|500|mi|km|0|sing=on}} [[Race of Two Worlds]] exhibition competitions, intended to pit [[United States Auto Club]] [[American Championship Car Racing|IndyCar]]s against European Formula One and sports cars.<ref name=F1.comHistory/><ref name=MonzaNet1955/> The races were held on the oval at the end of June in 1957 and 1958,<ref name=ChampCarStats>{{cite web|url=http://www.champcarstats.com/tracks/monza.htm|title=Autodromo Nazionale di Monza|publisher=ChampCarStats.com|year=2009|accessdate=17 September 2009}}</ref> with three 63 lap<ref name=ChampCarStats58H1>{{cite web|url=http://www.champcarstats.com/races/1958nc1.htm|title=1958 500 Miglia di Monza Heat 1|publisher=ChampCarStats.com|year=2009|accessdate=17 September 2009}}</ref> {{convert|267.67|km|2}} heat races each year, races which colloquially became known as the ''Monzanapolis'' series.<ref name=ChampCarStats/><ref name="About Milan">{{cite web|url=http://www.aboutmilan.com/history-of-monza-track.html|title=History of Monza GP|publisher=About Milan|accessdate=8 October 2010| archiveurl= http://web.archive.org/web/20101012182849/http://www.aboutmilan.com/history-of-monza-track.html| archivedate= 12 October 2010 | deadurl= no}}</ref> Concerns were raised among the European drivers that flat-out racing on the banking would be too dangerous,<ref name="About Milan"/> so ultimately only [[Ecurie Ecosse]] and [[Maserati]] represented European racing  at the first running.<ref name=ChampCarStats57H1>{{cite web|url=http://www.champcarstats.com/races/1957nc1.htm|title=1957 500 Miglia di Monza Heat 1|publisher=ChampCarStats.com|year=2009|accessdate=17 September 2009| archiveurl= http://web.archive.org/web/20091013101855/http://www.champcarstats.com/races/1957nc1.htm| archivedate= 13 October 2009 | deadurl= no}}</ref> The American teams had brought special [[Firestone Tire and Rubber Company|Firestone]] tyres with them, reinforced to withstand high-speed running on the bumpy Monza surface, but the Maseratis' steering was badly affected by the larger-than-usual tyre size, leading to the [[Modena]]-based team withdrawal.<ref name=ChampCarStats57H1/>
+
+Ecurie Ecosse's three [[Jaguar D-type]] sports cars used their [[24 Hours of Le Mans|Le Mans]]-specification tyres with no ill-effects, but were completely out paced.  Two heats in 1957 were won by [[Jimmy Bryan]] in his [[Kuzma (constructor)|Kuzma]]-[[Offenhauser]] ''Dean Van Lines Special'',<ref name=ChampCarStats57H1/><ref name="ChampCarStats57H2">{{cite web|title=500 Miglia di Monza Heat 2|url=http://www.champcarstats.com/races/1957nc2.htm|publisher=ChampCarStats.com|accessdate=23 November 2010}}</ref> and the last by [[Troy Ruttman]] in the [[A. J. Watson|Watson]]-[[Offenhauser]] ''John Zink Special''.<ref name=ChampCarStats57H3>{{cite web|title=500 Miglia di Monza Heat 3|url=http://www.champcarstats.com/races/1958nc3.htm|publisher=ChampCarStats.com|accessdate=23 November 2010}}</ref>  In 1958, works [[Jaguar Cars|Jaguar]], Ferrari and Maserati teams appeared alongside the Indy roadsters,<ref name=MonzaNet1955/><ref name=ChampCarStats58H2>{{cite web|url=http://www.champcarstats.com/races/1958nc2.htm|title=1958 500 Miglia di Monza Heat 2|publisher=ChampCarStats.com|year=2009|accessdate=17 September 2009}}</ref> but once again the American cars dominated the event and [[Jim Rathmann]] won the three races in a [[A. J. Watson|Watson]]-[[Offenhauser]] car.<ref name=ChampCarStats/>
+
+Formula One used the {{convert|10|km|3}} high speed track in the [[1955 Italian Grand Prix|1955]], [[1956 Italian Grand Prix|1956]], [[1960 Italian Grand Prix|1960]] and [[1961 Italian Grand Prix|1961]] Grands Prix.<ref name=F1.comHistory/><ref name=MonzaNet1955/> [[Stirling Moss]] and [[Phil Hill]] both won twice in this period, with Hill's win at Monza making him the first American to win a Formula One race.<ref name="History F1" /> The 1961 race saw the death of [[Wolfgang von Trips]] and fifteen spectators when a collision with [[Jim Clark]]'s [[Team Lotus|Lotus]] sent von Trips' car airborne and into the barriers on Parabolica.<ref name=F1db/><ref name="History F1">{{cite web|title=A history of the Italian Grand Prix|url=http://www.formula1.com/news/features/2004/9/2159.html|work=Formula1.com|publisher=Formula One Administration Ltd.|accessdate=23 November 2010|date=8 September 2004}}</ref>
+
+Although the accident did not occur on the oval section of the track, the high speeds were deemed unsafe and F1 use of the oval was ended;<ref name="Banking F1">{{cite web|title=The hidden history of the Monza banking|url=http://www.formula1.com/news/features/2005/8/3500.html|work=Formula1.com|publisher=[[Formula One Group|Formula One Administration Ltd.]]|accessdate=23 November 2010|date=30 August 2005}}</ref> future Grands Prix were held on the shorter road circuit,<ref name=MonzaNet1955/> with the banking appearing one last time in the film ''[[Grand Prix (1966 film)|Grand Prix]]''.<ref name="Banking F1" /> New safety walls, rails and fences were added before the next race and the refuelling area was moved further from the track. Chicanes were added before both bankings in 1966, and another fatality in the 1968 1000&nbsp;km Monza race led to run-off areas added to the curves, with the track layout changing the next year to incorporate permanent chicanes before the banked curves – extending the track length by {{convert|100|m|0}}.<ref name=MonzaNet1955/>
+
+The banking held the last race in 1969 with the 1000&nbsp;km of Monza, the event moving to the road circuit the next year.<ref name=MonzaNet1955/> The banking still exists, albeit in a decayed state in the years since the last race, escaping demolition in the 1990s. It is used once a year for the Monza Rally.<ref name="Banking F1" /> The banked oval was used several times for record breaking up till the late 1960s although the severe bumping was a major suspension and tyre test for the production cars attempting the records.e.g. [[Ford Corsair]] GT 1964 which captured 13 records.<ref>Monza year Book 1965</ref>
+
+===Circuit changes and modernisation===
+
+Both car and [[Grand Prix motorcycle racing]] were regular attractions at Monza,<ref name=MonzaNet1955/> but as the speed of the machines were increasing, two [[chicane]]s- the Variante del Rettifilo at the middle of the start/finish straight,<ref name=MonzaNet1972>{{cite web|title=1972–1978: Chicane and variants to reduce the high speed|url=http://www.monzanet.it/eng/storia_1972_78.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009 |archiveurl = http://web.archive.org/web/20080611175253/http://www.monzanet.it/eng/storia_1972_78.aspx |archivedate = 11 June 2008}}</ref>  and the Variante ''Ascari'', were added in 1972 to reduce racing speeds.<ref name=F1db/> This resulted in a new circuit length of {{convert|5.755|km|3}}.<ref name=MonzaNet1972/> Grand Prix motorcycles continued to use the un-slowed road track until two serious accidents resulted in five deaths, including [[Renzo Pasolini]] and [[Jarno Saarinen]],<ref name=MonzaNet1972/> in 1973, and motorcycle racing did not return to Monza until 1981.<ref name=MonzaNet1972/> These races involved drivers constantly slipstreaming competing cars, which produced several close finishes, such as in [[1967 Italian Grand Prix|1967]], [[1969 Italian Grand Prix|1969]], and [[1971 Italian Grand Prix|1971]]; the last year the Italian Grand Prix was run at Monza without chicanes.
+
+The 1972 chicanes were soon seen to be ineffective at slowing cars; the ''Vialone'' was remade in 1974,<ref name=MonzaNet1972/> the other, ''Curva Grande'' in 1976,<ref name=F1db/> and a third also added in 1976 before the ''Lesmo'', with extended run-off areas.<ref name=MonzaNet1972/> The Grand Prix lap after these alterations was increased to {{convert|5.800|km|3}} long.<ref name=MonzaNet1972/>
+
+With technology still increasing vehicle speeds the track was modified again in 1979, with added kerbs, extended run-off areas, and tyre-barriers improved, to improve safety for drivers off the track.<ref name=MonzaNet1979>{{cite web|title=1979–1988: New works to update the circuit|url=http://www.monzanet.it/eng/storia_1979_88.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009| archiveurl = http://web.archive.org/web/20080415212811/http://www.monzanet.it/eng/storia_1979_88.aspx| archivedate = 15 April 2008}}</ref> The infrastructure was also improved, with pits able to accommodate 46 cars, and an upgraded paddock and scrutineering facilities.<ref name=MonzaNet1979/>  These changes encouraged world championship motorcycling to return in 1981, but further safety work was undertaken through the 1980s.<ref name=MonzaNet1979/>  Also in the 1980s the podium, paddock and pits complex, stands,<ref name=MonzaNet1979/><ref name=MonzaNet1989>{{cite web|title=1989–1997: New pit complex and the interventions for the security|url=http://www.monzanet.it/eng/storia_1989_97.aspx|work=Autodromo Nazionale Monza|publisher=MonzaNet.it|year=2007|accessdate=17 September 2009| archiveurl = http://web.archive.org/web/20080413073732/http://www.monzanet.it/eng/storia_1989_97.aspx| archivedate = 13 April 2008}}</ref> and camp site were either rebuilt or improved.<ref name=F1db/>
+
+In the safety conscious years following [[Death of Ayrton Senna|the death]] of [[Ayrton Senna]] in 1994 (albeit at a [[Autodromo Enzo e Dino Ferrari|different track]]), the three main long curves were "squeezed" in order to install larger gravel traps, shortening the lap to {{convert|5.770|km|3}}.<ref name=MonzaNet1989/>  In 1997 the stands were reworked to expand capacity to 51,000.<ref name=MonzaNet1989/> In 2000, the [[chicane]] on the main straight was altered, changing from a double left-right chicane to a single right-left chicane in an attempt to reduce the frequent accidents at the starts due to the conformation of the braking area, although it is still deemed unsafe in terms of motorcycle racing.  The second chicane was also re-profiled.  In the Formula 1 Grand Prix of the same year, the first to use these new chicanes, a marshal, Paolo Gislimberti, was killed by flying debris after a big pileup in the third chicane.<ref name=Clarin/>
+
+In 2007, the run off area at the second chicane was changed from gravel to asphalt. The length of the track in its current configuration is {{convert|5.793|km|3}}.<ref name=F1.comLap/> At the [[2010 Monza Superbike World Championship round]], Italian rider [[Max Biaggi]] set the fastest ever motorcycle lap of Monza when he rode his [[Aprilia RSV 4|Aprilia RSV4 1000 F]] to pole position in a time of 1:42.121. In the Superpole qualification for the 2011 race, he improved on this lap time, for a new lap record of 1:41.745 and his speed was captured at 205+ MPH.
+
+==A lap of the circuit in a Formula One car==
+[[Image:Autodromo Monza.jpg|thumb|The 1120 metre start/finish straight.<ref>{{cite web|url=http://www.mclaren.com/formula1/2015/italian-grand-prix/2015-italian-grand-prix-preview/|title=McLaren Formula 1 - 2015 Italian Grand Prix Preview|publisher=McLaren|accessdate=12 January 2016}}</ref>]]
+Monza consists of very long straights and tight chicanes, putting a premium on good braking stability and traction.  The {{convert|5.793|km|3}}<ref name=F1.comLap/> circuit is very hard on gearboxes, with many gear changes per lap. Formula 1 engines are at full throttle for nearly 80% of the lap, with engine failures common, notably [[Fernando Alonso]] in the [[2006 Italian Grand Prix]].
+
+Formula One cars are set up with one of the smallest wing angles on the F1 calendar to ensure the lowest level of drag on the straights. There are only 4 proper corners at Monza, the two ''Lesmos'', the ''Ascari'' complex and the ''Parabolica'', thus cars are set up for maximum performance on the straights.
+
+Cars approach the first corner at {{convert|340|km/h}} in seventh gear,<ref name=F1.comLap/> and brake at about {{convert|120|m}} before the first chicane – the ''Variante del Rettifilo'' – entering at {{convert|86|km/h}} in first gear, and exiting at {{convert|74|km/h}} in second gear.<ref name=F1.comLap/> This is the scene of many first lap accidents. Higher kerbs were installed at the first two chicanes in 2009 to prevent cutting.<ref name="The Official Formula 1 Website">{{cite web|url=http://www.formula1.com/news/headlines/2009/9/9881.html|title=Bigger kerbs installed for Monza chicanes|publisher=formula 1.com|date=8 September 2009|accessdate=21 September 2009| archiveurl= http://web.archive.org/web/20091004215814/http://www.formula1.com/news/headlines/2009/9/9881.html| archivedate= 4 October 2009 | deadurl= no}}</ref>
+
+Good traction out of the first corner is imperative for a quick lap. Conservation of speed through the first chicane is made possible by driving the straightest line, as a small mistake here can result in a lot of time being lost through the ''Curva Grande'' down to the ''Variante della Roggia'' chicane in seventh gear, at {{convert|330|km/h}}.<ref name=F1.comLap/> The braking point is just under the bridge. The kerbs are very vicious and it is very easy for a car to become unbalanced and a driver to lose control, as [[Kimi Räikkönen]] did in 2005. This chicane is probably the best overtaking chance on the lap, as it is the only one with the "slow corner, long straight, slow corner"; one of the characteristics of modern circuits.
+[[Image:Monza aerial photo.jpg|thumb|An aerial photo of the Autodoromo of Monza with the village of Villasanta in the upper part. The city of Monza is southwards off to the right of the photo.]]
+
+The ''Curve di Lesmo'' are two corners that are not as fast as they used to be, but are still challenging corners. The first is blind, entered at {{convert|264|km/h}} in fifth gear, dropping to fourth gear at {{convert|193|km/h}},<ref name=F1.comLap/> and has a slight banking. The second is a fifth gear entry at {{convert|260|km/h}}, apexing in third gear at {{convert|178|km/h}},<ref name=F1.comLap/> and it is very important that all the kerb is used. A mistake at one of these corners will result either in a spin into the gravel or an overtaking move into ''Variante Ascari''.
+
+The downhill straight down to ''Variante Ascari'' is very bumpy under the bridge. ''Variante Ascari'' is a very tricky sequence of corners and is key to the lap time.
+
+The final challenge is the ''Curva Parabolica'': approaching at {{convert|335|km/h}} in seventh gear,<ref name=F1.comLap/> cars quickly dance around the corner, apexing in fourth gear at {{convert|215|km/h}}<ref name=F1.comLap/> and exiting in fifth gear at {{convert|285|km/h}},<ref name=F1.comLap/> accelerating onto the main start/finish straight. A good exit and slipstream off a fellow driver along the main straight can produce an overtaking opportunity under heavy braking into ''Variante del Rettifilio;'' however, it is difficult to follow a leading car closely through the ''Parabolica'' as the tow will reduce downforce and cornering speed.
+
+Maximum speed achieved in a 2009 Formula One car is {{convert|340|km/h}}, achieved at the end of the start/finish straight.<ref name=F1.comLap/> They experience a maximum [[g-force]] of 3.80 through turn 7, the second ''Lesmo''.<ref name=F1.comLap/>
+
+[[Rubens Barrichello]] recorded the fastest ever pole position lap at Monza in 2004 when he lapped in 1m20.089s, 161.802&nbsp;mph. But in the pre-qualifying session for the same race (which did not count for a grid position but only Q-running order), [[Juan Pablo Montoya]] lapped the track in 1m19.525s (162.949&nbsp;mph) which remains the fastest lap ever recorded in an F1 car.<ref>{{cite web|url=http://www.itv-f1.com/Feature.aspx?Type=General&id=37200&PO=37200 |title=Monza facts and stats – Feature – F1 &#124; ITV Sport |publisher=Itv-f1.com |date=4 September 2006 |accessdate=11 December 2010}}</ref>
+
+==Deaths from crashes==
+{{main|List of Autodromo Nazionale Monza fatal accidents}}
+*1922 [[Fritz Kuhn (pilot)|Fritz Kuhn]] (Austro-Daimler), killed during practice for the [[1922 Italian Grand Prix]]<ref name=Monza33/>
+*1923 [[Enrico Giaccone]], riding as passenger in a Fiat 805 during private testing, with [[Pietro Bordino]] driving<ref name=Monza33/>
+*1923 [[Ugo Sivocci]] (Alfa Romeo P1), killed during practice for the [[1923 Italian Grand Prix]]<ref name=Monza33/>
+*1924 [[Louis Zborowski|Count Louis Zborowski]] (Mercedes), killed after crashing into a tree at Lesmo during the [[1924 Italian Grand Prix]]<ref name=Monza33/>
+*1928 [[Emilio Materassi]] and 27 spectators killed after Materassi crashed his Talbot into the grandstand during the [[1928 Italian Grand Prix]]<ref name=MonzaNet1922/><ref name=Clarin/><ref name=Monza33/>
+*1931 [[Luigi Arcangeli]] (Alfa Romeo), killed after crashing at Lesmo during practice for the [[1931 Italian Grand Prix]]<ref name=Monza33/>
+*1933 [[Giuseppe Campari]] (Alfa Romeo Tipo B 2.6 litre), [[Mario Umberto Borzacchini]] (Maserati 8C-3000) and [[Stanislas Czaykowski|Count Stanislas Czaykowski]] (Bugatti), killed after crashing at the south banking during the [[1933 Monza Grand Prix]]<ref name=MonzaNet1929/><ref name=Monza33/>
+*1954 [[Rupert Hollaus]], killed during practice during the [[Italian motorcycle Grand Prix]]
+*1955 [[Alberto Ascari]], killed during private testing at the Vialone, which is now the Ascari chicane, driving a [[Ferrari 750 Monza]], just four days after his harbour crash in the [[1955 Monaco Grand Prix]]<ref name=Clarin/>
+*1961 [[Wolfgang von Trips|Count Wolfgang von Trips]]<ref name=Clarin/><ref name=MonzaNet1955/> and 14 spectators killed after von Trips collided with [[Jim Clark]] approaching the Parabolica on the second lap of the [[1961 Italian Grand Prix]]
+*1965 [[Bruno Deserti]], killed during Ferrari official test prior to Le Mans in a Ferrari P2/3 4000&nbsp;cc
+*1965 [[Tommy Spychiger]], killed during 1000K Sports car race in Ferrari 365P2<ref name=MonzaNet1955/>
+*1970 [[Jochen Rindt]], killed when crashing at the Parabolica during qualifying for the [[1970 Italian Grand Prix]]<ref name=Clarin/>
+*1973 [[Renzo Pasolini]], [[Jarno Saarinen]] killed in a mass crash at the Curva Grande during the 250 cc class of the [[Italian motorcycle Grand Prix|Nations Grand Prix]] (Prior to 1990, the Italian round was called the Nations Grand Prix)<ref name=MonzaNet1972/>
+*1973 [[Carlo Chionio]], [[Renzo Colombini]] and [[Renato Galtrucco]] during a race for 500&nbsp;cc Juniores Italian motorcycle championship<ref name=MonzaNet1972/>
+*1974 [[Silvio Moser]], died in hospital one month after suffering injuries at the 1000&nbsp;km Monza race
+*1978 [[Ronnie Peterson]], died in hospital after crashing during the start of the [[1978 Italian Grand Prix]]<ref name=Clarin/><ref name=F1db/><ref name=MonzaNet1972/>
+*1998 Michael Paquay, Belgian motorbike racer, died after a crash in practice for the Italian round of World Supersport Championships, Honda CBR 600
+*2000 [[Paolo Gislimberti]], a marshal hit by debris from a first-lap accident at the Roggia chicane during the [[2000 Italian Grand Prix|Italian Grand Prix]]<ref name=Clarin/><ref>{{cite web |url=http://archives.cnn.com/2000/WORLD/europe/09/11/italy.monza/ |title=Grand Prix death casts doubt over Monza circuit |publisher=CNN |date=11 September 2000 |deadurl=yes |archiveurl=https://web.archive.org/web/20070911132037/http://archives.cnn.com:80/2000/WORLD/europe/09/11/italy.monza/ |archivedate=11 September 2007 |accessdate=22 February 2016}}</ref>
+
+==Previous track configurations==
+<gallery>
+File:Monza 1922.svg|Original circuit (1922–1933)
+File:Monza 1935.svg|Florio circuit (1935–1937)
+File:Monza 1950.png|2nd variation (1938–1954)
+File:Monza 1955.jpg|3rd variation (Combined circuit) (1955–1969)
+File:Monza_1957.jpg|3rd variation (Road circuit) (1955–1973)
+File:Monza_1972.jpg|4th variation (1972–1973)
+File:Monza_1974.jpg|5th variation (1974–1975)
+File:Monza_1976.jpg|6th variation (1976–1993)
+File:Monza_1994.jpg|7th variation (1994)
+File:Monza 1995.jpg|8th variation (1995–1999)
+</gallery>
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category|Autodromo Nazionale Monza}}
+*[http://www.MonzaNet.it/en  Autodromo Nazionale Monza] official website
+*[https://www.google.com/maps/d/viewer?mid=zAwYScNYWOgU.kH5VtuiZLUz4 Autodromo Nazionale Monza on Google Maps (Current Formula 1 Tracks)]
+* {{twitter|Autodromo_Monza}}
+
+{{Navboxes
+|list1 =
+{{Formula One circuits}}
+{{World Sportscar Championship circuits}}
+{{WTCC circuits}}
+{{Le Mans Series circuits}}
+{{FIA GT circuits}}
+{{MotoGP circuits}}
+{{SBK circuits}}
+{{USAC tracks}}
+{{European Formula Two circuits}}
+{{International Formula 3000 circuits}}
+{{GP2 Series circuits}}
+{{Superleague Formula circuits}}
+{{World Series by Renault circuits}}
+{{FIA Formula Two Championship circuits}}
+{{TCR International Series circuits}}
+{{Superstars Series circuits}}
+{{Auto GP World Series circuits}}
+{{FIA European F3 Championship circuits}}
+{{NASCAR Whelen Euro Series racetracks}}
+}}
+
+{{DEFAULTSORT:Monza}}
+[[Category:Pre–World Championship Grand Prix circuits]]
+[[Category:Formula One circuits]]
+[[Category:Italian Grand Prix]]
+[[Category:Superbike World Championship circuits]]
+[[Category:Grand Prix motorcycle circuits]]
+[[Category:Motorsport venues in Italy]]
+[[Category:Buildings and structures in Monza|Autodromo Nazionale Monza]]
+[[Category:Sports venues in Lombardy]]
+[[Category:Sports venues completed in 1922]]
+[[Category:World Touring Car Championship circuits]]

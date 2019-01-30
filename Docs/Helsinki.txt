@@ -1,0 +1,673 @@
+Helsinki
+
+{{redirect|Helsingfors|the village in Västerbotten County, Sweden|Hälsingfors}}
+{{for|the 2009 Finnish film|Hellsinki}}
+
+{{Infobox Finnish municipality
+|name                   = Helsinki
+|official_name          = {{lang|fi|Helsingin kaupunki}}<br/>{{lang|sv|Helsingfors stad}}<br/>City of Helsinki
+|native_name            = {{lang|fi|Helsinki}}&nbsp;– {{lang|sv|Helsingfors}}
+|nickname               = Stadi, Hesa<ref name="nickname">{{cite web|url=http://yorkspace.library.yorku.ca/xmlui/handle/10315/2924|title=Place Names in the Construction of Social Identities: The Uses of Names of Helsinki|last=Ainiala|first=Terhi|year=2009|publisher=Research Institute for the Languages of Finland|accessdate=22 September 2011}}</ref>
+|settlement_type        = City
+|motto                  =
+|image_skyline          = Helsinki montage 2015.jpg
+|imagesize              = 280px
+|image_caption          = Clockwise from top: [[Helsinki Cathedral]], view of central Helsinki, [[Sanoma]] building and [[Kiasma]], Helsinki city centre at night, beaches at [[Aurinkolahti]], [[Parliament House, Helsinki|Parliament House]] and [[Suomenlinna]].
+|image_flag                = <!-- While Helsinki has an official ceremonial flag, it's very rarely used (see e.g. http://www.hel.fi/www/Helsinki/fi/kaupunki-ja-hallinto/tietoa-helsingista/yleistietoa-helsingista/helsingin-tunnukset/ ) -->
+|image_shield           = Helsinki.vaakuna.svg
+|dot_x                  =
+|dot_y                  =
+|dot_map_caption        =
+|dot_mapsize            =
+|image_map = Helsinki uusimaa.png
+|map_caption = Location in the [[Uusimaa]] [[Regions of Finland|region]] and the Helsinki [[Sub-regions of Finland|sub-region]]
+| mapsize                 = 270px
+|pushpin_map            = Finland
+|pushpin_label_position =
+|pushpin_map_caption    = Location of Helsinki in [[Finland]]
+|pushpin_mapsize        = 280
+|region                 = [[Uusimaa]]
+|subregion              = Helsinki
+|leader_title           = [[Mayor]]
+|leader_name            = [[Jussi Pajunen]]
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|established_title      = [[Charter]]
+|established_date       = 1550
+|established_title2     = [[Capital city]]
+|established_date2      = 1812
+|established_title3     =
+|established_date3      =
+
+|population_urban = {{#expr: {{Infobox Finnish municipality/population count|Helsinki}} + {{Infobox Finnish municipality/population count|Espoo}} + {{Infobox Finnish municipality/population count|Vantaa}} + {{Infobox Finnish municipality/population count|Kauniainen}} }}
+
+|area_urban_km2         = {{#expr: {{Infobox Finnish municipality/land area|Helsinki}} + {{Infobox Finnish municipality/land area|Espoo}} + {{Infobox Finnish municipality/land area|Vantaa}} + {{Infobox Finnish municipality/land area|Kauniainen}}  }}
+
+|population_density_urban_km2 = {{#expr: ({{Infobox Finnish municipality/population count|Helsinki}} + {{Infobox Finnish municipality/population count|Espoo}} + {{Infobox Finnish municipality/population count|Vantaa}} + {{Infobox Finnish municipality/population count|Kauniainen}}) / ({{Infobox Finnish municipality/land area|Helsinki}} + {{Infobox Finnish municipality/land area|Espoo}} + {{Infobox Finnish municipality/land area|Vantaa}} + {{Infobox Finnish municipality/land area|Kauniainen}}) round 1 }}
+
+|population_metro       = {{#expr: {{Infobox Finnish municipality/population count|Helsinki}} + {{Infobox Finnish municipality/population count|Espoo}} + {{Infobox Finnish municipality/population count|Vantaa}} + {{Infobox Finnish municipality/population count|Kauniainen}} + {{Infobox Finnish municipality/population count|Kirkkonummi}} + {{Infobox Finnish municipality/population count|Vihti}} + {{Infobox Finnish municipality/population count|Nurmijärvi}} + {{Infobox Finnish municipality/population count|Hyvinkää}} + {{Infobox Finnish municipality/population count|Tuusula}} + {{Infobox Finnish municipality/population count|Kerava}} + {{Infobox Finnish municipality/population count|Järvenpää}} + {{Infobox Finnish municipality/population count|Mäntsälä}} + {{Infobox Finnish municipality/population count|Sipoo}} + {{Infobox Finnish municipality/population count|Pornainen}} }}
+
+|area_metro_km2         = {{#expr: {{Infobox Finnish municipality/land area|Helsinki}} + {{Infobox Finnish municipality/land area|Espoo}} + {{Infobox Finnish municipality/land area|Vantaa}} + {{Infobox Finnish municipality/land area|Kauniainen}} + {{Infobox Finnish municipality/land area|Kirkkonummi}} + {{Infobox Finnish municipality/land area|Vihti}} + {{Infobox Finnish municipality/land area|Nurmijärvi}} + {{Infobox Finnish municipality/land area|Hyvinkää}} + {{Infobox Finnish municipality/land area|Tuusula}} + {{Infobox Finnish municipality/land area|Kerava}} + {{Infobox Finnish municipality/land area|Järvenpää}} + {{Infobox Finnish municipality/land area|Mäntsälä}} + {{Infobox Finnish municipality/land area|Sipoo}}  + {{Infobox Finnish municipality/land area|Pornainen}} }}
+
+|population_density_metro_km2 = {{#expr: ({{Infobox Finnish municipality/population count|Helsinki}} + {{Infobox Finnish municipality/population count|Espoo}} + {{Infobox Finnish municipality/population count|Vantaa}} + {{Infobox Finnish municipality/population count|Kauniainen}} + {{Infobox Finnish municipality/population count|Kirkkonummi}} + {{Infobox Finnish municipality/population count|Vihti}} + {{Infobox Finnish municipality/population count|Nurmijärvi}} + {{Infobox Finnish municipality/population count|Hyvinkää}} + {{Infobox Finnish municipality/population count|Tuusula}} + {{Infobox Finnish municipality/population count|Kerava}} + {{Infobox Finnish municipality/population count|Järvenpää}} + {{Infobox Finnish municipality/population count|Mäntsälä}} + {{Infobox Finnish municipality/population count|Sipoo}} + {{Infobox Finnish municipality/population count|Pornainen}}) / ({{Infobox Finnish municipality/land area|Helsinki}} + {{Infobox Finnish municipality/land area|Espoo}} + {{Infobox Finnish municipality/land area|Vantaa}} + {{Infobox Finnish municipality/land area|Kauniainen}} + {{Infobox Finnish municipality/land area|Kirkkonummi}} + {{Infobox Finnish municipality/land area|Vihti}} + {{Infobox Finnish municipality/land area|Nurmijärvi}} + {{Infobox Finnish municipality/land area|Hyvinkää}} + {{Infobox Finnish municipality/land area|Tuusula}} + {{Infobox Finnish municipality/land area|Kerava}} + {{Infobox Finnish municipality/land area|Järvenpää}} + {{Infobox Finnish municipality/land area|Mäntsälä}} + {{Infobox Finnish municipality/land area|Sipoo}}  + {{Infobox Finnish municipality/land area|Pornainen}}) round 1 }}
+
+|population_demonym    = {{lang|fi|helsinkiläinen}} (Finnish)<br/>{{lang|sv|helsingforsare}} (Swedish)
+{{lang|en|Helsinkian}} (English)
+|finnish_official       = 1
+|swedish_official       = 1
+|sami_official          =
+|latd=60 |latm=10 |lats=15 |latNS=N
+|longd=024 |longm=56 |longs=15 |longEW=E
+|elevation_m            =
+|postal_code            =
+|blank1_name             = [[Köppen climate classification|Climate]]
+|blank1_info             = [[Humid continental climate#Mild/cool summer subtype|Dfb]]
+|website                = [http://www.hel.fi/hki/Helsinki/en/Etusivu www.hel.fi]
+|footnotes              =
+}}
+
+'''Helsinki''' ({{IPAc-en|h|ɛ|l|ˈ|s|ɪ|ŋ|k|i}}; {{IPA-fi|ˈhelsiŋki|3=Helsinki.ogg}}; {{lang-sv|'''Helsingfors'''}}) is the [[capital (political)|capital]] and largest [[Municipalities of Finland|city]] of [[Finland]]. It is in the region of [[Uusimaa]], in southern Finland, on the shore of the [[Gulf of Finland]]. Helsinki has a population of {{formatnum: {{Infobox Finnish Municipality/population count|Helsinki}}}},<ref name="population_count">{{Cite web |url=http://pxnet2.stat.fi/PXWeb/sq/9af9ca56-9eea-4969-9714-db194f6847e5|title=Ennakkoväkiluku sukupuolen mukaan alueittain, maaliskuu.2016|publisher=Statistics Finland|language=Finnish|accessdate=31 March 2016}}
+</ref> an urban population of 1,214,210,<ref name="pxweb2.stat.fi">{{cite web|url=http://pxnet2.stat.fi/PXWeb/pxweb/fi/StatFin/StatFin__vrm__vaerak/157_vaerak_tau_343_fi.px/?rxid=5ccd90ec-9342-4c3b-99b4-badb72e7c222|title=Taulukko: Taajamat väkiluvun ja väestöntiheyden mukaan 31.12.2014|date=31 December 2014|language=Finnish}}</ref> and a [[Greater Helsinki|metropolitan]] population of over 1.4 million, making it the most populous municipality and [[List of urban areas in Finland by population|urban area]] in Finland. Helsinki is located some {{convert|80|km}} north of [[Tallinn]], [[Estonia]], {{convert|400|km|abbr=on}} east of [[Stockholm]], [[Sweden]], and {{convert|388|km|abbr=on}} west of [[Saint Petersburg]], [[Russia]]. Helsinki has [[History of Helsinki|close historical connections]] with these three cities.
+
+The Helsinki [[metropolitan area]] includes the [[urban area|urban core]] of Helsinki, [[Espoo]], [[Vantaa]], [[Kauniainen]], and surrounding [[Greater Helsinki#Statistics|commuter towns]].<ref>{{cite web |url=http://epp.eurostat.ec.europa.eu/portal/page/portal/region_cities/city_urban/city_maps/FI |title=Cities of Finland|publisher=Eurostat |accessdate=10 February 2013}}</ref> It is the world's [[List of northernmost items#Cities and settlements|northernmost metro area]] of over one million people, and the city is the northernmost capital of an [[Member state of the European Union|EU member state]]. The [[Helsinki metropolitan area]] is the fourth largest metropolitan area in the [[Nordic countries]], the City of Helsinki being the third largest after [[Stockholm]] and [[Oslo]].
+
+Helsinki is Finland's major political, educational, financial, cultural, and research center as well as one of northern Europe's major cities. Approximately 75% of foreign companies operating in Finland have settled in the Helsinki region.<ref name="regionbrief">{{cite web|url=http://www.helsinkiregion.com/helsinki_region_in_brief/|archiveurl=https://web.archive.org/web/20071202040416/http://www.helsinkiregion.com/helsinki_region_in_brief/|archivedate=2 December 2007 |title=Helsinki Region Marketing Ltd&nbsp;— Helsinki Region in Brief |publisher=Web.archive.org |date=2 December 2007 |accessdate=17 February 2014}}</ref> The nearby municipality of Vantaa is the location of [[Helsinki Airport]], with frequent service to various destinations in [[Europe]] and [[Asia]].
+
+In 2009, Helsinki was chosen to be the [[World Design Capital]] for 2012<ref name="Worlddesigncapital.com">{{cite web|url=http://www.worlddesigncapital.com/world-design-capitals/past-capital-helsinki/|title=Past capital: Helsinki |publisher=Worlddesigncapital.com |accessdate=19 May 2015}}</ref> by the [[International Council of Societies of Industrial Design]], narrowly beating [[Eindhoven]] for the title. The city was the venue for the [[1952 Summer Olympics]] and the [[Eurovision Song Contest 2007|52nd Eurovision Song Contest 2007]].
+
+In 2011, the ''[[Monocle (media company)|Monocle]]'' magazine ranked Helsinki the most liveable city in the world in its "[[World's most liveable cities#Monocle's Quality of Life Survey|Liveable Cities Index 2011]]".<ref>{{cite web|url=http://monocle.com/film/affairs/most-liveable-city-helsinki/ |title=Most liveable city: Helsinki&nbsp;— Monocle Film / Affairs |publisher=Monocle.com |accessdate=12 March 2013}}</ref> In the [[Economist Intelligence Unit]]'s August 2015 Liveability survey, assessing the best and worst cities to live in globally, Helsinki placed among the world's top ten cities.<ref>{{cite web|url= http://www.eiu.com/public/thankyou_download.aspx?activity=download&campaignid=Liveability2015|title=Global Liveability Ranking 2015 |publisher=The Economist Intelligence Unit |accessdate=18 August 2015}}</ref>
+
+==Etymology==
+''Helsinki'' is used to refer to the city in most languages, but not in [[Swedish language|Swedish]].
+
+The Swedish name ''{{lang|sv|Helsingfors}}'' is the original official name of the city (originally in the form ''Hellssingeforss''). The Finnish name probably comes from ''Helsinga'' and similar names used for the river that is currently known as the [[Vantaa River]], as documented already in the 14th century. ''Helsingfors'' comes from the name of the surrounding [[parish]], ''Helsinge'' (source for Finnish ''Helsinki'') and the rapids ({{lang-sv|fors}}), which flowed through the original village, which is now located in the neighboring city Vantaa. As part of the [[Grand Duchy of Finland]] in the [[Russian Empire]], Helsinki was known as ''Gelsingfors'' in Russian.
+
+One suggestion for the origin of the name ''Helsinge'' is that it originated with medieval Swedish settlers who came from [[Hälsingland]] in Sweden. Others have proposed that the name derives from the Swedish word ''helsing'', a former version of the word ''hals'' ([[neck]]), referring to the narrowest part of a river, i.e. the rapids.<ref>{{cite web|url=http://veta.yle.fi/svenskfinland/artikel.php?id=23&subject=mellannyland |title=Utbildning & Vetenskap: Svenskfinland |publisher=Veta.yle.fi |accessdate=8 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20080512081641/http://veta.yle.fi/svenskfinland/artikel.php?id=23&subject=mellannyland |archivedate=12 May 2008 }}</ref> Other Scandinavian cities located at similar geographic locations were given similar names at the time, for example [[Helsingør]] and [[Helsingborg]].
+
+The name ''Helsinki'' has been used in Finnish official documents and in Finnish language newspapers since 1819, when the [[Senate of Finland]] moved to Helsinki from [[Turku]] (Åbo). The decrees issued in Helsinki were dated with Helsinki as the place of issue. This is how the form Helsinki came to be used in [[literary language|written]] Finnish.<ref>{{cite journal  | last = Jäppinen | first = Jere | authorlink =  | editor =  | editor-link =  | date = 15 November 2011 | title = Mistä Helsingin nimi on peräisin? | journal = Helsingin Sanomat | volume =  | issue =  | pages = D2 | location =  | publisher =  | arxiv =  | id =  | bibcode =  | doi =  | accessdate =  | url = http://www.hs.fi/paivanlehti/arkisto/Mist%C3%A4+Helsingin+nimi+on+per%C3%A4isin/aaHS20111115SI1AT02exp?src=haku&ref=arkisto%2F }}</ref>
+
+In [[Helsinki slang]] the city is called either ''Stadi'' (from the Swedish word ''stad'', meaning "city") or ''Hesa'' (short for Helsinki), with ''Stadi'' being used to assert that the speaker is native to the city.<ref name="nickname"/><ref>Ristkari, Maiju: ''Heinäsorsat Helsingissä''. ''[[Aku Ankka]]'' #44/2013, introduction on page 2.</ref> ''{{lang|sme|Helsset}}'' is the [[Northern Sami]] name of Helsinki.<ref name=samigrammar>{{cite web|title=Sami Grammar|url=http://people.uta.fi/~km56049/same/svocab.html|website=uta.fi|accessdate=2 January 2015}}</ref>
+
+==History==
+{{Main|History of Helsinki|Timeline of Helsinki}}
+
+[[File:Helsinki 1820.jpg|thumb|left|Central Helsinki in 1820 before rebuilding. Illustration by [[Carl Ludvig Engel]].]]
+[[File:Suomenlinna Susisaari.jpg|thumb|left|Construction of [[Suomenlinna]] began in the 18th century.]]
+
+===Early history===
+Helsinki was established as a trading town by King [[Gustav I of Sweden]] in 1550 as the town of Helsingfors, which he intended to be a rival to the [[Hanseatic League|Hanseatic]] city of Reval (today known as [[Tallinn]]). Little came of the plans as Helsinki remained a tiny town plagued by poverty, wars, and diseases. The [[plague (disease)|plague]] of 1710 killed the greater part of the inhabitants of Helsinki.<ref>{{cite web|url=http://www.tabblo.com/studio/stories/view/409531/ |title=Ruttopuisto&nbsp;– Plague Park |publisher=Tabblo.com |accessdate=3 November 2008 |deadurl=yes |archiveurl=https://web.archive.org/20080411112934/http://www.tabblo.com:80/studio/stories/view/409531/ |archivedate=11 April 2008 }}</ref> The construction of the naval fortress [[Suomenlinna|Sveaborg]] (In Finnish ''Viapori'', today also ''Suomenlinna'') in the 18th century helped improve Helsinki's status, but it was not until Russia defeated Sweden in the [[Finnish War]] and annexed Finland as the autonomous [[Grand Duchy of Finland]] in 1809 that the town began to develop into a substantial city. During the war, Russians besieged the Sveaborg fortress, and about one quarter of the town was destroyed in an 1808 fire.<ref>{{cite web|url=http://www.nba.fi/helsinginarkeologiaa/keskusta_kohteet_1810.htm|title=Vuoden 1808 suurpalo|last=Niukkanen|first=Marianna|author2=Heikkinen, Markku|work=Kurkistuksia Helsingin kujille|publisher=National Board of Antiquities|language=Finnish|accessdate=14 July 2013}}</ref>
+
+Czar [[Alexander I of Russia]] moved the Finnish capital from [[Turku]] to Helsinki in 1812<ref>http://www.helsinki200.fi/en/helsinki-1812-2012/1812-emperor-alexander-i-promotes-helsinki-capital-grand-duchy/</ref> to reduce Swedish influence in Finland, and to bring the capital closer to [[Saint Petersburg|St. Petersburg]]. Following the [[Great Fire of Turku]] in 1827, [[The Royal Academy of Turku]], at the time the country's only university, was also relocated to Helsinki, and eventually became the modern [[University of Helsinki]]. The move consolidated the city's new role and helped set it on a path of continuous growth. This transformation is highly apparent in the downtown core, which was rebuilt in [[neoclassicism|neoclassical]] style to resemble St. Petersburg, mostly to a plan by the German-born architect [[Carl Ludvig Engel|C. L. Engel]]. As elsewhere, technological advancements such as railroads and [[industrialization]] were key factors behind the city's growth.
+
+===Twentieth century===
+Despite the tumultuous nature of Finnish history during the first half of the 20th century (including the [[Finnish Civil War]] and the [[Winter War]] which both left marks on the city), Helsinki continued its steady development. A landmark event was the XV Olympic games ([[1952 Summer Olympics|1952 Olympic Games]]), held in Helsinki. Finland's rapid urbanization in the 1970s, occurring late relative to the rest of Europe, tripled the population in the metropolitan area, and the [[Helsinki Metro]] subway system was built. The relatively sparse population density of Helsinki and its peculiar structure have often been attributed to the lateness of its growth.{{Citation needed|date=October 2010}}
+
+==Geography==
+[[File:Helsinki SPOT 1021.jpg|thumb|left|Parts of Helsinki and Espoo seen from [[SPOT (satellite)|SPOT]]]]
+{{Main|Geography of Helsinki}}
+
+Called the "Daughter of the Baltic", Helsinki is located on the tip of a peninsula and on 315 islands. The inner city area occupies a southern peninsula, which is rarely referred to by its actual name [[Vironniemi]]. Population density in certain parts of Helsinki's inner city area is very high, reaching {{convert|16494|PD/km2}} in the district of [[Kallio]], but as a whole Helsinki's population density of {{convert|3050|/km2}} ranks the city as quite sparsely populated in comparison to other European capital cities.<ref>{{cite web|title=Geography of Helsinki, Overview of Finland|url=http://www.easyexpat.com/en/guides/finland/helsinki/overview/geography.htm|work=easyexpat.com|accessdate=5 February 2014}}</ref><ref>{{cite web|title=Helsinki&nbsp;— School of Computer Science&nbsp;— SOCS|url=http://www.cs.mcgill.ca/~rwest/link-suggestion/wpcd_2008-09_augmented/wp/h/Helsinki.htm|work=[[McGill University]]|accessdate=5 February 2014}}</ref>  Much of Helsinki outside the inner city area consists of postwar suburbs separated from each other by patches of forest. A narrow, {{conv|10|km}} long [[Central Park (Helsinki)|Helsinki Central Park]], stretching from the inner city to the northern border of Helsinki, is an important recreational area for residents. The City of Helsinki has about 11,000 boat [[Berth (moorings)|berths]] and possesses over 14 000 hectares of marine fishing waters adjacent to the Capital Region. Some 60 fish species are found in this area. Recreational fishing is a popular hobby among kids and adults alike.
+
+Major islands in Helsinki include [[Seurasaari]], [[Vallisaari]], [[Lauttasaari]], and [[Korkeasaari]]&nbsp;– the lattermost being the site of the country's biggest [[zoo]]. Other noteworthy islands are the fortress island of [[Suomenlinna]] (Sveaborg), the military island of [[Santahamina]], and [[Isosaari]]. [[Pihlajasaari]] island is a favorite summer spot for gay men and naturists, comparable to [[Fire Island]] off [[New York City]].
+
+===Metropolitan area===
+{{Main|Greater Helsinki}}
+[[File:Greater Helsinki Urban Area.svg|thumb|left|The [[Greater Helsinki]] urban area]]
+The Helsinki Capital Region consists of the four municipalities of Helsinki, Espoo, Vantaa, and Kauniainen<ref>{{cite web|title=Aluejaot|url=http://www.uudenmaanliitto.fi/tietopalvelut/uusimaa-tietopankki/aluejaot|work=Tietopalvelu|publisher=Uudenmaan liitto|accessdate=29 May 2014|language=Finnish}}</ref> and is considered to be the only [[metropolis]] in [[Finland]].<ref>{{cite web|url=http://www.uudenmaanliitto.fi/files/1090/Uudenmaan_maakuntakaava_selostus.pdf |title=Uudenmaan maakuntakaava selostus |publisher=Helsinki-Uusimaa Region |language=Finnish |format=PDF |accessdate=17 February 2014}}</ref> It has a population of over 1,1 million, and is by far the biggest and most densely populated area of [[Finland]], over four times bigger than [[Tampere]]. The Capital Region spreads over a land area of {{conv|770|km2}} and has a population density of {{conv|1418|PD/sqkm}}. With over 20 percent of the country's population in just 0.2 percent of its surface area, the housing density of the area is high by Finnish standards.
+
+The Helsinki Metropolitan Area ([[Greater Helsinki]]) consists of the cities of Helsinki Capital Region and ten surrounding municipalities. The Metropolitan Area covers {{convert|3697|km2|0|abbr=out}} and contains a total population of over 1.4 million, or about a fourth of the total population of Finland. The Metropolitan Area has a high concentration of employment: approximately 750,000 jobs.<ref>{{cite web|title=Helsingin seutu tiivistetysti|url=http://www.helsinginseutu.fi/hki/HS/Helsingin+Seutu/Kaupunkitieto+ja+tilastot|work=Kaupunkitieto|publisher=Helsinginseutu.fi|language=Finnish}}</ref> Despite the intensity of land use, the region also has large recreational areas and green spaces. The Greater Helsinki area is the world's northernmost urban area with a population of over one million people, and the city is the northernmost capital of an EU member state.
+
+===Climate===
+[[File:Hauhontie6.jpg|thumb|left|Helsinki in summer]]
+Helsinki has a [[humid continental climate]] ([[Köppen climate classification|Köppen]]: Dfb), less than {{convert|2|C-change|F-change}} above the threshold for [[subarctic]] classification. Owing to the mitigating influence of the [[Baltic Sea]] and [[North Atlantic Current]] (see also [[Extratropical cyclone]]), temperatures in winter are higher than the northern location might suggest, with the average in January and February around {{convert|-5|C|F}}.<ref name="fmiclimate">{{cite web|url=http://en.ilmatieteenlaitos.fi/normal-period-1981-2010 |title=Climatological statistics for the normal period 1971–2000 |publisher=Fmi.fi |accessdate=13 April 2010}}</ref>
+
+Winters in Helsinki are notably warmer than in the north, and the snow season is much shorter. Temperatures below {{convert|−20|C|F}} occur a few times a year or less. However, because of the latitude, days last 5 hours and 48 minutes around the [[winter solstice]] with very low Sun (at noon Sun is little bit over 6 degrees in the sky), and the cloudy weather at this time of year accentuates the darkness. Conversely, Helsinki enjoys long daylight in summer, during the [[summer solstice]] days last 18 hours and 57 minutes .<ref>{{cite web|url=http://www.gaisma.com/en/location/helsinki.html|title=Helsinki, Finland&nbsp;– Sunrise, sunset, dawn and dusk times around the World!|last=Tukiainen|first=Matti|work=Gaisma|accessdate=11 February 2011}}</ref>
+
+The average maximum temperature from June to August is around {{convert|19|to|22|C|F}}. Due to the marine effect, especially during hot summer days, daily temperatures are a little cooler and night temperatures are higher than further away in the mainland. The highest temperature ever recorded in the city centre was {{convert|33.1|C}}, on 18 July 1945, and the lowest was {{convert|-34.3|C|0|abbr=on}}, on 10 January 1987.<ref name="fmi.fi">{{cite web|url=http://www.fmi.fi/saa/tilastot_4.html |title=Ilmatieteen laitos&nbsp;– Sää ja ilmasto&nbsp;– Ilmastotilastot&nbsp;– Ilman lämpötila |publisher=Finnish Meteorological Institute |language=Finnish |accessdate=8 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/20090604044301/http://www.fmi.fi:80/saa/tilastot_4.html |archivedate=4 June 2009 }}</ref> [[Helsinki Airport]] (located in Vantaa, {{conv|17|km}} north of the Helsinki city centre) recorded a temperature of {{convert|34.0|C}}, on 29 July 2010, and a low of {{convert|-35.9|C|0|abbr=on}}, on 9 January 1987. Precipitation is received from frontal passages and thunderstorms. Thunderstorms are most common in summer.
+
+{{Weather box
+|location = Central Helsinki ([[Kaisaniemi]])
+|metric first = Yes
+|single line = Yes
+|Jan record high C = 8.5
+|Feb record high C = 11.8
+|Mar record high C = 17.1
+|Apr record high C = 21.9
+|May record high C = 29.6
+|Jun record high C = 32.0
+|Jul record high C = 33.1
+|Aug record high C = 31.2
+|Sep record high C = 26.2
+|Oct record high C = 19.4
+|Nov record high C = 13.8
+|Dec record high C = 10.5
+|year record high C =
+|Jan high C = −1.3
+|Feb high C = −1.9
+|Mar high C = 1.6
+|Apr high C = 7.6
+|May high C = 14.4
+|Jun high C = 18.5
+|Jul high C = 21.5
+|Aug high C = 19.8
+|Sep high C = 14.6
+|Oct high C = 9.0
+|Nov high C = 3.7
+|Dec high C = 0.5
+|year high C = 9.0
+|Jan mean C = −3.9
+|Feb mean C = −4.7
+|Mar mean C = −1.3
+|Apr mean C = 3.9
+|May mean C = 10.2
+|Jun mean C = 14.6
+|Jul mean C = 17.8
+|Aug mean C = 16.3
+|Sep mean C = 11.5
+|Oct mean C = 6.6
+|Nov mean C = 1.6
+|Dec mean C = −2.0
+|year mean C = 5.9
+|Jan low C = −6.5
+|Feb low C = −7.4
+|Mar low C = −4.1
+|Apr low C = 0.8
+|May low C = 6.3
+|Jun low C = 10.9
+|Jul low C = 14.2
+|Aug low C = 13.1
+|Sep low C = 8.7
+|Oct low C = 4.3
+|Nov low C = −0.6
+|Dec low C = −4.5
+|year low C = 2.9
+|Jan record low C = −34.3
+|Feb record low C = −31.5
+|Mar record low C = −24.5
+|Apr record low C = −16.3
+|May record low C = −4.8
+|Jun record low C = 0.7
+|Jul record low C = 5.4
+|Aug record low C = 2.8
+|Sep record low C = −4.5
+|Oct record low C = −11.6
+|Nov record low C = −18.6
+|Dec record low C = −29.5
+|year record low C = 
+|precipitation colour= green
+|Jan precipitation mm = 52
+|Feb precipitation mm = 36
+|Mar precipitation mm = 38
+|Apr precipitation mm = 32
+|May precipitation mm = 37
+|Jun precipitation mm = 57
+|Jul precipitation mm = 63
+|Aug precipitation mm = 80
+|Sep precipitation mm = 56
+|Oct precipitation mm = 76
+|Nov precipitation mm = 70
+|Dec precipitation mm = 58
+|year precipitation mm = 655
+|Jan rain days=19
+|Feb rain days=17
+|Mar rain days=15
+|Apr rain days=11
+|May rain days=11
+|Jun rain days=14
+|Jul rain days=12
+|Aug rain days=15
+|Sep rain days=14
+|Oct rain days=16
+|Nov rain days=18
+|Dec rain days=20
+|year rain days=
+|Jan snow cm = 21
+|Feb snow cm = 23
+|Mar snow cm = 14
+|Apr snow cm = 0
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 4
+|Dec snow cm = 12
+|year snow cm = 
+|Jan sun = 38
+|Feb sun = 70
+|Mar sun = 138
+|Apr sun = 194
+|May sun = 284
+|Jun sun = 297
+|Jul sun = 291
+|Aug sun = 238
+|Sep sun = 150
+|Oct sun = 93
+|Nov sun = 36
+|Dec sun = 29
+|year sun = 1858
+|source 1 = Climatological statistics for the normal period 1981–2010 (except the Records rows, which are 'all-time' records [data source required]) <ref name="fmiclimate"/>
+|date=February 2011
+}}
+
+{{Weather box
+|location = [[Helsinki Airport]] ([[Vantaa]])
+|metric first = Yes
+|single line = Yes
+|Jan record high C = 8.2
+|Feb record high C = 10.0
+|Mar record high C = 17.5
+|Apr record high C = 24.0
+|May record high C = 29.0
+|Jun record high C = 31.4
+|Jul record high C = 34.0
+|Aug record high C = 31.5
+|Sep record high C = 25.3
+|Oct record high C = 18.2
+|Nov record high C = 11.3
+|Dec record high C = 10.8
+|year record high C = 
+|Jan high C = −2.4
+|Feb high C = −2.7
+|Mar high C = 1.5
+|Apr high C = 8.7
+|May high C = 15.8
+|Jun high C = 19.6
+|Jul high C = 22.5
+|Aug high C = 20.5
+|Sep high C = 14.8
+|Oct high C = 8.6
+|Nov high C = 2.6
+|Dec high C = −0.7
+|year high C = 9.1
+|Jan mean C = −5.0
+|Feb mean C = −5.7
+|Mar mean C = −1.9
+|Apr mean C = 4.1
+|May mean C = 10.4
+|Jun mean C = 14.6
+|Jul mean C = 17.7
+|Aug mean C = 15.8
+|Sep mean C = 10.7
+|Oct mean C = 5.6
+|Nov mean C = 0.4
+|Dec mean C = −3.2
+|year mean C = 5.3
+|Jan low C = -8.1
+|Feb low C = -8.9
+|Mar low C = −5.4
+|Apr low C = −0.2
+|May low C = 4.8
+|Jun low C = 9.5
+|Jul low C = 12.6
+|Aug low C = 11.3
+|Sep low C = 6.9
+|Oct low C = 2.7
+|Nov low C = −2.1
+|Dec low C = −6.0
+|year low C = 1.4
+|Jan record low C = −35.9
+|Feb record low C = −30.2
+|Mar record low C = −27.2
+|Apr record low C = −12.1
+|May record low C = −5.4
+|Jun record low C = −0.5
+|Jul record low C = 4.0
+|Aug record low C = 2.0
+|Sep record low C = −7.3
+|Oct record low C = −14.5
+|Nov record low C = −19.9
+|Dec record low C = −29.5
+|year record low C =
+|precipitation colour= green
+|Jan precipitation mm = 54
+|Feb precipitation mm = 37
+|Mar precipitation mm = 37
+|Apr precipitation mm = 32
+|May precipitation mm = 39
+|Jun precipitation mm = 61
+|Jul precipitation mm = 66
+|Aug precipitation mm = 79
+|Sep precipitation mm = 64
+|Oct precipitation mm = 82
+|Nov precipitation mm = 73
+|Dec precipitation mm = 58
+|year precipitation mm =
+|Jan rain days=23
+|Feb rain days=20
+|Mar rain days=17
+|Apr rain days=12
+|May rain days=12
+|Jun rain days=14
+|Jul rain days=13
+|Aug rain days=15
+|Sep rain days=16
+|Oct rain days=18
+|Nov rain days=21
+|Dec rain days=24
+|year rain days=
+|Jan sun = 38
+|Feb sun = 74
+|Mar sun = 131
+|Apr sun = 196
+|May sun = 275
+|Jun sun = 266
+|Jul sun = 291
+|Aug sun = 219
+|Sep sun = 143
+|Oct sun = 84
+|Nov sun = 37
+|Dec sun = 26
+|year sun =
+|Jan percentsun=21
+|Feb percentsun=34 
+|Mar percentsun=41
+|Apr percentsun=49
+|May percentsun=55
+|Jun percentsun=49
+|Jul percentsun=52
+|Aug percentsun=44
+|Sep percentsun=35
+|Oct percentsun=25
+|Nov percentsun=16
+|Dec percentsun=14
+|year percentsun=
+|source 1 = Climatological statistics for the normal period 1981–2010 (except the Records rows, which are 'all-time' records [data source required]) <ref name="fmi.fi"/> Sun and record temperatures 1981–2011 only
+}}
+
+==Cityscape==
+[[File:Aleksanterinkatu Helsinki summer.jpg|thumb|[[Aleksanterinkatu]] in Central Helsinki]]
+[[File:HelsinkiToolonlahti.jpg|thumb|The view across summertime Eläintarhanlahti]]
+[[File:Lutheran Cathedral Helsinki.jpg|thumb|The [[Helsinki Cathedral]] is among the most prominent buildings in the city.]]
+[[File:ViewOfficeParliamentFinland.jpg|thumb|The [[Parliament of Finland]] on the right, and new supplemental offices on the left]]
+[[Carl Ludvig Engel]] (1778–1840) was appointed to design a new city centre all on his own. He designed several [[Neoclassical architecture|neoclassical]] buildings in Helsinki. The focal point of Engel's city plan is the [[Helsinki Senate Square|Senate Square]]. It is surrounded by the [[Government Palace (Finland)|Government Palace]] (to the east), the main building of Helsinki University (to the west), and (to the north) the enormous [[Helsinki Cathedral|Cathedral]], which was finished in 1852, twelve years after C. L. Engel's death. Subsequently, Engel's neoclassical plan stimulated the [[epithet]], ''The White City of the North''. Helsinki is, however, perhaps even more famous for its numerous [[Art Nouveau]] ([[Jugend]] in Finnish) influenced buildings of the [[romantic nationalism]], designed in the early 1900s and strongly influenced by ''The [[Kalevala]]'', which is a very popular theme in the national romantic art of that era. Helsinki's Art Nouveau style is also featured in large residential areas such as [[Katajanokka]] and Ullanlinna. The master of the Finnish Art Nouveau was [[Eliel Saarinen]] (1873–1950), whose architectural masterpiece was the [[Helsinki Central railway station]].
+
+Helsinki also features several buildings by the world-renowned Finnish architect [[Alvar Aalto]] (1898–1976), recognized as one of the pioneers of architectural [[functionalism (architecture)|functionalism]]. However, some of his works, such as the headquarters of the paper company [[Stora Enso]] and the concert venue [[Finlandia Hall]], have been subject to divided opinions from the citizens.<ref>{{cite web|url=http://helsinginaallot.blogspot.com/2007/02/stora-enson-pkonttori-kanavaranta-1.html|title=Stora Enson pääkonttori, Kanavaranta 1|date=25 February 2007|work="Helsingin Aallot" blog|language=Finnish|accessdate=5 February 2011}}</ref><ref>{{cite news|url=http://www.hs.fi/paakirjoitus/artikkeli/Kohtaako+Enson+konttori+voittajansa/HS20080614SI1MA01re3|title=Kohtaako Enson konttori voittajansa?|at=Lead editorial|date=14 June 2008|newspaper=[[Helsingin Sanomat]]|language=Finnish|accessdate=5 February 2011}}</ref><ref>{{cite web|url=http://www2.hs.fi/extrat/kulttuuri/rakennukset/rakennukset_c2.html|title=Kiasma nousi inhokkien ykköseksi|last=Penttilä|first=Vappu|work=Verkkoliite|publisher=[[Helsingin Sanomat]]|language=Finnish|accessdate=5 February 2011}}</ref>
+
+Renowned functionalist buildings in Helsinki by other architects include the [[Helsinki Olympic Stadium|Olympic Stadium]], the [[Tennispalatsi|Tennis Palace]], the Rowing Stadium, the [[Helsinki Swimming Stadium|Swimming Stadium]], the Velodrome, the [[Lasipalatsi|Glass Palace]], the Exhibition Hall (now Töölö Sports Hall), and [[Helsinki-Malmi Airport]]. The sports venues were built to serve the 1940 Helsinki Olympic Games; the games were initially cancelled due to the [[Second World War]], but the venues eventually got to fulfill their purpose in the [[1952 Summer Olympics|1952 Olympic Games]]. Many of them are listed by [[DoCoMoMo]] as significant examples of modern architecture. The Olympic Stadium and Helsinki-Malmi Airport are in addition catalogued by the [[Finnish National Board of Antiquities]] as cultural-historical environments of national significance.{{Citation needed|date=January 2010}}
+
+As a historical footnote, Helsinki's neoclassical buildings were often used as a backdrop for scenes set to take place in the [[Soviet Union]] in many [[Cold War]] era Hollywood movies, when filming in the USSR was not possible. Some of the more notable ones are ''[[The Kremlin Letter]]'' (1970), ''[[Reds (film)|Reds]]'' (1981), and ''[[Gorky Park (film)|Gorky Park]]'' (1983).<ref>http://www.csmonitor.com/1983/0804/080464.html</ref> Because some streetscapes were reminiscent of [[Leningrad]]'s and [[Moscow]]'s old buildings, they too were used in movie productions—much to some residents' dismay. At the same time the government secretly instructed Finnish officials not to extend assistance to such film projects.<ref name="mtv3erittainsalainen">Ministry for Foreign Affairs of Finland, Political Department: {{PDFlink|[http://img.mtv3.fi/mn_liitteet/mtv3/uutiset/bulleting/300538.pdf Memo 56 of 20 January 1982 (labelled highly confidential in 1982)]|1.37&nbsp;MB}}</ref>
+
+In the 21st century Helsinki has decided to allow the construction of [[skyscraper]]s. Several projects are already in progress, mainly in Pasila and Kalasatama. The tallest (with 40 floors) will rise to at least 150 metres (500 feet). In Pasila, twenty new [[high-rise]]s will be erected within 10 years.<ref>{{cite web|title=Uutta Helsinkiä|url=http://www.uuttahelsinkia.fi/fi/pasila}}</ref> In Kalasataman Keskus REDI, the first 35-story (130 metres) and 32-story (122 metres) residential towers are already under construction. Later they will be joined by a 37-story (140 metres), two 32-story (122 metres, 400 feet), 31-story (120 metres), and 27-story (100 metres) residential buildings. In the Kalasatama area, there will be 30 high-rises within 10 years.<ref>{{cite web|title=REDI|url=http://www.uuttahelsinkia.fi/sites/default/files/inline-attachments/2014-04/redi_srv.pdf}}</ref>
+{{wide image|Southern Helsinki panorama 2011-06-28 1.jpg|900px|A panoramic view over the southernmost districts of Helsinki from [[Hotel Torni]]. The [[Helsinki Old Church]] and its surrounding park are seen in the foreground, while the towers of [[St. John's Church, Helsinki|St. John's Church]] (near center) and [[Mikael Agricola Church]] (right) can be seen in the middle distance, backdropped by the [[Gulf of Finland]].|100%|none}}
+{{wide image|Helsinki_City_Center.jpg|900px|A panoramic view of [[Rautatientori]] ("Railway Square"). Art museum [[Ateneum]] can be seen on the left, the [[Helsinki Central Railway Station]] is centered, and the [[Finnish National Theatre]] is to the right.|100%|none}}
+{{wide image|Kamppi_Center_Panoramic.jpg|900px|A panoramic view of [[Kamppi Center]] and its surroundings|100%|none}}
+
+==Government==
+{{Main|Politics of Helsinki}}
+[[File:Helsinki City Hall - DSC03930.JPG|thumb|The [[Helsinki City Hall]] houses the [[City Council of Helsinki]]]]
+As in all [[Municipalities of Finland|Finnish municipalities]], the [[city council]] is the main decision-making organ in local politics, dealing with issues such as [[city planning]], schools, health care, and [[public transport]]. The council is elected every four years.
+
+The [[City Council of Helsinki]] consists of eighty-five members. Following the most recent municipal elections, in 2012, the three largest parties are the [[National Coalition Party]] (23), the [[Green League of Finland|Greens]] (19), and the [[Social Democratic Party of Finland|Social Democrats]] (15).<ref>{{cite web|url=http://www.vaalikone.fi/kunta2012/tulos/01/ |title=Helsingin vaalipiiri&nbsp;— Tulospalvelu&nbsp;— Kuntavaalit 2012 |publisher=Vaalikone.fi |accessdate=12 March 2013 |deadurl=yes |archiveurl=https://web.archive.org/20130101052243/http://www.vaalikone.fi:80/kunta2012/tulos/01/ |archivedate=1 January 2013 }}</ref> The Mayor, Jussi Pajunen, is a member of the National Coalition Party.
+
+Traditionally, the conservative National Coalition Party (Kokoomus) has been the biggest party on Helsinki City Council, with the Social Democrats being the second biggest. In 2000 the Greens, for which Helsinki is the strongest area of support nationally, gained the position of second most popular party in the city, in 2004 the Social Democrats regained that position, and since 2008 the Greens have again been the second biggest party.
+
+The [[Left Alliance (Finland)|Left Alliance]] is the fourth largest party, while the [[True Finns]] have increased their support steadily to become the fifth largest party. Support for the [[Swedish People's Party]] has been steadily declining over the years, most likely because of the diminishing proportion of [[Finland-Swedish|Swedish]] speakers in Helsinki. The [[Centre Party of Finland]], despite being one of the major parties in national politics, has little support in Helsinki, as is the case in most big cities.
+
+==Demographics==
+[[File:KidsJumpingInToTheSeaByPollo.JPG|thumb|left|upright|Children jumping into the sea in Lauttasaari]]
+Helsinki has a higher proportion of women (53.4%) than elsewhere in Finland (51.1%). Helsinki's current population density of 2,739.36 people per square kilometre is by far the highest in Finland. Life expectancy for both genders is slightly below the national averages: 75.1 years for men as compared to 75.7 years, 81.7 years for women as compared to 82.5 years.<ref>{{cite web| author=Tapani Valkonen ym. | title = Tutkimuksia 10/2007: Elinajanodotteen kehitys Helsingissä ja sen väestönosaryhmissä 1991–2005 | date = 17 December 2007 | url = http://www.hel.fi/hel2/tietokeskus/julkaisut/pdf/07_12_17_tutk_10_Valkonen.pdf | publisher = Helsingin kaupunki, tietokeskus | accessdate = 30 December 2007}}</ref><ref>{{cite web|author=Tilastolaitoksen historiaa |url=http://www.stat.fi/org/historia/elinajanodote.html |title=Tilasto |publisher=Stat.fi |accessdate=13 April 2010}}</ref>
+
+Helsinki has experienced strong growth since the 1810s, when it replaced [[Turku]] as the capital of the [[Grand Duchy of Finland]], which later became the sovereign [[Republic of Finland]]. The city continued to show strong growth from that time onward, with the exception during the [[Finnish Civil War]] period. From the end of [[World War II]] up until the 1970s there was a massive exodus of people from the countryside to the cities of Finland, in particular Helsinki. Between 1944 and 1969 the population of the city nearly doubled from 275,000<ref>{{cite web|url=http://www.hel.fi/hki/Helsinki/en/Etusivu |title=Helsingin historia |publisher=Hel.fi |accessdate=13 April 2010}}</ref> to 525,600.<ref>{{cite web|url=http://www.aatos.fi/Hki450v/metro.html |title=Maan alle |publisher=Aatos.fi |date=30 December 1972 |accessdate=13 April 2010}}</ref>
+
+In the 1960s, the population growth of Helsinki proper began to decrease mainly due to lack of housing.<ref>{{cite journal|last=Butzin|first=Bernhard|year=1991|title=Helsinki&nbsp;— aspects of urban development and planning|journal=[[GeoJournal]]|publisher=Springer, Netherlands|volume=2|issue=1|pages=11–26|issn=0343-2521|accessdate=23 January 2011|doi=10.1007/BF00212573}}</ref> Many residents began to move to neighbouring Espoo and Vantaa, where population growth has since soared. Espoo's population increased ninefold in sixty years, from 22,874 people in 1950 to 244,353 in 2009.{{citation needed|date=December 2010}} Neighboring Vantaa has seen even more dramatic change in the same time span: from 14,976 in 1950 to 197,663 in 2009, a thirteenfold increase. These dramatic increases pushed the municipalities of greater Helsinki into more intense cooperation in such areas as public transportation<ref>{{cite web|url=http://www.hsl.fi/EN/abouthsl/Pages/default.aspx |title=HSL Helsingin seudun liikenne&nbsp;– About HSL |publisher=Hsl.fi |date=1 January 2010 |accessdate=13 April 2010 |deadurl=yes |archiveurl=https://web.archive.org/20100119022312/http://www.hsl.fi:80/EN/abouthsl/Pages/default.aspx |archivedate=19 January 2010 }}</ref> and waste management.<ref>{{cite web|url=http://www.hsy.fi/en/Pages/default.aspx |title=HSY&nbsp;– Default |publisher=Hsy.fi |accessdate=13 April 2010}}</ref> The increasing scarcity of housing and the higher costs of living in the Helsinki Capital Region have pushed many daily commuters to find housing in formerly very rural areas, and even further, to such cities as [[Lohja]] ({{convert|50|km|0|abbr=on}} northwest from the city centre), [[Hämeenlinna]] and [[Lahti]] (both {{convert|100|km|0|abbr=on}} from Helsinki), and [[Porvoo]] ({{convert|50|km|0|abbr=on}} to the east).
+
+===Language===
+{| class="infobox" style="float:center;"
+|colspan="2"|'''Population by mother tongue'''<ref>{{cite web|title=Foreigners in Helsinki 2013|url=http://www.hel.fi/hel2/tietokeskus/julkaisut/pdf/13_12_18_Tilastoja_40_Selander.pdf|publisher=City of Helsinki|accessdate=18 April 2015}}</ref>
+|-\
+! Language || Population (2013) || Percentage
+|-
+|Finnish || 494,627 || 81.9%
+|-
+|Swedish || 35,674 || 5.9%
+|-
+|Russian ||  15,341 || 2.5%
+|-
+|Estonian || 10,207 || 1.7%
+|-
+|Somali || 7,193 || 1.2%
+|-
+|English || 4,879 || 0.8%
+|-
+|Arabic || 3,446 || 0.6%
+|-
+|Chinese || 2,691 || 0.4%
+|-
+|Kurdish || 2,264 || 0.4%
+|-
+|Spanish || 2,073 || 0.3%
+|-
+|German || 1,665 || 0.3%
+|-
+|French || 1,462 || 0.2%
+|-
+|Persian || 1,457 || 0.2%
+|-
+|Vietnamese || 1,416 || 0.2%
+|-
+|Turkish || 1,408 || 0.2%
+|-
+|Thai || 1,123 || 0.2%
+|-
+|Albanian || 1,005 || 0.2%
+|-
+|Other || 15,978 || 2.6%
+|}
+[[File:Helsingfors språk.png|thumb|left|The population broken down by language group, 1870–2013. During the period, the population increased significantly, and the city changed its linguistic majority from Swedish to Finnish.<br/>
+{{colorbox|#4A85BD}} [[Finnish language|Finnish]] speakers<br/>
+{{colorbox|#BD5150}} [[Swedish language|Swedish]] speakers<br/> 
+{{colorbox|#96BC5A}} [[Russian language|Russian]] speaker<br/>
+{{colorbox|#8163A0}} Speakers of other languages]]
+[[Finnish language|Finnish]] and [[Swedish language|Swedish]] are the official languages of the municipality of Helsinki. The majority, or 81.9%<ref name=languages>{{cite web|title=General information on Helsinki|url=http://www.hel.fi/www/Helsinki/en/administration/information/general/|publisher=Helsinki City}}</ref> of the population, speaks [[Finnish language|Finnish]] as their [[First language|native language]]. A minority, at 5.9%, speaks [[Finland Swedish|Swedish]]. Around 12.2% of the population speaks a native language other than Finnish or Swedish. [[Helsinki slang]] today combines influences mainly from Finnish and English, but has traditionally had strong Russian and Swedish influences. Finnish today is the common language of communication between Finnish speakers, Swedish speakers, and speakers of other languages ([[New Finns]]) in day-to-day affairs in the public sphere between unknown persons. In instances where a speaker's knowledge of Finnish is not known, English is usually spoken. Swedish is commonly spoken in city or national agencies specifically aimed at Finland-Swedish speakers, such as the Social Services Department on Hämeentie or the Luckan Cultural centre in Kamppi. Knowledge of Finnish is also essential in business and is usually a basic requirement in the employment market.<ref>{{cite web|url=http://yle.fi/uutiset/immigrants_learning_swedish_over_finnish_run_into_problems/2114684 |title=Immigrants Learning Swedish over Finnish Run into Problems &#124; News &#124; YLE Uutiset |publisher=yle.fi |accessdate=16 September 2011}}</ref>
+
+Finnish speakers surpassed Swedish speakers in 1890 to become the majority of the city's population.<ref>{{cite web|url=http://scripta.kotus.fi/www/verkkojulkaisut/julk125/helsinki/ |title=Helsingin nimistön vaiheita |publisher=Scripta.kotus.fi |accessdate=13 April 2010}}</ref> At the time, the population of Helsinki was 61,530.<ref>{{cite web|url=http://igs.kirjastot.fi/iGS/kysymykset/haku.aspx?word=Viipuri |title=Kysy.fi &#124; Helsingin kaupunginkirjasto |language=fi |publisher=Igs.kirjastot.fi |date= |accessdate=17 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20120504201358/http://igs.kirjastot.fi/iGS/kysymykset/haku.aspx?word=Viipuri |archivedate=4 May 2012 }}</ref>
+
+===Immigration===
+Helsinki is the global gateway to and from Finland. The city has Finland's largest [[immigrant]] population in both absolute and relative terms. There are over 140 nationalities represented in Helsinki. The largest groups ({{As of|2013|lc=y}}) are from Sweden, Russia, Estonia, Somalia, China, Kurdistan, Spain, Germany, France, Vietnam, and Turkey. Helsinki was already an international city in the 19th century with a distinctive Swedish majority as well as Finnish, Russian, and German minorities.
+
+Foreign citizens make up 8.0% of the population, while the total foreign-born population makes up 11.1%.<ref name="hel2.fi">{{cite web|url=http://www.hel.fi/hel2/tietokeskus/julkaisut/pdf/12_06_28_Tilastoja_23_Peuranen.pdf |title=12 06 28 Tilastoja 23 Peuranen |publisher=City of Helsinki |language=Finnish |format=PDF |accessdate=17 February 2014}}</ref> In 2012, 68,375<ref name="hel2.fi"/> residents spoke a native language other than Finnish, Swedish, or one of the three [[Sami languages]] spoken in Finland. The largest groups of residents not of Finnish background come from Russia (14,532), Estonia (9,065), and [[Somalia]] (6,845).<ref name="hel2.fi"/> Half of the immigrant population in Finland lives in Greater Helsinki, and one third in the city of Helsinki.<ref>{{cite web|author=Katriina Pajari |url=http://metro.fi/paakaupunkiseutu/uutiset/kolmannes_maahanmuuttajista_asuu_helsingissa/ |title=Kolmannes maahanmuuttajista asuu Helsingissä&nbsp;– HS.fi&nbsp;– Kaupunki |publisher=HS.fi |date=7 December 2008 |accessdate=13 April 2010 |deadurl=yes |archiveurl=https://web.archive.org/20140222101022/http://metro.fi/paakaupunkiseutu/uutiset/kolmannes_maahanmuuttajista_asuu_helsingissa/ |archivedate=22 February 2014 }}</ref>
+
+==Economy==
+[[File:Kamppi Center II.jpg|thumb|left|[[Kamppi Center]], a shopping and transportation complex in [[Kamppi]]]]
+
+The Helsinki Metropolitan Area generates approximately one third of Finland's GDP. GDP per capita is roughly 1.3 times the national average.<ref>{{cite web|url=http://www.helsinginseutu.fi/hki/hs/The+Region+of+Helsinki/City+information+and+statistics/Helsinki+Region+Statistics |title=Helsinki Region Statistics |publisher=Helsinginseutu.fi |accessdate=17 February 2014}}</ref>
+
+The metropolitan area's gross value added per capita is 200% of the mean of 27 European metropolitan areas, equalling those of Stockholm or Paris. The gross value added annual growth has been around 4%.<ref>{{cite web|url=http://www.hel.fi/hel2/Tietokeskus/julkaisut/pdf/04_11_09_suokas_vj31.pdf |title=Kansilehti2.vp |format=PDF |accessdate=13 April 2010}}</ref>
+
+83 of the 100 largest Finnish companies are headquartered in Greater Helsinki. Two-thirds of the 200 highest-paid Finnish executives live in Greater Helsinki and 42% in Helsinki. The average income of the top 50 earners was 1.65 million euro.<ref>{{cite web|url=http://www.hs.fi/english/article/Head+offices+of+large+companies+bring+good+taxpayers+to+Helsinki+region/1101981569833 |title=Helsingin Sanomat&nbsp;– International Edition&nbsp;– Metro |publisher=Hs.fi |date=9 November 2005 |accessdate=8 July 2009}}</ref>
+
+The tap water is of excellent quality and it is supplied by {{convert|120|km|abbr=on}} long [[Päijänne Water Tunnel]], one of the world's longest continuous rock tunnels. Bottled Helsinki tap water is even sold to other countries, such as Saudi Arabia<!-- What exactly does that mean? "countries such as Saudi Arabia"? -->.<ref>[http://www.finnfacts.com/english/main/actualities/pullovesi.htm ] {{wayback|url=http://www.finnfacts.com/english/main/actualities/pullovesi.htm |date=20091011133525 }}</ref>
+
+==Education==
+[[File:Kaisa-talo3.jpg|thumb|left|upright|[[University of Helsinki]]'s Main Library: Kaisa-talo]]
+[[File:Helsingin yliopiston päärakennus.jpg|right|thumb|Main building of the [[University of Helsinki]]]]
+[[File:Haaga-Helia University Of Applied Sciences.png|right|thumb|[[Haaga-Helia University Of Applied Sciences]] is the largest business polytechnic in Finland]]
+
+Helsinki has 190 comprehensive schools, 41 upper secondary schools, and 15 vocational institutes. Half of the 41 upper secondary schools are private or state-owned, the other half municipal. Higher level education is given in eight universities (see the section "Universities" below) and four polytechnics.
+
+===Universities===
+{{See also|List of universities in Finland}}
+*[[University of Helsinki]]
+*[[Aalto University]]
+*[[Hanken School of Economics]]
+*[[University of the Arts Helsinki]]
+*[[Finnish National Defence University|National Defence University]]
+
+===University of Applied Sciences===
+*[[Haaga-Helia University of Applied Sciences]]
+*[[Laurea University of Applied Sciences]]
+*[[Helsinki Metropolia University of Applied Sciences]]
+*[[Arcada University of Applied Sciences]]
+
+Helsinki is one of the co-location centres of the Knowledge and Innovation Community (Future information and communication society) of The [[European Institute of Innovation and Technology]] (EIT).<ref>{{cite web|url=http://eit.europa.eu/home.html |title=European Institute of Innovation and Technology: Home |publisher=Eit.europa.eu |accessdate=13 April 2010 |deadurl=yes |archiveurl=https://web.archive.org/20100328175502/http://eit.europa.eu:80/home.html |archivedate=28 March 2010 }}</ref>
+
+The educational department takes part in [[Lifelong Learning Programme 2007–2013 in Finland]].
+
+==Culture==
+
+===Museums===
+The biggest historical museum in Helsinki is the [[National Museum of Finland]], which displays a vast historical collection from prehistoric times to the 21st century. The museum building itself, a national romantic style neomedieval castle, is a tourist attraction. Another major historical museum is the [[Helsinki City Museum]], which introduces visitors to Helsinki's 500-year history. The [[University of Helsinki]] also has many significant museums, including the [[Helsinki University Museum]] "Arppeanum" and the [[Finnish Museum of Natural History]].
+
+The [[Finnish National Gallery]] consists of three museums: [[Ateneum|Ateneum Art Museum]] for classical Finnish art, [[Sinebrychoff Art Museum]] for classical European art, and [[Kiasma|Kiasma Art Museum]] for modern art, in a building by architect [[Steven Holl]]. The old Ateneum, a neo-Renaissance palace from the 19th century, is one of the city's major historical buildings. All three museum buildings are [[state-owned]] through [[Senate Properties]].
+
+The [[Design Museum, Helsinki|Design Museum]] is devoted to the exhibition of both Finnish and foreign design, including industrial design, fashion, and graphic design. Other museums in Helsinki include the [[Military Museum of Finland]], [[Didrichsen Art Museum]], [[Amos Anderson Art Museum]], and the Tram Museum.
+<gallery widths=180px heights=120px caption="Museums in Helsinki">
+File:Helsinki July 2013-26a.jpg|Classical art museum [[Ateneum]] (1887)
+Helsinki Kiasma.jpg|[[Kiasma]] museum of contemporary art (1998)
+140811Ha001.jpg|[[Sinebrychoff Art Museum]] (1842)
+Designmuseo I Helsinki.jpg|The [[Design Museum, Helsinki|Design Museum]] (1894)
+National Museum of Finland.jpg|The [[National Museum of Finland]] (1910)
+Tram museum in Helsinki-7152.jpg|Tram museum (''Ratikkamuseo'') (1900)
+Sotakorkeakoulu.jpg|The [[Military Museum of Finland]] (1881)
+Taidehalli Helsinki.jpg|[[Kunsthalle Helsinki]] art venue (1928)
+Helsingin Luonnontieteellinen museo.JPG|The [[Finnish Museum of Natural History]] (1913)
+Didrichsenin taidemuseo.jpg|[[Didrichsen Art Museum]] (1964)
+Yrjönkatu 27-29.jpg|[[Amos Anderson Art Museum]] (1913)
+Arppeanum - DSC05409.JPG|[[Helsinki University Museum]] "Arppeanum" (1869)
+</gallery>
+
+===Theatres===
+[[File:Finnish National Theatre.jpg|right|thumb|The [[Finnish National Theatre]] (1902), designed by architect Onni Tarjanne]]
+Helsinki has three major theatres: The [[Finnish National Theatre]], the Helsinki City Theatre, and the [[Swedish Theatre]] (''Svenska Teatern''). Other notable theatres in the city include the [[Alexander Theatre]], ''Q-teatteri'', Savoy Theatre, KOM-theatre, and ''Teatteri Jurkka''.
+
+===Music===
+Helsinki is home to two full-size symphony orchestras, the [[Helsinki Philharmonic Orchestra]] and the [[Finnish Radio Symphony Orchestra]], both of which perform at the [[Helsinki Music Centre]] concert hall. Acclaimed contemporary composers [[Kaija Saariaho]], [[Magnus Lindberg]], [[Esa-Pekka Salonen]], and [[Einojuhani Rautavaara]], among others, were born and raised in Helsinki, and studied at the [[Sibelius Academy]]. The [[Finnish National Opera]], the only full-time, professional opera company in Finland, is located in Helsinki. The opera singer [[Martti Wallén]], one of the company's long-time soloists, was born and raised in Helsinki, as was mezzo-soprano [[Monica Groop]].
+
+Many widely renowned and acclaimed bands have originated in Helsinki, including [[Hanoi Rocks]], [[HIM (Finnish band)|HIM]], [[Stratovarius]], [[The 69 Eyes]], [[Finntroll]], [[Ensiferum]], [[Wintersun]], [[The Rasmus]], [[Poets of the Fall]], and [[Apocalyptica]].
+
+The city's main musical venues are the [[Finnish National Opera]], the [[Finlandia Hall|Finlandia concert hall]], and the [[Helsinki Music Centre]]. The Music Centre also houses a part of the [[Sibelius Academy]]. Bigger concerts and events are usually held at one of the city's two big ice hockey arenas: the [[Hartwall Areena]] or the [[Helsinki Ice Hall]]. Helsinki has Finland's largest [[Helsinki Fair Centre|fairgrounds]].
+
+[[Helsinki Arena]] hosted the [[Eurovision Song Contest 2007]], the first [[Eurovision Song Contest]] arranged in Finland, following [[Lordi]]'s win in [[Eurovision Song Contest 2006|2006]].
+
+===Art===
+[[File:Strange Fruit Helsinki Night of the Arts.jpg|thumb|Strange Fruit performing at the [[Night of the Arts]] in Helsinki]]
+The [[Helsinki Festival]] is an annual arts and culture festival, which takes place every August (including the [[Night of the Arts]]).
+
+[[Vappu]] is an annual carnival for students and workers.
+
+At the [[Helsinki Senate Square|Senate Square]] in September / October 2010, the largest open-air art exhibition ever in Finland took place: About 1.4 million people saw the international exhibition of ''[[United Buddy Bears]]''.
+
+Helsinki is the 2012 [[World Design Capital]], in recognition of the use of design as an effective tool for social, cultural, and economic development in the city. In choosing Helsinki, the World Design Capital selection jury highlighted Helsinki's use of 'Embedded Design', which has tied design in the city to innovation, "creating global brands, such as [[Nokia]], [[Kone]], and [[Marimekko]], popular events, like the annual Helsinki Design Week, outstanding education and research institutions, such as the [[University of Art and Design Helsinki]], and exemplary architects and designers such as [[Eliel Saarinen]] and [[Alvar Aalto]]".<ref name="Worlddesigncapital.com"/>
+
+Helsinki also hosts many film festivals. Most of them are small venues, but some have gained renown even abroad. The most prolific would be the [[Helsinki Film Festival|Love & Anarchy]] film festival (also known as Helsinki International Film Festival), which features films on a wide spectrum. [[Night Visions (film festival)|Night Visions]], on the other hand, focuses on genre cinema, screening [[horror film|horror]], [[fantasy]], and [[science fiction]] films in very popular movie marathons that take whole night. Another popular film festival is DocPoint, a festival that focuses solely on [[documentary film|documentary]] cinema.<ref>{{cite web|title=Helsinki International Film Festival|url=http://hiff.fi/|website=hiff.fi|accessdate=21 January 2015}}</ref><ref>{{cite web|title=DocPoint|url=http://docpoint.info|website=docpoint.info|accessdate=21 January 2015}}</ref><ref>{{cite web|title=Night Visions Film Festival|url=http://www.nightvisions.info|website=Nightvisions.info|accessdate=21 January 2015}}</ref>
+
+===Media===
+[[File:Yleisradion Iso Paja.jpg|thumb|[[Yle]] headquarters in [[Pasila]], Helsinki]]
+[[File:Linus Torvalds.jpeg|thumb|left|upright|[[Linus Torvalds]], the Finnish [[Software engineering|software engineer]] best known for creating the popular [[Open source|open-source]] [[Kernel (operating system)|kernel]] [[Linux]]]]
+
+Today, there are around 200 newspapers, 320 popular magazines, 2,100 professional magazines, 67 commercial radio stations, three [[digital radio]] channels, and one nationwide and five national [[Public broadcasting|public service radio channels]].{{citation needed|date=December 2013}}
+
+Each year, around 12,000 book titles are published and 12 million records are sold across Finland.<ref name="Media moves">{{cite web |url=http://finland.fi/public/default.aspx?contentid=162833&contentlan=2&culture=en-US| title=Media moves |work=ThisisFINLAND ([[Ministry for Foreign Affairs (Finland)|Ministry for Foreign Affairs of Finland]])}}</ref>
+
+[[Sanoma]] publishes the newspaper ''[[Helsingin Sanomat]]'' (its circulation of 412,000<ref>{{cite web|title=Circulation Statistics |url=http://www.levikintarkastus.fi/english/statistics.php |publisher=The Finnish Audit Bureau of Circulations (Levikintarkastus Oy) |accessdate=25 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/20090601160935/http://www.levikintarkastus.fi:80/english/statistics.php |archivedate=1 June 2009 }}</ref> making it the largest), the [[Tabloid (newspaper format)|tabloid]] ''[[Ilta-Sanomat]]'', the commerce-oriented ''[[Taloussanomat]]'', and the television channel [[Nelonen]]. The other major publisher [[Alma Media]] publishes over thirty magazines, including the newspaper ''[[Aamulehti]]'', tabloid ''[[Iltalehti]]'', and commerce-oriented ''[[Kauppalehti]]''. Worldwide, Finns, along with other Nordic peoples and the [[Japanese people|Japanese]], spend the most time reading newspapers.<ref>{{cite web |title=World Press Trends: Newspapers Still Reach More Than Internet |url=http://www.wan-ifra.org/press-releases/2011/10/12/world-press-trends-newspapers-still-reach-more-than-internet |publisher=World Association of Newspapers and News Publishers |accessdate=19 November 2012}}</ref>
+
+Yle, the Finnish Broadcasting Company, operates five television channels and thirteen radio channels in both national languages. Headquartered in the neighbourhood of Pasila, Yle is funded through a mandatory television license and fees for private broadcasters. All TV channels are broadcast [[Digital television|digitally]], both terrestrially and on cable. The commercial television channel [[MTV3]] and commercial radio channel [[Radio Nova (Finland)|Radio Nova]] are owned by Nordic Broadcasting ([[Bonnier Group|Bonnier]] and Proventus Industrier).
+
+{{As of|2007}}, around 79% of the Finnish population uses the Internet.<ref>{{cite web |url=http://www.stat.fi/til/sutivi/2007/sutivi_2007_2007-09-28_tie_001_en.html | title=Internet used by 79 per cent of the population at the beginning of 2007 |work=Statistics Finland |accessdate=22 December 2007}}</ref> Finland had around 1.52 million broadband Internet connections by the end of June 2007 or around 287 per 1,000 inhabitants.<ref name="FICORA">{{cite web|url=http://www.ficora.fi/attachments/englanti/5ruZDB5VP/Files/CurrentFile/Market_review_2_2007.pdf |title=Market Review 2/2007 |work=Finnish Communications Regulatory Authority (FICORA) |date=31 August 2007 |accessdate=4 September 2007 |format=PDF |deadurl=yes |archiveurl=https://web.archive.org/20070925220234/http://www.ficora.fi/attachments/englanti/5ruZDB5VP/Files/CurrentFile/Market_review_2_2007.pdf |archivedate=25 September 2007 }}</ref> All Finnish schools and public libraries have Internet connections and computers, and most residents have a mobile phone. [[Value-added service]]s are rare.<ref>{{cite web|url=http://www.tilastokeskus.fi/ajk/tiedotteet/v2006/tiedote_017_2006-09-05_en.html |title=Information technology has become part of Finns' everyday life |publisher=Tilastokeskus.fi |accessdate=17 February 2014}}</ref> In October 2009, Finland's Ministry of Transport and Communications committed to ensuring that every person in Finland would be able to access the Internet at a minimum speed of one [[Data rate units#Decimal multiples of bits|megabit-per-second]] beginning July 2010.<ref>{{cite web |url=http://yle.fi/uutiset/1mb_broadband_access_becomes_legal_right/1080940 |title=1Mb Broadband Access Becomes Legal Right |work=[[YLE]] |date=14 October 2009 |accessdate=16 October 2009}}</ref>
+
+===Sports===
+{{Main|Sport in Helsinki}}
+[[File:2005 World Championships in Athletics 2.jpg|right|thumb|The [[Helsinki Olympic Stadium]] was the centre of activities during the [[1952 Summer Olympics]].]]
+
+Helsinki has a long tradition of sports: the city gained much of its initial international recognition during the [[1952 Summer Olympics]], and the city has arranged sporting events such as the first [[IAAF World Championships in Athletics|World Championships in Athletics]] 1983 and 2005, and the European Championships in Athletics 1971, 1994, and 2012. Helsinki hosts successful local teams in both of the most popular team sports in Finland: [[association football|football]] and [[ice hockey]]. Helsinki houses [[HJK Helsinki]], Finland's largest and most successful football club, and [[HIFK Fotboll|IFK Helsingfors]], their local rivals with 7 championship titles. The fixtures between the two are commonly known as [[Stadin derby]]. Helsinki's track and field club Helsingin Kisa-Veikot is also dominant within Finland. Ice hockey is popular among many Helsinki residents, who usually support either of the local clubs [[HIFK (ice hockey)|IFK Helsingfors]] (HIFK) or [[Jokerit]]. HIFK, with 14 Finnish championships titles, also plays in the highest [[bandy]] division,<ref>Video from the Finnish final 2009 against OLS from [[Oulu]]: [https://www.youtube.com/watch?v=Hn-j0t5yxIE&feature=related Youtube.com]</ref> along with [[Botnia−69]]. The Olympic stadium hosted the first ever [[Bandy World Championship]] in 1957.<ref>{{cite web|url=http://www.finbandy.fi/info.htm |title=The Finnish Bandy Federation |accessdate=2 April 2016}}</ref>
+
+Helsinki was elected host-city of the 1940 Summer Olympics, but due to World War II they were canceled. Instead Helsinki was the host of the 1952 Summer Olympics. The Olympics were a landmark event symbolically and economically for Helsinki and Finland as a whole that was recovering from the winter war and the continuation war fought with the Soviet Union. Helsinki was also in 1983 the first ever city to host the World Championships in Athletics. Helsinki also hosted the event in 2005, thus also becoming the first city to ever host the Championships for a second time. The Helsinki City Marathon has been held in the city every year since 1980, usually in August. A Formula 3000 race through the city streets was held on 25 May 1997. In 2009 Helsinki was host of the [[European Figure Skating Championships]].
+
+==Transport==
+
+===Roads===
+[[File:Helsinki region roads.jpg|thumb|right|Helsinki region roads]]
+The backbone of Helsinki's motorway network consists of three [[semicircle|semicircular]] ring roads, [[Ring I]], [[Ring II]], and [[Ring III]], which connect expressways heading to other parts of Finland, and the western and eastern arteries of ''[[Länsiväylä]]'' and ''[[Itäväylä]]'' respectively.  While variants of a ''Keskustatunneli'' tunnel under the city centre have been repeatedly proposed, {{As of|2015|lc=y}} the plan remains on the drawing board.
+
+Helsinki has some 390 cars per 1000 inhabitants.<ref>[http://www.hel2.fi/tietoa/helbro1.pdf ] {{wayback|url=http://www.hel2.fi/tietoa/helbro1.pdf |date=20111211115004 }}</ref> This is less than in cities of similar population and construction density, such as [[Brussels]]' 483 per 1000, [[Stockholm]]'s 401, and [[Oslo]]'s 413.<ref>{{cite web|url=http://www.eaue.de/Promode/Runge.pdf |title=Runge |publisher=European Academy of the Urban Environment |format=PDF |accessdate=17 February 2014}}</ref><ref>{{cite web|url=http://www.hel.fi/hel2/tietokeskus/suunnat/ss405/suunnatframe2.html |title=Tietokeskus: suunnatframe |publisher=Hel2.fi |accessdate=8 July 2009}}</ref>
+
+===Rail transport and buses===
+{{Main|Public transport in Helsinki}}
+[[File:Metro Helsinki Kulosaari Train.JPG|thumb|left|The [[Helsinki Metro]] with its characteristic bright orange trains is the world's northernmost subway]]
+[[File:Helsinki Railway Station 20050604.jpg|thumb|[[Helsinki Central railway station|Central railway station]]]]
+Public transport is generally a hotly debated subject in the local politics of Helsinki. In the Helsinki metropolitan area, [[public transport]]ation is managed by the [[Helsinki Regional Transport Authority]], the metropolitan area transportation authority. The diverse [[Public transport in Helsinki|public transport system]] consists of [[Helsinki tram|trams]], [[VR commuter rail|commuter rail]], the [[Helsinki Metro|metro]], [[bus]] lines, two [[ferry]] lines, and on-demand minibuses.<ref>{{cite web|url=http://www.wired.com/2013/10/on-demand-public-transit/|title=New Helsinki Bus Line Lets You Choose Your Own Route|last=Barry|first=Keith|date=10 November 2013|publisher=Wired|accessdate=4 April 2014}}</ref>
+
+Today, Helsinki is the only city in Finland to have trams or a metro system. There used to be two other cities in Finland with trams: [[Turku]] and [[Viipuri]] (Vyborg, now in Russia), but both have since abandoned them. The [[Helsinki Metro]], opened in 1982, is the only rapid transit system in Finland. In 2006, the construction of the long debated [[Länsimetro|extension]] of the metro into Western Helsinki and [[Espoo]] was approved, and serious debate about an eastern extension into [[Sipoo]] has taken place.<ref name=lansimetrofi>{{cite web|url=http://www.lansimetro.fi/ |title=Länsimetro rakentaa tulevaisuutta turvallisesti |publisher=Lansimetro.fi |accessdate=17 February 2014}}</ref>
+
+Helsinki's metro system currently consists of 17 stations, with six of them being underground.<ref>https://www.hsl.fi/en/timetables-and-routes/metro-and-tram-routes</ref> Once the expansion into Western Helsinki and Espoo is completed in August 2016, seven new metro stations will be opened, with all of them being underground.<ref>http://www.railway-technology.com/projects/helsinki-metro/</ref> 
+
+The possibility of a [[Helsinki to Tallinn Tunnel]] is currently being researched.{{citation needed|date=May 2015}} The rail tunnel would connect Helsinki to the [[Estonia]]n capital [[Tallinn]], further linking Helsinki to the rest of continental Europe by [[Rail Baltica]].
+
+===Aviation===
+[[File:Hernesaaren helikopterikenttä ilmasta.jpg|thumb|left|[[Hernesaari Heliport]], next to [[West Harbour, Helsinki|West Harbour]] used by cruiseliners]]
+Air traffic is handled primarily from the international [[Helsinki Airport]], located approximately {{convert|17|km|mi|0}} north of Helsinki's downtown area, in the neighbouring city of [[Vantaa]]. Helsinki's own airport, [[Helsinki-Malmi Airport]], is mainly used for general and private aviation. Helicopter flights to Tallinn are available from [[Hernesaari Heliport]].
+
+===Sea transport===
+[[File:Helsinkimerelta--GFDL--.jpg|thumb|The [[South Harbour, Helsinki|South Harbour]]]]
+Like many other cities of the world, Helsinki had been deliberately founded next to the sea. The city therefore was able to benefit from good sea transportation links right from the start. The freezing of the sea imposed limitations on sea traffic up to the end of the 19th century. But for the last hundred years, the routes leading to Helsinki have been kept open even in winter with the aid of [[icebreaker]]s, many of them built in the Helsinki Hietalahti shipyard. The arrival and departure of ships has also been a part of everyday life in Helsinki. Regular route traffic from Helsinki to Stockholm, Tallinn, and St. Petersburg began as far back as 1837. Over 300 cruise ships and 360,000 cruise passengers visit Helsinki annually. There are international cruise ship docks in South Harbour, Katajanokka, West Harbour, and Hernesaari. Helsinki is the second busiest passenger port in Europe with approximately 11 million passengers in 2013.<ref>{{cite web|title=Helsinki port|url=http://www.iltasanomat.fi/kotimaa/art-1288689888898.html}}</ref> Ferry connections to [[Tallinn]], [[Mariehamn]], and [[Stockholm]] are serviced by various companies. [[Finnlines]] passenger-freight ferries to [[Gdynia]], Poland; [[Travemünde]], Germany; and [[Rostock]], Germany are also available. [[St Peter Line]] offers passenger ferry service to [[Saint Petersburg]] several times a week.
+
+==International relations==
+{{See also|List of twin towns and sister cities in Finland}}
+
+===Special partnership cities===
+Helsinki has a special partnership relation with:
+*{{flagicon|PRC}} [[Beijing]], China ''(since 2006)''<ref name="Beijing&nbsp;— Helsinki twinning">{{cite web|url=http://www.gov.cn/misc/2006-07/14/content_336339.htm|title=Beijing, Helsinki forge sister city relationship|accessdate=5 August 2013|last= Yan|first= Yangtze|date = 14 July 2006 |website=Gov.cn |publisher=Chinese Government}}</ref><ref name="Beijing twinnings">{{cite web|url=http://www.ebeijing.gov.cn/Sister_Cities/Sister_City/|title=Sister Cities|publisher=Beijing Municipal Government|accessdate=23 June 2009}}</ref><ref name="partner-cities">{{cite web|url=http://www.hel.fi/hki/Kansainvalinen/en/Partners+and+Networks|title=Partners and Networks|work=Hel.fi (international section)|publisher=City of Helsinki|accessdate=26 February 2015}}</ref>
+*{{flagicon|DEN}} [[Copenhagen]], Denmark<ref name="partner-cities"/>
+*{{flagicon|RUS}} [[Moscow]], Russia<ref name="partner-cities"/>
+*{{flagicon|GBR}} [[London]], United Kingdom<ref name="partner-cities"/>
+*{{flagicon|CZE}} [[Prague]], Czech Republic<ref name="Prague twinnings">{{cite web|url=http://zahranicnivztahy.praha.eu/jnp/cz/partnerska_mesta/index.html#|title=Partnerská města HMP|accessdate=2013-08-05|date=2013-07-18|work = Portál „Zahraniční vztahy“ [Portal "Foreign Affairs"]|language=Czech|trans_title=Prague – Twin Cities HMP|archiveurl=https://web.archive.org/web/20130625205859/http://zahranicnivztahy.praha.eu/jnp/cz/partnerska_mesta/index.html|archivedate =2013-06-25}}</ref>
+*{{flagicon|SWE}} [[Stockholm]], Sweden<ref name="partner-cities"/>
+*{{flagicon|IRN}} [[Tehran]], Iran<ref name="partner-cities"/>
+*{{flagicon|IND}} [[New Delhi]], India<ref name="partner-cities"/>
+
+== References ==
+; Citations
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Sister project links|voy=Helsinki|Helsinki}}
+*{{official website|http://www.hel.fi/www/helsinki/en}}
+*[http://www.visithelsinki.fi/ Visithelsinki.fi&nbsp;– Official tourism website of Helsinki]
+
+{{Inline audio}}
+{{S-start}}
+{{S-bef|before=[[Athens|Athens, Greece]] [[Eurovision Song Contest 2006|2006]]}}
+{{S-ttl|title=[[Eurovision Song Contest|Eurovision Song Contest Hosts]] [[Eurovision Song Contest 2007|Helsinki]]|years=[[Eurovision Song Contest 2007|2007]]}}
+{{S-aft|after=[[Belgrade|Belgrade, Serbia]] [[Eurovision Song Contest 2008|2008]]}}
+{{S-end}}
+
+{{S-start}}
+{{S-bef|before=[[Lausanne]], [[Switzerland]] (2011)}}
+{{S-ttl|title=[[World Gymnaestrada]] host city|years=2015}}
+{{S-aft|after=''[[Dornbirn]], [[Austria]] (2019)''}}
+{{S-end}}
+
+{{navboxes|title=Articles related to Helsinki|list=
+{{Helsinki}}
+{{Helsinki Cityscape}}
+{{uusimaa}}
+{{List of European capitals by region}}
+{{Capital cities of the European Union}}
+{{50 most populous Nordic urban settlements}}
+{{European Capital of Culture}}
+{{Olympic Summer Games Host Cities}}
+{{IAAF World Championships in Athletics Host cities}}
+{{Eurovision Song Contest}}
+}}
+
+{{Use dmy dates|date=August 2015}}
+
+{{Authority control}}
+
+[[Category:Helsinki| ]]
+[[Category:Capitals in Europe]]
+[[Category:Cities and towns in Finland]]
+[[Category:Grand Duchy of Finland]]
+[[Category:Municipalities of Uusimaa]]
+[[Category:Port cities and towns in Finland]]
+[[Category:Port cities and towns of the Baltic Sea]]
+[[Category:Populated coastal places in Finland]]
+[[Category:Populated places established in 1550]]
+[[Category:1550 establishments in Europe]]
+[[Category:Cities that share names with diseases or illnesses]]

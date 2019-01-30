@@ -1,0 +1,483 @@
+HTML
+
+{{redirect2|.htm|.html||HTM (disambiguation)}}
+{{selfref|For the use of HTML on Wikipedia, see [[Help:HTML in wikitext]].}}
+{{Infobox file format
+| name                   = HTML<br />{{small|{{nowrap|(HyperText Markup Language)}}}}
+| icon                   = [[File:HTML.svg|200px]]
+|_noextcode = on
+| extension              = {{unbulleted list|<code>.html</code>|<code>.htm</code>}}
+| mime                   = text/html
+| type code              = TEXT
+| uniform type           = 
+| conforms to            = 
+| developer              = [[World Wide Web Consortium|W3C]] & [[WHATWG]]
+| released               = {{Start date and age|1993|df=yes}}
+| latest release version = [[HTML5|5.0]] / 5.1 <small>(working draft)</small>
+| latest release date    = {{Start date and age|2014|10|28|df=yes}}
+| genre                  = [[Document file format]]
+| container for          = 
+| contained by           = 
+| extended from          = [[Standard Generalized Markup Language|SGML]]
+| extended to            = [[XHTML]]
+| standard               = {{unbulleted list|ISO/IEC 15445|[http://www.w3.org/TR/html/ W3C HTML5]|[http://whatwg.org/html HTML Living Standard]|[http://www.w3.org/TR/html51/ W3C HTML 5.1]}}
+| free                   = Yes
+| url                    = {{unbulleted list|{{URL|http://www.w3.org/html/}}|{{URL|https://whatwg.org/}}}}
+|icon_size = 120px}}
+{{HTML}}
+
+'''HyperText Markup Language''', commonly abbreviated as '''HTML''', is the standard [[markup language]] used to create [[web page]]s. Along with [[Cascading Style Sheets|CSS]], and [[JavaScript]], HTML is a cornerstone technology used to create web pages,<ref>{{cite book|last1=Flanagan|first1=David|title=JavaScript - The definitive guide|page=1|edition=6|quote=JavaScript is part of the triad of technologies that all Web developers must learn: HTML to specify the content of web pages, CSS to specify the presentation of web pages, and JavaScript to specify the behaviour of web pages.}}</ref> as well as to create user interfaces for mobile and [[web applications]]. [[Web browser]]s can read HTML files and render them into visible or audible web pages. HTML describes the structure of a [[website]] [[semantic]]ally and, before the advent of Cascading Style Sheets (CSS), included cues for the presentation or appearance of the document (web page), making it a markup language, rather than a [[programming language]].
+
+[[HTML element]]s form the building blocks of HTML pages. HTML allows [[Img (HTML element)|images]] and other objects to be embedded and it can be used to create [[Fieldset|interactive forms]]. It provides a means to create [[structured document]]s by denoting structural [[semantics]] for text such as headings, paragraphs, lists, [[Hyperlink|links]], quotes and other items. HTML elements are delineated by ''tags'', written using [[Bracket#Angle brackets|angle brackets]]. Tags such as {{tag|img|single}} and {{tag|input|single}} introduce content into the page directly. Others such as {{tag|p}} surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
+
+HTML can embed [[scripting language|scripts]] written in languages such as [[JavaScript]] which affect the behavior of HTML web pages. HTML markup can also refer the browser to [[Cascading Style Sheets]] (CSS) to define the look and layout of text and other material. The [[World Wide Web Consortium]] (W3C), maintainer of both the HTML and the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.<ref name="deprecated">{{cite web|url=http://www.w3.org/TR/REC-html40-971218/conform.html#deprecated |title=HTML 4.0 Specification — W3C Recommendation — Conformance: requirements and recommendations |publisher=World Wide Web Consortium |date=December 18, 1997 |accessdate=July 6, 2015}}</ref>
+
+==History==
+[[File:Old HTML Logo.svg|100px||thumb|right|The historic logo made by the W3C]]
+[[File:HTML Example Code.png|400px|thumb|right|An example website written in HTML Code]]
+
+===Development===
+[[File:Tim Berners-Lee April 2009.jpg|thumb|right|upright| [[Tim Berners-Lee]]  ]]
+
+In 1980, physicist [[Tim Berners-Lee]], then a contractor at [[CERN]], proposed and prototyped [[ENQUIRE]], a  system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an [[Internet]]-based [[hypertext]] system.<ref>Tim Berners-Lee, "Information Management: A Proposal." CERN (March 1989, May 1990). [http://www.w3.org/History/1989/proposal.html W3.org]</ref> Berners-Lee specified HTML and wrote the browser and server software in late 1990. That year, Berners-Lee and CERN data systems engineer [[Robert Cailliau]] collaborated on a joint request for funding, but the project was not formally adopted by CERN. In his personal notes<ref>Tim Berners-Lee, [http://www.w3.org/DesignIssues/ "Design Issues"]</ref> from 1990 he listed<ref>Tim Berners-Lee,  [http://www.w3.org/DesignIssues/Uses.html "Design Issues"]</ref> "some of the many areas in which hypertext is used" and put an encyclopedia first.
+
+The first publicly available description of HTML was a document called "HTML Tags", first mentioned on the Internet by Tim Berners-Lee in late 1991.<ref name="tagshtml" /><ref>{{cite web|url=http://lists.w3.org/Archives/Public/www-talk/1991SepOct/0003.html|title=First mention of HTML Tags on the www-talk mailing list|publisher=World Wide Web Consortium|date=October 29, 1991|accessdate=April 8, 2007}}</ref> It describes 18 elements comprising the initial, relatively simple design of HTML. Except for the hyperlink tag, these were strongly influenced by [[SGMLguid]], an in-house [[Standard Generalized Markup Language]] (SGML)-based documentation format at CERN. Eleven of these elements still exist in HTML 4.<ref>{{cite web|url=http://www.w3.org/TR/1999/REC-html401-19991224/index/elements|title=Index of elements in HTML 4|publisher=World Wide Web Consortium|date=December 24, 1999|accessdate=April 8, 2007}}</ref>
+
+HTML is a [[markup language]] that [[web browser]]s use to interpret and [[Typesetting|compose]] text, images, and other material into visual or audible web pages. Default characteristics for every item of HTML markup are defined in the browser, and these characteristics can be altered or enhanced by the web page designer's additional use of [[Cascading Style Sheets|CSS]]. Many of the text elements are found in the 1988 ISO technical report TR 9537 ''Techniques for using SGML'', which in turn covers the features of early text formatting languages such as that used by the [[TYPSET and RUNOFF|RUNOFF command]] developed in the early 1960s for the [[Compatible Time-Sharing System|CTSS]] (Compatible Time-Sharing System) operating system: these formatting commands were derived from the commands used by typesetters to manually format documents. However, the SGML concept of generalized markup is based on elements (nested annotated ranges with attributes) rather than merely print effects, with also the separation of structure and markup; HTML has been progressively moved in this direction with CSS.
+
+Berners-Lee considered HTML to be an application of SGML. It was formally defined as such by the [[Internet Engineering Task Force]] (IETF) with the mid-1993 publication of the first proposal for an HTML specification: [http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt "Hypertext Markup Language (HTML)" Internet-Draft] by Berners-Lee and [[Dan Connolly (computer scientist)|Dan Connolly]], which included an SGML [[Document Type Definition]] to define the grammar.<ref>{{cite web|url=http://lists.w3.org/Archives/Public/www-talk/1991NovDec/0020.html|title=Re: SGML/HTML docs, X Browser (archived www-talk mailing list post)|author=Tim Berners-Lee|date=December 9, 1991|accessdate=June 16, 2007|quote=SGML is very general. HTML is a specific application of the SGML basic syntax applied to hypertext documents with simple structure.}}</ref> The draft expired after six months, but was notable for its acknowledgment of the [[Mosaic (web browser)|NCSA Mosaic]] browser's custom tag for embedding in-line images, reflecting the IETF's philosophy of basing standards on successful prototypes.<ref name="raymond">{{cite book|url=http://www.faqs.org/docs/artu/|chapterurl=http://www.faqs.org/docs/artu/ietf_process.html|title=The Art of Unix Programming|last=Raymond|first=Eric|chapter=IETF and the RFC Standards Process|quote=In IETF tradition, standards have to arise from experience with a working prototype implementation&nbsp;— but once they become standards, code that does not conform to them is considered broken and mercilessly scrapped. ...Internet-Drafts are not specifications; software implementers and vendors are specifically barred from claiming compliance with them as if they were specifications. Internet-Drafts are focal points for discussion, usually in a working group... Once an Internet-Draft has been published with an RFC number, it is a specification to which implementers may claim conformance. It is expected that the authors of the RFC and the community at large will begin correcting the specification with field experience.}}</ref> Similarly, [[Dave Raggett]]'s competing Internet-Draft, "HTML+ (Hypertext Markup Format)", from late 1993, suggested standardizing already-implemented features like tables and fill-out forms.<ref name="html+">{{cite web|url=https://datatracker.ietf.org/public/idindex.cgi?command=id_detail&id=789 |title=HTML+ Internet-Draft&nbsp;— Abstract |quote=Browser writers are experimenting with extensions to HTML and it is now appropriate to draw these ideas together into a revised document format. The new format is designed to allow a gradual roll over from HTML, adding features like tables, captioned figures and fill-out forms for querying remote databases or mailing questionnaires. |deadurl=yes |archiveurl=https://web.archive.org/20121221062856/https://datatracker.ietf.org/public/idindex.cgi?command=id_detail&id=789 |archivedate=21 December 2012 }}</ref>
+
+After the HTML and HTML+ drafts expired in early 1994, the IETF created an HTML Working Group, which in 1995 completed "HTML 2.0", the first HTML specification intended to be treated as a standard against which future implementations should be based.<ref>{{cite web |first1=Tim |last1=Berners-Lee |first2=Daniel |last2=Connelly |url=http://tools.ietf.org/html/rfc1866 |title=RFC 1866 – Hypertext Markup Language – 2.0 |publisher=Internet Engineering Task Force |date=November 1995 |accessdate=1 December 2010 |quote=This document thus defines an HTML 2.0 (to distinguish it from the previous informal specifications). Future (generally upwardly compatible) versions of HTML with new features will be released with higher version numbers.}}</ref>
+
+Further development under the auspices of the IETF was stalled by competing interests. Since 1996, the HTML specifications have been maintained, with input from commercial software vendors, by the [[World Wide Web Consortium]] (W3C).<ref name="raggett">{{cite book|first=Dave|last=Raggett|title=Raggett on HTML 4|year=1998|url=http://www.w3.org/People/Raggett/book4/ch02.html|accessdate=July 9, 2007}}</ref> However, in 2000, HTML also became an international standard ([[International Organization for Standardization|ISO]]/[[International Electrotechnical Commission|IEC]] 15445:2000).  HTML 4.01 was published in late 1999, with further errata published through 2001.  In 2004, development began on HTML5 in the [[Web Hypertext Application Technology Working Group]] (WHATWG), which became a joint deliverable with the W3C in 2008, and completed and standardized on 28 October 2014.<ref>{{cite web|url= http://www.w3.org/2014/10/html5-rec.html.en |title=HTML5 – Hypertext Markup Language – 5.0 |publisher=Internet Engineering Task Force |date=28 October 2014 |accessdate=25 November 2014 |quote=This document recommends HTML 5.0 after completion.}}</ref>
+
+===HTML versions timeline===
+; November 24, 1995: HTML 2.0 was published as IETF RFC 1866. Supplemental [[Request for Comments|RFC]]s added capabilities:
+:* November 25, 1995: RFC 1867 (form-based file upload)
+:* May 1996: RFC 1942 (tables)
+:* August 1996: RFC 1980 (client-side image maps)
+:* January 1997: RFC 2070 ([[internationalization and localization|internationalization]])
+
+; January 14, 1997: HTML 3.2<ref>{{cite web |url=http://www.w3.org/TR/REC-html32 |title=HTML 3.2 Reference Specification |publisher=World Wide Web Consortium |date=January 14, 1997 |accessdate=November 16, 2008}}</ref> was published as a [[W3C Recommendation]]. It was the first version developed and standardized exclusively by the W3C, as the IETF had closed its HTML Working Group on September 12, 1996.<ref>{{cite web
+|url=http://www.w3.org/MarkUp/HTML-WG/
+|title=IETF HTML WG
+|accessdate=June 16, 2007
+|quote=Note: This working group is closed}}</ref>
+:Initially code-named "Wilbur",<ref name="engelfriet" /> HTML 3.2 dropped math formulas entirely, reconciled overlap among various proprietary extensions and adopted most of [[Netscape]]'s visual markup tags. Netscape's [[blink element]] and [[Microsoft]]'s [[marquee element]] were omitted due to a mutual agreement between the two companies.<ref name="raggett"/> A markup for mathematical formulas similar to that in HTML was not standardized until 14 months later in [[MathML]].
+; December 18, 1997: HTML 4.0<ref>{{cite web  |url=http://www.w3.org/TR/REC-html40-971218/ |title=HTML 4.0 Specification |publisher=World Wide Web Consortium |date=December 18, 1997 |accessdate=November 16, 2008}}</ref> was published as a W3C Recommendation. It offers three variations:
+:* Strict, in which deprecated elements are forbidden
+:* Transitional, in which deprecated elements are allowed
+:* Frameset, in which mostly only [[Framing (World Wide Web)|frame]] related elements are allowed.
+:Initially code-named "Cougar",<ref name="engelfriet">{{cite web
+|url=http://htmlhelp.com/reference/wilbur/intro.html
+|title=Introduction to Wilbur
+|author=Arnoud Engelfriet
+|publisher=Web Design Group
+|accessdate=June 16, 2007}}</ref> HTML 4.0 adopted many browser-specific element types and attributes, but at the same time sought to phase out Netscape's visual markup features by marking them as [[deprecation|deprecated]] in favor of style sheets. HTML 4 is an SGML application conforming to ISO 8879&nbsp;– SGML.<ref>{{cite web |url=http://www.w3.org/TR/html4/conform.html#h-4.2 |title=HTML 4 – 4 Conformance: requirements and recommendations |accessdate=December 30, 2009}}</ref>
+; April 24, 1998: HTML 4.0<ref>{{cite web  |url=http://www.w3.org/TR/1998/REC-html40-19980424/ |title=HTML 4.0 Specification |publisher=World Wide Web Consortium |date=April 24, 1998 |accessdate=November 16, 2008}}</ref> was reissued with minor edits without incrementing the version number.
+; December 24, 1999: HTML 4.01<ref>{{cite web  |url=http://www.w3.org/TR/html401/ |title=HTML 4.01 Specification |publisher=World Wide Web Consortium |date=December 24, 1999 |accessdate=November 16, 2008}}</ref> was published as a W3C Recommendation. It offers the same three variations as HTML 4.0 and its last [http://www.w3.org/MarkUp/html4-updates/errata errata] were published on May 12, 2001.
+; May 2000: ISO/IEC 15445:2000<ref name="iso-html">{{cite web |url=http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=27688 |title=ISO/IEC 15445:2000 – Information technology – Document description and processing languages – HyperText Markup Language (HTML) |author=ISO |year=2000 |accessdate=December 26, 2009}}</ref><ref>[https://www.cs.tcd.ie/15445/15445.HTML Cs.Tcd.Ie]. Cs.Tcd.Ie (2000-05-15). Retrieved on 2012-02-16.</ref> ("[[International Organization for Standardization|ISO]] HTML", based on HTML 4.01 Strict) was published as an ISO/IEC international standard. In the ISO this standard falls in the domain of the [[ISO/IEC JTC1/SC34]] (ISO/IEC Joint Technical Committee 1, Subcommittee 34&nbsp;– Document description and processing languages).<ref name="iso-html" />
+: After HTML 4.01, there was no new version of HTML for many years as development of the parallel, XML-based language XHTML occupied the W3C's HTML Working Group through the early and mid-2000s.
+;October 28, 2014: HTML5<ref>{{cite web |url=http://www.w3.org/TR/2014/REC-html5-20141028/ |title=HTML5: A vocabulary and associated APIs for HTML and XHTML |publisher=World Wide Web Consortium |date=28 October 2014 |accessdate=31 October 2014 }}</ref> was published as a W3C Recommendation.<ref>{{cite press release |url=http://www.w3.org/2014/10/html5-rec.html.en |title=Open Web Platform Milestone Achieved with HTML5 Recommendation |publisher=World Wide Web Consortium |date=28 October 2014 |accessdate=31 October 2014 }}</ref>
+
+====HTML draft version timeline====
+[[File:HTML5-logo.svg|thumb|right|200px|Logo of HTML5]]
+; October 1991: ''HTML Tags'',<ref name="tagshtml" /> an informal CERN document listing 18 HTML tags, was first mentioned in public.
+; June 1992: First informal draft of the HTML DTD,<ref>{{cite web|last=Connolly|first=Daniel|title=MIME as a hypertext architecture|url=http://lists.w3.org/Archives/Public/www-talk/1992MayJun/0020.html|publisher=CERN|accessdate=24 October 2010|authorlink=Dan Connolly (computer scientist)|date=6 June 1992}}</ref> with seven<ref>{{cite web|last=Connolly|first=Daniel|title=HTML DTD enclosed|url=http://lists.w3.org/Archives/Public/www-talk/1992JulAug/0020.html|publisher=CERN|accessdate=24 October 2010|authorlink=Dan Connolly (computer scientist)|date=15 July 1992}}</ref><ref>{{cite web|last=Connolly|first=Daniel|title=document type declaration subset for Hyper Text Markup Language as defined by the World Wide Web project|url=http://lost-contact.mit.edu/afs/cern.ch/w3.org/www/Frame/fminit2.0/html.dtd|publisher=CERN|accessdate=24 October 2010|authorlink=Dan Connolly (computer scientist)|date=18 August 1992}}</ref><ref name="html11">{{cite web|last=Connolly|first=Daniel|title=Document Type Definition for the Hyper Text Markup Language as used by the World Wide Web application|url=http://lost-contact.mit.edu/afs/cern.ch/w3.org/www/MarkUp/Connolly/921125/archive.sh#html.dtd|publisher=CERN|accessdate=24 October 2010|authorlink=Dan Connolly (computer scientist)|date=24 November 1992}} See section "Revision History"</ref> subsequent revisions (July 15, August 6, August 18, November 17, November 19, November 20, November 22)
+; November 1992: HTML DTD 1.1 (the first with a version number, based on RCS revisions, which start with 1.1 rather than 1.0), an informal draft<ref name="html11"/>
+; June 1993: Hypertext Markup Language<ref>{{cite web|last=Berners-Lee|first=Tim|title=Hyper Text Markup Language (HTML) Internet Draft version 1.1|url=http://tools.ietf.org/html/draft-ietf-iiir-html-00|publisher=IETF IIIR Working Group|accessdate=18 September 2010|authorlink=Tim Berners-Lee|first2=Daniel|last2=Connolly|authorlink2=Dan Connolly (computer scientist)|date=June 1993}}</ref> was published by the [[Internet Engineering Task Force|IETF]] IIIR Working Group as an Internet Draft (a rough proposal for a standard). It was replaced by a second version<ref name="ietfiiir">{{cite web|last=Berners-Lee|first=Tim|title=Hypertext Markup Language (HTML) Internet Draft version 1.2|url=http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt|publisher=IETF IIIR Working Group|accessdate=18 September 2010|authorlink=Tim Berners-Lee|first2=Daniel|last2=Connolly|authorlink2=Dan Connolly (computer scientist)|date=June 1993}}</ref> one month later, followed by six further drafts published by IETF itself<ref>{{cite web|last=Berners-Lee|first=Tim|title=HyperText Markup Language Specification – 2.0 INTERNET DRAFT|url=http://tools.ietf.org/html/draft-ietf-html-spec-00|publisher=IETF|accessdate=24 October 2010|authorlink=Tim Berners-Lee|first2=Daniel|last2=Connolly|authorlink2=Dan Connolly (computer scientist)|date=28 November 1994}}</ref> that finally led to HTML 2.0 in RFC 1866.
+; November 1993: HTML+ was published by the IETF as an Internet Draft and was a competing proposal to the Hypertext Markup Language draft. It expired in May 1994.
+; April 1995 (authored March 1995): HTML 3.0<ref>{{cite web|url=http://www.w3.org/MarkUp/html3/ |title=HTML 3.0 Draft (Expired!) Materials |publisher=World Wide Web Consortium |date=December 21, 1995 |accessdate=November 16, 2008}}</ref> was proposed as a standard to the IETF, but the proposal expired five months later (28 September 1995)<ref name=html30cover /> without further action. It included many of the capabilities that were in Raggett's HTML+ proposal, such as support for tables, text flow around figures and the display of complex mathematical formulas.<ref name=html30cover>{{cite web
+|url=http://www.w3.org/MarkUp/html3/CoverPage
+|title=HyperText Markup Language Specification Version 3.0
+|accessdate=June 16, 2007}}</ref>
+:W3C began development of its own [[Arena (web browser)|Arena browser]] as a [[test bed]] for HTML 3 and Cascading Style Sheets,<ref>{{cite web|url=http://www.w3.org/People/Raggett/html3/html3.txt|title=HyperText Markup Language Specification Version 3.0|last=Raggett|first=Dave|date=28 March 1995|work=HTML 3.0 Internet Draft Expires in six months|publisher=[[World Wide Web Consortium]]|accessdate=17 June 2010}}</ref><ref>{{cite journal|last=Bowers|first=Neil|title=Weblint: Just Another Perl Hack|doi= |url=http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.7191}}</ref><ref>{{cite book|authorlink=Håkon Wium Lie|first=Håkon Wium|last=Lie|last2=Bos|first2=Bert|authorlink2=Bert Bos|title=Cascading style sheets: designing for the Web|url=https://books.google.com/books?id=q0jbAAAAMAAJ|accessdate=9 June 2010|date=April 1997|publisher=Addison Wesley Longman|page=263}}</ref> but HTML 3.0 did not succeed for several reasons. The draft was considered very large at 150 pages and the pace of browser development, as well as the number of interested parties, had outstripped the resources of the IETF.<ref name="raggett" /> Browser vendors, including Microsoft and Netscape at the time, chose to implement different subsets of HTML 3's draft features as well as to introduce their own extensions to it.<ref name="raggett" /> (see [[Browser wars]]). These included extensions to control stylistic aspects of documents, contrary to the "belief [of the academic engineering community] that such things as text color, background texture, font size and font face were definitely outside the scope of a language when their only intent was to specify how a document would be organized."<ref name="raggett" /> Dave Raggett, who has been a W3C Fellow for many years, has commented for example: "To a certain extent, Microsoft built its business on the Web by extending HTML features."<ref name="raggett" />
+; January 2008: [[HTML5]] was published as a [[World Wide Web Consortium#Recommendations and Certifications|Working Draft]] ([http://www.w3.org/TR/html5/ link]) by the W3C.<ref>{{cite web  |url=http://www.w3.org/TR/html5/ |title=HTML5 |publisher=World Wide Web Consortium |date=June 10, 2008 |accessdate=November 16, 2008}}</ref>
+:Although its syntax closely resembles that of [[SGML]], [[HTML5]] has abandoned any attempt to be an SGML application and has explicitly defined its own "html" serialization, in addition to an alternative XML-based XHTML5 serialization.<ref>{{cite web|url=http://www.w3.org/QA/2008/01/html5-is-html-and-xml.html |title=HTML5, one vocabulary, two serializations|accessdate=February 25, 2009}}</ref>
+; 2011&nbsp;HTML5 – Last Call
+:On 14 February 2011, the W3C extended the charter of its HTML Working Group with clear milestones for HTML5. In May 2011, the working group advanced HTML5 to "Last Call", an invitation to communities inside and outside W3C to confirm the technical soundness of the specification. The W3C developed a comprehensive test suite to achieve broad interoperability for the full specification by 2014, which was the target date for recommendation.<ref name="w3c2014">{{cite web
+|url=http://www.w3.org/2011/02/htmlwg-pr.html
+|title=W3C Confirms May 2011 for HTML5 Last Call, Targets 2014 for HTML5 Standard
+|publisher= [[World Wide Web Consortium]]
+|accessdate=18 February 2011
+|date=14 February 2011}}</ref> In January 2011, the WHATWG renamed its "HTML5" living standard to "HTML". The W3C nevertheless continues its project to release HTML5.<ref>{{cite web|url=http://blog.whatwg.org/html-is-the-new-html5 |title=HTML Is the New HTML5|author=Hickson, Ian|accessdate=21 January 2011}}</ref>
+; 2012&nbsp;HTML5 – Candidate Recommendation
+:In July 2012, WHATWG and [[W3C]] decided on a degree of separation. W3C will continue the HTML5 specification work, focusing on a single definitive standard, which is considered as a "snapshot" by WHATWG. The WHATWG organization will continue its work with HTML5 as a "Living Standard". The concept of a living standard is that it is never complete and is always being updated and improved. New features can be added but functionality will not be removed.<ref>{{cite web | url = http://www.netmagazine.com/news/html5-gets-splits-122102 | title = HTML5 gets the splits. | publisher = netmagazine.com | accessdate =23 July 2012 }}</ref>
+:In December 2012, W3C designated HTML5 as a Candidate Recommendation.<ref>{{cite web|url=http://www.w3.org/TR/2012/CR-html5-20121217/ |title=HTML5 |publisher=W3.org |date=2012-12-17 |accessdate=2013-06-15}}</ref> The criterion for advancement to [[W3C recommendation#W3C Recommendation (REC)|W3C Recommendation]] is "two 100% complete and fully interoperable implementations".<ref name="W3Crec">{{cite web
+|url=http://wiki.whatwg.org/wiki/FAQ#What.27s_this_I_hear_about_2022.3F
+|title= When Will HTML5 Be Finished?
+|work=FAQ
+|publisher=WHAT Working Group
+|accessdate=29 November 2009}}</ref><ref>{{cite web | url = http://dev.w3.org/html5/spec/ | title = HTML5: A vocabulary and associated APIs for HTML and XHTML (Editor's Draft). | publisher = [[World Wide Web Consortium]] | accessdate =12 April 2010 }}</ref>
+; 2014&nbsp;HTML5 – Proposed Recommendation and Recommendation
+:In September 2014, W3C moved HTML5 to Proposed Recommendation.<ref>{{cite web|url=http://www.w3.org/blog/news/archives/4074 |title=Call for Review: HTML5 Proposed Recommendation Published W3C News |publisher=W3.org |date=2014-09-16 |accessdate=2014-09-27}}</ref>
+:On 28 October 2014, HTML5 was released as a stable W3C Recommendation,<ref>{{cite web | url=http://www.w3.org/2014/10/html5-rec.html.en | title=Open Web Platform Milestone Achieved with HTML5 Recommendation | publisher=W3C | date=28 October 2014 | accessdate=29 October 2014}}</ref> meaning the specification process is complete.<ref name=finalars>{{cite web | url=http://arstechnica.com/information-technology/2014/10/html5-specification-finalized-squabbling-over-who-writes-the-specs-continues/ | title=HTML5 specification finalized, squabbling over specs continues | publisher=Ars Technica | date=2014-10-29 | accessdate=2014-10-29}}</ref>
+
+====XHTML versions====
+{{Main|XHTML}}
+XHTML is a separate language that began as a reformulation of HTML 4.01 using [[XML]] 1.0. It is no longer being developed as a separate standard.
+* XHTML 1.0,<ref>{{cite web  |url=http://www.w3.org/TR/xhtml1/ |title=XHTML 1.0: The Extensible HyperText Markup Language (Second Edition) |publisher=World Wide Web Consortium |date=January 26, 2000 |accessdate=November 16, 2008}}</ref> published January 26, 2000, as a W3C Recommendation, later revised and republished August 1, 2002. It offers the same three variations as HTML 4.0 and 4.01, reformulated in XML, with minor restrictions.
+* XHTML 1.1,<ref>{{cite web  |url=http://www.w3.org/TR/xhtml11/ |title=XHTML 1.1 – Module-based XHTML&nbsp;— Second Edition |publisher=World Wide Web Consortium |date=February 16, 2007 |accessdate=November 16, 2008}}</ref> published May 31, 2001, as a W3C Recommendation. It is based on XHTML 1.0 Strict, but includes minor changes, can be customized, is reformulated using modules from [http://www.w3.org/TR/xhtml-modularization/ Modularization of XHTML], which was published April 10, 2001, as a W3C Recommendation.
+* XHTML 2.0 was a working draft, but work on it was abandoned in 2009 in favor of work on [[HTML5]] and [[XHTML#XHTML5|XHTML5]].<ref>{{cite web  |url=http://www.w3.org/TR/xhtml2/ |title=XHTM 2.0 |publisher=World Wide Web Consortium |date=July 26, 2006 |accessdate=November 16, 2008}}</ref><ref>{{cite web  |url=http://www.w3.org/News/2009#item119 |title=XHTML 2 Working Group Expected to Stop Work End of 2009, W3C to Increase Resources on HTML5 |publisher=World Wide Web Consortium |date=July 17, 2009 |accessdate=November 16, 2008}}</ref><ref>{{cite web | title=W3C XHTML FAQ | url=http://www.w3.org/2009/06/xhtml-faq.html}}</ref> XHTML 2.0 was incompatible with XHTML 1.x and, therefore, would be more accurately characterized as an XHTML-inspired new language than an update to XHTML 1.x.
+* An XHTML syntax, known as "XHTML5.1", is being defined alongside [[HTML5]] in the HTML5 draft.<ref>{{cite web
+  |url=http://www.w3.org/html/wg/drafts/html/master/introduction.html#html-vs-xhtml
+  |title=HTML5
+  |publisher=[[W3C]]
+  |date=19 October 2013
+}}</ref>
+
+==Markup==
+HTML markup consists of several key components, including those called ''tags'' (and their ''attributes''), character-based ''data types'', ''character references'' and ''entity references''. HTML tags most commonly come in pairs like {{tag|h1|o}} and {{tag|h1|c}}, although some represent ''empty elements'' and so are unpaired, for example {{tag|img|o}}. The first tag in such a pair is the ''start tag'', and the second is the ''end tag'' (they are also called ''opening tags'' and ''closing tags'').
+
+Another important component is the HTML ''[[document type declaration]]'', which triggers [[standards mode]] rendering.
+
+The following is an example of the classic [[Hello world program]], a common test employed for comparing [[programming language]]s, [[scripting language]]s and [[markup language]]s. This example is made using 9 [[lines of code]]:
+<source lang="html5">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
+</source>
+''(The text between {{code|lang=html|code=<html>}} and {{code|lang=html|code=</html>}} describes the web page, and the text between {{code|lang=html|code=<body>}} and {{code|lang=html|code=</body>}} is the visible page content. The markup text <nowiki>"<title>This is a title</title>"</nowiki> defines the browser page title.)''
+
+The Document Type Declaration {{code|lang=html|code=<!DOCTYPE html>}} is for HTML5. If a declaration is not included, various browsers will revert to "[[quirks mode]]" for rendering.<ref name="hsivonen">[http://hsivonen.iki.fi/doctype/ Activating Browser Modes with Doctype]. Hsivonen.iki.fi. Retrieved on 2012-02-16.</ref>
+
+===Elements===
+{{Main|HTML element}}
+HTML documents imply a structure of nested [[HTML element]]s. These are indicated in the document by HTML ''tags'', enclosed in angle brackets thus: {{tag|p|o}}<ref>{{cite web|title=HTML Elements|url=http://www.w3schools.com/html/html_elements.asp|publisher=w3schools|accessdate=16 March 2015}}</ref>
+
+In the simple, general case, the extent of an element is indicated by a pair of tags: a "start tag" {{tag|p|o}} and "end tag" {{tag|p|c}}. The text content of the element, if any, is placed between these tags.
+
+Tags may also enclose further tag markup between the start and end, including a mixture of tags and text. This indicates further (nested) elements, as children of the parent element.
+
+The start tag may also include ''attributes'' within the tag. These indicate other information, such as identifiers for sections within the document, identifiers used to bind style information to the presentation of the document, and for some tags such as the {{tag|img|o}} used to embed images, the reference to the image resource.
+
+Some elements, such as the [[line breaking character|line break]] {{tag|br|o}}, do not permit ''any'' embedded content, either text or further tags. These require only a single empty tag (akin to a start tag) and do not use an end tag.
+
+Many tags, particularly the closing end tag for the very commonly used paragraph element {{tag|p|o}}, are optional. An HTML browser or other agent can infer the closure for the end of an element from the context and the structural rules defined by  the HTML standard. These rules are complex and not widely understood by most HTML coders.
+
+The general form of an '''HTML element''' is therefore:
+{{code|lang=html|code=<tag attribute1="value1" attribute2="value2">''content''</tag>}}. Some HTML elements are defined as ''empty elements'' and take the form {{code|lang=html|code=<tag attribute1="value1" attribute2="value2">}}. Empty elements may enclose no content, for instance, the {{tag|br|o}} tag or the inline {{tag|img|o}} tag.
+The name of an HTML element is the name used in the tags.
+Note that the end tag's name is preceded by a slash character, "/", and that in empty elements the end tag is neither required nor allowed.
+If attributes are not mentioned, default values are used in each case.
+
+====Element examples====
+Header of the HTML document:<head>...</head>. The title is included in the head, for example:
+<source lang="html4strict">
+<head>
+  <title>The Title</title>
+</head>
+</source>
+Headings: HTML headings are defined with the {{tag|h1|o}} to {{tag|h6|o}} tags:
+<source lang="html4strict">
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+</source>
+
+Paragraphs:<source lang="html4strict"><p>Paragraph 1</p>  <p>Paragraph 2</p></source>
+Line breaks:{{tag|br|o}}. The difference between {{tag|br|o}} and {{tag|p|o}} is that "br" [[line breaking character|breaks a line]] without altering the semantic structure of the page, whereas "p" sections the page into [[paragraph]]s. Note also that "br" is an ''empty element'' in that, although it may have attributes, it can take no content and it may not have an end tag.
+<source lang="html4strict"><p>This <br> is a paragraph <br> with <br> line breaks</p></source>
+This is a link in HTML. To create a link the {{tag|a|o}} tag is used. The <code>href=</code> attribute holds the URL address of the link.
+<source lang="html5"><a href="https://www.wikipedia.org/">A link to Wikipedia!</a></source>
+{{Anchor|Comments|comments}}Comments:
+<source lang="html4strict"><!-- This is a comment --></source> Comments can help  in the understanding of the markup and do not display in the webpage.
+
+There are several types of markup elements used in HTML:
+;Structural markup indicates the purpose of text: For example, {{tag|h2|content=Golf}} establishes "Golf" as a second-level [[HTML element#Basic text|heading]]. Structural markup does not denote any specific rendering, but most web browsers have default styles for element formatting. Content may be further styled using [[Cascading Style Sheets]] (CSS).<ref>{{cite web|title=CSS Introduction|url=http://www.w3schools.com/css/css_intro.asp|publisher=W3schools|accessdate=16 March 2015}}</ref>
+;Presentational markup indicates the appearance of the text, regardless of its purpose: For example, {{tag|b|content=boldface}} indicates that visual output devices should render "boldface" in bold text, but gives little indication what devices that are unable to do this (such as aural devices that read the text aloud) should do. In the case of both {{tag|b|content=bold}} and {{tag|i|content=italic}}, there are other elements that may have equivalent visual renderings but that are more semantic in nature, such as {{tag|strong|content=strong text}} and {{tag|em|content=emphasised text}} respectively. It is easier to see how an aural user agent should interpret the latter two elements. However, they are not equivalent to their presentational counterparts: it would be undesirable for a screen-reader to emphasize the name of a book, for instance, but on a screen such a name would be italicized. Most presentational markup elements have become [[Deprecation|deprecated]] under the HTML 4.0 specification in favor of using [[Cascading Style Sheets|CSS]] for styling.
+;Hypertext markup makes parts of a document into links to other documents: An anchor element creates a [[hyperlink]] in the document and its <code>href</code> attribute sets the link's target [[Uniform Resource Locator|URL]]. For example, the HTML markup, {{tag|a|params=href="ht<nowiki />tp://www.google.com/"|content=Wikipedia}}, will render the word "<span class="plainlinks">[http://www.google.com/ Wikipedia]</span>" as a hyperlink. To render an image as a hyperlink, an "img" element is inserted as content into the "a" element. Like "br", "img" is an empty element with attributes but no content or closing tag. {{tag|a|params=href="ht<nowiki />tp://example.org"|content={{tag|img|o|wrap=yes|params=src="image.gif" alt="descriptive text" width="50" height="50" border="0"}}}}.
+
+====Attributes====
+{{main|HTML attribute}}
+Most of the attributes of an element are [[Attribute-value pair|name-value pairs]], separated by "=" and written within the start tag of an element after the element's name. The value may be enclosed in single or double quotes, although values consisting of certain characters can be left unquoted in HTML (but not XHTML) .<ref>{{cite web  |url=http://www.w3.org/TR/html401/intro/sgmltut.html#h-3.2.2 |title=On SGML and HTML |publisher=World Wide Web Consortium |date= |accessdate=November 16, 2008}}</ref><ref>{{cite web  |url=http://www.w3.org/TR/xhtml1/diffs.html#h-4.4 |title=XHTML 1.0 – Differences with HTML&#160;4 |publisher=World Wide Web Consortium |date= |accessdate=November 16, 2008}}</ref> Leaving attribute values unquoted is considered unsafe.<ref>{{cite web |first=Jukka |last=Korpela|url=http://www.cs.tut.fi/~jkorpela/qattr.html |title=Why attribute values should always be quoted in HTML |publisher=Cs.tut.fi |date=July 6, 1998 |accessdate=November 16, 2008}}</ref> In contrast with name-value pair attributes, there are some attributes that affect the element simply by their presence in the start tag of the element,<ref name="tagshtml">{{cite web|url=http://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Tags.html |title=Tags used in HTML |publisher=World Wide Web Consortium |date=November 3, 1992 |accessdate=November 16, 2008}}</ref> like the <code>ismap</code> attribute for the <code>img</code> element.<ref>{{cite web|url=http://www.w3.org/TR/1999/REC-html401-19991224/struct/objects.html#adef-ismap |title=Objects, Images, and Applets in HTML documents |publisher=World Wide Web Consortium |date=December 24, 1999 |accessdate=November 16, 2008}}</ref>
+
+There are several common attributes that may appear in many elements :
+
+* The <code>id</code> attribute provides a document-wide unique identifier for an element. This is used to identify the element so that stylesheets can alter its presentational properties, and scripts may alter, animate or delete its contents or presentation. Appended to the URL of the page, it provides a globally unique identifier for the element, typically a sub-section of the page. For example, the ID "Attributes" in <code><nowiki>http://en.wikipedia.org/wiki/HTML#Attributes</nowiki></code>
+* The <code>class</code> attribute provides a way of classifying similar elements. This can be used for [[semantics|semantic]] or presentation purposes. For example, an HTML document might semantically use the designation <code>class="notation"</code> to indicate that all elements with this class value are subordinate to the main text of the document. In presentation<!-- Presentationally is not a formally accepted word -->, such elements might be gathered together and presented as footnotes on a page instead of appearing in the place where they occur in the HTML source. Class attributes are used semantically in [[microformat]]s. Multiple class values may be specified; for example <code>class="notation important"</code> puts the element into both the "notation" and the "important" classes.
+* An author may use the <code>style</code> attribute to assign presentational properties to a particular element. It is considered better practice to use an element's <code>id</code> or <code>class</code> attributes to select the element from within a [[Cascading Style Sheets|stylesheet]], though sometimes this can be too cumbersome for a simple, specific, or ad hoc styling.
+* The <code>title</code> attribute is used to attach subtextual explanation to an element. In most [[Web browser|browsers]] this attribute is displayed as a [[tooltip]].
+* The <code>lang</code> attribute identifies the natural language of the element's contents, which may be different from that of the rest of the document. For example, in an English-language document:  <source lang="html4strict"><p>Oh well, <span lang="fr">c'est la vie</span>, as they say in France.</p></source>
+
+The abbreviation element, <code>abbr</code>, can be used to demonstrate some of these attributes :
+
+<source lang="html4strict"><abbr id="anId" class="jargon" style="color:purple;" title="Hypertext Markup Language">HTML</abbr></source>
+
+This example displays as <abbr id="anId" class="jargon" style="color:purple;" title="Hypertext Markup Language">HTML</abbr>; in most browsers, pointing the cursor at the abbreviation should display the title text "Hypertext Markup Language."
+
+Most elements take the language-related attribute <code>dir</code> to specify text direction, such as with "rtl" for right-to-left text in, for example, [[Arabic language|Arabic]], [[Persian language|Persian]] or [[Hebrew language|Hebrew]].<ref>{{cite web|title=H56: Using the dir attribute on an inline element to resolve problems with nested directional runs|url=http://www.w3.org/TR/WCAG-TECHS/H56.html|work=Techniques for WCAG 2.0|publisher=W3C|accessdate=18 September 2010}}</ref>
+
+===Character and entity references===
+{{See also|List of XML and HTML character entity references|Unicode and HTML}}
+
+As of version 4.0, HTML defines a set of 252 [[character entity reference]]s and a set of 1,114,050 [[numeric character reference]]s, both of which allow individual characters to be written via simple markup, rather than literally. A literal character and its markup counterpart are considered equivalent and are rendered identically.
+
+The ability to "escape" characters in this way allows for the characters <code>&lt;</code> and <code>&amp;</code> (when written as <code>&amp;lt;</code> and <code>&amp;amp;</code>, respectively) to be interpreted as character data, rather than markup. For example, a literal <code>&lt;</code> normally indicates the start of a tag, and <code>&amp;</code> normally indicates the start of a character entity reference or numeric character reference; writing it as <code>&amp;amp;</code> or <code>&amp;#x26;</code> or <code>&amp;#38;</code> allows <code>&amp;</code> to be included in the content of an element or in the value of an attribute. The double-quote character (<code>"</code>), when not used to quote an attribute value, must also be escaped as <code>&amp;quot;</code> or <code>&amp;#x22;</code> or <code>&amp;#34;</code> when it appears within the attribute value itself. Equivalently, the single-quote character (<code>'</code>), when not used to quote an attribute value, must also be escaped as <code>&amp;#x27;</code> or <code>&amp;#39;</code> (or as <code>&amp;apos;</code> in HTML5 or XHTML documents<ref>{{cite web|url=http://dev.w3.org/html5/html-author/charref |title=Character Entity Reference Chart |publisher=World Wide Web Consortium |date=October 24, 2012}}</ref><ref name="aposhtml">{{cite web|url=http://www.w3.org/TR/xhtml1/#C_16 |title=The Named Character Reference &amp;apos; |publisher=World Wide Web Consortium |date=January 26, 2000}}</ref>) when it appears within the attribute value itself.  If document authors overlook the need to escape such characters, some browsers can be very forgiving and try to use context to guess their intent. The result is still invalid markup, which makes the document less accessible to other browsers and to other [[user agent]]s that may try to parse the document for [[Web crawler|search and indexing]] purposes for example.
+
+Escaping also allows for characters that are not easily typed, or that are not available in the document's [[character encoding]], to be represented within element and attribute content. For example, the acute-accented <code>e</code> (<code>é</code>), a character typically found only on Western European and South American keyboards, can be written in any HTML document as the entity reference <code>&amp;eacute;</code> or as the numeric references <code>&amp;#xE9;</code> or <code>&amp;#233;</code>, using characters that are available on all keyboards and are supported in all character encodings. [[Unicode]] character encodings such as [[UTF-8]] are compatible with all modern browsers and allow direct access to almost all the characters of the world's writing systems.<ref>{{cite web | title = The Unicode Standard: A Technical Introduction | url =http://www.unicode.org/standard/principles.html# | accessdate = 2010-03-16}}</ref>
+
+===Data types===
+HTML defines several [[data type]]s for element content, such as script data and stylesheet data, and a plethora of types for attribute values, including IDs, names, URIs, numbers, units of length, languages, media descriptors, colors, character encodings, dates and times, and so on. All of these data types are specializations of character data.
+
+===Document type declaration===
+HTML documents are required to start with a [[Document Type Declaration]] (informally, a "doctype"). In browsers, the doctype helps to define the rendering mode—particularly whether to use [[quirks mode]].
+
+The original purpose of the doctype was to enable parsing and validation of HTML documents by SGML tools based on the [[Document Type Definition]] (DTD). The DTD to which the DOCTYPE refers contains a machine-readable grammar specifying the permitted and prohibited content for a document conforming to such a DTD. Browsers, on the other hand, do not implement HTML as an application of SGML and by consequence do not read the DTD.
+
+[[HTML5]] does not define a DTD; therefore, in HTML5 the doctype declaration is simpler and shorter:<ref>[http://www.w3.org/TR/html-markup/syntax.html#doctype-syntax "HTML: The Markup Language (an HTML language reference)"]. Retrieved 2013-08-19.</ref>
+
+<source lang="html5">
+<!DOCTYPE html>
+</source>
+
+An example of an HTML 4 doctype
+
+<source lang="html4strict">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+</source>
+
+This declaration references the DTD for the "strict" version of HTML 4.01. SGML-based validators read the DTD in order to properly parse the document and to perform validation. In modern browsers, a valid doctype activates standards mode as opposed to [[quirks mode]].
+
+In addition, HTML 4.01 provides Transitional and Frameset DTDs, [[#Transitional versus strict|as explained below]]. Transitional type is the most inclusive, incorporating current tags as well as older or "deprecated" tags, with the Strict DTD excluding deprecated tags. Frameset has all tags necessary to make frames on a page along with the tags included in transitional type{{citation needed|date=March 2016}}.
+
+==Semantic HTML==
+{{Main|Semantic HTML}}
+Semantic HTML is a way of writing HTML that emphasizes the meaning of the encoded information over its presentation (look). HTML has included semantic markup from its inception,<ref>{{cite book
+|last1=Berners-Lee
+|first1=Tim
+|last2=Fischetti
+|first2=Mark
+|title=Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web by Its Inventor
+|isbn=978-0-06-251587-2
+|publisher=Harper
+|location=San Francisco
+|year=2000
+}}</ref> but has also included presentational markup, such as <code><nowiki><font></nowiki></code>, <code><nowiki><i></nowiki></code> and <code><nowiki><center></nowiki></code> tags. There are also the semantically neutral [[span and div]] tags. Since the late 1990s when [[Cascading Style Sheets]] were beginning to work in most browsers, web authors have been encouraged to avoid the use of presentational HTML markup with a view to the [[separation of presentation and content]].<ref>{{cite web
+|url=http://www.w3.org/MarkUp/Guide/Style.html
+|title=Adding a touch of style
+|last=Raggett
+|first=Dave
+|year=2002
+|publisher=W3C
+|accessdate=October 2, 2009
+}} This article notes that presentational HTML markup may be useful when targeting browsers "before Netscape 4.0 and Internet Explorer 4.0". See the [[list of web browsers]] to confirm that these were both released in 1997.</ref>
+
+In a 2001 discussion of the [[Semantic Web]], [[Tim Berners-Lee]] and others gave examples of ways in which intelligent software "agents" may one day automatically crawl the web and find, filter and correlate previously unrelated, published facts for the benefit of human users.<ref>{{cite web
+|url=http://www.scientificamerican.com/article.cfm?id=the-semantic-web
+|title=The Semantic Web
+|author=Tim Berners-Lee, James Hendler and Ora Lassila
+|publisher=Scientific American
+|year=2001
+|accessdate=October 2, 2009
+}}</ref> Such agents are not commonplace even now, but some of the ideas of [[Web 2.0]], [[Mashup (web application hybrid)|mashups]] and [[Price comparison service|price comparison websites]] may be coming close. The main difference between these web application hybrids and Berners-Lee's semantic agents lies in the fact that the current [[Feed aggregator|aggregation]] and hybridization of information is usually designed in by [[web developer]]s, who already know the web locations and the [[Application programming interface|API semantics]] of the specific data they wish to mash, compare and combine.
+
+An important type of web agent that does crawl and read web pages automatically, without prior knowledge of what it might find, is the [[web crawler]] or search-engine spider. These software agents are dependent on the semantic clarity of web pages they find as they use various techniques and [[algorithm]]s to read and index millions of web pages a day and provide web users with [[Web search engine|search facilities]] without which the World Wide Web's usefulness would be greatly reduced.
+
+In order for search-engine spiders to be able to rate the significance of pieces of text they find in HTML documents, and also for those creating mashups and other hybrids as well as for more automated agents as they are developed, the semantic structures that exist in HTML need to be widely and uniformly applied to bring out the meaning of published text.<ref name="Semantic_Web_Revisted">{{cite web
+|url=http://eprints.ecs.soton.ac.uk/12614/1/Semantic_Web_Revisted.pdf
+|title=The Semantic Web Revisited
+|author=Nigel Shadbolt, Wendy Hall and Tim Berners-Lee
+|publisher=IEEE Intelligent Systems
+|year=2006
+|accessdate=October 2, 2009
+}}</ref>
+
+Presentational markup tags are [[Deprecation|deprecated]] in current HTML and [[XHTML]] recommendations and are illegal in HTML5.
+
+Good semantic HTML also improves the [[accessibility]] of web documents (see also [[Web Content Accessibility Guidelines]]). For example, when a screen reader or audio browser can correctly ascertain the structure of a document, it will not waste the visually impaired user's time by reading out repeated or irrelevant information when it has been marked up correctly.
+
+==Delivery==
+HTML documents can be delivered by the same means as any other computer file. However, they are most often delivered either by [[Hypertext Transfer Protocol|HTTP]] from a [[web server]] or by [[email]].
+
+===HTTP===
+{{Main|Hypertext Transfer Protocol}}
+The [[World Wide Web]] is composed primarily of HTML documents transmitted from web servers to web browsers using the [[Hypertext Transfer Protocol]] (HTTP). However, HTTP is used to serve images, sound, and other content, in addition to HTML. To allow the web browser to know how to handle each document it receives, other information is transmitted along with the document. This [[meta data]] usually includes the [[MIME type]] (e.g. <tt>text/html</tt> or <tt>application/xhtml+xml</tt>) and the character encoding (see [[Character encoding in HTML]]).
+
+In modern browsers, the MIME type that is sent with the HTML document may affect how the document is initially interpreted. A document sent with the XHTML MIME type is expected to be [[XML#Well-formed documents|well-formed]] XML; syntax errors may cause the browser to fail to render it. The same document sent with the HTML MIME type might be displayed successfully, since some browsers are more lenient with HTML.
+
+The W3C recommendations state that XHTML 1.0 documents that follow guidelines set forth in the recommendation's Appendix C may be labeled with either MIME Type.<ref>{{cite web |url=http://www.w3.org/TR/xhtml1/#media |title=XHTML 1.0 The Extensible HyperText Markup Language (Second Edition) |publisher=World Wide Web Consortium |origyear=2000|year=2002 |accessdate=December 7, 2008 |quote=XHTML Documents which follow the guidelines set forth in Appendix C, "HTML Compatibility Guidelines" may be labeled with the Internet Media Type "text/html" [RFC2854], as they are compatible with most HTML browsers. Those documents, and any other document conforming to this specification, may also be labeled with the Internet Media Type "application/xhtml+xml" as defined in [RFC3236].}}</ref>  XHTML 1.1 also states that XHTML 1.1 documents should<ref>{{cite web |url=http://www.ietf.org/rfc/rfc2119.txt |title=RFC 2119: Key words for use in RFCs to Indicate Requirement Levels |publisher=Harvard University |year=1997 |accessdate=December 7, 2008 |quote=3. SHOULD This word, or the adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.}}</ref> be labeled with either MIME type.<ref>{{cite web |url=http://www.w3.org/TR/xhtml11/conformance.html#strict |title=XHTML 1.1 – Module-based XHTML&nbsp;— Second Edition |publisher=World Wide Web Consortium |year=2007 |accessdate=December 7, 2008 |quote=XHTML 1.1 documents SHOULD be labeled with the Internet Media Type text/html as defined in [RFC2854] or application/xhtml+xml as defined in [RFC3236].}}</ref>
+
+===HTML e-mail===
+{{Main|HTML email}}
+Most graphical email clients allow the use of a subset of HTML (often ill-defined) to provide formatting and [[semantic web|semantic]] markup not available with [[plain text]]. This may include typographic information like coloured headings, emphasized and quoted text, inline images and diagrams. Many such clients include both a [[Graphical user interface|GUI]] editor for composing HTML e-mail messages and a rendering engine for displaying them. Use of HTML in e-mail is criticized by some because of compatibility issues, because it can help disguise [[phishing]] attacks, because of accessibility issues for blind or visually impaired people, because it can confuse [[E-Mail spam|spam]] filters and because the message size is larger than plain text.
+
+===Naming conventions===
+The most common [[filename extension]] for [[computer file|files]] containing HTML is <tt>.html</tt>. A common abbreviation of this is <tt>.htm</tt>, which originated because some early operating systems and file systems, such as [[DOS]] and the limitations imposed by [[File Allocation Table|FAT]] data structure, limited file extensions to [[8.3 filename|three letters]].<ref>{{cite web|title=Naming Files, Paths, and Namespaces|url=https://msdn.microsoft.com/en-us/library/windows/desktop/aa365247%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396|publisher=Microsoft|accessdate=16 March 2015}}</ref>
+
+===HTML Application===
+{{Main|HTML Application}}
+
+An HTML Application (HTA; file extension ".hta") is a [[Microsoft Windows]] application that uses HTML and Dynamic HTML in a [[Web browser|browser]] to provide the application's graphical interface. A regular HTML file is confined to the [[security model]] of the [[Browser security|web browser's security]], communicating only to web servers and manipulating only webpage objects and [[HTTP cookie|site cookies]]. An HTA runs as a fully trusted application and therefore has more privileges, like creation/editing/removal of files and [[Windows Registry]] entries. Because they operate outside the browser's security model, HTAs cannot be executed via HTTP, but must be downloaded (just like an [[EXE|EXE file]]) and executed from local file system.
+
+==HTML4 variations==
+{{quote box|width = 220px|HTML is precisely what we were trying to PREVENT— ever-breaking links, links going outward only, quotes you can't follow to their origins, no version management, no rights management.|2=[[Ted Nelson]]<ref>{{cite web|author=[[Ted Nelson]]|title=Ted Nelson's Computer Paradigm, Expressed as One-Liners|url=http://xanadu.com.au/ted/TN/WRITINGS/TCOMPARADIGM/tedCompOneLiners.html|accessdate=26 July 2010|date=29 January 1999|publisher=[[Project Xanadu|Xanadu]]}}</ref>}}
+Since its inception, HTML and its associated protocols gained acceptance relatively quickly. However, no clear standards existed in the early years of the language. Though its creators originally conceived of HTML as a semantic language devoid of presentation details,<ref>[http://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/HTMLConstraints.html HTML Design Constraints], W3C Archives</ref> practical uses pushed many presentational elements and attributes into the language, driven largely by the various browser vendors. The latest standards surrounding HTML reflect efforts to overcome the sometimes chaotic development of the language<ref>[http://ei.cs.vt.edu/~wwwbtb/book/chap13/who.html WWW:BTB – HTML], Pris Sears</ref> and to create a rational foundation for building both meaningful and well-presented documents. To return HTML to its role as a semantic language, the [[World Wide Web Consortium|W3C]] has developed style languages such as [[Cascading Style Sheets|CSS]] and [[Extensible Stylesheet Language|XSL]] to shoulder the burden of presentation. In conjunction, the HTML specification has slowly reined in the presentational elements.
+
+There are two axes differentiating various variations of HTML as currently specified: SGML-based HTML versus XML-based HTML (referred to as XHTML) on one axis, and strict versus transitional (loose) versus frameset on the other axis.
+
+===SGML-based versus XML-based HTML===
+One difference in the latest HTML specifications lies in the distinction between the SGML-based specification and the XML-based specification. The XML-based specification is usually called [[XHTML]] to distinguish it clearly from the more traditional definition. However, the root element name continues to be "html" even in the XHTML-specified HTML. The W3C intended XHTML 1.0 to be identical to HTML 4.01 except where limitations of XML over the more complex SGML require workarounds. Because XHTML and HTML are closely related, they are sometimes documented in parallel. In such circumstances, some authors [[(X)HTML|conflate the two names]] as (X)HTML or X(HTML).
+
+Like HTML 4.01, XHTML 1.0 has three sub-specifications: strict, transitional and frameset.
+
+Aside from the different opening declarations for a document, the differences between an HTML 4.01 and XHTML 1.0 document—in each of the corresponding DTDs—are largely syntactic. The underlying syntax of HTML allows many shortcuts that XHTML does not, such as elements with optional opening or closing tags, and even empty elements which must not have an end tag. By contrast, XHTML requires all elements to have an opening tag and a closing tag. XHTML, however, also introduces a new shortcut: an XHTML tag may be opened and closed within the same tag, by including a slash before the end of the tag like this: <code>&lt;br/&gt;</code>. The introduction of this shorthand, which is not used in the SGML declaration for HTML 4.01, may confuse earlier software unfamiliar with this new convention. A fix for this is to include a space before closing the tag, as such: <code>&lt;br /&gt;</code>.<ref>Freeman, E (2005). Head First HTML. O'Reilly.</ref>
+
+To understand the subtle differences between HTML and XHTML, consider the transformation of a valid and well-formed XHTML 1.0 document that adheres to Appendix C (see below) into a valid HTML 4.01 document. To make this translation requires the following steps:
+# '''The language for an element should be specified with a <code>lang</code> attribute rather than the XHTML <code>xml:lang</code> attribute.''' XHTML uses XML's built in language-defining functionality attribute.
+# '''Remove the XML namespace (<code>xmlns=URI</code>).''' HTML has no facilities for namespaces.
+# '''Change the document type declaration''' from XHTML 1.0 to HTML 4.01. (see [[#Document type declaration|DTD section]] for further explanation).
+# If present, '''remove the XML declaration.''' (Typically this is: {{code|lang=xml|code=<?xml version="1.0" encoding="utf-8"?>}}).
+# '''Ensure that the document's MIME type is set to <code>text/html</code>.''' For both HTML and XHTML, this comes from the HTTP <code>Content-Type</code> header sent by the server.
+# '''Change the XML empty-element syntax to an HTML style empty element''' (<code><nowiki><br/></nowiki></code> to <code><nowiki><br></nowiki></code>).
+
+Those are the main changes necessary to translate a document from XHTML 1.0 to HTML 4.01. To translate from HTML to XHTML would also require the addition of any omitted opening or closing tags. Whether coding in HTML or XHTML it may just be best to always include the optional tags within an HTML document rather than remembering which tags can be omitted.
+
+A well-formed XHTML document adheres to all the syntax requirements of XML. A valid document adheres to the content specification for XHTML, which describes the document structure.
+
+The W3C recommends several conventions to ensure an easy migration between HTML and XHTML (see [http://www.w3.org/TR/xhtml1/#guidelines HTML Compatibility Guidelines]). The following steps can be applied to XHTML 1.0 documents only:
+* Include both <code>xml:lang</code> and <code>lang</code> attributes on any elements assigning language.
+* Use the empty-element syntax only for elements specified as empty in HTML.
+* Include an extra space in empty-element tags: for example <code><nowiki><br /></nowiki></code> instead of <code><nowiki><br/></nowiki></code>.
+* Include explicit close tags for elements that permit content but are left empty (for example, <code><nowiki><div></nowiki></code><code><nowiki></div></nowiki></code>, not <code><nowiki><div /></nowiki></code>).
+* Omit the XML declaration.
+
+By carefully following the W3C's compatibility guidelines, a user agent should be able to interpret the document equally as HTML or XHTML. For documents that are XHTML 1.0 and have been made compatible in this way, the W3C permits them to be served either as HTML (with a <code>text/html</code> [[MIME type]]), or as XHTML (with an <code>application/xhtml+xml</code> or <code>application/xml</code> MIME type). When delivered as XHTML, browsers should use an XML parser, which adheres strictly to the XML specifications for parsing the document's contents.
+
+===Transitional versus strict===
+HTML 4 defined three different versions of the language: Strict, Transitional (once called Loose) and Frameset. The Strict version is intended for new documents and is considered best practice, while the Transitional and Frameset versions were developed to make it easier to transition documents that conformed to older HTML specification or didn't conform to any specification to a version of HTML 4. The Transitional and Frameset versions allow for [[presentational markup]], which is omitted in the Strict version. Instead, [[cascading style sheets]] are encouraged to improve the presentation of HTML documents. Because XHTML 1 only defines an XML syntax for the language defined by HTML 4, the same differences apply to XHTML 1 as well.
+
+The Transitional version allows the following parts of the vocabulary, which are not included in the Strict version:
+* '''A looser content model'''
+** Inline elements and plain text are allowed directly in: <code>body</code>, <code>blockquote</code>, <code>form</code>, <code>noscript</code> and <code>noframes</code>
+* '''Presentation related elements'''
+** underline (<code>u</code>)(Deprecated. can confuse a visitor with a hyperlink.)
+** strike-through (<code>s</code>)
+** <code>center</code> (Deprecated. use CSS instead.)
+** <code>font</code> (Deprecated. use CSS instead.)
+** <code>basefont</code> (Deprecated. use CSS instead.)
+* '''Presentation related attributes'''
+** <code>background</code> (Deprecated. use CSS instead.) and <code>bgcolor</code> (Deprecated. use CSS instead.) attributes for <code>body</code> (required element according to the W3C.) element.
+** <code>align</code> (Deprecated. use CSS instead.) attribute on <code>div</code>, <code>form</code>, paragraph (<code>p</code>) and heading (<code>h1</code>...<code>h6</code>) elements
+** <code>align</code> (Deprecated. use CSS instead.), <code>noshade</code> (Deprecated. use CSS instead.), <code>size</code> (Deprecated. use CSS instead.) and <code>width</code> (Deprecated. use CSS instead.) attributes on <code>hr</code> element
+** <code>align</code> (Deprecated. use CSS instead.), <code>border</code>, <code>vspace</code> and <code>hspace</code> attributes on <code>img</code> and <code>object</code> (caution: the <code>object</code> element is only supported in Internet Explorer (from the major browsers)) elements
+** <code>align</code> (Deprecated. use CSS instead.) attribute on <code>legend</code> and <code>caption</code> elements
+** <code>align</code> (Deprecated. use CSS instead.) and <code>bgcolor</code> (Deprecated. use CSS instead.) on <code>table</code> element
+** <code>nowrap</code> (Obsolete), <code>bgcolor</code> (Deprecated. use CSS instead.), <code>width</code>, <code>height</code> on <code>td</code> and <code>th</code> elements
+** <code>bgcolor</code> (Deprecated. use CSS instead.) attribute on <code>tr</code> element
+** <code>clear</code> (Obsolete) attribute on <code>br</code> element
+** <code>compact</code> attribute on <code>dl</code>, <code>dir</code> and <code>menu</code> elements
+** <code>type</code> (Deprecated. use CSS instead.), <code>compact</code> (Deprecated. use CSS instead.) and <code>start</code> (Deprecated. use CSS instead.) attributes on <code>ol</code> and <code>ul</code> elements
+** <code>type</code> and <code>value</code> attributes on <code>li</code> element
+** <code>width</code> attribute on <code>pre</code> element
+* '''Additional elements in Transitional specification'''
+** <code>menu</code> (Deprecated. use CSS instead.) list (no substitute, though unordered list is recommended)
+** <code>dir</code> (Deprecated. use CSS instead.) list (no substitute, though unordered list is recommended)
+** <code>isindex</code> (Deprecated.) (element requires server-side support and is typically added to documents server-side, <code>form</code> and <code>input</code> elements can be used as a substitute)
+** <code>applet</code> (Deprecated. use the <code>object</code> element instead.)
+* '''The <code>language</code> (Obsolete) attribute on script element''' (redundant with the <code>type</code> attribute).
+* '''Frame related entities'''
+** <code>iframe</code>
+** <code>noframes</code>
+** <code>target</code> (Deprecated in the <code>map</code>, <code>link</code> and <code>form</code> elements.) attribute on <code>a</code>, client-side image-map (<code>map</code>), <code>link</code>, <code>form</code> and <code>base</code> elements
+
+The Frameset version includes everything in the Transitional version, as well as the <code>frameset</code> element (used instead of <code>body</code>) and the <code>frame</code> element.
+
+===Frameset versus transitional===
+In addition to the above transitional differences, the frameset specifications (whether XHTML 1.0 or HTML 4.01) specify a different content model, with <code>frameset</code> replacing <code>body</code>, that contains either <code>frame</code> elements, or optionally <code>noframes</code> with a <code>body</code>.
+
+===Summary of specification versions===
+As this list demonstrates, the loose versions of the specification are maintained for legacy support. However, contrary to popular misconceptions, the move to XHTML does not imply a removal of this legacy support. Rather the X in XML stands for extensible and the W3C is modularizing the entire specification and opening it up to independent extensions. The primary achievement in the move from XHTML 1.0 to XHTML 1.1 is the modularization of the entire specification. The strict version of HTML is deployed in XHTML 1.1 through a set of modular extensions to the base XHTML 1.1 specification. Likewise, someone looking for the loose (transitional) or frameset specifications will find similar extended XHTML 1.1 support (much of it is contained in the legacy or frame modules). The modularization also allows for separate features to develop on their own timetable. So for example, XHTML 1.1 will allow quicker migration to emerging XML standards such as [[MathML]] (a presentational and semantic math language based on XML) and [[XForms]]—a new highly advanced web-form technology to replace the existing HTML forms.
+
+In summary, the HTML 4 specification primarily reined in all the various HTML implementations into a single clearly written specification based on SGML. XHTML 1.0, ported this specification, as is, to the new XML defined specification. Next, XHTML 1.1 takes advantage of the extensible nature of XML and modularizes the whole specification. XHTML 2.0 was intended to be the first step in adding new features to the specification in a standards-body-based approach.
+
+==HTML5 variations==
+
+===WHATWG HTML versus HTML5===
+{{main|HTML5}}
+The [[WHATWG|<abbr title="Web Hypertext Application Technology Working Group">WHATWG</abbr>]] considers their work as ''living standard'' HTML for what constitutes the state of the art in major browser implementations by [[Apple Inc.|Apple]] ([[Safari (web browser)|Safari]]), [[Google]] ([[Google Chrome|Chrome]]),  [[Mozilla Foundation|Mozilla]] ([[Firefox]]), [[Opera Software|Opera]] ([[Opera (web browser)|Opera]]), and others. HTML5 is specified by the HTML Working Group of the [[World Wide Web Consortium|W3C]] following the W3C process. {{As of|2013}} both specifications are similar and mostly derived from each other, i.e., the work on HTML5 started with an older WHATWG draft, and later the WHATWG ''living standard'' was based on HTML5 drafts in 2011.<ref>{{cite web|url=https://blog.whatwg.org/html-is-the-new-html5|title=HTML is the new HTML5|last=Hickson|first=Ian|date=2011-01-19|work=The WHATWG blog|accessdate=2013-01-14}}</ref><ref>{{cite web|url=http://www.w3.org/QA/2012/12/html5_smile_its_a_snapshot.html|title=HTML5 — Smile, it's a Snapshot!|work=W3C Blog|date=2012-12-17|accessdate=2013-01-14}}</ref>
+
+==Hypertext features not in HTML==
+HTML lacks some of the features found in earlier hypertext systems, such as [[source tracking]], [[fat link]]s and others.<ref>{{cite web
+|url=http://www.useit.com/alertbox/20050103.html
+|title=Reviving Advanced Hypertext
+|author=[[Jakob Nielsen (usability consultant)|Jakob Nielsen]]
+|date=January 3, 2005
+|accessdate=June 16, 2007}}</ref> Even some hypertext features that were in early versions of HTML have been ignored by most popular web browsers until recently{{when|date=August 2015}}, such as the link element and in-browser Web page editing.
+
+Sometimes Web services or browser manufacturers remedy these shortcomings. For instance, [[wiki]]s and [[content management system]]s allow surfers to edit the Web pages they visit.
+
+==WYSIWYG editors==
+There are some [[WYSIWYG]] editors (What You See Is What You Get), in which the user lays out everything as it is to appear in the HTML document using a [[graphical user interface]] (GUI), often similar to [[word processor]]s. The editor renders the document rather than show the code, so authors do not require extensive knowledge of HTML.
+
+The WYSIWYG editing model has been criticized,<ref>Sauer, C.: WYSIWIKI&nbsp;– Questioning WYSIWYG in the Internet Age. In: Wikimania (2006)</ref><ref>Spiesser, J., Kitchen, L.: Optimization of HTML automatically generated by WYSIWYG programs. In: 13th International Conference on World Wide Web, pp. 355—364. WWW '04. ACM, New York, NY (New York, NY, U.S., May 17–20, 2004)</ref> primarily because of the low quality of the generated code; there are voices advocating a change to the [[WYSIWYM]] model (What You See Is What You Mean).
+
+WYSIWYG editors remain a controversial topic because of their perceived flaws such as:
+
+* Relying mainly on layout as opposed to meaning, often using markup that does not convey the intended meaning but simply copies the layout.<ref>[http://xhtml.com/en/xhtml/reference/blockquote/ XHTML Reference: blockquote]. Xhtml.com. Retrieved on 2012-02-16.</ref>
+* Often producing extremely verbose and redundant code that fails to make use of the cascading nature of HTML and [[CSS]].
+* Often producing ungrammatical markup, called [[tag soup]] or semantically incorrect markup (such as <code><nowiki><em></nowiki></code> for italics).
+* As a great deal of the information in HTML documents is not in the layout, the model has been criticized for its "what you see is all you get"-nature.<ref>[http://www.invisiblerevolution.net/ Doug Engelbart's INVISIBLE REVOLUTION] . Invisiblerevolution.net. Retrieved on 2012-02-16.</ref>
+
+==See also==
+<!--PLEASE RESPECT ALPHABETICAL ORDER-->
+* [[Breadcrumb (navigation)]]
+* [[Comparison of HTML parsers]]
+* [[CSS]]
+* [[Dynamic web page]]
+* [[HTML decimal character rendering]]
+* [[HTML5]]
+* [[HTTP]]
+* [[JavaScript]]
+* [[List of document markup languages]]
+* [[List of XML and HTML character entity references]]
+* [[Microdata (HTML)]]
+* [[Microformat]]
+* [[Polyglot HTML]]
+* [[Semantic HTML]]
+* [[SGML]]
+* [[W3C Markup Validation Service|W3C (X)HTML Validator]]
+* [[XML]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|HTML}}
+{{Wikibooks|HyperText Markup Language}}
+{{wikiversity}}
+{{wikiversity|Web Design/HTML Challenges}}
+{{Wiktionary|HTML}}
+
+* [[WHATWG]]'s [http://whatwg.org/html HTML Living Standard]
+* [[W3C]]'s [http://www.w3.org/html/wg/drafts/html/master/ HTML 5.1, the upcoming version of HTML] <!-- Please don't link to the horribly outdated /TR/ version -->
+* [[W3C]]'s [http://www.w3.org/TR/2014/REC-html5-20141028/ HTML5, the most recent finished specification (28 October 2014)]
+* [[W3C]]'s [http://www.w3.org/TR/1999/REC-html401-19991224/ HTML 4.01 specification (24 December 1999)]
+* [http://www.w3.org/MarkUp/Guide/ Dave Raggett's Introduction to HTML]
+* [http://computemagazine.com/man-who-invented-world-wide-web-gives-new-definition/ Tim Berners-Lee Gives the Web a New Definition]
+
+<!--See discussion at [[Talk:HTML/Archive_3#Suggestion:_External_links_to_tutorials]] -->
+
+{{W3C standards|state=uncollapsed}}
+{{Document markup languages}}
+{{ISO standards}}
+{{Web browsers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Html}}
+[[Category:HTML]]
+[[Category:1990 introductions]]
+[[Category:Markup languages]]
+[[Category:Technical communication]]
+[[Category:World Wide Web Consortium standards]]
+[[Category:Articles with example code]]

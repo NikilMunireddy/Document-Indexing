@@ -1,0 +1,404 @@
+Dakar
+
+{{About}}
+{{Distinguish|Dhaka}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Dakar
+|image_shield           = Dakar CoA.png
+|shield_size            = 50px
+|image_skyline          = Dakar-Indépendance.jpg
+|image_caption          = Place de l'Indépendance
+|image_map              = Dakar districts.svg
+|map_caption            = City of Dakar, divided into 19 ''communes d'arrondissement''
+|pushpin_map            = Senegal <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within Senegal
+<!-- Location ------------------>
+|coordinates_region     = SN
+|subdivision_type       = Country
+|subdivision_name       = {{SEN}}
+|subdivision_type1      = [[Regions of Senegal|Région]]
+|subdivision_name1      = [[Dakar Region|Dakar]]
+|subdivision_type2      = [[Département]]
+|subdivision_name2      = Dakar
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|parts_type             = Communes d'arrondissement
+|parts                  = 19  <!-- parts text, or header for parts list -->
+|p1=Cambérène
+|p2=Parcelles Assaines
+|p3=Pattie d'Oies
+|p4=Hann Bel-Air
+|p5=Dieuppeul Derklé
+|p6=HLM
+|p7=Biscuiterie
+|p8=Grand Dakar
+|p9=Plateau
+|p10=Médina
+|p11=Fass-Gueule Tapée-Colobane
+|p12= Fann Point-E
+|p13=Mermoz-Sacré-Coeur
+|p14=Ouakam
+|p15=Yoff
+|p16=Ngor
+|p17=Liberté
+|p18=Grand-Yoff
+|p19=Cape Verde Peninsula <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|leader_title           = [[Mayor]]
+|leader_name            = [[Khalifa Sall]] (2009)<ref>[http://www.jeuneafrique.com/Article/DEPAFP20090418T195706Z/-opposition-election-Abdoulaye-Wade-Khalifa-Sall-L-opposant-Khalifa-Sall-elu-maire-de-Dakar.html L'opposant Khalifa Sall élu maire de Dakar]. AFP. 2009-04-19</ref>
+|leader_party=            [[United to Boost Senegal|BSS]]/PS
+|leader_title1          = Regional&nbsp;president  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = [[Macky Sall]] (since 2012)
+|established_title      = Settled
+|established_date       = 15th century
+<!-- Area    --------------------->
+|a--------------->
+|population_as_of               = 2013 estimate
+|population_footnotes           = <ref>[http://data.un.org/Data.aspx?d=POP&f=tableCode%3A240 UN Data]. Projection based on 2002 census.</ref>
+|population_note                = Data here are for the administrative Dakar ''région'', which matches almost exactly the limits of the metropolitan area
+|population_total               =1146053
+|population_density_km2         =12510 <!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =2452656
+|population_density_metro_km2   =4484
+<!-- elevation -->
+| elevation_footnotes     = <ref>[http://www.dakar.climatemps.com/map.php climatemps.com]</ref>
+| elevation_m             = 22
+| area_total_km2                    = 83
+<!-- General information  --------------->
+|EIU_footnotes          = <ref name="dakar_EIU">{{cite web|url=http://www.businessinsider.com/worst-cities-in-the-world-2011-2?op=1|title=The 10 Worst Cities in the World}}</ref>
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             = +0
+|timezone_DST           =
+|utc_offset_DST         =
+|coor_type             = <!-- can be used to specify what the coordinates refer to -->
+|latd=14 |latm=41 |lats=34 |latNS=N
+|longd=17 |longm=26 |longs=48 | longEW=W
+|coordinates_display=inline,title
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = [http://www.villededakar.org/ villededakar.org]
+|footnotes              =
+}}
+
+'''Dakar''' ({{IPAc-en|lang|pron|d|ɑː|ˈ|k|ɑː|r|,_|ˈ|d|æ|k|ər}};<ref>{{Cite web |url=http://www.thefreedictionary.com/Dakar |title=Dakar - definition of Dakar |publisher=The Free Dictionary |accessdate=29 October 2013 }} {{IPAc-en|d|ə|ˈ|k|ɑː|r|,_|d|ɑː|ˈ|k|ɑː|r|,_|ˈ|d|æ|k|ər}}</ref><ref>{{Cite web |url=http://dictionary.reference.com/browse/Dakar |title=Define Dakar |publisher=Dictionary.com |accessdate=29 October 2013 }} {{IPAc-en|d|ɑː|ˈ|k|ɑː|r|,_|ˈ|d|æ|k|ər}}</ref> {{IPA-fr|da.kaʁ|lang}})<ref name="dakar_pronunciation">[http://www.forvo.com/word/dakar/ Dakar pronunciation: How to pronounce Dakar in French, Spanish, Polish<!-- Bot generated title -->]</ref> is the [[capital city|capital]] and largest city of [[Senegal]].
+
+It is located on the [[Cap-Vert]] Peninsula on the [[Atlantic Ocean|Atlantic]] coast and is the westernmost city in the [[Old World]] and on the African mainland. Its position, on the western edge of Africa, is an advantageous departure point for trans-Atlantic and European trade; this fact aided its growth into a major regional [[port]].
+
+According to 31 December 2005 official estimates, the city of Dakar proper has a population of 1,030,594, whereas the population of the Dakar metropolitan area is estimated at 2.45&nbsp;million people.<ref name=autogenerated1>{{cite web|url=http://www.ansd.sn/publications/analyse_economique_demographique_sociale/SES2005.pdf |title="Situation économique et sociale du Sénégal", édition 2005, page 163 |first=[[Government of Senegal]] |last=Agence Nationale de la Statistique et de la Démographie |language=French |format=PDF |accessdate=2007-11-18 |deadurl=yes |archiveurl=https://web.archive.org/20081118155223/http://www.ansd.sn/publications/analyse_economique_demographique_sociale/SES2005.pdf |archivedate=November 18, 2008 }}</ref>
+
+Dakar is a major administrative center, home to the [[National Assembly of Senegal|Senegal National Assembly]] and the Presidential Palace.
+
+==History==
+{{see also|Timeline of Dakar}}
+
+===Early history===
+The [[Cap-Vert]] peninsula was settled no later than the 15th century, by the [[Lebou people]], an aquacultural ethnic group related to the neighboring Wolof and Sereer. The original villages: Ouakam, Ngor, [[Yoff]] and Hann, still constitute distinctively [[Lebou]] neighborhoods of the city today. In 1444, the [[Kingdom of Portugal|Portuguese]] reached the Bay of Dakar, initially as slave-raiders, but were repulsed by the natives on the shores.<ref>[[Dinis Dias]] doubled Cap-Vert in 1444, but it is unclear if he sailed into the bay itself. [[Álvaro Fernandes]] anchored at the uninhabited island of Goree and lured and captured two natives off a Lebou fishing canoe before being driven off. The large slaving fleet of [[Lançarote de Freitas]] anchored in the bay, but their attempts to reach the mainland shore were fended off by missile fire and took no captives. The subsequent fleets of [[Estêvão Afonso]] (1446) and [[Valarte]] (1447) stopped briefly at Goree, but were also fended off the shores and took no captives. In the aftermath, Prince [[Henry the Navigator]] suspended all Portuguese expeditions beyond Cap-Vert for nearly a decade. There are no more recorded attempts until contact was made in 1456. (As reported in the 1453 chronicle of [[Gomes Eanes de Zurara]])</ref><ref>B.W. Diffie and G.D. Winius (1977) ''Foundations of the Portuguese empire, 1415-1580'' Minneapolis: University of Minnesota Press, pp.83-85</ref><ref>A. Teixeira da Mota (1946) "A descoberta da Guiné", ''Boletim cultural da Guiné Portuguesa'', Vol. 1. No. 2 (Apr), p. 273-326.</ref> Peaceful contact was finally opened in 1456 by [[Diogo Gomes]], and the bay was subsequently referred to as the  "''Angra de Bezeguiche''" (after the name of the local ruler).<ref name=mota>A. Teixeira da Mota (1968) "Ilha de Santiago e Angra de Bezeguiche, escalas da carreira da India", ''Do tempo e da historia'', Lisbon, v.3, pp.141-49.</ref>  The bay of "Bezeguiche" would serve as a critical stop for the [[Portuguese India Armadas]] of the early 16th century, where large fleets would routinely put in, both on their outward and return journeys from India, to repair, collect fresh water from the rivulets and wells along the Cap-Vert shore and trade for provisions with the local people for their remaining voyage.<ref name=mota/> (It was famously during [[2nd Portuguese India Armada (Cabral, 1500)#Conference at Bezeguiche|one of these stops]], in 1501, where the Florentine navigator [[Amerigo Vespucci]] began to construct his "[[New World]]" hypothesis about America.<ref>Vespucci's letter from Bezeguiche is reproduced in F.A. de Varnhagen (1865) ''Amerigo Vespucci'', pp.78-82.</ref>)
+
+The Portuguese eventually founded a settlement on the island of [[Gorée]] (then known as the island of Bezeguiche or Palma), which by 1536 they began to use as a base for the export of slaves. The mainland of Cap-Vert, however, was under control of the [[Jolof Empire]], as part of the western province of [[Cayor]] which seceded from Jolof in its own right in 1549. A new Lebou village, called Ndakaaru, was established directly across from Gorée in the 17th century to service the European [[trading factory]] with food and drinking water.  Gorée was captured by the [[United Netherlands]] in 1588, which gave it its present name (spelled ''Goeree'', after [[Goeree-Overflakkee]] in the Netherlands). The island was to switch hands between the Portuguese and Dutch several more times before falling to the English under [[Robert Holmes (admiral)|Admiral Robert Holmes]] on January 23, 1664, and finally to the French in 1677. Though under continuous French administration since, [[métis]] families, descended from Dutch and French traders and African wives, dominated the slave trade. The infamous "[[House of Slaves]]" was built here in 1776.
+
+In 1795 the Lebou of Cape Verde revolted against Cayor rule. A new theocratic state, subsequently called the "Lebou Republic" by the French, was established under the leadership of the Diop, a Muslim clerical family originally from Koki in Cayor. The capital of the republic was established at Ndakaaru. In 1857 the French established a military post at Ndakaaru (which they called "Dakar") and annexed the Lebou Republic, though its institutions continued to function nominally. The Serigne (also spelled Sëriñ, "Lord") of Ndakaaru is still recognized as the traditional political authority of the Lebou by the Senegalese State today.
+
+The slave trade was abolished by France in February 1794. However, Napoleon reinstated it in May 1802, then finally abolished it permanently in March 1815. Despite Napoleon's abolition, a clandestine slave trade continued at Gorée until 1848, when it was abolished throughout all French territories. To replace trade in slaves, the French promoted peanut cultivation on the mainland. As the peanut trade boomed, tiny Gorée Island, whose population had grown to 6,000&nbsp;residents, proved ineffectual as a port. Traders from Gorée decided to move to the mainland and a "factory" with warehouses was established in [[Rufisque]] in 1840.
+[[File:061 Dakar. - Une fontaine publique.jpg|thumb|250px|A public water well, 1899.]]
+Large public expenditure for infrastructure was allocated by the colonial authorities to Dakar's development. The port facilities were improved with jetties, a telegraph line was established along the coast to [[Saint-Louis, Senegal|Saint-Louis]] and the [[Dakar-Saint-Louis railway]] was completed in 1885, at which point the city became an important base for the conquest of the western Sudan.
+{{double image|1=right|2=Dakar-1850.jpg|3=140|4=Dakar-1888.jpg|5=140|6=Dakar in 1850.|7=Dakar in 1888.|8=Dakar in 1850|9=Dakar in 1888}}
+[[File:057 Dakar. - Les entrepôts.jpg|thumb|250px|left|Dakar Entrepôt. ca. 1900]]
+Gorée, including Dakar, was recognised as a French ''commune'' in 1872. Dakar itself was split off from Gorée as a separate ''commune'' in 1887. The citizens of the city elected their own mayor and municipal council and helped send an elected representative to the National Assembly in Paris. Dakar replaced Saint-Louis as the capital of [[French West Africa]] in 1902. A second major railroad, the [[Dakar-Niger railway|Dakar-Niger]] built from 1906–1923, linked Dakar to Bamako and consolidated the city's position at the head of France's West African empire. In 1929, the ''commune'' of Gorée Island, now with only a few hundred inhabitants, was merged into Dakar.
+
+Urbanization during the colonial period was marked by forms of racial and social segregation—often expressed in terms of health and hygiene—which continue to structure the city today. Following a plague epidemic in 1914, the authorities forced most of the African population out of old neighborhoods, or "Plateau", and into a new quarter, called Médina, separated from it by a "sanitary cordon". As first occupants of the land, the Lebou inhabitants of the city successfully resisted this expropriation. They were supported by [[Blaise Diagne]], the first African to be elected Deputy to the National Assembly. Nonetheless, the Plateau thereafter became an administrative, commercial, and residential district increasingly reserved for Europeans and served as model for similar exclusionary administrative enclaves in French Africa's other colonial capitals (Bamako, Conakry, Abidjan, Brazzaville). Meanwhile, the Layene Sufi order, established by [[Seydina Mouhammadou Limamou Laye]], was thriving among the Lebou in Yoff and in a new village called Cambérène. Since independence, urbanization has sprawled eastward past Pikine, a commuter suburb whose population (2001 est. 1,200,000) is greater than that of Dakar proper, to Rufisque, creating a [[conurbation]] of almost 3&nbsp;million (over a quarter of the national population).
+
+In its colonial heyday Dakar was one of the major cities of the French Empire, comparable to [[Hanoi]] or [[Beirut]]. French trading firms established branch offices there and industrial investments (mills, breweries, refineries, canneries) were attracted by its port and rail facilities. It was also strategically important to France, which maintained an important naval base and coaling station in its harbor and which integrated it into its earliest air force and airmail circuits, most notably with the legendary Mermoz airfield (no longer extant).
+
+===Recent history===
+During the [[Battle of Dakar]], which took place off the coast of Dakar on September 23–25, 1940, the British navy attempted to rally the colonial administration in Dakar to the Allied cause and detach it from Vichy. In November 1944 West African conscripts of the French army mutinied against poor conditions at the Thiaroye camp, on the outskirts of the city. The mutiny was seen as an indictment of the colonial system and constituted a watershed for the nationalist movement.
+
+Dakar was the capital of the short-lived [[Mali Federation]] from 1959 to 1960, after which it became the capital of Senegal. The poet, philosopher and first President of [[Senegal]] [[Léopold Sédar Senghor]] tried to transform Dakar into the "Sub-Saharan African Athens" (l’Athènes de l’Afrique subsaharienne),<ref>{{cite web|title= Discours de réception de M. Jean-Claude JUNCKER comme membre associé étranger à l’Académie des Sciences morales et politiques|language= French|url= http://www.geopolitis.net/DOCUMENTS%20SELECTIONNES/DISCOURSJUNCKER.pdf|archiveurl= http://www.webcitation.org/6Dt4ZM1RY|archivedate= {{date|2013-1-23}}}}</ref> as his vision was for it.
+
+Dakar is a major financial center, home to a dozen national and regional banks (including the BCEAO which manages the unified West African CFA currency), and to numerous international organizations, NGOs and international research centers. Dakar has a large [[Lebanese people in Senegal|Lebanese community]] (concentrated in the import-export sector) that dates to the 1920s, a community of Moroccan business people, as well as Mauritanian, [[Cape Verdeans in Senegal|Cape Verdean]], and Guinean communities. The city is home to as many as 20,000&nbsp;French expatriates. France still maintains an air force base at Yoff and the French fleet is serviced in Dakar's port.
+
+Beginning 1978 and until 2007, Dakar was frequently the ending point of the [[Dakar Rally]]. The rally brought worldwide attention to the poverty of Senegal and Dakar.{{Citation needed|date=December 2008}}
+
+==Geography and climate==
+[[File:Dakar, Senegal.JPG|thumb|View of Dakar from Earth Orbit]]
+The Dakarian climate is generally warm. Dakar has a [[hot semi-arid climate]] ([[Köppen climate classification]]: ''BSh''), with a short rainy season and a lengthy dry season. Dakar’s rainy season lasts from July to October while the dry season covers the remaining eight months. The city sees approximately {{convert|495|mm|abbr=on}} of precipitation per year.
+
+Dakar between December and May is usually pleasantly warm with daily temperatures around {{convert|24|-|27|C}}. Nights during this time of the year are comfortable, some {{convert|17|-|20|C}}. However, between May and November the city becomes decidedly warmer with daily highs reaching {{convert|29|-|31|C}} and night lows a little bit above {{convert|23|-|24|C}}. Notwithstanding this hotter season Dakar’s weather is far from being as hot as that of African cities inland, such as [[Niamey]] and [[N'Djamena]], where temperatures hover above {{convert|36|C}} for much of the year. Dakar is cooled year-round by sea breezes.
+
+{{Weather box
+|location = Dakar, Senegal (1981-2010)
+|metric first= Y
+|single line= Y
+|Jan record high C= 39.6
+|Feb record high C= 38.7
+|Mar record high C= 40.4
+|Apr record high C= 38.4
+|May record high C= 36.2
+|Jun record high C= 36.6
+|Jul record high C= 36.9
+|Aug record high C= 35.0
+|Sep record high C= 36.2
+|Oct record high C= 39.3
+|Nov record high C= 40.3
+|Dec record high C= 39.5
+
+|Jan high C = 25.3
+|Feb high C = 25.2
+|Mar high C = 25.4
+|Apr high C = 25.0
+|May high C = 26.0
+|Jun high C = 28.6
+|Jul high C = 30.0
+|Aug high C = 30.3
+|Sep high C = 30.7
+|Oct high C = 31.0
+|Nov high C = 29.8
+|Dec high C = 27.4
+|year high C = 27.9
+
+
+
+|Jan low C = 18.3
+|Feb low C = 18.0
+|Mar low C = 18.5
+|Apr low C = 19.2
+|May low C = 20.7
+|Jun low C = 23.5
+|Jul low C = 25.1
+|Aug low C = 25.3
+|Sep low C = 25.2
+|Oct low C = 25.3
+|Nov low C = 23.3
+|Dec low C = 21.0
+|year low C = 22.0
+
+|Jan record low C= 11.0
+|Feb record low C= 10.7
+|Mar record low C= 10.9
+|Apr record low C= 14.0
+|May record low C= 15.4
+|Jun record low C= 17.0
+|Jul record low C= 17.2
+|Aug record low C= 20.0
+|Sep record low C= 20.0
+|Oct record low C= 17.2
+|Nov record low C= 17.0
+|Dec record low C= 12.4
+|rain colour = green
+|Jan rain mm = 1.0
+|Feb rain mm = 2.0
+|Mar rain mm = 0.3
+|Apr rain mm = 0.0
+|May rain mm = 0.1
+|Jun rain mm = 14.0
+|Jul rain mm = 51.0
+|Aug rain mm = 154.0
+|Sep rain mm =  133.0
+|Oct rain mm =  26.0
+|Nov rain mm =  9.2
+|Dec rain mm =  1.0
+
+
+
+|Jan rain days = 1.0
+|Feb rain days = 1.0
+|Mar rain days = 1.0
+|Apr rain days = 0.2
+|May rain days = 0.4
+|Jun rain days = 3.0
+|Jul rain days = 8.0
+|Aug rain days = 15.0
+|Sep rain days = 12.0
+|Oct rain days = 4.0
+|Nov rain days = 1.0
+|Dec rain days = 1.0
+
+|Jan humidity = 68
+|Feb humidity = 74
+|Mar humidity = 77
+|Apr humidity = 81
+|May humidity = 81
+|Jun humidity = 80
+|Jul humidity = 78
+|Aug humidity = 81
+|Sep humidity = 83
+|Oct humidity = 80
+|Nov humidity = 72
+|Dec humidity = 68
+|year humidity = 77
+
+|Jan sun = 244.9
+|Feb sun = 245.8
+|Mar sun = 276.0
+|Apr sun = 288.0
+|May sun = 291.4
+|Jun sun = 252.0
+|Jul sun = 232.5
+|Aug sun = 223.2
+|Sep sun = 219.0
+|Oct sun = 257.3
+|Nov sun = 249.0
+|Dec sun = 238.7
+
+<!--unchecked as of 2014-2-17-->
+|Jan percentsun= 70
+|Feb percentsun= 74
+|Mar percentsun= 74
+|Apr percentsun= 74
+|May percentsun= 73
+|Jun percentsun= 65
+|Jul percentsun= 58
+|Aug percentsun= 57
+|Sep percentsun= 60
+|Oct percentsun= 70
+|Nov percentsun= 73
+|Dec percentsun= 69
+
+|source 1 = Pogoda.ru.net<ref>{{cite web
+| url = http://www.pogodaiklimat.ru/climate2/61641.htm
+| title = Climate Averages for Dakar
+| language = Russian
+| publisher = Weather and Climate (Погода и климат)
+| accessdate = 5 May 2016}}</ref> 
+
+
+
+|source 2 =  ''Spiegel Online Wetter''<ref name="Spiegel Online Wetter">{{Cite web |url=http://wetter.spiegel.de/spiegel/klima.php?r=afrika&land=SN&stat=61641 |title=Africa, Senegal, Dakar |publisher=Spiegel Online Wetter |accessdate=2014-02-17 }}</ref>
+|date=May 2016
+}}
+
+{|class="wikitable"
+|+Dakar mean sea temperature<ref name="Seatemperature.org">{{Cite web |url=http://www.seatemperature.org/africa/senegal/dakar-may.htm|title=Monthly Dakar water temperature chart |publisher=Seatemperature.org |accessdate=2016-05-05 }}</ref>
+|-
+!Jan
+!Feb
+!Mar
+!Apr
+!May
+!Jun
+!Jul
+!Aug
+!Sep
+!Oct
+!Nov
+!Dec
+|-
+|{{convert|22.7|°C}}
+|{{convert|20.6|°C}}
+|{{convert|19.9|°C}}
+|{{convert|20.7|°C}}
+|{{convert|22.7|°C}}
+|{{convert|26.3|°C}}
+|{{convert|27.6|°C}}
+|{{convert|28.4|°C}}
+|{{convert|28.7|°C}}
+|{{convert|28.5|°C}}
+|{{convert|27.0|°C}}
+|{{convert|24.7|°C}}
+|}
+
+==Administration==
+[[File:DakarGueuleTapée1.jpg|thumb|Market street in the working class Gueule Tapée quarter]]
+[[File:Senegal.jpg|thumb|Typical souvenirs in the street market]]
+The city of Dakar is a [[commune (subnational entity)|commune]] (also sometimes known as ''commune de ville''), one of the 67&nbsp;communes of Senegal. The commune of Dakar was created by the French colonial administration on June 17, 1887 by detaching it from the commune of [[Gorée]]. The commune of Gorée, created in 1872, was itself one of the oldest Western-style municipalities in Africa (along with the municipalities of [[Algeria]] and [[South Africa]]).
+
+The commune of Dakar has been in continuous existence since 1887, being preserved by the new state of Senegal after independence in 1960, although its limits have varied considerably over time. The limits of the commune of Dakar have been unchanged since 1983. The commune of Dakar is ruled by a democratically elected municipal council (''conseil municipal'') serving five years, and a mayor elected by the municipal council. There have been 20&nbsp;mayors in Dakar since 1887. The first black mayor was [[Blaise Diagne]], mayor of Dakar from 1924 to 1934. The longest serving mayor was [[Mamadou Diop (politician)|Mamadou Diop]], mayor for 18&nbsp;years between 1984 and 2002.
+
+The commune of Dakar is also a ''[[Department (country subdivision)|department]]'', one of the 34&nbsp;[[departments of Senegal]]. This situation is quite similar to [[Paris]], which is both a commune and a department. However, contrary to French departments, departments in Senegal have no political power (no departmental assembly), and are merely local administrative structures of the central state, in charge of carrying out some administrative services as well as controlling the activities of the communes within the department.
+
+The department of Dakar is divided into four [[Arrondissements of Senegal|arrondissement]]s: Almadies, Grand Dakar, Parcelles Assainies (which literally means "drained lots"; this is the most populous arrondissement of Dakar), and Plateau/Gorée (downtown Dakar). These arrondissements are quite different from the [[arrondissements of Paris]], being merely local administrative structures of the central state, like the Senegalese ''departments'', and are thus more comparable to French [[arrondissement in France|departmental arrondissements]].
+[[File:DakarMermoz.JPG|thumb|Residential street in the upscale Mermoz quarter]]
+[[File:National assembly (Dakar, Senegal).jpg|thumb|right|The Assemblée nationale on the Plateau, the heart of old Dakar]]
+In 1996 a massive reform of the administrative and political divisions of Senegal was voted by the Parliament of Senegal. The commune of Dakar, whose population approached 1&nbsp;million inhabitants, was deemed too large and too populated to be properly managed by a central municipality, and thus on August 30, 1996 Dakar was divided into 19&nbsp;''communes d'arrondissement''. These ''communes d'arrondissement'' were given extensive powers, and are very much like regular communes. They have more powers than the arrondissements of Paris, and are more akin to the [[London borough]]s. The commune of Dakar was maintained above these 19&nbsp;''communes d'arrondissement'', and it coordinates the activities of the ''communes d'arrondissement'', much as [[Greater London]] coordinates the activities of the London boroughs. The 19&nbsp;''communes d'arrondissement'' belong to either of the four arrondissements of Dakar, and the ''[[prefect|sous-préfet]]'' of each arrondissement is in charge of controlling the activities of the ''communes d'arrondissement'' in his arrondissement.
+
+The ''commune d'arrondissement'' of [[Dakar-Plateau]] (34,626 inhabitants), in the arrondissement of Plateau/Gorée, is the historical heart of the city, and most ministries and public administrations are located there. The densest and most populous ''commune d'arrondissement'' is Médina (136,697&nbsp;inhabitants), in the arrondissement of Plateau/Gorée. The ''commune d'arrondissement'' of [[Yoff]] (55,995&nbsp;inhabitants), in the arrondissement of Almadies, is the largest one, while the smallest one is the ''commune d'arrondissement'' of [[Gorée|Île de Gorée]] (1,034&nbsp;inhabitants), in the arrondissement of Plateau/Gorée.
+
+Dakar is one of the 14&nbsp;[[regions of Senegal|''régions of Senegal'']]. The Dakar ''région'' encompasses the city of Dakar and all its suburbs along the [[Cap Vert|Cape Verde Peninsula]]. Its territory is thus roughly the same as the territory of the metropolitan area of Dakar. Since the administrative reforms of 1996, the ''régions'' of Senegal, which until then were merely local administrative structures of the central state, have been turned into full-fledged political units, with democratically elected regional councils, and regional presidents. They were given extensive powers, and manage economic development, transportation, or environmental protection issues at the regional level, thus coordinating the actions of the communes below them.
+
+Abdoulaye Wade was re-elected in 2007.
+
+==Notable places==
+[[File:DKR Railway station.JPG|thumb|The Dakar Railway Station]]
+[[File:Dakar cathedrale.jpg|thumb|The Dakar Cathedral]]
+[[File:Le Monument de la Renaissance africaine.jpg|thumb|[[African Renaissance Monument]]]]
+Attractions in Dakar include major [[Market (place)|market]]s, [[Dakar Grand Mosque]] (built in 1964), [[Dakar Cathedral]], [[Gorée|Gorée Island]], the [[IFAN Museum]] of [[West Africa]]n culture, the newly completed [[African Renaissance Monument]] is the [[List of statues by height|tallest statue in Africa]], [[cliff]]top walks and [[beach]]es, and [http://www.parcdehann.com/ Parc de Hann], aka the Senegal Zoo.
+
+The town serves as a port and is home to the [[Dakar-Yoff-Léopold Sédar Senghor International Airport|Léopold Sédar Senghor International Airport]]. It is also the terminus of the [[Dakar-Niger railroad line]].
+
+Dakar used to be the finishing point of the [[Dakar Rally]] and is a member of the [[Organization of World Heritage Cities]]. [[Cheikh Anta Diop University]] also known as the [[University of Dakar]], was established in 1957.
+
+==Notable natives and residents==
+*[[Abdoulaye Diagne-Faye]], footballer
+*[[Akon]], R&B singer (real name - Alioune Thiam)
+*[[Baaba Maal]], singer and guitarist
+*[[Boris Diaw]], basketball player, [[San Antonio Spurs]]
+*[[Bouna Coundoul]], footballer, [[Ethnikos Achna FC|Achna FC]]
+*[[Cheikh Samb]], basketball player, former [[Los Angeles Clippers]]
+*[[DeSagana Diop]], basketball player, [[Charlotte Bobcats]]
+*[[Élage Diouf]], singer, songwriter and percussionist (real name - El Hadji Fall Diouf)
+*[[Hamady Ndiaye]], basketball player [[Washington Wizards]]
+*[[Ibrahim Ba]], former footballer
+*[[Ismaël Lô]], singer-songwriter
+*[[Issa (Senegalese singer)|Issa]], R&B singer
+*[[Macoumba Kandji]], footballer, [[Colorado Rapids]]
+*[[Mamadou N'Diaye (basketball, born 1975)|Mamadou N'Diaye]], former basketball player for [[Auburn Tigers men's basketball|Auburn University]] and the [[Toronto Raptors]]
+*[[Mame Biram Diouf]], footballer, [[Stoke City F.C.|Stoke City]]
+*[[Marc Lièvremont]], former [[rugby union|rugby]] player and former head coach of the [[France national rugby union team]]
+*[[Mbaye Diagne]], United Nations military observer and hero during the Rwandan genocide
+*[[Ofeibea Quist-Arcton]], foreign correspondent for NPR News
+*[[Orchestra Baobab]]
+*[[Ousmane Barro]], basketball player, [[Marquette University]]
+*[[Papa Bouba Diop]], former footballer
+*[[Pape Paté Diouf]], football player
+*[[Papiss Cisse]], footballer, [[Newcastle United F.C.|Newcastle United]]
+*[[Patrice Evra]], footballer, [[Juventus]]
+*[[Patrick Vieira]], former footballer
+*[[Ségolène Royal]], French politician born in Dakar
+*[[Tacko Fall]], high school basketball player
+*[[Thione Seck]], singer and songwriter
+*[[Wasis Diop]], musician
+*[[Youssou N'Dour]], singer and percussionist
+
+==International relations==
+{{Main|List_of_twin_towns_and_sister_cities_in_Africa#Senegal|l1=List of twin towns and sister cities in Senegal}}
+
+Dakar is [[Twin towns and sister cities|twinned]] with:
+{{Div col|2}}
+*{{flagicon|USA}} [[Ann Arbor]], [[Michigan]], [[United States]]
+*{{flagicon|AZE}} [[Baku]], [[Azerbaijan]]<ref name="Azerbaijan twinnings">{{cite web|url=http://www.azerbaijans.com/content_1719_en.html|title=Twin-cities of Azerbaijan|accessdate=2013-08-09|work=Azerbaijans.com}}</ref>
+*{{flagicon|CMR}} [[Douala]], Cameroon
+*{{flagicon|IRN}} [[Isfahan]], [[Iran]]
+*{{flagicon|ITA}} [[Milan]], [[Italy]]<ref>{{cite web |url= http://www.comune.milano.it/portale/wps/portal/CDM?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/contentlibrary/In+Comune/In+Comune/Citt+Gemellate/ |title= Città Gemellate |publisher= Comune di Milano | language= Italian |accessdate= 6 April 2012}}</ref>
+*{{flagicon|ALG}} [[Oran]], [[Algeria]]
+*{{flagicon|BAN}} [[Rangpur, Bangladesh]]
+*{{flagicon|ARG}} [[Rosario, Santa Fe|Rosario]], [[Argentina]]<ref name="Rosario twinnings">{{cite web |url=http://www.rosario.gov.ar/mr/mri/www/city-city-program/town-twinning-agreements |title=Town Twinning Agreements |publisher=Municipalidad de Rosario - Buenos Aires 711 |accessdate=2014-10-14 }}</ref>
+*{{flagicon|GNB}} [[Bissau]], [[Guinea-Bissau]]
+*{{flagicon|USA}} [[Washington, D.C.]], [[United States]]<ref name="Washington DC">{{cite web |url= http://os.dc.gov/sites/default/files/dc/sites/os/publication/attachments/OS_DC_Dakar_Renewal_2006.pdf |title= DC Sister City Agreement |publisher= The District of Columbia |accessdate= 3 June 2014}}</ref>
+{{Div col end}}
+<ref>L. Bigon (2009) ''A History of Urban Planning in Two West African Colonial Capitals: Residential Segregation in British Lagos and French Dakar, 1850-1930'' Lewiston: The Edwin Mellen Press.</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikivoyage|Dakar}}
+{{Portal|Senegal}}
+*{{Commons category-inline|Dakar|'''Dakar'''}}
+*{{fr icon}} [http://villededakar.org/ Dakar official website]
+
+{{Communes of Dakar}}
+{{List of African capitals}}
+{{Authority control}}
+
+[[Category:Dakar| ]]
+[[Category:Capitals in Africa]]
+[[Category:French West Africa|Dakar 1677-1959]]
+[[Category:Populated coastal places in Senegal]]
+[[Category:Populated places established in 1857]]
+[[Category:Populated places in Dakar Region]]
+[[Category:Port cities in Africa]]
+[[Category:Regional capitals in Senegal]]

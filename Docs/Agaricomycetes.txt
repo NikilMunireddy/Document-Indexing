@@ -1,0 +1,139 @@
+Agaricomycetes
+
+{{Taxobox
+| name = Agaricomycetes
+| image = AD2009Sep20 Amanita muscaria 02.jpg
+| image_width = 250px
+| image_caption = ''[[Amanita muscaria]]'' ([[Agaricales]])
+| regnum = [[Fungi]]
+| subregnum = [[Dikarya]]
+| divisio = [[Basidiomycota]]
+| subdivisio = [[Agaricomycotina]]
+| classis = '''Agaricomycetes'''
+| classis_authority = Doweld (2001)<ref name=Doweld2001/>
+| subdivision_ranks = Subclasses/[[Order (biology)|Orders]]
+| subdivision =
+[[Agaricomycetidae]]<br>
+:[[Agaricales]] ([[List of Agaricales families|32 fam.]], [[List of Agaricales genera|410+ gen.]])
+:[[Amylocorticiales]] (1 fam., 14 gen.)
+:[[Atheliales]] (1 fam., 22 gen.)
+:[[Boletales]] (16 fam., 95+ gen.)
+:[[Jaapiales]] (1 fam., 1 gen.)
+:[[Lepidostromatales]] (1 fam., 3 gen.)
+[[Phallomycetidae]]<br>
+:[[Geastrales]] (1 fam., 8 gen.)
+:[[Gomphales]] (3 fam., 18 gen.)
+:[[Hysterangiales]] (5 fam., 18 gen.)
+:[[Phallales]] (2 fam., 26 gen.)
+''[[incertae sedis]]'' (no subclass)<br>
+:[[Auriculariales]] (6–7 fam., 30+ gen.)
+:[[Cantharellales]] (7 fam., 39 gen.)
+:[[Corticiales]] (3 fam., 30+ gen.)
+:[[Gloeophyllales]] (1 fam., 7 gen.)
+:[[Hymenochaetales]] (3 fam., 50+ gen.)
+:[[Polyporales]] (9 fam., ~200 gen.)
+:[[Russulales]] (12 fam., 80+ gen.)
+:[[Sebacinales]] (1 fam., 8 gen.)
+:[[Stereopsidales]] (1 fam., 2 gen.)
+:[[Thelephorales]] (2 fam., 18 gen.)
+:[[Trechisporales]] (1 fam., 15 gen.)
+}}
+
+'''Agaricomycetes''' is a [[class (biology)|class]] of [[fungi]]. The [[taxon]] is roughly identical to that defined for the '''Homobasidiomycetes'''  (alternatively called holobasidiomycetes) by Hibbett & Thorn,<ref name=Hibbett2001/> with the inclusion of [[Auriculariales]] and [[Sebacinales]]. It includes not only [[mushroom]]-forming fungi, but also most species placed in the deprecated taxa [[Gasteromycetes]] and Homobasidiomycetes.<ref name=Hibbett2007/>  Within the subdivision [[Agaricomycotina]], which already excludes the [[smut (fungus)|smut]] and [[rust (fungus)|rust]] fungi, the Agaricomycetes can be further defined by the exclusion of the classes [[Tremellomycetes]] and [[Dacrymycetes]], which are generally considered to be [[jelly fungus|jelly fungi]]. However, a few former "jelly fungi", such as ''[[Auricularia]]'', are classified in the Agaricomycetes.  According to a 2008 estimate, Agaricomycetes include 17 [[order (biology)|orders]], 100 [[family (biology)|families]], 1147 [[genus|genera]], and about 21000 [[species]].<ref name=Kirk2008/> Modern [[molecular phylogenetic]] analyses have been since used to help define several new orders in the Agaricomycetes: [[Amylocorticiales]], [[Jaapiales]],<ref name="Binder 2010"/> [[Stereopsidales]],<ref name="Sjökvist 2014"/> and [[Lepidostromatales]].<ref name="Hodkinson 2014"/>
+
+==Classification==
+
+Although [[morphology (biology)|morphology]] of the mushroom or [[basidiocarp|fruit body]] (basidiocarp) was the basis of early [[classification (biology)|classification]] of the Agaricomycetes,<ref name=Fries1874/> this is no longer the case.  As an example, the distinction between the ''[[Gasteromycetes]]'' (including [[puffball]]s) and ''Agaricomycetes'' (most other [[agaric]] mushrooms) is no longer recognized as a natural one—various puffball species have apparently evolved independently from agaricomycete fungi. However, most mushroom guide books still group the puffballs or gasteroid forms separate from other mushrooms because the older [[Elias Magnus Fries|Friesian]] classification is still convenient for categorizing fruit body forms.  Similarly, modern classifications divide the gasteroid order [[Lycoperdales]] between [[Agaricales]] and [[Phallales]].
+
+==Features==
+
+All members of the class produce basidiocarps and these range in size from tiny cups a few millimeters across to a giant [[polypore]] (''[[Phellinus ellipsoideus]]'') greater than several meters across and weighing up to {{convert|500|kg}}.<ref name=Dai2011/> The group also includes what are arguably the largest and oldest individual organisms on earth: the [[mycelium]] of one individual ''[[Armillaria gallica]]'' has been estimated to extend over 150,000&nbsp;square metres (37&nbsp;acres) with a mass of 10,000&nbsp;kg (22,000&nbsp;lb) and an age of 1,500&nbsp;years.<ref name=Smith1992/>
+
+==Ecology==
+Nearly all species are terrestrial (a few are aquatic), occurring in a wide range of environments where most function as decayers, especially of wood. However, some species are [[Forest pathology|pathogenic]] or [[parasitism|parasitic]], and yet others are [[symbiosis|symbiotic]] (i.e., [[Mutualism (biology)|mutualistic]]), these including the important [[ectomycorrhizal]] symbionts of forest trees. General discussions on the forms and [[biological life cycle|life cycles]] of these fungi are developed in the article on [[mushroom]]s, in the treatments of the various [[order (biology)|orders]] (links in table at right), and in individual species accounts.
+
+==Genera ''incertae sedis''==
+There are many genera in the Agaricomycetes that have not been classified in any order or family. These include:
+{{div col|cols=3}}
+*''[[Akenomyces]]''
+*''[[Aldridgea]]''
+*''[[Anixia]]''
+*''[[Arrasia]]''
+*''[[Arthrodochium]]''
+*''[[Arualis]]''
+*''[[Atraporiella]]''
+*''[[Cenangiomyces]]''
+*''[[Ceraceopsis]]''
+*''[[Corticomyces]]''
+*''[[Cruciger (fungus)|Cruciger]]''
+*''[[Dendrosporomyces]]''
+*''[[Ellula]]''
+*''[[Fibulochlamys]]''
+*''[[Fibulocoela]]''
+*''[[Fibulotaeniella]]''
+*''[[Geotrichopsis]]''
+*''[[Gloeoradulum]]''
+*''[[Gloeosynnema]]''
+*''[[Glomerulomyces]]''
+*''[[Glutinoagger]]''
+*''[[Grandinia]]''
+*''[[Granulocystis]]''
+*''[[Hallenbergia]]''
+*''[[Hyphobasidiofera]]''
+*''[[Hypolyssus]]''
+*''[[Intextomyces]]''
+*''[[Korupella]]''
+*''[[Minostroscyta]]''
+*''[[Mylittopsis]]''
+*''[[Odonticium]]''
+*''[[Pagidospora]]''
+*''[[Peniophorella]]''
+*''[[Phlyctibasidium]]''
+*''[[Pseudasterodon]]''
+*''[[Pycnovellomyces]]''
+*''[[Riessia]]''
+*''[[Riessiella]]''
+*''[[Taiwanoporia]]''
+*''[[Timgrovea]]''
+*''[[Titaeella]]''
+*''[[Trechinothus]]''
+*''[[Tricladiomyces]]''
+*''[[Trimitiella]]''
+*''[[Tubulicrinopsis]]''
+*''[[Xanthoporus]]''
+*''[[Xenosoma (fungus)|Xenosoma]]''
+{{div col end}}
+
+==References==
+{{Reflist|refs=
+
+<ref name="Binder 2010">{{cite journal |vauthors =Binder M, Larsson KH, Matheny PB, Hibbett DS |title=Amylocorticiales ord. nov. and Jaapiales ord. nov.: Early diverging clades of Agaricomycetidae dominated by corticioid forms |journal=Mycologia |year=2010 |volume=102 |issue= 4|pages=865–880 |pmid= 20648753|doi=10.3852/09-288}}</ref>
+
+<ref name=Dai2011>{{cite journal |vauthors =((Cui B-K)), ((Dai Y-C)) |year=2011 |title=''Fomitiporia ellipsoidea'' has the largest fruiting body among the fungi |journal=[[Fungal Biology]] |volume=115 |issue=9 |pages=813–814 |doi=10.1016/j.funbio.2011.06.008 |pmid=21872178}}</ref>
+
+<ref name=Doweld2001>{{cite book |author =Doweld A. |title=Prosyllabus Tracheophytorum, Tentamen systematis plantarum vascularium (Tracheophyta) |trans_title=An attempted system of the vascular plants |year=2001 |publisher=GEOS |location=Moscow, Russia |pages=1–111 |isbn=5-89118-283-1}}</ref>
+
+<ref name=Fries1874>{{cite book |author =Fries EM. |year=1874 |title=Hymenomycetes Europaei |publisher=Typis Descripsit Ed. Berling. |location=Uppsala |language=Latin |page=1 |url=http://www.archive.org/stream/hymenomyceteseu00friegoog#page/n10/mode/2up}}</ref>
+
+<ref name=Hibbett2001>{{cite book |vauthors =Hibbett DS, Thorn RG |editor=McLaughlin DJ |year=2001 |title=The Mycota, Vol. VII. Part B., Systematics and Evolution |pages=121–168 |location=Berlin, Germany |publisher=Springer-Verlag|display-editors=etal}}</ref>
+
+<ref name=Hibbett2007>{{cite journal |author =Hibbett DS | year=2007 |title=A higher level phylogenetic classification of the Fungi |journal=Mycological Research |volume=111 |issue=5 | pages=509–547 |doi=10.1016/j.mycres.2007.03.004 |pmid=17572334|display-authors=etal}}</ref>
+
+<ref name="Hodkinson 2014">{{cite journal |vauthors =Hodkinson BP, Moncada B, Lücking R |year=2014 |title=Lepidostromatales, a new order of lichenized fungi (Basidiomycota, Agaricomycetes), with two new genera, ''Ertzia'' and ''Sulzbacheromyces'', and one new species, ''Lepidostroma winklerianum'' |journal=Fungal Diversity |volume=64 |issue=1 |pages=165–179 |doi=10.1007/s13225-013-0267-0}}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors =Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, UK |year=2008 |pages=12–13 |isbn=0-85199-826-7}}</ref>
+
+<ref name="Sjökvist 2014">{{cite journal |vauthors =Sjökvist E, Pfeil BE, Larsson E, ((Larsson K-H)) |title=Stereopsidales – a new order of mushroom-forming fungi |journal=PLoS ONE |year=2014 |volume=9 |issue=8 |pages=e106204 |doi=10.1371/journal.pone.0095227}} {{open access}}</ref>
+
+<ref name=Smith1992>{{cite journal |vauthors =Smith M, Bruhn JH, Anderson JB |year=1992 |title=The fungus ''Armillaria bulbosa'' is among the largest and oldest living organisms |journal=Nature |volume=356 |pages=428–431 |doi=10.1038/356428a0 |issue=6368}}</ref>
+}}
+
+==External links==
+{{Commons category|Agaricomycetes}}
+* {{wikispecies-inline}}
+* [http://tolweb.org/Agaricomycetes/20535 Tree of Life Agaricomycetes by David S. Hibbett]
+* [http://www.mycokey.com/AAU/Systematics/SystematicsBasiSvamperiget.html Overview of the Basidiomycota from Aarhus University, Denmark]
+* [http://www.mykoweb.com/articles/Homobasidiomycete_clades.html Evolution & Morphology in the Homobasidiomycetes]
+
+[[Category:Agaricomycetes| ]]
+[[Category:Fungus classes]]

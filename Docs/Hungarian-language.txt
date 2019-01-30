@@ -1,0 +1,1103 @@
+Hungarian language
+
+{{Infobox language
+|name=Hungarian
+|nativename=''magyar''
+|pronunciation={{IPA-hu|ˈmɒɟɒr|}}
+|states=[[Hungary]] and areas of [[Austria]], [[Romania]], [[Serbia]], [[Slovakia]], [[Slovenia]], [[Ukraine]]
+|ethnicity=[[Hungarians]]
+|speakers = {{sigfig|12.6|2}} million
+|date     = 2002–2012
+|ref      = e18
+|familycolor=Uralic
+|fam2=[[Finno-Ugric languages|Finno-Ugric]] (traditional grouping)
+|nation=[[Hungary]]<br>[[Vojvodina]]<br> ''[[European Union]]''
+|minority= [[Romania]]<br> [[Croatia]]<br> [[Slovakia]]<br> [[Slovenia]] (in [[Prekmurje]])<br> [[Ukraine]] (in [[Berehove]])<br> [[Austria]] (in [[Burgenland]])
+|agency=[[Magyar Tudományos Akadémia Nyelvtudományi Intézete|Research Institute for Linguistics of the Hungarian Academy of Sciences]]
+|script=[[Latin script|Latin]] ([[Hungarian alphabet]])<br>[[Hungarian Braille]]<br>[[Old Hungarian script]]
+|iso1=hu
+|iso2=hun
+|lc1=hun|ld1=Modern Hungarian
+|lc2=ohu|ld2=Old Hungarian
+|linglist=ohu|lingname=Old Hungarian
+|lingua=41-BAA-a
+|glotto=hung1274
+|glottorefname=Hungarian
+|map=Idioma húngaro.PNG
+|mapcaption=Regions of [[Central Europe]] where those whose mother tongue is Hungarian represent a majority (dark blue) and a minority (light blue). ''Based on recent censuses and on the CIA World Factbook 2014''<ref>https://www.cia.gov/library/publications/the-world-factbook/geos/hu.html</ref>
+|notice=IPA
+}}
+{{Hungarian language}}
+
+'''Hungarian''' is the [[official language]] of [[Hungary]] and one of the 24 official languages of the [[European Union]]. Outside Hungary it is also spoken by communities of [[Hungarian people]] in neighboring countries—especially in [[Romania]], [[Slovakia]], [[Serbia]] and [[Ukraine]]—and by Hungarian [[diaspora]] communities worldwide. Like [[Finnish language|Finnish]] and [[Estonian language|Estonian]], it belongs to the [[Uralic languages|Uralic language family]], with its closest relatives being [[Mansi language|Mansi]] and [[Khanty language|Khanty]]. It is one of the few [[languages of Europe]] that are not part of the [[Indo-European languages|Indo-European]] family.
+
+The Hungarian name for the language is ''magyar'' {{IPA-hu|ˈmɒɟɒr|}} or ''magyar nyelv'' ({{audio|Hu-magyar_nyelv.ogg|listen}}). The word "[[wikt:Magyar|Magyar]]" is also used as an English word to refer to Hungarian people as an ethnic group, or to the language.
+
+==History==
+{{Main |History of the Hungarian language}}
+
+===Classification===
+{{See also|Regular sound correspondences between Hungarian and other Uralic languages}}
+Hungarian is a member of the [[Uralic languages|Uralic]] language family.  Linguistic connections between Hungarian and other Uralic languages were noticed in the 1670s, and the family itself (then called Finno-Ugric) was established in 1717, though the classification of Hungarian as a Uralic/Finno-Ugric rather than Turkic language continued to be a matter of impassioned political controversy through the 18th and into the 19th centuries. Hungarian has traditionally been assigned to a [[Ugric languages|Ugric]] branch within Uralic/Finno-Ugric, along with the [[Mansi language|Mansi]] and [[Khanty language|Khanty]] languages of western [[Siberia]] ([[Khanty–Mansia]] region), but it is no longer clear that this is a valid group.  When the [[Samoyed languages]] were determined to be part of the family, it was thought at first that Finnic and Ugric (Finno-Ugric) were closer to each other than to the Samoyed branch of the family, but this position is currently considered questionable.<ref name="SalmTax">[http://www.helsinki.fi/~tasalmin/kuzn.html Salminen, Tapani (2002): ''Problems in the taxonomy of the Uralic languages in the light of modern comparative studies'']</ref><ref>Michalove, Peter A. (2002) The Classification of the Uralic Languages: Lexical Evidence from Finno-Ugric. In: Finnisch-Ugrische Forschungen, vol. 57</ref>
+
+The [[name of Hungary]] could be a result of regular sound changes of ''Ungrian/Ugrian'', and the fact that the Eastern Slavs referred to Hungarians as ''Ǫgry/Ǫgrove'' (sg. ''Ǫgrinŭ'') seemed to confirm that.<ref>{{Citation | last = Lebedynsky | first = Iaroslav | language = French | title = Les Nomades: Les peuples nomades de la steppe des origines aux invasions mongoles | trans_title = The Nomads: the steppe nomad people from origins to Mongol invasions | page = 191}}.</ref> Current literature favors the hypothesis that it comes from the name of the Turkic tribe [[Onogurs|Onogur]] (which means "ten arrows" or "ten tribes").<ref>Sugar, P.F..''A History of Hungary''. University Press, 1996: p. 9</ref><ref>Maxwell, A.''Magyarization,''' Language Planning and Whorf: The word Uhor as a Case Study in Linguistic Relativism''Multilingua 23: 319, 2004.</ref><ref>Marcantonio, Angela. ''The Uralic Language Family: Facts, Myths and Statistics''. Blackwell Publishing, 2002: p. 19</ref>'''
+
+There are numerous regular sound correspondences between Hungarian and the other Ugric languages. For example, Hungarian {{IPA|/aː/}} corresponds to [[Khanty language|Khanty]] {{IPA|/o/}} in certain positions, and Hungarian {{IPA|/h/}} corresponds to Khanty {{IPA|/x/}}, while Hungarian final {{IPA|/z/}} corresponds to Khanty final {{IPA|/t/}}. For example, Hungarian ''ház'' {{IPA-hu|haːz|}} "house" vs. Khanty ''xot'' {{IPA|[xot]}} "house", and Hungarian ''száz'' {{IPA|[saːz]}} "hundred" vs. Khanty ''sot'' {{IPA|[sot]}} "hundred". The distance between the Ugric and Finnic languages is greater, but the correspondences are also regular.
+
+==== Early classification ====
+During the later half of the [[19th century]], a competing hypothesis proposed a Turkic affinity of Hungarian. Following an academic debate known as ''Az ugor-török háború'' ("the Ugric-Turkic battle"), the Finno-Ugric hypothesis was concluded the sounder of the two, foremost based on work by the German [[linguist]] [[Jozsef Budenz]].<ref>Linguistica Uralica: http://www.kirj.ee/public/va_lu/l37-2-1.pdf</ref>
+
+===Prehistory===
+
+It is thought that Hungarian separated from its [[Ugric languages|Ugric]] relatives in the first half of the [[1st millennium BC|1st millennium {{smallcaps|b.c.e.}}]], in western [[Siberia]], east of the southern [[Ural mountains|Urals]].<ref>Daniel Abondolo, “Introduction,” ''The Uralic Languages'' (London: Routledge, 1998), 1–42.</ref> The [[Hungarians]] gradually changed their lifestyle from settled hunters to [[Nomadic pastoralism|nomadic pastoralists]] (cattle, sheep), probably as a result of early contacts with Iranian nomads ([[Scythians]], [[Sarmatians]]). In Hungarian, Iranian loans date back to the time immediately following the breakup of [[Ugric languages|Ugric]] and probably span well over a millennium.<ref>Daniel Abondolo, “Hungarian,” ''The Uralic Languages'' (London: Routledge, 1998), 453.</ref> Among these include ''tehén'' ‘cow’ (cf. [[Avestan]] ''dhaénu''), ''tíz'' ‘ten’ (cf. Avestan ''dasa''), ''tej'' ‘milk’ (cf. Persian ''dáje'' ‘wet nurse’), and ''nád'' ‘reed’ (from late [[Middle Iranian]]; cf. [[Middle Persian]] ''nāy'').
+
+A small number of [[Anthropology|anthropologists]] disputed this theory, such as Hungarian historian and archaeologist [[Gyula László]] who claimed that [[geology|geological]] data from [[pollen analysis]] seems to contradict placing the ancient homeland of the Hungarians near the Urals.<ref>Laszlo Gyula, ''The Magyars: Their Life and Civilization'', (1996). On p. 37 he states, “This seemed to be an impeccable conclusion until attention was paid to the actual testimony of tree-pollen analyses, and these showed that the linguists had failed to take into account changes in the vegetation zones over the millennia. After analysis of the plant pollens in the supposed homeland of the Magyars, which were preserved in the soil, it became clear to scientists that the taiga and deciduous forests were only in contact during the second millennium B.C.E., which is much too late to have an impact on Finno-Ugrian history. So the territory sought by the linguists as the location of the putative ‘ancient homeland’ never existed. At 5,000-6,000B.C.E., the period at which the Uralic era has been dated, the [[taiga]] was still thousands of kilometers away from the Ural mountains and the mixed [[deciduous forest]] had only just begun its northward advance.”</ref> However, increasing archaeological evidence from present-day southern [[Bashkortostan]] found in the previous decades confirms the existence of Hungarian settlements between the [[Volga River]] and [[Ural Mountains]].<ref>Attila Türk, ''A magyar őstörténet és a szaltovói régészeti kultúrkör''. PhD, University of Szeged, 2011 [http://doktori.bibl.u-szeged.hu/1167/].</ref>
+
+The [[Onogurs]] (and Bulgars) later had a great influence on the language, especially between the 5th-9th centuries. This layer of Turkic loans is large and varied (e.g. ''szó'' ‘word’, from [[Turkic languages|Turkic]], ''daru'' ‘crane’, from the related [[Permic languages]]), and includes words borrowed from [[Oghur languages|Oghur Turkic]], e.g. ''borjú'' ‘calf’ (cf. [[Chuvash language|Chuvash]] ''păru'', ''părăv'' vs. [[Turkish language|Turkish]] ''buzağı''),<ref>András Róna-Tas & Árpád Berta, ''West Old Turkic: Turkic Loanwords in Hungarian. Part 1: Introduction, A-K'' (Wiesbaden: Harrassowitz, 2011), 151-2.</ref> ''dél'' ‘noon; south’ (cf. Chuvash ''tĕl'' vs. Turkish dial. ''düš'').<ref>Róna-Tas & Berta, ''WOT'' 2011/1: 291-4.</ref> Many words related to [[agriculture]],<ref>{{cite web|title=Hungary&nbsp;– Early history|url=http://memory.loc.gov/frd/cs/hutoc.html|work=[[Library of Congress]] (public domain)|accessdate=2008-06-29}}</ref> to [[Sovereign state|state]] administration or even to family relations have such backgrounds. Hungarian syntax and grammar were not influenced in a similarly dramatic way during these 300 years.
+[[File:Hu-funeral sermon and prayer OSZK.jpg|thumb|[[Funeral Sermon and Prayer]], 12th century]]
+[[File:Komjati sztpal.jpg|thumb|A page from the first book written completely in Hungarian from 1533]]
+
+After [[Hungarian Conquest of the Carpathian Basin|the arrival of the Hungarians into the Carpathian Basin]] the language came into contact with different speech communities (mainly Slavic, Turkic, German and Romanian). Turkic loans from this period come mainly from the [[Pechenegs]] and [[Cuman people|Cumanians]] who settled in Hungary during the 12th-13th centuries; e.g., ''koboz'' ‘[[cobza]]’ (cf. Turkish ''kopuz'' ‘lute’), ''[[komondor]]'' ‘mop dog’ (< *''kumandur'' < ''Cuman''). Hungarian borrowed many words from especially the neighboring Slavic languages (e.g., ''tégla'' ‘brick’, ''mák'' ‘poppy’, and ''karácsony''<ref>Gábor Zaicz, ''Etimológiai szótár: Magyar szavak és toldalékok eredete'', s.v. “karácsony” (Tinta Könyvkiadó, 2006) [http://www.tankonyvtar.hu/hu/tartalom/tinta/TAMOP-4_2_5-09_Etimologiai_szotar/adatok.html]</ref> ‘Christmas’). In exchange, these languages also borrowed words from Hungarian, e.g. [[Serbo-Croatian language|Serbo-Croatian]] ''ašov'' from Hung ''ásó'' ‘spade’. Approximately 1.6% of the [[Romanian language|Romanian]] [[lexicon]] is of Hungarian origin.<ref>Marius Sala, ''Vocabularul reprezentativ al limbilor romanice'' (Bucharest: Editura Ştiinţifică şi Enciclopedică, 1988).</ref><ref>Kim Schulte, "Loanwords in Romanian", ''Loanwords in the World's Languages: A Comparative Handbook'' (Berlin: De Gruyter Mouton, 2009), 239.</ref>
+
+===Old Hungarian===
+The first written accounts of Hungarian, mostly personal and place names, are dated back to the 10th century. Hungarians also had their own writing system, the [[Old Hungarian script]], but no significant texts remain from that time, as the usual medium of writing, wooden sticks, is perishable.
+
+The [[Kingdom of Hungary]] was founded in 1000, by [[Stephen I of Hungary]]. The country was a western-styled [[Christian]] ([[Roman Catholic]]) state, and [[Latin language|Latin]] held an important position, as was usual in the [[Middle Ages]]. The [[Latin script]] was adopted to write the Hungarian language and Latin influenced the language. The earliest remaining fragments of the language are found in the [[establishing charter of the abbey of Tihany]] from 1055, mixed into Latin text. The first extant text fully written in Hungarian is the [[Funeral Sermon and Prayer]], written in the 1190s. The orthography of these early texts was considerably different from the one used today, but when hearing a reconstructed spoken version, contemporary Hungarians can still understand a large part of it, though both vocabulary and grammar has changed to some extent since then. More extensive [[Hungarian literature]] arose after 1300. The earliest known example of Hungarian religious poetry is the 14th-century ''[[Lamentations of Mary]]''. The first Bible translation is the [[Hussite Bible]] from the 1430s.
+
+The standard language lost its [[diphthongs]], and several postpositions transformed into suffixes, such as ''reá'' "onto" (the phrase ''utu '''rea''''' "onto the way" found in the 1055 text would later become ''út'''ra'''''). There were also changes in the system of [[vowel harmony]]. At one time, Hungarian used six [[verb]] [[Grammatical tense|tenses]]; today, only two are commonly used (present and past; future is formed with an auxiliary verb and is usually not counted as a separate tense).
+
+===Modern Hungarian===
+[[File:Esztergom Jordánszky-kódex.JPG|thumb|The [[Bible]] in Hungarian.]]
+The first printed Hungarian book was published in [[Kraków]] in 1533, by [[Benedek Komjáti]]. The work's title is ''Az Szent Pál levelei magyar nyelven'' (In original spelling: ''Az zenth Paal leueley magyar nyeluen''), i.e. ''The letters of Saint Paul in the Hungarian language''. In the 17th century, the language was already very similar to its present-day form, although two of the past tenses were still used. [[German language|German]], [[Italian language|Italian]] and [[French language|French]] loans also appeared in the language by these years. Further Turkish words were borrowed during the [[Ottoman Hungary|Ottoman rule]] of part of Hungary between 1541 and 1699.
+
+In the 18th century a group of writers, most notably [[Ferenc Kazinczy]], began the process of language renewal (Hungarian: ''nyelvújítás''). Some words were shortened (''győzedelem'' > ''győzelem'', 'triumph' or 'victory'); a number of [[dialect]]al words spread nationally (e.g. ''cselleng'' 'dawdle'); extinct words were reintroduced (''dísz'' 'décor'); a wide range of expressions were coined using the various derivative suffixes; and some other, less frequently used methods of expanding the language were utilized. This movement produced more than ten thousand words, most of which are used actively today.
+
+The 19th and 20th centuries saw further standardization of the language, and differences between the mutually comprehensible dialects gradually lessened. In 1920, by signing the [[Treaty of Trianon]], Hungary lost 71% of its territory, and along with these, 33% of the ethnic Hungarian population. Today, the language is official in Hungary, and regionally also [[Hungarian minority in Romania|in Romania]], [[Hungarians in Slovakia|in Slovakia]], [[Hungarians in Vojvodina|in Serbia]], [[Hungarians in Austria|in Austria]] and in [[Slovenia]].
+
+==Geographic distribution==
+[[File:Hungarian language in Transylvania.svg|thumb|300px|Areas of [[Transylvania]] where Hungarian has co-official status (in the localities of those areas, at least 20% of the population is Hungarian).]]
+
+{|class="wikitable"
+|-
+!Country!!Speakers!!Notes
+|-
+|[[Hungary]]||align="right"| 9,896,333 ||(2011)<ref name="Hungarian census">[http://www.ksh.hu/nepszamlalas/tablak_teruleti_00 Hungarian census 2011 / Országos adatok / 1.1.4.2. A népesség nyelvismeret és nemek szerint (population by spoken language), 1.1.6.1 A népesség anyanyelv, nemzetiség és nemek szerint (population by mother tongue and ethnicity) (Hungarian)]</ref> 
+|-
+|[[Romania]]<br><small>(mainly [[Transylvania]])</small>||align="right"| 1,268,444 ||(2011)<ref>[http://www.recensamantromania.ro/wp-content/uploads/2012/08/TS5.pdf Romanian census 2011]</ref>
+|-
+|[[Slovakia]]<ref group="note">This number is a lower estimate, as 382,493 people (7.0% of the total population) did not specify their mother tongue.</ref>||align="right"|458 467|| (2011)<ref>[http://portal.statistics.sk/showdoc.do?docid=50553 Slovak census 2011]</ref>
+|-
+|[[Serbia]]<br><small>(mainly [[Vojvodina]])</small>||align="right"|293,299|| (2002)<ref>[http://webrzs.stat.gov.rs/Ter/epop.htm Serbian census 2002]</ref>
+|-
+|[[Ukraine]] <br><small>(mainly [[Zakarpattia Oblast|Zakarpattia]])</small>||align="right"|149,400 ||(2001)<ref>[http://www.ukrcensus.gov.ua/eng/results/general/language/ Ukrainian census 2001]  {{wayback|url=http://www.ukrcensus.gov.ua/eng/results/general/language/ |date=20130805060439 }}</ref>
+|-
+|[[United States]]||align="right"|117,973 ||(2000)<ref>[http://factfinder.census.gov/servlet/QTTable?_bm=y&-geo_id=01000US&-qr_name=DEC_2000_SF3_U_QTP16&-ds_name=DEC_2000_SF3_U United States census 2000]</ref>
+|-
+|[[Canada]]||align="right"|75,555 ||(2001)<ref>[http://www12.statcan.ca/english/census01/products/standard/themes/RetrieveProductTable.cfm?Temporal=2001&PID=55670&APATH=3&GID=431515&METH=1&PTYPE=55430&THEME=41&FOCUS=0&AID=0&PLACENAME=0&PROVINCE=0&SEARCH=0&GC=0&GK=0&VID=0&FL=0&RL=0&FREE=0 Canadian census 2001]</ref>
+|-
+|[[Israel]]||align="right"|70,000||
+|-
+|[[Austria]] <br><small>(mainly [[Burgenland]])</small>||align="right"|22,000||
+|-
+|[[Australia]] <br><small></small>||align="right"|20,883||2011<ref>[http://www.sbs.com.au/censusexplorer/ Australian census 2011]</ref>
+|-
+|[[Croatia]]||align="right"|16,500||
+|-
+|[[Slovenia]]<br><small>(mainly [[Prekmurje]])</small>||align="right"|9,240||
+|-
+|'''Total''' ||'''12–13 million'''||
+|}
+:''Source: National censuses, [[Ethnologue]]''
+
+Hungarian has about 13 million<ref name=Ethnologue>[http://www.ethnologue.com/language/hun  Ethnologue - Magyar]</ref><ref>Éva Szabó: Hungarian Practical Dictionary, George Blagowidow Publisher, US, 2005, pp. 9 [https://books.google.com/books?id=vpNOCLJImNkC&pg=PA9&dq=hungarian+language+%2B%22native+speakers%22+million&hl=en&sa=X&ei=I_AsT8SLAujgmAW0oqiOBQ&redir_esc=y#v=onepage&q=%22The%20total%20number%20of%20native%20speakers%20of%20Hungarian%20in%20the%20world%20is%20approximately%2014-15%20million%22&f=false]</ref><ref>Judit Hajnal Ward: Hungarian Dictionary & Phrasebook, Hippocrene Books, 2006, pp. 1 [https://books.google.com/books?id=Ox89vJtDfMYC&pg=PA1&dq=hungarian+language+%2B%22native+speakers%22+million&hl=en&sa=X&ei=I_AsT8SLAujgmAW0oqiOBQ&redir_esc=y#v=onepage&q=%22The%20total%20number%20of%20native%20speakers%20is%20about%2015%20million%2C%20making%20Hungarian%22&f=false]</ref> native speakers, of whom more than 9.8 million live in Hungary. According to the 2011 Hungarian census 9,896,333 people (99.6% of the total population) speak Hungarian, of whom 9,827,875 people (98.9%) speak it as a [[first language]], while 68,458 people (0.7%) speak it as a [[second language]].<ref name="Hungarian census"/> About 2.2 million speakers live in areas that were part of the [[Kingdom of Hungary]] before the [[Treaty of Trianon]] (1920). Of these, the largest group lives in [[Transylvania]], the western half of present-day [[Romania]], where there are approximately 1.25 million [[Hungarians in Romania|Hungarians]]. There are large Hungarian communities also in [[Hungarians in Slovakia|Slovakia]], [[Hungarians in Vojvodina|Serbia]] and [[Hungarians in Ukraine|Ukraine]], and Hungarians can also be found in [[Austria]], [[Croatia]], and [[Slovenia]], as well as about a million additional people scattered in other parts of the world. For example, there are more than one hundred thousand Hungarian speakers in the [[Hungarian American]] community and 1.5 million with Hungarian ancestry<ref>[http://factfinder.census.gov/servlet/DTTable?_bm=y&-state=dt&-context=dt&-reg=DEC_2000_SF4_U_PCT001:001%7C547;&-ds_name=ACS_2006_EST_G00_&-TABLE_NAMEX=&-ci_type=A&-mt_name=ACS_2006_EST_G2000_B04003&-CONTEXT=dt&-tree_id=4001&-all_geo_types=N&-redoLog=true&-geo_id=01000US&-search_results=01000US&-format=&-_lang=en United States Census Bureau, 2006]</ref> in the [[United States]].
+
+===Official status===
+[[File:Vojvodina hungarian map.png|thumb|300px|Official usage of Hungarian language in Vojvodina, Serbia]]
+Hungarian is the [[official language]] of Hungary, and thus an official language of the [[European Union]]. Hungarian is also one of the official languages of [[Vojvodina]] and an official language of three municipalities in [[Slovenia]]: [[Hodoš]], [[Dobrovnik]] and [[Lendava]], along with [[Slovene language|Slovene]]. Hungarian is officially recognized as a [[minority language|minority]] or [[regional language]] in [[Austria]], [[Croatia]], [[Romania]], [[Zakarpattia Oblast|Zakarpattia]] in [[Ukraine]], and [[Slovakia]]. In [[Romania]] it is a recognized minority language used at local level in communes, towns and municipalities with an ethnic Hungarian population of over 20%.{{citation needed|date=May 2013}}
+
+===Dialects===
+{{main|Hungarian dialects}}
+The [[dialects]] of Hungarian identified by [[Ethnologue]] are: Alföld, West Danube, Danube-Tisza, King's Pass Hungarian, Northeast Hungarian, Northwest Hungarian, Székely and West Hungarian.  These dialects are, for the most part, [[mutually intelligible]]. The Hungarian [[Csángó]] dialect, which is mentioned but not listed separately by Ethnologue, is spoken primarily in [[Bacău County]] in eastern Romania. The Csángó Hungarian group has been largely isolated from other  [[Hungarian people]], and they therefore preserved features that closely resemble earlier forms of Hungarian.
+
+==Phonetics and phonology==
+[[File:Hungarian vowel chart with rounded short a.svg|right|thumb|300px|Hungarian vowels]]
+{{Main|Hungarian phonology}}
+
+Hungarian has 14 vowel phonemes and 25 consonant phonemes. The vowel phonemes can be grouped as pairs of short and long vowels, e.g. ''o'' and ''ó''. Most of these pairs have a similar pronunciation, only varying significantly in their duration. However, the pairs ''a''/''á'' and ''e''/''é'' differ both in closedness and length.
+
+{| class="wikitable"
+|+Consonant phonemes of Hungarian<ref>{{Harvcoltxt|Szende|1994|p=91}}</ref>
+! &nbsp;
+![[bilabial consonant|Bilabial]]
+![[Labiodental consonant|Labio-<br>dental]]
+![[Alveolar consonant|Alveolar]]
+![[Postalveolar consonant|Post-<br>alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|- align=center
+![[Nasal stop|Nasal]]
+| {{IPA|m}}
+|
+| {{IPA|n}}
+|
+| {{IPA|ɲ}}
+|
+|
+|- align=center
+![[Plosive consonant|Plosive]]
+| {{IPA|p&nbsp;&nbsp;b}}
+|
+| {{IPA|t&nbsp;&nbsp;d}}
+|
+|
+| {{IPA|k&nbsp;&nbsp;ɡ}}
+|
+|- align=center
+![[affricate consonant|Affricate]]
+|
+|
+| {{IPA|t͡s&nbsp;&nbsp;d͡z}}
+| {{IPA|t͡ʃ&nbsp;&nbsp;d͡ʒ}}
+| {{IPA|c͡ç&nbsp;&nbsp;ɟ͡ʝ}}
+|
+|
+|- align=center
+![[fricative consonant|Fricative]]
+|
+| {{IPA|f&nbsp;&nbsp;v}}
+| {{IPA|s&nbsp;&nbsp;z}}
+| {{IPA|ʃ&nbsp;&nbsp;ʒ}}
+|
+|
+| {{IPA|h&nbsp;&nbsp;&nbsp;}}
+|- align=center
+![[Trill consonant|Trill]]
+|
+|
+| {{IPA|r}}
+|
+|
+|
+|
+|- align=center
+![[approximant consonant|Approximant]]
+|
+|
+|
+|
+| {{IPA|j}}
+|
+|
+|- align=center
+![[Lateral approximant|Lateral]]
+|
+|
+| {{IPA|l}}
+|
+|
+|
+|
+|}
+
+[[Consonant length]] is also distinctive in Hungarian. Most of the consonant phonemes can occur as [[Consonant length|geminates]].
+
+The sound [[voiced palatal plosive]] {{IPA|/ɟ/}}, written {{angle bracket|gy}}, sounds similar to 'd' in [[British English]] 'duty' (in fact, more similar to 'd' in [[French language|French]] 'dieu', or to the Macedonian phoneme 'ѓ' as in 'ѓакон'). It occurs in the name of the country, "Magyarország" (Hungary), pronounced {{IPA|/ˈmɒɟɒrorsaːɡ/}}.
+
+Single [[Alveolar tap|/r/s are tapped]] (e.g. ''akkora'' 'of that size'), double /r/s are trilled (e.g. ''akkorra'' 'by that time'), similar to the Spanish ''pero'' and ''perro''.
+
+===Prosody===
+Primary stress is always on the first [[syllable]] of a word, as in the related Finnish languages and in the neighboring languages Slovak and Czech. There is secondary stress on other syllables in compounds, e.g. ''viszontlátásra'' ("goodbye") pronounced {{IPA|/ˈvisontˌlaːtaːʃrɒ/}}. Elongated vowels in non-initial syllables may seem to be stressed to the ear of an English speaker, since length and stress correlate in English.
+
+==Grammar==
+{{Main |Hungarian grammar}}
+Hungarian is an [[agglutinative language]]. It uses various [[affix]]es, mainly [[suffix]]es, but also some [[prefix]]es and a [[circumfix]] to change a word's meaning and grammatical function.
+
+===Vowel harmony===
+Hungarian uses [[vowel harmony]] when attaching suffixes to words. This means that most suffixes have two or three different forms and the choice between them depends on the vowels of the head word. There are some minor and unpredictable exceptions to this rule.
+
+===Nouns===
+Nouns have a large number of [[Grammatical case|cases]] (up to 18, depending on definition), but in general, they are formed regularly with suffixes. The nominative case is unmarked (''az alma'' ‘the apple'), and for example, the accusative is marked with the suffix ''–t'' (''az almát'' ‘[I eat] the apple'). Half of the 18 cases express a combination of the source-location-target and surface-inside-proximity ternary distinctions (three times three cases), e.g. there is a separate case ending –''ból''/''–ből'' meaning a combination of source and insideness, i.e. 'from inside of'.
+
+Possession is expressed using a possessive suffix on the possessed object and not on the possessor (Peter's apple becomes ''Péter almája'', literally 'Peter apple-his'). Noun plurals are formed using the suffix&nbsp;''–k'' (''az almák'' ‘the apples’)—however, following a numeral, the singular is used (e.g. ''két alma'' ‘two apples’, literally ‘two apple’; not ''*két almák'').
+
+Unlike English, Hungarian has no [[Preposition and postposition|prepositions]]; instead, it uses case suffixes and [[Preposition and postposition|postpositions]].
+
+There are two types of [[article (grammar)|articles]] in Hungarian, definite and indefinite, roughly corresponding to the English equivalents.
+
+===Adjectives===
+Adjectives precede nouns (''a piros alma'' ‘the red apple’). They have three degrees: positive (''piros'' ‘red’), comparative (''pirosabb'' ‘redder’), and superlative ('' a legpirosabb'' ‘the reddest’). If the noun takes the plural or a case, the adjective, used attributively, does not agree with it: ''a piros almák'' ‘the red apples’. However, when the adjective is used in a predicative sense, it must agree with the noun:  ''az almák piros'''ak''''' ‘the apples are red’. Adjectives in themselves can behave as nouns (e.g. take case suffixes): ''Melyik almát kéred?&nbsp;– A piros'''at'''.'' 'Which apple would you like?&nbsp;– The red one.'
+
+===Verbs===
+{{See also|Hungarian verbs}}
+Verbs are conjugated according to two tenses (past and present), to three moods (indicative, conditional and imperative-subjunctive), to two numbers (singular or plural), to three persons (first, second and third) and to whether the object (if any) is definite. This latter feature is the most characteristic: the definite conjugation is used with a [[transitive verb]] whose (direct) object is definite (''Péter eszi az almát.'' "Peter eats the apple.") and the indefinite conjugation either for a verb with an indefinite direct object (''Péter eszik egy almát.'' "Peter eats an apple.") or for a verb without an object. (''Péter eszik.'' "Peter eats."){{Clarify|date=March 2015|reason=Does Hungarian also have the concept of indirect objects (equating in English to prepositional phrases); and if so, into which class would fall the conjugation of a verb with an indirect, definite object? (&quot;Peter watches for the apple.&quot;)}}
+Since conjugation expresses the person and number, personal pronouns are usually omitted, unless they are emphasized.<!-- A definite object usually has the definite article before it (e.g. ''az alma'' ‘the apple’), while an indefinite has the indefinite article (''egy alma'' ‘an apple’), or does not have any articles (this is sometimes used for generalization.) -->
+
+The [[Present tense]] is unmarked, while the past is formed using the suffix&nbsp;–t or –tt: ''lát'' 'sees'; ''látott'' 'saw', past. Future may be expressed either with the present tense (usually with a word defining the time of the event, such as ''holnap'' 'tomorrow'), or using the auxiliary verb ''fog'' (similar to the English ‘will’) together with the verb’s infinitive.
+
+The [[indicative mood]] and the [[conditional mood]] are used both in the present and the past tenses. Conditional past is expressed using the conjugated past form and the auxiliary word ''volna ''(''látott volna'' 'would have seen')''.'' The [[imperative mood]] is used only with the present tense.
+
+Verbs have [[verbal prefix]]es, also known as [[coverb]]s. Most of them define direction of movement (as ''lemegy'' "goes down", ''felmegy'' "goes up"). Some verbal prefixes give an [[Grammatical aspect|aspect]] to the verb, such as the prefix meg-, which generally marks [[telicity]].
+
+===Word order===
+The neutral word order is [[subject–verb–object]] (SVO). However, Hungarian is a [[topic-prominent language]], which means that [[word order]] does not only depend on syntax, but also on the [[topic-comment]] structure of the sentence (e.g. what aspect is assumed to be known and what is emphasized).
+
+A Hungarian sentence generally has the following order: topic, comment (or focus), verb, other parts.
+
+Putting something into the topic means that the proposition is only stated for that particular thing or aspect, and implies that the proposition is not true for some others. For example, in the sentence "''Az almát János látja." ''('John sees the apple', more exactly, 'It is John who sees the apple.', literally "The apple John sees."), the apple is in the topic, implying that other objects may not be seen by him, but by other people (the pear may be seen by Peter). The topic part may be empty.
+
+Putting something in the focus means that it is the new information for the listener that they may have not known or where their knowledge must be corrected. For example, in the sentence "''Én vagyok az apád." ''('I am your father', more exactly, 'It is I who am your father.') from the movie [[Star Wars: The Empire Strikes Back]], the pronoun I (''én'') is in the focus, implying that this is new information, and the listener thought that another person is his father.
+
+Note that sometimes this is described as Hungarian having free word order, even though different word orders are generally not interchangeable and the neutral order is not always correct to use. Besides word order, intonation is also different with different topic-comment structures. The topic usually has a rising intonation and the focus has a falling intonation. In the following examples the topic is marked with italics, and the focus (comment) with boldface.
+*János látja az almát. - ‘John sees the apple.’ Neutral sentence.
+*''János'' '''látja''' az almát. - ‘John '''does''' see the apple.’ - But Peter may not. (Putting John to the topic indicates that the proposition may not be true if we replace the topic, in this case John, by something else)
+*'''János''' látja az ''almát''. - ‘It is John who sees the apple.’ - The listener may have thought it was Peter.
+*''János''''' az almát '''látja. - ‘What John sees is the apple.’ - It is specifically the apple that John sees and not the pear. By contrast Peter may see the pear.
+*''Az almát''''' látja''' János. - 'The apple is indeed seen by John.' or more exactly 'Considering the apple, it is seeing what happens to it by John - But the pear may not be seen by him (but for example smelled).
+*''Az almát''''' János''' látja. - 'It is by John that the apple is seen.' - It is not by Peter. But the pear may be seen by Peter.
+
+==Politeness==
+{{Main|T–V distinction#Hungarian}}
+
+Hungarian has a four-tiered system for expressing levels of politeness.
+
+*''Ön'' (''önözés''): Use of this form in speech shows respect towards the person addressed, but it is also the common way of speaking in official texts and business communications. Here "you", the second person, is grammatically addressed in the third person.
+*''Maga'' (''magázás'', ''magázódás''): Use of this form serves to show that the speaker wishes to distance themself from the person they address. A boss could also address a subordinate as ''maga''. Aside from the different [[pronoun]] it is grammatically the same as "''önözés''".
+*''Néni/bácsi'' (''tetszikezés''): This is a somewhat affectionate way of expressing politeness and is grammatically the same as "''önözés''" or "''magázódás''", but adds a certain verb in auxiliary role "''tetszik''" ("like") to support the main verb of the sentence. For example, children are supposed to address adults who are not close friends by using "''tetszik''" ("you like"): "''Hogy vagy?''" ("How are you?") here becomes "''Hogy tetszik lenni?''" ("How do you like to be?"). The elderly, especially women, are generally addressed this way, even by adults.
+*''Te'' (''tegezés'', ''tegeződés'' or ''pertu'', [[per tu]] from [[Latin]]): Used generally, i.e. with persons with whom none of the above forms of politeness is required, and, in religious contexts, to address [[God]]. Interestingly, the highest rank, the [[king]], was traditionally addressed "per tu" by all, peasants and noblemen alike, though with Hungary not having had any crowned king since 1918, this practice survives only in folk tales and children's stories. Use of "''tegezés''" in the media and advertisements has become more frequent since the early 1990s. It is informal and is normally used in families, among friends, colleagues, among young people, and adults speaking to children; it can be compared to addressing somebody by their first name in English. Perhaps prompted by the widespread use of English (a language without [[T–V distinction]] [[thou|in most contemporary dialects]]) on the Internet, "''tegezés''" is also becoming the standard way to address people over the Internet, regardless of politeness.
+
+The four-tiered system has somewhat been eroded due to the recent expansion of "''tegeződés''".
+
+Some anomalies emerged with the arrival of multinational companies who have addressed their customers in the ''te'' (least polite) form right from the beginning of their presence in Hungary. A typical example is the Swedish furniture shop IKEA, whose web site and other publications address the customers in ''te'' form. When a news site<ref>http://www.kanizsaujsag.hu/hirek/8351/miert-tegezik-a-magyarokat-a-multik/</ref> asked IKEA—using the ''te'' form—why they address their customers this way, IKEA's PR Manager explained in his answer—using the ''ön'' form—that their way of communication reflects IKEA's open-mindedness and the Swedish culture. However IKEA in France use the most polite (''vous'') form. Another example is the communication of Telenor (a mobile network operator) towards its customers. Telenor chose to communicate towards business customers in the polite ''ön'' form while all other customers are addressed in the less polite ''te'' form.
+
+==Lexicon==
+{| class="wikitable" style="float:right;"
+|+ Examples with '''''ad'''''
+! Hungarian
+! English
+|-
+!colspan=2|Derived terms
+|-
+| ad
+| to give
+|-
+| adás
+| transmission
+|-
+| adó
+| tax or transmitter
+|-
+| adózik
+| to pay tax
+|-
+| adózó
+| taxpayer
+|-
+| adós
+| debtor
+|-
+| adósság
+| debt
+|-
+| adat
+| data
+|-
+| adakozik
+| to give (practise charity)
+|-
+| adalék
+| additive (ingredient)
+|-
+| adag
+| dose, portion
+|-
+| adomány
+| donation
+|-
+| adoma
+| anecdote
+|-
+!colspan=2|With verbal prefixes
+|-
+| átad
+| to hand over
+|-
+| bead
+| to hand in
+|-
+| elad
+| to sell
+|-
+| felad
+| to give up, to mail
+|-
+| hozzáad
+| to augment, to add to
+|-
+| kiad
+| to rent out, to publish, to extradite
+|-
+| lead
+| to lose weight, to deposit (an object)
+|-
+| megad
+| to repay (debt), to call (poker), to grant (permission)
+|-
+| összead
+| to add (to do mathematical addition)
+|}
+Giving an accurate estimate for the total word count is difficult, since it is hard to define what to call "a word" in [[agglutination|agglutinating]] languages, due to the existence of affixed words and compound words. To have a meaningful definition of compound words, we have to exclude such compounds whose meaning is the mere sum of its elements. The largest dictionaries from Hungarian to another language contain 120,000 words and phrases<ref name="kenesei-p77">''A nyelv és a nyelvek'' ("Language and languages"), edited by István Kenesei. Akadémiai Kiadó, Budapest, 2004, ISBN 963-05-7959-6, p. 77)</ref> (but this may include redundant phrases as well, because of translation issues). The new desk lexicon of the Hungarian language contains 75,000 words<ref name="kenesei-p77" /> and the Comprehensive Dictionary of Hungarian Language (to be published in 18 volumes in the next twenty years) will contain 110,000 words.<ref>[http://www.e-nyelv.hu/enyelv.php?page=hir_elem.php~id=41 The first two volumes of the 20-volume series were introduced on 13 November, 2006, at the Hungarian Academy of Sciences] (in Hungarian)</ref> The default Hungarian lexicon is usually estimated to comprise 60,000 to 100,000 words.<ref name="nadasdy-interview">[http://2000magyar.mindenkinet.hu/vendegszoba/tudomany/20031126amagyar.html?pIdx=3 "Hungarian is not difficult"] (interview with [[Ádám Nádasdy]])</ref> (Independently of specific languages, speakers actively use at most 10,000 to 20,000 words,<ref name="kenesei-p86">''A nyelv és a nyelvek'' ("Language and languages"), edited by István Kenesei. Akadémiai Kiadó, Budapest, 2004, ISBN 963-05-7959-6, p. 86)</ref> with an average intellectual using 25–30 thousand words.<ref name="nadasdy-interview" />) However, all the Hungarian lexemes collected from technical texts, dialects etc. would all together add up to 1,000,000 words.<ref name="kenesei-pp76-86">''A nyelv és a nyelvek'' ("Language and languages"), edited by István Kenesei. Akadémiai Kiadó, Budapest, 2004, ISBN 963-05-7959-6, pp. 76 and 86)</ref>
+
+Parts of the Lexicon can be organized using [[word-bushes]]. (See an example on the right.) The words in these bushes share a common root, are related through inflection, derivation and compounding, and are usually broadly related in meaning.
+
+The basic vocabulary shares a couple of hundred word roots with other [[Uralic languages]] like [[Finnish language|Finnish]], [[Estonian language|Estonian]], [[Mansi language|Mansi]] and [[Khanty language|Khanty]]. Examples of such include the verb ''él'' 'live' (Finnish ''elää''<ref name=Helsinki>{{cite web|title="Related words" in Finnish and Hungarian|url=http://www.helsinki.fi/~jolaakso/f-h-ety.html|publisher=Helsinki University Bulletin|accessdate=2008-06-15}}</ref>), the numbers ''kettő'' 'two', ''három'' 'three', ''négy'' 'four' (cf. [[Mansi language|Mansi]] китыг ''kitig'', хурум ''khurum'', нила ''nila'',
+[[Finnish language|Finnish]] ''kaksi, kolme, neljä'',<ref name=Helsinki/> [[Estonian language|Estonian]] ''kaks, kolm, neli'', ), as well as ''víz'' 'water', ''kéz'' 'hand', ''vér'' 'blood', ''fej'' 'head' (cf. Finnish<ref name=Helsinki/> and Estonian ''vesi, käsi, veri'', Finnish ''pää'',<ref name=Helsinki/> Estonian ''pea'' or 'pää'').
+
+Words for elementary kinship and nature are more Ugric, less [[Oghur languages|r-Turkic]] and less Slavic. Agricultural words are about 50% r-Turkic and 50% Slavic; pastoral terms are more r-Turkic, less Ugric and less Slavic. Finally, Christian and state terminology is more Slavic and less r-Turkic. The Slavic is most probably proto-Slovakian and/or -Slovenian. This is easily understood in the Uralic paradigm, proto-Magyars were first similar to Ob-Ugors who were mainly hunters, fishers & gatherers, but with some horses, too. Then they accultured to Bulgarian r-Turks, so the older layer of agriculture words (wine, beer, wheat, barley &c.) are purely r-Turkic, and also lots of termini of statemanship & religion were, too.<ref>[http://www.rmki.kfki.hu/~lukacs/DETREHUN.htm Proto-Magyar Textsv from the middle of 1st Middle of 1st Millenium? or Are they published or not? B. Lukács, President of Matter Evolution Subcommittee of the HAS. H-1525 Bp. 114. Pf. 49., Budapest, Hungary.]</ref>
+
+{{bar box
+| width = 300px
+| title = Origin of word roots in Hungarian<ref name="kenesei-p134">''A nyelv és a nyelvek'' ("Language and languages"), edited by István Kenesei. Akadémiai Kiadó, Budapest, 2004, ISBN 963-05-7959-6, p. 134)</ref>
+| titlebar = #ddd
+| bars =
+{{bar percent|Uncertain|red|30}}
+{{bar percent|Uralic|green|21}}
+{{bar percent|[[Slavic languages|Slavic]]|blue|20}}
+{{bar percent|[[Germanic languages|German]]|lightgreen|11}}
+{{bar percent|[[Turkic languages|Turkic]]|orange|9.5}}
+{{bar percent|[[Latin]] and [[Greek language|Greek]]|yellow|6}}
+{{bar percent|[[Romance languages|Romance]]|purple|2.5}}
+{{bar percent|Other known|brown|1}}
+}}
+
+Except for a few Latin and Greek loan-words, these differences are unnoticed even by native speakers; the words have been entirely adopted into the Hungarian lexicon. There are an increasing number of English loan-words, especially in technical fields.
+
+Another source <ref name="Halukinen-p307">''The Structure and Development of the Finnish Language'', The Uralic and Altaic Series: 1960–1993 V.1-150, By Denis Sinor, John R. Krueger, Lauri Hakulinen, Gustav Bayerle, Translated by John R. Krueger, Compiled by Gustav Bayerle, Contributor Denis Sinor, Published by Routledge, 1997
+ISBN 0-7007-0380-2, ISBN 978-0-7007-0380-7, 383 pages. p. 307</ref> differs in that loanwords in Hungarian are held to constitute about 45% of bases in the language. Although the lexical percentage of native words in Hungarian is 55%, their use accounts for 88.4% of all words used (the percentage of loanwords used being just 11.6%). Therefore, the history of Hungarian has come, especially since the 19th century, to favor neologisms from original bases, whilst still having developed as many terms from neighboring languages in the lexicon.
+
+===Word formation===
+Words can be compounds or derived.  Most derivation is with suffixes, but there is a small set of derivational prefixes as well.
+
+====Compounds====
+Compounds have been present in the language since the [[Proto-Uralic]] era. Numerous ancient compounds transformed to base words during the centuries. Today, compounds play an important role in vocabulary.
+
+A good example is the word ''arc'':
+
+:: ''orr'' (nose) + ''száj'' (mouth) → ''orca'' (face) (colloquial until the end of the 19th century and still in use in some dialects) > ''arc'' (face)<ref>{{cite web|url=http://www.nemzetismeret.hu/?id=3.2 |title=It's written in chapter Testrészek |publisher=Nemzetismeret.hu |date= |accessdate=2010-01-31}}</ref>
+
+Compounds are made up of two base words: the first is the prefix, the latter is the suffix. A compound can be ''subordinative'': <!-- subordinative is "alárendelő" in Hungarian; it was rather coined by me. I can't find *ANY* reference on this in English. If you can, please translate alárendelő properly. Other "Hunglish" words include subjective, objective, determinative, adjunctive and coordinative. --> the prefix is in logical connection with the suffix. If the prefix is the subject of the suffix, the compound is generally classified as a [[subjective case|subjective]] one. There are [[objective case|objective]], [[determiner (linguistics)|determinative]], and [[adjunct (grammar)|adjunct]]ive compounds as well. Some examples are given below:
+
+: Subjective:
+:: ''menny'' (heaven) + ''dörög'' (rumble) → ''mennydörög'' (thundering)
+:: ''nap'' (Sun) + ''sütötte'' (lit by) → ''napsütötte'' (sunlit)
+: Objective:
+:: ''fa'' (tree, wood) + ''vágó'' (cutter) → ''favágó'' (lumberjack, literally "woodcutter")
+: Determinative:
+:: ''új'' (new) + ''já'' (modification of ''-vá, -vé'' a suffix meaning "making it to something")  + ''építés'' (construction) → ''újjáépítés'' (reconstruction, literally "making something to be new by construction")
+: Adjunctive:
+:: ''sárga'' (yellow) + ''réz'' (copper) → ''sárgaréz'' (brass)
+
+According to current orthographic rules, a subordinative compound word has to be written as a single word, without spaces; however, if the length of a compound of three or more words (not counting one-syllable verbal prefixes) is seven or more [[syllables]] long  (not counting case suffixes), a hyphen must be inserted at the appropriate boundary to ease the determination of word boundaries for the reader.
+
+Other compound words are ''coordinatives'': there is no concrete relation between the prefix and the suffix. Subcategories include word duplications (to emphasise the meaning; ''olykor-olykor''
+'really occasionally'), twin words (where a base word and a distorted form of it makes up a compound: ''gizgaz'', where the suffix 'gaz' means 'weed' and the prefix ''giz'' is the distorted form; the compound itself means 'inconsiderable weed'), and such compounds which have meanings, but neither their prefixes, nor their suffixes make sense (for example, ''hercehurca'' 'complex, obsolete procedures').
+
+A compound also can be made up by multiple (i.e., more than two) base words: in this case, at least one word element, or even both the prefix and the suffix is a compound. Some examples:
+
+: ''elme'' [mind; standalone base] + (''gyógy'' [medical] + ''intézet'' [institute]) → ''elmegyógyintézet'' ([[Psychiatric hospital|asylum]])
+: (''hadi'' [militarian] + ''fogoly'' [prisoner]) + (''munka'' [work] + ''tábor'' [camp]) → ''hadifogoly-munkatábor'' (work camp of prisoners of war)
+
+===Noteworthy lexical items===
+
+====Points of the compass====
+Hungarian words for the points of the compass are directly derived from the position of the [[Sun]] during the [[day]] in the [[Northern hemisphere]].
+
+*North = észak (from "éj(szaka)", 'night'), as the Sun never shines from the North
+*South = dél ('noon'), as the Sun shines from the South at noon
+*East = kelet ('rise'), as the Sun rises in the East
+*West = nyugat ('set'), as the Sun sets in the West
+
+====Two words for "red"====
+<!-- Must this "red" issue really be this long? -->
+
+There are two basic words for "red" in Hungarian: "piros" and "vörös" (variant: "veres"; compare with Estonian "verev" or Finnish "punainen"). (They are basic in the sense that one is not a sub-type of the other, as the English "scarlet" is of "red".) The word "vörös" is related to "vér", meaning "blood" (Finnish and Estonian "veri"). When they refer to an actual difference in color (as on a color chart), "vörös" usually refers to the deeper (darker and/or more red and less orange) hue of red. In English similar differences exist between "scarlet"  and "red". While many languages have multiple [[color name|names for this color]], often Hungarian scholars assume this is unique in recognizing two shades of red as separate and distinct "[[folk colour]]s".<ref name="basiccolor">Berlin, B and Kay, P (1969). "Basic Color Terms." Berkeley and Los Angeles: University of California Press</ref>
+
+However, the two words are also used independently of the above in [[collocation]]s. "Piros" is learned by children first, as it is generally used to describe inanimate, artificial things, or things seen as cheerful or neutral, while "vörös" typically refers to animate or natural things (biological, geological, physical and astronomical objects), as well as serious or emotionally charged subjects.
+
+When the rules outlined above are in contradiction, typical collocations usually prevail. In some cases where a typical collocation does not exist, the use of either of the two words may be equally adequate.
+
+Examples:
+*Expressions where "red" typically translates to "piros": a red road sign, red traffic lights, the red line of [[Budapest Metro]], red (now called express) bus lines in Budapest, a holiday shown in red in the calendar, ruddy complexion, the red nose of a clown, some red flowers (those of a neutral nature, e.g. tulips), red peppers and paprika, red card suits (hearts and diamonds), red stripes on a flag (but the [[red flag (politics)|red flag]] and its variants translate to "vörös"), etc.
+*Expressions where "red" typically translates to "vörös": [[Red Sea]], [[Red Square]], [[Red Army]], [[Red Baron]], [[Erik the Red]], [[red wine]], red carpet (for receiving important guests), red hair or beard, red lion (the mythical animal), the [[Red Cross]], the novel ''[[The Red and the Black]]'', [[redshift]], [[red giant]], [[red blood cell]]s, [[List of Quercus species#Section Lobatae|red oak]], some red flowers (those with passionate connotations, e.g. roses), red fox, names of ferric and other red minerals, red copper, rust, red phosphorus, the colour of blushing with anger or shame, the red nose of an alcoholic (in contrast with that of a clown, see above), the red posterior of a baboon, red meat, [[litmus test|litmus]] paper (in acid), cities, countries, or other political entities associated with [[leftist]] movements (e.g. [[Red Vienna]], [[Russian Soviet Federative Socialist Republic|Red Russia]]), etc.
+
+====Kinship terms====
+The Hungarian words for brothers and sisters are differentiated based upon relative age. There is also a general word for sibling, testvér, from ''test'' = body and ''vér'' = blood—i.e. originating from the same body and blood.
+{| class="wikitable"
+|-
+| ||younger||elder||unspecified<br>relative age
+|-
+|brother||''öcs<!--yes, it's written as "öcs", not "öccs"-->''||''báty<!-- it is written as "báty", not "bátya" -->''||''fivér'' or<br>''fiútestvér''
+|-
+|sister||''húg''||''nővér''||''nővér'' or<br>''lánytestvér''
+|-
+|sibling|| <small>''kistestvér''</small> || <small>''(nagytestvér)''</small> ||''testvér''
+|}
+
+(There used to be a separate word for "elder sister", ''néne'',<!-- NEM NÉNI, HANEM NÉNE, E-VEL--> but it has become obsolete [except to mean "aunt" in some dialects] and has been replaced by the generic word for "sister".)
+
+In addition, there are separate prefixes for several ancestors and descendants:
+
+{| class="wikitable"
+|parent||grandparent||great-<br>grandparent||great-great-<br>grandparent||great-great-great-<br>grandparent
+|-
+||''szülő''||''nagyszülő''||''dédszülő''||''ükszülő''||''szépszülő''<br>(OR ''ük-ükszülő'')
+|-
+|child||grandchild||great-<br>grandchild||great-great-<br>grandchild||great-great-great-<br>grandchild
+|-
+|''gyerek''||''unoka''||''dédunoka''||''ükunoka''||''szépunoka''<br>(OR ''ük-ükunoka'')
+|}
+
+The words for "boy" and "girl" are applied with possessive suffixes. Nevertheless, the terms are differentiated with different declension or lexemes:
+
+{| class="wikitable"
+|-
+| ||boy/girl||(his/her)<br>son/daughter||(his/her)<br>lover, partner
+|-
+|male||''fiú''||''fia''||''fiúja/barátja''
+|-
+|female||''lány''||''lánya''||''barátnője''
+|}
+
+''Fia'' is only used in this, irregular possessive form; it has no nominative on its own (see [[inalienable possession]]). However, the word ''fiú'' can also take the regular suffix, in which case the resulting word ''(fiúja)'' will refer to a lover or partner (boyfriend), rather than a male offspring.
+
+The word ''fiú'' (boy) is also often noted as an extreme example of the ability of the language to add suffixes to a word, by forming ''fiaiéi'', adding vowel-form suffixes only, where the result is quite a frequently used word:
+
+{|class="wikitable"
+|-
+| fiú || boy
+|-
+| fia || his/her son
+|-
+| fiai || his/her sons
+|-
+| fiáé || his/her son's (singular object)
+|-
+| fiáéi || his/her son's (plural object)
+|-
+| fiaié || his/her sons' (singular object)
+|-
+| fiaiéi || his/her sons' (plural object)
+|}
+
+====Extremely long words====
+*''megszentségteleníthetetlenségeskedéseitekért''
+: Partition to root and suffixes with explanations:
+{|class="wikitable"
+|-
+| meg- || verb prefix; in this case, it means "completed"
+|-
+| szent || holy (the word root)
+|-
+| -ség || like English "-ness", as in "holiness"
+|-
+| -t(e)len || variant of "-tlen", noun suffix expressing the lack of something; like English "-less", as in "useless"
+|-
+| -ít || constitutes a transitive verb from an adjective
+|-
+| -het || expresses possibility; somewhat similar to the English modal verbs "may" or "can"
+|-
+| -(e)tlen || another variant of "-tlen"
+|-
+| -ség || (see above)
+|-
+| -es || constitutes an adjective from a noun; like English "-y" as in "witty"
+|-
+| -ked || attached to an adjective (e.g. "strong"), produces the verb "to pretend to be (strong)" <!-- cf. "okoskodik", "erősködik"; the "-ik" is dropped due to the further suffixes, thus it is better not to mark it in the table -->
+|-
+| -és || constitutes a noun from a verb; there are various ways this is done in English, e.g. "-ance" in "acceptance"
+|-
+| -eitek || plural possessive suffix, second-person plural (e.g. "apple" → "your apples", where "your" refers to multiple people)
+|-
+| -ért || approximately translates to "because of", or in this case simply "for"
+|}
+
+: '''Translation:''' "for your [plural] repeated pretending to be indesecrable"<!-- the element "repeated" comes from -ségeskedés-, which can refer to a constant and annoying habit-->
+
+The above word is often considered to be the longest word in Hungarian, although there are longer words like:
+
+* ''legeslegmegszentségteleníttethetetlenebbjeitekként''
+:''leges-leg-meg-'''''szent'''''-ség-telen-ít-tet-het-etlen-ebb-je-i-tek-ként''
+:"like those of you that are the very least possible to get desecrated"
+
+Words of such length are not used in practice, but when spoken they are easily understood by natives. They were invented to show, in a somewhat facetious way, the ability of the language to form long words (see [[agglutinative language]]). They are not compound words—they are formed by adding a series of one and two-syllable suffixes (and a few prefixes) to a simple root ("szent", saint or holy).
+There is virtually no limit for the length of words, but when too many suffixes are added, the meaning of the word becomes less clear, and the word becomes hard to understand, and will work like a riddle even for native speakers.
+
+====Hungarian words in English====
+The English word best known as being of Hungarian origin is probably ''[[paprika]]'', from Serbo-Croatian ''papar'' "pepper" and the Hungarian diminutive ''-ka''.  The most common however is ''[[Coach (carriage)|coach]]'', from ''kocsi'', originally ''kocsi szekér'' "car from/in the style of [[Kocs]]".  Others are:
+
+* [[shako]], from ''csákó'', from ''csákósüveg'' "peaked cap"
+* [[sabre]], from ''szablya''
+* [[wikt:heyduck|heyduck]], from ''hajdúk'', plural of ''hajdú'' "brigand"
+* [[tolpatch]], from ''talpas'' "foot-soldier", apparently derived from ''talp'' "[[sole (foot)|sole]]".
+
+==Writing system==
+{{Main|Hungarian alphabet|Hungarian orthography|Hungarian braille}}
+[[File:Tihany 1055.PNG|thumb|The oldest surviving words written in Hungarian, from the founding declaration of the [[Tihany|Benedictine Abbey of Tihany]], 1055. <br> It reads "''feheruuaru rea meneh hodu utu rea''" (in modern Hungarian "''Fehérvárra menő hadi útra''", meaning "''to the military road going to [[Székesfehérvár|Fehérvár]]''")]]
+[[File:A 4-es táblája.jpg|thumb|Hungarian language road sign.]]
+
+[[File:Codex of munchen - bible in hungarian.jpg|thumb|Medieval Hungarian book (a copy of the [[Hussite Bible]]), 1466]]
+
+The Hungarian language was originally written in right-to-left [[Old Hungarian alphabet|Old Hungarian runes]], superficially similar in appearance to the better-known [[futhark]] runes but unrelated. When [[Stephen I of Hungary]] established the [[Kingdom of Hungary]] in the year 1000, the old system was gradually discarded in favour of the Latin alphabet and left-to-right order. Although now not used at all in everyday life, the old script is still known and practiced by some enthusiasts.
+
+Modern Hungarian is written using an expanded [[Latin script|Latin alphabet]], and has a [[phoneme|phonemic]] orthography, i.e. pronunciation can generally be predicted from the written language. In addition to the standard letters of the Latin alphabet, Hungarian uses several modified Latin characters to represent the additional vowel sounds of the language. These include letters with acute accents ''(á,é,í,ó,ú)'' to represent long vowels, and umlauts (''ö'' and ''ü'') and their long counterparts [[Double acute accent|''ő'' and ''ű'']] to represent front vowels. Sometimes (usually as a result of a technical glitch on a computer) {{angle bracket|ô}} or {{angle bracket|õ}} is used for {{angle bracket|ő}}, and {{angle bracket|û}} for {{angle bracket|ű}}. This is often due to the limitations of the [[ISO/IEC 8859-1|Latin-1 / ISO-8859-1 code page]]. These letters are not part of the Hungarian language, and are considered misprints. Hungarian can be properly represented with the [[ISO/IEC 8859-2|Latin-2 / ISO-8859-2 code page]], but this [[code page]] is not always available. (Hungarian is the only language using both {{angle bracket|ő}} and {{angle bracket|ű}}.) [[Unicode]] includes them, and so they can be used on the Internet.
+
+Additionally, the letter pairs [[Hungarian ny|{{angle bracket|ny}}]], [[Hungarian ty|{{angle bracket|ty}}]], and [[Hungarian gy|{{angle bracket|gy}}]] represent the palatal consonants {{IPA|/ɲ/}}, {{IPA|/c/}}, and {{IPA|/ɟ/}} (a little like the "d+y" sounds in British "''du''ke" or American "woul''d y''ou")&nbsp;– a bit like saying "d" with the tongue pointing to the [[palate]].
+
+Hungarian uses {{angle bracket|s}} for {{IPA|/ʃ/}} and [[Hungarian sz|{{angle bracket|sz}}]] for {{IPA|/s/}}, which is the reverse of [[Polish language|Polish]] usage. The letter [[Hungarian zs|{{angle bracket|zs}}]] is {{IPA|/ʒ/}} and [[Hungarian cs|{{angle bracket|cs}}]] is {{IPA|/t͡ʃ/}}. These digraphs are considered single letters in the alphabet. The letter [[Hungarian ly|{{angle bracket|ly}}]] is also a "single letter digraph", but is pronounced like {{IPA|/j/}} (English {{angle bracket|y}}), and appears mostly in old words. The letters [[Hungarian dz|{{angle bracket|dz}}]] and [[Hungarian dzs|{{angle bracket|dzs}}]] {{IPA|/d͡ʒ/}} are exotic remnants and are hard to find even in longer texts. Some examples still in common use are ''madzag'' ("string"), ''edzeni'' ("to train (athletically)") and ''dzsungel'' ("jungle").
+
+Sometimes additional information is required for partitioning words with digraphs: házszám ("street number") = ''ház'' ("house") + ''szám'' ("number"), not an unintelligible ''házs'' + ''zám''.
+
+Hungarian distinguishes between long and short vowels, with long vowels written with acutes. It also distinguishes between long and short consonants, with long consonants being doubled. For example, ''lenni'' ("to be"), ''hozzászólás'' ("comment"). The digraphs, when doubled, become trigraphs: {{angle bracket|sz}} + {{angle bracket|sz}} = {{angbr|ssz}}, e.g. ''művésszel'' ("with an artist"). But when the digraph occurs at the end of a line, all of the letters are written out. For example, ("with a bus"):
+:... ''busz-''
+:''szal''...
+
+When the first lexeme of a compound ends in a digraph and the second lexeme starts with the same digraph, both digraphs are written out: ''jegy'' + ''gyűrű'' = ''jegygyűrű'' ("engagement/wedding ring", ''jegy'' means "sign", "mark". The term ''jegyben lenni/járni'' means "to be engaged"; ''gyűrű'' means "ring").
+
+Usually a trigraph is a double digraph, but there are a few exceptions: ''tizennyolc'' ("eighteen") is a concatenation of ''tizen'' + ''nyolc''. There are doubling [[minimal pair]]s: ''tol'' ("push") vs. ''toll'' ("feather" or "pen").
+
+While to English speakers they may seem unusual at first, once the new orthography and pronunciation are learned, written Hungarian is almost completely phonemic (except for etymological spellings and "ly, j" representing {{IPA|/j/}}).
+
+==Word order==
+The [[word order]] is basically from general to specific. This is a typical analytical approach and is used generally in Hungarian.
+
+===Name order===
+{{Main|Hungarian names}}
+The Hungarian language uses the so-called eastern [[Personal name#Name order|name order]], in which the surname (general, deriving from the family) comes first and the [[given name]] comes last. If a second given name is used, this follows the first given name.
+
+====Hungarian names in foreign languages====
+For clarity, in foreign languages Hungarian names are usually represented in the western name order. Sometimes, however, especially in the neighbouring countries of Hungary&nbsp;– where there is a [[Treaty of Trianon|significant Hungarian population]]&nbsp;– the Hungarian name order is retained, as it causes less confusion there.
+
+For an example of foreign use, the birth name of the Hungarian-born physicist, the "father of the [[hydrogen bomb]]" was '''''Teller Ede''''', but he immigrated to the USA in the 1930s and thus became known as '''''[[Edward Teller]]'''''. Prior to the mid-20th century, given names were usually translated along with the name order; this is no longer as common. For example, the pianist uses ''[[András Schiff]]'' when abroad, not ''Andrew Schiff'' (in Hungarian ''Schiff András''). If a second given name is present, it becomes a middle name and is usually written out in full, rather than truncated to an initial.
+
+====Foreign names in Hungarian====
+In modern usage, foreign names retain their order when used in Hungarian. Therefore:
+
+*Amikor ''Kiss János'' Los Angelesben volt, látta ''John Travoltát.'' (means: When Kiss János was in Los Angeles he saw John Travolta.)
+:The Hungarian name ''Kiss János'' is in the Hungarian name order (''János'' is equivalent to ''John''), but the foreign name ''John Travolta'' remains in the western name order.
+
+Before the 20th century, not only was it common to reverse the order of foreign personalities, they were also "Hungarianised": ''Goethe János Farkas'' (originally [[Johann Wolfgang Goethe]]). This usage sounds odd today, when only a few well-known personalities are referred to using their Hungarianised names, including ''Verne Gyula'' ([[Jules Verne]]), ''Marx Károly'' ([[Karl Marx]]), ''Kolumbusz Kristóf'' ([[Christopher Columbus]], note that it is also translated in English).
+
+Some native speakers disapprove of this usage; the names of certain historical religious personalities (including popes), however, are always Hungarianised by practically all speakers, such as ''Luther Márton'' ([[Martin Luther]]), ''Husz János'' ([[Jan Hus]]), ''Kálvin János'' ([[John Calvin]]); just like the names of [[monarch]]s, for example the king of Spain, [[Juan Carlos I]] is referred to as ''I. János Károly'' or the queen of the UK, [[Elizabeth II]] is referred to as ''II. Erzsébet''.
+
+[[Japanese names]], which are usually written in western order in the rest of Europe, retain their original order in Hungarian, e. g. ''Kuroszava Akira'' instead of [[Akira Kurosawa]].
+
+====Date and time====
+The Hungarian convention for date and time is to go from the generic to the specific: 1. year, 2. month, 3. day, 4. hour, 5. minute, (6. second)
+
+The year and day are always written in [[Arabic numerals]], followed by a [[full stop]]. The month can be written by its full name or can be abbreviated, or even denoted by [[Roman numerals|Roman]] or Arabic numerals. Except for the first case (month written by its full name), the month is followed by a full stop. Usually, when the month is written in letters, there is no leading zero before the day. On the other hand, when the month is written in Arabic numerals, a leading zero is common, but not obligatory. Except at the beginning of a sentence, the name of the month always begins with a lower-case letter.
+
+Hours, minutes, and seconds are separated by a colon (H:m:s). Fractions of a second are separated by a full stop from the rest of the time. Hungary generally uses the [[24-hour clock]] format, but in verbal (and written) communication [[12-hour clock]] format can also be used. See below for usage examples.
+
+Date and time may be separated by a comma or simply written one after the other.
+
+*2008. február 9. 16:23:42 ''or'' 2008. február 9., 16:23:42
+*2008. febr. 9.
+*2008. 02. 09. ''or'' 2008. 2. 9. (rarely)
+*2008. II. 9.
+
+Date separated by [[hyphen]] is also spreading, especially on datestamps. Here&nbsp;– just like the version separated by full stops&nbsp;– leading zeros are in use.
+
+*2008-02-09
+
+When only hours and minutes are written in a sentence (so not only "displaying" time), these parts can be separated by a [[full stop]] (e.g. "Találkozzunk 10.35-kor."&nbsp;– "Let's meet at 10.35."), or it is also regular to write hours in normal size, and minutes put in [[superscript]] (and not necessarily) underlined (e.g. "A találkozó 10<sup>35</sup>-kor kezdődik." ''or'' "A találkozó 10<sup><u>35</u></sup>-kor kezdődik."&nbsp;– "The meeting begins at 10.35.").
+
+Also, in verbal and written communication it is common to use "délelőtt" (literally "before noon") and "délután" (lit. "after noon") abbreviated as "de." and "du." respectively. Délelőtt and délután is said or written before the time, e.g. "Délután 4 óra van."&nbsp;– "It's 4 p.m.". However e.g. "délelőtt 5 óra" (should mean "5 a.m.") or "délután 10 óra" (should mean "10 p.m.") are never used, because at these times the sun is not up, instead "hajnal" ("dawn"), "reggel" ("morning"), "este" ("evening") and "éjjel" ("night") is used, however there are no exact rules for the use of these, as everybody uses them according to their habits (e.g. somebody may have woken up at 5 a.m. so he/she says "Reggel 6-kor ettem."&nbsp;– "I had food at ''*morning'' 6.", and somebody woke up at 11 a.m. so he/she says "Hajnali 6-kor még aludtam."&nbsp;– "I was still sleeping at ''*dawn'' 6."). Roughly, these expressions mean these times:
+{|class="wikitable"
+|-
+!Expression!!Approximate time
+|-
+|Hajnal||4–6 a.m.
+|-
+|Reggel||6–9 a.m.
+|-
+|Délelőtt (de.)||9 a.m.&nbsp;– 12 p.m.
+|-
+|Dél*||=12 p.m. (="noon")
+|-
+|Délután (du.)||12–6 p.m.
+|-
+|Este||6–11 p.m.
+|-
+|Éjjel||11 p.m.&nbsp;– 4 a.m.
+|-
+|Éjfél*||=12 a.m. (="midnight")
+|}
+* * "Dél" and "éjfél" mean these exact times, so using time after them is incorrect. So there is '''no''' "Éjfél 0-kor még buliztunk" ("We were still partying at ''*midnight 0''.") or "Dél 12-kor süt a nap." ("The sun shines at ''*noon 12''."). Instead "Éjfél'''kor''' még buliztunk." and "Dél'''ben''' süt a nap." is correct. (More confusingly, one can say "Dél'''i''' 12-kor süt a nap.", meaning "The sun shines at 12 '''of''' noon.", i.e. "The sun shines at 12, which is the 12 of daytime.") "Délen süt a nap" on the other hand means "The sun shines in the south", as Dél means both noon and south.
+
+==== Addresses ====
+
+Although address formatting is increasingly being influenced by standard European conventions, the traditional Hungarian style is:
+
+'''Budapest, Deák Ferenc tér 1. 1052'''
+
+So the order is: 1) settlement (most general), 2) street/square/etc. (more specific), 3) house number (most specific) 4)(HU-)postcode. The house number may be followed by the storey and door numbers. The HU- part before the postcode is only for incoming postal traffic from foreign countries. Addresses on envelopes and postal parcels should be formatted and placed on the right side as follows:
+
+Name of the recipient<br />
+Settlement<br />
+Street address (up to door number if necessary)<br />
+(HU-)postcode
+
+==Vocabulary examples==
+''Note: The stress is always placed on the first syllable of each word.  The remaining syllables all receive an equal, lesser stress.  All syllables are pronounced clearly and evenly, even at the end of a sentence, unlike in English.''
+
+*Hungarian (person, language): ''magyar'' {{IPA|[mɒɟɒr]}}
+*Hello!:
+**Formal, when addressing a stranger: "Good day!": ''Jó napot (kívánok)!'' {{IPA|[joːnɒpot kivaːnok].}}
+**Informal, when addressing a close acquaintance: ''Szia!'' {{IPA|[siɒ]}}
+*Good-bye!: ''Viszontlátásra!'' {{IPA|[visontlaːtaːʃrɒ]}} (formal) (see above), ''Viszlát!'' {{IPA|[vislaːt]}} (semi-informal), ''Szia!'' (informal: same stylistic remark as for "Hello!" )
+*Excuse me: ''Elnézést!'' {{IPA|[ɛlneːzeːʃt]}}
+*Please:
+**''Kérem (szépen)'' {{IPA|[keːrɛm seːpɛn]}} (This literally means "I'm asking (it/you) ''nicely''", as in German ''Bitte schön''. See next for a more common form of the polite request.)
+**''Legyen szíves!'' {{IPA|[lɛɟɛn sivɛʃ]}}  (literally: "Be (so) kind!")
+*I would like ____, please: ''Szeretnék ____'' {{IPA|[sɛrɛtneːk]}} (this example illustrates the use of the [[conditional tense]], as a common form of a polite request; it literally means "I would like".)
+*Sorry!: ''Bocsánat!'' {{IPA|[botʃaːnɒt]}}
+*Thank you: ''Köszönöm'' {{IPA|[køsønøm]}}
+*that/this: ''az'' {{IPA|[ɒz]}}, ''ez'' {{IPA|[ɛz]}}
+*How much?: ''Mennyi?'' {{IPA|[mɛɲːi]}}
+*How much does it cost?: ''Mennyibe kerül?'' {{IPA|[mɛɲːibɛ kɛryl]}}
+*Yes: ''Igen'' {{IPA|[iɡɛn]}}
+*No: ''Nem'' {{IPA|[nɛm]}}
+*I do not understand: ''Nem értem'' {{IPA|[nɛm eːrtɛm]}}
+*I do not know: ''Nem tudom'' {{IPA|[nɛm tudom]}}
+*Where's the toilet?:
+**''Hol (van) a vécé?'' {{IPA|[hol vɒn ɒ veːtseː]}} (vécé/veːtseː is the Hungarian pronunciation of the English abbreviation of "Water Closet")
+**''Hol (van) a mosdó?'' {{IPA|[hol vɒn ɒ moʒdoː]}}&nbsp;– more polite (and word-for-word) version
+*generic toast: ''Egészségünkre!'' {{IPA|[ɛɡeːʃːeːɡyŋkrɛ]}} (literally: "To our health!")
+*juice: ''gyümölcslé'' {{IPA|[ɟymøltʃleː]}}
+*water: ''víz'' {{IPA|[viːz]}}
+*wine: ''bor'' {{IPA|[bor]}}
+*beer: ''sör'' {{IPA|[ʃør]}}
+*tea: ''tea'' {{IPA|[tɛɒ]}}
+*milk: ''tej'' {{IPA|[tɛj]}}
+*Do you speak English?: ''Beszél(sz) angolul?'' {{IPA|[bɛseːl / bɛseːls ɒŋɡolul]}} Note that the fact of ''asking'' is only shown by the proper intonation: continually rising until the penultimate syllable, then falling for the last one.
+*I love you: ''Szeretlek'' {{IPA|[sɛrɛtlɛk]}}
+*Help!: ''Segítség!'' {{IPA|[ʃɛɡiːtʃeːɡ]}}
+*It is needed: ''kell''
+*I need to go: ''Mennem kell''
+
+==Controversy over origins==
+Today the [[scientific consensus]] among linguists is that Hungarian is part of the [[Uralic languages|Uralic]] family of languages. For many years (from 1869), it was a matter of dispute whether Hungarian was a Finno-Ugric/Uralic language, or was more closely related to the [[Turkic languages]], a controversy known as the "Ugric–Turkish war",<ref>elanguage.net/journals/pragmatics/article/download/205/144</ref> or whether indeed both the Uralic and the Turkic families formed part of a superfamily of "[[Ural–Altaic languages]]". Hungarians did absorb some Turkic influences during several centuries of cohabitation. For example, it appears that the Hungarians learned animal breeding techniques from the Turkic [[Chuvash people|Chuvash]], as a high proportion of words specific to agriculture and livestock are of Chuvash origin. There was also a strong Chuvash influence in burial customs. Furthermore, all Ugric languages, not just Hungarian, have Turkic loanwords related to horse riding.
+
+There have been attempts, dismissed by mainstream linguists as [[Pseudoscientific language comparison|pseudoscientific comparisons]], to show that Hungarian is related to other languages including [[Hebrew language|Hebrew]], [[Hunnic language|Hunnic]], [[Sumerian language|Sumerian]], [[Egyptian language|Egyptian]], [[Etruscan language|Etruscan]], [[Basque language|Basque]], [[Persian language|Persian]], [[pelasgian language|Pelasgian]], [[Greek language|Greek]], [[Chinese language|Chinese]], [[Sanskrit language|Sanskrit]], [[English language|English]], [[Tibetic languages|Tibetan]], [[Magar language|Magar]], [[Quechua language|Quechua]], [[Armenian language|Armenian]], [[Japanese language|Japanese]] and at least 40 other languages.<ref name="zsirai">'''Miklós Zsirai''': ''Őstörténeti csodabogarak''. Budapest, 1943.</ref>
+
+==Comparison of Uralic words==
+[[wikt:Appendix:Swadesh lists for Uralic languages|Wiktionary: Swadesh lists for Uralic languages]]
+
+{| class="wikitable"
+|-
+!c=hu| Hungarian
+!c=su| Finnish
+!c=fi| Estonian
+!c=et| Mordvinic (Erzya dialect)
+!c=04| Komi-Permyak
+| '''English<br>meaning'''
+!i=No| # by the <br>[[Swadesh list]]
+|-
+|c=hu| '''én'''
+|i=No| '''minä'''
+|c=et| '''mina'''
+|c=04| '''мон''' ''mon''
+|c=05| '''ме''' ''me''
+| I, myself, me
+|c=su| 1
+|-
+|c=hu| '''te'''
+|c=su| '''sinä'''
+|c=et| '''sina'''
+|c=04| '''тон''' ''ton''
+|c=05| '''тэ''' ''te''
+| you/thou
+|i=No| 2
+|-
+|c=hu| '''mi'''
+|c=su| '''me'''
+|c=et| '''meie''', '''me'''
+|c=04| '''минь''' ''miń''
+|c=05| '''ми''' ''mi''
+| we
+|i=No| 4
+|-
+|c=hu| '''ti'''
+|c=su| '''te'''
+|c=et| '''teie''', '''te'''
+|c=04| '''тынь''' ''tyń''
+|c=05| '''ти''' ''ti''
+| you (plural)
+|i=No| 5
+|-
+|c=hu| ez/itt
+|c=su|tämä/täällä
+|c=et| see
+|c=04| те ''te''
+|c=05| тайö ''tajö''
+| this/here
+|i=No| 7
+|-
+|c=hu| az/ott
+|c=su| tuo/tuolla
+|c=et| too
+|c=04| што ''što''
+|c=05| сійö ''sijö''
+| that/there
+|i=No| 8
+|-
+|c=hu| '''ki?'''
+|c=su| '''kuka?'''
+|c=et| '''kes?'''
+|c=04| '''кие?''' ''kije?''
+|c=05| '''коді?''' ''kodi?''
+| who?
+|i=No| 11
+|-
+|c=hu| '''mi?'''
+|c=su| '''mitä? mikä?'''
+|c=et| '''mis?'''
+|c=04| '''мезе?''' ''meze?''
+|c=05| '''мый?''' ''myj?''
+| what?
+|i=No| 12
+|-
+|c=hu| '''egy'''
+|c=su| '''yksi'''
+|c=et| '''üks'''
+|c=04| '''вейке''' ''vejke''
+|c=05| '''öтік''' ''ötik''
+| one
+|i=No| 22
+|-
+|c=hu| '''kettő'''
+|c=su| '''kaksi'''
+|c=et| '''kaks'''
+|c=04| '''кавто''' ''kavto''
+|c=05| '''кык''' ''kyk''
+| two
+|i=No| 23
+|-
+|c=hu| '''három'''
+|c=su| '''kolme'''
+|c=et| '''kolm'''
+|c=04| '''колмо''' ''kolmo''
+|c=05| '''куим''' ''kuim''
+| three
+|i=No| 24
+|-
+|c=hu| '''négy'''
+|c=su| '''neljä'''
+|c=et| '''neli'''
+|c=04| '''ниле''' ''nile''
+|c=05| '''нёль''' ''ńol''
+| four
+|i=No| 25
+|-
+|c=hu| '''öt'''
+|c=su| '''viisi'''
+|c=et| '''viis'''
+|c=04| '''вете''' ''vete''
+|c=05| '''вит''' ''vit''
+| five
+|i=No| 26
+|-
+|c=hu| '''nej'''
+|c=su| '''nainen''' 'woman'
+|c=et| '''naine'''
+|c=04| '''ни''' ''ni''
+|c=05| гöтыр ''götyr''
+| wife
+|i=No| 40
+|-
+|c=hu| anya
+|c=su| äiti
+|c=et| ema
+|c=04| (тиринь) ава ''(tiriń) ava''
+|c=05| мам ''mam''
+| mother
+|i=No| 42
+|-
+|c=hu| '''fa'''
+|c=su| '''puu'''
+|c=et| '''puu'''
+|c=04| чувто ''čuvto''
+|c=05| '''пу''' ''pu''
+| tree, wood
+|i=No| 51
+|-
+|c=hu| '''vér'''
+|c=su| '''veri'''
+|c=et| '''veri'''
+|c=04| '''верь''' ''veŕ''
+|c=05| '''вир''' ''vir''
+| blood
+|i=No| 64
+|-
+|c=hu| '''haj'''
+|c=su| '''hius''', '''hiukset'''
+|c=et| '''juuksed'''
+|c=04| черь ''čeŕ''
+|c=05| юрси ''jursi''
+| hair
+|i=No| 71
+|-
+|c=hu| '''fej'''
+|c=su| '''pää'''
+|c=et| '''pea'''
+|c=04| пря ''pŕa''
+|c=05| юр ''jur''
+| head
+|i=No| 72
+|-
+|c=hu| '''fül'''
+|c=su| korva
+|c=et| kõrv
+|c=04| '''пиле''' ''pile''
+|c=05| '''пель''' ''peĺ''
+| ear
+|i=No| 73
+|-
+|c=hu| '''szem'''
+|c=su| '''silmä'''
+|c=et| '''silm'''
+|c=04| '''сельме''' ''seĺme''
+|c=05| '''син''' ''sin''
+| eye
+|i=No| 74
+|-
+|c=hu| ''orr''
+|c=su| nenä
+|c=et| nina
+|c=04| судо ''sudo''
+|c=05| ''ныр'' ''nyr''
+| nose
+|i=No| 75
+|-
+|c=hu| '''száj'''
+|c=su| '''suu'''
+|c=et| '''suu'''
+|c=04| курго ''kurgo''
+|c=05| вом ''vom''
+| mouth
+|i=No| 76
+|-
+|c=hu| ''fog''
+|c=su| hammas
+|c=et| hammas
+|c=04|''пей'' ''pej''
+|c=05|''пинь''  ''piń''
+| tooth
+|i=No| 77
+|-
+|c=hu| láb
+|c=su| jalka
+|c=et| jalg
+|c=04| пильге ''piĺge''
+|c=05| кок ''kok''
+| foot
+|i=No| 80
+|-
+|c=hu| '''kéz'''
+|c=su| '''käsi'''
+|c=et| '''käsi'''
+|c=04| '''кедь''' ''ked́''
+|c=05| '''ки''' ''ki''
+| hand
+|i=No| 83
+|-
+|c=hu| '''szív'''/szűny
+|c=su| '''sydän'''
+|c=et| '''süda'''
+|c=04| '''седей''' ''sedej''
+|c=05| '''сьöлöм''' ''śölöm''
+| heart
+|i=No| 90
+|-
+|c=hu| '''inni'''
+|c=su| '''juoda'''
+|c=et| '''jooma'''
+|c=04| ''симемс'' ''simems''
+|c=05| '''юны''' ''juny''
+| to drink
+|i=No| 92
+|-
+|c=hu|'''tudni'''
+|c=su| '''tietää'''
+|c=et| '''teadma'''
+|c=04| ''содамс'' ''sodams''
+|c=05| '''тöдны''' ''tödny''
+| to know
+|i=No| 103
+|-
+|c=hu| '''élni'''
+|c=su| '''elää'''
+|c=et| '''elama'''
+|c=04| '''эрямс''' ''eŕams''
+|c=05| '''овны''' ''ovny''
+| to live
+|i=No| 108
+|-
+|c=hu| '''víz'''
+|c=su| '''vesi'''
+|c=et| '''vesi'''
+|c=04| '''ведь''' ''ved́''
+|c=05| '''ва''' ''va''
+| water
+|i=No| 150
+|-
+|c=hu| '''kő'''
+|c=su| '''kivi'''
+|c=et| '''kivi'''
+|c=04| '''кев''' ''kev''
+|c=05| из ''iz''
+| stone
+|i=No| 156
+|-
+|c=hu| ''ég''/'''menny'''
+|c=su| taivas
+|c=et| taevas
+|c=04| '''менель''' ''meneĺ''
+|c=05| ''енэж'' ''jenezh''
+| sky/heaven
+|i=No| 162
+|-
+|c=hu| '''szél'''
+|c=su| '''tuuli'''
+|c=et| '''tuul'''
+|c=04| варма ''varma''
+|c=05| '''тöв''' ''töv''
+| wind
+|i=No| 163
+|-
+|c=hu| '''tűz'''
+|c=su| '''tuli'''
+|c=et| '''tuli'''
+|c=04| '''тол''' ''tol''
+|c=05| би ''bi''
+| fire
+|i=No| 167
+|-
+|c=hu| '''éj'''
+|c=su| '''yö'''
+|c=et| '''öö'''
+|c=04| '''ве''' ''ve''
+|c=05| '''вой''' ''voj''
+| night
+|i=No| 177
+|}
+
+==See also==
+*[[Hungarian grammar]]
+*[[Hungarian grammar (verbs)|Hungarian verbs]]
+*[[Hungarian noun phrase]]
+*[[Hungarian phonology]]
+*[[History of the Hungarian language]]
+*[[Hungarian Cultural Institute]]
+*[[List of English words of Hungarian origin]]
+*[[The BABEL Speech Corpus]]
+*''[[Magyar szótár]]'' (Dictionary of the Hungarian Language)
+
+==Bibliography==
+
+===Courses===
+* ''MagyarOK&nbsp;– Text book and exercise book for beginners''.  Szita, Szilvia; Pelcz, Katalin (2013). Pécs; Pécsi Tudományegyetem. [http://www.magyar-ok.hu/ MagyarOK website] ISBN 978-963-7178-68-9.
+*''Colloquial Hungarian&nbsp;– The complete course for beginners''.  Rounds, Carol H.; Sólyom, Erika (2002). London; New York: Routledge. ISBN 0-415-24258-4.
+:This book gives an introduction to the Hungarian language in 15 chapters. The dialogues are available on CDs.
+
+*''Teach Yourself Hungarian&nbsp;– A complete course for beginners''. Pontifex, Zsuzsa (1993). London: Hodder & Stoughton. Chicago: NTC/Contemporary Publishing.  ISBN 0-340-56286-2.
+:This is a complete course in spoken and written Hungarian. The course consists of 21 chapters with dialogues, culture notes, grammar and exercises.  The dialogues are available on cassette.
+
+*''Hungarolingua 1&nbsp;– Magyar nyelvkönyv''. Hoffmann, István; et al. (1996). [http://www.nyariegyetem.hu/ Debreceni Nyári Egyetem]. ISBN 963-472-083-8
+*''Hungarolingua 2&nbsp;– Magyar nyelvkönyv''. Hlavacska, Edit; et al. (2001). [http://www.nyariegyetem.hu/ Debreceni Nyári Egyetem].  ISBN 963-03-6698-3
+*''Hungarolingua 3&nbsp;– Magyar nyelvkönyv''. Hlavacska, Edit; et al. (1999).  [http://www.nyariegyetem.hu/ Debreceni Nyári Egyetem].  ISBN 963-472-083-8
+:These course books were developed by the University of Debrecen Summer School program for teaching Hungarian to foreigners. The books are written completely in Hungarian and therefore unsuitable for self study. There is an accompanying 'dictionary' with translations of the Hungarian vocabulary into English, German, and French for the words used in the first two books.
+*"NTC's Hungarian and English Dictionary" by Magay and Kiss. ISBN 0-8442-4968-8 (You may be able to find a newer edition also. This one is 1996.)
+
+===Grammars===
+* ''Gyakorló magyar nyelvtan / A Practical Hungarian grammar'' (2009, 2010). Szita Szilvia, Görbe Tamás. Budapest: Akadémiai Kiadó. 978 963 05 8703 7.
+* ''A practical Hungarian grammar'' (3rd, rev. ed.). Keresztes, László (1999). Debrecen: Debreceni Nyári Egyetem. ISBN 963-472-300-4.
+*''[[s:Simplified Grammar of the Hungarian Language|Simplified Grammar of the Hungarian Language]]'' (1882). Ignatius Singer. London: Trübner & Co.
+*''Practical Hungarian grammar: [a compact guide to the basics of Hungarian grammar]''. Törkenczy, Miklós (2002). Budapest: Corvina. ISBN 963-13-5131-9.
+*''Hungarian verbs and essentials of grammar: a practical guide to the mastery of Hungarian'' (2nd ed.). Törkenczy, Miklós (1999). Budapest: Corvina; Lincolnwood, [Ill.]: Passport Books. ISBN 963-13-4778-8.
+*''Hungarian: an essential grammar'' (2nd ed.). Rounds, Carol (2009).  London; New York: Routledge. ISBN 0-415-77737-2.
+*''Hungarian: Descriptive grammar''. Kenesei, István, Robert M. Vago, and Anna Fenyvesi (1998).  London; New York: Routledge. ISBN 0-415-02139-1.
+*[http://www.rpi.edu/~sofkam/magyar.html Hungarian Language Learning References] (including the short reviews of three of the above books)
+*''Noun Declension Tables&nbsp;– HUNGARIAN''. Budapest: [http://www.pons.hu/index.php?action=termek&id=81 Pons]. [http://www.klett.hu/termekcsalad/250 Klett]. ISBN 978-963-9641-04-4
+*''Verb Conjugation Tables&nbsp;– HUNGARIAN''. Budapest: [http://www.pons.hu/index.php?action=termek&id=82 Pons]. [http://www.klett.hu/termekcsalad/253 Klett]. ISBN 978-963-9641-03-7
+
+===Others===
+* Abondolo, Daniel Mario: ''Hungarian Inflectional Morphology''. Akadémiai publishing. Budapest, 1988. ISBN 9630546302
+* Balázs, Géza: ''The Story of Hungarian. A Guide to the Language.'' Translated by Thomas J. DeKornfeld. Corvina publishing. Budapest, 1997. ISBN 9631343626
+* Stephanides, Éva H. (ed.): ''Contrasting English with Hungarian''. Akadémiai publishing. Budapest, 1986. ISBN 9630539500
+
+==Notes==
+{{reflist|group="note"}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Wikibooks|Hungarian}}
+{{InterWiki|code=hu}}
+{{wiktionary category}}
+{{commons category|Hungarian language}}
+{{Wikivoyage|Hungarian phrasebook|Hungarian|a phrasebook}}
+* [http://magyarora.com Free downloadable Hungarian teaching and learning material]
+* [http://impulzus.sch.bme.hu/info/magyar.shtml Introduction to Hungarian]
+* [http://www.lmp.ucla.edu/Profile.aspx?LangID=31&menu=004 Hungarian Profile]
+*[http://member.melbpc.org.au/~tmajlath/form-suffix.html List of formative suffixes in Hungarian]
+* [http://www.histdoc.net/sounds/hungary.html The relationship between the Finnish and the Hungarian languages]
+*[http://how-to-learn-any-language.com/e/languages/hungarian/index.html Hungarian Language Review] at How-to-learn-any-language.com
+* [http://stp.ling.uu.se/~bea/publ/megyesi-hungarian.pdf "The Hungarian Language: A Short Descriptive Grammar"] by Beáta Megyesi (PDF document)
+* [http://www.indiana.edu/~iuihsl/homethisisoldbutgoodone.html The old site of the Indiana University Institute of Hungarian Studies (various resources)]
+* [http://www.rpi.edu/~sofkam/magyar.html Hungarian Language Learning References] on the Hungarian Language Page (short reviews of useful books)
+* [http://users.tpg.com.au/etr/oldhu/halotti.html One of the oldest Hungarian texts&nbsp;– A Halotti Beszéd (The Funeral Oration)]
+* [http://wiki.langwiki.info/Hungarian WikiLang]&nbsp;– Hungarian Page (Hungarian grammar / lessons, in English)
+* [http://en.wiktionary.org/wiki/Appendix:Hungarian_Swadesh_list Hungarian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+*[https://www.livelingua.com/fsi-hungarian-course.php  Basic Hungarian language course (book + audio files)] USA Foreign Service Institute (FSI)
+
+===Encyclopaedia Humana Hungarica===
+* [http://mek.oszk.hu/01900/01993/html/index2.html Introduction to the History of the Language; The Pre-Hungarian Period; The Early Hungarian Period; The Old Hungarian Period]
+* [http://mek.oszk.hu/01900/01955/html/index2.html The Linguistic Records of the Early Old Hungarian Period; The Linguistic System of the Age]
+* [http://mek.oszk.hu/01900/01949/html/index2.html The Old Hungarian Period; The System of the Language of the Old Hungarian Period]
+* [http://mek.oszk.hu/01900/01919/html/index2.html The Late Old Hungarian Period; The System of the Language]
+* [http://mek.oszk.hu/01900/01911/html/index2.html The First Half of the Middle Hungarian Period; Turkish Loan Words]
+
+===Dictionaries===
+* [http://dict.sztaki.hu/english-hungarian Hungarian ↔ English] created by the Hungarian Academy of Sciences&nbsp;– Computer and Automation Research Institute [http://www.sztaki.hu/?en MTA SZTAKI] (also includes dictionaries for the following languages to and from Hungarian : German, French, Italian, Dutch, and Polish)
+* [http://hu.bab.la/sz%C3%B3t%C3%A1r/angol-magyar/ bab.la] - Online Hungarian-English dictionary and language learning portal
+* [http://www.finnhun.com English-Hungarian-Finnish]&nbsp;– three-language freely editable online dictionary
+* [http://www.muszaki-forditas.lap.hu Collection of Hungarian Technical Dictionaries]
+*[http://www.dicts.info/dictlist1.php?l=Hungarian Hungarian bilingual dictionaries]
+* [http://magyarangolszotar.hu Hungarian-English dictionary]
+* [http://angolmagyarszotar.hu English-Hungarian dictionary]
+* [http://www.jargot.com/hvc/ Hungarian Verb Conjugation]
+
+{{Languages of Hungary}}
+{{Languages of Romania}}
+{{Languages of Serbia}}
+{{Languages of Slovakia}}
+{{Uralic languages}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hungarian Language}}
+[[Category:Hungarian language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Languages of Austria]]
+[[Category:Languages of Croatia]]
+[[Category:Languages of Hungary]]
+[[Category:Languages of Romania]]
+[[Category:Languages of Slovakia]]
+[[Category:Languages of Slovenia]]
+[[Category:Languages of Serbia]]
+[[Category:Languages of Vojvodina]]
+[[Category:Vowel-harmony languages]]
+[[Category:Subject–object–verb languages]]
+[[Category:Languages of Ukraine]]

@@ -1,0 +1,378 @@
+Atari ST
+
+{{Infobox information appliance
+| name         = Atari ST (family)
+| title        = 
+| aka          = 
+| logo         = 
+| image        = Atari 1040STf.jpg
+| caption      = 
+| developer    = 
+| manufacturer = 
+| family       = 
+| type         = [[Personal computer]]
+| generation   = 
+| Introduced   = {{Start date and age|1985|01}}
+| releasedate  = {{Start date and age|1985|06}}
+| lifespan     = 
+| price        = US$799.99 (monochrome)<br> US$999.99 (with color monitor)
+| discontinued = {{End date and age|1993}}
+| unitssold    = 
+| unitsshipped = 
+| media        = 
+| os           = [[Digital Research]]'s [[Graphical Environment Manager|GEM]] run via [[Atari TOS]]
+| power        = 
+| soc          = 
+| cpu          = [[Motorola 68000|Motorola 680x0]] @ 8&nbsp;MHz & higher
+| memory       = 512 [[Kibibyte]]s (512×2<sup>10</sup> [[byte]]s) to 4 [[Mebibyte]] (4×2<sup>20</sup> bytes)
+| storage      = 
+| memory card  =
+| display      = 
+| graphics     = 
+| sound        = 
+| input        = 
+| controllers  = 
+| camera       = 
+| touchpad     = 
+| connectivity = 
+| platform     = 
+| service      = 
+| dimensions   = 
+| weight       = 
+| topgame      = 
+| compatibility= 
+| predecessor  = [[Atari 8-bit family]]
+| successor    = 
+| related      = 
+| website      = <!--{{URL|example.org}}-->
+}}
+The '''Atari ST''' is a line of [[home computer]]s from [[Atari Corporation]] and the successor to the [[Atari 8-bit family]]. The first ST model, the 520ST, was released in June 1985. "ST" officially stands for "Sixteen/Thirty-two",<ref>{{cite web|title=The Future of Atari Computing|url=http://www.atarimagazines.com/startv4n5/the_future.html|date=December 1989|work=[[STart Magazine]]|accessdate=2006-06-23}}</ref> which referred to the [[Motorola 68000]]'s [[16-bit]] external bus and [[32-bit]] internals. The Atari ST is the first personal computer to come with a bit-mapped color GUI,<ref name="guitimeline">{{cite web | title =  GUI Timeline | url = http://media.arstechnica.com/images/gui/guitimeline.jpg|work=media.arstechnica.com}}</ref> using a version of [[Digital Research]]'s [[Graphical Environment Manager|GEM]] released in February 1985.<ref>[http://groups.google.com/group/net.micro.atari/msg/be027ae35c6e11a2?dmode=source&hl=en A.N.A.L.O.G. TCS #1 001 03/20/85 DRI SHIPS GEM: net.micro.atari: Google Groups]. Groups.google.com (1985-03-11). Retrieved on 2013-04-22.</ref> The 1040ST, released in 1986, is the first personal computer to ship with a megabyte of [[Random-access memory|RAM]] in the base configuration and also the first with a cost-per-kilobyte of less than US$1.<ref name="byte198603"/>
+
+The Atari ST is part of the 16/32-bit generation of [[home computer]]s, which includes the [[Macintosh]], [[Commodore Amiga]], and, in certain markets, the [[Acorn Archimedes]]. These machines are based on the [[Motorola 68000]] [[Central processing unit|CPU]], with 256&nbsp;[[Kibibyte|KB]] or more of RAM, a graphical user interface, and 3½-inch [[floppy disk]]s as storage. Whereas the Amiga has custom graphics processors and [[sample-based synthesis]]<ref>{{cite web | title = Amiga Hardware Reference Manual |url= http://amigadev.elowar.com/read/ADCD_2.1/Hardware_Manual_guide/node00E7.html}}</ref> audio, the ST has a basic frame buffer and a three-voice synthesizer chip<ref>{{cite web|url=https://archive.org/details/Info_Issue_09_1985-12_Info_Publications_US|title=INFO magazine 9, ST vs. Amiga}}</ref> but with a slightly faster CPU and a high-resolution monochrome display mode ideal for business and [[Computer-Aided Design|CAD]]. Its simple design allowed the ST to precede the Amiga's release by almost two months.<ref name="amigaos">{{cite web | title = AmigaOS | url=http://www.osdata.com/oses/amiga.htm | accessdate = 2007-10-22| archiveurl= http://web.archive.org/web/20071011223734/http://osdata.com/oses/amiga.htm| archivedate= 11 October 2007| deadurl= no}}</ref><ref name="shippingdate">{{cite news | title =  Atari Is Shipping 520 ST Computer | newspaper = The New York Times | date = 1985-07-10 | url = http://query.nytimes.com/gst/fullpage.html?res=9806E5DE1738F933A25754C0A963948260}}</ref>
+
+In some markets, particularly [[Germany]], the machine gained a strong foothold as a [[small business]] machine for CAD and [[Desktop publishing]] work.
+
+Thanks to its built-in MIDI, the ST enjoyed success for running [[music sequencer|music-sequencer]] software and as a [[MIDI controller|controller]] of [[musical instrument]]s among both amateurs and well-known musicians.
+
+The ST was later superseded by the [[Atari STE]], [[Atari TT]], [[Atari MEGA STE]], and [[Atari Falcon|Falcon]] computers.
+
+== Origins ==
+The Atari ST was born from the rivalry between home-computer makers [[Atari, Inc.]] and [[Commodore International]].
+
+=== Amiga contract ===
+[[Jay Miner]], one of the original designers for the custom chips found in the [[Atari 2600]] and [[Atari 8-bit family]], tried to convince Atari management to create a new chipset for a video game console and computer. When his idea was rejected, Miner left Atari to form a small [[think tank]] called Hi-Toro in 1982 and began designing the new "Lorraine" chipset. The company, which was later renamed [[Amiga Corporation]], was pretending to sell video game controllers to deceive competition while it developed a Lorraine-based computer.<ref>{{YouTube|VCREhVvHXL4|"History of Amiga video"}} (2008-02-18). Retrieved on 2013-04-22.</ref>
+
+Amiga ran out of capital to complete Lorraine's development, and Atari, owned by [[Warner Communications]], paid Amiga to continue development work. In return Atari received exclusive use of the Lorraine design for one year as a video game console. After one year Atari would have the right to add a keyboard and market the complete computer, designated the 1850XLD. As Atari was heavily involved with Disney at the time, it was later code-named "Mickey", and the 256K memory expansion board was codenamed "Minnie".<ref>[http://archives.atarimuseum.com/archives/archives.html "Confidential Atari-Amiga Agreement" and "Afterthoughts: The Atari 1600XL Rumor"]. Archives.atarimuseum.com. Retrieved on 2013-04-22.</ref>
+
+=== Tramel Technology ===
+After leaving [[Commodore International]] in January 1984, [[Jack Tramiel]] formed Tramel<!--*Not* "Tramiel"--> Technology with his sons and other ex-Commodore employees and in April began planning a new computer. The company initially considered the [[National Semiconductor]] [[NS320xx]] microprocessor but was disappointed with its performance.{{r|3years}}{{r|chin19850128}} This started the move to the 68000.
+
+Tramiel learned that Warner wanted to sell Atari, which in mid-1984 was losing about a million dollars per day.<ref name="timemag">{{cite news| url=http://www.nytimes.com/1992/03/22/magazine/a-78-million-year-steve-ross-defends-his-paycheck.html?pagewanted=all | work=The New York Times | title=A $78 Million Year: Steve Ross Defends His Paycheck | first=Roger | last=Cohen | date=1992-03-22}}</ref> Interested in Atari's overseas manufacturing and worldwide distribution network for his new computer, Tramiel negotiated with Warner in May and June 1984. He secured funding and bought Atari's Consumer Division (which included the console and home computer departments) in July. As executives and engineers left Commodore to join Tramiel's new [[Atari Corporation]], Commodore responded by filing lawsuits against four former engineers for theft of trade secrets.
+
+The Tramiels did not purchase the employee contracts when they bought the assets of Atari Inc., so one of their first acts was to interview Atari Inc. employees to decide whom to hire at what was essentially a brand new company. This company was originally called TTL (Tramiel Technologies Limited), later renamed to Atari Corp.  At the time of the purchase of Atari Inc's assets, there were roughly 900 employees remaining from a high point of 10,000. After the interviews, approximately 100 employees were hired to work at Atari Corp.
+
+At one point a custom sound processor called AMY was a planned component for the new ST computer design, but the chip needed more time to complete, so AMY was dropped in favor of an off the shelf Yamaha sound chip.{{cn|date=January 2016}}
+
+It was during this time in late July/early August that Leonard Tramiel discovered the original Amiga contract, which required Amiga Corporation to deliver the Lorraine chipset to Atari on June 30, 1984. Amiga Corp. had sought more monetary support from investors in spring 1984 (among them Tramel<!--*Not* "Tramiel"--> Technology, which wished to replace nearly everyone at Amiga).
+
+=== Commodore and Amiga ===
+Having heard rumors that Tramiel was negotiating to buy Atari, Amiga Corp. entered into discussions with Commodore. The discussions led to Commodore wanting to purchase Amiga Corporation outright, which Commodore believed would cancel any outstanding contracts, including Atari's. Instead of Amiga Corp. delivering Lorraine to Atari, Commodore delivered a check of $500,000 to Atari on Amiga's behalf, in effect returning the funds Atari invested into Amiga for the chipset. Tramiel countersued Amiga Corp. on August 13, 1984. He sought damages and an injunction to bar Amiga (and effectively Commodore) from producing anything with its technology.
+
+At Commodore, the Amiga team was in limbo during the summer of 1984 because of the lawsuit. No word on the status of the chipset, the Lorraine computer, or the team's fate was known. In the fall of 1984, Commodore informed the team that the Lorraine project was active again, the chipset was to be improved, the [[operating system]] (OS) developed, and the hardware design completed. While Commodore announced the [[Amiga 1000]] with the Lorraine chipset in July 1985, the delay gave Atari, with its many former Commodore engineers, time to deliver the first Atari ST units in June 1985. In March 1987, the two companies settled the dispute out of court in a closed decision.<ref name="3years">{{cite news |first = Jeffrey |last = Daniels |title = 3 Years With the ST |url = http://www.atarimagazines.com/startv3n1/threeyearsofst.html |work = START Magazine |publisher = James Capparell |page = 22 |date = Summer 1988 |accessdate = 2010-05-15 }}</ref><ref name="jayminer">{{Wayback |date=20040703222312 |url=http://www.heartbone.com/comphist/JayMiner.html |title=Jay G. Miner }}. Heartbone.com. Retrieved on 2013-04-22.</ref>
+
+=== Operating system ===
+With the hardware design nearing completion, the Atari team started looking at solutions for the [[operating system]] (OS). Soon after the Atari buyout, [[Microsoft]] approached Tramiel with the suggestion that they port [[Microsoft Windows|Windows]] to the platform, but the delivery date was out by about two years, far too long for their needs. Another possibility was [[Digital Research]], who was working on a new GUI-based system then known as Crystal, soon to become [[Graphical Environment Manager|GEM]]. Another option was to write a new operating system in-house, but this was rejected as Atari management was unsure whether the company had the required expertise to do so.<ref name="3years"/>
+
+Digital Research was fully committed to the Intel platform, so a team from Atari was sent to the Digital Research headquarters to work with the "Monterey Team" which comprised a mixture of Atari and Digital Research engineers. Atari's Leonard Tramiel was the Atari person overseeing "Project Jason" (a.k.a.&nbsp;{{snd}} The Operating System) for the Atari ST line of computers. The name came from the original designer and developer, Jason Loveman. Tim Oren has [http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15 an article] describing the history of the project, from his series "Professional GEM".
+
+GEM was initially based on CP/M-68K, essentially a direct port of [[CP/M]] to the 68000. By 1985, CP/M was becoming increasingly outdated; it did not support sub-directories, for example. Digital Research was also in the process of building a new [[DOS]]-like operating system specifically for GEM, ''GEMDOS'', and there was some discussion of whether or not a port of GEMDOS could be completed in time for product delivery in June. The decision was eventually taken to port it, resulting in a GEMDOS file system which became part of [[Atari TOS|TOS]] (''The Operating System'' and colloquially known as the ''Tramiel Operating System''). This was beneficial as it gave the ST a fast, hierarchical file system, essential for hard drive storage disks, plus programmers had function calls similar to the [[IBM PC DOS]]. The [[Atari ST character set|character set]] is based on [[codepage 437]]. 
+
+Besides the original TOS operating system, a number of third party OSes were developed or ported to the Atari ST. Among Unix Clones, [[Idris (operating system)|Idris]], [[Minix]] had an Atari ST port and the [[MiNT|Mint]] OS was developed specifically for the Atari ST.
+
+== Debut and release ==
+After six months of intensive effort following Tramiel's takeover, Atari announced the 520ST at the Winter [[Consumer Electronics Show]] in [[Las Vegas Valley|Las Vegas]] in January 1985.<ref name="3years"/><ref>{{cite web|title=Winter CES 1985 Report|url=http://obligement.free.fr/articles_traduction/winter_ces_1985_en.php}}</ref> ''InfoWorld'' described prototypes shown at computer shows as a "typical Commodore-64 style, corner-cutting, low-cost Jack Tramiel product",<ref name="iw19850415">{{cite news | url=https://books.google.com/books?id=zC4EAAAAMBAJ&lpg=PA13&ots=a_Fs_n1Np8&pg=PA13#v=onepage&q&f=true | title=GEM on ROM for the Atari ST | work=InfoWorld | date=1985-04-15 | accessdate=4 February 2015 | pages=13 | editor=McCarthy, Michael}}</ref> but Atari unexpectedly displayed the ST at Atlanta [[COMDEX]] in May.<ref name="sanger19850513">{{cite news | url=http://www.nytimes.com/1985/05/13/business/atari-is-facing-new-doubts.html | title=Atari is Facing New Doubts | work=Sun-Sentinel | date=1985-05-13 | accessdate=5 January 2015 | author=Sanger, David E.}}</ref> Due to its similarities to the original [[Apple Macintosh]] and Tramiel's role in its development, it was quickly nicknamed the '''Jackintosh'''.<ref name=chin19850128>{{cite news|author=Chin, Kathy|title=Atari Announces Six New Computers|url=http://books.google.com/books?id=6i4EAAAAMBAJ&lpg=PP1&pg=PA15#v=onepage&q&f=false|work=InfoWorld|publisher=IDG|date=1985-01-28|accessdate=2011-03-19|pages=15–16}}</ref> Atari's rapid development of the ST amazed many,<ref name="3years"/>{{r|chin19850128}} but others were more skeptical, citing the ST's "cheap" appearance, Atari's uncertain financial health, and the poor relations the Tramiel-led Commodore had with software developers.{{r|chin19850128}}{{r|chinsoft19850128}}{{r|sanger19850513}}
+
+As early as 1981, [[Adam Osborne]] wrote that while Tramiel "deserves credit for what he has been able to accomplish", "the microcomputer industry abounds with horror stories describing the way Commodore treats its dealers and its customers."<ref name="osborne19810413">{{cite news | url=http://books.google.com/books?id=Dj4EAAAAMBAJ&lpg=PP42&rview=1&pg=PA42#v=onepage&q&f=false | title=The Portable Osborne | work=InfoWorld | date=1981-04-13 | accessdate=1 January 2015 | author=Osborne, Adam | pages=42–43}}</ref> In 1984 ''[[Ahoy!]]'' had written that Tramiel "had never been able to establish very good relations with computer dealers ... Under his reign, computer retailers have accused Commodore of treating them as harshly as if they were suppliers or competitors".<ref name="leemon198405">{{cite news | url=https://archive.org/stream/Ahoy_Issue_05_1984-05_Ion_International_US#page/n43/mode/2up | title=The Future of Commodore? | work=Ahoy! | date=May 1984 | accessdate=27 June 2014 | author=Leeman, Sheldon | pages=44}}</ref> After purchasing Atari, ''[[Computer Gaming World]]'' stated that his poor reputation likely made computer stores reluctant to deal with the company, hurting its distribution of the ST.<ref name="oxner198605">{{cite magazine | title=Hobby & Industry News | magazine=[[Computer Gaming World]] | issue=28 | date=May 1986 | url=http://www.cgwmuseum.org/galleries/issues/cgw_28.pdf | accessdate=17 April 2016 | last=Oxner | first=Bill | pages=4}}</ref> One retailer said, "If you can believe [[Lucy Van Pelt|Lucy]] when she holds the football for [[Charlie Brown]], you can believe Jack Tramiel",<ref name="steele19850709">{{cite news | url=http://books.google.com/books?id=SprPDrQRvM8C&lpg=PA51&pg=PA34#v=onepage&q&f=true | title=COMDEX: Nothing New Under the Georgia Sun | work=PC Magazine | date=1985-07-09 | accessdate=28 October 2013 | author=Steele, William | pages=34}}</ref> and another said that because of its experience with Tramiel "Our interest in Atari is zero, zilch".<ref name="maremaa19850603">{{cite news | url=http://books.google.com/books?id=8C4EAAAAMBAJ&lpg=PP1&pg=PA23#v=onepage&q&f=true | title=Atari Ships New 520 ST | work=InfoWorld | date=1985-06-03 | accessdate=19 July 2014 | author=Maremaa, Tom | pages=23}}</ref> Neither Atari nor Commodore was able to persuade large chains like [[ComputerLand]] or BusinessLand to sell their products,{{r|nyt19851216}} but observers criticized Atari's erratic discussion of its stated plans for the new computer, quickly shifting from using [[mass merchandiser]]s to specialty computer stores to both; Atari executives could not name any computer stores that would carry the ST when asked at COMDEX. One analyst stated after attending a meeting with the company, "We've seen marketing strategies changed before our eyes".{{r|sanger19850513}}
+
+Although the more than 30 companies exhibiting ST software at Las Vegas COMDEX in November 1985—while the Amiga had almost none—surprised the industry,<ref name="nyt19851216">{{cite news | url=http://www.nytimes.com/1985/12/16/business/this-season-s-computer-war.html | title=This Season's Computer War | work=The New York Times | date=1985-12-16 | accessdate=31 March 2016}}</ref> Tramiel's poor reputation also influenced potential developers of software for his computer. One stated that "Dealing with Commodore was like dealing with Attila the Hun. I don't know if Tramiel will be following his old habits ... I don't see a lot of people rushing to get software on the machine."{{r|chin19850128}} Large business-software companies like [[Lotus Development|Lotus]], [[Ashton-Tate]], and Microsoft did not promise software for either the ST or Amiga,{{r|nyt19851216}} and the majority of software companies were hesitant to support another platform beyond the [[IBM PC]], Apple, and [[Commodore 64]]; "These days, if I were a consumer, I'd stick to companies [Apple and IBM] [[orphaned technology|I know will be around]]", said [[Philippe Kahn]] of [[Borland]].<ref name="mace19851202">{{cite news|last=Mace|first=Scott|title=Christmas Contenders|url=http://books.google.com/books?id=My8EAAAAMBAJ&lpg=PA28&dq=mecc&pg=PA28#v=onepage&q=mecc&f=false|accessdate=2011-01-22|newspaper=InfoWorld|date=1985-12-02}}</ref> ''[[The New York Times]]'' reported after Atlanta COMDEX that "more than 100 software titles will be available for the machine, most written by small software houses that desperately need work",{{r|sanger19850513}} and contrasted the "small, little-known companies" at Las Vegas with the larger ones like [[Electronic Arts]] and [[Activision]] which planned Amiga programs.{{r|nyt19851216}}
+
+[[Trip Hawkins]] of Electronic Arts said "I don't think Atari understands the software business. I'm still skeptical about its resources and its credibility." Although [[Michael Berlyn]] of [[Infocom]] promised that his company would quickly publish all of its games for the new computer, he doubted that many others would soon do so. Other companies such as [[Spinnaker Software]] and [[Lifetree Software]] were more positive. Both promised to soon release ST software, with the former reporting that "Atari has a vastly improved attitude toward software developers. They are eager to give us technical support and machines", and the latter stating "we are giving Atari high priority". Some, such as [[Software Publishing Corporation]], were unsure of whether to develop for the ST or the Amiga,<ref name=chinsoft19850128>{{cite news|author=Chin, Kathy|title=Atari Promises Software For ST|url=http://books.google.com/books?id=6i4EAAAAMBAJ&lpg=PA15
+|work=InfoWorld|publisher=IDG|date=1985-01-28|accessdate=2011-03-19|page=17}}</ref> while [[John C. Dvorak]] wrote that the public saw both Commodore and Atari as selling "cheap disposable" game machines.<ref name="dvorak198509">{{cite news | url=https://archive.org/stream/Ahoy_Issue_21_1985-09_Ion_International_US#page/n3/mode/2up | title=Image | work=Ahoy! | date=September 1985 | accessdate=27 June 2014 | author=Dvorak, John C. | pages=5}}</ref>
+
+=== Success ===
+Atari ST advertisements stated "America, We Built It For You", and quoted Atari president Sam Tramiel: "We promised. We delivered. With pride, determination, and good old ATARI know how".<ref>{{cite news | url=http://archive.org/stream/1985-10-compute-magazine/Compute_Issue_065_1985_Oct#page/n21/mode/2up | title=America / We Built It For You / The Atari ST (advertisement) | work=Compute! | date=October 1985 | accessdate=16 October 2013 | pages=19}}</ref> Although Atari was out of cash, sales of its [[8-bit]] computers were "very, very slow" according to Jack Tramiel, and employees feared that he would shut the company down, the 520ST shipped during spring 1985 to the press, developers, and [[user group]]s, and in early July 1985 for general retail sales, saving the company.<ref name="3years"/><ref name="previewdate">{{cite news | last=Powell | first=Jack | title=ST Product News: First ST review | newspaper=[[ANTIC (magazine)]] | volume=4 | issue=6 | page=26 | date=October 1985 | url=http://www.atarimagazines.com/v4n6/STproductnews.html}}</ref>{{r|maremaa19850603}} By November the company stated that it had sold more than 50,000 520 STs, "with U.S. sales alone well into five figures".<ref name="harris19851111">{{cite news | url=https://books.google.com/books?id=Mi8EAAAAMBAJ&lpg=PA18&pg=PA18#v=onepage&f=true | title=Atari Sales Underestimated | work=InfoWorld | date=1985-11-11 | type=letter | accessdate=8 January 2015 | author=Harris, Neil | pages=18}}</ref> The machine had gone from concept to store shelves in a little under a year. Atari had originally intended to release versions with 128&nbsp;KB and 256&nbsp;KB of RAM as the ''130ST'' and ''260ST'' respectively. However, with the OS loaded from floppy into RAM, there would be little or no room left over for applications to run. The 260ST did make its way into Europe on a limited basis.
+
+The ST supports a [[monochrome monitor|monochrome]] or color monitor. The color hardware supports two different resolutions, 320 × 200 with 16 out of 512 colors, or 640 × 200 with 4 out of 512 colors. The monochrome monitor was less expensive and has a single resolution of 640 × 400. Due to its higher vertical resolution and noninterlaced operation at 70&nbsp;Hz, the monochrome monitor was better suited to business applications. The attached monitor determines available resolutions, so software either supports both types of monitors or only works with one.<ref name="byte198601">{{cite magazine | title=The Atari ST | magazine=[[Byte (magazine)|BYTE]] | volume=11 | issue=1 | date=January 1986 | url=https://archive.org/stream/byte-magazine-1986-01/1986_01_BYTE_11-01_Robotics#page/n85/mode/2up | accessdate=17 April 2016 | last1=Edwards | first1=Jon R. | last2=Robinson | first2=Phillip | last3=McLaughlin | first3=Brenda | pages=84}}</ref> Color is required by a majority of games. Unlike the Amiga, Commodore 64, and Atari 8-bit computers, the ST does not have hardware-supported [[sprite (computer graphics)|sprite]]s.
+
+Early models shipped with Atari Logo and ''TOS'' on disk; although the operating system occupies 206K RAM, but models were designed with six [[read-only memory|ROM]] sockets allow easy upgrading to the future ROM-based ''TOS''.{{r|byte198601}} These became available only a few months later and were included in all new machines as well as being available to upgrade older machines. By late 1985 the machines were also upgraded with the addition of an [[RF modulator]] (for TV display), a version known as the 520ST<sup>M</sup>. ST systems before the Mega ST range have no battery-backed clock.
+
+Atari had originally intended to include GEM's GDOS (Graphical Device Operating System), which allowed programs to send GEM VDI (Virtual Device Interface) commands to drivers loaded by GDOS. This allowed developers to send VDI instructions to other [[Device file|devices]] simply by pointing to it. However, GDOS was not ready at the time the ST started shipping and was included in software packages and later ST machines. Later versions of GDOS supported vector fonts.
+
+[[File:ST BASIC - J.R. Bob Dobbs.gif|thumb|The face of J.R. "Bob" Dobbs]]
+A limited set of GEM fonts were also included within the ROMs. These fonts also feature a standard 8x8 pixel graphical character set for the ST (the main in-ROM "font" for GEM and text-mode TOS operations in color modes) containing standard numbers, letters, symbols, accented characters, and four unusual characters (which can be placed together in a square, forming a basic but recognizable facsimile of the face of [[J. R. "Bob" Dobbs]], the figurehead of the [[Church of the Subgenius]]).<ref>Robert Anton Wilson, [http://feastofhateandfear.com/archives/rawilson.html "Religion For the Hell of It"], ''Hot Press'', 1986</ref>
+
+The ST was less expensive than most machines, including the [[Apple Macintosh|Macintosh Plus]], and tended to be faster than most.<ref>{{Wayback |date=20091026193531 |url=http://www.geocities.com/SiliconValley/Vista/3015/16bit.html |title=price comparison }}</ref> Largely as a result of the price/performance factor, the ST would go on to be a fairly popular machine, notably in European markets where the foreign-exchange rates amplified prices. Indeed, the company's English advertising strapline of the era was "power without the price". In fact, an Atari ST and [[terminal emulation]] software was much cheaper than a [[Digital Equipment Corporation|Digital]] [[VT220]] terminal, which was commonly needed by offices with central computers.
+
+== Design ==
+
+=== Original housing ===
+[[File:Atari-520ST.jpg|thumb|The Atari 520ST]]
+
+The original 520ST case design was created by Ira Velinsky{{snd}} Atari's chief Industrial Designer.<ref name="case">{{cite web|title=Bold plans for new Atari|url=http://books.google.ch/books?id=si4EAAAAMBAJ&pg=PA15&lpg=PA15&dq=ira+velinsky#v=onepage&q&f=false|date=December 1984|work=[[InfoWorld]]|accessdate=2011-08-01}}</ref> The ST is basically wedge shaped, featuring bold angular lines and a series of grilles cut into the rear for airflow. The keyboard has soft tactile feedback and rhomboid-shaped function keys across the top. The 520ST is an all-in-one unit, similar to earlier home computers like the [[Commodore 64]]. By the time the 520ST reached the market, however, market and IBM compatibility concerns demanded a keyboard with cursor keys and a numeric keypad. For this reason, the 520ST ended up significantly larger than previous popular all-in-one machines like the Commodore 64.
+
+The 520ST uses an external "brick" power supply, floppy disk, monitor, and mouse. Even basic system setups thus suffer from [[cable spaghetti]], a problem future versions would address to one degree or another. Early 520ST owners became accustomed to the "Atari Twist" and the "Atari Drop" service procedures{{Citation needed|date=August 2011}}. The "Atari Twist" seemed to help discharge built-up static electricity (Atari soldered-down the metal shielding to fix the problem) while the "Atari Drop" appeared to help re-seat chips which may have become partially unseated over time.
+
+=== Port connections ===
+[[File:Atari520ST Interface.jpg|thumb|Atari 520ST ports]]
+[[File:Atari st mouse.jpg|thumb|Atari ST mouse (2000)]]
+
+The 520ST features a large number of ports mounted at the rear of the machine. The basic port layout would remain largely unchanged over the machine's history.
+
+* Standard ports:
+** [[RS-232]]c serial port ([[D-subminiature|DB25]] male, operating as basic 9-conductor DTE)
+** [[Centronics printer port]] ([[D-subminiature|DB25]] female, officially compliant only with the most basic unidirectional standard with a single, "Busy" input line; unofficially offering some bidirectional capabilities)
+** [[joystick]]/mouse ports ([[D-subminiature|DE-9]] male, Atari VCS standard)
+** 2 [[MIDI]] ports (5-pin [[DIN connector|DIN]], "IN" and "OUT/THRU")
+* ST-specific ports:
+** Monitor port (custom 13-pin [[DIN connector|DIN]], 12 of the pins in a rectangular pattern, carrying signals for both RGB and monochrome monitors, monophonic audio and, in later models, composite video)
+** ACSI (similar to [[SCSI]]) DMA port (custom-sized 19-pin D-sub, for hard disks and laser printers, capable of up to 2&nbsp;MByte/s with efficient programming)
+** Floppy port (standard{{snd}} if rare{{snd}} 14-pin DIN, listed as operating at 250 kbit/s)
+** ST cartridge port (double-sided 40-contact edge connector socket, for 128&nbsp;KB [[ROM cartridge]]s)
+
+Because of its [[parallel communication|bi-directional]] design, the Centronics printer port can be used for joystick input, and several games make use of available adaptors that plugged into the printer socket, providing two additional 9-pin joystick ports.
+
+===Floppy drive===
+{{References|section|date=December 2015}}
+{{Overly detailed|section=yes|date=December 2015}}
+Atari initially used single-sided [[floppy disk|disk drives]] that could store up to 360&nbsp;kB.<!-- Is this 360x10^3 bytes, or 360x2^10? --> Later drives were double-sided and stored 720&nbsp;kB. Some commercial software, particularly games, shipped by default on single-sided disks, even supplying two 360kB floppies instead of a single double-sided one, for fear of alienating [[early adopter]]s.{{citation needed|date=March 2014}} The problem was exacerbated by the early drive's single read/write head being on the "wrong" side of the disc{{snd}} that is, reading/writing the same side of the disc as a more standard 720kB drive's "second" head ("head 1") instead of its "first" ("head 0"). The boot sector and FAT was typically written to "side 0" by double-sided drives (in both STs and other marques fitted with 3.5" drives), so owners of single-sided machines could not read any useful data from a standard double-sided disc at all, not even the root directory listing, and might well mistakenly end up reformatting just one side of a seemingly "faulty" disc as a result.
+
+ST magazines wishing to cater to the entire audience while still supplying a large amount of material on a single cover disc had to adopt innovative custom formats to work around this problem, forcing the bootsector and FAT onto "side 1", along with the disc's main feature program, and tucking supplemental programs onto "side 0" (typically falsely renamed "side B", in allusion to classic 45rpm singles), "inside" a particular file folder which would only open successfully for owners of 720kB drives. Owners of single-sided drives were encouraged, if they wished to gain access to "side B", to send the original coverdisk(s) back to the publisher with a token fee for postage and duplication, for which they would be sent a set of single-sided discs containing the full software complement. This scheme was also operated by some producers of productivity software in later years, mirroring the PC situation where software would ship by default on a particular disc format (3.5" or 5.25", double or high density) and a customer who bought the wrong type could have it replaced by mail order.
+
+Another early sticking point with the ST's floppy drives was that, whilst double-sided drive equipped STs could happily read discs formatted under [[MS-DOS]] on IBM PCs, PCs could not themselves read Atari disks, because the initial versions of TOS could recognise, read, and write to{{snd}} but not themselves create{{snd}} discs in the same particular specification used and indeed demanded by MS-DOS (single-sided Atari drives were completely incompatible in either direction, as MS-DOS never officially supported single-sided 3.5" hardware, and still placed its filesystem information on "side 0").{{clarify|date=April 2014}} Achieving successful data interchange between the two platforms using floppies thus required pre-formatting dedicated file transfer discs under MS-DOS, and copying the necessary data onto them from any unsuitable Atari formatted discs. This formatting issue was soon resolved by the emergence of third-party formatting and file copier software, MS-DOS disc imaging software capable of reading the unusual formats used by the ST and various other machines (such as the Commodore Amiga) and, a few years later, Atari's own version 1.4 (and later) TOS upgrades.
+
+=== STF and STFM models ===
+[[File:Atari ST 1040.jpg|thumb|Atari 1040ST<sup>F</sup>]]
+
+Atari later upgraded the basic design in 1986 with the ''1040ST<sup>F</sup>'' (also written ''STF''). The machine is generally similar to the earlier 520ST, but moved the power supply and a double-sided [[floppy drive]] into the rear of the housing of the computer, as opposed to being external. This added to the size of the machine, but reduced cable clutter in the back. The joystick/mouse ports, formerly on the right side of the machine where the disk drive now sat, were moved to a niche underneath the keyboard.
+
+The ''1040ST'' was the first personal computer shipped with a base RAM configuration of 1&nbsp;MB. When the list price was reduced to $999 in the U.S. it appeared on the cover of ''[[Byte Magazine|BYTE]]'' in March 1986 as the first computer to break the $1000/megabyte price barrier;<ref name="byte198603">{{cite news | url=https://archive.org/stream/byte-magazine-1986-03/1986_03_BYTE_11-03_Homebound_Computing#page/n91/mode/2up | title=The Atari 1040ST | work=BYTE | date=March 1986 | accessdate=4 July 2014 | author=Robinson, Philip; Edwards, Jon R. | pages=84}}</ref><ref name="3years"/> ''[[Compute!]]'' noted that, in fact, the ''1040ST'' was the first computer to break the $2500/megabyte price barrier.<ref name="halfhilll198604">{{cite news | url=https://archive.org/stream/1986-04-compute-magazine/Compute_Issue_071_1986_Apr#page/n31/mode/2up | title=A Turning Point For Atari? | work=Compute! | date=April 1986 | accessdate=8 November 2013 | author=Halfhill, Tom R. | pages=30}}</ref> However, the ST remained generally the same internally over the majority of its several-year lifespan. The choice of model numbers was inherited from the model numbers of the ''XE series'' of the [[Atari 8-bit family]] of computers.  A limited number of 1040STFs shipped with a single-sided floppy drive.{{Citation needed|date=October 2009}}
+
+The same basic design was also used for a cut-down version, the 512 kB ''520STFM'', which replaced the earlier 520ST models in the market. The early 'STF' machines lack the 'M' modulator that allows a TV to be used and will only work with a monitor.
+
+=== Mega models ===
+Initial sales were strong, especially in Europe where Atari sold 75% of its computers. Germany became Atari's strongest market,<ref name="3years"/> with small business users using them for desktop publishing and CAD.
+
+To address this growing market segment, Atari came up with the ''ST1''. Debuted at Comdex in 1986, it was received favorably. Renamed the ''Mega'', this new machine includes a high-quality detached keyboard, a stronger case to support the weight of a monitor, and an internal bus expansion connector. A 20 MB hard drive called the SH204 could be purchased as an option and stacked below or above the main case of the Mega.  The upcoming [[SLM804]] [[laser printer]] would not come with a processor or memory, reducing costs. It would attach to the Mega through the ST DMA port and require the Mega computer to render the pages. As TOS was not a [[multitasking]] OS, this meant the computer could not be used while printing. Initially equipped with 2 or 4 MB (a 1 MB version, the ''Mega 1'' would later follow), the Mega machines would complement the Atari laser printer for a low-cost desktop publishing package, which received acclaim and was featured on the cover of Computer Shopper magazine.
+
+A custom [[blitter]] co-processor was to be included to speed the performance of some graphics operations on the screen, but due to delays it was eventually released on the ''Mega 2'' and ''Mega 4'' machines. Developers wanting to use it had to detect for it in their programs because it was not present on all machines. However, properly written programs using the screen VDI commands can use the blitter seamlessly, since GEM [[Application programming interface|API]] is a higher-level interface to ''TOS''.
+
+== Later models ==
+
+=== STE models ===
+In late 1989, [[Atari]] released the ''520ST<sup>E</sup>'' and ''1040ST<sup>E</sup>'' (also written ''STE''), enhanced version of the ST with improvements to the multimedia hardware and operating system. It features an increased color palette of 4096 colors from the ST's 512 (though the maximum displayable palette of these without programming tricks was still limited to 16 in the lowest 320x200 resolution, and even fewer in higher resolutions), [[Genlock]] support, and a graphics co-processor chip called [[Blitter]], which can quickly move large blocks of data (most particularly, graphics sprites) around in RAM. It also included a new 2-channel digital sound chip that could play 8-bit stereo samples in hardware at up to 50&nbsp;kHz. Two enhanced joystick ports (EJP) were added (two normal joysticks can be plugged into each port with an adapter), with the new connectors placed in more easily accessed locations on the side of the case. The enhanced joystick ports were re-used in Atari's [[Atari Jaguar|Jaguar]] console, and are compatible. RAM was now much more simply upgradable via [[SIMM]]s. CPU speed was unchanged and ran at 8&nbsp;[[Megahertz|MHz]].
+
+The STE models initially had software and hardware conflicts resulting in some [[Application software|applications]] and video games written for the ST line being unstable or even completely unusable, primarily caused by programming direct hardware calls which bypassed the operating system. Sometimes incompatibility could be solved by expanding the RAM. Furthermore, even having a joystick plugged in would sometimes cause strange behavior with a few applications (such as the [[WYSIWYG]] word-processor application [[1st Word/1st Word Plus|First Word Plus]]).
+
+The STE was the first Atari with PCM audio, which was probably one of the most attractive features of the machine. It has the ability to play back 8-bit (signed) samples using the SDMA at the following frequencies: 6258&nbsp;Hz, 12517&nbsp;Hz, 25033&nbsp;Hz and even 50066&nbsp;Hz{{snd}} a sampling frequency above that of audio CDs, although at only 8-bit resolution. The channels are arranged as either a mono track or a track of LRLRLRLR... bytes.
+
+Very little use was made of the extra features of the STE: STE-enhanced and STE-only software were rare, generally being limited to serious art, CAD, or music applications, with very few games taking advantage of the hardware, not present on most machines.
+
+The last STE machine, the ''[[Atari MEGA STE|Mega STE]]'', is an STE in a grey [[Atari TT]] case that had a switchable 16&nbsp;MHz, dual-bus design (16-bit external, 32-bit internal), optional [[Motorola 68881]] [[floating point unit|FPU]], built-in 3½-inch floppy disk drive, [[VMEbus|VME]] expansion slot, a network port (very similar to that used by Apple's [[LocalTalk]]) and an optional built-in 3½" hard drive. It also shipped with TOS 2.00 (better support for hard drives, enhanced desktop interface, memory test, 1.44&nbsp;MB floppy support, bug fixes). It was marketed as more affordable than a TT but more powerful than an ordinary ST.
+
+=== Atari TT ===
+{{Main|Atari TT030}}
+
+In 1990, Atari released the high-end workstation-oriented ''Atari TT030'', based on a 32&nbsp;MHz [[Motorola 68030]] processor. The "TT" name ("Thirty-two/Thirty-two") continued the nomenclature system as the 68030 chip had full 32-bit wide buses both internally and externally. Originally planned with a 68020 CPU, the TT included improved graphics and more powerful support chips. The case was a new design with an integrated hard-drive enclosure.
+
+=== Atari Falcon ===
+{{Main|Atari Falcon}}
+
+The final ST computer is the multimedia-capable ''Atari Falcon030''. Like the TT, this was also 68030-based, operating at 16&nbsp;MHz, but with improved video modes and an on-board [[Motorola 56000|Motorola 56001]] audio [[digital signal processor]]. The Falcon, like the [[Atari STE]], supports sampling frequencies above 44.1&nbsp;kHz; the sampling master clock is 98340&nbsp;Hz, which can be divided by a number between 2 and 16 to get the actual sampling frequencies. Apart from these frequencies, it is also able to play the STE sample frequencies (up to 50066&nbsp;Hz) in 8 or 16 bit, mono/stereo, all by using the same DMA interface as the STE, with a few additions. The Falcon can both play back and record samples; it has 8 mono channels / 4 stereo channels; thus this allowed musicians to use the computer for harddisk recording. Although the 68030 microprocessor is capable of using 32-bit memory, the Falcon uses a 16-bit bus which affects performance, but also served to reduce its cost. In another cost-reduction measure, Atari shipped the Falcon in an inexpensive case much like that of the ST<sup>F</sup> and ST<sup>E</sup>. Aftermarket upgrade kits were available that allowed the Falcon to be put in a desktop or rack-mount case, with the keyboard separate.
+
+Released in 1992, the Falcon was discontinued by Atari the following year. In Europe, C-Lab licensed the Falcon design from Atari, and released the C-Lab Falcon Mk I (the same as Atari's Falcon except for some slight modifications to the audio circuitry), Mk II (as Mk I but with an internal 500 MB SCSI hard disk) and Mk X (as Mk II but in a desktop case).
+
+== Aftermath ==
+In 1993, Atari ceased development on the ST computers to focus on the [[Atari Jaguar|Jaguar]].
+
+Following the exit of Atari from the computer market, [[Medusa Computer Systems]] manufactured some powerful 3rd-party Atari Falcon/TT-compatible machines that used [[Motorola 68040|68040]] and [[Motorola 68060|68060]] processors, based on multimedia (particularly audio, but also video), CAD, and office uses.
+
+Despite the lack of a hardware supplier, there is a small active community dedicated to keeping the ST platform alive. There have been advancements in the operating system, software emulators (for Windows, Mac, & Linux), and some hardware developments. There are accelerator cards, such as the CT60 & CT63, which is a [[68060]] based accelerator card for the Falcon, and there is the [[Atari Coldfire Project]], which aims at developing an Atari-clone based on the [[Freescale ColdFire|Coldfire]] processor. [[Milan Computer]] of [[Germany]] also made 68040 and 68060-based Atari clones that can run either Atari TOS 4.5 or Milan Computer's [[MultiTOS]] operating system.
+
+== Software ==
+As with the Atari 8-bit computers,<ref name="cgw198604">{{cite magazine | title=Survey of Game Manufacturers | magazine=[[Computer Gaming World]] | issue=27 | date=April 1986 | url=http://www.cgwmuseum.org/galleries/issues/cgw_27.pdf | accessdate=April 17, 2016 | pages=32}}</ref><ref name="williams198610">{{cite magazine | title=Atari Playfield | magazine=[[Computer Gaming World]] | issue=31 | date=September–October 1986 | url=http://www.cgwmuseum.org/galleries/issues/cgw_31.pdf | accessdate=April 17, 2016 | last=Williams | first=Gregg | pages=35}}</ref><ref name="brooks198705">{{cite magazine | title=Computer Wargaming 1988-1992 | magazine=[[Computer Gaming World]] | issue=37 | date=May 1987 | url=http://www.cgwmuseum.org/galleries/issues/cgw_37.pdf | accessdate=April 17, 2016 | last=Brooks | first=M. Evan | pages=13}}</ref>{{r|leyenberger198806}} software publishers attributed their reluctance to produce Atari ST products in part to&mdash;as ''[[Compute!]]'' reported in 1988&mdash;the belief in the existence of a "higher-than-normal amount of software piracy".<ref name="levitan198809">{{cite news | url=https://archive.org/stream/1988-09-compute-magazine/Compute_Issue_100_1988_Sep#page/n89/mode/2up | title=Levitations | work=Compute! | date=September 1988 | accessdate=10 November 2013 | author=Levitan, Arlan | pages=86}}</ref><ref name="levitan198812">{{cite news | url=https://archive.org/stream/1988-12-compute-magazine/Compute_Issue_103_1988_Dec#page/n105/mode/2up | title=Levitations | work=Compute! | date=December 1988 | accessdate=10 November 2013 | author=Levitan, Arlan | pages=104}}</ref> That year WordPerfect threatened to discontinue the Atari ST version of its word processor because the company discovered that pirate [[bulletin board system]]s (BBSs) were distributing it, causing ''ST-Log'' to warn that "we had better put a stop to piracy ''now'' ... it can have harmful effects on the longevity and health of your computer".<ref name="leyenberger198806">{{cite news | url=http://www.atarimagazines.com/st-log/issue20/97_1_ST_USER.php | title=ST User | work=ST-Log | date=June 1988 | accessdate=11 November 2013 | author=Leyenberger, Arthur | pages=97}}</ref> In 1989 magazines published a letter by [[Gilman Louie]], head of [[Spectrum Holobyte]]. He stated that he had been warned by competitors that releasing a game like ''[[Falcon (video game series)|Falcon]]'' on the ST would fail because BBSs would widely disseminate it. Within 30 days of releasing the non-[[copy protection|copy protected]] ST version, the game was available on BBSs with maps and [[code wheel]]s. Because the ST market was smaller than that for the IBM PC it was more vulnerable to piracy which, Louie said, seemed to be better organized and more widely accepted for the ST. He reported that the Amiga version sold in six weeks twice as much as the ST version in nine weeks, and that the Mac and PC versions had four times the sales. ''Computer Gaming World'' stated "This is certainly the clearest exposition ... we have seen to date" of why software companies produced less software for the ST than for other computers.<ref name="louie198904">{{cite magazine | title=Low Shelf "ST"eem | magazine=[[Computer Gaming World]] | issue=58 | date=April 1989 | url=http://www.cgwmuseum.org/galleries/issues/cgw_58.pdf | accessdate=17 April 2016 | last=Louie | first=Gilman | pages=4}}</ref><ref name="louie198906">{{cite news | url=https://archive.org/stream/1989-06-compute-magazine/Compute_Issue_109_1989_Jun#page/n15/mode/2up | title=Stop Stealing | work=Compute! | date=June 1989 | accessdate=11 November 2013 | author=Louie, Gilman | pages=14}}</ref>
+
+=== Music and sound ===
+The ST has built-in [[MIDI]] ports, and there was plenty of MIDI-related software for use professionally in music studios, or by amateur enthusiasts. The popular Windows/Macintosh applications ''[[Cubase]]'' and ''[[Logic Pro]]'' originated on the Atari ST (the latter as ''Notator Logic'', preceded by ''Creator'', ''Notator'' and ''Notator-SL''). Another popular and powerful ST music sequencer application, Dr. T's ''KCS'', contains a "Multi-Program Environment" that allows ST users to run other applications, such as the synthesizer patch editing software XoR (now known as Unisyn on the Macintosh), from within the sequencer application.<ref>[http://tamw.atari-users.net/omega.htm Dr T'S Kcs And Tiger Cub]. Tamw.atari-users.net. Retrieved on 2013-04-22.</ref>
+
+Music [[Tracker (music software)|tracker]] software was popular on the ST, such as the ''TCB Tracker'', aiding the production of quality music from the Yamaha synthesizer ('chiptunes').
+
+An innovative music composition program that combines the sample playing abilities of a tracker with conventional music notation (which was usually only found in MIDI software) is called ''Quartet'' (after its four-note polyphonic tracker, which displays one monophonic stave at a time on color screens).
+
+Due to the ST having comparatively large amounts of memory for the time, sound sampling packages became a realistic proposition. The Microdeal [[Replay Professional]] product features a sound sampler that cleverly uses the ST cartridge port to read in parallel from the cartridge port from the [[Analog-to-digital converter|ADC]]. For output of digital sound, it uses the on-board frequency output, sets it to 128&nbsp;kHz (inaudible) and then modulates the amplitude of that.
+
+Another program that had good success on the ST platform is ''[[MasterTracks Pro (software)|MasterTracks Pro]]'' from Passport Designs, of Half Moon Bay, CA., that was first put out by Don Williams for the Macintosh. When the ST died, a PC version continued that one could port MIDI to using the generic .MID format. [[GVOX|GVox]] bought out Passport, and continues the program for [[Microsoft Windows|Windows]] and [[Mac OS]] along with the other Passport product, the notation program ''[[Encore (software)|Encore]]''.
+
+In addition to the sound-sampling functionalities, the availability of software packages with MIDI support for music composition and efficient sound analysis contributed to make the Atari ST a forerunner of later computer-based all-in-one studios.
+
+The ST's low cost, built-in MIDI ports, and fast, low-latency response times made it a favorite with musicians:
+
+* [[Atari Teenage Riot]] named itself after the brand and programmed most of their music on an Atari ST. Including the entire album ''[[Is This Hyperreal?]]'' (June, 2011).
+* The [[Fatboy Slim]] album ''You've Come A Long Way, Baby'' has an Atari ST in the large foldout picture of Fatboy Slim's studio.
+* [[Electronic music]] artists [[Mike Paradinas]] and [[Luke Vibert]] started out writing music on Atari STs.
+* The album notes for [[Mike Oldfield]]'s ''[[Earth Moving]]'' state that it was recorded using an Atari ST and C-Lab MIDI software.
+* In the Paris performance of [[Jean Michel Jarre]]'s album ''Waiting for Cousteau'', musicians have attached Atari ST machines with unidentified MIDI software to their keyboards, as could be seen in the TV live show and video recordings.
+* [[White Town]]'s "[[Your Woman]]", which reached #1 in the UK singles charts, was created using an Atari ST.<ref>[http://www.whitetown.co.uk/faq/ White Town – Your Questions Answered!]. Whitetown.co.uk. Retrieved on 2013-04-22.</ref>
+* The [[Utah Saints]] used STs during the recording of both of their albums, [[Utah Saints (album)|Utah Saints]] & [[Two (Utah Saints album)|Two]]<ref>
+{{cite web
+|url=http://www.musictech.net/2012/03/utah-saints-interview/
+|title=Utah Saints Interview
+|publisher=MusicTech
+|accessdate= 8 September 2015}}</ref>
+* German electronic music pioneers [[Tangerine Dream]] relied heavily on the Atari ST in the studio and for live performances during the late 1980s and 1990s.<ref>{{cite web|url=http://www.atarimagazines.com/startv3n3/tangerinedream.html|title=Making Tracks With MIDI - A Profile of Tangerine Dream|author=Mard Naman|accessdate=22 April 2016}}
+</ref>
+
+=== Applications ===
+[[File:Degas elite batteries included.png|thumb|Degas Elite by [[Batteries Included (company)|Batteries Included]] ]]
+
+Also popular on the ST was professional [[desktop publishing]] software, such as ''[[PageStream]]'' and ''[[Calamus (DTP)|Calamus]]''; office tools such as word processors (''[[WordPerfect]]'', ''[[Microsoft Write]]'', ''[[AtariWorks]]'', ''[[WordWriter ST]]'', First Word <small>[shipped with the machine]</small> and its Plus continuation, and others); spreadsheets (''[[3D-Calc]]'', ''[[LDW Power]]'', ''[[LDW Power 2]]'', ''[[LOGiSTiX Senior]]'', ''[[PowerLedger ST]]'', ''[[SwiftCalc ST]]'', ''[[VIP Professional]]'', and others); turnkey programs (''[[Mail-Pro]]'', ''[[Sales-Pro 6]]'', ''[[Video-Pro]]'', and others); database programs (''[[A-Calc Prime]]'', ''[[Data Manager]]'', ''[[Data Manager Professional]]'', ''[[DBMan V]]'', ''[[Base Two]]'', ''[[H&DBase]]'', ''[[Informer II]]'', ''[[DB Master One]]'', ''[[SBT Database Accounting Library]]'' (''[[dLedger]]'', ''[[dInvoice]]'', ''[[dOrder]]'', ''[[dPurchases]]'', and ''[[dPayables]])'', ''[[Superbase Personal]]'', ''[[Superbase Professional]]'', ''[[Tracker ST]]'', and others); and various CAD and CAM tools from amateur hobbyist to professional grade (Campus CAD, DynaCADD, Leonard ST, Technobox CAD/2...): all being largely targeted at, or even limited to owners of high-resolution monochrome monitors.
+
+Graphics programs such as ''[[NEOchrome]]'', [[DEGAS (software)|Degas & Degas Elite]], ''Canvas'', ''[[Deluxe Paint]]'', and ''[[Cyber Paint]]'' (which author [[Jim Kent]] would later evolve into ''[[Autodesk Animator]]'')<ref name="asterius">[http://www.asterius.com/atari/cyberpaint.html The Antic Cyber Graphics Software and the Pre-History of Autodesk 3D Studio and Discreet 3ds max]. Asterius.com. Retrieved on 2013-04-22.</ref> featured advanced features such as 3D design and animation. One paint program, ''[[Spectrum 512]]'', uses the ST's rapid palette switching ability to expand the maximum number of colors to be displayed on-screen at once to 512<ref name="asterius" /> (up to 46 in each scan line{{snd}} the STE never had a Spectrum4096, but other more minor applications filled this speciality niche, one even going so far as to program the shifter chip to palette shift at a rate enabling a display of 19200 colors).
+
+[[3D computer graphics]] applications (like ''[[Cyber Studio]]''s ''CAD-3D'', which author Tom Hudson would later develop into [[Autodesk]] ''[[3ds Max|3D Studio]]''<ref>{{Wayback |date=20071112002953 |url=http://rand.com/imaginit/1/rss/viewitem.asp?feedid=BLOGS_VISUAL_ALL&guid=170 |title=Dinner with Tom Hudson }}. rand.com (17 January 2007).</ref><ref>[http://analog.klanky.com/people.htm The People of ANALOG]. Analog.klanky.com. Retrieved on 2013-04-22.</ref>), brought 3D modelling, sculpting, scripting, and most important, [[computer animation]] (using [[Delta encoding|delta-compression]]) to the desktop. Video-capture and -editing applications using special video-capture 'dongles' connected using the cartridge port{{snd}} low frame rate, mainly silent and monochrome, but progressing to sound and basic color (in still frames) by the end of the machine's life. At the end, Spectrum 512 and CAD-3D teamed up to produce realistic 512-color textured 3D renderings, but processing was slow, and Atari's failure to deliver a machine with a math coprocessor had Hudson and Yost looking towards the PC as the future before a finished product could be delivered to the consumer.<ref name="asterius" />
+
+The Atari ST was the computer upon which today's prevalent graphical touchscreen point of sale software for restaurants was originally developed. This software was created by [[Gene Mosher]] under the [[ViewTouch]]<ref>Bisson, Giselle. [http://www.atarimagazines.com/startv2n6/gettingdowntobusiness.html Getting Down To Business]. START Vol. 2 No. 6, Special issue #3. Atarimagazines.com. Retrieved on 2013-04-22.</ref> copyright and trademark. It does not feature the Atari ST's GEM graphical user interface but, instead, features an application specific graphical user interface and widget framework which he developed using, in part, the [[Neochrome]] paint program.
+
+=== Software development ===
+The Atari ST has a wide variety of languages and tools for development. 68000 assemblers (MadMac from Atari Corp, [[HiSoft Systems]]'s Devpac, TurboAss, GFA-Assembler), Pascal ([[OSS Personal Pascal]], Maxon Pascal, PurePascal), [[Modula-2]], C compilers (like [[Turbo C]], Alcyon C, [[Lattice C]], [[Megamax C]], [[Mark Williams C]], [[GNU Compiler Collection|GNU C]], Aztec C, AHCC (A Home Cooked C)), [[LISP]], [[Prolog]], [[Logo programming language|Logo]], and many others.
+
+The initial development kit from Atari included a computer and manuals. At $5,000, this discouraged many from developing software for the ST. Later, the Atari Developer's Kit consisted of software and manuals (no hardware) for $300. Included with the kit were a resource kit, C compiler (first Alcyon C, then Mark Williams C), debugger, and 68000 assembler (plus the non-disclosure agreement).
+
+The ST came bundled with a system disk that contained [[ST BASIC]], the first BASIC for the ST. However, due to its poor performance, users favored other BASICs, such as HiSoft BASIC, [[GFA BASIC]], FaST BASIC (notable for being one of the few programs to actually be supplied as a ROM cartridge instead of on disc), and the relatively famous ''[[STOS BASIC programming language|STOS]]'', which then inspired and led to the creation of AMOS on the Amiga, and powerful enough that it was used (with a compiler, opposed to its usual runtime interpreter) for the production of at least two commercial titles and an innumerable host of good quality shareware and public domain games. In the late years of the Atari ST Omikron Basic was bundled with it in Germany.
+
+Even novelty tools such as ''[[Shoot'Em-Up Construction Kit|SEUCK]]'' were available.
+
+=== Games ===
+The ST enjoyed success in gaming due to low cost, fast performance and colorful graphics.
+
+Notable individuals who developed games on the ST include [[Peter Molyneux]], [[Doug Bell]], [[Jeff Minter]], [[Éric Chahi]], [[Jez San]], and [[David Braben]]. An early real-time 3D [[role-playing video game]], ''[[Dungeon Master (video game)|Dungeon Master]]'', was first developed and released on the ST, and was the best-selling software ever produced for the platform. Simulation games like ''[[Falcon (video game)|Falcon]]'' and ''[[Microsoft Flight Simulator#History|Flight Simulator II]]'' made use of the enhanced graphics found in the ST machines, as did many arcade ports. One game, [[MIDI Maze]], uses the [[MIDI]] ports to connect up to 16 machines for interactive networked play. Games simultaneously released on the Amiga that had identical graphics and sound were often accused by video game magazines of simply being ST ports. The critically acclaimed game ''[[Another World (video game)|Another World]]'' was originally released for ST and Amiga in 1991 with the Polygonal engine developed on the ST and the rotoscoped animations created on the Amiga (the two games are very similar on both systems).
+
+[[Garry Kasparov]] became the first player to register the commercial ''[[ChessBase]]'', a popular commercial database program produced for storing and searching records of games of chess. The first version was built for Atari ST with his collaboration in January 1987.<ref>Chessdatabase and Gary Kasparov http://en.chessbase.com/home/TabId/211/PostId/4007229</ref> In his autobiography ''Child of Change'', he regards this facility as ''the most important development in chess research since printing''.
+
+{{see also|List of Atari ST games|Category:Atari ST games}}
+
+=== Utilities ===
+Utility software was available to drive hardware add-ons such as video digitisers. Office Productivity and graphics software was also bundled with the ST ([[HyperPaint II]] by [[Dimitri Koveos]], [[HyperDraw]] by [[David Farmborough]], [[3D-Calc]] spreadsheet by [[Frank Schoonjans]], and several others commissioned by Bob Katz, later of [[Electronic Arts]]).
+
+There was a thriving output of [[public domain]] and [[shareware]] software which was distributed by, in the days long before public internet access, [[public domain software library|public domain software libraries]] that advertised in magazines and on popular dial-up [[bulletin board system]]s.
+
+Remarkably, a modest core fanbase for the system, supporting a dwindling number of good quality print magazines, survived to the mid-'90s and the birth of the modern, publicly accessible Internet as we know it. Despite the limited graphics, memory, and temporary hard-storage capabilities of the system, several email, FTP, telnet, IRC, and even full-blown graphical World Wide Web browser applications were available and usable on the ST.
+
+There were also DOS emulators released in the late 1980s. ''PC-Ditto'' came in two versions, software-only-, and a hardware version that plugs into the cartridge slot or kludges internally. After running the PC-Ditto software, a DOS boot disk is required to load the system. Both allow users to run DOS programs in [[Color Graphics Adapter|CGA]] mode, though much more slowly than on an [[IBM PC]]. Other options are the ''PC-Speed'' ([[NEC V30]]), ''AT-Speed'' ([[Intel 80286]]) and ''ATonce-386SX'' ([[80386SX|Intel 80386sx]]) hardware emulator boards.
+
+== Technical specifications ==
+All STs are made up of both custom and commercial chips:
+
+* Custom chips:
+** ''ST Shifter'' ''"Video shift register chip"''{{snd}} Enables bitmap graphics using 32&nbsp;KB of contiguous memory for all resolutions. Screen address has to be a multiple of 256.
+** ''ST GLU'' ''"Generalized Logic Unit"''{{snd}} Control logic for the system used to connect the ST's chips. Not part of the data path, but needed to bridge chips with each other.
+** ''ST MMU'' ''"Memory Management Unit"''{{snd}} Provides signals needed for CPU/blitter/DMA and Shifter to access dynamic RAM. Even memory accesses are given to CPU/blitter/DMA while odd cycles are reserved for DRAM refresh or used by Shifter for displaying contents of the frame buffer.
+** ''ST DMA'' ''"[[Direct Memory Access]]"''{{snd}} Used for floppy and hard drive data transfers. Can directly access main memory in the ST.
+* Support chips:
+** ''MC6850P ACIA'' ''"Asynchronous Common Interface Adapter"''{{snd}} Enables the ST to directly communicate with MIDI devices and keyboard (two chips used). {{nowrap|31.250 kbit/s}} for [[MIDI]], {{nowrap|7812.5 bit/s}} for keyboard.
+** ''MC68901 MFP'' ''"Multi Function Peripheral"''{{snd}} Used for interrupt generation/control, serial and misc. control input signals. Atari TT030 has two ''MFP'' chips.
+** ''[[WD1771|WD-1772-PH]]'' ''"Western Digital Floppy Disk Controller"''{{snd}} Floppy controller chip.
+** ''[[General Instrument AY-3-8910|YM2149F PSG]]'' ''"[[Programmable Sound Generator]]"''{{snd}} Provides three--voice sound synthesis, also used for floppy signalling, serial control output and printer parallel port.
+** ''HD6301V1'' ''"Hitachi keyboard processor"''{{snd}} Used for keyboard scanning and mouse/joystick ports.
+
+=== ST/ST<sup>F</sup>/ST<sup>M</sup>/ST<sup>FM</sup> ===
+As originally released in the ''520ST'':
+
+* CPU: [[Motorola 68000]] 16-/32-bit CPU<ref "16/32">{{cite book | last = Motorola Literature Distribution, Phonenix, AZ | title = M68000 Family Programmer's Reference Manual | publisher = [Motorola] | year = 1992 | pages = 1–1 | isbn = 0-13-723289-6 }}</ref> @ 8&nbsp;[[Megahertz|MHz]]. 16-bit data/32-bit internal/24-bit address.
+* RAM: 512&nbsp;KB or 1&nbsp;[[Megabyte|MB]]
+* Display modes (60&nbsp;Hz NTSC, 50&nbsp;Hz PAL, 71.2&nbsp;Hz monochrome):
+** Low resolution: 320 × 200 (16 color), palette of 512 colors
+** Medium resolution: 640 × 200 (4 color), palette of 512 colors
+** High resolution: 640 × 400 (mono), monochrome
+* Sound: [[General Instruments AY-3-8912|Yamaha YM2149]] 3-voice squarewave plus 1-voice white noise mono [[Programmable Sound Generator]]
+* Drive: Single-sided 3½" [[floppy disk]] drive, 360 kB capacity when formatted to standard 9 sector, 80 track layout.
+* Ports: TV out (on ST-M and ST-FM models, NTSC or PAL standard RF modulated), [[MIDI]] in/out (with 'out-thru'), [[RS-232]] serial, [[Centronics]] parallel (printer), monitor ([[RGB]] or Composite Video color and [[monochrome|mono]], 13-pin [[DIN connector|DIN]]), extra disk drive port (14-pin [[DIN connector|DIN]]), [[Direct memory access|DMA]] port (ACSI port, Atari Computer System Interface) for [[hard disk]]s and Atari Laser Printer (sharing RAM with computer system), joystick and mouse ports (9-pin MSX standard)
+* [[Operating System]]: [[Atari TOS|TOS]] v1.00 (TOS meaning The Operating System) with the [[Graphical Environment Manager]] (GEM) WIMP (Windows, Icons, Menus, Pointer) GUI
+
+Very early machines included the OS on a floppy disk due to it not being ready to be burned to ROM (like the [[Amiga 1000]] had). This early version of TOS was bootstrapped from a very small core boot ROM, but this was quickly replaced with (expanded capacity) [[Read-only memory|ROM]] versions of TOS 1.0 when it was ready. (This change was also greatly welcomed as older ST machines with memory below 512 kB suffered, as GEM loaded its entire 192 kB code into RAM when booting the desktop). Having the OS loaded from disk was due to Atari trying to rush the machines to market without ironing out all the bugs in the OS. Soon after this change, most production models became ST<sup>F</sup>s, with an integrated single- (520STF/512 kB RAM) or double-sided (1040STF/1024 kB RAM) double density floppy disk drive built-in, but no other changes. The next later models used an upgraded version of TOS: 1.02 (also known as TOS 1.2). Another early addition (after about 6 months) was an [[RF Modulator]] that allows the machine to be hooked to a color TV when run in its low or medium resolution (525/625 line 60/50&nbsp;Hz interlace, even on RGB monitors) modes, greatly enhancing the machine's saleability and perceived value (no need to buy a prohibitively expensive, even if exceptionally crisp and clear, monitor). These models were known as the ''520ST<sup>M</sup>'' (or ''520STM''). Later ''F'' and ''FM'' models of the 520 had a built in [[double-sided disk]] drive instead of a single-sided one.
+
+=== ST<sup>E</sup> ===
+As originally released in the ''520ST<sup>E</sup>/1040ST<sup>E</sup>'':
+
+* All of the features of the 520STFM/1040STFM
+* Extended palette of 4,096 available colors to choose from
+* [[BLiTTER]] chip for copy/fill/clear large data blocks in memory (max write rate of 4 MB/s)
+* Hardware-support for horizontal and vertical fine scrolling and split screen (using the Shifter video chip)
+* DMA [[sound chip]] with 2-channels stereo 8-bit [[Pulse-code modulation|PCM]] sound at 6.25/12.5/25/50&nbsp;kHz and stereo RCA audio-out jacks (using enhancements to the Shifter video chip to support audio shifting)
+* [[National LMC 1992]] audio controller chip, allowing adjustable left/right/master volume and bass and treble EQ via a [[Serial_Peripheral_Interface_Bus#Microwire|Microwire]] interface
+* Memory: 30-pin [[SIMM]] memory slots ([[SIPP memory|SIPP]] packages in earliest versions) allowing upgrades up to 4 MB Allowable memory sizes including only 0.5, 1.0, 2.0, 2.5 and 4.0 MB due to configuration restraints (however, 2.5 MB is not officially supported and has compatibility problems). Later 3rd-party upgrade kits allow a maximum of 14MB [http://www.stcarchiv.de/stc1997/03_magnumst.php w/Magnum-ST], bypassing the stock [[Memory management unit|MMU]] with a replacement unit and the additional chips on a separate board fitting over it.
+* Ability to synchronise the video-timings with an external device so that a video [[Genlock]] device can be used without having to make any modifications to computer's hardware
+* Analogue joypad ports (2), with support for devices such as paddles and light pens in addition to joysticks/joypads. The [[Atari Jaguar]] joypads and Power Pad joypads (gray version of Jaguar joypads marketed for the ST<sup>E</sup> and [[Atari Falcon|Falcon]]) can be used without an adapter. Two standard Atari-style digital joysticks could be plugged into each analogue port with an adapter.
+* [[Atari TOS|TOS]] 1.06 (also known as TOS 1.6) or TOS 1.62 (which fixed some major backwards-compatibility bugs in TOS 1.6) in two socketed 128 kB ROM chips.
+* Socketed [[Plastic leaded chip carrier|PLCC]] [[68000]] [[CPU]]
+
+== Models ==
+The members of the ST family are listed below, in rough chronological order:
+
+; 520ST: Original model with 512&nbsp;KB RAM, external power supply, no floppy disk drive. The early models had only a bootstrap ROM and TOS had to be loaded from disk.
+; 520ST+: early 520STs with 1&nbsp;MB of RAM, but without floppy disk
+; 260ST: originally intended to be a 256&nbsp;kB variant, but actually sold in small quantities in Europe with 512&nbsp;KB. Used after the release of the 520ST+ to differentiate the cheaper 512&nbsp;KB models from the 1&nbsp;MB models. Also because the early 520ST's were sold with TOS on disk, this ate up 192&nbsp;KB or RAM so the machine only had around 256K left. So it made sense to call it a 260ST.
+; 520ST<sup>M</sup>: a 520ST with a built-in modulator for TV output, 512&nbsp;KB RAM.
+; 520ST<sup>FM</sup>: a 520STM with a newly redesigned motherboard in a larger case with a built-in floppy disk drive (in some cases a single sided drive only), 512&nbsp;KB RAM.
+; 1040ST<sup>F</sup>: a 520STFM with 1&nbsp;MB of RAM and a built-in double-sided floppy disk, but without RF modulator
+; 1040ST<sup>FM</sup>: a 520STFM with 1&nbsp;MB of RAM and a built-in double-sided floppy disk with RF modulator
+; Mega ST (MEGA 1, MEGA 2, MEGA 4): redesigned motherboard with 1, 2 or 4&nbsp;MB of RAM, respectively, in a much improved "[[Pizza box form factor|pizza box]]" case with a detached keyboard. All MEGA mainboard have a PLCC socket for the Blitter chip and some early models did not include the BLiTTER chip. Included a real-time clock and internal expansion connector. Some early MEGA 2 had a MEGA 4 mainboard with half of the mem chip places unpopulated and these MEGA 2 can be upgraded by adding the additional DRAM chips and some resistors for the control lines. The MEGA 1 mainboards had a redesigned mem chip area and could not be upgraded in this way as there are only mem chip places for the 1&nbsp;MByte DRAM chips.
+; 520ST<sup>E</sup> and 1040ST<sup>E</sup>: a 520STFM/1040STFM with enhanced sound, the BLiTTER chip, and a 4096-color palette, in the older 1040 style all-in-one case
+; [[Atari MEGA STE|Mega STE]]: same hardware as 1040STE except for a faster 16&nbsp;MHz processor, an onboard SCSI controller, additional faster RS232 port, VME expansion port, in an ST gray version of the TT case
+; [[STacy]]: a [[portable computer|portable]] (but definitely not [[laptop]]) version of the ST with the complete ST keyboard, an LCD screen simulating 640x400 hi-res, and a mini-trakball intended mostly for travellers and musicians because of the backlight screen and its built-in midi ports. Originally designed to operate on 12 standard [[C battery|C cell]] flashlight batteries for portability, when Atari finally realized how quickly the machine would use up a set of batteries (especially when rechargeable batteries of the time supplied insufficient power compared to the intended alkalines), they simply glued the lid of the battery compartment shut.
+; [[ST BOOK]]: a later portable ST, more portable than the STacy, but sacrificing several features in order to achieve this{{snd}} notably the backlight, and internal floppy disk drive. Files were meant to be stored on a small amount (one megabyte) of internal [[flash memory]] 'on the road' and transferred using serial or parallel links, memory flashcards or external (and externally powered) floppy disk to a  desktop ST once back indoors. The screen is highly reflective for the time, but still hard to use indoors or in low light, it is fixed to the 640 × 400 1-bit mono mode, and no external video port was provided. For its limitations, it gained some popularity, particularly amongst musicians.
+
+=== Unreleased ===
+; 130ST: intended to be a 128&nbsp;KB variant. Announced at the 1985 CES alongside the 520ST but never produced.
+; 4160ST<sup>E</sup>: as 1040ST<sup>E</sup> but with 4&nbsp;MB of RAM. Never officially released except a small quantity of development units. Labels were sent out to dealers to affix to machines that had been upgraded to 4&nbsp;MB.
+
+== Related systems ==
+Atari ABAQ, or [[Atari Transputer Workstation]]: A standalone machine developed in conjunction with Perihelion Hardware, containing modified ST hardware and up to 17 [[transputer]]s capable of [[massively parallel]] operations for tasks such as ray tracing.
+
+== Clones ==
+* [[GE-Soft]] Eagle: TT clone but with 32&nbsp;MHz system bus [http://www.soundonsound.com/sos/1995_articles/jun95/atarinotes.html Article in SOS, June 1995]
+
+== Peripherals ==
+* SF354: Single-sided double-density 3½-inch floppy drive (360 kB) with external power supply
+* SF314: Double-sided double-density 3½-inch floppy drive (720 kB) with external power supply
+* PS3000: Combined 12-inch color monitor and 360k 3½-inch floppy drive (SF354). Speaker. Manufactured by JVC in limited quantity (~1000), only a few working models remain.
+* SM124: Monochrome monitor, 12-inch screen, 640 × 400 pixels, 70&nbsp;Hz refresh
+* SM125: Monochrome monitor, 12-inch screen, up/down/sideways swivel stand, speaker, 640x400 pixels, 70&nbsp;Hz refresh
+* SM147: Monochrome monitor, 14-inch screen, no speaker, replacement for SM124
+* SC1224: Color monitor, 12-inch screen, 640 × 200 pixels plus speaker
+* SC1425: Color monitor, 14-inch screen, One speaker on the left of screen, a jack to plug ear-listeners
+* SC1435: Color monitor, 14-inch screen, stereo speakers, replacement for SC1224 (rebadged Magnavox 1CM135)
+* SM195: Monochrome monitor, 19-inch screen for TT030. 1280 × 960 pixels. 70&nbsp;Hz refresh
+* SH204: External hard drive, 20 MB MFM drive, "shoe box" case made of metal
+* SH205: External hard drive, Mega ST matching case, 20 MB MFM 3.5-inch (Tandon TM262) or 5.25-inch (Segate ST225) drive with ST506 interface (became later the Megafile 20)
+* Megafile 20, 30, 60: External hard drive, Mega ST matching case, ACSI bus; Megafile 30 and 60 had a 5.25-inch RLL (often a Seagate ST238R 30 MByte or Seagate ST277R 60 MByte drive) with ST506 interface
+* Megafile 44: Removable cartridge drive, ACSI bus, Mega ST matching case
+* SLM804: Laser printer, connected through ACSI DMA port, used ST's memory and processor to build pages for printing
+* SLM605: Laser printer, connected through ACSI DMA port, smaller than SLM805
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category|Atari ST}}
+* [http://www.atarimania.com/atari-st-tt-falcon.html Atarimania: Atari ST software preservation project]
+* [http://www.atari.st/ "The little green desktop"]
+* [https://archive.org/stream/byte-magazine-1986-09/1986_09_BYTE_11-09_The_68000_Family#page/n233/mode/2up BYTE Magazine September 1986, Atari ST Software Development]
+
+{{Atari hardware}}
+
+[[Category:68000-based home computers]]
+[[Category:Home computers]]<!-- Leave this, or else it breaks navigation for those who don't know what a 68k is-->
+[[Category:Personal computers]]
+[[Category:Atari ST| ]]
+[[Category:Products introduced in 1985]]
+[[Category:All-in-one desktop computers]]

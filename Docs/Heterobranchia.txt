@@ -1,0 +1,125 @@
+Heterobranchia
+
+{{Taxobox
+| name = Heterobranchia
+| image = Heterobranchia composite 03.jpg
+| image_caption = Some examples of Heterobranchia
+| regnum = [[Animal]]ia
+| phylum = [[Mollusc]]a
+| classis = [[Gastropod]]a
+| unranked_familia =
+clade '''Heterobranchia'''
+| unranked_familia_authority = J.E. Gray, 1840
+| subdivision_ranks = Taxonomic subcategories
+| subdivision =informal&nbsp;group&nbsp;[[Lower Heterobranchia|Lower&nbsp;Heterobranchia]]<br />
+clade [[Nudipleura]]<br />
+clade [[Euopisthobranchia]]<br />
+clade [[Panpulmonata]]
+}}
+'''Heterobranchia''', the ''heterobranchs'' (meaning "different-gilled snails"), is a [[taxonomic]] [[clade]] of [[snail]]s and [[slugs]], which includes [[marine (ocean)|marine]], [[Aquatic animal|aquatic]] and [[terrestrial animal|terrestrial]] [[gastropod]] [[mollusc|mollusk]]s.
+
+Heterobranchia is one of the main clades of gastropods. Currently Heterobranchia comprises three informal groups: the [[Lower Heterobranchia]], the [[Opisthobranchia]] and the [[Pulmonata]], also known as the lower heterobranchs, the opisthobranchs and the pulmonates.<ref name="Bouchet">Bouchet P. & Rocroi J.-P. (Ed.); Frýda J., Hausdorf B., Ponder W., Valdes A. & Warén A. 2005. ''Classification and nomenclator of gastropod families''. Malacologia: International Journal of Malacology, 47(1-2). ConchBooks: Hackenheim, Germany. ISBN 3-925919-72-4. {{ISSN|0076-2997}}. 397 pp. http://www.vliz.be/Vmdcdata/imis2/ref.php?refid=78278</ref>
+
+[[File:Bulla quoyii, underside.JPG|left|thumb|A shell of the marine species ''[[Bulla quoyii]]'', which is an [[opisthobranch]].]]
+
+==Diversity ==
+The three subdivisions of this large clade are quite diverse:
+
+* The [[Lower Heterobranchia]] includes shelled marine and freshwater species.
+* [[Opisthobranchia]] are almost all marine species, some [[gastropod shell|shelled]] and some not. The internal organs of the opisthobranchs have undergone detorsion (unwinding of the viscera that were twisted during [[torsion (gastropod)|torsion]]).
+* The [[Pulmonata]] includes the majority of land snails and slugs, many freshwater snails, and a small number of marine species. The mantle cavity of the Pulmonata is modified into an air-breathing organ. They are also characterized by detorsion and a symmetrically-arranged nervous system. The pulmonates almost always lack an [[Operculum (gastropod)|operculum]] and are [[hermaphroditic]].
+
+==Taxonomy ==
+
+=== Older taxonomy ===
+The families currently included in Heterobranchia have historically been placed in many different parts of the taxonomic class of gastropods. Earlier authors (such as [[John Edward Gray|J.E. Gray]], 1840) considered Heterobranchia to consist of only marine gastropods, and conceptualized it as a borderline category, intermediate between the [[Opisthobranchia]] & [[Pulmonata]], and all the other gastropods.<ref>{{cite journal | author = Haszprunar G. |title = The Heterobranchia ― a new concept of the phylogeny of the higher Gastropoda|year = 1985| journal = Zeitschrift für zoologische Systematik und Evolutionsforschung|volume = 23| issue = 1 | pages = 15–37}}  {{ISSN|0044-3808}}</ref>
+
+The (sometimes recognized) category [[Heterostropha]] within the Heterobranchia, which includes such families as [[Architectonicidae]], the sundial or staircase snails, is primarily characterized by a shell which has a heterostrophic [[protoconch]], in other words the apical whorls are coiled in the opposite plane to the adult whorls. The classification of this group was revised by [[Winston Ponder|Ponder]] & Warén in 1988.<ref>{{cite journal |author1=Ponder, W. F.  |author2=Warén, A. |title = Classification of the Caenogastropoda and Heterostropha- A list of family-group names and higher taxa|year = 1988| journal = Malacological review supplement |volume = 4| issue =| pages = 288–317}}</ref>
+
+According to the  older [[taxonomy of the Gastropoda (Ponder & Lindberg, 1997)]] the Heterobranchia were ranked as a superorder.
+
+=== 2005 taxonomy ===
+[[File:Heterobranchia tree.png|thumb|The graph of [[neighbor-joining]] [[phylogenetic tree]] shows that there is no clade-supporting pattern for the monophyly of Opisthobranchia (green) or of Pulmonata (yellow) based on datasets by Jörger et al. (2010).<ref name="Jörger 2010"/>]]
+Heterobranchia is currently one of the main clades of gastropods. For a detailed taxonomy, see [[Taxonomy of the Gastropoda (Bouchet & Rocroi, 2005)#Clade Heterobranchia]].
+
+=== 2010 taxonomy ===
+Jörger et al. (2010)<ref name="Jörger 2010"/> have redefined major groups within the Heterobranchia: they created the new clades [[Euopisthobranchia]] and [[Panpulmonata]].<ref name="Jörger 2010">{{cite journal |author1=Jörger K. M. |author2=Stöger I. |author3=Kano Y. |author4=Fukuda H. |author5=Knebelsberger T. |author6=Schrödl M. | year = 2010 | title = On the origin of Acochlidia and other enigmatic euthyneuran gastropods, with implications for the systematics of Heterobranchia | url = | journal = [[BMC Evolutionary Biology]] | volume = 10 | issue = | page = 323 | doi = 10.1186/1471-2148-10-323 | pmid = 20973994 | pmc=3087543}}</ref>
+
+A [[cladogram]] showing phylogenic relations of Heterobranchia as proposed by Jörger et al. (2010):<ref name="Jörger 2010"/>
+
+{{clade
+|label1=Heterobranchia
+|1={{clade
+   |1=[[Lower Heterobranchia]] (including [[Acteonoidea]]) - Lower Heterobranchia does not form a clade in the study by Jörger et al. (2010)<ref name="Jörger 2010"/>
+   |label2=[[Euthyneura]]
+   |2={{clade
+      |label1=[[Nudipleura]] |1={{clade
+          |1=[[Pleurobranchomorpha]]
+          |2=[[Nudibranchia]]
+       }}
+      |2={{clade
+         |label1=[[Euopisthobranchia]]
+         |1={{clade
+            |1=[[Umbraculoidea]]
+            |2={{clade
+               |1={{clade
+                  |1=[[Runcinacea]]
+                  |2={{clade
+                     |1=[[Anaspidea]]
+                     |2=[[Pteropoda]]
+                     }}
+                  }}
+               |2=[[Cephalaspidea]] s.s.
+               }}
+            }}
+         |label2=[[Panpulmonata]]
+         |2={{clade
+            |1={{clade
+               |1=[[Siphonarioidea]]
+               |2=[[Sacoglossa]]
+               }}
+            |2={{clade
+               |1={{clade
+                  |1=[[Glacidorboidea]]
+                  |2={{clade
+                     |1=[[Amphiboloidea]]
+                     |2=[[Pyramidelloidea]]
+                     }}
+                  }}
+               |2={{clade
+                  |1=[[Hygrophila (Gastropoda)|Hygrophila]]
+                  |2={{clade
+                     |1=[[Acochlidiacea]]
+                     |label2=[[Eupulmonata]]
+                     |2={{clade
+                        |1=[[Stylommatophora]]
+                        |2={{clade
+                           |1=[[Systellommatophora]]
+                           |2={{clade
+                              |1=[[Ellobioidea]]
+                              |2={{clade
+                                 |1=[[Otinoidea]]
+                                 |2=[[Trimusculoidea]]
+                                 }}
+                              }}
+                           }}
+                        }}
+                     }}
+                  }}
+               }}
+            }}
+         }}
+      }}
+   }}
+}}
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* Dinapoli A. (2009). ''Phylogeny and Evolution of the Heterobranchia (Mollusca, Gastropoda)''. Thesis, Frankfurt am Main, 176 pp. [http://deposit.d-nb.de/cgi-bin/dokserv?idn=995450641&dok_var=d1&dok_ext=pdf&filename=995450641.pdf PDF].
+* {{cite journal |author1=Dinapoli A. |author2=Klussmann-Kolb A. | year = 2010 | title = The long way to diversity – Phylogeny and evolution of the Heterobranchia (Mollusca: Gastropoda)". | url = | journal = [[Molecular Phylogenetics and Evolution]] | volume = 55 | issue = 1| pages = 60–76 | doi = 10.1016/j.ympev.2009.09.019 }}
+
+[[Category:Heterobranchia| ]]
+[[Category:Gastropod taxonomy]]
+[[Category:Animal unranked clades]]

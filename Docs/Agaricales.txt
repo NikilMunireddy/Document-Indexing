@@ -1,0 +1,241 @@
+Agaricales
+
+{{Taxobox
+| name = Agaricales
+| fossil_range = {{Fossilrange|Albian|Recent}}<ref name=Poinar2007/>
+| image = Agaricus campestris.jpg
+| image_width = 240px
+| image_caption = ''[[Agaricus campestris]]'' ([[Agaricaceae]])
+| regnum = [[Fungus|Fungi]]
+| divisio = [[Basidiomycota]]
+| subdivisio = [[Agaricomycotina]]
+| classis = [[Agaricomycetes]]
+| subclassis = [[Agaricomycetidae]]
+| ordo = '''Agaricales'''
+| ordo_authority = [[Lucien Marcus Underwood|Underw.]] (1899)<ref name=Underwood1899/>
+| subdivision_ranks = Subdivisions
+| subdivision = <center>[[List of Agaricales families|32 families]], [[List of Agaricales genera|400+ genera]]</center>
+| synonyms_ref = <ref name="urlMycoBank: Agaricales"/>
+| synonyms = ''Amanitales'' <small>Jülich (1981)</small><br>
+''Cortinariales'' <small>Jülich (1981)</small><br>
+''Entolomatales'' <small>Jülich (1981)</small><br>
+''Fistulinales'' <small>Jülich (1981)</small><br>
+''Schizophyllales'' <small>Nuss (1980)</small>
+}}
+The fungal [[order (biology)|order]] '''Agaricales''', also known as '''gilled mushrooms''' (for their distinctive [[gill (mushroom)|gill]]s) or '''euagarics''', contains some of the most familiar types of [[mushrooms]]. The [[Order (biology)|order]] has 33 [[Extant taxon|extant]] [[family (biology)|families]], 413 [[genus|genera]], and over 13000 described [[species]],<ref name=Kirk2008/> along with five [[extinct]] genera known only from the fossil record.<ref name=Poinar2007/><ref name=Hibbett2003/>  They range from the ubiquitous [[Agaricus bisporus|common mushroom]] to the deadly [[Amanita virosa|destroying angel]] and the [[Psychedelics, Dissociatives and Deliriants|hallucinogen]]ic [[Amanita muscaria|fly agaric]] to the [[bioluminescence|bioluminescent]] [[Omphalotus olearius|jack-o-lantern mushroom]].
+
+==History, classification and phylogeny==
+{{cladogram|align=right|title=
+| clade=
+{{clade
+|style=font-size:75%;line-height:75%;width:350px;
+| label1=
+| 1={{clade
+     |1={{clade
+        |label1=Agaricoid clade
+        |1={{clade
+           |1={{clade
+              |1={{clade
+                 |1={{clade
+                    |1={{clade
+                       |1={{clade
+                          |1=[[Strophariaceae]] ''s.&nbsp;str.''
+                          |2=[[Hymenogastraceae]]
+                          }}
+                       |2={{clade
+                          |1={{clade
+                             |1=[[Inocybaceae]]
+                             |2=[[Crepidotaceae]]
+                             }}
+                          |2=Tubarieae
+                          |3=Panaeoleae
+                          }}
+                       }}
+                    |2=Gymnopileae
+                    }}
+                 |2={{clade
+                    |1=[[Cortinariaceae]] ''s. str.''
+                    |2=[[Bolbitiaceae]]
+                    }}
+                 }}
+              |2={{clade
+                 |1=[[Psathyrellaceae]]
+                 |2=[[Hydnangiaceae]]
+                 }}
+              }}
+           |2={{clade
+              |1=[[Agaricaceae]]
+              |2={{clade
+                 |1=[[Nidulariaceae]]
+                 |2=Cystodermateae
+                 }}
+              }}
+           }}
+        |label2=Tricholomatoid clade
+        |2={{clade
+           |1={{clade
+              |1={{clade
+                 |1={{clade
+                    |1={{clade
+                       |1={{clade
+                          |1={{clade
+                             |1=[[Lyophyllaceae]]
+                             |2=[[Entolomataceae]]
+                             }}
+                          |2=''[[Clitocybe candicans]]'', ''[[Clitocybe subditopoda|C.&nbsp;subditopoda]]''
+                          }}
+                       |2=[[Tricholomataceae]]
+                       }}
+                    |2=''[[Dendrocollybia racemosa]]''
+                    }}
+                 |2=''[[Neohygrophorus angelesianus]]''
+                 }}
+              |2=Catathelasma clade
+              }}
+           |2=[[Mycenaceae]]
+           }}
+        |label3=Marasmioid clade
+        |3={{clade
+           |1={{clade
+              |1={{clade
+                 |1=[[Omphalotaceae]]
+                 |2=[[Marasmiaceae]]
+                 }}
+              |2={{clade
+                 |1=hydropoid clade
+                 |2=[[Cyphellaceae]]
+                 }}
+              }}
+           |2={{clade
+              |1=[[Physalacriaceae]]
+              |2={{clade
+                 |1=[[Schizophyllaceae]]
+                 |2=Lachnellaceae
+                 }}
+              }}
+           }}
+        |label4=Hygrophoroid clade
+        |4={{clade
+           |1=[[Hygrophoraceae]]
+           |2={{clade
+              |1=[[Pterulaceae]]
+              |2=[[Typhulaceae]]
+              }}
+           }}
+        |label5=Pluteoid clade
+        |5={{clade
+           |1={{clade
+              |1=[[Pleurotaceae]]
+              |2=[[Amanitaceae]]
+              }}
+           |2={{clade
+              |1=[[Pluteaceae]]
+              |2=[[Limnoperdaceae]]
+              }}
+           }}
+        }}
+     |label2=Plicaturopsidoid clade
+     |2={{clade
+        |1=[[Atheliaceae]]
+        |2=[[Clavariaceae]]
+        }}
+     }}
+}}
+| caption=Cladogram of the Agaricales, showing the division into six major clades, based on Matheny ''et al.'', 2006.<ref name=Matheny2006/>
+}}
+In his three volumes of ''[[Systema Mycologicum]]'' published between 1821 and 1832, [[Elias Fries]] put almost all of the fleshy, gill-forming mushrooms in the genus ''[[Agaricus]]''. He organized the large genus into "tribes", the names of many of which still exist as common genera of today. Fries later elevated several of these tribes to generic level, but later authors—including [[Claude-Casimir Gillet|Gillet]], [[Petter Karsten|Karsten]], [[Paul Kummer|Kummer]], [[Lucien Quélet|Quélet]], and [[Friedrich Staude|Staude]]—made most of the changes. Fries based his classification on macroscopic characters of the fruit bodies and color of the spore print. His system had been widely used as it had the advantage that many genera could be readily identified based on characters observable in the field. Fries's classification was later challenged when microscopic studies of basidiocarp structure, initiated by [[Victor Fayod|Fayod]] and [[Narcisse Théophile Patouillard|Patouillard]], demonstrated several of Fries's groupings were unnatural.<ref name=Kirk2008/> In more recent history, Rolf Singer's influential work ''The Agaricales in Modern Taxonomy'', published in four editions spanning from 1951 to 1986, used both Fries's macroscopic characters and Fayod's microscopic characters to reorganize [[family (biology)|families]] and genera; his most recent classification included 230 genera within 18 families.<ref name=Singer1986/>  Singer treated three major groups within the Agaricales ''[[sensu lato]]'': the Agaricales ''sensu stricto'', [[Boletineae]], and [[Russulales]]. These groups are still accepted by modern treatments based on DNA analysis, as the euagarics clade, bolete clade, and russuloid clade.<ref name=Hibbett2001/>
+
+[[Molecular phylogenetics]] research has demonstrated that the euagarics clade is roughly equivalent to Singer's Agaricales ''sensu stricto''.<ref name=Hibbett1997/><ref name=Moncalvo2000/><ref name=Moncalvo2002/> A recent (2006) large-scale study by Brandon Matheny and colleagues used [[nucleic acid sequence]]s representing six [[gene]] regions from 238 species in 146 genera to explore the phylogenetic grouping within the Agaricales. The analysis showed that most of the species tested could be grouped into six [[clade]]s that were named the Agaricoid, Tricholomatoid, Marasmioid, Pluteoid, Hygrophoroid and Plicaturopsidoid clades.<ref name=Matheny2006/>
+
+Some notable fungi with gill-like structures, such as [[chanterelle]]s, have long been recognized as being substantially different from usual Agaricales. Molecular studies are showing more groups of agarics as being more divergent than previously thought, such as the genera ''[[Russula]]'' and ''[[Lactarius]]'' belonging to a separate order [[Russulales]], and other gilled fungi, including such species as ''[[Paxillus involutus]]'' and ''[[Hygrophoropsis aurantiaca]]'' showing a closer affinity with [[Bolete]]s in the order [[Boletales]].
+
+Also, some other quite distinctive fungi, the [[puffball]]s, and some clavaroid fungi, e.g. ''[[Typhula]]'', and the [[Fistulina hepatica|Beefsteak fungus]] have been recently been shown to lie within the Agaricales.
+
+The term [[agaric]] had traditionally referred to Agaricales, which were defined as exactly those fungi with [[Lamella (mycology)|gills]]. Given the discoveries described above, those two categories are not synonymous (although there is a very large overlap between the two groups).
+<!--[[File:Hypholoma fasciculare 5.JPG|thumb|upright|Fruiting bodies emerge, open and release spores, split and decay; a process that may take only a few days to a week or two. (''[[Hypholoma fasciculare]]'')]]-->
+{{Clear}}
+
+==Distribution and habitat==
+Agarics are ubiquitous, being found across all continents. Most are terrestrial, their habitats including all types of woodland and grassland, varying largely from one genus to another. Agarics were long thought to be solely terrestrial, until the 2005 discovery of ''[[Psathyrella aquatica]]'', the only gilled mushroom known to fruit underwater.<ref name=Frank2010/>
+
+Agaricals are known from five [[monotypic]] genera found fossilized in [[amber]].  The oldest records are from two [[Cretaceous]] age genera; the [[Albian]] age (approximately 100 [[Mya (unit)|Ma]]) ''[[Palaeoagaracites|Palaeoagaracites antiquus]]'' from [[Burmese amber]] and the slightly younger [[Turonian]] [[New Jersey Amber]] species ''[[Archaeomarasmius|Archaeomarasmius leggeti]]''.<ref name="Poinar2007"/>  The three other species,  ''[[Aureofungus|Aureofungus yaniguaensis]]'', ''[[Coprinites|Coprinites dominicana]]'' and ''[[Protomycena|Protomycena electra]]'' are known from single specimens found in the [[Dominican amber]] mines of  [[Hispaniola]].<ref name=Hibbett2003/>
+[[File:Cortinarius archeri.jpg|thumb|upright|''[[Cortinarius archeri]]'']]
+
+==Characteristics==
+[[Basidiocarp]]s of the agarics are typically fleshy, with a [[stipe (mycology)|stipe]], often called a stem or stalk, a [[pileus (mycology)|pileus]] (or cap) and [[Lamella (mycology)|lamella]]e (or gills), where [[basidiospore]]s are produced. This is the stereotypical structure of a [[mushroom]].
+
+==Life cycle==
+The fungus fruit body is the spore-producing stage of the [[biological life cycle|life cycle]]. Most fungi reproduce by spores and the fruit bodies are developed specifically for the production and dispersal of spores. The spores produced by fruit bodies are usually the result of [[sexual reproduction]].<ref name=Alexopolous1996>Alexopolous ''et al.'', pp. 508–43.</ref>
+
+The fruit body is the visible part of the growing fungus. It is supported by and develops from an extensive network of thread-like filaments called [[hypha]]e. Hyphae are often collectively termed the [[mycelium]]; the food-absorbing part of the fungus—as opposed to the spore-producing fruit body of the fungus—is called the vegetative mycelium. The individual hyphae that compose the mycelium absorb nutrients and water from the substratum in which they are growing. When the nutrient supply is adequate and environmental conditions are favorable, some fungi may grow in the same location for several years. Fungi cannot make their own food, namely [[carbohydrate]]s, as can green plants. Some species are [[saprobic]], obtaining nutrients from dead [[organic matter|organic material]], whereas others are [[parasitism|parasitic]] on living plants or animals or even on other fungi. Many fungi, especially gilled mushroomes and boletes, have an extensive mycelium that lives in association with the roots of woody plants. This association, which is beneficial to both the fungus and host plant, is termed a [[mycorrhiza]].<ref name=Alexopolous1996/>
+
+When the environmental conditions are favorable and the mycelium is at the proper stage of development, one or more fruit bodies are produced by the fungus. The actual conditions necessary for fruit body formation and spore production are not clearly understood. [[Humidity]], light, temperature, aeration, and nutrition are all factors thought to be important in fruit body formation. The genetic makeup and the general physiology of the fungus hyphae are also important in the initiation and formation of young fruit bodies and their development to a mature stage. The spores produced by a fruit body are released when it is mature. When they land in a suitable environment, the spores germinate and the hyphae grow to initiate the life cycle anew.<ref name=Alexopolous1996/>
+
+==Genera ''Incertae sedis''==
+[[File:Setchelliogaster 92786.jpg|thumb|''Setchelliogaster'' is a genus of [[gasteroid fungi]] in the Agaricales that is ''incertae sedis'' with respect to familial placement.]]
+There are several genera classified in the Agaricales that are i) poorly known, ii) have not been subjected to DNA analysis, or iii) if analysed phylogenetically do not group with as yet named or identified families, and have not been assigned to a specific family (i.e., ''[[Incertae sedis]]'' with respect to familial placement). These include:
+*[[extinction|†]]''[[Aureofungus]]'' Hibbett, Manfr. Binder & Zheng Wang (2003)
+*''[[Brunneocorticium]]'' Sheng H.Wu (2007)
+*''[[Cheilophlebium]]'' [[Philipp Maximilian Opiz|Opiz]] & Gintl (1856)
+*''[[Cleistocybe]]'' Ammirati, A.D.Parker & Matheny (2007)
+*''[[Cribrospora]]'' Pacioni & P.Fantini (2000)
+*''[[Disporotrichum]]'' ([[teleomorph, anamorph and holomorph|anamorph]]) Stalpers (1984)
+*''[[Hemistropharia]]'' Jacobsson & E. Larss. (2007)<ref name="Jacobsson 2007"/>
+*''[[Leucocalocybe]]'' X.D.Yu & Y.J.Yao (2011)<ref name="Yu 2011"/>
+*''[[Mesophelliopsis]]'' [[Augusto Chaves Batista|Bat.]] & A.F.Vital (1957)
+*†''[[Palaeoagaracites]]'' Poinar & Buckley (2007)
+*''[[Panaeolina]]'' [[René Maire|Maire]] (1933)
+*''[[Panaeolus]]'' (Fr.) [[Lucien Quélet|Quél.]] (1872)
+*''[[Phlebophyllum]]'' [[R.Heim]] (1969)
+*''[[Plicatura]]'' [[Charles Horton Peck|Peck]] (1872)
+*''[[Sedecula]]'' [[Sanford Myron Zeller|Zeller]] (1941)
+*''[[Setchelliogaster]]'' [[Zdeněk Pouzar|Pouzar]] (1958)
+*''[[Trichocybe]]'' Vizzini (2010)
+
+==See also==
+* [[List of Agaricales families]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name=Frank2010>{{cite journal |vauthors =Frank JL, Coffan RA, Southworth D |year=2010 |title=Aquatic gilled mushrooms: ''Psathyrella'' fruiting in the Rogue River in southern Oregon |journal=Mycologia |pmid=20120233 |volume=102 |issue=1 |pages=93–107 |doi=10.3852/07-190}}</ref>
+
+<ref name=Hibbett1997>{{cite journal |title=Evolution of gilled mushrooms and puffballs inferred from ribosomal DNA sequences |journal=Proceedings of the National Academy of Sciences of the United States of America |year=1997 |vauthors =Hibbett DS, Pine EM, Langer E, Langer G, Donoghue MJ |volume=94 |issue=22 |pages=12002–6 |doi=10.1073/pnas.+94.22.12002}}</ref>
+
+<ref name=Hibbett2001>{{cite book |chapter=Basidiomycota:  Homobasidiomycetes |title=The Mycota. VIIB. Systematics and Evolution |vauthors =Hibbett DH, Thorn RG |veditors=McLaughlin DJ, McLaughlin EG, Lemke PA |publisher=Springer-Verlag |pages=121–68 |isbn=978-3-540-58008-9}}</ref>
+
+<ref name=Hibbett2003>{{Cite journal |vauthors =Hibbett DS, Binder M, Wang Z, Goldman Y |year=2003 |title=Another Fossil Agaric from Dominican Amber |journal=Mycologia |volume=95 |issue=4 |pages=685–687 |jstor=3761943 |doi=10.2307/3761943 |pmid=21148976}}{{subscription}}</ref>
+
+<ref name="Jacobsson 2007">{{cite journal |vauthors =Jacobsson S, Larsson E |year=2007 |title=''Hemistropharia'', a new genus in Agaricales |journal=Mycotaxon |volume=102 |issue= |pages=235–40}}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors =Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CABI |location=Wallingford, UK |year=2008 |page=12 |isbn=0-85199-826-7}}</ref>
+
+<ref name=Matheny2006>{{cite journal |vauthors =Matheny PB, Curtis JM, Hofstetter V, Aime MC, Moncalvo JM, Ge ZW, Slot JC, Ammirati JF, Baroni TJ, Bougher NL, Hughes KW, Lodge DJ, Kerrigan RW, Seidl MT, Aanen DK, DeNitis M, Daniele GM, Desjardin DE, Kropp BR, Norvell LL, Parker A, Vellinga EC, Vilgalys R, Hibbett DS |year=2006 |title=Major clades of Agaricales: a multilocus phylogenetic overview |journal=Mycologia |volume=98 |issue=6 |pages=982–95 |url=http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Mathenyetal_Agaricales_2006.pdf |format=PDF |doi= 10.3852/mycologia.98.6.982 |pmid=17486974}}</ref>
+
+<ref name=Moncalvo2000>{{cite journal |vauthors =Moncalvo JM, Lutzoni FM, Rehner SA, Johnson J, Vilgalys R |title=Phylogenetic relationships of agaric fungi based on nuclear large subunit ribosomal DNA sequences |journal=Systematic Biology |volume=49 |issue=2 |pages=278–305 |year=2000 |pmid=12118409 |doi=10.1093/sysbio/49.2.278 |url=http://sysbio.oxfordjournals.org/content/49/2/278.full.pdf |format=PDF}}</ref>
+
+<ref name=Moncalvo2002>{{cite journal |vauthors =Moncalvo JM, Vilgalys R, Redhead SA, Johnson JE, James TY, Catherine Aime M, Hofstetter V, Verduin SJ, Larsson E, Baroni TJ, Greg Thorn R, Jacobsson S, Clémençon H, Miller OK |title=One hundred and seventeen clades of euagarics |journal=Molecular Phylogenetics and Evolution |volume=23 |issue=3 |pages=357–400 |year=2002 |pmid=12099793 |doi=10.1016/S1055-7903(02)00027-1 |url=http://www.umich.edu/~mycology/publications_assets/moncalvo.mpe.2002.pdf |format=PDF}}</ref>
+
+<ref name=Poinar2007>{{Cite journal |vauthors =Poinar GO, Buckley R |year=2007 |title=Evidence of mycoparasitism and hypermycoparasitism in Early Cretaceous amber |journal=Mycological Research |volume=111 |issue=4 |pages=503–506 |doi=10.1016/j.mycres.2007.02.004 |pmid=17512712}}</ref>
+
+<ref name=Singer1986>{{cite book |author =Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Koenigstein Königstein im Taunus, Germany |year=1986 |page= |isbn=3-87429-254-1}}</ref>
+
+<ref name=Underwood1899>{{cite book |author =Underwood LM. |year=1899 |title=Moulds, mildews and mushrooms: a guide to the systematic study of the Fungi and Mycetozoa and their literature |location=New York, New York |publisher=Henry Holt |page=97}}</ref>
+
+<ref name="urlMycoBank: Agaricales">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=90508 |title=Agaricales Underw. 1899 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-12-30}}</ref>
+
+<ref name="Yu 2011">{{cite journal |vauthors =((Yu X-D)), Deng H, ((Yao Y-J)) |title=''Leucocalocybe'', a new genus for ''Tricholoma mongolicum'' (Agaricales, Basidiomycota) |journal=African Journal of Microbiology Research |year=2011 |volume=5 |issue=31 |pages=5750–6 |doi=10.5897/AJMR11.1228 |url=http://www.academicjournals.org/article/article1380791691_Yu%20et%20al.pdf |format=PDF}}</ref>
+
+}}
+
+===Cited texts===
+* {{cite book|vauthors =Alexopoulos CJ, Mims CW, Blackwell M| title=Introductory Mycology | year=1996 | publisher=John Wiley and Sons | isbn=0-471-52229-5}}
+
+==External links==
+{{wikispecies}}
+{{Commons category|Agaricales}}
+* [http://www.mushroomexpert.com/agaricales.html Mushroom Expert] The Gilled Mushrooms ("Agaricales")
+* [http://tolweb.org/Agaricales/20551 Tree of Life: Agaricales]
+
+[[Category:Agaricales| ]]
+[[Category:Fungus orders]]
+[[Category:Extant Albian first appearances]]

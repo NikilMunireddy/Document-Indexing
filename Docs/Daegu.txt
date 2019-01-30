@@ -1,0 +1,615 @@
+Daegu
+
+{{Infobox settlement <!-- modelled after [[Seoul]] and [[Daegu]] -->
+| name                 = {{raise|0.1em|Daegu}}
+| native_name          = {{lower|0.1em|{{nobold|대구시}}}}
+| native_name_lang     = ko
+| official_name        = Daegu Metropolitan City
+| translit_lang1       = &nbsp;
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{linktext|대구}}{{linktext|광|역|시}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{linktext|大|邱|廣|域|市}}
+| translit_lang1_type3 = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3 = {{nowrap|Daegu-gwangyeoksi}}
+| translit_lang1_type4 = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info4 = {{nowrap|Taegu-kwangyŏksi}}
+| settlement_type      = [[Special cities of South Korea|Metropolitan City]]
+| leader_name          = Kwon Young-jin
+                         (권영진)
+| leader_title         = Mayor
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|South Korea}}
+| subdivision_type1      = [[Regions of Korea|Region]]
+| subdivision_name1      = [[Yeongnam]]
+| population_blank1_title = Dialect
+| population_blank1    = [[Gyeongsang dialect|Gyeongsang]]
+| blank_name_sec2 = GDP
+| blank_info_sec2 = [[American Dollar|US$]] 54.5&nbsp;billion <ref name="brookingsgdp">{{cite web|url=http://www.brookings.edu/research/interactives/global-metro-monitor-3|title=Global city GDP 2014|publisher=Brookings Institution|accessdate=18 November 2014}}</ref>
+| blank1_name_sec2 = GDP per capita
+| blank1_info_sec2 = US$ 22,467 <ref name="brookingsgdp" />
+| map_alt                 = 
+| pushpin_map             = 
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| latd  = 35  |latm  = 52  |latNS  = N
+| longd = 128 |longm =  36 |longEW = E
+| coor_pinpoint           = 
+| coordinates_type        = region:KR_type:city(2,500,000)
+| coordinates_display     = inline,title
+| coordinates_footnotes   = 
+| coordinates_region      = 
+| area_total_km2       = 884.10
+<!-- AreaRank             = 3rd doesn't seem to fit into settlement template -->
+| population_as_of     = October 31, 2014<ref>[http://rcps.egov.go.kr:8081/ageStat.do?command=month]</ref>
+| population_total     = 2,492,994
+| population_footnotes =
+<!-- population_rank      = 4th -->
+| population_density_km2   = auto
+| parts_type           = Districts
+| parts                = 7
+<!-- Counties             = 1 -->
+| website              = [http://english.daegu.go.kr/ daegu.go.kr] {{en icon}}
+| blank_name           = Flower
+| blank_info           = [[Magnolia]]
+| blank1_name          = Tree
+| blank1_info          = [[Fir]]
+| blank2_name          = Bird
+| blank2_info          = [[Eagle]]
+| image_flag           = Flag of Daegu.png
+| image_blank_emblem   = Seal of Daegu.svg
+| blank_emblem_type    = Slogan of Daegu
+| imagesize            = 250px
+| image_skyline        = Daegu montage.png
+| image_caption        = Top:View of Daegu, from Jisan-dong, Middle left:Buddha Statue in Donghwasa Temple, Middle right:Seomun Market, Bottom left:Kyungpook National University, Bottom right:Daegu City Office in Jung-gu
+| image_map            = South Korea-Daegu.svg
+| map_caption          = Map of [[South Korea]] with Daegu highlighted
+}}
+
+'''Daegu''' ({{IPA-ko|tɛɡu|lang}}), (대구, 大邱, literally 'large hill') formerly spelled '''Taegu'''<!--Before changing the name spelling please see note-->,<ref>This romanization of the city's name is in [[McCune-Reischauer]]. It was used prior to the official adoption of the [[Revised Romanization]] by the South Korean Government in 2000.</ref> and officially known as the '''Daegu Metropolitan City''', is a city in [[South Korea]], the fourth largest after [[Seoul]], [[Busan]], and [[Incheon]], and the third largest metropolitan area in the nation<ref>The 2005 census first found that Incheon's population was larger than Daegu's. Still, the city is considered as one of the three major cities of South Korea, because Incheon belongs to the [[Seoul National Capital Area]].</ref> with over 2.5 million residents. Daegu is the principal city of the surrounding [[North Gyeongsang Province]]. The two areas combined are often referred to as [[Daegu-Gyeongbuk]], with a total population of over 5 million.
+
+Daegu is located in south-eastern Korea about {{convert|80|km|0|abbr=off}} from the seacoast, near the [[Geumho River]] and its mainstream, [[Nakdong River]] in [[Gyeongsang-do]]. The Daegu basin, where the city lies, is the central plain of the [[Yeongnam]] [[List of regions of Korea|region]]. In ancient times, there was a proto-country named [[Jinhan]], to which the current Daegu area belonged. Later Daegu was part of the [[Silla Kingdom]] which unified the [[Korean Peninsula]]. During the [[Joseon Dynasty]] period, the city was the capital of [[Gyeongsang-do]] which was one of the traditional [[Eight Provinces of Korea|eight provinces]] of the country.
+
+Daegu was an economic motor of Korea during the 1960s–1980s period and was especially known for its electronics industry. The humid subtropical climate of Daegu is ideal for producing high quality apples, thus the nickname, "Apple City".<ref>[http://www.eslstarter.com/south-korea-province-guide-daegu.php Guide to Daegu]</ref> Daegu is also known as "Textile City".<ref>[http://www.abcarticledirectory.com/Article/Daegu---The-City-of-Textile-Industry/1669374 Daegu - The City of Textile Industry]</ref> Textile used to be the pillar industry of the city. With the establishment of the [[Daegu-Gyeongbuk Free Economic Zone]], Daegu is currently focusing on fostering fashion and high-tech industries.
+
+Daegu was the host city of the [[22nd World Energy Congress of 2013]], the [[2011 World Championships in Athletics]] and the [[2003 Summer Universiade]].<ref name="22nd SUMMER UNIVERSIADE">FISU [http://www.fisu.net/en/Daegu-2003-321.html 22nd SUMMER UNIVERSIADE] Retrieved 2011-10-12</ref> It also hosted four matches in the [[2002 FIFA World Cup]].
+
+==History==
+{{Main|History of Daegu}}
+
+===Prehistory and early history===
+Archaeological investigations in the Greater Daegu area have revealed a large number of settlements and burials of the prehistoric [[Mumun Pottery Period]] (c. 1500–300 B.C.). In fact, some of the earliest evidence of Mumun settlement in Gyeongsangdo have been excavated from Siji-dong and Seobyeon-dong.<ref name="ReferenceA">YUM (Yeungnam University Museum). ''Siji-eui Munhwayujeok VIII: Chwirakji Bonmun'' [Cultural Sites of Siji VIII: Settlement Site Text]. Research Report No. 33. Yeungnam University Museum, Gyeongsan, 1999b.</ref> Dongcheon-dong is one of the substantial Mumun agricultural villages that have been excavated.<ref>YICP (Yongnam Institute of Cultural Properties). ''Daegu Dongcheon-dong Chwirak Yujeok'' [The Settlement Site at Dongcheon-dong, Daegu]. 3 vols. Research Report of Antiquities, Vol. 43. YICP, Daegu, 2002. ISBN 978-89-88226-41-4</ref> The Dongcheon-dong site dates back to the Middle Mumun (c. 850–550 B.C.) and contains the remains of many prehistoric pit-houses and agricultural fields. Megalithic burials (dolmens) have also been found in large numbers in Daegu.
+
+Ancient historical texts indicate that during the [[Proto–Three Kingdoms]] ([[Mahan confederacy|Mahan]], [[Jinhan]] and [[Byeonhan]]) period, Daegu was the site of a chiefdom or walled-town polity known from that time, according to historical records, as [[Dalgubeol]]. It was absorbed into the kingdom of [[Silla]] no later than the fifth century. The vestiges of the wall can be seen, and relics have been excavated in the current [[Dalseong Park]].
+
+===Silla===
+[[File:칠곡송림사오층전탑사리장치.jpg|left|thumb|160px|Reliquary from 8th century Silla, [[Daegu National Museum]]]]
+Silla succeeded in unifying the Korean peninsula by defeating the other kingdoms of Baekje and Koguryo in the late 7th century, partly thanks to assistance from China's [[Tang Dynasty]]. Shortly thereafter, in 689, Silla's King [[Sinmun of Silla|Sinmun]] considered moving the capital from [[Gyeongju]] to Daegu but was unable to do so.<ref>Lee (1984), p. 76 and Shin (1999).</ref>  This initiative is known only through a single line in the ''[[Samguk Sagi]]'', a most valued historical record of ancient Korea by Koryeo Dynasty historian Kim Bu-sik, but it is presumed that it indicates both an attempt by the Silla king to reinforce royal authority and the entrenched resistance of the Gyeongju political elites that was the likely cause of the move's failure.<ref>Lee (1984) and Shin (1999) both make this assumption.</ref> The city was given its current name in 757.
+
+In the late 1990s archaeologists excavated a large scale fortified Silla site in Dongcheon-dong, Buk-gu.<ref>FPCP (Foundation for the Preservation of Cultural Properties). ''Daegu Chilgok Sam Taekji Munhwayejeok Balguljosa Bogoseo'' [Excavation Report of the Cultural Site at Localities 2 and 3, Building Area 3, Chilgok, Daegu]. 3 vols. Antiquities Research Report 62. FPCP, Gyeongju, 2000.</ref> The site at Locality 2 consists of the remains of 39 raised-floor buildings enclosed by a formidable ditch-and-palisade system. The excavators hypothesize that the fortified site was a permanent military encampment or barracks. Archaeologists also uncovered a large Silla village dating to the 6th to 7th centuries AD at Siji-dong.<ref name="ReferenceA"/>
+
+===Later Three Kingdoms and Goryeo===
+During the [[Later Three Kingdoms period]], 892–936, Daegu was initially aligned with [[Hubaekje]]. In 927, northern Daegu was the site of the Battle of Gong Mountain between the forces of [[Goryeo]] under [[Wang Geon]] and those of Hubaekje under [[Gyeon Hwon]]. In this battle, the forces of Goryeo were crushed and Wang Geon himself was saved only by the heroic deed of his general [[Shin Sung-gyeom]]. However, it appears that the atrocities of the Hubaekje forces at this time changed local sympathizers to favor Wang Geon, who later became the king of [[Goryeo]].
+
+Numerous place-names and local legends in the area still bear witness to the historic battle of 927. Among these are "[[Ansim Station|Ansim]]", which literally means "peace of mind", said to be the first place where Wang Geon dared to stop after escaping the battle, and "[[Banwol-dong, Ansan|Banwol]]", or half-moon, where he is said to have stopped and admired the moon before returning to Goryeo. A statue commemorating the battle now stands in northern Daegu, as does a memorial to Sin Sunggyeom.
+
+In the [[Goryeo]] period, the first edition of the ''[[Tripitaka Koreana]]'' was stored in Daegu, at the temple of Buinsa.<ref>Lee (1984), p. 131.</ref>  However, this edition was destroyed when the temple was sacked in 1254, during the [[Mongol invasions of Korea]].<ref>Lee (1984), p. 149.</ref>
+
+===Joseon===
+[[File:Daegu dalseongdo.jpg|thumb|left|Daegu in the 18th century]]
+Daegu served as an important transportation center during the Joseon Dynasty. She stands in the mid part of the [[Great Yeongnam Road]] which ran between Seoul and Busan. It lay at the junction of this arterial road and the roads to Gyeongju and [[Jinju]].
+
+In 1601, Daegu became the administrative capital of the [[Gyeongsang-do]], which is current Daegu, [[Busan]], [[Ulsan]], [[Gyeongsangbuk-do]], and [[Gyeongsangnam-do]]. At about that time, the city began to grow into a major city. The status continued for nearly three hundred years. And the city has been transformed as the capital of Gyeongsangbuk-do since Gyeongsang-do was divided into two provinces, Gyeongsangbuk-do (northern Gyeongsang-province) and Gyeongsangnam-do (southern one) in 1896.
+
+Daegu's first regular markets were established during the late Joseon period. The most famous of these is the [[Yangnyeongsi]] herbal medicine market. This became a center of herbal trade in Joseon, and even attracted buyers from neighboring countries. Traders from Japan, who were not permitted to leave the [[Nakdong River]] valley, hired messengers to visit the market on their behalf. [[Seomun Market]] which stood at the city's west gate at that time, was one of the top three markets in the Joseon period.
+
+===Korean Empire and Colonial rule===
+The Korean hermit kingdom finally opened herself to the outside world in the late 19th century. In 1895, Daegu became the site of one of the country's first modern [[post office]]s, as a part of the 'Gab-o' reforms introduced in the aftermath of the Sino-Japanese war.<ref>Lee (1984), p. 294.</ref>
+
+Beginning in the late 1890s, increasing number of foreign merchants and workers started to visit Daegu, which emerged as a modern transportation center of the newly constructed [[Gyeongbu Line]] main railroad connecting Seoul and Busan.
+
+In 1905, the old fortress wall was forcibly destroyed. The wall still survives only in the street names such as the streets [[Dongseongno]] and [[Bukseongno]], "east fortress street" and "north fortress street", which now run where the wall once stood.
+
+[[Independence movement]]s against imperial aggressions were outstanding in Daegu. These began as early as 1898, when a branch of the [[Independence Club]] was opened in the town.<ref>Lee (1984), p. 302.</ref>  As the demise of the [[Korean Empire]] approached in 1907, local citizens led by [[Seo Sang-don]] organized the [[National Debt Repayment Movement]]. The movement spread nationwide, although it fell short of repaying the national debt through individual donations. Freedom fighting continued after the 1910 annexation, notably during the [[March 1st movement]] of 1919. At that time, four major demonstrations took place in Daegu, involving an estimated 23,000 peace-loving citizens.<ref>Lee (1984), p. 343.</ref>
+
+===Partition===
+Despite the glorious liberation in 1945, Daegu turned into a hotbed of unrest. In 1946, the [[Daegu October Incident]] took place, one of the most serious social disorder after the foundation of the Republic of Korea.<ref>Lee (1984), p. 377.</ref> An operation by the Korean national police to take control of rioters on October 1 resulted in the death of three student demonstrators and injuries to many others, sparking a massive counter-attack killing as many as 38 policemen.<ref>[http://www.greenleft.org.au/2000/412/23267 Green Left – Features: HISTORICAL FEATURE: The Korean War – a war of counter-revolution<!-- Bot generated title -->]</ref> It was also the site of major demonstrations on February 28, 1960, prior to the fraudulent [[South Korean presidential election of 1960|presidential election]] of that year.<ref>Lee (1984), p. 384.</ref>
+
+Daegu and all of North Gyeongsang province saw heavy guerrilla activities in the late 1940s, as thousands of refugees shied away from the fighting in Jeolla province and sought shelters in Daegu.<ref>Cumings (1997), pp. 243–244.</ref>  In November 1948, a unit in Daegu joined the mutiny which had begun in [[Yeosu]] the previous month.<ref>Nahm (1996), p. 379.</ref>
+
+During the [[Korean War]], much heavy fighting occurred nearby along the [[Nakdong River]]. Daegu sat inside the [[Pusan Perimeter]], however, and therefore remained in South Korean hands throughout the war. As in many other areas during the Korean War, [[political killing]]s of dissenters were widespread. A large series of engagements were fought around the city to prevent North Korean troops from crossing the Nakdong, the [[Battle of Taegu]].
+
+In the second half of the twentieth century, the city underwent explosive growth, and the population has increased more than tenfold since the end of the Korean War. The city was politically favored during the 18-year-long rule of [[Park Chung-hee]], when it and the surrounding area served as his political base. Daegu champions conservative political ideas and movements today. Daegu is a political base for the ruling [[Saenuri Party]].
+
+In the 1980s, Daegu separated from Gyeongsangbuk-do and became a separately administered provincial-level [[Special cities of South Korea|Directly Governed City]] (''Jikhalsi''), and was redesignated as a [[Special cities of South Korea|Metropolitan City]] (''Gwangyeoksi'') in 1995. Today, Daegu is the 3rd largest [[metropolitan area]] in Korea with respect to both population and commerce.
+
+==Politics==
+[[File:Daegu city hall context.jpg|thumb|right|Daegu City Hall]]
+There are two local governments in the city, the Daegu Metropolitan Government in [[Jung District, Daegu|Jung District]] and Gyeongbuk Provincial Government in [[Buk District, Daegu|Buk District]]. The provincial government will be relocated to [[Andong]] in its proper province, Gyeongbuk. The mayor and heads of city's eight districts are directly elected by the citizens every four years. The city council has twenty nine members which consist of twenty six from the same number of electoral districts and three proportional representations. They are also directly elected every four years. Most of them are the members of the [[Saenuri Party]], the main [[Conservatism|conservative]] political party in South Korea. Daegu is the home to the party and has produced two Presidents of the Republic of Korea thus far: [[Roh Tae-woo]] and [[Park Geun-hye]]. As the capital of the Korean conservatives, the city has wielded strong political influence in [[Elections in South Korea|elections]].
+
+===Administrative divisions===
+[[File:00-daegu-en.svg|400px|thumb|Administrative divisions]]
+{{Main|List of districts and county of Daegu}}
+Daegu is divided into 7 districts (''Gu'') and 1 county (''Gun'')
+*[[Jung District, Daegu|Jung District]] (중구, 中區) – ''means the central district.''
+*[[Dong District, Daegu|Dong District]] (동구, 東區) – ''means the east district.''
+*[[Seo District, Daegu|Seo District]] (서구, 西區) – ''means the west district.''
+*[[Nam District, Daegu|Nam District]] (남구, 南區) – ''means the south district.''
+*[[Buk District, Daegu|Buk District]] (북구, 北區) – ''means the north district.''
+*[[Suseong District]] (수성구, 壽城區)
+*[[Dalseo District]] (달서구, 達西區)
+*[[Dalseong County]] (달성군, 達城郡)
+
+==Geography==
+
+===Topography===
+Daegu sits in a basin surrounded by low mountains. [[Palgongsan]] to the north, [[Biseulsan]] to the south, Waryongsan to the west, and a series of smaller hills in the east. The [[Geumho River]] flows along the northern and eastern edges of the city, emptying in the Nakdong River west of the city.
+
+===Climate===
+The mountains that comprise the basin trap hot and humid air. Similarly, in winter, cold air lies in the basin. The area receives little precipitation except during the rainy season of summer, and is sunny throughout much of the year. Data gathered since 1961 indicates that the mean temperature for January, the coldest month in Daegu, is {{convert|0.6|°C|0|abbr=on}} and that for August, the warmest month, is {{convert|26.4|°C|0|abbr=on}}. The City's lowest record temperature was {{convert|−20.2|°C|0|abbr=on}},<ref>[http://www.kma.go.kr/weather/climate/extreme_daily.jsp?type=min_temp&mm=1&x=21&y=1 기후자료극값 1월 일최저기온, 대구(143)]</ref> and the City's highest record temperature was {{convert|40.0|°C|0|abbr=on}}.<ref>[http://www.kma.go.kr/weather/climate/extreme_daily.jsp?type=max_temp&mm=8&x=10&y=5 기후자료극값 8월 일최고기온, 대구(143)]</ref>
+
+{{Weather box
+|location = Daegu (1981–2010)
+|metric first = Y
+|single line = Y
+|Jan record high C = 16.5
+|Feb record high C = 22.2
+|Mar record high C = 26.9
+|Apr record high C = 31.5
+|May record high C = 37.4
+|Jun record high C = 38.0
+|Jul record high C = 39.7
+|Aug record high C = 40.0
+|Sep record high C = 37.5
+|Oct record high C = 30.7
+|Nov record high C = 26.6
+|Dec record high C = 20.8
+|year record high C = 40.0
+|Jan high C = 5.5
+|Feb high C = 8.3
+|Mar high C = 13.5
+|Apr high C = 20.6
+|May high C = 25.3
+|Jun high C = 28.3
+|Jul high C = 30.3
+|Aug high C = 31.0
+|Sep high C = 26.7
+|Oct high C = 21.9
+|Nov high C = 14.7
+|Dec high C = 8.2
+|year high C = 19.5
+|Jan mean C = 0.6
+|Feb mean C = 2.9
+|Mar mean C = 7.8
+|Apr mean C = 14.3
+|May mean C = 19.1
+|Jun mean C = 22.8
+|Jul mean C = 25.8
+|Aug mean C = 26.4
+|Sep mean C = 21.7
+|Oct mean C = 15.9
+|Nov mean C = 9.0
+|Dec mean C = 2.9
+|year mean C = 14.1
+|Jan low C = -3.6
+|Feb low C = -1.6
+|Mar low C = 2.8
+|Apr low C = 8.4
+|May low C = 13.5
+|Jun low C = 18.2
+|Jul low C = 22.3
+|Aug low C = 22.8
+|Sep low C = 17.6
+|Oct low C = 10.8
+|Nov low C = 4.2
+|Dec low C = -1.5
+|year low C = 9.5
+|Jan record low C = -20.2
+|Feb record low C = -16.4
+|Mar record low C = -10.9
+|Apr record low C = -6.0
+|May record low C = 1.8
+|Jun record low C = 7.8
+|Jul record low C = 11.3
+|Aug record low C = 12.3
+|Sep record low C = 6.2
+|Oct record low C = -2.0
+|Nov record low C = -8.6
+|Dec record low C = -15.2
+|year record low C = -20.2
+|Jan precipitation mm = 20.6
+|Feb precipitation mm = 28.2
+|Mar precipitation mm = 47.1
+|Apr precipitation mm = 62.9
+|May precipitation mm = 80.0
+|Jun precipitation mm = 142.6
+|Jul precipitation mm = 224.0
+|Aug precipitation mm = 235.9
+|Sep precipitation mm = 143.5
+|Oct precipitation mm = 33.8
+|Nov precipitation mm = 30.5
+|Dec precipitation mm = 15.3
+|year precipitation mm = 1064.4
+|Jan humidity = 54.4
+|Feb humidity = 53.6
+|Mar humidity = 54.1
+|Apr humidity = 53.2
+|May humidity = 58.7
+|Jun humidity = 65.5
+|Jul humidity = 73.8
+|Aug humidity = 72.9
+|Sep humidity = 71.3
+|Oct humidity = 64.5
+|Nov humidity = 60.3
+|Dec humidity = 56.8
+|year humidity = 61.6
+|unit precipitation days = 0.1 mm
+|Jan precipitation days= 4.5
+|Feb precipitation days= 5.2
+|Mar precipitation days= 7.3
+|Apr precipitation days= 7.8
+|May precipitation days= 8.6
+|Jun precipitation days= 9.5
+|Jul precipitation days= 14.4
+|Aug precipitation days= 12.8
+|Sep precipitation days= 9.6
+|Oct precipitation days= 5.1
+|Nov precipitation days= 5.0
+|Dec precipitation days= 4.3
+|Jan sun = 193.5
+|Feb sun = 185.2
+|Mar sun = 202.9
+|Apr sun = 220.4
+|May sun = 229.7
+|Jun sun = 183.8
+|Jul sun = 151.3
+|Aug sun = 165.3
+|Sep sun = 161.1
+|Oct sun = 203.2
+|Nov sun = 180.0
+|Dec sun = 189.7
+|year sun = 2266.0
+|source = Korea Meteorological Administration<ref name= KMA>{{cite web
+|url=http://www.kma.go.kr/weather/climate/average_30years.jsp?yy_st=2011&stn=143&norm=M&x=31&y=9&obs=0&mm=5&dd=27
+|publisher=Korea Meteorological Administration
+|accessdate=2011-05-27
+|title=평년값자료(1981–2010) 대구(143) }}</ref><ref>{{cite web
+
+|url = http://www.kma.go.kr/weather/climate/extreme_daily.jsp?type=max_temp&mm=13&x=35&y=16
+|title = 기후자료 극값(최대값) 전체년도 일최고기온 (℃) 최고순위, 대구(143)
+|publisher = Korea Meteorological Administration
+|accessdate=2015-08-13}}</ref><ref>{{cite web
+
+|url = http://www.kma.go.kr/weather/climate/extreme_daily.jsp?type=min_temp&x=23&y=11&mm=13
+|title = 기후자료 극값(최대값) 전체년도 일최저기온 (℃) 최고순위, 대구(143)
+|publisher =Korea Meteorological Administration
+|accessdate=2015-08-13}}</ref>
+}}
+
+==Economy==
+[[File:Daegu Metro Line 3.jpg|thumb|right|[[Daegu Metro Line 3]].]]
+Daegu is a manufacturing industry city. The major industries are [[textile]]s, [[metal]]s and [[machinery]]. In the year 2010, Daegu had a regional GDP of $45,387 million with 7.2% real GDP growth rate. The GDP per capita though is well below Korea national average. The quality of the [[apple]]s grown around the city is renowned around Korea . Many companies such as [[Daegu Bank]], [[Korea Delphi]], [[Hwasung corp.]], and [[TaeguTec]] are situated in this city, and [[Samsung]] and [[Kolon]] were founded here. Numerous factories are located in the industrial complexes situated in the west and north sides of the city including the Seongseo Industrial Complex, West Daegu Industrial Complex and the Daegu Dyeing Industrial Complex.
+
+The city is the economic and industrial core of the [[Daegu-Gyeongbuk]] region, one of the major industrial areas in Korea. It accounted for as much as 94 percent of Korea's trade surplus in 2006.<ref>{{ko icon}} http://www.yeongnam.co.kr/Pdf/2007/03/17/120101-17032007999.pdf The Yeongnam Ilbo (2007-03-17)</ref> The electronics industries in [[Gumi, Gyeongsangbuk-do|Gumi]] and the steel industries in [[Pohang]] provided great services to that surplus. World-leading manufacturing facilities for [[Anycall]] ([[Samsung Mobile]]) and [[POSCO]]'s main factories are located near the city. Daegu and its neighbouring cities were designated for the [[Daegu-Gyeongbuk Free Economic Zone]] by the central government in 2008. It is specialized companies like Winitech software company in knowledge-based service and manufacturing industries.
+
+Historically, Daegu has been the commercial center of the southern part of the [[Korean Peninsula]] with [[Seoul]] in the center and [[Pyongyang]] in the north (currently [[North Korea]]), because of its advantageous location. Some of the large, traditional markets like [[Seomun Market]] are still flourishing in the city.
+
+Additionally, Daegu was considered the third major economic city in Korea, after Seoul and Busan. However, due to the decline of the textile industry, which is the heart of Daegu's economy, the overall economic growth of the city has also fallen.
+
+Also, the city is the warmest region in South Korea due to the humid subtropical climate. This climate condition provides the region with high quality apples and oriental melons. The fruit industry is a crucial support for the local economy. Due to the stagnant economy, Daegu’s population began to decrease after 2003. Recently, the local government has begun focusing on working towards economic revival and concentrating on improving the city’s fashion industry.
+
+===Fashion industry===
+Beginning in the late 1990s, Daegu has been actively making efforts to promote its [[fashion]] industry based on its textile and [[clothing]] manufacturing industries under the 'Daegu: Fashion City'. The city opens many exhibitions related to the fashion and textile industries including the [http://www.fashiondaegu.com/eng/index.asp Daegu Fashion Fair] and [http://www.previewin.com/ Preview in Daegu] annually or semi-annually, and invites national institutes. A large new town specializing in the textile-fashion industries is currently under construction in Bongmu-dong, northeastern Daegu. The district, officially named Esiapolis, takes aim at the fashion hub of East Asia. Textile complexes, textile-fashion institutions, an international school, fashion malls as well as residential areas plan to be developed in the district.<ref>{{ko icon}} http://news.chosun.com/site/data/html_dir/2009/11/24/2009112401092.html The Chosun Ilbo (2009-11-25)</ref>
+
+==Culture and sightseeing==
+Generally Daegu is known as a conservative city. As well as being the largest inland city in the country beside Seoul it has become one of the major metropolitan areas in the nation. Traditionally, [[Buddhism]] has been strong; today there are still many temples. [[Korean Confucianism|Confucianism]] is also popular in Daegu, with a large academy based in the city. Neon cross-topped spires of Christian churches can also be seen in the city.
+
+===Sights===
+The most well-known sight of the city is the stone Buddha called [[Gatbawi]] on the top of Gwanbong, [[Palgongsan]]. It is famous for its stone [[Gat (hat)|gat]] (Korean traditional hat). People from all over the country visit the place, because they believe that the Buddha will grant one's single desire. Administratively, the site itself is located in the neighboring city, [[Gyeongsan]], [[Gyeongbuk]].
+
+[[File:Donghwasa Temple.jpg|thumb|left|Scenery of [[Donghwasa]]]]
+On the outskirts of the city, mountains keep many traditional and renowned temples such as [[Donghwasa]], [[Pagyesa]], and [[Buinsa]] ("-''sa''" means temple). Donghwasa itself dates from the [[Silla]] period, and many artifacts of the period are found around the temple in northern Daegu. Some lecture halls or memorial halls such as Dodong-seowon (도동서원, 道東書院) and Nokdong-seowon (녹동서원, 鹿洞書院) are also located in the suburbs. Those places have served as resting places for the citizens mentally and physically. The old villages such as the [[Otgol village]] (''Gyeongju Choi'' clan's original residence area) and the Inheung village (''Nampyeong Mun'''s) rarely remain.
+
+In the urban area, the [[Joseon Dynasty]]'s administrative or educational buildings including [[Gyeongsang-gamyeong]] (경상감영, 慶尙監營) and [[Daegu-hyanggyo]] (대구향교, 大邱鄕校) remain. The main gateway of the city in that period called [[Yeongnam-jeilmun]] (영남제일문, 嶺南第一門, means the first gateway in [[Yeongnam]]) is restored in Mangudang Park, east of Daegu.
+
+Western style modern architectures like [[Gyesan Cathedral]] and the old building of Jeil Church are preserved in many places of the urban area. Gyesan Cathedral is the third oldest gothic church building in Korea<ref>{{cite web |url=http://tour.daegu.go.kr/best/best_list.php?mods=view&menu_mst_cd=0001&menu_slv_cd=0001&tour_mst_cd=000013&menu=01&page=1 |title=대구광역시 관광문화정보시스템 – 계산성당 |publisher=Daegu Metropolitan City |accessdate=2009-11-23}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> and the cathedral of the [[Roman Catholic Archdiocese of Daegu]] which is one of [[Roman Catholicism in South Korea|three archdioceses in South Korea]]. Several buildings, in the present [[Keisung Academy]] and the [[Kyungpook National University|KNU]] middle/high school, are famous too.
+
+[[Yangnyeongsi]] (약령시, 藥令市) in Namseongno (often called Yakjeon-golmok) is the oldest market for Korean medicinal herbs in the country with a history of 350 years. Bongsan-dong which has some art galleries and studios is being developed as the artistic center of the city since the 1990s.
+
+Nearby tourist attractions include [[Haeinsa]]—a [[Korean Buddhism|Buddhist]] temple that houses the ''[[Tripitaka Koreana]]'' (a woodblock edition of the ''[[Tripitaka]]'' and one of the world's oldest extant complete collections of the Buddhist scriptures). Haeinsa is located in Gayasan National Park of [[Hapcheon]], [[Gyeongnam]]. The historic city of [[Gyeongju]], [[Gyeongbuk]], the capital of the ancient kingdom of [[Silla]] is located east of Daegu.
+
+===Mountains and parks===
+{{See also|List of parks in Daegu}}
+[[File:Dalgubeol Grand Bell in Daegu.jpg|thumb|right|Dalgubeol-daejong, a city bell at the Gukchae Bosang Park]]
+[[File:Daegu Botanical Garden Bridge.jpg|thumb|Daegu Botanical Garden bridge]]
+Mt.Palgong, Mt.Biseul, and Mt.Ap are the representative mountains in Daegu. Apsan, just in the southern part of the city, is the closest mountain from the urban area among them. It has many trails, [[Korean Buddhism|Buddhist]] temples, a Korean War museum, and a gondola ride to the peak. Additionally, Waryongsan, Hamjisan, and Yongjibong are located in the city. These serve as neighborhood parks to the citizens.
+
+In the urban area, several small mountains and hills play the same role. Dalseong Park, which sits inside a 1,500-year-old earth fortress, is a historic place of the city. It contains the city's only [[zoo]] and some monuments as well as the wall. [[Duryu Park]] or Duryusan is a large forest in the middle of the urban area. It has [[Daegu Tower]], [[Woobang Land]], Kolon Bandstand, Duryu Stadium, and many sports facilities. Daegu Tower, also called Woobang Tower or Duryu Tower, is the tallest contemporary structure (202 m) and a symbol of the city. Its observatory commands good views of the surroundings. Woobang Land is the largest amusement park out of the capital area. Many small gardens lie in the heart of the city, such as the National Debt Repayment Movement Memorial Park (Gukchae Bosang Park) and 2·28 Park. The former park includes Dalgubeol-daejong (달구벌대종, 達句伐大鐘, which means the Dalgubeol grand bell. The bell is struck every week and year. There is also a botanical garden with a variety of plants and flowers.
+
+===Downtown and shopping===
+
+[[Dongseongno]] (동성로, 東城路) is the downtown of Daegu lying from the [[Daegu Station]] to ''Jungang pachulso'' (central police station) near the Banwoldang subway station in the center of the city [[Jung-gu, Daegu|Jung-gu]]. It has the Jungangno subway station as the nearest station from its heart. Like its name meaning the street in the east fortress, the eastern part of [[Daegu-eupseong]] (대구읍성, 大邱邑城, means the Daegu-Principality Fortress) was situated along this street. The fortress, however, had been demolished in the early 20th century. Although Daegu is the nation's third or fourth largest city, the Dongseongno area form the largest and the broadest downtown area in the whole country except the capital city, [[Seoul]].  In most cases, famous brands open their branch shop first here out of the Greater Seoul area.<ref>{{ko icon}} http://www.seoul.co.kr/news/newsView.php?id=20090210026021 The Seoul Shinmun (2009-02-10)</ref>
+
+[[File:Seomun gate and traffic.jpg|thumb|right|The sign of the [[Seomun Market]]]]
+Sub-downtowns in the city have its own commercial powers and colors. The area around the Seongseo Industrial Complex subway station in [[Dalseo-gu]] is a concentration of many amusement spots, and young people easily can be seen around [[Kyungpook National University]] in [[Buk-gu, Daegu|Buk-gu]]. ''Deuran-gil'' (means the street inside the field) in [[Suseong-gu]] is known for many restaurants.
+
+The city has a number of department stores. Many of these belong to national or multinational chains, but the local [[Daegu Department Store]] also operates two branches, while another local chain, [[Donga Department Store]] operates four in the city proper. The six department stores among them gather at the downtown. The traditional markets such as [[Seomun Market]] and Chilseong Market sell all sorts of goods.
+
+===Festivals===
+Many traditional ceremonies and festivals in agrarian society disappeared in the process of modernization. A Confucian ritual ceremony called ''Seokjeondaeje'' is held at Daegu-hyanggyo every spring and autumn. The Yangnyeongsi herb medical festival and Otgol village festival are the contemporary festivals about traditional culture.
+
+Lately in the city, enthusiasm about performing arts is growing and the local government is trying to meet its demand. [[Daegu International Opera Festival]] (DIOF) in October since 2003, [[Daegu International Musical Festival]] (DIMF), and [[Daegu International Bodypainting Festival]] (DIBF) are three of the most famous festivals on each field in Korea, although those have short histories.
+
+Various festivals in various themes like the Colorful Daegu Festival, [[Dongseongno]] festival, [[Palgongsan]] maple festival, [[Biseulsan]] azalea festival, Korea in Motion Daegu, and so on, are held by the city, each ward, or the specific groups, all through the year.
+
+On August 25 through August 31, 2008, Daegu hosted the first ever Asian Bodypainting Festival, a sister event of the [[World Bodypainting Festival]] in [[Seeboden]], [[Austria]].
+
+===Museums===
+*[http://www.daeguartmuseum.org/eng/main Daegu Art Museum]
+[[File:dam 1.jpg|thumb|right|Daegu Art Museum]]
+*[[Daegu National Museum]] – A notable national museum collecting relics excavated in and around Daegu
+*[http://artcenter.daegu.go.kr/bangjja/foreign/eng.html Daegu Bangjja Yugi (Korean Bronzeware) Museum]
+*[[Hengso Museum|Hengso Museum of Keimyung University]]
+*Korea Video Museum
+*[[Kyungpook National University Museum]]
+*Museum for Daegu National University of Education
+*[http://www.naturaldyeing.net/english/main.asp Museum of Natural Dye Arts]
+
+===Theaters===
+*[http://www.daeguoperahouse.org/eng/sub01/01_01.asp Daegu Opera House] – The first theater in Korea only for performing opera
+*[http://www.ssartpia.or.kr/eng/s01/s01_main_01.html Suseong Artpia]
+*[http://kmuartcenter.kr/eng/html/greet.html Keimyung Art Center] – One of the largest scale theaters in the city.
+*[http://artcenter.daegu.go.kr/eng/ Daegu Culture and Arts Center]
+
+===Sports===
+[[File:2011 iaaf world champs logo.gif|234px|thumb|left|The official emblem of the [[2011 World Championships in Athletics]]]]
+On March 27, 2007, the city was selected to host the [[2011 World Championships in Athletics]]. Daegu competed with cities such as [[Moscow]], [[Russia]] and [[Brisbane]], [[Australia]] to earn the votes of the IAAF Council. The event was the fourth [[IAAF World Championships in Athletics]] to be held outside Europe, and the first games in mainland Asia. It was also the third worldwide sports event held in Korea after the [[1988 Summer Olympics]] in Seoul and [[2002 FIFA World Cup]] in Korea and Japan. Daegu also hosted three matches in the 2002 FIFA World Cup, and the [[2003 Summer Universiade]].<ref name="22nd SUMMER UNIVERSIADE"/> The city hosts the [http://www.dg-athletics.or.kr/english/pages/main/main.jsp Colorful Daegu Pre-Championships Meeting] every year since 2005.
+
+[[File:DAEGU.PNG|thumb|right|A home game of the [[Samsung Lions]], one of the most popular sports teams in the city]]
+[[Daegu Stadium]] is the second largest sports complex in South Korea as a [[seating capacity]] of 66,422. [[Daegu Civil Stadium|''Daegu simin undongjang'']] hosted some soccer matches at the Seoul Olympics. Now the city is planning a new baseball stadium next to its football stadium.
+
+====Sports teams====
+{| class="wikitable"
+|-
+! Club
+! Sport
+! League
+! Venue
+! Established
+|-
+| [[Samsung Lions]]
+| Baseball
+| [[KBO League]]
+| [[Daegu Samsung Lions Park]]
+| 1982
+|-
+| [[Daegu FC]]
+| Football
+| [[K League Challenge]]
+| [[Daegu Stadium]]
+| 2003
+|}
+
+===Media===
+There are three terrestrial TV broadcasting stations in the city: [[Korean Broadcasting System|KBS]] Daegu Broadcast Station, Daegu [[Munhwa Broadcasting Corporation|MBC]], and [[Taegu Broadcasting Corporation|TBC]]. These are affiliated companies of central broadcasting stations in Seoul just like other [[Television in South Korea|local broadcasting companies]] in South Korea. TBC (Taegu Broadcasting Corporation) depends on [[Seoul Broadcasting System|SBS]]. They cover to Gyeongsangbuk-do out of the city. Each television broadcasting company has its own radio station as well.
+
+===International Daegu===
+Daegu is largely a homogeneous community that includes few non-Koreans. However, a number of immigrants from [[South Asia|South]] and [[Southeast Asia]] work in automotive-parts factories on the city's west side. In addition, there is a small group of [[English language|English]]-speaking Westerners working in English schools and university programs. The American military bases are also home to several hundred Americans. Recently Chinese students have begun studying Korean at universities in Daegu, and there is an increasing number of graduate and post-graduate students from other Asian countries. As elsewhere in Korea, Korean food overwhelmingly dominates; Chinese, Japanese and Western food forms the bulk of non-Korean food but recently Indian and Russian foods have become available.
+
+Daegu hosts three [[United States|American]] military bases, [[Camp Henry]], [[Camp George]] which houses Daegu American School, and [[Camp Walker]]. Camp Walker houses Daegu High School for high school children, while Camp George hold the school for elementary and middle school (both of which are primarily for children of military personnel and US Military civilian employees). Camp George also houses most of the married [Enlisted] ranked soldiers. Camp Henry and Camp Walker serve as the primary place of work for all the military personnel. Camp Walker serves as the home to enlisted Sergeants Major and Officer ranked soldiers, Major and up. Although non-military families can enroll their children at the school, most either home-school their children or send them to a small Christian private school which teaches about 25 children near the central business district of Daegu.
+
+==Religion==
+{{Pie chart
+|thumb = right
+|caption = Religion in Daegu (2005)<ref name="2005religionmap">[http://www.sisapress.com/news/photo/200610/41926_37953_1632.jpg 2005 Census - Religion Results]</ref>
+|label1 = Not religious
+|value1 = 46.4
+|color1 = Gray
+|label2 = [[Buddhism]]
+|value2 = 33.4
+|color2 = Gold
+|label3 = [[Protestantism]]
+|value3 = 10.4
+|color3 = DodgerBlue
+|label4 = [[Catholic Church|Catholicism]]
+|value4 = 9.8
+|color4 = DarkOrchid
+}}
+According to the census of 2005, of the people of Daegu 33.4% follow [[Buddhism]] and 20.2% follow [[Christianity]] (10.4% [[Protestantism]] and 9.8% [[Catholic Church|Catholicism]]).<ref name="2005religionmap"/> 46.4% of the population is mostly not religious or follow other indigenous religions.
+
+==Education==
+{{See also|Education in South Korea}}
+{{As of|2009}}, Daegu has 215 elementary schools, 123 middle schools including the Dong-Pyeong Middle School, and 91 high schools.<ref>{{cite web |url=http://www.daegu.go.kr/Statistics/Download.ashx?no=321&idx=1&file=14.+%b1%b3%c0%b0%b9%d7%b9%ae%c8%ad.xls |title=2009년도 대구통계연보 ⅩⅣ.교육및문화 |date=2009-04-01 |publisher=Daegu Metropolitan City}}</ref> There are two specialized public high schools which are [[Daegu Science High School]] and [[Taegu Foreign Language High School]], and some other high schools such as [[Keisung Academy]], Gyeongsin High School and Daeryun High School have good grades for university admission. Most of well-known high schools are located in [[Suseong-gu]] because its educational grade and zeal are high standard in the country.
+
+Also, Daegu has 4 independent private high schools like '''[[Keisung Academy]]'''(also called Keisung High School), '''Gyeongsin High School''', '''Gyeong-il Girl's High School''', '''Daegun Catholic High School'''.
+
+===Universities and colleges===
+[[File:Daegu KNU medicine.jpg|thumb|left|[[Kyungpook National University]], School of Medicine]]
+[[File:KMU MAIN.jpg|thumb|right|150px|[[Keimyung University]], main building]]
+Daegu and its satellite towns are one of the areas which have the largest private higher educational institutions in Korea. Many of their main campuses are located in the nearby [[Gyeongsan]] city which serves the Daegu region as a [[college town]]. [[Kyungpook National University]] (KNU) is one of the most highly ranked and well organized national universities in Korea. It holds first place in and around the city in almost all of the fields. Daegu has two of the most prestigious private universities outside Seoul, [[Keimyung University]] and [[Yeungnam University]]. {{Citation needed|date=May 2009}}  There are some smaller private universities such as [[Catholic University of Daegu]] and [[Daegu University]]. [[Daegu National University of Education]] offers elementary education training.
+
+The other universities and colleges include [[Daegu Arts University]], [[Daegu Cyber University]], [[Daegu Haany University]], [[Daegu Health College]], [[Daegu Mirae College]], [[Daegu Polytechnic College]], [[Daegu Technical College]], [[Daegu University of Foreign Studies]], Daeshin University, Keimyung College University, Kyongbuk Science University, Kyongbuk University of Foreign Studies, Kyungil University, [[Taekyeung College]], [[Yeungjin College]], [[Yeungnam College of Science and Technology]], and [[Youngnam Theological College and Seminary]].
+
+====Medical institutions====
+Some large [[university hospital]]s make the city the medical hub of south-eastern Korea. The Kyungpook National University Hospital, founded as ''Daegu-dongin-uiwon'' in 1907, is the well-known hospital in the city. The Dongsan Hospital (attached to Keimyung University), founded as ''Jejungwon'' in 1899, is one of the oldest western style medical clinics in Korea. The Yeungnam University Medical Center has the largest number of beds in the city. The yearly treatment amount of these tertiary hospitals is the second largest in South Korea after that of Seoul.<ref>{{cite web |url=http://www.nhic.or.kr/cms/board/Download.jsp?fileId=46232&communityKey=B0070 |title=2006~2008년 지역간 의료이용량 분석 |date=2009-10-21 |publisher=National Health Insurance Corporation }}</ref> The Daegu Catholic University Medical Center is also included in them.
+
+===Primary and secondary schools===
+International schools in Daegu include:
+*[[Daegu International School]]<ref>[http://www.dis.sc.kr/ Home page]. [[Daegu International School]]. Retrieved on March 30, 2016. "22, Palgong-ro 50-gil, Dong-gu, Daegu, Korea 41021 (대구광역시 동구 팔공로 50길 22; 구. 지번주소> 동구 봉무동 1555번지)"</ref>
+*Daegu Chinese Elementary School or Korea Daeguhwagyo Elementary School (한국대구화교초등학교)<ref>"[http://www.isi.go.kr/schoolInfo/SinfoView.do?schoolType=ST01&schoolId=27 Korea Daeguhwagyo Elementary School]." International School Information, Government of South Korea. Retrieved on March 30, 2016.</ref>
+*[[Overseas Chinese High School, Daegu]]
+
+==Transportation==
+
+===Rail===
+[[File:Dongdaegu station below wide.jpg|thumb|right|[[Dongdaegu Station]]]]
+Daegu is the hub of the Korean inland railroad traffic. The main railroad of the country, [[Gyeongbu Line]] passes through the city. The largest railroad station in the city, [[Dongdaegu Station]] has the second largest passenger traffic in Korea after [[Seoul Station]], and the largest train traffic.<ref name="rail">{{cite web |url=http://info.korail.com/DATA/cambo/policy/2008년%20통계연보.zip |title=2008년 철도통계연보 |year=2010 |publisher=Korea Railroad}}</ref> The station re-opened in 2004 after extensive renovations serving the [[KTX|KTX highspeed train]], [[Saemaul-ho|Saemaul]] and [[Mugunghwa-ho|Mugunghwa]] trains. All kinds of trains except KTX depart from [[Daegu Station]], an all-new building with cinemas, restaurants and a department store, located near the city centre. It has the tenth largest passenger traffic in Korea.<ref name="rail"/> [[Daegu Line]] branches off from [[Gacheon Station]] of Gyeongbu Line.
+
+===Metro===
+{{Main|Daegu Metropolitan Subway}}
+[[File:Daegu subway linemap en.svg|thumb|left|250px|Map of the rapid transit of Daegu. The red line is [[Daegu Metro Line 1|line 1]], and the green is [[Daegu Metro Line 2|line 2]].]]
+The city also has a [[Rapid transit|metro]] system, consisting of two heavy rail lines. [[Daegu Metro Line 1|Line 1]] crosses the city from northeast to southwest, while [[Daegu Metro Line 2|Line 2]] crosses from west to east. [[Daegu Metro Line 3|Line 3]] from northwest to southeast is an elevated [[monorail]]. All the lines are and will be operated by the [http://www.dtro.or.kr/open_content/en/main Daegu Metropolitan Transit Corporation] (DTRO). Another line will operate in a few years as a heavy rail system using the Gumi–Daegu–Gyeongsan section of Gyeongbu Line. Line 4 is a long-range plan and will be a circle line. Fare is 1200 won on distance and 1100 won with a prepaid card. There is a free interchange scheme between the metro and bus within an hour of first use for the prepaid card users.
+
+===Road===
+There are two types of buses which are local and limited express. Limited express buses have more seats, but often passengers are required to stand. {{As of|2008}}, Local [[bus]] fare costs around 1100 [[South Korean won|won]], Limited express bus fare would set you back around 1500 won. Discounted fare is available with a prepaid card.
+
+Bus route numbers are made up with 3 digits, each number indicates the area that bus serves. For example, number 407 bus runs from zone four, to zone zero, and then to zone seven. Other routes, usually circular, are named for the districts they serve and numbered 1 through 3.
+
+Traffic is sometimes heavy, however, the major thoroughfares handle fairly high volumes of traffic without too much trouble.
+
+===Air===
+Daegu is served by [[Daegu Airport]] (international/domestic) located in northeastern Daegu.
+
+==Others==
+
+===Accidents===
+Daegu subway construction site explosion on April 28, 1995 which killed 101 and injured 202. A pagoda for consolation of the dead was erected in Haksan park.<br>
+[[Daegu subway fire]] on Feb 18, 2003 which killed 198 and injured 147. The tragedy prompted outpourings of sympathy and anger from throughout South Korea and internationally.
+
+==Notable people==
+;Leaders
+*[[Roh Tae-woo]] – army general and thirteenth [[president of South Korea]]
+*[[Park Geun-hye]] – incumbent president of South Korea, daughter of former president [[Park Chung-hee]]
+;Industrialists
+*[[Kim Woo-jung]] – Korean businessman, founder and former chairman of the [[Daewoo Group]]
+;Religious
+*[[Kim Sou-hwan]] – first Korean [[Cardinal (Catholicism)|Cardinal]] of the [[Catholic Church]]. His father escaped from his hometown of [[Chungcheong]] province for keeping his religion.
+;Writers/Composers
+*[[Jaegwon Kim]] – philosopher
+;Actors and Actresses
+*[[Shin Seong-il]] – Korean actor in the 1960s and 1970s
+*[[Son Ye-jin]] – actress
+*[[Moon Chae-won]] – actress
+*[[Song Hye-kyo]] – actress
+*[[Min Hyo-rin]] – actress
+*[[Yoo Ah-in]] – actor 
+;Sports
+*[[Man Soo Lee|Lee Man-Soo]] – baseball player
+*[[Yang Jun-Hyuk]] – baseball player
+*[[Lee Seung-Yeop]] – baseball player
+*[[Park Chu-Young]] – soccer player
+*[[Jin Sun-Yu]] – short-track speed skater, triple gold medalist at [[2006 Winter Olympics]]
+*[[Bae Sang-moon]] – golfer, leading money winner on the Japan Golf Tour for the 2011 season
+;Beauties
+*[[Jang Yoon-jeong (Miss Korea)|Chang Yun-jong]] – 1st runner-up of the [[Miss Universe 1988]], winner of the [[Miss Korea]] 1987
+*[[Son Tae-young]] – 1st runner-up of the [[Miss International 2000]], 2nd runner-up of the [[Miss Korea]] 2000, actress
+*Seo Eun-mi – 1st runner-up of the [[Miss International 2009]], one of two 1st runners-up of the [[Miss Korea 2009]]
+*[[Yoo Ye-bin]] – winner of the Miss Korea 2013, competed in [[Miss Universe 2014]]
+;Idols
+*Bae Joo-hyun (stage name [[Irene (singer)|Irene]]) – leader and member of [[K-pop|K-Pop]] girl group, [[Red Velvet (band)|Red Velvet]]
+*Choi Seungcheol (stage name [[Seventeen (band)#Hip-Hop Unit|S.Coups]]) – leader and member of K-Pop boy group, [[Seventeen (band)|Seventeen]]
+*Kim Kibum (stage name [[Key (singer)|Key]]) – member K-Pop boy group, [[Shinee|SHINee]]
+*Kim Minjun (stage name [[Jun. K]]) – member of K-Pop boy group, [[2PM]]
+*Kim Taehyung (stage name [[V (singer)|V]]) – member of K-Pop boy group, [[BTS (band)|Bangtan Boys (BTS)]]
+*Kim Yu-jin (stage name [[Uee]]) – member of K-Pop girl group, [[After School (band)|After School]]
+*Lee Hee-jin (stage name [[Red (rapper)|Red]]) – model and member of the Korean music group [[Pungdeng-E]].
+*[[Lee Jooheon]] – member of K-Pop boy group, [[Monsta X]]
+*Min Yoongi (stage name Suga) – member of K-Pop boy group, Bangtan Boys (BTS)
+*Park Ji-young (stage name [[Kahi (entertainer)|Kahi]]) – former leader and member of After School
+*[[Park Sojin]] – leader and member of K-Pop girl group, [[Girl's Day]]
+;Other
+*[[Sung Jae-gi]] – human rights activist
+
+==Twin towns – Sister cities==
+
+Daegu is [[Twin towns and sister cities|twinned]] with the following locations.
+
+*{{flagicon|USA}} [[Atlanta]], [[United States]] <small>(1981)</small>
+*{{flagicon|KAZ}} [[Almaty]], [[Kazakhstan]] <small>(1990)</small>
+*{{flagicon|VIE}} [[Danang]], [[Vietnam]] <small>(1993)</small>
+*{{flagicon|PRC}} [[Qingdao]], [[China]] <small>(1993)</small>
+*{{flagicon|BRA}} [[Minas Gerais]], [[Brazil]] <small>(1994)</small>
+*{{flagicon|JPN}} [[Hiroshima]], [[Japan]] <small>(1997)</small>
+*{{flagicon|RUS}} [[Saint Petersburg]], [[Russia]] <small>(1997)</small>
+*{{flagicon|BUL}} [[Plovdiv]], [[Bulgaria]] <small>(2002)</small>
+*{{flagicon|ROC}} [[Taipei]], [[Taiwan]] <small>(2010)</small>
+*{{flagicon|ITA}} [[Milan]], [[Italy]] <small>(2015)</small>
+
+==See also==
+* [[List of Korea-related topics]]
+* [[List of cities in South Korea]]
+* [[History of Daegu]]
+* [[Gyeongsang]]
+* http://www.diof.org Daegu International Opera Festival
+
+==Notes==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+*{{Cite book
+ |title=Korea's place in the sun: A modern history
+ |first=Bruce  |last=Cumings
+ |publisher=W.W.Norton
+ |location=New York
+ |edition=updated
+ |isbn=978-0-393-31681-0
+ |oclc=62042862
+ |lccn=2006276040
+}}
+*{{Cite book
+ |title=역사 속의 대구, 대구사람들 (Yeoksa sok-ui Daegu, Daegu saramdeul) (Daegu and its people in history)
+ |author=Daegu-Gyeongbuk Historical Society (대구-경북역사연구회)
+ |publisher=Jungsim
+ |location=Seoul
+ |isbn=978-89-89524-09-0
+ |lccn=2001549622
+}}
+*{{Cite book
+ |title=A new history of Korea, rev. ed. Tr. by E.W. Wagner and E.J. Shultz
+ |first=Ki-baik  |last=Lee
+ |publisher=Ilchogak
+ |location=Seoul
+ |year=1984
+ |isbn=978-89-337-0204-8
+}}
+*{{Cite book
+ |title=Korea: A history of the Korean people, 2nd ed.
+ |first=Andrew C. |last=Nahm
+ |publisher=Hollym
+ |location=Seoul
+ |year=1996
+ |isbn=978-1-56591-070-6
+}}
+*Shin, Hyeong-seok (신형석).  (1999). 통일신라의 새로운 수도가 될 뻔했던 대구 (Tongilsilla-ui saeroun sudo-ga doel ppeonhaetteon Daegu) (Daegu, which almost became the new capital of Unified Silla). In Daegu-Gyeongbuk Historical Society, ed., pp.&nbsp;78–91.*
+*{{Cite book
+ |title=팔공산을 아십니까 (About Mt. Palgong)
+ |author=Lee, Jungwoong (이정웅)
+ |publisher=그루
+ |location=Daegu
+ |year=1993
+ |isbn=978-0-7520-0081-7
+}}
+*{{Cite book
+ |title=대구가 자랑스러운 12가지 이유
+ |author=Lee, Jungwoong (이정웅)
+ |publisher=북랜드
+ |location=Seoul
+ |year=2000
+ |isbn=978-89-7787-158-8
+}}
+*{{Cite book
+ |title=푸른 대구 이야기
+ |author=Lee, Jungwoong (이정웅)
+ |publisher=그루
+ |location=Daegu
+ |year=2006
+ |isbn=978-89-8069-138-8
+}}
+
+==External links==
+{{Commons+cat|Daegu}}
+*{{wikivoyage-inline|Daegu}}
+*[http://english.daegu.go.kr/ City website] {{en icon}}
+*[http://english.visitkorea.or.kr/enu/SI/SI_EN_3_1_1_1.jsp?areaCode=4 Daegu : Official Site of Korea Tourism Org]
+*[http://businfo.daegu.go.kr/ City Bus Schedule and Routes]
+
+{{Daegu}}
+{{regions and administrative divisions of South Korea}}
+{{Metropolitan cities of South Korea}}
+{{IAAF World Championships in Athletics Host cities}}
+
+{{Authority control}}
+
+[[Category:Daegu| ]]
+[[Category:Special Cities and Metropolitan Cities of South Korea]]

@@ -1,0 +1,645 @@
+Harbin
+
+{{other uses|Harbin (disambiguation)}}
+{{stack begin}}
+{{Infobox settlement
+|name                   = {{raise|0.2em|Harbin}}
+|official_name          =
+|native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hans|哈尔滨市}}}}}}
+|other_name             =
+|nickname               = Ice City, Oriental Paris, Oriental Moscow, The pearl on the swan's neck
+|settlement_type        = [[Sub-provincial city]]
+|motto                  =
+|image_skyline          = Harbin Montage.JPG
+|image_caption          = Clockwise from top: Hongbo Plaza, [[Saint Sophia Cathedral in Harbin|Saint Sofia Cathedral]], Songpu Bridge, [[Harbin International Ice and Snow Sculpture Festival|Harbin Ice and Snow World]], Central Avenue, Flood control monument
+|image_flag             = Flag of the City of Harbin.svg
+|image_seal             =[[File:City seal of Harbin.png|75px]]
+|image_shield           =
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = China Heilongjiang Harbin.svg
+|map_width              = 250
+|map_caption            = Harbin (red) in Heilongjiang (orange)
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Heilongjiang
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city center in Heilongjiang
+|pushpin_mapsize1       =
+|subdivision_type       = Country
+|subdivision_name       = [[China]]
+|subdivision_type1      = Province
+|subdivision_name1      = [[Heilongjiang]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      = [[County-level division|County-level&nbsp;divisions]]
+|subdivision_name3      = 18 divisions,<ref name="Administrative Divisions">
+{{cite web
+  |url=http://www.harbin.gov.cn/english/Harbin_Overview/Administrative_Divisions.htm
+  |title=Administrative Divisions
+  |publisher=Harbin Municipal Government
+  |accessdate=14 September 2011
+}}</ref> including 9 urban districts, 2 County-level cities and 7 counties
+|subdivision_type4      =
+|subdivision_name4      =
+|government_footnotes   =<ref name="Leader Information">{{cite web |url=http://www.harbin.gov.cn/zwxxgk/ldxx/sjld/sxb.htm |title=Leader Information |publisher=harbin.gov.cn |accessdate=2014-10-02|language=zh}}</ref>
+|government_type        =
+|leader_title           = Secretary Municipal Committee of the CPC
+|leader_name            = Chen Haibo ({{lang|zh-hans-CN|陈海波}}, since December 2014)
+|leader_title1          = Mayor
+|leader_name1           = [[Song Xibin]] ({{lang|zh-hans-CN|宋希斌}}, since January 2012)
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title   = Settled
+|established_date    = before 1115
+|established_title1  = Incorporated<br/>&nbsp;- Town
+|established_date1   = <br/>1898
+|established_title2  = &nbsp;- County
+|established_date2   = 1905-10-31
+|established_title3  = &nbsp;- Municipality
+|established_date3   = 1921-02-05
+|area_magnitude         =
+|unit_pref                =
+|area_footnotes           = <ref name="Survey of the City">{{cite web |url=http://www.harbin.gov.cn/english/Harbin_Overview/Survey_of_the_City.htm |title=Survey of the City |work=Basic Facts |publisher=Harbin Municipal Government |accessdate=19 July 2011}}</ref>
+|area_total_km2           = 53068
+|area_land_km2            =
+|area_water_km2           =
+|area_water_percent       =
+|area_metro_km2           = 10204.8
+|area_urban_km2           = 4640.4
+|population_as_of               = 2010
+|population_footnotes           = <ref name="Census2010"/>
+|population_note                = Data comes from [[Sixth National Population Census of the People's Republic of China|2010 National Census]]&nbsp;(urban population data excludes de facto satellite cities Acheng and Shuangcheng)
+|population_total               = 10,635,971
+|population_density_km2         = auto
+|population_urban               = 5,282,083
+|population_density_metro_km2   = auto
+|population_metro               = 6,704,573
+|population_density_urban_km2   = auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_blank2_title =
+|population_blank2=
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates_region     = CN-23
+|coordinates_display = inline,title
+|latd=  45 |latm= 45 |latNS=N
+|longd=126 |longm=38 |longEW=E
+|elevation_footnotes    =  
+|elevation_m            =150
+|elevation_ft           =488
+|postal_code_type       =[[Postal code of China|Postal code]]
+|postal_code            =150000
+|area_code              =[[Telephone numbers in China|451]]
+|blank_name             =[[License Plate (China)|License plate prefixes]]
+|blank_info             ={{lang|zh-cn|黑}}A,{{lang|zh-cn|黑}}L
+|blank1_name            =[[Gross domestic product|GDP]] (2013)
+|blank1_info            =[[Renminbi|CNY]] 501.08 billion
+|blank2_name            = &nbsp;- Growth
+|blank2_info            = {{increase}} 8.9%
+|blank3_name            =&nbsp;- per capita
+|blank3_info            =[[Renminbi|CNY]] 49,565
+|blank4_name                  = [[Gross domestic product|GDP (PPP)]]
+|blank4_info                  = 2013
+|blank5_name                  = &nbsp;- Total
+|blank5_info                  = [[United States dollar|US$]]117.99 billion
+|blank6_name                  = &nbsp;- Per capita
+|blank6_info                  = US$ 11,671
+|blank1_name_sec2 = '''City flowers'''
+|blank1_info_sec2 =[[Lilac]]
+|website                = [http://www.harbin.gov.cn/english.htm Harbin Official Website]
+|footnotes              = 
+}}
+
+{{Chinese
+|pic=Harbin (Chinese and Manchu).svg
+|piccap="Harbin" in Simplified Chinese (top), Traditional Chinese (middle), and Manchu (bottom) characters
+|picsize=175px
+|s={{linktext|哈|尔|滨}}
+|t={{linktext|哈|爾|濱}}
+|p={{Audio|Harbin pronunciation.ogg|Hā'ěrbīn|help=no}}
+|w=Ha-erh-pin
+|j=Haa<sup>1</sup>-ji<sup>5</sup>-ban<sup>1</sup>
+|mi={{IPAc-cmn|h|a|1|.|er|3|b|in|1}}
+|l=([[Manchu language|Manchu]]) "Place of drying fishnets"
+|rus={{Audio|Ru-Kharbin.ogg|Харби́н}}
+|rusr=Kharbin
+|mnc=[[File:Harbin-manchu.png|25px]]<!-- ᡥᠠᡵᠪᡳᠨ -->
+|mnc_rom=Harbin
+|showflag=stp
+|order=st
+}}
+{{stack end}}
+
+'''Harbin'''<!--Chinese in infobox--> ({{Audio|Harbin pronunciation.ogg|[Listen]|help=no}}) is the [[Capital (political)|capital]] and largest city of [[Heilongjiang]] province in the northeastern region of the [[China|People's Republic of China]].<ref>{{cite web|title=Illuminating China's Provinces, Municipalities and Autonomous Regions-Heilongjiang|url=http://www.china.org.cn/english/features/43580.htm|publisher=PRC Central Government Official Website|year=2001|accessdate=22 April 2014}}</ref> Holding sub-provincial administrative status,<ref>{{cite web|url=http://www.docin.com/p-51864614.html  |script-title=zh:中央机构编制委员会印发《关于副省级市若干问题的意见》的通知. 中编发[1995]5号 |publisher=豆丁网 |date=1995-02-19 |accessdate=2014-05-28|language=zh}}</ref> Harbin has direct jurisdiction over nine metropolitan districts, two county-level cities and seven counties. Harbin is the eighth most populous Chinese city and the most populous city in [[Northeast China]].<ref>{{cite web|script-title=zh:最新中国城市人口数量排名（根据2010年第六次人口普查）|url=http://www.elivecity.cn/html/yijuyanjiu/yijuyanjiu1/645.html|publisher=www.elivecity.cn|year=2012|accessdate=2014-05-27|language=zh}}</ref> According to the [[Sixth National Population Census of the People's Republic of China|2010 census]], the built-up area made of seven out of nine urban districts (''all but Shuangcheng and Acheng not urbanized yet'') had 5,282,093 inhabitants, while the total population of the [[sub-provincial city]] was up to 10,635,971.<ref name="Census2010">{{cite web|url=http://www.dayoo.com/roll/201105/13/10000307_104198994.htm|title=2010年哈尔滨市第六次全国人口普查主要数据公报（Sixth National Population Census of the People's Republic of China|publisher=[[National Bureau of Statistics of China]] |accessdate=2014-10-15|language=zh}}</ref> Harbin serves as a key political, economic, scientific, cultural, and communications hub in [[Northeast China]], as well as an important industrial base of the nation.<ref name="hktdc.comHarbinInfo"/>
+
+Harbin, which was originally a [[Manchu language|Manchu]] word meaning "a place for drying fishing nets",<ref name="hktdc.comHarbinInfo">{{cite web|url=http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Harbin-Heilongjiang-City-Information/ff/en/1/1X000000/1X09WA24.htm |title=Harbin (Heilongjiang) City Information |publisher=hktdc.com |date=28 Jan 2014 |accessdate=16 April 2014}}</ref> grew from a small rural settlement on the [[Songhua River]] to become one of the largest cities in Northeast China. Founded in 1898 with the coming of the [[Chinese Eastern Railway]], the city first prospered as a region inhabited by an overwhelming majority of the immigrants from the Russian Empire.<ref name="Polishstudy"/>
+
+Having the most bitterly cold winters among major Chinese cities, Harbin is heralded as the ''Ice City'' for its well-known winter tourism and recreations.<ref name="Xhnet">{{cite news|last1=Jianwei|first1=Wabng|title=People enjoy ice sculptures in Harbin|url=http://news.xinhuanet.com/english/photo/2014-02/01/c_133088261.htm|accessdate=15 October 2014|agency=Xinhua|publisher=English.news.cn|date=2014-02-01}}</ref> Harbin is notable for its beautiful [[Harbin International Ice and Snow Sculpture Festival|ice sculpture festival]] in the winter.<ref name="BBCsculpturemelting">
+{{cite web
+|url=http://listening.gdufs.edu.cn/web/Article/ShowArticle.asp?ArticleID=1192
+|title=Chinese ice sculptures melting
+|publisher=[[BBC]]
+|accessdate=22 April 2014
+}}</ref> Besides being well known for its historical Russian legacy, the city serves as an important gateway in [[Sino-Russian Relations|Sino-Russian]] trade today, containing a sizable population of [[Russian diaspora]].<ref name="wenweipo">{{cite news |script-title=zh:哈爾濱打造對俄開放中心城市 |author=王欣欣 |publisher=香港文匯報 |date=25 December 2013|url=http://paper.wenweipo.com/2013/12/25/zt1312250007.htm |location=Hong Kong |accessdate=2014-10-15|language=zh}}</ref> In the 1920s, the city was considered China's fashion capital since new designs from [[Paris#Fashion|Paris]] and [[Moscow]] reached here first before arriving in [[Shanghai]].<ref>{{cite web|title=China information-Harbin section|url=http://www.kzzi.com/harbin|website=http://www.kzzi.com/|accessdate=15 October 2014}}</ref> The city has been voted "China Top Tourist City" by [[China National Tourism Administration]] in 2004.<ref name="hktdc.comHarbinInfo"/> On 22 June 2010, Harbin was appointed a [[UNESCO]] "City of Music" as part of the [[Creative Cities Network]].<ref name="english.peopledaily.com.cn">{{cite news|author1=王寒露|title=UN recognizes China's northeastern Harbin as "Music City"|url=http://english.peopledaily.com.cn/90001/90776/90882/7041463.html|accessdate=15 October 2014|agency=People's Daily Online|issue=Xinhua|date=26 June 2010}}</ref>
+
+==History==
+
+===Early history===
+
+[[File:Wanyan Aguda.jpg|thumb|left|Monument of Wanyan Aguda in Acheng District]]
+Human settlement in Harbin area dates from at least 2200 BC during the late [[Stone Age]]. [[Wanyan Aguda]], the founder and first emperor of [[Jin dynasty (1115–1234)|Jin dynasty]] from 1115 to 1123, was born in the [[Jurchen people|Jurchen]] [[Wanyan]] tribes who resided near the Ashi River in this region.<ref>{{cite book|author1=苏金源|script-title=zh:论完颜阿骨打的政治、经济改革|date=February 1982|publisher=《史学集刊》|archivedate=15 October 2014|language=Chinese}}</ref>  In 1115 CE, Aguda established Jin's capital Shangjing (Upper Capital) [[Huining Prefecture]] in today's [[Acheng District]] of Harbin.<ref name="chinakindnesstour.com">{{cite web|url=http://www.chinakindnesstour.com/cityguide/Harbin/Attractions/cityguide_2532.shtml |title=The Remains of Huining in Shangjing of Jin Dynasty |publisher=China Kindness Tour|date= |accessdate=2014-10-15}}</ref> After Aguda's death, the new emperor [[Emperor Taizong of Jin|Wanyan Sheng]] ordered to build a new city on uniform plan. The planning and construction emulated major Chinese cities, in particular [[Bianjing]] ([[Kaifeng]]), although the Jin capital was smaller than its [[Northern Song]] prototype.<ref name=tao28>Tao (1976). Pages 28-32.</ref> Huining Prefecture served as the first superior capital of the empire until the capital was moved to Yanjing (now [[Beijing]]) in 1153 by [[Wanyan Liang]] (the fourth emperor of Jin Dynasty).<ref name=tao44>Tao, p. 44.</ref> Liang even went so far as to destroy all palaces in his former capital in 1157.<ref name=tao44/> Wanyan Liang's successor Wanyan Yong ([[Emperor Shizong of Jin|Emperor Shizong]]) restored the city and established it as a secondary capital in 1173.<ref>[http://search.eb.com/eb/article-9003190 "A-ch'eng"]. (2006). In Encyclopædia Britannica.  Retrieved 4 December 2006 from Encyclopædia Britannica Online.</ref> Ruins of the Shangjing Huining Prefecture were discovered and excavated at about 2&nbsp;km from present-day Acheng's central urban area.<ref name="chinakindnesstour.com"/><ref name=bowuguan/> The site of the old Jin capital ruins is a national historic reserve, and includes the [[:zh:哈尔滨市阿城区金上京历史博物馆|Jin Dynasty History Museum]]. The museum is open to public and renovated in the late 2005.<ref name=bowuguan>[http://ta.harbin.gov.cn/hrblvyouju/display.php?id=588 金上京历史博物馆] (Jin Dynasty Shangjing History Museum) {{zh icon}}</ref> Mounted statues of Aguda and his chief commander [[Wanyan Nianhan|Wanyan Zonghan]] (also Nianhan) have been erected on the grounds of the museum.<ref>{{cite news|url=http://heilongjiang.northeast.cn/system/2005/09/19/050136470.shtml= |title=阿骨打、粘罕雕像落成 Aguda's and Nianhan's statues completed|accessdate=15 October 2014|publisher=东北网|language=Chinese}}</ref> Many of the artifacts found there are on display in nearby Harbin.
+
+After the [[Mongol conquest of the Jin dynasty|Mongol conquest of the Jin Empire]], Huining Prefecture was abandoned. Building materials of Huining Prefecture's ruin was later exploited by the Manchus in the 1600s to build their new stronghold in [[Acheng District|Alchuka]]. The region of Harbin remained largely rural until the 1800s, with only over ten villages and about 30,000 people in today's urban districts of the city by the end of the 19th century.<ref name="Historical Evolution">
+{{cite web
+|url=http://www.harbin.gov.cn/english/Harbin_Overview/Historical_Evolution.htm
+|title=Historical Evolution
+|publisher=Harbin Municipal Government
+|accessdate=14 September 2011
+}}</ref>
+
+===International city===
+{{See also|Harbin Russians|History of the Jews in China}}
+A small village in 1898 grew into the modern city of Harbin.<ref>{{Cite book|title=哈尔滨市志 History of Harbin |author=哈尔滨市地方志编纂委员会 |year=1998 |publisher=黑龙江人民出版社 |isbn=978-7-207-03841-8|language=zh}}</ref> [[Poland|Polish]] engineer Adam Szydłowski drew plans for the city following the construction of the [[Chinese Eastern Railway]], which the [[Russian Empire]] had financed.<ref name="Polishstudy">{{cite web|title=Polish Studies in China|url=http://www.warsawvoice.pl/WVpage/pages/article.php/21997/article|website=The Warsaw Voice|accessdate=15 October 2014|date=30 April 2010}}</ref> The Russians selected Harbin as the base of their administration over this railway and the [[Chinese Eastern Railway Zone]]. The Chinese Eastern Railway extended the [[Trans-Siberian Railway]]: substantially reducing the distance from [[Chita, Zabaykalsky Krai|Chita]] to [[Vladivostok]] and also linking the new port city of Dalny ([[Dalian]]) and the Russian Naval Base Port Arthur ([[Lüshun]]).
+
+[[File:Harbin 1940 st.nicolas.jpg|thumb|left|St. Nicolas Orthodox, a [[Russian Orthodox]] church in Harbin, circa 1940, demolished during the [[Cultural Revolution]]]]
+During the [[Russo-Japanese War]] (1904–5), Russia used Harbin as its base for military operations in Northeastern China. Following Russia's defeat, its influence declined. Several thousand nationals from 33 countries, including the United States, Germany, and France moved to Harbin. Sixteen countries established consulates to serve their nationals, who established several hundred industrial, commercial and banking companies. Churches were rebuilt for [[Saint Sophia Cathedral in Harbin|Russian Orthodox]], [[Church of the Intercession in Harbin|Ukrainian Orthodox]], [[Harbin Nangang Christian Church|Lutheran/German Protestant]], and [[Sacred Heart Cathedral of Harbin|Polish Catholic]] Christians. Chinese capitalists also established businesses, especially in brewing, food and textiles. Harbin became the economic hub of northeastern China and an international metropolis.<ref name="Historical Evolution"/>
+
+Rapid growth of the city challenged the public healthcare system. The worst-ever recorded outbreak of pneumonic plague was spread to Harbin through the Trans-Manchurian railway from the border trade port of [[Manzhouli]].<ref>{{cite web|last1=Jing-tao|first1=Wang|title=Analysis of the Rat Plague of Northeast China and the Sanitary and Antiepidemic Condition of Yanbian in the Early 20th Century|url=http://www.fabiao.net/content-41-56742-1.html|accessdate=15 October 2014|language=Chinese}}</ref> The plague lasted from late autumn of 1910 to the spring of 1911 and killed 1,500 Harbin residents (mostly ethnic Chinese), or about five percent of its population at the time.<ref name=JSTOR>{{cite journal|last1=Gamsa|first1=M.|title=The Epidemic of Pneumonic Plague in Manchuria 1910-1911|journal=Past & Present|date=1 February 2006|volume=190|pages=147–183|doi=10.1093/pastj/gtj001}}</ref> This turned out to be the beginning of the large pneumonic plague pandemic of Manchuria and Mongolia which ultimately claimed 60,000 victims. In the winter of 1910, Dr. [[Wu Lien-teh]] (later the founder of [[Harbin Medical University]]) was given instructions from the Foreign Office, Peking, to travel to Harbin to investigate the plague. Dr. Wu asked for imperial sanction to cremate plague victims, as cremation of these infected victims turned out to be the turning point of the epidemic. The suppression of this plague pandemic changed medical progress in China. Bronze statues of Dr. Wu Lien-teh are built in [[Harbin Medical University]] to remember his contributions in promoting public health, preventive medicine and medical education.<ref>{{cite web|last=Article in Chinese|title=130th memorial of Dr. Wu Lien-teh|url=http://website.hrbmu.edu.cn/view/xywh/article/000543.html|accessdate=15 October 2014}}</ref>
+
+After the plague epidemic Harbin's population continued to increased sharply, especially inside the Chinese Eastern Railway Zone. In 1913 the [[Chinese Eastern Railway]] census showed its ethnic composition as: [[Russians]]&nbsp;– 34313, Chinese (that is, including [[Han Chinese|Hans]], [[Manchus]] etc.)&nbsp;– 23537, Jews&nbsp;– 5032, [[Poles]]&nbsp;– 2556, Japanese&nbsp;– 696, [[Germans]]&nbsp;– 564, [[Tatars]]&nbsp;– 234, [[Latvians]]&nbsp;– 218, [[Georgians]]&nbsp;– 183, [[Estonians]]&nbsp;– 172, [[Lithuanians]]&nbsp;– 142, [[Armenians]]&nbsp;– 124; there were also [[Crimean Karaites|Karaims]], [[Ukrainians]], [[Bashkirs]], and some Western Europeans. In total, 68549 citizens of 53 nationalities, speaking 45 languages.<ref>{{cite web|url=http://sinoforum.pl/historia/harbin-najbardziej-polskie-z-chinskich-miast/ |title=Sinoforum&nbsp;– Harbin |publisher=Sinoforum.pl |date= |accessdate=2011-03-16|language=pl}}</ref> Research shows that only 11.5 percent of all residents were born in Harbin.<ref>Bakich, Olga Mikhailovna, "Emigre Identity: The Case of Harbin," ''The South Atlantic Quarterly'', Vol.99, No.1 (2000): 51–73.</ref> By 1917, Harbin's population exceeded 100,000, with over 40,000 of them were ethnic Russians.<ref name="эхо"/>
+
+[[File:Kitaiskaia Street in Harbin.JPG|thumb|left|Harbin's Kitayskaya Street ([[Russian language|Russian]] for "Chinese Street"), now Zhongyang Street ([[Chinese language|Chinese]] for "Central Street"), before 1945]]
+After Russia's [[Great October Socialist Revolution]] in November 1917, more than 100,000 defeated [[Russian White Guard]]s and refugees retreated to Harbin, which became a major center of [[White movement|White Russian]] [[émigré]]s and the largest Russian enclave outside the [[Soviet Union]].<ref name="эхо"/> The city had a Russian school system, as well as publishers of Russian-language newspapers and journals. Russian 'Harbintsy'<ref>"Harbintsy" is the Russian word for "people of Harbin", cf. Berliners, New Yorkers, Muscovites. It applies to any nationality, not just Russians. While the paper focuses on Russian Harbintsy, many of their experiences were shared by Russians living elsewhere in "Russian Manchuria".</ref> community numbered around 120,000 at its peak in the early 1920s.<ref name="maramoustafine">
+{{cite web
+|url=http://maramoustafine.com/wp-content/uploads/the-harbin-connection-anu-2004.pdf
+|title=The Harbin Connection: Russians from China
+|publisher=from Shen Yuanfang and Penny Edwards (eds) Beyond China: Migrating Identities, Centre for the Study of the Southern Chinese Diaspora, Australian National University, Canberra, 2002, pp7587
+|accessdate=23 April 2014
+}}</ref> In the early 1920s, according to Chinese scholars' recent studies, over 20,000 Jews lived in Harbin.<ref>Patrick Fuliang Shan, “‘A Proud and Creative Jewish Community:’ The Harbin Diaspora, Jewish Memory and Sino-Israeli Relations,” American Review of China Studies, Fall 2008, pp. 15–29.</ref>
+After 1919, Dr. [[Abraham Kaufman]] played a leading role in Harbin's large Russian Jewish community.<ref>[https://books.google.com/books?id=7QEjPVyd9YMC&printsec=frontcover&source=gbs_summary_r&cad=0#PPA156,M1 Encyclopedia of Diasporas. Immigrant and Refugee Cultures Around the World. Vol. I, Jewish Diaspora in China by Xu Xin, p. 159, Ember, Melvin; Ember, Carol R.; Skoggard, Ian (Eds.), Springer 2004, ISBN 0-306-48321-1]</ref> The [[Republic of China]] discontinued diplomatic relations with the [[Soviet Union]] in 1920, so many Russians found themselves stateless. When the Chinese Eastern Railway and government in Beijing announced in 1924 that they agreed the railroad would only employ Russian or Chinese nationals, the emigrees were forced to announce their ethnic and political allegiance. Most accepted Soviet citizenship. 
+The Chinese warlord [[Zhang Xueliang]] seized the [[Chinese Eastern Railway]] in 1929. Soviet military force quickly put an end to the crisis and forced the [[Kuomintang|Nationalist Chinese]] to accept restoration of joint Soviet-Chinese administration of the railway.<ref>[http://mars.wnec.edu/~grempel/courses/stalin/lectures/CollectSec.html Collective security]</ref>
+
+===Japanese invasion period===
+{{See also|Defense of Harbin|Unit 731}}
+[[File:Unit 731 - Complex.jpg|thumb|left|Headquarter of the Imperial Japanese Army's covert biological and chemical warfare research and development Unit 731.]]
+
+Japan invaded [[Manchuria]] outright after the [[Mukden Incident]] in September 1931. After the Japanese captured [[Qiqihar]] in the [[Jiangqiao Campaign]], the [[4th Mixed Brigade (Imperial Japanese Army)|Japanese 4th Mixed Brigade]] moved toward Harbin, closing in from the west and south. Bombing and strafing by Japanese aircraft forced the Chinese army to retreat from Harbin. Within a few hours the Japanese occupation of Harbin was complete.<ref>Matsuzaka, The Making of Japanese Manchuria, 1904–1932.</ref>
+
+With the establishment of the [[puppet state]] of [[Manchukuo]], the [[pacification of Manchukuo]] began, as volunteer armies continued to fight the Japanese. Harbin became a major operations base for the infamous medical experimenters of [[Unit 731]], who killed people of all ages and ethnicities. All these units were known collectively as the ''Epidemic Prevention and Water Purification Department of the Kwantung Army''.<ref>Yuki Tanaka, ''Hidden Horrors'', 1996, p. 136.</ref> The main facility of the Unit 731 was built in 1935 at [[Pingfang District]], approximately {{convert|24|km|mi|abbr=on}} south of Harbin urban area at that time.<ref name="SHK1">{{cite book| last=Harris|first=Sheldon H.| title=Factories of Death: Japanese Biological Warfare 1932–45 and the American Cover-Up| year=1994| publisher=Routledge |location=California State University, Northridge |isbn=0-415-93214-9| pages=26–33|quote=Page 26: Zhong Ma Prison Camp's creation; Page 33: Pingfang site's creation.}}</ref> Between 3,000 and 12,000 citizens including men, women, and children<ref name="dcr">David C. Rapoport. "Terrorism and Weapons of the Apocalypse". In James M. Ludes, Henry Sokolski (eds.), ''Twenty-First Century Weapons Proliferation: Are We Ready?'' Routledge, 2001. pp. 19, 29.</ref><ref>[[Khabarovsk War Crime Trials]]. ''Materials on the Trial of Former Servicemen of the Japanese Army Charged with Manufacturing and Employing Biological Weapons'', Moscow: Foreign Languages Publishing House, 1950. p. 117.</ref>—from which around 600 every year were provided by the ''[[Kempeitai]]''<ref>Yuki Tanaka, ''Hidden Horrors'', Westviewpress, 1996, p. 138.</ref>—died during the human experimentation conducted by Unit 731 at the camp based in [[Pingfang]] alone, which does not include victims from other medical experimentation sites.<ref>[http://www.lit.osaka-cu.ac.jp/user/tsuchiya/gyoseki/presentation/IAB8.html The Imperial Japanese Medical Atrocities and Its Enduring Legacy in Japanese Research Ethics]</ref> Almost 70 percent of the victims who died in the [[Pingfang]] camp were [[Chinese people|Chinese]], including both civilian and military.<ref>{{cite web|title=旧日本軍の７３１部隊（細菌部隊）人体実験に朝鮮人  日本の公文書で初確認  AII The War Crime "Unit 731" and Chinese, Korean Civilian. ci|url=http://www1.korea-np.co.jp/sinboj/sinboj2002/8/0826/81.htm|website=http://www1.korea-np.co.jp|publisher=조선신보|language=Japanese|accessdate=15 October 2014}}</ref> Close to 30 percent of the victims were Russian.<ref>{{cite web|url=http://www.x-libri.ru/elib/morim000/00000036.htm|title=Seiichi Morimura, The Devil's Gluttony  （Моримура Сэйити КУХНЯ ДЬЯВОЛА-ДОСТАВКА В ЖИВОМ ВИДЕ ПО ПЕРВОМУ ТРЕБОВАНИЮ）|year=1981|language=Russian|accessdate=15 October 2014}}</ref> Some others were [[South East Asia]]ns and Pacific Islanders, at the time colonies of the [[Empire of Japan]], and a small number of the [[Prisoner of war|prisoners of war]] from [[Allies of World War II|the Allies of World War II]]<ref>{{cite web|url=http://www.cc.matsuyama-u.ac.jp/~tamura/731butai.htm|title=The devil unit, Unit 731. ７３１部隊について|language=Japanese|accessdate=15 October 2014}}</ref> (although many more Allied POWs were victims of Unit 731 at other sites). Prisoners of war were subjected to [[vivisection]] without anesthesia, after infected with various diseases.<ref name="dissect">{{cite news |title=Dissect them alive: order not to be disobeyed |author=Richard Lloyd Parry |publisher=Times Online |date=25 February 2007|url=http://www.timesonline.co.uk/tol/news/world/asia/article1438491.ece |location=London}}</ref> Prisoners were injected with inoculations of disease, disguised as vaccinations, to study their effects. Unit 731 and its affiliated units (Unit 1644 and Unit 100 among others) were involved in research, development, and experimental deployment of epidemic-creating biowarfare weapons in assaults against the Chinese populace (both civilian and military) throughout World War II. Human targets were also used to test [[grenade]]s positioned at various distances and in different positions. [[Flame thrower]]s were tested on humans. Humans were tied to stakes and used as targets to test [[germ warfare|germ-releasing bombs]], [[chemical weapons]], and explosive [[bomb]]s.<ref>Monchinski, Tony (2008). ''Critical Pedagogy and the Everyday Classroom''. Volumen 3 de Explorations of Educational Purpose. Springer, p. 57. ISBN 1402084625.</ref><ref>Neuman, William Lawrence (2008). ''Understanding Research''. Pearson/Allyn and Bacon, p. 65. ISBN 0205471536.</ref> Twelve Unit 731 members were found guilty in the [[Khabarovsk War Crime Trials]] but later repatriated; others received secret immunity by the [[Supreme Commander of the Allied Powers]] [[Douglas MacArthur]] before the [[Tokyo War Crimes Tribunal]] in exchange for [[biological warfare]] work in the [[Cold War]] for the American Force.<ref name="Gold109">Hal Gold, ''Unit 731 Testimony'', 2003, p. 109.</ref>
+
+[[File:Three different nationalities on Kitaiskaia Street.JPG|thumb|Three different nationalities – Chinese, Japanese and Russian – on Kitaiskaia Street]]
+Chinese revolutionaries including [[Zhao Shangzhi]], [[Yang Jingyu]], [[Li Zhaolin]], [[Zhao Yiman]] continued to struggle against the Japanese in Harbin and its administrative area, commanding the main anti-Japanese guerrilla army-[[Northeast Anti-Japanese United Army]] which was originally organized by the Manchurian branch of the [[Chinese Communist Party]] (CCP). The army was supported by the [[Comintern]] after the CPC Manchurian Provincial Committee was dissolved in 1936.
+
+[[File:Russian fascists at Harbin 1934.jpg|thumb|left|Anti–communist [[Russian Fascist Party]] [[Blackshirts]], inspired by [[Italian Fascism]], at [[Harbin Railway Station]], 1934, waiting for arrival of their leader [[Konstantin Rodzaevsky]]]]
+Under the Manchukuo régime and Japanese occupation, Harbin Russians had a difficult time. In 1935, the Soviet Union sold the Chinese Eastern Railway (KVZhD) to the Japanese, and many Russian emigres left Harbin (48133 of them were arrested during the Soviet [[Great Purge]] between 1936 and 1938 as "Japanese spies"<ref>These statistics, based on research work by A. B. Roginsky and O. A. Gorlanov of Memorial’s
+Research and Information Centre, were provided to the author in May 2002.</ref>).<ref name="эхо">{{cite book|title=Эхо планеты № 42. (Echo of the Planet No.42)|publisher=ИТАР-ТАСС (Russian News Agency "TASS")|page=30|language=Russian}}</ref> Most departing Russians returned to the Soviet Union, but a substantial number moved south to Shanghai or emigrated to the United States and Australia. By the end of the 1930s, the Russian population of Harbin had dropped to around 30,000.<ref name="Clausen"/>
+
+Many of Harbin's Jews (13,000 in 1929) fled after the Japanese occupation as the Japanese associated closely with militant anti-Soviet [[Russian Fascist Party|Russian Fascists]], whose ideology of anti-Bolshevism and nationalism was laced with virulent anti-Semitism.<ref name="RFP">Stephan, John J. 1978. The Russian Fascists: Tragedy and Farce in Exile 192545. London: Hamish Hamilton.</ref> Most left for [[Shanghai]], [[Tianjin]], and the [[British Mandate of Palestine]].<ref>{{cite web|last1=Huang|title=Shanghai Jews as seen by Chinese  Jewish People in Shanghai for 138 years|url=http://www.dangoor.com/71page18.html|website=The Scribe|accessdate=15 October 2014}}</ref> In the late 1930s, some German Jews fleeing the Nazis moved to Harbin. Japanese officials later facilitated Jewish emigration to several cities in western Japan, notably [[Kobe]], which came to have Japan's largest synagogue.
+
+===Post World War II===
+
+[[File:Pamyatnik sovetskim voinam.jpg|thumb|left|Monument to Soviet soldiers in Harbin's Nangang District, built by Soviet Red Army in 1945]]
+The [[Red Army|Soviet Army]] [[Soviet invasion of Manchuria|took the city]] on 20 August 1945<ref name="Glantz">LTC David M. Glantz, [http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/LP7_AugustStormTheSoviet1945StrategicOffensiveInManchuria.pdf "August Storm: The Soviet 1945 Strategic Offensive in Manchuria"]. Leavenworth Papers No. 7, Combat Studies Institute, February 1983, [[Fort Leavenworth]] [[Kansas]].<!-- Mirrored at, or redirected from/to, http://www-cgsc.army.mil/carl/resources/csi/glantz3/glantz3.asp --></ref> and Harbin never came under the control of the Kuomintang, whose troops stopped {{convert|60|km|abbr=on}} short of the city.<ref name="USSR1991">{{cite web|title=Освобождение городов  КИТАЙ(Liberation of Cities-China)|authorlink1=Справочник по освобождению городов в период Великой Отечественной войны 1941—1945»|url=http://www.soldat.ru/spravka/freedom/6-china.html|website=www.soldat.ru|accessdate=15 October 2014|language=Russian|date=9 May 2000}}</ref> The city's administration was transferred by the departing Soviet Army to the Chinese [[People's Liberation Army]] in April 1946. On 28 April 1946, the Communist Government of Harbin was established, making the 700,000-citizen-city the first large city under Chinese Communist force rule.<ref name="Historical Evolution"/> During the short occupation of Harbin by the Soviet Army (August 1945 to April 1946), thousands of Russian emigres who have been identified as members of the [[Russian Fascist Party]] and fled communism after the Russian October Revolution,<ref name="maramoustafine"/> were forcibly deported to the Soviet Union. After 1952 the Soviet Union launched a second wave of immigration back to Russia.<ref name="maramoustafine"/> By 1964, the Russian population in Harbin had been reduced to 450.<ref name="Clausen">Hal Gold, Clausen, Søren and Stig Thøgersen (eds). 1995. The Making of a Chinese City:History and Historiography in Harbin. New York: M. E. Sharpe.</ref> The rest of the European community (Russians, Germans, Poles, Greeks, etc.) emigrated during the years 1950–54 to Australia, Brazil, Canada, Israel and the USA, or were repatriated to their home countries.<ref name="maramoustafine"/> By 1988 the original Russian community numbered just thirty, all of them elderly. Modern Russian living in Harbin mostly moved there in the 1990s and 2000s, and have no relation to the first wave of emigration.
+
+Harbin was among one of the key construction cities of China during the First Five-Year Plan period from 1951 to 1956. 13 of the 156 key construction projects were aid-constructed by the Soviet Union in Harbin. This project made Harbin an important industrial base of China. During the [[Great Leap Forward]] from 1958 to 1961, Harbin experienced a very tortuous development course as several Sino-Soviet contracts were cancelled by the Soviet Union.<ref>Chinese Government’s Official Web Portal (English). [http://english.gov.cn/2005-08/06/content_20912.htm China: a country with 5,000-year-long civilization]. retrieved 2011-09-03.</ref> During the [[Cultural Revolution]] many foreign and Christian things were uprooted, such as the St. Nicholas church which was destroyed by [[Red Guards (People's Republic of China)|Red Guards]] in 1966. As the normal economic and social order was seriously disrupted, Harbin's economy also suffered from serious setbacks. One of the main reasons of this setback is with its Soviet ties deteriorating and the [[Vietnam War]] escalating, [[China]] became concerned of a possible nuclear attack. [[Mao Zedong]] ordered an evacuation of military and other key state enterprises away from the northeastern frontier, with Harbin being the core zone of this region, bordering the [[Soviet Union]]. During this [[Third Front (China)|Third Front Development]] Era of China, several major factories of Harbin were relocated to Southwestern Provinces including [[Gansu]], [[Sichuan]], [[Hunan]] and [[Guizhou]], where they would be strategically secure in the event of a possible war. Some major universities of China were also moved out of Harbin, including Harbin Military Academy of Engineering (predecessor of Changsha's [[National University of Defense Technology]]) and Harbin Institute of Technology (Moved to [[Chongqing]] in 1969 and relocated to Harbin in 1973).<ref>{{cite web|title=Japan-China Relations in the 21st Century|url=http://www.keidanren.or.jp/english/policy/2001/006.html|website=Kendairen|publisher=Japan Federation of Economic Organizations|accessdate=15 October 2014}}</ref>
+
+[[File:Harbin Jewish Cemetery1.jpg|thumb|left|Huang Shan Jewish Cemetery of Harbin, [[China]]]]
+National economy and social service have obtained significant achievements since the [[Chinese economic reform]] first introduced in 1979. Harbin holds the China Harbin International economic and Trade Fair each year since 1990.<ref name="Historical Evolution"/> Harbin once housed one of the largest Jewish communities in the Far East before World War II. It reached its peak in the mid-1920s when 25,000 [[European Jews]] lived in the city. Among them were the parents of [[Ehud Olmert]], the former [[Prime Minister of Israel]]. In 2004, Olmert came to Harbin with an Israeli trade delegation to visit the grave of his grandfather in Huang Shan Jewish Cemetery,<ref name="Olmert">
+{{cite news
+|url=http://english.peopledaily.com.cn/200603/30/eng20060330_254474.html
+|title=Harbin people congratulate Olmert on Israeli election success
+|newspaper=People's Daily
+|date=30 March 2006
+|accessdate=15 October 2014
+}}</ref> which had over 500 Jewish graves identified.<ref name="maramoustafine"/>
+
+On 5 October 1984, Harbin was designated a [[sub-provincial city]] by the [[Organization Department of the Communist Party of China Central Committee|Organization Department of the CPC Central Committee]]. The eight counties of Harbin originally formed part of Songhuajiang Prefecture whose seat was practically located inside the urban area of Harbin since 1972. The prefecture was officially merged into Harbin city on 11 August 1996, increasing Harbin's total population to 9.47 million.<ref>{{cite web|script-title=zh:哈尔滨市历史沿革|url=http://www.xzqh.org/html/show/hl/32696.html|website=www.xzqh.org|accessdate=15 October 2014|language=Chinese|date=2014-05-16}}</ref>
+
+Harbin hosted [[1996 Asian Winter Games|the third Asian Winter Games]] in 1996.<ref>[http://www.cpi.com.cn/cpi-e/stamp/1996/1996-2.asp World of Chinese Stamps and Philatelic Items]</ref> In 2009, Harbin held the [[2009 Winter Universiade|XXIV Winter Universiade]].
+
+A memorial hall honoring [[Koreans|Korean]] [[Korean nationalism|nationalist]] and [[Korean independence movement|independence activist]]<ref>{{cite web|url=http://aboutjapan.japansociety.org/content.cfm/hero |title=What Defines a Hero? |publisher=Japan Society |accessdate=2008-01-29}}</ref> [[Ahn Jung-geun]] was unveiled at Harbin Railway Station on 19 January 2014.<ref>{{cite news|last1=Peng|first1=Fu|title=Korean patriot Ahn Jung Geun's memorial held in Harbin|url=http://news.xinhuanet.com/english/photo/2014-01/20/c_133057726.htm|accessdate=15 October 2014|agency=Xinhuanet English|date=20 January 2014}}</ref> Ahn assassinated four-time [[Prime Minister of Japan]] and former [[Resident-General of Korea]] [[Itō Hirobumi]] at No.1 platform of Harbin Railway Station on 26 October 1909, as Korea on the verge of annexation by Japan after the signing of the [[Eulsa Treaty]].<ref>{{cite web|title=Description of Ito, Hirobumi (1841 - 1909), Portraits of Modern Japanese Historical Figures|url=http://www.ndl.go.jp/portrait/e/datas/12.html|website=National Diet Library of Japan|accessdate=15 October 2014}}</ref> South Korean President [[Park Geun-Hye]] raised an idea of erecting a monument for Ahn while meetting with Chinese President [[Xi Jinping]] during a visit to China in June 2013.<ref>{{cite news|title=Memorial hall for Korean nationalist Ahn Jung Geun opens in China|url=http://www.globalpost.com/dispatch/news/kyodo-news-international/140119/memorial-hall-korean-nationalist-ahn-jung-geun-opens-c|accessdate=15 October 2014|agency=Kyodo News International|date=1 January 2014}}</ref> After that China began to build a memorial hall honoring Ahn at Harbin Railway Station. As the hall was unveiled on 19 January 2014, the Japanese side soon lodged protest with China over the construction of Ahn's memorial hall.<ref>{{cite news|title=Japan protest over Korean assassin Ahn Jung-geun memorial in China|url=http://www.bbc.co.uk/news/world-asia-25808437|accessdate=15 October 2014|agency=BBC News|date=20 January 2014}}</ref>
+
+==Geography==
+{{climate chart
+| Harbin
+| −23.9 | −12.3 |  3.4
+| −19.8 | −7.1 |   5.3
+| −9.5 |   2.5 |   9.7
+|   0.5 |  13.6 |  18.4
+|   7.9 |  21.2 |  40.4
+|  14.6 |  26.0 |  84.4
+|  18.3 |  28.0 | 142.7
+|  16.2 |  26.3 | 121.2
+|   8.7 |  20.7 |  57.6
+|   0.1 |  11.7 |  25.9
+| −10.1 | −0.1 |   9.6
+| −19.8 | −9.4 |   5.8
+| float = right
+| clear = none
+| source = CMA <ref name= CMA/>
+}}
+[[File:Harbin, China, and vicinities, near natural colors, LandSat-5, 2010-09-22.jpg|left|thumb|Harbin and vicinities, LandSat-5 satellite image, 2010-09-22]]
+Harbin, with a total land area of {{convert|53,068|km2|abbr=on}}, is located in southern Heilongjiang province and is the provincial capital. The prefecture is also located at the southeastern edge of the [[Songnen Plain]], a major part of China's [[Northeast China Plain|Northeastern Plain]].<ref name=Li>{{cite web|last=Xiu Jun|first1=Li|author1=|title=The Alkili-saline Land and Agricultural Sustainable Development of the Western Songnen Plain in China (Alkali is misspelled in the original title)|url=http://en.cnki.com.cn/Article_en/CJFDTOTAL-DLKX200001008.htm|website=en.cnki.com|publisher=SCIENTIA GEOGRAPHICA SINICA|accessdate=28 September 2013|year=2001}}</ref> The city center also sits on the southern bank of the middle [[Songhua River]]. Harbin received its nickname ''The pearl on the swan's neck'', since the shape of Heilongjiang resembles a swan.<ref name="Profiles of China Provinces, Cities and Industrial Parks">{{cite web|title=Harbin ( Heilongjiang ) City Information |url=http://www.hktdc.com/info/mi/a/mpcn/en/1X074BKJ/1/Profiles-Of-China-Provinces-Cities-And-Industrial-Parks/Harbin-Heilongjiang-City-Information.htm}}</ref> Its administrative area is rather large with latitude spanning 44° 04′−46° 40′ N, and longitude 125° 42′−130° 10' E.<ref name="location">
+{{cite web
+|url=http://www.harbin.gov.cn/english/Harbin_Overview/Natural_Resources.htm
+|title=Geographic Location
+|work=Basic Facts
+|publisher=Harbin Municipal Government
+|accessdate=14 September 2011
+}}</ref> Neighbouring prefecture-level cities are [[Yichun, Heilongjiang|Yichun]] to the north, [[Jiamusi]] and [[Qitaihe]] to the northeast, [[Mudanjiang]] to the southeast, [[Daqing]] to the west, and [[Suihua]] to the northwest. On its southwestern boundary is [[Jilin]] province. The main terrain of the city is generally flat and low-lyling, with an average elevation of around {{convert|150|m|sigfig=2}}. However, the territory that comprises the 10 county-level divisions in the eastern part of the municipality consists of mountains and uplands. The easternmost part of Harbin prefecture also has extensive [[wetlands]], mainly in [[Yilan County, Heilongjiang|Yilan County]] which is located at the southwestern edge of the [[Sanjiang Plain]].<ref>2003. Wang A., Zhang S., and Zhang B. A study on the change of spatial pattern of wetland in the Sanjiang Plain. Acta Ecologica Sinica 23(2):237-243.</ref>
+
+===Climate===
+Under the [[Köppen climate classification]], Harbin features a [[monsoon]]-influenced, [[humid continental climate]] (''[[Humid continental climate#Dfa/Dwa/Dsa: Hot (or very warm) summer subtype|Dwa]]''). Due to the [[Siberian high]] and its location above 45 degrees north latitude, the city is known for its coldest weather and longest winter among major Chinese cities.<ref name="Profiles of China Provinces, Cities and Industrial Parks"/> Its nickname ''Ice City'' is well-earned, as winters here are dry and freezing cold, with a 24-hour average in January of only {{convert|−18.4|°C|1}}, although the city sees little precipitation during the winter and is often sunny. Spring and autumn constitute brief transition periods with variable wind directions. Summers can be hot, with a July mean temperature of {{convert|23.0|°C|1}}. Summer is also when most of the year's rainfall occurs, and more than half of the annual precipitation, at {{convert|524|mm}}, occurs in July and August alone. With monthly percent possible sunshine ranging from 52 percent in December to 63 percent in March, the city receives 2,571 hours of bright sunshine annually; on average precipitation falls 104 days out of the year. The annual mean temperature is {{convert|+4.25|°C|1}}, and extreme temperatures have ranged from {{convert|−42.6|°C|0}} to {{convert|39.2|°C|0}}.<ref name="Climatological Summary ">{{cite web
+|url=http://www.harbin.gov.cn/english/Harbin_Overview/Climatological_Summary.htm
+|title=Climatological Summary
+|publisher=Harbin Municipal Government
+|accessdate=2011-07-14
+}}</ref>
+{{Harbin weatherbox}}
+
+==Administrative divisions==
+The sub-provincial city of Harbin has direct jurisdiction over 9 [[District of China|districts]], 2 [[county-level city|county-level cities]] and 7 [[County (People's Republic of China)|counties]].
+
+===List of county-level divisions===
+{{Harbin administrative divisions}}
+
+==Economy==
+
+Harbin has the largest economy in Heilongjiang province.<ref name="hktdc.comHarbinInfo"/> In 2013, Harbin's GDP totaled RMB501.08 billion, an increase of 8.9 percent over the previous year.<ref name="2013stat">{{cite web
+| url = http://hb.my399.com/page/1/2014-03-19/09/89161395151557020.pdf
+| title = Statistics Communique on National Economy and Social Development of Harbin, 2013
+|publisher=Harbin Municipal Statistics Bureau
+| date=2014-03-18
+| accessdate=2013-04-16
+|language=zh}}</ref> The proportion of the three industries to the aggregate of GDP was 11.1:36.1:52.8 in 2012. The total value for imports and exports by the end of 2012 was USD 5,330 million.<ref name="hktdc.comHarbinInfo"/> In 2012, the working population reached 3.147 million.
+
+[[File:Harbin Z-19 helicopter.jpg|thumb|[[Harbin Z-19|Z-19 ]] manufactured by Harbin Aircraft]]
+The chernozem soil in Harbin, called "[[Chernozem|black earth]]" is one of the most nutrient rich in all of China, making it valuable for cultivating food and textile-related crops. As a result, Harbin is China's base for the production of commodity grain and an ideal location for setting up agricultural businesses. Harbin also has industries such as light industry, textile, medicine, food, aircraft, automobile, metallurgy, electronics, building materials, and chemicals which help to form a fairly comprehensive industrial system. [[Harbin Electric|Harbin Electric Company Limited]], [[Harbin Aircraft Industry Group]] and Northeast Light Alloy Processing Factory are some of key enterprises. Power manufacturing is also a main industry in Harbin; hydro and thermal power equipment manufactured here makes up one-third of the total installed capacity in China.<ref name="China-briefing.com">{{cite web|url=http://www.china-briefing.com/regional-intelligence/harbin.html |title=China Briefing Business Guide: Harbin |publisher=China-briefing.com |date= |accessdate=2011-03-16}}</ref> Harbin Pharmaceutical Group, which mainly focus on research, development, manufacture and sale of pharmaceutical products, is China's second-biggest [[drug maker]] by [[market value]].<ref>[http://news.alibaba.com/article/detail/business-in-china/100021342-1-harbin-pharmaceutical-issue-rmb-800.html Harbin Pharmaceutical to issue RMB 800 mln short-term bonds]</ref>
+
+Foreign investors seem upbeat about the city. A large-scale national level international fair, Harbin International Trade and Economic Fair, has been held annually since its first session in 1990.<ref>{{cite news|url=http://news.sina.com.cn/c/2004-06-14/09082801850s.shtml|script-title=zh:1990年创办至今 回眸哈洽会 十四年这样走过|publisher=生活报(Life Newspaper)|date=2004-06-14|accessdate=22 April 2014|language=zh}}</ref> This investment and trade fair cumulatively attracting more than 1.9 million exhibitors and visitors from more than 80 countries and regions to attend in, resulting over US＄100 billion contract volume concluded according to the statistics of 2013.<ref>{{cite web|url=http://pt2.mofcom.gov.cn/article/bilateralvisits/201305/20130500124598.shtml |title=The 24th China Harbin International Economic and Trade Fair will be held from June 15th to 19th in Harbin |publisher=Departamento Econômico e Comercial em Portugal |date=2013-05-13 |accessdate=22 April 2014}}</ref> Harbin is among major destinations of FDI in Northeast China,<ref name="hktdc.comHarbinInfo"/> with utilized FDI totaling US$980 million in 2013.<ref name="2013stat"/> After the 18th regular meeting between Sino-Russian Prime Ministers between [[Li Keqiang]] and [[Dmitry Anatolyevich Medvedev]] in October 2013,<ref>{{cite web|url=http://heilongjiang.dbw.cn/system/2014/03/21/055591091.shtml |script-title=zh:"哈洽会"今年正式更名为"中国-俄罗斯博览会" |publisher=黑龙江日报  |date=2014-03-21 |accessdate=17 May 2014|language=zh}}</ref> two sides come to make an agreement that the Harbin International Trade and Economic Fair will be renamed "China-Russia EXPO" and be co-sponsored by the Chinese Ministry of Commerce, Heilongjiang Provincial government, the Russian Ministry of Economic Development and Russia's Ministry of Trade and Industry.<ref>{{cite web|url=http://hlj.sina.com.cn/news/finance/qyjj/2014-05-15/09193311.html |script-title=zh:哈洽会升级中俄博览会 6月30日—7月4日举行 |publisher=黑龙江新闻网-生活报  |date=2014-05-15 |accessdate=17 May 2014|language=zh}}</ref>
+[[File:Harbin Bank 01.jpg|thumb|Headquarter of Harbin Bank]]
+In the financial sector,  Longjiang Bank and [[Harbin Bank]] are some of the largest banks in Northeast China, with headquarters in Harbin. The latter ranks 4th by competitiveness among Chinese city commercial banks in 2011.<ref>{{cite web|url=http://harbin.dbw.cn/system/2011/10/11/053442238.shtml |script-title=zh:2011全国城市商行竞争力排名 哈尔滨银行居第四 |publisher=哈尔滨新闻网 |date=2011-10-11 |accessdate=17 May 2014|language=zh}}</ref>
+
+===Economic Development Zones and Ports===
+
+*Harbin Economic & Technology Development Zone (National), mainly focus on telecommunications equipment, chemicals production and processing, automobile production/assembly, electronics, textiles, medical equipment and supplies.<ref name="hktdc.comHarbinInfo"/><ref>{{cite web|url=http://rightsite.asia/en/industrial-zone/harbin-economic-technology-development-zone |title=Harbin Economic & Technology Development Zone &#124; China Industrial Space |publisher=Rightsite.asia |date= |accessdate=26 March 2013}}</ref>
+*Harbin High and New Technological Development Zone, focus on optical-mechanical-electrical integration, biology, medicine, electronics and information technology.<ref name="hktdc.comHarbinInfo"/>
+*Harbin Pingfang Automobile Industrial Zone (Provincial), mainly focus on automobile production/assembly, electronics assembly & manufacturing, heavy industry, instruments & industrial equipment production.<ref>{{cite web|url=http://rightsite.asia/en/industrial-zone/harbin-pingfang-automobile-industrial-zone |title=Harbin Pingfang Automobile Industrial Zone &#124; China Industrial Space |publisher=Rightsite.asia |date= |accessdate=26 March 2013}}</ref>
+*Harbin Limin Economic Development Zone (Provincial), mainly focus on trading and distribution, food/beverage processing, medical equipment and supplies, shipping/warehousing/logistics.<ref>{{cite web|url=http://rightsite.asia/en/industrial-zone/harbin-limin-economic-development-zone |title=Harbin Limin Economic Development Zone &#124; China Industrial Space |publisher=Rightsite.asia |date= |accessdate=26 March 2013}}</ref>
+*Harbin Port
+;Harbin Songbei Economic Development Zone
+
+Songbei Economic Development Zone is located in [[Songbei District]] of Harbin. The zone has a planned area of 5.53 square kilometers. Electronics assembly & manufacturing, food and beverage processing are the encouraged industries in the zone.<ref>{{cite web|url=http://rightsite.asia/en/industrial-zone/harbin-songbei-economic-development-zone/ |title=Harbin Songbei Economic Development Zone &#124; China Industrial Space |publisher=Rightsite.asia |date= |accessdate=26 March 2013}}</ref> Many regional and provincial headquarters of large enterprises such as the [[China Datang Corporation]], [[China Netcom]] and [[China Telecom]] have joined in this district, preliminary constituting the economy concentration zone of the local headquarters. Regional Scientific research centers including Harbin Science and Technology Innovation Center and Harbin International Agricultural Science and Technology Innovation Center are also located in this development zone. Profit from these major research institutes, Harbin ranked 9th among 50 major Chinese cities  in scientific and technological innovation ability in scientific and technological competitiveness ranking in 2006, as well as ranking 6th among Chinese cities in the amount of scientific and technological achievements.<ref name="ScientificTechnologyandEducation">
+{{cite web
+|url=http://www.harbin.gov.cn/english/Harbin_Overview/Scientific_Technology.htm
+|title=Scientific Technology and Education
+|publisher=Harbin Information Center
+|accessdate=2014-04-23
+}}</ref>
+;Harbin Economic and Technological Development Zone
+[[File:Harbin Economic and Technological Development Zone.jpg|thumb|Office Buildings around [[Harbin International Convention Exhibition and Sports Center|Harbin ICE Center]] ]]
+Harbin Economic and Technological Development Zone(HETDZ)  is one of the 90 national economical development zones of China. It was set up in June 1991, and was approved by the State Council as a national development zone in April 1993. In December 2012, Harbin High Technology Development Zone was merged into HETDZ. In 2009, the hi-tech zone was separated from HETDZ again.<ref>{{cite web|title=Survey of Harbin Economic-Technological Development Zone|url=http://www.kfq.gov.cn/zsyz/tzhj/hrbkfqjj/index.htm|accessdate=7 May 2015|language=Chinese}}</ref> The area now has a total area of 18.5 square-kilometers in the centralized parks, subdivided into Nangang and Haping Road Centralized Parks. The 12.2 square-kilometers Yingbin Road Hi-tech Centralized Park, which was formerly part of HETDZ, is currently under the administration of Harbin High and New Technology Industry Development Zone since 2009.
+*Nangang Centralized Park: Designated for the incubation of high-tech projects and research and development base of enterprises as well as tertiary industries such as finance, insurance, services, catering, tourism, culture, recreation and entertainment, where the headquarters of large famous companies and their branches in Harbin are located.
+*Yingbin Road Centralized Park: mainly focus on high-tech incubation projects, high-tech industrial development.
+*Haping Road Centralized Park: Designated for a comprehensive industrial basis for the investment projects of automobile and automobile parts manufacturing, medicines, foodstuffs, electronics, textile; Automobile production and assembly raw material processing are the encouraged industries in this region.
+;Harbin High and New Technology Industry Development Zone
+Harbin High and New Technology Industry Development Zone is one of the 56 national High and New Technology Industry Development Zones of China.<ref name=Parkintroduction>{{cite web|title=Park introduction of Harbin High and New Technology Industry Development Zone|url=http://en.kaifaqu.com.cn/sub11.jsp?urltype=tree.TreeTempUrl&wbtreeid=1565|accessdate=7 May 2015}}</ref> The zone was first set up as a provincial level development zone in 1988, and was approved by the State Council as a national development zone in 1991 respectively.<ref>{{cite web|url=http://rightsite.asia/en/industrial-zone/harbin-hi-tech-industrial-development-zone/ |title=Harbin Hi-Tech Industrial Development Zone &#124; China Industrial Space |publisher=Rightsite.asia |date= |accessdate=26 March 2013}}</ref> It has 23.9 square-kilometers of built-area totally, and subdivided into two parts: Science and Technology Innovation Town and High-tech Industrial Development Zone.<ref name=Parkintroduction/>
+
+==Demographics==
+
+{{Historical populations
+
+|type=China
+
+|1934|500526
+
+|1944|711818
+
+|1953|1162962
+
+|1964|1962000
+
+|1982|2542832
+
+|1990|4219516
+
+|2000|9413359
+
+|2010|10635971
+
+|footnote = Population size may be affected by changes on administrative divisions.
+
+|}}
+
+The [[Sixth National Population Census of the People's Republic of China|2010 census]] revealed that the official total population in Harbin was 10,635,971, representing a 12.99 percent increase over the last decade.<ref>{{cite web |url=http://www.tjcn.org/rkpcgb/rkpcgb/201112/22408.html | script-title=zh:哈尔滨市2010年第六次全国人口普查主要数据公报 | publisher=National Bureau of Statistics of China | date=2011-12-10 | accessdate=2013-01-26|language=zh}}</ref> The built-up (''or metro'') area, made up of all urban districts but Acheng and Shuangcheng not urbanized yet, had a population of 5,282,083 people.<ref>http://www.citypopulation.de/php/china-heilongjiang-admin.php</ref> The [[demographic profile]] for the Harbin metropolitan area in general is relatively old: 10.95 percent are under the age of 14, while 8.04 percent are over 65, compared to the national average of 16.6% and 8.87 percent, respectively. Harbin has a higher percentage of males (50.85 percent) than females (49.15 percent).<ref>{{cite web|url=http://heilongjiang.dbw.cn/system/2011/05/13/053162730.shtml | script-title=zh:哈尔滨人口突破千万 外来人口增速超本地 | publisher=Dongbeiwang | date=2011-05-13 | accessdate=2013-02-09|language=zh}}</ref> Harbin currently has a lower [[birth rate]] than other parts of China, with 6.95 births per 1,000 inhabitants, compared to the Chinese average of 12.13 births.<ref>{{cite news|url=http://www.harbin.gov.cn/info/news/index/detail/211381.htm|publisher =www.harbin.gov.cn|script-title=zh:哈市最新常住人口1063.59万 居副省级城市第三位|date=11 November 2011|language=zh}}</ref>
+
+===Ethnic groups===
+Most of Harbin's residents belong to the [[Han Chinese]] majority (93.45 percent). Ethnic minorities include the [[Manchu people|Manchu]], [[Hui people|Hui]], and [[Mongol]]. In 2000, 616,749 residents belonged to minority nationalities, among which the vast majority (433,340) were [[Manchu people|Manchu]], contributing 70.26 percent to the minority population. The second and third largest minority groups were [[Koreans in China|Koreans]] (119,883) and [[Hui Chinese|Hui nationalities]] (39,995).
+
+{| class="wikitable"
+|-
+! style="text-align:center;" colspan="3"| Ethnic groups in Harbin, 2000 census<ref>Department of Population, Social, Science and Technology Statistics of the National Bureau of Statistics of China ({{lang|zh-Hans|国家统计局人口和社会科技统计司}}) and Department of Economic Development of the State Ethnic Affairs Commission of China ({{lang|zh-Hans|国家民族事务委员会经济发展司}}), eds. ''Tabulation on Nationalities of 2000 Population Census of China'' ({{lang|zh-Hans|《2000年人口普查中国民族人口资料》}}). 2 vols. Beijing: Nationalities Publishing House ({{lang|zh|民族出版社}}), 2003. (ISBN 7-105-05425-5){{zh icon}}</ref><br>
+|-
+! [[Nationalities of China|Ethnicity]] !! Population !! Percentage
+|-
+| [[Han Chinese|Han]] || 8,796,610 || 93.45%
+|-
+| [[Manchu people|Manchu]] || 433,340 || 4.6%
+
+|-
+| [[Koreans in China|Koreans]] || 119,883 || 1.27%
+|-
+| [[Hui people|Hui]] || 39,995 || 0.43%
+|-
+| [[Mongols in China|Mongols]] || 13,163 || 0.14%
+|-
+| [[Xibe people|Xibe]] || 4,741 || 0.05%
+|-
+| [[Daur people|Daur]] || 938|| 0.01%
+|-
+| Others || 4,689 || 0.05%
+|}
+
+==Culture==
+Harbin is famous for its standard Mandarin pronunciation. It's a very good place to study Mandarin. As the saying goes, 'If you want to study Chinese language, come to China. If you want to study Mandarin, come to Beijing. If you want to study standard Mandarin, come to Harbin.' The Harbin local culture is based on [[Han Chinese|Han culture]], combined with Manchu culture and Russian culture.<ref name="hktdc.comHarbinInfo"/> This combination of cultures influences the local architecture style, food, music, and customs. The city of Harbin was appointed a UNESCO City of Music on 22 June 2010 as part of the [[Creative Cities Network]].<ref name="english.peopledaily.com.cn"/>
+
+===Cuisine===
+
+Harbin is renowned for its culinary tradition. Cuisine of Harbin consist of European flavor dishes and Chinese Northern flavor dishes mainly typified by heavy sauce and deep-frying.<ref name="cnntravel">
+{{cite news
+  |url=http://travel.cnn.com/shanghai/eat/around-china-31-dishes-808639
+  |title=31 dishes: A guide to China's regional specialties
+  |publisher=CNN Travel
+  |accessdate=3 March 2014
+}}</ref>
+
+One of the most famous dishes in [[Northeastern Chinese cuisine]] is [[Guo Bao Rou]], a form of sweet and sour pork. It is a classic dish from Harbin which originated in the early 20th century in Daotai Fu ({{zh|道台府|hp=Dàotái Fǔ|links=no}}).<ref name="Guobaorou">{{cite web|script-title=zh:"锅包肉"来自道台府|url=http://www.hljnews.cn/fou_baoye/2005-10/25/content_884048.htm|work=生活报|publisher=黑龙江新闻网|accessdate=1 March 2014|date=25 October 2005|language=zh}}</ref> It consists of a bite-sized pieces of pork in a [[potato starch]] [[batter (cooking)|batter]], deep-fried until crispy. They are then lightly coated in a variation of a sweet and sour sauce, made from freshly prepared [[syrup]], rice vinegar, sugar, flavoured with ginger, cilantro, sliced carrot and garlic. The Harbin Guobaorou is distinct from that of other areas of China, such as Liaoning, where the sauce may be made using either tomato ketchup or orange juice. Rather the Harbin style is dominated by the honey and ginger flavours and has a clear or honey yellow colour. Originally the taste was fresh and salty. In order to fete foreign guests, Zheng Xingwen, the chef of Daotai Fu, altered the dish into a sweet and sour taste. Usually, people prefer to go to several small or middle size restaurants to enjoy this dish, because it is difficult to handle the frying process at home.<ref name="Guobaorou"/>
+
+Demoli Stewed Live Fish is one among other notable dishes in Harbin, which is originated in a village named Demoli on the expressway from Harbin to Jiamusi. The village is now Demoli Service Area on Harbin-Tongjiang Expressway.<ref>[http://heilongjiang.dbw.cn/system/2010/09/02/052704618.shtml 哈同公路得莫利服务区打造“龙江第一服务区”]{{zh icon}}</ref> Stewed Chicken with Mushrooms, Braised Pork with Vermicelli, and quick-boil pork with Chinese sauerkraut are also typical authentic local dishes.
+
+Since Russia had a strong influence of Harbin's history, local cuisine of Harbin also contains Russian-style dishes and flavor.<ref name="hktdc.comHarbinInfo"/> There are several authentic Russian-style restaurants in Harbin, especially alongside the Zhongyang Street.<ref name="HarbinCuisine
+">
+{{cite web
+  |url=http://www.visitourchina.com/guide/harbin_cuisine.htm
+  |title=Harbin Cuisine
+  |publisher=visitourchina
+  |accessdate=3 March 2014
+}}</ref>
+[[File:Smoked Chinese sausage.jpg|thumb|Harbin-style smoked sausage]]
+A popular regional specialty is [[Chinese sausage#Northern China|Harbin-style smoked savory red sausage]].<ref name="cnntravel"/> This product similar to Lithuanian and German sausages which are very mild, and they tend to be much more of European flavours than other Chinese sausages. In 1900, Russian merchant Ivan Yakovlevich Churin founded a branch in Harbin, which was named Churin Foreign trading company (Chinese pinyin: {{transl|zh|Qiulin Yanghang}}; {{lang-ru|Цюлинь Янхан|links=no}}) selling imported clothes, leather boots, canned foods, vodka, etc., and began to expand sales network in other cities in Manchuria.<ref name=churinfc>{{lang|ru|[http://russian.china.org.cn/russian/56082.htm Торговая фирма «И. Я. Чурин и К<sup>о</sup>» и табачная фабрика А. Лопато] // Китайский информационный Интернет-центр 10/01/2003}}</ref><ref>{{lang|ru|Спутник по Сибири, Маньчжурии, Амуру и Уссурийскому краю. 1911 год (6 год издания). Составил И. С. Кларк. VII выпуск. — Иркутск. — Паровая типо-литография П. Макушина и В. Посохина. — С. 106.}}</ref> The influx of Europeans through Trans-Siberian Railway and Chinese Eastern Railway, increased demand of European flavor food. In 1909, Churin's Sausage Factory was founded, and first produced European flavor sausage with the manufacturing process of Lithuanian staff. Since then European style sausage become a specialty of the city.<ref name="cnntravel"/>
+
+A Russian style large round bread Dalieba, derived from the Russian word ''{{lang|ru-latin|khleb}}'' for "bread" is also produced in Harbin's bakeries. Dalieba is a miche like sourdough bread. First introduced to the locals by a Russian baker, it has been sold in bakeries in Harbin for over a hundred years.<ref name="Russiankhleb">
+{{cite web
+  |url=http://www.thefreshloaf.com/node/19061/recreating-%E5%A4%A7%E5%88%97%E5%B7%B4dalieba-chinese-sourdough-bread-100-years-history-and-russian-heritage
+  |title=Recreating {{lang|zh-hans|大列巴|nocat=true}} (DaLieba) - the Chinese sourdough bread with 100+ years of history and a Russian heritage
+  |publisher=The Fresh Loaf
+  |accessdate=3 March 2014
+}}</ref> Dalieba's sour and chewy taste is different from other traditional soft and fluffy Asian style breads in other parts of China.
+
+[[Kvass]], a Russia-originated [[Brewing#Fermenting|fermented]] beverage made from [[black bread|black]] or regular [[rye bread]],<ref>[http://www.enjoyyourcooking.com/beverage-recipes/russian-rye-bread-drink-kvass.html Kvass (Russian Fermented Rye Bread Drink) Recipe]</ref> is also popular in Harbin.<ref>[http://meal.dbw.cn/system/2011/06/15/053227379.shtml 哈尔滨特色饮料“格瓦斯”竞相亮相哈洽会]{{zh icon}}</ref>
+Madier (derived from "Modern") ice-cream provided in the Zhongyang Street is also well known in northern China. This ice cream is made from a specific traditional recipe and it tastes a little salty but more sweet and milky. Besides its headquarters in Harbin, it also has branches in other major Chinese cities including Beijing, Shanghai, etc.<ref name="madier">{{cite web|script-title=zh:马迭尔进京布局意在全国市场|url=http://www.bbtnews.com.cn/news/2014-07/31000000313537.shtml|work=贺陈慧|publisher=高端旅游周刊|accessdate=21 November 2014|date=31 July 2014|language=zh}}</ref>
+
+===Winter culture===
+[[File:Tower at Harbin Ice and Snow Festival 2012.jpg|thumb|Tower at Harbin Ice and Snow Festival, 2013]]
+Located in northern Northeast China, Harbin is the northernmost among major cities in China. Under the direct influence of the [[Siberian Anticyclone]], the average daily temperature is {{convert|−19.7|C|F}} in winter. Annual low temperatures below {{convert|−35.0|C|F}} are not uncommon. Nicknamed "Ice City" due to its freezing cold winter, Harbin is decorated by various styles of Ice and snow Sculptures from December to March every year.<ref name="BBCsculpturemelting"/>
+
+[[File:2011 Harbin Sun Island International Snow Sculpture EXPO 01.JPG|thumb|Snow Sculpture in Sun Island, 2011]]
+The annual [[Harbin International Ice and Snow Sculpture Festival]] has been held since 1985. Although the official start date is 5 January each year, in practice, many of the sculptures can be seen before. While there are ice sculptures throughout the city, there are two main exhibition areas: enormous snow sculptures at Sun Island (Taiyang Dao, a [[Tourist Attraction Rating Categories of China|AAAAA-rated]] recreational area on the opposite side of the Songhua River from the city) and the separate "Ice and Snow World" that operates each night with lights switched on, illuminating the sculptures from both inside and outside. Ice and Snow World features illuminated full-size buildings made from blocks of 2–3 feet thick crystal clear ice directly taken from the Songhua River which passes through the city. The sculptures inside the exhibition ground takes 15,000 workers to work for 16 days. In early December, ice artisans cut 120,000 cubic metres (4.2 million cubic feet) of ice blocks from Songhua river's frozen surface as raw materials for the ice sculptures' show.<ref name="Iceismoney"/> Massive ice buildings, large-scale snow sculptures, ice slides, festival food and drinks can also be found in several parks and major avenues in the city. Winter activities in the festival include [[Yabuli Ski Resort|Yabuli]] Alpine [[Skiing]], snow mobile driving, winter-swimming in [[Songhua River]], and the traditional ice-lantern exhibition in Zhaolin Garden, which was first held in 1963.<ref name="Ice Lantern Exhibition">
+{{cite web
+  |url=http://www.cnto.org.uk/harbin/2007_10_23_16/20071023165258827.htm
+  |title=Ice Lantern Exhibition
+  |publisher=China National Tourist Office
+  |accessdate=23 October 2007
+}}</ref> Snow carving and ice and snow recreations are famous nationwide, especially among Asian countries including Korea, Japan, Thailand and Singapore.<ref name="Iceismoney">
+{{cite web
+  |url=http://www.smh.com.au/travel/ice-is-money-in-chinas-coldest-city-20081113-62yj.html
+  |title=Ice is money in China's coldest city
+  |publisher=www.smh.com.au
+  |date=13 November 2008
+  |accessdate=22 April 2014
+}}</ref>
+
+The "Harbin International Ice and Snow Festival" is one of the four largest ice and snow festivals in the world, along with Japan's [[Sapporo Snow Festival]], [[Canada]]'s [[Quebec City Winter Carnival]], and [[Norway]]'s [[Holmenkollen Ski Festival]].<ref name="hktdc.comHarbinInfo"/>
+
+Every November, the city of Harbin sends teams of ice artisans to the United States to promote their unique art form. It takes more than 100 artisans to create ICE!, the annual display of indoor Christmas-themed ice carvings in National Harbor, Maryland; Nashville, Tennessee; [http://www.gaylordpalms.com/ice Kissimmee, Florida]; and Grapevine, Texas.
+
+===''The Music City''===
+[[File:Harbin Music Park 2016-03-09.jpg|thumb|Harbin Music Park, located in Youyi West Road.]]
+Founded in 1908, the Harbin Symphony Orchestra was China's oldest symphony orchestra. Harbin No.1 Music School was also the first music school in China, which was founded in 1928. Nearly 100 famous musicians have studied at the school since its founding, said Liu Yantao, deputy chief of Harbin Cultural, Press and Publication Bureau.
+Every year, there are thousands of youngsters start their music dreams in this city, and the "Haerbin Summer Music Concert" serial activities that always be held in the every year's summer present the music  passion of the locals.
+[[UNESCO]] recognizes China's Harbin as "The Music City" as part of the [[Creative Cities Network]] in 2010.<ref name="english.peopledaily.com.cn"/>
+
+====Harbin Summer Music Concert====
+
+Harbin Summer Music Concert ('Concert' for short) is a national concert festival, which is held on 6 August every two years for a period of 10~11 days. During the concert, multiple evenings, concert, race and activities are held. The artists come from all over the world.
+
+The 'Harbin Summer Music Month', which was then renamed as 'Harbin Summer Music Concert', was held in August 1958. The first formal Concert was held on 5 August 1961 in Harbin Youth Palace, and kept on every year until 1966 when the [[Cultural Revolution]] started in China.<ref>[http://www.artsbird.com/newweb12/artsnews.php?thisid=26163 Introduction of Harbin Summer Music Concert]</ref> In 1979, the Concert was recovered and from 1994, it has been held every two years. As a part of 2006 Harbin Summer Music Concert's opening ceremony, a 1,001-piano concert was held in Harbin's Flood memorial square located at the north end of Zhongyang Street ({{zh|s=中央大街|hp=Zhōngyāng dàjiē|links=no}}) on 6 August 2006.<ref>{{cite web|script-title=zh:第28届中国·哈尔滨之夏音乐会琴宝隆之声·千台钢琴演奏会吉尼斯纪录申请过程|url=http://news.sina.com.cn/o/2006-08-10/01489704857s.shtml|work=新晚报|publisher=新浪娱乐|accessdate=6 February 2014|author=李威 封娇 李木双|date=10 August 2006|language=zh}}</ref><ref>{{cite web|script-title=zh:"琴宝隆之声"千台钢琴演奏会奏响华彩乐章|url=http://ent.sina.com.cn/y/2006-08-08/14401191418.html/|work=新浪娱乐|publisher=新浪娱乐|accessdate=6 February 2014|author=王玮|date=8 August 2006|language=zh}}</ref> Repertoires of the ensemble consisted of ''[[Triumphal March]]'', ''Military March'', ''[[Radetzky March]]'' and famous traditional local song ''On The Sun Island''. This concert set a new Guinness World Record for largest piano ensemble, surpassing the previous record held by German artists in a 600-piano concert.<ref name="english.peopledaily.com.cn"/>
+In 2008, the 29th Harbin Summer Music Concert was held on 6 August.
+
+===Media===
+
+===Television and radio===
+* [[Heilongjiang Television]] (HLJTV) serves as the media outlets of this region, broadcasts on seven channels as well as a satellite channel for other provinces.
+* Harbin Television (HRBTV) serves as a municipal station, which has five channels for specialized programming.
+* [[Long Guang]], ''Dragon Broadcast'', formerly Heilongjiang People's Broadcasting Station, the radio station group that serves the whole Heilongjiang region, providing seven channels including a Korean language broadcast station.
+* Harbin People's Broadcasting Station (HPBS), broadcasts music, news, traffic, economy and life in Harbin and adjacent areas including Daqing, Suihua and Fuyu.
+
+===Printed media===
+Major local newspapers include the Harbin Daily, New Metropolis Newspaper, Life Newspaper, New Evening News, Heilongjiang Morning Paper and Heilongjiang Daily.
+
+==Architecture==
+
+Harbin is notable for its combination of Chinese and European architecture styles. Many Russian and other European style buildings are protected by the government. The architecture in Harbin gives it the nicknames of "Oriental Moscow" and "Oriental Paris".<ref name="Profiles of China Provinces, Cities and Industrial Parks"/>
+
+[[File:Central walk (1) - panoramio.jpg|thumb|right|European-style building in Zhongyang Street.]]
+Zhongyang Street, one of the main business streets in Harbin, is a remnant of the bustling international business activities at the turn of the 20th century. First built in 1898, The {{convert|1.4|km|abbr=on}} long street is now a veritable museum of European architectural styles: [[Baroque]] and [[Byzantine architecture|Byzantine]] façades,<ref name="hktdc.comHarbinInfo"/> little Russian bakeries and French fashion houses, as well as non European architectural styles: American eateries, and [[Japanese restaurant]]s.<ref name="Central Street">
+{{cite web
+  |url=http://www.cnto.org.uk/harbin/2007_10_23_16/20071023163837426.htm
+  |title=Central Street
+  |publisher=China National Tourist Office
+  |accessdate=23 October 2007
+}}</ref>
+
+The [[Russian Orthodox]] church, [[Saint Sophia Cathedral in Harbin|Saint Sophia Cathedral]], is also located in the central district of Daoli.<ref name="hktdc.comHarbinInfo"/> Built in 1907 and expanded from 1923 to 1932, it was closed during the [[Great Leap Forward]] and Cultural Revolution periods. Following its designation in 1996 as a national cultural heritage site (First class Preserved Building),<ref>''"[http://www.upp.cn:8084/english/view/Arts/index_1.html PRESERVED BUILDINGS]."'' [http://www.upp.cn/english/ Harbin Urban and Rural Planning Bureau].</ref> it was turned into a museum as a showcase of the history of Harbin city in 1997.<ref name="Koga">Yukiko Koga. ''[https://books.google.com/books?id=hkq9tNjsSo8C&printsec=frontcover#v=onepage&q&f=false "The Atmosphere of a Foreign Country": Harbin's Architectural Inheritance].'' In: Anne M. Cronin, Kevin Hetherington. '''Consuming the Entrepreneurial City: Image, Memory, Spectacle'''. Routledge, 2008. p. 229.</ref> The {{convert|53.35|m|abbr=on}}-tall Church, which covers an area of 721 square meters, is a typical representative of Byzantine architecture.<ref name="Sofia Orthodox Church">
+{{cite web
+  |url=http://www.cnto.org.uk/harbin/2007_10_23_16/20071023164619188.htm
+  |title=St. Sofia Orthodox Church
+  |publisher=China National Tourist Office
+  |accessdate=23 October 2007
+}}</ref>
+
+[[File:ハルビン極楽寺玄関.jpg|thumb|right|Ji Le Temple (Temple of Bliss), a Buddhist temple in Harbin.]]
+Many citizens believe that the Orthodox church damaged the local [[feng shui]], so they donated money to build a Chinese monastery in 1921, the [[Ji Le Temple]]. There were more than 15 Russian Orthodox churches and two cemeteries in Harbin until 1949. The [[Communist Revolution]], and the subsequent [[Cultural Revolution]], and the decrease in the ethnic Russian population, saw many of them abandoned or destroyed. Today, about 10 churches remain, while services are held only in the [[Church of the Intercession in Harbin]].<ref>[http://orthodox.cn/contemporary/harbin/pokrov_en.htm The Church of the Protection of the Mother of God in Harbin (Orthodoxy in China)]</ref>
+
+==Sports==
+
+As the center of winter sports in China, many famous winter sports athletes come from Harbin. Olympic medalists include [[short track speed skating|short track]] star [[Wang Meng (speed skater)|Wang Meng]] (six-time medalist), [[long track speed skating|long track skater]] [[Zhang Hong (speed skater)|Zhang Hong]] ([[2014 Winter Olympics|2014 Sochi]], gold medal), and pairs figure skaters [[Shen Xue]] and [[Zhao Hongbo]] ([[2002 Winter Olympics|2002 Salt Lake City]] and [[2006 Winter Olympics|2006 Torino]] bronze medals, and [[2010 Winter Olympics|2010 Vancouver]], gold medal), [[Zhang Dan]] and [[Zhang Hao (figure skater)|Zhang Hao]], ([[2006 Winter Olympics|2006 Torino]], silver medal) and [[Pang Qing]] and [[Tong Jian]]. ([[2010 Winter Olympics|2010 Vancouver]], silver medal)<ref>http://www.olympic.org/olympic-results</ref>
+
+Harbin has an [[List of indoor speed skating rinks|indoor speed skating arena]], Heilongjiang Indoor Rink,<ref>[http://www.speedskatingnews.info/en/data/rink/CHHA/ Rink card of: Heilongjiang Indoor Rink Harbin-Nangang]</ref> as one of five in China.
+
+Mutual cooperation of the Far Eastern State Academy of Physical Culture and the Harbin Institute of Physical Education started an exchange of sports and cultural delegations, holding of sports, training of Chinese students in [[Khabarovsk]], Russia and Harbin. Russian side started to have plans to introduce [[bandy]] to China while Harbin has good preconditions to become one of the strong points of this sport in China.<ref>{{cite web|url=http://khabbandy.ru/index.php?id=278 |script-title=ru:Хоккеем с мячом заинтересовались в Харбинском институте физической культуры |publisher=Федерация хоккея с мячом Хабаровского края |date= |accessdate=26 March 2013|language=ru}}</ref> The [[China national bandy team|national team]] is based in Harbin,<ref>[http://bandyvm2015.ru/en/news/?newsid=84 China team may be take part in world championship 2015]</ref><ref>[http://www.rusbandy.ru/news/6471/ Китай сыграет на ЧМ-2015]</ref> and it was confirmed in advance that they would play in the [[2015 Bandy World Championship]].<ref>[http://bandyvm2015.ru/en/news/?newsid=88 National team of China none the less will come to Khabarovsk]</ref> Despite being there for the first time, the Chinese team did not finish last. Mr Zhu, president of the sport university, is a member of the [[Federation of International Bandy]] council.<ref>[http://www.chinabandy.org/news/ Report from China Bandy Year End Report and AGM 2015]</ref>
+
+[[Harbin Yiteng F.C.|Harbin Yiteng Football Club]] currently play home soccer matches at [[Harbin International Conference Exhibition and Sports Center]], a 50000-seated stadium. The team gained promotion to [[China Super League|China's top tier]] for the first time when they came second within the 2013 China League One division.
+
+===Events===
+The [[1996 Asian Winter Games]] were held in Harbin. The [[Alpine skiing]] events was held in [[Yabuli Ski Resort|Yabuli ski resort]]. In the frame of this campaign to assert its role on the world scene, Harbin hosted city of the [[2009 Winter Universiade]]. Local Government spent 3.6 billion yuan for this event, with 2.63 billion used to in construction and renovation of its sport infrastructure for this Universiade.<ref>{{cite news|url=http://www.china.com.cn/news/txt/2008-09/19/content_16508043.htm | work=www.china.com.cn | script-title=zh:第24届大冬会09年2月18举行 共设12大项82小项 | date=2008-09-19 | accessdate=17 May 2014 |language=zh}}</ref>
+
+Harbin hosted the [[2003 ABC Championship|Asian Basketball Confederation Championship]] in 2003, in which [[China men's national basketball team|China]] won the championship on their home court for the thirteenth time.<ref>{{Cite web|url=http://todor66.com/basketball/Asia/Men_2003.html|title=Men Basketball Asia Championship 2003 Harbin (CHN)- 23.09-01.10 Winner China|last=|first=|date=|website=|publisher=|access-date=}}</ref>
+
+Harbin bid to host the 2010 Winter Olympics, which was ultimately awarded to Vancouver, Canada.<ref>http://gamesbids.com/eng/past-bid-results/</ref>
+
+Being the national centre of bandy, the 2018 [[Women's Bandy World Championship]] will be hosted by Harbin.
+
+==Transport==
+
+===Railway===
+[[File:Chinese Eastern Railway-en.svg|thumb|Railway system in Northeast China.]]
+Located at the junction of "T-style" mainline system, Harbin is an important railroad hub of the Northeast China Region.<ref name="Harbin Transportation"/> Harbin Railway Bureau is the first Railway Bureau established by People's Republic of China Government, of which the railway density is the highest in China. Five conventional rail lines radiate from Harbin to: [[Jingha Railway|Beijing (Jingha Line)]], [[Binsui Railway|Suifenhe (Binsui Line)]], [[Binzhou Railway|Manzhouli (Binzhou Line)]], [[Binbei Railway|Beian (Binbei Line)]] and [[Labin Railway|Lalin (Labin Line)]]. In addition, Harbin has a [[high-speed rail]] line linking [[Dalian]], Northeast China's southernmost seaport. In 2009, construction began on the new [[Harbin West Railway Station]] with 18 platforms, located on the southwestern outskirts of the city. In December 2012, the station was opened, as China unveiled its [[Harbin–Dalian High-Speed Railway|first high-speed rail]] running through regions with extremely low winter temperatures. with scheduled runs from Harbin to Dalian.<ref>{{cite news|url=http://english.jl.gov.cn/News/GeneralNews/201211/t20121127_1319324.html | work=Website of Jilin Province Government | title=Harbin-Dalian high-speed rail went into operation on December 1 | date=2012-11-27 | accessdate=2013-01-26 }}</ref> The weather-proof CRH380B bullet trains serving the line can accommodate temperatures from minus 40 degrees Celsius to 40 degrees Celsius above zero.<ref>{{cite news|url=http://news.xinhuanet.com/english/photo/2012-10/08/c_131893803.htm | work=[[Xinhuanet]] | title=China tests world's first alpine high-speed rail line | date=2012-10-08 | accessdate=2013-01-26 }}</ref>
+
+The city's main railway stations are the [[Harbin Railway Station]], which was first built in 1899 and expanded in 1989; the [[Harbin East Railway Station]], which opened in 1934; and the [[Harbin West Railway Station]], which was built into the city's high-speed railway station in 2012.<ref name="Harbin Transportation">{{cite web
+  |url=http://www.cnto.org.uk/harbin/2007_10_23_17/20071023165944248.htm
+  |title=Harbin Transportation
+  |publisher=China National Tourist Office
+  |accessdate=23 October 2007
+}}</ref> Another main station, [[Harbin North Railway Station]], opened for public service in 2015, along with new built Harbin-Qiqihar Passenger Railway.<ref>{{cite web|url=http://www.hlj.gov.cn/zwdt/system/2014/10/24/010690273.shtml |script-title=zh:哈尔滨北站和哈齐客专明年同步使用 |publisher=东北网-黑龙江晨报|date=2014-10-24 |accessdate=2015-06-19|language=zh}}</ref>
+
+[[Passenger rail transport in China|Direct passenger train service]] is available from Harbin Railway Station to large cities including Beijing, Shanghai, Tianjin, Guangzhou, Jinan, Nanjing and many other major cities in China.<ref name="China-briefing.com"/> Direct high-speed railway service began operation between Harbin West and Shanghai Hongqiao stations since 28 December 2013, and shorten the journey time to 12 hours.<ref name="HarbinShanghai">{{cite web
+  |url=http://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2013-12/29/content_240485.htm?div=-1
+  |script-title=zh:哈尔滨至上海高铁开通
+  |publisher=科技日报
+  |accessdate=17 May 2014
+|language=zh}}</ref>
+
+<gallery mode=packed-hover caption="Harbin railway system" height=180px>
+File:Haerbin Railway Station 2010.JPG|Harbin Railway Station
+File:Harbin West Railway Station.jpg|Harbin West Railway Station
+
+|Waiting Hall of Harbin West Railway Station
+|Interchange Station of Railway and Metro
+</gallery>
+
+===Road===
+[[File:哈平路 - panoramio.jpg|thumb|Haping road, one of the main municipal roads in the south of Harbin.]]
+As an important regional hub in Northeast China, Harbin has an advanced highway system. Major highways which pass through or terminate in Harbin include the Beijing–Harbin, Heihe–Dalian, Harbin–Tongjiang, Changchun–Harbin, and Manzhouli–Suifenhe highways.
+
+* [[G1 Beijing–Harbin Expressway]]
+* [[G10 Suifenhe–Manzhouli Expressway]]
+* [[G1001 Harbin Ring Expressway]]
+* [[G1011 Harbin–Tongjiang Expressway]], a spur of G10 that extends west to [[Tongjiang, Heilongjiang|Tongjiang]], formerly part of [[China National Highway 010]]
+* [[G1111 Hegang–Harbin Expressway]], a spur of [[G11 Hegang–Dalian Expressway]]
+* [[G1211 Jilin–Heihe Expressway]], a spur of [[G12 Hunchun–Ulanhot Expressway]] that extends north to [[Heihe]]
+* [[China National Highway 102]]
+* [[China National Highway 202]]
+* [[China National Highway 221]]
+* [[China National Highway 222]]
+* [[China National Highway 301]]
+
+===Air===
+{{Main|Harbin Taiping International Airport}}
+
+[[Harbin Taiping International Airport]], which is {{convert|35|km|0|abbr=off}} away from the urban area of Harbin, is the second largest international airport in Northeast China. The technical level of flight district is 4E, which allows all kinds of large and medium civil aircraft. There are flights to over thirty large cities including Beijing, Tianjing, Shanghai, Nanjing, Qingdao, Wenzhou, Xiamen, Guangzhou, Shenzhen, Shenyang, Dalian, Xi'an and Hong Kong.<ref name="China-briefing.com"/> In addition there are also scheduled international flights between Harbin and Russia, [[Singapore]], [[Malaysia]] and [[South Korea]]. In June 2015, The first LCC international air routes to [[Japan]], specifically the city of [[Nagoya]] was to begin.<ref name="Harbin Transportation"/>
+Because of the freight capability limitation, construction of the T2 Terminal began on 31 October 2014. The 160,000-square-meter T2 Terminal is scheduled to be finished in 2017, and will increase the freight capacity of the airport to three times of the previous.<ref>{{cite news|author1=周琳|title=哈尔滨太平机场扩建主体工程开工 T2航站楼3年内投用|url=http://heilongjiang.dbw.cn/system/2014/11/01/056096079.shtml|accessdate=21 November 2014|work=生活报|publisher=东北网|language=Chinese}}</ref>
+
+===Subway===
+{{Main|Harbin Metro}}
+Construction of [[Harbin Subway]] started on 5 December 2006. The total investment for the first phase is RMB5.89 billion. Twenty stations were planned to be set on this {{convert|17.73|km|abbr=on}} long line starting from Harbin East Railway Station to the 2nd Affiliated Hospital of Harbin Medical University in the west of the city. A subway depot, a command center and two transformer substations will be built along the line. Most of the subway's route follows the air defence evacuation tunnel left from the "7381" Project which started in 1973 and ended in 1979. The 7381 project was intended to protect Harbin from the former Soviet Union's possible invasion or nuclear attack.
+
+The [[Line 1, Harbin Metro|Line 1 of Harbin Metro]] actually opened on 26 September 2013.<ref name=GT20130926>[http://www.globaltimes.cn/content/814172.shtml#.UkRk3xBUga4 "Metro line operational in China's Harbin"] 2013-09-26.</ref> It is oriented along the east–west axis of the [[urban area]] of Harbin: from north-east (Harbin East Railway Station) to south-west (2nd Affiliated Hospital of Harbin Medical University).<ref name=Xinhua20130926>(Chinese) [http://society.people.com.cn/n/2013/0926/c1008-23049247.html 哈尔滨地铁1号线载客试运营正式开通] 2013-09-26{{zh icon}}</ref> Line 2 and Line 3 are under construction. Line 2 runs from Songbei District to Xiangfang District and Line 3 runs next to 2nd ring road of Harbin. In the long term, the city plans to build nine radiating subway lines and a circle line in downtown and some suburban districts, which account for {{convert|340|km|1|abbr=on}} by 2025.<ref name="H340">{{Cite web |url= http://www.harbin.gov.cn/hrbzfw/hrb_today/display.php?id=33290 |script-title=zh:哈埠地铁2013年载客试运行 6月份进行铺轨工程 |author= 哈尔滨市人民政府 |date=2011-03-09 |accessdate=2014-01-25 |language=zh}}</ref>
+
+Picture References:
+*[https://web.archive.org/web/20110707205544/http://hi.baidu.com/lt4mao/blog/item/30e67727a72e5408938f9d64.html "7381" Project, a Civil Defense System in Harbin]
+*[http://www.icefestivalharbin.com/article-p66-harbin-metro-map-line-1.html Harbin Subway Map, Line 1]
+
+===Ports and waterways===
+
+There are more than 1,900 rivers in Heilongjiang, including the [[Songhua River]], [[Heilong River]] and [[Wusuli River]], creating a convenient system of waterway transportation. Harbin harbor is one of eight inland ports in China and the largest of its type in Northeast China. Available from mid-April until the beginning of November, passenger ships sail from Harbin up the Songhua River to [[Qiqihar]], or downstream to [[Jiamusi]], [[Tongjiang, Heilongjiang|Tongjiang]], and [[Khabarovsk]] in Russia.<ref name="China-briefing.com"/>
+
+==Education==
+[[File:Harbin Institute of Technology - Main Bldg.jpg|thumb|right|The main building of [[Harbin Institute of Technology]]. Note the [[Stalinist architecture|Stalinist]] "tier-cake" façade, reminiscent of the [[Seven Sisters (Moscow)|Seven Sisters in Moscow]].]]
+As Harbin serves as an important military industrial base after PRC's foundation, it is home to several key universities mainly focused on the science and technology service of national military and aerospace industry.<ref name="Scientific Technology and Education">
+{{cite web
+  |url=http://www.harbin.gov.cn/english/Harbin_Overview/Scientific_Technology.htm
+  |title=Scientific Technology and Education
+  |publisher=Harbin Municipal Government
+  |accessdate=14 September 2011
+
+}}</ref> Soviet experts played an important role in many education projects in this period. However, due to the threat of possible war with the Soviet Union, several colleges were moved southwards to Changsha, Chongqing, and several other southern cities in China in the 1960s. Some of these colleges were returned to Harbin in the 1970s.
+
+Among these universities the best-known is [[Harbin Institute of Technology]], one of China's better known universities. Founded in 1920, the university has developed into an important research university mainly focusing on engineering (e.g. in [[space science]] and [[defense (military)|defense]]-related technologies),<ref>{{cite web|url=http://www.nasaspaceflight.com/2013/09/kuaizhou-china-launches-new-rocket/|title=Kuaizhou – China secretly launches new quick response rocket|quote=Built by the Harbin Institute of Technology, the new satellite will be used for emergency data monitoring and imaging...|accessdate=22 April 2014}}</ref><ref>{{cite web|url=http://www.malab.se.ritsumei.ac.jp/wp/wp-content/uploads/2013/04/OB_quan.pdfand|title=Work at HIT as lecturer after graduation|accessdate=22 April 2014}}</ref> with supporting faculties in the sciences, management, humanities and social sciences. The institute's faculty and students contributed to and invented China's first [[analog computer]], the first intelligent chess computer, and the first arc-welding robot. In 2010, research funding from the government, industry, and business sectors surpassed RMB1.13 billion, the second highest of any university in China.<ref name="China-briefing.com"/>
+
+*[[Harbin Institute of Technology]]
+*[[Harbin Engineering University]] (former department of Shipbuilding Engineering of Harbin Military Academy of Engineering)
+*[[Northeast Agricultural University]]*[[Northeast Forestry University]]
+*[[Heilongjiang University]]
+*[[Harbin Jewish Research Center]]
+*[[Harbin Medical University]]
+*[[Harbin Normal University]]
+*[[Harbin University of Science and Technology]]
+*[[Heilongjiang University of Chinese Medicine]]
+*[[Heilongjiang Institute of Technology]]
+*[[Heilongjiang East College]]
+*[[Harbin Advance Technical College]]
+*[[Harbin University of Commerce]]
+*[http://www.theharbinmandarinschool.com/ The Harbin Mandarin School], Harbin also offers private one-to-one intensive Mandarin Chinese courses.
+
+==International relations==
+Harbin has [[town twinning]] and similar arrangements with approximately 30 places around the world, as well as some other cities within China. For a list, see [[List of twin towns and sister cities in China#H|List of twin towns and sister cities in China → H]].
+
+In 2009 Harbin opened an International Sister Cities museum. It has 1,048 exhibits in 28 rooms, with a total area of {{convert|1800|m2|0|abbr=off}}.<ref name="China Daily">{{cite web|url=http://e.my399.com/culture/architecture/2013-05-24/250.html|title=Harbin International Sister Cities Museum|accessdate =2013-08-08|date=2013-05-24|work=China Daily.Com}}</ref>
+
+On 3 September 2015, [[China]] and Russia signed an agreement to re-open the Russian consulate in Harbin, as the former Soviet consulate was closed in 1962 after the [[Sino-Soviet split]]. China will also establish a corresponding consulate in Vladivostok.<ref>{{cite web|title=Документы, подписанные по итогам российско-китайских переговоров 3 сентября 2015 г.|url=http://www.russia.org.cn/rus/2728/31302634.html|website=http://www.russia.org.cn/|publisher=The Embassy of the Russian Federation in the People's Republic of China|accessdate=6 September 2015|language=Russian|date=3 September 2015}}</ref>
+
+==See also==
+*[[Harbin Ferris Wheel]]
+*[[List of cities in the People's Republic of China by population]]
+*[[List of current and former capitals of subnational entities of China]]
+*[[2013 Harbin smog]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{refbegin}}
+*{{cite book|last1=Jing-shen|first1=Tao|last2=|first2=|title=The Jurchen in Twelfth-Century China|date=1976|publisher=University of Washington Press|location=|isbn=0-295-95514-7|page=|pages=|edition=|url=|ref=}}
+*{{cite book|last1=Lahusen|first1=Thomas|last2=|first2=|title=Harbin and Manchuria: Place, Space, and Identity|date=15 November 2001|publisher=Duke University Press Books|location=Location|isbn=0-295-95514-7|page=|pages=276 pages|edition=South Atlantic Quarterly (Book 99)|url=|ref=}}
+*Walravens, Hartmut. "German Influence on the Press in China." – In: ''Newspapers in International Librarianship: Papers Presented by the Newspaper Section at IFLA General Conferences''. [[Walter de Gruyter]], 1 January 2003. ISBN 3110962799, 9783110962796.
+**[http://ifla.queenslibrary.org/IV/ifla62/62-walh.htm Also available at] ([http://www.webcitation.org/6BorMkdPv Archive]) the website of the [[Queens Library]] – This version does not include the footnotes visible in the Walter de Gruyter version
+**Also available in Walravens, Hartmut and Edmund King. ''Newspapers in international librarianship: papers presented by the newspapers section at IFLA General Conferences''. [[K.G. Saur]], 2003. ISBN 3598218370, 9783598218378.
+{{refend}}
+
+==Further reading==
+*Meyer, Mike, "Manchuria Under Ice", ''Departures Magazine'', Nov/Dec 2006, 292–297.
+*[[Nikos Kavvadias]], a popular Greek poet born in Harbin by Greek parents from [[Kefalonia]], [[Greece]]
+*Jan, Michel, "Cruelle est la terre des frontières", Payot, Paris, 2006 (in French).
+
+==External links==
+{{Sister project links|Harbin}}
+*[http://www.harbin.gov.cn/ Harbin Government website]
+*{{Wikivoyage-inline}}
+
+{{Harbin}}
+{{Heilongjiang topics}}
+{{Heilongjiang}}
+{{Metropolitan cities of the People's Republic of China}}
+{{Most populous cities in the People's Republic of China}}
+{{Provincial capitals of China}}
+{{Asian Games Host Cities}}
+
+{{Authority control}}
+
+[[Category:Harbin| ]]
+[[Category:Provincial capitals in China]]
+[[Category:National Famous Historical and Cultural Cities in China]]

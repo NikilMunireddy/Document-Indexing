@@ -1,0 +1,323 @@
+Arachnid
+
+{{Other uses}}
+{{Redirect|Arachnida|the arachnida curve|Sectrix of Maclaurin}}
+{{Automatic taxobox
+| name = Arachnids
+| image = Haeckel Arachnida.jpg
+| image_caption = "Arachnida" from [[Ernst Haeckel]]'s ''[[Kunstformen der Natur]]'', 1904
+| fossil_range = {{Fossil range|430|0}}<small>Early [[Silurian]] – Recent</small>
+| taxon = Arachnida
+| authority = [[Lamarck]], 1801
+| subdivision_ranks = Orders
+| subdivision =
+  {{Linked taxon list
+  |Acari|
+  |Amblypygi|
+  |Spider{{!}}Araneae|
+  |†Haptopoda|
+  |Opiliones|
+  |Palpigradi|
+  |†Phalangiotarbi|
+  |Pseudoscorpion{{!}}Pseudoscorpiones|
+  |Ricinulei|
+  |Schizomida|
+  |Scorpiones|
+  |Solifugae|
+  |Thelyphonida|
+  |†Trigonotarbida|
+  |†Uraraneida|
+  }}
+}}
+'''Arachnids''' are a [[Class (biology)|class]] ('''Arachnida''') of [[Arthropod|joint-legged]] [[invertebrate]] [[animal]]s ([[arthropod]]s), in the [[subphylum]] [[Chelicerata]]. All arachnids have eight [[Arthropod leg|legs]], although the front pair of legs in some species has converted to a sensory function, while in other species, different [[appendage]]s can grow large enough to take on the appearance of extra pairs of legs. The term is derived from the [[Ancient Greek|Greek]] word {{lang|grc|[[wikt:ἀράχνη#Ancient Greek|ἀράχνη]]}} (''aráchnē''), meaning "spider".<ref>{{cite encyclopedia |encyclopedia=[[Oxford English Dictionary]]|date=1989|edition=2nd|title=Arachnid}}</ref>
+
+Almost all [[Extant taxon|extant]] arachnids are terrestrial. However, some inhabit freshwater environments and, with the exception of the [[pelagic zone]], marine environments as well. They comprise over 100,000 named [[species]], including [[spider]]s, [[scorpion]]s, [[opiliones|harvestmen]], [[tick]]s, [[mite]]s, and [[Solifugae|solifuges]].<ref>{{cite book |editor1-first=Joel |editor1-last=Cracraft |editor2-first=Michael |editor2-last=Donoghue |title=Assembling the Tree of Life|publisher=[[Oxford University Press]] |date=2004 |page=297 |lastauthoramp=yes}}</ref>
+
+==Morphology==
+[[File:Spider-characteristics.png|thumb|left|Basic characteristics of arachnids include four pairs of [[arthropod leg|legs]] (1) and a body divided into two [[tagma (biology)|tagmata]]: the cephalothorax (2) and the abdomen (3)]]
+Almost all adult arachnids have eight legs, and arachnids may be easily distinguished from [[insect]]s by this fact, since insects have six legs. However, arachnids also have two further pairs of appendages that have become adapted for feeding, defense, and sensory perception. The first pair, the [[chelicera]]e, serve in feeding and defense. The next pair of appendages, the [[pedipalp]]s, have been adapted for feeding, locomotion, and/or [[reproduction|reproductive]] functions. In [[Solifugae]], the palps are quite leg-like, so that these animals appear to have ten legs. The [[larva]]e of mites and [[Ricinulei]] have only six legs; a fourth pair usually appears when they [[ecdysis|moult]] into [[nymph (biology)|nymph]]s. However, mites are variable: as well as eight, there are adult mites with six or even four legs.<ref name=schmidt93>{{cite book |first=Günther |last=Schmidt |date=1993 |title=Giftige und gefährliche Spinnentiere |trans_title=Poisonous and dangerous arachnids |language=German |publisher=Westarp Wissenschaften |isbn=3-89432-405-8 |page=75}}</ref>
+
+Arachnids are further distinguished from insects by the fact they do not have [[antenna (biology)|antennae]] or [[insect wing|wings]]. Their body is organized into two [[tagma (biology)|tagmata]], called the [[prosoma]], or [[cephalothorax]], and the [[opisthosoma]], or [[abdomen]]. The cephalothorax is derived from the fusion of the [[cephalon (arthropod anatomy)|cephalon]] (head) and the [[thorax]], and is usually covered by a single, unsegmented carapace. The abdomen is segmented in the more primitive forms, but varying degrees of fusion between the segments occur in many groups. It is typically divided into a preabdomen and postabdomen, although this is only clearly visible in scorpions, and in some orders, such as the [[Acari]], the abdominal sections are completely fused.<ref>{{cite book |last1=Ruppert |first1=E. |last2=Fox |first2=R. |last3=Barnes |first3=R. |date=2007 |title=Invertebrate Zoology: A Functional Evolutionary Approach |edition=7th |publisher=[[Thomson Learning]] |isbn=0-03-025982-7 |lastauthoramp=yes}}</ref>
+
+Like all arthropods, arachnids have an [[exoskeleton]], and they also have an internal structure of [[cartilage]]-like tissue, called the [[endosternite]], to which certain muscle groups are attached. The endosternite is even calcified in some [[Opiliones]].<ref>{{cite journal |first=J. |last=Kovoor |date=1978 |title=Natural calcification of the prosomatic endosternite in the Phalangiidae (Arachnida:Opiliones) |journal=[[Calcified Tissue Research]] |volume=26 |issue=3 |pages=267–269 |pmid=750069 |doi=10.1007/BF02013269}}</ref>
+
+===Locomotion===
+Most arachnids lack [[extension (kinesiology)|extensor]] muscles in the [[Anatomical terms of location#Proximal and distal|distal]] joints of their appendages. Spiders and [[whipscorpion]]s extend their limbs hydraulically using the pressure of their [[hemolymph]].<ref name=Sensenig2003>{{Cite journal |doi=10.1242/jeb.00182 |issn=1477-9145 |volume=206 |issue=4 |pages=771–784 |last=Sensenig |first=Andrew T. |first2=Jeffrey W. |last2=Shultz |title=Mechanics of Cuticular Elastic Energy Storage in Leg Joints Lacking Extensor Muscles in Arachnids |journal=[[Journal of Experimental Biology]] |accessdate=2012-05-18 |date=February 15, 2003 |url=http://jeb.biologists.org/content/206/4/771 |lastauthoramp=yes}}</ref> [[Solifuge]]s and some [[harvestmen]] extend their knees by the use of highly elastic thickenings in the joint cuticle.<ref name=Sensenig2003/> [[Scorpion]]s, [[pseudoscorpion]]s and some harvestmen have evolved muscles that extend two leg joints (the femur-patella and patella-tibia joints) at once.<ref name=Shultz2005>{{Cite journal |doi=10.1002/jmor.1052100103 |issn=1097-4687 |volume=210 |issue=1 |pages=13–31 |last=Shultz |first=Jeffrey W. |title=Evolution of locomotion in arachnida: The hydraulic pressure pump of the giant whipscorpion, ''Mastigoproctus giganteus'' (Uropygi) |journal=[[Journal of Morphology]] |date=February 6, 2005 }}</ref><ref name=Shultz1992>{{Cite journal |issn=1477-9145 |volume=162 |issue=1 |pages=313–329 |last=Shultz |first=Jeffrey W. |title=Muscle Firing Patterns in Two Arachnids Using Different Methods of Propulsive Leg Extension |journal=Journal of Experimental Biology |accessdate=2012-05-19 |date=January 1, 1992 |url=http://jeb.biologists.org/content/162/1/313}}</ref> The equivalent joints of the pedipalps of scorpions though, are extended by elastic recoil.<ref name=Sensenig2004>{{Cite journal |doi=10.1636/S02-73 |issn=0161-8202 |volume=32 |issue=1 |pages=1–10 |last=Sensenig |first=Andrew T. |first2=Jeffrey W. |last2=Shultz |title=Elastic energy storage in the pedipedal joints of scorpions and sun-spiders (Arachnida, Scorpiones, Solifugae) |journal=[[Journal of Arachnology]] |date=2004 |lastauthoramp=yes}}</ref>
+
+==Physiology==
+{{See also|Hemolymph}}
+There are characteristics that are particularly important for the terrestrial lifestyle of arachnids, such as internal respiratory surfaces in the form of [[Invertebrate trachea|trachea]]e, or modification of the [[book gill]] into a [[book lung]], an internal series of [[vascular]] [[lamella (zoology)|lamella]]e used for [[gas exchange]] with the air.<ref name=Garwood>{{cite journal |last1=Garwood |first1=Russell J. |last2=Edgecombe |first2=Gregory D. |date=September 2011 |title=Early Terrestrial Animals, Evolution, and Uncertainty |journal=Evolution: Education and Outreach |location=New York |publisher=[[Springer Science+Business Media]] |volume=4 |issue=3 |pages=489–501 |doi=10.1007/s12052-011-0357-y |url=http://www.academia.edu/891357/ |issn=1936-6426 |accessdate=2015-07-21 |lastauthoramp=yes}}</ref> While the tracheae are often individual systems of tubes, similar to those in insects, ricnuleids, pseudoscorpions, and some spiders possess sieve tracheae, in which several tubes arise in a bundle from a small chamber connected to the [[spiracle]]. This type of tracheal system has almost certainly evolved from the book lungs, and indicates that the tracheae of arachnids are not [[Homology (biology)|homologous]] with those of insects.<ref name=IZ/>
+
+Further adaptations to terrestrial life are [[appendage]]s modified for more efficient locomotion on land, internal fertilisation, special sensory organs, and water conservation enhanced by efficient [[excretory]] structures as well as a waxy layer covering the cuticle.
+
+The excretory glands of arachnids include up to four pairs of [[coxal gland]]s along the side of the prosoma, and one or two pairs of [[Malpighian tubule]]s, emptying into the gut. Many arachnids have only one or the other type of excretory gland, although several do have both. The primary nitrogenous waste product in arachnids is [[guanine]].<ref name=IZ/>
+
+Arachnid blood is variable in composition, depending on the mode of respiration. Arachnids with an efficient tracheal system do not need to transport oxygen in the blood, and may have a reduced circulatory system. In scorpions and some spiders, however, the blood contains [[haemocyanin]], a copper-based pigment with a similar function to [[haemoglobin]] in vertebrates. The [[heart]] is located in the forward part of the abdomen, and may or may not be segmented. Some mites have no heart at all.<ref name=IZ/>
+
+==Diet and digestive system==
+
+Arachnids are mostly [[carnivore|carnivorous]], feeding on the pre-digested bodies of insects and other small animals. Only in the [[harvestmen]] and among [[mites]], such as the [[house dust mite]], is there ingestion of solid food particles, and thus exposure to internal parasites,<ref name=pinto2007>{{cite book |last1=Machado |first1=Glauco |last2=Pinto-da-Rocha |first2=Ricardo |last3=Giribet |first3=Gonzalo |editor1-last=Pinto-da-Rocha |editor1-first=Ricardo |editor2-last=Machado |editor2-first=Glauco |editor3-last=Giribet |editor3-first=Gonzalo |date=2007 |title=Harvestmen: the Biology of Opiliones |publisher=[[Harvard University Press]] |isbn=0-674-02343-9 |lastauthoramp=yes}}</ref> although it is not unusual for spiders to eat their own silk. Several groups secrete [[venom]] from specialized [[gland]]s to kill prey or enemies. Several mites and ticks are [[parasite]]s, some of which are carriers of [[disease]].
+
+Arachnids produce digestive juices in their stomachs, and use their pedipalps and chelicerae to pour them over their dead prey. The digestive juices rapidly turn the prey into a broth of nutrients, which the arachnid sucks into a pre-buccal cavity located immediately in front of the mouth. Behind the mouth is a muscular, sclerotised [[pharynx]], which acts as a pump, sucking the food through the mouth and on into the [[oesophagus]] and [[stomach]]. In some arachnids, the oesophagus also acts as an additional pump.
+
+The stomach is tubular in shape, with multiple [[diverticula]] extending throughout the body. The stomach and its diverticula both produce digestive enzymes and absorb nutrients from the food. It extends through most of the body, and connects to a short sclerotised [[intestine]] and [[anus]] in the hind part of the abdomen.<ref name=IZ>{{cite book |first=Robert D. |last=Barnes |date=1982 |title=Invertebrate Zoology |publisher=Holt-Saunders International |location=Philadelphia, PA |pages=596–604 |isbn=0-03-056747-5}}</ref>
+
+==Senses==
+
+Arachnids have two kinds of eyes, the lateral and median [[ocelli]]. The lateral ocelli evolved from [[compound eye]]s and may have a [[tapetum lucidum|tapetum]], which enhances the ability to collect light. With the exception of scorpions, which can have up to five pairs of lateral ocelli, there are never more than three pairs present. The median ocelli develop from a transverse fold of the [[ectoderm]]. The ancestors of modern arachnids probably had both types, but modern ones often lack one type or the other.<ref name=pinto2007/> The [[cornea]] of the eye also acts as a lens, and is continuous with the cuticle of the body. Beneath this is a transparent vitreous body, and then the [[retina]] and, if present, the tapetum. In most arachnids, the retina probably does not have enough light sensitive cells to allow the eyes to form a proper image.<ref name=IZ/>
+
+In addition to the eyes, almost all arachnids have two other types of sensory organs. The most important to most arachnids are the fine sensory hairs that cover the body and give the animal its sense of touch. These can be relatively simple, but many arachnids also possess more complex structures, called [[trichobothria]].
+
+Finally, slit sense organs are slit-like pits covered with a thin membrane. Inside the pit, a small hair touches the underside of the membrane, and detects its motion. Slit sense organs are believed to be involved in [[proprioception]], and possibly also hearing.<ref name=IZ/>
+
+==Reproduction==
+{{see also|Spider#Reproduction and life cycle|Scorpion#Reproduction}}
+Arachnids may have one or two [[gonad]]s, which are located in the abdomen. The genital opening is usually located on the underside of the second abdominal segment. In most species, the male transfers sperm to the female in a package, or [[spermatophore]]. Complex courtship rituals have evolved in many arachnids to ensure the safe delivery of the sperm to the female.<ref name=IZ/>
+
+Arachnids usually lay yolky [[egg (biology)|eggs]], which hatch into immatures that resemble adults. Scorpions, however, are either [[ovoviviparous]] or [[viviparous]], depending on species, and bear live young.
+
+==Systematics==
+===Phylogeny===
+The [[Phylogeny|phylogenetic]] relationships among the main subdivisions of arthropods have been the subject of considerable research and dispute for many years. A consensus emerged from about 2010 onwards, based on both morphological and molecular evidence. Extant (living) arthropods are a [[Monophyly|monophyletic]] group and are divided into three main clades, chelicerates (including arachnids), pancrustaceans (the [[paraphyly|paraphyletic]] crustaceans plus insects and their allies), and myriapods (centipedes, millipedes and allies).<ref name=MeusReumSimoRoed10/><ref name=RegiShulZwicHuss10/><ref name=RotaCampBrinEdge10/><ref name=CampRotaEdgeMarc11/><ref name=SharKaluPereGonz14/> The three groups are related as shown in the [[cladogram]] below.<ref name=RotaCampBrinEdge10/> Including fossil taxa does not fundamentally alter this view, although it introduces some additional basal groups.<ref name=LeggSuttEdge13/>
+
+{{clade |style=line-height:100%
+|label1=[[Arthropoda]]
+|1={{clade
+   |1=[[Chelicerata]] (sea spiders, horseshoe crabs and '''arachnids''')
+   |label2=[[Mandibulata]]
+   |2={{clade
+      |1=[[Pancrustacea]] (crustaceans and insects)
+      |2=[[Myriapoda]] (centipedes, millipedes, and allies)
+      }}
+   }}
+}}
+
+The extant chelicerates comprise two marine groups, sea spiders and horseshoe crabs, and the terrestrial arachnids. These are related as shown below.<ref name=RegiShulZwicHuss10/><ref name=SharKaluPereGonz14/> (Pycnogonida (sea spiders) may be excluded from the chelicerates, which are then identified as the group labelled "Euchelicerata".<ref name=GiriEdgeWhee01/>)
+
+{{clade |style=line-height:100%
+|label1=[[Chelicerata]]
+|1={{clade
+   |1=[[Pycnogonida]] (sea spiders)
+   |label2=Euchelicerata
+   |2={{clade
+      |1=[[Xiphosura]] (horseshoe crabs)
+      |2='''Arachnida'''
+      }}
+   }}
+}}
+
+Discovering relationships within the arachnids has proved difficult {{as of|2016|March|lc=true}}, with successive studies producing different results. A study in 2014, based on the largest set of molecular data to date, concluded that there were systematic conflicts in the phylogenetic information, particularly affecting the orders [[Acariformes]], [[Parasitiformes]] and [[Pseudoscorpiones]], which have had much faster evolutionary rates. Analyses of the data using sets of genes with different evolutionary rates produced mutually incompatible phylogenetic trees. The authors favoured relationships shown by more slowly evolving genes, which demonstrated the monophyly of Chelicerata, Euchelicerata and Arachnida, as well as of some clades within the arachnids. The diagram below summarizes their conclusions, based largely on the 200 most slowly evolving genes; dashed lines represent uncertain placements.<ref name=SharKaluPereGonz14/>
+{{barlabel
+|size=10
+|at1=8.5|label1=Arachnopulmonata
+|cladogram=
+{{clade
+|label1='''Arachnida'''
+|1={{clade
+   |state1=dashed
+   |1=[[Acariformes]]
+   |2={{clade
+      |1=[[Opiliones]]
+      |2={{clade
+         |1=[[Ricinulei]]
+         |2=[[Solifugae]]
+         }}
+      }}
+   |3=[[Parasitiformes]] |state3=dashed
+   |state2=dashed
+   |state4=dashed
+   |4={{cladex
+      |1=[[Pseudoscorpiones]] |state1=dashed
+      |2=[[Scorpiones]] |barbegin2=purple
+      |label3=[[Tetrapulmonata]]
+      |3={{cladex
+         |1=[[Araneae]] |bar1=purple
+         |2={{cladex
+            |1=[[Amblypygi]] |bar1=purple
+            |2=[[Thelyphonida]] (Uropygi)|barend2=purple
+            }}
+         }}
+      }}
+   }}
+}}
+}}
+
+[[Tetrapulmonata]], here consisting of [[Spider|Araneae]], [[Amblypygi]] and [[Thelyphonida]] ([[Schizomida]] was not included in the study), received strong support. The addition of [[Scorpiones]] to produce a clade called Arachnopulmonata was also well supported. Pseudoscorpiones, may also belong here, possibly as the sister of Scorpiones. Somewhat unexpectedly, there was support for a clade comprising [[Opiliones]], [[Ricinulei]] and [[Solifugae]], a combination not found in most other studies.<ref name=SharKaluPereGonz14/>
+
+===Subdivisions===
+The subdivisions of the arachnids are usually treated as [[Order (biology)|orders]]. Historically, [[mite]]s and [[tick]]s were treated as a single order, Acari. However, molecular phylogenetic studies suggest that the two groups do not form a single clade, with morphological similarities being due to convergence. They are now usually treated as two separate taxa – Acariformes, mites, and Parasitiformes, ticks – which may be ranked as orders or superorders. The arachnid subdivisions are listed below alphabetically; numbers of species are approximate.
+
+* [[Acariformes]] – mites (32,000 species)
+* [[Amblypygi]] – "blunt rump" tail-less whip scorpions with front legs modified into [[whip]]-like sensory structures as long as 25&nbsp;cm or more (153 species)
+* [[Spider|Araneae]] – spiders (40,000 species)
+*†[[Haptopoda]] – extinct arachnids apparently part of the [[Tetrapulmonata]], the group including spiders and whip scorpions (1 species)
+* [[Opiliones]] – phalangids, harvestmen or daddy-long-legs (6,300 species)
+* [[Palpigradi]] – microwhip scorpions (80 species)
+* [[Parasitiformes]] – ticks (12,000 species)
+*†[[Phalangiotarbi]] – extinct arachnids of uncertain affinity (30 species)
+* [[Pseudoscorpion]]ida – pseudoscorpions (3,000 species)
+* [[Ricinulei]] – ricinuleids, hooded tickspiders (60 species)
+* [[Schizomida]] – "split middle" whip scorpions with divided exoskeletons (220 species)
+* [[Scorpion]]es – scorpions (2,000 species)
+* [[Solifugae]] – solpugids, windscorpions, sun spiders or camel spiders (900 species)
+* [[Thelyphonida]] (also called Uropygi) – whip scorpions or vinegaroons, forelegs modified into sensory appendages and a long tail on abdomen tip (100 species)
+*†[[Trigonotarbida]] – extinct (late [[Silurian]] early [[Permian]])
+*†[[Uraraneida]] – extinct spider-like arachnids, but with a "tail" and no [[Spinneret (spider)|spinnerets]] (2 species)
+
+It is estimated that 98,000 arachnid species have been described, and that there may be up to 600,000 in total<!-- ', including undescribed species' - redundant; as 98k described, rest must be undescribed-->.<ref>{{Cite book |first=Arthur D. |last=Chapman |title=Numbers of living species in Australia and the world |publisher=[[Department of the Environment and Heritage]] |date=2005 |isbn=0-642-56850-2 |url=http://www.environment.gov.au/biodiversity/abrs/publications/other/species-numbers/pubs/number-living-species-report.pdf}}</ref>
+
+===Acari===
+[[File:Trombidium holosericeum (aka).jpg|thumb|''[[Trombidium holosericeum]]'' (a mite)]]
+[[File:Ixodes hexagonus (aka).jpg|thumb|upright|''[[Ixodes hexagonus]]'', a tick]]
+{{Main|Acari|Acariformes|Parasitiformes}}
+Acari or Acarina is a [[taxon]] of arachnids that contains [[mite]]s and [[tick]]s. Its fossil history goes back to the [[Devonian]] period, although there is also a questionable [[Ordovician]] record. The Devonian period was the time frame in which certain species of animals developed legs. In most modern treatments, the Acari is considered a [[Class (biology)|subclass]] of Arachnida and is composed of two or three orders or superorders: [[Acariformes]], [[Parasitiformes]], and [[Opilioacariformes]]. Most acarines are minute to small (e.g. 0.080–1.00&nbsp;mm), but the giants of the Acari (some ticks and red velvet mites) may reach lengths of 10–20&nbsp;mm. It is estimated that over 50,000 species have been described (as of 1999) and that a million or more species are currently living.{{citation needed|date=July 2014|reason=Earlier in the article it says that there are an estimated 600k species of Arachnid - and cites a reference.}} The study of mites and ticks is called [[acarology]].<ref name=WalProc>{{cite book |last1=Walter |first1=D.E. |last2=Proctor |first2=H.C. |date=1999 |title=Mites: Ecology, Evolution and Behaviour |publisher=[[University of New South Wales Press]], Sydney and [[CAB International]], Wallingford |isbn=0-86840-529-9 |lastauthoramp=yes}}</ref>
+
+Only the faintest traces of primary segmentation remain in mites, the prosoma and opisthosoma being insensibly fused, and a region of flexible cuticle (the cirumcapitular furrow) separates the chelicerae and pedipalps from the rest of the body. This anterior body region is called the [[gnathosoma]] (or capitulum) and is also found in the [[Ricinulei]]. The remainder of the body is called the [[idiosoma]] and is unique to mites. Most adult mites have four pairs of legs, like other arachnids, but some have fewer. For example, [[gall mite]]s like ''[[Phyllocoptes variabilis]]'' (superfamily [[Eriophyioidea]]) have a wormlike body with only two pairs of legs; some parasitic mites have only one or three pairs of legs in the adult stage. Larval and prelarval stages have a maximum of three pairs of legs; adult mites with only three pairs of legs may be called 'larviform'.
+
+Acarine [[ontogeny]] consists of an egg, a prelarval stage (often absent), a larval stage (hexapod except in Eriophyoidea, which have only two pairs of legs), and a series of nymphal stages. Larvae (and prelarvae) have a maximum of three pairs of legs (legs are often reduced to stubs or absent in prelarvae); the fourth pair of legs is added at the first nymphal stage.
+
+Acarines live in practically every [[Ecoregion|habitat]], and include aquatic (freshwater and sea water) and terrestrial species. They outnumber other [[arthropod]]s in the soil [[organic material|organic matter]] and [[detritus (biology)|detritus]]. Many are [[parasitism|parasitic]], and they affect both [[vertebrate]]s and [[invertebrate]]s. Most parasitic forms are external parasites, while the free living forms are generally [[predation|predaceous]] and may even be used to control undesirable arthropods. Others are [[detritivore]]s that help to break down forest [[plant litter|litter]] and dead organic matter such as [[skin]] cells. Others still are [[herbivory|plant feeders]] and may damage [[crops]]. Damage to crops is perhaps the most costly economic effect of mites, especially by the spider mites and their relatives (Tetranychoidea), earth mites ([[Penthaleidae]]), thread-footed mites ([[Tarsonemidae]]) and the gall and rust mites (Eriophyoidea). Some parasitic forms affect [[humans]] and other [[mammal]]s, causing damage by their feeding, and can even be [[Vector (epidemiology)|vectors]] of diseases such as [[scrub typhus]] and [[rickettsia]]l pox. A well-known effect of mites on humans is their role as an [[allergen]] and the stimulation of [[asthma]] in people affected by the respiratory disease. The use of predatory mites (e.g. [[Phytoseiidae]]) in [[pest control]] and herbivorous mites that attack [[weed]]s is also important. An unquantified, but major positive contribution of the Acari is their normal functioning in [[ecosystem]]s, especially their roles in the decomposer subsystem.<ref name=WalProc/>
+
+===Amblypygi===
+[[File:Amblypigid.jpg|thumb|An amblypygid]]
+{{Main|Amblypygi}}
+Amblypygids are also known as tailless whip scorpions or cave spiders. Approximately 5 families, 17 genera and 136 species have been described. They are found in [[tropics|tropical]] and [[subtropics|subtropical]] regions worldwide. Some species are subterranean; many are [[nocturnal animal|nocturnal]]. During the day, they may hide under logs, bark, stones, or leaves. They prefer a humid environment. Amblypygids may range from 5 to 40&nbsp;mm. Their bodies are broad and highly flattened and the first pair of legs (the first walking legs in most arachnid orders) are modified to act as sensory organs. (Compare [[solifugid]]s, [[uropygid]]s, and [[schizomid]]s.) These very thin modified legs can extend several times the length of body. They have no [[silk]] glands or [[venom]]ous fangs, but can have prominent pincer-like [[pedipalp]]s. Amblypygids often move about sideways on their six walking legs, with one "whip" pointed in the direction of travel while the other probes on either side of them. Prey are located with these "whips", captured with pedipalps, then torn to pieces with [[chelicerae]]. [[Fossil]]ised amblypygids have been found dating back to the [[Carboniferous|Carboniferous period]].
+
+Amblypygids, particularly the species ''[[Phrynus marginemaculatus]]'' and ''[[Damon diadema]]'', are thought to be one of the few species of arachnids that show signs of [[social behavior]]. Research conducted at [[Cornell University]] by entomologists suggests that mother amblypygids comfort their young by gently caressing the offspring with her feelers. Further, when two or more siblings were placed in an unfamiliar environment, such as a cage, they would seek each other out and gather back in a group.<ref>{{cite web |first=Jeanna |last=Bryner |title=Creepy: Spiders Love to Snuggle |work=LiveScience |url=http://www.livescience.com/animalworld/070319_sweet_spiders.html |date=March 19, 2007}}</ref>
+
+===Araneae===
+[[File:Araneus diadematus (aka).jpg|thumb|upright|''[[Araneus diadematus]]'']]
+{{Main|Spider}}
+Araneae, or spiders, are the most familiar of the arachnids, and the most species-rich with around 40,000 described species.<ref name=WSC>{{cite web |title=The World Spider Catalog, version 9.5 |url=http://research.amnh.org/entomology/spiders/catalog/COUNTS.html |author=[[Norman I. Platnick]] |date=2009 |publisher=[[American Museum of Natural History]] |accessdate=2009-04-25}}</ref> All spiders produce [[spider silk|silk]], a thin, strong [[protein]] strand extruded by the spider from [[Spinneret (spider)|spinnerets]] most commonly found on the end of the abdomen. Many species use it to trap insects in [[spider web|webs]], although there are many species that hunt freely. Silk can be used to aid in climbing, form smooth walls for burrows, build egg sacs, wrap prey, temporarily hold sperm, and even [[ballooning (spider)|fly]], among other applications.
+
+All spiders except those in the families [[Uloboridae]] and [[Holarchaeidae]], and in the suborder [[Mesothelae]] (together about 350 species) can inject [[venom]] to protect themselves or to kill and liquefy prey. Only about 200 species, however, have [[Venomous Spiders|bites]] that can pose health problems to humans.<ref name=global>{{cite journal |url=http://www.ajtmh.org/cgi/content/full/71/2/239 |first=James H. |last=Diaz |date=2004 |title=The global epidemiology, syndromic classification, management, and prevention of spider bites |journal=[[American Journal of Tropical Medicine and Hygiene]] |volume=71 |issue=2 |pages=239–250 |pmid=15306718 |doi=}}</ref> Many larger species' bites may be painful, but will not produce lasting health concerns.
+
+Spiders are found all over the world, from the tropics to the Arctic, with some extreme species even living underwater in silken domes that they supply with air,<ref name=Schütz>{{cite journal |last1=Schütz |first1=Dolores |last2=Taborsky |first2=Michael |date=2003 |title=Adaptations to an aquatic life may be responsible for the reversed sexual size dimorphism in the water spider, ''Argyroneta aquatica'' |journal=[[Evolutionary Ecology Research]] |volume=5 |issue=1 |pages=105–117 |url=http://www.zoology.unibe.ch/behav/pdf_files/Schuetz_EvolEcolRes03.pdf |format=[[Portable Document Format|PDF]] |lastauthoramp=yes}}</ref> and on the tops of the highest mountains.
+
+===Haptopoda===
+{{Main|Haptopoda}}
+Haptopoda is an extinct order known exclusively from a few specimens from the Upper [[Carboniferous]] of the [[United Kingdom]]. It is monotypic, i.e. has only one species, ''[[Plesiosiro madeleyi]]''. Relationships with other arachnids are obscure, but closest relatives may be the [[Amblypygi]], [[Thelyphonida]] and [[Schizomida]] of the tetrapulmonate clade<ref>{{cite journal |first=J.A. |last=Dunlop |date=1999 |title=A redescription of the Carboniferous arachnid ''Plesiosiro madeleyi'' Pocock, 1911 (Arachnida: Haptopoda) |journal=[[Transactions of the Royal Society of Edinburgh]]: Earth Sciences |volume=90 |pages=29–47 |url=http://www.museunacional.ufrj.br/mndi/Aracnologia/pdfliteratura/Dunlop%20(1999)%20Plesiosiro%20madeleyi.pdf |format=[[Portable Document Format|PDF]] |doi=10.1017/S0263593300002492}}</ref> – a result which has been reflected in [[cladistic]] analyses.<ref name=Garw>{{cite journal |title=Three-dimensional reconstruction and the phylogeny of extinct chelicerate orders |first=Russell J. |last=Garwood |first2=Jason A. |last2=Dunlop |date=2014 |journal=PeerJ |volume=2 |pages=e641 |url=https://peerj.com/articles/641/ |accessdate=2015-06-15 |doi=10.7717/peerj.641}}</ref>
+
+===Opiliones===
+[[File:Harvestman opilio canestrinii male 6.jpg|thumb|Male ''[[Opilio canestrinii]]'' cleaning its legs]]
+{{Main|Opiliones}}
+Opiliones (formerly Phalangida, and better known as harvestmen or daddy longlegs) are arachnids that are harmless to people and are known for their exceptionally long walking legs, compared to their body size. {{As of|December 2011}}, over 6,500 species of harvestmen have been discovered worldwide.<ref>{{cite book |first=Adriano B. |last=Kury |date=2011 |chapter=Order Opiliones Sundevall, 1833 |editor=Z.-Q. Zhang |title=Animal biodiversity: an outline of higher-level classification and survey of taxonomic richness |journal=[[Zootaxa]] |volume=4138 |pages=112–114 |chapter-url=http://www.mapress.com/zootaxa/2011/f/zt03148p114.pdf |chapter-format=[[Portable Document Format|PDF]]}}</ref> The order Opiliones is divided into five suborders: [[Cyphophthalmi]], [[Eupnoi]], [[Dyspnoi]], [[Laniatores]], and the recently described [[Tetrophthalmi]].<ref name=Tetro>{{cite journal |title=A Paleozoic Stem Group to Mite Harvestmen Revealed through Integration of Phylogenetics and Development |first=Russell J. |last=Garwood |first2=Prashant P. |last2=Sharma |first3=Jason A. |last3=Dunlop |first4=Gonzalo |last4=Giribet |date=2014 |journal=Current Biology |volume=24 |issue=9 |pages=1017–1023 |url=http://www.cell.com/current-biology/abstract/S0960-9822%2814%2900331-5 |accessdate=2014-04-17 |doi=10.1016/j.cub.2014.03.039 |lastauthoramp=yes}}</ref> Well-preserved fossils have been found in the 410-million year old [[Rhynie chert]]s of Scotland and 305-million-year-old rocks from France; they look surprisingly modern, suggesting that the basic structure of the harvestmen has not changed much since then.<ref name=pinto>{{cite book |last1=Machado |first1=Glauco |last2=Pinto-da-Rocha |first2=Ricardo |last3=Giribet |first3=Gonzalo |chapter=What are harvestmen? |pages=1–13 |editor1-last=Pinto-da-Rocha |editor1-first=Ricardo |editor2-last=Machado |editor2-first=Glauco |editor3-last=Giribet |editor3-first=Gonzalo |date=2007 |title=Harvestmen: the Biology of Opiliones |publisher=[[Harvard University Press]] |isbn=0-674-02343-9 |lastauthoramp=yes}}</ref><ref name=Mont>{{cite journal |title=Anatomically modern Carboniferous harvestmen demonstrate early cladogenesis and stasis in Opiliones |first=Russell J. |last=Garwood |first2=Jason A. |last2=Dunlop |first3=Gonzalo |last3=Giribet |first4=Mark D. |last4=Sutton |date=2011 |journal=Nature Communications |volume=2 |pages=444 |url=http://www.academia.edu/853837/ |accessdate=2015-06-08 |doi=10.1038/ncomms1458 |lastauthoramp=yes}}</ref>
+
+The difference between harvestmen and spiders is that in harvestmen the two main body sections (the [[abdomen]] or [[opisthosoma]] with ten segments and the [[cephalothorax]] or [[prosoma]]) are nearly joined, so that they appear to be one [[oval]] structure. In more advanced species, the first five abdominal segments are often fused into a dorsal shield called the [[scute|scutum]], which is normally fused with the [[carapace]]. Sometimes this shield is only present in males. The two hindmost abdominal segments may be reduced or separated in the middle on the surface to form two plates lying next to each other. The second pair of legs is longer than the others and works as antennae. They have a single pair of eyes in the middle of their heads, oriented sideways. They have a pair of prosomatic [[scent gland]]s that secrete a peculiar smelling fluid when disturbed. Harvestmen do not have [[spinneret (spider)|spinneret]]s and do not possess poison glands, posing absolutely no danger to humans. They breathe through [[invertebrate trachea|tracheae]]. Between the base of the fourth pair of legs and the abdomen is a pair of [[spiracle]]s, one opening on each side. In more active species, spiracles are also found upon the [[tibia]] of the legs. They have a [[gonopore]] on the ventral [[cephalothorax]], and [[animal sexual behavior|copulation]] is direct, as the male has a [[penis]] (while the female has an [[ovipositor]]).
+
+Typical body length does not exceed {{convert|7|mm}} even in the largest species. However, leg span is much larger and can exceed {{convert|160|mm|abbr=on}}. Most species live for a year. Many species are [[omnivorous]], eating primarily small insects and all kinds of plant material and [[fungus|fungi]]; some are [[scavenger]]s of the decays of any dead animal, bird dung and other [[fecal]] material. They are mostly [[nocturnal animal|nocturnal]] and coloured in hues of brown, although there are a number of [[diurnal animal|diurnal]] species that have vivid patterns in yellow, green and black with varied reddish and blackish mottling and reticulation.
+
+===Palpigradi===
+[[File:Live Eukoenenia spelaea in its cave habitat.png|thumb|''Eukoenenia spelaea'' in its cave habitat]]
+{{Main|Palpigradi}}
+Palpigradi, commonly known as "microwhip scorpions", are tiny cousins of the [[uropygid]], or [[whip scorpion]], no more than 3&nbsp;mm in length. They have a thin, pale, segmented carapace that terminates in a whip-like flagellum, made up of 15 segments. The carapace is divided into two plates between the third and fourth leg set. They have no eyes. Some species have three pairs of [[book lung]]s, while others have no respiratory organs at all.<ref>{{cite journal |title=Adaptations of respiratory systems of spiders |first=Herbert W. |last=Levi |journal=[[Evolution (journal)|Evolution]] |volume=21 |issue=3 |date=1967 |pages=571–583 |jstor=2406617 |doi=10.2307/2406617}}</ref> Approximately 80 species of Palpigradi have been described worldwide, in the families [[Eukoeneniidae]] and [[Prokoeneniidae]], with a total of seven genera.
+
+They are believed to be predators like their larger relatives, feeding on minuscule insects in their habitat. Their mating habits are unknown, except that they lay only a few relatively large eggs at a time. Microwhip scorpions need a damp environment to survive, and they always hide from light, so they are commonly found in the moist earth under buried stones and rocks. They can be found on every continent, except in Arctic and Antarctic regions.
+
+===Phalangiotarbi===
+[[File:Goniotarbus angulatus holotype fossil dorsal ventral.jpg|thumb|Fossil of ''Goniotarbus angulatus'' – dorsal (left) and ventral (right) surfaces]]
+{{Main|Phalangiotarbi}}
+Phalangiotarbi is an extinct arachnid order known exclusively from the [[Palaeozoic]] (Devonian to Permian) of Europe and North America. The affinities of phalangiotarbids are obscure, with most authors favouring affinities with Opiliones (harvestmen)<ref name=Garw /> and/or Acari (mites and ticks). Phalangiotarbi has been recently proposed to be sister group to (Palpigradi+Tetrapulmonata): the taxon Megoperculata sensu Shultz (1990).<ref>{{cite journal |last1=Pollitt |first1=Jessica R. |last2=Braddy |first2=Simon J. |last3=Dunlop |first3=Jason A. |date=2004 |title=The phylogenetic position of the extinct arachnid order Phalangiotarbida Haase, 1890, with reference to the fauna from the Writhlington Geological Nature Reserve (Somerset, UK) |journal=[[Transactions of the Royal Society of Edinburgh]]: Earth Sciences |volume=94 |issue=3 |pages=243–259 |doi=10.1017/S0263593300000651 |lastauthoramp=yes}}</ref>
+
+===Pseudoscorpions===
+[[File:Ar 1.jpg|thumb|A pseudoscorpion on a printed page]]
+{{Main|Pseudoscorpion}}
+Pseudoscorpions are small arthropods with a flat, pear-shaped body and pincers that resemble those of [[scorpion]]s. They range from {{convert|2|to|8|mm|abbr=on}} long.<ref name=Penn>{{cite web |url=http://www.ento.psu.edu/extension/factsheets/pseudoscorpion.htm |title=Entomological Notes: Pseudoscorpion Fact Sheet |publisher=[[Pennsylvania State University]], Department of Entomology |first=Steve |last=Jacobs |date=August 2006 }}</ref> The opisthosoma is made up of twelve segments, each guarded by plate-like [[tergite]]s above and [[sternite]]s below. The abdomen is short and rounded at the rear, rather than extending into a segmented tail and stinger like true scorpions. The colour of the body can be yellowish-tan to dark-brown, with the paired claws often a contrasting colour. They may have two, four or no eyes. They have two very long [[pedipalp]]s with palpal [[Chela (organ)|chelae]] (pincers) that strongly resemble the pincers found on a scorpion. The pedipalps generally consist of an immobile "hand" and "finger", with a separate movable finger controlled by an [[adduction|adductor]] muscle. A [[venom (poison)|venom]] gland and duct are usually located in the mobile finger; the poison is used to capture and immobilise the pseudoscorpion's prey. During digestion, pseudoscorpions pour a mildly corrosive fluid over the prey, then ingest the liquefied remains. Pseudoscorpions spin silk from a gland in their jaws to make disk-shaped [[Cocoon (silk)|cocoons]] for mating, molting, or waiting out cold weather. Another trait they share with their closest relatives, the [[spider]]s, is breathing through [[spiracle]]s. Most spiders have one pair of spiracles, and one of [[book lungs]], but pseudoscorpions do not have book lungs.
+
+There are more than 2,000 species of pseudoscorpions recorded. They range worldwide, even in temperate to cold regions, but have their most dense and diverse populations in the [[tropics]] and [[subtropics]]. The fossil record of pseudoscorpions dates back over 380 million years, to the [[Devonian]] period, near the time when the first land-animal fossils appear.
+
+During the elaborate [[mating dance]], the male of some pseudoscorpion species pulls a female over a [[spermatophore]] previously laid upon a surface.<ref>{{cite journal |first=Peter |last=Weygoldt |url=http://www.sciencemag.org/cgi/content/abstract/153/3744/1647 |title=Spermatophore Web Formation in a Pseudoscorpion |journal=[[Science (journal)|Science]] |volume=153 |issue=3744 |pages=1647–1649 |date=1966 |doi=10.1126/science.153.3744.1647 |pmid=17802636}}</ref> In other species, the male also pushes the sperm into the female genitals using the forelegs.<ref>{{cite journal |url=http://www.americanarachnology.org/JoA_free/JoA_v21_n2/JoA_v21_p156.pdf |title=Mating Biology Resolves Trichotomy for Cheliferoid Pseudoscorpions (Pseudoscorpionida, Cheliferoidea) |first=Heather C. |last=Proctor |journal=[[American Arachnological Society#Journal|Journal of Arachnology]] |volume=21 |issue=2 |date=1993 |pages=156–158 |publisher=[[American Arachnological Society]]}}</ref> The female carries the fertilised eggs in a brood pouch attached to her [[abdomen]], and the young ride on the mother for a short time after they hatch.<ref name=Penn /> Up to two dozen young are hatched in a single [[offspring|brood]]; there may be more than one brood per year. The young go through three [[ecdysis|molts]] over the course of several years before reaching adulthood. Adult pseudoscorpions live 2 to 3 years. They are active in the warm months of the year, overwintering in silken cocoons when the weather grows cold.
+
+Pseudoscorpions are generally beneficial to humans since they prey on [[moth|clothes moth]] larvae, [[Dermestidae|carpet beetle]] larvae, [[Psocoptera|booklice]], [[ant]]s, [[mite]]s, and small [[Diptera|flies]]. They are small and inoffensive, and are rarely seen due to their size. They usually enter the home by "riding along" with larger insects (known as [[phoresy]]), or are brought in with firewood. They are often observed in bathrooms or laundry rooms, since they seek humidity. They may sometimes be found feeding on mites under the wing covers of certain beetles.
+
+===Ricinulei===
+[[File:Cryptocellus goodnighti.jpg|thumb|''Cryptocellus goodnighti'']]
+{{Main|Ricinulei}}
+Ricinulei (hooded tickspiders) are 5–10&nbsp;mm long. Their most notable feature is a "hood" that can be raised and lowered over the head; when lowered, it covers the mouth and the chelicerae. Ricinulei have no eyes. The pedipalps end in pincers that are small relative to their bodies, when compared to those of the related orders of [[scorpion]]s and [[pseudoscorpion]]s. The heavy-bodied abdomen forms a narrow pedicel, or waist, where it attaches to the [[prosoma]]. In males, the third pair of legs are modified to form copulatory organs. [[Malpighian tubule]]s and a pair of [[coxal glands]] make up the excretory system. They have no lungs, as gas exchange takes place through the trachea.
+
+Ricinulei are predators, feeding on other small arthropods. Little is known about their mating habits; the males have been observed using their modified third leg to transfer a [[spermatophore]] to the female. The eggs are carried under the mother's hood, until the young hatch into six-legged "larva", which later [[ecdysis|molt]] into their adult forms. Ricinulei require moisture to survive. Approximately 57 species of ricinuleids have been described worldwide, all in a single family that contains three genera.
+
+===Schizomida===
+[[File:Hubbardia pentapeltis female.jpg|thumb|''Hubbardia pentapeltis'' female]]
+{{Main|Schizomida}}
+Schizomida is an [[Order (biology)|order]] of arachnids that tend to live in the top layer of soils. Schizomids present the prosoma covered by a large [[protopeltidium]] and smaller, paired, [[mesopeltidium|mesopeltidia]] and [[metapeltidium|metapeltidia]]. There are no eyes. The [[opisthosoma]] is a smooth oval of 12 recognisable somites. The first is reduced and forms the [[pedicel (spider)|pedicel]]. The last three are much constricted, forming the [[pygidium]]. The last somite bears the flagellum, which in this order is short and consists of not more than four segments.
+
+The name means "split or cleaved middle", referring to the way the [[cephalothorax]] is divided into two separate plates. Like the [[Thelyphonida]], [[Amblypygi]], and [[Solifugae]], the schizomids use only six legs for walking, having modified their first two legs to serve as sensory organs. They also have large well-developed pedipalps (pincers) just behind the sensory legs.
+
+===Scorpiones===
+[[File:SCORPIO MAURUS PALMATUS.jpg|thumb|''[[Scorpio maurus|Scorpio maurus palmatus]]'']]
+{{Main|Scorpion}}
+Scorpions (formally the order Scorpiones) are characterised by a metasoma (tail) comprising six segments, the last containing the scorpion's [[anus]] and bearing the [[telson]] (the [[sting (biology)|sting]]). The telson, in turn, consists of the [[vesicle (biology)|vesicle]], which holds a pair of [[venom]] glands and the hypodermic aculeus, the venom-injecting barb. The abdomen's front half, the mesosoma, is made up of six segments. The first segment contains the [[sex organ|sexual organs]] as well as a pair of vestigial and modified appendages forming a structure called the genital operculum. The second segment bears a pair of featherlike sensory organs known as the "pectines"; the final four segments each contain a pair of [[book lung]]s. The mesosoma is [[armor]]ed with [[chitin]]ous plates, known as [[tergite]]s on the upper surface and [[sternite]]s on the lower surface.
+
+The cuticle of scorpions is covered with hairs in some places that act like balance organs. An outer layer that makes them fluorescent green under [[ultraviolet light]] is called the hyaline layer. Newly molted scorpions do not glow until after their cuticle has hardened. The fluorescent hyaline layer can be intact in fossil rocks that are hundreds of millions of years old.
+
+Scorpions are opportunistic predators of small arthropods and insects. They use their chelae (pincers) to catch the prey initially. Depending on the toxicity of their venom and size of their claws, they will then either crush the prey or inject it with [[neurotoxic]] venom. The neurotoxins consist of a variety of small [[protein]]s as well as sodium and potassium [[cation]]s, which serve to interfere with neurotransmission in the victim. Scorpions use their venom to kill or paralyze their prey so that it can be eaten; in general, it is fast acting, allowing for effective prey capture. Scorpion venoms are optimised for action on other [[arthropod]]s and therefore most scorpions are relatively harmless to humans; stings produce only local effects (such as pain, numbness or swelling). A few scorpion species, however, mostly in the family [[Buthidae]], can be dangerous to humans. The scorpion that is responsible for the most human deaths is ''[[Fattail scorpion|Androctonus australis]]'', or fat-tailed scorpion of [[North Africa]]. The toxicity of ''A.&nbsp;australis''<nowiki>'</nowiki>s venom is roughly half that of the [[deathstalker]] (''Leiurus quinquestriatus''), but since ''A.&nbsp;australis'' injects quite a bit more venom into its prey, it is the most deadly to humans. Human deaths normally occur in the young, elderly, or infirm; scorpions are generally unable to deliver enough venom to kill healthy adults. Some people, however, may be allergic to the venom of some species, in which case the scorpion's sting can more likely kill. A primary symptom of a scorpion sting is numbing at the injection site, sometimes lasting for several days. It has been found that scorpions have two types of venom: a translucent, weaker venom designed to stun only, and an opaque, more potent venom designed to kill heavier threats.<ref>{{cite web |url=http://www.emedicine.com/med/topic2081.htm |title=Scorpion sting |first=David |last=Cheng |date=June 23, 2005 |publisher=[[eMedicine]]}}</ref><ref>{{cite journal |url=http://www.americanarachnology.org/JoA_free/JoA_v21_n1/JoA_v21_p60.pdf |title=Sting use in two species of ''Parabuthus'' scorpions (Buthidae) |date=1993 |journal=[[American Arachnological Society#Journal|Journal of Arachnology]] |volume=21 |pages=60–63 |first=Jan Ove |last=Rein}}</ref>
+
+Unlike the majority of Arachnida species, scorpions are [[viviparous]]. The young are born one by one, and the brood is carried about on its mother's back until the young have undergone at least one [[ecdysis|moult]].<ref>{{cite conference |editor1-last=Scharff |editor1-first=N. |editor2-last=Toft |editor2-first=Søren |editor3-last=Henriksen |editor3-first=Per G. |booktitle=European arachnology 2000: 19th European Colloquium of Arachnology, Aarhus, Denmark, 17–22 July 2000 |publisher=Aarhus University Press |location=Aarhus |isbn=87-7934-001-6 |author=W. R. Lourenco |date=2000 |title=Reproduction in scorpions, with special reference to parthenogenesis |pages=71–85 |url=http://www.european-arachnology.org/proceedings/19th/Lourenco.PDF |format=[[Portable Document Format|PDF]] |lastauthoramp=yes}}</ref> The young generally resemble their parents, requiring between five and seven moults to reach maturity. Scorpions have quite variable lifespans and the lifespan of most species is not known. The age range appears to be approximately 4–25 years (25 years being the maximum reported life span in the [[giant desert hairy scorpion]], ''Hadrurus arizonensis''). They are nocturnal and [[fossorial]], finding shelter during the day in the relative cool of underground holes or undersides of rocks and coming out at night to hunt and feed. Scorpions prefer to live in areas where the temperature is {{convert|20|-|37|C|F}}, but may survive in the temperature range of {{convert|14|-|45|C|F}}.<ref>{{cite journal |first=Neil F. |last=Hadley |date=1970 |title=Water relations of the desert scorpion ''Hadrurus arizonensis'' |journal=[[Journal of Experimental Biology]] |volume=53 |issue=3 |pages=547–558 |pmid=5487163 |url=http://jeb.biologists.org/cgi/reprint/53/3/547.pdf |format=[[Portable Document Format|PDF]]}}</ref><ref>{{cite journal |last1=Hoshino |first1=K. |last2=Moura |first2=A.T.V. |last3=de Paula |first3=H.M.G. |date=2006 |title=Selection of environmental temperature by the yellow scorpion ''Tityus serrulatus'' Lutz & Mello, 1922 (Scorpiones, Buthidae) |journal=[[Journal of Venomous Animals and Toxins including Tropical Diseases]] |url=http://www.scielo.br/pdf/jvatitd/v12n1/28301.pdf |volume=12 |issue=1 |pages=59–66 |doi=10.1590/S1678-91992006000100005 |lastauthoramp=yes}}</ref>
+
+Scorpions have been found in many fossil records, including coal deposits from the [[Carboniferous Period]] and in marine [[Silurian]] deposits. They are thought to have existed in some form since about {{Ma|450|425}}. They are believed to have an oceanic origin, with gills and a claw-like appendage that enabled them to hold onto rocky shores or seaweed.
+
+===Solifugae===
+[[File:Galeodes.jpg|thumb|''[[Galeodes|Galeodes sp.]]'']]
+{{Main|Solifugae}}
+Solifugae is a group of 900 species of arachnids, commonly known as camel spiders, wind scorpions, and sun spiders. The name derives from [[Latin]], and means ''those that flee from the sun''. Most Solifugae live in tropical or semitropical regions where they inhabit warm and arid habitats, but some species have been known to live in grassland or forest habitats. The most distinctive feature of Solifugae is their large [[chelicerae]]. Each of the two chelicerae are composed of two articles forming a powerful pincer; each article bears a variable number of teeth. Males in all families but [[Eremobates|Eremobatidae]] possess a [[flagellum]] on the basal article of the chelicera. Solifugae also have long [[pedipalp]]s, which function as sense organs similar to insects' [[antenna (biology)|antennae]] and give the appearance of the two extra legs. Pedipalps terminate in reversible adhesive organs.
+
+Solifugae are [[carnivore|carnivorous]] or [[omnivore|omnivorous]], with most species feeding on [[termite]]s, [[darkling beetle]]s, and other small [[arthropod]]s; however, solifugae have been videotaped consuming larger prey, such as lizards. Prey is located with the pedipalps and killed and cut into pieces by the chelicerae. The prey is then liquefied and the liquid ingested through the pharynx. Reproduction can involve direct or indirect [[sperm]] transfer; when indirect, the male emits a [[spermatophore]] on the ground and then inserts it with his chelicerae in the female's genital pore.
+
+===Thelyphonida===
+[[File:Whipscorpion.jpg|thumb|A whip scorpion]]
+{{Main|Thelyphonida}}
+The Thelyphonida (formerly Uropygi), commonly known as vinegarroons or whip scorpions, range from 25 to 85&nbsp;mm in length; the largest species, of the genus ''[[Mastigoproctus]]'', reaches {{convert|85|mm|abbr=on}}. Like the related orders [[Schizomid]]a, [[Amblypygid|Amblypygi]], and [[Solifugae]], the vinegarroons use only six legs for walking, having modified their first two legs to serve as antennae-like sensory organs. Many species also have very large [[scorpion]]-like pedipalps (pincers). They have one pair of eyes at the front of the [[cephalothorax]] and three on each side of the head. Whip scorpions have no poison glands, but they do have glands near the rear of their abdomen that can spray a combination of [[acetic acid]] and [[octanoic acid]] when they are bothered. Other species spray [[formic acid]] or [[chlorine]]. As of 2006, over 100 species have been described worldwide.
+
+Whip scorpions are [[carnivore|carnivorous]], nocturnal hunters feeding mostly on insects but sometimes on worms and slugs. The prey is crushed between special teeth on the inside of the trochanters (the second segment of the leg) of the front legs. They are valuable in controlling cockroach and cricket populations.
+
+Males secrete a sperm sac, which is transferred to the female. Up to 35 eggs are laid in a burrow, within a [[mucous membrane]] that preserves moisture. Mothers stay with the eggs and do not eat. The white young that hatch from the eggs climb onto their mother's back and attach themselves there with special suckers. After the first molt, they look like miniature whip scorpions, and leave the burrow; the mother dies soon after. The young grow slowly, going through three molts in about three years before reaching adulthood.
+
+Vinegarroons are found in tropical and [[subtropics|subtropical]] areas worldwide, usually in underground burrows that they dig with their pedipalps. They may also burrow under logs, rotting wood, rocks, and other natural debris. They enjoy humid, dark places and avoid the light.
+
+===Trigonotarbida===
+[[File:Kreischeria Vienna.jpg|thumb|Fossil of ''Kreischeria'' species]]
+{{Main|Trigonotarbida}}
+The [[Order (biology)|order]] Trigonotarbida is an extinct group of arachnids whose [[fossil]] record extends from the [[Silurian]] to the Lower [[Permian]].<ref name=FExp>{{cite journal |title=Fossils Explained: Trigonotarbids |first=Russell J. |last=Garwood |first2=Jason A. |last2=Dunlop |date=2010 |journal=Geology Today |volume=26 |issue=1 |pages=34–37 |url=https://www.academia.edu/256387/ |accessdate=2015-06-12 |doi=10.1111/j.1365-2451.2010.00742.x |lastauthoramp=yes}}</ref> They are known from several localities in [[North Asia]], [[North America]] and [[Argentina]]. They superficially resemble [[spider]]s, to which they were clearly related - most [[cladistic]] analyses recover them in a clade with Thelyphonida, Schizomida, Amblypygi and Araneae.<ref name=Garw />
+
+These early arachnids seem to have been adapted to stalking prey on the ground.<ref>{{cite journal |last1=Garwood |first1=Russell J. |last2=Dunlop |first2=Jason A. |date=July 2014 |title=The walking dead: Blender as a tool for paleontologists with a case study on extinct arachnids |url=http://www.academia.edu/7625529/ |journal=[[Journal of Paleontology]] |publisher=[[Paleontological Society]] |volume=88 |issue=4 |pages=735–746 |doi=10.1666/13-088 |issn=0022-3360 |accessdate=2015-07-21 |lastauthoramp=yes}}</ref> They have been found within the very structure of ground-dwelling plants, possibly where they hid to await their prey. Trigonotarbids are currently among the oldest known land arthropods. They lack [[silk glands]] on the [[opisthosoma]] and cheliceral [[poison glands]], and most likely represented independent offshoots of the Arachnida.
+
+===Uraraneida===
+{{Main|Uraraneida}}
+Uraraneida is a small extinct order of arachnids consisting of two fossil species found in the [[Devonian]] and the [[Permian]]. They were at one time identified as spiders, and are clearly closely related to them. However, they differ in a several respects. Silk is produced from spigots borne along the rear edges of plates on the underside of the abdomen, not on appendage-like spinnerets, as in spiders. They also have a long, jointed "tail" or flagellum at the end of the abdomen, after the [[anus]], a feature lacking in spiders but present in some other arachnids, such as [[Thelyphonida|whip scorpions]].<ref name=SeldSheaSutt08>{{Cite journal |last1=Selden |first1=P.A. |last2=Shear |first2=W.A. |last3=Sutton |first3=M.D. |date=2008 |title=Fossil evidence for the origin of spider spinnerets, and a proposed arachnid order |journal=Proceedings of the National Academy of Sciences |volume=105 |issue=52 |pages=20781–20785 |doi=10.1073/pnas.0809174106 |lastauthoramp=yes }}</ref>
+
+==See also==
+{{Portal|Arthropods}}
+*[[Arachnophobia]]
+*[[Endangered spiders]]
+*[[Glossary of arachnology terms]]
+*[[List of extinct arachnids]]
+
+==References==
+{{reflist|30em|refs=
+<ref name=CampRotaEdgeMarc11>{{Cite journal |last1=Campbell |first1=Lahcen I. |last2=Rota-Stabelli |first2=Omar |last3=Edgecombe |first3=Gregory D. |last4=Marchioro |first4=Trevor |last5=Longhorn |first5=Stuart J. |last6=Telford |first6=Maximilian J. |last7=Philippe |first7=Hervé |last8=Rebecchi |first8=Lorena |last9=Peterson |first9=Kevin J. |last10=Pisani |first10=Davide |date=2011 |title=MicroRNAs and phylogenomics resolve the relationships of Tardigrada and suggest that velvet worms are the sister group of Arthropoda |journal=Proceedings of the National Academy of Sciences |volume=108 |issue=38 |pages=15920–15924 |url=http://www.pnas.org/content/108/38/15920 |accessdate=2016-03-25 |doi=10.1073/pnas.1105499108 |pmid=21896763 |lastauthoramp=yes }}</ref>
+
+<ref name=GiriEdgeWhee01>{{Cite journal |last1=Giribet |first1=Gonzalo |last2=Edgecombe |first2=Gregory D. |last3=Wheeler |first3=Ward C. |date=2001 |title=Arthropod phylogeny based on eight molecular loci and morphology |journal=Nature |volume=413 |issue=6852 |pages=157–161 |url=http://www.nature.com/nature/journal/v413/n6852/full/413157a0.html |accessdate=2016-03-25 |doi=10.1038/35093097 |lastauthoramp=yes }}</ref>
+
+<ref name=LeggSuttEdge13>{{Cite journal |last1=Legg |first1=David A. |last2=Sutton |first2=Mark D. |last3=Edgecombe |first3=Gregory D. |date=2013 |title=Arthropod fossil data increase congruence of morphological and molecular phylogenies |journal=Nature Communications |volume=4 |page=2485 |url=http://www.nature.com/ncomms/2013/130930/ncomms3485/full/ncomms3485.html |accessdate=2016-03-25 |doi=10.1038/ncomms3485 |lastauthoramp=yes }}</ref>
+
+<ref name=MeusReumSimoRoed10>{{Cite journal |last1=Meusemann |first1=Karen |last2=Reumont |first2=Björn M. von |last3=Simon |first3=Sabrina |last4=Roeding |first4=Falko |last5=Strauss |first5=Sascha |last6=Kück |first6=Patrick |last7=Ebersberger |first7=Ingo |last8=Walzl |first8=Manfred |last9=Pass |first9=Günther |last10=Breuers |first10=Sebastian |last11=Achter |first11=Viktor |last12=Haeseler |first12=Arndt von |last13=Burmester |first13=Thorsten |last14=Hadrys |first14=Heike |last15=Wägele |first15=J. Wolfgang |last16=Misof |first16=Bernhard |date=2010 |title=A Phylogenomic Approach to Resolve the Arthropod Tree of Life |journal=Molecular Biology and Evolution |volume=27 |issue=11 |pages=2451–2464 |url=http://mbe.oxfordjournals.org/content/27/11/2451 |accessdate=2016-03-25 |doi=10.1093/molbev/msq130 |pmid=20534705 |lastauthoramp=yes }}</ref>
+
+<ref name=RegiShulZwicHuss10>{{Cite journal |last1=Regier |first1=Jerome C. |last2=Shultz |first2=Jeffrey W. |last3=Zwick |first3=Andreas |last4=Hussey |first4=April |last5=Ball |first5=Bernard |last6=Wetzer |first6=Regina |last7=Martin |first7=Joel W. |last8=Cunningham |first8=Clifford W. |date=2010 |title=Arthropod relationships revealed by phylogenomic analysis of nuclear protein-coding sequences |journal=Nature |volume=463 |issue=7284 |pages=1079–1083 |url=http://www.nature.com/nature/journal/v463/n7284/full/nature08742.html |accessdate=2016-03-20 |doi=10.1038/nature08742 |lastauthoramp=yes }}</ref>
+
+<ref name=RotaCampBrinEdge10>{{Cite journal |last1=Rota-Stabelli |first1=Omar |last2=Campbell |first2=Lahcen |last3=Brinkmann |first3=Henner |last4=Edgecombe |first4=Gregory D. |last5=Longhorn |first5=Stuart J. |last6=Peterson |first6=Kevin J. |last7=Pisani |first7=Davide |last8=Philippe |first8=Hervé |last9=Telford |first9=Maximilian J. |date=2010 |title=A congruent solution to arthropod phylogeny: phylogenomics, microRNAs and morphology support monophyletic Mandibulata |journal=Proceedings of the Royal Society of London B: Biological Sciences |page=20100590 |url=http://rspb.royalsocietypublishing.org/content/early/2010/08/05/rspb.2010.0590 |accessdate=2016-03-25 |doi=10.1098/rspb.2010.0590 |pmid=20702459 |lastauthoramp=yes }}</ref>
+
+<ref name=SharKaluPereGonz14>{{Cite journal |last1=Sharma |first1=Prashant P. |last2=Kaluziak |first2=Stefan T. |last3=Pérez-Porro |first3=Alicia R. |last4=González |first4=Vanessa L. |last5=Hormiga |first5=Gustavo |last6=Wheeler |first6=Ward C. |last7=Giribet |first7=Gonzalo |date=2014-01-11 |title=Phylogenomic Interrogation of Arachnida Reveals Systemic Conflicts in Phylogenetic Signal |journal=Molecular Biology and Evolution |volume=31 |issue=11 |pages=2963–2984 |url=http://mbe.oxfordjournals.org/content/31/11/2963 |accessdate=2016-03-24 |doi=10.1093/molbev/msu235 |pmid=25107551 |lastauthoramp=yes }}</ref>
+}}
+
+== External links ==
+{{wikispecies |Arachnida}}
+{{commons category|Arachnida}}
+* [http://www.reptileexpert.org/arachnids/ A guide to arachnids] with care sheets.
+
+{{Arthropods}}
+{{Arachnida}}
+
+[[Category:Arachnids|Arachnids]]
+[[Category:Llandovery first appearances]]
+[[Category:Extant Silurian first appearances]]

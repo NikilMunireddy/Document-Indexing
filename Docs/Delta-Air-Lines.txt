@@ -1,0 +1,717 @@
+Delta Air Lines
+
+{{Redirect|Delta Air|the defunct German airline |DBA (airline)}}
+{{Use mdy dates|date=March 2012}}
+{{Infobox airline
+| airline             = Delta Air Lines, Inc.
+| image             = Delta logo.svg
+| image_size     = 250
+| IATA                = DL
+| ICAO               = DAL
+| callsign           = DELTA
+| founded          = {{Start date and years ago|1924|5|30}}<br>(as [[Huff Daland Dusters]])<br>[[Macon, Georgia]], US<ref name=founded>{{cite web |url=http://news.delta.com/index.php?s=18&cat=39 |title=History |date=October 2010 |work=news.delta.com |publisher=Delta Air Lines Inc. |accessdate=January 11, 2011 |quote=1924 The Huff Daland Dusters crop-dusting operation, which formed the roots for Delta, founded in Macon, Ga. Passenger Airline founded 1929, Monroe, La.}}</ref>
+| commenced    = {{Start date and years ago|1929|06|17}}<ref name=NAAH>{{cite book|last1=Norwood |first1=Tom |last2=Wegg |first2=John |title=North American Airlines Handbook |publisher=Airways International |location=Sandpoint, Idaho |year=2002 |edition=3rd |isbn=0-9653993-8-9 |page=40}}</ref>
+| ceased           =
+| aoc                 = DALA026A<ref name=faa_aoc>{{cite web |url=http://av-info.faa.gov/detail.asp?DSGN_CODE=DALA&OPER_FAR=121&OPER_NAME=DELTA+AIR+LINES+INC |title=Airline Certificate Information – Detail View |date=September 30, 1988 |work=av-info.faa.gov |publisher=Federal Aviation Administration |quote=Certificate Number DALA026A}}</ref>
+| bases            =
+| hubs              =
+<!-- DO NOT LIST MEMPHIS! THE AIRLINE DEHUBBED IT IN SEPTEMBER 2013 AND THE AIRLINE NO LONGER LISTS IT AS THEIR HUB! -->
+* [[Amsterdam Airport Schiphol]]<ref name="HubAMS">{{cite web|url=http://news.delta.com/amsterdam-schiphol-airport|title=Delta Air Lines Hub Station Amsterdam|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Charles de Gaulle Airport]] <small>(Paris)</small><ref name="HubCDG">{{cite web|url=http://news.delta.com/paris-charles-de-gaulle-airport|title=Delta Air Lines Hub Station Paris|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Cincinnati/Northern Kentucky International Airport]]<ref name="HubCVG">{{cite web|url=http://news.delta.com/cincinnatinorthern-kentucky-international-airport|title=Delta Air Lines Hub Station Cincinnati|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Detroit Metropolitan Airport]]<ref name="HubDTW">{{cite web|url=http://news.delta.com/detroit-metropolitan-wayne-county-airport|title=Delta Air Lines Hub Station Detroit|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Hartsfield–Jackson Atlanta International Airport]]<ref name="HubATL">{{cite web|url=http://news.delta.com/hartsfield-jackson-atlanta-international-airport|title=Delta Air Lines Hub Station Atlanta|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* {{nowrap|[[John F. Kennedy International Airport]] <small>(New York City)</small><ref name="HubNYC">{{cite web|url=http://news.delta.com/new-york-city-john-f-kennedy-international-airport-and-laguardia-airport|title=Delta Air Lines Hub Station New York City|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[LaGuardia Airport]] <small>(New York City)</small>}}<ref name="HubNYC"/>
+* [[Logan International Airport]] <small>(Boston)</small><ref name="HubBOS">{{cite web|url=http://news.delta.com/boston-logan-international-airport-0|title=Delta Air Lines Hub Station Boston|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Los Angeles International Airport]]<ref name="HubLAX">{{cite web|url=http://news.delta.com/los-angeles-international-airport|title=Delta Air Lines Hub Station Los Angeles|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Minneapolis–Saint Paul International Airport]]<ref name="HubMSP">{{cite web|url=http://news.delta.com/minneapolis-st-paul-international-airport|title=Delta Air Lines Hub Station Minneapolis|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Narita International Airport]] <small>(Tokyo)</small><ref name="HubNRT">{{cite web|url=http://news.delta.com/tokyo-narita-international-airport|title=Delta Air Lines Hub Station Tokyo|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Salt Lake City International Airport]]<ref name="HubSLC">{{cite web|url=http://news.delta.com/salt-lake-city-international-airport|title=Delta Air Lines Hub Station Salt Lake City|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+* [[Seattle–Tacoma International Airport]]<ref name="HubSEA">{{cite web|url=http://news.delta.com/seattle-tacoma-international-airport-0|title=Delta Air Lines Hub Station Seattle|work=delta.com|date=March 4, 2016|accessdate=April 13, 2016}}</ref>
+| secondary_hubs   =
+| focus_cities     =
+* [[Raleigh-Durham International Airport]]<ref>{{cite web|url=http://www.bizjournals.com/triangle/news/2016/03/02/delta-to-renovate-rdu-sky-club-add-premium-bar.html|title=Delta to renovate RDU Sky Club, add premium bar|date=March 2, 2016|accessdate=March 31, 2016}}</ref>
+| frequent_flyer   = [[SkyMiles]]<ref name=statsfacts />
+| lounge           = Delta Sky Club<ref name=statsfacts />
+| alliance         = [[SkyTeam]]<ref name=statsfacts />
+| subsidiaries     =
+{{Collapsible list
+|framestyle=border:none; padding:0;
+|title=<small>Subsidiary List</small><ref name=10K>{{cite web|url=http://www.sec.gov/Archives/edgar/data/27904/000095012311014364/g24877e10vk.htm|title=2010 Form 10-K, Delta Air Lines, Inc.|publisher=United States Securities and Exchange Commission|accessdate=July 1, 2011}}</ref><ref name=dpj>{{cite web |url=http://www.deltaprivatejets.com/AboutNewsArticle.aspx?nk=14 |title=Delta Renames Business Jet Subsidiary 'Delta Private Jets' |date=September 9, 2010 |work=deltaprivatejets.com |publisher=Delta Private Jets, Inc |archiveurl=http://www.webcitation.org/5vt7gQAyi |archivedate=January 20, 2010 |accessdate=January 20, 2010 |quote=Delta Private Jets, formerly Delta AirElite Business Jets, is a wholly owned subsidiary of Delta Air Lines...}}</ref>
+  |1=Aero Assurance Ltd.
+  |2=Cardinal Insurance Company (Cayman) Ltd.
+  |3=Crown Rooms, Inc.
+  |4=DAL Global Services, LLC
+  |5=DAL Moscow, Inc.
+  |6=Delta Air Lines, Inc. and Pan American World Airways, Inc.—Unterstutzungskasse GMBH
+  |7=Delta Air Lines Dublin Limited
+  |8=Delta Air Lines Private Limited
+  |9=Delta Benefits Management, Inc.
+  |10=Delta Loyalty Management Services, LLC
+  |11=[[Delta Private Jets|Delta Private Jets, Inc.]]
+  |12=[[Endeavor Air]]
+  |13=Epsilon Trading, LLC
+  |14=Kappa Capital Management, LLC
+  |15=MLT Inc.
+  |16=Montana Enterprises, Inc.
+  |17=New Sky, Ltd.
+  |18=Northwest Aerospace Training Corporation
+  |19=Regional Elite Airline Services, LLC
+  |20=Segrave Aviation, Inc.
+  |21=Tomisato Shoji Kabushiki Kaisha
+}}
+| fleet_size       = 809 <!-- per WP:Airports, figure excludes regional jets i.e. Embraer, Canadair --> <small>(mainline only)</small><ref name=fleetsize>{{cite web|url=http://www.delta.com/content/www/en_US/about-delta/corporate-information/aircraft-fleet.html |title=Aircraft Fleet |date=27 February 2016 |work=delta.com |publisher=Delta Air Lines, Inc }}</ref>
+| destinations     = 328<ref>{{cite web|title=Corporate Stats and Facts Delta Hub News|url=http://news.delta.com/corporate-stats-and-facts/|accessdate=7 August 2015}}</ref>
+| company_slogan   = ''Keep Climbing''
+| parent           =
+| headquarters     = [[Atlanta|Atlanta, Georgia]], US
+| key_people       = '''Ed Bastian'''<ref>{{cite web|url=http://www.delta.com/content/www/en_US/about-delta/corporate-information/delta-leadership/ed-bastian.html|website=Delta Airlines|publisher=Delta|accessdate=3 May 2016}}</ref> <small>([[Chairman]] & [[Chief executive officer|CEO]])
+| revenue          = {{nowrap|{{increase}} US$ 40.704 billion <small>(2015)}}
+|operating_income  = {{increase}} US$ 9.520 billion <small>(2015)<ref>[http://ir.delta.com/stock-and-financial/earnings-releases/default.aspx Delta Air Lines, Inc. - Financial Information - Earnings Releases<!-- Bot generated title -->]</ref>
+|net_income        = {{increase}} US$ 926 million <small>(2015)
+|assets            = {{decrease}} US$ 53.134 billion <small>(2015)
+|equity            = {{increase}} US$ 10.850 billion <small>(2015)
+|num_employees     = 80,000 <small>(2015)</small>
+|website           = [https://www.delta.com/ delta.com]
+}}
+
+'''Delta Air Lines, Inc.''' ("'''Delta'''"; {{NYSE|DAL}}) is a major American [[airline]], with its headquarters and largest [[Airline hub|hub]] at [[Hartsfield–Jackson Atlanta International Airport]] in [[Atlanta, Georgia]].<!-- Headquarters is adjacent to the airport (doesn't seem like it's on airport property), but for all practical purposes "at" the airport (relatively speaking regarding its location and for the sake of keeping the sentence simple). --><ref>{{cite web|url=http://av-info.faa.gov/detail.asp?DSGN_CODE=DALA&OPER_FAR=121&OPER_NAME=DELTA+AIR+LINES+INC|title=Federal Aviation Administration – Airline Certificate Information – Detail View|publisher=FAA.gov|accessdate=2012-05-01}}</ref> The airline along with its subsidiaries operate over 5,400 flights daily and serve an extensive domestic and international network that includes 334 destinations in 64 countries on six continents, as of June 2015.<ref name="statsfacts">{{cite web|url=http://news.delta.com/corporate-stats-and-facts/|title=Corporate Stats and Facts|date=October 5, 2015|department=News Hub|website=Delta|accessdate=October 24, 2015}}</ref> Delta is one of the four founding members of the [[SkyTeam]] airline [[airline alliance|alliance]], and operates joint ventures with [[Air France-KLM]], [[Alitalia]], [[Virgin Atlantic]], and [[Virgin Australia]].<ref name="statsfacts" /> Regional service is operated under the brand name [[Delta Connection]].
+
+Delta is the sixth-oldest operating airline by foundation date, and the oldest airline still operating in the United States. The [[History of Delta Air Lines|company's history]] can be traced back to ''Huff Daland Dusters'', founded in 1924 in [[Macon, Georgia]] as a [[Aerial application|crop dusting]] operation. The company moved to [[Monroe, Louisiana]], and was later renamed ''Delta Air Services'', in reference to the nearby [[Mississippi Delta]] region, and commenced passenger services on June 17, 1929. Among predecessors of today's Delta Air Lines, [[Western Airlines]] and [[Northwest Airlines]] began flying passengers in 1926 and 1927, respectively.
+
+In 2013, Delta Air Lines was the [[World's largest airlines|world's largest airline]] in terms of scheduled passengers carried (120.6 million<!--Rounded from 120,636 thousand-->),<ref name="WATS_pax_carried">{{cite web | url=http://www.iata.org/publications/pages/wats-passenger-carried.aspx | title= Scheduled Passengers Carried | work=[[IATA]] World Air Transport Statistics (WATS), 58th edition | accessdate=29 July 2014}}</ref> and the second-largest in terms of both revenue passenger-kilometers flown (277.6 billion<!--Rounded from 277,560 million-->)<ref name="WATS_pax-km">{{cite web | url=http://www.iata.org/publications/Pages/wats-passenger-km.aspx | title= Scheduled Passenger - Kilometres Flown | work=[[IATA]] World Air Transport Statistics (WATS), 58th edition | accessdate=29 July 2014}}</ref> and capacity (4.4 billion [[Available seat miles|ASM]]/week<!-- Source in ASK, but since airline is American: 7097533389km / 1.609 = 4411145673mi-->; March 2013).<ref>{{cite web|title=REVEALED:The World's 50 biggest airlines by capacity|url=http://www.theaviationwriter.com/2013/03/50-biggest-airlines-in-world_24.html|website=The Aviation Writer|accessdate=29 July 2014}}</ref>
+
+==History==
+{{Main|History of Delta Air Lines}}
+[[File:Huff-Daland Duster.jpg|thumb|Restored Huff-Daland Duster]]
+[[File:Delta DC-7.jpg|thumb|Delta [[Douglas DC-7]] circa 1955]]
+[[File:Delta Air Lines Boeing 747-100 Fitzgerald.jpg|thumb|Delta [[Boeing 747-100]] at [[Heathrow Airport|London]] in 1973.]]
+Delta Air Lines was created as Huff Daland Dusters, Incorporated, an aerial crop dusting operation, on May 30, 1924 in Macon, Georgia. Formed with a Huff-Daland Duster, the first true crop duster, the plane was deployed to combat the boll weevil in 1925. Delta Air Corporation owned the plane (now in the [[Southern Museum of Flight]]). The company moved to Monroe, Louisiana, in 1925. [[Collett E. Woolman]], one of the original directors, purchased the company on September 13, 1928, and renamed it '''Delta Air Service'''. It began carrying passengers on June 17, 1929. The single passenger sat in a chair placed in the bin where the pesticide was usually kept.<ref name="NGE">Jamil S. Zainaldin of the Georgia Humanities Council, [http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-1302&hl=y "Delta Air Lines"], ''[[The New Georgia Encyclopedia]]'' (updated May 31, 2007).</ref>
+
+Delta grew through the addition of routes and the acquisition of other airlines. They replaced propeller planes with jets in the 1960s and entered international competition to Europe in the 1970s and across the Pacific in the 1980s. The logo of Delta Air Lines, originally unveiled in 1959, is reminiscent of the swept-wing design of the [[Douglas DC-8|DC-8]] airplanes. Often termed as the "widget" logo, the current version consists of two 3D triangles.<ref>{{cite web|url= http://www.famouslogos.net/delta-logo/ |title= Delta Air Lines Logo: Design and History|accessdate=August 31, 2011}}</ref>
+
+===Predecessors===
+[[File:nwa a330-300 n805nw arp.jpg|thumb|A Northwest Airlines Airbus A330-300, shortly before the merger with Delta in 2008]]
+
+The current Delta Air Lines is the result of many airline mergers over a period of more than 80 years. The most recent merger was with [[Northwest Airlines]] on October 29, 2008 and at the time formed the world's largest airline. After approval of the merger, Northwest continued to operate as a wholly owned subsidiary of Delta until December 31, 2009 when both carriers' operating certificates were merged (the Delta certificate was kept).<ref name="heslin">{{cite news| title=Delta, Northwest approved to fly under single operating certificate| url=http://travel.usatoday.com/flights/post/2009/12/delta-northwest-approved-to-fly-under-single-operating-certificate/13205/1| date=31 December 2009| work=[[USA Today]]| author=Rebecca Heslin| publisher=usatoday.com| accessdate=2013-01-31}}</ref> Delta completed the integration with Northwest on January 31, 2010 when their [[Computer reservations system|reservation systems]] and websites were combined, and the Northwest Airlines name and brand were officially retired.<ref name="mouawad">{{cite news| title=Delta-Northwest Merger's Long and Complex Path| url=http://www.nytimes.com/2011/05/19/business/19air.html?pagewanted=all&_r=0| author=Jad Mouawad| date=18 May 2011| work=[[The New York Times]]| publisher=NYTimes.com| accessdate=2013-01-31}}</ref>
+
+Predecessor carriers forming the current Delta Air Lines include:
+* [[Chicago and Southern Air Lines]] (formed in 1933, merged into Delta in 1953).<ref name="NGE"/> Delta flew under the carrier name of Delta-C&S for the following two years.<ref>{{cite web|url=http://www.delta.com/about_delta/corporate_information/delta_stats_facts/delta_through_decades/index.jsp#1950 |title=Delta Through the Decades |publisher=Delta.com |accessdate=2012-04-05}}</ref>
+* [[Northeast Airlines]] (formed in 1931, merged into Delta in August 1972)<ref name="NGE"/><ref name="Green 1987">Green 1987, p. 194</ref>
+* [[Northwest Airlines]] (formed in 1926, merged into Delta in 2010. Also known as Northwest Orient Airlines from 1950-1986)
+** [[Republic Airlines (1979–1986)|Republic Airlines]] (formed in 1979, merged into Northwest Airlines in 1986)
+*** [[Hughes Airwest]] (formed in 1968 as Air West, name change to Hughes Airwest in 1970, merged into Republic Airlines in 1980)
+**** [[Bonanza Air Lines]] (formed in 1945, merged into Hughes Airwest (Air West) in 1968)
+**** [[Pacific Air Lines]] (formed in 1941, merged into Hughes Airwest (Air West) in 1968)
+**** [[West Coast Airlines]] (formed in 1941, merged into Hughes Airwest (Air West) in 1968)
+*** [[North Central Airlines]] (formed in 1944 as Wisconsin Central Airlines, name change to North Central Airlines in 1952, merged into Republic Airlines in 1979)
+*** [[Southern Airways]] (formed in 1944, merged into Republic Airlines in 1979)
+* [[Pan American World Airways]] (formed in 1927, upon its bankruptcy in 1991 Delta bought a selection of Pan Am's assets and routes and merged them into its operations)
+** Atlantic, Gulf, and Caribbean Airways (formed in 1927, merged into Pan American World Airways in 1928)
+** [[American Overseas Airlines]] (formed in 1937, merged into Pan American World Airways in 1950)
+** Aviation Corporation of the Americas/American International Airways (formed in 1926, merged into Pan American World Airways in 1928)
+** [[National Airlines (NA)|National Airlines]] (formed in 1934, merged into Pan American World Airways in 1980)
+* [[Western Airlines]] (formed in 1925, merged into Delta in 1987)
+** [[Standard Air Lines]] (formed in 1927, merged into Western Airlines in 1930)
+
+===Defunct Delta subsidiaries===
+[[File:Delta Express Boeing 737-200 KvW.jpg|thumb|Delta Express [[Boeing 737]] in 2001]]
+* [[Comair]] began services in March 1977 and was headquartered at [[Cincinnati/Northern Kentucky International Airport]]. After successfully introducing 50-seat planes into the United States, it was acquired by Delta in October 1999. Comair became the main carrier of Delta Connection and operated over 400 daily flights from Cincinnati/Northern Kentucky International Airport throughout the U.S., Mexico, and Caribbean. Comair ceased operations on September 29, 2012, and was folded into Delta Connection operations.
+* [[Delta Express]] began service in October 1996 in an attempt by Delta to compete with [[Low-cost carrier|low cost airlines]] on leisure-oriented routes. Its main base of operations was [[Orlando International Airport]] and it used [[Boeing 737|Boeing 737–200]] aircraft. It ceased operations in November 2003 after Song was established.<ref>[http://www.icao.int/sta10/Docs/List_LCCs.pdf ICAO list of LCCs] retrieved August 5, 2011</ref>
+* [[Song (airline)|Song]] began service on April 15, 2003 as a single-class airline operated by Delta to compete directly with [[JetBlue Airways]] from both airlines' hub at New York–JFK. While the brand was considered a successful addition to the Northeast-to-Florida market, financially the airline suffered.<ref>{{cite web|url=http://knowledge.emory.edu/article.cfm?articleid=755 |title=Delta's Dilemma – Knowledge@Emory |publisher=Knowledge.emory.edu |date=March 10, 2004 |accessdate=May 4, 2010 |deadurl=yes |archiveurl=http://web.archive.org/web/20110718145954/http://knowledge.emory.edu/article.cfm?articleid=755 |archivedate=July 18, 2011 }}</ref> On May 1, 2006, Song was folded into the Delta [[Mainline (flight)|mainline]] brand. Song used [[Boeing 757]] aircraft.
+
+==Operations==
+[[File:DeltaAirLinesHQAtlantaGA.jpg|thumb|left|Delta Air Lines headquarters in Atlanta]]
+
+===Headquarters and offices===
+Delta's corporate headquarters is located on a corporate campus on the northern boundary of Hartsfield-Jackson Atlanta International Airport, within the city limits of Atlanta.<ref name="schmidt">{{cite news| author=William E. Schmidt| url=http://www.nytimes.com/1987/07/16/us/delta-loyalists-alarmed-and-bruised-by-mishaps.html| title=Delta Loyalists Alarmed And Bruised by Mishaps| work=The New York Times| date=16 July 1987| page=A16| publisher=NYTimes.com| accessdate=2009-12-27}}</ref><ref>"[http://www.delta.com/help/contact_us/corporate_information/index.jsp Contact Corporate]." ''Delta Air Lines''. Retrieved October 17, 2008.</ref><ref>"[http://web.archive.org/web/20080824014251/http://apps.atlantaga.gov/citydir/dpcd/maps/zoning_sheet_14-128.pdf Zoning Ordinance of Atlanta, Georgia Sheet No. 14-128]." ([http://www.webcitation.org/6LzCClirC Archive]) ''[[Atlanta, Georgia|City of Atlanta]]''. Retrieved October 17, 2008.</ref> This location has served as Delta's headquarters since 1941, when the company relocated its corporate offices from Monroe, Louisiana, to [[Greater Atlanta]].<ref>Markiewicz, David. "[http://www.ajc.com/business/issues-change-but-chamber-222782.html Issues change, but Chamber rolls on 150 years later]." ''[[Atlanta Journal Constitution]]''. Wednesday December 2, 2009. Retrieved on December 27, 2009.</ref><ref>"[http://nl.newsbank.com/nl-search/we/Archives?p_product=SL&p_theme=sl&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB328DD4FBC7A73&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM DELTA AIR LINES STARTED AS CROP-DUSTING SERVICE]." [[Associated Press]] at ''[[St. Louis Post-Dispatch]]''. September 1, 1988. 11A. Retrieved on December 27, 2009.</ref> The crop dusting division of Delta remained headquartered in Monroe until Delta ceased crop dusting in 1966.<ref>{{cite web|title=1960's - Delta Enters the Computer and Jet Age|url=http://news.delta.com/index.php?s=20308&cat=3198|website=http://news.delta.com|accessdate=19 December 2014}}</ref> Prior to 1981, the Delta corporate campus, an  {{convert|80|acre|ha|adj=on}} plot of land in proximity to the old Hartsfield Airport terminal, was outside the City of Atlanta limits in [[unincorporated area|unincorporated]] [[Fulton County, Georgia|Fulton County]]. On August 3, 1981 the [[Atlanta City Council]] approved the annexation of {{convert|141|acres|ha=on}} of land, an area containing the Delta headquarters. As of 1981 Delta would have had to begin paying $200,000 annually to the City of Atlanta in taxes. In September 1981 the airline sued the city, challenging the annexation on the basis of the constitutionality of the 1960 City of Atlanta annexation of the Hartsfield old terminal.<ref name=DeltaSuingCityATL>"[http://news.google.com/newspapers?nid=348&dat=19810902&id=uL4IAAAAIBAJ&sjid=IUQDAAAAIBAJ&pg=4096,105025 Delta suing City of Atlanta]." ''[[Associated Press]]'' at ''[[Rome News-Tribune]]''. Wednesday September 2, 1981. p. 10A. Retrieved from [[Google News]] (6 of 29) on December 19, 2013.</ref> The City of Atlanta was only permitted to annex areas that are adjacent to areas already in the Atlanta city limits.<ref name=DeltaSuingCityATL/>
+
+In addition to hosting Delta's corporate headquarters, Hartsfield-Jackson is also the home of [[Delta TechOps]], Delta's Technical Operations Center, which is the airline's primary maintenance, repair and overhaul arm and the largest full-service airline MRO in North America, specializing in engines, components, airframe and line maintenance.<ref>{{cite web | url=http://centreforaviation.com/profiles/suppliers/delta-techops | archiveurl=http://web.archive.org/web/20131220024534/http://centreforaviation.com/profiles/suppliers/delta-techops | archivedate=2013-12-20 | title=Capa Centre For Aviation | accessdate=2013-05-22}}</ref>
+
+Delta maintains a large presence in the [[Minneapolis – Saint Paul|Twin Cities]], with over 12,000 employees<ref name="mpr">{{cite news| url=http://minnesota.publicradio.org/display/web/2010/01/29/delta-minnesota-headquarters/ |title=Delta Air Lines officially opens Minnesota headquarters| work=Minnesota Public Radio News |publisher=Minnesota.publicradio.org |date=January 29, 2010 |accessdate=July 7, 2011}}</ref> in the region as well as significant corporate support functions housed in the Minneapolis area, including the company's information technology divisional offices.<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=358 |title=MAC Approves Agreement with Delta for 10,000 Minnesota Jobs and 400 Daily Departures from Minneapolis–St. Paul Hub |publisher=News.delta.com |date=January 26, 2009 |accessdate=July 7, 2011}}</ref>
+
+[[File:Delta A330.jpg|thumb|An Airbus A330-300 painted in Delta's current livery, "Upward & Onward"]]
+
+===Branding===
+Delta's current livery, "Upward & Onward", uses four colors. It features a "widget" ([[delta (letter)|delta]]) on each aircraft's vertical stabilizer to refer to Delta's origins as a carrier in the Mississippi Delta.<ref name="Mouawad1">{{cite news| author=Jad Mouawad| title=On Jet Exteriors, a Parade of Vanilla| work=The New York Times| date=23 December 2011| url=http://www.nytimes.com/2011/12/24/business/on-the-exterior-of-jetliners-a-parade-of-plain-vanilla.html?_r=1&ref=business| publisher=NYTimes.com| accessdate=2013-01-31}}</ref>
+
+The previous livery, "Colors in Motion", used eight colors. Delta introduced its current branding in 2007 after it emerged from bankruptcy. The switch from the previous livery to the current livery removed one day from each aircraft's painting cycle, allowing the airline to save money. The airline took four years to repaint all of its aircraft into the current scheme, including aircraft inherited from Northwest Airlines.<ref name="Mouawad1"/> The triangle logo, known internally as "the Widget", was introduced in 1959.
+
+==Hub information==
+
+===Current hubs===
+[[File:Delta World HQ - Fly Delta Air Lines sign.JPG|thumb|The "Fly Delta Air Lines" marker at Hartsfield-Jackson Atlanta International Airport emphasizes the presence of the airline]]
+
+Delta has ten domestic hubs and three international hubs.<ref name="DeltaHubs">{{cite web|url=http://news.delta.com/category/hubs|title=Delta Air Lines Newsroom - Hubs|work=delta.com|date=March 4, 2016<!-- Last update, when accessed March 10, 2016 -->|accessdate=March 10, 2016}}</ref> Delta carries more passengers than any other airline at [[Hartsfield–Jackson Atlanta International Airport]], [[Cincinnati/Northern Kentucky International Airport]],<ref>{{cite news|last1=McCartney|first1=Scott|title=The Most Expensive Airports to Fly To|url=http://online.wsj.com/news/articles/SB10001424052702303980004579576012567760336|accessdate=7 August 2014|work=Wall Street Journal|date=22 May 2014|quote=Delta still carries 75% of all of Cincinnati's passengers, giving it strong pricing power, said Candace McGraw, chief executive officer at the airport.}}</ref> [[Detroit Metropolitan Wayne County Airport]], [[Los Angeles International Airport]], [[Minneapolis–St. Paul International Airport]], [[John F. Kennedy International Airport]],<ref name="NYCtraffic">{{cite web|title=MAY 2014 TRAFFIC REPORT|url=http://www.panynj.gov/airports/pdf-traffic/MAY2014_JFK.pdf|website=THE PORT AUTHORITY OF NY & NJ|accessdate=7 August 2014|date=2014-07-16}}</ref> [[LaGuardia Airport]],<ref name="NYCtraffic"/> and [[Salt Lake City International Airport]].
+* [[Amsterdam Airport Schiphol]]<ref name="HubAMS"/> – One of the two European hubs for Delta, in conjunction with SkyTeam partner KLM. Its presence is due mostly to Northwest Airlines' alliance with KLM prior to the merger.
+* [[Cincinnati/Northern Kentucky International Airport]]<ref name="HubCVG"/> – Prior to the merger with Northwest Airlines, Cincinnati was the second largest hub for Delta. Since the merger, service has been drastically cut, mainly due to its proximity to the Detroit hub, as well as the shutdown of [[Comair]], but it officially remains a hub.<ref name="yamanouchi">{{cite news |last=Yamanouchi |first=Kelly |url=http://www.ajc.com/business/hub-changes-hit-cincinnati-1241765.html?cxtype=ynews_rss |title=Hub changes hit Cincinnati hard |work=[[The Atlanta Journal-Constitution]] |publisher=ajc.com |date=30 November 2011|accessdate=2012-04-05}}</ref>
+* [[Detroit Metropolitan Wayne County Airport]]<ref name="HubDTW"/> – Acquired through the merger with Northwest Airlines, Detroit is Delta's second-largest hub by number of daily flights and third largest by seats available. It also serves as the airline's primary Asian gateway for the northeastern United States.<ref name="metro">{{cite web|url=http://www.metroairport.com/| title=MetroAirport.com| publisher=MetroAirport.com| accessdate=May 4, 2010}}</ref>
+* [[Hartsfield–Jackson Atlanta International Airport]]<ref name="HubATL"/> – The largest hub for Delta Air Lines, as well as its headquarters site and maintenance base.
+* [[John F. Kennedy International Airport]], New York City<ref name="HubNYC"/> – A major international gateway hub for Delta, primary European gateway to the United States.
+* [[LaGuardia Airport]], New York City<ref name="HubNYC"/> – Created as a result of a slot swap with [[US Airways]] and handles mostly domestic and North American traffic.<ref name="news.delta.com2">{{cite web|url = http://news.delta.com/index.php?s=43&item=1517|title = Delta Unveils Schedule for New Domestic Hub at New York's LaGuardia Airport - Dec 16, 2011|publisher = News.delta.com|accessdate = 2012-04-05}}</ref>
+* [[Logan International Airport]]<ref name="HubBOS"/> - A hub for Delta in the second half of the 20th century and remained one until the early 2000s. In 2005, a new terminal A was built at Logan for Delta's sole use. However, when Delta went bankrupt, they leased 11 of the 22 gates in the terminal. Today, Delta still has a large share in the Boston market, with daily international flights to various cities in Central America, Canada, and major European cities, including Amsterdam, [[Heathrow Airport|London]], and Paris. They now occupy 17 of the 22 gates and have recently opened a second Sky Club location.
+* [[Los Angeles International Airport]]<ref name="HubLAX"/> – Delta dismantled its Western Airlines-inherited LAX hub in the mid-1990s when it decided to relocate most of those aircraft to the US East Coast. Since that point, however, it has re-opened its hub there, mostly flying to Mexico, Florida, and Hawaii. As of May 2015, Delta captured a 17.22% passenger market share with 139 daily departures to Hawaii, Mexico, Japan, Guatemala, and some of Delta's large domestic bases throughout the United States, as well as regional service to the West Coast. LAX also remains Delta's sole transpacific gateway.<ref>{{cite web|url=http://www.lawa.org/uploadedfiles/LAX/statistics/aircarrier-2014.pdf|title=Los Angeles International Airport Top 10 Carriers (2014)}}</ref>
+* [[Minneapolis-Saint Paul International Airport]]<ref name="HubMSP"/> – Delta's third-largest hub by number of daily flights and second largest by number of seats available. Delta served 25,844,791 passengers at MSP in 2015 and accounts for more than 80% of the airports traffic. Delta serves mostly regional airports from MSP and serves most Canadian and American metropolitan areas. Delta also serves the Caribbean, Central America, Hawaii (Seasonally), Mexico, 3 year-round destinations in Europe, and Tokyo, Japan. It is also the former headquarters for Northwest Airlines.
+* [[Narita International Airport]], [[Tokyo]]<ref name="HubNRT"/> – Delta's Asian hub, acquired through the merger with Northwest Airlines.
+* [[Paris–Charles de Gaulle Airport]]<ref name="HubCDG"/> – Delta's other European hub. Operated in conjunction with SkyTeam partner [[Air France]].
+* [[Salt Lake City International Airport]]<ref name="HubSLC"/> – Western Airlines' Salt Lake City hub operations were continued after Delta purchased Western Airlines in 1987. Salt Lake City International Airport is Delta's fourth-largest hub.
+* [[Seattle-Tacoma International Airport]]<ref name="HubSEA"/> – Delta announced its eighth US hub on June 17, 2014 in conjunction with the launch of its new Seattle-Hong Kong service. The hub serves as Delta's main international gateway to Asia. Delta started building its international gateway in Seattle in 2011, and in 2013 began to add major domestic feeder service as well. However, the rapid expansion resulted in a turf war between Delta and hometown airline [[Alaska Airlines]].<ref name="airchive.com">{{cite web|url=http://airchive.com/blog/2014/06/17/delta-launches-seattle-hong-kong/ |title=Delta Launches Seattle-Hong Kong, and Seattle Hub - June 17, 2014 |publisher=airchive.com | accessdate=2014-06-17}}</ref>
+
+These statistics about Delta's hubs are current as of '''(March 2016)'''. (Ranked by daily departures).<ref name=DeltaHubs/>
+[[File:Delta Air Lines Boeing 767-300ER N183DN PEK 2011-6-5.png|thumb|A [[Boeing 767-300ER]] at [[Beijing Capital Airport]]. (2011)]]
+{| class="toccolours sortable" border="1" cellpadding="3" style="border-collapse:collapse"
+|-
+!Rank
+!Airport
+!Daily Departures
+!Destinations Served
+|-
+|1
+|[[Hartsfield–Jackson Atlanta International Airport|Atlanta (ATL)]]
+|996
+|220
+|-
+|2
+|[[Detroit Metropolitan Airport|Detroit (DTW)]]
+|429
+|130
+|-
+|3
+|[[Minneapolis–Saint Paul International Airport|Minneapolis/St. Paul (MSP)]]
+|408
+|139
+|-
+|4
+|[[LaGuardia Airport|New York City (LGA)]]
+|269
+|56
+|-
+|5
+|[[Salt Lake City International Airport|Salt Lake City (SLC)]]
+|244
+|85
+|-
+|6
+|[[John F. Kennedy International Airport|New York City (JFK)]]
+|194
+|83
+|-
+|7
+|[[Los Angeles International Airport|Los Angeles (LAX)]]
+|162
+|57
+|-
+|8
+|[[Seattle–Tacoma International Airport|Seattle/Tacoma (SEA)]]
+|114
+|44
+|-
+|9
+|[[Cincinnati/Northern Kentucky International Airport|Cincinnati (CVG)]]
+|81
+|34
+|-
+|9
+|[[Logan International Airport|Boston (BOS)]]
+|81 
+|23 
+|-
+|11
+|[[Amsterdam Airport Schiphol|Amsterdam (AMS)]]
+|27
+|21
+|-
+|12
+|[[Narita International Airport|Tokyo (NRT)]]
+|20
+|18
+|-
+|13
+|[[Charles de Gaulle Airport|Paris (CDG)]]
+|11
+|20
+|}
+
+===Former hubs===
+* [[O'Hare International Airport]] – Delta operated a small hub at Chicago until the early 1990s.
+* [[Dallas/Fort Worth International Airport]] – Delta, at one time, operated over 200 flights per day from DFW. At times, it was Delta's third-largest hub behind Atlanta and Cincinnati, respectively. Delta closed the hub in February 2005 due to competition with [[American Airlines]], which had their largest hub at DFW.
+* [[Frankfurt Airport]] – Upon Pan American World Airways' bankruptcy, Delta acquired its Frankfurt hub and the remainder of its Atlantic Division (including the JFK Worldport). Delta closed the hub in 1997.
+* [[Memphis International Airport]] – A Delta hub that was originally dismantled but regained hub status through the merger with Northwest.<ref name="mutzabaugh">{{cite news |title=Delta: 25% cut in flights will make Memphis a better hub  |author=Ben Mutzabaugh |url=http://travel.usatoday.com/flights/post/2011/03/delta-cuts-memphis/148836/ |newspaper=[[USA Today]] |date=March 22, 2011 |accessdate=March 22, 2011}}</ref> On September 3, 2013, Delta reduced its flights from Memphis to approximately 60 flights per day to remove it as a hub.<ref name=mem_close>{{cite web |url=http://www.wmctv.com/story/22499278/source-delta-airlines-to-de-hub-mem-cut-jobs-slash-flights |title=Delta Airlines to de-hub MEM, cut jobs, slash flights |work=[[WMC-TV]] |author=Nick Kenney |date=June 4, 2013 |accessdate=June 4, 2013}}</ref> In December 2014, flights were cut down to 25 daily flights to 10 destinations, fully removing the airport's hub status.<ref>{{cite news|last1=Mutzabaugh|first1=Ben|title=More cuts: Is Memphis now just another city for Delta?|url=http://www.usatoday.com/story/todayinthesky/2014/12/15/more-cuts-is-memphis-now-just-another-city-for-delta/20424023/|website=USA Today|publisher=USA Today|accessdate=22 February 2015|date=December 15, 2014}}</ref>
+* [[Orlando International Airport]] – Delta built up its Orlando hub with the conjunction of [[Comair]] in the mid 1980s, and subsequently became the "Official Airline of Walt Disney World". The airport then became the hub for Delta Express and Song, before Delta pulled back mainline presence in the mid 2000s.<ref>{{cite web|title=Change In Direction Delta Molding Orlando Hub As Southeastern Connection|url=http://articles.orlandosentinel.com/1989-12-18/business/8912163741_1_delta-orlando-aviation-authority-airline|accessdate=31 January 2016}}</ref>
+* [[Portland International Airport]] – Delta built up its Portland hub in the late 1980s to gain a presence in the U.S. to Asia market. The hub operated most of Delta's flights to Asia, but was slowly reduced due to the Japanese and Korean economic recession, and closed in 2001.<ref>{{cite web|last1=Brown|first1=David|title=A DETAILED LOOK AT DELTA AIR LINES HISTORY IN PORTLAND|url=http://www.airlinereporter.com/2011/10/a-detailed-look-at-delta-air-lines-history-in-portland-guest-blog/|website=Airline Reporter|publisher=Airline Reporter|accessdate=4 October 2015}}</ref>
+
+==Personnel==
+Between its mainline operation and subsidiaries, and as of March 2015, Delta employs nearly 80,000 people.<ref name="statsfacts"/> [[Joanne Smith]] is Executive Vice President and Chief Human Resources Officer responsible for the oversight and support of personnel needs at Delta. She was appointed on October 1, 2014 replacing Mike Campbell.<ref name="WSJ">{{cite news |url=http://www.wsj.com/articles/delta-human-resources-and-labor-executive-to-retire-1409165875 |title=Delta Human Resources and Labor Executive to Retire |last=Carey |first=Susan |publisher=The Wall Street Journal|date=August 27, 2014 |accessdate=9 November 2015}}</ref>
+
+===Employee relations===
+Delta's 12,000 mainline pilots are represented by the [[Air Line Pilots Association, International]] and are the union's largest pilot group.<ref name="WSJESTERL"/><ref>{{cite web | last = | first = | authorlink = | title = ALPA's Pilot Groups  | work = | publisher = [[Air Line Pilots Association, International]] | date = January–February 2012  | url = http://www.alpa.org/Home/WhoWeAre/PilotGroups/tabid/2239/Default.aspx | doi = | accessdate = 1 January 2013}}</ref> The company's approximately 180 flight dispatchers are represented by the Professional Airline Flight Control Association (PAFCA).{{Citation needed|date=March 2013}}
+
+Not counting the pilots and flight dispatchers, Delta is the only one of the five [[List of largest airlines in North America|largest airlines in the United States]], and one of only two in the top 9 (the other being JetBlue), whose non-pilot staff is entirely non-union.<ref name="WSJESTERL">{{cite news| last = Esterl | first = Mike | title = Labor Board Broadens Delta Probe  | newspaper = [[The Wall Street Journal]] | location = New York City | pages = | publisher = [[Dow Jones]] | date = 6 June 2011 | url = http://online.wsj.com/article/SB10001424052702304474804576369762641111264.html#articleTabs%3Darticle | accessdate = 1 January 2013}}</ref> This caused issues during and after the merger with Northwest, whose employees had a much higher rate of unionization.<ref name="WSJESTERL"/> Pilots at both airlines were unionized. Northwest Airlines [[flight attendant]]s were formerly represented by the [[Association of Flight Attendants]] (AFA).<ref name="MRKTWTCHHINTON">{{cite web | last = Hinton | first = Christopher | authorlink = | title = Delta flight attendants vote against unionizing | work = [[MarketWatch]] | publisher = [[Dow Jones]] | date = 3 November 2010 | url =https://secure.marketwatch.com/story/delta-flight-attendants-vote-on-a-union-2010-11-03 | doi = | accessdate = 1 January 2013}}</ref> A vote on unionization with the AFA at the post-merger Delta was held on 3 November 2010, unionization was narrowly rejected by flight attendants, with 9,544 votes against unionization and 9,216 in favor.<ref name="MRKTWTCHHINTON"/><ref>{{cite news | last = Jacobs| first =  Karen| authorlink = | title = Delta flight attendants reject union | work =  | publisher = Reuters | date = 3 November 2010 | url=http://www.reuters.com/article/2010/11/03/us-delta-idUSTRE6A27M620101103 | doi = | accessdate = 1 January 2013}}</ref> The AFA accused Delta of interference in the vote and requested the [[National Mediation Board]] (NMB) investigate and order a second vote.<ref name="WSJESTERL"/> The NMB investigation found that the election was not compromised and dismissed the claim.<ref>{{cite court |litigants = Association of Flight Attendants v. Delta Air Lines, Inc. |vol = 39 |reporter = NMB |opinion = 8 |pinpoint = |court = |date = 18 November 2011 |url= http://www.nmb.gov/representation/deter2012/39n008.pdf}}{{dead link|date=May 2016}}</ref> Currently both the [[International Association of Machinists and Aerospace Workers]] and a coalition of the AFA and the [[Transport Workers Union of America]] are seeking to hold unionization votes for Delta flight attendants.<ref>{{cite news | last = Yamanouchi | first = Kelly | title = Unions to try again with Delta flight attendants | newspaper = [[StarTribune]] | location = Minneapolis | pages = | publisher =  | date = 16 October 2012 | url = http://www.startribune.com/business/174493591.html | accessdate = 1 January 2013}}</ref><ref>{{cite web | last = | first =  | authorlink = | title = Town Hall November 28 - ADFA Update | work =  | publisher = Association of Delta Flight Attendants | url =http://www.at-delta.org/home/tabid/1872/vw/1/itemid/672/town-hall-november-28---adfa-update.aspx | archiveurl =http://web.archive.org/web/20131002191829/http://www.at-delta.org/home/tabid/1872/vw/1/itemid/672/town-hall-november-28---adfa-update.aspx | archivedate =2013-10-02 | doi = | accessdate = 1 January 2013}}</ref><ref>{{cite web|last=Brewer |first=Angela |authorlink= |last2=Helminski |first2=J. |last3=McMahon |first3=N. |last4=Meyer |first4=G. |last5=Perez |first5=G. |title=Our Story |work=IAM Delta |publisher=International Association of Machinists and Aerospace Workers |url=http://www.iamdelta.net/iam#!about/c4nz |doi= |accessdate=1 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/20150102035040/http://www.iamdelta.net/iam |archivedate=January 2, 2015 }}</ref>
+
+==Destinations==
+{{Further|Delta Air Lines destinations|Delta Connection destinations}}
+[[File:Delta Air Lines destinations.svg|thumb|Delta Air Lines destinations as of November 2014. Year-round destinations are red, seasonal destinations are pink, and former destinations are dark grey. As of May 2016, flights to Dubai, India, and Turkey have ended.]]
+
+As of March 2015, Delta operates more than 5,400 flights per day. Delta Connection operates 2,533 daily flights.<ref name="statsfacts"/> It is one of the few airlines to fly to all six inhabited continents, along with [[Air Canada]], [[Air China]], [[British Airways]], [[Emirates (airline)|Emirates]], [[Etihad Airways]], [[Korean Air]], [[Qantas]], [[Qatar Airways]], [[Singapore Airlines]], [[South African Airways]] and [[United Airlines]].
+
+Delta is the only US carrier flying to Accra, Bangkok, Copenhagen, Dakar, Johannesburg, Moscow, Prague, Reykjavik, and Stuttgart.
+
+==Alliances==
+Delta was a founding member of the [[SkyTeam Alliance]] in 2000. In addition to SkyTeam partners, Delta Air Lines also has [[codeshare agreement]]s with the following airlines:<ref>{{cite web|url=http://www.delta.com/content/www/en_US/traveling-with-us/where-we-fly/flight-partners.html |title=Delta Air Lines Codeshare Partners |publisher=Delta.com |accessdate=March 17, 2016}}</ref>
+
+===Codeshare agreements===
+{|
+|- valign="top"
+|
+* [[Alaska Airlines]]<ref>{{cite web|url=http://www.delta.com/content/www/en_US/skymiles/earn-miles/earn-miles-with-partners/airlines/alaska-airlines.html |title=Delta Air Lines Airline Partners - Alaska Airlines |publisher=Delta.com |accessdate=March 17, 2016}}</ref>
+* [[Gol Transportes Aéreos]]<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=1260 |title=Delta Starts Codeshare Flights with Brazil's GOL - Feb 7, 2011 |publisher=News.delta.com |date=2011-02-07 |accessdate=2012-04-05}}</ref>
+* [[Great Lakes Airlines]]<ref>{{cite web|url=https://www.delta.com/content/www/en_US/skymiles/earn-miles/earn-miles-with-partners/airlines/great-lakes.html|title=Great Lakes Airlines|publisher=}}</ref>
+* [[Hawaiian Airlines]] (for flights within the state of Hawaii only)<ref>{{cite web|url=http://www.delta.com/content/www/en_US/skymiles/earn-miles/earn-miles-with-partners/airlines/hawaiian-airlines.html |title=Delta Air Lines Airline Partners - Hawaiian Airlines |publisher=Delta.com |accessdate=March 17, 2016}}</ref>
+* [[Jet Airways]]<ref>{{cite web|url=http://news.delta.com/delta-partnership-jet-airways-klm-expands-india-network |title=Delta partnership with Jet Airways, KLM expands India network |publisher=Delta.com |accessdate=March 18, 2016}}</ref>
+* [[Transavia]]<ref>{{cite web|url=http://news.delta.com/delta-agreement-transavia-opens-new-destinations |title=Delta Air Lines News Hub - Transavia Codeshare Agreement |publisher=Delta.com |accessdate=March 17, 2016}}</ref>
+* [[Virgin Atlantic]]<ref>{{cite web|url=http://atwonline.com/regulation/delta-closes-virgin-atlantic-stake-codesharing-start-july-3|title=Delta closes on Virgin Atlantic stake; codesharing to start July 3|date=June 24, 2013|accessdate=July 1, 2013}}</ref>
+* [[Virgin Australia]]
+* [[WestJet]]
+|}
+
+===Air France–KLM and Alitalia joint venture===
+Inherited from the Northwest-KLM relationship (which is older than any of the three major [[airline alliance]]s including SkyTeam itself), Delta has a transatlantic joint venture with [[Air France-KLM]] and Alitalia. The program coordinates transatlantic operations, including ticket pricing, schedules, capacity, and revenue.<ref name="frequentbusinesstraveler.com">{{cite web|url=http://www.frequentbusinesstraveler.com/2012/01/eu-launches-antitrust-probe-of-deltaair-france-klm-joint-venture/ |title=EU Launches Antitrust Probe of Delta/Air France-KLM Joint Venture |publisher=Frequentbusinesstraveler.com |date=2012-01-27 |accessdate=2012-04-05}}</ref> On January 27, 2012, the European Commission launched an investigation into the impact of the joint venture on competition on the routes that it covers.<ref name="frequentbusinesstraveler.com"/>
+
+===Joint venture with Virgin Atlantic===
+On December 11, 2012, Delta announced that it would spend $360 million to acquire a 49 percent stake in Virgin Atlantic. These shares were previously held by Singapore Airlines. As a part of this agreement, both airlines would share the costs and revenues from all of the joint venture flights the airlines operated. The two airlines planned to operate a total of 31 roundtrip flights between the UK and North America, including nine daily roundtrip flights between [[London Heathrow]] and New York City airports (John F. Kennedy International Airport and [[Newark Liberty International Airport]]).<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=1822|title=Delta and Virgin Atlantic To Form Strategic Alliance|work=delta.com|accessdate=April 3, 2015}}</ref> The two airlines applied for antitrust immunity with the [[United States Department of Transportation]] and immunity was granted on September 23, 2013<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=2114|title=Delta Air Lines and Virgin Atlantic Airways Welcome U.S. Department of Transportation decision to grant Antitrust Immunity|work=delta.com|accessdate=April 3, 2015}}</ref>
+
+==Fleet==
+<!--
+
+Please do not add a fleet table to this section. Detailed fleet information is covered in the posted Delta Air Lines fleet article.
+
+-->
+[[File:N647DL-2008-08-15-YVR.jpg|thumb|Delta Air Lines has the largest Boeing 757 fleet of any airline]]
+[[File:Boeing 747-451 Delta.jpg|thumb|Delta's [[Boeing 747]] arrives at [[Ben Gurion Airport]]]]
+[[File:Delta Air Lines Boeing 777-200LR (N710DN) departs London Heathrow Airport 2ndJuly2014 arp.jpg|thumb|[[Boeing 777-200LR]] departs [[London Heathrow Airport]], (2014)]]
+{{Main|Delta Air Lines fleet}}
+
+{{As of|2013|01|}}, Delta operates a fleet of more than 800 aircraft, [[Boeing Commercial Airplanes|Boeing]], and [[McDonnell Douglas]].<ref name="statsfacts" /> The carrier operates the largest fleets of [[Airbus A330]] aircraft of any US airline. Delta also operates the largest fleets of [[Boeing 717]], [[Boeing 757]], [[Boeing 767]], [[McDonnell Douglas MD-88]], and [[McDonnell Douglas MD-90]] aircraft in the world. Prior to its 2008 merger with Northwest Airlines, Delta's fleet was made up of solely Boeing and McDonnell Douglas aircraft; Airbus aircraft from Northwest joined the fleet after the merger.
+
+Unlike other mainline U.S. legacy carriers, Delta has decided that its best path to profitability is a strategy that utilizes older aircraft, and Delta has created a very extensive MRO (maintenance, repair and overhaul) organization, called TechOps, to support them. The oldest aircraft in the fleet are the McDonnell Douglas MD-88s.<ref name=fleetage>{{cite web |url=http://www.delta.com/about_delta/corporate_information/delta_stats_facts/aircraft_fleet/index.jsp |title=Aircraft Fleet |date=March 19, 2011 |work=delta.com |publisher=Delta Air Lines, Inc |accessdate=May 12, 2011}}</ref> Delta buys older airplanes as sources for spare parts. However, Delta is replacing some of the oldest airplanes in its fleet. To replace the [[McDonnell Douglas DC-9]]s, MD-88s, and older A320 and 757-200 aircraft in their fleet, Delta began discussing narrowbody replacement plans with manufacturers such as Airbus, Boeing and [[Bombardier Aerospace|Bombardier]] in early 2011.<ref name=narrowbodyrepl>{{cite web |url=http://www.flightglobal.com/articles/2010/12/17/351072/delta-prepares-for-full-narrowbody-analysis-in-early.html |title=Delta prepares for full narrowbody analysis in early 2011  |first=Lori |last=Ranson |date=December 17, 2011 |work=Flight International  |publisher=Reed Business Information |archiveurl=http://www.webcitation.org/5vlN8ScN7 |archivedate=January 15, 2011 |accessdate=January 15, 2011 |quote=...Delta president Ed Bastian said: "We clearly need to get the DC-9s retired. We clearly need to start to build a replenishment strategy for our older MD-88s and some of our Airbus narrow bodies as well as the [Boeing] 757-200s.}}</ref> On August 22, 2011, Delta placed an order for 100 [[Boeing 737-900ER]] aircraft<ref>{{cite web |url=http://www.flightglobal.com/articles/2011/08/22/361106/delta-to-cap-its-narrowbody-order-at-100-737-900ers.html |archiveurl=http://web.archive.org/web/20121105184838/http://www.flightglobal.com/news/articles/delta-to-cap-its-narrowbody-order-at-100-737-900ers-361106/ |archivedate=2012-11-05 |title=Delta to cap its narrowbody order at 100 737-900ERs |date= August 22, 2011 |work=Flightglobal |publisher=Air Transport Intelligence news |accessdate=August 22, 2011}}</ref> and deferred an order of 100 small narrow-body jets until 2012.<ref>{{cite web |url=http://www.businessweek.com/news/2011-08-25/delta-said-to-defer-order-of-100-small-narrow-body-jets-to-2012.html |archiveurl=http://web.archive.org/web/20110913030703/http://www.businessweek.com/news/2011-08-25/delta-said-to-defer-order-of-100-small-narrow-body-jets-to-2012.html |archivedate=2011-09-13 |title=Delta Said to Defer Order of 100 Small Narrow-Body Jets to 2012 |date=August 25, 2011}}</ref>
+
+As part of its strategy to utilize less expensive used airplanes, On May 22, 2012, Delta agreed to lease 88 [[Boeing 717]]s from [[Southwest Airlines]] that Southwest inherited from its acquisition of [[AirTran Airways]]<ref>{{cite web |url=http://news.delta.com/index.php?s=43&item=1624 |title=Delta to Take Delivery of Boeing 717 Aircraft Upon Ratification of Pilot Tentative Agreement {{pipe}} Delta Air Lines News Archive |date=22 May 2012 |work=Delta Air Lines |accessdate=22 May 2012}}</ref> as replacements for the DC-9 aircraft and some 50-seat regional aircraft. The first revenue flight was on Oct 25, 2013,<ref>{{cite web|title=Now Flying For Delta: The Boeing 717|url=http://www.usatoday.com/story/todayinthesky/2013/10/25/delta-launches-first-boeing-717-flights/3189607/|website=USA Today}}</ref> beginning the replacement of some of Delta's over 250 [[CRJ-200|CRJ-100 and -200]] aircraft.
+
+Delta's strategy has reaped dividends, both in financial performance and in flight performance. Delta claims a flight dispatch rate in 2013 of 99.7%; its fleet had 120 days without a single maintenance failure. That included the month of October 2013, when Delta recorded no domestic flight cancellations. Delta posted a profit of $2.7 billion, the highest of any US carrier in 2013.<ref>Broderick, Sean, Better with age, Aviation Week and Space Technology, February 17, 2014, p.19</ref>
+
+Delta officially retired the DC-9 from its fleet on January 6, 2014; however, the DC-9 was used on an as-needed basis until January 22, 2014 when the last DC-9 was removed from service.<ref>{{cite web|last=Harty|first=Jack|title=End of an Era: Delta's DC-9 Completes Final Scheduled Flight|url=http://airchive.com/blog/2014/01/06/dc-9-completes-final-scheduled-flight/|publisher=Airchive|accessdate=20 January 2014}}</ref><ref>{{cite web|last=Harty|first=Jack|title=It's Over: Delta Officially Retires the DC-9|url=http://airchive.com/blog/2014/01/23/delta-dc-9-officially-retired/|publisher=Airchive|accessdate=25 January 2014}}</ref> Delta was the final US carrier operating the DC-9.<ref>{{cite news|url=http://www.cnn.com/2014/01/11/travel/dc9-retirement/|title=Delta retires its last DC-9 airliners which spurred travel since 1960s - CNN.com|author=Thom Patterson, CNN|date=January 11, 2014|work=CNN|accessdate=April 3, 2015}}</ref>
+
+On August 1, 2014, Delta announced that 4 [[Boeing 747-400]]s would be retired before the end of 2014. As of November 2014, 3 of them have been retired.<ref>{{cite news |url=http://www.huffingtonpost.com/christine-negroni/delta-to-let-four-747s-fl_b_5639890.html |title=Delta to Let Four 747s Fly Out of the Fleet |date=August 1, 2014 | work=Huffington Post}}</ref> On October 16, 2014, during the carrier's third-quarter earnings call, CEO [[Richard H. Anderson (businessman)|Richard Anderson]] announced that the rest of the fleet would be retired by the end of 2017.<ref>{{cite news |url=http://www.usatoday.com/story/todayinthesky/2014/10/16/delta-ceo-boeing-747s-will-be-retired-by-2017/17350781/ |title=Delta CEO: Boeing 747s will be retired by 2017 |date=October 16, 2014 | work=USA Today}}</ref>
+
+Delta announced on November 20, 2014, that it had ordered 25 [[Airbus A350 XWB|Airbus A350-900s]] and 25 [[Airbus A330neo|Airbus A330-900neos]] to replace the aging Boeing 747 and Boeing 767 fleets. Delta will take delivery of the A350s beginning in the second quarter of 2017 and the A330-900neo in 2019.<ref>{{cite web |url=http://news.delta.com/2014-11-20-Delta-Adds-A350-900-A330-900neo-to-its-Fleet-Plan |title=Delta adds A350-900, A330-900neo to its fleet plan |date=November 20, 2014}}</ref><ref>{{cite journal|title=Delta Orders Airbus Widebodies|journal=Airliner World|date=January 2015|page=14}}</ref> Being the first airline to officially order the new variant, Delta will also be the official Launch Customer for the A330neo.<ref>{{cite web |url=http://www.airbus.com/newsevents/news-events-single/detail/first-242-tonne-take-off-weight-a330-successfully-completes-first-flight/ |title=First 242 tonne take-off weight A330 successfully completes first flight |date=January 12, 2015}}</ref>
+
+On April 28, 2016, Delta Air Lines secured a firm order for 75 [[Bombardier CSeries|Bombardier CS100]] aircraft with 50 options, totalling up to 125 aircraft.<ref>[http://www.cbc.ca/beta/news/business/bombardier-delta-1.3556661 Bombardier secures Delta order for up to 125 new CSeries jets - Business - CBC News<!-- Bot generated title -->]</ref>
+
+==Cabin==
+
+===Delta One===
+[[File:UpperdeckcabinDLB744.jpg|thumb|'''Delta One''' cabin on a Boeing 747-400 (then known as '''"BusinessElite"''')]]
+[[File:Delta BusinessElite.JPG|thumb|left|The entertainment system and aisle view aboard a Boeing 777-200ER]]
+
+'''Delta One''' is the airline's long-haul international [[business class]]. The class was known as '''"BusinessElite"''' until March 1, 2015.<ref name=":0">{{cite web |url=http://news.delta.com/2014-12-08-Delta-Redefines-Cabin-Upgrades-Premium-Economy-Options |title=Delta redefines cabin, upgrades premium economy options |date=December 8, 2014}}</ref> Passengers in the Delta One cabin receive complimentary meals, refreshments, alcoholic beverages, and an amenity kit. Delta One is also available on domestic [[Transcontinental flight|transcontinental]] service from [[John F. Kennedy International Airport|New York-JFK]] to [[Los Angeles International Airport|Los Angeles]] and [[San Francisco International Airport|San Francisco]].
+
+The flat-bed Delta One seats on [[Boeing 767-300ER]] and [[Boeing 767-400ER]] aircraft (made by [[Contour Aerospace]] and designed by [[James Thompson (researcher)|James Thompson]]) feature a space-saving design, with the bottom ends of the seats extending under the armrests of the suites in front when in the horizontal position.
+
+The flat-bed Delta One seats on the [[Boeing 777-200ER]]/[[Boeing 777-200LR|LR]]s feature sleeper suites made by [[Contour Aerospace]] and configured in a herringbone pattern with seats angled towards the aisle.
+
+The flat-bed seats on all Boeing 747-400 and Airbus A330s (as of October 2012) feature the ''Cirrus'' flat-bed sleeper suite made by [[Zodiac Seats U.S.]] (formerly Weber Aircraft LLC), designed by JPA Design Consultants, and configured in a reverse herringbone patterns with seats angled away from the aisles.<ref>{{cite web|url=http://multivu.prnewswire.com/mnr/delta/45973/ |title=Delta Revitalizing Boeing 747–400 Fleet with New Interiors |publisher=Multivu.prnewswire.com |date=September 2, 2010 |accessdate=July 7, 2011}}</ref><ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=1259 |title=Delta Adding New 'Economy Comfort' Section on Long-Haul International Flights |publisher=News.delta.com |date=February 7, 2011 |accessdate=July 7, 2011}}</ref>
+
+[[Boeing 757-200]] and aircraft configured with the Delta One cabin feature older recliner-style seating made by [[Recaro]]. Delta One seats on 767-300ERs have {{convert|60|in|mm}} of pitch and {{convert|18.5|in|mm}} of width, while seats on Boeing 757-200s have {{convert|55|in|mm}} of pitch and {{convert|20|in|mm}} of width. All seats are equipped with a personal, on demand In-Flight-Entertainment (IFE) system, universal power-ports, a movable reading light, and a folding work table. The Delta One seats ex-American Airlines/[[TWA]] 757-200s have electric recline, while those on ex-Northwest Airlines aircraft have mechanical recline. The ex-Northwest aircraft are planned to be converted back to a domestic configuration.
+On November 5, 2012, Delta announced it would introduce a flat-bed Delta One product on its ex-American Airlines/TWA 757-200s.<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=1757 |title=Delta Air Lines to Offer Full Flat-bed in BusinessElite on Transcontinental Flights |publisher=news.delta.com |date=November 5, 2012 |accessdate=November 5, 2012}}</ref> The seats will be a modified version of the ''Diamond'' flat-bed seat by [[BE Aerospace]] designed exclusively for Delta.<ref>{{cite web |url=http://www.flyertalk.com/forum/delta-skymiles/1404297-75es-get-flat-beds-j-2.html#post19665173 |title=75Es to get flat-beds in J {{pipe}} FlyerTalk.com |publisher=Chris Babb |date=November 11, 2012 |accessdate=November 11, 2012}}</ref>
+
+===New Premium Economy===
+
+In April 2016, CEO '''Ed Bastian''' announced that a new Premium Economy. This new '''Premium Economy''' would feature extra legroom, leg rests, extra recline, extra width and a new premium service. Delta will introduce it on the [[Airbus A350]], and then  [[Boeing 777|777]], [[Airbus A330|A330]] and [[Boeing 767|767-400]].<ref>{{cite web|last1=Mutzabaugh|first1=Ben|url=http://www.usatoday.com/story/travel/flights/todayinthesky/2016/05/04/delta-new-international-premium-economy-cabin-coming-next-year/83903302/|website=USA TODAY|publisher=USA TODAY|accessdate=10 May 2016}}</ref>
+
+===First and Business Class (short and medium haul)===
+
+'''First Class''' is offered on all domestic aircraft, as well as Delta Connection aircraft with more than 50 seats. Seats range from {{convert|18.5|to|20.75|in|cm}} wide and have between {{convert|37|and|40|in|cm}} of pitch. Passengers aboard this class receive free snacks, drinks, and alcohol, with full meal service on flights 900 miles and longer. Certain aircraft also feature power-ports at each seat. When a domestically configured aircraft operates on an international route, such as those to the Caribbean, the first class cabin is branded as '''Business Class'''.
+
+===Delta Comfort+===
+[[File:Delta Comfort+.jpg|thumb|left|'''Delta Comfort+''' on a [[Boeing 757|757-200]].]]
+'''Delta Comfort+''' seats are installed on all Delta aircraft, as well as all two-cabin Delta Connection aircraft and feature {{convert|34-36|in|mm}} of pitch; on all Delta One configured aircraft, {{convert|35-36|in|mm}} of pitch and 50 percent more recline over standard Main Cabin seats.<ref>{{cite web|url=http://blog.delta.com/2011/10/20/more-economy-comfort-means-more-room-to-relax/ |title=More Economy Comfort Means More Room to Relax! |author=Chris Babb |date=October 20, 2011 |work=Delta Air Lines |publisher=Delta Air Lines |accessdate=October 20, 2011 |deadurl=yes |archiveurl=https://web.archive.org/20111022201408/http://blog.delta.com:80/2011/10/20/more-economy-comfort-means-more-room-to-relax |archivedate=October 22, 2011 }}</ref> The seats were known as '''"Economy Comfort"''' until March 1, 2015.<ref name=":0" /> Additional amenities include: priority boarding in the Sky Priority zone, dedicated overhead space, complimentary alcohol and, on flights 900 miles or longer, complimentary premium snacks, and complimentary premium programming, with free earbuds on most flights. On transcontinental flights between JFK-LAX/SFO, Delta Comfort+ passengers also get a free cold meal. Customers can upgrade from standard Main Cabin seats to Delta Comfort+ seats either for a fee or using either SkyMiles or for free if either a full fare Main Cabin ticket is purchased or with elite status. For domestic flights and flights between the US and Canada, Delta Comfort+ is available as a fare option. Delta Comfort+ more closely aligns Delta's offerings with its Transatlantic joint venture partners as KLM also offers a Comfort+ section of its Main Cabin that features similar seat pitch and recline.
+
+===Main Cabin===
+[[File:Delta 767-400ER Economy Cabin.jpg|thumb|'''Main Cabin''' on a Boeing 767-400ER]]
+[[File:N3744F cabin1.jpg|thumb|'''Main Cabin''' on a Boeing 737–800]]
+'''Main Cabin''' (also known as '''"Economy Class"''') is available on all aircraft with seats ranging from {{convert|17|to|18|in|cm}} wide and {{convert|30|to|33|in|cm}} of pitch. The main cabin on Boeing 737, 747-400, 777, and selected Boeing 757-200, 767-300, and McDonnell Douglas MD-90 aircraft have an articulating seat bottom where the seat bottom moves forward in addition to the seat back tilting backwards when reclining.{{citation needed|date=January 2013}}<!--Everything sourced to Flyertalk can't be used--><ref name="ReferenceA">{{cite web|url=http://news.delta.com/index.php?s=43&item=870 |title=Delta to Invest in Customer Experience, Fleet Efficiency |publisher=News.delta.com |date=January 25, 2010 |accessdate=July 7, 2011}}</ref>
+
+Main Cabin passengers receive complimentary snacks and non-alcoholic drinks domestically. Alcoholic beverages are also available for purchase. Complimentary meals and alcoholic drinks are provided on long-haul international flights. As part of Delta's EATS [[buy on board]] program, food is available for purchase on all domestic flights {{convert|1500|mi|km}} or more (including Hawaii and Alaska flights, which no longer offer complimentary meal service).<ref>{{cite web |url=http://www.delta.com/traveling_checkin/inflight_services/economy_class/dining.jsp |title=Food |publisher=Delta Air Lines |accessdate= November 1, 2012}}</ref>
+
+Delta operated a different buy on board program between 2003 and 2005.<ref>Alexander, Keith L. "[http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/03/27/TRG1CBUD291.DTL Passengers find buy-on-board food hard to digest – Airlines are starting to feed fliers again]." ''[[San Francisco Chronicle]]''. Sunday March 27, 2005. {{wayback|url=http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/03/27/TRG1CBUD291.DTL |date=20150102034530 }}</ref><ref>Morales, Tatiana. "[http://www.cbsnews.com/stories/2003/07/04/earlyshow/living/travel/main561770.shtml Buy On-Board Meals?]." ''[[The Early Show]]''/''[[CBS News]]''. July 7, 2003. Retrieved on September 16, 2009.</ref> The previous program had items from differing providers, depending on the origin and destination of the flight.<ref>"[http://web.archive.org/web/20031002224732/www.delta.com/travel/during_flight/dining/food_for_sale_062003/index.jsp Food Sales Test]." Delta Air Lines. October 2, 2003. Retrieved on September 16, 2009.</ref><ref>"[http://web.archive.org/web/20040218160420/www.delta.com/travel/during_flight/dining/food_for_sale_062003/index.jsp Food Sales]." Delta Air Lines. February 18, 2004. Retrieved on September 16, 2009.</ref> Prices ranged up to $10 (${{inflation|USD|10|2004<!--Using 2004-->|r=2}} when adjusted for inflation). The airline started the service on a few selected flights in July 2003, and the meal service was initially offered on 400 flights.<ref name=WeberFreefoodagain>"[http://the.honoluluadvertiser.com/article/2005/Mar/10/bz/bz11p.html Delta restoring free food service]." ''[[Associated Press]]'' at ''[[The Honolulu Advertiser]]''. March 10, 2005. Retrieved on December 31, 2012.</ref> Delta ended this buy on board program in 2005; instead, Delta began offering snacks at no extra charge on flights over 90 minutes to most U.S. domestic flights and some flights to the Caribbean and Latin America. Beginning in mid-March 2005 the airline planned to stop providing pillows on flights within the 49 contiguous U.S. states, Bermuda, Canada, the Caribbean, and Central America. In addition, the airline increased the price of alcoholic beverages on Delta mainline flights from $4 (${{inflation|USD|4|2005|r=2}} when adjusted for inflation) to $5 (${{inflation|USD|5|2005|r=2}} when adjusted for inflation); the increase in alcohol prices did not occur on Song flights.<ref name=WeberFreefoodagain/>
+
+===Basic Economy===
+'''Basic Economy''' is a basic version of Main Cabin, offering the same services with fewer flexibility options for a lower price.<ref name=":0" /> Examples of fewer flexibility options include no ticket changes and only having a seat assigned at check-in.<ref>{{cite web|url=http://www.delta.com/content/www/en_US/traveling-with-us/onboard-experience/main-cabin/basic-economy.html|title=Basic Economy : Delta Air Lines|publisher=}}</ref>
+
+==On-board amenities==
+
+===Wi-Fi===
+On August 5, 2008, Delta announced it would be installing the [[Aircell]] mobile broadband network, [[Gogo Inflight Internet|Gogo]], which enables customers traveling with Wi-Fi enabled devices, such as laptops, smartphones and PDAs, to access the Internet for a fee. Gogo was initially offered on Delta's fleet of McDonnell Douglas MD-88 and MD-90 aircraft but has expanded to the remaining domestic fleet, as well as Delta Connection aircraft with a first class cabin.<ref>{{cite news|author=Dayton Business Journal |url=http://www.bizjournals.com/dayton/news/2010/11/29/delta-adds-wi-fi-on-regional-jets.html |title=Delta Air Lines adds Wi-Fi on regional jets |publisher=Bizjournals.com |accessdate=July 7, 2011 |date=November 29, 2010}}</ref><ref>{{cite web|url=http://blog.delta.com/2012/01/06/a-new-year-means-more-ways-than-ever-to-surf-the-internet-on-delta/ |title=Delta Air Lines Blog &#124; A New Year Means More Ways Than Ever to Surf the Internet on Delta! |publisher=Blog.delta.com |date=2012-01-06 |accessdate=2012-04-05 |deadurl=yes |archiveurl=https://web.archive.org/20120401035303/http://blog.delta.com/2012/01/06/a-new-year-means-more-ways-than-ever-to-surf-the-internet-on-delta/ |archivedate=April 1, 2012 }}</ref> Delta has the largest fleet of Wi-Fi-equipped aircraft in the world.<ref>{{cite news|author=Jon Swartz |url=http://www.usatoday.com/tech/news/2011-02-01-facebook-inflight-wifi_N.htm |title=Airlines Offer Free In-Flight Facebook |work=USA Today |date=February 1, 2011 |accessdate=February 1, 2012}}</ref> The airline introduced its first in-flight Wi-Fi on international routes to Tokyo from Los Angeles and Atlanta in March 2014, and stated its intent to offer the service on all transoceanic flight routes by the end of 2015.<ref>{{cite news|author=Ben Mutzabaugh |url=http://www.usatoday.com/story/todayinthesky/2014/03/26/delta-debuts-international-wi-fi-on-its-boeing-747s/6903427/ |title=Delta debuts international Wi-Fi on its Boeing 747s |work=USA Today |date=March 26, 2014 |accessdate=October 10, 2014}}</ref> Even though Delta has announced the retirement of its 747 fleet, all Delta 747s are wifi-equipped and Delta is currently installing wifi on the [[Boeing 777|777]] fleet.<ref>{{cite web|url=http://news.delta.com/delta-wi-fi-across-trans-atlantic-fleet-gets-customers-online|title=Delta Wi-Fi across trans-Atlantic fleet gets customers online|date=February 3, 2016}}</ref>
+
+===In-flight entertainment===
+
+====History====
+[[File:Deltaavod.jpeg|thumb|Audio Video on Demand offered domestically on select Delta aircraft]]
+[[File:Delta IFE.jpg|thumb|left|Moving Map on a [[Boeing 757|757-200]].]]
+In the 1960s audio programming was introduced where passengers wore headphones consisting of hollow tubes piping in music. These were installed in some Delta aircraft. Some early wide-bodied aircraft, including the [[Lockheed L-1011]], [[Boeing 767-200]], and [[767-300]] fleet, had movies projected on to the cabin bulkhead. Also during the late 1980s and early 1990s, CRT monitors over the aisles were added to the 757 fleet, making them the first narrowbody aircraft to feature video entertainment. The MD-90 introduced Delta's first IFE system with [[liquid crystal display|LCD]] monitors in 1995, and the 777 introduced Delta's first in-seat video system in 1999, initially using the [[Rockwell Collins]] Total Entertainment System. Delta's first all-digital IFE system with AVOD (Panasonic eFX) was first introduced in 2003 on Delta's former low-cost subsidiary, Song. The Rockwell Collins IFE system on the 777s was replaced by the Panasonic eFX system in 2007, followed by the Panasonic eX2 in 2011. The Panasonic eFX and eX2 systems are trademarked by Delta as '''Delta on Demand'''.<ref>{{cite web |url=http://entertainment.delta.com/on_demand/ |title=In-flight Entertainment on your Delta flights |work= Delta Air Lines |accessdate=September 16, 2011}}</ref>
+
+In the spring of 2010, Delta installed the Panasonic eFX AVOD system in Economy on six 767-300ERs that are used on routes that are 12 hours or longer.<ref name="flyertalk.com">{{cite web|author=|url=http://www.flyertalk.com/forum/delta-skymiles/1007665-767-international-fleet-seating-update.html |title=767 International Fleet seating update |publisher=Flyertalk.com |accessdate=July 7, 2011}}</ref> Delta also announced it would be installing AVOD in Economy class on all Boeing 767-300ER and 747 aircraft over the next 3 years.<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=870|title=Delta to Invest in Customer Experience, Fleet Efficiency – Jan 25, 2010|publisher=News.delta.com|date=January 25, 2010|accessdate=May 4, 2010}}</ref>
+
+On July 27, 2010, Delta announced that it would be the launch customer of the new eX2 AVOD system with the Eco 9i Integrated Smart Monitor, a new ultra-lightweight IFE system by Panasonic Avionics Corporation and [[Zodiac Seats U.S.]].<ref name="panasonic">{{cite web|url=http://www.flightglobal.com/blogs/runway-girl/2010/07/delta-air-lines-to-launch-pana.html |title=BREAKING: Delta Air Lines to launch Panasonic's Fusion (Smart!!!) |work=Flight International |accessdate=July 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/20100730173402/http://www.flightglobal.com:80/blogs/runway-girl/2010/07/delta-air-lines-to-launch-pana.html |archivedate=July 30, 2010 }}</ref> The systems have been installed on the entire 747-400 fleet as of October 2012, and are currently being installed on the 767-300ER fleet (except for the six aircraft previously retrofitted with the eFX system in 2010).<ref name="ifec">{{cite web |url=http://www.flightglobal.com/articles/2010/07/28/345502/delta-to-launch-integrated-ifecseat-from-panasonic.html |archiveurl=http://web.archive.org/web/20111102211511/http://www.flightglobal.com/news/articles/delta-to-launch-integrated-ifecseat-from-panasonic-345502/ |archivedate=2011-11-02 |title=Delta to launch integrated IFEC/seat from Panasonic, Weber |work=Flight International  |accessdate=July 7, 2011}}</ref> A different version of the Integrated Smart Monitor developed by Panasonic Avionics Corporation and [[BE Aerospace]] is currently being installed on the Airbus A330 fleet. These seats will also be installed on the Boeing 757-300 and new Boeing 737-900ER fleet, and will replace the existing seats and monitors on the international Boeing 757-200 fleet.
+
+In 2012, Delta began replacing the overhead CRT monitors on the pre-merger Delta 757-200 fleet with new LCD monitors.<ref name="pvt">{{cite web|author=|url=http://www.flyertalk.com/forum/delta-skymiles/1239128-no-ptvs-regular-pmdl-752s-new-lcds-instead-2.html |title=No PTVs for regular PMDL 752s, new LCDs instead |publisher=Flyertalk.com |accessdate=2012-04-05}}</ref> This was completed in late 2012.
+
+The 767-400ER fleet initially featured LCDs over the aisles, but were replaced in 2009 by the Panasonic eFX AVOD system when the last of the 767-400ERs were converted from domestic to international use. CRT projectors were originally featured in economy class on [[Boeing 767|Boeing 767–300s]], with the international 767-300ERs also featuring ceiling-mounted CRT displays over the aisles, which have since replaced by LCD monitors, and are now in the process of being converted to the eFX2 AVOD system.
+
+When Delta's ex-[[Trans World Airlines|TWA]] [[ETOPS]] 757s were first delivered, they featured a system made by Sony Transcom (a former subsidiary of [[Sony]] now sold to [[Rockwell Collins]]) system that was factory installed for TWA. The system featured overhead drop-down [[LCD]] monitors similar to Delta's non-Transcon 737-800s and 757-300s. Delta replaced the Sony Transcom system with the Panasonic eFX system featuring in-seat video and AVOD at the same time as the new BusinessElite seats and slimline economy class seats were installed.<ref>{{cite web|url=http://blog.delta.com/2007/08/31/enhancing-the-entertainment-experience/#comment-122 |title=Enhancing the Entertainment Experience |author=Chris Babb |date=September 2, 2007 |deadurl=yes |archiveurl=https://web.archive.org/20130514010347/http://blog.delta.com/2007/08/31/enhancing-the-entertainment-experience/ |archivedate=May 14, 2013 }}</ref>
+
+====Current fleet====
+Audio and video are available on all aircraft except for the [[Airbus A320 family|Airbus A320]], [[McDonnell Douglas MD-80]] and MD-90, selected [[Boeing 757]], and Delta Connection aircraft. [[Boeing 777-200ER]], [[Boeing 777-200LR|777-200LR]], and 747 aircraft, along with those 767-300 and A330 aircraft that have completed cabin modifications, feature the Panasonic eX2 system. Compared to the older eFX system, this offers greater storage capacity, as well as larger personal video screens.<ref>{{cite press release|url=http://www.shephard.co.uk/Inflight/default.aspx?Action=-1000945703&ID=32c250df-e45e-42d1-9747-bac853a0dd69|archiveurl=http://web.archive.org/web/20071107110406/http://www.shephard.co.uk/Inflight/default.aspx?Action=-1000945703&ID=32c250df-e45e-42d1-9747-bac853a0dd69|archivedate=November 7, 2007|title=US majors get with the cabin-upgrade programme|accessdate=December 16, 2006|publisher=Shepard Group|date=December 16, 2006}}</ref> [[Boeing 767|Boeing 767-400ER]] aircraft, selected 757-200 aircraft, as well as the remaining internationally configured [[Boeing 767|Boeing 767-300ER]] aircraft that have not completed cabin modifications, use the [[Panasonic Avionics Corporation|Panasonic]] eFX AVOD system. On these 767-300 aircraft, AVOD is available only in the Delta One class, while the system includes overhead LCD monitors and audio programming for passengers seated in the Economy cabin. The unmodified Airbus A330  aircraft feature the Panasonic 3000i [[AVOD]] system in all cabins.<ref>{{cite web|url=http://www.airliners.net/photo/Delta-Air-Lines/Airbus-A330-323X/1934632/L/ |title=Delta A330-300 Cabin {{pipe}} |publisher=Airliners.net |date= |accessdate=2012-04-05}}</ref> This system includes supplemental LCD monitors over the aisles for displaying the safety video and moving map.
+
+Domestic [[Boeing 767|Boeing 767–300s]], [[Boeing 737 Next Generation|Boeing 737–700s]], as well as selected transcontinental [[Boeing 757|Boeing 757–200s]] and selected [[Boeing 737 Next Generation|Boeing 737–800s]] using the Panasonic eFX system, also feature live television via [[Dish Network]] in both first class and economy. Some [[Boeing 737 Next Generation|Boeing 737-800s]], as well as all [[Boeing 757|Boeing 757–300s]] feature systems with drop-down LCD displays below the overhead bins.<ref>{{cite web|last=No |first=Brisan |url=http://www.flickr.com/photos/brisan/2242036182/ |title=Delta 737–800 Cabin {{pipe}} Flickr |publisher=Flickr.com |date=2007-12-09 |accessdate=2012-04-05}}</ref>
+
+All aircraft with AVOD feature Panasonic's iXplor moving map program. 737-800s with overhead video and the coach sections of 767-300ER aircraft with overhead video feature the Rockwell Collins Airshow moving map, which is often shown during takeoff and landing. Other aircraft formerly equipped with the Rockwell Collins Airshow moving map included the Lockheed L-1011-250 and -500, [[McDonnell Douglas MD-11]], and [[Boeing 767-400ER]] and [[777-200ER]]. The L-1011 and MD-11 fleet have since been retired, while the 767-400ER and 777-200ER have since had their Airshow systems replaced by the Panasonic iXplor system built into the eFX and eX2 AVOD systems.
+
+===''Delta Sky Magazine''===
+''Delta Sky Magazine'', and its online edition at [http://www.deltaskymag.com/ www.deltaskymag.com], are published by MSP Communications in Minneapolis, Minnesota.
+
+==SkyMiles==
+{{Main|SkyMiles}}
+'''SkyMiles''' is the [[frequent flyer program]] for Delta Air Lines.
+
+==Sky Clubs==
+Delta Air Lines' airport lounges are called '''Sky Clubs'''.<ref>{{cite web|url=http://www.delta.com/skyclub/skyclub.action|title=Delta Sky Club|work=delta.com|accessdate=April 3, 2015}}</ref> Membership options include single visit passes and annual memberships that can be purchased with either money or miles. International business class passengers get free access. Membership can also be granted through top level Delta status or with the purchase of some American Express credit cards.
+
+Features vary by location, but generally include free drinks (including alcoholic beverages), snacks and reading material. Wi-Fi is free for members and guests and is mostly provided in the USA by AT&T. Other benefits for Sky Club members include reciprocal lounge access with other SkyTeam members and Delta's other partners.<ref>{{cite web|url=https://www.delta.com/content/www/en_US/traveling-with-us/airports-and-aircraft/delta-sky-club/perks-amenities.html#perks|title=Delta Sky Club® Perks : Delta Air Lines|publisher=}}</ref>
+
+Originally, Delta's membership-based airport clubs were called '''Crown Room''' lounges, with Northwest's called '''WorldClubs'''.
+
+==SkyBonus==
+On November 27, 2001, Delta Air Lines launched '''SkyBonus''',<ref name="skybonus">{{cite web| title=Even More Reasons to Join| url=http://www.delta.com/skybonus| publisher=Delta.com| accessdate=2013-01-31}}</ref> {{Failed verification|date=March 2013}} a program aimed toward small-to-medium businesses spending between $5,000 and $500,000 annually on air travel.<ref name="bonus press">{{cite press release |url=http://www.prnewswire.com/news-releases/skybonus-becomes-official-business-loyalty-program-for-delta-air-france-klm-and-alitalia-in-north-america-117158528.html|title=SkyBonus Becomes Official Business Loyalty Program for Delta, Air France, KLM and Alitalia in North America| publisher=Delta Airlines| accessdate=2013-01-31}}</ref> Businesses can earn points toward free travel and upgrades, as well as Sky Club memberships and SkyMiles Silver Medallion status. Points are earned on paid travel based on a variety of fare amount paid, booking code, and place origin or destination.<ref name="faq">{{cite web| title=Frequently Asked Questions| url=http://skybonus.delta.com/bizCoFAQ.sb| accessdate=2013-01-31| publisher=Delta Airlines}}</ref> While enrolled businesses are able to earn points toward free travel, the travelling passenger is still eligible to earn SkyMiles during his or her travel.<ref name="faq"/>
+
+In early 2010, Delta Air Lines merged its SkyBonus program with Northwest's similar '''Biz Perks''' program.<ref name="faq" />
+
+==Environmental initiatives==
+In 2008, Delta Air Lines was given an award from the [[United States Environmental Protection Agency]]'s Design for the Environment (DfE) program for their use of PreKote, a more environmentally friendly, non-hexavalent chromium surface pretreatment on its aircraft, replacing hazardous chemicals formerly used to improve paint adhesion and prevent corrosion. In addition, PreKote reduces water usage by two-thirds and reduces wastewater treatment.
+
+PreKote is also saving money by reducing the time needed to paint each airplane. With time savings of eight to ten percent, it will save an estimated more than $1 million annually.<ref name="Delta Air Lines News Release">{{cite web|title=Delta Air Lines Accepts EPA Award for Use of Nontoxic Materials on Aircraft|url=http://news.delta.com/index.php?s=43&item=22|work=Delta Air Lines News Release|publisher=Delta Air Lines|accessdate=March 18, 2011}}</ref>
+
+==Sponsorships==
+[[File:Pink Delta 767-400ER N845MH.jpg|thumb| [[Boeing 767|Boeing 767-400ER]] painted in pink livery for [[Breast Cancer Research Foundation]] (BCRF), at [[Munich Airport]] in 2010.]]
+[[File:Delta Air Lines Boeing 767-432(ER) N845MH.jpg|thumb|The same plane as above, re-christened in the memory of BCRF founder [[Evelyn Lauder]], at JFK Airport in early 2015, with the pink ribbons on the engine nacelles.]]
+[[File:Delta Air Lines Boeing 767-432ER N845MH (pink ribbon).jpg|thumb|In September 2015, the same aircraft was repainted again in a hybrid livery, carrying BCRF titles on the nose with a pink ribbon across the fuselage, approaching the same airfield as the above picture.]]
+* Delta served as the official airline of the [[1996 Summer Olympics]] in Atlanta, the [[2002 Winter Olympics]] held in Salt Lake City,<ref>{{cite web|url=http://news.delta.com/index.php?s=18&cat=39 |title=Delta Airlines Newsroom - Press Kit - History |publisher=Delta Airlines |accessdate=2013-01-30}}</ref> and is also the official airline for [[Major League Baseball]] teams such as the [[Atlanta Braves]], [[Cincinnati Reds]], [[Detroit Tigers]], [[Minnesota Twins]],<ref>{{cite web|url=http://www.prnewswire.com/news-releases/delta-air-lines-bats-a-thousand-by-becoming-the-official-airline-of-the-minnesota-twins-and-newest-partner-at-target-field-89517652.html |title=Delta Air Lines Bats a Thousand by Becoming the Official Airline of the Minnesota Twins and... – MINNEAPOLIS, March 30 /PRNewswire-FirstCall/| location=Minnesota| publisher=Prnewswire.com| accessdate=May 4, 2010}}</ref> [[New York Mets]], [[New York Yankees]], [[Pittsburgh Pirates]], [[San Diego Padres]], [[St. Louis Cardinals]],<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=1935 |title=Delta Partners with Nine Major League Baseball Teams for 2013 Season - Mar 28, 2013 |publisher=Delta Airlines |accessdate=2013-09-27}}</ref> [[Washington Nationals]], [[National Hockey League]] teams [[Buffalo Sabres]],<ref>{{cite web|url=http://news.delta.com/2013-10-10-Delta-and-Buffalo-Sabres-Announce-New-Partnership|archiveurl=http://web.archive.org/web/20140819083718/http://news.delta.com/2013-10-10-Delta-and-Buffalo-Sabres-Announce-New-Partnership|archivedate=2014-08-19 |title=Delta and Buffalo Sabres Announce New Partnership - Oct 28, 2013 |publisher=Delta Airlines |accessdate=2013-10-28}}</ref> [[Los Angeles Kings]],<ref>{{cite press release| title=Delta named Official Airline of Los Angeles' Staples Center, L.A. Kings and the Grammy® Museum| url=http://news.delta.com/index.php?s=20295&item=123605| publisher=Delta Airlines| date=10 February 2011| accessdate=2014-10-25}}</ref> [[Los Angeles Lakers]],<ref>{{cite web|url=http://news.delta.com/index.php?s=43&item=1243 |title=Delta Becomes 'Official Sponsor' of World Champion Los Angeles Lakers - Jan 13, 2011 |publisher=News.delta.com |accessdate=2013-09-27}}</ref> [[Los Angeles Sparks]], [[Chelsea F.C.]],<ref name="chelsea">{{cite news| title=Delta to Sponsor London Soccer Club| url=http://online.wsj.com/article/SB10001424052702304870304577489041716894660.html| work=[[The Wall Street Journal]]| author=Ben Kessling| date=26 June 2012| publisher=wsj.com| accessdate=2013-01-31}}</ref> [[Madison Square Garden]],<ref>{{cite press release| title=Delta lands at Madison Square Garden| url=http://news.delta.com/index.php?s=20295&item=123131| publisher=Delta Airlines| date=October 20, 2009| accessdate=2014-10-25}}</ref> [[Seattle Seahawks]],<ref name="sounders">{{cite press release|url=http://news.delta.com/2013-09-10-Seahawks-and-Sounders-FC-Announce-New-Partnership-with-Delta-Air-Lines| title=Seahawks and Sounders announce new partnership with Delta Air Lines| publisher=Delta Airlines| date=10 September 2013| accessdate=2014-12-13|archiveurl=http://news.delta.com/2013-09-10-Seahawks-and-Sounders-FC-Announce-New-Partnership-with-Delta-Air-Lines| archivedate=September 10, 2013}}{{dead link|date=May 2016}}</ref> [[Seattle Sounders FC]],<ref name="sounders"/>  [[Copa América Centenario]] and the [[Atlanta Dream]].
+* Delta awards the annual [[Delta Prize for Global Understanding]] in conjunction with the [[University of Georgia]].<ref>{{cite web|url=http://www.uga.edu/news/deltaprize/ |title=The Delta Prize for Global Understanding |publisher=Uga.edu |accessdate=July 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/20110605133219/http://www.uga.edu/news/deltaprize/ |archivedate=June 5, 2011 }}</ref>
+* [[Vivint Smart Home Arena]] in Salt Lake City, home of the NBA's [[Utah Jazz]], was originally known as the Delta Center. Delta held the naming rights to the arena from 1991 to 2006 and continues to be an official sponsor of the team.<ref>{{cite web|url=http://www.nba.com/jazz/features/about_energysolutions_arena.html |title=Energy Solutions Arena |publisher=nba.com |date=20 November 2006 |accessdate=2013-01-31 |deadurl=yes |archiveurl=https://web.archive.org/20130109013540/http://www.nba.com:80/jazz/features/about_energysolutions_arena.html |archivedate=January 9, 2013 }}</ref>
+* Delta was a sponsor of the [[North American International Auto Show#2009|2009 North American International Auto Show]] in Detroit.<ref name="naias">{{cite news| title=Official 2009 NAIAS Sponsors| work=Show Talk| publisher=NAIAS| date=2009| issue=2| accessdate=2013-01-31}}</ref>
+* Delta is the official airline for the [[Grammy Awards]].<ref name="grammy">{{cite press release| title=Delta Marks Fourth Year as the Official Airline of GRAMMY® Awards| url=http://news.delta.com/index.php?s=43&item=1267| publisher=Delta Airlines| date=9 February 2011| accessdate=2013-01-31}}</ref>
+* Also in 2011, Delta is the official airline for the [[Durham Bulls]] minor league baseball team.<ref name="bulls">{{cite web|last=Wolf |first=Alan M. |url=http://www.newsobserver.com/2011/04/01/1097462/delta-air-lines-signs-deal-with.html |title=Delta Air Lines signs deal with Durham Bulls – Travel |publisher=NewsObserver.com |date=April 1, 2011 |accessdate=July 7, 2011 |deadurl=yes |archiveurl=http://web.archive.org/web/20120822211907/http://www.newsobserver.com/2011/04/01/1097462/delta-air-lines-signs-deal-with.html |archivedate=August 22, 2012 }}</ref>
+* In August 2011, Delta continued its push into New York City by securing its first arts sponsorship. The deal, with the [[Whitney Museum]], makes Delta the official and exclusive airline of the Museum.<ref>{{cite web|url=http://sponsorpitch.com/articles/2493 |title=Delta Adds Whitney Museum To Growing Portfolio of NY Partnerships |publisher=SponsorPitch.com |accessdate=August 4, 2011 |deadurl=yes |archiveurl=http://web.archive.org/web/20120316120451/http://sponsorpitch.com/articles/2493 |archivedate=March 16, 2012 }}</ref>
+* Delta has sponsored various LGBT Pride events in Atlanta, [[New York City]], [[Salt Lake City]] and [[Detroit, Michigan|Detroit]].<ref>{{cite news|last1=McCombs|first1=Brady|title=Sponsorship of gay pride parades on the rise|url=http://www.usatoday.com/story/money/business/2014/06/28/gay-pride-parades-sponsors/11450345/|publisher=USA Today|date=28 June 2014}}</ref>
+*Delta also sponsors the [[University of Georgia]] and [[Georgia Tech]] athletics and provides transportation for away games.<ref>{{cite web |url=http://www.ramblinwreck.com/travel/geot-travel.html | title=Georgia Tech Yellow Jackets| publisher=ramblinwreck.com | accessdate=2014-11-25}}</ref>
+*Delta Air Lines is the official airline of [[Syracuse University]] Athletics and has marketing relationships with eight additional [[NCAA]] athletic programs &mdash; [[Boston College]], [[Brigham Young University|Brigham Young]], [[Duke University|Duke]], [[Georgia Tech]], [[University of Georgia]], [[University of Michigan]], [[University of Minnesota]] and [[University of North Carolina]]. Delta serves as the charter carrier for 41 NCAA football programs.<ref>{{cite web|url=http://news.delta.com/2013-09-24-Delta-and-Syracuse-University-Athletics-Announce-New-Partnership |title=Delta and Syracuse University Athletics announce New Partnership |publisher=Delta Air Lines |accessdate=2014-12-07 |deadurl=yes |archiveurl=http://web.archive.org/web/20141210164905/http://news.delta.com/2013-09-24-Delta-and-Syracuse-University-Athletics-Announce-New-Partnership |archivedate=December 10, 2014 }}</ref>
+
+==In popular culture==
+
+===Deltalina===
+{{Main|Deltalina}}
+As part of the rebranding project, a [[safety video]] featuring a flight attendant showed up on YouTube in early 2008, getting over 1 million views and the attention of news outlets, specifically for the video's tone mixed with the serious safety message. The flight attendant, Katherine Lee, was dubbed "Deltalina" by a member of FlyerTalk for her resemblance to  [[Angelina Jolie]].<ref>{{cite web |url=http://www.youtube.com/watch?v=MgpzUo_kbFY |title=Delta's New In-flight Safety Video |work=Youtube |date=February 20, 2008 |accessdate=July 7, 2011}}</ref><ref>{{cite web|author=Flyin'Mom |url=http://www.flyertalk.com/forum/9288612-post29.html |title=DL's New Inflight Safety Video |publisher=flyertalk.com |date=February 21, 2008 |accessdate=November 17, 2011}}</ref><ref>{{cite news|url=http://www.cnn.com/video/#/video/tech/2008/03/26/intv.youtube.lee.babb.cnn?iref=mpvideosview |title=Delta's YouTube Star |publisher=CNN  |date=July 16, 2010 |accessdate=July 7, 2011}}</ref><ref>{{cite web|last=Brett |first=Jennifer |url=http://www.ajc.com/services/content/business/delta/stories/2008/03/25/deltalina_0325.html |title='Deltalina,' a real Delta employee, is loving the safety spotlight |publisher=Ajc.com |date=March 25, 2008 |accessdate=July 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/20110629033648/http://www.ajc.com/services/content/business/delta/stories/2008/03/25/deltalina_0325.html |archivedate=June 29, 2011 }}</ref> Delta had considered several styles for its current safety video, including animation, before opting for a video presenting a flight attendant speaking to the audience. The video was filmed on a Boeing 757.<ref>"[http://www.foxnews.com/story/0,2933,340624,00.html Delta's Red-Headed Flight Attendant a Hit on YouTube in Airline's Safety Video]." [[Associated Press]] at ''[[Fox News]]''. Sunday March 23, 2008. Retrieved on August 24, 2009.</ref>
+
+===Safety videos===
+Delta Air Lines has begun introducing humorous inflight safety video presentations, featuring '80s-themed characters, popular Internet memes, and holiday-themed videos at appropriate times of the year, among other topics. Many may be viewed on Delta's official YouTube account.
+
+==Accidents and incidents==
+The following are major incidents and accidents that occurred on Delta Air Lines mainline aircraft. For Northwest Airlines incidents, see [[Northwest Airlines accidents and incidents]]. For Delta Connection incidents, see [[Delta Connection#Incidents and accidents|Delta Connection incidents and accidents]].
+
+{| class="wikitable"
+|+ '''Delta Air Lines Reported Incidents'''
+|-
+!rowspan=2|Flight
+!rowspan=2|Date
+!rowspan=2|Aircraft
+!rowspan=2|Location
+!rowspan=2|Description
+!colspan=5|Casualties
+|-
+!Fatal
+!Serious
+!Minor
+!Uninjured
+!Ground
+|-
+|N/A<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19470422-0&lang=en |title=aviation-safety.net |publisher=aviation-safety.net |accessdate=July 7, 2011}}</ref>
+|April 22, 1947
+|[[Douglas DC-3|DC-3]]
+|[[Columbus, Georgia]]
+|A [[Vultee BT-13]], owned by the [[Tuskegee University|Tuskegee Aviation Institute]], landed on top of a DC-3, which was flying from Macon to Columbus.
+|8
+|0
+|0
+|0
+|1
+|-
+|705<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19480310-1&lang=en |title=aviation-safety.net |publisher=aviation-safety.net |accessdate=July 7, 2011}}</ref>
+|March 10, 1948
+|[[Douglas DC-4|DC-4]]
+|[[Chicago Midway International Airport|Chicago Midway Airport]]
+|Crashed near Chicago Municipal (Midway) Airport shortly after takeoff while en route to Miami. Officials determined that longitudinal control of the airplane was lost resulting in the crash. The cause for the loss of control remains undetermined.
+|12
+|1
+|0
+|0
+|0
+|-
+|318<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19530517-0&lang=en |title=aviation-safety.net |publisher=aviation-safety.net |accessdate=July 7, 2011}}</ref>
+|May 17, 1953
+|DC-3
+|[[Marshall, Texas]]
+|Crashed {{convert|13|mi|km}} east of Marshall, Texas. The flight, which originated from [[Dallas Love Field]], was on approach to [[Shreveport Regional Airport|Shreveport, Louisiana]]. The crash was attributed to adverse weather conditions with a thunderstorm in the area.
+|19
+|1
+|0
+|0
+|1
+|-
+|1903
+|May 23, 1960
+|[[Convair 880]]
+|[[Hartsfield–Jackson Atlanta International Airport]]
+|Crashed during a training exercise in Atlanta. The aircraft stalled and crashed killing all four crew members.
+|4
+|0
+|0
+|0
+|0
+|-
+|9877<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19670330-0&lang=en |title=aviation-safety.net |publisher=aviation-safety.net |accessdate=July 7, 2011}}</ref>
+|March 30, 1967
+|DC-8
+|[[Louis Armstrong New Orleans International Airport]]
+|Crashed during a training exercise near [[Louis Armstrong New Orleans International Airport|New Orleans International Airport]]. The improper use of flight and power controls by both instructor and the Captain-trainee during a simulated two-engine out landing approach, resulted in the loss of control. The aircraft crashed into a residential area, destroying several homes and a motel complex and killing 13 people on the ground.
+|6
+|0
+|0
+|0
+|13
+|-
+|[[Delta Air Lines Flight 9570|9570]]<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19720530-0&lang=en |title=aviation-safety.net |publisher=aviation-safety.net |date=May 30, 1972 |accessdate=July 7, 2011}}</ref>
+|May 30, 1972
+|DC-9
+|[[Greater Southwest International Airport]]
+|Crashed during landing procedures in Fort Worth, Texas. The probable cause of the accident was wake turbulence resulting from a [[touch-and-go landing]] moments before of American Airlines Flight 1114, operated using a [[DC-10]]. The right wing hit the ground causing a fire resulting in the aircraft being written off.
+|4
+|0
+|0
+|0
+|0
+|-
+|954<ref>{{cite web|url=http://libraryonline.erau.edu/online-full-text/ntsb/aircraft-accident-reports/AAR73-15.pdf |title=NTSB Report AAR73-15 |format=PDF |accessdate=2012-04-05}}</ref>
+|December 20, 1972
+|Convair 880
+|[[O'Hare International Airport]]
+|The Delta CV-880 taxied across runway 27L in heavy fog. At the same time, [[North Central Airlines]] Flight 575, a DC-9-31, took off from the same runway. The aircraft [[1972 Chicago-O'Hare runway collision|collided]].
+|10
+|0
+|17 (severity unknown)
+|101
+|0
+|-
+|[[Delta Air Lines Flight 723|723]]
+|July 31, 1973
+|DC-9
+|[[Boston Logan International Airport]]
+|Crashed into a seawall. Contributing to the accident was a defective flight deck instrument giving the crew misleading guidance during the instrument approach in visibility less than a half mile with {{convert|500|ft|m|adj=on}} cloud ceilings. 89 occupants died including Leopold Chouinard,<ref>{{cite web|url=http://www.northeastern.edu/magazine/winter05/firstperson.shtml |title=First-Person |publisher=Northeastern.edu |date=July 31, 1973 |accessdate=March 1, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20090108181633/http://www.northeastern.edu:80/magazine/winter05/firstperson.shtml |archivedate=January 8, 2009 }}</ref> who died from burns months after the accident, leaving no survivors .<ref>{{cite web|author=AirSafe.com, LLC|url=http://www.airsafe.com/events/airlines/delta.htm|title=Fatal Events Since 1970 for Delta Air Lines|publisher=Airsafe.com|accessdate=March 1, 2009}}</ref>
+|89
+|0
+|0
+|0
+|0
+|-
+|[[Delta Air Lines Flight 516|516]]<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19731127-1 |title=aviation-safety.net |publisher=aviation-safety.net |date=November 27, 1973 |accessdate=July 7, 2011}}</ref>
+|November 27, 1973
+|DC-9
+|[[Chattanooga Metropolitan Airport]]
+|Crashed into approach lights during a thunderstorm
+|0
+|4
+|75
+|0
+|0
+|-
+|[[Delta Air Lines Flight 191|191]]
+|August 2, 1985
+|Lockheed L-1011
+|[[Dallas–Fort Worth International Airport]]
+|On a [[Fort Lauderdale]]–[[Dallas Fort Worth Metroplex|Dallas/Fort Worth]]- Los Angeles route, the plane crashed due to severe [[microburst]]-induced [[wind shear]]. One person on the ground was killed as the plane crossed a highway. The crash would later become the subject of a television movie. Numerous changes to pilot wind shear training, weather forecasting, and wind shear detection were made as a result of this crash.<ref name="changed">{{cite episode| title=When Weather Changed History – Delta 191 Crash| url=http://www.livedash.com/transcript/m_a_s_h-%28operation_noselift%29/4692/TVLANDP/Friday_September_3_2010/289645/|network=[[The Weather Channel]]| airdate=8 May 2010| accessdate=2013-01-31}}</ref>
+|134
+|15
+|12
+|2
+|1
+|-
+|37<ref name="closecall">{{cite news| url=http://www.time.com/time/magazine/article/0,9171,965468,00.html| title=Wrong Track: Delta is blamed for a close call| work=Time| publisher=time.com| date=September 14, 1987| first=Ed| last=Magnuson}}</ref>
+|July 8, 1987
+|Lockheed L-1011
+|North Atlantic Ocean
+|Near collision with a [[Continental Airlines|Continental]] 747 carrying 418 passengers and crew. Both the Delta (London-Cincinnati) and Continental (London-Newark) were heading to the U.S. with nearly 600 people total on both aircraft. The Delta flight strayed {{convert|60|mi|km}} off course to the south from its assigned "C" track during its flight and came within {{convert|30|ft|m}} of colliding with the 747 as the L-1011 flew under it in Canadian airspace, flying on the "D" track (there are five westbound and five eastbound tracks from the United States to the United Kingdom). Had the planes actually collided, it could have tied the [[Tenerife airport disaster]] as the deadliest aviation accident in history.
+|0
+|0
+|0
+|All
+|0
+|-
+|[[Delta Air Lines Flight 1141|1141]]
+|August 31, 1988
+|[[Boeing 727]]
+|[[Dallas–Fort Worth International Airport]]
+|Crashed after takeoff bound for Salt Lake City, Utah. The investigation stated the probable cause of this accident to be improper configuration of the flaps and leading edge slats.
+|14
+|26
+|50
+|18
+|0
+|-
+|[[Delta Air Lines Flight 1288|1288]]<ref name="pensacola">{{cite news| title=2 Killed as Engine Parts Pierce Cabin of Delta Jet| url=http://articles.latimes.com/1996-07-07/news/mn-22011_1_left-engine| work=[[Los Angeles Times]]| publisher=LATimes.com| date=7 July 1996| agency=[[Associated Press|AP]]| accessdate=2013-01-31}}</ref>
+|July 6, 1996
+|MD-88
+|[[Pensacola International Airport]]
+|An uncontained engine failure of the port (left) engine on the aircraft resulted in a fan hub piercing the cabin. The flight was scheduled to fly to Atlanta. The aircraft involved in this accident, N927DA, was repaired; as of February 2013, the FAA reports the aircraft involved in the incident is still in service 
+|2
+|2
+|3
+|135
+|0
+|-
+|[[Delta Air Lines Flight 1989|1989]]<ref name="gray">{{cite web|url=http://256.com/gray/thoughts/2001/20010912/delta_flight_1989_9_11/travel.shtml|title=Traveling on Delta Flight 1989 on 9/11|publisher=256.com|accessdate=March 1, 2009}}</ref><ref name="report">{{cite book |url=http://www.gpoaccess.gov/911/pdf/fullreport.pdf |format=PDF |title=The 9/11 Commission Report |chapter=1.1 Inside the Four Flights| page=10| publisher=gpoaccess.gov |isbn=0-16-072304-3}}</ref>
+|September 11, 2001
+|[[Boeing 767|Boeing 767–300]]
+|En route from [[Boston Logan International Airport]]
+|Flight 1989, bound for Los Angeles International Airport was caught in the path of [[United Airlines Flight 93]]. The two aircraft were so close that ATC were initially confused as to which plane had been hijacked. The Delta pilot managed to avoid [[United Airlines Flight 93|United 93]] and the flight was later diverted to [[Cleveland Hopkins International Airport]].<ref name="911report">{{cite book |url=http://www.gpoaccess.gov/911/pdf/fullreport.pdf |format=PDF |title=The 9/11 Commission Report |chapter=1.2 Improvising a Homeland Defense |publisher=gpoaccess.gov |isbn=0-16-072304-3}}</ref>
+|0
+|0
+|0
+|All
+|0
+|-
+|129
+|February 3, 2002
+|McDonnell Douglas MD-11
+|[[Dublin Airport]]
+|Flight 129 from Atlanta skidded off the runway at Dublin Airport in high winds. The port engine of MD-11 N803DE had severe damage<ref>{{cite web|url=http://www.airliners.net/photo/Delta-Air-Lines/McDonnell-Douglas-MD-11/0217136/L/&sid=10f5306a534c938865192dc870efefac |title=Photos: McDonnell Douglas MD-11 Aircraft Pictures |publisher=Airliners.net |date=February 3, 2002 |accessdate=July 7, 2011}}</ref>
+|0
+|0
+|0
+|All
+|0
+|-
+|[[Delta Air Lines Flight 1086|1086]]
+|March 5, 2015
+|McDonnell Douglas MD-88
+|[[LaGuardia Airport]]
+|While landing in heavy snowfall, Flight 1086 from Atlanta departed the left side of runway while traveling approximately 100 miles per hour (160&nbsp;km/h), coming to rest nearly perpendicular to the runway with its nose on an embankment beside the waters of [[Flushing Bay]]. The accident resulted in damage to the aircraft's left wing (including a fuel leak<!-- from the left wing's fuel tank -->), nose landing gear well, main electronics bay, nose radome/weather radar, and undercarriage damage forward of the front doors. The aircraft's braking system and condition of the runway surface are being considered as possible causes of the incident.<ref>{{cite news|last1=Pasztor|first1=Andy|title=Delta Crash: Investigators Suspect Possible Brake Problems|url=http://www.wsj.com/articles/delta-crash-investigators-suspect-possible-brake-problems-1425852167|accessdate=12 March 2015|work=The Wall Street Journal|date=March 9, 2015|subscription=yes}}</ref><ref>{{cite web|title=NTSB Issues Second Update on the Delta Flight 1086 Accident at LaGuardia|url=http://www.ntsb.gov/news/press-releases/Pages/PR20150309.aspx|website=ntsb.gov|publisher=National Transportation Safety Board|accessdate=12 March 2015|date=March 9, 2015}}</ref>
+|0
+|0
+|23<!-- NTSB second update (9 March 2015): "Twenty three passengers received minor injuries, and others were transported to the hospital for evaluation. All passengers have been released from the hospital." -->
+|109<!-- NTSB second update (9 March 2015): "There were 127 passengers (including 2 lap children) and 5 crewmembers on board the flight." 127 (pax) +5 (crew) - 23 (minor injuries) = 109 -->
+|0
+|-
+|159
+|June 16, 2015
+|Boeing 747-400
+|Over Chinese [[airspace]]
+|Flight 159 from Detroit Metropolitan Wayne County Airport to [[Seoul]], [[Incheon International Airport]] was over Chinese airspace when the aircraft flew through a severe hailstorm. This resulted in substantial damage to the aircraft's radome (hail penetrating nose causing a large hole) as well as leading edges of the wing destroyed and damage to the tail plane.<ref>{{cite web|url=http://avherald.com/h?article=48893f03&opt=0|title=The Aviation Herald|publisher=}}</ref><ref>{{cite web|url=http://www.jacdec.de/2015/06/30/2015-06-17-delta-boeing-747-400-badly-damaged-by-hail-over-china/|title=2015-06-17 Delta Boeing 747-400 badly damaged by hail over China|publisher=}}</ref> This aircraft was written off due to its age and because Delta had already began retiring its Boeing 747-400 fleet.<ref>{{cite web|url=http://savvystews.com/2015/06/delta-747-possibly-destroyed-by-hail-on-detroit-to-seoul-flight/|title=Delta 747 Destroyed By Hail, Aircraft a Total Loss|work=SavvyStews.com}}</ref> Temporary repairs were made (to make it air-worthy) and the aircraft was ferried from Seoul to [[Pinal Airpark]] in Marana, Arizona.
+|0
+|0
+|0
+|All
+|0
+|-
+|1889
+|August 7, 2015
+|Airbus A320
+|[[Airspace]] above Nebraska and/or Colorado
+|Flight 1889 from [[Logan International Airport|Boston]] to [[Salt Lake City International Airport|Salt Lake City]] encountered hail and lightning while flying above the Nebraska-Colorado border. The windshield and nose of the aircraft were severely damaged requiring replacement. When this occurred, the pilots lost their weather radar, therefore limiting their ability to know what weather was ahead. The flight was diverted to [[Denver International Airport|Denver]] and passengers were accommodated on another aircraft.
+|0
+|0
+|0
+|All
+|0
+|}
+
+The attempted bombing of [[Northwest Airlines Flight 253]] on December 25, 2009 occurred four days before the operating certificates of Northwest and Delta were combined (December 31, 2009). The aircraft involved in the incident was in Delta livery and reported in some early news reports as "Delta Flight 253."<ref>{{cite news|last1=Weber|first1=Harry|title=Delta's Flight 253 Passengers Get Travel Vouchers From Delta After Foiled Terror Plot|url=http://www.huffingtonpost.com/2009/12/30/deltas-flight-253-passeng_n_407196.html|archiveurl=http://web.archive.org/web/20100102081758/http://www.huffingtonpost.com/2009/12/30/deltas-flight-253-passeng_n_407196.html|archivedate=2010-01-02|accessdate=12 March 2015|work=The Huffington Post|agency=Associated Press|date=March 18, 2010}}</ref><!-- Examples:
+*http://www.huffingtonpost.com/2009/12/30/deltas-flight-253-passeng_n_407196.html (an AP article)
+*http://www.cbsnews.com/pictures/terror-attacks-attempts-since-9-11/21/
+*http://blog.seattlepi.com/airlinereporter/2010/03/09/test-shows-delta-flight-253-could-have-safely-landed-even-if-bomb-detonated/
+*http://www.news.com.au/world/man-arrested-on-flight-into-detroit/story-e6frfkyi-1225814037084
+*http://www.reuters.com/article/2009/12/25/usa-flight-incident-idUSN2513989920091225
+*http://www.sanfranciscosentinel.com/?p=53948
+Furthermore, a ruling about the bomber's statements to investigators uses the term "Northwest-Delta Flight 253":
+*http://www.gpo.gov/fdsys/pkg/USCOURTS-mied-2_10-cr-20005/pdf/USCOURTS-mied-2_10-cr-20005-3.pdf
+-->
+
+===Hijackings===
+[[File:Delta Security Stickers.jpg|thumb|upright|Delta Security stickers on the back of a [[passport]].]]
+
+There have been over a dozen attempted hijackings that resulted in no injuries and the surrender of the often lone hijacker. These incidents are not included. The following are notable hijackings because of fatalities or success in forcing the aircraft to fly to another country:
+* In 1968, a Delta DC-8 was hijacked to Havana, Cuba. This was the first successful hijacking to Cuba from the U.S. since 1961,{{Citation needed|date=April 2011}} and was the start of multiple hijacking attempts to Cuba in the late 1960s. This coincided with the introduction of passenger screening using metal detectors in U.S. airports starting in the late 1960s.
+* Additional hijackings that resulted in no injuries and the flight landing in Cuba include March 28, 1984 (Delta 357 New Orleans-Dallas 727),<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19840328-0&lang=en|title=ASN Aircraft accident Boeing 727 Havana|publisher=Aviation-safety.net|date=March 28, 1984|accessdate=March 1, 2009}}</ref> August 18, 1983 (Delta 784 Miami-Tampa 727),<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19830818-0&lang=en|title=ASN Aircraft accident Boeing 727 Havana|publisher=Aviation-safety.net|date=August 18, 1983|accessdate=March 1, 2009}}</ref> July 17, 1983 (Delta 722 Miami-Tampa 727),<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19830717-0&lang=en|title=ASN Aircraft accident Boeing 727 Havana|publisher=Aviation-safety.net|date=July 17, 1983|accessdate=March 1, 2009}}</ref> June 11, 1979 (Delta 1061 New York LaGuardia-Fort Lauderdale L1011)<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19790611-1&lang=en|title=ASN Aircraft accident Lockheed L-1011 TriStar Havana|publisher=Aviation-safety.net|date=June 11, 1979|accessdate=March 1, 2009}}</ref>
+* July 31, 1972, a [[Delta Flight 841]], a Detroit to Miami DC-8 flight, was hijacked to Algiers, Algeria by 8 hijackers. The aircraft stopped in Boston to pick up an international navigator. The flight was allowed to return with passengers to the U.S., stopping in Barcelona for refueling.<ref name="nbc">{{cite news| url=http://tvnews.vanderbilt.edu/program.pl?ID=465514|title=Delta Hijacking| work=[[NBC Nightly News]] |publisher=Vanderbilt Television News Archive |date=August 1, 1972 |accessdate=2013-01-31}}</ref><ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=19720731-0&lang=en|title=ASN Aircraft accident McDonnell Douglas DC-8 Algiers|publisher=Aviation-safety.net|accessdate=March 1, 2009}}</ref>
+* On February 22, 1974, [[Samuel Byck]], an unemployed tire salesman from Pennsylvania, stormed aboard [[Delta Air Lines Flight 523]], DC-9 flight at [[Baltimore–Washington International Airport|Baltimore Friendship Airport]] (now Baltimore/Washington International Thurgood Marshall Airport) scheduled to fly to Atlanta and shot both pilots, killing the First Officer, Fred Jones. He intended to crash the plane into the [[White House]].<ref name="schneier">{{cite web| url=http://www.schneier.com/blog/archives/2006/06/patrick_smith_o.html |title=Patrick Smith on Airline Security |work=Schneier on Security |publisher=Schneier.com |date=19 June 2006 |accessdate=2013-01-31}}</ref> After shooting the pilots, the hijacker grabbed a passenger and demanded that she fly the aircraft.<ref name="cbs">{{cite web| url=http://tvnews.vanderbilt.edu/program.pl?ID=233047 |title=Hijack Attempt| work=[[CBS Evening News]]| publisher=Vanderbilt Television News Archive| date=February 22, 1974 |accessdate=2013-01-31}}</ref>
+* On August 23, 1980, a Delta Air Lines L-1011 on a San Juan to Los Angeles flight was hijacked and flown to Cuba.<ref name="time">{{cite news| date=25 August 1980|url=http://www.time.com/time/magazine/article/0,9171,948993,00.html| title=CUBA: Havana-Bound(subscription required)| publisher=Time.com| work=Time Magazine| accessdate=2013-01-31}}</ref> The hijacker was jailed by Cuban authorities, and all passengers were released unharmed.
+* On September 13, 1980, a Delta Air Lines New Orleans to Atlanta flight was taken over by two hijackers and forced to fly to Cuba. The flight continued to Atlanta after stopping in Havana. The hijackers were imprisoned by Cuban authorities. One hijacker was released and later sought US residency. The suspect was later arrested by US authorities in 2002<ref name="diaz">{{cite news| url=http://articles.sun-sentinel.com/2002-08-17/news/0208170049_1_hijacking-fbi-arrest| title=Tip Yields Arrest Of Hijack Suspect| work=Sun-Sentinel| publisher=sun-sentinel.com| date=17 August 2002| author= Madeline BarM-s Diaz| accessdate=2013-01-31}}</ref> and sentenced to life in prison the following year without parole.
+
+==See also==
+{{Wikipedia books|Delta Air Lines}}
+{{Portal|Atlanta|Companies|Aviation}}
+* [[Air transportation in the United States]]
+* [[Delta Flight Museum]]
+* [[List of airlines of the United States]]
+* [[List of airports in the United States]]
+* [[List of companies of the United States]]
+* [[Transportation in the United States]]
+
+==References==
+;Notes
+{{Reflist|2}}
+;Bibliography
+* {{cite book |last= Green |first= William |author2=Gordon Swanborough |author3=John Mowinski  |title= Modern Commercial Aircraft |year= 1987 |publisher=Crown Publishers, Inc. |location=New York |isbn= 0-517-63369-8 }}
+
+==External links==
+{{Sister project links|wikt=no|b=no|q=no|s=no|v=no|species=no}}
+* {{official website|https://www.delta.com/|mobile=https://m.delta.com/}}
+* {{OpenCorp}}
+
+{{Delta Air Lines}}
+{{Navboxes
+|list =
+{{Airlines of the United States}}
+{{SkyTeam}}
+{{IATA members|northam}}
+{{Air Transport Association}}
+{{Dow Jones Transportation Average}}
+{{Legacy carrier}}
+{{Airline holding companies of the United States}}
+{{Atlanta companies}}
+}}
+
+[[Category:Delta Air Lines| ]]
+[[Category:Companies listed on the New York Stock Exchange]]
+[[Category:Companies in the Dow Jones Transportation Average]]
+[[Category:Airlines of the United States]]
+[[Category:American brands]]
+[[Category:IATA members]]
+[[Category:Air Transport Association members]]
+[[Category:Airlines established in 1928]]
+[[Category:American companies established in 1928]]
+[[Category:Companies based in Atlanta, Georgia]]
+[[Category:OpenTravel Alliance]]
+[[Category:Companies that have filed for Chapter 11 bankruptcy]]
+[[Category:SkyTeam]]
+[[Category:Aviation in Georgia (U.S. state)]]
+[[Category:1928 establishments in Georgia (U.S. state)]]

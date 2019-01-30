@@ -1,0 +1,827 @@
+Akron, Ohio
+
+{{redirect|Akron}}
+{{Use mdy dates|date=July 2015}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = Akron, Ohio
+| official_name = City of Akron
+| settlement_type = [[City]]
+<!-- images, nickname, motto --->
+| image_skyline = AkronOhioSky.jpg
+| imagesize = 
+| image_caption = 
+| image_flag = Akron Ohio Flag.jpg
+| image_seal = New Seal of Akron.png
+| nickname = {{nowrap|Rubber City}}, {{nowrap|City of Invention}}, {{nowrap|Rubber Capital of the World (''historical'')}}
+<!-- maps and coordinates ------>
+| image_map = Summit County Ohio incorporated and unincorporated areas Akron highlighted.svg
+| mapsize = 260px
+| map_caption = Location in [[Summit County, Ohio|Summit County]] and the state of Ohio.
+| pushpin_map = USA Ohio
+| pushpin_label_position = right
+| pushpin_mapsize = 250
+| pushpin_map_caption = Location in Ohio
+| coordinates_region = US-OH
+<!-- location ------------------>
+| subdivision_type = [[List of countries|Country]]
+| subdivision_type1 = [[Political divisions of the United States|State]]
+| subdivision_type2 = [[List of counties in Ohio|County]]
+| subdivision_name = [[United States]]
+| subdivision_name1 = [[Ohio]]
+| subdivision_name2 = [[Summit County, Ohio|Summit]]
+<!-- established --------------->
+| established_title = Founded
+| established_date = 1825
+| established_title2 = Incorporated
+| established_date2 = 1836 (village)
+| established_title3 = Incorporated
+| established_date3 = 1865 (city)
+<!-- government type, leaders -->
+| government_type = [[Mayor–council government|Strong Mayor–council]]
+| leader_title = Mayor
+| leader_name = [[Dan Horrigan]] ([[Democratic Party (United States)|D]])
+<!-- area ---------------------->
+| area_magnitude = 1 E8
+| area_land_km2 = 160.66
+| area_water_km2 = 0.88
+| area_footnotes = <ref name="Gazetteer files">{{cite web|title=2010 Census Gazetteer Files: Places|url=http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_39.txt|publisher=[[United States Census Bureau]]|accessdate=June 9, 2015}}</ref>
+| area_total_km2 = 161.54
+| area_total_sq_mi = 62.37
+| area_land_sq_mi = 62.03
+| area_water_sq_mi = 0.34
+| area_water_percent = 0.55
+<!-- elevation ----------------->
+| elevation_m = 306
+| elevation_ft = 1004
+| latd= 41 | latm= 4 | lats= 23 | latNS=N
+| longd= 81 | longm= 31 | longs= 4 | longEW=W
+| coordinates_display = inline,title
+<!-- population ---------------->
+| population_as_of = [[2010 United States Census|2010]]
+| population_est = 197,859
+| pop_est_as_of = 2014
+| pop_est_footnotes = <ref name="2014 Pop Estimate">{{cite web|title=Population Estimates|url=http://www.census.gov/popest/data/cities/totals/2014/files/SUB-EST2014_39.csv|publisher=[[United States Census Bureau]]|accessdate=January 1, 2016}}</ref>
+| population_footnotes = <ref name="FactFinder"/>
+| population_total = 199110
+| population_rank = US: [[List of United States cities by population|116th]]
+| population_density_km2 = 1239.3
+| population_density_sq_mi = 3209.9
+| population_urban = 569,499 (US: [[List of United States urban areas|71st]])
+| population_metro = 705,686 (US: [[List of Metropolitan Statistical Areas|77th]])
+| population_demonym = Akronite
+<!-- time zone(s) -------------->
+| timezone = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset = -5
+| timezone_DST = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST = -4
+<!-- postal codes, area code --->
+| postal_code_type = ZIP code
+| postal_code = 44301-44321, 44325, 44326, 44328, 44333, 44334, 44372, 44396, 44398
+| area_code = [[Area codes 234 and 330|234, 330]]
+<!-- blank fields (section 1) -->
+| blank_name = [[Federal Information Processing Standard|FIPS code]]
+| blank_info = 39-01000
+| blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info = 1064305<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+<!-- website, footnotes -------->
+| website = {{URL|ci.akron.oh.us}}
+}}
+'''Akron''' {{IPAc-en|ˈ|æ|k|r|ən}} is the fifth-largest city in the [[U.S. state]] of [[Ohio]] and is the [[county seat]] of [[Summit County, Ohio|Summit County]]. It is in the [[Great Lakes region (North America)|Great Lakes region]] approximately {{convert|39|mi|km}} south of [[Lake Erie]] along the [[Little Cuyahoga River]]. As of the [[2010 United States Census|2010 census]], the city had a population of 199,110.<ref name="American FactFinder2">{{cite web|url=http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml|title=American FactFinder2|accessdate=March 20, 2010}}</ref> The [[Akron Metropolitan Statistical Area|Akron, OH Metropolitan Statistical Area]] (MSA) covers Summit and [[Portage County, Ohio|Portage]] counties, and in 2010 had a population of 703,200.<ref name="American FactFinder2"/> Akron is also part of the larger [[Northeast Ohio|Cleveland-Akron-Canton, OH Combined Statistical Area]], which in 2010 had a population of 3,515,646.
+
+Akron was co-founded in December 1825 when suggested by Paul Williams to [[Simon Perkins]]. In 1833, "South" was temporarily added to the name when Eliakim Crosby settled a bordering North Akron.<ref name=ReferenceA>{{cite web|title=Akron's Historic Timeline: 1800-1849|url=http://www.akronohio.gov/cms/site/2cdaf98b9523ff5c/index.html|publisher=City of Akron|accessdate=June 9, 2015}}</ref> After Summit County formed from portions of Portage, [[Medina County, Ohio|Medina]], and [[Stark County, Ohio|Stark]] counties in 1840, Akron succeeded [[Cuyahoga Falls]] as county seat a year later. The Akron School Law of 1847 created the [[K-12 (education)|K-12 system]].<ref name="ohiohistorycentral.org">{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=1508 |title=Akron School Law - Ohio History Central - A product of the Ohio Historical Society |publisher=Ohio History Central |date=July 1, 2005 |accessdate=September 9, 2012}}</ref> In 1851, [[Sojourner Truth]] attended a convention and extemporaneously delivered the original "[[Ain't I a Woman?]]" speech. During the [[American Civil War|Civil War]], [[Ferdinand Schumacher]] supplied the [[Union Army]] with oats produced by his mill along the [[Ohio Canal]]. Between the 1870s and [[World War I]], numerous churches across the nation were built using the [[Akron Plan]].<ref name="books.google.com">[https://books.google.com/books?id=eYNjS56yx-0C&pg=PA269&dq=John+Fletcher+Hurst+- ''When Church Became Theatre: The Transformation of Evangelical Architecture and Worship in Nineteenth-Century America'']. Jeanne Halgren Kilde. [[Oxford University Press]], 2005. ISBN 978-0-19-517972-9.`p.185</ref><ref name="American Religious Buildings"/>
+
+With a population increase of 201.8% during the 1910s, it became the nation's fastest-growing city because of industries such as stoneware, sanitary sewer, fishing tackle, farming equipment, match, toy, and rubber.<ref name="akronhistory.org">{{cite web|url=http://www.akronhistory.org/butler_clay_products.htm |title=Butler: Clay Products |publisher=Akronhistory.org |date= |accessdate=September 9, 2012}}</ref><ref name="ReferenceB">{{Cite journal | url = https://books.google.com/?id=HxsWAAAAYAAJ&pg=PA631&lpg=PA631&dq=Paul+Williams+founder+akron+ohio#v=onepage&q=Paul%20Williams%20founder%20akron%20ohio&f=false | title = Historical collections of Ohio: An encyclopedia of the state: History both general and local, geography with descriptions of its counties, cities and villages, its agricultural, manufacturing, mining and business development, sketches of eminent and interesting characters, etc., with notes of a tour over it in 1886 | author1 = Howe | first1 = Henry | year = 1896}}</ref> The companies [[General Tire]], [[Goodrich Corporation|B.F. Goodrich]], [[Firestone Tire and Rubber Company|Firestone]], and [[Goodyear Tire and Rubber Company|Goodyear]] built headquarters, though only the latter remains. Airships, blimps, dirigibles, and zeppelins have been manufactured at the [[Goodyear Airdock]] since [[World War II]]. The [[Goodyear Polymer Center]] and National Polymer Innovation Center are on the [[University of Akron]] campus, which anchors the Polymer Valley and is home to the [[Archives of the History of American Psychology]]. Akron also headquartered the National Marble Tournament, [[Professional Bowlers Association]], and [[Mud Wrestling|Women's Professional Mud Wrestling]].<ref name="ohio.com">{{cite web| url=http://www.ohio.com/news/top_stories/112492234.html |archiveurl=https://web.archive.org/web/20110101003320/http://www.ohio.com/news/top_stories/112492234.html |archivedate=January 1, 2011 |title=Mighty mud maidens}}</ref> Home to employers such as [[Summa Health System|Summa]], [[Gojo Industries|GOJO Industries]], [[FirstMerit Bank]], and [[FirstEnergy]], it is listed by ''[[Newsweek]]'' as one of ten [[Information Age]] high tech havens.<ref name="newsweek.com">{{cite web|url=http://www.newsweek.com/2001/04/29/a-new-brand-of-tech-cities.html |title=A New Brand Of Tech Cities - Newsweek and The Daily Beast |publisher=Newsweek.com |date=April 29, 2001 |accessdate=September 9, 2012}}</ref> Awarded by the [[National Civic League]] and [[National Arbor Day Foundation]], it was named one of the [[world's most livable cities]].<ref name="Ci.akron.oh.us">{{cite press release|url=http://ci.akron.oh.us/News_Releases/2009/0417.htm|title=Akron Named Tree City USA by the Arbor Day Foundation|publisher=City of Akron|date=April 17, 2009|accessdate=June 9, 2015|archiveurl=https://web.archive.org/web/20110927151804/http://ci.akron.oh.us/News_Releases/2009/0417.htm|archivedate=September 27, 2011}}</ref> The [[All-American Soapbox Derby]], [[WGC-Bridgestone Invitational]], [[Hamburger|National Hamburger Festival]], [[Alcoholics Anonymous|Founders Day]] ([[Alcoholics Anonymous]]), and Road Runner Akron Marathon are annually hosted by the city, which was a venue for some events of the [[Gay Games|2014 Gay Games]]. Tourist attractions include [[Stan Hywet Hall and Gardens|Stan Hywet Hall & Gardens]] and Lock 3 Park, where the American Marble & Toy Manufacturing Company once stood.
+
+Residents of Akron are referred to as "[[List of people from Akron, Ohio|Akronites]]".  Nicknames include "Rubber City", "City of Invention" and "Rubber Capital of the World".<ref name="Akron: News Releases 2003: AKRON HISTORY RETURNS TO THE CANAL"/><ref name="Community slogans about products"/><ref name="Rubber Capital, City"/>
+
+==History==
+[[File:TownplotpfAkron.jpg|upright|thumb|left|Original town plot of Akron]]
+In 1811, Paul Williams settled near the corner of what is now Buchtel Avenue and Broadway and suggested to surveyor of the [[Connecticut Land Company]]'s [[Connecticut Western Reserve]] General [[Simon Perkins]], the co-founding of a town at the summit of the developing [[Ohio and Erie Canal]]. The name derived from the [[Greek language|Greek]] word {{lang|grc|ἄκρον}} signifying a summit or high point.<ref>{{LSJ|a)/kron|ἄκρον|ref}}.</ref> Laid out in December 1825, where the South part of the Downtown, Akron neighborhood now is; Irish laborers working on the [[Ohio Canal]] built approximately 100 cabins nearby in autumn.
+
+Because of Eliakim Crosby founding "North Akron" (Cascade) in 1833, "South" was added to Akron's name up until the two merged and became an incorporated village in 1836.<ref name="ReferenceA"/> In 1840 [[Summit County, Ohio|Summit County]] formed from portions of [[Portage County, Ohio|Portage]], [[Medina County, Ohio|Medina]], and [[Stark County, Ohio|Stark]] counties. Akron replaced [[Cuyahoga Falls]] as its county seat a year later and opened a canal connecting to [[Beaver, Pennsylvania]], helping give birth to the [[stoneware]], [[Sanitary sewer|sewer pipe]], [[fishing tackle]], and [[farming|farming equipment]] industries.<ref name="akronhistory.org"/><ref name="ReferenceB"/> In 1844, abolitionist [[John Brown (abolitionist)|John Brown]] moved into the [[John Brown House (Akron, Ohio)|John Brown House]] across the street from business partner [[Colonel Simon Perkins]] who lived in the [[Perkins Stone Mansion]]. The Akron School Law of 1847 began the [[K-12 (education)|K-12 grade school system]], which currently is used in every U.S. state.<ref name="ohiohistorycentral.org"/>
+{{clear}}
+
+===1850s–1890s: Summit City===
+[[File:Quaker Oats factory, Akron.jpg|thumb|right|[[Quaker Square]] as it appeared in 1979]]
+When the Ohio Women's Rights Convention came to Akron in 1851, [[Sojourner Truth]] extemporaneously delivered her speech named ''[[Ain't I A Woman?]]'', at the Universalist Old Stone Church. Associated with the church, [[John R. Buchtel]] founded Buchtel College in 1870, renamed the [[University of Akron]] in 1913. Purchasing a mill in 1856, [[Ferdinand Schumacher]] mass-produced [[oat|oat bars]] which the [[Union Army]] were supplied with during the [[American Civil War]], becoming high in demand afterward. Akron incorporated as a city in 1865.<ref>{{cite web|author=Ben Cahoon |url=http://www.worldstatesmen.org/US_Mayors.html#Akron |title=Mayors of U.S. Cities A-L |publisher=Worldstatesmen.org |date= |accessdate=September 9, 2012}}</ref> Philanthropist [[Lewis Miller (philanthropist)|Lewis Miller]], Walter Blythe, and architect Jacob Snyder designed the widely used [[Akron Plan]], debuting it on Akron's First Methodist Episcopal Church in 1872.<ref name="nrhpinv_ny"/> Numerous [[Congregational church|Congregational]], [[Baptist]], and [[Presbyterian]] churches built between the 1870s and World War I use it.<ref name="books.google.com"/><ref name="American Religious Buildings"/> In 1883, a local journalist began the modern toy industry by founding the [[Akron Toy Company]]. A year later, the first popular toy was mass-produced [[clay]] [[marbles]] made by [[Samuel C. Dyke]] at his shop where Lock 3 Park is now. Other popular inventions include rubber balloons; ducks; dolls; balls, Baby Buggy Bumpers, and Little Brown Jugs. In 1895, the first long distance electric railway, the [[Akron, Bedford and Cleveland Railroad]], began service.<ref>http://omp.ohiolink.edu/OMP/NewDetails?oid=955184&scrapid=566&format=yourscrap&sort=title&searchstatus=0&count=1&hits=1</ref> On August 25, 1889, the [[Boston Daily Globe]] referred to Akron with the nickname "Summit City".<ref name="PopikSmoky"/> To assist local police, the city deployed the first police car in the U.S. running on electricity.<ref name="Police Technology"/>
+
+===1900s–1990s: Rubber Capital of the World===
+{{See also|Akron Rubber Strike of 1936}}
+[[File:GoodYearWorldHead.jpg|thumb|right|Goodyear headquarters]]
+The [[Crime in Akron, Ohio|Riot of 1900]] resulted in city officials being assaulted, two deaths, plus Columbia Hall and the Downtown Fire station  (now the City Building since 1925) burning to the ground.<ref>{{cite web|url=http://www.ci.akron.oh.us/history/Riot_1900.htm |title=Akron Ohio History: 1900 Riot |publisher=Ci.akron.oh.us |date= |accessdate=September 9, 2012 |deadurl=yes |archiveurl=https://web.archive.org/20120215182049/http://www.ci.akron.oh.us/history/Riot_1900.htm |archivedate=February 15, 2012 }}</ref> The American [[trucking industry]] was birthed through Akron's Rubber Capital of the World era when the four major tire companies [[Goodrich Corporation]] (1869), [[Goodyear Tire and Rubber Company]] (1898), [[Firestone Tire and Rubber Company]] (1900),<ref>{{cite web|url=http://www.goodyear.com/corporate/history/history_overview.html |title=Goodyear Corporate &#124;&#124; Historic Overview |publisher=Goodyear.com |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090409024843/http://goodyear.com/corporate/history/history_overview.html| archivedate= April 9, 2009 | deadurl= no}}</ref> and [[General Tire]] (1915)<ref>{{cite web|url=http://www.generaltire.com/generaltire/ |title=General Tire * Our Company |publisher=Generaltire.com |date=March 23, 2009 |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090301152422/http://www.generaltire.com/generaltire/| archivedate= March 1, 2009 | deadurl= no}}</ref><ref>{{cite web|url=http://www.summitmemory.org/cdm4/results.php?CISOOP1=any&CISOBOX1=William&CISOFIELD1=CISOSEARCHALL&CISOOP2=all&CISOBOX2=postcards&CISOFIELD2=subjec&CISOROOT=all&t=s |title=CONTENTdm Collection |publisher=Summitmemory.org |date= |accessdate=September 9, 2012}}</ref> were headquartered in the city. The numerous jobs the rubber factories provided for deaf people led to Akron being nicknamed the "Crossroads of the Deaf".<ref name="deaftoday.com"/> On Easter Sunday 1913, Akron's total rainfall was recorded at 9.55&nbsp;inches resulting in a flood which killed five citizens and destroyed the Ohio and Erie Canal system. From 1916–1920 10,000 schoolgirls took part in the successful Akron Experiment, testing [[iodized salt]] to prevent [[goiter]] in what was known as the "Goiter Belt".<ref>[http://www.ohio.com/lifestyle/history/40932322.html ]{{Dead link|date=September 2012}}</ref>
+
+Rubber companies responded to housing crunches by building affordable housing for workers. Goodyear's president, [[Frank Seiberling]], built the [[Akron neighborhoods|Goodyear Heights]] neighborhood for employees. Likewise, [[Harvey Firestone]] built the [[Akron neighborhoods|Firestone Park]] neighborhood for his employees.<ref>{{cite web|url=http://ci.akron.oh.us/planning/cp/neighborhoods/FirestonePark.pdf |title=Firestone Park |format=PDF |date= |accessdate=September 9, 2012 |deadurl=yes |archiveurl=https://web.archive.org/20120220033031/http://ci.akron.oh.us/planning/cp/neighborhoods/FirestonePark.pdf |archivedate=February 20, 2012 }}</ref> During the 1910–1920 decade Akron became a [[Boomtown|boom town]] being America's fastest growing city with a 201.8% increase in population. Of the 208,000 citizens, almost one-third were [[immigrants]] (also [[Clark Gable]])<ref name="Clark Gable - Ohio History Central - A product of the Ohio Historical Society"/> and their children from places including Europe and West Virginia. In 1925 Goodyear's subsidiary [[Luftschiffbau Zeppelin|Zeppelin Company]] began manufacturing airships used in World War II and eventually [[blimps]] for advertising purposes.<ref name="blimp"/><ref name="Guide to military installations"/><ref>{{cite web|last = [[Akron-Summit County Public Library]]|first = [http://www.summitmemory.org/index.php Summit Memory]|title = Goodyear-Zeppelin Corporation, Facts About the World's Largest Airship Factory & Dock|url=http://www.summitmemory.org/cdm4/document.php?CISOROOT=/fulton&CISOPTR=97&CISOSHOW=93|accessdate = November 15, 2008}}</ref> Akron again grew when [[Kenmore, Akron, Ohio|Kenmore]] was annexed by voter approval on November 6, 1928. Found hiding under a bed at one of his hideouts in the city, notorious bank robber Charles Arthur "[[Pretty Boy Floyd|Pretty Boy]]" Floyd was arrested under the name "Frank Mitchell" in March 1930.<ref>{{cite web|url=http://ngeorgia.com/ang/Charles_Arthur_%27Pretty_Boy%27_Floyd |title=Charles Arthur 'Pretty Boy' Floyd |publisher=Ngeorgia.com |date= |accessdate=September 9, 2012}}</ref> Goodyear became America's top tire manufacturer after merging with [[The Kelly Springfield Tire Company|The Kelly-Springfield Tire Company]] in 1935.<ref name="Claims to Fame - Products"/> Lasting five weeks and consisting of roughly 5,000 strikers including union sympathizers from other factories and neighboring states, the [[Akron Rubber Strike of 1936]] successfully used "sit-down" tactic being organized by the United Rubber Workers.<ref>{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=461 |title=Akron Rubber Strike of 1936 - Ohio History Central - A product of the Ohio Historical Society |publisher=Ohio History Central |date=July 1, 2005 |accessdate=September 9, 2012}}</ref> During the 1950s–60s Akron surged as use of the automobile did. The historic [[Rubber Bowl]] was used by the [[National Guard of the United States]] as a base during the racial [[Crime in Akron, Ohio|Wooster Avenue Riots of 1968]]. Like many other industries of the [[Rust Belt]], both the tire and rubber industries experienced major decline. By the early 1990s, Goodyear was the last major tire manufacturer based in Akron.
+
+===2000s: City of Invention===
+[[File:AkronUniverstyBucthel.JPG|thumb|left|The UofA displays the [[Archives of the History of American Psychology]]]]
+Despite the number of rubber workers decreasing by approximately half from 2000–07, Akron's research in [[polymers]] gained an international reputation.<ref name="Akron, Ohio"/> It now centers the [[Polymer Valley]] which consist of 400 polymer-related companies, of which 94 were located in the city itself.<ref name="newsweek.com"/> Research is focused at the [[University of Akron]] which is home to the [[Goodyear Polymer Center]] and [[National Polymer Innovation Center]], and first College of Polymer Science and Polymer Engineering. Because of its contributions to the [[Information Age]], ''[[Newsweek]]'s'' listed Akron fifth of ten [[high tech]] havens in 2001.<ref name="newsweek.com"/> In 2008 "City of Invention" was added to the seal when the [[All-America City Award]] was received for the third time. Some events of the [[Gay Games|2014 Gay Games]] used the city as a venue.
+
+The city also continues to deal with the effects of air and soil pollution from its industrial past. In the southwestern part of the city, soil was contaminated and noxious [[Polychlorinated biphenyl|PCB]]-laden fumes were put into the air by an electrical transformer deconstruction operation that existed from the 1930s to the 1960s. Cleanup of the site, designated as a [[Superfund]] site by the [[Environmental Protection Agency]], began in 1987 and concluded in 2000. The area remains restricted with regular reviews of the site and its underground aquifer.<ref>{{cite news|last1=Downing|first1=Bob|title=EPA begins new review of Superfund cleanup at Akron’s Summit Equipment|url=http://www.ohio.com/news/local/epa-begins-new-review-of-superfund-cleanup-at-akron-s-summit-equipment-1.356906|agency=Beacon Journal|publisher=Ohio.com|date=December 10, 2012}}</ref><ref>{{cite news|last1=Harper|first1=John|title=When PCBs, heavy metal spewed from smokestacks in southwest Akron: Toxic Remains|url=http://www.cleveland.com/akron/index.ssf/2015/12/when_pcbs_and_heavy_metal_spew.html|accessdate=31 December 2015|publisher=Cleveland.com|date=December 28, 2015}}</ref><ref>{{cite web|title=SUMMIT EQUIPMENT & SUPPLIES INCORPORATION|url=http://www3.epa.gov/region5/superfund/npl/sas_sites/OHD055523401.html|website=epa.gov|publisher=U.S. Environmental Protection Agency}}</ref>
+
+==Geography==
+[[File:Panorama of Akron Ohio.jpg|thumb|right|Downtown Akron from the [[All-American Bridge|All-America Bridge]]]]
+Akron is located in the [[Great Lakes region (North America)|Great Lakes region]] approximately {{convert|39|mi|km}} south of [[Lake Erie]], on the [[Glaciated Allegheny Plateau]]. It is bordered by [[Cuyahoga Falls, Ohio|Cuyahoga Falls]] on the north, and [[Barberton, Ohio|Barberton]] in the southwest. It is the center of the [[Akron Metropolitan Statistical Area]] which covers [[Summit County, Ohio|Summit]] and [[Portage County, Ohio|Portage]] counties, and the larger [[Greater Cleveland|Cleveland-Akron-Elyria Combined Statistical Area]]. Located on the western end of the plateau, the topography of Akron includes rolling hills and varied terrain. The [[Ohio and Erie Canal]] passes through the city, separating the east from west. Akron has the only [[biogas]] facility<ref name="Hungry Bacteria Begins Saving Akron Money"/> in the United States that produces [[methane]] through the decomposition process of sludge to create electricity.<ref name="Akron leads the way"/>
+According to the 2010 census, the city has a total area of {{convert|62.37|sqmi}}, of which {{convert|62.03|sqmi}} (or 99.45%) is land and {{convert|0.34|sqmi}} (or 0.55%) is water.<ref>{{cite web
+  |url=http://timetravel.mementoweb.org/memento/2010/http://www.census.gov/geo/www/gazetteer/files/2010_place_list_39.txt
+  |title=2010 Census U.S. Gazetteer Files for Places – Ohio
+  |publisher=United States Census
+  |accessdate=October 19, 2012
+}}</ref>
+
+===Climate===
+Akron has a [[humid continental climate]] ([[Köppen climate classification|Köppen]] ''Dfa''), typical of the [[Midwestern United States|Midwest]], with four distinct seasons, and lies in USDA [[hardiness zone]] 6b, degrading to zone 6a in the outlying suburbs.<ref>{{vcite web |title=USDA Plant Hardiness Zone Map |author=United States Department of Agriculture |publisher=[[United States National Arboretum]] |url=http://www.usna.usda.gov/Hardzone/hzm-ne1.html |accessdate=February 19, 2015 |authorlink=United States Department of Agriculture}}</ref> Winters are cold and dry but typically bring a mix of rain, sleet, and snow with occasional heavy snowfall and icing. January is the coldest month with an average mean temperature of {{convert|26.1|F|1}},<ref name = NOAA /> with temperatures on average dropping to or below {{convert|0|F|0}} on 3.8&nbsp;days and staying at or below freezing on 41&nbsp;days per year.<ref name = NOAA /> Snowfall averages {{convert|47.5|in|cm}} per season, significantly less than the [[snowbelt]] areas closer to [[Lake Erie]].<ref name = NOAA /> The snowiest month on record was {{convert|37.5|in|cm}} in January 1978, while winter snowfall amounts have ranged from {{convert|82.0|in|cm|abbr=on}} in 1977–78 to {{convert|18.2|in|cm|abbr=on}} in 1949–50.<ref name = NOAA /> Springs generally see a transition to fewer weather systems that produce heavier rainfall. Summers are typically very warm and humid with temperatures at or above {{convert|90|F|0}} on 8.0&nbsp;days per year on average; the annual count has been as high as 36&nbsp;days in 1931, while the most recent year to not reach that mark is 2004.<ref name = NOAA /> July is the warmest month with an average mean temperature of {{convert|72.0|F|0}}.<ref name = NOAA /> Autumn is relatively dry with many clear warm days and cool nights.
+
+The all-time record high temperature in Akron of {{convert|104|F|0}} was established on August 6, 1918, and the all-time record low temperature of {{convert|−25|F|0}} was set on January 19, 1994.<ref name = NOAA /> The first and last freezes of the season on average fall on October 18 and April 26, respectively, allowing a growing season of 174&nbsp;days.<ref name = NOAA /> The normal annual mean temperature is {{convert|49.8|F|1}}.<ref name = NOAA /> Normal yearly [[precipitation (meteorology)|precipitation]] based on the 30-year average from 1981–2010 is {{convert|39.62|in|mm}}, falling on an average 158&nbsp;days.<ref name = NOAA /> Monthly precipitation has ranged from {{convert|12.55|in|mm|abbr=on}} in July 2003 to {{convert|0.20|in|mm|abbr=on}} in September 1960, while for annual precipitation the historical range is {{convert|65.70|in|mm|abbr=on}} in 1990 to {{convert|23.79|in|mm|abbr=on}} in 1963.<ref name = NOAA />
+
+{{Weather box |imperial first = Y
+|location = Akron, Ohio ([[Akron-Canton Regional Airport|Akron-Canton Airport]]), 1981–2010 normals, extremes 1887–present
+|single line = Y
+|collapsed
+|Jan high F = 33.1
+|Feb high F = 36.7
+|Mar high F = 46.6
+|Apr high F = 59.6
+|May high F = 69.3
+|Jun high F = 78.0
+|Jul high F = 82.0
+|Aug high F = 80.3
+|Sep high F = 73.0
+|Oct high F = 61.0
+|Nov high F = 49.2
+|Dec high F = 37.0
+|year high F =58.8
+|Jan low F = 19.1
+|Feb low F = 21.3
+|Mar low F = 28.5
+|Apr low F = 38.8
+|May low F = 48.5
+|Jun low F = 57.7
+|Jul low F = 61.9
+|Aug low F = 60.6
+|Sep low F = 53.3
+|Oct low F = 42.5
+|Nov low F = 33.9
+|Dec low F = 23.9
+|year low F =40.8
+
+|Jan avg record high F =56.1
+|Feb avg record high F =59.1
+|Mar avg record high F =72.1
+|Apr avg record high F =80.1
+|May avg record high F =84.2
+|Jun avg record high F =89.9
+|Jul avg record high F =91.1
+|Aug avg record high F =90.1
+|Sep avg record high F =86.0
+|Oct avg record high F =77.8
+|Nov avg record high F =68.8
+|Dec avg record high F =58.3
+|year avg record high F=92.3
+|Jan avg record low F = −2.4
+|Feb avg record low F =  2.1
+|Mar avg record low F = 10.1
+|Apr avg record low F = 23.4
+|May avg record low F = 34.9
+|Jun avg record low F = 43.5
+|Jul avg record low F = 50.3
+|Aug avg record low F = 49.2
+|Sep avg record low F = 39.6
+|Oct avg record low F = 29.7
+|Nov avg record low F = 19.1
+|Dec avg record low F =  5.5
+|year avg record low F= −6.1
+
+|Jan record high F =  73
+|Feb record high F =  72
+|Mar record high F =  83
+|Apr record high F =  89
+|May record high F =  94
+|Jun record high F = 100
+|Jul record high F = 102
+|Aug record high F = 104
+|Sep record high F =  99
+|Oct record high F =  89
+|Nov record high F =  80
+|Dec record high F =  76
+|year record high F= 104
+|Jan record low F = −25
+|Feb record low F = −20
+|Mar record low F =  −6
+|Apr record low F =  10
+|May record low F =  24
+|Jun record low F =  32
+|Jul record low F =  41
+|Aug record low F =  39
+|Sep record low F =  29
+|Oct record low F =  20
+|Nov record low F =  −1
+|Dec record low F = −16
+|year record low F= −25
+|precipitation colour = green
+|Jan precipitation inch = 2.61
+|Feb precipitation inch = 2.31
+|Mar precipitation inch = 2.98
+|Apr precipitation inch = 3.55
+|May precipitation inch = 4.28
+|Jun precipitation inch = 3.83
+|Jul precipitation inch = 4.08
+|Aug precipitation inch = 3.56
+|Sep precipitation inch = 3.45
+|Oct precipitation inch = 2.83
+|Nov precipitation inch = 3.30
+|Dec precipitation inch = 2.84
+|year precipitation inch=
+|snow colour = green
+|Jul snow inch =    0
+|Aug snow inch =    0
+|Sep snow inch =    0
+|Oct snow inch =  0.4
+|Nov snow inch =  3.0
+|Dec snow inch = 10.2
+|Jan snow inch = 12.4
+|Feb snow inch = 10.5
+|Mar snow inch =  8.2
+|Apr snow inch =  2.7
+|May snow inch =  0.1
+|Jun snow inch =    0
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 17.1
+|Feb precipitation days = 14.1
+|Mar precipitation days = 14.0 
+|Apr precipitation days = 14.3
+|May precipitation days = 14.0
+|Jun precipitation days = 12.1
+|Jul precipitation days = 11.3
+|Aug precipitation days =  9.6
+|Sep precipitation days = 10.2
+|Oct precipitation days = 10.9
+|Nov precipitation days = 13.8
+|Dec precipitation days = 16.2
+|unit snow days = 0.1 in
+|Jul snow days =    0
+|Aug snow days =    0
+|Sep snow days =    0
+|Oct snow days =  0.5
+|Nov snow days =  3.4
+|Dec snow days = 10.3
+|Jan snow days = 13.0
+|Feb snow days =  9.4
+|Mar snow days =  6.8
+|Apr snow days =  2.5
+|May snow days =    0
+|Jun snow days =    0
+|source 1 = NOAA<ref name= NOAA>
+{{cite web
+  | url = http://www.nws.noaa.gov/climate/xmacis.php?wfo=cle
+  | title = NowData – NOAA Online Weather Data
+  | publisher = [[National Oceanic and Atmospheric Administration]]
+  | accessdate = 2016-04-12
+}}</ref><ref name="NOAA KCAK">{{cite web |url=ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USW00014895.normals.txt |publisher=National Oceanic and Atmospheric Administration |title=Station Name: OH AKRON CANTON RGNL AP |deadurl=no |accessdate=February 21, 2015}}</ref>
+|date=February 2012
+}}
+
+==Cityscape==
+[[File:AkronPanorama.jpg|center|640px|thumb|View of the Akron skyline from the west looking east]]
+
+===Architecture===
+[[File:Nolan N. Guzzetta Sculpture.jpg|thumb|right|Jablonski Sculpture, a gift of the Zimmite Corporation in tribute to Nola M. Guzztta's humanitarian interest in providing for the blind a vision of artistic and architectural design through touch.<ref name="Nolan N. Guzzetta Miniature Sculpture, (sculpture)"/>]]
+{{See also|List of tallest buildings in Akron, Ohio|Category:Buildings and structures in Akron, Ohio}}
+As a result of multiple towns merging, and industry boom, Akron's architecture is diverse.
+
+Originally a canal town, the city is divided into two parts by the [[Ohio and Erie Canal]], with downtown being centered on it. Along the locks, the city has a path paved with rubber.
+
+Akron was awarded with the [[World's most livable cities|City Livability Award]] in 2008 for its efforts to co-purpose new school buildings as community learning centers. In 2009, the [[National Arbor Day Foundation]] designated Akron as a [[Tree City USA]] for the 14th time.<ref name="Ci.akron.oh.us"/>
+
+Many of the city's government and civic buildings, including City Hall, the [[Summit County Courthouse (Ohio)|Summit County Courthouse]], the [[Akron-Summit County Public Library]], and [[John S. Knight Center]] are fairly old.
+
+The First Methodist Episcopal Church first used the [[Akron Plan]] in 1872, the plan later gained popularity, being used in many [[Congregationalists]], [[Baptists]], and [[Presbyterians]].<ref name="nrhpinv_ny"/><ref>[https://books.google.com/books?id=eYNjS56yx-0C&pg=PA269&dq=John+Fletcher+Hurst+- ''When Church Became Theatre: The Transformation of Evangelical Architecture and Worship in Nineteenth-Century America'']. Jeanne Halgren Kilde. [[Oxford University Press]], 2005. ISBN 0-19-517972-2.`p.185</ref>
+
+The city is home to a historic 1920s atmospheric [[movie palace]], the [[Akron Civic Theatre]].  One of the building's features is a starry sky with clouds that drift over it when the lights are dimmed.
+
+Completed in 1931, Akron's tallest building, the [[FirstMerit Tower]], features the [[art deco]] style and is covered in [[glazed architectural terra-cotta]].<ref name="FirstMerit Restoration">FirstMerit Restoration, http://www.westerngroup.com/servicesAndProjects/structures/officeCommercial.jspx?fileName=1120493926173-106-04-01.jpg&id=245</ref> Standing {{convert|330|ft|m}}, it is built on top of the Hamilton Building, completed in 1900 in the [[neo-gothic]] style.{{Citation needed|date=February 2011}} Near the turn of the millennium the tower was given a $2.5 million facelift, including a $1.8 million restoration of the tower's terra-cotta, brick and limestone.<ref name="FirstMerit Restoration"/> The top of the building has a television broadcast tower, formerly used by WAKR-TV (now [[WVPX-TV]]) and [[WAKR-AM]].<ref>{{cite news|title=Scraping the Sky|work=[[Beacon Journal]]|publisher=[[Knight-Ridder]]|page=Beacon Magazine 13|date=March 14, 1999}}</ref> The antenna reaches {{convert|134.7|m|ft}}.{{Citation needed|date=February 2011}}Located on the [[University of Akron]] campus, the [[Goodyear Polymer Center]], is glass twin towers connected by walkways. The university also utilizes the former [[Quaker Oats]] factory as a hotel and shopping center called [[Quaker Square]].
+
+The [[Akron Art Museum]] commissioned [[Coop Himmelblau]] to design an expansion in 2007.  The new building connects to the old building and is divided into three parts known as the "Crystal",<ref>{{cite web|url=http://www.akronartmuseum.org/photos/details.php?catid=40&unid=511 |title=Akron Art Museum – Building the Akron Art Museum |publisher=Akronartmuseum.org |date= |accessdate=September 9, 2012}}</ref> "Gallery Box",<ref>{{cite web|url=http://www.akronartmuseum.org/photos/details.php?catid=40&unid=502 |title=Akron Art Museum – Building the Akron Art Museum |publisher=Akronartmuseum.org |date= |accessdate=September 9, 2012}}</ref> and the "Roof Cloud".<ref>{{cite web|url=http://www.akronartmuseum.org/photos/details.php?catid=40&unid=526 |title=Akron Art Museum – Building the Akron Art Museum |publisher=Akronartmuseum.org |date= |accessdate=September 9, 2012}}</ref>
+
+The contrasting neighborhoods of Goodyear Heights and Firestone Park were built during the rubber industry to house workers and their families.
+[[File:LockThreePark 7-4-09.jpg|thumb|right|Lock 3 Park amphitheater]]
+
+====Neighborhoods====
+{{Main|Akron neighborhoods}}
+Akron consists of 21 neighborhoods, with an additional three that are unincorporated but recognized within the city. The neighborhoods of the city differ in design largely because of expansions such as town merging, annexation, housing construction in various time periods, and rubber era.
+
+Maple Valley covers the west end of Copley Road, before reaching I-77. Along this strip are several businesses using the name, as well as the Maple Valley Branch of the [[Akron-Summit County Public Library]]. Spicertown falls under the blanket of University Park, this term is used frequently to describe the student-centered retail and residential area around East Exchange and Spicer streets, near the University of Akron. West Hill is roughly bounded by West Market Street on the north, West Exchange Street on the south, Downtown on the East, and Rhodes Avenue on the west. It features many stately older homes, particularly in the recently recognized Oakdale Historic District.
+
+===Suburbs===
+Akron's suburbs include [[Fairlawn, Ohio|Fairlawn]], [[Barberton, Ohio|Barberton]], [[Cuyahoga Falls, Ohio|Cuyahoga Falls]], [[Norton, Ohio|Norton]], [[Stow, Ohio|Stow]], [[Tallmadge, Ohio|Tallmadge]], [[Silver Lake, Ohio|Silver Lake]], [[Green, Ohio|Green]], and [[Mogadore, Ohio|Mogadore]]. Akron formed [[Joint Economic Development District]]s with [[Springfield Township, Summit County, Ohio|Springfield]], [[Coventry Township, Summit County, Ohio|Coventry]], [[Copley Township, Summit County, Ohio|Copley]], and [[Bath Township, Summit County, Ohio|Bath]] (in conjunction with Fairlawn) townships.<ref>{{cite web|url=http://www.ci.akron.oh.us/news_releases/2005/0325.html |title=Akron: News Releases 2005: Mayor Brings $2 Million to Weekly News Conference |publisher=Ci.akron.oh.us |date=March 25, 2005 |accessdate=January 19, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20050904073936/http://www.ci.akron.oh.us:80/News_Releases/2005/0325.html |archivedate=September 4, 2005 }}</ref>
+
+==Culture==
+{{Main|Culture of Akron, Ohio}}
+[[File:Stan Hywett Front.JPG|thumb|right|Stan Hywet Hall and Gardens entrance]]
+Akron is home to [[E. J. Thomas Hall]], the largest of three Akron performance halls. Regular acts include the Akron Symphony Orchestra, Tuesday Musical Club, and Children's Concert Society. World-class performances events include Broadway musicals, ballets, comedies, lectures, entertainers, attracting 400,000 visitors annually. The hall seats 2955, divided among three tiers. To maintain top-notch acoustic sound, the counter-weighted ceiling is adjustable, altering the physical dimensions of the hall. Located downtown is the [[Akron Civic Theatre]], which opened in 1929 as the Loew's Theater. This atmospheric-style theater was designed by John Eberson and contains many Moorish features including arches and decorative tiles.  It originally featured elaborate wood carvings, alabaster statuary, and European antiques. Behind it on the canal is the Lock 3 Park [[amphitheater]], which annually host the [[First Night]] in Akron. The [[Akron Art Museum]] also downtown, features art produced since 1850 along with national and international exhibitions.<ref name="Museum Collection: On View Now"/> It opened in 1922 as the Akron Art Institute located in the basement of the [[Akron-Summit County Public Library]]. It moved to its current location at the renovated 1899 old post office building in 1981. In 2007, the museum more than tripled in size with the addition of the John S. and James L. Knight Building, which received the 2005 American Architecture Award from the Chicago Athenaeum<ref name="Akron Art Museum"/> while still under construction.<ref name="Architecture"/><ref name="Museum History"/>
+
+Built between 1912 and 1915 for [[Frank Seiberling]], [[Stan Hywet Hall and Gardens]] ranks seventh on the list of [[Largest Historic Homes in the United States]]. Located within the Sand Run Metro Park, the {{convert|104|acre|km2}} F.A. Seiberling Nature Realm features a visitor center, hiking trails, three ponds, gardens, and an array of special programs throughout the year. The Akron Police Museum displays mementos including items from [[Pretty Boy Floyd]], whose gang frequented the city.<ref name="Arresting displays refreshed for public"/><ref name="The Life and Death of Pretty Boy Floyd"/> The city is home to several other galleries and museums include American Marble and Toy Museum and the Don Drumm Studios & Gallery.<ref name="americantoymarbles1"/>
+
+===Film and television===
+Akron has served as the setting for several [[Major film studio|major studio]] and [[Independent film|independent]] films. Inducted into the [[National Film Registry]], ''[[Dance, Girl, Dance]]'' (1940), tells the story of two dancers from Akron who go to New York City.<ref>{{cite web|url=http://www.screenhead.com/reviews/dance-girl-dance-lucys-ball-of-fun-on-dvd/ |title=Dance, Girl, Dance – Lucy’s Ball of Fun on DVD – Movies, Reviews and More |publisher=Screenhead.com |accessdate=January 18, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20081201181232/http://www.screenhead.com/reviews/dance-girl-dance-lucys-ball-of-fun-on-dvd/ |archivedate=December 1, 2008 }}</ref><ref name="Dance, Girl, Dance"/> ''[[My Name is Bill W.]]'' (1989) tells the true story of [[Bill W.|Bill Wilson]] who co-founded [[Alcoholics Anonymous]], which held its first meetings at the [[Stan Hywet Hall and Gardens]] and has over two million members today.<ref name="Creed"/> The program's connection to the Saint Thomas Hospital is referenced in an episode of the television series ''[[Prison Break]]'' (2005), where [[Michael Scofield]] talks to [[Sara Tancredi]] on the phone while there.<ref>{{cite web|url=http://www.twiztv.com/scripts/prisonbreak/season2/prisonbreak-215.htm |title=Prison Break &#124; Episode 2–15 Transcript &#124; The Message |publisher=Twiztv.com |date=January 29, 2007 |accessdate=January 21, 2010| archiveurl= https://web.archive.org/web/20100102070411/http://twiztv.com/scripts/prisonbreak/season2/prisonbreak-215.htm| archivedate= January 2, 2010 | deadurl= no}}</ref> The Akron Armory is used as a venue for a female wrestling team in ''[[...All the Marbles]]'' (1981).<ref>{{cite web|url=http://www.hollywood.com/movie/All_the_Marbles/226160 |title=All the Marbles 1981 &#124; Movie Trailer, Reviews, Photos, Cast |publisher=Hollywood.com |accessdate=January 19, 2010}}</ref> ''[[More Than a Game]]'' (2009) documents [[National Basketball Association]] player [[LeBron James]] and his [[St. Vincent – St. Mary High School]] high school basketball team's journey.<ref>{{cite news|author= A. O. Scott | authorlink = A. O. Scott |url=http://movies.nytimes.com/2009/10/02/movies/02more.html |title=Movie Review - More Than a Game - Akron’s Little Dribblers Who Became Big Shots |publisher=Movies.nytimes.com |date=October 2, 2009 |accessdate=January 19, 2010}}</ref> In [[Drake (entertainer)|Drake]]'s music video to ''[[Forever (Drake song)|Forever]]'' (2009) off the ''[[More Than a Game (soundtrack)|More Than a Game Soundtrack]]'' (2009), the iconic [[Goodyear Tire and Rubber Company|Goodyear]]'s logo on top the company's theater is shown. The city has been the subject of many portrayals in media, from "Hell on Earth" in the television series ''I'm In Hell'' (2007),<ref name="Jason Biggs Interview, Over Her Dead Body - MoviesOnline"/>  to the whereabouts of a holy woman in ''The Virgin of Akron, Ohio'' (2007).<ref>{{cite web|url=http://tv.yahoo.com/the-virgin-of-akron-ohio/show/40719/castcrew |title=The Virgin of Akron, Ohio Television show – The Virgin of Akron, Ohio TV Show – Yahoo! TV |publisher=Tv.yahoo.com |accessdate=March 26, 2010}}</ref> Henry Spivey of ''[[My Own Worst Enemy (TV series)|My Own Worst Enemy]]'' (2008), travels to Akron through the series many times.<ref name="TV Detail: My Own Worst Enemy reviewSeries Premiere :: TV :: Reviews :: Paste"/> [[George Costanza]] in an episode of ''[[The Comeback (Seinfeld)|Seinfeld]]'' (1989), flies to the city.<ref name="The Heldenfiles, Seinfeld Bus Rolling to Cleveland, ''Akron Beacon Journal'', Wednesday, August 13, 2008"/> ''[[M.Y.O.B. (TV series)|M.Y.O.B.]]'' (2008) is centered on an Akron runaway girl named Riley Veatch.<ref name="M.Y.O.B. on"/> Jake Foley of ''[[Jake 2.0]]'' (2003), [[List of Rugrats characters|Pickles family]] of the ''[[Rugrats]]'' (1991), and J.Reid of ''[[In Too Deep (1999 film)|In Too Deep]]'' (1999) are also from the city. Akron was also in the spotlight on the television show [[Criminal Minds]] "Compromising Positions" (2010) Season 6, Episode 4.
+
+===In popular culture===
+In [[Needful Things (film)|Needful Things]], a novel by [[Stephen King]], the character of Leland Gaunt is from Akron. Also, in the musical comedy [[Glee (TV series)|Glee]], Vocal Adrenaline, the New Directions rivals, are from the fictional Carmel High School in Akron.
+
+''[[Thomas and Beulah]]'', a book of poetry written by native and former [[Poet Laureate Consultant in Poetry to the Library of Congress]], [[Rita Dove]], tells the story of her grandmother and grandfather, who separately moved from [[Southern United States|the South]] to the city, where they lived through the [[Great Depression]] and the rest of their lives.<ref name="The music of what happens: poems, poets, critics"/>  The city is also the setting for the novel ''The Coast of Akron'', by former editor of ''[[Esquire (magazine)|Esquire]]'', [[Adrienne Miller]].<ref>{{cite web|url=http://www.salon.com/books/review/2005/05/06/miller/ |title="The Coast of Akron" by Adrienne Miller |accessdate=February 2, 2010 |last=Traister |first=Rebecca |date=May 6, 2005 |work=Salon }}</ref> To reflect Akron's decline during the 1980s, Akron native [[Chrissie Hynde]] wrote the [[Pretenders (band)|Pretenders]] song "[[My City Was Gone]]".<ref name="On the brink: Akron - Transitioning from rubber to polymers buoys economy"/> [[The Black Keys]] album title ''[[Rubber Factory]]'' refers to the former [[Goodrich Corporation]] rubber factory in which it was recorded.<ref>{{cite web|url=http://search.japantimes.co.jp/cgi-bin/fm20040926l4.html |title=The Black Keys: "Rubber Factory" |accessdate=March 4, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20110606005906/http://search.japantimes.co.jp/cgi-bin/fm20040926l4.html |archivedate=June 6, 2011 }}</ref> Akron serves as a setting in the first-person-shooter PC platform video game, ''[[No One Lives Forever 2: A Spy In H.A.R.M.'s Way]]''.<ref name="No One Lives Forever 2: A Spy in H.A.R.M.'s Way Review for PC"/><ref name="No One Lives Forever 2: A Spy in HARM's Way Review"/>
+
+===Tourism===
+{{See also|National Register of Historic Places listings in Akron, Ohio}}
+
+[[Image:AkronArtMuseumnight.jpg|thumb|right|Akron Art Museum]]
+
+There are numerous attractions and points of interest in the Akron area. [[The Akron Art Museum]] has been operating since 1922 and is currently located downtown, showcasing over 20,000 square feet of art produced since 1850. [[Stan Hywet Hall and Gardens]] is the estate of F.A. Seiberling, founder of [[Goodyear Tire and Rubber Company]]. The manor hosts various attractions and public events throughout the year. In the heart of downtown, the Akron Civic Theatre has provided the community with a venue for quality entertainment and live performances for over eighty years. [[Lock 3, Erie Canal|Lock 3]], a historic [[Ohio and Erie Canal]]way landmark, has been transformed into an entertainment amphitheater that hosts festivals, concerts, and community events all year long. The [[Akron Zoo]] is located just outside downtown and was an initial gift of property from the city's founding family.  In Highland Square, Akron hosts a convergence of art, music, and community annually called Art in the Square, a festival featuring local artists and musicians.<ref name="Lock 3 Akron, Ohio Concerts"/>
+
+National events that are hosted annually in Akron cover a wide variety of hobbies and interests. The PGA World Golf Championships travel to Akron each year for the [[Bridgestone Invitational]] at [[Firestone Country Club]]. [[All-American Soap Box Derby|The All-American Soap Box Derby]] is a youth racing program which has its World Championship finals at Derby Downs. In mid July, the [[Hamburger|National Hamburger Festival]] consists of different vendors serving original recipe [[hamburgers]] and has a Miss Hamburger contest.<ref name="Hamburger festivals, special events have participants flipping"/> Lock 3 Park annually hosts the [[First Night]] Akron celebration on New Year's Eve.<ref name="First Night Akron"/> The park also annually hosts the Italian Festival and the "Rib, White & Blue" food festival in July.<ref name="Lock 3 Akron, Ohio Concerts"/> [[Alcoholics Anonymous|Founders Day]] is celebrated annually because of the founding of [[Alcoholics Anonymous]] within the city.<ref name="This Founders' Day marks A.A. milestones"/><ref name="Akron, Ohio - Birthplace of Alcoholics Anonymous"/>
+
+===Cuisine===
+{{See also|History of Quaker Oats}}
+Several residents of Akron have played a role in defining American cuisine. [[Ferdinand Schumacher]] created the first American [[oatmeal]] and is a pioneer of [[breakfast cereal]].<ref name="F. Schumacher Milling Company"/> He also founded the Empire Barley Mill and [[German Mills American Oatmeal Company]],<ref name="The Ohio Academy of Science"/> which would later merge several times with other companies, with the result being the [[Quaker Oats Company]].<ref name="Ferdinand Schumacher - Ohio History Central - A product of the Ohio Historical Society2"/> The Menches Brothers, are the disputed inventors of the [[waffle]] [[ice cream cone]],<ref name="Ohio Curiosities: Quirky Characters ... - Google Books"/> [[caramel corn]],<ref name="Ohio Curiosities: Quirky Characters ... - Google Books3"/> and [[hamburger]].<ref>{{cite web|url=http://www.ci.akron.oh.us/news_releases/2006/0407b.htm |title=City of Akron: News Releases 2006: America’s 1st National Hamburger Festival |publisher=Ci.akron.oh.us |date=April 7, 2006 |accessdate=January 21, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20070808002209/http://www.ci.akron.oh.us:80/News_Releases/2006/0407b.htm |archivedate=August 8, 2007 }}</ref> The beer, BORIS The Crusher Oatmeal-Imperial Stout, brewed by the Hoppin' Frog Brewing Company located in the city, won 1st place in the Imperial Stout category of the 2008 [[Great American Beer Festival]], and the company was named the 24th best brewer in the world for 2010 by [[RateBeer.com]]<ref>{{cite web|url=http://www.hoppinfrog.com/news/hoppin-frog-on-list-of-worlds-top-brewers/ |title=Hoppin’ Frog on list of world’s top brewers &#124; Hoppin' Frog Brewery |publisher=Hoppinfrog.com |date=February 10, 2010 |accessdate=March 22, 2010| archiveurl= https://web.archive.org/web/20100224092929/http://www.hoppinfrog.com/news/hoppin-frog-on-list-of-worlds-top-brewers/| archivedate= February 24, 2010 | deadurl= no}}</ref> Notable eateries in Akron are Luigi's Pizzeria (established in 1949) and The Diamond Grille. Other places include Crave, Bricco, Cilantro, Diamond Deli, Urban Eats, Mary Coyle Ice Cream, Swenson's, Ken Stewart's, Tangier, Louie's, Duffy's, New Era, [[Strickland's Frozen Custard]], and [[Hamburger Station]].<ref>{{cite web|url=http://www.menchesbros.net/ |title=American Food & American Restaurant – Hamburgers &#124; Uniontown, OH |publisher=Menchesbros.net |accessdate=April 3, 2009}}</ref> The rivalry between Swenson's and Skyway, aired on [[Iron Chef]] [[Michael Symon]]'s [[Food Feuds]], which Swenson's won.<ref>{{cite web|url=http://www.tvguide.com/tvshows/food-feuds-2010/episode-8-season-1/beef-feuds/307609 |title=Food Feuds Episode Guide 2010 Season 1 - Beef Feuds, Episode 8 |publisher=TVGuide.com |date= |accessdate=September 9, 2012}}</ref>
+
+===Spoken dialects===
+Although Akron is in northern Ohio, where the [[Inland North]] dialect is expected, its settlement history, puts it in the North Midland dialect area.<ref name="Language Log: Wut? Wen? Wich?"/> Some localisms that have developed include ''[[Tree lawn|devilstrip]]'', which refers to the grass strip between a sidewalk and street.<ref name="DARE">{{cite book | url=http://www.amazon.com/gp/search-inside/sign-in?asin=0674008847&query=devil | title=Dictionary of American Regional English | author=Hall, Joan Houston | year=2003 | isbn=978-0674008847 | page=38 | quote="It may be called the devil's strip in Akron..."}}</ref>
+
+==Sports==
+[[File:Canal park evening akron ohio 2005.jpg|upright|thumb|left|Canal Park]]
+Akron's professional sports teams include the [[Akron RubberDucks]] ([[Minor League Baseball]]), [[Akron Racers]] ([[National Pro Fastpitch]]), and [[Rubber City Rollergirls]] ([[Roller Derby]]) ([[Women's Flat Track Derby Association]]). Local sporting facilities include [[Canal Park (Akron, Ohio)|Canal Park]], [[Firestone Stadium]], [[InfoCision Stadium – Summa Field]], [[James A. Rhodes Arena]], and the [[Lee R. Jackson Baseball Field|Lee Jackson Field]].
+
+The RubberDucks have won the Eastern League Championship four times, the last being in 2012. Nearly growing 87% that year, the Akron Road Runner Marathon has consecutively gained participants since beginning.<ref>{{cite web|author=Akron Marathon |url=http://www.ohiooutside.com/780/popularity-increased-registration-make-road-runner-akron-marathon-cap-registration |title=Popularity, increased registration make Road Runner Akron Marathon Cap |publisher=Ohiooutside.com |date= |accessdate=September 9, 2012 |deadurl=yes |archiveurl=https://web.archive.org/20120302174802/http://www.ohiooutside.com/780/popularity-increased-registration-make-road-runner-akron-marathon-cap-registration |archivedate=March 2, 2012 }}</ref> It was announced that Akron will host some of the events of the [[2014 Gay Games]] including the marathon, the men's and women's golf tournaments at [[Firestone Country Club]], and softball at Firestone Stadium.<ref name="Cleveland-Akron win bid for 2014 Gay Games"/> The [[All-American Soap Box Derby]] taken place each year at the [[Derby Downs]] since 1936. The Firestone Country Club, annually host the [[WGC-Bridgestone Invitational]] and in the past hosted tournaments including the [[PGA Championship]], [[American Golf Classic]], and [[Rubber City Open Invitational]]. The Akron & National Marble Tournament was created in 1923, by Roy W. Howard, being owned by the Akron District Marbles Tournament and the [[Akron Beacon Journal]] sometime before it ended permanently in the 1960s. On January 7, 1938, Akron became the birthplace of women's professional [[Mud Wrestling]], in a match including [[Professional Wrestling]] and [[Wrestling Observer Hall of Fame]]r, [[Mildred Burke]].<ref name="ohio.com"/> The [[Professional Bowlers Association]] started in the city during 1958. [[LeBron James]]' King for Kids bike-a-thon feature James riding with kids through the city each June.<ref>{{cite web|url=http://www.nba.com/cavaliers/news/LBJ_Bikeathon_060605.html |title=Cavaliers: NBA Stars Join LeBron’s King for Kids Bikeathon |publisher=NBA  |accessdate=May 4, 2009}}</ref> In November, the city hosts the annual Home Run for the Homeless 4-mile run.
+[[File:Firestone Stadium CIMG7643.JPG|upright|thumb|right|Firestone Stadium hosts the [[National Pro Fastpitch]] Championship Series.]]
+
+===Past sports teams===
+Former teams of Akron include the [[Akron Professionals]] ([[National Football League]]), [[Goodyear Silents]] (deaf semi-professional football), [[Akron Black Tyrites]] ([[Negro National League (1933-1948)|Negro League]]), [[Akron Americans]] ([[International Hockey League (1945–2001)|International Hockey League]]), [[Akron Lightning]] ([[International Basketball League]]), the Akron Summit Assault [[USL Premier Development League]] (PDL), the fourth tier of the [[American Soccer Pyramid]], and the [[Akron Wingfoots]] ([[National Basketball League (United States)|National Basketball League]]), who won the first [[National Basketball League (United States)|NBL Championship]] and the [[Intercontinental Cup (basketball)|International Cup]] three times. The [[Akron Firestone Non-Skids]] ([[National Basketball League (United States)|National Basketball League]]), later won the title consecutively, in 1939 and 1940.
+
+===College sports===
+[[File:Infocision Stadium at Summa Field.jpg|upright|thumb|left|InfoCision Stadium – Summa Field]]
+As home to the [[University of Akron]], the city is also home to the [[Akron Zips]], who compete in the [[National Collegiate Athletic Association|NCAA]] and the Mid-American Conference (MAC) in a variety of sports at the [[Division I (NCAA)|Division I]] level. Before completion of the [[InfoCision Stadium – Summa Field]], the [[Akron Zips football|football team]] played at the historic [[Rubber Bowl]], former home of the 1920 [[National Football League Championship]] winners, the [[Akron Professionals]]. The [[Akron Zips men's basketball|men's basketball team]] appeared in the NCAA Tournament in 1986, 2009, and 2011. In 2009, the [[Akron Zips men's soccer|Zips men's soccer team]] completed the regular-season undefeated, then won the [[NCAA Men's Division I Soccer Championship]] in 2010. [[Zippy (mascot)|Zippy]], one of the eight female NCAA mascots, won the [[Capital One]] National Mascot of the Year contest in 2007.
+{{clear}}
+
+==Parks and recreation==
+[[File:FirestoneCountryClubAkron.jpg|upright|thumb|right|Firestone Country Club]]
+Major parks in Akron include Lock 3, Firestone, Goodyear Heights, the F.A. Seiberling Nature Realm (or Naturealm), and part of the [[Cuyahoga Valley National Park]]. Several of the parks along on the locks of the canal. Lock 3 Park in downtown Akron is the city's hub for entertainment. It is commonly used as an outdoor amphitheater hosting live musical entertainment, festivals, and special events year-round. The park was created in the early 21st century to provide green space within the city of Akron. The Ohio and Erie Canal can still be seen flowing behind the stage where there was once a boat yard and dry dock. Later, a pottery factory stood there until the parking deck of the M. O'Neil Co. department store was built in the current location. More than 65,000 guests use the park for recreation annually. During Lock 3 Live, it holds concerts for almost every musical genre, including alternative, R&B, reggae, gospel, country, pop, jazz, and classic rock. Some festivals the park hosts throughout the year include Soap Box Derby opening ceremonies, firefighter competitions, charity events, tournaments, and animal events. From November through February, Lock 3 Park is transformed into an outdoor ice-skating rink.<ref>{{cite web|url=http://events.ohio.com/akron-oh/venues/show/65611-lock-3-live-park# |title=Lock 3 Live! Park In Akron, Ohio |publisher=Events.ohio.com |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090221070947/http://events.ohio.com/akron-oh/venues/show/65611-lock-3-live-park| archivedate= February 21, 2009 | deadurl= no}}</ref> Adjacent to the Derby Downs race hill is a 19,000-square-foot (1,800 m2) outdoor skatepark. The park features concrete ramps, including two bowls going as deep as 7 feet (2.1 m), a snake run, two hips, a stair set with handrail, many smaller quarter pipes and a variety of grind boxes. Positioned just a few feet from the Akron Skatepark is a Pro BMX course where organized races are often held in the warmer months.
+
+The Ohio and Erie Canal towpath is a regional bike and hike trail that follows the canal. A bridge was completed in 2008, crossing Route 59/The Innerbelt, which connects the towpath proper with bike routes painted onto streets downtown, thus completing another step toward the connection of Cleveland and East Liverpool with a hike and bike trail.{{Citation needed|date=September 2011}} The State of Ohio plans to reconstruct the trail which once ran completely through Ohio, to New Philadelphia from Cleveland. The trail features a floating observation deck section over Summit Lake. It is a popular tourist attraction, as it attracts over 2 million visits annually.<ref name="About the Towpath Trail"/><ref>{{cite web|url=http://www.ohiobikeways.net/erietowpath.htm |title=Ohio & Erie Canal Towpath Trail |publisher=Ohiobikeways.net |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090329151557/http://www.ohiobikeways.net/erietowpath.htm| archivedate= March 29, 2009 | deadurl= no}}</ref><ref name="City of Akron: News Releases 2008: BRIDGING URBAN PLACES WITH GREEN SPACES - HISTORIC TOWPATH WINDS INTO NEW TERRITORY"/> The Portage Hike and Bike Trail, when fully complete, will connect with the hike and bike trails in the county.<ref>{{cite web |title= The Portage Hike and Bike|url= http://www.portageparkdistrict.org/portage.htm|work= PortageParkDistrict.com|publisher= Portage Park District|accessdate=October 4, 2009}}See also map link</ref>
+
+==Media==
+[[File:AkronBeaconTower.jpg|upright|thumb|right|Akron Beacon Journal Headquarters]]
+{{See also|:Template:Akron Radio|l1=Akron Radio}}
+
+Akron is served in print by the daily ''[[Akron Beacon Journal]],'' formerly the flagship newspaper of the Knight Newspapers chain; the weekly "The Akron Reporter"; and the weekly ''West Side Leader'' newspapers and the monthly magazine ''[http://www.akronlife.com/ Akron Life]''. ''The Buchtelite'' newspaper is published by the [[University of Akron]].<ref name="urlwww.buchtelite.com"/>
+
+Akron is less than {{convert|40|mi|km}} from [[Cleveland]] and forms part of the [[Greater Cleveland|Cleveland-Akron (Canton)]] [[media market]], the 18th largest market in the U.S.<ref name="Local Television Market Universe Estimates Comparisons of 2008-09 and 2009-10 Market Ranks"/> However, [[WAOH-CD]], [[WEAO (TV)|WEAO]] ([[PBS]]), [[WVPX]] ([[ION Television|ION]]), and [[WBNX-TV]] ([[The CW Television Network|CW]]) are licensed to Akron. WAOH and WEAO serve the city of Akron specifically, while WBNX and WVPX identify themselves as ''Akron/Cleveland'', serving the entire Northeast Ohio market. Akron has no native news broadcast, having lost its only news station when the former WAKC became WVPX in 1996. WVPX and Cleveland's [[WKYC]] later provided a joint news program, which was cancelled in 2005.<ref name="Akron news release"/><ref name="Newscast off air, on cable."/>
+
+On the radio side, Akron is served by [[WZIP]] 88.1 (Top 40 / College – [[University of Akron]]), [[WAPS-FM|WAPS]] 91.3 (Varied formats: local artists, modern rock, blues, jazz and public radio), [[WAKR]] 1590 (Oldies), [[WKDD]] 98.1 (Adult contemporary), [[WHLO]] 640 (News/talk), [[WJMP]] 1520 ([[News/Talk]]), [[WKSU]] 89.7 ([[National Public Radio]], operated from the campus of [[Kent State University]]), [[WONE-FM|WONE]] 97.5 (Classic rock), [[WNIR-FM]] 100.1 (News/talk), [[WSTB]] 88.9 (Alternative), [[WARF]] 1350 ([[Fox Sports Ohio]]), [[WQMX]] 94.9 (Country), [[WRQK]] 106.9 (Rock), and [[WHOF]] 101.7 (AC).
+
+==Economy==
+[[File:GOjOHeadquarter.jpg|thumb|left|GOJO Industries headquarters]]
+Many industries in the United States either began or were influenced by the city. After beginning the [[tire]] and rubber industry during the 20th century with the founding of [[Goodrich Corporation|Goodrich]], [[Firestone Tire and Rubber Company|Firestone]], [[General Tire]], also the [[Goodyear Tire and Rubber Company|Goodyear]] merger with [[The Kelly Springfield Tire Company|The Kelly-Springfield Tire Company]] gained the status of, "Rubber Capital of the World". Akron has won economic awards such as for City Livability and [[All-American City]], and deemed a [[high tech]] haven greatly contributing to the [[Information Age]].<ref name="Greater Akron Chamber"/> Current [[Fortune 500]] companies headquartered in the city include the [[Goodyear Tire and Rubber Company]] and [[FirstEnergy Corp.|FirstEnergy]]. In addition, the city is the headquarters to a number of other notable companies such as [[GOJO]], Advanced Elastomer Systems, [[FirstMerit Bank]], Myers Industries, [[Acme Fresh Market]] and [[Sterling Jewelers]]. Goodyear, America's biggest tire manufacturer and the fifth-largest private employer in Summit County,<ref name="Goodyear has tentative deal to stay in Akron"/> recently built a new world headquarters in the city. The project, Akron Riverwalk, will feature a large retail and commercial development area.<ref name="Akron Riverwalk / The Bridge to Polymer Valley"/> The project began in 2007, but was put on hold because of the [[financial crisis of 2007–2010]], and is now continuing.<ref>{{cite web |url=http://www.ohio.com/business/112051484.html |archiveurl=https://web.archive.org/web/20101220035818/http://www.ohio.com/business/112051484.html |archivedate=December 20, 2010 |title=Goodyear's headquarters moving along}}</ref> [[Bridgestone]] built a new technical center with state-of-the-art R&D labs, and relocated its product development operations to the new facility in early 2012.<ref name="Mobile Edition"/><ref name="Bridgestone Americas, Inc"/> The Eastern Ohio [[Division (business)|Division]] of [[KeyBank]], which has six branches in the city, built a regional headquarters downtown.<ref>{{cite web|last=Lin |first=Betty |url=http://www.securityinfowatch.com/Financial/1311664?pageNum=3 |title=KeyBank breaks ground on Akron, Ohio office building &#124; |publisher=Securityinfowatch.com |date=May 26, 2009 |accessdate=January 2, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20110716031622/http://www.securityinfowatch.com/Financial/1311664?pageNum=3 |archivedate=July 16, 2011 }}</ref> The city has a free [[WiFi]] corridor centered in downtown. Neighborhoods in range include Goodyear Heights, East Akron, North Hill, Firestone Park, Kenmore, and West Akron.<ref name="Connect Akron Wireless Network"/>
+
+===Polymer Valley===
+Northeast Ohio's Polymer Valley is centered in Akron. The area holds forty-five percent of the state's polymer industries, with the oldest starting the 19th century. It is considered{{By whom|date=July 2011}} the polymer manufacturing center of the country, because of the educational, mineral, and transportation resources of the area. During the 1980s and 1990s, an influx of new polymer companies came to the region.<ref>{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=1723 |title=Polymer Valley - Ohio History Central - A product of the Ohio Historical Society |publisher=Ohio History Central |date=July 1, 2005 |accessdate=September 9, 2012}}</ref> In 2001, more than 400 companies manufactured polymer-based materials in the region.<ref name="A New Brand Of Tech Cities"/> Many [[University of Akron]] scientists became world-renowned for their research done at the [[Goodyear Polymer Center]].{{Citation needed|date=July 2011}} The first College of Polymer Science and Polymer Engineering was begun by the university. In 2010, the [[National Polymer Innovation Center]] opened on campus.
+
+===Hospitals===
+[[File:AkronHealth.jpg|thumb|right|Local hospitals]]
+Akron has designated an area called the Biomedical Corridor, aimed at luring health-related ventures to the region. It encompasses {{convert|1240|acre|km2}} of private and publicly owned land, bounded by Akron General on the west and Akron City on the east, and also includes Akron Children's near the district's center with Saint Thomas Hospital to the north of its northern boundaries.<ref>{{cite web |url=http://www.ohio.com/news/82520807.html |archiveurl=https://web.archive.org/web/20110615141407/http://www.ohio.com/news/82520807.html |archivedate=June 15, 2011 |title=Akron's biomedical corridor taking shape}}</ref> Since its start in 2006, the corridor added the headquarters of companies such as Akron Polymer Systems.<ref name="Akron Ohio: Akron Ohio: Mayor's Office of Economic Development"/>
+
+Akron's adult hospitals are owned by two health systems, [[Summa Health System]] and Akron General Health System. Summa Health System operates Akron City Hospital and St. Thomas Hospital, which in 2008 were recognized for the 11th consecutive year as one of "America’s Best Hospitals" by [[U.S. News & World Report]].<ref name="Summa Health System - Summa Celebrates 11th Consecutive Year on U.S. New"/><ref name="Summa Health System - Locations"/>  Summa is recognized as having one of the best orthopaedics programs in the nation with a ranking of 28th.<ref name="Summa Health System - Hospital Rankings"/> Akron General Health in affiliation with the [[Cleveland Clinic]] operates Akron General Medical Center, which in 2009, was recognized as one of "America’s Best Hospitals" by [[U.S. News & World Report]].<ref>{{cite web|url=http://www.akrongeneral.org/portal/page?_pageid=153,166999&_dad=portal&_schema=PORTAL |title=Akron Hospital &#124; Best Ohio Hospital &#124; Akron General Medical Center |publisher=Akron General |date=September 22, 2008 |accessdate=April 3, 2009}}</ref><ref name="Akron General earns honors"/> [[Akron Children's Hospital]] is an independent entity that specializes in pediatric care and burn care.<ref name="Akron Children's Hospital : Why Akron Children's?"/> In 1974, Dr. Howard Igel and Dr. Aaron Freeman successfully grew human skin in a lab to treat burn victims, making Akron Children's Hospital the first hospital in the world to achieve such a feat.<ref name="bio"/> Akron City and Akron General hospitals are designated [[Level I Trauma Center]]s.
+
+===Top employers===
+According to the City's 2012 Comprehensive Annual Financial Report,<ref>{{cite web|url=http://www.akronohio.gov/cms/resource_library/files/8e2dd72c4c042abd/12_cafr_final.pdf |title=City of Akron CAFR |format=PDF |date= |accessdate=April 1, 2014}}</ref> the principal employers in the city are:
+
+{| class="wikitable sortable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+|1
+|[[Summa Health System]]
+|10,000
+|-
+|2
+|Akron General Health System
+|4,150
+|-
+|3
+|[[Summit County, Ohio|County of Summit]]
+|3,094
+|-
+|4
+|[[Akron Public Schools]]
+|3,094
+|-
+|5
+|[[Goodyear Tire and Rubber Company]]
+|3,000
+|-
+|6
+|[[The University of Akron]]
+|2,845
+|-
+|7
+|[[FirstMerit Corporation]]
+|2,695
+|-
+|8
+|[[Akron Children's Hospital]]
+|2,681
+|-
+|9
+|[[FirstEnergy]]
+|2,537
+|-
+|10
+|[[Time Warner Cable]]
+|2,440
+|}
+
+==Government and politics==
+{{See also|List of mayors of Akron, Ohio|List of Akron politicians}}
+[[File:Ocasek.jpg|thumb|right|The Ocasek Building includes state, county, and city offices.<ref name="Ohio Building Authority - Ocasek Building"/>]]
+The mayor of Akron is elected in a citywide vote, the city has reached its 62nd mayor. The city is divided into 10 wards, each elect a member to the Akron City Council, while an additional 3 are elected at large. The mayor's cabinet currently consist of directors and deputy directors of administration, communications, community relations, economic development, intergovernmental relations, labor relations, law, planning & urban development, planning director – deputy, public safety, and public service.<ref>{{cite web|url=http://ci.akron.oh.us/mayor/cabinet.htm |title=Akron: Office of the Mayor: Cabinet Members |publisher=Ci.akron.oh.us |date= |accessdate=September 9, 2012 |deadurl=yes |archiveurl=https://web.archive.org/20120831143011/http://ci.akron.oh.us:80/mayor/cabinet.htm |archivedate=August 31, 2012 }}</ref> The city adopted a new charter of the [[City commission government|commissioner manager type]] in 1920, but reverted to its old form in 1924.
+
+The current mayor is [[Dan Horrigan]]. Longtime Akron Mayor [[Don Plusquellic]] announced on May 8, 2015 that he was resigning as Mayor of the City of Akron after 28 years as mayor, and his retirement from politics after 41 years of service to the City of Akron, effective on May 31, 2015.<ref>http://www.akronohio.gov/cms/city_of_akron/index.html</ref><ref name="autogenerated1">http://www.ohio.com/news/break-news/akron-mayor-don-plusquellic-abruptly-announces-his-resignation-blames-the-beacon-journal-1.590486</ref> On May 31, 2015, Garry Moneypenny, former Chief Deputy and Assistant Sheriff of the Summit County Sheriff's Department, former [[Springfield Township, Summit County, Ohio|Springfield Township]] Police Department Chief of Police,<ref>http://www.cleveland.com/akron/index.ssf/2015/05/garry_moneypenny_sworn_in_as_a.html</ref> former Akron Police Department Chief of Police and former Akron City Council President, was sworn in as the new mayor at East High School.<ref name="autogenerated1"/> <br />
+On Friday, June 5, less than a week after he took office, Mayor Moneypenny announced he was not running for a full term because of inappropriate contact with a city employee.<ref>http://www.ohio.com/news/politics/akron-mayor-garry-moneypenny-admits-to-inappropriate-contact-with-city-employee-says-he-will-not-resign-or-run-for-new-term-1.597674</ref> On Monday, June 8, 2015, Mayor Moneypenny announced he would be resigning effective midnight on Wednesday, June 10. Council president Jeff Fusco assumed the duties of Mayor on June 11, 2015. Mayor Fusco ran for and was elected to an at-large council seat, rather than seeking a full term as mayor. Mayor Fusco also announced he would be temporarily stepping down as Chair of the Summit County Democratic Party, because the city charter calls for the Mayor to devote his full attention to the city.<ref>http://www.ohio.com/news/politics/garry-moneypenny-resigns-as-akron-mayor-fusco-next-in-line-for-mayor-1.598572</ref>
+
+As of Wednesday, July 1, three Democrats and one Republican were running for Mayor of Akron. The Democratic candidates were [[Summit County, Ohio|Summit County]] [[Court clerk|Clerk of Courts]] and former ward 4 Councilman Dan Horrigan; at-large Councilman Mike Williams; and Summit County Councilman Frank Communale. The winner of the September 8 Democratic primary was Dan Horrigan and he faced attorney Eddie Sipplin in the general election. Sipplin, an African-American criminal defense attorney, was the only Republican candidate to run.<ref>http://www.ohio.com/news/break-news/six-democrats-and-1-republican-file-to-run-for-akron-mayor-familiar-names-file-for-akron-council-races-1.599130</ref> On Tuesday November 3, 2015, Dan Horrigan was elected as the 62nd mayor of the city of Akron. He officially took office on January 1, 2016.
+
+The current members of City Council are:
+
+Ward 1 – Rich Swirsky (D)<br />
+Ward 2 – Bruce Kilby (D)<br />
+Ward 3 – Margo Sommerville (D), Vice-President of Council<br /> 
+Ward 4 – Russell C. Neal Jr. (D)<br />
+Ward 5 – Tara Mosley–Samples (D)<br />
+Ward 6 – Bob Hoch (D)<br />
+Ward 7 – Donnie Kammer (D), President Pro Tem<br />
+Ward 8 – Marilyn Keith (D), President of Council<br />
+Ward 9 – Mike Freeman (D), <br />
+Ward 10 – [[Zack Milkovich]] (D) <ref>http://www.ohio.com/news/break-news/new-akron-ward-10-councilman-sworn-in-1.601319</ref> <br />
+At Large – Linda Omobien (D)<br />
+At Large – Jeff Fusco (D)<br />
+At Large – Veronica Sims (D)<br />
+Clerk of Council – Bob Keith (D) <ref>http://www.ohio.com/news/break-news/akron-council-member-planning-director-argue-after-council-police-called-to-chamber-1.596582</ref>
+
+===Humanitarian affairs===
+{{See also|City of Akron v. Akron Center for Reproductive Health}}
+Aside from city founder, [[Simon Perkins]], negotiating a treaty with [[Indigenous peoples of the Americas|Native Americans]] to establish a mail route from the [[Connecticut Western Reserve]] to Detroit in 1807, others partook in historic humanitarian affairs in Akron. Aside from being part of the [[Underground Railroad]], when active, [[John Brown (abolitionist)|John Brown]] was a resident, today having two landmarks ([[John Brown House (Akron, Ohio)|John Brown House]]) ([[John Brown Monument]]) dedicated to him. During the 1851 Women's Rights Convention, [[Sojourner Truth]] delivered her speech entitled "[[Ain't I A Woman?]]". In 1905, a statue of an Indian named Unk was erected on [[Portage Path]], which was part of the effective western boundary of the [[Race and ethnicity in the United States Census|White]] and [[Indigenous people of the Americas|Native American]] lands from 1785 to 1805.<ref name="ASCPL Digital Exhibit"/> The [[Summit County, Ohio|Summit County]] chapter of the [[Ku Klux Klan]] reported having 50,000 members, making it the largest local chapter in the country during the 20th century. In 1905, the sheriff, county officials, mayor of Akron, judges, county commissioners, and most members of Akron's school board were members. The Klan's influence in the city's politics eventually ended after [[Wendell Willkie]], arrived and challenged them.<ref name="Ku Klux Klan - Ohio History Central - A product of the Ohio Historical Society"/> Race took part in two of Akron's major riots, the Riot of 1900 and the Wooster Ave. Riots of 1968. Others giving speeches on race, in the city include [[W.E.B. Du Bois|Dr. W.E.B. Du Bois]] (1920)<ref name="Akron: Akron's Black History Timeline: 1900-1919: The New Century"/> and [[Bill Clinton|President Bill Clinton]] (1997).<ref name="Akron Ohio Historical Timeline 1950 - 1999"/> In 1971, [[Alpha Phi Alpha|Alpha Phi Alpha Homes Inc.]] was founded in Akron by the Eta Tau Lambda chapter, with [[James R. Williams (lawyer)|James R. Williams]] as chairman. The centerpiece, [[Henry Arthur Callis|Henry Arthur Callis Tower]], is located in the Channelwood Village area of the city. In 2008, 91-year-old Akron native, Addie Polk, became the [[poster child]] of the [[financial crisis of 2007–2010]], after shooting herself.<ref name="Ohio foreclosure prompts suicide attempt"/>
+
+==Demographics==
+[[File:SimonPerkinsAkron.jpg|upright|thumb|150px|left|Statue of [[Simon Perkins]], founder of Akron, in front of the [[University of Akron College of Business Administration]] moved from its original location in Grace Park.]]
+{{US Census population
+|1840= 1664
+|1850= 3266
+|1860= 3477
+|1870= 10006
+|1880= 16512
+|1890= 27601
+|1900= 42728
+|1910= 69067
+|1920= 208435
+|1930= 255040
+|1940= 244791
+|1950= 274605
+|1960= 290351
+|1970= 275425
+|1980= 237177
+|1990= 223019
+|2000= 217074
+|2010= 199110
+|estyear=2015
+|estimate=197542
+|estref=<ref name="USCensusEst2014">{{cite web|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk|title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014|accessdate=June 4, 2015}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|author=[[United States Census Bureau]]|accessdate=December 2, 2014}}</ref>
+}}
+
+The median income for a household in the city was $31,835, and the median income for a family was $39,381. Males had a median income of $31,898 versus $24,121 for females. The per capita income for the city was $17,596. About 14.0% of families and 17.5% of the population were below the poverty line, including 25.7% of those under age 18 and 9.7% of those age 65 or over.
+
+Akron has a metropolitan population of 694,960 (U.S. Census Bureau, 2000). Akron is also part of the larger Cleveland-Akron-Elyria Combined Statistical Area, which was the 14th largest in the country with a population of over 2.9 million according to the 2000 Census.
+
+===2010 census===
+As of the [[census]]<ref name="FactFinder">{{cite web|title=American FactFinder|url=http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml|publisher=[[United States Census Bureau]]|accessdate=January 6, 2013}}</ref> of 2010, there were 199,110 people, 83,712 households, and 47,084 families residing in the city. The [[population density]] was {{convert|3209.9|PD/sqmi|PD/km2|1}}. There were 96,288 housing units at an average density of {{convert|1552.3|/sqmi|/km2|1}}. The racial makeup of the city was 62.2% [[White (U.S. Census)|White]], 31.5% [[African American (U.S. Census)|African American]], 0.2% [[Native American (U.S. Census)|Native American]], 2.1% [[Asian (U.S. Census)|Asian]], 0.8% from [[Race (U.S. Census)|other races]], and 3.2% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 2.1% of the population. [[Non-Hispanic Whites]] were 61.2% of the population,<ref>{{cite web |url=http://quickfacts.census.gov/qfd/states/39/3901000.html |title=Akron (city), Ohio |work=State & County QuickFacts |publisher=U.S. Census Bureau}}</ref> down from 81.0% in 1970.<ref>{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html}}</ref>
+
+There were 83,712 households, of which 28.8% had children under age 18 living with them, 31.3% were [[Marriage|married couples]] living together, 19.5% had a female householder with no husband present, 5.5% had a male householder with no wife present, and 43.8% were non-families. 34.8% of all households were made up of individuals and 10.8% had someone living alone who was 65 years of age or older. The average household size was 2.31 and the average family size was 2.98.
+
+The median age in the city was 35.7 years. 22.9% of residents were under age 18; 12.4% were between 18 and 24; 25.9% were from 25 to 44; 25.9% were from 45 to 64; and 12.6% were 65 or older. The gender makeup of the city was 48.3% male and 51.7% female.
+{{Clear}}
+
+==Education==
+{{See also|Category:Education in Akron, Ohio|List of University of Akron people}}
+
+[[File:Goodyear Polymer Center.jpg|thumb|left|Goodyear Polymer Center]]
+Preschool, elementary, and secondary education is mainly provided by the [[Akron Public Schools|Akron City School District]]. Planning of the district began in 1840, when Ansel Miller suggested to build free public schools for all children in the city, paid for by property taxes. After enduring much opposition by citizens, in 1843 Miller joined with Rev. Isaac Jennings. Three years later, Jennings became the chairman of a committee of citizens who discussed how to improve the school system. On November 21, 1846, their plan was approved unanimously by the citizens. The Ohio Legislature adopted the plan, called "An act for the support and better regulation of the Common Schools of the Town of Akron" on February 8, 1847. Akron's first public schools were established in the fall of 1847 and were led by Mortimer Leggett. The first annual report showed that it cost less than $2 a year to educate a child. In 1857 the cost of running the schools for a year was $4,200. The primary schools were taught by young women, which the Akron Board of Education justified because they could be paid less and were under the supervision of a male superintendent. From 1877 to 1952, Akron graduated students semi-annually instead of annually. 9% of the city's school-aged population were born in other countries in 1888. In the 1920s, an Americanization program was designed to help the many Akron students who were first-generation Americans. Classes were in the rubber companies and some of the schools. A "continuation school" began for working boys and girls who were required by law to have at least four hours of schooling a week. In 1924, Akron's platoon schools attracted visitors from all over the country. Being a stronghold for the [[Ku Klux Klan]] during the decade, the majority of school board and government officials were members. Their influence ended with the arrival of [[Wendell Willkie]]. During the city's 1950s boom town phase, Akron schools grew eight times faster than the city's population. In 1967, Kenmore launched the Air Force JROTC. In 1971, Jennings piloted the middle school model, which moved ninth-graders to the senior high school. In 1984, all-day kindergarten was piloted at Seiberling, Rankin and Hatton schools, and Ellet, East and Garfield high schools piloted the in-school suspension program. The district received an A+ evaluation from the state in 1987.<ref name="akronschools.com">{{cite web|url=http://www.akronschools.com/dotAsset/13842.pdf |title=History of the Akron Public Schools |format=PDF |date= |accessdate=September 9, 2012}}</ref>
+
+[[File:ASCPL CIMG9632.jpg|thumb|right|In 2009 [[Akron-Summit County Public Library]] was recognized with a [[star (classification)|5 star]] rating by [[Library Journal]]<ref name="Akron-Summit County Public Library"/>]]
+The city is home to the [[University of Akron]], which the [[Princeton Review]] listed among the ''Best in the Midwest'', in 2008.<ref>{{cite web|url=http://www.ppg.com/en/newsroom/news/Pages/20090827.aspx|title=PPG Industries – PPG donates $5,000 to University of Akron |publisher=Corporateportal.ppg.com |date=August 27, 2009 |accessdate=January 24, 2010}}</ref> Originally Buchtel College, the school is home of the [[Goodyear Polymer Center]] and the [[National Polymer Innovation Center]].<ref>{{cite web|url=http://plasticsnews.com/headlines2.html?id=16599 |title=University of Akron breaks ground for $13 million polymer center |publisher=Plastics News |accessdate=October 1, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20110715092401/http://plasticsnews.com/headlines2.html?id=16599 |archivedate=July 15, 2011 }}</ref> All [[Akron Public Schools]] are currently going through a 15-year, $800 million rebuilding process.<ref name="Education Alternatives in Akron Ohio"/> In recent times the city's schools have been moved from "Academic Watch" to "Continuous Improvement" by the [[Ohio Department of Education]].<ref name="Akron Public Schools General Information"/> Akron also has many private, parochial and charter schools. Akron Public Schools made headlines in 2004 when a freshman student of Akron Digital Academy, the district's own online charter school, was not allowed to participate in extracurricular activities, an event later covered and satirized by ''[[The Daily Show]]''. [[National Basketball Association]] player [[LeBron James]], attended [[St. Vincent - St. Mary High School]].
+
+==Transportation==
+
+===Airports===
+[[File:Akron-Fulton Terminal.jpg|upright|thumb|right|Akron Fulton International Airport administration building]]
+The primary terminal that airline passengers traveling to or from Akron use is the [[Akron-Canton Regional Airport]], serving nearly 2 million passengers a year. The Akron-Canton Airport is a commercial [[airspace class|Class C]] airport located in the city of [[Green, Ohio|Green]],<ref>{{cite web |url=http://www.akroncantonairport.com/uploads/CAK_WelcomePage_FINAL.pdf |archivedate=December 9, 2008 |archiveurl=https://web.archive.org/web/20081209090219/http://www.akroncantonairport.com/uploads/CAK_WelcomePage_FINAL.pdf |title=Welcome to the Akron-Canton Airport!}}</ref> roughly {{convert|10|mi|0|abbr=on}} southeast of Akron operated jointly by [[Stark County, Ohio|Stark]] and [[Summit County, Ohio|Summit]] counties.  It serves as an alternative for travelers to or from the Cleveland area as well. [[Akron Fulton International Airport]] is a [[general aviation]] airport located in and owned by the City of Akron that serves private planes.  It first opened in 1929 and has operated in several different capacities since then. The airport had commercial scheduled airline service until the 1950s and it is now used for both cargo and private planes.<ref name="Akron, Ohio: Akron Fulton Airport"/>
+It is home of the [[Goodyear Airdock|Lockheed Martin Airdock]], where the Goodyear airships, dirigibles, and blimps were originally stored and maintained. The Goodyear blimps are now housed outside of Akron in a facility on the shores of Wingfoot Lake in nearby [[Suffield Township, Portage County, Ohio|Suffield Township]].
+
+===Railroads===
+[[File:AkronNorthSideStation.jpg|upright|thumb|left|Akron Northside Station]]
+Akron Northside Station is a train station at 27 Ridge Street along the [[Cuyahoga Valley Scenic Railroad]].<ref name="Cuyahoga Valley Scenic Railroad, Akron Northside Station In Akron, Ohio - Ohio.com"/>
+
+Because of the city's large rubber industry, Akron was once serviced by a variety of railroads who competed for the city's freight and passenger business. The largest of these railroads were the [[Baltimore and Ohio Railroad]], [[Erie Railroad]], and the [[Pennsylvania Railroad]]. Smaller regional railroads included the [[Akron Canton and Youngstown Railroad]], [[Northern Ohio Railroad]], and the [[Akron Barberton Belt Railroad]].<ref>{{Sanders-Akron}}</ref>{{page needed|date=August 2015}} Today the city is only serviced by [[CSX Corporation]] which has a de facto monopoly on all rail freight transport to and from the city. There is currently no passenger rail transportation.
+
+===Bus and public transportation===
+[[File:AkronIntermodalTransitCenter.jpg|upright|thumb|right|Intermodal Transit Center]]
+Public transportation is available through the [[METRO Regional Transit Authority]] system, which has a fleet of over two hundred buses and trolleys and operates local routes as well as running commuter buses into downtown Cleveland. [[Stark Area Regional Transit Authority]] (SARTA) also has a bus line running between [[Canton, Ohio|Canton]] and Akron and the [[Portage Area Regional Transportation Authority]] (PARTA) runs an express route connecting the [[University of Akron]] with [[Kent State University]].<ref name="Akron Express"/>
+Metro RTA operates out of the Intermodal Transit Center on South Broadway Street. This facility, which opened in 2009, also houses inter-city bus transportation available through [[Greyhound Lines]].<ref name="Solar panels make Akron's new transit center a leader in Ohio"/>
+
+===Freeways===
+Akron is served by two major interstate highways that bisect the city. Unlike other cities, the bisection does not occur in the Central Business District, nor do the interstates serve downtown; rather, the [[Ohio State Route 59|Akron Innerbelt]] and to a lesser extent [[Ohio State Route 8]] serve these functions.
+[[File:akron innerbelt.jpg|upright|thumb|left|The Innerbelt looking northeast]]
+* [[Interstate 77]] connects [[Marietta, Ohio]] to [[Cleveland]], Ohio. In Akron, it features 15 interchanges, four of which permit freeway-to-freeway movements. It runs north-south in the southern part of the city to its intersection with [[Interstate 76 (east)|I-76]], where it takes a westerly turn as a concurrency with Interstate 76.
+* [[Interstate 76 (east)|Interstate 76]] connects [[Interstate 71 (Ohio)|Interstate 71]] to [[Youngstown, Ohio]] and farther environs. It runs east-west and has 18 interchanges in Akron, four of which are freeway-to-freeway. The East Leg was rebuilt in the 1990s to feature six lanes and longer merge lanes. The concurrency with Interstate 77 is eight lanes. The Kenmore Leg is a four-lane leg that is slightly less than two miles (3&nbsp;km) long and connects to Interstate 277.
+* [[Interstate 277 (Ohio)|Interstate 277]] is an east-west spur that it forms with [[U.S. Highway 224|US 224]] after I-76 splits to the north to form the Kenmore Leg. It is six lanes and cosigned with U.S. 224.
+[[File:AkronSkyline.jpg|right|300px|thumb|View of Akron from the south looking north]]
+* The [[Ohio State Route 59|Akron Innerbelt]] is a six-lane, {{convert|2.24|mi|km|adj=on}} spur from the I-76/I-77 concurrency and serves the urban core of the city. Its ramps are directional from the interstates, so it only serves west side drivers. ODOT is considering changing this design to attract more traffic to the route. The freeway comes to an abrupt end near the northern boundary of downtown where it becomes Martin Luther King Jr. Boulevard. The freeway itself is officially known as "The Martin Luther King Jr. Memorial Freeway". The freeway was originally designed to connect directly to State Route 8, but plans were laid to rest in the mid-1970s because of financial troubles.
+* [[Ohio State Route 8]] is an original state highway that is a limited access route that connects Akron's northern suburbs with Interstates 76 and 77. State Route 8's southern terminus is at the central interchange, where it meets I-76 and I-77. The second freeway in Akron to be completed, it went through a major overhaul in 2003 with new ramps and access roads. In 2007 ODOT began a project to upgrade the road to interstate highway standards north of Akron from [[Ohio State Route 303|State Route 303]] to I-271, providing a high speed alternative to Cleveland.<ref name="Akron Innerbelt Integration Initiative - History"/>
+
+==Crime==
+{{Main|Crime history of Akron, Ohio}}
+[[File:SummitCountyCourthouseAkron.jpg|thumb|right|Summit County Courthouse and police car. The modern police car originated in Akron in 1899.<ref name="Police Technology"/>]]
+
+In 1999, Akron ranked as the 94th most dangerous city and the 229th safest, on the 7th [[Morgan Quitno]] list.<ref>{{cite web|url=http://www.morganquitno.com/cit01dang.htm |title=Morgan Quitno's 7th Annual Safest City Award in Dangerous Rank Order |publisher=Morganquitno.com |date= |accessdate=September 9, 2012 |deadurl=yes |archiveurl=https://web.archive.org/20120728001541/http://www.morganquitno.com:80/cit01dang.htm |archivedate=July 28, 2012 }}</ref> Preliminary Ohio crime statistics show aggravated assaults increased by 45% during 2007.<ref name="Preliminary Ohio Crime Statistics for 2007"/> Akron became the first city in the United States to train and equip officers with the [[CornerShot]], to aid them in fighting crime.<ref name="Ohio Police Test Gun That Shoots Round Corners"/> The city invented the first [[patrol car]]s to assist officers.
+
+Historically, [[organized crime]] operated in the city with the presence of the ''Black Hand'' led by [[Rosario Borgio]], once headquartered on the city's north side in the first decade of the 20th century{{Citation needed|date=January 2010}} and the ''Walker-Mitchell'' mob, of which [[Pretty Boy Floyd]] was a member.<ref>{{Cite journal | url = https://books.google.com/?id=6ADHZnyv9FIC&lpg=PA35&dq=%22frank%20mitchell%22%20%22pretty%20boy%20floyd%22%20akron&pg=PA33#v=onepage&q=akron&f=false | title = The Life and Death of Pretty Boy Floyd | isbn = 978-0-87338-650-0 | author1 = King | first1 = Jeffery S | date = August 1, 1999}}</ref> Akron has experienced several riots in its history including, the [[Crime in Akron, Ohio|Riot of 1900]] and the [[Crime in Akron, Ohio|Wooster Avenue Riots of 1968]].
+
+===Methamphetamine history===
+The distribution of [[methamphetamine]] ("meth") in Akron greatly contributed to [[Summit County, Ohio|Summit County]] becoming known as the "Meth Capital of Ohio". The county ranks third in the nation in the number of registered meth sites.<ref name="Summit County has third most methamphetamine sites in U.S"/> During the 1990s, motorcycle gang the [[Hells Angels]] sold the drug from bars frequented by members.<ref>{{cite web|url=http://www.justice.gov/ndic/pubs/659/meth.htm |title=Methamphetamine – Ohio Drug Threat Assessment |publisher=Justice.gov |date=June 15, 2012 |accessdate=September 9, 2012}}</ref> Between January 2004 and August 2009, the city had significantly more registered sites than any other city in the state.<ref name="National Clandestine Laboratory Register - Ohio"/> Authorities believe a disruption of a major Mexican meth operation attributed to the increase of it being made locally.<ref name="raids"/> In 2007, APD received a grant to help continue its work with other agencies and jurisdictions to support them in ridding the city of meth labs.<ref name="City of Akron: News Releases 2008: STATE OF THE CITY PRESENTATION"/> The Akron Police Department coordinates with the Summit County Drug Unit and the Drug Enforcement Administration, forming the Clandestine Methamphetamine Laboratory Response Team.<ref>[http://www.municipalleader.com/assets/attachments//meth_labs.pdf ]{{Dead link|date=September 2012}}</ref>
+
+==Notable people==
+{{Main|List of people from Akron, Ohio}}
+[[File:Judy Resnik STS-41-D.jpg|thumb|right|300px|alt=Mission Specialist Judith Resnik|Mission Specialist [[Judith Resnik]] on the middeck of ''[[Space Shuttle Discovery|Discovery]]'' during [[STS-41-D]]]]
+Akron has produced and been home to a number of notable individuals in varying fields. Its natives and residents are called "Akronites". The first postmaster of the Connecticut Western Reserve and president of its bank, General [[Simon Perkins]], co-founded Akron in 1825. His son, [[Colonel Simon Perkins]], while living in Akron during the same time as abolitionist [[John Brown (abolitionist)|John Brown]], went into business with Brown. [[Wendell Willkie]], the Republican nominee for president in 1940, worked in Akron as a lawyer for Firestone. Pioneering televangelist [[Rex Humbard]] rose to prominence in Akron. Beacon Journal publisher [[John S. Knight]] ran the national Knight Newspapers chain from Akron. Broadcaster [[Hugh Downs]] was born in Akron. In the mid- to late 1940s, pioneering rock 'n' roll DJ [[Alan Freed]] was musical director at Akron's WAKR. Watergate figure [[John Dean]] was born in Akron.
+
+Noted athletes to have come from Akron include [[National Basketball Association]] MVPs [[LeBron James]] and [[Stephen Curry (basketball)|Stephen Curry]], [[Basketball Hall of Fame]]rs [[Gus Johnson (basketball)|Gus "Honeycomb" Johnson]] and [[Nate Thurmond|Nate "The Great" Thurmond]], [[Major League Baseball]] player [[Thurman Munson]], [[International Boxing Hall of Fame]]r [[Gorilla Jones]], former [[Northwestern University]] and [[University of Notre Dame|Notre Dame]] coach [[Ara Parseghian]], and [[Butch Reynolds]], former world record holder in the [[400 metres|400 meter]] dash, and MLS footballer [[Ben Zemanski]]. [[James Harrison (American football)|James Harrison]] of the Pittsburgh Steelers was also born in Akron, as was former New England Patriots linebacker and current Houston Texas linebackers coach [[Mike Vrabel]].
+
+Performing artists to come from Akron include bands such as [[Ruby and the Romantics]], [[Devo]], [[The Black Keys]], [[The Waitresses]], and [[1964 the Tribute]]; singers [[Chrissie Hynde]], [[James Ingram]], [[Joseph Arthur]], [[Jani Lane]], [[Rachel Sweet]] and outlaw country singer [[David Allan Coe]]; and actors [[Frank Dicopoulos]], [[David McLean (actor)|David McLean]], [[Melina Kanakaredes]], [[Elizabeth Franz]], [[William Boyett]], [[Lola Albright]] and [[Jesse White (actor)|Jesse White]]. [[Clark Gable]] and [[John Lithgow]] lived in Akron.
+
+Poet [[Rita Dove]] was born and grew up in Akron. She went on to become the first African-American [[United States Poet Laureate]]. Many of her poems are about or take place in Akron, foremost among them [[Thomas and Beulah]], which earned her the 1987 [[Pulitzer Prize for poetry]].
+
+Owner of over 400 patents, native [[Stanford R. Ovshinsky]] invented the widely used [[nickel-metal hydride battery]]. [[Richard Smalley]], winner of a [[Nobel Prize in Chemistry]] for discovering [[buckminsterfullerene]] (buckyballs) was born in the city during 1943. Another native, the second U.S. female astronaut in [[Outer space|space]], [[Judith Resnik]], died in the [[Space Shuttle Challenger disaster]] and has the [[Resnik (crater)|Resnik Moon crater]] named in her honor.
+
+[[Carol Folt]], the 11th chancellor and 29th chief executive, of [[the University of North Carolina at Chapel Hill]] was born in Akron in 1951. She was previously provost (chief academic officer) and interim president of [[Dartmouth College]]. She assumed her duties on July 1, 2013, and is the first woman to lead UNC.
+
+The philosopher and logician [[Willard van Orman Quine]] was born and grew up in Akron.
+
+==Sister cities==
+[[File:Chemnitz Germany Akron Sister City.jpg|upright|thumb|right|Global street sign]]
+Akron, as of 2015, has two [[Twin towns and sister cities|sister cities]]:<ref>{{cite web | url=http://sistercities.org/interactive-map/Akron,%20Ohio | publisher=Sister Cities International | title=Akron, Ohio | accessdate=June 10, 2015 | archiveurl=https://web.archive.org/web/20150610180528/http://sistercities.org/interactive-map/Akron,%20Ohio | archivedate=June 10, 2015}}</ref>
+
+{|
+|-
+| valign="top" |
+*{{flagicon|Germany}} [[Chemnitz]], Germany <small>''(since April 20, 1997)''</small><ref>{{cite web |url=http://www.chemnitz.de/chemnitz/en/facets-of-a-charming-city/twin-cities/index.html |title=Twin cities&nbsp;— Chemnitz |publisher=http://www.chemnitz.de/chemnitz/en/index.html |date= |accessdate=November 25, 2013}}</ref>
+*{{flagicon|Israel}} [[Kiryat Ekron]], Israel<ref>{{cite web |url=http://www.akronohio.gov/cms/site/824853b8ae0c3880/index.html |title=Sister Cities: City of Akron |publisher=http://www.akronohio.gov/cms/city_of_akron/index.html |date= |accessdate=November 25, 2013}}</ref>
+|}
+
+==References==
+{{reflist|colwidth=30em|refs=
+
+<ref name="A New Brand Of Tech Cities">{{cite web|url=http://www.newsweek.com/id/79904/page/3 |title=A New Brand Of Tech Cities |work=Newsweek |date=April 30, 2001 |accessdate=January 24, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20121007020921/http://www.newsweek.com/id/79904/page/3 |archivedate=October 7, 2012 }}</ref>
+
+<ref name="ASCPL Digital Exhibit">{{cite web|url=http://www.akronlibrary.org/digital-lib/DLH0002A.html |title=ASCPL Digital Exhibit |publisher=Akronlibrary.org |date=July 4, 1905 |accessdate=January 20, 2010}}</ref>
+
+<ref name="About the Towpath Trail">{{cite web|url=http://www.ohioeriecanal.org/abouttowpath.html |title=About the Towpath Trail |publisher=Ohioeriecanal.org |accessdate=April 3, 2009}}</ref>
+
+<ref name="Akron Art Museum">{{cite web|url=http://www.chi-athenaeum.org/archawards/2005/akronart.html |title=Akron Art Museum |work=2005 American Architecture Awards |publisher=The Chicago Athenaeum |year=2005 |accessdate=January 5, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20091008221443/http://www.chi-athenaeum.org/archawards/2005/akronart.html |archivedate=October 8, 2009 }}</ref>
+
+<ref name="Akron Children's Hospital : Why Akron Children's?">{{cite web|url=https://www.akronchildrens.org/cms/site/73139f80fa022ea8/index.html |title=Akron Children's Hospital : Why Akron Children's? |publisher=Akronchildrens.org |date=June 19, 2007 |accessdate=April 3, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20071027081856/https://www.akronchildrens.org/cms/site/73139f80fa022ea8/index.html |archivedate=October 27, 2007 }}</ref>
+
+<ref name="Akron Express">{{cite web |url= http://www.partaonline.org/pdfs/Akron_Express.pdf|title= Akron Express|accessdate=March 14, 2009 |work= PARTA Online|publisher= Portage Area Regional Transportation Authority|format= PDF|date=January 2009| archiveurl= https://web.archive.org/web/20090306055105/http://www.partaonline.org/pdfs/Akron_Express.pdf| archivedate= March 6, 2009 | deadurl= no}}</ref>
+
+<ref name="Akron General earns honors">{{cite web|last=Powell |first=Cheryl |url=http://www.ohio.com/news/top_stories/50919842.html |title=Akron General earns honors |publisher=Ohio.com |accessdate=July 16, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20110615162539/http://www.ohio.com/news/top_stories/50919842.html |archivedate=June 15, 2011 }}</ref>
+
+<ref name="Akron Innerbelt Integration Initiative - History">{{cite web|url=http://www.akroninnerbelt.org/noflash/history.php |title=Akron Innerbelt Integration Initiative – History |publisher=Akroninnerbelt.org |accessdate=April 3, 2009 |archiveurl=https://web.archive.org/web/20060210081745/http://www.akroninnerbelt.org/noflash/history.php |archivedate=February 10, 2006}}</ref>
+
+<ref name="Akron Ohio Historical Timeline 1950 - 1999">{{cite web|url=http://www.ci.akron.oh.us/history/timeline/1950.htm |title=Akron Ohio Historical Timeline 1950–1999 |publisher=Ci.akron.oh.us |accessdate=January 2, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20090329080311/http://www.ci.akron.oh.us:80/history/timeline/1950.htm |archivedate=March 29, 2009 }}</ref>
+
+<ref name="Akron Ohio: Akron Ohio: Mayor's Office of Economic Development">{{cite web|url=http://www.ci.akron.oh.us/ed/index.htm |title=Akron Ohio: Akron Ohio: Mayor's Office of Economic Development |publisher=Ci.akron.oh.us |accessdate=November 24, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20090919004102/http://www.ci.akron.oh.us:80/ed/index.htm |archivedate=September 19, 2009 }}</ref>
+
+<ref name="Akron Public Schools General Information">{{cite web|url=http://www.akronschools.com/about/info.html |title=Akron Public Schools General Information |accessdate=July 9, 2009 |publisher=Akron Public Schools | archiveurl = https://web.archive.org/web/20080615153849/http://www.akronschools.com/about/info.html| archivedate = June 15, 2008}}</ref>
+
+<ref name="Akron Riverwalk / The Bridge to Polymer Valley">{{cite web|url=http://timetravel.mementoweb.org/memento/2010/http://akronriverwalk.blogspot.com/ |title=Akron Riverwalk / The Bridge to Polymer Valley |publisher=Akronriverwalk.blogspot.com |accessdate=April 3, 2009}}</ref>
+
+<!--not used
+<ref name="Akron Weather History">{{cite web|url=http://www.cityrating.com/cityweather.asp?city=Akron |title=Akron Weather History |publisher=CityRating.com |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090429171507/http://cityrating.com/cityweather.asp?city=Akron| archivedate= April 29, 2009| deadurl= no}}</ref>
+-->
+
+<ref name="Akron leads the way">{{cite news|title=Akron leads the way |magazine=Builders Exchange |year=2007 |url=http://www.bxmagazine.com/article.asp?ID=833 |accessdate=January 11, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20080403155554/http://www.bxmagazine.com:80/article.asp?ID=833 |archivedate=April 3, 2008 }}</ref>
+
+<ref name="Akron news release">{{cite web|url=http://www.ci.akron.oh.us/news_releases/2001/033001.html |title=Akron news release |deadurl=yes |archiveurl=https://web.archive.org/20150203091537/http://www.ci.akron.oh.us/news_releases/2001/033001.html |archivedate=February 3, 2015 }}</ref>
+
+<ref name="Akron, Ohio - Birthplace of Alcoholics Anonymous">{{cite web|url=http://www.akronaa.org/foundersday/ |title=Akron, Ohio – Birthplace of Alcoholics Anonymous |accessdate=January 20, 2010 |publisher=Akron Area Intergroup Council of Alcoholics Anonymous |deadurl=yes |archiveurl=https://web.archive.org/20090616125447/http://www.akronaa.org:80/foundersday/ |archivedate=June 16, 2009 }}</ref>
+
+<ref name="Akron, Ohio">{{cite web|url=http://webcache.googleusercontent.com/search?q=cache:zHD7edX_v3EJ:www.brookings.edu/events/2008/~/media/Files/events/2008/0910_restoring_prosperity/akron_case_study.pdf+In+the+1950s+and+%2760s+Akron+saw+a+surge+in+industry+as+use+of+the+automobile+took+off&cd=10&hl=en&ct=clnk&gl=us |title=Akron, Ohio |publisher=webcache.googleusercontent.com |accessdate=April 3, 2009}}{{Dead link|date=January 2010}}</ref>
+
+<ref name="Akron, Ohio: Akron Fulton Airport">{{cite web|url=http://www.ci.akron.oh.us/Airport/index.htm |title=Akron, Ohio: Akron Fulton Airport |publisher=Ci.akron.oh.us |accessdate=April 3, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20081224152902/http://www.ci.akron.oh.us:80/Airport/index.htm |archivedate=December 24, 2008 }}</ref>
+
+<!--ref name="Akron-Canton Airport News Akron Canton Airport">{{cite web|url=http://www.akroncantonairport.com/news-detail.php?pageid=52&newscategoryid=1&newsid=300 |title=Akron-Canton Airport News Akron Canton Airport |publisher=Akroncantonairport.com |accessdate=March 22, 2010}}</ref-->
+
+<ref name="Akron-Summit County Public Library">{{cite web|url=http://www.akronlibrary.org/ |title=Akron-Summit County Public Library |publisher=Akronlibrary.org |date=February 15, 2009 |accessdate=July 8, 2009}}</ref>
+
+<ref name="Akron: Akron's Black History Timeline: 1900-1919: The New Century">{{cite web|url=http://www.ci.akron.oh.us/blackhist/timeline/1920-1929.htm |title=Akron: Akron's Black History Timeline: 1900–1919: The New Century |publisher=Ci.akron.oh.us |accessdate=January 2, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20090717061816/http://www.ci.akron.oh.us:80/blackhist/timeline/1920-1929.htm |archivedate=July 17, 2009 }}</ref>
+
+<ref name="Akron: News Releases 2003: AKRON HISTORY RETURNS TO THE CANAL">{{cite web|url=http://www.ci.akron.oh.us/News_Releases/2003/0702.html |title=Akron: News Releases 2003: Akron History Returns to the Canal |publisher=Ci.akron.oh.us |date=July 2, 2003 |accessdate=April 15, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20070808073547/http://www.ci.akron.oh.us:80/News_Releases/2003/0702.html |archivedate=August 8, 2007 }}</ref>
+
+<ref name="American Religious Buildings">{{cite web|last1=Jenks|first1=Christopher Stephen|title=American Religious Buildings: The Akron Plan Sunday School|url=http://www.sacredplaces.org/PSP-InfoClearingHouse/articles/American%20Religious%20Buildings.htm|website=[[Partners for Sacred Places]]|publisher=[[New York Landmarks Conservancy]]|accessdate=June 9, 2015|archiveurl=https://web.archive.org/web/20030318161630/http://www.sacredplaces.org/PSP-InfoClearingHouse/articles/American%20Religious%20Buildings.htm|archivedate=March 18, 2003|date=December 1995|quote=Thousands of Akron Plan Sunday Schools were built throughout New York State and the country between 1870 and the First World War.}}</ref>
+
+<ref name="Architecture">{{cite web|url=http://www.akronartmuseum.org/architecture/ |title=Architecture |publisher=Akron Art Museum |accessdate=January 1, 2010}}</ref>
+
+<ref name="Arresting displays refreshed for public">{{cite web|last=Trexler |first=Phil |url=http://www.ohio.com/entertainment/80323682.html |title=Arresting displays refreshed for public |work=Ohio.com |date=December 29, 2009 |accessdate=January 2, 2010| archiveurl= https://web.archive.org/web/20100102005350/http://www.ohio.com/entertainment/80323682.html| archivedate= January 2, 2010 | deadurl= no}}</ref>
+
+<ref name="Bridgestone Americas, Inc">{{cite web|url=http://www.bridgestone-firestone.com/news/news_index.asp?id=2009/091113a |title=Bridgestone Americas, Inc |publisher=Bridgestone-firestone.com |date=November 13, 2009 |accessdate=December 5, 2009}}</ref>
+
+<!-- <ref name="CJO - Full Text HTML">{{cite web|url=http://journals.cambridge.org/action/displayFulltext?type=1&fid=65412&jid=LVC&volumeId=12&issueId=02&aid=65411 |title=CJO – Full Text HTML |doi=10.1017/S0954394500122033 |publisher=Journals.cambridge.org |accessdate=January 7, 2010}}</ref> -->
+
+<ref name="City of Akron: News Releases 2008: BRIDGING URBAN PLACES WITH GREEN SPACES - HISTORIC TOWPATH WINDS INTO NEW TERRITORY">{{cite web|url=http://www.ci.akron.oh.us/News_Releases/2008/0822.htm |title=City of Akron: News Releases 2008: Bridging Urban Places with Green Spaces – Historic Towpath Winds into New Territory |publisher=Ci.akron.oh.us |accessdate=April 3, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20110928044623/http://www.ci.akron.oh.us/News_Releases/2008/0822.htm |archivedate=September 28, 2011 }}</ref>
+
+<ref name="City of Akron: News Releases 2008: STATE OF THE CITY PRESENTATION">{{cite web|url=http://www.ci.akron.oh.us/news_releases/2008/0207.htm |title=City of Akron: News Releases 2008: State of the City Presentation |publisher=Ci.akron.oh.us |accessdate=January 6, 2010| archiveurl= https://web.archive.org/web/20100109015625/http://www.ci.akron.oh.us/News_Releases/2008/0207.htm| archivedate= January 9, 2010 | deadurl= no}}</ref>
+
+<ref name="Claims to Fame - Products">{{cite web|url=http://www.epodunk.com/slogans/products.html|title=Claims to Fame – Products|publisher=[[Epodunk]]|accessdate=April 16, 2007| archiveurl= https://web.archive.org/web/20070408081637/http://www.epodunk.com/slogans/products.html| archivedate= April 8, 2007 | deadurl= no}}</ref>
+
+<ref name="Clark Gable - Ohio History Central - A product of the Ohio Historical Society">{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=173 |title=Clark Gable – Ohio History Central – A product of the Ohio Historical Society |publisher=Ohio History Central |accessdate=April 3, 2009}}</ref>
+
+<ref name="Cleveland-Akron win bid for 2014 Gay Games">{{cite web|last=Armon |first=Rick |url=http://www.ohio.com/news/top_stories/62606392.html |title=Cleveland-Akron win bid for 2014 Gay Games |publisher=Ohio.com |accessdate=September 30, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20110615163303/http://www.ohio.com/news/top_stories/62606392.html |archivedate=June 15, 2011 }}</ref>
+
+<ref name="Community slogans about products">{{cite web|url=http://www.epodunk.com/slogans/products.html |title=Community slogans about products |publisher=ePodunk |accessdate=April 15, 2009| archiveurl= https://web.archive.org/web/20090328174856/http://www.epodunk.com/slogans/products.html| archivedate= March 28, 2009 | deadurl= no}}</ref>
+
+<ref name="Connect Akron Wireless Network">{{cite web|url=http://connectakron.org/map/ |title=Connect Akron Wireless Network |publisher=Connectakron.org |accessdate=December 18, 2009| archiveurl= https://web.archive.org/web/20091209201109/http://www.connectakron.org/map/| archivedate= December 9, 2009 | deadurl= no}}</ref>
+
+<ref name="Cuyahoga Valley Scenic Railroad, Akron Northside Station In Akron, Ohio - Ohio.com">{{cite web|url=http://events.ohio.com/akron-oh/venues/show/352935-cuyahoga-valley-scenic-railroad-akron-northside-station |title=Cuyahoga Valley Scenic Railroad, Akron Northside Station In Akron, Ohio |publisher=Events.ohio.com |accessdate=April 3, 2009}}</ref>
+
+<ref name="Dance, Girl, Dance">{{cite web|url=http://www.dvdtimes.co.uk/content.php?contentid=65302 |title=Dance, Girl, Dance |publisher=DVD Times |accessdate=February 9, 2010}}</ref>
+
+<ref name="Education Alternatives in Akron Ohio">{{cite web|url=http://www.akronohrealestate.net/Education.asp |title=Education Alternatives in Akron Ohio |publisher=Akronohrealestate.net |accessdate=April 3, 2009 |deadurl=yes |archiveurl=https://web.archive.org/20081121214520/http://www.akronohrealestate.net/Education.asp |archivedate=November 21, 2008 }}</ref>
+
+<ref name="F. Schumacher Milling Company">{{cite web|url=http://www.brandnamecooking.com/fschumacher.html |title=F. Schumacher Milling Company |publisher=Brandnamecooking.com |date=April 16, 1908 |accessdate=January 24, 2010| archiveurl= https://web.archive.org/web/20100103014601/http://www.brandnamecooking.com/fschumacher.html| archivedate= January 3, 2010 | deadurl= no}}</ref>
+
+<ref name="Ferdinand Schumacher - Ohio History Central - A product of the Ohio Historical Society2">{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=333 |title=Ferdinand Schumacher – Ohio History Central – A product of the Ohio Historical Society |publisher=Ohio History Central |date=July 1, 2005 |accessdate=January 19, 2010}}</ref>
+
+<ref name="First Night Akron">{{cite web|url=http://www.firstnightakron.org/ |title=First Night Akron |accessdate=February 2, 2010 |year=2009 |publisher=Downtown Akron Partnership | archiveurl= https://web.archive.org/web/20100130054812/http://www.firstnightakron.org/| archivedate= January 30, 2010 | deadurl= no}}</ref>
+
+<ref name="Goodyear has tentative deal to stay in Akron">{{cite web|last=Byard |first=Katie |url=http://www.ohio.com/news/top_stories/12148851.html |title=Goodyear has tentative deal to stay in Akron |publisher=Ohio.com |date=December 5, 2007 |accessdate=January 24, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20080829195459/http://www.ohio.com/news/top_stories/12148851.html |archivedate=August 29, 2008 }}</ref>
+
+<ref name="Greater Akron Chamber">{{cite web|url=http://www.greaterakronchamber.org/cms/site/4dce2017cd56df64/index.html |title=Greater Akron’s Competitive Advantages |publisher=Greater Akron Chamber |accessdate=March 28, 2010}}</ref>
+
+<ref name="Guide to military installations">{{cite book | url = https://books.google.com/books?id=psjn3zHX4hkC&pg=PA174&dq=airship+united+states+Lakehurst#PPA174,M1 | title = Guide to military installations | first = Dan | last = Cragg | edition = 6th | publisher = Stackpole Books | year = 2001 | isbn = 978-0-8117-2781-5 | page = 174 | accessdate = April 8, 2009 }}</ref>
+
+<ref name="Hamburger festivals, special events have participants flipping">{{cite web|url=http://www.post-gazette.com/pg/07196/801262-34.stm |title=Hamburger festivals, special events have participants flipping |publisher=Post-gazette.com |date=July 15, 2007 |accessdate=January 19, 2010}}</ref>
+
+<ref name="Hungry Bacteria Begins Saving Akron Money">{{cite press release |title= Hungry Bacteria Begins Saving Akron Money|url= http://ci.akron.oh.us/News_Releases/2007/1212.htm |publisher= City of Akron, Ohio|date=December 12, 2007|accessdate=January 11, 2010| archiveurl= https://web.archive.org/web/20100109094951/http://www.ci.akron.oh.us/News_Releases/2007/1212.htm| archivedate= January 9, 2010 | deadurl= no}}</ref>
+
+<ref name="Jason Biggs Interview, Over Her Dead Body - MoviesOnline">{{cite web|url=http://www.moviesonline.ca/movienews_13950.html |title=Jason Biggs Interview, Over Her Dead Body – MoviesOnline |publisher=Moviesonline.ca |accessdate=March 25, 2010 |deadurl=yes |archiveurl=https://web.archive.org/20081230213005/http://www.moviesonline.ca:80/movienews_13950.html |archivedate=December 30, 2008 }}</ref>
+
+<ref name="Ku Klux Klan - Ohio History Central - A product of the Ohio Historical Society">{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=913 |title=Ku Klux Klan – Ohio History Central – A product of the Ohio Historical Society |publisher=Ohio History Central |accessdate=April 15, 2009}}</ref>
+
+<ref name="Language Log: Wut? Wen? Wich?">{{cite web|last=Shuy |first=Roger |url=http://itre.cis.upenn.edu/~myl/languagelog/archives/003589.html |title=Language Log: Wut? Wen? Wich? |publisher=Itre.cis.upenn.edu |date=September 17, 2006 |accessdate=January 7, 2010}}</ref>
+
+<ref name="Local Television Market Universe Estimates Comparisons of 2008-09 and 2009-10 Market Ranks">{{cite web|url=http://blog.nielsen.com/nielsenwire/wp-content/uploads/2009/08/2009-2010-dma-ranks.pdf |title=Local Television Market Universe Estimates Comparisons of 2008–09 and 2009–10 Market Ranks |accessdate=February 5, 2010 |year=2009 |format=PDF |publisher=nielsen }}</ref>
+
+<ref name="Lock 3 Akron, Ohio Concerts">{{cite web|url=http://www.lock3live.com/concerts.aspx |title=Lock 3 Akron, Ohio Concerts |accessdate=January 20, 2010 |publisher=City of Akron |deadurl=yes |archiveurl=https://web.archive.org/20080828154903/http://www.lock3live.com/concerts.aspx |archivedate=August 28, 2008 }}</ref>
+
+<ref name="M.Y.O.B. on">{{cite web|author=Cla452 Added |url=http://www.tv.com/m.y.o.b./show/174/summary.html |title=M.Y.O.B. on |publisher=Tv.com |date=July 16, 2005 |accessdate=March 26, 2010}}</ref>
+
+<ref name="Mobile Edition">{{cite web|last=Mackinnon |first=Jim |url=http://www.ohio.com/news/top-stories/tech-center-plans-progressing-1.130576 |title=Tech center plans progressing |publisher=Ohio.com |date=November 25, 2009 |accessdate=December 5, 2009}}</ref>
+
+<ref name="Museum Collection: On View Now">{{cite web|url=http://www.akronartmuseum.org/musexhibitions/|title=Museum Collection: On View Now |publisher=Akron Art Museum |year=2007|accessdate=January 2, 2010|quote= ...dedicated to the display of its collection, which focuses on art produced since 1850.| archiveurl= https://web.archive.org/web/20100109234923/http://www.akronartmuseum.org/musexhibitions/| archivedate= January 9, 2010 | deadurl= no}}</ref>
+
+<ref name="Museum History">{{cite web|url=http://www.akronartmuseum.org/history/ |title=Museum History |publisher=Akron Art Museum |year=2007|accessdate=January 1, 2010}}</ref>
+
+<ref name="NOAA">[http://www.weather.gov/climate/xmacis.php?wfo=cle NOWData – NOAA Online Weather Data.] National Weather Service. Retrieved on March 7, 2010.</ref>
+
+<!--not used
+<ref name="NWS">[http://www.erh.noaa.gov/cle/climate/cak/normals/caknrtjan.html Akron/Canton Normals and Records for January.] [[National Weather Service]]. Retrieved on November 13, 2008.</ref>
+-->
+
+<ref name="National Clandestine Laboratory Register - Ohio">{{cite web |url= http://www.justice.gov/dea/seizures/oh.pdf |archiveurl= http://www.webcitation.org/5o4cZWTDC |archivedate= March 8, 2010|title= National Clandestine Laboratory Register – Ohio|date=August 19, 2009|work= Justice.Gov|publisher= United States Department of Justice|accessdate=January 7, 2010}}Note- The list uses the mailing address for each site, so not all sites listed as being in Akron are actually within the Akron city limits but instead have an Akron [[ZIP code]]</ref>
+
+<ref name="Newscast off air, on cable.">{{cite news|first=R.D.|last=Heldenfelds|title=Newscast off air, on cable.|url=http://www.accessmylibrary.com/coms2/summary_0286-29733372_ITM|archiveurl=https://web.archive.org/web/20090112075314/http://www.accessmylibrary.com/coms2/summary_0286-29733372_ITM|archivedate=January 12, 2009|work=[[Akron Beacon Journal]]|publisher=[[Knight-Ridder]]|date=July 5, 2005|accessdate=August 2, 2008}}</ref>
+
+<ref name="No One Lives Forever 2: A Spy in H.A.R.M.'s Way Review for PC">{{cite web|last=Wolpaw |first=Erik |url=http://www.gamespot.com/pc/action/noonelivesforever2asihw/review.html |title=No One Lives Forever 2: A Spy in H.A.R.M.'s Way Review for PC |publisher=GameSpot |date=September 30, 2002 |accessdate=April 28, 2009| archiveurl= https://web.archive.org/web/20090506115556/http://www.gamespot.com/pc/action/noonelivesforever2asihw/review.html| archivedate= May 6, 2009 | deadurl= no}}</ref>
+
+<ref name="No One Lives Forever 2: A Spy in HARM's Way Review">{{cite web|url=http://www.gamesfirst.com/?id=744 |title=No One Lives Forever 2: A Spy in HARM's Way Review |accessdate=February 5, 2010 |last=Allen |first=Todd |work=GamesFirst! }}</ref>
+
+<ref name="Nolan N. Guzzetta Miniature Sculpture, (sculpture)">{{cite web|url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!336076!0#focus |title=Nolan N. Guzzetta Miniature Sculpture, (sculpture) |publisher=Siris-artinventories.si.edu |date=May 18, 1976 |accessdate=February 9, 2010}}</ref>
+
+<ref name="Ohio Building Authority - Ocasek Building">{{cite web|url=http://oba.ohio.gov/html/ocasek.htm |title=Ohio Building Authority – Ocasek Building |accessdate=July 9, 2009 |author=Mark|date=July 6, 1999}}</ref>
+
+<ref name="Ohio Curiosities: Quirky Characters ... - Google Books">{{cite book|url=https://books.google.com/?id=otF3cU8kmqIC&pg=PA81&lpg=PA81&dq=menches+brother+akron+gee+whiz#v=onepage&q=cone&f=false |title=Ohio Curiosities: Quirky Characters ... |publisher=Google Books |date=August 8, 2007 |accessdate=January 21, 2010|isbn=978-0-7627-4344-5}}</ref>
+
+<ref name="Ohio Curiosities: Quirky Characters ... - Google Books3">{{cite book|url=https://books.google.com/?id=otF3cU8kmqIC&pg=PA81&lpg=PA81&dq=menches+brother+akron+gee+whiz#v=onepage&q=menches%20brother%20akron%20gee%20whiz&f=false |title=Ohio Curiosities: Quirky Characters ... |publisher=Google Books |date=August 8, 2007 |accessdate=January 21, 2010|isbn=978-0-7627-4344-5}}</ref>
+
+<ref name="Ohio Police Test Gun That Shoots Round Corners">{{cite web|url=http://www.liveleak.com/view?i=131_1197619064 |title=Ohio Police Test Gun That Shoots Round Corners |publisher=LiveLeak.com |date=December 14, 2007 |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090321004001/http://www.liveleak.com/view?i=131_1197619064| archivedate= March 21, 2009 | deadurl= no}}</ref>
+
+<ref name="Ohio foreclosure prompts suicide attempt">{{cite web|last=Grevatt |first=Martha |url=http://www.workers.org/2008/us/ohio_1016/ |title=Ohio foreclosure prompts suicide attempt |publisher=Workers.org |date=October 9, 2008 |accessdate=January 30, 2010}}</ref>
+
+<ref name="On the brink: Akron - Transitioning from rubber to polymers buoys economy">{{cite news | first=Mark | last=Niquette | title=On the brink: Akron – Transitioning from rubber to polymers buoys economy | date=December 5, 2007 | url =http://www.dispatch.com/live/content/local_news/stories/2007/12/05/AKRON.ART_ART_12-05-07_A1_0H8LORS.html#story-continues | work =The Columbus Dispatch | accessdate = February 2, 2010 }}</ref>
+
+<ref name="Police Technology">{{cite web|url=http://inventors.about.com/od/fstartinventions/a/forensic_3.htm |title=Police Technology |publisher=Inventors.about.com |date=April 3, 2008 |accessdate=August 15, 2009}}</ref>
+
+<ref name="PopikSmoky">Barry Popik, [http://www.barrypopik.com/index.php/new_york_city/entry/summary12/ Smoky City], barrypopik.com website, March 27, 2005</ref>
+
+<ref name="Preliminary Ohio Crime Statistics for 2007">{{cite web|url=http://www.funkhouserlaw.com/news-content.cfm/Article/116266/Preliminary-Ohio-Crime-Statistics-for.html|archiveurl=https://web.archive.org/web/20081119124937/http://www.funkhouserlaw.com/news-content.cfm/Article/116266/Preliminary-Ohio-Crime-Statistics-for.html|archivedate=November 19, 2008 |title=Preliminary Ohio Crime Statistics for 2007 |publisher=Funkhouserlaw.com |date=June 2, 2008 |accessdate=April 3, 2009}}</ref>
+
+<ref name="Rubber Capital, City">{{cite news|author=Mandel, Peter|date=April 25, 2004|title=Bouncing Around Akron, Rubber Capital of the World|url=http://www.washingtonpost.com/wp-dyn/content/article/2004/04/25/AR2005040310418.html|newspaper=[[The Washington Post]]|publisher=Katharine Weymouth|accessdate=January 28, 2012}}
+*{{cite news|author=Love, Steve|date=January 5, 1997|title=The Rubber City's Last Stand|newspaper=[[Akron Beacon Journal]]|publisher=Beacon Journal Publishing Co.|page=G1 – Metro}}
+*{{cite news|author=Allen, Dale|date=May 26, 1996|title=What Happened to Rubber Capital?|newspaper=[[Akron Beacon Journal]]|publisher=Beacon Journal Publishing Co.|page=A1 – Metro}}</ref>
+
+<ref name="Solar panels make Akron's new transit center a leader in Ohio">{{cite web |url= http://blog.cleveland.com/metro/2008/12/solar_panels_make_akrons_new_t.html|title= Solar panels make Akron's new transit center a leader in Ohio|accessdate=March 16, 2009|work=[[The Plain Dealer]]|date=December 31, 2008| archiveurl= https://web.archive.org/web/20090309130946/http://blog.cleveland.com/metro/2008/12/solar_panels_make_akrons_new_t.html| archivedate= March 9, 2009 | deadurl= no}}</ref>
+
+<ref name="Summa Health System - Hospital Rankings">{{cite web|url=http://www.summahealth.org/common/templates/contentindex.asp?ID=9565 |title=Summa Health System – Hospital Rankings |publisher=Summahealth.org |accessdate=July 5, 2009}}</ref>
+
+<ref name="Summa Health System - Locations">{{cite web|url=http://www.summahealth.org/common/templates/contentindex.asp?ID=456 |title=Summa Health System – Locations |publisher=Summahealth.org |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090503001726/http://www.summahealth.org/common/templates/contentindex.asp?ID=456| archivedate= May 3, 2009 | deadurl= no}}</ref>
+
+<ref name="Summa Health System - Summa Celebrates 11th Consecutive Year on U.S. New">{{cite web|url=https://ssl.summahealth.org/common/templates/article.asp?ID=13043|archiveurl=https://web.archive.org/web/20110728071210/https://ssl.summahealth.org/common/templates/article.asp?ID=13043|archivedate=July 28, 2011 |title=Summa Health System – Summa Celebrates 11th Consecutive Year on U.S. New |publisher=Ssl.summahealth.org |date=July 11, 2008 |accessdate=July 5, 2009}}</ref>
+
+<ref name="Summit County has third most methamphetamine sites in U.S">{{cite web|last=Armon |first=Rick |url=http://www.ohio.com/news/summit-county-has-third-most-methamphetamine-sites-in-u-s-1.111446 |title=Summit County has third most methamphetamine sites in U.S |publisher=Ohio.com |date=September 5, 2008 |accessdate=April 3, 2009}}</ref>
+
+<ref name="Creed">{{cite news | first=John J. | last=O'Connor | title=Television; How ''One Day at a Time'' Became a creed | date=April 30, 1989 | url =http://www.nytimes.com/1989/04/30/arts/television-how-one-day-at-a-time-became-a-creed.html?pagewanted=1 | work =The New York Times | accessdate = February 2, 2010 }}</ref>
+
+<ref name="TV Detail: My Own Worst Enemy reviewSeries Premiere :: TV :: Reviews :: Paste">{{cite web|url=http://www.pastemagazine.com/articles/2008/10/tv-detail-my-own-worst-enemy-reviewseries-premiere.html |title=TV Detail: My Own Worst Enemy reviewSeries Premiere :: TV :: Reviews :: Paste |publisher=Pastemagazine.com |date=October 13, 2008 |accessdate=March 25, 2010}}</ref>
+
+<ref name="The Heldenfiles, Seinfeld Bus Rolling to Cleveland, ''Akron Beacon Journal'', Wednesday, August 13, 2008">{{Cite journal |title=The Heldenfiles, Seinfeld Bus Rolling to Cleveland, ''Akron Beacon Journal'', Wednesday, August 13, 2008 |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+<ref name="The Life and Death of Pretty Boy Floyd">{{cite book |author=Jeffery S. King |title=The Life and Death of Pretty Boy Floyd |publisher=Kent State University Press |location=Kent, Ohio |year=1999 |page=33 |isbn=978-0-87338-650-0 |oclc= |accessdate=January 3, 2010|url=https://books.google.com/?id=6ADHZnyv9FIC&lpg=PA35&dq=%22frank%20mitchell%22%20%22pretty%20boy%20floyd%22%20akron&pg=PA33#v=onepage&q=&f=false}}</ref>
+
+<ref name="The Ohio Academy of Science">{{cite web|url=http://www.heartlandscience.org/agrifood/qoats.htm |title=The Ohio Academy of Science |publisher=Heartland Science |accessdate=January 24, 2010}}</ref>
+
+<ref name="The music of what happens: poems, poets, critics">{{cite book | last = Vendler | first = Helen Hennessy | authorlink = Helen Vendler | title = The music of what happens: poems, poets, critics | publisher = Harvard University Press | year = 1988 | page = 448 | url = https://books.google.com/?id=1Lsr-CXlWT8C&lpg=PA448&dq=%22Thomas%20and%20Beulah%22%20akron&pg=PA448#v=onepage&q=%22Thomas%20and%20Beulah%22%20akron&f=false | id = | isbn = 978-0-674-59152-3 }}</ref>
+
+<ref name="This Founders' Day marks A.A. milestones">{{cite web|last=Carney |first=Jim |url=http://www.ohio.com/news/this-founders-day-marks-a-a-milestones-1.127962 |title=This Founders' Day marks A.A. milestones |publisher=Ohio.com |date=June 11, 2009 |accessdate=January 20, 2010}}</ref>
+
+<!--not used
+<ref name="Weatherbase: Historical Weather for Akron, Ohio">{{cite web|url=http://www.weatherbase.com/weather/weather.php3?s=12527&refer=|title=Weatherbase: Historical Weather for Akron, Ohio}} Retrieved on November 13, 2008.</ref>
+-->
+
+<ref name="americantoymarbles1">{{cite web|url=http://www.americantoymarbles.com/ |title=The American Toy Marble Museum Akron, Ohio |publisher=Americantoymarbles.com |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090326023654/http://americantoymarbles.com/| archivedate= March 26, 2009 | deadurl= no}}</ref>
+
+<ref name="bio">{{cite web|url=http://bioinnovationinstitute.org/_docs/BIA_History_Innovation_Timeline.pdf|archiveurl=https://web.archive.org/web/20090219055209/http://bioinnovationinstitute.org/_docs/BIA_History_Innovation_Timeline.pdf|archivedate=February 19, 2009 |title=Microsoft Word - BIA History of Innovation Timeline Web Version 10.13.08.doc |format=PDF |accessdate=July 5, 2009}}</ref>
+
+<ref name="blimp">{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=1638&nm=Goodyear-Blimps |title= Goodyear Blimps – Ohio History Central – A product of the Ohio Historical Society |publisher=Ohio History Central |date=July 1, 2005 |accessdate=April 3, 2009}}</ref>
+
+<ref name="deaftoday.com">{{cite web|url=http://www.deaftoday.com/news/archives/2003/03/exhibit_reveals.html |title=Deaf Today v2.0: Exhibit reveals history from deaf perspective |publisher=Deaftoday.com |date=March 24, 2003 |accessdate=March 28, 2010}}</ref>
+
+<ref name="nrhpinv_ny">{{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=100832|title=National Register of Historic Places Registration: First Presbyterian Church|date=February 2004|accessdate=June 14, 2009 |author=Robert T. Englert|publisher=[[New York State Office of Parks, Recreation and Historic Preservation]]}}</ref>
+
+<ref name="raids">{{cite web|last=Armon |first=Rick |url=http://www.ohio.com/news/39629712.html |title=Meth lab raids jump 42% in Summit |publisher=Ohio.com |date=February 15, 2009 |accessdate=April 3, 2009| archiveurl= https://web.archive.org/web/20090321113303/http://www.ohio.com/news/39629712.html| archivedate= March 21, 2009 | deadurl= no}}</ref>
+
+<ref name="urlwww.buchtelite.com">{{cite web |url=http://www.buchtelite.com/ |title=The Buchtelite |accessdate=January 18, 2010| archiveurl= https://web.archive.org/web/20100124143809/http://www.buchtelite.com/| archivedate= January 24, 2010 | deadurl= no}}</ref>
+
+<!-- Unused citation
+<ref name="Akron, Ohio (OH) Detailed Profile">{{cite web|url=http://www.city-data.com/city/Akron-Ohio.html|title=Akron, Ohio (OH) Detailed Profile|work=Onboard Informatics|publisher=Advameg, Inc.|accessdate=February 28, 2009| archiveurl= https://web.archive.org/web/20090226032412/http://www.city-data.com/city/Akron-Ohio.html?| archivedate= February 26, 2009| deadurl= no}}</ref>
+
+<ref name="Akron city, Ohio - Population Finder - American FactFinder">{{cite web|url=http://factfinder.census.gov/servlet/SAFFPopulation?_event=ChangeGeoContext&geo_id=16000US3901000&_geoContext=&_street=&_county=akron%2C+ohio&_cityTown=akron%2C+ohio&_state=&_zip=&_lang=en&_sse=on&ActiveGeoDiv=&_useEV=&pctxt=fph&pgsl=010&_submenuId=population_0&ds_name=null&_ci_nbr=null&qr_name=null&reg=null%3Anull&_keyword=&_industry= |title=Akron city, Ohio – Population Finder – American FactFinder |publisher=U.S. Census Bureau |accessdate=December 12, 2009}}</ref>
+-->
+}}
+
+==Further reading==
+* Joyce Dyer, ''Gum-Dipped: A Daughter Remembers Rubber Town.'' Akron: [[University of Akron Press]], 2003.
+* Kathleen Endres, ''Akron's Better Half: Women's Clubs and the Humanization of a City, 1825–1925,'' Akron: University of Akron Press, 2006.
+* Kathleen L. Endres, Rosie the Rubber Worker: Women Workers in Akron's Rubber Factories during World War II. Kent: Kent State University Press, 2000
+* Jack Gieck, A Photo Album of Ohio's Canal Era, 1825–1913, Revised Edition. Kent: Kent State University Press, 1992
+* Jack Gieck, Early Akron's Industrial Valley: A History of the Cascade Locks. Kent: Kent State University Press, 2008
+* Alfred Winslow Jones, ''Life, Liberty, & Property: A Story of Conflict and a Measurement of Conflicting Rights.'' Akron: University of Akron Press, 1999.
+* S. A. Lane, ''Fifty Years and Over of Akron and Summit County.'' Akron, 1892.
+* S. Love and David Giffels, ''Wheels of Fortune: The Story of Rubber in Akron, Ohio.'' Akron: University of Akron Press, 1998.
+* S. Love, Ian Adams, and Barney Taxel, ''Stan Hywet Hall & Gardens.'' Akron: University of Akron Press, 2000.
+* F. McGovern, ''Written on the Hills: The Making of the Akron Landscape.'' Akron: University of Akron Press, 1996.
+* F. McGovern, ''Fun, Cheap, and Easy: My Life in Ohio Politics, 1949–1964.'' Akron: University of Akron Press, 2002.
+* Russ Musarra and Chuck Ayers, ''Walks around Akron.'' Akron: University of Akron Press, 2007.
+* Oscar E. Olin, et al., ''A Centennial History of Akron, 1825-1925.'' Summit County Historical Society, 1925.
+* John S. Reese, Guide Book for the Tourist and Traveler over the Valley Railway, Revised Edition. Kent: Kent State University Press, 2002
+* Akron Chamber of Commerce Year Book, (1913–14)
+
+==External links==
+{{Sister project links|voy=Akron|Akron, Ohio}}
+* {{dmoz|Regional/North_America/United_States/Ohio/Localities/A/Akron}}
+* [http://www.ci.akron.oh.us/ City of Akron official website]
+* [http://www.akronhistory.org/ History of Akron and Summit County]
+* {{cite book|url=https://books.google.com/?id=2gq4xo__iPMC&pg=PA68&lpg=PA68&dq=Akron+school+plan+1848#v=onepage&q=Akron%20school%20plan%201848&f=false |title=Balanced in the wind: a biography of ... |publisher=Google Books |date= June 1989|accessdate=January 21, 2010|isbn=978-0-8387-5154-1}}
+* {{cite web | url = http://www.census.gov/compendia/statab/2011/tables/11s0020.xls | title = Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2000 to July 1, 2009 (CBSA-EST2009-01) | format = [[comma-separated values|CSV]] | work = 2009 Population Estimates | publisher = [[United States Census Bureau]], Population Division | date = March 23, 2010 | accessdate = March 24, 2010}}
+* {{cite web|url=http://www.census.gov/population/www/estimates/metropop/2005/cbsa-01-fmt.csv|title=US Census 2000 est}}{{dead link|date=June 2015}}
+
+{{Summit County, Ohio}}
+{{All-American City Award Hall of Fame}}
+{{Ohio cities and mayors of 100,000 population}}
+{{Ohio}}
+
+{{Authority control}}
+
+[[Category:Populated places established in 1825]]
+[[Category:Akron, Ohio| ]]
+[[Category:County seats in Ohio]]
+[[Category:Cities in Summit County, Ohio]]
+[[Category:Populated places on the Underground Railroad]]

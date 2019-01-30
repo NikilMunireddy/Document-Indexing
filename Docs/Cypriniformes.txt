@@ -1,0 +1,125 @@
+Cypriniformes
+
+{{redirect|Loach}}
+{{automatic taxobox
+| fossil_range = {{Fossil range|Paleocene|Recent}}
+| image = Karper 59326.jpg
+| image_width = 260 px
+| image_caption = A wild-type [[common carp]] (''Cyprinus carpio'', [[Cyprinidae]]: [[Cyprininae]])
+| authority = [[Pieter Bleeker|Bleeker]], 1859
+| subdivision_ranks = Families<ref name=FBO>{{FishBase order | order = Cypriniformes| month = December | year = 2012}}</ref>
+| subdivision = 
+[[Balitoridae]]<br/>
+[[Barbucca|Barbuccidae]]<ref name=Kottelat2012/><br/>
+[[Botiidae]]<ref name=Kottelat2012/><br/>
+[[Catostomidae]]<br/>
+[[Cobitidae]]<br/>
+[[Cyprinidae]]<br/>
+[[Ellopostomatidae]]<ref name=Kottelat2012/><br/>
+[[Gastromyzontidae]]<ref name=Kottelat2012/><br/>
+[[Gyrinocheilidae]]<br/>
+[[Nemacheilidae]]<br/>
+[[Psilorhynchidae]]<br/>
+[[Serpenticobitidae]]<ref name=Kottelat2012/><br/>
+[[Vaillantellidae]]<ref name=Kottelat2012/><br/>
+and see [[#Systematics|text]]
+}}
+
+'''Cypriniformes''' is an [[order (biology)|order]] of [[Actinopterygii|ray-finned fish]], including the [[carp]]s, [[minnow]]s, loaches and relatives. This order contains 11-12 [[family (biology)|families]], over 400 [[genera]], and more than 4,250 species, with new species being described every few months or so, and new genera being recognized frequently.<ref name=FBO/><ref name=CoF>Eschmeyer, W.N., Fong, J.D. (2015) [http://researcharchive.calacademy.org/research/ichthyology/catalog/SpeciesByFamily.asp#Cyprinidae Species by family/subfamily] in the [[Catalog of Fishes]], California Academy of Sciences (retrieved 2 July 2015)</ref> They are most diverse in southeastern [[Asia]], but are entirely absent from [[Australia]] and [[South America]].<ref name=Nelson>Nelson (2006)</ref>
+
+Their closest living relatives are the [[Characiformes]] ([[characin]]s and allies), the [[Gymnotiformes]] ([[electric eel]] and [[Gymnotiformes|American knifefish]]es) and the [[Catfish|Siluriformes]] (catfishes).<ref>Saitoh ''et al.'' (2003), Briggs (2005)</ref>
+
+==Description==
+
+Like other orders of the [[Ostariophysi]], fishes of cypriniformes possess a  [[Weberian apparatus]]. However, they differ from most of their relatives in having only a [[dorsal fin]] on their back; most other fishes of Ostariophysi have a small fleshy [[adipose fin]] behind the dorsal fin. Further differences are the Cypriniformes' [[kinethmoid]] and the lack of teeth in the mouth. Instead, they have [[convergent evolution|convergent]] structures called [[pharyngeal teeth]] in the throat. While other groups of fish, such as [[cichlid]]s, also possess pharyngeal teeth, the cypriniformes' teeth grind against a chewing pad on the base of the skull, instead of an upper pharyngeal jaw.<ref name=Nelson />
+
+[[File:Steinbeisser 001.jpg|thumb|left|A true loach: the [[spined loach]], ''Cobitis taenia'']]
+The most notable family placed here is [[Cyprinidae]] ([[carp]]s and [[minnow]]s) which make up two-thirds of the order's diversity. This is one of the largest families of fish, and is widely distributed across [[Africa]], [[Eurasia]], and [[North America]]. Most species are strictly freshwater inhabitants, but a considerable number are found in [[brackish]] water, such as [[common roach|roach]] and [[Carp bream|bream]]. At least one species is found in saltwater, the Pacific redfin, ''[[Tribolodon brandtii]]''.<ref>Orlov & Sa-a {2007]</ref> Brackish water and marine cyprinids are invariably [[anadromous]],{{Citation needed|date=September 2014}} swimming upstream into rivers to spawn.  Sometimes separated as family Psilorhynchidae, they seem to be specially-adapted fishes of Cyprinidae.<ref>FishBase (2004d,f), He ''et al.'' (2008)</ref>
+
+[[Balitoridae]] and [[Gyrinocheilidae]] are families of mountain stream fishes feeding on [[alga]]e and small [[invertebrate]]s. They are found only in [[tropical]] and [[subtropical]] [[Asia]]. While the former are a speciose group, the latter contain only a handful of [[species]].<ref>FishBase (2004a,e)</ref> The suckers ([[Catostomidae]]) are found in [[temperate]] [[North America]] and eastern Asia.{{Citation needed|date=September 2014}} These large fishes are similar to carps in appearance and ecology. Members of [[Cobitidae]] common across [[Eurasia]] and parts of [[North Africa]].{{Citation needed|date=September 2014}} A mid-sized group like the suckers,<ref>FishBase (2004b,c)</ref> they are rather similar to [[catfish]] in appearance and behaviour, feeding primarily off the substrate and equipped with barbels to help them locate food at night or in murky conditions. Fishes in the families Cobitidae, Balitoridae, Botiidae, and Gyrinocheilidae are called loaches, although it seems that the last do not belong to the lineage of "true" loaches but are related to the suckers.<ref name = heetal2008>He ''et al.'' (2008)</ref>
+
+== Systematics ==
+[[File:Nemac fasci 080519 9380 ckoep.jpg|thumb|right|''[[Nemacheilus chrysolaimos]]'' is a stone loach. Closely related to true loaches, like these they have barbels.]]
+[[File:Chinese algae eater.jpg|thumb|right|The Chinese algae eater (''[[Gyrinocheilus aymonieri]]''), one of the sucking loaches which are distant from other "loaches"]]
+[[File:Erimyzon sucetta.jpg|thumb|right|''[[Erimyzon sucetta]]'', a small sucker]]
+Historically these included all the forms now placed in the [[superorder]] [[Ostariophysi]] except the catfish, which were placed in the order [[Siluriformes]]. By this definition, the Cypriniformes were [[paraphyletic]], so recently the orders [[Gonorhynchiformes]], [[Characiformes]] ([[characin]]s and allies), and [[Gymnotiformes]] ([[Gymnotiformes|knifefishes]] and [[electric eel]]s) have been separated out to form their own [[Monophyly|monophyletic]] orders.<ref>Helfman ''et al.'' (1997): pp.228-229</ref>
+
+The [[family (biology)|families]] of Cypriniformes are traditionally divided into two [[Order (biology)#Hierarchy of ranks|superfamilies]]. Superfamily [[Cyprinioidea]] contains the carps and minnows ([[Cyprinidae]]) and, according to some,{{Who|date=December 2008}} also the mountain carps as the family [[Psilorhynchidae]].<ref name=Nelson/> In 2012 [[Maurice Kottelat]] reviewed the superfamily [[Cobitioidea]] and under his revision it now consists of the following families: hillstream loaches ([[Balitoridae]]), [[Barbuccidae]], [[Botiidae]], suckers ([[Catostomidae]]), true loaches ([[Cobitidae]]), [[Ellopostomatidae]], [[Gastromyzontidae]], sucking loaches ([[Gyrinocheilidae]]), stone loaches ([[Nemacheilidae]]), [[Serpenticobitidae]] and long-finned loaches ([[Vaillantellidae]]).<ref name=Kottelat2012>Kottelat, M. (2012)</ref>
+
+[[Catostomoidea]] is usually treated as a [[Synonym (taxonomy)#Zoology|junior synonym]] of Cobitioidea. But it seems that it could be split off the Catostomidae and Gyrinocheilidae in a distinct superfamily; the Catostomoidea might be closer relatives of the carps and minnows than of the "true" loaches. While the Cyprinioidea seem more "primitive" than the loach-like forms,<ref name=Nelson/> they were apparently successful enough never to shift from the original [[ecological niche]] of the [[Basal (phylogenetics)|basal]] [[Ostariophysi]]. Yet, from the [[ecomorphological]]ly conservative main lineage apparently at least two major [[evolutionary radiation|radiation]]s branched off. These diversified from the lowlands into torrential river [[habitat]]s, acquiring similar [[Morphology (biology)|habitus]] and [[adaptation]]s [[convergent evolution|in the process]].<ref name = heetal2008 />
+
+The mountain carps are highly [[Cladistics#apomorphy|apomorph]]ic Cyprinidae, perhaps close to [[Cyprininae|true carps]] (Cyprininae), or maybe to the [[danionin]]s. While some details about the [[Phylogenetics|phylogenetic]] structures of this massively diverse family are known &ndash; e.g. that [[Cultrinae]] and [[Leuciscinae]] are rather close relatives and stand apart from Cyprininae &ndash; there is no good consensus yet on how the main lineages are interrelated. A systematic list, from the most ancient to the most modern lineages, can thus be given as:<ref name = heetal2008 />
+
+'''Superfamily [[Cobitioidea]]'''
+* Family [[Balitoridae]] &ndash; hillstream loaches
+* Family [[Cobitidae]] &ndash; true loaches
+
+'''Superfamily [[Catostomoidea]]'''
+* Family [[Catostomidae]] &ndash; suckers
+* Family [[Gyrinocheilidae]] &ndash; sucking loaches
+
+'''Superfamily Cyprinioidea'''
+* Family [[Cyprinidae]] &ndash; carps (including [[koi]] and [[goldfish]]) and minnows (including [[Psilorhynchidae]])
+
+===Evolution===
+Cypriniformes include the most primitive of the [[Ostariophysi]] in the narrow sense (i.e. excluding [[Gonorynchiformes]]). This is evidenced not only by physiological details, but their great distribution, which indicates they had the longest time to spread. The earliest that Cypriniformes might have diverged from [[Characiphysi]] ([[Characiformes]] and relatives) is thought to be about the [[Early Triassic]], about 250 million years ago ([[mya (unit)|mya]]).<ref>Saitoh ''et al.'' (2003)</ref> However, their divergence probably occurred only with the splitting-up of [[Pangaea]] in the [[Jurassic]], maybe 160 million years ago. By 110 mya, the [[plate tectonics]] evidence indicates that the [[Laurasia]]n Cypriniformes must have been distinct from their [[Gondwana]]n relatives.<ref>Briggs (2005), Nelson (2006)</ref>
+
+Cypriniformes is thought to have originated in south-east [[Asia]], where the most diversity of this group is found today. The alternative hypothesis is that they began in [[South America]], similar to the other [[Otophysi|otophysans]]. If this were the case, they would have spread to Asia through Africa or [[North America]] before the continents split up, for these are purely freshwater fishes. As the Characiformes began to diversify and spread, they may have out-competed South American basal cypriniforms in Africa, where more advanced cypriniforms survive and coexist with characiforms.<ref name=briggs>Briggs (2005)</ref>
+
+The earliest cypriniform fossils are already assignable to the living [[family (biology)|family]] Catostomidae; from the [[Paleocene]] of [[Alberta]], they are roughly 60 million years old. During the [[Eocene]] (55-35 mya), catostomids and cyprinids spread throughout Asia. In the [[Oligocene]], around 30 mya, advanced cyprinids began to out-compete catostomids wherever they were [[Sympatry|sympatric]], causing a decline of the suckers. Cyprinids reached North America and Europe by about the same time, and Africa in the early [[Miocene]] (some 23-20 mya). The cypriniforms spread to North America through the [[Beringia|Bering land bridge]], which formed and disappeared again several times during the many millions of years of cypriniform [[evolution]].<ref name=briggs/>
+
+==Relationship with humans==
+The [[Cyprinidae]] in particular are important in a variety of ways. Many species are important food fish, particularly in Europe and Asia. Some are also important as aquarium fish, of which the [[goldfish]] and [[koi]] are perhaps the most celebrated. The other families are of less commercial importance. The [[Catostomidae]] have some importance in [[angling]], and some "loaches" are bred for the international [[aquarium]] fish trade.
+
+Accidentally or deliberately introduced populations of [[common carp]] (''Cyprinus carpio'') and [[grass carp]] (''Ctenopharyngodon idella'') are found on all [[continent]]s except [[Antarctica]]. In some cases, these [[Invasive species|exotic species]] have a negative impact on the environment. Carp in particular stir up the riverbed reducing the clarity of the water, making it difficult for plants to grow.<ref>GSMFC (2005), FFWCC [2008]</ref>
+
+In science, one of the most famous members of the Cypriniformes is the [[zebrafish]] (''Danio rerio''). The zebrafish is one of the most important vertebrate [[model organism]]s in biological and biochemical sciences, being used in many kinds of experiment. As, during early development, the zebrafish has a nearly transparent body, it is ideal for studying developmental biology. It is also used for the elucidation of biochemical signaling pathways.<ref>http://www.zfin.org</ref> They are also good pets, but can be shy in bright light and crowded tanks.
+
+===Threats and extinction===
+[[File:Thicktail Chub.jpg|thumb|left|The [[thicktail chub]] (''Gila crassicauda'') is globally [[extinct]] since about 1960.]]
+[[Habitat destruction]], [[damming]] of upland rivers, [[pollution]] and in some cases [[overfishing]] for food or the pet trade have driven some Cypriniformes to the brink of [[extinct]]ion or even beyond. In particular, Cyprinidae of southwestern [[North America]] have been severely affected; a considerable number went entirely extinct after settlement by Europeans. For example, in 1900 the [[thicktail chub]] (''Gila crassicauda'') was the most common freshwater fish found in [[California]]; 70 years later not a single living individual existed.
+
+[[File:Epalzeorhynchos bicolor.jpg|thumb|right|Few if any [[red-tailed black shark]]s (''Epalzeorhynchos bicolor'') remain in the wild today.]]
+The well-known [[red-tailed black shark]] (''Epalzeorhynchos bicolor'') from the [[Mae Klong]] river of ''[[The Bridge on the River Kwai]]'' fame possibly only survives in captivity. Ironically, while pollution and other forms of overuse by humans have driven it from its native home, it is bred for the aquarium fish trade by the thousands. The [[Acanthobrama telavivensis|Yarqon bleak]] (''Acanthobrama telavivensis'') from the [[Yarqon River]] had to be rescued into captivity from imminent extinction; new populations have apparently<!-- IUCN says no in 2006, but paper was published shortly thereafter --> been established again successfully from captive stock. [[Balitoridae]] and [[Cobitidae]], meanwhile, contain a very large number of species about which essentially nothing is known except how they look and where they were first found.<ref name =iucn2007 />
+
+Globally extinct Cypriniformes species are:<ref name =iucn2007>IUCN (2007)</ref>
+* ''[[Acanthobrama hulensis]]''
+* [[Alburnus akili|Gökçe balığı]], ''Alburnus akili''
+* ''[[Barbus microbarbis]]''
+* [[Snake River sucker]], ''Chasmistes muriei''
+* ''[[Chondrostoma scodrense]]''
+* ''[[Cyprinus yilongensis]]''
+* ''[[Evarra bustamantei]]''
+* ''[[Evarra eigenmanni]]''
+* ''[[Evarra tlahuacensis]]''
+* [[Thicktail chub]], ''Gila crassicauda''
+* [[Pahranagat spinedace]], ''Lepidomeda altivelis''
+* [[Harelip sucker]], ''Moxostoma lacerum''
+* [[Ameca shiner]], ''Notropis amecae''
+* [[Durango shiner]], ''Notropis aulidion''
+* [[Phantom shiner]], ''Notropis orca''
+* [[Salado shiner]], ''Notropis saladonis''
+* [[Clear Lake splittail]], ''Pogonichthys ciscoides''
+* [[Las Vegas dace]], ''Rhinichthys deaconi''
+* [[Stumptooth minnow]], ''Stypodon signifer''
+* ''[[Telestes ukliva]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+* [http://bio.slu.edu/mayden/cypriniformes/home.html Cypriniformes Tree of Life]
+
+{{Actinopterygii}}
+
+{{Authority control}}
+[[Category:Cypriniformes|*]]
+[[Category:Fish orders]]
+[[Category:Ostariophysi]]
+[[Category:Fish of Africa]]
+[[Category:Fish of Europe]]
+[[Category:Fish of Asia]]
+[[Category:Fish of North America]]
+[[Category:Fish of Central America]]
+[[Category:Extant Paleocene first appearances]]

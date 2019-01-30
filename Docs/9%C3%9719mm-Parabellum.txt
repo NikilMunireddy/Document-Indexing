@@ -1,0 +1,349 @@
+9×19mm Parabellum
+
+{{Redirect|9mm|other cartridges with 9 mm bullets|9 mm caliber}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox firearm cartridge
+|name= 9×19mm Parabellum
+|image= [[File:9 19 parabellum FMJ.jpg|300px]]
+|caption= 9×19mm Parabellum rounds and a bullet for comparison
+|origin= {{flag|German Empire}}
+|type= [[Pistol]]
+<!-- Production info -->
+|designer= [[Georg Luger]]
+|design_date= 1901
+|manufacturer=
+|production_date= 1902–present
+|number=
+|used_by= [[NATO]] and others
+|wars= [[World War I]] – present
+|variants= 9mm NATO<br />m/39B<br />[[Overpressure ammunition#Commercially available +P cartridges|9×19mm Parabellum +P]]<br />9×19mm 7N21 +P+<br />9×19mm 7N31 +P+
+<!-- Specifications -->
+|parent= [[7.65×21mm Parabellum]]
+|case_type= [[Rim (firearms)|Rimless]], tapered
+|is_SI_specs= yes
+|bullet= 9.01
+|neck= 9.65
+|shoulder=
+|base= 9.93
+|rim_dia= 9.96
+|rim_thick= 1.27
+|case_length= 19.15
+|length= 29.69
+|case_capacity= 0.862
+|primer= Berdan or Boxer small pistol
+|max_pressure=235.00
+|pressure_method=C.I.P.
+|max_pressure2=241.32
+|pressure_method2=SAAMI
+<!-- Ballistic Performance -->
+|is_SI_ballistics= yes
+|bwunit= gram
+|velocity=
+|energy=
+<!-- Ballistic data, load 1 -->
+|bw1= 7.45
+|btype1= FMJ
+|vel1= 390
+|en1= 570
+<!-- Ballistic data, load 2 -->
+|bw2= 8.04
+|btype2= FMJ
+|vel2= 360
+|en2= 518
+<!-- Ballistic data, load 3 -->
+|bw3= 7.50
+|btype3= JHP
+|vel3= 377
+|en3= 533
+<!-- Ballistic data, load 4 -->
+|bw4= 7.45
+|btype4= JHP +P
+|vel4= 411
+|en4= 632
+<!-- Ballistic data, load 5 -->
+|bw5= 7.45
+|btype5= JHP +P+
+|barrel= 118
+|vel5= 426
+|en5= 678
+|test_barrel_length= Tests 1,2&3: 150mm(5.91in) / Tests 4&5: 118mm(4.65in)
+<!-- Ballistics data source -->
+|balsrc= Sellier & Bellot,<ref>{{cite web|url=http://www.sellier-bellot.cz/pistol-and-revolver-ammunition.php?product=9/ |title=Sellier & Bellot |accessdate=23 March 2009}}</ref> Buffalo Bore,<ref>{{cite web|url=http://www.buffalobore.com/index.php?l=product_detail&p=118 |title=Buffalo Bore |accessdate=23 March 2009}}</ref> [[C.I.P.]],<ref name="C.I.P. TDCC" /> Cor-Bon<ref>{{cite web|url=http://www.shopcorbon.com/Self-Defense-JHP/9mm-Luger-Plus-P-115gr-CORBON-Self-Defense-JHP/SD09115-20/100/Product |title=Cor-Bon |accessdate=10 January 2011}}</ref>
+}}
+
+The '''9×19mm Parabellum''' (abbreviated 9mm, 9mmP, 9×19mm or 9×19) [[Cartridge (firearms)|cartridge]] was designed by [[Georg Luger]] and introduced in 1902 by the [[German Empire|German]] weapons manufacturer [[Deutsche Waffen und Munitionsfabriken|Deutsche Waffen- und Munitionsfabriken]] (DWM) for their [[Luger pistol|Luger]] [[semi-automatic pistol]].<ref>Hogg, Ian V.; Weeks, John S. ''Military Small Arms of the 20th Century (7th Edition)'', p.40. Krause Publications, 2000</ref>
+For this reason, it is designated as the '''9mm Luger''' by the [[SAAMI]]<ref name="SAAMI-drawing">[http://www.saami.org/PubResources/CC_Drawings/Pistol/9mm%20Luger%20-%209mm%20Luger%20+P.pdf SAAMI 9mm Luger / 9mm Luger +P cartridge and chamber drawings]</ref> and the '''9 mm Luger''' by the [[C.I.P.]]  
+Under [[STANAG]] 4090, it is a standard cartridge for NATO forces as well as many non-NATO countries.<ref>[http://www.dtic.mil/ndia/2008Intl/Arvidsson.pdf NATO Infantry Weapons Standardization,  Per G. Arvidsson, ChairmanWeapons & Sensors Working GroupLand Capability Group 1 – Dismounted Soldier NATO Army Armaments Group]</ref>
+
+The name ''Parabellum'' is derived from the [[Latin]]: ''[[Si vis pacem, para bellum]]'' ("If you seek peace, prepare for war"), which was the motto<!--it was their telegraphic address, too--> of [[Deutsche Waffen und Munitionsfabriken|DWM]].<ref name="James2004">{{cite book|last=James|first=Frank|title=Effective Handgun Defense: A Comprehensive Guide to Concealed Carry|url=https://books.google.com/books?id=yCzZwDMBOtkC|accessdate=17 December 2011|date=15 December 2004|publisher=Krause Publications|location=Iola, Wisconsin|isbn=978-0-87349-899-9|page=117|quote=The word "Parabellum" is derived from the Latin phrase Si Vis Pacem Para Bellum or "If you want Peace, Prepare for War". It naturally followed this new cartridge would be commonly referred to as the 9mm Parabellum}}</ref><ref name="Sweeney2009">{{cite book|last=Sweeney|first=Patrick|authorlink=Patrick Sweeney (gunsmith)|title=Gun Digest Big Fat Book of the .45 ACP|url=https://books.google.com/books?id=55Td91jZOa0C&pg=PA33|accessdate=17 December 2011|date=17 November 2009|publisher=Gun Digest Books|isbn=978-1-4402-0219-3|page=33|quote=Georg Luger looked at his design, took the .30 Luger case and expanded it to hold a 9mm bullet. ... From the Latin phrase Si vic pacem, para bellum came parabellum. Translated it means "If you desire peace, prepare for war.}}</ref>
+
+According to the 2006 edition of ''Cartridges of the World'', the 9×19mm Parabellum is "the world's most popular and widely used military handgun cartridge."<ref name="CotW_2006" />
+In addition to being used by over 60% of police in the U.S., ''[[Newsweek]]'' credits 9×19mm Parabellum pistol sales with making semiautomatic pistols more popular than [[revolver]]s.<ref name="Adler2007">Adler, Jerry, et al. "Story of a Gun." ''Newsweek'' 149.18 (30 April 2007): 36–39. MasterFILE Premier. EBSCO. Dallas Public Library, Dallas, TX. retrieved 10 June 2009.  [http://www.newsweek.com/id/35253 ''Newsweek'' online edition]</ref> The popularity of this cartridge can be attributed to the widely held conviction that it is effective in police and self-defense use.<ref name="Davis_1986">Davis, William C. (1986). ''Handloading'', Second Printing: National Rifle Association. ISBN 0-935998-34-9 p242-243</ref> Its low cost and wide availability contribute to the caliber's continuing popularity.
+
+==Origins==
+[[Georg Luger]] developed the 9×19mm Parabellum cartridge from his earlier [[7.65×21mm Parabellum]] round, which itself was derived from the original [[7.65×25mm Borchardt]] cartridge in the [[Borchardt C-93]] pistol. Shortening the length of the cartridge case used in the Borchardt pistol allowed him to improve the design of the toggle lock and to incorporate a smaller, angled grip. Luger's work on the Borchardt design evolved into the [[Luger pistol]], first patented in 1898 and chambered in 7.65×21mm Parabellum. Demand for larger calibers in military sidearms led Luger to develop the 9×19mm Parabellum cartridge for his new pistol. This was achieved by removing the bottleneck shape of the 7.65×21mm Parabellum case, resulting in a tapered rimless cartridge encasing a bullet that was 9 mm in diameter.
+
+In 1902, Luger presented the new round to the British Small Arms Committee, as well as three prototype versions to the [[United States Army|U.S. Army]] for testing at [[Springfield Arsenal]] in mid-1903. The [[Imperial German Navy]] adopted the cartridge in 1904 and in 1908 the [[German Army (German Empire)|German Army]] adopted it as well.<ref name="CotW_2006">{{cite book  |last = Barnes  |first = Frank
+  |title = Cartridges of the World. 11th Edition.  |publisher = [[Gun Digest Books]]  |series = Cartridges of the World
+|editor1-first=Stan|editor1-last=Skinner|page=295  |year = 2006  |isbn = 978-0-89689-297-2  }}</ref> The [[ogive]] of the bullet was slightly redesigned in the 1910s to improve feeding.
+
+To conserve lead during [[World War II]] in Germany, the lead core was replaced by an iron core encased with lead.  This bullet, identified by a black bullet jacket, was designated as the 08 mE ({{lang|de|''mit Eisenkern''}}—"with iron core"). By 1944, the black jacket of the 08 mE bullet was dropped and these bullets were produced with normal copper-colored jackets. Another wartime variation was designated the 08 sE bullet and identified by its dark gray jacket, and was created by compressing iron powder at high temperature into a solid material ({{lang|de|''Sintereisen''}}—"[[Sintering|sintered]] iron").<ref>{{cite book|title =Ordnance went up front: some observations and experiences of a sergeant of Ordnance, who served throughout World War II with the United States Army in Egypt, the Philippines and Japan, including way stations |first=Roy |last=Dunlap |pages=43–45|publisher =Small-Arms Technical Pub. Co.|year= 1948 }}</ref>
+
+==Popularity==
+After [[World War I]], acceptance of the 9×19mm Parabellum chambering increased, and 9×19mm Parabellum pistols and [[submachine gun]]s were adopted by military and police users in many countries.<ref>{{cite book|title =The Greatest Guns of Gun Digest |first=Dan |last=Shideler |chapter=The Luger Pistol |pages=24|publisher =Krause Publications|year= 2010 |ISBN = 1-4402-1414-X }}</ref> The 9×19mm Parabellum has become the most popular caliber for U.S. law enforcement agencies, primarily due to the availability of compact pistols with large magazine capacities that use the cartridge.<ref>CCI/Speer Inc. (2007). ''Reloading Manual #14''. ISBN 978-0-9791860-0-4.</ref>
+
+Worldwide, the 9×19mm Parabellum is one of the more popular pistol cartridges where it is legal (some countries ban civilian use of weapons that chamber current or former military service cartridges), and cartridges in this caliber are generally available anywhere pistol ammunition is sold.
+
+From the early 1980s to the mid-1990s, a sharp increase occurred in the popularity of semiautomatic pistols in the U.S., a trend foreshadowed by the adoption of the [[Smith & Wesson Model 39]] by the Illinois State Police in 1968. In addition, the [[Beretta M9]] (a military version of the [[Beretta Model 92]]) was adopted by the U.S. Army in 1985. Previously, most American police departments issued [[.38 Special]] caliber revolvers with a six-shot capacity. The .38&nbsp;Special was preferred to other weapons such as variants of the [[M1911]] because it offered low recoil, was small and light enough to accommodate different shooters, and was relatively inexpensive.<ref name=clede/>
+The 9mm cartridge is ballistically superior to the .38 Special revolver cartridge,<ref>{{cite web |url=http://www.ballisticsbytheinch.com/ |title=Ballistics by the inch |accessdate=12 April 2011| archiveurl= https://web.archive.org/web/20110421195019/http://ballisticsbytheinch.com/| archivedate= 21 April 2011 | deadurl= no}}</ref> is shorter overall, and being an autoloader cartridge, it is stored in flat magazines, as opposed to cylindrical speedloaders. This, coupled with the advent of the so-called [[Wonder Nine|"wonder nines"]], led to many U.S. police departments exchanging their revolvers for some form of 9mm semiautomatic handguns by the 1980s.<ref name=clede>{{cite book|title =Police Handgun Manual: How to Get Street-Smart Survival Habits |first=Bill |last=Clede |pages=116–118|publisher =Stackpole Books|year= 1985 |ISBN = 978-0-8117-1275-0 }}</ref>
+
+In 2014, the FBI released a report detailing the potential combat effectiveness of the 9mm cartridge when compared to other calibers such as the [[.45 ACP]] and the [[.40 S&W]] cartridge that was specifically developed for use by the FBI. The report indicated that the new powders and more advanced bullet designs used in current 9mm defensive loads allowed for the caliber to deliver comparable performance to other calibers, like the .45 ACP, and .40 S&W. In addition to this, the lower recoil, less wear, and higher capacity were all reasons that the report cited for the recent surge in orders of the ammunition from various police agencies. With a wider selection of officers being able to shoot handguns chambered in 9×19mm, many departments choose this caliber so they can standardize around a single firearm and loading, making logistics and supply easier. Due to all of these factors, law enforcement orders of 9mm ammo from all major ammunition manufacturers have spiked dramatically.<ref>{{Cite web|title = How the FBI reignited the pistol caliber war|url = http://www.policeone.com/Officer-Safety/articles/7453193-Why-the-FBI-reignited-the-pistol-caliber-war/|accessdate = 2015-09-14}}</ref>
+
+==Cartridge dimensions==
+[[File:9 mm.JPG|thumb|right|Three [[bullet|projectile]] types:  unjacketed (lead), [[full metal jacket bullet|full metal jacket]], and [[hollow point]]]]
+
+The 9×19mm Parabellum has 0.86&nbsp;ml (13.3&nbsp;[[grain (measure)|grains]] H<sub>2</sub>O) of cartridge case capacity.
+
+[[File:9x19mm Parabellum.svg|400px]]
+
+'''9×19mm Parabellum maximum C.I.P. cartridge dimensions''':<ref name="C.I.P. TDCC">[http://www.cip-bobp.org/homologation/uploads/tdcc/tab-iv/tabivcal-en-page28.pdf C.I.P. TDCC sheet 9mm Luger]</ref> All sizes are given in millimeters (mm).
+
+The cartridge [[Headspace (firearms)|headspaces]] on the mouth of the case:<ref name="wilson">Wilson, R. K. ''Textbook of Automatic Pistols'', p.239. Plantersville, SC: Small Arms Technical Publishing Company, 1943.</ref>  The common [[rifling]] [[twist rate]] for this cartridge is 250&nbsp;mm (1 in 9.84&nbsp;in), six grooves, ø lands = 8.82&nbsp;mm, ø grooves = 9.02&nbsp;mm, land width = 2.49&nbsp;mm and the [[Percussion cap|primer type]] is small pistol.
+
+According to [[Commission Internationale Permanente pour l'Epreuve des Armes à Feu Portatives]] rulings, the 9×19mm Parabellum cartridge case can handle up to {{convert|235.00|MPa|psi|abbr=on}} P<sub>max</sub> piezo pressure. In CIP-regulated countries every pistol cartridge combination has to be [[Proof (firearms)|proofed]] at 130% of this maximum CIP pressure to certify for sale to consumers. This means that 9×19mm Parabellum chambered arms in C.I.P. regulated countries are currently (2014) proof tested at {{convert|305.50|MPa|psi|abbr=on}} PE piezo pressure.<ref name="C.I.P. TDCC" />
+
+The [[SAAMI]] pressure limit for the 9×19mm Parabellum is set at {{convert|241.32|MPa|psi|abbr=on}} piezo pressure.<ref>{{cite web |url=http://www.leverguns.com/articles/saami_pressures.htm |title=SAAMI Pressures |accessdate=29 November 2007}}</ref><br />The SAAMI pressure limit for the [[Overpressure ammunition#Commercially available +P cartridges|9×19mm Parabellum +P]] is set at {{convert|265.45|MPa|psi|abbr=on}} piezo pressure.
+
+An empty case with primer weighs about {{convert|4|g|abbr=on}}.
+
+==Performance==
+[[File:proload.png|right|thumb|An expanded 124-grain 9×19mm Parabellum jacketed [[hollow point]]]]
+The round was originally designed to be lethal to 50 meters, but the bullet travels and is lethal at longer ranges.<ref>{{cite web|url=https://www.youtube.com/watch?v=_wXFf34bB34|title=How Far Will a 9mm Kill?|work=YouTube|accessdate=14 November 2014}}</ref>
+The 9mm cartridge combines a flat [[trajectory]] with moderate [[recoil]]. According to the 1986 book ''Handloading'': "the modern science of [[wound ballistics]] has established beyond reasonable doubt that the 9mm cartridge is highly effective."<ref name="Davis_1986"/>
+
+==Improvements and variations==
+In addition to the traditional pressure values for this cartridge, two main variants offer different pressure standards than the SAAMI or CIP requirements.
+
+===9mm Commonwealth standard===
+The Cartridge S.A. Ball 9 m/m Mark Iz (9 m/m BALL MK 1z) was the standard Imperial 9mm Parabellum round in World War II and was produced from December 1941 to 1944. It was meant for use in semiautomatic pistols like the Inglis [[Browning Hi-Power]]. Bullet weight was {{convert|115|gr|g}}. Velocity was {{convert|1200|ft/s|m/s}} at {{convert|20|yd|m}}. It is noted by its purple annulus around a standard gold-colored primer.
+
+The higher-powered Cartridge S.A. Ball 9 m/m Mark IIz (9m/m Ball MK 2z) was in production from September of 1943 until 1988, and was graded as NATO standard in 1962. It was designed for use in submachine guns such as the [[Lanchester submachine gun|Lanchester]], [[Sten]], and [[Sterling submachine gun|Sterling]]. Bullet weight is {{convert|115|gr|g}} over a charge of {{convert|6|gr|g}} of Du Pont SR.4898 or Dynamit-Nobel Parabellum Powder. Velocity is {{convert|1300|ft/s|m/s}} at {{convert|20|yd|m}}. It can be distinguished from the '''9-mm Ball MK 1z''' by its purple annulus around a silver primer.
+
+[[India]] and [[Pakistan]] manufactured 9mm Parabellum ammunition to this standard after independence.
+
+Canada's Cartridge S.A. Ball 9 m/m CDN Mark I (9-mm Ball CDN MK 1), made since 1955, has similar ballistics. Bullet weight is {{convert|115|gr|g}}. Nominal muzzle velocity is {{convert|1246.7|ft/s|m/s}}.
+
+===NATO 9mm standard===
+The 9mm cartridge has been manufactured by, or for, more than 70 different countries and has become a standard pistol caliber for [[NATO]] and other military forces around the world. Its official [[nomenclature]] among NATO members is "NATO 9mm".<ref>{{cite book|title=STANAG No. 4090 (Edition 2)|date=15 April 1982|publisher=North Atlantic Treaty Organization|page=C-1|edition=2|url=http://gigconceptsinc.com/files/STANAG4090-cartridge_9x19.pdf|accessdate=23 April 2016}}</ref> Standard bullet weight is {{convert|7.0|g|gr}} to {{convert|8.3|g|gr}}.
+
+NATO 9mm can be considered an [[overpressure ammunition|overpressure variant]] of the 9×19mm Parabellum that is defined by [[NATO EPVAT testing#Proofing|NATO standards]].<ref>{{cite web|url=http://www.dstan.mod.uk/data/05/101/01000100.pdf|title=Proof of Ordnance, Munitions, Armour and Explosives, Ministry of Defence Defence Standard 05–101 Part 1|publisher=|accessdate=14 November 2014}}</ref> The service pressure P<sub>max</sub> of the NATO 9mm is rated at {{convert|252|MPa|psi|abbr=on}} where CIP rates the 9mm Luger P<sub>max</sub> somewhat lower at {{convert|235|MPa|psi|abbr=on}}. The {{convert|315|MPa|psi|abbr=on}} proofing test pressure used in the NATO 9mm proof test, however, equals the proofing test pressure used in the 9mm Luger CIP proof test.
+
+While the NATO standards do not specify the type of bullet to be used, Declaration III of the [[Hague Convention of 1899]] prohibits the use of expanding ammunition in warfare by signatories, so official NATO 9mm ammunition is FMJ "ball" bullets.<ref>{{cite web|url=http://www.thegunzone.com/opentip-ammo.html|title=Sniper Use of Open-Tip Ammunition|publisher=|accessdate=14 November 2014}}</ref> Declaration III does not apply in conflicts involving nonsignatories to the Hague Convention, including paramilitary and other nongovernmental fighting forces.<ref>http://avalon.law.yale.edu/19th_century/dec99-03.asp</ref>
+
+===Swedish m/39===
+[[File:M39+m39b naerbild.jpg|thumb|9mm live ammunition m/39 (left, with black seal) and m/39B (right, with red seal and a slightly more pointed shape)]]
+[[File:M39+m39b askar.jpg|thumb|left|9mm live ammunition m/39 and m/39B in their boxes]]
+9mm Parabellum entered Swedish service as m/39 with the import of the [[MP 34|''Kulsprutepistol'' m/39]] from Austria, with a bullet weight of {{convert|7.5|g|gr}}.<ref>"Hemvärnet 1940–1990'', 1990. Red. Bo Kjellander s. 259–260.</ref>
+During the [[Congo Crisis]], the Swedish UN-contingent issued complaints about the performance of the m/39 cartridge (regular 9mm Parabellum) used, which resulted in a commission of the Swedish Army establishing in 1962 that a new round was needed for the [[Carl Gustav m/45]]. The resulting m/39B had a [[tombac]]-plated steel [[Full metal jacket bullet|jacket]] surrounding the lead core. While [[Gun barrel|the lands of the barrel]] can cut into the tombac, the steel jacket resists deformation, thus causes the gas pressure to rise higher than the previous soft-jacketed m/39, giving the {{convert|6.8|g|gr}} bullet a Vₒ of {{convert|420|m/s|ft/s|abbr=on|0}}<ref>Arméstabens taktiska avdelning februari 1962 : "Erfarenheterna från striderna i Kongo under september och december 1961"</ref> and an impact energy of 600 joules.{{citation needed|date=September 2014}} The mantle also acts like a penetrator when striking a target, going through up to 50 layers of kevlar, 7&nbsp;cm bricks or 25&nbsp;cm of wood, allowing the bullet to defeat body armour up to [[Bulletproof vest#Performance standards|Type IIIA]]. The downside is the higher wear on the weapon, ultimately causing the service [[Lahti L-35|pistol m/40]] to be withdrawn from service.
+The m/39 is also available as a "gallery round" – ''kammarpatron m/39'' – black with blue tip, for indoor gallery shooting, and as a blank round – ''lös patron m/39'' – which has the metal bullet replaced with one in red, hard plastic intended to disintegrate into dust when fired.
+
+===9×19mm +P variant===
+[[File:9 mm Luger - SP - SB - 1.jpg|left|thumb|A 9mm Luger jacketed flat point cartridge variant]]
+Attempts to improve ballistics of the cartridge came in the early 1990s with the widespread availability of high-pressure loadings of the 9mm cartridge. Such [[overpressure ammunition|overpressure cartridges]] are labeled "+P" or in the case of very high pressure loadings "+P+".<ref>{{cite web|url=http://www.frfrogspad.com/miscellk.htm#+P|title=What is  +P and +P+ ammunition?|publisher=|accessdate=14 November 2014}}</ref> Ballistic performance of these rounds was moderately improved over the standard loadings. In addition, improvements in jacketed [[hollow-point bullet]] technology have produced bullet designs that are more likely to expand and less likely to fragment than earlier iterations, giving a 9mm bullet better terminal effectiveness.<ref name="Ayoob, Massad 2002"/>
+
+===9mm SESAMS===
+[[File:Cartridge detail 9mm fx red marking dodic aa12.jpg|thumb|left]]
+The United States Military uses red and blue marking rounds in the 9mm caliber known as Special Effects Small Arms Marking Systems (SESAMS). Commonly used for training simulations, these rounds are comparable in function to the paintballs used in paintball markers, except they are fired with a powder charge, and can be shot in [[Beretta M9]] service pistols with only a barrel modification (The Glock 19 pistol, common among police departments, has a similar available modification). The 9mm SESAMS rounds are fired from specially modified pistols, as well as M16 and M4 rifles, which are incapable of chambering standard live ammunition.
+[[File:9mm blue simunition with modified m9 pistol.jpg|thumb|right|Box of "Cartridge, 9mm FX Blue Marking (DODIC AA21) with a modified Beretta M9 pistol]]
+SESAMS weapons or components are normally painted blue or otherwise clearly marked, to denote their inert status and avoid a potentially catastrophic mixup with live-fire weapons.<ref>Bianco, Michael (4 June 2009) "[http://www.marines.mil/unit/31stmeu/Pages/Marinesconducturbanwarfaretraining.aspx Marines conduct urban warfare training ]", ''marines.mil'', Retrieved 21 December 2009. (Archived by WebCite at http://www.webcitation.org/5mCeN99CA)</ref>  This allows the armed forces to train with nearly identical equipment as used in real-life situations.<ref>Senior Master Sgt. Steven Bliss  (6 August 2009) "[http://www.andersen.af.mil/news/story.asp?id=123109380 Commando Warrior adds realistic combat training with simunitions ]" Retrieved 21 December 2009</ref> The brand name for this ammunition, which is sold commercially and to law enforcement, is [[Simunition]].
+
+===Russian military overpressure variants===
+The Russian military has developed specialized 9×19mm cartridges that use relatively light bullets at high muzzle velocities for both pistols and submachine guns to defeat [[ballistic vest|body armour]].<ref>[http://www.military-today.com/russian_land_forces.pdf Russian 9×19mm Pistol Rounds, Land Forces Weapons Export Catalog, page 109]</ref>
+
+Besides enhanced penetration capabilities, these [[overpressure ammunition|overpressure variants]] offer a flatter trajectory and lessened recoil. The increase in service pressure causes a rise in [[bolt thrust]], so the use of this overpressure ammunition induces more stress on critical weapon parts during firing. After initial research, conducted since the late 1980s under the codename "Grach", the Russian armed forces adopted two specialized 9×19mm variants.<ref name="world.guns.ru">{{cite web |url=http://world.guns.ru/ammunition/russian-special-cartridges-e.html |title=Special purpose small arms ammunition of USSR and Russia |date=2005–2008 |first=Maxim |last=Popenker |publisher=World Guns |work=Modern Firearms}}</ref><ref>{{cite web|url=http://gunsru.ru/rg_patron_9x19_eng.html|title=9x19 Russian pistol cartridges|publisher=|accessdate=14 November 2014}}</ref>
+
+{| class="wikitable"
+! Chambering
+| ''7[[En (Cyrillic)|Н]]21'' (7N21)
+| ''7[[En (Cyrillic)|Н]]31'' (7N31) / PBP
+|-
+| Cartridge weight
+| {{convert|9.5|g|gr|abbr=on|0}}
+| {{convert|8.1|g|gr|abbr=on|0}}
+|-
+| Bullet weight
+| {{convert|5.2|g|gr|abbr=on|1}}
+| {{convert|4.1|g|gr|abbr=on|1}}
+|-
+| Muzzle velocity
+| {{convert|460|m/s|ft/s|abbr=on|0}}
+| {{convert|600|m/s|ft/s|abbr=on|0}}
+|-
+| Muzzle energy
+| {{convert|561|J|ft.lbf|abbr=on|0}}
+| {{convert|756|J|ft.lbf|abbr=on|0}}
+|-
+| Accuracy of fire at<br />{{convert|25|m|yd|abbr=on|0}} (R<sub>50</sub>)
+| {{convert|25|mm|in|abbr=on|1}}
+|
+|-
+| Maximum pressure
+| {{convert|280|MPa|psi|abbr=on}}
+|
+|-
+|}
+* <small>R<sub>50</sub> at {{convert|25|m|yd|abbr=on|0}} means the closest 50 percent of the shot group will all be within a circle of {{convert|25|mm|in|abbr=on|1}} radius at {{convert|25|m|yd|abbr=on|0}}.</small>
+
+The 7N21 ([[Cyrillic script|Cyrillic]]: 7[[Н]]21) [[overpressure ammunition|9×19mm overpressure variant]] features an armour-piercing bullet and generates a peak pressure of {{convert|280|MPa|psi|abbr=on}}.<ref name="world.guns.ru" /> The 7N21 bullet features a hardened (subcaliber) steel penetrator core, enclosed by a bimetal jacket. The space between the core and jacket is filled with polyethylene, and the tip of the penetrator is exposed at the front of the bullet, to achieve better penetration. The penetration range for body armor is specified at up to 40&nbsp;m. The [[MP-443 Grach]] and [[GSh-18]] pistols and [[PP-19]]-01, [[PP-90M1]] and [[PP-2000]] submachine guns were designed for use with this overpressure cartridge. ''Jane's Infantry Weapons'' stated in 2003 that the 7N21 cartridge combines the 9×19mm Parabellum dimensions with a [[9×21 mm Gyurza]] bullet design and was developed specifically for the penetration of body armor and for the MP-443 Grach pistol, the latest Russian service pistol.<ref name="Janes_2003">{{cite web |url=http://www.janes.com/articles/Janes-Infantry-Weapons/9-x-19-mm-7N21.html |title=9 × 19 mm 7N21 – Jane's Infantry Weapons|date=14 August 2003 |accessdate=16 June 2009|publisher = ''[[Jane's Information Group]]''}}</ref>
+
+The 7N31 ([[Cyrillic script|Cyrillic]]: 7[[Н]]31) / PBP 9×19mm overpressure variant uses the same concept with a similar but lighter bullet that achieves higher muzzle velocity. The penetration of an 8 mm-thick steel plate is specified at up to 10 m. The 7N31 cartridge was developed in the late 1990s for the [[GSh-18]] pistol. The 7N31 was adopted for the [[PP-90M1]] and [[PP-2000]] submachine guns. Its maximum service pressure remains unclear.
+
+The method of construction of the two rounds allows them to be effective against both unarmored and armored targets.  If the bullet strikes an unarmored target, it holds together to produce a wide wound channel.  If the bullet strikes an armored target, the sleeve is stripped away and the core penetrates alone.  The disadvantage of the rounds is that high impact velocities are needed for them to work effectively, so the bullets are relatively light to maximize their muzzle velocity.  This means they  lose velocity relatively quickly, limiting their effective range.<ref>[http://www.quarry.nildram.co.uk/PDWs.htm Where Next For PDWs? by Anthony G Williams]</ref>
+
+=== 9mm major ===
+The "9mm major" is a term common among handloaders in [[International Practical Shooting Confederation]] and [[United States Practical Shooting Association]] competitions in the [[United States Practical Shooting Association#Open Division|open division]]. It describes a 9×19mm loaded to reach or surpass the "major" power factor in those competitions, something that very few commercial self-defense loads do. Such loads are only rarely within the limits defined by SAAMI or CIP, exceeding even +P loads. The {{convert|124|gr|g}} projectiles are pushed beyond {{convert|1331|ft/s|m/s}} to meet USPSA [[Power factor (pistol)|power factor]]. Usually, they are loaded with relatively large charges of a low-volume slow-burning powder such as HS-6 and Autocomp. Sometimes they are made longer than standard OAL to allow more capacity with heavier bullets. Since they can be used with common 9×19 brass, they are considered a more economical alternative to [[.38 Super]].
+
+=== Other variants ===
+VBR-B produces specialized bullets for this cartridge, a two-part controlled fragmenting projectile and an armor-piercing bullet that features a brass sabot and a hardened steel penetrator. These are designed for increasing the content of the permanent wound cavity and double the chance to hit a vital organ.<ref>{{cite web|title=General 9×19 mm|url=http://www.fsdip.com/website/LinkClick.aspx?link=261&tabid=36}}</ref>
+
+==U.S. data==
+The energy delivered by most 9mm loads allows for significant expansion and penetration with premium [[hollow-point bullet]]s. [[Illinois State Police]], [[United States Border Patrol|Border Patrol]], [[Federal Air Marshals]], and [[United States Secret Service]] favored and used {{convert|115|gr|g|abbr=on}} +P+ 9mm loads at {{convert|1300|ft/s|m/s|abbr=on}} for years with excellent results.<ref name="Ayoob, Massad 2002"/> [[Massad Ayoob]] has stated that the "Tried, Tested, and True" {{convert|115|gr|g|abbr=on}} +P or +P+ is the best self-defense load in this caliber.<ref name="Ayoob, Massad 2002">{{cite book|last=Ayoob|first= Massad|year=2002|title=The Gun Digest Book of Combat Handgunnery|authorlink=Massad Ayoob|edition= 5|publisher= Krause Publications|location=Iola, Wisconsin|page=26| ISBN= 0-87349-485-7}}</ref> Proponents of the [[hydrostatic shock]] theory contend that the energy of the 9mm cartridge is capable of imparting remote wounding effects known as hydrostatic shock, in human-sized living targets.<ref name="arxiv.org">{{cite arXiv| eprint = 0803.3051 |title=Scientific Evidence for Hydrostatic Shock| author1 = Michael Courtney| author2 = Amy Courtney| class = physics.med-ph| year = 2008}}</ref><ref name="Sturtevant B 1998">Sturtevant B, Shock Wave Effects in Biomechanics, Sadhana, 23: 579–596, 1998.</ref><ref>{{cite journal |last=Courtney |first=A. |last2=Courtney |first2=M. |title=Links between traumatic brain injury and ballistic pressure waves originating in the thoracic cavity and extremities |journal=Brain Injury |volume=21 |issue=7 |pages=657–662 |year=2007 |doi=10.1080/02699050701481571 |pmid=17653939}}</ref>
+
+The table below shows common performance parameters for several 9×19mm loads. Bullet weights ranging from {{convert|115|to|147|gr|g|abbr=on}} are common. Loads are available with energies from just over {{convert|400|J|ftlb|abbr=on}} to {{convert|680|J|ftlb|abbr=on}}, and penetration depths from {{convert|8|in|mm|disp=flip|abbr=on}} to over {{convert|40|in|m|disp=flip|abbr=on}} are available for various applications and risk assessments.
+
+{| class="wikitable sortable"
+|-
+! Manufacturer
+! Load
+! Mass
+! Velocity
+! Energy
+! Expansion<ref name="MS1996">Marshall and Sanow, Street Stoppers, Appendix A, Paladin 2006</ref>
+! Penetration<ref name="MS1996"/>
+! PC<ref name="MS1996"/>
+! TSC<ref name="MS1996"/>
+|-
+| Cor-Bon
+| JHP+P
+| {{convert|115|gr|g|disp=flip|abbr=on}}
+| {{convert|1350|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|465|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.55|in|mm|disp=flip|abbr=on}}
+| {{convert|14.2|in|mm|disp=flip|abbr=on}}
+| {{convert|3.4|cuin|mL|disp=flip|abbr=on}}
+| {{convert|38.5|cuin|mL|disp=flip|abbr=on}}
+|-
+| ATOMIC Ammo
+| JHP+P
+| {{convert|124|gr|g|disp=flip|abbr=on}}
+| {{convert|1300|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|465|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.60|in|mm|disp=flip|abbr=on}}
+| {{convert|13|in|mm|disp=flip|abbr=on}}
+| "N/A"
+| "N/A"
+|-
+| Speer
+| Gold Dot JHP
+| {{convert|124|gr|g|disp=flip|abbr=on}}
+| {{convert|1310|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|472|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.70|in|mm|disp=flip|abbr=on}}
+| {{convert|13.25|in|mm|disp=flip|abbr=on}}
+| {{convert|5.1|cuin|mL|disp=flip|abbr=on}}
+| {{convert|37.6|cuin|mL|disp=flip|abbr=on}} (est)
+|-
+| Federal
+| HydraShok JHP +P+
+| {{convert|124|gr|g|disp=flip|abbr=on}}
+| {{convert|1220|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|410|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.67|in|mm|disp=flip|abbr=on}}
+| {{convert|13.4|in|mm|disp=flip|abbr=on}}
+| {{convert|4.7|cuin|mL|disp=flip|abbr=on}}
+| {{convert|44.8|cuin|mL|disp=flip|abbr=on}}
+|-
+| Remington
+| Golden Saber JHP
+| {{convert|147|gr|g|disp=flip|abbr=on}}
+| {{convert|990|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|320|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.62|in|mm|disp=flip|abbr=on}}
+| {{convert|14.5|in|mm|disp=flip|abbr=on}}
+| {{convert|4.4|cuin|mL|disp=flip|abbr=on}}
+| {{convert|33.2|cuin|mL|disp=flip|abbr=on}}
+|-
+| Winchester
+| Silvertip
+| {{convert|115|gr|g|disp=flip|abbr=on}}
+| {{convert|1225|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|383|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.72|in|mm|disp=flip|abbr=on}}
+| {{convert|8.0|in|mm|disp=flip|abbr=on}}
+| {{convert|3.3|cuin|mL|disp=flip|abbr=on}}
+| {{convert|16.7|cuin|mL|disp=flip|abbr=on}}
+|-
+| Winchester
+| WWB JHP
+| {{convert|147|gr|g|disp=flip|abbr=on}}
+| {{convert|990|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|320|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.58|in|mm|disp=flip|abbr=on}}
+| {{convert|15.9|in|mm|disp=flip|abbr=on}}
+| {{convert|4.2|cuin|mL|disp=flip|abbr=on}}
+| {{convert|19.6|cuin|mL|disp=flip|abbr=on}}
+|-
+| Winchester
+| FMJ
+| {{convert|115|gr|g|disp=flip|abbr=on}}
+| {{convert|1155|ft/s|m/s|disp=flip|abbr=on}}
+| {{convert|341|ftlb|J|disp=flip|abbr=on}}
+| {{convert|0.36|in|mm|disp=flip|abbr=on}}
+| {{convert|24.5|in|mm|disp=flip|abbr=on}}
+| {{convert|2.5|cuin|mL|disp=flip|abbr=on}}
+| {{convert|10.6|cuin|mL|disp=flip|abbr=on}}
+|}
+
+''Key:''<br />
+'''Expansion''': expanded bullet diameter (ballistic gelatin).<br />
+'''Penetration''': penetration depth (ballistic gelatin).<br />
+'''PC''': permanent cavity volume (ballistic gelatin, FBI method).<br />
+'''TSC''': temporary stretch cavity volume (ballistic gelatin).
+
+==Synonyms==
+* 9×19
+* 9mm
+* 9mm Luger
+* 9mm [[NATO]]
+* 9×19mm
+* 9 mil
+* 9×19mm [[NATO]]
+* 9mm Parabellum
+* 9mm Para
+* 9mm P
+
+==See also==
+*[[7.65×21 mm Parabellum]] 
+* [[9mm caliber]]
+* [[List of firearms]]
+* [[List of handgun cartridges]]
+* [[List of rifle cartridges]]
+* [[NATO EPVAT testing]]
+* [[Table of handgun and rifle cartridges]]
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+{{Commons and category|9 × 19mm Parabellum|9 × 19mm Parabellum}}
+* [http://cartridgecollectors.org/documents/Introduction-to-9mm-Luger-Cartridges.pdf Article on 9×19mm Parabellum cartridge collecting including history with photos and descriptions of variations including headstamps]
+* [http://www.ballisticsbytheinch.com/9luger.html Ballistics By The Inch 9×19mm Parabellum Results.]
+* [http://www.kalashnikov.ru/upload/medialibrary/6c0/24_30.pdf Data on the Russian ammo (in Russian)]
+
+{{765borderivatives}}
+
+{{DEFAULTSORT:9by19mm Parabellum}}
+[[Category:1902 introductions]]
+[[Category:9mm Parabellum firearms]]
+[[Category:Pistol and rifle cartridges]]
+[[Category:Military cartridges]]

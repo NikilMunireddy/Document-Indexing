@@ -1,0 +1,777 @@
+Acacia
+
+{{italic title}}
+{{taxobox
+|name = ''Racosperma''
+|image = Acacia plicata.jpg
+|image_caption = ''[[Acacia plicata|R. plicatum]]''
+|regnum = [[Plant]]ae
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Rosids]]
+|ordo = [[Fabales]]
+|familia = [[Fabaceae]]
+|subfamilia = [[Mimosoideae]]
+|tribus = [[Acacieae]]
+|genus = '''''Racosperma'''''
+|genus_authority = [[Carl Friedrich Philipp von Martius|Martius (1829)]]
+|range_map = Acacia_Distribution_Map.svg
+|range_map_caption = Range of the genus ''Racosperma''
+|type species =  ''[[Racosperma verticillatum|R. verticillatum]]'' <small>L'Her. (C.Mart.)</small>, 1789
+|subdivision_ranks = Species
+|subdivision = some 980 species
+|synonyms =
+''Acacia'' subg. ''Phyllodineae'' DC.<ref name=ped1/>
+|}}{{wikispecies|Acacia subg. Phyllodineae|''Racosperma''}}[[File:Acacia facsiculifera seedling.jpg|thumb|right|''[[Acacia facsiculifera|R. facsiculifera]]'' shoot, showing phyllodes on the pinnate leaves, formed by dilation of the
+petiole and proximal part of the rachis<ref name=delin/>]]
+'''''Racosperma''''' (from [[ancient Greek]] ''rhakos'', "ragged" or ''rhakodes'', "wrinkled" and ''sperma'', "seed"),<ref name=qua>{{cite book |last1=Quattrocchi |first1=Umberto |title=R - Z. |date=2000 |publisher=CRC Press |location=Boca Raton, FL |isbn=9780849326783 |pages=2261–2262}}</ref> commonly known as the '''wattles''' or '''acacias''', is a [[Monophyly|monophyletic]] genus of 981<ref name=ped2>{{cite journal |last1=Pedley |first1=Les |title=Another view of Racosperma. |journal=Acacia study group newsletter |date=February 2004 |issue=90 |page=3 |issn=1035-4638 |url=http://worldwidewattle.com/socgroups/asg/newsletters/90.pdf |accessdate=22 November 2015}}</ref> species of ''[[Acacia sensu lato|Acacia s.l.]]'', in the subfamily Mimosoideae of the pea family Fabaceae. All but 10 of its species are native to [[Australia]],<ref name=ped2/> where it constitutes the largest plant genus.<ref name=mur/> A number of species have been introduced to various parts of the world, and two million hectares of commercial plantations have been established.<ref>Midgley and Turnbull</ref> The heterogenous group<ref name=mur>{{cite journal |last1=Murphy |first1=Daniel J. |title=A review of the classification of Acacia (Leguminosae, Mimosoideae) |journal=Muelleria |date=2008 |volume=26 |issue=1 |pages=10–26 |url=http://www.researchgate.net/profile/Daniel_Murphy3/publication/255611439_A_review_of_the_classification_of_Acacia_(Leguminosae_Mimosoideae)/links/0deec538aac2a38809000000.pdf |accessdate=22 November 2015}}</ref> varies considerably in habit, from mat-like [[subshrub]]s to canopy trees in forest.<ref name=orch1>{{cite book |last1=Orchard |first1=Anthony E. |last2=Wilson |first2=Annette J.G. |title=Flora of Australia. Volume 11A, Mimosaceae, Acacia part 1 |date=2001 |publisher=CSIRO |location=Melbourne |isbn=9780643067172 |pages=x-}}</ref> The genus was first described from Africa by C. F. P. von Martius in 1829. Several hundred combinations in ''Racosperma'' were published by Pedley in 2003.<ref name=ped1>{{cite journal|last1=Pedley |first1=Les |title=A synopsis of Racosperma. C.Mart. (Leguminosae: Mimosoideae). |journal=Austrobaileya |date=2003 |volume=6 |issue=3 |pages=445–496 |url=http://www.jstor.org/stable/41738994 |accessdate=19 November 2015}}</ref>
+
+==Nomenclature==
+Following a controversial decision to vote on a new [[Type (biology)|type]] for ''Acacia'' in 2005, its species are still referred to as ''Acacia'' by some authors.<ref name=thiel>{{cite journal |last1=Thiele |first1=Kevin R. |title=The controversy over the retypification of Acacia Mill. with an Australian type: A pragmatic view |journal=Taxon |date=February 2011 |volume=60 |issue=1 |pages=194–198 |url=http://www.iapt-taxon.org/historic/Congress/IBC_2011/Acacia_pragm.pdf |accessdate=15 November 2015}}</ref><ref name=brum>{{cite journal |last1=Brummitt |first1=R. K. |title=(292) Acacia: a solution that should be acceptable to everybody |journal=Taxon |date=December 2010 |volume=59 |issue=6 |pages=1925–1926 |url=http://www.iapt-taxon.org/historic/Congress/IBC_2011/Prop291-292.pdf |accessdate=19 November 2015}}</ref> At the 2011 [[International Botanical Congress]] held in [[Melbourne]], the minority decision to use the name ''Acacia'' rather than ''Racosperma'' for this genus, was upheld.<ref name="acaciaresolution1">{{cite web |title=The Acacia debate |url=http://worldwidewattle.com/infogallery/nomenclature/nameissue/melbourne-ibc-2011-congress-news-tuesday-26-july.pdf |publisher=IBC2011 Congress News |accessdate=May 5, 2016}}</ref><ref name="acaciaresolution2">{{cite web |title=Conserving ''Acacia'' Mill. with a conserved type: What happened in Melbourne? |url=http://www.ingentaconnect.com/content/iapt/tax/2011/00000060/00000005/art00033 |publisher=''Taxon'' |accessdate=May 5, 2016}}</ref> Other ''[[Acacia sensu lato|Acacia]]'' taxa continue to be called ''Acacia'' as well.<ref name="acaciaresolution1"/>
+
+==Etymology==
+The origin of "[[Wattle (construction)|wattle]]" may be an [[Proto-Germanic language|Old Teutonic]] word meaning "to weave".<ref name=aus>{{cite book |last1=Austin |first1=Daniel F. |title=Florida ethnobotany Fairchild Tropical Garden, Coral Gables, Florida, Arizona-Sonora Desert Museum, Tucson, Arizona: with more than 500 species illustrated by Penelope N. Honychurch ... [et al.] |date=2004 |publisher=CRC Press |location=Boca Raton, FL |isbn=9780203491881 |page=58 |accessdate=18 November 2015}}</ref> From around 700 A.D. ''watul'' was used in [[Old English]] to refer to the interwoven branches and sticks which formed fences, walls and roofs. Since about 1810 it refers to the Australian legumes that provide these branches.<ref name=aus/>
+
+==Relationships==
+Australian species of the genus ''[[Paraserianthes]]'' ''[[sensu lato|s.l.]]'' are deemed its closest relatives, particularly with ''[[Paraserianthes lophantha|P. lophantha]]''.<ref name="Brown">{{cite journal|authors=Brown, Gillian K., Daniel J. Murphy and Pauline Y. Ladiges | year=2011|title=Relationships of the Australo-Malesian genus ''Paraserianthes'' (Mimosoideae: Leguminosae) identifies the sister group of ''Acacia'' sensu stricto and two biogeographical tracks.|journal=Cladistics |volume=27 |pages=380–390}}</ref> The nearest relatives of ''Racosperma'' and ''Paraserianthes s.l.'' in turn include the Australian and [[South East Asia]]n genera ''[[Archidendron]]'', ''[[Archidendropsis]]'', ''[[Pararchidendron]]'' and ''[[Wallaceodendron]]'', all of the tribe [[Ingeae]].<ref name=bro>{{cite journal|last1=Brown |first1=Gillian K. |last2=Murphy |first2=Daniel J. |last3=Miller |first3=Joseph T.|last4=Ladiges |first4=Pauline Y. |title=Acacia s.s. and its Relationship Among Tropical Legumes, Tribe Ingeae (Leguminosae: Mimosoideae) |journal=Systematic Botany |date=1 October 2008 |volume=33 |issue=4 |pages=739–751 |doi=10.1600/036364408786500136 |url=http://www.bioone.org/doi/abs/10.1600/036364408786500136 |accessdate=23 November 2015}}</ref>
+
+==Habitat and range==
+They are present in all terrestrial habitats, including alpine settings, rainforests, woodlands, grasslands, coastal dunes and deserts.<ref name=orch1/> In drier woodlands or forest they are an important component of the understory. Elsewhere they may be dominant, as in the [[Brigalow Belt]], [[Myall Lakes National Park|Myall woodlands]] and the [[Eremaean province|eremaean]] [[Mulga Lands|Mulga]] woodlands.<ref name = orch1/>
+
+==Description==
+Several of its species bear vertically oriented [[Petiole (botany)|phyllodes]], which are green, broadened leaf petioles that function like leaf blades,<ref name=wpa1>{{cite web|last1=Armstrong |first1=W. P. |title=Unforgettable Acacias, A Large Genus Of Trees & Shrubs |url=http://waynesword.palomar.edu/plaug99.htm |website=Wayne's Word |accessdate=17 November 2015}}</ref> an adaptation to hot climates and droughts.<ref name=tan>{{cite web |last1=Tan |first1=Ria |title=Acacia auriculiformis, Black Wattle |url=http://www.naturia.per.sg/buloh/plants/acacia.htm |website=Naturia |accessdate=17 November 2015}}</ref> Some phyllodinous species have a colourful aril on the seed.<ref name=delin>{{cite web|last1=吴德邻|first1=Wu Delin |last2=Nielsen |first2=Ivan C.|title=Flora of China, 6. Tribe ACACIEAE|url=http://flora.huh.harvard.edu/china/mss/volume10/FOC_10_Acacieae.pdf |publisher=Missouri Botanical Garden Press | date = 2009 |accessdate=19 November 2015}}</ref> A few species have [[Phylloclade|cladodes]] rather than leaves.<ref name=eol>{{cite web |title=Acacia, Thorntree |url=http://eol.org/pages/13650/details |website=EOL |accessdate=22 November 2015}}</ref>
+
+==Uses==
+Aborigines of Australia have traditionally harvested the seeds of some species, to be ground into flour and eaten as a paste or baked into a cake. The seeds contain as much as 25% more protein than common cereals, and they store well for long periods due to the hard seed coats.<ref name=tan/> In addition to utilizing the edible seed and gum, they employed the timber for implements, weapons, fuel and musical instruments.<ref name = orch1/> A number of species, most notably ''[[Acacia mangium|R. mangium]]'' (Hickory wattle), ''[[Acacia mearnsii|R. mearnsii]]'' (Black wattle) and ''[[Acacia saligna|R. saligna]]'' (Coojong), are economically important and are widely planted globally for wood products, tannin, firewood and fodder.<ref name=thiel/> ''[[Acacia melanoxylon|R. melanoxylon]]'' (Blackwood) and ''[[Acacia aneura|R. aneura]]'' (Mulga) supply some of the most attractive timbers in the genus.<ref name = orch1/> Black wattle bark supported the [[tanning]] industries of several countries, and may supply tannins for production of waterproof [[adhesive]]s.<ref name = orch1/>
+
+== Species ==
+:''See also'': [[List of Acacia species|List of ''Acacia'' species]]
+One species is native to [[Madagascar]], 12 to [[Asia]], and the remaining species (over 900) are native to [[Australasia]] and the [[Pacific Islands]].<ref name=thiel/> Along with the re-classifications of the Acacia genus, many of the species names are reclassified as well. ''[[Acacia pulchella]]'', for example, becomes ''[[Racosperma pulchellum]]''. The species of ''Racosperma'' include:<ref name=tpl>{{cite web|title=Racosperma (species list)|url=http://www.theplantlist.org/tpl1.1/search?q=Racosperma|website=The Plant List|accessdate=15 November 2015}}</ref>
+<!--Note: Some Acacia sp. genders need to be checked.-->
+{{div col|colwidth=300px}}
+*''[[Acacia abbatiana|Racosperma abbatianum]]'' (Pedley) Pedley      
+*''[[Acacia abbreviata|Racosperma abbreviatum]]'' (Maslin) Pedley      
+*''[[Acacia abrupta|Racosperma abruptum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia acanthaster|Racosperma acanthaster]]'' (Maslin) Pedley      
+*''[[Acacia acanthoclada|Racosperma acanthocladum]]'' (F. Muell.) Pedley     
+*''[[Acacia acellerata|Racosperma acelleratum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia acinacea|Racosperma acinaceum]]'' (Lindl.) Pedley      
+*''[[Acacia aciphylla|Racosperma aciphyllum]]'' (Benth.) Pedley      
+*''[[Acacia acoma|Racosperma acomum]]'' (Maslin) Pedley      
+*''[[Acacia acradenia|Racosperma acradenia]]'' (F. Muell.) Pedley     
+*''[[Acacia acrionastes|Racosperma acrionastes]]'' (Pedley) Pedley      
+*''[[Acacia acuaria|Racosperma acuarium]]'' (W. Fitzg.) Pedley     
+*''[[Acacia aculeatissima|Racosperma aculeatissimum]]'' (J.F. Macbr.) Pedley     
+*''[[Acacia aculeiforme|Racosperma aculeiforme]]'' (Maslin) Pedley      
+*''[[Acacia acuminata|Racosperma acuminatum]]'' (Benth.) Pedley      
+*''[[Acacia acutata|Racosperma acutatum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia adinophylla|Racosperma adinophyllum]]'' (Maslin) Pedley      
+*''[[Acacia adnata|Racosperma adnatum]]'' (F. Muell.) Pedley     
+*''[[Acacia adoxa|Racosperma adoxum]]'' (Pedley) Pedley      
+*''[[Acacia aemula|Racosperma aemulum]]'' (Maslin) Pedley      
+*''[[Acacia aestivale|Racosperma aestivale]]'' (E. Pritz.) Pedley     
+*''[[Acacia alata|Racosperma alatum]]'' (R. Br.) Pedley     
+*''[[Acacia alcockii|Racosperma alcockii]]'' (Maslin & Whibley) Pedley    
+*''[[Acacia alexandri|Racosperma alexandri]]'' (Maslin) Pedley      
+*''[[Acacia alpina|Racosperma alpinum]]'' (F. Muell.) Pedley                    <!--     
+*''[[Acacia amandae|Racosperma amandae]]'' (G.J. Leach) Pedley     
+*''[[Acacia amblyophylla|Racosperma amblyophyllum]]'' (F. Muell.) Pedley     
+*''[[Acacia amentifera|Racosperma amentiferum]]'' (F. Muell.) Pedley     
+*''[[Acacia amoena|Racosperma amoenum]]'' (H.L. Wendl.) Pedley     
+*''[[Acacia ampliata|Racosperma ampliatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia ampliceps|Racosperma ampliceps]]'' (Maslin) Pedley      
+*''[[Acacia amputata|Racosperma amputatum]]'' (Maslin) Pedley      
+*''[[Acacia amyctica|Racosperma amycticum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia anarthron|Racosperma anarthron]]'' (Maslin) Pedley      
+*''[[Acacia anasilla|Racosperma anasillum]]'' (A.S. George) Pedley     -->
+*''[[Acacia anastema|Racosperma anastemum]]'' (Maslin) Pedley      
+*''[[Acacia anaticeps|Racosperma anaticeps]]'' (Tindale) Pedley      
+*''[[Acacia anceps|Racosperma anceps]]'' (DC.) Pedley      
+*''[[Acacia ancistrophylla|Racosperma ancistrophyllum]]'' (C.R.P. Andrews) Pedley     
+*''[[Acacia andrewsii|Racosperma andrewsii]]'' (W. Fitzg.) Pedley     
+*''[[Acacia anfractuosa|Racosperma anfractuosum]]'' (Maslin) Pedley      
+*''[[Acacia anomala|Racosperma anomalum]]'' (C.A. Gardner ex Court) Pedley   
+*''[[Acacia anthochaera|Racosperma anthochaerum]]'' (Maslin) Pedley      
+*''[[Acacia aphanoclada|Racosperma aphanocladum]]'' (Maslin) Pedley      
+*''[[Acacia aphylla|Racosperma aphyllum]]'' (Maslin) Pedley      
+*''[[Acacia applanata|Racosperma applanatum]]'' (Maslin) Pedley               <!--
+*''[[Acacia aprica|Racosperma apricum]]'' (Maslin & A.R.O. Chapm.) Pedley   
+*''[[Acacia arafurica|Racosperma arafuricum]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia araneosa|Racosperma araneosum]]'' (Whibley) Pedley      
+*''[[Acacia arbiana|Racosperma arbianum]]'' (Pedley) Pedley      
+*''[[Acacia arcuatile|Racosperma arcuatile]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia areolata|Racosperma areolatum]]'' (M.W. McDonald) Pedley     
+*''[[Acacia argutifolia|Racosperma argutifolium]]'' (Maslin) Pedley      
+*''[[Acacia argyrophylla|Racosperma argyrophyllum]]'' (Hook.) Pedley      
+*''[[Acacia argyrotricha|Racosperma argyrotrichum]]'' (Pedley) Pedley      
+*''[[Acacia arida|Racosperma aridum]]'' (Benth.) Pedley      
+*''[[Acacia aristulata|Racosperma aristulatum]]'' (Maslin) Pedley      
+*''[[Acacia armillata|Racosperma armillatum]]'' Pedley       
+*''[[Acacia arrecta|Racosperma arrectum]]'' (Maslin) Pedley      
+*''[[Acacia ascendens|Racosperma ascendens]]'' (Maslin) Pedley      
+*''[[Acacia asepala|Racosperma asepalum]]'' (Maslin) Pedley                            -->
+*''[[Acacia ashbyae|Racosperma ashbyae]]'' (Maslin) Pedley      
+*''[[Acacia asparagoides|Racosperma asparagoides]]'' (A. Cunn.) Pedley     
+*''[[Acacia aspera|Racosperma asperum]]'' (Lindl.) Pedley      
+*''[[Acacia assimile|Racosperma assimile]]'' (S. Moore) Pedley                        <!--     
+*''[[Acacia ataxiphylla|Racosperma ataxiphyllum]]'' (Benth.) Pedley      
+*''[[Acacia ataxiphylla|Racosperma ataxiphyllum]]'' subsp. magnum (Maslin) Pedley    
+*''[[Acacia atkinsiana|Racosperma atkinsianum]]'' (Maslin) Pedley      
+*''[[Acacia atopa|Racosperma atopum]]'' (Pedley) Pedley      
+*''[[Acacia atrox|Racosperma atrox]]'' (Kodela) Pedley      
+*''[[Acacia aulacophylla|Racosperma aulacophyllum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia auratiflora|Racosperma auratiflorum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia aureocrinita|Racosperma aureocrinitum]]'' (Conn & Tame) Pedley    
+*''[[Acacia auricoma|Racosperma auricomum]]'' (Maslin) Pedley      
+*''[[Acacia auripila|Racosperma auripilum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia auronitens|Racosperma auronitens]]'' (Lindl.) Pedley                        -->
+*''[[Acacia ausfeldii|Racosperma ausfeldii]]'' (Regel) Pedley      
+*''[[Acacia awestonii|Racosperma awestonii]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia ayersiana|Racosperma ayersianum]]'' (Maconochie) Pedley      
+*''[[Acacia balsamea|Racosperma balsameum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia bancroftiora|Racosperma bancroftiorum]]'' (Maiden) Pedley      
+*''[[Acacia barakulense|Racosperma barakulense]]'' (Pedley) Pedley      
+*''[[Acacia barattense|Racosperma barattense]]'' (J.M. Black) Pedley     
+*''[[Acacia barbinerve|Racosperma barbinerve]]'' (Benth.) Pedley      
+*''[[Acacia barringtonense|Racosperma barringtonense]]'' (Tindale) Pedley      
+*''[[Acacia basedowii|Racosperma basedowii]]'' (Maiden) Pedley      
+*''[[Acacia baxteri|Racosperma baxteri]]'' (Benth.) Pedley      
+*''[[Acacia beauverdiana|Racosperma beauverdianum]]'' (Ewart & Sharman) Pedley    
+*''[[Acacia benthamii|Racosperma benthamii]]'' (Meisn.) Pedley      
+*''[[Acacia bidentata|Racosperma bidentatum]]'' (Benth.) Pedley      
+*''[[Acacia bifaria|Racosperma bifarium]]'' (Maslin) Pedley      
+*''[[Acacia biflora|Racosperma biflorum]]'' (R. Br.) Pedley     
+*''[[Acacia binata|Racosperma binatum]]'' (Maslin) Pedley      
+*''[[Acacia binervia|Racosperma binervium]]'' (J.C. Wendl.) Pedley     
+*''[[Acacia bivenosa|Racosperma bivenosum]]'' (DC.) Pedley      
+*''[[Acacia blakelyi|Racosperma blakelyi]]'' (Maiden) Pedley      
+*''[[Acacia blaxellii|Racosperma blaxellii]]'' (Maslin) Pedley      
+*''[[Acacia blayana|Racosperma blayanum]]'' (Tindale & Court) Pedley    
+*''[[Acacia boormanii|Racosperma boormanii]]'' (Maiden) Pedley      
+*''[[Acacia botrydion|Racosperma botrydion]]'' (Maslin) Pedley      
+*''[[Acacia brachybotrya|Racosperma brachybotryum]]'' (Benth.) Pedley      
+*''[[Acacia brachyclada|Racosperma brachycladum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia brachyphylla|Racosperma brachyphyllum]]'' (Benth. ex Schltdl.) Pedley    
+*''[[Acacia brachypoda|Racosperma brachypodum]]'' (Maslin) Pedley      
+*''[[Acacia bracteolata|Racosperma bracteolatum]]'' (Maslin) Pedley      
+*''[[Acacia brockii|Racosperma brockii]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia browniana|Racosperma brownianum]]'' (H.L. Wendl.) Pedley     
+*''[[Acacia brumale|Racosperma brumale]]'' (Maslin) Pedley      
+*''[[Acacia bulgaense|Racosperma bulgaense]]'' (Tindale & J.B. Davies) Pedley   
+*''[[Acacia burdekense|Racosperma burdekense]]'' (Pedley) Pedley      
+*''[[Acacia burkittii|Racosperma burkittii]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia bynoeana|Racosperma bynoeanum]]'' (Benth.) Pedley      
+*''[[Acacia caerulescens|Racosperma caerulescens]]'' (Maslin & Court) Pedley    
+*''[[Acacia caesariata|Racosperma caesariatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia caesiella|Racosperma caesiellum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia calamifolia|Racosperma calamifolium]]'' (Sweet ex Lindl.) Pedley    
+*''[[Acacia calcarata|Racosperma calcaratum]]'' (Maiden) Pedley      
+*''[[Acacia caleyi|Racosperma caleyi]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia camptoclada|Racosperma camptocladum]]'' (C.R.P. Andrews) Pedley     
+*''[[Acacia campylophylla|Racosperma campylophyllum]]'' (Benth.) Pedley      
+*''[[Acacia cangaiense|Racosperma cangaiense]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia capillare|Racosperma capillare]]'' (A.S. George) Pedley     
+*''[[Acacia cardiophylla|Racosperma cardiophyllum]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia carens|Racosperma carens]]'' (Maslin) Pedley                                     <!--      
+*''[[Acacia carneora|Racosperma carneorum]]'' (Maiden) Pedley      
+*''[[Acacia carnosula|Racosperma carnosulum]]'' (Maslin) Pedley      
+*''[[Acacia cassicula|Racosperma cassiculum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia castanostegia|Racosperma castanostegium]]'' (Maslin) Pedley      
+*''[[Acacia cataractae|Racosperma cataractae]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia caveale|Racosperma caveale]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia cedroides|Racosperma cedroides]]'' (Benth. ex Schltdl.) Pedley    
+*''[[Acacia celastrifolia|Racosperma celastrifolium]]'' (Benth.) Pedley      
+*''[[Acacia celsa|Racosperma celsum]]'' (Tindale) Pedley      
+*''[[Acacia cerastes|Racosperma cerastes]]'' (Maslin) Pedley      
+*''[[Acacia chalkeri|Racosperma chalkeri]]'' (Maiden) Pedley      
+*''[[Acacia chamaeleon|Racosperma chamaeleon]]'' (Maslin) Pedley      
+*''[[Acacia chapmanii|Racosperma chapmanii]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia chartacea|Racosperma chartaceum]]'' (Maslin) Pedley      
+*''[[Acacia cheelii|Racosperma cheelii]]'' (Blakely) Pedley      
+*''[[Acacia chinchillense|Racosperma chinchillense]]'' (Tindale) Pedley      
+*''[[Acacia chrysella|Racosperma chrysellum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia chrysocephala|Racosperma chrysocephalum]]'' (Maslin) Pedley      
+*''[[Acacia chrysochaeta|Racosperma chrysochaetum]]'' (Maslin) Pedley      
+*''[[Acacia chrysopoda|Racosperma chrysopodum]]'' (Maiden) Pedley      
+*''[[Acacia chrysotricha|Racosperma chrysotrichum]]'' (Tindale) Pedley      
+*''[[Acacia citrinoviride|Racosperma citrinoviride]]'' (Tindale & Maslin) Pedley    
+*''[[Acacia clandullense|Racosperma clandullense]]'' (Conn & Tame) Pedley    
+*''[[Acacia clelandii|Racosperma clelandii]]'' (Pedley) Pedley      
+*''[[Acacia clivicola|Racosperma clivicola]]'' (Pedley) Pedley      
+*''[[Acacia clunies-rossiae|Racosperma clunies-rossiae]]'' (Maiden) Pedley      
+*''[[Acacia clydonophora|Racosperma clydonophorum]]'' (Maslin) Pedley      
+*''[[Acacia cochleare|Racosperma cochleare]]'' (Labill.) Pedley      
+*''[[Acacia cochlocarpa|Racosperma cochlocarpum]]'' (Meisn.) Pedley                  -->
+*''[[Acacia cognata|Racosperma cognatum]]'' (Domin) Pedley      
+*''[[Acacia colei|Racosperma colei]]'' (Maslin & L.A.J.Thomson) Pedley    
+*''[[Acacia collectioides|Racosperma collectioides]]'' (A. Cunn. ex Benth.) Pedley   <!--
+*''[[Acacia comans|Racosperma comans]]'' (W. Fitzg.) Pedley     
+*''[[Acacia concolorans|Racosperma concolorans]]'' (Maslin) Pedley      
+*''[[Acacia congesta|Racosperma congestum]]'' (Benth.) Pedley      
+*''[[Acacia conjunctifolia|Racosperma conjunctifolium]]'' (F. Muell.) Pedley     
+*''[[Acacia conniana|Racosperma connianum]]'' (Maslin) Pedley      
+*''[[Acacia consobrina|Racosperma consobrinum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia conspersa|Racosperma conspersum]]'' (F. Muell.) Pedley     
+*''[[Acacia constablei|Racosperma constablei]]'' (Tindale) Pedley      
+*''[[Acacia continua|Racosperma continuum]]'' (Benth.) Pedley      
+*''[[Acacia convallia|Racosperma convallium]]'' (Pedley) Pedley      
+*''[[Acacia coolgardiense|Racosperma coolgardiense]]'' (Maiden) Pedley      
+*''[[Acacia costata|Racosperma costatum]]'' (Benth.) Pedley      
+*''[[Acacia costiniana|Racosperma costinianum]]'' (Tindale) Pedley      
+*''[[Acacia courtii|Racosperma courtii]]'' (Tindale & Herscovitch) Pedley    -->
+*''[[Acacia covenyi|Racosperma covenyi]]'' (Tindale) Pedley      
+*''[[Acacia cowaniana|Racosperma cowanianum]]'' (Maslin) Pedley      
+*''[[Acacia cracente|Racosperma cracente]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia craspedocarpa|Racosperma craspedocarpum]]'' (F. Muell.) Pedley     
+*''[[Acacia crassistipula|Racosperma crassistipulum]]'' (Benth.) Pedley      
+*''[[Acacia crassiuscula|Racosperma crassiusculum]]'' (H.L. Wendl.) Pedley     
+*''[[Acacia crassuloides|Racosperma crassuloides]]'' (Maslin) Pedley      
+*''[[Acacia cremiflora|Racosperma cremiflorum]]'' (B.J. Conn & Tame) Pedley   
+*''[[Acacia crenulata|Racosperma crenulatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia cretacea|Racosperma cretaceum]]'' (Maslin & Whibley) Pedley    
+*''[[Acacia crispula|Racosperma crispulum]]'' (Benth. ex Schltdl.) Pedley    
+*''[[Acacia cummingiana|Racosperma cummingianum]]'' (Maslin) Pedley      
+*''[[Acacia cuneifolia|Racosperma cuneifolium]]'' (Maslin) Pedley      
+*''[[Acacia curvata|Racosperma curvatum]]'' (Maslin) Pedley      
+*''[[Acacia cuspidifolia|Racosperma cuspidifolium]]'' (Maslin) Pedley      
+*''[[Acacia cuthbertsonii|Racosperma cuthbertsonii]]'' (Luehm.) Pedley      
+*''[[Acacia cylindrica|Racosperma cylindricum]]'' (R.S. Cowan & Maslin) Pedley    <!--  
+*''[[Acacia dacrydioides|Racosperma dacrydioides]]'' (Tindale) Pedley      
+*''[[Acacia dallachiana|Racosperma dallachianum]]'' (F. Muell.) Pedley     
+*''[[Acacia dangarense|Racosperma dangarense]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia daviesii|Racosperma daviesii]]'' (Bartolome) Pedley      
+*''[[Acacia daviesioides|Racosperma daviesioides]]'' (C.A. Gardner) Pedley     
+*''[[Acacia daweana|Racosperma daweanum]]'' (Maslin) Pedley      
+*''[[Acacia declinata|Racosperma declinatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia deficiens|Racosperma deficiens]]'' (Maslin) Pedley      
+*''[[Acacia deflexa|Racosperma deflexum]]'' (Maiden) Pedley                       -->
+*''[[Acacia delibrata|Racosperma delibratum]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia delicatula|Racosperma delicatulum]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia delphina|Racosperma delphinum]]'' (Maslin) Pedley      
+*''[[Acacia demissa|Racosperma demissum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia dempsteri|Racosperma dempsteri]]'' (F. Muell.) Pedley     
+*''[[Acacia densiflora|Racosperma densiflorum]]'' (Morrison) Pedley      
+*''[[Acacia denticulosa|Racosperma denticulosum]]'' (F. Muell.) Pedley     
+*''[[Acacia dentifera|Racosperma dentiferum]]'' (Benth.) Pedley      
+*''[[Acacia depressa|Racosperma depressum]]'' (Maslin) Pedley      
+*''[[Acacia dermatophylla|Racosperma dermatophyllum]]'' (Benth.) Pedley      
+*''[[Acacia desertora|Racosperma desertorum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia diaphana|Racosperma diaphanum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia diaphyllodinea|Racosperma diaphyllodineum]]'' (Maslin) Pedley      
+*''[[Acacia dictyoneura|Racosperma dictyoneurum]]'' (E. Pritz.) Pedley     
+*''[[Acacia didyma|Racosperma didymum]]'' (A.R.O. Chapm. & Maslin) Pedley   
+*''[[Acacia dielsii|Racosperma dielsii]]'' (E. Pritz.) Pedley               <!--
+*''[[Acacia difforme|Racosperma difforme]]'' (R.T. Baker) Pedley     
+*''[[Acacia dilatata|Racosperma dilatatum]]'' (Benth.) Pedley      
+*''[[Acacia diminuta|Racosperma diminutum]]'' (Maslin) Pedley      
+*''[[Acacia disparrima|Racosperma disparrimum]]'' (M.W. McDonald & Maslin) Pedley   
+*''[[Acacia disparrima|Racosperma disparrimum]]'' subsp. calidestre (M.W. McDonald & Maslin) Pedley 
+*''[[Acacia dissimile|Racosperma dissimile]]'' (M.W. McDonald) Pedley     
+*''[[Acacia dissona|Racosperma dissonum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia distans|Racosperma distans]]'' (Maslin) Pedley      
+*''[[Acacia disticha|Racosperma distichum]]'' (Maslin) Pedley      
+*''[[Acacia divergens|Racosperma divergens]]'' (Benth.) Pedley      
+*''[[Acacia dodonaeifolia|Racosperma dodonaeifolium]]'' (Pers.) Pedley      
+*''[[Acacia dolicophylla|Racosperma dolicophyllum]]'' (Maslin) Pedley      
+*''[[Acacia donaldsonii|Racosperma donaldsonii]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia doratoxylon|Racosperma doratoxylon]]'' (A. Cunn.) Pedley     
+*''[[Acacia dorotheae|Racosperma dorotheae]]'' (Maiden) Pedley      
+*''[[Acacia dorsenna|Racosperma dorsennum]]'' (Maslin) Pedley      
+*''[[Acacia drepanophylla|Racosperma drepanophyllum]]'' (Maslin) Pedley      
+*''[[Acacia drewiana|Racosperma drewianum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia dunnii|Racosperma dunnii]]'' (Maiden) Pedley      
+*''[[Acacia durabile|Racosperma durabile]]'' (Maslin) Pedley      
+*''[[Acacia duriuscula|Racosperma duriusculum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia dura|Racosperma durum]]'' (Benth.) Pedley      
+*''[[Acacia echinuliflora|Racosperma echinuliflorum]]'' (G.J. Leach) Pedley     
+*''[[Acacia echinula|Racosperma echinulum]]'' (DC.) Pedley      
+*''[[Acacia effusa|Racosperma effusum]]'' (Maslin) Pedley      
+*''[[Acacia elachantha|Racosperma elachanthum]]'' (M.W. McDonald & Maslin) Pedley   
+*''[[Acacia elongata|Racosperma elongatum]]'' (Sieber ex DC.) Pedley    
+*''[[Acacia empelioclada|Racosperma empeliocladum]]'' (Maslin) Pedley      
+*''[[Acacia enervia|Racosperma enervium]]'' (Maiden & Blakely) Pedley                -->
+*''[[Acacia enterocarpa|Racosperma enterocarpum]]'' (R.V. Sm.) Pedley     
+*''[[Acacia epacantha|Racosperma epacanthum]]'' (Maslin) Pedley                      <!--
+*''[[Acacia epedunculata|Racosperma epedunculatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia ephedroides|Racosperma ephedroides]]'' (Benth.) Pedley      
+*''[[Acacia eremaea|Racosperma eremaeum]]'' (C.R.P. Andrews) Pedley     
+*''[[Acacia eremophila|Racosperma eremophila]]'' (W. Fitzg.) Pedley     
+*''[[Acacia ericifolia|Racosperma ericifolium]]'' (Benth.) Pedley      
+*''[[Acacia ericksoniae|Racosperma ericksoniae]]'' (Maslin) Pedley      
+*''[[Acacia erinacea|Racosperma erinaceum]]'' (Benth.) Pedley      
+*''[[Acacia erioclada|Racosperma eriocladum]]'' (Benth.) Pedley                   -->
+*''[[Acacia eriopoda|Racosperma eriopodum]]'' (Maiden) Pedley      
+*''[[Acacia errabunda|Racosperma errabundum]]'' (Maslin) Pedley      
+*''[[Acacia euthycarpa|Racosperma euthycarpum]]'' (J.M. Black) Pedley     
+*''[[Acacia euthyphylla|Racosperma euthyphyllum]]'' (Maslin) Pedley      
+*''[[Acacia evenulosa|Racosperma evenulosum]]'' (Maslin) Pedley      
+*''[[Acacia excentrica|Racosperma excentricum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia exile|Racosperma exile]]'' (Maslin) Pedley      
+*''[[Acacia exocarpoides|Racosperma exocarpoides]]'' (W. Fitzg.) Pedley     
+*''[[Acacia extensa|Racosperma extensum]]'' (Lindl.) Pedley      
+*''[[Acacia fagonioides|Racosperma fagonioides]]'' (Benth.) Pedley      
+*''[[Acacia farinosa|Racosperma farinosum]]'' (Lindl.) Pedley      
+*''[[Acacia faucia|Racosperma faucium]]'' (Pedley) Pedley      
+*''[[Acacia fauntleroyi|Racosperma fauntleroyi]]'' (Maiden) Pedley      
+*''[[Acacia ferocius|Racosperma ferocius]]'' (Maiden) Pedley      
+*''[[Acacia filamentosa|Racosperma filamentosum]]'' (Maslin) Pedley      
+*''[[Acacia filifolia|Racosperma filifolium]]'' (Benth.) Pedley      
+*''[[Acacia filipes|Racosperma filipes]]'' (Pedley) Pedley      
+*''[[Acacia flabellifolia|Racosperma flabellifolium]]'' (W. Fitzg.) Pedley     
+*''[[Acacia flagelliforme|Racosperma flagelliforme]]'' (Court) Pedley      
+*''[[Acacia flavipila|Racosperma flavipilum]]'' (A.S. George) Pedley     
+*''[[Acacia flocktoniae|Racosperma flocktoniae]]'' (Maiden) Pedley      
+*''[[Acacia fodinale|Racosperma fodinale]]'' (Pedley) Pedley      
+*''[[Acacia formidabile|Racosperma formidabile]]'' (C.A. Gardner ex R.S. Cowan & Maslin) Pedley
+*''[[Acacia forrestiana|Racosperma forrestianum]]'' (Pritz.) Pedley      
+*''[[Acacia forsythii|Racosperma forsythii]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia fragile|Racosperma fragile]]'' (Maiden) Pedley      
+*''[[Acacia frigescens|Racosperma frigescens]]'' (J. H. Willis) Pedley    
+*''[[Acacia fulva|Racosperma fulvum]]'' (Tindale) Pedley      
+*''[[Acacia galeata|Racosperma galeatum]]'' (Maslin) Pedley      
+*''[[Acacia gardneri|Racosperma gardneri]]'' (Maiden) Pedley      
+*''[[Acacia gelasina|Racosperma gelasinum]]'' (Maslin) Pedley      
+*''[[Acacia gemina|Racosperma geminum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia genistifolia|Racosperma genistifolium]]'' (Link) Pedley      
+*''[[Acacia gibbosa|Racosperma gibbosum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia gilbertii|Racosperma gilbertii]]'' (Meisn.) Pedley      
+*''[[Acacia gilesiana|Racosperma gilesianum]]'' (F. Muell.) Pedley     
+*''[[Acacia gillii|Racosperma gillii]]'' (Maiden) Pedley      
+*''[[Acacia gladiiforme|Racosperma gladiiforme]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia glandulicarpa|Racosperma glandulicarpum]]'' (Reader) Pedley      
+*''[[Acacia glaucissima|Racosperma glaucissimum]]'' (Maslin) Pedley      
+*''[[Acacia glaucocaesia|Racosperma glaucocaesium]]'' (Domin) Pedley      
+*''[[Acacia glaucoptera|Racosperma glaucopterum]]'' (Benth.) Pedley      
+*''[[Acacia gloeotricha|Racosperma gloeotrichum]]'' (A.R.O. Chapm. & Maslin) Pedley   
+*''[[Acacia glutinosissima|Racosperma glutinosissimum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia gonocarpa|Racosperma gonocarpum]]'' (F. Muell.) Pedley     
+*''[[Acacia gonophylla|Racosperma gonophyllum]]'' (Benth.) Pedley      
+*''[[Acacia gordonii|Racosperma gordonii]]'' (Tindale) Pedley      
+*''[[Acacia gracilenta|Racosperma gracilentum]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia gracilifolia|Racosperma gracilifolium]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia gracillima|Racosperma gracillimum]]'' (Tindale) Pedley      
+*''[[Acacia graniticola|Racosperma graniticola]]'' (Maslin) Pedley      
+*''[[Acacia grasbyi|Racosperma grasbyi]]'' (Maiden) Pedley      
+*''[[Acacia × grayanum|Racosperma × grayanum]]'' (J. H. Willis) Pedley          <!--   
+*''[[Acacia gregorii|Racosperma gregorii]]'' (F. Muell.) Pedley     
+*''[[Acacia grisea|Racosperma griseum]]'' (S. Moore) Pedley     
+*''[[Acacia guinetii|Racosperma guinetii]]'' (Maslin) Pedley      
+*''[[Acacia hadrophylla|Racosperma hadrophyllum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia halliana|Racosperma hallianum]]'' (Maslin) Pedley      
+*''[[Acacia hamersleyense|Racosperma hamersleyense]]'' (Maslin) Pedley      
+*''[[Acacia hamiltoniana|Racosperma hamiltonianum]]'' (Maiden) Pedley      
+*''[[Acacia harveyi|Racosperma harveyi]]'' (Benth.) Pedley      
+*''[[Acacia hastulata|Racosperma hastulatum]]'' (Sm.) Pedley      
+*''[[Acacia havilandiora|Racosperma havilandiorum]]'' (Maiden) Pedley      
+*''[[Acacia helicophylla|Racosperma helicophyllum]]'' (Pedley) Pedley      -->
+*''[[Acacia helmsiana|Racosperma helmsianum]]'' (Maiden) Pedley      
+*''[[Acacia hemiteles|Racosperma hemiteles]]'' (Benth.) Pedley      
+*''[[Acacia hendersonii|Racosperma hendersonii]]'' (Pedley) Pedley      
+*''[[Acacia heterochroa|Racosperma heterochroa]]'' (Maslin) Pedley      
+*''[[Acacia heteroclita|Racosperma heteroclitum]]'' (Meisn.) Pedley      
+*''[[Acacia heteroneura|Racosperma heteroneurum]]'' (Benth.) Pedley      
+*''[[Acacia heterophylla|Racosperma heterophyllum]]'' (Lam.) Pedley      
+*''[[Acacia hexaneura|Racosperma hexaneurum]]'' (P. Lang & R.S. Cowan) Pedley  
+*''[[Acacia hippuroides|Racosperma hippuroides]]'' (Heward ex Benth.) Pedley    
+*''[[Acacia hispidula|Racosperma hispidulum]]'' (Sm.) Pedley      
+*''[[Acacia hopperiana|Racosperma hopperianum]]'' (Maslin) Pedley      
+*''[[Acacia horridula|Racosperma horridulum]]'' (Meisn.) Pedley      
+*''[[Acacia howittii|Racosperma howittii]]'' (F. Muell.) Pedley     
+*''[[Acacia huegelii|Racosperma huegelii]]'' (Benth.) Pedley      
+*''[[Acacia hypermeces|Racosperma hypermeces]]'' (A.S. George) Pedley     
+*''[[Acacia hystrix|Racosperma hystrix]]'' (Maslin) Pedley      
+*''[[Acacia idiomorpha|Racosperma idiomorphum]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia imbricata|Racosperma imbricatum]]'' (F. Muell.) Pedley     
+*''[[Acacia imitans|Racosperma imitans]]'' (Maslin) Pedley      
+*''[[Acacia imparile|Racosperma imparile]]'' (Maslin) Pedley      
+*''[[Acacia improcera|Racosperma improcerum]]'' (Maslin) Pedley      
+*''[[Acacia inaequilatera|Racosperma inaequilaterum]]'' (Domin) Pedley                      <!--     
+*''[[Acacia inaequiloba|Racosperma inaequilobum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia inamabile|Racosperma inamabile]]'' (E. Pritz.) Pedley     
+*''[[Acacia incanicarpa|Racosperma incanicarpum]]'' (A.R.O. Chapm. & Maslin) Pedley   
+*''[[Acacia inceana|Racosperma inceanum]]'' (Domin) Pedley      
+*''[[Acacia incongesta|Racosperma incongestum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia incrassata|Racosperma incrassatum]]'' (Hook.) Pedley      
+*''[[Acacia incurva|Racosperma incurvum]]'' (Benth.) Pedley      
+*''[[Acacia ingramii|Racosperma ingramii]]'' (Tindale) Pedley      
+*''[[Acacia ingrata|Racosperma ingratum]]'' (Benth.) Pedley      
+*''[[Acacia inophloia|Racosperma inophloia]]'' (Maiden) Pedley      
+*''[[Acacia inops|Racosperma inops]]'' (Maiden) Pedley      
+*''[[Acacia insolita|Racosperma insolitum]]'' (E. Pritz.) Pedley     
+*''[[Acacia intorta|Racosperma intortum]]'' (Maslin) Pedley      
+*''[[Acacia intricata|Racosperma intricatum]]'' (S. Moore) Pedley     
+*''[[Acacia isoneura|Racosperma isoneurum]]'' (Maslin & A.R.O. Chapm.) Pedley   
+*''[[Acacia isoneura|Racosperma isoneurum]]'' subsp. nimium (Maslin & A.R.O. Chapm.) Pedley 
+*''[[Acacia iteaphylla|Racosperma iteaphyllum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia jacksonioides|Racosperma jacksonioides]]'' (Maslin) Pedley      
+*''[[Acacia jamesiana|Racosperma jamesianum]]'' (Maslin) Pedley      
+*''[[Acacia jasperense|Racosperma jasperense]]'' (Maconochie) Pedley      
+*''[[Acacia jennerae|Racosperma jennerae]]'' (Maiden) Pedley      
+*''[[Acacia jensenii|Racosperma jensenii]]'' (Maiden) Pedley      
+*''[[Acacia jibberdingense|Racosperma jibberdingense]]'' (Maiden) Pedley      
+*''[[Acacia johannis|Racosperma johannis]]'' (Pedley) Pedley      
+*''[[Acacia jonesii|Racosperma jonesii]]'' (F. Muell. & Maiden) Pedley   
+*''[[Acacia kalgoorliense|Racosperma kalgoorliense]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia kelleri|Racosperma kelleri]]'' (F. Muell.) Pedley     
+*''[[Acacia kenneallyi|Racosperma kenneallyi]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia kerryana|Racosperma kerryanum]]'' (Maslin) Pedley      
+*''[[Acacia kettlewelliae|Racosperma kettlewelliae]]'' (Maiden) Pedley      
+*''[[Acacia kimberleyense|Racosperma kimberleyense]]'' (W. Fitzg. ex Maiden) Pedley        -->   
+*''[[Acacia kingiana|Racosperma kingianum]]'' (Maiden) Pedley      
+*''[[Acacia kochii|Racosperma kochii]]'' (W. Fitzg. ex Ewart & Jean White) Pedley     <!--
+*''[[Acacia kybeanense|Racosperma kybeanense]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia kydrense|Racosperma kydrense]]'' (Tindale) Pedley      
+*''[[Acacia lacertense|Racosperma lacertense]]'' (Pedley) Pedley      
+*''[[Acacia lachnophylla|Racosperma lachnophyllum]]'' (F. Muell.) Pedley     
+*''[[Acacia lamprocarpa|Racosperma lamprocarpum]]'' (O. Schwarz) Pedley     
+*''[[Acacia lanceolata|Racosperma lanceolatum]]'' (Maslin) Pedley      
+*''[[Acacia lanei|Racosperma lanei]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia lanuginophylla|Racosperma lanuginophyllum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia laricina|Racosperma laricinum]]'' (Meisn.) Pedley      
+*''[[Acacia lasiocalyx|Racosperma lasiocalyx]]'' (C.R.P. Andrews) Pedley     
+*''[[Acacia lasiocarpa|Racosperma lasiocarpum]]'' (Benth.) Pedley      
+*''[[Acacia lateriticola|Racosperma lateriticola]]'' (Maslin) Pedley      
+*''[[Acacia latipes|Racosperma latipes]]'' (Benth.) Pedley      
+*''[[Acacia latzii|Racosperma latzii]]'' (Maslin) Pedley      
+*''[[Acacia leioderma|Racosperma leiodermum]]'' (Maslin) Pedley                       -->
+*''[[Acacia leiophylla|Racosperma leiophyllum]]'' (Benth.) Pedley      
+*''[[Acacia lentiginea|Racosperma lentigineum]]'' (Maiden) Pedley      
+*''[[Acacia leprosa|Racosperma leprosum]]'' (Sieber ex DC.) Pedley    
+*''[[Acacia leptalea|Racosperma leptaleum]]'' (Maslin) Pedley      
+*''[[Acacia leptoclada|Racosperma leptoclada]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia leptoneura|Racosperma leptoneurum]]'' (Benth.) Pedley      
+*''[[Acacia leptopetala|Racosperma leptopetalum]]'' (Benth.) Pedley      
+*''[[Acacia leptophleba|Racosperma leptophlebum]]'' (F. Muell.) Pedley     
+*''[[Acacia leptospermoides|Racosperma leptospermoides]]'' (Benth.) Pedley      
+*''[[Acacia leucolobia|Racosperma leucolobium]]'' (Sweet) Pedley      
+*''[[Acacia levata|Racosperma levatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia ligustrina|Racosperma ligustrinum]]'' (Meisn.) Pedley      
+*''[[Acacia linarioides|Racosperma linarioides]]'' (Benth.) Pedley      
+*''[[Acacia linearifolia|Racosperma linearifolium]]'' (A. Cunn. ex Maiden & Blakely) Pedley 
+*''[[Acacia lineolata|Racosperma lineolatum]]'' (Benth. ex Schltdl.) Pedley    
+*''[[Acacia linifolia|Racosperma linifolium]]'' (Vent.) Pedley      
+*''[[Acacia lirellata|Racosperma lirellatum]]'' (Maslin & A.R.O. Chapm.) Pedley   
+*''[[Acacia lirellata|Racosperma lirellatum]]'' subsp. compressum (Maslin & A.R.O. Chapm.) Pedley 
+*''[[Acacia lobulata|Racosperma lobulatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia loderi|Racosperma loderi]]'' (Maiden) Pedley      
+*''[[Acacia longifolia|Racosperma longifolium]]'' (Andrews) Pedley      
+*''[[Acacia longiphyllodinea|Racosperma longiphyllodineum]]'' (Maiden) Pedley      <!--
+*''[[Acacia longispinea|Racosperma longispineum]]'' (Morrison) Pedley      
+*''[[Acacia loxophylla|Racosperma loxophyllum]]'' (Benth.) Pedley      
+*''[[Acacia lucasii|Racosperma lucasii]]'' (Blakely) Pedley      
+*''[[Acacia lullfitziora|Racosperma lullfitziorum]]'' (Maslin) Pedley      
+*''[[Acacia lunata|Racosperma lunatum]]'' (G. Lodd.) Pedley     
+*''[[Acacia luteola|Racosperma luteolum]]'' (Maslin) Pedley      
+*''[[Acacia lysiphloia|Racosperma lysiphloia]]'' (F. Muell.) Pedley     
+*''[[Acacia mabellae|Racosperma mabellae]]'' (Maiden) Pedley      
+*''[[Acacia mackeyana|Racosperma mackeyanum]]'' (Ewart & Jean White) Pedley   
+*''[[Acacia macnuttiana|Racosperma macnuttianum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia maconochieana|Racosperma maconochieanum]]'' (Pedley) Pedley      
+*''[[Acacia malloclada|Racosperma mallocladum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia manipulare|Racosperma manipulare]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia marramamba|Racosperma marramamba]]'' (Maslin) Pedley      
+*''[[Acacia masliniana|Racosperma maslinianum]]'' (R.S. Cowan) Pedley     
+*''[[Acacia mathuataense|Racosperma mathuataense]]'' (A.C. Sm.) Pedley     
+*''[[Acacia matthewii|Racosperma matthewii]]'' (Tindale & S. Davies) Pedley   
+*''[[Acacia maxwellii|Racosperma maxwellii]]'' (Maiden) Pedley      
+*''[[Acacia megacephala|Racosperma megacephalum]]'' (Maslin) Pedley              -->
+*''[[Acacia meiantha|Racosperma meianthum]]'' (Tindale & Herscovitch) Pedley    
+*''[[Acacia meiosperma|Racosperma meiospermum]]'' Pedley       
+*''[[Acacia meisneri|Racosperma meisneri]]'' (Lehm. ex Meisn.) Pedley           <!--
+*''[[Acacia menzelii|Racosperma menzelii]]'' (J.M. Black) Pedley     
+*''[[Acacia merinthophora|Racosperma merinthophorum]]'' (E. Pritz.) Pedley     
+*''[[Acacia merrallii|Racosperma merrallii]]'' (F. Muell.) Pedley     
+*''[[Acacia merrickiae|Racosperma merrickiae]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia microbotrya|Racosperma microbotryum]]'' (Benth.) Pedley      
+*''[[Acacia microcalyx|Racosperma microcalyx]]'' (Maslin) Pedley      
+*''[[Acacia microcarpa|Racosperma microcarpum]]'' (F. Muell.) Pedley     
+*''[[Acacia microneura|Racosperma microneurum]]'' (Meisn.) Pedley      
+*''[[Acacia midgleyi|Racosperma midgleyi]]'' (M.W. McDonald & Maslin) Pedley   
+*''[[Acacia mimica|Racosperma mimicum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia minutifolia|Racosperma minutifolium]]'' (F. Muell.) Pedley     
+*''[[Acacia minyura|Racosperma minyura]]'' (Randell) Pedley                     -->
+*''[[Acacia mitchellii|Racosperma mitchellii]]'' (Benth.) Pedley      
+*''[[Acacia mitodes|Racosperma mitodes]]'' (A.S. George) Pedley     
+*''[[Acacia moirii|Racosperma moirii]]'' (E. Pritz.) Pedley     
+*''[[Acacia mollifolia|Racosperma mollifolium]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia mooreana|Racosperma mooreanum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia mountfordiae|Racosperma mountfordiae]]'' (Specht) Pedley      
+*''[[Acacia mucronata|Racosperma mucronatum]]'' (Willd. ex H.L. Wendl.) Pedley   
+*''[[Acacia multispicata|Racosperma multispicatum]]'' (Benth.) Pedley      
+*''[[Acacia multistipulosa|Racosperma multistipulosum]]'' (Tindale & Bedward) Pedley    
+*''[[Acacia mutabile|Racosperma mutabile]]'' (Maslin) Pedley      
+*''[[Acacia myrtifolia|Racosperma myrtifolium]]'' (Sm.) Pedley      
+*''[[Acacia nanodealbata|Racosperma nanodealbatum]]'' (J. H. Willis) Pedley    
+*''[[Acacia nematophylla|Racosperma nematophyllum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia nervosa|Racosperma nervosum]]'' (DC.) Pedley      
+*''[[Acacia neurocarpa|Racosperma neurocarpum]]'' (A. Cunn. ex Hook.) Pedley   
+*''[[Acacia neurophylla|Racosperma neurophyllum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia newbeyi|Racosperma newbeyi]]'' (Maslin) Pedley      
+*''[[Acacia nigricans|Racosperma nigricans]]'' (Labill.) Pedley      
+*''[[Acacia nigripilosa|Racosperma nigripilosum]]'' (Maiden) Pedley      
+*''[[Acacia nitidula|Racosperma nitidulum]]'' (Benth.) Pedley      
+*''[[Acacia nivea|Racosperma niveum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia nodiflora|Racosperma nodiflorum]]'' (Benth.) Pedley      
+*''[[Acacia notablile|Racosperma notablile]]'' (F. Muell.) Pedley     
+*''[[Acacia nyssophylla|Racosperma nyssophyllum]]'' (F. Muell.) Pedley     
+*''[[Acacia obesa|Racosperma obesum]]'' (Cowan & Maslin) Pedley    
+*''[[Acacia obliquinervia|Racosperma obliquinervium]]'' (Tindale) Pedley      
+*''[[Acacia obovata|Racosperma obovatum]]'' (Benth.) Pedley      
+*''[[Acacia obtecta|Racosperma obtectum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia obtusata|Racosperma obtusatum]]'' (Sieber ex DC.) Pedley    
+*''[[Acacia octonervia|Racosperma octonervium]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia oldfieldii|Racosperma oldfieldii]]'' (F. Muell.) Pedley     
+*''[[Acacia oligoneura|Racosperma oligoneurum]]'' (F. Muell.) Pedley     
+*''[[Acacia olsenii|Racosperma olsenii]]'' (Tindale) Pedley      
+*''[[Acacia ommatosperma|Racosperma ommatospermum]]'' Pedley       
+*''[[Acacia oncinocarpa|Racosperma oncinocarpum]]'' (Benth.) Pedley      
+*''[[Acacia oncinophylla|Racosperma oncinophyllum]]'' (Benth.) Pedley      
+*''[[Acacia ophiolithica|Racosperma ophiolithicum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia orbifolia|Racosperma orbifolium]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia orthotricha|Racosperma orthotrichum]]'' (Pedley) Pedley      
+*''[[Acacia oxycedrus|Racosperma oxycedrus]]'' (Sieber ex DC.) Pedley    
+*''[[Acacia oxyclada|Racosperma oxycladum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia pachyacra|Racosperma pachyacrum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia pachycarpa|Racosperma pachycarpum]]'' (F. Muell.) Pedley     
+*''[[Acacia pachyphylla|Racosperma pachyphyllum]]'' (Maslin) Pedley      
+*''[[Acacia pachypoda|Racosperma pachypodum]]'' (Maslin) Pedley      
+*''[[Acacia palustre|Racosperma palustre]]'' (Luehm.) Pedley      
+*''[[Acacia paniculata|Racosperma paniculatum]]'' Pedley       
+*''[[Acacia papulosa|Racosperma papulosum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia papyrocarpa|Racosperma papyrocarpum]]'' (Benth.) Pedley      
+*''[[Acacia paradoxa|Racosperma paradoxum]]'' (DC.) Pedley      
+*''[[Acacia paraneura|Racosperma paraneurum]]'' (Randell) Pedley             <!--
+*''[[Acacia parramattense|Racosperma parramattense]]'' (Tindale) Pedley      
+*''[[Acacia parvipinnula|Racosperma parvipinnulum]]'' (Tindale) Pedley      
+*''[[Acacia pataczekii|Racosperma pataczekii]]'' (D.I. Morris) Pedley     
+*''[[Acacia patagiata|Racosperma patagiatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia paula|Racosperma paulum]]'' (Tindale & S. Davies) Pedley   
+*''[[Acacia pedina|Racosperma pedinum]]'' (Kodela & Tame) Pedley    
+*''[[Acacia pedleyi|Racosperma pedleyi]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia pellita|Racosperma pellitum]]'' (O. Schwarz) Pedley     
+*''[[Acacia pelophila|Racosperma pelophilum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia pentadenia|Racosperma pentadenia]]'' (Lindl.) Pedley      
+*''[[Acacia peregrinale|Racosperma peregrinale]]'' (M.W. McDonald) Pedley     
+*''[[Acacia phaeocalyx|Racosperma phaeocalyx]]'' (Maslin) Pedley      
+*''[[Acacia pharangites|Racosperma pharangites]]'' (Maslin) Pedley              -->
+*''[[Acacia phasmoides|Racosperma phasmoides]]'' (J. H. Willis) Pedley    
+*''[[Acacia phlebopetala|Racosperma phlebopetalum]]'' (Maslin) Pedley      
+*''[[Acacia phlebophylla|Racosperma phlebophyllum]]'' (H.B. Williamson) Pedley     
+*''[[Acacia pickardii|Racosperma pickardii]]'' (Tindale) Pedley      
+*''[[Acacia piligera|Racosperma piligerum]]'' (A. Cunn.) Pedley     
+*''[[Acacia pilligaense|Racosperma pilligaense]]'' (Maiden) Pedley      
+*''[[Acacia pinguiculosa|Racosperma pinguiculosum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia pinguifolia|Racosperma pinguifolium]]'' (J.M. Black) Pedley     
+*''[[Acacia plautella|Racosperma plautellum]]'' (Maslin) Pedley      
+*''[[Acacia plicata|Racosperma plicatum]]'' (Maslin) Pedley      
+*''[[Acacia poliochroa|Racosperma poliochroa]]'' (E. Pritz.) Pedley                <!--
+*''[[Acacia polyadenia|Racosperma polyadenium]]'' Pedley       
+*''[[Acacia porcata|Racosperma porcatum]]'' (P.I. Forst.) Pedley     
+*''[[Acacia praelongata|Racosperma praelongatum]]'' (F. Muell.) Pedley     
+*''[[Acacia praemorsa|Racosperma praemorsum]]'' (P. Lang & Maslin) Pedley   
+*''[[Acacia praetermissa|Racosperma praetermissum]]'' (Tindale) Pedley      
+*''[[Acacia prainii|Racosperma prainii]]'' (Maiden) Pedley      
+*''[[Acacia preissiana|Racosperma preissianum]]'' (Meisn.) Pedley      
+*''[[Acacia prismifolia|Racosperma prismifolium]]'' (E. Pritz.) Pedley     
+*''[[Acacia pritzeliana|Racosperma pritzelianum]]'' (C.A. Gardner) Pedley     
+*''[[Acacia producta|Racosperma productum]]'' (Tindale) Pedley      
+*''[[Acacia profusa|Racosperma profusum]]'' (Maslin) Pedley      
+*''[[Acacia proiantha|Racosperma proianthum]]'' (Pedley) Pedley                  -->
+*''[[Acacia prominens|Racosperma prominens]]'' (A. Cunn. ex G. Don) Pedley  
+*''[[Acacia proxima|Racosperma proximum]]'' (Maiden) Pedley      
+*''[[Acacia pruinocarpa|Racosperma pruinocarpum]]'' (Tindale) Pedley      
+*''[[Acacia pterocaulon|Racosperma pterocaulon]]'' (Maslin) Pedley      
+*''[[Acacia ptychoclada|Racosperma ptychocladum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia ptychophylla|Racosperma ptychophyllum]]'' (F. Muell.) Pedley     
+*''[[Acacia pubescens|Racosperma pubescens]]'' (Vent.) Pedley      
+*''[[Acacia pulviniforme|Racosperma pulviniforme]]'' (Maiden) Pedley      
+*''[[Acacia puncticulata|Racosperma puncticulatum]]'' (Maslin) Pedley      
+*''[[Acacia pusilla|Racosperma pusillum]]'' (Maslin) Pedley      
+*''[[Acacia pustula|Racosperma pustulum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia pycnantha|Racosperma pycnanthum]]'' (Benth.) Pedley      
+*''[[Acacia pycnocephala|Racosperma pycnocephalum]]'' (Maslin) Pedley      
+*''[[Acacia pygmaea|Racosperma pygmaeum]]'' (Maslin) Pedley      
+*''[[Acacia pyrifolia|Racosperma pyrifolium]]'' (DC.) Pedley      
+*''[[Acacia quadrimargina|Racosperma quadrimarginum]]'' (F. Muell.) Pedley     
+*''[[Acacia quadrisulcata|Racosperma quadrisulcatum]]'' (F. Muell.) Pedley     <!--  
+*''[[Acacia quinquenervia|Racosperma quinquenervium]]'' (Maslin) Pedley      
+*''[[Acacia quornense|Racosperma quornense]]'' (J.M. Black) Pedley     
+*''[[Acacia recurvata|Racosperma recurvatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia redolens|Racosperma redolens]]'' (Maslin) Pedley      
+*''[[Acacia rendlei|Racosperma rendlei]]'' (Maiden) Pedley      
+*''[[Acacia repanda|Racosperma repandum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia repens|Racosperma repens]]'' (A.S. George) Pedley     
+*''[[Acacia resinimarginea|Racosperma resinimargineum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia resinistipulea|Racosperma resinistipuleum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia resinosa|Racosperma resinosum]]'' (R.S. Cowan & Maslin) Pedley     -->
+*''[[Acacia restiacea|Racosperma restiaceum]]'' (Benth.) Pedley      
+*''[[Acacia retinerve|Racosperma retinerve]]'' (Benth.) Pedley      
+*''[[Acacia retrorsa|Racosperma retrorsum]]'' (Meisn.) Pedley      
+*''[[Acacia rhamphophylla|Racosperma rhamphophyllum]]'' (Maslin) Pedley      
+*''[[Acacia rhetinocarpa|Racosperma rhetinocarpum]]'' (J.M. Black) Pedley     
+*''[[Acacia rhigiophylla|Racosperma rhigiophyllum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia rhodophloia|Racosperma rhodophloia]]'' (Maslin) Pedley      
+*''[[Acacia richardsii|Racosperma richardsii]]'' (Maslin) Pedley      
+*''[[Acacia richii|Racosperma richii]]'' (A. Gray) Pedley     
+*''[[Acacia ridleyana|Racosperma ridleyanum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia rigescens|Racosperma rigescens]]'' (Tindale & Bedward) Pedley    
+*''[[Acacia rigida|Racosperma rigidum]]'' (Maslin) Pedley      
+*''[[Acacia rivale|Racosperma rivale]]'' (J.M. Black) Pedley     
+*''[[Acacia robiniae|Racosperma robiniae]]'' (Maslin) Pedley      
+*''[[Acacia rossei|Racosperma rossei]]'' (F. Muell.) Pedley     
+*''[[Acacia rostellata|Racosperma rostellatum]]'' (Maslin) Pedley      
+*''[[Acacia rostellifera|Racosperma rostelliferum]]'' (Benth.) Pedley      
+*''[[Acacia roycei|Racosperma roycei]]'' (Maslin) Pedley                     <!--
+*''[[Acacia rubricola|Racosperma rubricola]]'' (Pedley) Pedley      
+*''[[Acacia rupicloa|Racosperma rupicloa]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia ryaniana|Racosperma ryanianum]]'' (Maslin) Pedley      
+*''[[Acacia sabulosa|Racosperma sabulosum]]'' (Maslin) Pedley      
+*''[[Acacia saliciforme|Racosperma saliciforme]]'' (Tindale) Pedley      
+*''[[Acacia saxatilis|Racosperma saxatilis]]'' (S. Moore) Pedley     
+*''[[Acacia scabra|Racosperma scabrum]]'' (Benth.) Pedley      
+*''[[Acacia scalena|Racosperma scalenum]]'' (Maslin) Pedley      
+*''[[Acacia scalpelliforme|Racosperma scalpelliforme]]'' (Meisn.) Pedley      -->
+*''[[Acacia schinoides|Racosperma schinoides]]'' (Benth.) Pedley      
+*''[[Acacia sciophanes|Racosperma sciophanes]]'' (Maslin) Pedley      
+*''[[Acacia scirpifolia|Racosperma scirpifolia]]'' (Meisn.) Pedley      
+*''[[Acacia scleroclada|Racosperma sclerocladum]]'' (Maslin) Pedley      
+*''[[Acacia sclerophylla|Racosperma sclerophyllum]]'' (Lindl.) Pedley      
+*''[[Acacia sclerosperma|Racosperma sclerospermum]]'' (F. Muell.) Pedley     
+*''[[Acacia scopulora|Racosperma scopulorum]]'' (Pedley) Pedley              <!--
+*''[[Acacia seclusa|Racosperma seclusum]]'' (M.W. McDonald) Pedley     
+*''[[Acacia sedifolia|Racosperma sedifolium]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia semicircinale|Racosperma semicircinale]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia semitrullata|Racosperma semitrullatum]]'' (Maslin) Pedley      
+*''[[Acacia sericata|Racosperma sericatum]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia sericocarpa|Racosperma sericocarpum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia sericoflora|Racosperma sericoflorum]]'' (Pedley) Pedley      
+*''[[Acacia serpentinicola|Racosperma serpentinicola]]'' (Maslin) Pedley      
+*''[[Acacia sertiforme|Racosperma sertiforme]]'' (A. Cunn.) Pedley     
+*''[[Acacia sessile|Racosperma sessile]]'' (Benth.) Pedley      
+*''[[Acacia sessilispica|Racosperma sessilispicum]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia setulifera|Racosperma setuliferum]]'' (Benth.) Pedley      
+*''[[Acacia shuttleworthii|Racosperma shuttleworthii]]'' (Meisn.) Pedley      
+*''[[Acacia sibilans|Racosperma sibilans]]'' (Maslin) Pedley      
+*''[[Acacia sibina|Racosperma sibinum]]'' (Maslin) Pedley      
+*''[[Acacia sibirica|Racosperma sibiricum]]'' (S. Moore) Pedley     
+*''[[Acacia siculiforme|Racosperma siculiforme]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia signata|Racosperma signatum]]'' (F. Muell.) Pedley     
+*''[[Acacia silvestre|Racosperma silvestre]]'' (Tindale) Pedley      
+*''[[Acacia simmonsiana|Racosperma simmonsianum]]'' (O'Leary & Maslin) Pedley       -->
+*''[[Acacia simplex|Racosperma simplex]]'' (Sparrm.) Pedley      
+*''[[Acacia simulans|Racosperma simulans]]'' (Maslin) Pedley                       <!--
+*''[[Acacia singula|Racosperma singulum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia smeringa|Racosperma smeringum]]'' (A.S. George) Pedley     
+*''[[Acacia solenota|Racosperma solenotum]]'' (Pedley) Pedley      
+*''[[Acacia sorophylla|Racosperma sorophyllum]]'' (E. Pritz.) Pedley     
+*''[[Acacia spathulifolia|Racosperma spathulifolium]]'' (Maslin) Pedley      
+*''[[Acacia speckii|Racosperma speckii]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia sphacelata|Racosperma sphacelatum]]'' (Benth.) Pedley      
+*''[[Acacia sphaerostachya|Racosperma sphaerostachyum]]'' (E. Pritz.) Pedley     
+*''[[Acacia sphenophylla|Racosperma sphenophyllum]]'' (Maslin) Pedley      
+*''[[Acacia spilleriana|Racosperma spillerianum]]'' (J.E. Br.) Pedley     
+*''[[Acacia spinescens|Racosperma spinescens]]'' (Benth.) Pedley      
+*''[[Acacia spinosissima|Racosperma spinosissimum]]'' (Benth. ex Schltdl.) Pedley    
+*''[[Acacia spongolitica|Racosperma spongoliticum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia spooneri|Racosperma spooneri]]'' (O'Leary) Pedley      
+*''[[Acacia squamata|Racosperma squamatum]]'' (Lindl.) Pedley      
+*''[[Acacia startii|Racosperma startii]]'' (A.R.O. Chapm. & Maslin) Pedley   
+*''[[Acacia steedmanii|Racosperma steedmanii]]'' (Maiden) Pedley      
+*''[[Acacia stellaticeps|Racosperma stellaticeps]]'' (Tindale & D. Keith) Pedley           -->
+*''[[Acacia stenoptera|Racosperma stenopterum]]'' (Benth.) Pedley      
+*''[[Acacia stereophylla|Racosperma stereophyllum]]'' (Meisn.) Pedley      
+*''[[Acacia stigmatophylla|Racosperma stigmatophyllum]]'' (A. Cunn. ex Benth.) Pedley   
+*''[[Acacia stricta|Racosperma strictum]]'' (Andrews) Pedley      
+*''[[Acacia suaveolens|Racosperma suaveolens]]'' (Sm.) Pedley      
+*''[[Acacia subcaerulea|Racosperma subcaeruleum]]'' (Lindl.) Pedley                <!--
+*''[[Acacia subflexuosa|Racosperma subflexuosum]]'' (Maiden) Pedley      
+*''[[Acacia subporosa|Racosperma subporosum]]'' (F. Muell.) Pedley     
+*''[[Acacia subracemosa|Racosperma subracemosum]]'' (Maslin) Pedley      
+*''[[Acacia subrigida|Racosperma subrigidum]]'' (Maslin) Pedley      
+*''[[Acacia subsessile|Racosperma subsessile]]'' (A.R.O. Chapm. & Maslin) Pedley   
+*''[[Acacia subternata|Racosperma subternatum]]'' (F. Muell. & Benth.) Pedley       -->   
+*''[[Acacia subtessarogona|Racosperma subtessarogonum]]'' (Tindale & Maslin) Pedley    
+*''[[Acacia subtilinerve|Racosperma subtilinerve]]'' (F. Muell.) Pedley     
+*''[[Acacia subulata|Racosperma subulatum]]'' (Bonpl.) Pedley      
+*''[[Acacia sulcata|Racosperma sulcatum]]'' (R. Br.) Pedley                        <!--
+*''[[Acacia symonii|Racosperma symonii]]'' (Whibley) Pedley       
+*''[[Acacia synchronicia|Racosperma synchronicium]]'' (Maslin) Pedley      
+*''[[Acacia tarculense|Racosperma tarculense]]'' (J.M. Black) Pedley     
+*''[[Acacia tayloriana|Racosperma taylorianum]]'' (F. Muell.) Pedley     
+*''[[Acacia telmica|Racosperma telmicum]]'' (A.R.O. Chapm. & Maslin) Pedley   
+*''[[Acacia tenuispica|Racosperma tenuispicum]]'' (Maslin) Pedley      
+*''[[Acacia tenuius|Racosperma tenuius]]'' (Maiden) Pedley      
+*''[[Acacia teretifolia|Racosperma teretifolium]]'' (Benth.) Pedley      
+*''[[Acacia terminale|Racosperma terminale]]'' (Salisb.) Pedley      
+*''[[Acacia tessellata|Racosperma tessellatum]]'' (Tindale & Kodela) Pedley    
+*''[[Acacia tetanophylla|Racosperma tetanophyllum]]'' (Maslin) Pedley      
+*''[[Acacia tetragonocarpa|Racosperma tetragonocarpum]]'' (Meisn.) Pedley      
+*''[[Acacia tetraneura|Racosperma tetraneurum]]'' (Maslin & A.R.O. Chapm.) Pedley   
+*''[[Acacia tetraptera|Racosperma tetrapterum]]'' (Maslin) Pedley      
+*''[[Acacia thomsonii|Racosperma thomsonii]]'' (Maslin & M.W. McDonald) Pedley   
+*''[[Acacia tingoorense|Racosperma tingoorense]]'' (Pedley) Pedley      
+*''[[Acacia tolmerense|Racosperma tolmerense]]'' (G.J. Leach) Pedley     
+*''[[Acacia toondulya|Racosperma toondulya]]'' (O'Leary) Pedley      
+*''[[Acacia torticarpa|Racosperma torticarpum]]'' (C.A. Gardner ex R.S. Cowan & Maslin) Pedley
+*''[[Acacia trachycarpa|Racosperma trachycarpum]]'' (E. Pritz.) Pedley                           -->
+*''[[Acacia trachyphloia|Racosperma trachyphloia]]'' (Tindale) Pedley      
+*''[[Acacia tratmaniana|Racosperma tratmanianum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia trigonophylla|Racosperma trigonophyllum]]'' (Meisn.) Pedley      
+*''[[Acacia trinale|Racosperma trinale]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia trinervata|Racosperma trinervatum]]'' (Sieber ex DC.) Pedley    
+*''[[Acacia trineura|Racosperma trineurum]]'' (F. Muell.) Pedley     
+*''[[Acacia triptera|Racosperma tripterum]]'' (Benth.) Pedley      
+*''[[Acacia triptycha|Racosperma triptychum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia triquetra|Racosperma triquetrum]]'' (Benth.) Pedley      
+*''[[Acacia truculenta|Racosperma truculentum]]'' (Maslin) Pedley      
+*''[[Acacia trulliforme|Racosperma trulliforme]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia truncata|Racosperma truncatum]]'' (Burm. f.) Pedley     
+*''[[Acacia tuberculata|Racosperma tuberculatum]]'' (Maslin) Pedley      
+*''[[Acacia tumida|Racosperma tumidum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia tysonii|Racosperma tysonii]]'' (Luehm.) Pedley                        <!--
+*''[[Acacia ulicina|Racosperma ulicinum]]'' (Meisn.) Pedley      
+*''[[Acacia uliginosa|Racosperma uliginosum]]'' (Maslin) Pedley      
+*''[[Acacia uncinella|Racosperma uncinellum]]'' (Benth.) Pedley      
+*''[[Acacia undoolyana|Racosperma undoolyanum]]'' (G.J. Leach) Pedley     
+*''[[Acacia undosa|Racosperma undosum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia undulifolia|Racosperma undulifolium]]'' (A. Cunn. ex G. Don) Pedley  
+*''[[Acacia unguiculata|Racosperma unguiculatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia unifissile|Racosperma unifissile]]'' (Court) Pedley      
+*''[[Acacia urophylla|Racosperma urophyllum]]'' (Benth. ex Lindl.) Pedley    
+*''[[Acacia varia|Racosperma varium]]'' (Maslin) Pedley      
+*''[[Acacia vassalii|Racosperma vassalii]]'' (Maslin) Pedley      
+*''[[Acacia veronicae|Racosperma veronicae]]'' (Maslin) Pedley      
+*''[[Acacia verricula|Racosperma verriculum]]'' (R.S. Cowan & Maslin) Pedley         -->
+*''[[Acacia verticillata|Racosperma verticillatum]]'' (L'Hér.) Pedley      
+*''[[Acacia vestita|Racosperma vestitum]]'' (Ker Gawl.) Pedley     
+*''[[Acacia viscifolia|Racosperma viscifolium]]'' (Maiden) Pedley               <!--
+*''[[Acacia vittata|Racosperma vittatum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia volubile|Racosperma volubile]]'' (F. Muell.) Pedley     
+*''[[Acacia wanyu|Racosperma wanyu]]'' (Tindale) Pedley      
+*''[[Acacia warramaba|Racosperma warramaba]]'' (Maslin) Pedley      
+*''[[Acacia wattsiana|Racosperma wattsianum]]'' (F. Muell. ex Benth.) Pedley   
+*''[[Acacia websteri|Racosperma websteri]]'' (Maiden & Blakely) Pedley    
+*''[[Acacia wetarense|Racosperma wetarense]]'' (Pedley) Pedley      
+*''[[Acacia whibleyana|Racosperma whibleyanum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia wilcoxii|Racosperma wilcoxii]]'' (Maslin) Pedley      
+*''[[Acacia wilhelmiana|Racosperma wilhelmianum]]'' (F. Muell.) Pedley     
+*''[[Acacia willdenowiana|Racosperma willdenowianum]]'' (H.L. Wendl.) Pedley     
+*''[[Acacia williamsiana|Racosperma williamsianum]]'' (J.T. Hunter) Pedley     -->
+*''[[Acacia williamsonii|Racosperma williamsonii]]'' (Court) Pedley      
+*''[[Acacia wilsonii|Racosperma wilsonii]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia wiseana|Racosperma wiseanum]]'' (C.A. Gardner) Pedley     
+*''[[Acacia xanthina|Racosperma xanthinum]]'' (Benth.) Pedley      
+*''[[Acacia xanthocarpa|Racosperma xanthocarpum]]'' (R.S. Cowan & Maslin) Pedley   
+*''[[Acacia xerophila|Racosperma xerophilum]]'' (W. Fitzg.) Pedley     
+*''[[Acacia xiphoclada|Racosperma xiphocladum]]'' (Baker) Pedley      
+*''[[Acacia xiphophylla|Racosperma xiphophyllum]]'' (E. Pritz.) Pedley     
+*''[[Acacia yirrkallense|Racosperma yirrkallense]]'' (Specht) Pedley      
+*''[[Acacia yorkrakinense|Racosperma yorkrakinense]]'' (C.A. Gardner) Pedley
+{{div col end}}
+
+==References==
+*Pedley, L. (2002) A conspectus of ''Acacia'' subgen. ''Acacia'' in Australia Austrobaileya 6(2): 177-186.
+*Pedley, L. (2003) A synopsis of ''Racosperma'' C.Mart Austrobaileya 6(3): 445-496.
+{{reflist}}
+
+[[Category:Mimosoideae]]

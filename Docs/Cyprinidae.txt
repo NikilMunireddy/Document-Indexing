@@ -1,0 +1,554 @@
+Cyprinidae
+
+{{citation style|date=January 2011}}
+{{Taxobox
+| name              = Cyprinidae
+| fossil_range      = {{fossil range|55|0|[[Eocene]] - [[Holocene]]}}
+| image             = Cyprinus carpio.jpeg 
+| image_width       = 250px
+| image_caption     = The [[cyprinus carpio|common carp]], ''Cyprinus carpio''
+| regnum            = [[Animalia]]
+| phylum            = [[Chordata]]
+| superclassis      = [[Osteichthyes]]
+| classis           = [[Actinopterygii]]
+| subclassis        = [[Neopterygii]]
+| infraclassis      = [[Teleostei]]
+| superordo         = [[Ostariophysi]]
+| ordo              = [[Cypriniformes]]
+| superfamilia      = ''Cyprinioidea'''
+| familia           = '''Cyprinidae'''
+| subdivision_ranks = [[Subfamilies]]
+| subdivision       =
+[[Acheilognathinae]]<br />
+[[Barbinae]]<br />
+[[Cultrinae]]<br />
+[[Cyprininae]]<br />
+[[Danioninae]]<br />
+[[Gobioninae]]<br />
+[[Hypophthalmichthyinae]]<br />
+[[Labeoninae]] <small>(disputed)</small><br />
+[[Leuciscinae]]<br />
+[[Psilorhynchinae]]<br />
+[[Rasborinae]] <small>(polyphyletic?)</small><br />
+[[Squaliobarbinae]] <small>(disputed)</small><br />
+[[Tincinae]]<br />
+and see [[#Subfamilies and genera|text]]
+}}
+
+'''Cyprinidae ''' is the [[Family (biology)|family]] of freshwater fishes, collectively called  '''cyprinids''', that includes the [[carp]]s, the true [[minnow]]s, and their relatives (for example, the [[barb (fish)|barb]]s and [[barbel (fish)|barbel]]s).  Also commonly called the "'''carp family'''," or "'''minnow family'''," Cyprinidae is the largest known fish family and the largest [[vertebrates|vertebrate animals]] family in general, with about 3,000 living and extinct [[species]] in about 370 [[genus|genera]].<ref name=FB>{{FishBase family | family = Cyprinidae| month = July | year = 2015}}</ref><ref name=CoF>Eschmeyer, W.N., Fong, J.D. (2015) [http://researcharchive.calacademy.org/research/ichthyology/catalog/SpeciesByFamily.asp#Cyprinidae Species by family/subfamily] in the [[Catalog of Fishes]], California Academy of Sciences (retrieved 2 July 2015)</ref> The family belongs to the [[ostariophysi]]an order [[Cypriniformes]], of whose genera and species the cyprinids make more than two-thirds.<ref name=CoF/><ref name=FB/><ref>{{cite book | last = Nelson | first = Joseph | title = Fishes of the World | publisher = John Wiley & Sons | location = Chichester | year = 2006 | isbn = 0-471-25031-7 }}</ref> The family name is derived from the [[Ancient Greek]] ''kyprînos'' (κυπρῖνος, "carp").
+
+[[File:Giant Barb.jpg|thumb|left|[[Giant barb]]s (''Catlocarpio siamensis'') are the largest members of this family.]]
+
+==Biology and ecology==
+Cyprinids are stomachless fish with toothless jaws. Even so, food can be effectively chewed by the gill rakers of the specialized last gill bow. These [[pharyngeal teeth]] allow the fish to make chewing motions against a chewing plate formed by a bony process of the skull. The pharyngeal teeth are species-specific and are used by specialists to determine species. Strong pharyngeal teeth allow fish such as the [[common carp]] and [[ide (fish)|ide]] to eat hard baits such as snails and bivalves.
+
+Hearing is a well-developed sense in the cyprinids since they have the [[Weberian organ]], three specialized vertebral processes that transfer motion of the [[gas bladder]] to the inner ear. The vertebral processes of the Weberian organ also permit a cyprinid to detect changes in motion of the gas bladder due to atmospheric conditions or depth changes. The cyprinids are considered [[physostome]]s because the pneumatic duct is retained in adult stages and the fish are able to gulp air to fill the gas bladder, or they can dispose excess gas to the gut.
+
+Cyprinids are native to [[North America]], [[Africa]], and [[Eurasia]]. The largest known cyprinid is the [[giant barb]] (''Catlocarpio siamensis''), which may grow up to {{convert|3|m|ft|abbr=on}} in length and {{convert|300|kg|lb|abbr=on}} in weight.<ref>{{FishBase species | genus = Catlocarpio | species = siamensis | year = 2015 | month = March}}</ref> The largest North American species is the [[Colorado pikeminnow]] (''Ptychocheilus lucius''), of which individuals up to {{convert|1.8|m|ft|abbr=on}} long<ref>{{FishBase species | genus = Ptychocheilus | species = lucius | year = 2015 | month = March}}</ref> and weighing over {{convert|100|lb|kg|abbr=on|order=flip}} have been recorded.{{citation needed|date=March 2015}} Conversely, many species are smaller than {{convert|5|cm|in|abbr=on|0}}. The [[Smallest organisms#Fish|smallest known fish]] is ''[[Paedocypris progenetica]]'', reaching {{convert|10.3|mm|in|abbr=on}} at the longest.<ref>{{FishBase species | genus = Paedocypris | species = progenetica | year = 2015 | month = March}}</ref>
+
+All fish in this family are [[Oviparity|egg-layers]] and most do not guard their eggs; however, a few species build nests and/or guard the eggs. The bitterlings of subfamily [[Acheilognathinae]] are notable for depositing their eggs in [[bivalve]] molluscs, where the young develop until able to fend for themselves.
+
+Most cyprinids feed mainly on invertebrates and vegetation, probably due to the lack of teeth and stomach, but some species, like the [[Asp (fish)|asp]], are predators that specialize in fish.  Many species, such as the [[ide (fish)|ide]], and the [[common rudd]], prey on small fish when individuals become large enough. Even small species, such as the [[moderlieschen]], are opportunistic predators that will eat larvae of the [[common frog]] in artificial circumstances.
+
+Some cyprinids, such as the [[grass carp]], are specialized herbivores; others, such as the [[common nase]], eat algae and [[biofilm]]s, while others, such as the [[black carp]], specialize in snails, and some, such as the [[silver carp]], are specialized filter feeders. For this reason, cyprinids are often introduced as a management tool to control various factors in the aquatic environment, such as aquatic vegetation and diseases transmitted by snails.
+
+==Relationship with humans==<!-- Please do not change; links exist to this title -->
+[[File:Cyprinids wild capture.png|thumb|300px|right|<center>Wild capture of cyprinids by species in million tonnes, 1950–2009, as reported by the FAO<ref name="faostat">Based on data sourced from the [http://faostat.fao.org/site/629/default.aspx FishStat database]</ref></center>]]
+
+Cyprinids are highly important food fish; they are [[fishing|fished]] and [[fish farming|farmed]] across [[Eurasia]]. In [[land-locked]] countries in particular, cyprinids are often the major species of fish eaten because they make the largest part of [[biomass]] in most water types except for fast-flowing rivers. In Eastern Europe, they are often prepared with traditional methods, such as drying and salting. The prevalence of inexpensive [[frozen food|frozen]] fish products made this less important now than it was in earlier times. Nonetheless, in certain places, they remain popular for food, as well as [[angling|recreational fishing]], and have been deliberately stocked in ponds and lakes for centuries for this reason.<ref>Magri MacMahon (1946): pp.149-152</ref>
+
+Cyprinids are popular for angling especially for [[match fishing]] (due to their dominance in biomass and numbers) and fishing for [[common carp]] because of its size and strength.
+
+Several cyprinids have been introduced to waters outside their natural ranges to provide food, sport, or biological control for some [[pest (organism)|pest]] species. The common carp (''Cyprinus carpio'') and the grass carp (''Ctenopharyngodon idella'') are the most important of these, for example in [[Florida]]. In some cases, such as the [[Asian carp]] in the [[Mississippi Basin]], they have become [[invasive species]] that compete with native fishes or disrupt the environment. Carp in particular can stir up [[sediment]], reducing the clarity of the water and making it difficult for plants to grow.<ref>GSMFC (2005), FFWCC [2008]</ref>
+
+Numerous cyprinids have become important in the [[fishkeeping|aquarium and fishpond]] hobbies, most famously the [[goldfish]], which was bred in China from the [[Prussian carp]] (''Carassius (auratus) gibelio''). First imported into Europe around 1728, it was much fancied by Chinese nobility as early as 1150{{nbsp}}AD and after it arrived there in 1502, also in [[Japan]]. In the latter country, from the 18th century onwards, the common carp was bred into the ornamental variety known as [[koi]] &ndash; or more accurately ''nishikigoi'' (錦鯉), as ''koi'' (鯉) simply means "common carp" in [[Japanese language|Japanese]].
+
+Other popular aquarium cyprinids include [[danionin]]s, [[danionin|rasborines]], and [[Barbinae|true barbs]].<ref>Riehl & Baensch (1996): p.410</ref> Larger species are bred by the thousands in outdoor ponds, particularly in [[Southeast Asia]], and trade in these aquarium fishes is of considerable commercial importance. The small rasborines and danionines are perhaps only rivalled by [[characid]]s and [[Poeciliidae|poecilid livebearers]] in their popularity for [[Community aquarium|community aquaria]].{{citation needed|date=April 2012}}
+
+One particular species of these small and undemanding danionines is the [[zebrafish]] (''Danio rerio''). It has become the standard [[model species]] for studying developmental genetics of [[vertebrate]]s, in particular fish.<ref>Helfman ''et al.'' (1997): p.228</ref>
+
+[[Habitat destruction]] and other causes have reduced the wild stocks of several cyprinids to dangerously low levels; some are already entirely [[extinct]]. In particular, the cyprinids of the subfamily [[Leuciscinae]] from southwestern North America have been hit hard by [[pollution]] and unsustainable water use in the early to mid-20th century; most globally extinct [[Cypriniformes|cypriniform]] species are in fact leuciscinid cyprinids from the southwestern United States and northern Mexico.
+
+==Systematics==
+[[File:Fransenlipper.JPG|thumb|right| [[Rainbow shark]], ''Epalzeorhynchos frenatum'', a somewhat aggressive aquarium fish]]
+
+The massive diversity of cyprinids has so far made it difficult to resolve their [[phylogeny]] in sufficient detail to make assignment to [[subfamilies]] more than tentative in many cases. Some distinct lineages obviously exist &ndash; for example, the [[Cultrinae]] and Leuciscinae, regardless of their exact delimitation, are rather close relatives and stand apart from [[Cyprininae]]{{snds}}but the overall [[systematics]] and [[Taxonomy (biology)|taxonomy]] of the Cyprinidae remain a subject of considerable debate. A large number of [[genera]] are ''[[incertae sedis]]'', too equivocal in their traits and/or too little-studied to permit assignment to a particular subfamily with any certainty.<ref>de Graaf ''et al.'' (2007), He ''et al.'' (2008a,b)</ref>
+
+Part of the solution seems that the delicate rasborines are the core group, consisting of minor lineages that have not shifted far from their [[ecological niche|evolutionary niche]], or have [[coevolution|coevolved]] for millions of years. These are among the most basal lineages of living cyprinids. Other "rasborines" are apparently distributed across the diverse lineages of the family.<ref name = heetal2008a>He ''et al.'' (2008a)</ref>
+
+The validity and circumscription of proposed subfamilies like the [[Labeoninae]] or [[Squaliobarbinae]] also remain doubtful, although the latter do appear to correspond to a distinct lineage. The sometimes-seen grouping of the [[large-headed carp]]s ([[Hypophthalmichthyinae]]) with ''[[Xenocypris]]'', though, seems quite in error. More likely, the latter are part of the Cultrinae.<ref name = heetal2008a />
+
+The entirely [[paraphyletic]] "Barbinae" and the disputed Labeoninae might be better treated as part of the Cyprininae, forming a close-knit group whose internal relationships are still little known. The small African "[[barb (fish)|barb]]s" do not belong in ''[[Barbus]]'' ''[[sensu stricto]]'' &ndash; indeed, they are as distant from the typical [[barbel (fish)|barbel]]s and the [[typical carp]]s (''Cyprinus'') as these are from ''[[Garra]]'' (which is placed in the Labeoninae by most who accept the latter as distinct) and thus might form another as yet unnamed subfamily. However, as noted above, how various minor lineages tie into this has not yet been resolved; therefore, such a radical move, though reasonable, is probably premature.<ref>Howes (1991), de Graaf ''et al.'' (2007), IUCN (2009)</ref>
+
+[[File:FemaleTench1.JPG|thumb|right| The [[tench]], ''Tinca tinca'', is of unclear affiliations and often placed in a [[subfamily]] of its own.]]
+The [[tench]] (''Tinca tinca''), a significant food species farmed in western Eurasia in large numbers, is unusual. It is most often grouped with the Leuciscinae, but even when these were rather loosely circumscribed, it always stood apart. A [[cladistic]] analysis of [[DNA sequence]] data of the S7 [[ribosomal protein]] [[intron]]{{nbsp}}1 supports the view that it is distinct enough to constitute a [[monotypic]] subfamily. It also suggests it may be closer to the small [[East Asia]]n ''[[Aphyocypris]]'', ''[[Hemigrammocypris]]'', and ''[[Yaoshanicus]]''. They would have diverged roughly at the same time from cyprinids of east-central Asia, perhaps as a result of the [[Alpide orogeny]] that vastly changed the [[topography]] of that region in the late [[Paleogene]], when their divergence presumably occurred.<ref name = heetal2008b>He ''et al.'' (2008b)</ref>
+
+A DNA-based analysis of these fish places the Rasborinae as the basal lineage with the Cyprininae as a sister clade to the Leuciscinae.<ref>Tao W, Mayden RL, He S (2012) Remarkable phylogenetic resolution of the most complex clade of Cyprinidae (Teleostei: Cypriniformes): A proof of concept of homology assessment and partitioning sequence data integrated with mixed model Bayesian analyses. Mol Phylogenet Evol pii: S1055-7903(12)00381-8. {{DOI|10.1016/j.ympev.2012.09.024}}</ref> The subfamilies [[Acheilognathinae]], [[Gobioninae]], and [[Leuciscinae]] are monophylitic.
+
+[[File:Acheilognathus longipinnis2.jpg|thumb|right|''[[Acheilognathus longipinnis]]'': [[Acheilognathinae]]]]
+[[File:Danio kerri.jpg|thumb|right|[[Blue danio]], ''Danio kerri'': [[Danioninae]]]]
+[[File:Pseudogobio esocinus(Hamamatsu,Shizuoka,Japan).jpg|thumb|right|''[[Pseudogobio esocinus]]'' , [[Gobioninae]]]]
+[[File:Hypophthalmichthys molitrix adult.jpg|thumb|right|[[Silver carp]], ''Hypophthalmichthys molitrix'': [[Xenocyprinae]], alternatively [[Hypophthalmichthyinae]]]]
+[[File:Labeo rohita.JPG|thumb|right|[[Rohu]], ''Labeo rohita'', of the disputed [[Labeoninae]]]]
+
+==Subfamilies and genera==
+{{col-begin|width=70%}}
+{{col-1-of-2}}
+'''Subfamily [[Acheilognathinae]]''' 
+* ''[[Acanthorhodeus]]'' (spiny bitterlings)
+* ''[[Acheilognathus]]'' (bitterlings)
+* ''[[Paratanakia]]''  (bitterlings) <ref name=Chang2014>{{cite journal | last1 = Chang | first1 = C.-H. | last2 = Li | first2 = F. | last3 = Shao | first3 = K.-T. | last4 = Lin | first4 = Y.-S. | last5 = Morosawa | first5 = T. | last6 = Kim | first6 = S. | last7 = Koo | first7 = H. | last8 = Kim | first8 = W. | last9 = Lee | first9 = J.-S. | last10 = He | first10 = S. | last11 = Smith | first11 = C. | last12 = Reichard | first12 = M. | last13 = Miya | first13 = M. | last14 = Sado | first14 = T. | last15 = Uehara | first15 = K. | last16 = Lavoué | first16 = S. | last17 = Chen | first17 = W.-J. | last18 = Mayden | first18 = R.L. | year = | title = Phylogenetic relationships of Acheilognathidae (Cypriniformes: Cyprinoidea) as revealed from evidence of both nuclear and mitochondrial gene sequence variation: Evidence for necessary taxonomic revision in the family and the identification of cryptic species | url = | journal = Molecular Phylogenetics and Evolution | volume = 81 | issue = | pages = 182–194 | doi=10.1016/j.ympev.2014.08.026}}</ref>
+* ''[[Pseudorhodeus]]'' (bitterlings)  <ref name=Chang2014/>
+* ''[[Rhodeus]]'' (bitterlings)
+* ''[[Tanakia]]'' (bitterlings)
+
+'''Subfamily [[Barbinae]]''' 
+* ''[[Arabibarbus]]'' <ref>{{cite journal | last1 = Borkenhagen | first1 = K | year = 2014 | title = A new genus and species of cyprinid fish (Actinopterygii, Cyprinidae) from the Arabian Peninsula, and its phylogenetic and zoogeographic affinities | url = | journal = Environmental Biology of Fishes | volume = 97 | issue = | pages = 1179–1195 | doi=10.1007/s10641-014-0315-y}}</ref>
+* ''[[Acrossocheilus]]''
+* ''[[Balantiocheilos]]''
+* ''[[Barbus]]'' (typical barbels and barbs)
+* ''[[Carasobarbus]]''
+* ''[[Clypeobarbus]]''
+* ''[[Dawkinsia]]'' <ref name=Pethiyagoda2012>{{cite journal | last1 = Pethiyagoda | first1 = R. | last2 = Meegaskumbura | first2 = M. | last3 = Maduwage | first3 = K. | year = 2012 | title = A synopsis of the South Asian fishes referred to ''Puntius'' (Pisces: Cyprinidae) | url = | journal = Ichthyological Exploration of Freshwaters | volume = 23 | issue = 1| pages = 69–95 }}</ref>
+* ''[[Desmopuntius]]'' <ref name=Kottelat2013>Kottelat, M. (2013): [http://rmbr.nus.edu.sg/rbz/biblio/s27/rbz_S27.pdf The Fishes of the Inland Waters of Southeast Asia: A Catalogue and Core Bibliography of the Fishes Known to Occur in Freshwaters, Mangroves and Estuaries.] ''The Raffles Bulletin of Zoology, 2013, Supplement No. 27: 1–663.''</ref>
+* ''[[Diptychus]]'' &ndash; "snowtrouts"
+* ''[[Haludaria]]'' <ref>{{cite journal | last1 = Pethiyagoda | first1 = R | year = 2013 | title = Haludaria'', a replacement generic name for ''Dravidia'' (Teleostei: Cyprinidae) | url = http://www.mapress.com/zootaxa/2013/f/zt03646p199.pdf | format = PDF | journal = Zootaxa | volume = 3646 | issue = 2| page = 199 | doi=10.11646/zootaxa.3646.2.9}}</ref>
+* ''[[Luciobarbus]]''
+* ''[[Masticbarbus]]''
+* ''[[Mesopotamichthys]]''
+* ''[[Oliotius]]'' <ref name=Kottelat2013/>
+* ''[[Oreichthys]]''
+* ''[[Pethia]]'' <ref name=Pethiyagoda2012/>
+* ''[[Pseudobarbus]]'' (redfins)
+* ''[[Puntigrus]]'' <ref name=Kottelat2013/>
+* ''[[Puntius]]'' (spotted barbs)
+* ''[[Sahyadria]]''
+* ''[[Schizothorax]]'' (snowtrouts)
+* ''[[Sinocyclocheilus]]'' (golden-line fish)
+* ''[[Striuntius]]'' <ref name=Kottelat2013/>
+* ''[[Systomus]]''
+
+'''Subfamily [[Cultrinae]]'''
+* ''[[Anabarilius]]''
+* ''[[Chanodichthys]]''
+* ''[[Culter (genus)|Culter]]''
+* ''[[Cultrichthys]]''
+* ''[[Hemiculter]]'' (sharpbellies)
+* ''[[Ischikauia]]''
+* ''[[Megalobrama]]''
+* ''[[Parabramis]]'' (white Amur bream)
+* ''[[Sinibrama]]''
+* ''[[Toxabramis]]''
+
+'''Subfamily [[Cyprininae]]''' 
+* ''[[Carassioides]]''
+* ''[[Carassius]]'' (Crucian carps and [[goldfish]])
+* ''[[Cyprinus]]'' (typical carps)
+
+'''Subfamily [[Danioninae]]''' 
+* ''[[Amblypharyngodon]]'' (carplets)
+* ''[[Barilius]]''
+* ''[[Betadevario]]''
+* ''[[Boraras]]'' (rasboras)
+* ''[[Brevibora]]'' (rasboras)
+* ''[[Chela (fish)|Chela]]''
+* ''[[Danio]]'' (danios)
+* ''[[Danionella]]''
+* ''[[Devario]]''
+* ''[[Esomus]]'' (flying barbs)
+* ''[[Horadandia]]''
+* ''[[Inlecypris]]''
+* ''[[Kottelatia]]''
+* ''[[Laubuka]]''
+* ''[[Leptocypris]]''
+* ''[[Luciosoma]]''
+* ''[[Malayochela]]''
+* ''[[Mesobola]]''
+* ''[[Microdevario]]''
+* ''[[Microrasbora]]''
+* ''[[Nematabramis]]''
+* ''[[Neobola]]''
+* ''[[Opsaridium]]''
+* ''[[Opsarius]]''
+* ''[[Paedocypris]]''
+* ''[[Pectenocypris]]''
+* ''[[Raiamas]]''
+* ''[[Rasboroides]]''
+* ''[[Salmophasia]]'' (razorbelly minnows)
+* ''[[Securicula]]''
+* ''[[Sundadanio]]''
+* ''[[Trigonostigma]]''
+
+{{col-2-of-2}}
+'''Subfamily [[Gobioninae]]''' 
+* ''[[Coreius]]''
+* ''[[Gnathopogon]]''
+* ''[[Gobio]]'' (typical gudgeons)
+* ''[[Gobiobotia]]''
+* ''[[Gobiocypris]]''
+* ''[[Hemibarbus]]'' (steeds)
+* ''[[Microphysogobio]]''
+* ''[[Pseudogobio]]''
+* ''[[Pseudorasbora]]''
+* ''[[Romanogobio]]''
+* ''[[Sarcocheilichthys]]''
+* ''[[Saurogobio]]''
+* ''[[Squalidus]]''
+
+'''Subfamily [[Labeoninae]]''' 
+* ''[[Bangana]]''
+* ''[[Cirrhinus]]'' (mud carps)
+* ''[[Cophecheilus]]''
+* ''[[Crossocheilus]]''
+* ''[[Discocheilus]]''
+* ''[[Discogobio]]''
+* ''[[Garra]]''
+* ''[[Gonorhynchus]]''
+* ''[[Hongshuia]]''
+* ''[[Labeo]]'' (labeos)
+* ''[[Labeobarbus]]'' (yellowfish)
+* ''[[Labiobarbus]]''
+* ''[[Osteochilus]]''
+* ''[[Paraqianlabeo]]'' <ref>{{cite journal | last1 = Zhao | first1 = H.-T. | last2 = Sullivan | first2 = J.P. | last3 = Zhang | first3 = Y.-G. | last4 = Peng | first4 = Z.-G. | year = 2014 | title = Paraqianlabeo lineatus, a new genus and species of labeonine fishes (Teleostei: Cyprinidae) from South China | url = | journal = Zootaxa | volume = 3841 | issue = 2| pages = 257–270 | doi=10.11646/zootaxa.3841.2.5}}</ref>
+* ''[[Parasinilabeo]]''
+* ''[[Placocheilus]]''
+* ''[[Protolabeo]]''
+* ''[[Pseudocrossocheilus]]''
+* ''[[Pseudogyrinocheilus]]''
+* ''[[Ptychidio]]''
+* ''[[Qianlabeo]]''
+* ''[[Rectoris]]''
+* ''[[Semilabeo]]''
+* ''[[Sinigarra]]'' <ref>{{cite journal | last1 = Zhang | first1 = E | last2 = Zhou | first2 = W | year = 2012 | title = ''Sinigarra napoense'', a new genus and species of labeonin fishes (Teleostei: Cyprinidae) from Guangxi Province, South China | url = | journal = Zootaxa | volume = 3586 | issue = | pages = 17–25 }}</ref>
+* ''[[Sinocrossocheilus]]''
+* ''[[Stenorynchoacrum]]'' <ref>{{cite journal | last1 = Huang | first1 = Y. | last2 = Yang | first2 = J. | last3 = Chen | first3 = X. | year = 2014 | title = ''Stenorynchoacrum xijiangensis'', a new genus and a new species of Labeoninae fish from Guangxi, China (Teleostei: Cyprinidae) | url = | journal = Zootaxa | volume = 3793 | issue = 3| pages = 379–386 | doi=10.11646/zootaxa.3793.3.6}}</ref>
+* ''[[Vinagarra]]''
+
+'''Subfamily [[Leptobarbinae]]'''
+* ''[[Leptobarbus]]''
+
+{{col-end}}
+
+[[File:Hemitremia flammea.jpg|thumb|right|[[Flame chub]] ''Hemitremia flammea'', one of the chubs in the [[Leuciscinae]])]]
+[[File:Aland.jpg|thumb|right|[[Ide (fish)|Ide]], ''Leuciscus idus'' , one of the [[Eurasia]]n [[Leuciscus|daces]]]]
+[[File:Notropis hypselopterus.jpg|thumb|right|[[Sailfin shiner]], ''[[Notropis hypselopterus]]'', a small and colorful [[shiner (fish)|shiner]] of the [[Leuciscinae]]]]
+[[File:Phoxinus oxycephalus jouyi1.jpg|thumb|right| ''[[Rhynchocypris oxycephalus]]'', a [[minnow]] related to some North American daces]]
+[[File:Rutilus rubilio.jpg|thumb|right|''[[Sarmarutilus rubilio]]'', a [[Europe]]an roach]]
+
+'''Subfamily [[Leuciscinae]]''' 
+{{col-begin|width=70%}}
+{{col-1-of-2}}
+* ''[[Achondrostoma]]''
+* ''[[Acrocheilus]]'' (chiselmouth)
+* ''[[Agosia]]''
+* ''[[Alburnus]]'' (bleaks)
+* ''[[Algansea]]'' (chubs)
+* ''[[Aztecula]]'' (Aztec shiner)
+* ''[[Campostoma]]'' (stonerollers) <!-- Cladistics13:187. -->
+* ''[[Chondrostoma]]'' (typical nases)
+* ''[[Chrosomus]]'' (typical daces)
+* ''[[Clinostomus]]'' (redside daces)
+* ''[[Codoma]]''
+* ''[[Couesius]]'' (the lake chub)
+* ''[[Cyprinella]]'' (satinfin shiners)
+* ''[[Delminichthys]]''
+* ''[[Dionda]]'' (desert minnows)
+* ''[[Eremichthys]]'' (desert dace)
+* ''[[Ericymba]]'' (longjaw minnow
+* ''[[Erimystax]]'' (slender chubs)
+* [[extinct|†]]''[[Evarra]]'' (Mexican daces)
+* ''[[Exoglossum]]'' (cutlips minnows)
+* ''[[Gila (genus)|Gila]]'' (western chubs)
+* ''[[Hemitremia]]'' (flame chub)
+* ''[[Hesperoleucus]]'' (California roach)
+* ''[[Hybognathus]]'' (silvery minnows)
+* ''[[Hybopsis]]'' (bigeye chubs)
+* ''[[Iberochondrostoma]]''
+* ''[[Iotichthys]]'' (least chub)
+* ''[[Lavinia (fish)|Lavinia]]'' (hitch)
+* ''[[Lepidomeda]]'' (spinedaces)
+* ''[[Leuciscus]]'' (Eurasian daces)
+* ''[[Luxilus]]'' (highscale shiners)
+* ''[[Lythrurus]]'' (finescale shiners)
+* ''[[Macrhybopsis]]'' (blacktail chubs)
+* ''[[Margariscus]]'' (daces) <!-- Cladistics13:187. -->
+* ''[[Meda (genus)|Meda]]'' (pikedace) <!-- Cladistics13:187. -->
+{{col-2-of-2}}
+* ''[[Moapa (fish)|Moapa]]'' (moapa dace)
+* ''[[Mylocheilus]]'' (peamouth)
+* ''[[Mylopharodon]]'' (hardheads)
+* ''[[Nocomis]]'' (hornyhead chubs)
+* ''[[Notemigonus]]'' (golden shiner)
+* ''[[Notropis]]'' (eastern shiners)
+* ''[[Opsopoeodus]]'' (pugnose minnow)
+* ''[[Oregonichthys]]'' (Oregon chubs)
+* ''[[Orthodon]]'' (Sacramento blackfish)
+* ''[[Parachondrostoma]]''
+* ''[[Pelasgus (fish)|Pelasgus]]''
+* ''[[Pelecus]]'' (sabre carp)
+* ''[[Petroleuciscus]]'' (Ponto-Caspian chubs and daces)
+* ''[[Phenacobius]]'' (suckermouth minnows)
+* ''[[Phoxinellus]]''
+* ''[[Phoxinus]]'' (Eurasian minnows and daces)
+* ''[[Pimephales]]'' (bluntnose minnows)
+* ''[[Plagopterus]]'' (woundfin)
+* ''[[Platygobio]]'' (flathead chub)
+* ''[[Pogonichthys]]'' (splittails)
+* ''[[Protochondrostoma]]''
+* ''[[Pseudochondrostoma]]''
+* ''[[Pseudophoxinus]]''
+* ''[[Pteronotropis]]'' (flagfin shiners)
+* ''[[Ptychocheilus]]'' (pikeminnows)
+* ''[[Relictus]]'' (relict dace)
+* ''[[Rhinichthys]]'' (riffle daces, loach minnows) (including ''Tiaroga'')
+* ''[[Rhynchocypris]]'' (Eurasian minnows)
+* ''[[Richardsonius]]'' (redside shiners)
+* ''[[Semotilus]]'' (creek chubs)
+* ''[[Snyderichthys]]'' (leatherside chub)
+* ''[[Squalius]]'' (European chubs)
+* ''[[Telestes]]''
+* ''[[Tribolodon]]''
+* ''[[Yuriria (fish)|Yuriria]]''
+{{col-end}}
+
+[[File:Trigonostigma somphongsi.jpg|thumb|right|''[[Trigonostigma somphongsi]]'', [[Rasborinae|a rasbora]], a relative of the [[blue danio]] above]]
+[[File:Mylopharyngodon piceus.jpg|thumb|right|[[Black carp]], ''Mylopharyngodon piceus'': [[Squaliobarbinae]]]]
+
+{{col-begin|width=70%}}
+{{col-1-of-2}}
+'''Subfamily [[Rasborinae]]''' ([[rasborine]]s)
+* ''[[Aphyocypris]]''
+* ''[[Aspidoparia]]''
+* ''[[Engraulicypris]]'' (lake sardine) 
+* ''[[Oxygaster]]''
+* ''[[Rasbora]]''
+* ''[[Rasbosoma]]''
+* ''[[Rastrineobola]]'' (silver cyprinid)
+* ''[[Thryssocypris]]''
+* ''[[Trigonopoma]]''
+'''Subfamily [[Squaliobarbinae]]'''
+* ''[[Ctenopharyngodon]]'' (the grass carp)
+* ''[[Squaliobarbus]]''
+{{col-2-of-2}}
+'''Subfamily [[Tincinae]]'''
+* ''[[Tinca (fish)|Tinca]]'' (tench)
+'''Subfamily [[Xenocyprinae]]
+* ''[[Distoechodon]]''
+* ''[[Hypophthalmichthys]]'' (bighead carps)
+* ''[[Plagiognathops]]''
+* ''[[Pseudobrama]]''
+* ''[[Xenocypris]]''
+{{col-end}}
+
+'''''[[Incertae sedis]]'''''
+[[File:Hemigrammocypris rasborella(Fujieda-shi,Shizuoka-ken,Japan).jpg|thumb|right|''[[Hemigrammocypris rasborella]]'', of uncertain relationship:<br/>Possibly related to ''[[Aphyocypris]]''.]]
+<!-- Commented out: [[File:Mahseer.jpeg|thumb|right|[[Mahseer]]s are peculiar cyprinids in the genera ''Naziritor'', ''Neolissochilus'' and ''Tor'', sometimes united in the last.]] -->
+{{col-begin|width=70%}}
+{{col-1-of-2}}
+* ''[[Aaptosyax]]'' (giant salmon carp)
+* ''[[Abbottina]]'' (false gudgeons)
+* ''[[Abramis]]'' (common bream)
+* ''[[Acanthalburnus]]'' (bleaks)
+* ''[[Acanthobrama]]'' (bleaks)
+* ''[[Acanthogobio]]''
+* ''[[Acapoeta]]''
+* ''[[Albulichthys]]''
+* ''[[Alburnoides]]'' (bleaks)
+* ''[[Amblyrhynchichthys]]''
+* ''[[Anaecypris]]''
+* ''[[Ancherythroculter]]''
+* ''[[Anchicyclocheilus]]''
+* ''[[Araiocypris]]''
+* ''[[Aspiorhynchus]]''
+* ''[[Aspius]]''
+* ''[[Atrilinea]]''
+* ''[[Aulopyge]]'' (Dalmatian barbelgudgeon)
+* ''[[Ballerus]]'' (breams)
+* ''[[Barbichthys]]''
+* ''[[Barbodes]]''
+* ''[[Barboides]]''
+* ''[[Barbonymus]]'' (tinfoil barbs)
+* ''[[Barbopsis]]'' (Somalian blind barb)
+* ''[[Belligobio]]''
+* ''[[Biwia]]''
+* ''[[Blicca]]'' (silver bream)
+* ''[[Caecobarbus]]'' (Congo blind barb)
+* ''[[Caecocypris]]''
+* ''[[Candidia]]''
+* ''[[Capoeta]]'' (khramulyas)
+* ''[[Capoetobrama]]''
+* ''[[Catla]]'' (catla) (some authorities consider this species to belong in the genus ''Gibelion'')
+* ''[[Catlocarpio]]''
+* ''[[Chagunius]]''
+* ''[[Chelaethiops]]''
+* ''[[Chuanchia]]''
+* ''[[Coptostomabarbus]]''
+* ''[[Coreoleuciscus]]'' (Korean splendid dace)
+* ''[[Cosmochilus]]''
+* ''[[Cyclocheilichthys]]''
+* ''[[Cyprinion]]''
+* ''[[Diplocheilichthys]]''
+* ''[[Discherodontus]]''
+* ''[[Discolabeo]]''
+* ''[[Eirmotus]]''
+* ''[[Elopichthys]]''
+* ''[[Epalzeorhynchos]]''
+* ''[[Fangfangia]]'' <ref>Britz, R., Kottelat, M. & Tan, H.H. (2012): Fangfangia spinocleithralis, ''a new genus and species of miniature cyprinid from Kalimantan Tengah, Borneo, Indonesia (Teleostei: Cypriniformes: Cyprinidae).'' Ichthyological Exploration of Freshwaters, 22 (4) [2011]: 327-335.</ref>
+* ''[[Folifer]]''
+* ''[[Gymnocypris]]''
+* ''[[Gymnodanio]]''
+* ''[[Gymnodiptychus]]''
+* ''[[Hainania (fish)|Hainania]]''
+* ''[[Hampala]]''
+* ''[[Hemiculterella]]''
+* ''[[Hemigrammocapoeta]]''
+* ''[[Hemigrammocypris]]'' (close to ''Aphyocypris''?)
+* ''[[Henicorhynchus]]''
+* ''[[Herzensteinia]]''
+* ''[[Horalabiosa]]''
+* ''[[Huigobio]]''
+* ''[[Hypselobarbus]]''
+* ''[[Hypsibarbus]]''
+* ''[[Iberocypris]]''
+* ''[[Kalimantania]]''
+* ''[[Kosswigobarbus]]''
+* ''[[Ladigesocypris]]''
+* ''[[Ladislavia]]''
+* ''[[Laocypris]]''
+* ''[[Lepidopygopsis]]''
+* ''[[Leucalburnus]]''
+* ''[[Leucaspius]]'' (moderlieschen)
+* ''[[Leucos]]'' <ref name="Bianco2014"/>
+* ''[[Linichthys]]''
+* ''[[Lobocheilos]]''
+* ''[[Longanalus]]''
+* ''[[Longiculter]]''
+* ''[[Luciobrama]]''
+* ''[[Luciocyprinus]]''
+* ''[[Macrochirichthys]]'' (long pectoral-fin minnow)
+* ''[[Megarasbora]]''
+* ''[[Mekongina]]''
+{{col-2-of-2}}
+* ''[[Mesogobio]]''
+* ''[[Metzia]]''
+* ''[[Mylopharyngodon]]'' (black carp)
+* ''[[Mystacoleucus]]''
+* ''[[Naziritor]]'' (Zhobi mahseers)
+* ''[[Neobarynotus]]''
+* ''[[Neolissochilus]]'' (''mahseers'')
+* ''[[Nicholsicypris]]''
+* ''[[Nipponocypris]]''
+* ''[[Ochetobius]]''
+* ''[[Onychostoma]]''
+* ''[[Opsariichthys]]''
+* ''[[Oreoleuciscus]]''
+* ''[[Osteobrama]]''
+* ''[[Osteochilichthys]]''
+* ''[[Oxygymnocypris]]''
+* ''[[Pachychilon]]''
+* ''[[Paracanthobrama]]''
+* ''[[Parachela]]''
+* ''[[Paracrossochilus]]''
+* ''[[Paralaubuca]]''
+* ''[[Paraleucogobio]]''
+* ''[[Parapsilorhynchus]]''
+* ''[[Pararasbora]]''
+* ''[[Pararhinichthys]]'' (cheat minnow)
+* ''[[Parasikukia]]''
+* ''[[Paraspinibarbus]]''
+* ''[[Parasqualidus]]''
+* ''[[Parator (fish)|Parator]]''
+* ''[[Parazacco]]''
+* ''[[Percocypris]]''
+* ''[[Phreatichthys]]'' (Somalian cavefish)
+* ''[[Placogobio]]''
+* ''[[Platypharodon]]''
+* ''[[Platysmacheilus]]''
+* ''[[Pogobrama]]''
+* ''[[Poropuntius]]''
+* ''[[Probarbus]]''
+* ''[[Procypris]]''
+* ''[[Prolabeo]]''
+* ''[[Prolabeops]]''
+* ''[[Pseudaspius]]''
+* ''[[Pseudobrama]]''
+* ''[[Pseudohemiculter]]''
+* ''[[Pseudolaubuca]]''
+* ''[[Pseudopungtungia]]''
+* ''[[Ptychobarbus]]''
+* ''[[Pungtungia]]''
+* ''[[Puntioplites]]''
+* ''[[Rasborichthys]]''
+* ''[[Rhinogobio]]''
+* ''[[Rohtee]]'' (Vatani rohtee)
+* ''[[Rohteichthys]]''
+* ''[[Rostrogobio]]''
+* ''[[Rutilus]]'' (roaches)
+* ''[[Sanagia]]''
+* ''[[Sarmarutilus]]'' <ref name="Bianco2014">{{cite journal | last1 = Bianco | first1 = P.G. | last2 = Ketmaier | first2 = V. | year = 2014 | title = A revision of the Rutilus complex from Mediterranean Europe with description of a new genus, Sarmarutilus, and a new species, Rutilus stoumboudae (Teleostei: Cyprinidae) | url = http://www.mapress.com/zootaxa/2014/f/z03841p402f.pdf | format = PDF | journal = Zootaxa | volume = 3841 | issue = 3| pages = 379–402 | doi=10.11646/zootaxa.3841.3.4}}</ref>
+* ''[[Sawbwa (fish)|Sawbwa]]'' (Sawbwa barb)
+* ''[[Scaphiodonichthys]]''
+* ''[[Scaphognathops]]''
+* ''[[Scardinius]]'' (rudds)
+* ''[[Schismatorhynchos]]''
+* ''[[Schizocypris]]'' (snowtrouts)
+* ''[[Schizopyge]]'' (snowtrouts)
+* ''[[Schizopygopsis]]'' (snowtrouts)
+* ''[[Semiplotus]]''
+* ''[[Sikukia]]''
+* ''[[Sinilabeo]]''
+* ''[[Spinibarbus]]''
+* [[extinct|†]]''[[Stypodon]]'' (stumptooth minnow)
+* ''[[Tampichthys]]''
+* ''[[Thynnichthys]]''
+* ''[[Tor (genus)|Tor]]'' (''[[mahseer]]s'')
+* ''[[Troglocyclocheilus]]''
+* ''[[Tropidophoxinellus]]''
+* ''[[Typhlobarbus]]''
+* ''[[Typhlogarra]]'' (Iraq blind barb)
+* ''[[Varicorhinus]]''
+* ''[[Vimba]]''
+* ''[[Xenobarbus]]''
+* ''[[Xenocyprioides]]''
+* ''[[Xenophysogobio]]''
+* ''[[Yaoshanicus]]''
+* ''[[Zacco (fish)|Zacco]]''
+{{col-end}}
+
+Unlike most fish species, cyprinids generally increase in abundance in [[eutrophic]] lakes. Here, they contribute towards positive feedback as they are efficient at eating the [[zooplankton]] that would otherwise graze on the algae, reducing its abundance.
+
+==See also==
+*[[List of fish families]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal|doi=10.1163/157075607780002069|title=Evolutionary origin of Lake Tana's (Ethiopia) small ''Barbus'' species: Indications of rapid ecological divergence and speciation|year=2007|last1=De Graaf|first1=Martin|last2=Megens|first2=Hendrik-Jan|last3=Samallo|first3=Johannis|last4=Sibbing|first4=Ferdinand A.|journal=Animal Biology|volume=57|pages=39–48}}
+* [[dictionary.com]] [2009]: Cyprinid. Retrieved 2009-SEP-25.
+* Florida Fish and Wildlife Conservation Commission (FFWCC) (2006): [http://floridafisheries.com/Fishes/non-native.html Florida's Exotic Freshwater Fishes]. Retrieved 2007-03-05.
+* [[Gulf States Marine Fisheries Commission]] (GSMFC) (2005): [http://nis.gsmfc.org/nis_factsheet2.php?toc_id=183 Cyprinus carpio (Linnaeus, 1758)]. Version of 2005-08-03. Retrieved 2007-05-03.
+* {{cite journal|doi=10.1016/j.ympev.2007.06.001|title=Molecular phylogenetics of the family Cyprinidae (Actinopterygii: Cypriniformes) as evidenced by sequence variation in the first intron of S7 ribosomal protein-coding gene: Further evidence from a nuclear gene of the systematic chaos in the family|year=2008|last1=He|first1=Shunping|last2=Mayden|first2=Richard L.|last3=Wang|first3=Xuzheng|last4=Wang|first4=Wei|last5=Tang|first5=Kevin L.|last6=Chen|first6=Wei-Jen|last7=Chen|first7=Yiyu|journal=Molecular Phylogenetics and Evolution|volume=46|issue=3|pages=818–29|pmid=18203625}}
+* {{cite journal|doi=10.1016/j.ympev.2007.10.012|title=Phylogenetic position of the enigmatic genus Psilorhynchus (Ostariophysi: Cypriniformes): Evidence from the mitochondrial genome|year=2008|last1=He|first1=Shunping|last2=Gu|first2=Xun|last3=Mayden|first3=Richard L.|last4=Chen|first4=Wei-Jen|last5=Conway|first5=Kevin W.|last6=Chen|first6=Yiyu|journal=Molecular Phylogenetics and Evolution|volume=47|pages=419–25|pmid=18053751|issue=1}}
+* {{cite book | last = Helfman | first = Gene | title = The Diversity of Fishes | publisher = Blackwell Science | location = Oxford | year = 1997 | isbn = 0-86542-256-7 }}
+* Howes, G. J. (1991): Systematics and biogeography: an overview. ''In:'' Winfield, I. J. & Nelson, J. S. (eds.): ''Biology of Cyprinids'': 1–33. Chapman and Hall Ltd., London.
+* [[International Union for the Conservation of Nature and Natural Resources]] (IUCN) (2009): ''[http://www.iucnredlist.org 2009 IUCN Red List of Threatened Species]''. Version 2009.1. Retrieved 2009-SEP-20.
+* Magri MacMahon, A. F. (1946): ''Fishlore''. Pelican Books.
+* {{cite book | last = Riehl | first = Rudiger | title = Aquarium Atlas | publisher = Voyageur Press (MN) | year = 1996 | isbn = 3-88244-050-3 }}
+
+==External links==
+{{Commons category|Cyprinidae}}
+{{wikispecies|Cyprinidae}}
+
+{{carp}}
+
+{{Authority control}}
+
+[[Category:Cyprinidae| ]]
+[[Category:Fish families]]
+[[Category:Fish of North America]]
+[[Category:Fish of Asia]]
+[[Category:Fish of Europe]]
+[[Category:Fish of Africa]]
+[[Category:Cypriniformes]]
+[[Category:Extant Eocene first appearances]]

@@ -1,0 +1,34 @@
+Depressariidae
+
+{{Taxobox
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| zoodivisio = [[Ditrysia]]
+| superfamilia = [[Gelechioidea]]
+| familia = '''Depressariidae'''
+| familia_authority = Meyrick, 1883
+}}
+'''Depressariidae''' is a family of [[moths]]. It has formerly been treated as a subfamily of [[Gelechiidae]], but is now recognised as a separate family, comprising about 2300 species worldwide.<ref>Heikkilä, M. ''et al''. 2014: Morphology reinforces proposed molecular phylogenetic affinities: a revised classification for Gelechioidea (Lepidoptera). ''Cladistics'', '''30'''(6): 563-589. {{doi|10.1111/cla.12064}}</ref>
+
+==Subfamilies==
+Depressaridae consists of ten subfamilies:
+
+* [[Acriinae]]
+* [[Aeolanthinae]]
+* [[Cryptolechiinae]]
+* [[Depressariinae]]
+* [[Ethmiinae]]
+* [[Hypercalliinae]]
+* [[Hypertrophinae]]
+* [[Oditinae]]
+* [[Peleopodinae]]
+* [[Stenomatinae]]
+
+==References==
+{{reflist}}
+
+[[Category:Gelechioidea]]
+
+{{Gelechioidea-stub}}

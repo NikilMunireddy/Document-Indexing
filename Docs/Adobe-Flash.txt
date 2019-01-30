@@ -1,0 +1,525 @@
+Adobe Flash
+
+{{For|the application/animation-maker|Adobe Animate}}
+{{other uses}}
+{{Update|date=April 2016}}
+{{Use mdy dates|date=April 2012}}
+{{Infobox software platform
+| name        = Adobe Flash
+| icon        = Adobe Flash Player v11 icon.png
+| image       = 
+| caption     = 
+| developer   = {{Unbulleted list | [[Adobe Systems]] | [[Macromedia]] | [[FutureWave Software|FutureWave]] }}
+| target      = [[Web browser]]s, [[Xbox]] consoles, [[PlayStation]] consoles
+| editor      = {{Unbulleted list | [[Adobe Animate|Animate]] | [[Adobe Flash Builder|Flash Builder]] | [[FlashDevelop]] | [[Powerflasher FDT]] | Third-party animation software}}
+| runtime     = {{Unbulleted list | [[Adobe Flash Player|Flash Player]] | [[Adobe AIR]] | [[Scaleform GFx|Scaleform]] | [[Shumway (software)|Shumway]] | [[Gnash (software)|Gnash]] | [[Lightspark]] | other inactive players }}
+| format      = {{Hlist | [[SWF]] | [[Flash Video|FLV]] | [[SWF#Related file formats and extensions|FLA]] }}
+| language    = [[ActionScript]]
+| application = {{Unbulleted list|item_style=white-space:nowrap | [[Flash animation|Animation]] | [[Browser game]]s | [[Rich Internet application]]s | [[Application software|Desktop application]]s | [[Mobile application|Mobile app]]s | [[Mobile game]]s }}
+| status      = Active
+| license     = [[Proprietary software|Proprietary]]
+}}
+'''Adobe Flash''' (formerly called '''[[Macromedia]] Flash''' and '''Shockwave Flash''') is a [[multimedia]] and [[Computing platform|software platform]] used for creating [[vector graphics]], [[Flash animation|animation]], [[browser game]]s, [[rich Internet application]]s, [[Application software|desktop application]]s, [[mobile application]]s and [[mobile game]]s. Flash displays text, [[vector graphics|vector]] and [[raster graphics]] to provide animations, video games and applications. It allows streaming of [[Flash Video|audio and video]], and can capture mouse, keyboard, microphone and camera input.
+
+Flash graphics and animation are designed using a variety of Flash editing software, such as [[Adobe Flash Builder]], [[Adobe Animate]], [[FlashDevelop]], or any text editor when used with the [[Apache Flex]] SDK. Content may be viewed by end-users using [[Adobe Flash Player|Flash Player]] (for web browsers), [[Adobe AIR|AIR]] (for desktop or mobile apps) or third-party players such as [[Scaleform GFx]] (for video games). [[Adobe Flash Player]] enables end-users to view Flash content using [[web browser]]s, and is supported on [[Microsoft Windows]], [[OS X|Mac OS X]] and [[Linux]]. [[Adobe Flash Lite]] enabled viewing Flash content on older [[smartphone]]s, but has been discontinued and superseded by [[Adobe AIR]].
+
+The [[ActionScript]] programming language allows creation of interactive animations, video games, web applications, desktop applications and mobile applications. Flash software can be developed using an IDE such as [[Adobe Animate]], [[Adobe Flash Builder]], [[FlashDevelop]] and [[Powerflasher FDT]]. [[Adobe AIR]] enables full-featured desktop and mobile applications to be developed with Flash, and published for [[Microsoft Windows]], Mac OS X, [[Android (operating system)|Google Android]], and [[iOS]].
+
+Flash is frequently used to display [[streaming media|streaming video]], [[Advertising|advertisement]] and [[Interactivity|interactive]] multimedia content on [[web page]]s and Flash-enabled software. However, after the 2000s, the usage of Flash on Web sites has declined;<ref>{{cite web |url=http://w3techs.com/technologies/details/cp-flash/all/all |title=Usage of Flash for websites |website=W3Techs.com |publisher=Q-Success |accessdate=March 4, 2013 }}</ref> as of 2015, Flash is primarily used to build [[video game]]s for mobile devices with Adobe AIR.
+
+==Applications==
+
+===Websites===
+In the early 2000s,Flash was widely installed on [[desktop computer]]s, and was commonly used to display interactive [[web page]]s, [[online game]]s, and to playback video and audio content.<ref name="lifedeath">{{cite web|url=http://mashable.com/2012/11/19/history-of-flash/|title=The Life, Death and Rebirth of Adobe Flash |last1=WARREN |first1=CHRISTINA |date=2012-11-20 |publisher=Mashable |access-date=2015-06-11}}</ref> In 2005, [[YouTube]] was founded by former PayPal employees, and it used Flash Player as a means to display compressed video content on the web.<ref name="lifedeath"/>
+
+Between 2000 and 2010,Swan, numerous businesses used Flash-based websites to launch new products, or to create interactive company portals.<ref name="smash50">{{cite web|url=http://www.smashingmagazine.com/2009/06/07/50-beautiful-flash-websites/|title=50 Beautiful Flash Websites|last1=Pinho |first1=Carlos |date=2009-07-07 |publisher=Smashing Magazine|access-date=2015-06-11}}</ref> Notable users include [[Nike, Inc.|Nike]], [[Hewlett-Packard]], [[Nokia]], [[General Electric]], [[World Wide Fund for Nature|World Wildlife Fund]], [[HBO]], [[Cartoon Network]] and [[The Walt Disney Company|Disney]].<ref name="smash50"/><ref>[https://www.adobe.com/devnet/flash/articles/fwa_2009.html Looking back at the best Flash sites of 2009], Adobe Developer Connection, 14 December 2009</ref> After Adobe introduced hardware-accelerated 3D for Flash ([[Stage3D]]), Flash websites saw a growth of 3D content for product demonstrations and virtual tours.<ref name="smash3d">{{cite web|url=http://www.smashingapps.com/2011/06/15/35-of-the-best-3d-flash-websites-ever.html|title=35 Of The Best 3D Flash Websites Ever|last1=DAVLIN |first1=ANN |date=2011-06-15 |publisher=Smashing 3D |access-date=2015-06-11}}</ref><ref>[http://webdesignerdrops.com/gallery/3d-websites/ 20 Best 3D Websites], Web Designer Drops, September 15, 2012</ref>
+
+In 2007, YouTube offered videos in [[HTML5]] format to support the [[iPhone]] and [[iPad]], which did not support Flash Player.<ref name="lifedeath"/> After a [[Apple and Adobe Flash controversy|controversy with Apple]], Adobe stopped developing Flash Player for Mobile, focussing its efforts on [[Adobe AIR]] applications and [[HTML5]] animation.<ref name="lifedeath"/> In 2015, [[Google Inc.|Google]] introduced [[Google Swiffy]] to convert Flash animation to [[HTML5]], a tool Google would use to automatically convert Flash web ads for mobile devices.<ref>[http://www.itpro.co.uk/mobile/24135/google-to-automatically-convert-flash-web-ads-to-html5 Google to automatically convert Flash web ads to HTML5], IT Pro Magazine, Caroline Preece, 27 Feb 2015</ref> In 2015, YouTube switched to HTML5 technology on all devices, however it will preserve the Flash-based video player for older web browsers.<ref>[http://www.popsci.com/youtube-now-plays-html5-video-by-default-eschews-adobe-flash YOUTUBE NOW PLAYS HTML5 VIDEO BY DEFAULT, ESCHEWS ADOBE FLASH], [[Popular Science]], Dan Moren, January 28, 2015</ref><ref>[http://www.theinquirer.net/inquirer/news/2392445/youtube-ditches-adobe-flash-for-html5-on-most-browsers YouTube ditches Adobe Flash for HTML5 on most browsers], [[The Inquirer]], Chris Merriman, Jan 28 2015</ref><ref>[http://www.pcworld.com/article/2876307/so-long-flash-youtube-now-defaults-to-html5-on-the-web.html So long, Flash! YouTube now defaults to HTML5 on the web], PC World Magazine, Ian Paul, Jan 28, 2015</ref>
+
+===RIAs===
+After Flash 5 introduced [[ActionScript]] in 2000, developers combined the visual and programming capabilities of Flash to produce interactive experiences and applications for the Web.<ref name="flex3dummies">{{cite book |last=McCune |first=Doug |date=2009-02-23 |title=Adobe Flex 3.0 For Dummies |url=https://books.google.comn/books?id=lazbXwrxrasC |location= |publisher=John Wiley & Sons |isbn=0470436824 |access-date=2015-06-11 |page=Chapter 1, "From HTML to RIA"}}</ref> Such Web-based applications eventually came to be known as "Rich Internet Applications" (RIAs).<ref name="flex3dummies"/>
+
+In 2004, [[Adobe Flash Builder|Macromedia Flex]] was released, and specifically targeted the application development market.<ref name="flex3dummies"/> Flex introduced new [[user interface]] components, advanced [[data visualization]] components, data remoting, and a modern IDE (Flash Builder).<ref name="flex3dummies"/><ref name="dvfb">{{cite book |last=Rocchi |first=Cesare |date=2011 |title=Data Visualization with Flash Builder |url=https://books.google.com/books?id=iOOD9ttmbDEC |location= |publisher=Focal Press |isbn=0240815033 |access-date= }}</ref> Flex competed with [[Ajax (programming)|Asynchronous JavaScript and XML]] (AJAX) and [[Microsoft Silverlight]] during its tenure.<ref name="flex3dummies"/> Flex was upgraded to support integration with remote data sources, using [[Action Message Format|AMF]], [[BlazeDS]], [[Adobe LiveCycle]], [[Amazon Elastic Compute Cloud]], and others.<ref name="enterpriseflex">{{cite book |last=Fain |first=Yakov  |date=2010-03-16 |title=Enterprise Development with Flex: Best Practices for RIA Developers |url=https://books.google.com/books?id=kjCaK4jXOJEC |location= |publisher=O'Reilly Media, Inc |isbn=1449388736 |access-date= }}</ref> As of 2015, Flex applications can be published for desktop platforms using [[Adobe AIR]].<ref name="flex3dummies"/>
+
+As of 2015, [[Web application]]s and RIAs can be developed with Flash using the [[ActionScript|ActionScript 3.0]] programming language and related tools such as [[Adobe Flash Builder]]. Third-party [[integrated development environment|IDEs]] such as [[FlashDevelop]] and [[Powerflasher FDT]] also enable developers to create Flash games and applications, and are generally similar to [[Microsoft Visual Studio]]. Flex applications are typically built using [[List of Flex frameworks|Flex frameworks]] such as [[PureMVC]].<ref name="enterpriseflex"/>
+
+===Video games===
+[[Browser game|Flash video games]] are popular on the Internet, with portals like [[Newgrounds]] dedicated to hosting of Flash-based games. Popular games developed with Flash include ''[[Angry Birds]]'', ''[[FarmVille]]'', ''[[AdventureQuest]]'' and ''[[Machinarium]]'' , "[[Clash of Clans]]".
+
+Adobe introduced various technologies to help build video games, including [[Adobe AIR]] (to release games for desktop or mobile platforms), [[Adobe Scout]] (to improve performance), [[CrossBridge]] (to convert C++-based games to run in Flash), and [[Stage3D]] (to support GPU-accelerated video games). 3D frameworks like [[Away3D]] and [[Flare3D]] simplified creation of 3D content for Flash.
+
+[[Adobe AIR]] allows creation of Flash-based [[mobile game]]s, which may be published to the [[Google Play]] and [[iTunes]] app stores.
+
+Flash is also used to build interfaces and HUDs for 3D video games using [[Scaleform GFx]], a technology that renders Flash content within non-Flash video games. Scaleform is supported by more than 10 major video game engines including [[Unreal Engine]], [[Unreal Development Kit|UDK]], [[CryEngine 3|CryEngine]] and [[PhyreEngine]], and has been used to provide 3D interfaces for more than [[List of games using Scaleform|150 major video game titles]] since its launch in 2003.
+
+===Film and animation===
+{{main|List of Flash animated films|List of Flash animated television series}}
+[[Adobe Animate]] is one of the common animation programs for low-cost 2D television and commercial animation, in competition with [[Anime Studio]] and [[Toon Boom Animation]].
+
+Notable users of Flash include [[DHX Media Vancouver]] for productions including ''[[Pound Puppies (2010 TV series)|Pound Puppies]]'' and ''[[My Little Pony: Friendship is Magic]]'', [[Fresh TV]] for [[Total Drama]], [[Nelvana]] for ''[[6teen]]'' and ''[[Clone High]]'', [[Williams Street]] for ''[[Metalocalypse]]'' and ''[[Squidbillies]]'', [[Nickelodeon Animation Studios]] for ''[[Wow! Wow! Wubbzy!]]'' ''[[El Tigre: The Adventures of Manny Rivera]]'', ''[[Danny Phantom]]'' and ''[[Happy Tree Friends]]''{{citation needed|reason=Is there any evidence Nickelodeon Animation Studios produces Happy Tree Friends?|date=May 2016}}, and more.
+
+Flash is less commonly used for feature-length animated films; however, 2009's ''[[The Secret of Kells]]'', an Irish film, was animated primarily in Adobe Flash, and was nominated for an [[Academy Award for Best Animated Feature]] at the [[82nd Academy Awards]].
+
+Several popular online series are currently produced in Flash, such as the [[Emmy Award]]-winning ''[[Mike & Mike|Off-Mikes]]'', produced by [[ESPN]] and [[Animax Entertainment]]; ''[[Gotham Girls]]'', produced by [[Warner Brothers]]; ''[[Crime Time]]'', produced by [[Future Thought Productions]] and ''[[Homestar Runner]]'' produced by [[The Brothers Chaps|Mike and Matt Chapman]].
+
+[[#Third-party tools|Various third-party software packages]] designed for traditionally trained cartoonists and animators can publish animations in the [[SWF]] format.
+
+== History ==
+
+=== FutureWave ===
+The precursor to Flash was a product named SmartSketch, published by [[FutureWave Software]].   The company was founded by [[Charlie Jackson (software)|Charlie Jackson]], [[Jonathan Gay]], and Michelle Welsh.<ref name="hs">[http://www.coldhardflash.com/2008/02/grandmasters-of-flash-an-interview-with-the-creators-of-flash.html Grandmasters of Flash: An Interview with the Creators of Flash], Cold Hard Flash</ref><ref name="mfb">[http://digital-archaeology.org/flash-back/ MACROMEDIA FLASH BACK], Digital Archaeology</ref><ref name="bh1">[https://books.google.com/books?id=tnckAQAAMAAJ&q=Michelle+Welsh+%22futurewave%22&dq=Michelle+Welsh+%22futurewave%22&hl=en&sa=X PC Graphics & Video, Volume 6, Issues 1-6], Advanstar Communications, 1997</ref><ref name="bh2">[https://books.google.com/books?id=Tn8qAQAAMAAJ&q=Michelle+Welsh+%22futurewave%22&dq=Michelle+Welsh+%22futurewave%22&hl=en&sa=X Personal Computer Magazine], PC Communications Corporation, 1995</ref> SmartSketch was a vector drawing application for pen computers running the [[PenPoint OS]].<ref>{{cite web|url=http://www.flashmagazine.com/413.htm |title=The Flash History |accessdate=June 18, 2001 |last=Waldron |first=Rick |date=August 27, 2006 |publisher=Flashmagazine |quote= }}</ref><ref>{{cite web
+ | last = Gay | first = Jonathan | authorlink = Jonathan Gay | title = The History of Flash
+ | publisher = Adobe Systems Inc. | year = 2001
+ | url = https://www.adobe.com/macromedia/events/john_gay/page02.html
+ | accessdate =October 18, 2009}}</ref> When PenPoint failed in the marketplace, SmartSketch was ported to [[Microsoft Windows]] and [[Mac OS]].<ref name="mfb"/><ref name="Back to Graphics">[https://www.adobe.com/macromedia/events/john_gay/page03.html The History of Flash: Back to Graphics]</ref>
+
+As the Internet became more popular, FutureWave realized the potential for a vector-based web animation tool that might challenge [[Macromedia]] [[Adobe Shockwave|Shockwave]] technology.<ref name="hs"/><ref name="mfb"/> In 1995, FutureWave modified SmartSketch by adding frame-by-frame animation features and released this new product as [[Adobe Animate|FutureSplash Animator]] on Macintosh and PC.<ref name="hs"/><ref name="mfb"/><ref name="The Dawn of Web Animation">[https://www.adobe.com/macromedia/events/john_gay/page04.html The History of Flash: The Dawn of Web Animation]</ref><ref>{{cite web| url=http://coldhardflash.com/2008/02/grandmasters-of-flash-an-interview-with-the-creators-of-flash.html | title=Grandmasters of Flash: An Interview with the Creators of Flash | accessdate=February 12, 2008 | publisher=ColdHardFlash.com}}</ref>
+
+FutureWave approached [[Adobe Systems]] with an offer to sell them FutureSplash in 1995, but Adobe turned down the offer at that time.<ref name="mfb"/> Microsoft wanted to create an "online TV network" ([[MSN]]) and adopted FutureSplash animated content as a central part of it.<ref name="mfb"/> [[Disney Online]] used FutureSplash animations for their subscription-based service Disney's Daily Blast.<ref name="hs"/><ref name="mfb"/> [[Fox Broadcasting Company]] launched [[The Simpsons]] using FutureSplash.<ref name="mfb"/>
+
+===Macromedia===
+In November 1996, FutureSplash was acquired by Macromedia, and Macromedia re-branded and released ''FutureSplash Animator'' as ''Macromedia Flash 1.0''. Flash was a two-part system, a graphics and animation editor known as [[Adobe Animate|Macromedia Flash]], and a player known as [[Adobe Flash Player|Macromedia Flash Player]].
+
+''FutureSplash Animator'' was an animation tool originally developed for pen-based computing devices, but due to the small size of the ''FutureSplash Viewer'', it was particularly suited for download over the Web. Macromedia distributed Flash Player as a free browser [[Plug-in (computing)|plugin]] in order to quickly gain market share. As of 2005, more computers worldwide had the Flash Player installed than any other Web media format, including [[Java Platform|Java]], [[QuickTime]], [[RealNetworks]] and [[Windows Media Player]].<ref name="flash">{{cite web |url=http://news.zdnet.co.uk/internet/0,1000000097,39211831,00.htm |title=Flash Player in 2005 |publisher=[[ZDNet]] |accessdate=2008-12-26}}</ref>
+
+Macromedia upgraded the Flash system significantly from 1996 to 1999, adding MovieClips, Actions (the precursor to [[ActionScript]]), Alpha transparency, and other features. As Flash matured, Macromedia's focus shifted from marketing it as a graphics and media tool to promoting it as a [[Web application]] platform, adding scripting and data access capabilities to the player while attempting to retain its small footprint.
+
+In 2000, the first major version of ActionScript was developed, and released with ''Flash 5''. Actionscript 2.0 was released with ''Flash MX 2004'' and supported [[object-oriented programming]], improved UI components, and other advanced programming features. The last version of Flash released by Macromedia was ''Flash 8'', which focused on graphical upgrades such as filters (blur, drop shadow, etc.), blend modes (similar to [[Adobe Photoshop]]), and advanced features for [[Flash Video|FLV video]].
+
+===Adobe===
+Macromedia was acquired by [[Adobe Systems]] in 2005, and the entire Macromedia product line including Flash, [[Adobe Dreamweaver|Dreamweaver]], [[Adobe Director|Director]]/[[Adobe Shockwave|Shockwave]] and [[Authorware]] is now handled by Adobe.
+
+In 2007, Adobe released ''Adobe Flash CS3 Professional'', the first version released under Adobe, and the ninth major version of Flash. It introduced the [[ActionScript|ActionScript 3.0]] programming language, which supported modern programming practices and enabled business applications to be developed with Flash. [[Adobe Flex Builder]] (built on [[Eclipse (software)|Eclipse]]) targeted the enterprise [[Software development|application development]] market, and was also released the same year. Flex Builder included the Flex SDK, a set of components that included charting, advanced UI, and data services (''Flex Data Services'').
+
+In 2008, Adobe released the historic tenth version of Flash, ''Adobe Flash CS4''. Flash 10 improved animation capabilities within the [[Adobe Animate|Flash editor]], adding a motion editor panel (similar to [[Adobe After Effects]]), [[inverse kinematics]] (bones), basic 3D object animation, object-based animation, and other advanced text and graphics features. ''Flash Player 10'' included the first in-built 3D engine (without GPU acceleration), that allowed basic object transformations in 3D space (position, rotation, scaling).
+
+Also in 2008, Adobe released the first version of [[Adobe AIR|Adobe Integrated Runtime]] (later re-branded as ''Adobe AIR''), a runtime engine that replaced Flash Player, and provided additional capabilities to the ActionScript 3.0 language to build desktop and mobile applications. With AIR, developers could access the file system (files & folders), and connected devices (joystick, gamepad, sensors) for the first time.
+
+In 2011, ''Adobe Flash Player 11'' was released, and with it the first version of [[Stage3D]], allowing for GPU-accelerated 3D rendering for Flash applications and games, on desktop platforms such as [[Microsoft Windows]] and [[Mac OS X]].<ref name="Labrecque2011">{{cite book|author =Joseph Labrecque|title=What's New in Flash Player 11|url=https://books.google.com/books?id=UGD4zMFnK0QC&pg=PA17|year=2011|publisher=O'Reilly Media, Inc.|isbn=978-1-4493-1110-0|page=17}}</ref> Adobe further improved 3D capabilities from 2011 to 2013, adding support for 3D rendering on Android and iOS platforms, alpha-channels, compressed textures, [[texture atlas]]es, and other features.<ref name="fproadmap">[https://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html Adobe Flash Roadmap], Adobe</ref><ref>[http://www.bytearray.org/?p=4516] Introducing Flash Player 11.4/AIR 3.4 beta!, by Thibault Imbert ([[Adobe Systems|Adobe]] employee), ByteArray</ref> Adobe AIR was upgraded to support 64-bit computers, and developers could now add additional functionality to the AIR runtime using ''AIR Native Extensions'' (ANE).
+
+In 2014, [[Adobe AIR]] reached a milestone when over 100,000 unique applications were built on AIR, and over 1 billion installations of the same were logged from users across the world (May 2014).<ref>[http://blogs.adobe.com/flashplayer/2014/04/air-app-installs-cross-a-billion.html AIR app installs cross a billion], Adobe AIR and Adobe Flash Player Team Blog</ref><ref>[http://forta.com/blog/index.cfm/2014/5/10/1-Billion-AIR-Installations 1 Billion AIR Installations], Ben Forta</ref> Adobe AIR was voted as the ''Best Mobile Application Development'' product at the [[Consumer Electronics Show]] for two consecutive years (CES 2014 and CES 2015).<ref>[http://www.compassintelligence.com/?q=press/compass-intelligence-announces-winners-2014-mobility-awards-wireless-m2m-and-green-technology Compass Intelligence Announces Winners of the 2014 Mobility Awards], Compass Intelligence</ref><ref>[http://www.compassintelligence.com/?q=press/compass-intelligence-announces-winners-2015-mobility-awards-list-m2m-green-technology-and Compass Intelligence Announces Winners of the 2015 Mobility Awards], Compass Intelligence</ref>
+
+==Format==
+
+===FLA===
+Flash source files are in the [[SWF#Related file formats and extensions|'''FLA''' format]], and contain graphics, animation as well as embedded assets such as bitmap images, audio files and FLV video files. The Flash source file format is a proprietary format and [[Adobe Animate]] is the only available authoring tool capable of editing such files. Flash source files (.fla) may be compiled into Flash movie files (.swf) using Adobe Animate. Note that FLA files can be edited, but output (.swf) files cannot.
+
+===SWF===
+{{main|SWF}}
+Flash movie files are in the ''SWF'' format, traditionally called "'''S'''hock'''W'''ave '''F'''lash" movies, "Flash movies", or "Flash applications", usually have a .swf [[file extension]], and may be used in the form of a web page plug-in, strictly "played" in a standalone Flash Player, or incorporated into a self-executing Projector movie (with the .exe extension in [[Microsoft Windows]]). [[Flash Video]] files<ref group="spec">[https://www.adobe.com/content/dam/Adobe/en/devnet/flv/pdfs/video_file_format_spec_v10.pdf FLV and F4V]<br />F4V is based on [[ISO base media file format]] standard, available as a free download [http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html]</ref> have a .flv file extension and are either used from within .swf files or played through a flv-aware player, such as [[VLC media player|VLC]], or [[QuickTime]] and [[Windows Media Player]] with external [[codec]]s added.
+
+The use of vector graphics combined with program code allows Flash files to be smaller—and thus allows streams to use less [[Bandwidth (computing)|bandwidth]]—than the corresponding bitmaps or video clips. For content in a single format (such as just text, video, or audio), other alternatives may provide better performance and consume less [[central processing unit|CPU]] power than the corresponding Flash movie, for example when using transparency or making large screen updates such as photographic or text fades.
+
+In addition to a vector-rendering engine, the Flash Player includes a virtual machine called the ActionScript Virtual Machine (AVM) for scripting interactivity at run-time, with video, MP3-based audio, and bitmap graphics. As of Flash Player 8, it offers two video codecs: [[On2 Technologies]] [[VP6]] and [[sorenson codec|Sorenson Spark]], and run-time [[JPEG]], Progressive JPEG, [[Portable Network Graphics|PNG]], and [[Graphics Interchange Format|GIF]] capability. In the next version, Flash is slated to use a [[Just-in-time compilation|just-in-time]] compiler for the ActionScript engine.
+
+===3D===
+{{Main|Stage3D}}
+Flash Player 11 introduced a full 3D [[shader]] API, called [[Stage3D]], which is fairly similar to [[WebGL]].<ref name="Fisher2013">{{cite book|author =Matt Fisher|title=HTML5 for Flash Developers|url=https://books.google.com/books?id=O2DWzWRnQPwC&pg=PT165|year=2013|publisher=Packt Publishing Ltd|isbn=978-1-84969-333-2|at=§ Stage3D versus WebGL, p. 91}}</ref><ref name="vs webgl">{{cite web|url=http://www.airtightinteractive.com/2011/10/stage3d-vs-webgl-performance/ |title=Stage3D vs WebGL Performance — Airtight Interactive |publisher=Airtightinteractive.com |date=2011-10-28 |accessdate=2014-08-04}}</ref> Stage3D enables GPU-accelerated rendering of [[3D graphics]] within Flash games and applications, and has been used to build [[Angry Birds]], and a couple of other notable games.
+
+Various 3D frameworks have been built for Flash using Stage3D, such as [[Away3D]] 4,<ref name="vs webgl"/> [[CopperCube]],<ref name="develop-online-ccb4">{{cite web|url=http://www.develop-online.net/business-spotlights/tools-spotlight-coppercube-4-0/0186964 |title=Tools Spotlight: CopperCube 4.0 |publisher=evelop-online.net |date=2014-05-28 |accessdate=2014-09-22}}</ref> [[Flare3D]],<ref name="Gladstien2013">{{cite book|author =Keith Gladstien|title=Flash Game Development In a Social, Mobile and 3D World|year=2013|publisher=Cengage Learning|isbn=978-1-4354-6021-8|pages=383–421}}</ref> [[Starling Framework|Starling]],.<ref name="Imbert2012">{{cite book|author =Thibault Imbert|title=Introducing Starling|year=2012|publisher=O'Reilly Media, Inc.|isbn=978-1-4493-2089-8}}</ref>{{rp|vii}} Professional game engines like [[Unreal Engine]]<ref name="Au2012">{{cite book|author =Wagner James Au|title=Game Design Secrets|year=2012|publisher=John Wiley & Sons|isbn=978-1-118-46391-8|page=130}}</ref><ref name="theverge">{{cite web|url=http://www.theverge.com/2011/10/7/2471974/epics-unreal-3-engine-coming-soon-to-adobe-flash-11|title=Adobe Flash 11 adopts Unreal Engine 3 for better browser games &#124; The Verge|publisher=theverge.com|accessdate=2014-08-04}}</ref> and [[Unity (game engine)|Unity]] also export Flash versions which use Stage3D to render 3D graphics.
+
+===Flash Video===
+{{Main|Flash Video}}
+Virtually all browser plugins for video are [[Gratis#Software|free of charge]] and cross-platform, including Adobe's offering of Flash Video, which was first introduced with Flash version 6. Flash Video has been a popular choice for websites due to the large [[#Installed user base|installed user base]] and programmability of Flash. In 2010, Apple publicly criticized Adobe Flash, including its implementation of video playback for not taking advantage of hardware acceleration, one reason Flash is not to be found on Apple's mobile devices. Soon after Apple's criticism, Adobe demoed and released a beta version of Flash 10.1, which takes advantage of GPU hardware acceleration even on a Mac. Flash 10.2 beta, released December 2010, adds hardware acceleration for the whole video rendering pipeline.
+
+Flash Player supports two distinct modes of video playback, and [[video codec|hardware accelerated video decoding]] may not be used for older video content. Such content causes excessive [[CPU usage]] compared to comparable content played with other players.
+
+*'''Software Rendered Video''' : Flash Player supports software rendered video since version 6. Such video supports vector animations displayed above the video content. This obligation may, depending on graphic [[application programming interface|APIs]] exposed by the operating system, prohibit using a [[video overlay]], like a traditional [[Media player (application software)|multimedia player]] would use, with the consequence that [[color space|color space conversion]] and scaling must happen in software.<ref>{{cite web
+| url           = http://blogs.adobe.com/penguinswf/2010/01/solving_different_problems.html
+| title         = Solving Different Problems
+| last          = Melanson
+| first         = Mike
+| date          = January 27, 2010
+| website       = Penguin.SWF
+| accessdate    = November 15, 2014
+}}</ref>
+
+*'''Hardware Accelerated Video''' : Flash Player supports hardware accelerated video playback since version 10.2, for [[H.264]], F4V, and [[FLV]] video formats. Such video is displayed above all Flash content, and takes advantage of [[video codec]] chipsets installed on the user's device. Developers must specifically use the "StageVideo" technology within Flash Player in order for hardware decoding to be enabled. Flash Player internally uses technologies such as [[DirectX Video Acceleration]] and [[OpenGL]] to do so.
+
+In tests done by [[Ars Technica]] in 2008 and 2009, Adobe Flash Player performed better on [[Windows]] than [[Mac OS X]] and [[Linux]] with the same hardware.<ref>{{cite web|url=http://arstechnica.com/software/news/2008/10/benchmarking-flash-player-10.ars|title=Flash benchmarks on different operating systems}}</ref><ref>{{cite web|last=Paul |first=Ryan |url=http://arstechnica.com/media/news/2009/10/hands-on-hulu-desktop-for-linux-beta-a-big-resource-hog.ars |title=Hands-on: Hulu Desktop for Linux beta a big resource hog |publisher=Arstechnica.com |date=October 16, 2009 |accessdate=December 4, 2010}}</ref>
+Performance has later improved for the latter two, on Mac OS X with Flash Player 10.1,<ref>{{cite web|url=http://www.timo-ernst.net/2010/05/flash-player-10-1-performance-explosion/|title=Flash Player 10.1: Performance improvements for Mac OS X}}</ref> and on Linux with Flash Player 11.<ref>{{cite web|url=http://www.phoronix.com/scan.php?page=news_item&px=OTc4Mw|title=Flash Player 11: More stable and faster for Linux}}</ref>
+
+===Flash Audio===
+Flash Audio is most commonly encoded in MP3 or AAC ([[Advanced Audio Coding]]) however it can also use [[ADPCM]], Nellymoser ([[Nellymoser Asao Codec]]) and [[Speex]] audio codecs. Flash allows sample rates of 11, 22 and 44.1&nbsp;kHz. It cannot have 48&nbsp;kHz audio sample rate, which is the standard TV and DVD sample rate.
+
+On August 20, 2007, Adobe announced on its blog that with Update 3 of Flash Player 9, Flash Video will also implement some parts of the [[MPEG-4]] international standards.<ref name=MP4>{{cite web
+|url=http://www.kaourantin.net/2007/08/what-just-happened-to-video-on-web_20.html
+|title=What just happened to video on the web
+|publisher=Adobe
+}}</ref> Specifically, Flash Player will work with video compressed in [[H.264]] (MPEG-4 Part 10), audio compressed using [[Advanced Audio Coding|AAC]] (MPEG-4 Part 3), the F4V, MP4 (MPEG-4 Part 14), M4V, M4A, [[3GP]] and [[.mov|MOV]] multimedia [[Container format (digital)|container formats]], [[3GPP]] [[Timed Text]] specification (MPEG-4 Part 17), which is a standardized subtitle format and partial parsing capability for the 'ilst' atom, which is the [[ID3]] equivalent [[iTunes]] uses to store [[metadata]]. [[MPEG-4 Part 2]] and [[H.263]] will not work in F4V file format. Adobe also announced that it will be gradually moving away from the FLV format to the standard ISO base media file format ([[MPEG-4 Part 12]]) owing to functional limits with the FLV structure when streaming H.264. The final release of the Flash Player implementing some parts of MPEG-4 standards had become available in Fall 2007.<ref>{{cite web|url=https://www.adobe.com/aboutadobe/pressroom/pressreleases/200708/082107FlashPlayer.html |title=Adobe Press release on MPEG-4 in Flash Player 9 |publisher=Adobe.com |accessdate=December 4, 2010| archiveurl= https://web.archive.org/web/20101203071112/http://www.adobe.com/aboutadobe/pressroom/pressreleases/200708/082107FlashPlayer.html| archivedate= December 3, 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+Adobe Flash Player 10.1 does not have acoustic echo cancellation, unlike the VoIP offerings of Skype and Google Voice, making this and earlier versions of Flash less suitable for group calling or meetings. Flash Player 10.3 Beta incorporates acoustic echo cancellation.
+
+===Scripting language===
+{{Further|ActionScript}}
+''ActionScript'' is the programming language used by Flash.  It is an enhanced superset of the [[ECMAScript]] programming language, with a classical Java-style class model, rather than JavaScript's prototype model.
+
+===Specifications===
+In October 1998, Macromedia disclosed the Flash Version 3 Specification on its website. It did this in response to many new and often semi-open formats competing with SWF, such as Xara's [[Xara Flare|Flare]] and Sharp's [[Extended Vector Animation]] formats. Several developers quickly created a [[C library]] for producing SWF. In February 1999, MorphInk 99 was introduced, the first third-party program to create SWF files. Macromedia also hired [[Middlesoft]] to create a freely available [[development kit|developers' kit]] for the SWF file format versions 3 to 5.
+
+Macromedia made the Flash Files specifications for versions 6 and later available only under a [[non-disclosure agreement]], but they are widely available from various sites.
+
+In April 2006, the Flash SWF file format specification was released with details on the then newest version format (Flash 8). Although still lacking specific information on the incorporated video compression formats (On2, Sorenson Spark, etc.), this new documentation covered all the new features offered in Flash v8 including new ActionScript commands, expressive filter controls, and so on. The file format specification document is offered only to developers who agree to a license agreement that permits them to use the specifications only to develop programs that can export to the Flash file format. The license does not allow the use of the specifications to create programs that can be used for playback of Flash files. The Flash 9 specification was made available under similar restrictions.<ref>{{cite web|url=https://www.adobe.com/licensing/developer/fileformat/faq/ |title=Adobe File Format Specification FAQ |accessdate=November 15, 2007 |publisher=Adobe Systems |archiveurl = https://web.archive.org/web/20071111094129/http://www.adobe.com/licensing/developer/fileformat/faq/ <!-- Bot retrieved archive --> |archivedate = November 11, 2007}}</ref>
+
+In June 2009, Adobe launched the [[Open Screen Project]] ([https://www.adobe.com/openscreenproject/faq/ Adobe link]), which made the SWF specification available without restrictions. Previously, developers could not use the specification for making SWF-compatible players, but only for making SWF-exporting authoring software. The specification still omits information on codecs such as [[Sorenson codec|Sorenson Spark]], however.<ref>{{cite web|title=Free Flash community reacts to Adobe Open Screen Project |url=http://www.openmedianow.org/?q=node/21 |accessdate=November 29, 2008 |deadurl=yes |archiveurl=https://web.archive.org/20080928202954/http://www.openmedianow.org:80/?q=node/21 |archivedate=September 28, 2008 }}</ref>
+
+==Animation tools==
+
+===Official tools===
+{{main|Adobe Animate}}
+The [[Adobe Animate]] authoring program is primarily used to design graphics and animation and publish the same for websites, web applications, and video games. The program also offers limited support for audio and video embedding, and ActionScript scripting.
+
+Adobe released [[Adobe LiveMotion]], designed to create interactive animation content and export it to a variety of formats, including SWF. LiveMotion failed to gain any notable user base.{{Specify|date=December 2015}}
+
+In February 2003, Macromedia purchased Presedia, which had developed a Flash authoring tool that automatically converted PowerPoint files into Flash. Macromedia subsequently released the new product as Breeze, which included many new enhancements.
+
+===Third-party tools===
+{{main|Comparison of vector graphics editors}}
+Various free and commercial software packages can output animations into the Flash SWF format, suitable for display on the web, including:
+
+* [[SWiSH Max]] is an animation editor with preset animation, developed by an ex-employee of Macromedia, that can output Flash animations
+* [[ToonBoom|Toon Boom]] is a traditional animation tool that can output Flash animations
+* [[Swift 3D]] renders 3D animations into 2D vectors for display in Flash Player.
+* [[Apple Inc.|Apple]] [[Keynote (presentation software)|Keynote]] allows users to export presentations to Flash SWF animations
+* [[Xara Photo & Graphic Designer]] can output Flash animations
+* [[Ajax Animator]] aim to create a Flash development environment
+* [[KToon]] can edit vectors and generate SWF, but its interface is very different from Macromedia's
+* [[Screencast]] and [[Screencam]], produces demos or tutorials by capturing the screen and generating a Flash animation of the same
+* [[GoAnimate]] is a [[software as a service]] tool to create animated videos.
+* [[Anime Studio]] is a 2D animation software package specialized for character animation, that creates Flash animations
+* [[Question Writer]] publishes its quizzes to Flash animations
+* [[OpenOffice.org|OpenOffice Impress]]
+* [[Toufee]]
+* KoolMoves
+* [[Express Animator]]
+* CelAction2D
+* Alligator Flash Designer
+* Amara Web
+* Clash
+* Salasaga
+* [[Synfig]]
+
+The Flash 4 Linux project was an initiative to develop an [[open source]] [[Linux]] application as an alternative to [[Adobe Animate]]. Development plans included authoring capacity for 2D animation, and [[tweening]], as well as outputing SWF file formats. F4L evolved into an editor that was capable of authoring 2D animation and publishing of SWF files. Flash 4 Linux was renamed UIRA. UIRA intended to combine the resources and knowledge of the F4L project and the Qflash project, both of which were Open Source applications that aimed to provide an alternative to the proprietary Adobe Flash.
+
+==Programming tools==
+
+===Official tools===
+Adobe provides a series of tools to develop [[software applications]] and [[video game]]s for Flash:
+* [[Apache Flex]] SDK – a free, open source SDK to compile Flash-based [[rich Internet applications]] from source code.  The Apache Flex [[ActionScript]] 3.0 compiler generates SWF files from [[ActionScript 3]] files. Flex was the primary ActionScript 3 compiler and was actively developed by Adobe before it was donated to [[Apache Software Foundation]] in 2011.
+* [[Adobe Animate]] – primarily used to design graphics and animation, but supports ActionScript scripting and debugging.
+* [[Adobe Flash Builder]] – enterprise application development & debugging, contains the [[Apache Flex|Flex SDK]] with UI and charting components.
+* [[Adobe Scout]] – a visual profiler to optimize performance of Flash content.
+* [[CrossBridge]] – a free SDK to [[cross compilation|cross-compile]] C++ code to run in Flash Player.
+
+===Third-party tools===
+Third-party development tools have been created to assist developers in creating software applications and video games with Flash.
+
+* [[FlashDevelop]] is a free and [[open-source]] Flash [[ActionScript]] IDE, which includes a project manager and debugger for building applications on Flash Player and [[Adobe AIR]].
+*[[Powerflasher FDT]] is a commercial ActionScript IDE similar to FlashDevelop.
+*[[Haxe]] is an open source, high-level object-oriented programming language geared towards web-content creation that can compile SWF files from Haxe programs. As of 2012, [[Haxe]] can build programs for Flash Player that perform faster than the same application built with the Adobe Flex SDK compiler, due to additional [[compiler optimization]]s supported in Haxe.<ref>[http://www.splashdust.net/2009/10/as3-vs-haxe-performance/ AS3 vs haXe performance], SplashDust website  {{wayback|url=http://www.splashdust.net/2009/10/as3-vs-haxe-performance/ |date=20150707170022 }}</ref>{{unreliable source?|date=August 2014}}
+*[[SWFTools]] (specifically, swfc) is an open-source [[ActionScript]] 3.0 compiler which generates SWF files from script files, which includes [[SVG]] tags.
+*[[swfmill]] and [[MTASC]] also provide tools to create SWF files by compiling text, ActionScript or XML files into [[Flash animation]]s
+*[[Ming library]], to create SWF files programmatically, has interfaces for [[C (Programming Language)|C]], [[PHP]], [[C++]], [[Perl]], [[Python (programming language)|Python]], and [[Ruby (programming language)|Ruby]].  It is able to import and export graphics from XML into SWF.
+
+==Players==
+
+===Commercial===
+
+[[Adobe Flash Player]] is the multimedia and application player originally developed by [[Macromedia]] and acquired by [[Adobe Systems]]. It plays [[SWF]] files, which can be created by [[Adobe Animate]], [[Apache Flex]], or a number of other [[Adobe Systems]] and 3rd party tools. It has support for a scripting language called [[ActionScript]], which can be used to display Flash Video from an SWF file.
+
+[[Scaleform GFx]] is a commercial alternative Flash player that features fully hardware-accelerated 2D graphics rendering using the [[Graphics processing unit|GPU]]. Scaleform has high conformance with both Flash 10 [[ActionScript 3]]<ref name="ActionScript 3">{{cite web|author =Kris Graft|publisher=[[Gamasutra]]|url=http://www.gamasutra.com/view/news/30745/New_Scaleform_GFx_40_Supports_ActionScript_3_Flash_10.php|title=Scaleform GFx 4 Supports Flash 10 AS3|accessdate=2010-10-01}}</ref> and Flash 8 ActionScript 2. Scaleform GFx is a game development middleware solution that helps create graphical user interfaces or [[HUD (video gaming)|HUDs]] within 3D video games.  It does not work with web browsers.
+
+[[IrfanView]], an image viewer, uses Flash Player to display SWF files.
+
+===Open source===
+[[Lightspark]] is a free and open source SWF player that supports most of [[ActionScript]] 3.0 and has a [[Mozilla]]-compatible [[Plug-in (computing)|plug-in]].<ref>{{cite web|url=http://mac.linux.be/content/lightspark-flash-player-continues-advance |title=Lightspark flash player continues to advance |publisher=Linux.be |date=2010-07-09 |accessdate=2010-09-03}}</ref> It will fall back on [[Gnash (software)|Gnash]], a free SWF player supporting ActionScript 1.0 and 2.0 (AVM1) code. Lightspark supports [[OpenGL]]-based rendering for 3D content. The player is also compatible with [[H.264]] Flash videos on [[YouTube]].
+
+[[Gnash (software)|Gnash]] is an active project that aims to create a software player and browser plugin replacement for the Adobe Flash Player. Currently, Gnash can play [[SWF]] files up to version 7, and 80% of [[ActionScript]] 2.0.<ref>{{cite web | url=https://www.gnu.org/software/gnash/manual/gnashref.html#runs-on | title=Gnash Reference Manual | publisher = www.gnu.org | accessdate=2011-11-12}}</ref> Gnash runs on Windows, Linux and other platforms for the 32-bit, 64-bit, and other operating systems.
+
+[[Shumway (software)|Shumway]] is an open source Flash Player released by Mozilla in November 2012. It is built in JavaScript and is thus compatible with modern web-browsers.<ref>{{cite web|last=Duckett |first=Chris |url=http://www.zdnet.com/shumway-looks-to-replace-flash-with-javascript-7000007352/ |title=Shumway looks to replace Flash with JavaScript |publisher=ZDNet |date=2012-11-13 |accessdate=2013-01-08}}</ref><ref>{{cite web|url=http://www.h-online.com/open/news/item/Shumway-Mozilla-s-open-SWF-runtime-project-1748816.html |archiveurl=https://web.archive.org/web/20121220235709/http://www.h-online.com/open/news/item/Shumway-Mozilla-s-open-SWF-runtime-project-1748816.html|archivedate=20 December 2012|title=Shumway: Mozilla's open SWF runtime project - The H Open: News and Features |publisher=H-online.com |date=2012-11-13 |accessdate=2013-01-08}}</ref><ref>{{cite web|url=http://www.iloveubuntu.net/mozilla-publicly-announces-open-source-flash-renderer-mozilla-sponsored-shumway-project |title=Mozilla publicly announces the open-source Flash-renderer Mozilla-sponsored Shumway project &#124; Iloveubuntu: Ubuntu blog |publisher=Iloveubuntu |date=2012-11-12 |accessdate=2013-01-08}}</ref> In early October 2013, Shumway was included by default in the Firefox nightly branch.<ref>{{cite web|url=http://www.phoronix.com/scan.php?page=article&item=xmir_perf_oktoberfest&num=1 |title=[Phoronix&#93; X.Org vs. XMir On KDE, Xfce, Unity Desktops |publisher=Phoronix.com |date=2013-09-24 |accessdate=2013-10-04}}</ref> Shumway renders Flash contents by translating contents inside Flash files to [[HTML5]] elements, and running an [[ActionScript]] interpreter in [[JavaScript]].<ref>{{cite web|url=https://blog.mozilla.org/research/2012/11/12/introducing-the-shumway-open-swf-runtime-project/ |title=The Shumway Open SWF Runtime Project |date=November 12, 2012 |last=Villegas|first=Jet|publisher=Mozilla}}</ref> It supports both AVM1 and AVM2, and ActionScript versions 1, 2, and 3.<ref>{{cite web|last1=Willis|first1=Nathan |date=November 21, 2012 |title=Gnash, Lightspark, and Shumway|url=https://lwn.net/Articles/525719/|website=LWN.net|accessdate=13 June 2014}}</ref>
+
+[[Adobe Flash Player]] cannot ship as part of a pure [[open source]], or completely free operating system, as its distribution is bound to the [http://www.macromedia.com/software/flash/open/licensing/ Macromedia Licensing Program] and subject to proposition first from Adobe.{{citation needed|date=September 2012}}
+
+==Availability==
+
+===Desktop computers===
+
+====Flash Player====
+The latest version of [[Adobe Flash Player]] is available for many major desktop platforms, including [[Microsoft Windows|Windows]] (XP and newer) and [[OS X]] (10.6 and later).<ref name="fp11ios">[https://www.adobe.com/devnet/air/articles/ios_features_in_air26.html iOS features in Adobe AIR 2.6], Adobe Devnet</ref><ref name="fp11platforms">[http://forums.adobe.com/message/4065350], Adobe Official Forums</ref> The latest version is also available on [[Linux]] but only on [[Google Chrome]] as Adobe no longer releases updates for the non-[[PPAPI]] plugin on Linux.<ref>{{cite web|url=https://blogs.adobe.com/flashplayer/2012/02/adobe-and-google-partnering-for-flash-player-on-linux.html|title=Adobe and Google Partnering for Flash Player on Linux|accessdate=November 25, 2012}}</ref>
+
+Adobe Flash Player is available in three flavors: "ActiveX", "Plug-in" and "Projector". The "ActiveX" version is an [[ActiveX]] control for use in [[Internet Explorer]] and any other Windows applications that supports ActiveX technology. The "plug-in" version is available for Netscape-compatible browsers on Microsoft Windows, Macintosh and Linux. The "projector" version is a standalone player that can open [[SWF]] files directly.<ref>{{cite web |url=https://www.adobe.com/support/flashplayer/downloads.html |work=Adobe Flash Player Support Center |title=Downloads |accessdate=October 29, 2011}}</ref>
+
+The following table documents Flash Player and Adobe AIR support on [[desktop operating system]]s:
+
+{| class="wikitable sortable"
+|-
+! Operating System
+! Prerequisites
+! Usage
+! Latest Adobe Flash Player
+! Browser Support
+|-
+| [[Microsoft Windows]]
+| Windows XP/Vista/7/8/10, Windows Server 2003/2008/2012<ref name="fpos">[https://www.adobe.com/software/flash/about/ Adobe Flash Player Versions],Adobe.com</ref>
+| Internet Browser, Standalone Applications
+| Flash Player 21.0,<ref name="fpos"/> AIR 18.0
+| [[Internet Explorer]], [[Mozilla Firefox|Firefox]], [[Google Chrome|Chrome]], [[Chromium (web browser)|Chromium]], [[Apple Safari|Safari]], [[Opera (web browser)|Opera]]<ref name="fpos"/>
+|-
+| [[OS X]]
+| OS X 10.6 or newer
+| Internet Browser, Standalone Applications
+| Flash Player 21.0,<ref name="fpos"/> AIR 18.0
+| [[Apple Safari|Safari]], [[Mozilla Firefox|Firefox]], [[Google Chrome|Chrome]], [[Chromium (web browser)|Chromium]], [[Opera (web browser)|Opera]]<ref name="fpos"/>
+|-
+| [[Linux]] with NPAPI-based Browsers
+| None
+| Internet Browser
+| Flash Player 11.2<ref name="fpos"/>
+| [[Mozilla Firefox|Firefox]], [[Google Chrome|Chrome]], [[Chromium (web browser)|Chromium]], [[Opera (web browser)|Opera]]
+|-
+| [[Linux]] with [[Google Chrome]] (PPAPI-based Browsers)
+| None
+| Internet Browser
+| Flash Player 21.0<ref name="fpos"/>
+| [[Google Chrome]], [[Chromium (web browser)|Chromium]], [[Opera (web browser)|Opera]]
+|}
+
+====Adobe AIR====
+The latest version of [[Adobe AIR]], version 18, contains [[Adobe Flash Player]] 18, and is available for [[Windows XP]] and later, as well as [[OS X]].<ref name="fp11ios"/> Official support for desktop Linux distributions ceased in June 2011 with version 2.6.<ref>{{cite web|url=http://helpx.adobe.com/air/kb/install-air-2-64-bit.html|title=Install Adobe AIR 2 - 64-bit Linux|publisher=|accessdate=May 22, 2015}}</ref>
+
+{| class="wikitable sortable"
+|-
+! Platform
+! Installer file support
+! App Store support
+|-
+|[[Windows]]
+|''[[.air]]'', ''[[.exe]]'' and ''[[.msi]]''<ref name="aircaptive">[https://www.adobe.com/devnet/air/articles/customize-setup-for-AIR-app-with-captive-runtime.html Generating a Windows installer for your AIR captive runtime application], Adobe Developer Connection</ref><ref name="airpackage">[http://help.adobe.com/en_US/air/build/WS789ea67d3e73a8b22388411123785d839c-8000.html Packaging a desktop native installer], Adobe Help Center</ref>
+|None
+|-
+|[[OS X]]
+|''[[.air]]'' and ''[[.dmg]]''<ref name="airpackage" />
+|With captive runtime<ref>{{cite web|url=https://helpx.adobe.com/flash-player/kb/posting-air-app-mac-app.html|title=Post Adobe AIR app to Mac app store}}</ref>
+|-
+|[[Android (operating system)|Android]]
+|''[[.apk]]''<ref name="airandroid">[https://www.adobe.com/devnet/air/articles/packaging-air-apps-android.html Using Flash Builder 4.5 to package applications for Google Android devices], Adobe Developer Connection</ref>
+|[[Google Play]]<ref name="airandroid" />
+|-
+|[[iOS]]
+|''[[.ipa]]''<ref name="airios">[https://www.adobe.com/devnet/air/articles/packaging-air-apps-ios.html Using Flash Builder 4.5 to package applications for Apple iOS devices], Adobe Developer Connection</ref>
+|[[iTunes Store]]<ref name="airios" />
+|-
+|[[BlackBerry PlayBook|PlayBook]]
+|''[[.bar]]''<ref name="airbb">[https://www.adobe.com/devnet/air/articles/packaging-air-apps-blackberry.html Using Flash Builder 4.5 to package applications for BlackBerry Tablet OS devices], Adobe Developer Connection</ref>
+|[[BlackBerry App World]]<ref name="airbb" />
+|}
+
+===Mobile devices===
+
+====Flash Player====
+[[Adobe Flash Player]] was available for a variety of mobile operating systems, including [[Android (operating system)|Android]] (between versions 2.2<ref>{{cite web|author =Tuesday, Apr 27, 2010 by Phil Nickinson|url=http://www.androidcentral.com/andy-rubin-says-flash-coming-froyo-version-android-operating-system |title=Andy Rubin says Flash is coming in Froyo version of Android operating system |publisher=Androidcentral.com |date=April 27, 2010 |accessdate=December 4, 2010| archiveurl= https://web.archive.org/web/20101204221455/http://www.androidcentral.com/andy-rubin-says-flash-coming-froyo-version-android-operating-system| archivedate= December 4, 2010 <!--DASHBot-->| deadurl= no}}</ref> and 4.0.4<ref>{{cite web |url=http://www.webpronews.com/today-is-the-last-day-to-get-flash-for-android-2012-08 |title=Today Is The Last Day To Get Flash For Android |publisher=WebProNews |date=August 14, 2012 |accessdate=January 12, 2015}}</ref>), [[Pocket PC]]/[[Windows CE]], [[QNX]] (e.g. on [[BlackBerry PlayBook]]), [[Symbian]], [[Palm OS]], and [[webOS]] (since version 2.0<ref>{{cite news|author =Sascha Segan|url=http://www.pcmag.com/article2/0,2817,2371016,00.asp#fbid=tFzIWK6F9kL |title=HP WebOS 2.0 with Flash: Hands On |publisher=PCMAG.com |date=October 19, 2010 |accessdate=October 16, 2011}}</ref>). Flash Player for smart phones was made available to handset manufacturers at the end of 2009.<ref name="palmpr">{{cite web|url=https://www.adobe.com/aboutadobe/pressroom/pressreleases/200902/021609AdobePalmOSP.html|title=Palm Latest Mobile Industry Leader to Join Open Screen Project|accessdate=February 20, 2009|date=February 16, 2009| archiveurl= https://web.archive.org/web/20090223002124/http://www.adobe.com/aboutadobe/pressroom/pressreleases/200902/021609AdobePalmOSP.html| archivedate= February 23, 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+However, in November 2011, Adobe announced the withdrawal of support for Flash Player on mobile devices.<ref name="sfgate">{{cite web|last=Winokur |first=Danny |url=http://blogs.adobe.com/conversations/2011/11/flash-focus.html |title=Flash to Focus on PC Browsing and Mobile Apps; Adobe to More Aggressively Contribute to HTML5 (Adobe Featured Blogs) |publisher=Blogs.adobe.com |date=November 9, 2011 |accessdate=January 26, 2012}}</ref> Adobe continues to support deploying Flash-based content as mobile applications via [[Adobe AIR]].
+
+Adobe is reaffirming its commitment to "aggressively contribute" to HTML5.<ref>Stevens, Tim. (2011-11-09) [http://www.engadget.com/2011/11/09/adobe-confirms-flash-player-is-dead-for-mobile-devices Adobe confirms Flash Player is dead for mobile devices]. Engadget.com. Retrieved on 2013-07-21.</ref><ref>{{cite web|url=http://www.theinfoboom.com/articles/adobe-flash-player-turfed-for-mobile-devices/|title=Adobe Flash Player Turfed for Mobile Devices |accessdate=November 11, 2011}}</ref> Adobe announced the end of Flash for mobile platforms or TV, instead focusing on [[HTML5]] for browser content and [[Adobe AIR]] for the various mobile [[List of digital distribution platforms for mobile devices|application stores]]<ref>{{cite web|url=http://tideart.com/?id=4ebafb57|title=Web designers: Time to ditch Flash, Silverlight, and embrace HTML5}}</ref><ref>{{cite web|url=http://www.zdnet.com/blog/networking/flash-is-dead-long-live-html5/1633|title=Flash is dead. Long live HTML5 |accessdate=November 12, 2011| date=November 9, 2011|publisher=[[ZDNet]]}}</ref><ref>{{cite web|url=http://blogs.adobe.com/conversations/2011/11/flash-focus.html|title=Flash to Focus on PC Browsing and Mobile Apps; Adobe to More Aggressively Contribute to HTML5|accessdate=November 12, 2011|date=November 9, 2011|publisher=[[Adobe Systems]]|quote=''We will no longer continue to develop Flash Player in the browser to work with new mobile device configurations (chipset, browser, OS version, etc.) following the upcoming release of Flash Player 11.1 for Android and BlackBerry PlayBook''}}</ref><ref>{{cite web|title=PlayBook has a Flash-filled future; RIM's worst decision to date?|url=http://www.zdnet.com/blog/perlow/without-mobile-adobe-flash-is-irrelevant/19247}}</ref> and described it as "the beginning of the end".<ref>{{cite news|title=The beginning of the end for Adobe's Flash|url=http://money.cnn.com/2011/11/10/technology/adobe_flash/|accessdate=November 11, 2011 | work=CNN|date=November 10, 2011}}</ref> BlackBerry LTD (formerly known as RIM) announced that it would continue to develop Flash Player for the PlayBook.<ref>{{cite web|title=PlayBook has a Flash-filled future; RIM's worst decision to date?|url=http://www.zdnet.com/blog/btl/playbook-has-a-flash-filled-future-rims-worst-decision-to-date/63118|accessdate=November 11, 2011}}</ref>
+
+{{Anchor|Flash for iOS}}There is no Adobe Flash Player for iOS devices (iPhone, iPad and iPod Touch). However, Flash content can be made to run on iOS devices in a variety of ways:
+* Flash content can be bundled inside an [[Adobe AIR]] app, which will then run on iOS devices. (Apple did not allow this for a while, but they relaxed those restrictions in September 2010.<ref>{{cite web|author =Joseph Menn|url=http://www.ft.com/intl/cms/s/2/86cf0890-bc32-11df-8c02-00144feab49a.html#axzz1ay3FpLua |title=Apple relaxes app developer rules |work=Financial Times  |date=September 9, 2010 |accessdate=October 16, 2011}}</ref>)
+* On March 8, 2011, Techradar reported that Adobe provides an experimental server side tool ([http://labs.adobe.com/technologies/wallaby/ Wallaby]) to convert Flash programs (as far as possible) to HTML5 code, thus allowing iOS devices to display the content.<ref>{{cite web|author =Gary Marshall  |url=http://www.techradar.com/news/internet/flash-is-coming-to-the-ipad-ipad-2-and-iphone-934133 | title=Flash is coming to the iPad, iPad 2 and iPhone | publisher=techradar.com |date=March 8, 2011 |accessdate=March 8, 2011}}</ref>
+* If the content is Flash video being served by Adobe Flash Media Server 4.5, the server will translate and send the video as HTTP Dynamic Streaming or HTTP Live Streaming, both of which can be played by iOS devices.<ref>{{cite web|author =Jonny Evans|url=http://blogs.computerworld.com/18922/adobe_brings_flash_free_flash_to_apple_ipad_iphone |title=Adobe brings Flash-free-Flash to Apple iPad, iPhone |publisher=COMPUTERWORLD |date=September 9, 2011 |accessdate=October 16, 2011}}</ref>
+* Some specialized mobile browsers manage to accommodate Flash via streaming content from the cloud directly to a user's device. Some examples are Photon Browser<ref>{{cite web|title=Photon Browser|url=http://www.appsverse.com/Browser|accessdate=5 March 2014}}</ref> and Puffin Web Browser.<ref>{{cite web|title=Puffin Web Browser - About|url=http://www.puffinbrowser.com/about/|accessdate=12 February 2014}}</ref>
+
+The mobile version of [[Internet Explorer]] for [[Windows Phone]] cannot play Flash content,<ref>{{cite journal|last=Hemphill|first=Kenny|date=September 15, 2011|title=Microsoft ditches Flash support in tablet version of Internet Explorer|journal=[[MacUser]]|publisher=[[Dennis Publishing]]|location=London|url=http://www.macuser.co.uk/5470-microsoft-ditches-flash-support-in-tablet-version-of-internet-explorer}}</ref> however Flash support is still present on the [[Windows RT|tablet version of Windows]].<ref>{{cite web|last1=Bott|first1=Ed|title=Microsoft changes default Flash behavior in Windows 8 and RT|url=http://www.zdnet.com/article/microsoft-changes-default-flash-behavior-in-windows-8-and-rt/|website=zdnet.com|accessdate=2 February 2015}}</ref>
+
+====Adobe AIR====
+{{main|Adobe AIR}}
+{{update-section|date=March 2016}}
+
+[[Adobe AIR]] was released in 2008, and allows the creation of [[mobile application]]s and [[mobile game]]s using Flash and [[ActionScript]]. Notable mobile games built with Flash include ''[[Angry Birds]]'', ''[[Machinarium]]'' and ''[[Defend Your Castle]]''.
+
+Using AIR, developers can access the full Adobe Flash functionality, including [[Text file|text]], [[vector graphics]], [[raster graphics]], [[digital video|video]], [[digital audio|audio]], [[digital camera|camera]] and [[microphone]] capability. Adobe AIR also includes additional features such as file system integration, native client extensions, [[Desktop environment|desktop]] integration and access to connected devices and sensors.
+
+AIR applications can be published as native phone applications on certain mobile operating systems, such as [[Android (operating system)|Android]] ([[ARM Cortex-A8]] and above<ref name="flashmobileblog1">{{cite news |url=http://www.flashmobileblog.com/2010/03/02/flash-player-10-1-installations-and-updates/ |title=Flash Player 10.1 – Installations and updates |accessdate=November 19, 2010| archiveurl= https://web.archive.org/web/20101008031022/http://www.flashmobileblog.com/2010/03/02/flash-player-10-1-installations-and-updates/| archivedate=October 8, 2010 | deadurl= no}}</ref>) and [[Apple Inc.|Apple]] [[iOS]].<ref name="fp11ios" />
+
+The following table explains to what extent Adobe AIR can run on various [[mobile operating system]]s:
+
+{| class="wikitable sortable"
+|-
+! Operating System
+! Prerequisites
+! Latest Adobe Flash Player
+! AIR Framework
+|-
+| [[Android (operating system)|Android]]
+| Android 2.3+, [[ARM Cortex-A8]]+<ref>{{cite web|url=https://www.adobe.com/in/products/air/tech-specs.html|title=Adobe AIR - Tech specs - Adobe AIR - System requirements|publisher=|accessdate=May 22, 2015}}</ref> or Android x86<ref>{{cite web|url=http://blogs.adobe.com/flashplayer/2014/04/adobe-air-now-supports-x86-android.html|title=Adobe AIR now supports x86 Android|publisher=|accessdate=May 22, 2015}}</ref>
+| AIR  3.6.0.597 (uses Flash Player 11.6)<ref name="helpx.adobe.com">{{cite web|url=http://helpx.adobe.com/flash-player/release-note/fp_116_air_36_release_notes.html|title=Release Notes - Flash Player® 11.6 AIR® 3.6|publisher=|accessdate=May 22, 2015}}</ref>
+| Option 1: The AIR player can be embedded as a 'captive' runtime, which increases APK size but makes the application standalone.<ref>{{cite web|url=http://stackoverflow.com/questions/9176680/install-air-application-in-android-without-adobe-air|title=java - Install Air Application in Android without Adobe Air - Stack Overflow|publisher=|accessdate=May 22, 2015}}</ref>
+Option 2: The runtime is not included with the app, and must installed as a separate app from the app market.<ref>{{cite web|url=http://forums.adobe.com/thread/848409|title=Android - must install adobe air?|publisher=|accessdate=May 22, 2015}}</ref>
+|-
+| [[Apple Inc.|Apple]] [[iOS]]
+| iOS 4.3 or later
+| AIR  3.6.0.597 (uses Flash Player 11.6)<ref name="helpx.adobe.com" />
+| Not applicable: each app includes its own 'captive' runtime.<ref name="forums.adobe.com">{{cite web|url=http://forums.adobe.com/docs/DOC-1322|title=How are Adobe AIR applications packaged and dep... - Adobe Community|publisher=|accessdate=May 22, 2015}}</ref>
+|-
+| [[BlackBerry Tablet OS]]
+| None
+| AIR 3.1 (uses Flash Player 11.1)<ref name="annfp11">[http://blogs.adobe.com/flashplatform/2011/09/announcing-flash-player-11-and-air-3.html Announcing Flash Player 11 and AIR 3], Adobe Flash Platform Blog</ref><ref>https://www.adobe.com/flashplatform/certified_devices/tablets.html Retrieved on September 19, 2011.</ref>
+| Already pre-installed on each device.<ref name="forums.adobe.com" />
+|-
+| [[BlackBerry 10]]
+| Blackberry 10.2 and lower (no longer supported from 10.3)<ref>{{cite web|url=https://developer.blackberry.com/air/download/endofsupport/|title=End of Support - BlackBerry SDK for Adobe AIR - BlackBerry Developer|author =BlackBerry|publisher=|accessdate=May 22, 2015}}</ref>
+| AIR 3.5 (uses Flash Player 11.1)
+| Already pre-installed on each device.
+|}
+
+===Portable electronic devices===
+[[Adobe Flash Lite]] is a lightweight version of Adobe Flash Player intended for mobile phones and other portable electronic devices like [[Chumby]] and [[iRiver]].
+
+On the emerging [[List of single-board computers|single-board]] enthusiast market, as substantially popularized by the [[Raspberry Pi]], support from Adobe is lacking. However, the open-source player [[Gnash (software)|Gnash]] has been ported and found to be useful.<ref>{{cite web|author =Christopher Kramer|url=http://blog.christosoft.de/2012/08/flash-on-the-raspberry-pi|title=Flash on the Raspberry Pi|date=August 7, 2012 |accessdate=May 12, 2013}}</ref>
+
+==Open Screen Project==
+On May 1, 2008, Adobe announced the ''Open Screen Project'', with the intent of providing a consistent application interface across devices such as personal computers, [[mobile device]]s, and [[consumer electronics]].<ref name="osppr">{{cite web|title=Adobe and Industry Leaders Establish Open Screen Project|url=https://www.adobe.com/aboutadobe/pressroom/pressreleases/200805/050108AdobeOSP.html|accessdate=February 20, 2009|date=May 1, 2008| archiveurl= https://web.archive.org/web/20090210215745/http://www.adobe.com/aboutadobe/pressroom/pressreleases/200805/050108AdobeOSP.html| archivedate= February 10, 2009 <!--DASHBot-->| deadurl= no}}</ref> When the project was announced, seven goals were outlined: the abolition of licensing fees for Adobe Flash Player and [[Adobe Integrated Runtime]], the removal of restrictions on the use of the [[Adobe Shockwave|Shockwave]] Flash ([[SWF]]) and [[Flash Video]] (FLV) [[file format]]s, the publishing of [[Application Programming Interface|application programming interfaces]] for porting Flash to new devices, and the publishing of The Flash Cast protocol and Action Message Format (AMF), which let Flash applications receive information from remote databases.<ref name="osppr"/>
+
+{{As of|February 2009}}, the specifications removing the restrictions on the use of SWF and FLV/F4V specs have been published.<ref name="interview">{{cite web|url=http://www.uiresourcecenter.com/rich-internet-applications/articles/inside-the-open-screen-project.html?s=2_1 |title=Inside the Open Screen Project |first=Anup| last=Murarka|accessdate=February 21, 2009| archiveurl= https://web.archive.org/web/20090210122744/http://uiresourcecenter.com/rich-internet-applications/articles/inside-the-open-screen-project.html?s=2_1| archivedate= February 10, 2009 <!--DASHBot-->| deadurl= no}}</ref> The Flash Cast protocol—now known as the Mobile Content Delivery Protocol—and AMF protocols have also been made available,<ref name="interview"/> with AMF available as an open source implementation, [[BlazeDS]].
+
+The list of mobile device providers who have joined the project includes [[Palm, Inc.|Palm]], Motorola, and Nokia,<ref>{{cite web|url=http://www.openscreenproject.org/partners/current_partners.html| title=Open Screen Project partners|accessdate=February 20, 2009| archiveurl= https://web.archive.org/web/20090224150104/http://www.openscreenproject.org/partners/current_partners.html| archivedate= February 24, 2009 <!--DASHBot-->| deadurl= no}}</ref> who, together with Adobe, have announced a $10 million Open Screen Project fund.<ref>{{cite web|title=Adobe and Nokia Announce $10 Million Open Screen Project Fund|url =https://www.adobe.com/aboutadobe/pressroom/pressreleases/200902/021609AdobeNokia.html|date=February 16, 2009|accessdate=February 20, 2009| archiveurl= https://web.archive.org/web/20090219070548/http://www.adobe.com/aboutadobe/pressroom/pressreleases/200902/021609AdobeNokia.html| archivedate= February 19, 2009 <!--DASHBot-->| deadurl= no}}</ref> {{As of|2012}}, the Open Screen Project is no longer accepting new applications according to partner BSQuare. However paid licensing is still an option for device makers who want to use Adobe software.{{citation needed|date=March 2016}}
+
+==Mobile support==
+Websites built with Adobe Flash will not function on most modern mobile devices running [[Google Android]] or [[iOS]] ([[iPhone]], [[iPad]]). The only alternative is using [[HTML5]] and [[responsive web design]] to build websites that support both desktop and mobile devices.
+
+However, Flash is still actively used to build mobile games using [[Adobe AIR]]. Such games will not work in mobile web browsers, but must be installed via the appropriate [[app store]].
+
+==Alternatives==
+
+===HTML5===
+{{main|Comparison of HTML5 and Flash}}
+[[HTML5]] is often cited as an alternative to Adobe Flash technology usage on web pages. Adobe released a tool that converts Flash to [[HTML5]],<ref>{{cite web|website=Adobe.com|url=https://www.adobe.com/products/flash/flash-to-html5.html |title=Flash to HTML5: Learn more about the CreateJS toolkit}}</ref> and in June 2011, Google released an experimental tool that does the same.<ref>{{cite web|website=Google Labs| url=http://swiffy.googlelabs.com |title=Google Swiffy}}</ref><ref>{{cite web|website=Linked In Groups: HTML5 Technologies |url=https://www.linkedin.com/groups/Google-just-announced-SWF-HTML5-2868882.S.59811646|title=
+Google just announced a SWF to HTML5 converter|author =L., Maxime}}</ref> In January 2015, [[YouTube]] defaulted to HTML5 players to better support more devices.<ref>{{cite news|title=YouTube now defaults to HTML5 <video>|accessdate=16 July 2015|url=http://youtube-eng.blogspot.com.au/2015/01/youtube-now-defaults-to-html5_27.html}}</ref>
+
+==Criticisms==
+
+===Vendor dependence===
+{{See also|Vendor lock-in}}
+The reliance on Adobe for decoding Flash makes its use on the [[World Wide Web]] a concern—the completeness of its public specifications are debated, and no complete implementation of Flash is publicly available in [[source code]] form with a license that permits reuse. Generally, public specifications are what makes a format re-implementable (see [[Future proof#Data storage|future proofing data storage]]), and reusable codebases can be [[Software portability|ported]] to new platforms without the endorsement of the format creator.
+
+Adobe's restrictions on the use of the SWF/FLV specifications were lifted in February 2009 (see [[#Open Screen Project|Adobe's Open Screen Project]]). However, despite efforts of projects like [[Gnash (software)|Gnash]], [[Swfdec]] and [[Lightspark]], a complete free Flash player is yet to be seen, as of September 2011. For example, Gnash cannot use SWF v10 yet.<ref>{{cite web
+|url=https://www.gnu.org/s/gnash/
+|title=Gnash homepage
+|accessdate=September 4, 2011
+|publisher=Gnu.org
+}}</ref> Notably, Gnash has been a long-standing high priority project of the [[Free Software Foundation]] since at least 2007, and it was ranked number one in September 2011.<ref>{{cite web | url=http://www.fsf.org/campaigns/priority-projects/ | title=High Priority Free Software Projects | publisher=Free Software Foundation}}</ref>
+
+Notable advocates of free software, open standards, and the World Wide Web have warned against the use of Flash:
+
+Founder of [[Mozilla Europe]], [[Tristan Nitot]] stated in 2008:<ref>{{cite web
+|url=http://news.zdnet.com/2424-3515_22-199508.html
+|title=Mozilla warns of Flash and Silverlight 'agenda'
+|last=Nitot|first=Tristan
+|publisher=[[ZDNet]]
+|date=April 29, 2008
+|accessdate=September 4, 2011
+}}</ref>
+<blockquote>Companies building websites should beware of proprietary [[rich-media]] technologies like Adobe's Flash and Microsoft's Silverlight. (...) You're producing content for your users and there's someone in the middle deciding whether users should see your content.</blockquote>
+
+Representing open standards, inventor of [[Cascading Style Sheets|CSS]] and co-author of [[HTML5]], [[Håkon Wium Lie]] explained in a [[AtGoogleTalks|Google tech talk]] of 2007, entitled "the &lt;video&gt; element", the proposal of [[Theora]] as the format for [[HTML5 video]]:<ref>{{cite web
+|url=https://www.youtube.com/watch?v=juer_YCitJE&t=11m50s
+|title=Håkon Wium Lie on the video element in HTML 5
+|accessdate=2014-08-14
+|publisher=Google Video
+|date=2007-03-29}}</ref>
+<blockquote>I believe very strongly, that we need to agree on some kind of baseline video format if [the video element] is going to succeed. Flash is today the baseline format on the web. The problem with Flash is that it's not an open standard.</blockquote>
+
+Representing the [[free software movement]], [[Richard Stallman]] stated in a speech in 2004 that:<ref>{{cite web
+|url=https://www.youtube.com/watch?v=aYNLYIDZN48&t=22m52s
+|title=Richard Stallman on The free software movement and its challenges
+|accessdate=2014-08-14
+|date=2004-10-13
+|publisher=Google Video
+|location=Australian National University, Canberra, Australia}}</ref> "The use of Flash in websites is a major problem for our community."
+
+===Accessibility===
+Usability consultant [[Jakob Nielsen (usability consultant)|Jakob Nielsen]] published an Alertbox in 2000 entitled, ''Flash: 99% Bad'', stating that "Flash tends to degrade websites for three reasons: it encourages design abuse, it breaks with the Web's fundamental interaction principles, and it distracts attention from the site's core value."<ref>{{cite web|url=http://www.useit.com/alertbox/20001029.html|title=Flash: 99% Bad|last=Nielsen|first=Jakob|date=October 29, 2000 |accessdate=February 21, 2009}}</ref> Some problems have been at least partially fixed since Nielsen's complaints: Text size can be controlled using full page zoom and it has been possible for authors to include alternative text in Flash since Flash Player 6.
+
+===Flash blocking in web browsers===
+[[File:Noflash.png|thumb|Some websites rely heavily on Flash and become unusable without Flash Player, or with Flash blocked]]
+
+Flash content is usually embedded using the <code>object</code> or <code>embed</code> [[HTML element]].<ref>{{cite web|url=http://validator.w3.org/docs/help.html#faq-flash |title=Help for The W3C Markup Validation Service |publisher=Validator.w3.org |accessdate=January 26, 2012}}</ref> A web browser that does not fully implement one of these elements displays the replacement text, if supplied by the web page.  Often, a plugin is required for the browser to fully implement these elements, though some users cannot or will not install it.
+
+Since Flash can be used to produce content (such as advertisements) that some users find obnoxious or take a large amount of bandwidth to download, some web browsers default to not play Flash content before the user clicks on it, e.g. [[Konqueror]], [[K-Meleon]].
+
+Most current browsers have a feature to block plugins, playing one only when the user clicks it. Opera versions since 10.5 feature native Flash blocking. Opera Turbo requires the user to click to play Flash content, and the browser also allows the user to enable this option permanently. Both Chrome<ref>{{cite web |url=http://www.howtogeek.com/58058/how-to-enable-flashblock-in-chrome-and-make-it-5000-more-secure/ |title=How to Enable Flashblock in Chrome (And Make it 5000% More Secure) |date=8 April 2011 |publisher=How-to Geek |accessdate=18 August 2012}}</ref> and Firefox<ref>{{cite web |url=http://www.ghacks.net/2012/03/29/firefox-14-to-get-click-to-play-plugin-feature/ |title=Firefox 14 To Get Click To Play Plugin Feature|date=29 March 2012 |publisher=ghacks.net |accessdate=18 August 2012}}</ref> have an option to enable "click to play plugins". Equivalent "Flash blocker" extensions are also available for many popular browsers: Firefox has [[Flashblock]] and [[NoScript]], Internet Explorer has Foxie, which contains a number of features, one of them named Flashblock. WebKit-based browsers under Mac OS X, such as Apple's Safari, have ClickToFlash.<ref>{{cite web|url=http://hoyois.github.com/safariextensions/clicktoplugin/|title=ClickToFlash|accessdate=July 27, 2011}}</ref>
+{{anchor|Security}}  In June 2015, Google announced that Chrome will "pause" advertisements and "non-central" Flash content by default.<ref>http://chrome.blogspot.com/2015/06/better-battery-life-for-your-laptop.html</ref>
+
+[[Firefox]] (from version 46) rewrites old Flash-only [[YouTube]] embed code into YouTube's modern embedded player that is capable of using either [[HTML5_video|HTML5]] or Flash.<ref name="firefox_embed_rewrite">{{cite web|title=QA/Youtube Embedded Rewrite|url=https://wiki.mozilla.org/QA/Youtube_Embedded_Rewrite|accessdate=21 May 2016}}</ref> Such embed code is used by non-YouTube sites to embed YouTube's videos, and can still be encountered for example on old blogs and forums.
+
+===Security===
+{{See also|Adobe Flash Player#Security|Browser security#Plugins and extensions}}
+
+For many years Adobe Flash Player's security record<ref>{{cite web|url=https://helpx.adobe.com/security.html#flashplayer|title=Security bulletins and advisories|accessdate=March 27, 2010| archiveurl= https://web.archive.org/web/20100406041941/http://www.adobe.com/support/security/| archivedate= April 6, 2010 <!--DASHBot-->| deadurl= no}}</ref> has led many security experts to recommend against installing the player, or to block Flash content.<ref>{{cite web|url=http://news.cnet.com/8301-27080_3-10396326-245.html|publisher=[[ZDNet]]|title=Expert says Adobe Flash policy is risky|date=November 12, 2009|accessdate=March 27, 2010}}</ref><ref>{{cite web|url=http://www.zdnet.com/protect-yourself-from-flash-attacks-in-internet-explorer-7000003921/|title=Protect yourself from Flash attacks in Internet Explorer|date=September 9, 2012|accessdate=July 7, 2013|quote=I recommend that you disable the Shockwave Flash add-on in IE completely}}</ref> The [[United States Computer Emergency Readiness Team|US-CERT]] has recommended blocking Flash,<ref>{{cite web|url=https://www.us-cert.gov/publications/securing-your-web-browser|title=Securing Your Web Browser|accessdate=March 27, 2010| archiveurl= https://web.archive.org/web/20100326131333/http://www.us-cert.gov/reading_room/securing_browser/| archivedate= March 26, 2010 <!--DASHBot-->| deadurl= no}}</ref> and security researcher [[Charlie Miller (security researcher)|Charlie Miller]] recommended "not to install Flash";<ref>{{cite web|url=http://www.oneitsecurity.it/01/03/2010/interview-with-charlie-miller-pwn2own/|title=Pwn2Own 2010: interview with Charlie Miller|date=March 1, 2010|accessdate=March 27, 2010}}</ref> however, for people still using Flash, [[Intego]] recommended that users get trusted updates "only directly from the vendor that publishes them."<ref>{{cite web|title=How to Tell if Adobe Flash Player Update is Valid|url=http://www.intego.com/mac-security-blog/how-to-tell-if-adobe-flash-player-update-is-valid/|publisher=Intego|accessdate=9 April 2013}}</ref>  As of February 12, 2015, Adobe Flash Player has over 400 [[Common Vulnerabilities and Exposures|CVE]] entries,<ref>{{cite web|url=http://www.cvedetails.com/product/6761/Adobe-Flash-Player.html?vendor_id=53|title=Adobe Flash Player : CVE security vulnerabilities, versions and detailed reports|accessdate=February 12, 2015|quote=291 total vulnerabilities}}</ref> of which over 300 lead to [[arbitrary code execution]], and past vulnerabilities have enabled spying via web cameras.<ref>{{cite web
+|url=http://www.h-online.com/security/news/item/Adobe-remedies-webcam-spy-hole-in-Flash-1364631.html|title=Adobe remedies webcam spy hole in Flash|accessdate=April 4, 2012}}</ref><ref>{{cite web
+|url=http://www.h-online.com/security/news/item/Flash-Player-as-a-spy-system-1073161.html|title=Flash Player as a spy system|accessdate=April 4, 2012}}</ref><ref name="FlashSettings">{{cite web
+|url=http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html
+|title=Adobe Flash Player Settings Manager
+|publisher=[[Adobe Systems]]
+|accessdate=July 1, 2010
+| archiveurl= https://web.archive.org/web/20100620070041/http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html| archivedate= June 20, 2010 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite web
+|url=http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html|title=Global Privacy Settings panel|publisher=[[Adobe Systems]]|accessdate=April 4, 2012}}</ref> Security experts have long predicted the demise of Flash, saying that with the rise of HTML5 ''"....the need for browser plugins such as Flash is diminishing"'',<ref>{{cite web|url=http://www.sophos.com/en-us/medialibrary/PDFs/other/sophossecuritythreatreport2013.pdf|title=Sophos Security Threat Report 2013|publisher=Sophos|pages=11, 24|date=December 2012|accessdate=May 9, 2010}}</ref> yet a significant proportion of websites still use it.<ref>[http://w3techs.com/technologies/history_overview/client_side_language/all "Historical trends in the usage of client-side programming languages for websites"], http://w3techs.com/</ref><ref>[http://www.fastcompany.com/3049920/tech-forecast/the-agonizingly-slow-decline-of-adobe-flash-player "The Agonizingly Slow Decline Of Adobe Flash Player"], JARED NEWMAN 08.18.15, fastcompany.com</ref>
+
+Active moves by third-parties to limit the risk began with [[Steve Jobs]] in 2010 saying that Apple would not allow Flash on the [[iPhone]], [[iPod touch]] and [[iPad]] - citing abysmal security as one reason.<ref name="thoughtsFlash">{{Cite web |url=http://www.apple.com/hotnews/thoughts-on-flash/ |title=Thoughts on Flash |first=Steve |last=Jobs |publisher=Apple.com |date=April 29, 2010 |accessdate=2012-06-18}}</ref> In July 2015, a series of newly discovered vulnerabilities resulted in [[Facebook]]'s chief security officer, Alex Stamos, issuing a call to Adobe to discontinue the software entirely<ref name="stamos">{{Cite web|url=http://www.theverge.com/2015/7/13/8948459/adobe-flash-insecure-says-facebook-cso|title=Facebook's new chief security officer wants to set a date to kill Flash|first=James|last=Vincent|publisher=The Verge|date=July 13, 2015|accessdate=July 14, 2015}}</ref> and the [[Mozilla Firefox]] web browser, [[Google Chrome]] and [[Safari (web browser)|Apple Safari]] to blacklist all earlier versions of Flash Player.<ref name=ars-flashblockfirefox>{{cite web|title=Firefox blacklists Flash player due to unpatched 0-day vulnerabilities|url=http://arstechnica.com/security/2015/07/firefox-blacklists-flash-player-due-to-unpatched-0-day-vulnerabilities/|website=Ars Technica|publisher=Condé Nast|accessdate=15 July 2015}}</ref><ref>{{cite web|title=Google and Mozilla pull the plug on Adobe Flash: Tech giants disable the program on browsers following 'critical' security flaw|url=http://www.dailymail.co.uk/sciencetech/article-3160644/Google-Mozilla-pull-plug-Adobe-Flash-Tech-giants-disable-program-browsers-following-critical-security-flaw.html|website=DailyMail|publisher=Victoria Woollaston|accessdate=20 October 2015}}</ref><ref>{{cite web|title=Adobe Flash has been blocked because it's out of date|url=https://support.google.com/chrome/answer/6258784|website=Google Support|accessdate=20 October 2015}}</ref><ref name=flashblocksafari>{{cite web|title=Apple blocks old, unsafe Adobe Flash plug-in versions in OS X Safari|url=http://appleinsider.com/articles/15/10/20/apple-blocks-older-adobe-flash-plug-in-versions-on-os-x|website=Apple Insider|accessdate=24 October 2015}}</ref>
+
+===Flash cookies===
+{{Main|Local shared object}}
+Like the [[HTTP cookie]], a [[flash cookie]] (also known as a “[[Local Shared Object]]”) can be used to save application data. Flash cookies are not shared across [[Domain name|domains]]. An August 2009 study by the [[Ashkan Soltani]] and a team of researchers at [[UC Berkeley]] found that 50% of websites using Flash were also employing flash cookies, yet privacy policies rarely disclosed them, and user controls for [[Adobe Flash Player#Privacy|privacy preferences]] were lacking.<ref>{{cite web|url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1446862|title=Soltani, Ashkan, Canty, Shannon, Mayo, Quentin, Thomas, Lauren and Hoofnagle, Chris Jay: Flash Cookies and Privacy|date=August 10, 2009 |accessdate=August 18, 2009}}</ref> Most browsers' cache and history suppress or delete functions did not affect Flash Player's writing Local Shared Objects to its own cache in version 10.2 and earlier, at which point the user community was much less aware of the existence and function of Flash cookies than HTTP cookies.<ref>{{cite web|url=http://epic.org/privacy/cookies/flash.html|title=Local Shared Objects – "Flash Cookies"|publisher=Electronic Privacy Information Center|date=July 21, 2005|accessdate=March 8, 2010| archiveurl= https://web.archive.org/web/20100416041024/http://epic.org/privacy/cookies/flash.html| archivedate= April 16, 2010 <!--DASHBot-->| deadurl= no}}</ref> Thus, users with those versions, having deleted HTTP cookies and purged browser history files and caches, may believe that they have purged all tracking data from their computers when in fact Flash browsing history remains. Adobe's own Flash [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html Website Storage Settings panel], a submenu of Adobe's Flash [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html Settings Manager web application], and other [[Local Shared Object#Editors and toolkits|editors and toolkits]] can manage settings for and delete Flash Local Shared Objects.<ref>{{cite web|url=http://kb2.adobe.com/cps/526/52697ee8.html|title=How to manage and disable Local Shared Objects|publisher=Adobe Systems Inc.|date=September 9, 2005|accessdate=March 8, 2010| archiveurl= https://web.archive.org/web/20100218135619/http://kb2.adobe.com/cps/526/52697ee8.html| archivedate= February 18, 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+==See also==
+* [[Creative Cloud controversy|Creative Cloud criticism]]
+* [[List of 2D animation software]]
+* [[Saffron Type System]] – the anti-aliased text-rendering engine used in version 8 onwards
+* [[SWFObject]] – a JavaScript library used to embed Flash content into web pages
+* [[Flash CMS]] – content management for Flash content
+* [[Microsoft Silverlight]]
+* [[JavaFX]]
+* [[OpenLaszlo]]
+* [[Synfig]]
+
+==Footnotes==
+{{Reflist|group="spec"}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+<!--======================== {{No more links}} ============================
+ | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia |
+ | is not a collection of links nor should it be used for advertising. |
+ | |
+ | Excessive or inappropriate links WILL BE DELETED. |
+ | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details. |
+ | |
+ | If there are already plentiful links, please propose additions or |
+ | replacements on this article's discussion page, or submit your link |
+ | to the relevant category at the Open Directory Project (dmoz.org) |
+ | and link back to that category using the {{dmoz}} template. |
+===
+====={{No more links}}===
+======
+==-->
+* {{Official website|https://www.adobe.com/products/flashruntimes.html}}
+* [http://get.adobe.com/flashplayer/ Download Flash Player]
+
+{{Adobe Flash}}
+{{AdobeCS}}
+{{Adobe eLearning Suite}}
+{{Adobe Systems}}
+
+[[Category:American inventions]]
+[[Category:Cross-platform software]]
+[[Category:C++ software]]
+[[Category:Mac OS multimedia software]]
+[[Category:OS X multimedia software]]
+[[Category:Windows multimedia software]]
+[[Category:Macromedia software|Flash]]
+[[Category:Adobe Flash| ]]
+[[Category:Adobe software|Flash]]
+[[Category:1996 software]]
+[[Category:Video game development software]]

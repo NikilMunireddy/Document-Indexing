@@ -1,0 +1,398 @@
+Danish language
+
+{{Use dmy dates|date=February 2013}}
+{{Infobox language
+ | name          = Danish
+ | nativename    = ''dansk''
+ | pronunciation = {{IPA-da|d̥anˀsɡ̊|}}
+ | states        = {{ublist |[[Denmark]] |[[Greenland]] |[[Faroe Islands]] |{{nowrap|[[Schleswig-Holstein|Schleswig-Holstein{{smaller|, Germany}}]]}}}}
+ |image          = File:Codex_Holmiensis_CE_1350.jpg
+ | imagecaption   = The first page of the Jutlandic Law originally from 1241 in Codex Holmiensis, copied in 1350. The first sentence is:<br> "''Mædh logh skal land byggas''"<br>"With law the land shall be built".
+ | speakers      = {{sigfig|5.52|2}} million
+ | date          = 2012 
+ | ref           = e18
+ | familycolor   = Indo-European
+ | fam2          = [[Germanic languages|Germanic]]
+ | fam3          = [[North Germanic languages|North Germanic]]
+ | fam4          = Nordic
+ | dia1          = {{nowrap|[[Bornholmsk dialect|Bornholmian {{smaller|(Eastern Danish)}}]]}}
+ | dia2          = [[Jutlandic dialect|Jutlandic]]
+ | dia3          = [[South Jutlandic]]
+ | dia4          = [[Insular Danish]]
+ | script        = {{ublist |{{nowrap|[[Latin script]]{{\}}[[Danish orthography|dano-norwegian alphabet]]}} |[[Danish Braille]]}}
+ | sign          = [[Danish Sign Language]]
+ | nation        = {{ublist |{{DNK}} |{{FRO}}|[[File:Flag of the Nordic Council.svg|25px|Flag of the Nordic Council]]&nbsp;''[[Nordic Council]]'' |''{{EU}}''}}
+ | minority      = {{ublist |{{GRL}}|{{GER}}}}
+ | agency        = {{longitem|[[Dansk Sprognævn]]<br />{{smaller|{{nowrap|(Danish Language Committee)}}}}}}
+ | iso1          = da |iso2=dan
+ | lc1           = dan |ld1=Insular Danish
+ | lc2           = jut |ld2=Jutlandic
+ | lingua        = 5 2-AAA-bf & -ca to -cj
+ | glotto        = dani1284
+ | glottorefname = Danic
+ | notice        = IPA
+ | map           = File:Idioma danés.PNG
+ | mapcaption    = The Danish-speaking world: {{Legend|#0062FF|regions where Danish is the language of the majority}} {{Legend|#74B4FF|regions where Danish is the language of a significant minority}}
+}}
+
+'''Danish''' {{IPAc-en|audio=En-uk-Danish.ogg|ˈ|d|eɪ|n|ɨ|ʃ}} (''dansk'' {{IPA-da|d̥anˀsɡ̊|pron|Da-dansk.ogg}}; ''dansk sprog'', {{IPA-da|ˈd̥anˀsɡ̊ ˈsb̥ʁɔʊ̯ˀ|}}) is a [[North Germanic languages|North Germanic language]] spoken by around six million people, principally in [[Denmark]] and in the region of [[Southern Schleswig]] in northern [[Germany]], where it has [[minority language]] status.<ref>[http://www.bmi.bund.de/DE/Themen/Gesellschaft-Verfassung/Nationale-Minderheiten/Nationale-Minderheiten-Deutschland/DaenischeMinderheit/daenischeMinderheit_node.html The Federal Ministry of the Interior of Germany] and [http://www.midas-press.org/NR/rdonlyres/1FF1EEC7-7193-4072-81C7-88B33B31FCF2/0/Overview_Germany2007.pdf Minorities in Germany]</ref> There are also minor Danish-speaking communities in [[Norway]], [[Sweden]], [[Spain]], the [[United States]], [[Canada]], [[Brazil]] and [[Argentina]]. Due to immigration and [[language shift]] in urban areas, around 15–20% of the population of [[Greenland]] speak Danish as their [[First language|home language]].
+
+Along with the other North Germanic languages, Danish is a descendant of [[Old Norse]], the common language of the [[Germanic peoples]] that lived in [[Scandinavia]] during the [[Viking Age|Viking Era]]. Danish, together with Swedish, derives from the East Norse dialect group, while the [[Old Norwegian]] dialects before the influence of Danish and [[Bokmål|Norwegian Bokmål]] are classified as West Norse along with [[Faroese language|Faroese]] and [[Icelandic language|Icelandic]]. A more recent classification based on [[mutual intelligibility]] separates modern spoken Danish, Norwegian and Swedish as ''Mainland Scandinavian'' while Icelandic and Faroese are classified as ''Insular Scandinavian''.
+
+Until the 16th century, Danish was a continuum of dialects spoken from Schleswig to [[Scania]] with no [[standard language|standard variety]] or spelling conventions. With the [[Protestant Reformation]] and the [[History of printing|introduction of printing]], a standard language was developed which was based on the educated [[Copenhagen]] dialect. It spread through use in the education system and administration though German and Latin continued to be the most important written languages well into the 17th century. Following the loss of territory to Germany and Sweden, a nationalist movement adopted the language as a token of Danish identity, and the language experienced a strong surge in use and popularity with major works of literature produced in the 18th and 19th centuries. Today, traditional [[Danish dialects]] have all but disappeared, though there are regional variants of the standard language. The main differences in language are between generations, with youth language being particularly innovative.
+
+Danish has a very large vowel inventory comprising 27 [[phonemes|phonemically distinctive]] [[vowel]]s,{{sfn|Haberland|1994|page=318}} and its [[Prosody (linguistics)|prosody]] is characterized by the distinctive phenomenon ''[[stød]]'', a kind of [[glottal consonant|laryngeal phonation type]]. Due to the many pronunciation differences that set apart Danish from its neighboring languages, particularly the vowels, difficult prosody and "weakly" pronounced consonants, it is sometimes considered to be a difficult language to learn and understand,{{sfn|Grønnum|2008a}} and there is some evidence that small children are slower to acquire the phonological distinctions of Danish.{{sfn|Bleses|Vach|Slott|Wehberg|2008}} The grammar is moderately [[Fusional language|inflective]] with strong (irregular) and weak (regular) conjugations and inflections. Nouns and demonstrative pronouns distinguish common and neutral gender. As in English, Danish only has remnants of a former [[grammatical case|case system]], particularly in the pronouns, and it has lost all person marking on verbs. Its syntax is [[V2 word order|V2]], with the finite verb always occupying the second slot in the sentence.
+
+==Classification==
+[[File:North Germanic languages.svg|300px|thumb|left|Danish and its relation to other North Germanic languages within the Germanic branch of Indo-European]]
+Danish is a [[Germanic languages|Germanic language]] of the [[North Germanic languages|North Germanic branch]]. Other names for this group are the Nordic or Scandinavian languages. Along with Swedish, Danish descends from the Eastern dialects of the [[Old Norse language]]; Danish and Swedish are also classified as East Scandinavian or East Nordic languages.
+
+Scandinavian languages are often considered a dialect continuum, where there are no sharp dividing lines between the different vernacular languages.{{sfn|Torp|2006}}
+
+Like Norwegian and Swedish, Danish was significantly influenced by Low German in the Middle Ages, and has been influenced by English since the turn of the 20th century.{{sfn|Torp|2006}}
+
+Danish itself can be divided into three main dialect areas: West Danish (Jutlandic), [[Insular Danish]] (including the Standard variety), and East Danish (including [[Bornholmsk dialect|Bornholmian]] and [[Scanian dialect|Scanian]]). Under the view that Scandinavian is a dialect continuum, East Danish can be considered intermediary between Danish and Swedish, while Scanian can be considered a Swedified East Danish dialect, and Bornholmsk is its closest relative.
+
+===Mutual intelligibility===
+Danish is largely mutually intelligible with [[Norwegian language|Norwegian]] and [[Swedish language|Swedish]]. Proficient speakers of any of the three languages can often understand the others fairly well, though studies have shown that speakers of Norwegian generally understand both Danish and Swedish far better than Swedes or Danes understand each other. Both Swedes and Danes also understand Norwegian better than they understand each other's languages.<ref>{{cite book|last=Åkesson|first=K. L. |year=2005|title=Håller språket ihop Norden?: en forskningsrapport om ungdomars förståelse av danska, svenska och norska|publisher=Nordic Council of Ministers.|url=http://norden.diva-portal.org/smash/record.jsf?pid=diva2%3A700762&dswid=-3605 }}</ref>
+
+==History==
+{{Main|History of Danish}}
+
+===Dǫnsk tunga: The Old Norse period===
+{{main|Old Norse}}{{Old Norse language map}}
+{{Quote box |width=300px |align=left|quoted=true |
+|salign=right
+|quote=''Móðir Dyggva var Drótt, dóttir Danps konungs, sonar Rígs er fyrstr var konungr kallaðr á danska tungu''.<br> "[[Dyggvi]]'s mother was [[Druhtinaz|Drott]], the daughter of king Danp, [[Rígsþula|Ríg]]'s son, who was the first to be called king in the Danish tongue."
+|source= [[Heimskringla]] by [[Snorri Sturluson]]<ref>[http://www.heimskringla.no/wiki/Ynglinga_saga Ynglingasaga]</ref>
+}}
+By the 8th century, the common [[Germanic language]] of [[Scandinavia]], [[Proto-Norse]], had undergone some changes and evolved into [[Old Norse]].
+This language was generally called the "Danish tongue" (''Dǫnsk tunga''), or "Norse language" (''Norrœnt mál''). Norse was written in the runic alphabet, first with the [[elder futhark]] and from the 9th century with the [[younger futhark]].
+
+From the 7th century the common Norse language began to undergo changes that did not spread to all of Scandinavia, resulting in the appearance of two dialect areas, ''Old West Norse'' ([[Norway]] and [[Iceland]]) and ''Old East Norse'' ([[Denmark]] and [[Sweden]]). Most of the changes separating East Norse from West Norse started as innovations in Denmark, that spread through Scania into Sweden and by maritime contact to southern Norway.{{sfn|Faarlund|1994|p=39}} A change that separated Old East Norse (Runic Swedish/Danish) from Old West Norse was the change of the [[diphthong]] ''æi'' (Old West Norse ''ei'') to the [[monophthong]] ''e'', as in ''stæin'' to ''sten''. This is reflected in runic inscriptions where the older read ''stain'' and the later ''stin''. There was also a change of ''au'' as in ''dauðr'' into ''ø'' as in ''døðr''. This change is shown in runic inscriptions as a change from ''tauþr'' into ''tuþr''. Moreover, the ''øy'' (Old West Norse ''ey'') diphthong changed into ''ø'' as well, as in the Old Norse word for "island". This monophthongization started in Jutland and spread eastward, having spread throughout Denmark and most of Sweden by 1100.{{sfn|Faarlund|1994|p=41}}
+
+Through Danish conquest, Old East Norse was once widely spoken in the [[Danelaw|northeast counties of England]]. Many words derived from Norse, such as "gate" ({{wiktda|gade}}) for street, still survive in [[Yorkshire]], the East Midlands and East Anglia, [[Danelaw|parts of eastern England]] colonized by Danish [[Vikings]]. The city of [[York]] was once the Viking settlement of Jorvik. Several other English words  derive from Old East Norse, for example "are" ({{wiktda|er}}), "knife" ({{wiktda|kniv}}), "husband" ({{wiktda|husbond}}), and "egg" ({{wiktda|æg}}).<ref>{{cite web|url=http://www.viking.no/e/england/e-pl-england.htm |title=Viking place names and language in England |publisher=Viking.no |date= |accessdate=2013-09-22}}</ref> The suffix "-by" for 'town' is common in place names in Yorkshire and the east Midlands, for example Selby, Whitby, Derby and Grimsby. The word "dale" meaning valley is common in Yorkshire and Derbyshire placenames.
+
+===Older Danish: The 11th to 16th centuries===
+{{Quote box |width=300px |align=right|quoted=true |
+|salign=right
+|quote=''Fangær man saar i hor seng mæth annæns mansz kunæ. oc kumær han burt liuænd...''.<br> "If one catches someone in the whore-bed with another man's wife and he comes away alive..."
+|source= Jutlandic Law, 1241 {{sfn|Pedersen|1996|page=220}}
+}}
+In the medieval period Danish emerged as a separate language from Swedish. The main written language was Latin, and the few Danish language texts preserved from this period are written in the Latin alphabet, although the runic alphabet seems to have lingered in popular usage in some areas. The main text types written in this period are laws, which were formulated in the vernacular language to be accessible also to those who were not latinate. The [[Codex Holmiensis|Jutlandic Law]] and [[Scanian Law]] were written in vernacular Danish in the early 13th century. Beginning in 1350 Danish began to be used as a language of administration and new types of literature began to be written in the language, such as royal letters and testaments. The orthography in this period was not standardized nor was the spoken language, and the regional laws demonstrate the dialectal differences between the regions in which they were written.{{sfn|Pedersen|1996|pages=219-21}}
+
+Throughout this period Danish was in contact with [[Low German language|Low German]], and many Low German loans were introduced in this period.{{sfn|Pedersen|1996|pages=221-224}}  With the [[Protestant Reformation in Denmark|Protestant Reformation]] in 1536, Danish also became the language of religion, which sparked a new interest in using Danish as a literary language. It is also in this period that Danish begins to take on the linguistic traits that differentiate it from Swedish and Norwegian, such as the [[stød]] and the voicing of many stop consonants.
+
+The first printed book in Danish dates from 1495, the "''Rimkrøniken''" (Rhyming Chronicle), a history book told in rhymed verses.<ref>{{cite web|url=http://www.kb.dk/da/kb/nb/ha/virtuelt_bogmuseum/bogmuseum_danmark.html|publisher=Royal Danish Library|title=Bog Museum (Book Museum)}}</ref> The first complete translation of the [[Bible]] in Danish, the Bible of Christian II translated by [[Christiern Pedersen]] was published in 1550. Pedersen's orthographic choices set the de facto standard for subsequent writing in Danish.{{sfn|Pedersen|1996|page=225}}
+
+===Early Modern Danish===
+{{Quote box |width=300px |align=right|quoted=true |
+|salign=right
+|quote=''Herrer og Narre have frit Sprog''.<br> "Lords and jesters have free speech."
+|source= [[Peder Syv]], [[proverbs]]
+}}
+Following the first Bible translation the development of Danish as a written language, and as a language of religion, administration and public discourse sped up. In the second half of the 17th century a number of grammarians elaborated grammars of Danish, first among them [[Rasmus Bartholin]]'s 1657 Latin grammar ''De studio lingvæ danicæ''; then [[Laurids Olufsen Kock]]'s 1660 grammar of the Zealand dialect ''Introductio ad lingvam Danicam puta selandicam''; and in 1685 the first Danish grammar written in Danish, ''Den Danske Sprog-Kunst'' ("The Art of the Danish Language") by [[Peder Syv]]. Significant authors from this period are [[Thomas Kingo]], poet and psalmist, and [[Leonora Christina Ulfeldt]], whose novel Jammersminde ("Remembered Woes") is considered a literary masterpiece. Orthography was still not standardized and the principles for doing so were vigorously discussed among Danish philologists. The grammar of [[Jens Pedersen Høysgaard]] was the first to give a detailed analysis of Danish phonology and prosody, including a description of the [[stød]]. In this period scholars were also discussing whether it was best to "write as one speaks" or to "speak as one writes", including whether archaic grammatical forms that had fallen out of use in the vernacular, such as the plural form of verbs, should be conserved in writing (i.e. ''han er'' "he is" vs. ''de ere'' "they are").
+
+The East Danish provinces were lost to Sweden after the [[Second Treaty of Brömsebro (1645)|Treaty of Brömsebro]] after which they were gradually Swedified; just as Norway was politically severed from Denmark, marking the end of Danish influence on Norwegian. With the introduction of absolutism in 1660, the Danish state was further integrated, and the language of the chancellery, a Zealandic variety with German and French influence, became the de facto official standard language, especially in writing - this was the original so-called ''rigsdansk'' ("Danish of the Realm"). Also beginning in the mid 18th century, the ''skarre-R'', the [[Guttural R|uvular R]] sound ({{IPA|[ʁ]}}), began spreading through Denmark, probably through influence from Parisian French and German. It affected all of the areas where Danish had been influential, including all of Denmark, Southern Sweden and coastal southern Norway.{{sfn|Torp|2006|p=52}}
+
+In the 18th century Danish philology was advanced by [[Rasmus Rask]], who pioneered the disciplines of comparative and historical linguistics and wrote the first English language grammar of Danish. Literary Danish flourished with the works of [[Ludvig Holberg]], whose plays and historical and scientific works laid the foundation for the Danish literary canon. With the Danish colonization of [[Greenland]] by [[Hans Egede]], Danish became the administrative and religious language there, while [[Iceland]] and the [[Faroe Islands]] had the status of Danish colonies with Danish as an official language up until the mid 20th century.
+
+===Standardized national language===
+{{Quote box |width=250px |align=left|quoted=true |
+|salign=right
+|quote=''Moders navn er vort Hjertesprog,<br> kun løs er al fremmed Tale.<br> Det alene i mund og bog,<br> kan vække et folk af dvale.''<br> "Mother's name is our hearts' tongue,<br> only idle is all foreign speech<br> It alone, in mouth or in book,<br> can rouse a people from sleep."
+|source= [[N.F.S. Grundtvig]], "Modersmaalet"
+}}
+
+Following the loss of Schleswig to Germany, a sharp influx of German speakers moved into the area, eventually outnumbering the Danish speakers. The political loss of territory sparked a period of intense nationalism in Denmark, coinciding with the so-called "[[Danish Golden Age|Golden Age]]" of Danish culture. Authors such as [[N.F.S. Grundtvig]] emphasized the role of language in creating national belonging. Some of the most cherished Danish language authors of this period are [[existentialism|existential]] [[philosopher]] [[Søren Kierkegaard]] and prolific [[fairy tale]] author [[Hans Christian Andersen]]. The influence of popular literary role models, together with increased requirements of education did much to strengthen the Danish language, and also started a period of homogenization, whereby the Copenhagen standard language gradually displaced the regional vernacular languages. After the [[Schleswig plebiscites, 1920|Schleswig referendum in 1920]] a number of Danes remained as a [[Danish minority of Southern Schleswig|minority within German territories]]. Throughout the 19th Century Danes emigrated, establishing small expatriate communities in the Americas, particularly in the US, Canada, and Argentina where memory and some use of Danish remains today.
+
+[[File:LinguisticSituationSchleswigSlesvig.png|thumb|right|[[Language shift]] in the 19th century in Southern [[Schleswig]].]]
+After the Danish occupation by Germany in World War II, the 1948 orthography reform dropped the German influenced rule of capitalizing nouns, and introduced the letter Å/å.  Three 20th century Danish authors have become [[Nobel Prize]] laureates in [[Nobel Prize in Literature|Literature]]: [[Karl Adolph Gjellerup|Karl Gjellerup]] and [[Henrik Pontoppidan]] (joint recipients in 1917) and [[Johannes Vilhelm Jensen|Johannes V. Jensen]] (awarded 1944).
+
+With the exclusive use of ''rigsdansk'', the High Copenhagenian Standard, in national broadcasting, the traditional dialects came under increased pressure. In the 20th century they have all but disappeared, and the standard language has extended throughout the country.{{sfn|Pedersen|2003}} Minor regional pronunciation variation of the standard language, sometimes called ''regionssprog'' ("regional languages") remain, and are in some cases vital. Today the major varieties of Standard Danish are High Copenhagenian, associated with elderly, well to-do and well educated people of the capital, and low-Copenhagenian traditionally associated with the working class, but today adopted as the prestige variety of the younger generations.{{sf|Kristiansen|Jørgensen|2003}}<ref>Quist, P. (2006). lavkøbenhavnsk. [http://dialekt.ku.dk/sociolekter/lavkoebenhavnsk/], at dialekt.ku.dk</ref> Also in the 21st century the influence of immigration has had linguistic consequences, such as the emergence of a so-called [[multiethnolect]] in the urban areas, an immigrant Danish variety (also known as [[Perkerdansk]]), combining elements of different immigrant languages such as Arabic, Turkish and Kurdish, as well as English and Danish.{{sfn|Kristiansen|Jørgensen|2003}}
+
+==Geographical distribution==
+Danish is the national language of [[Denmark]] and one of two official languages of the [[Faroe Islands]] (alongside [[Faroese language|Faroese]]). Until 2009, it had also been one of two official languages of [[Greenland]] (alongside [[Greenlandic language|Greenlandic]]). Danish is widely spoken in Greenland now as ''lingua franca'', and an unknown portion of the native Greenlandic population has Danish as their first language; a large percentage of the native Greenlandic population speak Danish as a second language{{citation needed|date=January 2016}} since its introduction into the education system as a compulsory language in 1928. Danish was an official language in [[Iceland]] until 1944 but is today still widely used and is a mandatory subject in school.<ref>^ http://www.icelandexport.is/english/about_iceland/icelandic_language/ "Icelandic Language". Iceland Trade Directory. icelandexport.is. Retrieved 5 November 2012.</ref>
+[[File:Learn Danish in Germany, 2012, ubt.JPG|thumb|''Learn Danish'' banner in [[Flensburg]], [[Germany]] where it is an officially recognized [[regional language]]]]
+In addition, there is a noticeable community of Danish speakers in [[Southern Schleswig]], the portion of [[Germany]] bordering Denmark, where it is an officially recognized [[regional language]], just as [[German language|German]] is north of the border. Furthermore, Danish is one of the official languages of the [[European Union]] and one of the working languages of the [[Nordic Council]].<ref name=norden>{{cite web|title=Nordic language co-operation|url=http://www.norden.org/en/about-nordic-co-operation/areas-of-co-operation/language/nordic-language-co-operation|publisher=Nordic Council|accessdate=1 January 2013}}</ref> Under the [[Nordic Language Convention]], Danish-speaking citizens of the [[Nordic countries]] have the opportunity to use their native language when interacting with official bodies in other Nordic countries without being liable for any [[interpreting|interpretation]] or [[translation]] costs.<ref name=norden />
+
+The more widespread of the two varieties of [[Norwegian language|Norwegian]], [[Bokmål]], is very close to Danish, because standard Danish was used as the de facto administrative language until 1814. Bokmål is based on Danish unlike the other variety of Norwegian, [[Nynorsk]], which is based on the Norwegian dialects, with [[Old Norwegian]] as an important reference point.
+
+There is no law stipulating an official language for Denmark, making Danish the [[de facto]] language only. The Code of Civil Procedure does, however, lay down Danish as the language of the courts. Since 1997 public authorities have been obliged to observe the official spelling by way of the Orthography Law.
+
+==Dialects==
+{{main|Danish dialects}}
+[[File:Danishdialectmap.png|thumb|right|250px|Map of Danish dialects]]
+Standard Danish (''rigsdansk'') is the language based on dialects spoken in and around the capital, [[Copenhagen]]. Unlike Swedish and Norwegian, Danish does not have more than one regional speech norm. More than 25% of all Danish speakers live in the metropolitan area of the capital, and most government agencies, institutions, and major businesses keep their main offices in Copenhagen, something that has resulted in a very homogeneous national speech norm. In contrast, though [[Oslo]] (Norway) and [[Stockholm]] (Sweden) are quite dominant in terms of speech standards, cities like [[Bergen, Norway|Bergen]], [[Gothenburg]] and the [[Malmö]]-[[Lund]] region are large and influential enough to create secondary regional norms, making the standard language more varied than is the case with Danish. The general agreement is that Standard Danish is based on a form of Copenhagen dialect, but the specific norm, as with most language norms, is difficult to pinpoint for both laypeople and scholars. Historically Standard Danish emerged as a compromise between the dialect of Zealand and [[Scanian dialects|Scania]]. The first layers of it can be seen in east Danish provincial law texts such as [[Scanian Law|Skånske Lov]], just as we can recognize west Danish in laws from the same ages in [[Jyske Lov]].
+
+Despite the relative cultural monopoly of the capital and the centralized government, the divided geography of the country allowed distinct rural dialects to flourish during the centuries. Such "genuine" [[dialect]]s were formerly spoken by a vast majority of the population, but have declined much since the 1960s. They still exist in communities out in the countryside, but most speakers in these areas generally speak a regionalized form of Standard Danish, when speaking with one who speaks to them in that same standard. Usually an adaptation of the local dialect to ''rigsdansk'' is spoken, though [[code-switching]] between the standard-like norm and a distinct dialect is common.<ref>{{cite web |title=Kodeskift |url=http://dialekt.dk/kodeskift/ |date= |work= |publisher=Dialekt.dk |language=Danish |accessdate=16 July 2009}}</ref>
+
+[[File:Denmark-gender.png|thumb|right|The distribution of one, two, and three grammatical genders in Danish dialects. In Zealand the transition from three to two genders has happened fairly recently. West of the red line the definite article goes before the word as in English or German; east of the line it takes the form of a suffix.]]
+Danish is divided into three distinct dialect groups,<ref>{{cite web|url=http://dialekt.dk/dialekter/ |title=Dialekt.dk |publisher=Dialekt.dk |date= |accessdate=2010-10-02}}</ref> which are further subdivided in about 30 ''dialektområder'', "dialect areas":<ref>{{cite web|url=http://dialekt.ku.dk/dialekter/dialektomraader/dialektomraader/ |title=Kort over dialektområder – Københavns Universitet |publisher=Dialekt.ku.dk |date= |accessdate=2013-09-22}}</ref>
+* [[Insular Danish]] (''ømål''), including dialects of the [[Danish islands]] of Zealand, Funen, Lolland, Falster, and Møn
+* [[Jutlandic]] (''jysk''), further divided in North, East, West and [[South Jutlandic]]
+* [[Bornholmsk dialect|Bornholmian]] (''bornholmsk'') the dialect of the island of [[Bornholm]]
+
+The term ''Eastern Danish''<ref>{{cite web|url=http://www.denstoredanske.dk/Samfund,_jura_og_politik/Sprog/Dansk/danske_dialekter |title=danske dialekter &#124; Gyldendal - Den Store Danske |language= da |publisher=Denstoredanske.dk |date= |accessdate=2013-09-22}}</ref> is occasionally used for Bornholmian, but including the dialects of [[Scanian dialects|Scania]] (particularly in a historical context). The background for this lies in the loss of the originally Danish provinces of [[Blekinge]], [[Halland]] and [[Scania]] to Sweden in 1658. The island of Bornholm in the [[Baltic Sea]] was ceded to Sweden the same year, but returned to Danish rule in 1660. The spoken language in this part of modern Sweden is historically a variant of Danish, but was over time influenced by written and spoken Swedish and is today considered to be a Swedish dialect. Similarly, the Norwegian language is classified as a descendant of [[West Norse]], while the [[Bokmål|written language]] used by the vast majority in Norway is derived from an older variant of standard Danish. A few generations ago, the classical dialects spoken in the southern Swedish provinces could still be argued to be more Eastern Danish than Swedish, being similar to the dialect of Bornholm. Today, influx of Standard Swedish and Standard Danish vocabulary has generally meant that [[Scanian dialects|Scanian]] and Bornholmian are closer to the modern national standards of their respective host nations than to each other. The Bornholmian dialect has also maintained to this day many archaic features, such as a distinction between three [[grammatical gender]]s, which this feature disappeared in the central Insular Danish dialects during the 20th century. Standard Danish has two genders and the definite form of nouns is formed by the use of [[suffix]]es, while Western Jutlandic has only one gender and the definite form of nouns uses an article before the noun itself, in the same fashion as [[West Germanic languages]]. Today, Standard Danish is most similar to the Insular Danish dialect group.
+
+==Phonology==
+{{Main|Danish phonology}}
+
+The sound system of Danish is unusual among the world's languages, particularly in its large vowel inventory and in the unusual prosody. In informal or rapid speech the language is prone to considerable reduction of unstressed syllables, creating many vowel-less syllables with syllabic consonants, as well as reduction of final consonants. Furthermore, the language's prosody does not include many clues about the sentence structure, unlike many other languages, making it relatively more difficult to segment the speech flow into its constituent elements.{{sfn|Grønnum|2008a}}{{sfn|Grønnum|2008b}} These factors taken together make Danish pronunciation difficult to master for learners, and there are even indications that Danish children take slightly longer in learning to segment speech in early childhood.{{sfn|Bleses|Vach|Slott|Wehberg|2008}}
+
+===Vowels===
+Although somewhat depending on analysis, most modern variants of Danish distinguish 12 long vowels, 13 short vowels and two schwa vowels, {{IPA|/ə/}} and {{IPA|/ɐ/}} that only occur in unstressed syllables. This gives a total of 27 different vowel phonemes - a very large number among the world's languages.{{sfn|Haberland|1994|p=319}} At least 19 different diphthongs also occur, all with a short first vowel and the second segment being either {{IPA|[i̯]}}, {{IPA|[u̯]}} or {{IPA|[ɐ̯]}}.{{sfn|Haberland|1994|p=320}} The table below shows the approximate distribution of the vowels as given by {{Harvcoltxt|Grønnum|1998}} in Modern Standard Danish, with the symbols used in [[Wikipedia:IPA for Danish|IPA for Danish]]. Questions of analysis may give a slightly different inventory, for example based on whether r-colored vowels are considered distinct phonemes. {{harvcoltxt|Basbøll|2005|page=50}} gives 25 "full vowels", not counting the two unstressed schwa-vowels.
+
+{|class="wikitable" style="text-align: center"
+|-
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! style="font-size: smaller" | unrounded
+! style="font-size: smaller" | rounded
+! style="font-size: smaller" | unrounded
+! style="font-size: smaller" | rounded
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}, {{IPA|iː}}
+| {{IPA link|y}}, {{IPA|yː}}
+|
+| {{IPA link|u}}, {{IPA|uː}}
+|-
+! [[Near-close vowel|Near-close]]
+| {{IPA link|ɪ|e}}, {{IPA|eː}}
+|
+|
+|
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPA link|e|ɛ}}, {{IPA|ɛː}}
+| {{IPA link|ø}}, {{IPA|øː}}
+|
+| {{IPA link|o}}, {{IPA|oː}}
+|-
+! [[Mid vowel|Mid]]
+|
+| {{IPA link|œ̝|œ}}, {{IPA|œː}}
+| {{IPA link|ə}}
+| {{IPA link|o̞|ɔ}}, {{IPA|ɔː}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPA link|ɛ|æ}}, {{IPA|æː}}
+| {{IPA link|œ|œ̞}}, {{IPA|œ̞ː}}
+|
+| {{IPA link|ɔ|ɒ}}, {{IPA|ɒː}}
+|-
+! [[Near-open vowel|Near-open]]
+| {{IPA link|æ|a}}
+| {{IPA link|ɶ}}, {{IPA|ɶː}}
+| {{IPA link|ɐ|ʌ}}, {{IPA link|ɐ}}
+|
+|-
+! [[Open vowel|Open]]
+|
+|
+| {{IPA link|ä|ɑ}}, {{IPA|ɑː}}
+|
+|}
+
+===Consonants===
+The consonant inventory is comparatively simple. {{harvcoltxt|Basbøll|2005|p=73}} distinguishes 16 non-syllabic consonant phonemes in Danish.
+
+{|class="wikitable" style="text-align: center"
+!
+! colspan="2" | [[Labial consonant|Labial]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! [[Alveolo-palatal consonant|Alveolo<br>-palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! [[Uvular consonant|Uvular]]/<br>[[pharyngeal consonant|pharyngeal]]{{sfn|Basbøll|2005|p=130}}
+! [[glottal consonant|Glottal]]
+|-
+! [[Nasal stop|Nasal]]
+| colspan="2" | {{IPA|/m/}}
+| colspan="2" | {{IPA|/n/}}
+|
+| colspan="2" | {{IPA|/ŋ/}}
+|
+|
+|-
+! [[Plosive consonant|Plosive]]
+| {{IPA|/p/}}
+| {{IPA|/b/}}
+| {{IPA|/t/}}
+| {{IPA|/d/}}
+|
+| {{IPA|/k/}}
+| {{IPA|/ɡ/}}
+|
+|
+|-
+! [[Fricative consonant|Fricative]]
+| colspan="2" | {{IPA|/f/}}
+| colspan="2" | {{IPA|/s/}}
+| 
+| colspan="2" |
+|
+| {{IPA|/h/}}
+|-
+! [[Approximant consonant|Approximant]]
+| colspan="2" | {{IPA|/v/}}
+| colspan="2" | {{IPA|/l/}}
+| {{IPA|/j/}}
+| colspan="2" |
+| {{IPA|/ʁ/}}
+|
+|}
+
+Many of these phonemes have quite different [[allophone]]s in [[Syllable onset|onset]] and [[Syllable coda|coda]]. Phonetically there is no voicing distinction among the stops, rather the distinction is one of aspiration and fortis vs. lenis.{{sfn|Haberland|1994|p=320}} {{IPA|/p t k/}} are aspirated in onset realized as {{IPA|[b̥ʰ, d̥ˢ, ɡ̊ʰ]}}, but not in coda. The pronunciation of ''t'', {{IPA|[d̥ˢ]}}, is in between a simple aspirated {{IPA|[d̥ʰ]}} and a fully affricated {{IPA|[d̥s]}} as has happened in German with many words that now contain ''z''. The stops /b d g/ are realized as {{IPA|[b̥, d̥, ɡ̊]}} in onset and as [b̥ ð̞ˠ̠, j/ʊ̯] in coda. In syllable onset the phonemes {{IPA|/b d ɡ v j r/}} are [[contoid]] (having enough closure to produce friction), but in coda syllables they become [[vocoid]]s, with no audible friction making them phonetically similar to vowels. For example, /v b/ is pronounced as a [w]-sound in syllable coda e.g. /grav, løb/ ("grave, ran") are pronounced {{IPA|[grau̯, løu̯]}}.
+
+{{IPA|[ʋ, ð]}} often have slight frication, but are usually pronounced as [[approximant]]s. Danish {{IPA|[ð]}} differs from the similar sound in English and Icelandic, in that it is not a dental fricative but an alveolar [[approximant]] which sounds like and is frequently mistaken for an [l] (or [[Voiced dental and alveolar lateral fricatives|[ɮ]]]) to second language learners.{{sfn|Haberland|1994|p=320}}
+
+The sound {{IPA|[ɕ]}} is found for example in the word /sjovˀ/ "fun" pronounced {{IPA|[ɕɔu̯ˀ]}} and /tjalˀ/ "marijuana" pronounced {{IPA|[tɕalˀ]}}. Some analyses have posited it as a phoneme, but since it occurs only after {{IPA|/s/}} or {{IPA|/t/}} and {{IPA|[j]}} doesn't occur after these phonemes, it can be analyzed as an [[allophone]] of {{IPA|/j/}}, which is devoiced after voiceless alveolar frication. This makes it unnecessary to postulate a {{IPA|/ɕ/}}-phoneme in Danish.<ref>{{Harvcoltxt|Grønnum|2005|pp=305–306}}</ref>
+
+In onset {{IPA|/r/}} is realized as a [[voiced uvular fricative|uvu-pharyngeal approximant]], {{IPA|[ʁ]}}, but in coda it is either realized as a non-syllabic [[near-open central vowel|low central vowel]], {{IPA|[ɐ̯]}} or simply coalesces with the preceding vowel. The phenomenon is comparable to the ''r'' in German or in [[non-rhotic]] pronunciations of English. The Danish pronunciation of {{IPA|/r/}} as a so-called skarre-r distinguishes the language from those varieties of Norwegian and Swedish that use trilled {{IPA|[r]}}.
+
+===Prosody===
+Danish is characterized by a [[prosody (linguistics)|prosodic]] feature called ''[[stød]]'' (lit. "thrust"). This is a form of laryngealization or [[creaky voice]]. Some sources have described it as a [[glottal stop]], but this is a very infrequent realization, and today phoneticians consider it a phonation type or a prosodic phenomenon.{{sfn|Fischer-Jørgensen|1989}}  It has phonemic status, since it serves as the sole distinguishing feature of words with different meanings in [[minimal pair]]s such as ''bønder'' ("peasants") with stød, versus ''bønner'' ("beans") without stød. The distribution of stød in the vocabulary is related to the distribution of the common Scandinavian [[pitch accent]]s found in most dialects of [[Norwegian phonology#Accent|Norwegian]] and [[Swedish phonology#Stress and pitch|Swedish]].{{sfn| Basbøll|2005|pp=83-86}}
+
+[[stress (linguistics)|Stress]] is phonemic and distinguishes words such as ''billigst'' {{IPA|[ˈbilist]}} "cheapest" and ''bilist'' {{IPA|[biˈlist]}} "car driver".
+
+==Grammar==
+{{Main|Danish grammar}}
+
+===Nouns===
+In Standard Danish, nouns fall into only two grammatical genders: ''common'' and ''neuter'', while some dialects still often have ''masculine'', ''feminine'' and ''neuter''. While the majority of Danish nouns (ca. 75%) have the ''common'' gender, and ''neuter'' is often used for inanimate objects, the genders of nouns are not generally predictable and must in most cases be memorized. A distinctive feature of the Scandinavian languages, including Danish, is an [[enclitic]] definite article.
+
+To demonstrate: The ''common'' gender word "a man" (indefinite) is ''en mand'' but "the man" (definite) is ''manden''. The ''neuter'' equivalent would be "a house" (indefinite) ''et hus'', "the house" (definite) ''huset''. In the plural, the definite article is ''-(e)ne'', as the plural endings are ''- / -e / -er''. The enclitic article is not used when an adjective is added to the noun; here the demonstrative pronoun is used instead: ''den store mand'' "the big man", "the big house", ''det store hus''.
+
+Like all Germanic languages, Danish forms compound nouns. These are represented in Danish orthography as one word, as in ''kvindehåndboldlandsholdet'', "the female national handball team". In some cases, nouns are joined with an extra ''s'', originally possessive in function, like ''landsmand'' (from ''land'', "country", and ''mand'', "man", meaning "compatriot"), but ''landmand'' (from same roots, meaning "farmer"). Some words are joined with an extra ''e'', like ''gæstebog'' (from ''gæst'' and ''bog'', meaning "guest book").
+
+===Verbs===
+The infinitive forms of Danish verbs end in a vowel, which in almost all cases is a schwa, represented in writing by the letter ''e''. Verbs are conjugated according to [[Grammatical tense|tense]], but otherwise do not vary according to [[Grammatical person|person]] or [[Grammatical number|number]]. For example, the present tense form of the Danish infinitive verb ''spise'' ("to eat") is ''spiser''; this form is the same regardless of whether the subject is in the first, second, or third person, or whether it is singular or plural.
+
+===Syntax===
+Danish is a [[V2 word order|V2 language]].
+
+==Vocabulary==
+[[File:Danish military police Mercedes.JPG|thumb|Danish label reading ''militærpoliti,'' "military police", on police vehicle]]
+The majority of Danish words are derived from the [[Old Norse language]]. However, Danish has a considerable number of loan words, most of which were borrowed from [[Middle Low German]] in the [[late medieval]] period. Out of the 500 most frequently used Words in Danish, 100 are Medieval loans from Middle Low German.<ref name=Sproget>http://sproget.dk/raad-og-regler/artikler-mv/svarbase/SV00001479</ref> In the 17th and 18th Centuries [[German language|standard German]] and [[French language|French]] superseded Low German influence and in the 20th Century English became the main supplier of loan words, especially after [[World War II]]. Although many old Nordic words remain, some were replaced with borrowed synonyms, as can be seen with ''æde'' (to eat) which became less common when the Low German ''spise'' came into fashion. As well as loan words, new words are freely formed by compounding existing words. In standard text in contemporary Danish Middle Low German loans account for about 16-17% of the vocabulary, Graeco-Latin-loans 4-8 %, French 2-4 % and English about 1%.<ref name=Sproget/>
+
+Danish and English are both Germanic languages, Danish a North Germanic language descended from Old Norse and English a West Germanic language descended from Old English, and Old Norse exerted a strong influence on Old English in the early medieval period. To see their shared Germanic heritage, one merely has to note the many common words that are very similar in the two languages. For example, Danish words for commonly used nouns and prepositions are easily recognizable in their written form to English speakers, such as ''have'', ''over'', ''under'', ''for'', ''give'', ''flag,'' ''salt,'' and ''kat''. However, when pronounced, most of these words sound quite different from their English equivalents; not so much due to the [[Great Vowel Shift]] of English, as Danish ''a'' and ''e'' were affected similarly, but due to the Danish tendency to slur soft consonants such as ''d'', ''g'', and ''v'' (resulting in what sounds to English ears as ''ha'e'', ''o'er'', ''un'er'', ''gi'e'', and ''flay''). Similarly, some other words are almost identical to their [[Scots language|Scottish]] equivalents, e.g., ''kirke'' (Scottish ''kirk'', i.e., 'church') or ''barn'' (Scottish ''bairn'', i.e. 'child'). In addition, the word ''by'', meaning "village" or "town", occurs in many English place-names, such as ''Whitby'' and ''Selby'', as remnants of the [[Danelaw|Viking occupation]]. During the latter period, English adopted "are", the third person plural form of the verb "to be", as well as the corresponding personal pronoun form "they" from contemporary Old Norse.
+
+===Numerals{{anchor|Numerals}}===<!-- This section is linked from [[Numeral system]] (well, not any more, actually)-->
+In the word forms of numbers above 20, the units are stated before the tens, so 21 is rendered ''enogtyve'', literally "one and twenty". Similar constructions are found in [[German language|German]], [[Dutch language|Dutch]], [[Afrikaans language|Afrikaans]], certain [[Variety (linguistics)|varieties]] of [[Norwegian language|Norwegian]], [[Slovene language|Slovene]] and [[Arabic#Numerals|Arabic]] as well as in archaic and dialect English (compare the line "[[Sing a Song of Sixpence|''Four-and-twenty'' blackbirds"]] in the old nursery rhyme.)
+
+The numeral ''halvanden'' means 1½ (literally "half second", implying "one plus half of the second one"). The numerals ''halvtredje'' (2½) and ''halvfjerde'' (3½) are obsolete, but still implicitly used in the [[vigesimal]] system described below. Similarly, the [[time|temporal designation]] ''klokken halv tre'', literally "half three o'clock", is half past two.
+
+One peculiar feature of the Danish language is the fact that numerals 50, 60, 70, 80 and 90 are (somewhat like the [[French language|French]] numerals from 80 through 99) based on a [[vigesimal]] system, meaning that the [[20 (number)|score]] (20) is used as a base unit in counting. ''Tres'' (short for ''tre-sinds-tyve'', "three times twenty") means 60, while 50 is ''halvtreds'' (short for ''halvtredje-sinds-tyve'', "half third times twenty", implying two score plus half of the third score). The [[suffix|ending]] ''sindstyve'' meaning "times twenty" is no longer included in [[cardinal number]]s, but still used in [[ordinal number]]s. Thus, in modern Danish fifty-two is usually rendered as ''tooghalvtreds'' from the now obsolete ''tooghalvtredsindstyve'', whereas 52nd is either ''tooghalvtredsende'' or ''tooghalvtredsindstyvende''. Twenty is ''tyve'' (derived from old Danish ''tiughu'', a [[haplology]] of ''tuttiughu'', meaning 'two tens'<ref name="ODS">[http://ordnet.dk/ods/ordbog?select=tyve,4&query=tyve Ordbog over det danske sprog]</ref>), while thirty is ''tredive'' (Old Danish ''þrjatiughu'', "three tens"), and forty is ''fyrre'' (Old Danish ''fyritiughu'', "four tens"<ref name="dsnfaq">[http://dsn.dk/sproghjaelp/ofte-stillede-spoergsmaal/de-danske-tal-halvtreds-tres-halvfjerds-firs-og-halvfems {{Link language|da}} Dansk sprognævn – De danske tal halvtreds, tres, halvfjerds, firs og halvfems]</ref> via ''fyrretyve'', still occasionally used in historical settings or for humorous effect). An exception to the way Danish numbers are formed is in writing cheques and legal amounts in banking, where traditionally the numbers are 10-based and spelled as they appear in numerical form; thus, ''fir(e)ti'' is forty and ''seksti-to'' is sixty-two.
+
+{|class="wikitable"
+|-
+! '''Cardinal numeral''' || '''Danish''' || '''Literal translation''' || '''Ordinal numeral''' || '''Danish''' || '''Literal translation'''
+|-
+| 1 || ''én'' / ''ét'' || one || 1st || ''første'' || first
+|-
+| 12 || ''tolv'' || twelve || 12th || ''tolvte'' || twelfth
+|-
+| 23 || ''treogtyve'' || three and twenty || 23rd || ''treogtyvende'' || three and 20th
+|-
+| 34 || ''fireogtredive'' || four and thirty || 34th || ''fireogtred(i)vte'' || four and 30th
+|-
+| 45 || ''femogfyrre(tyve)'' || five and forty (four tens) || 45th || ''femogfyrretyvende'' || five and four tens-th
+|-
+| 56 || ''seksoghalvtreds(indstyve)'' || six and [two score plus] half [of the] third (score) || 56th || ''seksoghalvtredsindstyvende'' || six and [two score plus] half [of the] third score-th
+|-
+| 67 || ''syvogtres(indstyve)'' || seven and three (score) || 67th || ''syvogtresindstyvende'' || seven and three score-th
+|-
+| 78 || ''otteoghalvfjerds(indstyve)'' || eight and [three score plus] half [of the] fourth (score) || 78th || ''otteoghalvfjerdsindstyvende'' || eight and [three score plus] half [of the] fourth score-th
+|-
+| 89 || ''niogfirs(indstyve)'' || nine and four (score) || 89th || ''niogfirsindstyvende'' || nine and four score-th
+|-
+| 90 || ''halvfems(indstyve)'' || [four score plus] half [of the] fifth (score) || 90th || ''halvfemsindstyvende'' || [four score plus] half [of the] fifth score-th
+|}
+
+For large numbers (one billion or larger), Danish uses the [[Long and short scales|long scale]], so that the short scale billion (1,000,000,000) is called ''milliard'', and the short scale trillion (1,000,000,000,000) is ''billion''.
+
+==Writing system==<!-- This section is linked from [[Adam Gottlob Oehlenschläger]] -->
+{{Main|Danish orthography}}
+[[Image:Illuminated keyboard 2.JPG|thumb|right|Danish keyboard with keys for Æ, Ø, and Å.]]
+
+The oldest preserved examples of written Danish (from the Iron and Viking Ages) are in the [[Runic alphabet]]. The introduction of [[Christianity]] also brought the [[Latin script]] to Denmark, and at the end of the [[High Middle Ages]] the Runes had more or less been replaced by the Latin letters.
+
+As in [[Germany]], the [[Fraktur (typeface sub-classification)|Fraktur]] (blackletter) types were still commonly used in the late 19th century (until 1875, Danish children were taught to read Fraktur letters in school), and many books were printed with Fraktur typesetting even in the beginning of the 20th century, particularly by conservatives. However, the Latin script was used by modernists, for example, the [[Royal Danish Academy of Sciences and Letters]] changed style in 1799. Nouns were capitalized, as in German, until the 1948 spelling reform.
+
+The modern Danish alphabet is similar to the English one, with three additional letters: ''[[æ]]'', ''[[ø]]'', and ''[[å]]'', which come at the end of the [[Danish alphabet|alphabet]], in that order. A [[spelling reform]] in 1948 introduced the letter ''å'', already in use in Norwegian and Swedish, into the Danish alphabet to replace the [[digraph (orthography)|digraph]] ''aa''; the old usage still occurs in some personal and [[geographical name]]s (for example, the name of the city of ''[[Aalborg]]'' is spelled with Aa following a decision by the City Council in the 1970s and ''[[Aarhus]]'' decided to go back to Aa in 2011). When representing the ''å'' sound, ''aa'' is treated just like ''å'' in [[collating|alphabetical sorting]], even though it looks like two letters. When the letters are not available due to technical limitations (e.g., in URLs), they are often replaced by ''ae'' (Æ, æ), ''oe'' or ''o'' (Ø, ø), and ''aa'' (Å, å), respectively.
+
+The same spelling reform changed the spelling of a few common words, such as the past tense ''vilde'' (would), ''kunde'' (could) and ''skulde'' (should), to their current forms of ''ville'', ''kunne'' and ''skulle'' (making them identical to the infinitives in writing, as they are in speech). Modern Danish and Norwegian use the same alphabet, though spelling differs slightly.
+
+==Notes and references==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+{{refbegin|indent=yes|30em}}
+:{{cite book| authorlink=Hans Basbøll| last=Basbøll| first=Hans| year=2005| title=The Phonology of Danish|publisher=Oxford University Press| isbn=0-19-824268-9|ref=harv}}
+:{{cite journal|last=Ejskjær|first=I. |year=1990|title=Stød and pitch accents in the Danish dialects|journal=Acta linguistica hafniensia|volume=22|issue=1|pages=49–75|ref=harv|doi=10.1080/03740463.1990.10411522}}
+:{{cite book|editor-last1=Gregersen|editor-first1=Frans|editor-first2=Anne|editor-last2=Holmen|editor-first3=Tore |editor-last3=Kristiansen| editor-first4=Erik |editor-last4=Møller|editor-first5=Inge Lise |editor-last5=Pedersen|editor-first6=Jakob |editor-last6=Steensig|editor-first7=lb |editor-last7=Ulbæk|title=Dansk Sproglære|trans-title=Danish Language studies|language=Danish|publisher=Dansklærerforeningen|year=1996|ref=harv}}
+: {{cite book|last=Grønnum|first=Nina|year=2005|title=Fonetik og fonologi, Almen og Dansk, 3rd edition|trans-title=Phonetics and Phonology, general and Danish|language=Danish|publisher=Akademisk Forlag
+|place=Copenhagen|isbn=87-500-3865-6|ref=harv}}
+:{{cite book |last=Faarlund|first=Jan Terje|authorlink=Jan Terje Faarlund|chapter=3. Old and Middle Scandinavian|pages=39–71|editor1-last=König |editor1-first=Ekkehard |editor2-last=van der Auwera |editor2-first=Johan |title=The Germanic Languages |date=1994 |publisher=Routledge |isbn=978-0-415-28079-2 |series=Routledge Language Family Descriptions |url=http://www.routledge.com/books/details/9780415280792/ |accessdate=26 February 2015 |laysummary=http://www.jstor.org/stable/4176538 |laydate=26 February 2015 |ref=harv}}
+:{{cite journal|last=Fischer-Jørgensen|first=Eli|authorlink=Eli Fischer-Jørgensen|year=1989|title=Phonetic analysis of the stød in standard Danish| journal=Phonetica|volume=46|pages=1–59|ref=harv|doi=10.1159/000261828}}
+:{{cite book |last=Haberland|first=Hartmut|chapter=10. Danish|pages=313–349|editor1-last=König |editor1-first=Ekkehard |editor2-last=van der Auwera |editor2-first=Johan |title=The Germanic Languages |date=1994 |publisher=Routledge |isbn=978-0-415-28079-2 |series=Routledge Language Family Descriptions |url=http://www.routledge.com/books/details/9780415280792/ |accessdate=26 February 2015 |laysummary=http://www.jstor.org/stable/4176538 |laydate=26 February 2015 |ref=harv}}
+:{{cite book|last=Hansen|first=Aa. |year=1943|title=Stødet i dansk|trans-title=The Stød in Danish|language=Danish|series=De Kongelige Danske Videnskabernes Selskab Historisk-Filologiske Meddelelser |volume=XXIX.|issue=5 |location=Copenhagen|publisher=Munksgaard}}
+:{{cite book|last=Jespersen|first=O. |year=1906|title=Modersmålets fonetik|trans-title=The phonetics of the Mothertongue|language=Danish|publisher=Schuboth|ref=harv}}
+:{{cite journal|last=Kroman|first=E|title=Debat: Stød-og accentområder og deres oprindelse|trans-title=Stød and accent areas and their origins|language=Danish|journal=Fortid og Nutid, 1.|ref=harv|year=1980}}
+:{{cite book|title=Danish: An Essential Grammar|first=Tom|last=Lundskaer-Nielsen|first2=Philip |last2=Holmes|publisher=Routledge|year=2011|ref=harv}}
+:{{cite book|last=Torp|first=Arne|chapter=Nordiske sprog i fortid og nutid. Sproglighed og sprogforskelle, sprogfamilier og sprogslægtskab |publisher=Nordens Sprogråd|trans-chapter=Nordic languages in past and present. Language and language diversity, language families and linguistic relatedness|language=Danish|title=Nordens Sprog med rødder og fødder|trans-title=The languages of the Nordic countries with roots and feet|year=2006|url=http://norden.diva-portal.org/smash/get/diva2:700645/FULLTEXT01.pdf|format=pdf|ref=harv}}
+:{{cite book|editor-last1=Gregersen|editor-first1=Frans|editor-first2=Anne|editor-last2=Holmen|editor-first3=Tore |editor-last3=Kristiansen| editor-first4=Erik |editor-last4=Møller|editor-first5=Inge Lise |editor-last5=Pedersen|editor-first6=Jakob |editor-last6=Steensig|editor-first7=lb |editor-last7=Ulbæk|chapter=Sprogsamfundets Historie|last=Pedersen|first=Inge Lise|title=Dansk Sproglære|publisher=Dansklærerforeningen|year=1996|ref=harv}}
+:{{cite book|last=Pedersen|first=I. L. |year=2003|chapter=Traditional dialects of Danish and the de-dialectalization 1900–2000|title=The Sociolinguistics of Danish.|publisher=International Journal of the Sociology of Language|pages=159-9|ref=harv}}
+:{{cite book|last=Sørensen|first=V.|year=2011|title=Lyd og prosodi i de klassiske danske dialekter|trans-title=Sound and prosody in the classical Danish dialects|language=Danish|publisher= Peter Skautrup Centret|url=http://jysk.au.dk/fileadmin/www.jysk.au.dk/publikationer/centrets_publikationer/Lydogprosodi.pdf|format=PDF|ref=harv}}
+:{{cite book|title=Dansk syntaks|first=Christian |last=Becker-Christensen|title=Samfundslitteratur|year=2010|ref=harv}}
+:{{cite journal|last=Bleses|first=D.|last2=Vach|first2=W.|last3=Slott|first3=M.|last4=Wehberg|first4=S.|last5=Thomsen|first5=P.|last6=Madsen|first6=T. O.|last7=Basbøll|first7=H. |year=2008|title=Early vocabulary development in Danish and other languages: A CDI-based comparison. |journal=Journal of child language|volume=35|issue=03|pages=619–650|ref=harv|doi=10.1017/s0305000908008714}}
+:{{cite journal|last=Grønnum|first=N.|year=2008b|title=Hvad er det særlige ved dansk som gør det svært at forstå og at udtale for andre?: Anden del: prosodi|trans-title=What is the peculiarity of Danish that makes it difficult for others to understand and pronounce? Second part: Prosody|language=Danish|journal=Mål og mæle|volume=31|issue=2|pages=19–23|ref=harv}}
+:{{cite journal|last=Grønnum|first=N.|year=2008a|title=Hvad er det særlige ved dansk som gør det svært at forstå og at udtale for andre?: Første del: enkeltlydene|trans-title=What is the peculiarity of Danish that makes it difficult for others to understand and pronounce? First part: Segmentary sounds|journal=Mål og mæle|volume=31|issue=1|pages=15–20|ref=harv}}
+:{{cite journal|last=Grønnum|first=N.|year=1998|title=Illustrations of the IPA: Danish|journal=Journal of the International Phonetic Association|volume=28|issue=1 & 2|pages=99–105|doi=10.1017/s0025100300006290|ref=harv}}
+:{{cite journal|last=Kristiansen|first=T.|last2=Jørgensen|first2=J. N.|year=2003|title=The sociolinguistics of Danish|journal=International Journal of the Sociology of Language|volume=165|ref=harv}}
+{{refend}}
+
+==External links==
+{{InterWiki|code=da}}
+{{Wiktionary category|Danish language}}
+{{Wikibooks}}
+{{Wikivoyage|Danish phrasebook|Danish|a phrasebook}}
+* [http://sproget.dk "Sproget.dk"] sproget.dk is the place on the internet where you can find guidance, information and answers to questions about the Danish language and language matters in Denmark (in Danish)
+
+==See also==
+Realm languages:
+* [[Faroese language|Faroese]]
+* [[Greenlandic language|Greenlandic]]
+
+Nordic languages:
+* [[Finnish language|Finnish]]
+* [[Icelandic language|Icelandic]]
+* [[Norwegian language|Norweigian]]
+* [[Swedish language|Swedish]]
+
+{{Danish language|state=expanded}}
+{{Languages of Denmark}}
+{{Denmark topics}}
+{{Germanic languages}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Danish Language}}
+[[Category:Danish language]]
+[[Category:Fusional languages]]
+[[Category:Languages of Denmark]]
+[[Category:Languages of Norway]]
+[[Category:Languages of Sweden]]
+[[Category:Languages of Iceland]]
+[[Category:Languages of the Faroe Islands]]
+[[Category:Languages of Germany]]
+[[Category:Languages of Greenland]]
+[[Category:East Scandinavian languages]]
+[[Category:North Germanic languages]]
+[[Category:Scandinavia]]
+[[Category:Subject–verb–object languages]]
+[[Category:Verb-second languages]]

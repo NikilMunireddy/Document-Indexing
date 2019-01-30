@@ -1,0 +1,95 @@
+Asterids
+
+{{Automatic taxobox
+|image = Balsam I IMG 9566.jpg
+|image_caption = ''[[Impatiens balsamina]]'' from [[Ericales]]
+|subdivision_ranks = [[Clade]]s
+|subdivision = *[[Cornales]]
+*[[Ericales]]
+*[[Lamiids]]
+*[[Campanulids]]
+}}
+[[Image:Origanum vulgare - harilik pune.jpg|thumb|[[Oregano]] from Lamiales]]
+In the [[APG II system]] (2003) for the classification of [[flowering plants]], the name '''asterids''' denotes a [[clade]] (a [[monophyletic]] group).<ref name=APG2>{{cite journal| author=Angiosperm Phylogeny Group | title=An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG II| journal=[[Botanical Journal of the Linnean Society]] | volume=141| issue=4| year=2003| pages=399–436| issn=0024-4074| doi=10.1046/j.1095-8339.2003.t01-1-00158.x | url=http://w3.ufsm.br/herb/An%20update%20of%20the%20Angiosperm%20Phylogeny%20Group.pdf | format=PDF }}</ref> Common examples include the [[forget-me-not]]s, [[Solanaceae|nightshades]], [[potato]]es, [[eggplant]]s, [[tomatoes]], [[Chili pepper|peppers]], [[tobacco]], [[petunias]], [[morning glory]], [[sweet potato]], [[coffee]], [[lavender]], [[lilac]], [[olive]], [[jasmine]], [[honeysuckle]], [[ash tree]], [[teak]], [[snapdragon]], [[sesame]], [[psyllium]], [[garden sage]], and a number of table herbs such as [[Mentha|mint]], [[basil]], and [[rosemary]].
+
+Most of the taxa belonging to this clade had been referred to the [[Asteridae]] in the [[Cronquist system]] (1981) and to the [[Sympetalae]] in earlier systems.{{cn|date=September 2011}}  The name asterids (not necessarily capitalised) resembles the earlier [[botanical name]] but is intended to be the name of a clade rather than a formal ranked name, in the sense of the ''[[ICBN]]''. This clade is one of the two most [[wikt:speciose|speciose]] groups of [[eudicots]], the other being the [[rosids]].  It consists of:<ref name=APG2/>
+
+* clade '''asterids:'''
+*:: order [[Cornales]]
+*:: order [[Ericales]]
+*: clade '''euasterids I'''
+*:::: family [[Boraginaceae]]
+*:::: family [[Icacinaceae]]
+*:::: family [[Oncothecaceae]]
+*:::: family [[Vahliaceae]]
+*::: order [[Garryales]]
+*::: order [[Solanales]]
+*::: order [[Gentianales]]
+*::: order [[Lamiales]]
+*: clade '''euasterids II'''
+*:::: family [[Bruniaceae]]
+*:::: family [[Columelliaceae]] (+ family [[Desfontainiaceae]])
+*:::: family [[Eremosynaceae]]
+*:::: family [[Escalloniaceae]] (+ family [[Tribelaceae]])
+*:::: family [[Paracryphiaceae]] (+ families [[Sphenostemonaceae]] and [[Quintiniaceae]])
+*:::: family [[Polyosmaceae]]
+*::: order [[Aquifoliales]]
+*::: order [[Apiales]]
+*::: order [[Dipsacales]]
+*::: order [[Asterales]]
+
+'''Note:''' “ + ....”  = optional as a segregate of the preceding family.
+
+== APG III ==
+Genetic analysis carried out after APG II maintains that the sister to all other Asterids are the [[Cornales]]. A second order that split from the base of the Asterids are the [[Ericales]]. The remaining orders cluster into two clades, the [[Lamiids]] and the [[Campanulids]]. The structure of both of these clades has changed in APG III. The phylogenetic tree presented hereafter has been proposed by the APG III-project.<ref>{{cite journal|author= APG III|year= 2009|title= An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants|journal= Botanical Journal of the Linnean Society|volume= 161|pages= 105–121|url= http://onlinelibrary.wiley.com/doi/10.1111/j.1095-8339.2009.00996.x/pdf|accessdate= 2016-02-29}}</ref>
+
+{{Clade
+|label1=&nbsp;Asterid&nbsp;clade&nbsp;
+|1={{Clade 
+      |1=&nbsp;[[Cornales]]
+      |2={{Clade
+        |1=&nbsp;[[Ericales]]
+        |2={{Clade
+           |label1=Lamiid&nbsp;clade&nbsp;&nbsp;(similar&nbsp;to '''Euasterids&nbsp;I'''&nbsp;in&nbsp;APG&nbsp;II)
+           |1={{Clade
+              |1={{Clade
+                 |1=&nbsp;[[Gentianales]]
+                 |2={{Clade
+                    |1=&nbsp;[[Lamiales]]
+                    |2=&nbsp;[[Solanales]]
+                    }}
+                 |3=&nbsp;[[Boraginales]]
+                 }}
+              |2=&nbsp;[[Garryales]]
+              }}
+           |label2=Campanulid&nbsp;clade&nbsp;&nbsp;(similar&nbsp;to '''Euasterids&nbsp;II'''&nbsp;in&nbsp;APG&nbsp;II)
+           |2={{Clade
+              |1=&nbsp;[[Aquifoliales]]
+              |2={{Clade
+                 |1={{Clade
+                    |1=&nbsp;[[Bruniales]]
+                    |2={{Clade
+                       |1={{Clade
+                          |1=&nbsp;[[Paracryphiales]]
+                          |2=&nbsp;[[Dipsacales]]
+                          }}
+                       |2=&nbsp;[[Apiales]]
+                       }}
+                    }}
+                 |2=&nbsp;[[Escalloniales]]
+                 |3=&nbsp;[[Asterales]]
+                 }}
+              }}
+           }}
+        }}
+     }}
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Asterids}}
+*[http://www.mobot.org/MOBOT/Research/APweb/orders/cornalesweb.htm#Asterids Asterids] in Stevens, P. F. (2001 onwards). [http://www.mobot.org/MOBOT/research/APweb Angiosperm Phylogeny Website]. Version 7, May 2006.
+
+[[Category:Asterids| ]]

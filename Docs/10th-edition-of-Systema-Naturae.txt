@@ -1,0 +1,227 @@
+10th edition of Systema Naturae
+
+{{DISPLAYTITLE:10th edition of ''Systema Naturae''}}
+{{main|Systema Naturae}}
+[[File:Linnaeus1758-title-page.jpg|thumb|right|Title page of the 10th edition of ''Systema Naturae'']]
+The '''10th edition of ''Systema Naturae''''' is a book written by [[Carl Linnaeus]] and published in two volumes in 1758 and 1759, which marks the starting point of [[zoological nomenclature]]. In it, Linnaeus introduced [[binomial nomenclature]] for [[animal]]s, something he had already done for plants in his 1753 publication of ''[[Species Plantarum]]''.
+
+==Starting point==
+Before 1758, most biological catalogues had used polynomial names for the taxa included, including earlier editions of ''Systema Naturae''. The first work to consistently apply binomial nomenclature across the animal kingdom was the 10th edition of ''Systema Naturae''. The [[International Commission on Zoological Nomenclature]] therefore chose 1 January 1758 as the "starting point" for zoological nomenclature, and asserted that the 10th edition of ''Systema Naturae'' was to be treated as if published on that date.<ref name="Art3">{{cite book |url=http://www.nhm.ac.uk/hosted-sites/iczn/code/index.jsp?article=3&nfv=true |chapter=Article 3 |title=International Code of Zoological Nomenclature |edition=4th |isbn=0-85301-006-4 |year=1999}}</ref> Names published before that date are unavailable, even if they would otherwise satisfy the rules. The only work which takes [[Principle of Priority|priority]] over the 10th edition is [[Carl Alexander Clerck]]'s ''{{lang|sv|[[Svenska Spindlar]]}}'' or ''{{lang|la|Aranei Suecici}}'', which was published in 1757, but is also to be treated as if published on January 1, 1758.<ref name="Art3"/>
+
+==Revisions==
+[[File:Carl von Linné.jpg|thumb|right|upright|An oil-painting of Carl Linnaeus by [[Alexander Roslin]] in 1775]]
+{{main|Linnaean taxonomy}}
+During Linnaeus' lifetime, ''Systema Naturae'' was under continuous revision. Progress was incorporated into new and ever-expanding editions; for example, in his 1st edition (1735), [[Cetacean|whale]]s and [[manatee]]s were originally classified as species of [[fish]] (as was thought to be the case then), but in the 10th edition they were moved into the [[mammal]] class.<ref>{{cite web |url=http://www.linnaeus.uu.se/online/animal/1_1.html |title=''Systema Naturae'' - an epoch-making book |work=Linné on line |publisher=[[Uppsala University|Uppsala Universitet]] |accessdate=August 30, 2010 |year=2008}}</ref>
+
+==Animals==
+The Animal Kingdom (as described by Linnaeus): ''Animals enjoy sensation by means of a living organization, animated by a medullary substance; perception by nerves; and motion by the exertion of the will. They have members for the different purposes of life; organs for their different senses; and faculties (or powers) for the application of their different perceptions. They all originate from an egg. Their external and internal structure; their comparative anatomy, habits, instincts, and various relations to each other, are detailed in authors who prosessedly treat on their subjects.''&nbsp;<ref name="General1">{{cite book |author=[[Carl Linnaeus|Carl von Linné]], translated by [[William Turton]] |year=1806 |title=Volume 1 |series=A general system of nature: through the three grand kingdoms of animals, vegetables, and minerals, systematically divided into their several classes, orders, genera, species, and varieties |publisher=Lackington, Allen, and Co |location=London |url=http://books.google.com/books?id=I3QZAAAAYAAJ&printsec=frontcover}}</ref>
+
+The list has been broken down into the original six classes Linnaeus described for animals; '''Mammalia''', '''Aves''', '''Amphibia''', '''Pisces''', '''Insecta''', & '''Vermes'''. These classes were ultimately created by studying the internal anatomy, as seen in his key:<ref name="General1"/>
+*Heart with 2 auricles, 2 ventricles. Warm, red blood
+**Viviparous: [[Mammalia in the 10th edition of Systema Naturae|Mammalia]]
+**Oviparous: [[Aves in the 10th edition of Systema Naturae|Aves]]
+*Heart with 1 auricle, 1 ventricle. Cold, red blood
+**Lungs voluntary: [[Amphibia in the 10th edition of Systema Naturae|Amphibia]]
+**External gills: [[Pisces in the 10th edition of Systema Naturae|Pisces]]
+*Heart with 1 auricle, 0 ventricles. Cold, pus-like blood
+**Have antennae: [[Insecta in the 10th edition of Systema Naturae|Insecta]]
+**Have tentacles: [[Vermes in the 10th edition of Systema Naturae|Vermes]]
+
+By current standards Pisces and Vermes are informal groupings, Insecta also contained [[arachnid]]s and [[crustacean]]s, and one order of Amphibia comprised [[shark]]s, [[lamprey]]s, and [[sturgeon]]s.
+
+===Mammalia===
+{{main|Mammalia in the 10th edition of Systema Naturae}}
+[[File:Barbary Macaque.jpg|thumb|right|The [[Barbary macaque]] was included in the 10th edition as ''Simia sylvanus''.]]
+Linnaeus described [[mammal]]s as: ''Animals that suckle their young by means of lactiferous teats. In external and internal structure they resemble man: most of them are quadrupeds; and with man, their natural enemy, inhabit the surface of the Earth. The largest, though fewest in number, inhabit the ocean.''&nbsp;<ref name="General1"/>
+
+Linnaeus divided the mammals based upon the number, situation, and structure of their teeth, into the following orders and genera:
+
+*'''Primates''': ''[[Homo]]'' ([[human]]s), ''Simia'' ([[monkey]]s & [[ape]]s), ''Lemur'' ([[lemur]]s & [[colugo]]s) & ''Vespertilio'' ([[bat]]s)
+*'''Bruta''': ''Elephas'' ([[elephant]]s), ''Trichechus'' ([[manatee]]s), ''Bradypus'' ([[sloth]]s), ''Myrmecophaga'' ([[anteater]]s) & ''Manis'' ([[pangolin]]s)
+*'''Ferae''': ''Phoca'' ([[Pinniped|seal]]s), ''Canis'' ([[dog]]s & [[hyena]]s), ''Felis'' ([[cat]]s), ''Viverra'' ([[mongoose]]s & [[civet]]s), ''Mustela'' ([[weasel]]s & kin) & ''Ursus'' ([[bear]]s)
+*'''Bestiae''': ''Sus'' ([[Sus (genus)|pig]]s), ''Dasypus'' ([[armadillo]]s), ''Erinaceus'' ([[hedgehog]]s), ''Talpa'' ([[Mole (animal)|mole]]s), ''Sorex'' ([[shrew]]s) & ''Didelphis'' ([[opossum]]s)
+*'''Glires''': ''Rhinoceros'' ([[rhinoceros]]es), ''Hystrix'' ([[porcupine]]s), ''Lepus'' ([[rabbit]]s & [[hare]]s), ''Castor'' ([[beaver]]s), ''Mus'' ([[mice]] & kin) & ''Sciurus'' ([[squirrel]]s)
+*'''Pecora''': ''Camelus'' ([[camel]]s), ''Moschus'' ([[musk deer]]), ''Cervus'' ([[deer]] & [[giraffe]]s), ''Capra'' ([[goat]]s & [[antelope]]), ''Ovis'' ([[sheep]]) & ''Bos'' ([[cattle]])
+*'''Belluae''': ''Equus'' ([[horse]]s) & ''Hippopotamus'' ([[hippopotamus]]es)
+*'''Cete''': ''Monodon'' ([[narwhal]]s), ''Balaena'' ([[rorqual]]s), ''Physeter'' ([[sperm whale]]s) & ''Delphinus'' ([[dolphin]]s & [[porpoise]]s)
+
+===Aves===
+{{main|Aves in the 10th edition of Systema Naturae}}
+[[File:Snowy Owl Barrow Alaska.jpg|thumb|right|The [[snowy owl]] was included in the 10th edition as ''Strix scandiaca''.]]
+Linnaeus described [[bird]]s as: ''A beautiful and cheerful portion of created nature consisting of animals having a body covered with feathers and down; protracted and naked jaws (the beak), two wings formed for flight, and two feet. They are areal, vocal, swift and light, and destitute of external ears, lips, teeth, scrotum, womb, bladder, epiglottis, corpus callosum and its arch, and diaphragm.''<ref name="General1"/>
+
+Linnaeus divided the birds based upon the characters of the bill and feet, into the following orders and genera:
+
+*'''Accipitres''': ''Vultur'' ([[vulture]]s & [[condor]]s), ''Falco'' ([[falcon]]s, [[eagle]]s, & kin), ''Strix'' ([[owl]]s) & ''Lanius'' ([[Lanius|shrikes]])
+*'''Picae''': ''Psittacus'' ([[parrot]]s), ''Ramphastos'' ([[toucan]]s), ''Buceros'' ([[hornbill]]s), ''Crotophaga'' ([[Ani (bird)|anis]]), ''Corvus'' ([[crow]]s & [[raven]]s), ''Coracias'' ([[roller]]s & [[oriolus|orioles]]), ''Gracula'' ([[myna]]s), ''Paradisea'' ([[Bird-of-paradise|birds-of-paradise]]), ''Cuculus'' ([[cuckoo]]s), ''Jynx'' ([[wryneck]]s), ''Picus'' ([[woodpecker]]s), ''Sitta'' ([[nuthatch]]es), ''Alcedo'' ([[kingfisher]]s), ''Merops'' ([[bee-eaters]]), ''Upupa'' ([[hoopoe]]s), ''Certhia'' ([[Certhia|treecreepers]]) & ''Trochilus'' ([[hummingbird]]s)
+*'''Anseres''': ''Anas'' ([[duck]]s, [[Goose|geese]], & [[swan]]s), ''Mergus'' ([[Mergus|mergansers]]), ''Alca'' ([[auk]]s & [[puffin]]s), ''Procellaria'' ([[petrel]]s), ''Diomedea'' ([[albatross]]es & [[penguin]]s), ''Pelecanus'' ([[pelican]]s & kin), ''Phaethon'' ([[tropicbird]]s), ''Columbus'' ([[grebe]]s & [[loon]]s), ''Larus'' ([[gull]]s), ''Sterna'' ([[tern]]s) & ''Rhyncops'' ([[skimmer]]s)
+*'''Grallae''': ''Phoenicopterus'' ([[flamingo]]es), ''Platalea'' ([[spoonbill]]s), ''Mycteria'' & ''Tantulus'' ([[stork]]s), ''Ardea'' ([[heron]]s, [[Crane (bird)|crane]]s, & kin), ''Scolopax'' ([[godwit]]s, [[ibis]]es, & kin), ''Tringa'' ([[phalarope]]s and [[sandpiper]]s), ''Charadrius'' ([[plover]]s), ''Recurvirostra'' ([[avocet]]s), ''Haematopus'' ([[oystercatcher]]s), ''Fulica'' ([[coot]]s & kin), ''Rallus'' ([[Rallidae|rails]]), ''Psophia'' ([[Trumpeter (bird)|trumpeters]]), ''Otis'' ([[bustard]]s) & ''Struthio'' ([[ostrich]]es)
+*'''Gallinae''': ''Pavo'' ([[peafowl]]), ''Meleagris'' ([[Meleagris|turkeys]]), ''Crax'' ([[curassow]]s), ''Phasianus'' ([[pheasant]]s & [[chicken]]s) & ''Tetrao'' ([[grouse]] & kin)
+*'''Passeres''': ''Columba'' ([[pigeon]]s & [[dove]]s), ''Alauda'' ([[lark]]s & [[pipit]]s), ''Sturnus'' ([[starling]]s), ''Turdus'' ([[thrush (bird)|thrush]]es), ''Loxia'' ([[Cardinal (bird)|cardinals]], [[Pyrrhula|bullfinches]], & kin), ''Emberiza'' ([[bunting (bird)|buntings]]), ''Fringilla'' ([[finch]]es), ''Motacilla'' ([[wagtail]]s), ''Parus'' ([[Tit (bird)|tits]] & [[Tit (bird)|chickadees]]), ''Hirundo'' ([[swallows]] & [[swift]]s) & ''Caprimulgus'' ([[nightjars]])
+
+===Amphibia===
+{{main|Amphibia in the 10th edition of Systema Naturae}}
+[[File:European Common Frog Rana temporaria.jpg|thumb|right|The [[common frog]] was included in the 10th edition as ''Rana temporaria''.]]
+Linnaeus described his "Amphibia" (comprising [[reptile]]s and [[amphibian]]s) as: ''Animals that are distinguished by a body cold and generally naked; stern and expressive countenance; harsh voice; mostly lurid color; filthy odor; a few are furnished with a horrid poison; all have cartilaginous bones, slow circulation, exquisite sight and hearing, large pulmonary vessels, lobate liver, oblong thick stomach, and cystic, hepatic, and pancreatic ducts: they are deficient in diaphragm, do not transpire (sweat), can live a long time without food, are tenacious of life, and have the power of reproducing parts which have been destroyed or lost; some undergo a metamorphosis; some cast (shed) their skin; some appear to live promiscuously on land or in the water, and some are torpid during the winter.''&nbsp;<ref name="General1"/>
+
+Linnaeus divided the amphibians based upon the limb structures and the way they breathed, into the following orders and genera:<ref>{{cite journal |author=Kenneth Kitchell, Jr. & Harold A. Dundee |year=1994 |title=A trilogy on the herpetology of Linnaeus's ''Systema Naturae'' X |journal=Smithsonian Herpetological Information Service |volume=100 |pages=1–61 |url=http://si-pddr.si.edu/dspace/bitstream/10088/8238/1/SHIS_100.pdf |format=[[Portable Document Format|PDF]]}}</ref>
+
+*'''Reptiles''': ''Testudo'' ([[turtle]]s & [[tortoise]]s), ''Draco'' ([[Draco (genus)|gliding lizards]]), ''Lacerta'' ([[Lizard|terrestrial lizards]], [[salamander]]s, & [[crocodilian]]s) & ''Rana'' ([[frog]]s & [[toad]]s)
+*'''Serpentes''': ''Crotalus'' ([[rattlesnake]]s), ''Boa'' ([[Boa (genus)|boas]]), ''Coluber'' ([[Coluber|racers]] & [[cobras]]), ''Anguis'' ([[Anguis|slowworms]] & [[Typhlops|worm snakes]]), ''Amphisbaena'' ([[Amphisbaenia|worm lizards]]) & ''Coecilia'' ([[caecilians]])
+*'''Nantes''': ''Petromyzon'' ([[lamprey]]s), ''Raja'' ([[Ray (fish)|rays]]), ''Squalus'' ([[shark]]s), ''Chimaera'' ([[ratfish]]es), ''Lophius'' ([[anglerfish]]es) & ''Acipenser'' ([[sturgeon]]s)
+
+===Pisces===
+{{main|Pisces in the 10th edition of Systema Naturae}}
+[[File:Blennius ocellaris Messina.jpg|thumb|right|The [[butterfly blenny]] was included in the 10th edition as ''Blennius ocellatus''.]]
+Linnaeus described [[fish]] as: ''Always inhabiting the waters; are swift in their motion and voracious in their appetites. They breathe by means of gills, which are generally united by a bony arch; swim by means of radiate fins, and are mostly covered over with cartilaginous scales. Besides they parts they have in common with other animals, they are furnished with a nictitant membrane, and most of them with an swim-blader, by the contraction or dilatation of which, they can raise or sink themselves in their element at pleasure.&nbsp;<ref name="General1"/>
+
+Linnaeus divided the fishes based upon the position of the ventral and pectoral fins, into the following orders and genera:<ref name="General1"/>
+
+*'''Apodes''': ''Muraena'' ([[eel]]s), ''Gymnotus'' ([[Gymnotus|electric knifefishes]]), ''Trichiurus'' ([[cutlassfish]]es), ''Anarhichas'' ([[wolffish]]es), ''Ammodytes'' ([[Sand lance|sand eels]]), ''Stromateus'' ([[Stromateidae|butterfishes]]) & ''Xiphias'' ([[swordfish]]es)
+*'''Jugulares''': ''Callionymus'' ([[dragonet]]s), ''Uranoscopus'' ([[Stargazer (fish)|stargazer]]s), ''Trachinus'' ([[weever]]s), ''Gadus'' ([[cod]] & kin) & ''Ophidion'' ([[Ophidiidae|cusk-wels]])
+*'''Thoracici''': ''Cyclopterus'' ([[Lumpsucker|lumpfishes]]), ''Echeneis'' ([[remora]]s), ''Coryphaena'' ([[Coryphaenidae|dolphinfishes]]), ''Gobius'' ([[Goby|gobies]]), ''Cottus'' ([[Cottidae|sculpins]]), ''Scorpaena'' ([[Scorpaenidae|scorpionfishes]]), ''Zeus'' ([[John Dory|john dories]]), ''Pleuronectes'' ([[flatfish]]es), ''Chaetodon'' ([[butterflyfish]]es), ''Sparus'' ([[Sparidae|breams & porgies]]), ''Labrus'' ([[wrasse]]s), ''Sciaena'' ([[Lutjanidae|snappers]]), ''Perca'' ([[perch]]), ''Gasterosteus'' ([[stickleback]]s), ''Scomber'' ([[mackerel]] & [[tuna]]), ''Mullus'' ([[Mullus|goatfishes]]) & ''Trigla'' ([[sea robin]]s)
+*'''Abdominales''': ''Cobitis'' ([[Cobitis|loaches]]), ''Silurus'' ([[catfish]]es), ''Loricaria'' ([[Loricariidae|suckermouth catfishes]]), ''Salmo'' ([[salmon]] & [[trout]]), ''Fistularia'' ([[cornetfish]]es), ''Esox'' ([[Esox|pike]]), ''Argentina'' ([[herring smelt]]s), ''Atherina'' ([[Old World silverside|silversides]]), ''Mugil'' ([[Mullet (fish)|mullet]]), ''Exocoetus'' ([[flying fish]]es), ''Polynemus'' ([[threadfin]]s), ''Clupea'' ([[herring]]) & ''Cyprinus'' ([[Cyprinus|carp]])
+*'''Branchiostegi''': ''Mormyrus'' ([[Mormyridae|elephantfishes]]), ''Balistes'' ([[triggerfish]]es), ''Ostracion'' ([[Ostraciidae|boxfishes]]), ''Tetrodon'' ([[Tetraodontidae|pufferfishes]]), ''Diodon'' ([[Diodon|porcupinefishes]]), ''Centriscus'' ([[snipefish]]es), ''Syngnathus'' ([[pipefish]]es & [[seahorse]]s) & ''Pegasus'' ([[Pegasidae|seamoths]])
+
+===Insecta ===
+{{main|Insecta in the 10th edition of Systema Naturae}}
+[[File:Daphnia pulex.png|thumb|right|Crustaceans such as the [[water flea]] ''Monoculus pulex'' (now ''[[Daphnia pulex]]'') were included in Linnaeus' ''Insecta''.]]
+Linnaeus described his "Insecta" (comprising all [[arthropod]]s, including [[insect]]s, [[crustacean]]s, [[arachnid]]s and others) as: ''A very numerous and various class consisting of small animals, breathing through lateral spiracles, armed on all sides with a bony skin, or covered with hair; furnished with many feet, and moveable antennae (or horns), which project from the head, and are the probable instruments of sensation.''&nbsp;<ref name="General2">{{cite book |author=[[Carl Linnaeus|Carl von Linné]], translated by [[William Turton]] |year=1806 |title=Volume 2: Insects |series=A general system of nature: through the three grand kingdoms of animals, vegetables, and minerals, systematically divided into their several classes, orders, genera, species, and varieties |publisher=Lackington, Allen, and Co |location=London |url=http://books.google.com/books?id=pgQuAAAAYAAJ&printsec=frontcover}}</ref>
+
+Linnaeus divided the insects based upon the form of the wings, into the following orders and genera:<ref name="Winsor">{{cite journal |author=Mary P. Winsor |year=1976 |title=The development of Linnaean insect classification |journal=[[Taxon (journal)|Taxon]] |volume=25 |issue=1 |pages=57–67 |jstor=1220406}}</ref>
+
+*'''Coleoptera''': ''Scarabaeus'' ([[Scarabaeidae|scarab beetles]]), ''Dermestes'' ([[Dermestidae|larder beetles]]), ''Hister'' ([[Histeridae|clown beetles]]), ''Attelabus'' ([[Attelabidae|leaf-rolling weevils]]), ''Curculio'' ([[Curculionidae|true weevils]]), ''Silpha'' ([[Silphidae|carrion beetles]]), ''Coccinella'' ([[Coccinellidae|ladybirds or ladybugs]]), ''Cassida'' ([[tortoise beetle]]s), ''Chrysomela'' ([[leaf beetle]]s), ''Meloe'' ([[blister beetle]]s), ''Tenebrio'' ([[darkling beetle]]s), ''Mordella'' ([[Mordellidae|tumbling flower beetles]]), ''Staphylinus'' ([[rove beetle]]s), ''Cerambyx'' ([[longhorn beetle]]s), ''Cantharis'' ([[soldier beetle]]s), ''Elater'' ([[click beetle]]s), ''Cicindela'' ([[ground beetle]]s), ''Buprestis'' ([[Buprestidae|jewel beetles]]), ''Dytiscus'' ([[Dytiscidae]]), ''Carabus'' (''[[Carabus]]'' species), ''Necydalis'' ([[Necydalinae|necydaline beetles]]), ''Forficula'' ([[earwig]]s), ''Blatta'' ([[cockroach]]es) & ''Gryllus'' (other [[orthopteroid]] insects)
+*'''Hemiptera''': ''Cicada'' ([[cicada]]s), ''Notonecta'' ([[Notonectidae|backswimmers]]), ''Nepa'' ([[Nepidae|water scorpions]]), ''Cimex'' ([[bedbug]]s), ''Aphis'' ([[aphid]]s), ''Chermes'' ([[Adelgidae|woolly aphids]]), ''Coccus'' ([[scale insect]]s) & ''Thrips'' ([[thrips]])
+*'''Lepidoptera''': ''Papilio'' ([[Butterfly|butterflies]]), ''Sphinx'' ([[Sphingidae|hawk moths]]), ''Phalaena'' ([[moth]]s)
+*'''Neuroptera''': ''Libellula'' ([[Dragonfly|dragonflies]] & [[Damselfly|damselflies]]), ''Ephemera'' ([[Mayfly|mayflies]]), ''Phryganea'' ([[Caddisfly|caddisflies]]), ''Hemerobius'' ([[Neuroptera|lacewings]]), ''Panorpa'' ([[Mecoptera|scorpionflies]]) & ''Raphidia'' ([[Snakefly|snakeflies]])
+*'''Hymenoptera''': ''Cynips'' ([[Gall wasp]]s), ''Tentheredo'' ([[Sawfly|sawflies]]), ''Ichneumon'' ([[Ichneumonoidea|ichneumon wasps]]), ''Sphex'' ([[Sphex|digger wasps]]), ''Vespa'' ([[hornet]]s), ''Apis'' ([[bee]]s), ''Formica'' ([[ant]]s) & ''Mutella'' ([[Mutillidae|velvet ants]])
+*'''Diptera''': ''Oesyrus'' ([[Botfly|botflies]]), ''Tipula'' ([[Crane fly|crane flies]]), ''Musca'' ([[Housefly|house flies]]), ''Tabanus'' ([[Horse-fly|horse flies]]), ''Culex'' ([[mosquito]]es), ''Empis'' ([[Empididae|dance flies]]), ''Conops'' ([[Conopidae|thick-headed flies]]), ''Asilus'' ([[Asilidae|robber flies]]), ''Bombylius'' ([[Bombyliidae|bee flies]]) & ''Hippobosca'' ([[Hippoboscidae|louse flies]])
+*'''Aptera''': ''Lepisma'' ([[silverfish]]), ''Podura'' ([[springtail]]s), ''Termes'' ([[termite]]s), ''Pediculus'' ([[Louse|lice]]), ''Pulex'' ([[flea]]s), ''Acarus'' ([[mite]]s & [[tick]]s), ''Phalangium'' ([[Opiliones|harvestmen]]), ''Aranea'' ([[spider]]s), ''Scorpio'' ([[scorpion]]s), ''Cancer'' ([[crab]]s, [[lobster]]s and kin), ''Monoculus'' ([[water flea]]s & kin), ''Oniscus'' ([[Woodlouse|woodlice]]), ''Scolopendra'' ([[centipede]]s) & ''Julus'' ([[millipede]]s)
+
+===Vermes===
+{{main|Vermes in the 10th edition of Systema Naturae}}
+[[File:Kalamar.jpg|thumb|right|The [[common cuttlefish]] was named ''Sepia officinalis'' in the 10th edition of ''Systema Naturae''.]]
+Linnaeus described his "Vermes" as: ''Animals of slow motion, soft substance, able to increase their bulk and restore parts which have been destroyed, extremely tenacious of life, and the inhabitants of moist places. Many of them are without a distinct head, and most of them without feet. They are principally distinguished by their tentacles (or feelers). By the Ancients they were not improperly called imperfect animals, as being destitute of ears, nose, head, eyes and legs; and are therefore totally distinct from Insects.''&nbsp;<ref name="GeneralSystem4">{{cite book |author=[[Carl Linnaeus|Carl von Linné]], translated by [[William Turton]] |year=1806 |title=Volume 4: Worms |series=A general system of nature: through the three grand kingdoms of animals, vegetables, and minerals, systematically divided into their several classes, orders, genera, species, and varieties |publisher=Lackington, Allen, and Co |location=London |url=http://books.google.com/books?id=GQcuAAAAYAAJ&printsec=frontcover}}</ref>
+
+Linnaeus divided the "Vermes" based upon the structure of the body, into the following orders and genera:<ref name="GeneralSystem4"/>
+
+*'''Intestina''': ''Gordius'' ([[Nematomorpha|horsehair worms]]), ''Furia'', ''Lumbricus'' ([[earthworm]]s), ''Ascaris'' ([[Ascaris|giant intestinal roundworms]]), ''Fasciola'' ([[liver fluke]]s), ''Hirudo'' ([[leech]]es), ''Myxine'' ([[hagfish]]es), ''Teredo'' ([[shipworm]]s)
+*'''Mollusca''': ''Limax'' ([[Slug|terrestrial slugs]]), ''Doris'' ([[Doris (gastropod)|dorid nudibranchs]]), ''Tethys'' ([[Tethydidae|tethydid sea slugs]]), ''Nereis'' ([[Nereis|polychaete worms]]), ''Aphrodita'' ([[Sea mouse|sea mice]]), ''Lernaea'' ([[Lernaea|anchor worms]]), ''Priapus'' ([[Priapulida|priapulid worms]] & [[sea anemone]]s), ''Scyllaea'' ([[Scyllaeidae|scyllaeid sea slugs]]), ''Holothuria'' ([[salp]]s & [[Portuguese Man o' War]]), ''Triton'' ([[Triton (gastropod)|triton shells]]), ''Sepia'' ([[octopus]]es, [[squid]]s, & [[cuttlefish]]es), ''Medusa'' ([[jellyfish]]es), ''Asterias'' ([[starfish]]es), ''Echinus'' ([[sea urchin]]s)
+*'''Testacea''': ''Chiton'' ([[chiton]]s), ''Lepas'' ([[barnacle]]s), ''Pholas'' ([[Pholadidae|piddocks & angelwings]]), ''Myes'' ([[Myidae|soft-shell clams]]), ''Solen'' ([[Solenidae|saltwater clams]]), ''Tellina'' ([[Tellinidae|tellinid shellfishes]]), ''Cardium'' ([[Cockle (bivalve)|cockles]]), ''Donax'' ([[Donacidae|wedge shells]]), ''Venus'' ([[Veneridae|Venus clams]]), ''Spondylus'' ([[Spondylus|thorny oysters]]), ''Chama'' ([[Chamidae|jewel box shells]]), ''Arca'' ([[ark clam]]s), ''Ostrea'' ([[Ostreidae|true oysters]]), ''Anomia'' ([[Anomiidae|saddle oysters]]), ''Mytilus'' ([[Mytilidae|saltwater mussels]]), ''Pinna'' ([[Pinnidae|pen shells]]), ''Argonauta'' ([[Argonaut (animal)|paper nautiluses]]), ''Nautilus'' ([[nautilus]]es), ''Conus'' ([[Conus|cone snails]]), ''Cypraea'' ([[Cypraeidae|cowries]]), ''Bulla'' ([[Bulla (gastropod)|bubble shells]]), ''Voluta'' ([[Volutidae|volutes]]), ''Buccinum'' ([[Buccinidae|true whelks]]), ''Strombus'' ([[Strombidae|true conches]]), ''Murex'' ([[Muricidae|murex snails]]), ''Trochus'' ([[Trochidae|top snails]]), ''Turbo'' ([[Turbinidae|turban snails]]), ''Helix'' ([[Helicidae|terrestrial snails]]), ''Neritha'' ([[Neritidae|nerites]]), ''Haliotis'' ([[abalone]]s), ''Patella'' ([[Patellidae|true limpets]]), ''Dentalium'' ([[tusk shell]]s), ''Serpula'' ([[Serpulidae|serpulid worms]])
+*'''Lithophyta''': ''Tubipora'' ([[organ pipe coral]]s), ''Millepora'' ([[fire coral]]s), ''Madrepora'' ([[Scleractinia|stone corals]])
+*'''Zoophyta''': ''Isis'' ([[Alcyonacea|soft corals]]), ''Gorgonia'' ([[Gorgonian|sea fans]]), ''Alcyonium'' ([[tunicate]]s), ''Tubularia'' ([[Tubularia]]), ''Eschara'' ([[Bryozoa]]), ''Corallina'' ([[coralline algae]]), ''Sertularia'' ([[Bryozoa]]), ''[[Hydra (genus)|Hydra]]'', ''Pennatula'' ([[sea pen]]s), ''Taenia'' ([[tapeworms]]), ''[[Volvox]]''
+
+==Plants==
+The second volume, published in 1759, detailed the kingdom Plantae, in which Linnaeus included true [[plant]]s, as well as [[fungus|fungi]], [[algae]] and [[lichen]]s. In addition to repeating the species he had previously listed in his ''[[Species Plantarum]]'' (1753), and those published in the intervening period, Linnaeus described several hundred new plant species. The species from ''Species Plantarum'' were numbered sequentially, while the new species were labelled with letters.<ref name="Baum">{{cite journal |author=Bernard R. Baum |year=1968 |title=The problem of typifying certain names in Linnaeus's ''Systema Naturae'' ed. 10 |journal=[[Taxon (journal)|Taxon]]  |volume=17 |issue=5  |pages=507–513 |jstor=1216048}}</ref> Many were sent to Linnaeus by his correspondents overseas, including [[Johannes Burman]] and [[David de Gorter]] in [[South Africa]], [[Patrick Browne]], [[Philip Miller]] and [[John Ellis (naturalist)|John Ellis]] in America, [[Jean-François Séguier]], [[Carlo Allioni]] and [[Casimir Christoph Schmidel]] in the [[Alps]], Gorter and [[Johann Ernst Hebenstreit]] in the Orient, and [[François Boissier de Sauvages de Lacroix]], Gerard and [[Barnadet Gabriel]] across Europe.<ref>{{cite book |author=Carl Linnaeus |year=1759 |title=Systema Naturae |chapter=Volume 2. Regnum Vegetabile |edition=10th |publisher=Laurentius Salvius |location=Stockholm}}</ref>
+
+New plant species described in the 10th edition of ''{{lang|la|Systema Naturae}}'' include:
+[[File:Allionia incarnata flower 1.jpg|thumb|right|upright|''[[Allionia incarnata]]'' was one of the two new species in the new genus ''[[Allionia]]'' introduced in the 10th edition of ''Systema Naturae''.]]
+{{Div col|colwidth=15em}}
+*''[[Adiantum aethiopicum]]''
+*''[[Allionia incarnata]]''
+*''[[Alyssum alyssoides]]''
+*''[[Amaranthus albus]]''
+*''[[Amaranthus cruentus]]''
+*''[[Amaranthus gangeticus]]''
+*''[[Amyris elemifera]]''
+*''[[Anacamptis papilionacea]]''
+*''[[Anacamptis sancta]]''
+*''[[Apocynum androsaemifolium]]''
+*''[[Arbutus andrachne]]''
+*''[[Batis maritima]]''
+*''[[Brassia caudata]]''
+*''[[Bucida buceras]]''
+*''[[Calycanthus floridus]]''
+*''[[Campanula barbata]]''
+*''[[Carex capitata]]''
+*''[[Carex distans]]''
+*''[[Carpobrotus edulis]]''
+*''[[Catharanthus roseus]]''
+*''[[Cecropia peltata]]''
+*''[[Cedrela odorata]]''
+*''[[Chromolaena odorata]]''
+*''[[Chrysophyllum oliviforme]]''
+*''[[Cissus sicyoides]]''
+*''[[Coccoloba pubescens]]''
+*''[[Coccoloba uvifera]]''
+*''[[Cochlearia anglica]]''
+*''[[Coilostylis ciliaris]]''
+*''[[Cordyline fruticosa]]''
+*''[[Croton glandulosus]]''
+*''[[Cunila mariana]]''
+*''[[Cunonia capensis]]''
+*''[[Desmostachya bipinnata]]''
+*''[[Dorstenia drakena]]''
+*''[[Echinochloa colona]]''
+*''[[Equisetum giganteum]]''
+*''[[Excoecaria agallocha]]''
+*''[[Genipa americana]]''
+*''[[Geranium pusillum]]''
+*''[[Goldenseal|Hydrastis canadensis]]''
+*''[[Grias cauliflora]]''
+*''[[Halesia carolina]]''
+*''[[Heliotropium arborescens]]''
+*''[[Heliotropium arborescens]]''
+*''[[Hibiscus cannabinus]]''
+*''[[Holcus mollis]]''
+*''[[Illicium anisatum]]''
+*''[[Inula spiraeifolia]]''
+*''[[Ipomoea hederifolia]]''
+*''[[Juglans cinerea]]''
+*''[[Krameria ixine]]''
+*''[[Lactuca canadensis]]''
+*''[[Lagerstroemia indica]]''
+*''[[Lamium orvala]]''
+*''[[Lecythis ollaria]]''
+*''[[Magnolia acuminata]]''
+*''[[Magnolia grandiflora]]''
+*''[[Magnolia tripetala]]''
+*''[[Mucuna pruriens]]''
+*''[[Oenothera perennis]]''
+*''[[Paeonia tenuifolia]]''
+*''[[Paspalum distichum]]''
+*''[[Passiflora quadrangularis]]''
+*''[[Pectis ciliaris]]''
+*''[[Pectis linifolia]]''
+*''[[Pedalium|Pedalium murex]]''
+*''[[Persicaria perfoliata]]''
+*''[[Phytolacca icosandra]]''
+*''[[Poa palustris]]''
+*''[[Polemonium reptans]]''
+*''[[Polycarpon tetraphyllum]]''
+*''[[Portlandia grandiflora]]''
+*''[[Ranunculus parviflorus]]''
+*''[[Reseda odorata]]''
+*''[[Rheum palmatum]]''
+*''[[Rosa pimpinellifolia]]''
+*''[[Sagittaria lancifolia]]''
+*''[[Salix retusa]]''
+*''[[Saxifraga cuneifolia]]''
+*''[[Scabiosa prolifera]]''
+*''[[Sesuvium portulacastrum]]''
+*''[[Silphium perfoliatum]]''
+*''[[Talinum fruticosum]]''
+*''[[Triplaris americana]]''
+*''[[Tripsacum dactyloides]]''
+*''[[Turbina corymbosa]]''
+*''[[Ursinia anthemoides]]''
+*''[[Veronica austriaca]]''
+*''[[Zinnia peruviana]]''
+{{Div col end}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.biodiversitylibrary.org/item/10277#page/3/mode/1up The original 1758 ''Systema Naturae'']
+* [http://taxonomicon.taxonomy.nl/TaxonTree.aspx?id=638877 Linnaeus 1758 Classification of Animals on the ''Taxonomicon'']
+
+{{Linnaeus1758}}
+{{History of botany}}
+
+[[Category:Systema Naturae]]
+[[Category:Lists of animals]]
+[[Category:1758 books]]
+[[Category:Animals described in 1758| 10th Edition]]
+[[Category:Plants described in 1759| 10th Edition]]
+[[Category:Botany books]]

@@ -1,0 +1,708 @@
+Derby
+
+{{about|the city in England||Derby (disambiguation)}}
+{{Use British English|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|name                   = Derby
+|official_name          = City of Derby
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = [[City status in the United Kingdom|City]] and [[Unitary authorities of England|Unitary authority area]]
+|motto                  = "Industria, Virtus, et Fortitudo"
+<!-- images and maps  ----------->
+|image_skyline          = Derby Montage.JPG|Derby Montage
+|imagesize              = 270px
+|image_caption          = Derby Skyline and landmarks, clockwise from top left: Derby Quad, Derby Cathedral, Intu Derby.
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_link            =
+|shield_size            =
+|image_blank_emblem     = 
+|blank_emblem_size      =
+|blank_emblem_type      = Arms of [[Derby City Council]]
+|blank_emblem_link      =
+|image_map              = Derby UK locator map.svg
+|mapsize                = 247px
+|map_caption            = Derby shown within Derbyshire and England
+|pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coordinates_region     = GB-DBY
+|subdivision_type       = Sovereign state
+|subdivision_name       = {{Flagcountry|United Kingdom}}
+|subdivision_type1      = {{nowrap|[[Constituent country]]}}
+|subdivision_name1      = England
+|subdivision_type2      = [[Regions of England|Region]]
+|subdivision_name2      = [[East Midlands]]
+|subdivision_type3      = {{nowrap|[[Ceremonial counties of England|Ceremonial county]]}}
+|subdivision_name3      = [[Derbyshire]]
+|subdivision_type4      = Admin HQ
+|subdivision_name4      = Derby
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = [[Unitary authority]], [[City status in the United Kingdom|City]]
+|leader_title           = Governing&nbsp;body
+|leader_name            = [[Derby City Council]]
+|leader_title1          = [[Local government in England#Councillors and mayors|Leadership]]
+|leader_name1           = Leader and Cabinet
+|leader_title2          = Executive
+|leader_name2           = {{English district control|GSS=E06000015}}
+|leader_title3          = [[MPs elected in the UK general election, 2015|MPs]]
+|leader_name3           =[[Margaret Beckett]] [[Labour Party (UK)|(L)]]<br />[[Amanda Solloway]] [[Conservative Party (UK)|(C)]]
+|established_title      = Settled
+|established_date       = [[Anno Domini|AD]]&nbsp;600
+|established_title2     = City Status
+|established_date2      = 1977|established_title3     =
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude           =
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 78.03<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               = 2011 Census
+|population_footnotes           =
+|population_note                =
+|population_total               = 248,700
+|population_density_km2         = 3028
+|population_density_sq_mi       =
+|population_metro = 1,543,000 (Nottingham-Derby)<ref>[http://www.espon.eu/export/sites/default/Documents/Projects/ESPON2006Projects/StudiesScientificSupportProjects/UrbanFunctions/fr-1.4.3_April2007-final.pdf#page=119 British Urban Pattern: Population Data (Epson)]</ref>
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               = 236,300
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank2_title         = Ethnicity <br><small>([[Office for National Statistics]] 2011 Census)<ref>{{cite web | url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&b=6275077&c=derby&d=13&e=62&g=6383202&i=1001x1003x1032x1004&o=362&m=0&r=1&s=1379834699934&enc=1&dsFamilyId=2477 | title=Resident Population Estimates by Ethnic Group (Percentages) | publisher=Office for National Statistics | accessdate=23 July 2010}}</ref></small>
+|population_blank2               = 80.2% White<br>12.6% Asian<br>3.0% Black British<br>1.3% Other<br>2.9% Mixed Race
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time]]
+|utc_offset             = +0
+|timezone_DST           =
+|utc_offset_DST         =
+|latd=52 |latm=55.32  |lats=  |latNS=N
+|longd=1 |longm=28.55 |longs= |longEW=W
+|elevation_footnotes    =  <!--for references: use<ref> </ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[UK postcodes|Postcode span]]
+|postal_code            = [[DE postcode area|DE1, DE3, DE21-24, DE73]]
+|area_code              = 01332
+|blank_name_sec1        = Twin/sister towns
+|blank_info_sec1        = Country
+|blank1_name_sec1       = {{flagicon|GER}} [[Osnabrück]]
+|blank1_info_sec1       = Germany (since 1976)
+|blank2_name_sec1       = {{flagicon|Palestine}} [[Hebron]]
+|blank2_info_sec1       = Palestine (since 2014)
+|blank_name_sec2        = [[British national grid reference system|Grid Ref.]]
+|blank_info_sec2        = {{gbmappingsmall|SK3533936187}}
+|blank1_name_sec2       = [[ONS coding system|ONS code]]
+|blank1_info_sec2       = 00FK (ONS)<br />E06000015 (GSS)
+|blank2_name_sec2       = [[ISO 3166-2:GB|ISO 3166-2]]
+|blank2_info_sec2       = GB-DER
+|blank3_name_sec2       = [[Nomenclature of Territorial Units for Statistics|NUTS]] 3
+|blank3_info_sec2       = UKF11
+|blank4_name_sec2       = [[Demonym]]
+|blank4_info_sec2       = Derbeian
+|website                = {{url|derby.gov.uk}}
+|footnotes              =
+}}
+
+'''Derby''' ({{IPAc-en|audio=En-derby.ogg|ˈ|d|ɑr|b|i}} {{respell|DAR|bi}}) is a [[City status in the United Kingdom|city]] in [[Derbyshire]], England, on the banks of the [[River Derwent, Derbyshire|River Derwent]]. In [[United Kingdom Census 2011|2011]], it had a population of 248,700.
+
+Derby was settled by Romans – who established the town of [[Derventio Coritanorum|Derventio]] – Saxons and Vikings, who made Derby one of the [[Five Boroughs of the Danelaw]]. Initially a market town, Derby grew rapidly in the industrial era. Home to [[Lombe's Mill]], an early British factory, Derby has a claim to be one of the birthplaces of the [[Industrial Revolution]]. With the arrival of the railways in the 19th century, the city became a centre of the [[Rail transport in the United Kingdom|British rail industry]].
+
+Derby is an internationally renowned centre for advanced transport manufacturing, home to the world’s second largest aero-engine manufacturer, [[Rolls-Royce Group PLC|Rolls-Royce]], and [[Derby Litchurch Lane Works]], the UK's only train manufacturer. [[Toyota Manufacturing UK]]'s automobile headquarters is south west of the city at Burnaston.
+
+==History==
+{{see also|Timeline of Derby}}
+
+===Origins===
+[[File:Derby Cathedral.jpg|thumb|The tower of [[Derby Cathedral]].<ref>{{cite web|url=http://www.youandyesterday.co.uk/articles/Derby_Cathedral|title=Derby Cathedral|work=You & Yesterday|accessdate=4 February 2008}}</ref>]]
+[[File:Derbyshire Cathedral.jpg|thumb|View of Derby Cathedral Facing Clock Tower]]
+
+The Roman camp of '[[Derventio (Little Chester)|Derventio]]' was probably at [[Little Chester]]/Chester Green ({{gbmapping|SK353375}}), the site of the old Roman fort. Later the town was one of the '[[Five Burghs|Five Boroughs]]' (fortified towns) of the [[Danelaw]], until it was captured by Lady Aethelflaed of Mercia in July 917, subsequent to which the town was annexed into the Kingdom of Mercia.<ref>Walker, Ian W (2000). Mercia and the Making of England Sutton ISBN 0-7509-2131-5.</ref>
+
+The Viking name ''Djúra-bý'', recorded in [[Old English language|Old English]] as ''Deoraby'', means  "Village of the Deer". This popular belief is asserted by Tim Lambert who states, "The name Derby is derived from the Danish words ''deor by'' meaning deer settlement."<ref name="lambert" />
+
+However the origin of the name "Derby" would seem to be elusive: some assert that it is a corruption of the original Roman name 'Derventio' and others that the name could be linked with the river which flows through it, the Derwent, in that ''Derby'' could be a shortened version of ''Derwent by'', meaning "Derwent settlement". The name "Derwent" is [[Celtic languages|Celtic]] and means "a valley thick with oaks".<ref>{{Cite book | last = Ekwall| first = Eilert| author-link = | last2 = | first2 = | author2-link = | title = The Concise Oxford Dictionary of English Place Names| place= Oxford| publisher = Clarendon Press| origyear = 1936| year = 1960| page = 143 | volume = | edition = Fourth | url = | doi = | id = | isbn = 0-19-869103-3 | postscript = <!--None-->}}</ref>
+
+The town name appears, nevertheless, as 'Darby' or 'Darbye' on early modern maps, such as that of [[John Speed|Speed]] (1610).{{cn|date=October 2015}}
+
+Modern research (2004) into the history and [[archaeology]] of Derby has provided evidence that the Vikings and Anglo-Saxons probably co-existed, occupying two areas of land surrounded by water. The ''[[Anglo-Saxon Chronicle]]'' (c. 900) says that "Derby is divided by water". These areas of land were known as ''Norþworþig'' ("Northworthy", = "north enclosure") and Deoraby, and were at the "Irongate" (north) side of Derby.<ref>''The Rivers of Time'' Ron McKeown, ISBN 0-9530603-7-3</ref>
+
+===16th century – 18th century===
+During the [[English Civil War|Civil War]] of 1642–1646, Derby was garrisoned by [[New Model Army|Parliamentary troops]] commanded by [[Sir John Gell, 1st Baronet]], who was appointed Governor of Derby in 1643. These troops took part in the defence of nearby [[Nottingham]], the Siege of [[Lichfield]], the [[Battle of Hopton Heath]] and many other engagements in [[Nottinghamshire]], Staffordshire and [[Cheshire]], as well as successfully defending Derbyshire against [[Royalist]] armies.
+
+A hundred years later, [[Charles Edward Stuart|Bonnie Prince Charlie]] set up camp at Derby on 4 December 1745, whilst on his way south to seize the British crown. The prince called at [[The_Derbyshire_Blues#The_George_Inn|The George Inn]] on Irongate, where the [[Duke of Devonshire]] had set up his headquarters, and demanded [[billet]]s for his 9,000 troops. [[File:bonniequest.jpg|thumb|Statue of Bonnie Prince Charlie on Cathedral Green]]
+
+He stayed at [[Exeter House]], Full Street where he held his ''"[[council of war]]"''. A replica of the room is on display at [[Derby Museum and Art Gallery|Derby Museum]] in the city centre. He had received misleading information about an army coming to meet him south of Derby. Although he wished to continue with his quest, he was over-ruled by his fellow officers. He abandoned his invasion at [[Swarkestone Bridge]] on the [[River Trent]] just a few miles south of Derby. As a testament to his belief in his cause, the prince – who on the march from [[Scotland]] had walked at the front of the column – made the return journey on horseback at the rear of the bedraggled and tired army.
+
+===Industrial Revolution===
+Derby and Derbyshire were among the centres of Britain's [[Industrial Revolution]]. In 1717, Derby was the site of the first [[Derby Industrial Museum|water powered silk mill]] in Britain, built by [[John Lombe]] and [[George Sorocold]], after Lombe had reputedly stolen the secrets of [[Silk throwing|silk-throwing]] from [[Piedmont]] in Italy (he is alleged to have been poisoned by the Piedmontese as revenge in 1722).
+
+In 1759, [[Jedediah Strutt]] patented and built a machine called the Derby Rib Attachment<ref name="nationalarchives.gov.uk">{{cite web|url=http://discovery.nationalarchives.gov.uk/details/rd/a6d33a63-890c-4631-8c8e-75a91c4830dd|title=W.G. and J.Strutt Ltd., of Belper, Derbyshire, cotton spinners|publisher=}}</ref> that revolutionised the manufacture of hose. This attachment was used on the Rev. Lee's [[Stocking frame|Framework Knitting]] Machine; it was placed in front of – and worked in unison with – Lee's Frame, to produce ribbed hose (stockings). The partners were Jedediah Strutt, William Woollatt (who had been joined in 1758 by John Bloodworth and Thomas Stafford, all leading [[hosier]]s in Derby). The patent was obtained in January 1759. After three years, Bloodworth and Stafford were paid off, and Samuel Need – a hosier of [[Nottingham]] – joined the partnership. The firm was known as Need, Strutt and Woollatt. The patent expired in 1773,<ref name="nationalarchives.gov.uk"/> though the partnership continued until 1781 when Need died.
+{{Historical populations
+|align=right
+|footnote=<ref>[http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10033032&c_id=10001043&add=N], Derby District: Total Population</ref>
+|[[United Kingdom Census 1801|1801]]|14695
+|[[United Kingdom Census 1851|1851]]|48506
+|[[United Kingdom Census 1901|1901]]|118469
+|[[United Kingdom Census 1921|1921]]|142824
+|1941|167321
+|[[United Kingdom Census 1951|1951]]|181423
+|[[United Kingdom Census 1961|1961]]|199578
+|[[United Kingdom Census 1971|1971]]|219558
+|[[United Kingdom Census 1981|1981]]|214424
+|[[United Kingdom Census 1991|1991]]|225296
+|[[United Kingdom Census 2001|2001]]|221716
+|[[United Kingdom Census 2011|2011]]|248700
+}}
+
+Messrs Wright, the bankers of Nottingham, recommended that [[Richard Arkwright]] apply to Strutt and Need for finance for his cotton [[Spinning (textiles)|spinning]] mill. The first mill opened in Nottingham in 1770 and was driven by horses. In 1771 Richard Arkwright, Samuel Need and Jedediah Strutt built the world's first commercially successful [[water-power]]ed cotton spinning mill at [[Cromford]], Derbyshire, developing a form of power that was to be a [[catalyst]] for the Industrial Revolution.<ref name="Cromford Mills">{{cite web|url=http://www.cromfordmill.co.uk|title=About Cromford Mill|accessdate=26 December 2012}}</ref><ref name="Eclectica">{{cite web|url=http://addiator.blogspot.com/2012/11/cromford-mills-birthplace-of-industrial.html|title=Cromford Mills – birthplace of the industrial revolution|accessdate=26 December 2012}}</ref><ref name="1st water powered Cotton Spinning Mill in the World">{{cite web|url=http://www.flickr.com/photos/jaydeespix/6335688382|title=The 1st water powered Cotton Spinning Mill in the World|accessdate=26 December 2012}}</ref>
+
+This was followed in [[Derbyshire]] by Jedediah Strutt's cotton spinning mills at [[Belper]]. They were: South Mill, the first, 1775; North Mill, 1784, which was destroyed by fire on 12 January 1803 and then rebuilt; it started work again at the end of 1804; West Mill, 1792, commenced working 1796; Reeling Mill, 1897; Round Mill, which took 10 years to build, from 1803 to 1813, and commenced working in 1816; and Milford Mills, 1778. The Belper and [[Milford, Derbyshire|Milford]] mills were ''not'' built in partnership with Arkwright. These mills were all Strutt owned and financed.
+
+Other famous 18th-century figures with connections to Derby include the painter [[Joseph Wright of Derby|Joseph Wright]], known as Wright of Derby, who was famous for his revolutionary use of light in his paintings and was an associate of the [[Royal Academy]]; and [[John Whitehurst]], a famous [[clockmaker]] and philosopher. [[Erasmus Darwin]], doctor, scientist, philosopher and grandfather of [[Charles Darwin]], whose practice was based in [[Lichfield]], Staffordshire was a frequent visitor to Derby, having founded the [[Derby Philosophical Society]].
+
+The beginning of the next century saw Derby emerging as an engineering centre with manufacturers such as [[James Fox (engineer)|James Fox]], who exported machine tools to Russia.
+
+In 1840, the [[North Midland Railway]] set up [[Derby Works|its works in Derby]] and, when it merged with the [[Midland Counties Railway]] and the [[Birmingham and Derby Junction Railway]], to form the [[Midland Railway]], Derby became its headquarters.
+
+The connection with the railway encouraged others, notably [[Andrew Handyside and Company|Andrew Handyside]], [[Charles Fox (civil and railway engineer)|Charles Fox]] and his son [[Francis Fox (engineer)|Francis Fox]]. <!-- CLUMSY, NEEDS REWRITING.....A list of the structures these three built reads like a ''"[[Who's Who]]"'' of famous buildings.-->
+
+A permanent military presence was established in the city with the completion of [[Normanton Barracks]] in 1877.<ref>{{cite web|url=http://www.sinfin-derby.co.uk/History.html|title=Nothing ever happens in Sinfin|publisher=This is Sinfin|accessdate=8 November 2014}}</ref>
+
+Derby was one of the boroughs reformed by the [[Municipal Corporations Act 1835]], and it became a [[county borough]] with the [[Local Government Act 1888]]. The borough expanded in 1877 to include [[Little Chester]] and [[Litchurch]], and then in 1890 to include New Normanton and Rowditch. The borough did not increase substantially again until 1968, when under a recommendation of the Local Government Boundary Commission it was expanded into large parts of the rural district of [[Belper]], [[Repton Rural District|Repton]] and [[South East Derbyshire Rural District|South East Derbyshire]]. This vastly increased Derby's population from 132,408 in the 1961 census to 219,578 in the 1971 census.<ref>http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10109700&c_id=10001043&add=N</ref>
+[[File:Silkmill1.jpg|thumb|[[Derby Silk Mill]] is part of the [[Derwent Valley Mills]] World Heritage Site]]
+Despite being one of the areas of Britain [[Centre points of the United Kingdom|furthest from the sea]], Derby holds a special place in the history of marine safety – it was as MP for Derby that [[Samuel Plimsoll]] introduced his bills for a '[[Plimsoll line]]' (and other marine safety measures). This failed on first introduction, but was successful in 1876 and contributed to Plimsoll's re-election as an MP.
+
+===20th century to present day===
+An industrial boom began in Derby when [[Rolls-Royce Limited|Rolls-Royce]] opened a car and aircraft factory in the town in 1907. In 1923, the Midland Railway became part of the [[London, Midland and Scottish Railway]] with headquarters in London. However, Derby remained a major rail manufacturing centre, second only to [[Crewe Works|Crewe]] and [[Wolverton railway works|Wolverton]]. Moreover, it remained a design and development centre and in the 'thirties, on the direction of [[Josiah Stamp, 1st Baron Stamp|Lord Stamp]], the [[LMS Scientific Research Laboratory]] was opened on London Road.{{cn|date=June 2015}}
+
+In World War I, Derby was targeted by German [[Zeppelin]] air bombers, who killed five people in a 1916 raid on the town.<ref>{{cite web|url=http://www.bbc.co.uk/programmes/p022x67j|title=BBC - World War One At Home, Midland Railway Works, Derby: The Night Lights Were Left On|work=BBC}}</ref>
+
+All Saints Church was designated as a cathedral in 1927, signalling that the town was ready for city status.{{cn|date=June 2015}}
+
+Slum clearance in the 1920s and 1930s saw the central area of Derby become less heavily populated as families were rehoused on new [[Council housing|council estates]] in the suburbs, where houses for private sale were also constructed. Rehousing, council house building and private housing developments continued on a large scale for some 30 years after the end of World War II in 1945.<ref name="lambert">{{cite web | first=Tim |last=Lambert | url=http://www.localhistories.org/derby.html | title=A brief history of Derby, Derbyshire, England | work=The History of the World | accessdate=11 August 2011}}</ref>
+
+Production and repair work continued at the railway works. In December 1947 the [[Derby Works|Locomotive Works]] unveiled Britain's first mainline passenger [[Diesel locomotive|diesel-electric locomotive]] – [[British Rail Class D16/1|"Number 10000"]]. In 1958 production switched over to diesel locomotives completely. Meanwhile, the [[Derby Carriage and Wagon Works|Carriage and Wagon Works]] were building the first of the [[Diesel Multiple Units]] which were to take over many of the services.
+
+In 1964 the [[British Rail Research Division]] opened to study all aspects of railway engineering from first principles. Its first success was in drastically improving the reliability and speed of goods trains, work which led to the development of the [[Advanced Passenger Train]].
+
+Derby gained a high profile in sport following the appointment of [[Brian Clough]] as manager of [[Derby County F.C.]] in 1967. Promotion to the [[Football League First Division]] was achieved in 1969, and County were champions of the English league three years later. Following the Clough's resignation in 1973, his successor [[Dave Mackay]] guided Derby County to another league title in 1975, but this remains to date the club's last major trophy; relegation followed in 1980 and top flight status was not regained until 1987, since then Derby have spent a total of 11 seasons (1987–1991, 1996–2002, 2007–2008) in the top flight. The club moved from its century-old [[Baseball Ground]] in 1997 to the new [[Pride Park Stadium]].<ref>{{cite web | date=8 May 2011 | url=http://www.dcfc.co.uk/page/History/0,,10270~2048716,00.html | title=The History of Derby County Football Club | publisher=Derby County Football Club | accessdate=11 August 2011}}</ref>
+
+Derby was awarded city status on 7 June 1977 by [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] to mark the [[Silver Jubilee of Elizabeth II|25th anniversary of her ascension to the throne]].<ref>{{London Gazette|issue=47246|startpage=7656|date=14 June 1977|accessdate=21 November 2007}}</ref> The Queen presented the "charter scroll" or 'letters patent' in person on 28 July 1977 on the steps of the Council House to the then Mayor Councillor Jeffrey Tillet (Conservative).<ref>The Times. 29 July 1977</ref> Until then, Derby had been one of the few towns in England with a cathedral but not city status.
+
+Derby holds an important position in the history of the [[Labour movement]], because it was one of two seats (the other being [[Keir Hardie]]'s in [[Merthyr Tydfil]]) gained by the recently formed [[British Labour Party#Labour Representation Committee|Labour Representation Committee]] at the 1900 general election. The MP was [[Richard Bell (politician)|Richard Bell]], General Secretary of the [[National Union of Rail, Maritime and Transport Workers|Railway Servants Union]]. Bell was succeeded in 1910 by [[James Henry Thomas|Jimmy Thomas]] and he in turn by the distinguished [[polymath]] and [[Nobel Laureate]] [[Philip Noel-Baker, Baron Noel-Baker|Philip Noel-Baker]] in 1936.
+
+Despite its strategic industries (rail and [[aircraft engine|aero-engine]]), Derby suffered comparatively little damage in both [[world war]]s (contrast [[Bristol]] and [[Filton]]). This may in part have been due to the jamming against the German radio-beam navigations systems (X-Verfahren and [[Knickebein]], camouflage and decoy techniques ('[[Starfish site]]s') were built, mainly south of the town, e.g. out in fields near [[Foremark]] (ref. Kirk, Felix & Bartnik, 2002, see talk; see also<ref>{{cite web|url=http://www.youandyesterday.co.uk/articles/WWII:_How_film_sets_saved_Derby_at_war |title=Stories |publisher=Youandyesterday.co.uk |date=27 July 1942 |accessdate=17 July 2010}}</ref>).
+
+Derby has also become a significant [[cultural centre]] for the [[deaf community]] in Britain. Many deaf people move to Derby because of its strong [[sign language]]-using community. It is estimated that the deaf population in Derby is at least three times higher than the national average, and that only London has a larger deaf population. The Royal School for the Deaf on Ashbourne Road provides education in [[British Sign Language]] and English.
+
+==Government==
+
+===Local government===
+{{See also|Derby local elections}}
+By traditional definitions, Derby is the [[county town]] of [[Derbyshire]], although Derbyshire's [[administrative centre]] has in recent years been [[Matlock, Derbyshire|Matlock]]. On 1 April 1997 [[Derby City Council]] became again a [[unitary authority]] (a status it had held, as a [[county borough]], up until 1974), with the rest of Derbyshire administered from Matlock. On 7 July 2014, Derby's first ever youth mayor (Belal Butt) was elected.
+
+===UK Parliament===
+[[Derby (UK Parliament constituency)|Derby]] was a single United Kingdom Parliamentary constituency represented by two members of parliament until 1950, when it was divided into the single-member constituencies of [[Derby North (UK Parliament constituency)|Derby North]] and [[Derby South (UK Parliament constituency)|Derby South]].
+
+===National HQ===
+The [[Rail Accident Investigation Branch]] has its headquarters in The Wharf, a facility in Derby.<ref>{{cite web | url=http://www.raib.gov.uk/about_us/further_information.cfm | title=Contact us | publisher=Rail Accident Investigation Branch | accessdate=11 August 2011}}. "Rail Accident Investigation Branch Address The Wharf Stores Road Derby DE21 4BA"</ref> RAIB has one of its two operational centres in Derby.<ref>{{cite web | url=http://www.dft.gov.uk/pgr/sustainable/travelplans/dfttravelplan/epartmentfortransporttravel1780?page=2 | title=Department for Transport travel plan: Annexes | publisher=[[Department for Transport (United Kingdom)|Department for Transport]] | accessdate=11 August 2011}} – They have offices in Woking and Derby</ref><ref name="About">{{cite web | url=http://www.raib.gov.uk/about_us/index.cfm | title=About us | publisher=[[Rail Accident Investigation Branch]] | accessdate=11 August 2011}}</ref>
+
+==Geography==
+Derby is situated in the lower valley of the [[River Derwent, Derbyshire|River Derwent]]. The city is bordered by the valley of the [[River Trent]] in the south also known as the Trent Valley Washlands, the [[South Yorkshire Coalfield|Nottinghamshire, Derbyshire and Yorkshire Coalfields]] in the east, the South Derbyshire Claylands in the west, and the Derbyshire Peak Fringe in the north. Most of the area surrounding Derby are relatively flat plains in the Trent Valley Washlands and South Derbyshire Claylands. The Derbyshire Peak Fringe and parts of the Coalfields are hillier and contain the south east foothills of the [[Pennines]] leading to the [[Peak District]] further on.<ref>{{cite web |url=http://www.derbyshire.gov.uk/environment/conservation/landscapecharacter/ |title=Landscape Character | publisher=Derbyshire County Council | date=2013 |accessdate=17 August 2015}}</ref> 
+
+Derby is split into 17 wards.<ref>{{cite web| url=http://www.boundarycommittee.org.uk/files/dms/derby-map-large_a=Continue_7177-4418__E__.pdf|title=Periodic electoral review of Derby: Final recommendations for ward boundaries in Derby|author=The Local Government Commission for England|date=June 2001|accessdate=4 February 2008|format=PDF}} {{Dead link|date=January 2016}}</ref>
+
+{| class="wikitable"
+|-
+! Ward
+! Areas within the ward
+|-
+| Abbey
+| Stockbrook and [[Normanton, Derbyshire|Normanton]] (part of)
+|-
+| Allestree
+| [[Allestree]] and [[Markeaton Park]]
+|-
+| Alvaston
+| [[Alvaston]], [[Crewton]], [[Litchurch]], [[Pride Park]], [[Wilmorton]] and [[Allenton, Derby|Allenton]] (Part of)
+|-
+| Arboretum
+| City Centre, [[Pear Tree, Derby|Pear Tree]] and [[Rose Hill, Derbyshire|Rose Hill]]
+|-
+| Blagreaves
+| [[Sunny Hill, Derbyshire|Sunny Hill]] and [[Littleover]] (part of)
+|-
+| Boulton
+| [[Boulton, Derby|Boulton]] and [[Allenton, Derby|Allenton]] (part of)
+|-
+| Chaddesden
+| [[Chaddesden]] (older part of)
+|-
+| Chellaston
+| [[Chellaston]] and [[Shelton Lock]]
+|-
+| Darley
+| [[Darley Abbey]], Five Lamps, [[Little Chester]] (also known as Chester Green), Strutt's Park, Six Streets and [[West End of Derby|West End]]
+|-
+| Derwent
+| [[Breadsall Hilltop]] and [[Chaddesden]] (newer part of)
+|-
+| Littleover
+| [[Littleover]] (most of) and [[Heatherton Village]]
+|-
+| Mackworth
+| [[Mackworth Estate|Mackworth]] and Morley Estate
+|-
+| Mickleover
+| [[Mickleover]]
+|-
+| Normanton
+| [[Normanton, Derbyshire|Normanton]] (most of) and Austin Estate
+|-
+| Oakwood
+| [[Oakwood, Derbyshire|Oakwood]] and [[Chaddesden]] (part of)
+|-
+| Sinfin
+| [[Sinfin]], [[Osmaston, Derby|Osmaston]] and [[Stenson Fields]] (part of)
+|-
+| Spondon
+| [[Spondon]]
+|}
+
+===Nearby settlements===
+{{Geographic Location
+|title     = '''Neighbouring towns and villages'''
+|Northwest = [[Buxton]], [[Bakewell]], [[Glossop]], Manchester
+|North = [[Duffield, Derbyshire|Duffield]], [[Belper]], [[Matlock, Derbyshire|Matlock]]
+|Northeast  = [[Ilkeston]], [[Heanor]], [[Eastwood, Nottinghamshire|Eastwood]], [[Alfreton]], [[Swanwick, Derbyshire|Swanwick]] [[Clay Cross]], [[Ripley, Derbyshire|Ripley]], [[Mansfield]], [[Chesterfield]], [[Sheffield]]
+| East = [[Nottingham]], [[Borrowash]], [[Breaston]], [[Long Eaton]], [[Beeston, Nottinghamshire|Beeston]], [[Ockbrook]]
+|West = [[Ashbourne, Derbyshire|Ashbourne]], [[Uttoxeter]], [[Stoke on Trent]]
+|Centre    = Derby
+|Southwest = [[Burton on Trent]], [[Lichfield]], Birmingham
+|South = [[Swadlincote]], [[Castle Donington]], [[Melbourne, Derbyshire|Melbourne]], [[Ashby-de-la-Zouch]], [[Coventry]]
+|Southeast = [[Kegworth]], [[Loughborough]], [[Leicester]]
+}}
+
+===Industry===
+Derby's two biggest employers, [[Rolls-Royce plc]] and the [[Toyota Motor Corporation]] are engaged in engineering manufacturing. Other companies of note include [[railway systems engineering]] firm [[Bombardier Transportation]] who manufacture railway [[rolling stock]] at the [[Derby Carriage and Wagon Works]], HeroTSC, who deal with much of Sky's telephone support, and [[Alstom]] who manufacture large power plant [[boiler]]s and [[heat exchangers]].
+
+Derby was for many years a railway centre, being the former headquarters of the [[Midland Railway]], with both [[British Rail]] workshops and research facilities in the town. Although much less important than in years gone by, limited train manufacture still continues in Derby and [[Derby Midland Station|Derby railway station]] retains an important position in the railway network. The city is favoured as a site for a national railway centre.<ref>[http://www.thisisderbyshire.co.uk/displayNode.jsp?nodeId=124615&command=displayContent&sourceNode=124519&contentPK=16407927&moduleName=InternalSearch&formname=sidebarsearch ]{{dead link|date=October 2012}}</ref>
+
+From 1922 Sinfin Lane was the home of the {{convert|62|acre|m2|adj=on}} site of [[International Combustion]], originally manufacturers of machinery for the automatic delivery of pulverised fuel to [[furnaces]] and [[boilers]], and later producing steam-generating boilers for use in electrical generating plant such as used in power stations. In the 1990s the firm was bought by Rolls-Royce plc and then sold on again to [[ABB Group]].<ref>{{cite web|url=http://www.bygonederbyshire.co.uk/work/8203-International-Combustion-American-roots-Sinfin-Lane/article-1785192-detail/article.html|title=Derby Nostalgia – Derby Nostalgia Photos, Derby Archives - Derby Telegraph|work=Derby Telegraph}}</ref>
+
+Derby was the home of [[Core Design]] (originally based on Ashbourne Road), who developed the world famous video game ''[[Tomb Raider]]''. When Derby's inner ring road was completed in 2010, a section of it was named 'Lara Croft Way' after the game's heroine [[Lara Croft]].
+
+One of Derby's longest-established businesses is [[Royal Crown Derby]], which has been producing porcelain since the 1750s.
+
+The [[Midlands Co-operative Society]], a predecessor of [[Central England Co-operative]], traced its origins to Derby Co-operative Provident Society which, in 1854, was one of the first co-operatives in the region.
+
+Infinity Park Derby is a planned business park for aerospace, rail and automotive technology adjacent to the Rolls-Royce site in Sinfin. In December 2014, the government announced that the park would gain [[enterprise zone]] status by being added to [[Nottingham Enterprise Zone]].<ref>{{cite news |url=http://www.derbytelegraph.co.uk/LOOKING-INFINITY-Official-start-pound-200m/story-25199984-detail/story.html |title=Infinity Park Derby: Official start to £200m business park vital to city's future |newspaper=[[Derby Telegraph]] |date=5 December 2014 |accessdate=11 March 2015}}</ref>
+
+==Climate==
+Under the [[Köppen climatic classification]], Derby, in spite of its distance to large bodies of water, has an [[oceanic climate]] along with the rest of the [[British Isles]]. The readings are from the closest station available in [[Watnall]], but climate tends to be very similar between stations and cities in the region, although the Watnall station is located at a somewhat higher elevation, {{convert|17|km|mi}} to the north.<ref>{{cite web|url=http://www.metoffice.gov.uk/public/weather/climate/gcqvn6pq4|title=Derby climate|publisher=Met Office|accessdate=12 May 2015}}</ref>
+
+{{Weather box
+|location = Watnall
+|metric first = yes
+|single line = yes
+|Jan high C = 6.6
+|Feb high C = 7.0
+|Mar high C = 9.7
+|Apr high C = 12.5
+|May high C = 16.1
+|Jun high C = 18.9
+|Jul high C = 21.3
+|Aug high C = 21.0
+|Sep high C = 17.9
+|Oct high C = 13.7
+|Nov high C = 9.7
+|Dec high C = 6.7
+|Jan low C= 1.3
+|Feb low C= 1.1
+|Mar low C= 2.8
+|Apr low C= 4.3
+|May low C= 7.1
+|Jun low C= 10.0
+|Jul low C= 12.1
+|Aug low C= 12.0
+|Sep low C= 10.0
+|Oct low C= 7.1
+|Nov low C= 3.9
+|Dec low C= 1.6
+|precipitation colour = green
+|Jan precipitation mm = 61.2
+|Feb precipitation mm = 47.2
+|Mar precipitation mm = 49.5
+|Apr precipitation mm = 53.8
+|May precipitation mm = 51.8
+|Jun precipitation mm = 62.5
+|Jul precipitation mm = 57.6
+|Aug precipitation mm = 62.0
+|Sep precipitation mm = 58.6
+|Oct precipitation mm = 71.2
+|Nov precipitation mm = 65.7
+|Dec precipitation mm = 68.6
+|year precipitation mm = 709.4
+|Jan precipitation days = 11
+|Feb precipitation days = 10
+|Mar precipitation days = 11
+|Apr precipitation days = 10
+|May precipitation days = 9
+|Jun precipitation days = 9
+|Jul precipitation days = 9
+|Aug precipitation days = 9
+|Sep precipitation days = 9
+|Oct precipitation days = 11
+|Nov precipitation days = 11
+|Dec precipitation days = 12
+|year precipitation days = 121
+|Jan sun = 54.7
+|Feb sun = 73.2
+|Mar sun = 104.2
+|Apr sun = 141.0
+|May sun = 181.6
+|Jun sun = 170.6
+|Jul sun = 191.1
+|Aug sun = 180.1
+|Sep sun = 131.2
+|Oct sun = 99.4
+|Nov sun = 63.7
+|Dec sun = 49.2
+|year sun = 1440.1
+|source 1 = [[Met Office]]<ref>{{cite web
+  |url=http://www.metoffice.gov.uk/public/weather/climate/gcqvn6pq4
+  |title=Derby climate
+  |accessdate=12 May 2015}}</ref>
+}}
+
+==Landmarks==
+[[Derby Cathedral]] tower is 212 feet (68.6 meters) tall to the tip of the pinnacles. This has been home to a pair of breeding [[peregrine falcon]]s since 2006.<ref>{{cite web | url=http://www.derby.gov.uk/LeisureCulture/MuseumsGalleries/EnvironmentalProjects/PeregrineProject.htm | title=Derby Cathedral Peregrine Project | publisher=[[Derby City Council]] | accessdate=11 August 2011}}</ref> Four webcams monitor the falcons here.<ref>{{cite web | url=http://www.derby.gov.uk/apps/peregrines/ | title=Derby Peregrine Webcam | publisher=Derby City Council | accessdate=20 March 2015}}</ref>
+
+[[Derby Gaol]] is a visitor attraction based in the dungeons of the Derbyshire County Gaol which dates back to 1756.
+
+[[Derby Industrial Museum]] is situated in Derby [[Derby Industrial Museum|Silk Mill]] and shows the industrial heritage and technological achievement of Derby, including [[Rolls-Royce Limited|Rolls-Royce]] [[aero engine]]s, railways, mining, [[quarry]]ing and [[foundries]]. Currently closed due to council cuts. The Silk Mill stands at the southern end of the 24&nbsp;km (15&nbsp;mi) stretch of the [[River Derwent, Derbyshire|River Derwent]] designated a [[World Heritage Site]] in 2001.
+
+[[File:Pickford expo.jpg|thumb|Pickford's House Museum]]
+[[Pickford's House Museum]] was built by architect [[Joseph Pickford]] in 1770. It was his home and business headquarters. [[Derby Museum and Art Gallery]] shows paintings by [[Joseph Wright of Derby|Joseph Wright]], as well as fine [[Royal Crown Derby]] porcelain, natural history, local regiments and archaeology. Pickford also designed [[St Helen's House, Derby|St Helen's House]] in King Street.
+
+The skyline of the inner city changed in 1968 when the inner ring road with its two new crossings of the [[River Derwent, Derbyshire|River Derwent]] was built. The route of the ring road went through the [[St Alkmund's Church, Derby|St. Alkmund's Church]] and its [[Georgian architecture|Georgian]] [[churchyard]], the only Georgian square in Derby. Both were demolished to make way for the road, a move still criticised today. Thus the editor (Elizabeth Williamson) of the 2nd edition of [[Nikolaus Pevsner|Pevsner]] for Derbyshire wrote:-  '...the character and cohesion of the centre has been completely altered by the replacement of a large number of C18 houses in the centre by a multi-lane road. As a traffic scheme this road is said to be a triumph; as townscape it is a disaster.'
+
+===Places of interest===
+[[File:Derby Guildhall.JPG|thumbnail|right|Derby Guildhall, symbolic seat of local government, today serves primarily as a 240-seat theatre. It was built after the previous hall was destroyed by fire in 1841.]]
+*[[Cathedral Quarter, Derby|Cathedral Quarter]]
+*[[Darley Abbey]]
+*[[Derby Arboretum]]
+*[[Derby Canal]]
+*[[Derby Cathedral]]
+*[[Derby Museum and Art Gallery]]
+*[[Derby Industrial Museum]] (Silk Mill)
+*[[St Mary's Church, Derby]]
+*[[Derby Friargate Station]] (of which all that remains is [[Handyside Bridge|Handyside's bridge]] and the bridge across Friargate)
+*[[Markeaton Park Light Railway]], a [[heritage railway]]
+*[[Pride Park Stadium]] ([[Derby County F.C.]]) and its predecessor the [[Baseball Ground]] (now demolished)
+*[[River Derwent, Derbyshire|River Derwent]]
+*[[St Helen's House, Derby]]
+*[[Derby Catacombs]]
+*[[Intu Derby|Intu]] shopping centre
+*[[Saint Benedict Catholic School and Performing Arts College]] secondary school
+*[[Royal Crown Derby]] Museum and Factory Tour
+*[[Pickford's House Museum]]
+
+== Transport ==
+
+=== Roads ===
+[[File:Mercian Way's Junction with Abbey Street.JPG|thumb|right|Mercian Way, looking across Abbey Street towards Uttoxeter New Road]]
+The city has extensive transport links with other areas of the country. The [[M1 motorway]] passes about ten miles (16&nbsp;km) to the east of the city, linking Derby southwards to the London area and northwards to [[Sheffield]] and [[Leeds]]. Other major roads passing through or near Derby include the [[A6 road (Great Britain)|A6]] (historically the main route from London to [[Carlisle, Cumbria|Carlisle]], also linking to [[Leicester]] and [[Manchester]]), [[A38 road (Great Britain)|A38]] ([[Bodmin]] to [[Mansfield]] via [[Bristol]] and [[Birmingham]]), [[A50 road (Great Britain)|A50]] ([[Warrington]] to [[Leicester]] via [[Stoke-on-Trent]]), [[A52 road (Great Britain)|A52]] ([[Newcastle-under-Lyme]] to [[Mablethorpe]], including ''[[Brian Clough]] Way'' linking Derby to [[Nottingham]]) and [[A61 road (Great Britain)|A61]] (Derby to [[Thirsk]] via Sheffield and Leeds).
+
+On 16 March 2011, Mercian Way, the final section of the city's inner ring road, was opened to traffic.<ref>{{cite web|url=http://www.thisisderbyshire.co.uk/news/Neville-test-drives-city-s-new-ring-road/article-3342031-detail/article.html|title=Neville test-drives city's new ring road|accessdate=17 March 2011}}</ref> This new section connects Burton Road with Uttoxeter New Road, and crosses Abbey Street. Abbey Street is the only road between the two ends from which Mercian Way can be accessed.
+
+[[Bold Lane|Bold Lane Car Park]] in Derby has been cited as one of the ten most secure places in the world.<ref>{{cite web |date=February 2003 |url=http://www.bbc.co.uk/derby/features/2004/02/bold_lane/index.shtml |title=The safest place on Earth? (Well, nearly) |publisher=BBC |accessdate=16 August 2011}}</ref>
+
+=== Railways ===
+[[File:DerbyStationOct2009.jpg|thumb|left|[[Derby railway station]]]]
+Derby has been served by railways since 1840 with the opening of the [[North Midland Railway]] to Leeds, with a route to London via Rugby provided by the [[Birmingham and Derby Junction Railway]].  At the same time, a route to Nottingham and Leicester was opened by the [[Midland Counties Railway]].  In 1844, these three companies merged to form the [[Midland Railway]] who subsequently opened a direct route to [[St Pancras International station|London St Pancras station]].  The present day station, [[Derby railway station|Derby Midland]] is on the same site as 1840 and the original platform visibly forms the sub-structure of the modern Platform 1.  The Midland Railway frontage was replaced in 1985, and during 2008 and 2009 the 1950s concrete platform canopies were replaced with steel and glass structures.
+
+Derby station is operated by [[East Midlands Trains]] and the city is served by expresses to London, the North East and South West, provided by East Midlands Trains and [[CrossCountry]].  There also remain local stations at [[Peartree railway station|Peartree]] and [[Spondon railway station|Spondon]], although services are limited, especially at the former.
+
+The [[Great Northern Railway (Great Britain)|Great Northern Railway]]'s "Derbyshire and North Staffordshire Extension" formerly ran through [[Derby Friargate Station]], from [[Colwick]] and [[Nottingham]] to [[Egginton]] Junction.  After closure, part of the route west of Derby was used by British Rail as a test track.  Today, the trackbed either side of Derby is blocked only by road development and has been converted to a [[Sustrans]] cycle track.  The ornate cast iron bridge by [[Andrew Handyside and Company|Andrew Handyside]] across Friargate is still in place, as is his bridge over the river.
+
+===Railway engineering===
+[[File:IMechE dinner 1898 Derby.jpg|thumb| Annual dinner of the Institution of Mechanical Engineers held in the carriage works of the Midland Railway at Derby in 1898. Samuel Johnson, the railway's Chief Mechanical Engineer was the institution president.]]
+As a consequence of the Midland Railway basing their headquarters in Derby, along with their [[Derby Works|Locomotive]] and [[Derby Carriage and Wagon Works|Carriage and Wagon Works]], the railways had been a major influence on the development of the town during the Victorian period.
+
+However, as described above, during the 20th century, railway manufacturing developed elsewhere, while in Derby the emphasis shifted to other industries. Even though it had pioneered the introduction of diesel locomotives, new production finished in 1966. Repair work gradually diminished until, finally the locomotive works closed, the land being redeveloped as Pride Park. The only buildings remaining are those visible from Platform 6 of the station.<!-- What it's called -->
+
+The Carriage and Wagon Works continues to build trains under [[Bombardier Transportation]]. The [[Railway Technical Centre]] continues to house railway businesses, including the headquarters of [[DeltaRail Group]], formerly the [[British Rail Research Division]].
+
+=== Air ===
+[[East Midlands Airport]] is situated about fifteen miles (24&nbsp;km) from Derby city centre. Its proximity to Derby, the fact that the airport is in [[Leicestershire]], and the traditional rivalry between the three cities (Derby, Leicester and Nottingham), meant that there was controversy concerning the airport's decision to prefix its name with Nottingham in 2004. In 2006, Nottingham East Midlands Airport reverted to its previous name. The airport is served by [[budget airline]]s, including [[Ryanair]] and [[Jet2]], with services to domestic and European destinations.
+
+[[Derby Airfield]], located approximately {{convert|7|mi|km}} southwest of the city centre has grass runways targeted at [[general aviation]].
+
+=== Bus and coach ===
+[[File:Trolley bus 553381 ef7d052a.jpg|thumb|right|A Derby Corporation trolleybus in Victoria Street, Derby, in 1967. The [[Trolleybuses in Derby|Derby trolleybus system]] closed on 9 September 1967.]]
+
+Derby's [[Derby Bus Station|former bus station]] was an [[art deco]] design by borough architect [[Charles Herbert Aslin|C.H. Aslin]]. Built in 1933, it was closed in 2005 and later demolished, despite the protests of environmentalists and conservationists. The unique cafe building is planned to be rebuilt at [[Crich Tramway Museum]]. After the closure of the old bus station, services used temporary stops on streets around the Morledge area until a new bus station, built on the old site as part of the Riverlights development, was opened on Sunday 28 March 2010. Most services in Derby now terminate at the bus station. The new bus station has 29 bays, 5 for coaches and 24 for general bus services. First, the concourse area where passengers board and alight was completed. The remainder of the building has been developed as a [[Holiday Inn]] and a [[Hilton Hotels & Resorts|Hilton Hotel]] as well as a convenience store which opened in late 2010.
+
+Local bus services in and around Derby are run by a number of companies, but principally [[Trent Barton]] and [[Arriva Midlands]]. The city is on [[National Express Coaches|National Express]]' London to Manchester and Yorkshire to the South West routes.
+
+Between 1932 and 1967, Derby Corporation operated the [[Trolleybuses in Derby|Derby trolleybus system]]. The last trolleybus ran on 9 September 1967. Several Derby vehicles have been preserved at [[The Trolleybus Museum at Sandtoft|Sandtoft]] and the [[East Anglia Transport Museum]].
+
+==Culture, entertainment and sport==
+
+===Music===
+The annual open-air concert at [[Darley Park]] is one of the biggest free concerts of its kind.{{CN|date=January 2016}} It is one of many performances given throughout the year by [[Sinfonia ViVA]], a professional chamber [[Chamber music|orchestra]] based in Derby. Derby Jazz caters for the [[jazz]] interest in the city and is regarded as one of the UK's leading live jazz organisations.{{CN|date=January 2016}}
+
+In rock music, the blues singer-songwriter [[Kevin Coyne]] came from Derby, as does the three piece rock band [[LostAlone]], and indie/glam rock band [[The Struts]]. The ska punk band [[Lightyear (band)|Lightyear]] also hail from the city, naming their second album [[Chris Gentlemens Hairdresser and Railway Book Shop]] after a shop in Macklin Street.
+
+The pop band [[White Town]] is from Derby, and their video "Your Woman" features scenes from the city centre.
+
+Derby band [[The Beekeepers]] were signed to [[Beggars Banquet Records]] between 1993-1998. Singer [[Jamie East]] later went on to create entertainment website [[Holy Moly]] and present [[Big Brother's Bit on the Side]]
+
+One of Derby's bands is [[Anti-Pasti]], whose debut 1981 album ''The Last Call'' reached the top 40 in the [[UK album charts]]. The band reformed in 2012 and again with altered line up in 2014.
+
+A full-scale programme of orchestral and other concerts was presented by Derby LIVE at the Assembly Rooms, though this is currently closed following fire damage in March 2014; performances continue to take place at the smaller Guildhall Theatre. The amateur classical music scene includes two choral societies, [[Derby Bach Choir]] and [[Derby Choral Union]], smaller choirs, the [[Derwent Singers]] and [[Sitwell Singers]], and [[Derby Concert Orchestra]]. [[Derby Chamber Music]] presents an annual series of chamber music concerts at [[Derby University]]'s [[Multifaith]] Centre. A series of organ recitals is presented every summer at [[Derby Cathedral]], featuring leading international performers.{{CN|date=January 2016}}
+
+The folk-music scene includes the annual Derby Folk Festival.
+
+Other music venues in the city include The Venue on Abbey Street, The Hairy Dog on Becket Street, Ryans Bar in the St Peters Quarter, The Flowerpot on King's Street, and The Victoria Inn.
+
+The VoiceBox, a converted former industrial building near the centre of Derby, is a performance, teaching and rehearsal venue for a range of vocal and choral music.
+
+===Theatre and arts===
+After a lengthy period of financial uncertainty, [[Derby Playhouse]] closed in February 2008. It was resurrected in September of that year after a new financing package was put together but forced to close again just two months later because of further financial problems. The lease was later bought by [[Derby University]] and the building was renamed [[Derby Theatre]]. Along with the Assembly Rooms and Guildhall Theatre, it was operated by Derby LIVE, the cultural arm of [[Derby City Council]]. In 2012 Derby University took over as sole operator of Derby Theatre; Sarah Brigham was appointed Artistic Director, and has been in post since January 2013.
+
+[[Derby QUAD|QUAD]] is a centre for art and film which opened in 2008. The building has two cinema screens showing independent and mainstream cinema, two gallery spaces housing contemporary [[visual arts]], a digital studio, participation spaces, digital editing suites, artists studio and the [[British Film Institute|BFI]] Mediatheque. QUAD organises the annual Derby Film Festival, and the FORMAT international photography festival, held every two years at various venues throughout the city.
+
+The Robert Ludlam Theatre, on the campus of [[Saint Benedict Catholic School and Performing Arts College]], is a 270-seat venue with a programme of entertainment including dance, drama, art, music, [[theatre in the round]], comedy, films, family entertainment, rock and pop events and workshops. The theatre company [[Oddsocks]] is based in Derby and stages productions in the city and the surrounding area, as well as traveling the country.{{CN|date=March 2016}}
+
+Déda is a Derby centre for dance, established in 1991 is the only dedicated dance house in the East Midlands region,{{CN|date=March 2016}} acting as a local, regional and national resource for dance and aerial artists and contemporary circus. Déda houses a 124 capacity studio theatre, three dance studios, meeting room facilities and the CUBE café bar. It offers a weekly class programme and a year-round professional performance programme for children, young people and adults, and a community development programme. Déda now hosts a BA degree in Dance in partnership with the University of Derby.{{CN|date=March 2016}}
+
+A Derby Book Festival was held in 2015, with events taking place throughout the city.<ref>http://www.derbybookfestival.co.uk/</ref> 
+
+Derby Festé<ref>http://www.derbyfeste.com/</ref> was a weekend [[street art]]s festival held in September 2015. The first Six Streets Arts trail was in June 2012,<ref>{{cite web|url=http://www.sixstreetsartstrail.co.uk/|title=Six Streets Arts Trail|publisher=}}</ref> took place again in 2013 and will now be a biennial event. It includes strong input from the local History Network <ref>http://www.sixstreetsderby.org.uk/sixstreetsworldwar1.htm</ref> which was awarded a Heritage Lottery grant to pursue its work on marking the 100th anniversary of World War 1.
+
+[[John Dexter]] the theatre director and the actor [[Alan Bates]] were from Derby. [[John Osborne]] wrote his play [[Look Back in Anger]] in 1956 while living in Derby and working at Derby Playhouse<ref>http://www.derbytelegraph.co.uk/Bygones-New-Derby-Theatre-production-marks-60th/story-28824072-detail/story.html</ref>
+
+===Sport===
+[[File:Pride Park.jpg|thumb|right|[[Pride Park Stadium]]]]
+[[Derby County F.C.|Derby County]], the city's football team, were [[FA Cup]] winners in 1946, [[Football League]] champions in 1972 and again in 1975. They are members of the [[Football League Championship]]. They have played at [[Pride Park Stadium]] since 1997, having been previously based at the [[Baseball Ground]], a stadium originally built in 1890 to house Derby's short-lived baseball team (one notable baseball player and famous footballer was the Derby legend [[Steve Bloomer]]). Derby County moved there in 1895 after the baseball team folded. Former Derby County managers include [[Brian Clough]], [[Arthur Cox (footballer)|Arthur Cox]], [[Jim Smith (footballer)|Jim Smith]], [[John Gregory (footballer)|John Gregory]] and [[George Burley]]. Former players include [[Colin Todd]], [[Roy McFarland]] (who both later had brief and unsuccessful stints as manager at the club), [[Dave Mackay]], [[Peter Shilton]], [[Dean Saunders]], [[Craig Short]], [[Marco Gabbiadini]], [[Horacio Carbonari]], [[Steve Bloomer]] and [[Tom Huddlestone]]. The club's most recent spell as a top division ([[FA Premier League]]) club ended in May 2008 after just [[2007-08 in English football|one season]], during which the club won just one out of 38 league games and finished with just 11 points, the lowest in the history of the [[Premier League]].
+
+There are three senior non-league football clubs based in the city. [[Mickleover Sports F.C.|Mickleover Sports]] play at Station Road, [[Mickleover]] and are members of the [[Northern Premier League Premier Division|EvoStik Northern Premier League]] (the seventh level of the [[English football league system]]). [[Graham Street Prims F.C.|Graham Street Prims]] and [[Borrowash Victoria A.F.C.|Borrowash Victoria]] are both members of the [[East Midlands Counties Football League|East Midlands Counties League]] (level ten) and play on adjacent grounds at the Asterdale complex in [[Spondon]].
+
+[[Derbyshire County Cricket Club]] are based at the [[County Cricket Ground, Derby|County Ground]] in Derby and play almost all home matches there, although matches at [[Chesterfield]] were re-introduced in 2006. One of the designated [[First class cricket|first class]] county sides, they have won the [[County Championship]] once, in 1936.
+
+[[File:2010 Women's British Open – Melissa Reid (4).jpg|left|thumb|150px|Derby born [[Melissa Reid]]]]
+Derby has clubs in both codes of [[rugby football|rugby]]. In [[rugby union]], Derby RFC play in [[Midlands 1 East|Midlands Division One East]] (the sixth level of English rugby union) at their Haslams Lane ground. [[Rugby league]] team [[Derby City RLFC]] were formed in 1990 and compete in the Midlands Premier Division of the National Rugby League Conference. From 2008 they are ground sharing with Derby RFC at Haslams Lane.
+
+The city is represented in the [[English Basketball League]] Division One by [[Derby Trailblazers]], who play at the Moorways Sports Centre. They were formed in 2002 following the demise of [[British Basketball League]] side [[Derby Storm]]. 
+
+Team Derby, based at [[Derby Arena]], won the inaugural [[National Badminton League]] title in 2014–15. The Arena, opened in 2015, also contains a [[velodrome]] that has hosted the [[Revolution (cycling series)|Revolution cycling series]].
+
+Local industrialist [[Francis Ley]] introduced baseball to the town in the late 19th century, and built a [[Baseball Ground|stadium]] near the town centre. The attempt to establish baseball in Derby was unsuccessful, but the stadium survived for some 100 years afterwards as the home of Derby County Football Club. It was demolished in 2003, six years after County's move to [[Pride Park]].
+
+Professional golfer [[Melissa Reid]] was born in Derby in 1987. She plays on the [[Ladies European Tour]],<ref name=letbio>[http://www.ladieseuropeantour.info/profiles/120754.htm Profile on Ladies European Tour's official site]</ref> and was a member of the victorious European Team in the [[2011 Solheim Cup]].
+
+[[Arthur Keily]] the [[marathon]] [[Running|runner]] and [[Olympics|Olympian]] was born in Derbyshire in 1921 and has lived his whole life in Derby. In [[1960 Summer Olympics|Rome in 1960]] he broke the English Olympic record, recording a time of 2 hours 27 mins.<ref>{{cite web |url=http://www.thisisderbyshire.co.uk/news/Derby-Olympian-Arthur-Keily-picks-lifetime-achievement-gong/article-341566-detail/article.html |title=Derby Olympian Arthur Keily picks up lifetime achievement gong |accessdate=14 August 2011 |date=20 September 2008 |work=This is Derbyshire |publisher=Northcliffe Media}}</ref><ref>{{cite web |url=http://bygonederbyshire.co.uk/articles/Arthur_Keily |title=keily, Arthur |publisher=bygonederbyshire |accessdate=26 May 2009}}</ref>
+
+===Recreation===
+[[File:grovelodge1.jpg|thumb|right|The restored Grove Street Lodge and "Grand Entrance" at the northern end of the Arboretum]]
+[[Derby Arboretum]], donated to the town by local philanthropist [[Joseph Strutt (philanthropist)|Joseph Strutt]] in 1840, was the first planned urban [[public park]] in the country. Although it suffered from neglect in the 1990s, it has been renovated. It has been claimed to have been one of the inspirations for [[Central Park]] in New York.<ref name="arboretum">{{cite web|url=http://www.derbyarboretum.co.uk/about_the_arboretum.htm |title=Arboretum history |publisher=Christopher Harris |year=2010 |accessdate=16 August 2011}}</ref> 
+
+[[Markeaton Park]] is Derby's most used leisure facility.<ref>{{cite web | date=October 2002 | url=http://www.bbc.co.uk/derby/features/tours/parks/derby/markeaton_today.shtml | title=Markeaton Park – today |publisher=BBC    | accessdate=14 August 2011}}</ref> It is the venue for the city council's annual [[Guy Fawkes Night]] firework display and contains its own [[Markeaton Park Light Railway|light railway]]. Other major parks in the city include [[Allestree|Allestree Park]], [[Darley Abbey|Darley Park]], [[Chaddesden|Chaddesden Park]], [[Alvaston|Alvaston Park]], [[Normanton, Derbyshire|Normanton Park]] and [[Osmaston, Derby|Osmaston Park]]. Derby is believed to be one of the country's highest, if not the highest, ranking cities for parkland per capita. [[Darley Abbey|Darley]] and Derwent Parks lie immediately north of the city centre and are home to owls, kingfishers and other wildlife.{{CN|date=September 2015}} Derby Rowing Club and Derwent Rowing Club are located on the banks of the river, where is also a riverside walk and cycle path.
+
+There are four museums: [[Derby Museum and Art Gallery]]; [[Pickford's House Museum]]; [[Derby Industrial Museum|The Silk Mill]] and The [[Royal Crown Derby]] Museum.
+
+==Shopping and nightlife==
+[[File:Ye Olde Dolphin Inne, Queen Street, Derby - geograph.org.uk - 1097980.jpg|thumb|Ye Olde Dolphin Inne]]
+Shopping in central Derby is divided into three main areas. These are the [[Cathedral Quarter, Derby|Cathedral Quarter]], the St Peters Quarter and the [[Intu Derby]] shopping centre. The Cathedral Quarter was Derby's first BID ([[Business Improvement District]]), and includes a large range of shops, boutiques, coffee shops and restaurants. It is focused around the Cathedral and the area around Irongate and Sadler Gate. It includes the Market place, the Guildhall and Assembly rooms along with the City Museum and the Silk Mill industrial museum.
+
+The St Peters Quarter is Derby's second Business Improvement district brought into effect in the summer of 2011. Its boundary with the Cathedral Quarter follows Victoria Street, beneath which flows the underground course of the [[Markeaton Brook]]. The quarter boasts a diverse range of retail shops many of them, in Green Lane, Babington Lane, Osmaston Road and elsewhere, independent traders. St Peters Street, London Road and East Street also includes a large choice of National retailers along with pubs, restaurants, banks and offices. The quarter includes the historic St Peters church and, on St Peters Churchyard, the Ancient [[Derby School]] building. Nearby also is the Old Courthouse and several other notable buildings. At the eastern end of the quarter is the bus station along with the Hilton Hotel and Holiday Inn, part of the prestigious Riverlights Development on the banks of the Derwent.
+
+Intu Derby is the city's main indoor shopping centre. It opened in 2007 as Westfield Derby after extension work costing £340&nbsp;million, subsequently being sold to [[Intu Properties|Intu]] in March 2014.<ref>{{cite news  | last = Johnson| first = Robin| title = Westfield Derby shopping centre sold to Intu for £390m  | work=Derby Evening Telegraph  | date = 20 March 2014  |url=http://www.derbytelegraph.co.uk/Westfield-Derby-shopping-centre-sold-Intu-390m/story-20832006-detail/story.html  | accessdate = 2014-07-04}}</ref> It contains a food court and a 12-screen cinema ([[Showcase Cinemas|Showcase – Cinema De Lux]]) which was opened in May 2008. The development was controversial and local opponents accuse it of drawing trade away from the older parts of the city centre where independent shops are located. Some of these experienced a downturn in trade and some have ceased trading since the development opened leading to the "Lanes" project which eventually became the second BID and the formation of St Peters Quarter. In the centre itself, a combination of high rents and rising rates have made things difficult for smaller traders.<ref>{{cite web|url=http://www.westfieldderby.co.uk/about.htm|title=Westfield Derby – About|work=westfieldderby.co.uk|accessdate=4 February 2008}}</ref>
+
+The Friar Gate area contains clubs and bars, making it the centre of Derby's nightlife. Derby is also well provided with pubs and is renowned for its large amount of [[real ale]] outlets. The oldest pub is the [[listed building|Grade II listed]] [[Ye Olde Dolphin Inne]], dating from the late 16th century.<ref name=EnglishHeritage>{{NHLE |num= 1228932|desc= Ye Olde Dolphin Inne, Derby|access-date= 18 August 2014}}</ref>
+
+The [[Kingsway Retail Park Derby|Kingsway Retail Park]] is located just outside the main city, off the A38. 
+
+The [[Wyvern Way Retail Park Derby|Wyvern Way Retail Park]] is located just off the A52, by the pride park business park.
+
+The Meteor centre contains a selection of retailers.
+
+==Education==
+{{See also|List of schools in Derby}}
+Like most of the UK, Derby operates a non-selective primary and secondary education system with no [[middle school]]s. Pupils attend infant and junior school (often in a combined primary school) before moving onto a secondary school. Many of the secondary schools have [[sixth form]]s, allowing pupils to optionally take [[Advanced Level (UK)|A Levels]] after the end of compulsory education. For those who want to stay in education but leave school, the large [[Derby College]] provides post-16 courses for school leavers, apprentices and employer related training. It has two main campuses the [[Joseph Wright of Derby|Joseph Wright Centre]] in the centre of Derby, where its [[A Level]] courses are based. And the historical [[Derby Railway Works|Derby Roundhouse]] which is the college's vocational training hub, providing a centre for apprenticeships such as engineering, catering and hair & beauty. The college also works in partnership with schools across the county to provide vocational training opportunities for students aged 14 upwards. Training for companies is undertaken through its Corporate College.
+
+Inside the state sector, there are 15 secondary schools. These are; [[Allestree Woodlands School]], [[Bemrose School]], [[Chellaston Academy]], [[City of Derby Academy]], [[da Vinci Community College]], [[Derby Manufacturing UTC]], [[Derby Moor Community Sports College]], [[Derby Pride Academy]], [[Landau Forte College]], [[Lees Brook Community School]], [[Littleover Community School]], [[Merrill Academy]], [[Murray Park School]], [[Noel-Baker School]], [[Saint Benedict Catholic Voluntary Academy]] and [[West Park School]].
+
+Outside the state sector, there are three fee-paying independent schools. [[Derby Grammar School]] was founded in 1994 and was for boys only, until 2007, when they accepted girls into the sixth form for the first time. They aim to continue the work and traditions of the former [[Derby School]], which closed in 1989, one of the oldest schools in England.{{CN|date=August 2015}} [[Derby High School, Derby|Derby High School]] is for girls-only at secondary level and for boys at primary level. 
+
+Derby has [[special needs]] establishments including Ivy House School located at the Derby Moor Community Sports College (which takes pupils from nursery to sixth form) and the Light House which is a [[respite care|respite]] facility for children and parents. Allestree Woodlands School have a Hearing Impaired department, and Saint Benedict have an Enhanced Resource Base for pupils to access specialised support within mainstream schooling. There also a number of alternative provision schools, including [[Derby Pride Academy]].
+
+The [[University of Derby]] has its main campus on Kedleston Road. There is another campus in north Derbyshire at [[Buxton]].
+
+In 2003 the [[University of Nottingham]] opened a graduate entry medical school based at [[Royal Derby Hospital]]. The university also has its School of Nursing and Midwifery located there, having moved from its former home at [[London Road Community Hospital]] in mid-2012.
+
+==Media==
+The ''[[Derby Telegraph]]'' (formerly the ''Derby Evening Telegraph'') is the city's daily newspaper. Crime writer Richard Cox set his first book around his own experience as a ''Derby Telegraph'' reporter in the 1970s.<ref>{{cite news|url=http://www.holdthefrontpage.co.uk/2014/news/former-reporter-tells-tale-of-violence-and-corruption/|title=Former reporter tells tale of violence and corruption|author=Paul Linford|work=HoldTheFrontPage.co.uk|date=10 June 2014|accessdate=29 June 2014}}</ref> The ''[[Derby Trader]]'' was a free weekly newspaper which is no longer in print. A local edition of the daily national freesheet ''[[Metro (British newspaper)|Metro]]'' is distributed in the city centre every morning, although this only has a very small amount of local content.{{CN|date=August 2015}}
+
+[[BBC Radio Derby]], the BBC's local station for [[Derbyshire]] and [[East Staffordshire]], is based on St. Helen's Street in the city and offers local, national and international news, features, music and sports commentaries. It is available on 104.5 FM and 1116 AM, on 95.3 FM in North and Mid Derbyshire and on 96.0 FM in the [[Buxton]] area, as well as being streamed on the internet. The [[BBC]] in Derby have their own local website for the area which provides news, travel and weather information, as well as other features.
+
+[[Capital East Midlands]], is the biggest commercial radio station in the city, broadcasting to Derby on 102.8 FM from the transmitter at Drum Hill, just outside the city. It broadcasts a Contemporary Hit Radio (CHR) format, with Top 40 chart hits aimed at the city's under 35s.
+
+==City emblem==
+Derby's emblem is the Derby Ram, about which there is a [[folk song]] entitled "[[The Derby Ram (song)|The Derby Ram]]". It is found in a number of places, most notably serving as the nickname of [[Derby County F.C.]]. The logo of the City Council's services is a stylised ram.
+[[File:The Derby Ram on East Street and Albion Street, Derby - geograph.org.uk - 1705947.jpg|thumb|right|Representation of [[The Derby Ram]] in East Street]]
+
+==Notable people==
+{{unreferenced section|date=December 2015}}
+* [[Alan Bates]] (1934–2003), actor
+* [[Freda Bedi]] (1911–1977), social worker, writer and [[Gelongma]].
+* [[Ronald Binge]] (1910–1979), composer
+* [[David Brailsford]] (born 1964), cycling administrator
+* [[Rufus Brevett]] (born 1969), Footballer
+* [[Maxwell Caulfield]] (born 1959), actor
+* [[Henry Cavendish]] (1731–1810), scientist
+* [[W. J. Coffee|William John Coffee]] (1774–1846), artist and sculptor
+* [[Daniel Coke|Daniel Parker Coke]] (1745–1825), barrister and Member of Parliament
+* [[Des Coleman]] (born 1969), actor and presenter
+* [[Kevin Coyne]] (1944–2004), singer-songwriter
+* [[Erasmus Darwin]] (1731–1802), physician and philosopher
+* [[John Dexter]] (1925–1990), theatre director
+* [[Dodwell & Co.|George Benjamin Dodwell]] (1851–1925), Derby born merchant, who founded the British-Asian trading company [[Dodwell & Co.]]
+* [[Ralph Downes]] (1904–1993), organist, designer of the organ in the [[Royal Festival Hall]], London
+* [[Drumsound & Bassline Smith]], electronic group
+* [[Richard Felix]]  (born 1949) Author, television presenter, historian
+* [[John Flamsteed]] (1646–1719), first [[Astronomer Royal]]
+* [[Maria Fowler]] (born 1986), model and actress
+* [[James Fox (engineer)|James Fox]] (1780–1830), engineer
+* [[Jessica Garlick]] (born 1981), singer, was born in Derby
+* [[Peter Hammill]] (born 1948), singer-songwriter and founding member of progressive rock band [[Van der Graaf Generator]]
+* [[Bobby Hassell]] (born 1980), footballer
+* [[Andrew Handyside and Company|Andrew Handyside]] (1806–1887), [[iron founder]]
+* [[Steve Holland (footballer)|Steve Holland]] (born 1970), football coach ([[Crewe Alexandra F.C.|Crewe Alexandra]] and [[Chelsea F.C.|Chelsea]] assistant) and former professional footballer
+* [[Geoff Hoon]] MP (born 1953), politician
+* Charlie Hudson (1874 - 1958), pigeon racer, winner of the Rome-England champion race in 1913 with [[The King of Rome]]
+* [[Chris Humphries]] (1947 - 2009), botanist
+* [[William Hutton (historian)|William Hutton]] (1723–1815) historian, poet and bookseller<!-- considered important enough in Derby to have a statue erected next to Jedediah Strutt and John Lombe -->
+* [[Imaani]] (born 1972), singer born in Derby
+* [[Michael Knowles (actor)|Michael Knowles]], actor
+* [[Stephen Layton]] (born 1966), choral conductor
+* [[Duncan Lloyd]], musician
+* [[Kevin Lloyd]] (1949–1998) actor, (Tosh Lines in [[The Bill]] TV series).
+* [[Terry Lloyd]] (1952–2003), television journalist
+* [[John Lombe]] (1693–1722), industrial pioneer
+* [[Edgar Longstaffe]] (1852–1933), landscape painter
+* [[Eric Malpass]] (1910–1996), novelist 
+* [[Stephen Marley (writer)|Stephen Marley]] (born 1946), novelist
+* [[Louis Martin (weightlifter)|Louis Martin]] (1936-2015), weightlifter, Olympic silver medallist, 1964
+* [[Ted Moult]] (1926-1986), farmer and TV personality
+* [[Florence Nightingale]] (1820–1910), pioneer of modern nursing
+* [[Jack O'Connell (actor)]] (born 1990), actor
+* [[Colin Osborne]] (born 1975), [[Professional Darts Corporation|PDC]] darts player
+* [[Chris Palmer (footballer)|Chris Palmer]] (born 1983), footballer
+* Adam Peaty, (born 1994) swimmer, double world record holder 
+* Ted Perry (1931–2003), founder of [[Hyperion Records]]
+* [[Samuel Plimsoll]] (1825–98), politician, [[Liberal Party (UK)|Liberal]] Member of Parliament for Derby, inventor of the [[Plimsoll line]], 'The Sailors Friend'
+* [[Melissa Reid]] (born 1987), golfer
+* [[Samuel Richardson]] (1689–1761), novelist
+* [[Chris Riggott]] (born 1980), footballer
+* [[Henry Royce|Sir Henry Royce]] (1863–1933), co-founder of [[Rolls-Royce Limited|Rolls-Royce]]
+* [[Sir Nigel Rudd]] (born 1946), industrialist
+* [[Max Sciandri]] (born 1967), Professional cyclist and Olympic medallist.
+* [[Smith of Derby Group|John Smith]] (1813–1866), [[clockmaker]]
+* [[Lauren Socha]] (born 1990), star of [[E4 (channel)|E4]]'s television series ''[[Misfits (TV series)|Misfits]]''
+* [[Michael Socha]] (born 1987), actor
+* [[George Sorocold]] (c. 1668 – c. 1738), first non-military person to be described as an engineer
+* [[Herbert Spencer]] (1820–1903), philosopher
+* [[Jedediah Strutt]] (1726–1797), industrial pioneer
+* [[Gwen Taylor]] (born 1939), actress
+* [[Turneramon|Richard Turner]] (born 1940), artist and poet
+* [[Stuart Varney]] (born 1949) Economic Journalist for [[Fox News Channel]]
+* [[Damien Walters]] (born 1982), [[stuntman]], gymnast and [[freerunning|free runner]]
+* [[Lucy Ward (musician)|Lucy Ward]] (born 1989), folk musician and songwriter
+* [[Joan Waste]] (1534–1556), blind martyr burned to death at age 22
+* [[Alice Wheeldon]] (1866–1919) [[pacifist]] and anti-war campaigner.
+* [[John Whitehurst]] (1713–1788), [[clockmaker]] and scientist
+* [[Dafydd Wigley]] (born 1943), [[Plaid Cymru]] (Welsh Nationalist) politician
+* [[Sir Henry Wilmot, 5th Baronet|Sir Henry Wilmot]] (1831–1901), [[Victoria Cross]] recipient
+* [[Joseph Wright of Derby|Joseph Wright]] (1734–1797), artist
+* [[Youngman MC|Youngman]], MC and vocalist
+
+==International relations==
+{{refimprove section|date=December 2015}}
+
+===Twin towns===
+Derby is [[Twin towns and sister cities|twinned]] with [[Osnabrück]] in Germany. The partnership treaty between the two cities was signed on 17 February 1976.<ref>{{cite web|url=http://www.derby.gov.uk/leisure-and-culture/tourism-and-travel/town-twinning/#DerbyOsna_twinned_37_yrs|title=Town twinning|author=DerCity Council, Council House, Corporation Street, Derby, DE1 2FS|publisher=}}</ref>
+
+The twinning agreement with Derby was in the historical ''Hall of Peace'' in Osnabrück's Rathaus (town hall).
+Every year, Derby and Osnabrück each appoint an envoy who spends twelve months in the twin city. The envoy promotes the exchange of ideas between the two cities and acts as an educational and information officer to increase awareness of the twinning scheme. The envoy gives talks to local societies and schools, finds [[pen friend]]s and short term host families during work placements, works to assist groups who want to get involved in twinning by identifying and approaching possible counterparts and plans the annual mayweek trip.
+
+There is an annual exchange between the wind bands of [[John Port School]], Etwall and its twin school Gymnasium Melle in [[Melle, Germany|Melle]], Germany, [[Districts of Germany|District]] of [[Osnabrücker Land]].
+An exchange was established in 2009 between [[Allestree Woodlands School]], and the Gymnasium [[Angelaschule]] in Osnabrück.
+This exchange was originally based on a drama-project of both schools in June 2009, which contained performances in both cities with over 1600 visitors. It is now a language and culture exchange between the two schools, run by the German department at [[Allestree Woodlands School]].
+
+The exchange of envoys between two cities is very unusual. The envoy in Osnabrück changes every year and Osnabrück also sends envoys to Derby, Angers and Çanakkale. No other city in Germany participates in this exchange of envoys, and in Britain, only one other town, [[Wigan]], receives and sends an envoy.
+
+In 2014, Derby became a sister-city with the Palestinian city of Hebron.<ref>{{cite web|url=http://www.derbytelegraph.co.uk/History-Derby-sister-city-Hebron-Palestine/story-20973895-detail/story.html|title=History made as Derby becomes 'sister city' of Hebron, Palestine|work=Derby Telegraph}}</ref>
+
+===List of international links===
+* {{flagicon|DEU}} [[Osnabrück]], [[Germany]]
+* {{flagicon|IND}} [[Kapurthala]], [[India]] (friendship link)
+* {{flagicon|NED}} [[Haarlem]], [[Netherlands]] (friendship link)
+* {{flagicon|FRA}} [[Foncquevillers]], [[France]] (friendship link)
+* {{flagicon|JPN}} [[Toyota City]], [[Japan]]
+* {{flagicon|PRC}} [[Changzhi]], [[People's Republic of China]] (Memorandum of Understanding)
+* {{flagicon|USA}} [[Keene, New Hampshire|Keene]], [[New Hampshire]] ([[Keene State College]] student exchange programme)
+
+== References ==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Portal|England}}
+{{Commons category|Derby}}
+{{Wikivoyage|Derby}}
+* [http://www.derby.gov.uk Derby City Council website]
+
+{{Derby}}
+{{Derbyshire}}
+{{East_Midlands}}
+{{UK cities}}
+{{Unitary authorities of England}}
+
+{{Coord|52|55|19|N|1|28|33|W|region:GB_type:city|display=title}}
+
+[[Category:Derby| ]]
+[[Category:Local government in Derbyshire]]
+[[Category:Railway towns in England]]
+[[Category:Unitary authority districts of England]]
+[[Category:County towns in England]]
+[[Category:Articles including recorded pronunciations (UK English)]]
+[[Category:Cities in the East Midlands]]
+[[Category:Local government districts of the East Midlands]]
+[[Category:The Five Boroughs]]

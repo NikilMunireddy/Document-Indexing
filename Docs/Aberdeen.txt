@@ -1,0 +1,772 @@
+Aberdeen
+
+{{redirect|Aberdeen City|other uses|Aberdeen (disambiguation)}}
+{{Use dmy dates|date=March 2013}}
+{{Infobox settlement
+
+<!------- name ---------------------->
+| name
+| settlement_type      = City
+| official_name        = Aberdeen
+<!------- images, nickname, motto --->
+| image_skyline        = [[File:Aberdeen from Tollohill Woods.JPG|275px]]<br>[[File:Old Aberdeen high street section within University of Aberdeen campus.jpg|275px]]
+
+| image_caption        = From the top: Part of the Aberdeen skyline, and the High Street in Old Aberdeen.
+| nickname             = "Granite City", "Grey City", "Silver City with the Golden Sands"
+| image_shield         = Aberdeen-arms.png
+| image_flag           = City_Flag_of_Aberdeen.svg
+
+<!------- maps and coordinates ------>
+| image_map            = Aberdeen_City_in_Scotland.svg
+| map_caption          = Location within [[Scotland]]
+| coordinates_display  = inline, title
+| coordinates_region   = GB
+| latd                 = 57.1526
+| longd                = -2.1100
+<!---- | pushpin_map          = Scotland ---->
+
+<!------- location ------------------>
+| subdivision_type     = Sovereign state
+| subdivision_name     = {{flag|United Kingdom}}
+| subdivision_type1    = [[Countries of the United Kingdom|Country]]
+| subdivision_name1    = {{flag|Scotland}}
+| subdivision_type2    = [[Subdivisions of Scotland|Council area]]
+| subdivision_name2    = Aberdeen City
+| subdivision_type3    = [[Lieutenancy areas of Scotland|Lieutenancy area]]
+| subdivision_name3    = Aberdeen
+
+<!------- established --------------->
+| established_title    = Earliest Charter
+| established_date     = 1179
+| established_title2   = City status
+| established_date2    = 1891
+
+<!------- government type, leaders -->
+| leader_title         = Governing body
+| leader_name          = [[Aberdeen City Council]]
+| leader_title1        = [[List of Provosts and Lord Provosts of Aberdeen|Lord Provost]]
+| leader_name1         = George Adam
+| leader_title2        = [[Members of the 4th Scottish Parliament|MSPs]]
+| leader_name2         = {{Collapsible list |title=[[Politics of Aberdeen#Scottish Parliament|3]] |[[Kevin Stewart (Scottish politician)|Kevin Stewart]]&nbsp;(SNP) |[[Mark McDonald (politician)|Mark McDonald]]&nbsp;(SNP) |[[Maureen Watt]]&nbsp;(SNP)}}
+| leader_title3        = [[Politics of Aberdeen#UK Parliament|MPs]]
+| leader_name3         = {{Collapsible list |title=[[Politics of Aberdeen#UK Parliament|3]] |[[Kirsty Blackman]]&nbsp;(SNP) |[[Callum McCaig]]&nbsp;(SNP) |[[Alex Salmond]]&nbsp;(SNP)}}
+
+<!------- area ---------------------->
+| area_total_km2       = 184.46
+| area_urban_km2       =
+| area_metro_km2       =
+<!------- population ---------------->
+| population_as_of          = 2014
+| population_total          = 196,670<ref name="NRS Locality Estimate">{{cite web|url=http://nationalrecordsofscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/special-area-population-estimates/settlements-and-localities/mid-2012/list-of-tables |title=Mid-2012 Population Estimates for Settlements and Localities in Scotland |publisher=nationalrecordsofscotland.gov.uk|accessdate=25 November 2015}}</ref>
+| population_metro          = 
+| population_density_km2    = 1169
+|population_blank1_title = Language(s)
+|population_blank1 = [[Scots language|Scots]] ([[Doric dialect (Scotland)|Doric]]), [[Scottish English|English]]
+| population_footnotes      =
+| population_demonym       = Aberdonian
+<!------- time zone(s) -------------->
+| timezone             = [[Greenwich Mean Time|GMT]]
+| utc_offset           = ±0
+| timezone_DST         = [[British Summer Time|BST]]
+| utc_offset_DST       = +1
+
+<!-- elevation ----------------->
+
+| elevation_m          = 
+| elevation_footnotes  =
+
+<!------- postal codes, area code --->
+| postal_code_type     = [[Postcodes in the United Kingdom|Postcode areas]]
+| postal_code          = [[AB postcode area|AB10-AB13 (part), AB15, AB16, AB21-AB25]]
+| area_code            = 01224
+
+|blank_name  = [[ISO 3166-2:GB|ISO 3166-2]]
+|blank_info  = GB-ABE
+|blank1_name = [[ONS coding system|ONS code]]
+|blank1_info = 00QA
+|blank2_name = [[Ordnance Survey National Grid|OS grid reference]]
+|blank2_info = {{gbmappingsmall|NJ925065}}
+|blank3_name = [[Nomenclature of Territorial Units for Statistics|NUTS]] 3
+|blank3_info = UKM50
+|blank4_name = Primary Airport
+|blank4_info = [[Aberdeen Airport]]
+<!-------- gross domestic product -------->
+| blank_name_sec2         = 
+| blank_info_sec2         = 
+| blank1_name_sec2        = 
+| blank1_info_sec2        = 
+<!-------- website, footnotes, misc -------->
+| website              = {{URL|http://www.aberdeencity.gov.uk}}
+}}
+
+'''Aberdeen''' ({{IPAc-en|audio=Aberdeencity.OGG|æ|b|ər|ˈ|d|iː|n}}; {{lang-sco|Aiberdeen}} {{Audio|Aiberdeen.ogg|listen}}; {{lang-gd|Obar Dheathain}} {{IPA-gd|ˈopər ˈʝɛhɪn|}}; {{lang-la|Aberdonia}}) is [[Scotland]]'s third most populous [[City status in the United Kingdom|city]], one of Scotland's 32 [[Local government in Scotland|local government]] [[Subdivisions of Scotland|council areas]] and the [[United Kingdom]]'s [[List of urban areas in the United Kingdom|37th most populous built-up area]], with an official population estimate of 196,670 for the city of Aberdeen itself<ref name="NRS Locality Estimate"/> and 228,990 for the local authority area.<ref name="NRS LA Estimate">{{cite web|url=http://nationalrecordsofscotland.gov.uk/files/statistics/council-area-data-sheets/aberdeen-city-factsheet.pdf |title=Mid-2014 Population Estimates - Aberdeen City |publisher=nationalrecordsofscotland.gov.uk|accessdate=30 April 2015}}</ref>
+
+Nicknames include the ''Granite City'', the ''Grey City'' and the ''Silver City with the Golden Sands''. During the mid-18th to mid-20th centuries, Aberdeen's buildings incorporated locally quarried grey granite, which can sparkle like silver because of its high [[mica]] content.<ref name="agtb">{{cite web|url=http://www.agtb.org/aberdeen-scotland.htm|publisher=Aberdeen and Grampian Tourist Board|title=The Granite City|accessdate=8 February 2007| archiveurl= https://web.archive.org/web/20070205064703/http://www.agtb.org/aberdeen-scotland.htm| archivedate= 5 February 2007 <!--DASHBot-->| deadurl= no}}</ref> Since the discovery of [[North Sea oil]] in the 1970s, other nicknames have been the ''Oil Capital of Europe'' or the ''Energy Capital of Europe''.<ref name="uni-abdn">{{cite web|url=http://www.abdn.ac.uk/central/abdn/|title=About Aberdeen|publisher=University of Aberdeen |accessdate=8 February 2007| archiveurl= https://web.archive.org/web/20070205025539/http://www.abdn.ac.uk/central/abdn/| archivedate= 5 February 2007 <!--DASHBot-->| deadurl= no}}</ref>
+The area around Aberdeen has been settled since at least 8,000 years ago,<ref name="prehistory">{{cite web|url=http://www.scottishaccommodationindex.com/aberdeenpics.htm|title=Welcome to Aberdeen |publisher=Aberdeen Accommodation Index|accessdate=19 February 2007}}</ref> when prehistoric villages lay around the mouths of the rivers [[River Dee, Aberdeenshire|Dee]] and [[River Don, Aberdeenshire|Don]]. The city has a long, sandy coastline and a marine climate, the latter resulting in chilly summers and mild winters.
+
+Aberdeen received [[Royal burgh|Royal Burgh]] status from [[David I of Scotland]] (1124–53),<ref name="civicsociety">{{cite web|url=http://aberdeencivicsociety.org.uk/whats-new/the-old-burghs-of-aberdeen/ |title=The old burghs of Aberdeen |publisher=Aberdeen Civic Society |accessdate=19 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/20110812021945/http://aberdeencivicsociety.org.uk:80/whats-new/the-old-burghs-of-aberdeen/ |archivedate=12 August 2011 }}</ref> transforming the city economically. The city's two universities, the [[University of Aberdeen]], founded in 1495, and [[Robert Gordon University]], which was awarded university status in 1992, make Aberdeen the educational centre of the north-east of Scotland. The traditional industries of fishing, paper-making, shipbuilding, and textiles have been overtaken by the [[Petroleum industry|oil industry]] and Aberdeen's seaport. Aberdeen Heliport is one of the busiest commercial [[heliport]]s in the world<ref name="BAA">{{cite web|url=http://www.aberdeenairport.com/portal/site/default/menuitem.25db388ed11fced74aafa810c02865a0|title=BAA Aberdeen Airport|accessdate=31 July 2007}}</ref> and the seaport is the largest in the north-east of Scotland.<ref name="seaport">{{cite web|url=http://uk.archiseek.com/scotland/aberdeen/index.html|archiveurl=https://web.archive.org/web/20070609221650/http://uk.archiseek.com/scotland/aberdeen/index.html|archivedate=9 June 2007 |title=Architecture of Aberdeen, Scotland|accessdate=23 May 2007}}</ref>
+
+Aberdeen has won the [[Britain in Bloom]] competition a record-breaking ten times,<ref name="floral" /> and hosts the [[Aberdeen International Youth Festival]], a major international event which attracts up to 1000 of the most talented young performing arts companies. In 2012, [[Mercer (consulting firm)|Mercer]] named Aberdeen the 56th most liveable city in the World, as well as the fourth most liveable city in Britain.<ref>{{cite web|url=http://www.mercer.com/press-releases/asiapac-cities-rank-high-on-2012-QOL |title=2012 Quality of Living survey |publisher=Mercer.com |date=4 December 2012 |accessdate=8 May 2013}}</ref> In 2012, [[HSBC]] named Aberdeen as a leading business hub and one of eight 'super cities' spearheading the UK's economy, marking it as the only city in Scotland to receive this accolade.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-20002820 |title=Aberdeen named among 'Supercities' by HSBC |publisher=BBC News.com |date=19 October 2012 |accessdate=19 October 2012}}</ref>
+
+==History==
+{{Main|History of Aberdeen}}
+[[File:The Town House, Old Aberdeen - geograph.org.uk - 320069.jpg|thumb|left|upright|The Town House, [[Old Aberdeen]]. Once a separate burgh, Old Aberdeen was incorporated into the city in 1891]]
+[[File:Aberdeen1.jpg|thumb|right|The [[Castlegate, Aberdeen|Castlegate]] and [[Union Street, Aberdeen|Union Street]] (c.1900)]]
+
+The Aberdeen area has seen human settlement for at least 8,000 years.<ref name="prehistory" /> The city began as two separate [[burgh]]s: [[Old Aberdeen]] at the mouth of the river Don; and New Aberdeen, a fishing and trading settlement, where the Denburn waterway entered the river Dee estuary. The earliest [[charter]] was granted by [[William the Lion]] in 1179 and confirmed the corporate rights granted by [[David I of Scotland|David I]]. In 1319, the Great Charter of [[Robert the Bruce]] transformed Aberdeen into a property-owning and financially independent community. Granted with it was the nearby [[Forest of Stocket]], whose income formed the basis for the city's [[Common Good Fund (Aberdeen)|Common Good Fund]] which still benefits Aberdonians.<ref name="keith">{{Cite book|author=Keith, Alexander|year=1987|title=A Thousand Years of Aberdeen |publisher=Aberdeen University Press}}</ref><ref name="fraser">{{Cite book|first=W. Hamish|last=Fraser|title=Aberdeen, 1800 to 2000: A New History |year=2000 |publisher=Tuckwell Press |location=Edinburgh}}</ref>
+During the [[Wars of Scottish Independence]], Aberdeen was under English rule, so Robert the Bruce laid siege to [[Aberdeen Castle]] before destroying it in 1308, followed by the massacring of the English garrison and the retaking of Aberdeen for the townspeople. The city was burned by [[Edward III of England]] in 1336, but was rebuilt and extended, and called New Aberdeen. The city was strongly fortified to prevent attacks by neighbouring lords, but the gates were removed by 1770.
+[[File:The Powis gate Old Aberdeen - geograph.org.uk - 421948.jpg|thumb|upright|The Powis gate Old Aberdeen]]
+
+During the [[Scotland in the Wars of the Three Kingdoms|Wars of the Three Kingdoms]] of 1644–1647 the city was plundered by both sides. In 1644, it was taken and ransacked by Royalist troops after the [[Battle of Aberdeen (1644)|Battle of Aberdeen]]<ref>{{Cite book|first=Chris |last=Brown |title=The Battle of Aberdeen 1644|year=2002|publisher=Tempus Publishing |location=Stroud, Gloucestershire}}</ref> and two years later [[Battle of Aberdeen (1646)|it was stormed]] by a Royalist force under the command of [[George Gordon, 2nd Marquis of Huntly|Marquis of Huntly]].<ref>{{Cite DNB|ref=harv|last=Henderson |first=Thomas Finlayson |wstitle=Gordon, George (d.1649)  |volume=22 |pages=190–194}}</ref> In 1647 an outbreak of [[bubonic plague]] killed a quarter of the population. In the 18th century, a new Town Hall was built and the first social services appeared with the [[Aberdeen Royal Infirmary|Infirmary]] at [[Woolmanhill Hospital|Woolmanhill]] in 1742 and the Lunatic Asylum in 1779. The council began major road improvements at the end of the 18th century with the main thoroughfares of [[George Street, Aberdeen|George Street]], [[King Street, Aberdeen|King Street]] and [[Union Street, Aberdeen|Union Street]] all completed at the beginning of the 19th century.
+[[File:Union Terrace Aberdeen Scotland.jpg|thumb|left|Union Terrace, Aberdeen, circa 1900]]
+
+The expensive infrastructure works led to the city becoming bankrupt in 1817 during the [[Post-Napoleonic depression]], an economic downturn immediately after the [[Napoleonic Wars|Napoleonic wars]]; but the city's prosperity later recovered. The increasing economic importance of Aberdeen and the development of the shipbuilding and fishing industries led to the construction of the present harbour including Victoria Dock and the South Breakwater, and the extension of the North Pier. Gas street lighting arrived in 1824 and an enhanced water supply appeared in 1830 when water was pumped from the Dee to a reservoir in Union Place. An underground sewer system replaced open sewers in 1865.<ref name="fraser"/> The city was [[Municipal corporation|incorporated]] in 1891. Although Old Aberdeen has a separate history and still holds its ancient charter, it is no longer officially independent. It is an integral part of the city, as is Woodside and the [[Royal Burgh]] of [[Torry]] to the south of the River Dee.
+
+===Toponymy===
+{{Main|Etymology of Aberdeen}}
+Though [[Common Brittonic|Brittonic]] was spoken in Southern Scotland (part of ''yr [[Hen Ogledd]]'') up to medieval times, as evidenced (for example) by the poem ''[[Y Gododdin]]'', Aberdeen was in [[Pictish]] territory and became Gaelic-speaking at some time in the medieval period. Old Aberdeen is the approximate location of ''Aberdon'', the first settlement of Aberdeen; this literally means "the mouth of the Don". The [[Celtic languages|Celtic]] word ''aber'' means "river mouth", as in modern Welsh (Aberystwyth, Aberdare, Aberbeeg etc.).<ref name="Charnock">{{Cite book|first=Richard Stephen |last=Charnock|title=Local Etymology: A Derivative Dictionary of Geographical Names|year= 1859|publisher=Houlston and Wright}}</ref> The Gaelic name is ''Obar Dheathain'' (variation: ''Obairreadhain'') (''obar'' presumably being a loan from the earlier Pictish; the Gaelic term is "inbhir"), and in [[Latin]], the [[Ancient Rome|Romans]] referred to the river as ''Devana''. Mediaeval (or ecclesiastical) Latin has it as ''Aberdonia''.
+
+==Governance==
+{{Main|Politics of Aberdeen}}
+{{See also|List of Provosts and Lord Provosts of Aberdeen}}
+[[File:Marischal College A.JPG|thumb|left|[[Marischal College]], home of Aberdeen City Council, Broad St.]]
+
+Aberdeen is locally governed by the [[Aberdeen City Council]], which comprises forty-three councillors who represent the city's [[ward (politics)|wards]] and is headed by the [[List of Provosts and Lord Provosts of Aberdeen|Lord Provost]]. The current Lord Provost is George Adam.
+From May 2003 until May 2007 the council was run by a [[Liberal Democrats|Liberal Democrat]] and [[Conservative Party (UK)|Conservatives]] coalition. Following the May 2007 elections the Liberal Democrats formed a new coalition with the [[Scottish National Party]].<ref>{{Cite news|url=http://news.bbc.co.uk/1/hi/scotland/north_east/6654023.stm |title=Lib Dems and SNP in Aberdeen deal |work=BBC News Online |date=14 May 2007}}</ref> In May 2007 the council consisted of: 15 Liberal Democrat, 13 SNP, 10 [[Labour Party (UK)|Labour]], 4 Conservative councillors and a single independent councillor.<ref>{{cite web|url=http://www.aberdeencity.gov.uk/acci/web/site/xac_Councillor.asp?s=3 |title=Aberdeen City Councillors|publisher=Aberdeen City Council|accessdate=8 February 2007| archiveurl= https://web.archive.org/web/20070211004932/http://www.aberdeencity.gov.uk/acci/web/site/xac_Councillor.asp?s=3| archivedate= 11 February 2007 <!--DASHBot-->| deadurl= no}}</ref> After an SNP by-election gain from the Conservatives on 16 August 2007, the Lib Dem/SNP coalition held 28 of the 43 seats. In August 2009 a councillor resigned from the Liberal Democrats and became an independent. The Conservative Group split in August 2010 with two councillors forming the Aberdeen Conservatives. All four Conservatives remain recognised as Conservatives by the party nationally. Following the [[United Kingdom local elections, 2012|election of 3 May 2012]], the council is controlled by a coalition of centre-left [[Scottish Labour Party|Scottish Labour]], centre-right [[Scottish Conservative Party|Scottish Conservative]] and [[Independent (politician)|independent]]  councillors.<ref>{{cite web|last=McKay |first=David |url=http://www.pressandjournal.co.uk/Article.aspx/2762884 |title=Team of unlikely bedfellows join forces to seize power |publisher=Pressandjournal.co.uk |date= |accessdate=28 December 2012}}</ref>
+
+Aberdeen is represented in the [[Parliament of the United Kingdom]] by three [[constituencies]]: [[Aberdeen North (UK Parliament constituency)|Aberdeen North]], [[Aberdeen South (UK Parliament constituency)|Aberdeen South]] and [[Gordon (UK Parliament constituency)|Gordon]], of which the first two are wholly within the Aberdeen City council area while the latter also encompasses a large swathe of [[Aberdeenshire]]. Since the 2015 General Election all Aberdeenshire constituencies are represented by the SNP on swings of up to 30%. 
+In the [[Scottish Parliament]] the city is represented by three constituencies with different boundaries: [[Aberdeen Central (Scottish Parliament constituency)|Aberdeen Central]], [[Aberdeen Donside (Scottish Parliament constituency)|Aberdeen Donside]] and [[Aberdeen South and North Kincardine (Scottish Parliament constituency)|Aberdeen South and North Kincardine]]. The first two are wholly within the Aberdeen City council area, and the latter encompasses the North [[Kincardine]] ward of [[Aberdeenshire Council]]. A further seven MSPs are elected as part of the [[North East Scotland (Scottish Parliament electoral region)|North East Scotland]] electoral region. In the [[European Parliament]] the city is represented by six [[Member of the European Parliament|MEPs]] as part of the all-inclusive Scotland constituency.
+
+==Heraldry==
+{{Main|Coat of arms of Aberdeen}}
+[[File:Bon Accord Square - geograph.org.uk - 742813.jpg|thumb|Bon Accord Square, designed by [[Archibald Simpson]] and dating from 1823]]
+[[File:Bon Accord Lamppost - geograph.org.uk - 1063181.jpg|thumb|left|Lamp-post bearing the city coat of arms]]
+The arms and banner of the city show three silver towers on red. This motif dates from at least the time of [[Robert the Bruce]] and represents the buildings that stood on the three hills of mediaeval Aberdeen: Aberdeen Castle on Castle Hill (today's [[Castlegate, Aberdeen|Castlegate]]); the city gate on Port Hill; and a church on St Catherine's Hill (now levelled).<ref>{{cite web|url=http://www.scottish-places.info/councils/councilfirst1.html |title=Aberdeen City|accessdate=15 May 2007|author=Gazetter for Scotland}}</ref>
+
+''Bon Accord'' is the [[motto]] of the city and is French for "Good Agreement". Legend tells that its use dates from a password used by Robert the Bruce during the 14th century [[Wars of Scottish Independence]], when he and his men laid siege to the English-held Aberdeen Castle before destroying it in 1308.<ref name="keith" /> It is still widely present in the city, throughout street names, business names and the city's Bon Accord shopping mall.<ref>{{Cite web|title = Bon Accord & St Nicholas - Bon Accord  & St Nicholas|url = http://bonaccordandstnicholas.com/|website = bonaccordandstnicholas.com|accessdate = 2015-10-17}}</ref>
+
+The shield in the coat of arms is [[supporters (heraldry)|supported]] by two [[leopard]]s. A local magazine is called the "Leopard" and, when Union Bridge was widened in the 20th century, small statues of the creature in a sitting position were cast and placed on top of the railing posts (known locally as Kelly's Cats). The city's toast is "Happy to meet, sorry to part, happy to meet again"; this has been commonly misinterpreted as the translation of Bon Accord.<ref>{{cite web|url=http://www.british-publishing.com/Pages/AberdeenOG/introducing.html|title=Aberdeen Official Guide|publisher=Aberdeen City Council|accessdate=17 February 2007}}</ref>
+
+==Geography==
+{{Main|Geography of Aberdeen}}
+[[File:Aberdeen Coast light house.JPG|thumb|Aberdeen Coast]]
+[[File:Aberdeen Beach 2006.jpg|thumb|Aberdeen Beach]]
+Being sited between two river mouths, the city has little natural exposure of bedrock. This leaves local geologists in a slight quandary: despite the high concentration of geoscientists in the area (courtesy of the oil industry), there is only a vague understanding of what underlies the city. To the south side of the city, coastal cliffs expose high-grade metamorphic rocks of the Grampian Group; to the south-west and west are extensive granites intruded into similar high-grade schists; to the north the metamorphics are intruded by gabbroic complexes instead. The small amount of geophysics done, and occasional building-related exposures, combined with small exposures in the banks of the River Don, suggest that it is actually sited on an inlier of Devonian "Old Red" sandstones and silts. The outskirts of the city spread beyond the (inferred) limits of the outlier onto the surrounding metamorphic/ igneous complexes formed during the [[Dalradian]] period (approximately 480–600 million years ago) with sporadic areas of [[igneous rock|igneous]] [[Diorite]] granites to be found, such as that at the [[Rubislaw quarry]] which was used to build much of the [[Victorian era|Victorian]] parts of the city.<ref>{{cite web|url=http://www.scottish-places.info/councils/councildetails1.html |title=Details of Aberdeen City |author=Gazetter for Scotland|accessdate=10 April 2007}}</ref>
+
+On the coast, Aberdeen has a long sand beach between the two rivers, the [[River Dee, Aberdeenshire|Dee]] and the [[River Don, Aberdeenshire|Don]], which turns into high [[sand dunes]] north of the Don stretching as far as [[Fraserburgh]]; to the south of the Dee are steep rocky cliff faces with only minor pebble and shingle beaches in deep inlets. A number of granite outcrops along the south coast have been quarried in the past, making for spectacular scenery and good rock-climbing.
+
+The city extends to {{convert|184.46|km2|sqmi|abbr=on}},<ref name="dbjrij">{{cite web|url=http://www.gro-scotland.gov.uk/files/05mype-cahb-t9.pdf|title=Land Area and Population Density|author=General Register for Scotland|accessdate=12 March 2007|format=PDF}}</ref> and includes the former burghs of Old Aberdeen, New Aberdeen, [[Woodside, Aberdeen|Woodside]] and the [[Royal Burgh]] of [[Torry]] to the south of [[River Dee, Aberdeenshire|River Dee]]. In {{Scottish council populations|TXT=Year}} this gave the city a population density of {{Scottish council populations|DEN=00QA}}.<ref name="population">{{Scottish council populations|TXT=Cite}}</ref> The city is built on many hills, with the original beginnings of the city growing from Castle Hill, St. Catherine's Hill and Windmill Hill.<ref>{{cite web|url=http://www.scottish-places.info/councils/councilfirst1.html |title=Aberdeen City |publisher=The Gazetteer for Scotland|accessdate=20 February 2007}}</ref>
+
+===Location===
+{{Geographic location
+|title = '''Destinations from Aberdeen'''
+|Northwest = [[Inverurie]], [[Keith, Moray|Keith]], [[Elgin, Moray|Elgin]]
+|North     = [[Ellon, Aberdeenshire|Ellon]], [[Fraserburgh]]
+|Northeast = '''[[Peterhead]]''', '''[[Stavanger]]''', ([[Norway]])
+|West      = [[Westhill, Aberdeenshire|Westhill]], [[Grantown-on-Spey]]
+|Centre    = Aberdeen
+|East      = '''[[Aalborg]]''' ([[Denmark]])
+|Southwest = [[Banchory]], [[Brechin]], [[Forfar]]
+|South     = [[Portlethen]], '''[[Stonehaven]]'''
+|Southeast = '''[[Groningen]]''', '''[[Amsterdam]]''' ([[Netherlands]])
+}}
+
+===Climate===
+Aberdeen features an [[oceanic climate]] ([[Köppen climate classification|Köppen]] ''Cfb''). Aberdeen has far milder winter temperatures than one might expect for its northern location, although statistically it is the coldest city in the UK. During the winter, especially throughout December, the length of the day is very short, averaging 6 hours and 41 minutes between sunrise and sunset at winter solstice.<ref name="Sunrise and sunset for Aberdeen">{{cite web|url=http://www.sunrise-and-sunset.com/en/sun/united-kingdom/aberdeen/2015|title=Sunrise and sunset for Aberdeen|publisher=Sunrise and Sunset|accessdate=27 October 2015}}</ref> As winter progresses, the length of the day grows fairly quickly, to 8 hours and 20 minutes by the end of January. Around summer solstice, the days will be around 18 hours long, having 17 hours and 55 minutes between sunrise and sunset.<ref name="Sunrise and sunset for Aberdeen"/> During this time of the year marginal [[nautical twilight]] lasts the entire night. Temperatures at this time of year will be typically hovering around {{convert|17.0|C|F}} during the day in most of the urban area, though nearer {{convert|16.0|C|F}} directly on the coast, and around {{convert|18.0|to|19.0|C|F}} in the westernmost suburbs,<ref>{{cite web| publisher = [[MetOffice]]|url= http://www.metoffice.gov.uk/climate/uk/averages/escotland/7100_1km/MaxTemp_Average_1971-2000_7.gif
+|title = July temp map}}</ref> illustrating the cooling effect of the North Sea during summer. In addition, from June onward skies are more overcast than in April/May, as reflected in a lower percentage of possible sunshine (the percentage of daylight hours that are sunny). These factors render summer to be very tempered by European standards.
+
+Two weather stations collect climate data for the area, [[Aberdeen Airport|Aberdeen/Dyce Airport]], and Craibstone. Both are about {{convert|4+1/2|mi|km|0}} to the north west of the city centre, and given that they are in close proximity to each other, exhibit very similar climatic regimes. Dyce tends to have marginally warmer daytime temperatures year round owing to its slightly lower elevation, though is more susceptible to harsh frosts. The coldest temperature to occur in recent years was {{convert|-16.8|C|F}} during December 2010,<ref>{{cite web | publisher = [[Tutiempo]] | url= http://www.tutiempo.net/en/Climate/Aberdeen_Dyce/03-12-2010/30910.htm
+ | title = 2010 minimum}}</ref> while the following winter, Dyce set a new February high temperature station record on 28 February 2012 of {{convert|17.2|C|F}}.,<ref>{{cite web|url=http://www.bbc.co.uk/weather/feeds/17199313|title = What Is The Fohn Effect? |publisher=[[BBC Weather]]|accessdate=28 February 2012}}</ref> and a new March high temperature record of {{convert|21.6|C|F}} on 25 March 2012.<ref>{{cite web|url=http://www.southendweather.net/eu120325.txt |title=March 25 temp |publisher=[[Southendweather.net]] |accessdate=31 March 2012 }}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}{{dead 
+link|date=June 2013}}</ref>
+
+{{Weather box
+|location = Aberdeen Dyce 65m asl, 1981–2010, extremes 1960–
+|metric first = Yes
+|single line = Yes
+| Jan record high C = 17.2
+| Feb record high C = 17.2
+| Mar record high C = 21.6
+| Apr record high C = 23.7
+| May record high C = 24.3
+| Jun record high C = 26.7
+| Jul record high C = 29.8
+| Aug record high C = 29.7
+| Sep record high C = 25.3
+| Oct record high C = 22.0
+| Nov record high C = 18.8
+| Dec record high C = 15.7
+|year record high C = 29.8
+| Jan high C = 6.5
+| Feb high C = 6.8
+| Mar high C = 8.8
+| Apr high C = 10.9
+| May high C = 13.6
+| Jun high C = 16.1
+| Jul high C = 18.5
+| Aug high C = 18.3
+| Sep high C = 15.8
+| Oct high C = 12.4
+| Nov high C = 8.9
+| Dec high C = 6.6
+|year high C = 12.0
+| Jan low C = 0.6
+| Feb low C = 0.8
+| Mar low C = 1.9
+| Apr low C = 3.4
+| May low C = 5.7
+| Jun low C = 8.6
+| Jul low C = 10.8
+| Aug low C = 10.5
+| Sep low C = 8.6
+| Oct low C = 5.9
+| Nov low C = 2.9
+| Dec low C = 0.7
+|year low C = 5.1
+| Jan record low C = −19.3
+| Feb record low C = −18.2
+| Mar record low C = −15.8
+| Apr record low C = −6.8
+| May record low C = −4.2
+| Jun record low C = −0.3
+| Jul record low C = 0.1
+| Aug record low C = −0.2
+| Sep record low C = −2.4
+| Oct record low C = −4.4
+| Nov record low C = −15.6
+| Dec record low C = −18.1
+|year record low C = −19.3
+| Jan precipitation mm = 67.6
+| Feb precipitation mm = 55.1
+| Mar precipitation mm = 59.8
+| Apr precipitation mm = 58.8
+| May precipitation mm = 56.9
+| Jun precipitation mm = 61.2
+| Jul precipitation mm = 61.6
+| Aug precipitation mm = 60.5
+| Sep precipitation mm = 67.9
+| Oct precipitation mm = 96.2
+| Nov precipitation mm = 93.3
+| Dec precipitation mm = 76.1
+|year precipitation mm = 814.9
+| Jan sun = 58.3
+| Feb sun = 81.3
+| Mar sun = 121.8
+| Apr sun = 149.4
+| May sun = 199.4
+| Jun sun = 166.4
+| Jul sun = 165.3
+| Aug sun = 157.8
+| Sep sun = 123.7
+| Oct sun = 99.8
+| Nov sun = 66.2
+| Dec sun = 46.1
+|year sun = 1435.7
+|Jan percentsun= 25.1
+|Feb percentsun= 30.7
+|Mar percentsun= 33.2
+|Apr percentsun= 34.8
+|May percentsun= 38.9
+|Jun percentsun= 31.2
+|Jul percentsun= 31.0
+|Aug percentsun= 33.5
+|Sep percentsun= 32.2
+|Oct percentsun= 31.1
+|Nov percentsun= 27.2
+|Dec percentsun= 21.8
+|year percentsun= 30.9
+|source 1 = [[Met Office]]<ref>{{cite web
+| url =http://www.metoffice.gov.uk/public/weather/climate/gfnt07u1s | title = Aberdeen climate information | accessdate =5 August 2015|publisher = [[Met Office]]}}</ref>
+|date=August 2015|source 2 = [[Royal Dutch Meteorological Institute/KNMI]]<ref>{{cite web
+|url =http://eca.knmi.nl/utils/mapserver/climatology.php?indexcat=**&indexid=FD&periodidselect=1971-2000&seasonid=0&scalelogidselect=no&minx=-702857.142858&miny=-4074285.714286&maxx=163809.523810&maxy=-3424285.714285&MapSize=560%2C420&imagewidth=560&imageheight=420&mainmap.x=360&mainmap.y=210&CMD=QUERY_POINT&CMD=QUERY_POINT#bottom | title = Dyce 1960– extremes | accessdate =2 November 2011 | publisher = [[KNMI (institute)|KNMI]]}}</ref>
+}}
+
+{{Weather box
+|location = Craibstone 102m asl, 1971–2000, extremes 1951–
+|metric first = Yes
+|single line = Yes
+| Jan record high C = 16.0
+| Feb record high C = 16.3
+| Mar record high C = 20.0
+| Apr record high C = 23.4
+| May record high C = 23.8
+| Jun record high C = 26.1
+| Jul record high C = 28.8
+| Aug record high C = 28.6
+| Sep record high C = 25.9
+| Oct record high C = 21.1
+| Nov record high C = 18.3
+| Dec record high C = 15.4
+|year record high C = 28.8
+| Jan high C = 5.7
+| Feb high C = 6.1
+| Mar high C = 8.0
+| Apr high C = 9.9
+| May high C = 12.7
+| Jun high C = 15.3
+| Jul high C = 17.6
+| Aug high C = 17.5
+| Sep high C = 14.9
+| Oct high C = 11.8
+| Nov high C = 8.2
+| Dec high C = 6.4
+|year high C = 11.2
+| Jan low C = 0.4
+| Feb low C = 0.6
+| Mar low C = 1.5
+| Apr low C = 2.7
+| May low C = 5.0
+| Jun low C = 7.8
+| Jul low C = 9.9
+| Aug low C = 9.8
+| Sep low C = 8.0
+| Oct low C = 5.6
+| Nov low C = 2.6
+| Dec low C = 1.1
+|year low C = 4.6
+| Jan record low C = −13.5
+| Feb record low C = −12.2
+| Mar record low C = −11.7
+| Apr record low C = −6.7
+| May record low C = −3.0
+| Jun record low C = 0.3
+| Jul record low C = 1.7
+| Aug record low C = 1.7
+| Sep record low C = −0.6
+| Oct record low C = −4.0
+| Nov record low C = −10.8
+| Dec record low C = −12.6
+|year record low C = −13.5
+| Jan precipitation mm = 74.1
+| Feb precipitation mm = 53.7
+| Mar precipitation mm = 59.8
+| Apr precipitation mm = 61.2
+| May precipitation mm = 56.7
+| Jun precipitation mm = 59.5
+| Jul precipitation mm = 60.3
+| Aug precipitation mm = 65.7
+| Sep precipitation mm = 76.7
+| Oct precipitation mm = 87.7
+| Nov precipitation mm = 84.2
+| Dec precipitation mm = 76.9
+|year precipitation mm = 816.3
+| Jan sun = 56.4
+| Feb sun = 77.1
+| Mar sun = 114.1
+| Apr sun = 145.8
+| May sun = 188.5
+| Jun sun = 166.2
+| Jul sun = 164.9
+| Aug sun = 163.4
+| Sep sun = 122.1
+| Oct sun = 99.2
+| Nov sun = 65.1
+| Dec sun = 46.2
+|year sun = 1409.0
+|source 1 = [[Met Office]]<ref>{{cite web
+| url =http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/craibstone.html | title = Craibstone 1971–2000 averages | accessdate =2 November 2011 | publisher = [[Met Office]]}}</ref>
+|source 2 = [[Royal Dutch Meteorological Institute/KNMI]]<ref>{{cite web
+| url =http://eca.knmi.nl/utils/mapserver/anomaly.php?indexcat=**&indexid=TXx&year=1997&seasonid=16&create_image=true&minx=-328333.33333333&miny=-3928809.5238095&maxx=105000.00000001&maxy=-3603809.5238095&MapSize=560%2C420&imagewidth=560&imageheight=420&mainmap.x=235&mainmap.y=204&CMD=QUERY_POINT&CMD=QUERY_POINT#bottom | title = Craibstone 1951–1980 Extremes | accessdate =2 November 2011 | publisher = [[KNMI (institute)|KNMI]]}}</ref>
+|date=December 2012}}
+
+==Demography==
+[[File:AberdeenDemographic.gif|300px|thumb|Aberdeen's population since 1396<ref>{{cite web|url=http://www.visionofbritain.org.uk|title=Data Documentation|accessdate=15 May 2007| archiveurl= https://web.archive.org/web/20080907160421/http://www.visionofbritain.org.uk/| archivedate=7 September 2008<!--DASHBot-->| deadurl= no}}</ref>]]
+
+The latest population estimate (mid 2012) for the urban area of Aberdeen is 196,670.<ref name="NRS Locality Estimate"/> For the wider settlement of Aberdeen including [[Cove Bay]] and Dyce the latest population estimate (mid 2012) is 209,460.<ref name="NRS Locality Estimate"/> For the local authority area of Aberdeen City the latest estimate (mid 2014) is 228,990.<ref name="NRS LA Estimate"/>
+
+In 1396 the population was about 3,000. By 1801 it had become 26,992; (1901) 153,503; (1941) 182,467.<ref>{{cite web|url=http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10192985&c_id=10090283&add=N|archiveurl=https://web.archive.org/web/20080120201443/http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&data_cube=N_TPop&u_id=10192985&c_id=10090283&add=N|archivedate=20 January 2008|title=Aberdeen Population|accessdate=19 February 2007}}</ref>
+
+The 2011 census showed that there are fewer young people in Aberdeen, with 16.4% under 16, opposed to the national average of 19.2%.<ref name="citycensusreview"/> According to the 2011 census Aberdeen is 91.9% white, ethnically, 24.7% were born outside Scotland, higher than the national average of 16%. Of this population 7.6% were born in other parts of the UK.<ref name="aberdeencity.gov.uk">http://www.aberdeencity.gov.uk/nmsruntime/saveasdialog.asp?lID=54200&sID=53</ref> 8.2% of Aberdonians stated to be from an ethnic minority (non-white) in the 2011 census, with 9,519 (4.3%) being Asian, with 3,385 (1.5%) coming from [[India]] and 2,187 (1.0%) being [[British Chinese|Chinese]]. The city has around 5,610 (2.6%) residents of African or Caribbean origin, which is a higher percentage than both [[Glasgow]] and [[Edinburgh]].<ref name="aberdeencity.gov.uk"/> The most multicultural part of the city is George Street, which has many ethnic restaurants, supermarkets and hairdressers.
+{| class="wikitable" id="toc" style="float:right; margin-left:2em; width:40%; font-size:85%;" cellspacing="3"
+|-
+!colspan="4"|'''Aberdeen compared'''<ref name="aberdeencity.gov.uk"/>
+|-
+|'''[[United Kingdom Census 2011|UK Census 2011]]'''||'''Aberdeen'''||'''Scotland'''
+|-
+|Total population||222,793||5,295,000
+|-
+|Population growth 2001–2011||5.0%||5.0%
+|-
+|White||91.9%||96.0%
+|-
+|Asian||4.3%||2.7%
+|-
+|Black||2.6%||0.8%
+|-
+|Christian||30.9%||54.0%
+|-
+|Muslim||1.9%||1.4%
+|}
+In the household, there were 97,013 individual dwellings recorded in the city of which 61% were privately owned, 9% privately rented and 23% rented from the council. The most popular type of dwellings are apartments which comprise 49% of residences followed by semi-detached at just below 22%.<ref>{{cite web|url=http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Household&mainLevel=CouncilArea&mainArea=Aberdeen+City&mainText=&mainTextExplicitMatch=null&compLevel=CountryProfile&compArea=Scotland&compText=&compTextExplicitMatch=null|title=Comparative Household Profile: Aberdeen City Council Area, Scotland|accessdate=21 February 2007}}</ref>
+The median income of a household in the city is £16,813 (the mean income is £20,292)<ref>{{cite web|url=http://www.aberdeencity.gov.uk/ACCI/nmsruntime/saveasdialog.asp?lID=1726&sID=332|archiveurl=https://web.archive.org/web/20070927031848/http://www.aberdeencity.gov.uk/ACCI/nmsruntime/saveasdialog.asp?lID=1726&sID=332|archivedate=27 September 2007|title=Low Income Households in Aberdeen|author=Aberdeen City Council|accessdate=12 March 2007}}</ref> (2005) which places approximately 18% households in the city below the poverty line (defined as 60% of the mean income). Conversely, an Aberdeen postcode has the second highest number of millionaires of any postcode in the UK.<ref>{{Cite news| url=http://property.timesonline.co.uk/tol/life_and_style/property/buying_and_selling/article4833999.ece |title=Scottish homes market view 2008 |newspaper= The Times |date=28 September 2008| location=London}}</ref>
+
+===Religion===
+{{Main|Religion in Aberdeen}}
+[[File:St Machar's cathedral with watch house - geograph.org.uk - 174651.jpg|thumb|left|[[St Machar's Cathedral]]]]
+[[File:18th Jan 2014- South & St. Nicholas Kirk Spires.JPG|thumb|South & St. Nicholas Kirk Spires viewed from Union St]]
+[[Christianity]] is the main religion practised in the city. Aberdeen's largest denominations are the [[Church of Scotland]] (through the [[Presbytery of Aberdeen]]) and the [[Roman Catholic Church]], both with numerous churches across the city, with the [[Scottish Episcopal Church]] having the third-largest number. The most recent census in 2001 showed that Aberdeen has the highest proportion of non-religious residents of any city in Scotland, with nearly 43% of citizens claiming to have no religion<ref name="citycensusreview">{{cite web|url=http://www.aberdeencity.gov.uk/nmsruntime/saveasdialog.asp?lID=1726&sID=332|title=2001 Census: Key Statistics – Aberdeen City |author=Aberdeen City Council|accessdate=28 February 2007}}</ref> and several former churches in the city have been converted into bars and restaurants. In the [[Middle Ages]], the [[Kirk of St Nicholas, Aberdeen|Kirk of St Nicholas]] was the only burgh kirk and one of Scotland's largest parish churches. Like a number of other Scottish kirks, it was subdivided after the [[Scottish Reformation|Reformation]], in this case into the East and West churches. At this time, the city also was home to houses of the [[Carmelites]] (Whitefriars) and [[Franciscans]] (Greyfriars), the latter of which surviving in modified form as the chapel of Marischal College as late as the early 20th century.
+[[File:Gilcomston Church, Union St, Aberdeen.JPG|thumb|Gilcomston Church, Union St, Aberdeen]]
+[[St Machar's Cathedral]] was built twenty years after [[David I of Scotland|David I]] (1124–53) transferred the pre-Reformation [[Diocese]] from Mortlach in [[Banffshire]] to Old Aberdeen in 1137. With the exception of the episcopate of [[William Elphinstone]] (1484–1511), building progressed slowly. [[Gavin Dunbar (Bishop of Aberdeen)|Gavin Dunbar]], who followed him in 1518, completed the structure by adding the two western spires and the southern transept. It is now a congregation of the [[Church of Scotland]]. Aberdeen has two other cathedrals: [[St. Mary's Cathedral, Aberdeen|St. Mary's Cathedral]] is a [[Roman Catholic]] cathedral in [[Gothic style]], erected in 1859. In addition, [[St. Andrew's Cathedral, Aberdeen|St. Andrew's Cathedral]] serves the [[Scottish Episcopal Church]]. It was constructed in 1817 as [[Archibald Simpson]]'s first commission and contains a memorial to the consecration of the first bishop of the [[Episcopal Church in the United States of America]], which took place nearby. In 1804, [[St Peter's Church, Aberdeen|St Peter's Church]], the first permanent Roman Catholic church in the city after the Reformation was built.<ref name=list>[http://www.britishlistedbuildings.co.uk/sc-19973-st-peter-s-r-c-church-and-presbytery-and- St Peter's R.c. Church and Presbytery and 1-5 Chapel Court, Aberdeen] from British Listed Buildings, retrieved 12 January 2016</ref>
+[[File:St Andrew's Cathedral - geograph.org.uk - 401628.jpg|thumb|left|[[St. Andrew's Cathedral, Aberdeen|St Andrew's Cathedral]], King Street]]
+Numerous other Protestant denominations have a presence in Aberdeen. [[The Salvation Army]] citadel on the Castlegate dominates the view of east end of Union Street. In addition, there is a [[Unitarianism|Unitarian]] church, established in 1833 and located in Skene Terrace. [[Christadelphians]] have been present in Aberdeen since at least 1844. Over the years, they have rented space to meet at a number of locations and currently meet in the Inchgarth Community Centre in Garthdee.<ref>'[http://ukchristadelphians.org.uk/info.asp?act=ecc&id=3 Aberdeen]' on ''Find your local Christadelphians''</ref> There is also a [[Quaker]] meetinghouse on Crown street, the only purpose built [[Quaker House]] in Scotland that is still in use today. In addition, there are a number of Baptist congregations in the city, and [[Evangelical]] congregations have been appearing in significant numbers since the late 2000s.  The city also has two meetinghouses of [[The Church of Jesus Christ of Latter-day Saints]] (LDS Church).
+
+There is also a [[Aberdeen Mosque and Islamic Centre|mosque]] in Old Aberdeen which serves the Islamic community in the city, and an [[Aberdeen Synagogue|Orthodox Jewish Synagogue]] established in 1945. There are no formal [[Buddhism|Buddhist]] or [[Hinduism|Hindu]] buildings, although the [[University of Aberdeen]] has a small [[Bahá'í Faith|Bahá'í]] society and there is a fortnightly Hindu religious gathering in the 1st and 3rd Sunday afternoons at Queens Cross Parish church hall.<ref>{{cite web|title=Aberdeen Hindu Association|url=http://www.aberdeentemple.org.uk/home.html}}</ref>
+
+==Economy==
+[[File:Rubislaw Quarry.jpg|thumb|Rubislaw Quarry, opened in 1740 provided some six million tonnes of granite prior to its closure. Both the [[Houses of Parliament]] and the [[Forth Rail Bridge]] were constructed using its granite.]]
+[[File:3rd Sep 2012-Pocra Quay 2.JPG|thumb|left|War Memorial at Pocra Quay with Marine Ops Centre in background. Situated at Aberdeen Harbour, next to [[Footdee]] an ancient fishing village dating as far back as 1398]]
+{{Main|Economy of Aberdeen|Petroleum industry in Aberdeen}}
+Traditionally, Aberdeen was home to fishing, textile mills, shipbuilding and paper making. These industries have been largely replaced. High technology developments in the electronics design and development industry, research in agriculture and fishing and the [[oil industry]], which has been largely responsible for Aberdeen's economic boom in the last three decades, are now major parts of Aberdeen's economy.
+Until the 1970s, most of Aberdeen's leading industries dated from the 18th century; mainly these were textiles, foundry work, shipbuilding and paper-making, the oldest industry in the city, with paper having been first made there in 1694. Paper-making has reduced in importance since the closures of Donside Paper Mill in 2001 and the Davidson Mill in 2005 leaving the [[Paper mills of Aberdeen|Stoneywood Paper Mill]] with a workforce of approximately 500. Textile production ended in 2004 when [[Richards of Aberdeen]] closed.
+
+Grey granite was [[quarry|quarried]] at [[Rubislaw quarry]] for more than 300 years, and used for paving setts, kerb and building stones, and monumental and other ornamental pieces. Aberdeen granite was used to build the terraces of the [[Houses of Parliament]] and [[Waterloo Bridge]] in London. Quarrying finally ceased in 1971. The current owners have begun pumping 40 years of rain water from the quarry with the aim of developing a heritage centre on the site.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-19296757|title=Water pumping work starts at Rubislaw Quarry in Aberdeen|publisher=BBC News|accessdate=18 October 2012}}</ref>
+
+Fishing was once the predominant industry, but was surpassed by deep-sea fisheries, which derived a great impetus from improved technologies throughout the 20th century. Catches have fallen because of overfishing and the use of the harbour by oil support vessels,<ref name="harbour">{{cite web|url=http://www.aberdeen-harbour.co.uk/history.html|title=Aberdeen Harbour: A History of Service |publisher=Aberdeen Harbour Board|accessdate=18 February 2007| archiveurl= https://web.archive.org/web/20070403194640/http://www.aberdeen-harbour.co.uk/history.html| archivedate= 3 April 2007 <!--DASHBot-->| deadurl= no}}</ref> and so although still an important fishing port it is now eclipsed by the more northerly ports of [[Peterhead]] and Fraserburgh. The [[Fisheries Research Services]] are headquartered in Aberdeen, and there is a marine research lab in Torry.
+[[File:NDBQ 26 - 10th Jan 2015.JPG|thumb|GDF Suez and Aker Solutions Buildings, North Dee Business Quarter. An example of modern offices becoming more prevalent in Aberdeen's City Centre]]
+Aberdeen is well regarded for the agricultural and soil research carried out at [[The James Hutton Institute]] (formerly the Macaulay Land Use Research Institute), which has close links to the city's two universities. The [[Rowett Research Institute]] is a world-renowned research centre for studies into food and nutrition located in Aberdeen. It has produced three Nobel laureates and there is a high concentration of [[life scientists]] working in the city.<ref name="rowett">{{cite web|url=http://www.rowett.ac.uk/institute/history.html|title=History and Background|publisher=Rowett Research Institute |accessdate=1 February 2007| archiveurl= https://web.archive.org/web/20061229125832/http://www.rowett.ac.uk/institute/history.html| archivedate= 29 December 2006 }}</ref><ref name="newscientist">{{cite web|title=A Scientist's guide to Scotland |publisher=New Scientist |accessdate=9 May 2013 |url=http://www.newscientist.com/article/mg18524852.500-a-scientists-guide-to-scotland.html |archivedate=2 February 2014 |deadurl=yes |archiveurl=http://web.archive.org/web/20140202113753/http://www.newscientist.com/article/mg18524852.500-a-scientists-guide-to-scotland.html }}</ref>
+
+As oil reserves in the North Sea decrease there is an effort to rebrand Aberdeen as "Energy Capital of Europe" rather than "Oil Capital of Europe", and there is interest in the development of new energy sources; and technology transfer from oil into renewable energy and other industries is under way. The "Energetica" initiative led by Scottish Enterprise has been designed to accelerate this process.<ref>{{Cite news|url=http://news.bbc.co.uk/1/hi/business/3236703.stm |title=A burst of energy in Europe's oil capital |work=BBC News Online|date=12 November 2003}}</ref> As of 2013, Aberdeen remained a major world center for undersea petroleum technology.<ref name=NYT72813>{{cite news|title=Aberdeen, a City With One Foot on the Seafloor|url=http://www.nytimes.com/2013/07/29/business/global/aberdeen-a-city-with-one-foot-on-the-seafloor.html|accessdate=29 August 2013|newspaper=The New York Times|date=28 July 2013|author=Stanley Reed}}</ref>
+
+===Aberdeen and the North Sea===
+Aberdeen had been a major maritime centre throughout the 19th century, when a group of local entrepreneurs launched the first steam-powered trawler. The steam trawling industry expanded and by 1933 Aberdeen was Scotland's top fishing port, employing nearly 3,000 men with 300 vessels sailing from its harbour. By the time oil was coming on stream, much of the trawling fleet had relocated to Peterhead. Although Aberdeen still brings in substantial catches, the tugs, safety vessels and supply ships which pack the harbour far outnumber the trawlers.
+[[File:Aberdeen Harbour from Air.jpg|thumb|left|Aberdeen Harbour from the Air]]
+Geologists had speculated about the existence of oil and gas in the North Sea since the middle of the 20th century, but tapping its deep and inhospitable waters was another story. However, with the Middle Eastern oil sheiks becoming more aware of the political and economic power of their oil reserves and government threats of rationing, the industry began to consider the North Sea as a viable source of oil. Exploration commenced in the 1960s and the first major find in the British sector was in November 1970 in the Forties field, {{convert|110|mi}} east of Aberdeen.
+
+By late 1975, after years of intense construction the necessary infrastructure was in place. In Aberdeen, at BP's (British Petroleum) headquarters, the Queen pressed the button that would set the whole thing moving. Oil flowed from the rig directly to the refinery at far-away Grangemouth. While many ports have suffered decline, Aberdeen remains busy because of the oil trade and the influx of people connected with the industry, a subsequent rise in property prices have brought prosperity to the area.
+
+The industry still supports about 47,000 jobs locally and known reserves are such that oil will continue to flow well into the 21st century.
+
+As a major port in the United Kingdom, Aberdeen receives many visiting seafarers from ships calling the port. Seafarers' welfare organisation, [[Apostleship of the Sea]] has a [http://www.apostleshipofthesea.org.uk/contact-our-chaplains port chaplain] in Aberdeen to offer practical and pastoral support to them.
+
+===Business===
+In 2011, the Centre for Cities named Aberdeen as the best placed city for growth in Britain, as the country looked to emerge from the recent economic downturn.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-scotland-12261716|title=Aberdeen 'best-placed city for growth' in Britain|publisher=BBC News|accessdate=18 October 2012}}</ref> With energy still providing the backbone of the local economy, recent years have seen massive new investment in the North Sea owing to rising oil prices and favorable government tax incentives.<ref>{{cite web|url=http://www.telegraph.co.uk/finance/newsbysector/energy/oilandgas/9991640/Record-rise-in-North-Sea-oil-and-gas-investment-expected.html|title=Record rise in North Sea oil and gas investment expected|publisher=The Telegraph|accessdate=3 August 2013}}</ref> This has led to several oil majors and independents building new global offices in the city.<ref>{{cite web|url=http://www.gdfsuezep.co.uk/news/news/2013/21-02-2013.aspx|title=Construction gets underway for new GDF Suez E&P UK Aberdeen premises|publisher=GDF Suez E&P|accessdate=3 August 2013}}</ref>
+
+Aberdeen City and Shire's Gross Domestic Product is estimated at over £11.4billion, accounting for over 17% of the overall Scottish GDP. Five of Scotland's top ten businesses are based in Aberdeen with a collective turnover of £14billion, yielding a profit in excess of £2.4billion. Alongside this 29 of Scotland's top 100 businesses are located in Aberdeen with an employment rate of 77.9%, making it the 2nd highest UK city for employment.<ref>{{cite web|url=http://www.aberdeeninvestlivevisit.co.uk/Invest/Facts-and-Literature/Invest-Facts-and-Literature.aspx|title=Invest Aberdeen Facts & Figures|publisher=Aberdeen Invest Live Visit|accessdate=21 September 2013}}</ref>
+
+Figures released in 2016 ranked Aberdeen as having the second highest amount of patents processed per person in the UK.<ref>{{cite web|url=https://www.eveningexpress.co.uk/fp/news/local/buoy-oh-buoy-aberdeen-a-leader-in-patents-race/|title=Anti-gravity machine among inventions making Aberdeen a leader in patents race|publisher=Evening Express|accessdate=2 February 2016}}</ref>
+
+===Shopping===
+[[File:The Academy, Belmont St and Schoolhill, Aberdeen.JPG|thumb|left|The Academy, Belmont St and Schoolhill, Aberdeen]]
+[[File:28th Feb 2015 - Union St 2.JPG|thumb|Union St towards West End, Aberdeen]]
+The city ranks third in Scotland for shopping.{{citation needed|date=January 2014}} The traditional shopping streets are [[Union Street, Aberdeen|Union Street]] and [[George Street, Aberdeen|George Street]], now complemented by shopping centres, notably the [[Bon Accord & St Nicholas]] and the [[Trinity Shopping Centre]]. A new retail [http://www.aberdeencity.gov.uk/acci/web/site/CouncilNews/pr/pr_hammer_280706.asp £190 million] development, [[Union Square Aberdeen|Union Square]], reached completion in late September/early October 2009. Major [[retail park]]s away from the city centre include the Berryden Retail Park, the Kittybrewster Retail Park and the Beach Boulevard Retail Park.
+
+In March 2004, Aberdeen was awarded [[Fairtrade City]] status by the [[Fairtrade Foundation]].<ref>{{cite web|url=http://aberdeenfairtrade.website.orange.co.uk/ |publisher=Aberdeenfairtrade.org.uk |title=Aberdeen Fairtrade |accessdate=25 June 2009}}</ref>  Along with Dundee, it shares the distinction of being the first city in Scotland to receive this accolade.
+
+==Landmarks==
+{{Main|Architecture of Aberdeen}}
+[[File:16th Aug 2012- Rosemount 2.JPG|thumb|left|Aberdeen Central Library and St Marks Church, Rosemount, Aberdeen]]
+[[File:18th Jan 2014 - Town House 1.JPG|thumb|Town House, Sheriff Court and North of Scotland Bank, Aberdeen]]
+[[File:Granite Buildings on Union Street - geograph.org.uk - 94227.jpg|thumb|Granite Buildings on Union Street]]
+[[File:Aberdeen, Salvation Army Citadel - geograph.org.uk - 1958642.jpg|thumb|left|Aberdeen, Salvation Army Citadel]]
+[[File:Crown St 6 - 26th Sep 2013.JPG|thumb|left|Head Post Office, Crown Street]]
+[[File:Crown St 3 - 26th Sep 2013.JPG|thumb|Former Trinity United Free Church, Crown Street, Aberdeen]]
+Aberdeen's [[architecture]] is known for its principal use during the Victorian era of [[granite]], which has led to its local [[nickname]] of the ''Granite City'' or more romantically the less commonly used name the ''Silver City'', since the [[Mica]] in the stone sparkles in the sun. The hard grey stone is one of the most durable materials available and helps to explain why the city's buildings look brand-new when they have been newly cleaned and the cement has been pointed. Unlike other Scottish cities where [[sandstone]] has been used, the buildings are not weathering and need very little structural maintenance on their masonry. The buildings can however become noticeably darker as a result of pollution and grime accumulated over the years. There has however been great success in cleaning the buildings which can result in their façade being restored back to much how they looked originally.
+
+Amongst the notable buildings in the city's main street, [[Union Street, Aberdeen|Union Street]], are the Town and County Bank, [[The Music Hall (Aberdeen)|the Music Hall]], the [[Seven Incorporated Trades of Aberdeen|Trinity Hall of the incorporated trades]] (originating between 1398 and 1527, although completely rebuilt in the 1860s), now a shopping mall; the former office of the Northern Assurance Company, and the [[National Bank of Scotland]]. In Castle Street, a continuation eastwards of Union Street, is the new Town House, a very prominent landmark in Aberdeen, built between 1868 and 1873 to a design by Peddie and Kinnear.<ref>{{cite web|url=http://www.scottish-places.info/features/featurefirst6629.html  |title=Overview of Town House |publisher=Geo.ed.ac.uk |date= |accessdate=25 June 2009}}</ref>
+
+[[Alexander Marshall Mackenzie]]'s extension to [[Marischal College]] on Broad Street, opened by King [[Edward VII of the United Kingdom|Edward VII]] in 1906, created the second largest granite building in the world (after the [[Escorial]], [[Madrid]]).<ref>{{cite web|url=http://www.scottish-places.info/features/featurefirst1482.html  |title=Overview of Marischal College |publisher=Geo.ed.ac.uk |date= |accessdate=25 June 2009}}</ref>
+
+In addition to the many fine landmark buildings, Aberdeen has many prominent public statues, three of the most notable being [[William Wallace]] at the junction between Union Terrace and Rosemount Viaduct, [[Robert Burns]] on Union Terrace above [[Union Terrace Gardens]], and Robert the Bruce holding aloft the charter he issued to the city in 1319 on Broad Street, outside [[Marischal College]].
+
+===Parks, gardens and open spaces===
+{{Main|Green spaces and walkways in Aberdeen}}
+
+Aberdeen has long been famous for its 45<ref name="floral" /> [[park]]s and [[garden]]s, and citywide floral displays which include two million roses, eleven million daffodils and three million crocuses. The city has won the [[Royal Horticultural Society]]'s [[Britain in Bloom]] 'Best City' award ten times,<ref name="floral">{{cite web| url=http://www.british-publishing.com/Pages/AberdeenOG/floral.html| title=Floral Capital of Scotland|publisher=British Publishing| date=20 February 2007|archiveurl=https://web.archive.org/web/20070401110049/http://www.british-publishing.com/Pages/AberdeenOG/floral.html|archivedate=1 April 2007|deadurl=yes}}</ref> the overall Scotland in Bloom competition twenty times<ref name="floral" /> and the large city category every year since 1968.<ref name="floral" /> However, despite recent spurious reports, Aberdeen has never been banned from the Britain in Bloom competition.<ref>{{Cite news| first=Maureen| last=Simpson| url=http://www.rhs.org.uk/britaininbloom/scotland/aberdeen2006.asp | archiveurl=https://web.archive.org/web/20070929103259/http://www.rhs.org.uk/britaininbloom/scotland/aberdeen2006.asp | archivedate=29 September 2007 | title=We're top of Brit parade| publisher=Press and Journal| date=22 September 2006}}</ref> The city won the 2006 Scotland in Bloom "Best City" award along with the International Cities in Bloom award. The suburb of Dyce also won the Small Towns award.<ref>{{cite web| url=http://www.rhs.org.uk/britaininbloom/scotland/aberdeen2006.asp| archiveurl=https://web.archive.org/web/20070929103259/http://www.rhs.org.uk/britaininbloom/scotland/aberdeen2006.asp| archivedate=29 September 2007| title=2006 winners| publisher=Royal Horticultural Society| accessdate=8 February 2007}}</ref><ref>{{Cite news|url=http://www.pressandjournal.co.uk/displayNode.jsp?nodeId=149235&command=displayContent&sourceNode=149218&contentPK=16277782&moduleName=InternalSearch&formname=sidebarsearch |title=Aberdeen's blooming success goes worldwide |publisher=Press and Journal |date=28 December 2006 |deadurl=yes |archiveurl=https://web.archive.org/20041222032252/http://www.pressandjournal.co.uk:80/displayNode.jsp?nodeId=149235 |archivedate=22 December 2004 }}</ref>
+[[File:Union Terrace Gardens, Aberdeen.JPG|thumb|Union Terrace Gardens, Aberdeen]]
+[[Duthie Park]] opened in 1899 on the north bank of the [[River Dee, Aberdeenshire|River Dee]]. It was named after and given to the city by Miss Elizabeth Crombie Duthie of Ruthrieston in 1881. It has extensive gardens, a rose hill, boating pond, bandstand, and play area as well as Europe's second largest enclosed gardens the David Welch Winter Gardens. [[Hazlehead Park]], is large and forested, located on the outskirts of the city, it is popular with walkers in the forests, sports enthusiasts, naturalists and picnickers. There are football pitches, two golf courses, a pitch and putt course and a horse riding school.
+
+[[File:Duthie Park, Aberdeen.JPG|thumb|left|Duthie Park, Aberdeen, Scotland]]
+
+Aberdeen's success in the Britain in Bloom competitions is often attributed to [[Johnston Gardens]], a small park of one hectare in the west end of the city containing many different flowers and plants which have been renowned for their beauty. The garden was in 2002, named the best garden in the [[British Islands]].<ref name="floral" /> [[Seaton Park]], formerly the grounds of a private house, is on the edge of the grounds of [[St Machar's Cathedral]]. The Cathedral Walk is maintained in a formal style with a great variety of plants providing a popular display. The park includes several other areas with contrasting styles to this. [[Union Terrace Gardens]] opened in 1879 and is situated in the centre of the city. It covers {{convert|2.5|acre|m2}} in the centre of Aberdeen bordered on three sides by Union Street, Union Terrace and Rosemount Viaduct. The park forms a natural amphitheatre located in the Denburn Valley and is an oasis of peace and calm in the city centre. A recent proposal to build a three storey concrete and steel superstructure in place of the gardens, part of which will provide a commercial concourse, has proved highly controversial. {{citation needed|date=January 2016}}
+
+Situated next to each other, [[Victoria Park, Aberdeen|Victoria Park]] and [[Westburn Park]] cover {{convert|26|acre|m2}} between them. [[Victoria Park, Aberdeen|Victoria Park]] opened in 1871. There is a conservatory used as a seating area and a fountain made of fourteen different granites, presented to the people by the granite polishers and master builders of Aberdeen. Opposite to the north is [[Westburn Park]] opened in 1901. With large grass pitches it is widely used for field sports. There is large tennis centre with indoor and outdoor courts, a children's cycle track, play area and a grass boules lawn.
+
+===Theatres and concert halls===
+{{Main|Aberdeen theatres and concert halls}}
+[[File:The Tivoli Theatre on Guild Street, Aberdeen.JPG|thumb|left|The Tivoli Theatre, Guild Street, Aberdeen]]
+[[File:His Majesty's Theatre, Rosemount, Aberdeen.JPG|thumb|His Majesty's Theatre, Rosemount, Aberdeen]]
+Aberdeen has hosted several theatres throughout its history, some of which have subsequently been converted or destroyed. The most
+famous include:
+*[[His Majesty's Theatre]] (HMT), on Rosemount Viaduct<ref name="autogenerated65">Edi Swan: ''His Majesty's Theatre – One Hundred Years of Glorious Damnation'' ([[Black & White Publishing]]) (2006); ISBN 978-1-84502-102-3</ref>
+*[[Tivoli Theatre, Aberdeen|The Tivoli]], on Guild Street<ref>{{cite web|url=http://www.aberdeentivoli.net|title=Aberdeen Tivoli Theatre Website|publisher=Aberdeentivoli.net|accessdate=25 August 2011|archiveurl=https://web.archive.org/web/20110723001802/http://www.aberdeentivoli.net|archivedate=23 July 2011|deadurl=no}}</ref>
+*[[Capitol Theatre, Aberdeen|Capitol Theatre]], on Union Street
+*[[Aberdeen Arts Centre]], on King Street
+*[[The Palace Theatre, Aberdeen|The Palace Theatre]], on Bridge Street<ref>{{cite web|url=http://www.arthurlloyd.co.uk/Aberdeen.htm|title=Aberdeen Theatres and Halls|publisher=Arthurlloyd.co.uk|date=13 March 2004|accessdate=25 August 2011}}</ref>
+*[[The Lemon Tree]] on West North Street
+
+The main concert hall is the [[Music Hall Aberdeen|Music Hall]] on Union Street, built in 1822.
+
+==Transport==
+{{Main|Transport in Aberdeen}}
+[[File:Aberdeen Station Plaza.JPG|thumb|left|Plaza outside railway station at Aberdeen in early morning, with Union Square to left]]
+[[File:Scot-Aberdeen-rail.jpg|thumb|Aberdeen Railway Station, main concourse]]
+
+[[Aberdeen Airport]] (ABZ), at [[Dyce]] in the north of the city, serves a number of domestic and international destinations including France, Germany, the Netherlands, Spain, Belgium, Austria, Ireland and Scandinavian countries. The heliport which serves the oil industry and rescue services is one of the busiest commercial heliports in the world.<ref name="BAA"/> [[Aberdeen railway station]] is on the main UK rail network and [[Abellio ScotRail]] has frequent direct trains to major cities such as [[Edinburgh]], [[Glasgow]] and [[Inverness]]. [[Virgin Trains East Coast]] and the [[Caledonian Sleeper]] operate direct trains to London. The station is currently being updated to bring it into the modern age. In 2007 additions were made and a new ticket office was built in the building. The UK's longest direct rail journey runs from Aberdeen to [[Penzance]]. It is operated by [[CrossCountry]], leaving Aberdeen at 08:20 and taking 13 hours and 23 minutes to complete.
+
+Until 2007, a 1950s-style concrete bus station at Guild Street served out-of-the-city locations; it has since transferred to a new and well-presented bus station just 100&nbsp;metres to the east off Market Street as part of the [[Union Square Aberdeen|Union Square]] development. There are six major roads in and out of the city. The A90 is the main arterial route into the city from the north and south, linking Aberdeen to [[Edinburgh]], [[Dundee]], [[Brechin]] and [[Perth, Scotland|Perth]] in the south and [[Ellon, Aberdeenshire|Ellon]], [[Peterhead]] and [[Fraserburgh]] in the north. The A96 links [[Elgin, Moray|Elgin]] and [[Inverness]] and the north west. The A93 is the main route to the west, heading towards Royal Deeside and the [[Cairngorms]]. After [[Braemar]], it turns south, providing an alternative tourist route to Perth. The A944 also heads west, through [[Westhill, Aberdeenshire|Westhill]] and on to [[Alford, Aberdeenshire|Alford]]. The A92 was the original southerly road to Aberdeen prior to the building of the A90, and is now used as a tourist route, connecting the towns of [[Montrose, Angus|Montrose]] and [[Arbroath]] and on the east coast. The A947 exits the city at [[Dyce]] and goes on to [[Newmachar]], [[Oldmeldrum]] and [[Turriff]] finally ending at [[Banff, Aberdeenshire|Banff]] and [[Macduff, Aberdeenshire|Macduff]].
+[[File:River Dee Railway Bridge - geograph.org.uk - 1445234.jpg|thumb|left|River Dee Railway Bridge, Aberdeen]]
+After first being mooted some 60 years ago and being held up for the past five years by a number of legal challenges, Aberdeen's long awaited Western Peripheral Route was finally given the go-ahead after campaigners lost their appeal to the UK Supreme Court in October 2012. The {{convert|30|mi|km|adj=on|sigfig=1}} route is earmarked to be completed in 2018 and is hoped to significantly reduce traffic congestion in and around the city.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-19960448 |title=BBC News – Aberdeen bypass set to proceed after Supreme Court appeal rejected |publisher=Bbc.co.uk |date=17 October 2012 |accessdate=28 December 2012}}</ref> Aberdeen Harbour is important as the largest in the north of Scotland and as a ferry route to [[Orkney]] and [[Shetland]]. Established in 1136, it has been referred to as the oldest business in Britain.<ref>{{cite web|url=http://www.british-publishing.com/Pages/AberdeenOG/fact.html |title=It's a fact: 50 things you may not have known about Aberdeen |publisher=Aberdeen Official Guide |accessdate=15 February 2007 |deadurl=yes |archiveurl=https://web.archive.org/20061207054314/http://www.british-publishing.com:80/Pages/AberdeenOG/fact.html |archivedate=7 December 2006 }}</ref>
+
+[[FirstGroup]] operates the city buses under the name [[First Aberdeen]], as the successor of Grampian Regional Transport (GRT) and Aberdeen Corporation Tramways. Aberdeen is the global headquarters of FirstGroup plc, having grown from the [[GRT Group]]. First is still based at the former Aberdeen Tramways depot on King Street,<ref>{{cite web|url=http://www.firstgroup.com/corporate/our_company/hq_history.php |title=www.firstgroup.com The History of 395 King Street 1862–2007 |publisher=FirstGroup |date=20 January 1989 |accessdate=25 June 2009}}</ref> which has now been redeveloped into a new Global Headquarters and Aberdeen bus depot. [[Stagecoach Group]] also run buses in Aberdeen and Aberdeenshire, under the Stagecoach Bluebird brand. Other bus companies (e.g. [[Megabus (United Kingdom)|Megabus]]) run buses from the bus station to places north and south of the city.
+
+[[National Express Coaches|National Express]] operate express coach services to [[London]] twice daily. The 590 service, operated by Bruce's of [[Salsburgh]]
+operates in the morning and runs through the day, calling at [[Dundee]], [[Perth]], [[Glasgow]], [[Hamilton, South Lanarkshire|Hamilton]], [[Carlisle, Cumbria|Carlisle]], [[Milton Keynes]], [[Golders Green]] and [[Victoria Coach Station]], whilst the 592 (operated by Parks of Hamilton) leaves in the evening and travels overnight,
+calling at [[Dundee]], [[Glasgow]], [[Hamilton, South Lanarkshire|Hamilton]], Carlisle, [[Heathrow Airport]] and [[Victoria Coach Station]].
+In addition, there are [[Megabus (Europe)|Megabus]] services to [[London]] and [[Edinburgh]] and [[Scottish Citylink]] services to Glasgow, operated by [[Stagecoach]] and Parks of Hamilton using the Citylink gold and blue livery.
+
+Aberdeen is connected to the UK [[National Cycle Network]], and has a track to the south connecting to cities such as Dundee and Edinburgh and one to the north that forks about <span style="white-space:nowrap;">{{convert|10|mi|km|round=5}}</span> from the city into two different tracks heading to Inverness and Fraserburgh respectively. Two particularly popular footpaths along old railway tracks are the [[Deeside Way]] to [[Banchory]] (which will eventually connect to Ballater) and the [[Formartine and Buchan Way]] to Ellon, both used by a mixture of cyclists, walkers and occasionally horses. Four park-and-ride sites serve the city: Stonehaven and Ellon (approx {{convert|12|to|17|mi|km}} out from the city centre) and Kingswells and Bridge of Don (approx {{convert|3|to|4|mi|km|0}} out).
+
+The [[Dee Estuary, Aberdeenshire|Dee Estuary]], Aberdeen's harbour, has continually been improved. Starting out as a fishing port, moving onto steam trawlers, the oil industry, it is now a major port of departure for the [[Baltic region|Baltic]] and [[Scandinavia]].<ref name=EB>{{cite encyclopedia |editor-first=Dale H. |editor-last=Hoiberg|encyclopedia=Encyclopædia Britannica |title=Aberdeen|edition = 15th |year=2010|publisher=Encyclopædia Britannica Inc. |volume=I: A-ak Bayes |location=Chicago, IL |isbn=978-1-59339-837-8|pages=27–28}}</ref> Major exports include fertiliser, granite, and chemicals.
+
+==Education==
+{{Main|Education in Aberdeen}}
+[[File:2nd Sep 2012- Elphinstone Hall 2.jpg|thumb|left|Elphinstone Hall, Old Aberdeen]]
+[[File:8th Dec 2012-Abdn Uni Library 9.JPG|thumb|upright|Sir Duncan Rice Library, Aberdeen University, Aberdeen]]
+[[File:King's College, Old Aberdeen - geograph.org.uk - 118509.jpg|thumb|left|King's College, Old Aberdeen]]
+
+===Universities and colleges===
+Aberdeen has two universities, the ancient ''[[University of Aberdeen]]'', and ''[[Robert Gordon University]]'', a modern university often referred to as RGU. Aberdeen's student rate of 11.5% is higher than the national average of 7%.<ref>{{cite web|url=http://www.scrol.gov.uk/scrol/browser/profile.jsp?profile=Education&mainLevel=CouncilArea&mainArea=Aberdeen+City&mainText=&mainTextExplicitMatch=null&compLevel=CountryProfile&compArea=Scotland&compText=&compTextExplicitMatch=null|title=Comparative Education Profile: Aberdeen City Council Area, Scotland|accessdate=21 February 2007}}</ref>
+
+[[File:10th Aug 2012- Abdn Business Skool.JPG|thumb|Aberdeen Business School at the Robert Gordon University]]
+
+The [[University of Aberdeen]] began as [[King's College, Aberdeen]], which was founded in 1495<ref name=EB/> by [[William Elphinstone]] (1431–1514), [[Bishop of Aberdeen]] and Chancellor of Scotland. [[Marischal College]], a separate institution, was founded in "New" Aberdeen by George Keith, fifth Earl Marischal of Scotland in 1593.<ref name=EB/> These institutions were merged by order of Parliament in 1860 to form the University of Aberdeen.<ref name=EB/> The university is the fifth oldest in the English-speaking world<ref name="university">{{Cite book|first=Jennifer|last=Carter|title=Crown and Gown: Illustrated History of the University of Aberdeen, 1495–1995|year=1994|location=Aberdeen|publisher=Aberdeen University Press}}</ref> and offers degrees in a full range of disciplines. Its main campus is in Old Aberdeen in the north of the city and it currently has approximately 14,000 students. The university's debating society is the oldest in Scotland, founded in 1848 as the King's College Debating Society.<ref>{{cite web|title=Aberdeen University Debater|url=http://www.thedebater.org/about|publisher=Aberdeen University Debater|accessdate=13 February 2013}}</ref>
+
+[[Robert Gordon's College]] (originally Robert Gordon's Hospital) was founded in 1750 by the merchant [[Robert Gordon (philanthropist)|Robert Gordon]],<ref name=EB/> grandson of the map maker Robert Gordon of Straloch, and was further endowed in 1816 by Alexander Simpson of Collyhill. Originally devoted to the instruction and maintenance of the sons of poor burgesses of guild and trade in the city, it was reorganised in 1881 as a day and night school for secondary and technical education. In 1903, the vocational education component of the college was designated a [[Central Institution]] and was renamed as the Robert Gordon Institute of Technology in 1965. In 1992, university status was awarded and it became [[Robert Gordon University]]. The university has expanded and developed significantly in recent years, and was named Best Modern University in the UK for 2012 by ''[[The Sunday Times]]''. It was previously ''The Sunday Times'' Scottish University of the Year for 2011, primarily because of its record on graduate employment. The citation for the 2011 award read: "''With a graduate unemployment rate that is lower than the most famous universities, including Oxford and Cambridge, plus a flourishing reputation for research, high student satisfaction rates and ambitious plans for its picturesque campus, the Robert Gordon University is The Sunday Times Scottish University of the Year''".<ref>The Sunday Times, 12 September 2010 (subscription only)</ref> RGU had two campuses: one in the city centre at Schoolhill/St. Andrew Street and a larger suburban campus at [[Garthdee]] and currently has approximately 15,500 students. As of 2013, the Garthdee campus was expanded to include all schools, with the Schoolhill/St. Andrew Street campus being sold to unknown buyers. The closure of the Schoolhill site includes the removal of the Student Union building, giving Aberdeen the dubious distinction of having two universities but no student bar.
+[[File:RGU Riverside East building 1.jpg|thumb|left|Robert Gordon University - Sir Ian Wood building]]
+[[File:Aberdeen College - geograph.org.uk - 852689.jpg|thumb|right|North East Scotland College]]
+Aberdeen is also home to two artistic schools: [[Gray's School of Art]], founded in 1886, which is one of the oldest established colleges of art in the UK. [[The Scott Sutherland School of Architecture and Built Environment|The Scott Sutherland School of Architecture and the Built Environment]], was one of the first architectural schools to have its training courses recognised by the [[Royal Institute of British Architects]]. Both are now part of [[Robert Gordon University]] and are based at its Garthdee campus. [[North East Scotland College]] has several campuses in the city and offers a wide variety of part-time and full-time courses leading to several different qualifications in science. The [[Scottish Agricultural College]] is based just outside Aberdeen, on the Craibstone Estate. This is situated beside the roundabout for Aberdeen Airport on the A96. The college provides three services—Learning, Research and Consultancy. The college features many land based courses such as Agriculture, Countryside Management, Sustainable Environmental Management and Rural Business Management. There are a variety of courses from diplomas through to master's degrees. The [[Marine Laboratory Aberdeen]], which specialises in fisheries, [[Macaulay Land Use Research Institute]] (soil science), and the [[Rowett Research Institute]] (animal nutrition) are some other higher education institutions.<ref name=EB/>
+
+===Schools===
+[[File:Aberdeen Grammar School - geograph.org.uk - 118948.jpg|thumb|Aberdeen Grammar School]]
+[[File:SchoolBuilding.JPG|thumb|left|Woodside School, dating from 1890]]
+There are currently 12 secondary schools and 54 primary schools which are run by the city council. The most notable are [[Aberdeen Grammar School]] (founded in 1257), [[Harlaw Academy]], [[Cults Academy]], and [[Oldmachar Academy]] which were all rated in the top 50 Scottish secondary schools league tables published by ''[[The Times]]'' in 2005. Harlaw Academy was taken down from the list after a short time but is still a popular school.<ref>
+{{cite news
+| url = http://extras.timesonline.co.uk/pdfs/top50statescotland.pdf
+| title = Times newspaper Scottish state schools league table
+| accessdate =24 January 2007
+| year = 2005
+|format=PDF | location=London
+| work=The Times}}
+</ref>
+There are a number of private schools in Aberdeen: [[Robert Gordon's College]], [[Albyn School]] for Girls (co-educational as of 2005), [[St Margaret's School for Girls]], the [[Hamilton School]] (closed by the Child Care Inspectorate in early 2014), the [[Total S.A.|Total]] French School (for French oil industry families), the [[International School of Aberdeen]] and a [[Steiner school|Waldorf/Steiner School]]. Primary schools in Aberdeen include [[Airyhall Primary School]], [[Albyn School]], [[Ashley Road Primary School]], Balgownie Primary School, Broomhill Primary School, Cornhill Primary School (the city's largest), Culter Primary School, Cults Primary School, [[Danestone Primary School]], Fernielea Primary school, Ferryhill Primary School, [[Gilcomstoun Primary School]], Glashieburn Primary School, [[Hamilton School]], Kaimhill Primary School, Kingsford Primary School, Kittybrewster Primary School, Mile-End School, Muirfield Primary School, [[Robert Gordon's College]], [[Skene Square Primary School]], St. Joseph's Primary School and [[St Margaret's School for Girls]].
+
+==Culture==
+{{Main|Culture in Aberdeen}}
+[[File:Aberdeen Art Gallery.jpg|thumb|left|Aberdeen Art Gallery]]
+[[File:8th Dec 2012-Martime Museum, Shiprow.JPG|thumb|right|Maritime Museum, Shiprow]]
+The city has a wide range of cultural activities {{Citation needed|date=September 2014}}, amenities and museums. The city is regularly visited by [[Scotland's National Arts Companies]]. The [[Aberdeen Art Gallery]] houses a collection of [[Impressionist]], Victorian, Scottish and 20th-century British paintings as well as collections of silver and glass. It also includes The Alexander Macdonald Bequest, a collection of late 19th century works donated by the museum's first benefactor and a constantly changing collection of contemporary work and regular visiting exhibitions.<ref>{{cite web|url=http://www.aagm.co.uk/code/emuseum.asp?page=buildings_art_gallery|title=Aberdeen Art Gallery|publisher=Aberdeen Art Galleries and Museums|accessdate=18 February 2007| archiveurl = https://web.archive.org/web/20061206030716/http://www.aagm.co.uk/code/emuseum.asp?page=buildings_art_gallery| archivedate = 6 December 2006}}</ref>
+
+===Museums and galleries===
+The [[Aberdeen Maritime Museum]], located in [[Shiprow]], tells the story of Aberdeen's links with the sea from the days of sail and [[clipper ships]] to the latest oil and gas exploration technology. It includes an {{convert|8.5|m|ft|adj=mid|-high}} model of the Murchison oil production platform and a 19th-century assembly taken from [[Rattray Head]] lighthouse.<ref>{{cite web|url=http://www.aagm.co.uk/code/emuseum.asp?page=buildings_maritime_museum|title=Aberdeen Maritime Museum|publisher=Aberdeen Art Galleries and Museums|accessdate=18 February 2007| archiveurl = https://web.archive.org/web/20070202182001/http://www.aagm.co.uk/code/emuseum.asp?page=buildings_maritime_museum| archivedate = 2 February 2007}}</ref>
+
+[[Provost John Ross|Provost Ross' House]] is the second oldest dwelling house in the city. It was built in 1593 and became the residence of [[Provost John Ross]] of Arnage in 1702. The house retains some original [[medieval]] features, including a kitchen, fireplaces and beam-and-board ceilings.<ref>{{cite web| url=http://www.scottish-places.info/features/featurefirst1498.html | title=Provost Ross' House| publisher=The Gazetteer for Scotland| accessdate=18 February 2007}}</ref> The [[Gordon Highlanders Museum]] tells the story of one of Scotland's best known regiments.<ref>{{cite web| url=http://www.armymuseums.org.uk/amot-search/default.asp?Category=Amot&Service=Museum-Display&reference=0000000037| title=The Gordon Highlanders Museum| publisher=Army Museums Ogilby Trust| accessdate=18 February 2007}}</ref>
+[[File:Provost Skene's House, Aberdeen - geograph.org.uk - 1548669.jpg|thumb|Provost Skene's House Museum, dating from 1545,]]
+[[File:18th Jan 2014 - Tolbooth Museum.JPG|thumb|left|The Tolbooth Museum, a 17th Century Jail]]
+[[Marischal Museum]] holds the principal collections of the [[University of Aberdeen]], comprising some 80,000 items in the areas of fine art, Scottish history and archaeology, and European, Mediterranean and Near Eastern archaeology. The permanent displays and reference collections are augmented by regular temporary exhibitions.<ref>{{cite web| url=http://www.abdn.ac.uk/historic/museum/| title=Marischal Museum: Introduction| publisher=University of Aberdeen| accessdate=18 February 2007| archiveurl= https://web.archive.org/web/20070207094529/http://www.abdn.ac.uk/historic/museum/| archivedate= 7 February 2007 <!--DASHBot-->| deadurl= no}}</ref> It closed to the public in 2008 for renovations; its reopening date has yet to be confirmed.<ref>{{cite web|url=http://www.abdn.ac.uk/marischal_museum/visiting_contacting.shtml |title=Marischal Museum. Visiting and Contacting the Museum. University of Aberdeen |publisher=Abdn.ac.uk |date= |accessdate=28 December 2012 |deadurl=yes |archiveurl=https://web.archive.org/20121113075307/http://www.abdn.ac.uk/marischal_museum/visiting_contacting.shtml |archivedate=13 November 2012 }}</ref> The [[King's Museum]] acts as the main museum of the university in the meantime.
+
+===Festivals and performing arts===
+Aberdeen is home to a number of events and festivals including the [[Aberdeen International Youth Festival]] (the world's largest arts festival for young performers), Aberdeen Jazz Festival, [[Aberdeen Alternative Festival]], ''Rootin' Aboot'' (a folk and roots music event), ''Triptych'', the [[University of Aberdeen]]'s literature festival ''[[Word – University of Aberdeen writers festival|Word]]'' and DanceLive, Scotland's only Festival of contemporary dance, which is produced by the city's Citymoves dance organisation.
+[[File:Aberdeen, Exhibition and Conference Centre - geograph.org.uk - 596975.jpg|thumb|Aberdeen Exhibition and Conference Centre]]
+The [[Aberdeen Student Show]], performed annually without interruption since 1921, under the auspices of the Aberdeen Students' Charities Campaign, is the longest-running of its kind in the United Kingdom. It is written, produced and performed by students and graduates of Aberdeen's universities and higher education institutions. Since 1929—other than on a handful of occasions—it has been staged at [[His Majesty's Theatre]]. The Student Show traditionally combines comedy and music, inspired by the North-East's [[Doric dialect (Scotland)|Doric dialect]] and humour.
+[[File:GordonHighlanders-18288-Lizzie.jpg|thumb|left|Gordon Highlanders Museum, Aberdeen]]
+National festivals which visited Aberdeen in 2012 included the [[British Science Festival]] in September, hosted by the [[University of Aberdeen]] but with events also taking place at [[Robert Gordon University]] and at other venues across the city. In February 2012 the University of Aberdeen also hosted the [[Inter Varsity Folk Dance Festival]], the longest running folk festival in the United Kingdom.
+
+===Music and film===
+[[File:Aberdeen Arts Centre - geograph.org.uk - 851159.jpg|thumb|right|Aberdeen Arts Centre]]
+Aberdeen's music scene includes a variety of live music venues including pubs, clubs, and church choirs. The bars of [[Belmont Street (Aberdeen)|Belmont Street]] are particularly known for featuring live music. [[Cèilidh|Ceilidhs]] are also common in the city's halls. Popular music venues include the [[Aberdeen Exhibition and Conference Centre]] (AECC), [[The Music Hall (Aberdeen)|Aberdeen Music Hall]] , along with smaller venues such as The Tunnels, The Moorings, Drummonds, Downstairs, The Lemon Tree and The Garage. Notable Aberdonian musicians include [[Annie Lennox]], [[Emeli Sandé]], cult band [[Pallas (band)|Pallas]] and contemporary composer [[John McLeod (composer)|John McLeod]]. There are many local bands including Grader, Sleepless, Hayworth, Deceptions, Without Reason, Monroe and Deadfire A large proportion of Aberdeen's classical music scene is based around the ensembles of Aberdeen University's music department, notably the Symphony Orchestra, Marischal Chamber Orchestra, and the Concert Band.
+[[File:The Music Hall, Union Street, Aberdeen.JPG|thumb|left|The Music Hall, Union Street, Aberdeen]]
+Cultural cinema, educational work and local film events are provided by [[The Belmont Picturehouse]] on [[Belmont Street (Aberdeen)|Belmont Street]], Peacock Visual Arts and The Foyer. The only Doric speaking feature film was released in 2008 by Stirton Productions and Canny Films. ''[[One Day Removals]]'' is a black comedy/adult drama starring Patrick Wight and Scott Ironside and tells the tale of two unlucky removal men whose day goes from bad to worse. It was filmed on location in Aberdeenshire for a budget of £60,000.
+[[File:The Cowdray Hall, Aberdeen.JPG|thumb|left|The Cowdray Hall, Aberdeen]]
+
+===Dialect===
+[[File:Satrosphere, Links Road - geograph.org.uk - 401659.jpg|thumb|right|Satrosphere, Science Centre Links Road]]
+{{Main|Mid Northern Scots}} [http://www.lel.ed.ac.uk/dialects/nis.html Listen to recordings of a speaker of Scots from Aberdeen]
+The local dialect of [[Scots language|Lowland Scots]] is often known as ''Doric'', and is spoken not just in the city, but across the north-east of Scotland. It differs somewhat from other Scots dialects most noticeable are the pronunciation ''f'' for what is normally written ''wh'' and ''ee'' for what in standard English would usually be written ''oo'' (Scots ''ui''). Every year the annual Doric Festival<ref>{{cite web|url=http://www.thedoricfestival.com |title=The Doric Festival |publisher=The Doric Festival |date= |accessdate=25 June 2009}}</ref> takes place in Aberdeenshire to celebrate the history of the north-east's language. As with all Scots dialects in urban areas, it is not spoken as widely as it used to be in Aberdeen.
+
+===Media===
+{{Main|Media in Aberdeen}}
+Aberdeen is home to Scotland's oldest newspaper [[Press and Journal (Scotland)|the ''Press and Journal'']], a local and regional newspaper first published in 1747. The ''Press and Journal'' and its sister paper the [[tabloid (newspaper format)|tabloid]] ''[[Evening Express (Scotland)|Evening Express]]'' are printed six days a week by [[Aberdeen Journals]]. There is one free newspaper, the ''[[Aberdeen Citizen]]''. [[BBC Scotland]] has a network studio production base in the city's Beechgrove area, and BBC Aberdeen produces ''[[The Beechgrove Potting Shed]]'' for radio while Tern Television produces ''[[The Beechgrove Garden]]'' television programme.<ref>{{cite web|url=http://www.beechgrove.co.uk/home/Default.asp |title=The Beechgrove Garden |publisher=Tern Television |accessdate= |deadurl=yes |archiveurl=https://web.archive.org/20120309101130/http://www.beechgrove.co.uk/home/Default.asp |archivedate=9 March 2012 }}</ref> The city is also home to [[STV North]] (formerly ''Grampian Television''), which produces the regional news programmes such as ''[[STV News at Six]]'', as well as local commercials. The station, based at Craigshaw Business Park in [[Tullos]], was based at larger studios in [[Queens Cross]] from September 1961 until June 2003.
+
+There are three commercial radio stations operating in the city: [[Northsound Radio]], which runs [[Northsound 1]] and [[Northsound 2]], and independent station [[Original 106 (Aberdeen)|Original 106]]. Other radio stations include NECR FM (''North-East Community Radio FM'') [[Digital Audio Broadcasting|DAB]] station,<ref name="radio">{{cite web|url=http://www.digitalradionow.com/statl.php|archiveurl=https://web.archive.org/web/20071026031231/http://www.digitalradionow.com/statl.php|archivedate=26 October 2007|title= Digital Radio Now, Station List|accessdate=}}</ref> and shmu FM<ref>{{cite web|url=http://www.shmufm.net |title=Shmu community media productions |publisher=Shmufm.net |date= |accessdate=25 June 2009}}</ref> managed by ''Station House Media Unit''<ref>{{cite web|url=http://www.shmu.org.uk |title=Shmu community media productions |publisher=Shmu.org.uk |date= |accessdate=25 June 2009| archiveurl= https://web.archive.org/web/20090619133757/http://www.shmu.org.uk/| archivedate= 19 June 2009 <!--DASHBot-->| deadurl= no}}</ref> which supports community members to run Aberdeen's first (and only) full-time community radio station, broadcasting on <span style="white-space:nowrap;">99.8&nbsp;MHz</span> FM.
+
+===Food===
+[[File:Aberdeen Buttery.jpg|thumb|Aberdeen butteries, also known as rowies, served with jam]]The Aberdeen region has given its name to a number of dishes, including the [[Buttery (bread)|Aberdeen buttery]] (also known as "rowie")<ref>{{cite web | url=http://eatscotland.visitscotland.com/food-drink/traditional-dishes/aberdeen-rowie.html |title=Aberdeen_Rowie |work=EatScotlank.com (Scotland's National Tourism Organisation) |accessdate=23 March 2012}}</ref> and Aberdeen Sausage.<ref>{{cite web | url=http://theodora.com/food/index.html |title=Aberdeen Sausage |work=Culinary Dictionary |accessdate=23 March 2012}}</ref> The Aberdeen buttery is more frequently seen and is sold at bakeries and supermarkets throughout the city. It looks like a cross between a pancake and a croissant and has a buttery, salty taste and heavy texture. It is usually eaten cold and served plain or with jam or butter.
+
+In 2015, a study was published in [[The Scotsman]] which analysed the presence of [[Fast food restaurant|branded fast food outlets]] in Scotland. Of the ten towns and cities analysed, Aberdeen was found to have the lowest per capita concentration, with just 0.12 stores per 1,000 inhabitants.<ref>http://www.scotsman.com/news/health/livingston-named-scotland-s-fast-food-capital-1-3797055</ref>
+
+==Sport==
+{{Main|Sport in Aberdeen}}
+
+===Football===
+[[File:Pittodrie Stadium viewed from Broad Hill - geograph.org.uk - 1573187.jpg|thumb|[[Pittodrie Stadium]] viewed from Broad Hill]]
+[[Scottish Professional Football League|SPFL]] football club, [[Aberdeen F.C.]] play at [[Pittodrie Stadium]]. The club won the [[European Cup Winners Cup]] and the [[European Super Cup]] in 1983, the [[Scottish Premier League]] Championship four times (1955, 1980, 1984 and 1985), and the [[Scottish Cup]] seven times (1947, 1970, 1982, 1983, 1984, 1986 and 1990). Under the management of [[Alex Ferguson]], Aberdeen was a major force in British football during the 1980s. As of the 2014–15 season, the club is managed by [[Derek McInnes]] and captained by [[Ryan Jack]]. There are plans to build a [[new Aberdeen Stadium]] in the future. Under the management of McInnes the team won the [[2014 Scottish League Cup Final|2014]] [[Scottish League Cup]] and followed it up with a second place league finish for the first time for more than 20 years in the following season.
+
+The other senior team is [[Cove Rangers F.C.]] of the [[Highland Football League]] (HFL), who play at [[Allan Park, Aberdeen|Allan Park]] in the suburb of [[Cove Bay]], although they will be moving to Calder Park once it is built to boost their chances of getting into the [[Scottish Football League]].<ref>{{cite web| url=http://www.highlandfootballleague.com/clubs/showclub.php?id=4| title=Cove Rangers FC| publisher=Highland Football League| accessdate=16 February 2007}}</ref> Cove won the HFL championship in 2001, 2008, 2009 and 2013.
+
+There was also a historic senior team [[Bon Accord F.C.]] who no longer play. Local junior teams include [[Banks O' Dee F.C.]], [[Culter F.C.]], [[F.C. Stoneywood]], [[Glentanar F.C.]], [[Sunnybank F.C.|Sunnybank]] and [[Hermes F.C.]].
+
+===Rugby Union===
+Aberdeen hosted [[Caledonia Reds]] a Scottish rugby team, before they merged with the [[Glasgow Warriors]] in 1998. The city is also home to the [[Scottish Premiership Division One]] rugby club [[Aberdeen GSFP RFC]] who play at [[Rubislaw Playing Fields]], and Aberdeenshire RFC which was founded in 1875 and runs Junior, Senior Men's, Senior Ladies and Touch sections from the Woodside Sports Complex<ref>{{cite web|url=http://www.aberdeenshirerfc.org.uk/ |title=Aberdeenshire Rugby Football Club – The Community Club |publisher=Aberdeenshirerfc.org.uk |date= |accessdate=25 June 2009| archiveurl= https://web.archive.org/web/20090512055822/http://www.aberdeenshirerfc.org.uk/| archivedate= 12 May 2009 <!--DASHBot-->| deadurl= no}}</ref> and also Aberdeen Wanderers RFC. Former Wanderers' player [[Jason White (rugby player)|Jason White]] was captain of the [[Scotland national rugby union team]].
+
+Aberdeenshire Rugby Football Club is based in the North of the city at Woodside Sports Complex<ref>Woodside Sports Complex
+Station Road Aberdeen</ref> near the Great North Road on the banks of the river Don. They currently play in the [[Scottish League Championship]] B (East), the 3rd tier of club rugby.
+
+In 2005 the President of the [[Scottish Rugby Union|SRU]] said it was hoped eventually to establish a professional team in Aberdeen.<ref>{{Cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/scottish/4241554.stm |title=BBC SPORT &#124; Rugby Union &#124; Scottish &#124; Irvine wants an Aberdeen pro-team |publisher=BBC News |date=13 September 2005 |accessdate=25 June 2009}}</ref> In November 2008 the city hosted a rugby international at [[Pittodrie Stadium|Pittodrie]] between [[Scotland national rugby union team|Scotland]] and [[Canada national rugby union team|Canada]], with Scotland winning 41–0.<ref>[http://www.guardian.co.uk/sport/feedarticle/8059892] {{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+In November 2010 the city once again hosted a rugby international at [[Pittodrie Stadium|Pittodrie]] between [[Scotland national rugby union team|Scotland]] and [[Samoa national rugby union team|Samoa]], with Scotland winning 19–16.
+
+===Rugby League===
+[[Aberdeen Warriors]] [[rugby league]] team play in the [[Scotland Rugby League Conference]] Division One. The Warriors also run Under 15's and 17's teams. [[Aberdeen Grammar School]] won the [[Saltire Schools Cup]] in 2011.<ref>{{cite web|url=http://www.scotlandrl.com/article/aberdeen-grammar-school-do-the.html |title=Scotland Rugby League |publisher=Scotlandrl.com |date=20 April 2011 |accessdate=25 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111004193921/http://www.scotlandrl.com/article/aberdeen-grammar-school-do-the.html |archivedate=4 October 2011 }}</ref>
+
+===Golf===
+[[File:HazleheadGolfCourse.jpg|thumb|right|Hazlehead Golf Course, Aberdeen]]
+The [[Royal Aberdeen Golf Club]], founded in 1780 and the oldest golf club in Aberdeen, hosted the [[Senior British Open]] in 2005, and the amateur team event the [[Walker Cup]] in 2011.<ref>{{Cite news| url=http://news.bbc.co.uk/1/hi/scotland/north_east/4750395.stm| title=Golf event to swing into Aberdeen| date=8 May 2006| publisher=British Broadcasting Corporation}}</ref> Royal Aberdeen also hosted the Scottish Open in 2014, won by [[Justin Rose]].<ref>{{cite news|url=http://www.theguardian.com/sport/2014/jul/13/justin-rose-wins-scottish-open|title=Justin Rose marks return to form with an impressive win at the Scottish Open|author=Ewan Murray|newspaper=The Guardian|date=13 July 2014 |accessdate=15 January 2015 |archiveurl=http://www.webcitation.org/6Vazryakl |archivedate=15 January 2015 |deadurl=no}}</ref> The club has a second course, and there are public golf courses at Auchmill, [[Balnagask]], [[Hazlehead Park|Hazlehead]] and King's Links.<ref>{{cite web| url=http://www.aberdeencity.gov.uk/nmsruntime/saveasdialog.asp?lID=49998&sID=17783| title=Golf Aberdeen| publisher=Aberdeen City Council| accessdate=8 May 2013}}</ref> The 1999 winner of [[The Open Championship]], [[Paul Lawrie]], hails from the city.
+
+There are new courses planned for the area, including world class facilities with major financial backing, the city and shire are set to become a hotbed for golf tourism. In Summer 2012, Donald Trump opened a new state of the art golf course at Menie, just north of the city, as the [[Trump International Golf Links]], Scotland.
+
+[[File:Aberdeen Aquatics Centre - Aberdeen Sports Village.JPG|thumb|left|Aberdeen Aquatics Centre - Aberdeen Sports Village]]
+
+===Swimming===
+The ''City of Aberdeen Swim Team'' (COAST) was based in Northfield swimming pool, but since the opening of the Aberdeen Aquatics Centre in 2014, it is now based there, as it has a 50 m pool as opposed to the 25 m pool at Northfield. It has been in operation since 1996. The team comprises several smaller swimming clubs, and has enjoyed success throughout Scotland and in international competitions. Three of the team's swimmers qualified for the 2006 [[Commonwealth Games]].<ref name="COAST">{{cite web| url=http://www.coastswimming.org.uk/| title=City of Aberdeen Swim Team| accessdate=16 April 2009| archiveurl= https://web.archive.org/web/20090331111244/http://www.coastswimming.org.uk/| archivedate= 31 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+===Rowing===
+[[File:Wellington Suspension Bridge - geograph.org.uk - 1445265.jpg|thumb|Rowers under [[Wellington Suspension Bridge]] on the River Dee, Aberdeen]]
+
+There are four boat clubs that row on the River Dee: Aberdeen Boat Club (ABC), Aberdeen Schools Rowing Association (ASRA), Aberdeen University Boat Club (AUBC) and Robert Gordon University Boat Club (RGUBC). There are [[regattas]] and [[head races]] annually, managed by the Committee of the Dee. There is also a boat race held every year between AUBC and RGUBC. The race is in mixed eights, and usually held in late February / early March.
+
+===Cricket===
+Aberdeen boasts a large [[cricket]] community with 4 local leagues operating that comprise a total of 25 clubs fielding 36 teams. The city has two national league sides, [[Aberdeenshire cricket club|Aberdeenshire]] and Stoneywood-Dyce. Local 'Grades'<ref name="GRADES">{{cite web| url=http://acagrades.org.uk/| title=Aberdeen Grades Association}}</ref> cricket has been played in Aberdeen since 1884. Aberdeenshire were the 2009 & 2014 Scottish National Premier League and Scottish Cup Champions<ref name="Cricketscotland">{{cite web|url=http://cricketscotland.com/ScottishCupFinal09 |title=Dons do double by D/L |publisher=Cricket Scotland |date=6 February 2011 |accessdate=8 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/20120303033951/http://cricketscotland.com/ScottishCupFinal09 |archivedate=3 March 2012 }}</ref>
+
+===Ice Hockey===
+[[Aberdeen Lynx]] are an amateur ice hockey team who play in the [[Scottish National League (ice hockey)|Scottish National League]] and are based at the Linx Ice Arena. The arena has a seating capacity of 1,100. The club also field teams at the Under 20, Under 16, Under 14 and Under 12 age groups.
+
+===Other sports===
+The city council operates public tennis courts in various parks including an indoor tennis centre at Westburn Park. The Beach Leisure Centre is home to a climbing wall, gymnasium and a swimming pool. There are numerous swimming pools dotted around the city notably the largest, the Bon-Accord Baths which closed down in 2006.<ref>{{cite web|url=http://www.aberdeencity.gov.uk |title=Aberdeen City Council website |publisher=Aberdeencity.gov.uk |date=26 October 2010 |accessdate=26 October 2010| archiveurl= https://web.archive.org/web/20090106060323/http://aberdeencity.gov.uk/| archivedate=6 January 2009<!--DASHBot-->| deadurl= no}}</ref>
+
+Aberdeen City council also have an Outdoor Education service which is now known as '''''adventure aberdeen''''', that provides abseiling, surfing, white water rafting, gorge walking, kayaking and open canoeing, mountaineering, sailing, mountain biking and rock climbing. They inspire learning through adventure and have many programs for children and adults.<ref>{{cite web|url=http://www.aberdeencity.gov.uk/adventureaberdeen |title=Adventure Aberdeen |publisher=Aberdeencity.gov.uk |date=7 January 2010 |accessdate=7 September 2010}}</ref> {{Citation needed|date=August 2009}}
+
+In common with many other major towns and cities in the UK, Aberdeen has an active [[roller derby]] league, [[Granite City Roller Girls]].<ref>{{cite web|url=http://www.granitecityrollergirls.org/ |title=Granite City Roller Girls league site |accessdate=16 March 2011| archiveurl= https://web.archive.org/web/20110302212502/http://www.granitecityrollergirls.org/| archivedate= 2 March 2011 <!--DASHBot-->| deadurl= no}}</ref> The [[Aberdeen Roughnecks]] American football club are a new team which started in 2012. They are an adult contact team who currently train at Seaton Park. This is the first team which Aberdeen has enjoyed since the Granite City Oilers were wound up in the late 1990s. [[Aberdeen Oilers Floorball Club]] was founded in 2007. The club initially attracted a range of experienced Scandinavian and other European players who were studying in Aberdeen. Since their formation, Aberdeen Oilers have played in the British Floorball Northern League and went on to win the league in the 2008/09 season. The club played a major role in setting up a ladies league in Scotland. The Oiler's ladies team ended up 2nd in the first ladies league season (2008/09).<ref name="Aberdeen Oilers Floorball Club">{{cite web|url=http://www.aberdeenfloorball.org.uk/ |title=Aberdeen Oilers Floorball Club |deadurl=yes |archiveurl=https://web.archive.org/20141218150024/http://aberdeenfloorball.org.uk/ |archivedate=18 December 2014 }}</ref>
+
+==Public services==
+[[File:15th Sep 2012-Abdn Children's Hosp & Emergency Care Centre 10.JPG|thumb|New Royal Aberdeen's Children Hospital and New Emergency Care Centre in background, Foresterhill, Aberdeen]]
+[[File:8th Dec 2012-Grampian Police HQ.JPG|thumb|Police Scotland's Aberdeen HQ, Queen Street]]
+The public health service in Scotland, [[NHS Scotland]] provides for the people of Aberdeen through the [[NHS Grampian]] health board. [[Aberdeen Royal Infirmary]] is the largest hospital in the city (the location of the city's A&E department), [[Royal Aberdeen Children's Hospital]], a paediatric hospital, [[Royal Cornhill Hospital]] for mental health, [[Aberdeen Maternity Hospital]], an antenatal hospital, [[Woodend Hospital]], which specialises in rehabilitation and long term illnesses and conditions, and [[City Hospital (Aberdeen)|City Hospital]] and [[Woolmanhill Hospital]], which host several out-patient clinics and offices.
+
+[[Albyn Hospital]] is a private hospital located in the west end of the city.
+
+Aberdeen City Council is responsible for city owned infrastructure which is paid for by a mixture of council tax and income from [[HM Treasury]]. Infrastructure and services run by the council include: clearing snow in winter, city wardens, maintaining parks, refuse collection, sewage, street cleaning and street lighting. Infrastructure in private hands includes electricity, gas and telecoms. Water supplies are provided by [[Scottish Water]].
+
+*'''Police:''' Policing in Aberdeen is the responsibility of [[Police Scotland]] (the [[British Transport Police]] has responsibility for railways). The Grampian Division of Police Scotland headquarters (and Aberdeen divisional headquarters) is located in Queen Street, Aberdeen.
+*'''Ambulance:''' The North East divisional headquarters of the [[Scottish Ambulance Service]] is located in Aberdeen.<ref>[http://www.scottishambulance.com/about/northeast.asp] {{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+*'''Fire and rescue:''' This is the responsibility of the [[Grampian Fire and Rescue Service]]; the service operates distinctive white painted [[fire engines]] (other UK fire brigades use red vehicles).
+*'''Lifeboat:''' The [[Royal National Lifeboat Institution]] operates [[Aberdeen Lifeboat Station]]. It is located at Victoria Dock Entrance in York Place.<ref>{{cite web|url=http://www.aberdeen-lifeboat.org.uk/ |title= Aberdeen Lifeboat|publisher=RNLI Aberdeen |date= |accessdate=25 June 2009| archiveurl= https://web.archive.org/web/20090605011903/http://www.aberdeen-lifeboat.org.uk/| archivedate= 5 June 2009}}</ref> The current building was opened in 1997.
+
+==Twin cities==
+Aberdeen is [[Twin towns and sister cities|twinned]] with [[Regensburg]], Germany (1955),<ref name="twin">{{cite web|url=http://www.aberdeeninvestlivevisit.co.uk/Visit/TwinningAberdeen/Aberdeens-Twin-Cities/Aberdeens-Twin-Cities.aspx|title=Aberdeen's Twin Cities|work=Aberdeen City Council|accessdate=27 August 2015}}</ref> [[Clermont-Ferrand]], France (1983),<ref name="twin"/> [[Bulawayo]], Zimbabwe (1986),<ref name="twin"/> [[Stavanger]], [[Norway]] (1990)<ref name="twin"/> and [[Gomel]], Belarus (1990).<ref name="twin"/>
+
+==Notable people==
+{{Main|List of Aberdonians}}
+[[File:Byron 1813 by Phillips.jpg|right|thumb|George Gordon [[Byron]]]]
+{|
+|-
+| valign="top" |
+* [[Leslie Benzies]], President of [[Rockstar North]], creators of the critically acclaimed [[Grand Theft Auto (series)|Grand Theft Auto]] series.
+* [[Scott Booth]], former football player, played for [[Aberdeen F.C.]], [[FC Twente]], [[Borussia Dortmund]] and the [[Scotland national football team|Scottish national football team]].
+* [[Lord Byron]], poet, was raised (age 2–10) in Aberdeen.
+* [[David Carry]], swimmer, 2x [[2006 Commonwealth Games]] gold medallist.
+* [[Henry Cecil]], one of the most successful horse trainers of all time.
+* [[Oswald Chambers]], author of ''My Utmost For His Highest''
+* [[Andrew Cruickshank]], actor famous for his role in ''[[Dr. Finlay's Casebook (TV & radio)|Dr Finlay's Casebook]]''
+* [[John Mathieson Dodds]], apprentice and engineer with Metrovick, Manchester and radar pioneer in Chain Home defence system for 1940 Battle of Britain.
+* [[Neil Fachie]], cyclist, [[2012 Paralympic Games]] gold and silver medallist.
+* [[Simon Farquhar]], playwright.
+* [[Bertie Charles Forbes]] (from [[New Deer]], [[Aberdeenshire]]), founded [[Forbes]].
+* [[Graeme Garden]], author, actor, comedian, artist, TV presenter, famous for [[The Goodies]].
+* [[Ryan Gauld]], footballer who currently plays for [[Sporting Lisbon]] in the Portuguese [[Primeira Liga]].
+* [[James Gibbs]], 18th-century architect.
+* [[George Jamesone]], Scotland's first eminent portrait-painter.
+* [[Reginald Victor Jones]], physicist, Chair of Natural Philosophy at the [[University of Aberdeen]], author.
+* [[Denis Law]], former football player, played for [[Manchester City F.C.|Manchester City]], [[Manchester United F.C.|Manchester United]] and the [[Scotland national football team|Scottish national football team]], joint record Scotland goalscorer of all-time with thirty goals.
+* [[Paul Lawrie]], golfer, winner of the [[1999 Open Championship]].
+* [[Annie Lennox]], musician, winner of eight [[Brit Awards]], grew up in [[Ellon, Aberdeenshire|Ellon]].
+* [[Rose Leslie]], actress, best known for playing Ygritte in [[HBO]]'s [[Game of Thrones]].
+* [[James Clerk Maxwell]], Chair of Natural Philosophy at Marischal College, Aberdeen from 1856–60.
+* [[Robbie Renwick]], swimmer, 1x [[2010 Commonwealth Games]] gold medallist.
+* Professor Sir C. [[Duncan Rice]], historian, former principal of the [[University of Aberdeen]].
+* [[Archibald Simpson]], architect, one of Aberdeen's major architects.
+* [[John Smith (architect)|John Smith]], architect, Aberdeen's other major architect and official City Architect
+* [[Nicol Stephen]], former [[Scottish Liberal Democrats]] leader, former [[Deputy First Minister of Scotland]]
+* [[John Strachan]], first Anglican [[Anglican Diocese of Toronto|Bishop of Toronto]].
+* [[Ron Yeats]], former football player, captain of the first great [[Liverpool F.C.|Liverpool]] team of the 1960s, also played for the [[Scotland national football team|Scottish national football team]].
+|}
+
+==Aberdeen in popular culture==
+*[[Stuart MacBride]]'s crime novels, ''Cold Granite'', ''Dying Light'', ''Broken Skin'', ''Flesh House'', ''Blind Eye'' and ''Dark Blood'' (a series with main protagonist, [[Sergeant#Police 7|DS]] Logan MacRae) are all set in Aberdeen. [[Sergeant#Police 7|DS]] Logan MacRae is a Grampian Police officer and locations found in the books can be found in Aberdeen and the surrounding countryside.
+*A large part of the plot of the [[World War II]] [[spy thriller]] ''[[Eye of the Needle]]'' takes place in wartime Aberdeen, from which a German spy is trying to escape to a submarine waiting offshore.
+*[[Stewart Home]]'s sex and literary obsessed contemporary novel [[69 Things to Do with a Dead Princess]] is set in Aberdeen.
+*A portion of [[Ian Rankin]]'s novel ''[[Black and Blue (Rankin novel)|Black and Blue]]'' (1997) is set in Aberdeen, where its nickname "Furry Boots" is noted.<ref name=DSL1>http://www.dsl.ac.uk/getent4.php?plen=2982&startset=1934221&dtext=sndn&query=FURRY_BOOT_CITY</ref>
+*[[Sarah Jane Smith]] from the popular science fiction show [[Doctor Who]] was accidentally returned to Aberdeen instead of her home in [[South Croydon]] by the [[Fourth Doctor|fourth incarnation of the Doctor]].
+*The successful Channel 4 sitcom [[Peep Show (TV series)|Peep Show]] makes occasional reference to Aberdeen, as the employer of one of the main characters has an office in Aberdeen. In one episode [[Mark Corrigan (Peep Show)|Mark Corrigan]] is desperate to be put on secondment to Aberdeen so as to spend some time with his love interest, Sophie, whilst in another episode, Mark's boss, Alan Johnston, announces that he is "just back from Aberdeen."
+* The pop music groups [[Danny Wilson (band)|Danny Wilson]] and [[Royseven]], as well as alternative rock group [[Cage the Elephant]] have all recorded songs called 'Aberdeen'.
+* The fictional character [[Groundskeeper Willie]], a recurring character on the USA TV show "[[The Simpsons]]" is heard cheering "Go Aberdeen" upon waking up from a dream in the episode titled [['Scuse Me While I Miss the Sky]]. Also, in an episode when Homer and Mr Burns go to [[Loch Ness]] in search of the [[Loch Ness Monster]], they discover a fake version of the monster with graffiti which reads 'Stomp Aberdeen'. Homer then goes on to proclaim that 'Aberdeen rules!'. This is in spite of the fact that Groundskeeper Willie does not have an [[Doric dialect (Scotland)|Aberdeen accent]].
+*[[Star Trek]]'s chief engineer, [[Montgomery Scott]], described himself as "an old Aberdeen pub crawler" in the episode "[[Wolf in the Fold (Star Trek: The Original Series)|Wolf in the Fold]]" (however, actor [[James Doohan]] does not speak with an Aberdeenshire accent).
+*Auberdine, a seaport town located in Darkshore in the game World of Warcraft, is a possible reference to the city of Aberdeen.
+*In [[Harry Potter and the Prisoner of Azkaban]], Aberdeen is mentioned as one of the stops of The [[Knight Bus]].
+*Aberdeen is referenced in [[Under the Lake]], the third episode of the ninth series of the popular science fiction show [[Doctor Who]]. Looking to portray a socially acceptable level of empathy, The Doctor flips through a series of cue cards. One of the cards reads, "It was my fault, I should have known you didn't live in Aberdeen."
+
+==See also==
+{{Portal|Scotland}}
+*[[Aberdeen Bestiary]]
+*[[Aberdeen City Youth Council]]
+*[[Aberdeen typhoid outbreak 1964]]
+*[[Aberdonia (disambiguation)]]
+*[[List of places in Aberdeen]]
+*[[List of places in Scotland]]
+*[[Our Lady of Aberdeen]]
+*[[William Wallace Statue, Aberdeen]]
+*[[William Wallace Statue, Bemersyde]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{Cite book  |last=Carter |first=Jennifer |year=1994 |title= Crown and Gown: Illustrated History of the University of Aberdeen, 1495–1995 |publisher= Aberdeen University Press |isbn= 1-85752-240-0 }}
+* {{Cite book |last=Fraser |first=W. Hamish |year=2000 |title= Aberdeen, 1800 to 2000: A New History | publisher= Tuckwell Press |isbn= 1-86232-175-2 }}
+* {{Cite book |last= Keith |first=Alexander |year=1987 |title=A Thousand Years of Aberdeen | publisher=Aberdeen University Press  |isbn= 0-900015-29-2 }}
+*{{cite book |editor-last=Stuart |editor-first=John |year=1871 |title=Extracts from the Council register of the burgh of Aberdeen 1625–1642  |volume=1 |location=Edinburgh |publisher=Scottish Burgh Records Society |url=https://archive.org/details/extractsfromcoun01aberuoft}}
+*{{cite book |editor-last=Stuart |editor-first=John |year=1871 |title=Extracts from the Council register of the burgh of Aberdeen 1643–1747  |volume=2 |location=Edinburgh |publisher=Scottish Burgh Records Society |url=https://archive.org/details/extractsfromcoun02aberuoft}}
+
+==External links==
+{{Commons category|Aberdeen}}
+{{Wikivoyage|Aberdeen}}
+* [http://www.aberdeencity.gov.uk/home/home.asp Aberdeen City Council]
+*{{dmoz|Regional/Europe/United_Kingdom/Scotland/Aberdeen,_City_of}}
+* [http://web.archive.org/web/20080120085059/http://business.scotsman.com/topics.cfm?tid=897&id=669152003/ Aberdeen Facts]
+* [http://www.panoramio.com/user/2477447/tags/Aberdeen Aberdeen pictures]
+* [http://www.thedebater.org/ Aberdeen University Debater]
+* A collection of [http://maps.nls.uk/towns/index.html#aberdeen historic maps of Aberdeen] from the 1660s onward at [[National Library of Scotland]]
+* A selection of [http://ssa.nls.uk/search.cfm?search_sort_order=Film.dateRelease%2CFilm.name&search_sort_direction=ASC&search_term=aberdeen&search_fields=2&search_join_type=AND&search_fuzzy=yes&videos_only=1&search_mode=Advanced&submit=Search+%3E%3E%3E archive films relating to Aberdeen] at the [[Scottish Screen#The Archive|Scottish Screen Archive]]
+* [http://digital.nls.uk/slezer/engraving.cfm?sl=20 Engraving of Aberdeen in 1693] by [[John Slezer]] at National Library of Scotland
+* [http://www.visitaberdeen.com Aberdeen Tourist Guide]
+* [http://doaberdeen.com Aberdeen listings and review]
+* {{Wikisource-inline|list=
+**{{Cite EB1911|wstitle=Aberdeen (burgh) |short=x |noicon=x}}
+**{{Cite Collier's|wstitle=Aberdeen (Scotland) |short=x |noicon=x}}
+}}
+{{Aberdeen}}
+{{Navboxes
+| title = Articles relating to Aberdeen
+| list =
+{{Areas of Aberdeen}}
+{{Scotland subdivisions}}
+{{UK cities}}
+}}
+
+{{Authority control}}
+
+[[Category:Aberdeen| ]]
+[[Category:Council areas of Scotland]]
+[[Category:Fishing communities in Scotland]]
+[[Category:Lieutenancy areas of Scotland]]
+[[Category:Port cities and towns in Scotland]]
+[[Category:Port cities and towns of the North Sea]]
+[[Category:Royal burghs]]
+[[Category:Grampian]]

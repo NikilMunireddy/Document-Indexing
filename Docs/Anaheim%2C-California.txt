@@ -1,0 +1,630 @@
+Anaheim, California
+
+{{redirect|Anaheim}}
+{{Use mdy dates|date=September 2013}}
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|name                     = Anaheim, California
+|settlement_type          = [[Charter city]]<ref>{{Cite web
+ | url = http://www.anaheim.net/articlenew2222.asp?id=5081
+ | title = Interim City Manager
+ | publisher = City of Anaheim
+ | accessdate = March 20, 2015}}</ref>
+|official_name            = City of Anaheim
+<!-- Images and maps ------>
+|image_skyline            = {{Photomontage
+| photo1a = Anaheimcityhall.jpg
+| photo2a = Sleeping Beauty Castle Disneyland Anaheim 2013.jpg
+| photo2b = Angel Stadium of Anaheim.jpg
+| photo3a = Honda-ext-arch.JPG
+| photo3b = Anaheim Convention Center sign.jpg
+| position = center
+| spacing = 2
+| size = 250
+| foot_montage = From left to right: Anaheim City Hall, [[Sleeping Beauty Castle]] at the [[Disneyland Resort]], [[Angel Stadium of Anaheim|Angel Stadium]], [[Honda Center]], [[Anaheim Convention Center]]
+}}
+|image_flag               = Flag of Anaheim, California.png
+|image_seal               = Seal of Anaheim, California.svg
+|nickname                 =
+|image_map                = Orange County California Incorporated and Unincorporated areas Anaheim Highlighted.svg
+|map_caption              = Location of Anaheim<br />in [[California]] and [[Orange County, California|Orange County]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------->
+|latd = 33 |latm = 50 |lats = 10 |latNS = N
+|longd = 117 |longm = 53 |longs = 23 |longEW = W
+|coordinates_display      = inline,title
+|coordinates_region       = US-CA
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{flagicon image|Flag_of_Orange_County,_California.svg}} [[Orange County, California|Orange]]
+<!-- History -------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = March 18, 1876<ref name=LAFC>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | accessdate = August 25, 2014}}</ref>
+<!-- Government ----------->
+|government_type          =
+|leader_title             = [[Mayor of Anaheim, California|Mayor]]
+|leader_name              = [[Tom Tait]]<ref>{{Cite web|url=http://www.anaheim.net/title/City+Council/Mayor+Tom+Tait/|accessdate=September 18, 2014|title=Anaheim Mayor Tom Tait|publisher=City of Anaheim}}</ref>
+|leader_title1            = [[United States House of Representatives|United States representatives]]<ref name=cd_splits/>
+|leader_name1             = {{Representative|cacd|39|fmt=usleader}},<ref name=gt39/> <br/> {{Representative|cacd|45|fmt=usleader}},<ref name=gt45/> and <br/> {{Representative|cacd|46|fmt=usleader}}<ref name=gt46/>
+|leader_title2            = [[California State Senate|State senators]]<ref name=sd_splits/>
+|leader_name2             = {{Representative|casd|29|fmt=sleader}}, <br/>  {{Representative|casd|34|fmt=sleader}}, and <br/> {{Representative|casd|37|fmt=sleader}}
+|leader_title3            = [[California State Assembly|Assemblymembers]]<ref name=ad_splits/>
+|leader_name3             = {{Representative|caad|65|fmt=sleader}}, <br/>  {{Representative|caad|68|fmt=sleader}}, and <br/> {{Representative|caad|69|fmt=sleader}}
+<!-- Area ----------------->
+|unit_pref                = US
+|area_footnotes           = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+|area_total_sq_mi         = 50.811
+|area_total_km2           = 131.600
+|area_land_sq_mi          = 49.835
+|area_land_km2            = 129.073
+|area_water_sq_mi         = 0.976
+|area_water_km2           = 2.527
+|area_water_percent       = 1.92
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1652663|Anaheim|accessdate=October 16, 2014}}</ref>
+|elevation_ft             = 157
+|elevation_m              = 48
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|April 1, 2010]]
+|population_footnotes     = <ref name=quik>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0602000.html|title=Anaheim (city) QuickFacts|publisher=[[United States Census Bureau]]|accessdate=February 4, 2015}}</ref>
+|population_total         = 336265
+|pop_est_as_of            = 2013
+|pop_est_footnotes        = <ref name=quik/>
+|population_est           = 345012
+|population_rank          = [[Orange County, California|1st]] in Orange County<br />[[List of largest California cities by population|10th]] in California<br />[[List of United States cities by population|56th]] in the United States
+|population_density_km2   = auto
+<!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | accessdate = November 18, 2014}}</ref>
+|postal_code              = 92801–92809, 92812, 92814–92817, 92825, 92850, 92899
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 657 and 714|657/714]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|02000}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652663}}, {{GNIS 4|2409704}}
+|website                  = {{URL|www.anaheim.net}}
+}}
+'''Anaheim''' (pronounced {{IPAc-en|ˈ|æ|n|ə|h|aɪ|m}}) is a city in [[Orange County, California]], part of the [[Los Angeles metropolitan area]]. As of the [[2010 United States Census]], the city had a population of 336,265, making it the most populous city in Orange County and the 10th most populous city in California.<ref name=e1>{{cite web | date = May 1, 2006 | url = http://www.dof.ca.gov/HTML/DEMOGRAP/ReportsPapers/Estimates/E1/documents/e-1press.pdf | title = E-1 Population Estimates for Cities, Counties and the State with Annual Percent Change&nbsp;– January 1, 2005 and 2006 | format = PDF | publisher=California Department of Finance | accessdate = November 16, 2006 |archiveurl = https://web.archive.org/web/20060923111956/http://www.dof.ca.gov/HTML/DEMOGRAP/ReportsPapers/Estimates/E1/documents/e-1press.pdf <!-- Bot retrieved archive --> |archivedate = September 23, 2006}}</ref> Anaheim is the second largest city in Orange County in terms of land area (after [[Irvine, California|Irvine]]) and is known for its [[amusement parks|theme parks]], sports teams, and [[Anaheim Convention Center|convention center]].
+
+Anaheim was founded by fifty German families in 1857 and incorporated as the second city in Los Angeles County on March 18, 1876.<ref name=LAFC/> The city developed into an industrial center, producing [[electronics]], aircraft parts and canned fruit. It is the site of the [[Disneyland Resort]], a world-famous grouping of [[theme park]]s and hotels which opened in 1955, [[Angel Stadium of Anaheim]], [[Honda Center]] and the [[Anaheim Convention Center]].
+
+Anaheim's city limits extend from [[Cypress, California|Cypress]] in the west to the [[Riverside County, California|Riverside County]] line in the east and encompass a diverse collection of neighborhoods and communities. Anaheim Hills is a master-planned community located in the city's eastern stretches that is home to many sports stars and executives. Downtown Anaheim has three mixed-use historic districts, the largest of which is the Anaheim Colony. The [[Anaheim Resort]], a commercial district, includes [[Disneyland]], [[Disney California Adventure]], and numerous hotels and retail complexes. The [[Platinum Triangle, Anaheim|Platinum Triangle]], a neo-urban [[redevelopment]] district surrounding Angel Stadium, is planned to be populated with mixed-use streets and high-rises.  Finally, Anaheim Canyon is an industrial district north of [[California State Route 91|SR 91]] and east of [[California State Route 57|SR 57]].
+
+==History==
+{{see also|Timeline of Anaheim, California}}
+[[File:Anaheim-1879.jpg|thumb|left|upright|Anaheim in 1879]]
+
+Anaheim's name is a [[Blend word|blend]] of "Ana", after the nearby [[Santa Ana River]], and "heim", a common [[German language]] place name compound originally meaning "home".<ref name=gudde>{{cite book|first=Erwin|last=Gudde| author2 =William Bright |title=California Place Names|year=2004|edition=Fourth|publisher=University of California Press|page=12|isbn=0-520-24217-3}}</ref>
+
+The city of Anaheim was founded in 1857 by 50 German-Americans who were residents of San Francisco<ref name="Armor">{{cite book|last=Armor|first=Samuel|author2=E.B. Merritt|chapter=IV|title=History of Orange County, California: With Biographical Sketches|accessdate=October 3, 2013|year=1921|url=https://books.google.com/books?id=yhMVAAAAYAAJ&pg=PA230&dq=%22City+of+Anaheim%22+anaheim&hl=en&sa=X&ei=VPVNUpL3K6SXiQL894DwAQ&ved=0CC0Q6AEwAA#v=onepage&q=anaheim&f=false|publisher=Historic Record Company|location=Los Angeles|page=53}}</ref> and whose families had originated in [[Rothenburg ob der Tauber]], [[Franconia]] in Bavaria.{{citation needed|date=October 2013}} After traveling through the state looking for a suitable area to grow grapes, the group decided to purchase a {{convert|1165|acre|km2}} parcel from Juan Pacifico Ontiveros' large Rancho San Juan Cajon de Santa Ana in present-day [[Orange County, California|Orange County]] for $2 per acre.<ref name="Armor"/>
+
+For $750 a share, the group formed the Anaheim Vineyard Company.<ref name="Armor"/> Their new community was named Annaheim, meaning "home by the Santa Anna River" in German.<ref name="Armor"/> The name later was altered to Anaheim. To the Spanish-speaking neighbors, the settlement was known as Campo Alemán ({{lang-en|German Field}}).
+
+[[File:Anaheim-1890.jpg|thumb|right|Anaheim in 1890]]
+
+Although grape and wine-making was their primary objective, the majority of the 50 settlers were mechanics, carpenters and craftsmen with no experience in wine-making.<ref name="Armor"/> The community set aside {{convert|40|acres|0|abbr=on}} for a town center and a school was the first building erected there.<ref name="Armor"/> The first home was built in 1857, the ''Anaheim Gazette'' newspaper was established in 1870 and a hotel in 1871. For 25 years, the area was the largest wine producer in California.<ref name="Armor"/> However, in 1884, a disease infected the grape vines and by the following year the entire industry was destroyed. Other crops&nbsp;– walnuts, lemons and oranges&nbsp;– soon filled the void. Fruits and vegetables had become viable cash crops when the Los Angeles&nbsp;– Orange County region was connected to the continental railroad network in 1887.
+
+[[File:Front exterior of Anaheim High School, ca.1900 (CHS-2815).jpg|thumb|Anaheim High School, c.1900]]
+
+The famous Polish actress [[Helena Modjeska]] settled in Anaheim with her husband and various friends, among them [[Henryk Sienkiewicz]], [[Julian Sypniewski]] and Łucjan Paprocki. While living in Anaheim, Helena Modjeska became good friends with Clementine Langenberger, the second wife of August Langenberger.<ref>{{cite web |url=http://anaheimcolony.com/profiles.htm |archiveurl=https://web.archive.org/web/20060203231835/http://www.anaheimcolony.com/profiles.htm |archivedate=2006-02-03 |title=August Langenberger}}</ref> Helena Street<ref name="anaheim1">{{cite web|url=http://www.anaheim.net/article.asp?id=216 |title=City of Anaheim&nbsp;– A Brief History of Modern Day Anaheim |publisher=Anaheim.net |accessdate=October 17, 2011}}</ref> and Clementine Street<ref name="anaheim1"/> are named after these two ladies, and the streets are located adjacent to each other as a symbol of the strong friendship which Helena Modjeska and Clementine Lagenberger shared. Modjeska Park<ref>{{cite web|url=http://www.anaheim.net/article.asp?id=1171 |title=City of Anaheim&nbsp;– Modjeska Park Picnic Shelter |publisher=Anaheim.net |accessdate=October 17, 2011}}</ref> in West Anaheim, is also named after Helena Modjeska.
+
+[[File:Anaheim-1922.jpg|thumb|right|Anaheim in 1922]]
+
+During the first half of the 20th century, before [[Disneyland Park (Anaheim)|Disneyland]] opened its doors to the public, Anaheim was a massive rural community inhabited by orange [[Grove (nature)|groves]] and the [[landowners]] who farmed them. One of the landowners was Bennett Payne Baxter, who owned much land in northeast Anaheim that today is the location of Angel Stadium.<ref name="anaheim2">{{cite web|url=http://www.anaheim.net/article.asp?id=235 |title=City of Anaheim&nbsp;– Parks Division |publisher=Anaheim.net |accessdate=October 17, 2011}}</ref> He came up with many new ideas for irrigating orange groves and shared his ideas with other landowners. He was not only successful, he helped other landowners and businesspeople succeed as well. Ben Baxter and other landowners helped to make Anaheim a thriving rural community before Disneyland changed the city forever. Today, a street runs along Edison Park<ref name="anaheim2"/> which is named Baxter Street. Also during this time, [[Rudolph Boysen]] served as Anaheim's first Park Superintendent from 1921 to 1950. Boysen created a hybrid berry which [[Walter Knott]] later named the [[boysenberry]], after Rudy Boysen. Boysen Park<ref>{{cite web|url=http://events.ocregister.com/anaheim-ca/venues/show/30634-boysen-park |title=Boysen Park |publisher=Events.ocregister.com |accessdate=November 25, 2012}}</ref> in East Anaheim was also named after him.
+
+In 1924, [[Ku Klux Klan]] members were elected to the Anaheim City Council on a platform of political reform. Up until that point, the city had been controlled by a long-standing business and civic elite that was mostly [[German American]]. Given their tradition of moderate social drinking, the German Americans did not strongly support [[Prohibition in the United States|prohibition laws]] of the day.  The mayor himself was a former saloon keeper. Led by the minister of the First Christian Church, the Klan represented a rising group of politically oriented non-ethnic Germans who denounced the elite as corrupt, undemocratic, and self-serving.  The Klansmen aimed to create what they saw as a model, orderly community, one in which prohibition against alcohol would be strictly enforced. At the time, the KKK had about 1200 members in Orange County. The economic and occupational profile of the pro and anti-Klan groups shows the two were similar and about equally prosperous. Klan members were Protestants, as were the majority of their opponents, however the opposition to the Klan also included many Catholic Germans. Individuals who joined the Klan had earlier demonstrated a much higher rate of voting and civic activism than did their opponents, and many of the individuals in Orange County who joined the Klan did so out of a sense of civic activism. Upon easily winning the local Anaheim election in April 1924, the Klan representatives promptly fired city employees who were known to be Catholic and replaced them with Klan appointees. The new city council tried to enforce prohibition. After its victory, the Klan chapter held large rallies and initiation ceremonies over the summer.<ref name="Cocoltchos"/>
+
+The opposition to KKK's hold on Anaheim politics organized, bribed a Klansman for their secret membership list, and exposed the Klansmen running in the state primaries; they defeated most of the candidates. Klan opponents in 1925 took back local government, and succeeded in a special election in recalling the Klansmen who had been elected in April 1924. The Klan in Anaheim quickly collapsed, its newspaper closed after losing a libel suit, and the minister who led the local Klavern moved to Kansas.<ref name="Cocoltchos">Christopher N. Cocoltchos, "The Invisible Empire and the Search for the Orderly Community: The Ku Klux Klan in Anaheim, California", in Shawn Lay, ed. ''The invisible empire in the West'' (2004), pp. 97–120.</ref>
+
+[[File:6505-Disneyland&Hotel.jpg|thumb|right|Aerial view of Anaheim and Disneyland in 1965]]
+
+Construction of the Disneyland theme park began on July 16, 1954, and it opened to the public on July 17, 1955. It has become one of the world's most visited tourist attractions, with over 650 million visitors since its opening. The location was formerly {{convert|160|acre|km2}} of orange and walnut trees, some of which remain on the property. Hotels and motels began to spread and residential districts soon followed, with increasing property values. In 2001, Disney's California Adventure (renamed [[Disney California Adventure Park]] in 2010) the most expansive project in the theme park's history, opened to the public.{{Citation needed|date=February 2015}}
+
+In 1970, the Census Bureau reported Anaheim's population as 9.3% Hispanic and 89.2% non-Hispanic white.<ref name="census">{{cite web|title=California&nbsp;– Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html|accessdate=April 20, 2012}}</ref> In the late 20th century, Anaheim grew rapidly in population. Today, Anaheim has a diverse ethnic and racial composition.<ref name="census"/>
+
+During the large expansion of the Disneyland resort in the 1990s, the city of Anaheim recognized the [[Anaheim Resort]] area as a tourist destination. It includes the [[Disneyland Resort]], the [[Anaheim Convention Center]], the [[Honda Center]], and [[Angel Stadium]].  In 2007, the city celebrated its [[sesquicentennial]].
+
+===July 2012 protests===
+{{Main|Anaheim police shooting and protests}}
+In July 2012, [[political protest]]s by Hispanic residents occurred following the fatal shooting of two men who were convicted felons. Protesting occurred in the area between State College and East Street, and was motivated by concerns over gang activity, domination of the city by commercial interests, and a perceived lack of political representation of Hispanic residents in the city government.<ref name=NYT8312>{{cite news|title=Fury Reveals Deep Rifts Near ‘Happiest Place on Earth’|url=http://www.nytimes.com/2012/08/03/us/anaheim-protests-show-deep-divides-in-class-and-race.html|accessdate=August 3, 2012|newspaper=The New York Times|date=August 2, 2012|author=Jennifer Medina}}</ref><ref name = LAT72512 >{{cite web|url=http://www.latimes.com/news/local/la-me-0726-anaheim-violence-20120726,0,2619070.story|title=Protests reflect deep divisions in Anaheim|publisher=Los Angeles Times|author=Nicole Santa Cruz, Christopher Goffard and Richard Winton|date=July 25, 2012}}</ref><ref name=DN72412>{{cite news|title=Police Brutality in Anaheim Sparks Outrage After 2 Latinos Shot Dead and Demonstrators Attacked|url=http://www.democracynow.org/2012/7/24/police_brutality_in_anaheim_sparks_outrage|accessdate=August 3, 2012|newspaper=Democracy Now!|date=July 24, 2012}}</ref>
+The protests were accompanied by looting of businesses and homes.<ref>{{cite news | newspaper=New York Times | title=Anaheim Cracks Down as Police Shootings Set Off Protests | date=July 25, 2012 | last=Medina | first=Jennifer | url=http://www.nytimes.com/2012/07/26/us/after-night-of-protest-and-arrests-anaheim-vows-to-crack-down.html?_r=0 | accessdate=December 28, 2015}}</ref><ref>{{cite news | newspaper=USA Today | title=24 arrested at police protests in Anaheim, Calif. | date=July 25, 2012 | url=http://usatoday30.usatoday.com/news/nation/story/2012-07-25/Anaheim-police-protests/56470926/1 | accessdate=December 28, 2015}}</ref>
+
+==Geography==
+Anaheim is located at {{Coord|33.836165|-117.889769|type:city_region:US|format=dms|display=inline}}.<ref name="GR1">{{cite web|url=http://www.census.gov/geo/www/gazetteer/gazette.html|publisher=[[United States Census Bureau]]|accessdate=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+and is approximately {{convert|25|mi|km}} south east of [[Downtown Los Angeles]].
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|50.8|sqmi|km2}}. {{convert|49.8|sqmi|km2}} of it is land and {{convert|1.0|sqmi|km2}} of it (1.92%) is water.
+
+The current federal [[Office of Management and Budget]] metropolitan designation for Orange County is "[[Santa Ana-Anaheim-Irvine, California|Santa Ana-Anaheim-Irvine, CA]]".
+
+===Cityscape===
+{{Redirect|Anaheim Canyon|the Metrolink train station|Anaheim Canyon station}}
+The city recognizes several districts, including the [[Anaheim Resort]] (the area surrounding Disneyland), Anaheim Canyon (an industrial area north of the [[Riverside Freeway]] and east of the [[Orange Freeway]]), and the [[Platinum Triangle, Anaheim|Platinum Triangle]] (the area surrounding Angel Stadium). [[Anaheim Hills]] also maintains a distinct identity.
+{{wide image|AnaheimPanorama.jpg|1100px|align-cap=center|Panorama of part of East Anaheim in the Santa Ana Canyon}}
+
+===Communities and neighborhoods===
+[[File:Anaheimconvctr-extside.jpg|thumb|The Anaheim Convention Center]]
+[[Downtown Anaheim]] is located in the heart of the Colony Historic District. Downtown is the administrative heart of the city where you find City Hall, Anaheim West Tower, Anaheim Police Headquarters, the Anaheim Chamber of Commerce and the Main Library. Anaheim Ice (formerly Disney Ice), the Downtown Anaheim Farmer's Market, a [[Anaheim Packing House|food hall in a historic 1919 Sunkist packing house]], and the Center Street Promenade are also located in Downtown Anaheim. In the Fall of 2007, The Muzeo,<ref>{{cite web|url=http://www.muzeo.org/ |title=Now Open: The Queen's Gallery & Steampunk |publisher=MUZEO |accessdate=October 17, 2011}}</ref> the newest major museum in Orange County, opened its doors for the first time and is located next to Anaheim West Tower. Pearson Park<ref>{{cite web|url=http://www.anaheimcolony.com/web/pearson.htm |title=Pearson Park |publisher=Anaheimcolony.com |accessdate=October 17, 2011}}</ref> is also located in Downtown Anaheim, and is named after Charles Pearson,<ref name="anaheim1"/> who was Mayor of Anaheim during the time Walt Disney opened Disneyland in Anaheim. One of the major attractions located in Pearson Park is the Pearson Park Amphitheater.<ref>{{cite web|url=http://www.anaheim.net/comm_svc/pearson/locationmaps.asp |title=City of Anaheim&nbsp;– Map |publisher=Anaheim.net |accessdate=October 17, 2011 |archiveurl=https://web.archive.org/web/20090530011520/http://www.anaheim.net/comm_svc/pearson/locationmaps.asp |archivedate=2009-05-30}}</ref> In the Colony Historic District just west of Downtown Anaheim is the Mother Colony House,<ref>{{cite web|url=http://www.anaheimcolony.com/web/m_colony.htm |title=Mother Colony House |publisher=Anaheimcolony.com |date=March 14, 1929 |accessdate=October 17, 2011}}</ref> which was built by George Hanson and was the first house built in Anaheim,<ref>{{cite web|url=http://ohp.parks.ca.gov/default.asp?page_id=21445 |title=Orange |publisher=Ohp.parks.ca.gov |accessdate=October 17, 2011}}</ref> the Founder of Anaheim. Today, it is Anaheim's and Orange County's oldest museum still open to the public. The Stoffel House<ref>{{cite web|url=http://www.anaheimcolony.com/Tours/1998tour.htm |title=The 1998 Historic Home Tour |publisher=Anaheimcolony.com |accessdate=October 17, 2011}}</ref> is a Victorian Mansion located next door to the Mother Colony House. Originally the Victorian Home was occupied by the Stoffel Family,<ref>{{cite web|url=http://www.anaheimcolony.com/web/anotour.htm |title=Another Anaheim Tour |publisher=Anaheimcolony.com |accessdate=October 17, 2011}}</ref> early pioneer residents of Anaheim. The home served as headquarters for the local Red Cross until the early 1990s. In 2010–2011, the Woelke-Stoeffel house became refurnished and is now part of the Founder's Park complex. Founder's Park includes the Mother Colony house and a carriage house, which serves as a museum of Anaheim's agricultural history. These three buildings are open every first Saturday from 9 to 12 pm.
+
+===Climate===
+Like many other [[South Coast (California)|South Coast]] cities, Anaheim maintains a [[Mediterranean climate]], enjoying warm winters and hot summers.<ref>{{cite journal|url=http://www.hydrol-earth-syst-sci-discuss.net/4/439/2007/hessd-4-439-2007.pdf |first=M. C. |last=Peel |first2=B. L. |last2=Finlayson |first3=T. A. |last3=McMahon |title=Updated world map of the Köppen-Geiger climate classiﬁcation |journal=Hydrology and Earth System Sciences |year=2007 |volume=4 |pages=439–473 |accessdate=February 27, 2011 |doi=10.5194/hessd-4-439-2007|issue=2}}</ref>
+
+{{Weather box|location = Anaheim, California (1981–2010 normals)
+|single line = Y |imperial first = Y
+|Jan record high F=95
+|Feb record high F=94
+|Mar record high F=97
+|Apr record high F=106
+|May record high F=106
+|Jun record high F=104
+|Jul record high F=107
+|Aug record high F=102
+|Sep record high F=108
+|Oct record high F=107
+|Nov record high F=99
+|Dec record high F=89
+|year record high F=108
+|Jan high F = 69.7
+|Feb high F = 69.9
+|Mar high F = 72.2
+|Apr high F = 74.6
+|May high F = 77.1
+|Jun high F = 80.2
+|Jul high F = 85.2
+|Aug high F = 86.9
+|Sep high F = 85.8
+|Oct high F = 81.3
+|Nov high F = 73.0
+|Dec high F = 70.2
+
+|Jan low F = 47.3
+|Feb low F = 48.4
+|Mar low F = 50.4
+|Apr low F = 52.9
+|May low F = 57.3
+|Jun low F = 60.6
+|Jul low F = 64.0
+|Aug low F = 64.4
+|Sep low F = 62.2
+|Oct low F = 57.8
+|Nov low F = 50.2
+|Dec low F = 47.4
+|Jan record low F=30
+|Feb record low F=30
+|Mar record low F=37
+|Apr record low F=38
+|May record low F=45
+|Jun record low F=50
+|Jul record low F=54
+|Aug record low F=53
+|Sep record low F=51
+|Oct record low F=45
+|Nov record low F=33
+|Dec record low F=32
+|year record low F=30
+|precipitation colour = green
+|Jan precipitation inch = 3.39
+|Feb precipitation inch = 3.34
+|Mar precipitation inch = 2.07	
+|Apr precipitation inch = 0.82
+|May precipitation inch = 0.35
+|Jun precipitation inch = 0.16
+|Jul precipitation inch = 0.03
+|Aug precipitation inch = 0.00
+|Sep precipitation inch = 0.09
+|Oct precipitation inch = 0.66
+|Nov precipitation inch = 1.09
+|Dec precipitation inch = 2.26	
+|year precipitation inch=14.26
+|source 1 = <ref>[http://www.wrcc.dri.edu/cgi-bin/cliNORM2010tM.pl?ca0192 ANAHEIM, CALIFORNIA&nbsp;– Climate Summary]. Wrcc.dri.edu. Retrieved on September 6, 2013.</ref>
+|date=September 2014
+}}
+
+==Demographics==
+{{US Census population
+|1870= 881
+|1880= 833
+|1890= 1273
+|1900= 1456
+|1910= 2628
+|1920= 5526
+|1930= 10995
+|1940= 11031
+|1950= 14556
+|1960= 104184
+|1970= 166408
+|1980= 219494
+|1990= 266406
+|2000= 328014
+|2010= 336265
+|estyear=2014
+|estimate=346997
+|estref=<ref name="USCensusEst2014">{{cite web|url=http://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html|title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014|accessdate=June 4, 2015}}</ref>
+|footnote=<center>U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref></center>
+}}
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Racial composition  !! 2010<ref>{{cite web |url=http://quickfacts.census.gov/qfd/states/06/0602000.html |title=Anaheim (city), California |work=State & County QuickFacts |publisher=U.S. Census Bureau}}</ref> !! 1990<ref name="census1" >{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html}}</ref> !! 1970<ref name="census1" /> !! 1950<ref name="census1" />
+|-
+| [[White American|White]] || 52.7% || 71.4% || 98.1% || 99.1%
+|-
+| —[[Non-Hispanic whites]] || 27.5% || 56.6% || 89.2% || n/a
+|-
+| [[African American|Black or African American]] || 2.8% || 2.5% || 0.1% || 0.5%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 52.8% || 31.4% || 17.1% || n/a
+|-
+| [[Asian American|Asian]] || 14.8% || 9.4% || 1.1% || 0.2%
+|}
+
+===2010===
+The [[2010 United States Census]]<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0602000|title=2010 Census Interactive Population Search: CA - Anaheim city|publisher=U.S. Census Bureau|accessdate=July 12, 2014}}</ref> reported that Anaheim had a population of 336,265. The population density was 6,618.0 people per square mile (2,555.2/km²). The racial makeup of Anaheim was 177,237 (52.7%) [[White (U.S. Census)|White]] (27.5% [[Non-Hispanic Whites|non-Hispanic White]] alone), 9,347 (2.8%) [[African American (U.S. Census)|African American]], 2,648 (0.8%) [[Native American (U.S. Census)|Native American]], 49,857 (14.8%) [[Asian (U.S. Census)|Asian]] (4.4% Vietnamese, 3.6% Filipino, 2.0% Korean, 1.4% Chinese, 1.3% Indian), 1,607 (0.5%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 80,705 (24.0%) from [[Race (United States Census)|other races]], and 14,864 (4.4%) from two or more races.  [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 177,467 persons (52.8%); 46.0% of Anaheim's population was of [[Mexican American|Mexican]] descent, 1.2% Salvadoran, and 1.0% Guatemalan; the remainder of the Hispanic population came from smaller ancestral groups.<ref>{{Cite news
+| title = American Factfinder
+| work=census.gov
+| accessdate = August 27, 2011
+| url = http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t#none
+}}</ref>
+
+The census reported that 332,708 people (98.9% of the population) lived in households, 2,020 (0.6%) lived in non-institutionalized group quarters, and 1,537 (0.5%) were institutionalized.
+
+There were 98,294 households, out of which 44,045 (44.8%) had children under the age of 18 living in them, 52,518 (53.4%) were [[marriage|opposite-sex married couples]] living together, 14,553 (14.8%) had a female householder with no husband present, 7,223 (7.3%) had a male householder with no wife present.  There were 6,173 (6.3%) [[POSSLQ|unmarried opposite-sex partnerships]], and 733 (0.7%) [[same-sex partnerships|same-sex married couples or partnerships]]. 17,448 households (17.8%) were made up of individuals and 6,396 (6.5%) had someone living alone who was 65 years of age or older. The average household size was 3.38.  There were 74,294 [[family (U.S. Census)|families]] (75.6% of all households); the average family size was 3.79.
+
+The age distribution of the population was as follows: 91,917 people (27.3%) under the age of 18, 36,506 people (10.9%) aged 18 to 24, 101,110 people (30.1%) aged 25 to 44, 75,510 people (22.5%) aged 45 to 64, and 31,222 people (9.3%) who were 65 years of age or older.  The median age was 32.4 years. For every 100 females there were 99.0 males.  For every 100 females age 18 and over, there were 97.1 males.
+
+There were 104,237 housing units at an average density of 2,051.5 per square mile (792.1/km²), of which 47,677 (48.5%) were owner-occupied, and 50,617 (51.5%) were occupied by renters. The homeowner vacancy rate was 1.7%; the rental vacancy rate was 7.2%.  160,843 people (47.8% of the population) lived in owner-occupied housing units and 171,865 people (51.1%) lived in rental housing units.
+
+According to the 2010 United States Census, Anaheim had a median household income of $59,627, with 15.6% of the population living below the federal poverty line.<ref>{{Cite web
+ | url = http://quickfacts.census.gov/qfd/states/06/0602000.html
+ | title = Anaheim (city) QuickFacts
+ | publisher = United States Census Bureau}}</ref>
+
+===2000===
+As of the census<ref name="GR2">{{cite web|url=http://factfinder2.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=American FactFinder}}</ref> of 2000, there were 328,014 people, 96,969 households, and 73,502 families residing in the city. The population density was 6,842.7 inhabitants per square mile (2,587.8/km²). There were 99,719 housing units at an average density of 2,037.5 per square mile (786.7/km²). The racial makeup of the city was 55% White, 3% Black or African American, 0.9% Native American, 12% Asian, 0.4% Pacific Islander, 24% from other races, and 5% from two or more races. 46% of the population were [[Hispanics in the United States|Hispanic]] or Latino.
+
+Of Anaheim's 96,969 households, 43.0% had children under the age of 18 living with them, 56.3% were married couples living together, 13.1% had a female householder with no husband present, and 24.2% were non-families. 18.1% of all households were made up of individuals and 6.1% had someone living alone who was 65 years of age or older. The average household size was 3.34 and the average family size was 3.75.
+
+In the city the population was spread out with 30.2% under the age of 18, 10.5% from 18 to 24, 33.5% from 25 to 44, 17.7% from 45 to 64, and 8.2% who were 65 years of age or older. The median age was 30 years. For every 100 females there were 100.1 males. For every 100 females age 18 and over, there were 98.1 males.
+
+The [[median income]] household income was $47,122, and the median family income was $49,969. Males had a median income of $33,870 versus $28,837 for females. The per capita income for the city was $18,266. About 10.4% of families and 14.1% of the population were below the poverty line, including 18.9% of those under age 18 and 7.5% of those age 65 or over.
+
+==Economy==
+[[File:Sleepingbeautycastle50.jpg|thumb|right|[[Sleeping Beauty Castle]] at Disneyland during the park's 50th anniversary celebration]]
+Anaheim's income is based on a tourism economy. In addition to [[The Walt Disney Company]] being the city's largest employer, the [[Disneyland Resort]] itself contributes about $4.7 billion annually to Southern California's economy. It also produces $255 million in taxes every year.<ref>''Disneyland Resort Public Affairs.'' Disneyland. Web. 20 May 2014.</ref> Another source of tourism is the Anaheim Convention Center, which is home to many important national conferences. Many hotels, especially in the city's Resort district, serve theme park tourists and conventiongoers.
+
+The Anaheim Canyon business park makes up 63% of Anaheim's industrial space and is the largest industrial district in Orange County.  Anaheim Canyon is also home to the second largest business park in Orange County.<ref>{{cite web|url=http://www.allbusiness.com/operations/shipping-rail-shipping/927405-1.html |title=Anaheim, Developers Plan Condos Next to Canyon Train Station &#124; Orange County Business Journal &#124; Professional Journal archives from |publisher=AllBusiness.com |accessdate=October 17, 2011 |archiveurl=https://web.archive.org/web/20110512005402/http://www.allbusiness.com/operations/shipping-rail-shipping/927405-1.html |archivedate=2011-05-12}}</ref><ref>{{cite news| url=http://articles.latimes.com/2006/jul/22/business/fi-boeing22 | work=The Los Angeles Times | title=Boeing to Close Historic Anaheim Facility | first1=Martin | last1=Zimmerman | first2=Roger | last2=Vincent | first3=Mai | last3=Tran | date=July 22, 2006}}</ref>  Anaheim Canyon houses 2,600 businesses, which employ over 55,000 workers.{{citation needed|date=July 2012}}
+
+Several notable companies have corporate offices and/or headquarters within Anaheim.
+
+{{div col||35em}}
+* [[Anaheim Memorial Medical Center]]
+* [[AT&T Inc.|AT&T]]
+* [[Banco Popular]], a bank based in [[Puerto Rico]], has a North American headquarters in Anaheim.
+* [[Bridgford Foods]], develops, produces, sells and distributor of food products
+* [[CKE Restaurants]], the parent company of the Carl's Jr., Hardee's, Green Burrito, and Red Burrito restaurant chains
+* [[Extron Electronics]], designs, manufactures, and services A/V electronics worldwide
+* [[Fisker Automotive]]<ref>{{cite web|url=http://www.ocbj.com/news/2011/jan/23/fisker-strikes-deal-hq-anaheim/|title=Sign in to Orange County Business Journal - Orange County Business Journal|work=ocbj.com}}</ref>
+* [[Fujitsu]], computer
+* [[Ganahl Lumber]], oldest lumberyard in California
+* [[General Dynamics]]
+* [[Hewlett Packard]]<ref>{{cite web|url=http://www.allbusiness.com/north-america/united-states-california-metro-areas/1014428-1.html |title=Anaheim hosts a sizable tech sector but faces tough competition from South County &#124; Orange County Business Journal &#124; Professional Journal archives from |publisher=AllBusiness.com |accessdate=October 17, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20131220120053/http://www.allbusiness.com/north-america/united-states-california-metro-areas/1014428-1.html |archivedate=December 20, 2013 }}</ref>
+* [[Isuzu]]<ref>{{cite web|url=http://www.isuzu.com/company_contact.jsp |title=Contact Information for Isuzu |publisher=Isuzu.com |accessdate=December 10, 2011}}</ref> North American headquarters
+* [[Kaiser Foundation]]
+* [[L-3 Communications]]
+* [[Living Stream Ministry]]
+* [[Northgate González Markets]] Family Owned Hispanic Grocery Chain<ref>[http://www.northgatemarkets.com Welcome to Northgate González Markets]. Northgatemarkets.com. Retrieved on September 6, 2013.</ref>
+* [[Pacific Sunwear]]
+* [[Panasonic]]<ref>{{cite web|url=http://www.ocbj.com/news/2011/jan/23/panasonic-signs-big-anaheim-lease-deal|title=Sign in to Orange County Business Journal - Orange County Business Journal|work=ocbj.com}}</ref>
+* [[Pendarvis Manufacturing]]<ref>{{cite web|url=http://www.ocregister.com/articles/business-334513-manufacturing-years.html|title=O.C. manufacturer celebrates 30 years in business|work=The Orange County Register}}</ref>
+* [[Raytheon]]
+* [[Sunny Delight Beverages|Sunny Delight]]<ref>{{cite web|url=http://www.allbusiness.com/north-america/united-states-california-metro-areas/4092406-1.html |title=The Canyon: Anaheim's Center for Advanced Technology &#124; Orange County Business Journal &#124; Professional Journal archives from |publisher=AllBusiness.com |date=October 15, 2006 |accessdate=October 17, 2011 |deadurl=yes |archiveurl=https://web.archive.org/20110512005410/http://www.allbusiness.com/north-america/united-states-california-metro-areas/4092406-1.html |archivedate=May 12, 2011 }}</ref>
+* [[Taormina Industries]]
+* [[Targus (corporation)|Targus]], a computer peripheral manufacturer
+* [[Tenet Healthcare]]
+* [[Toyota Financial Services]]
+* [[Universal Alloy]]
+* [[YKK Corporation]],<ref>{{cite web|url=http://articles.latimes.com/1993-10-20/business/fi-47862_1_redevelopment-area |title=Ykk Anaheim &#124; Anaheim Stitches Up Zipper Firm Deal : Jobs: YKK Inc. is the largest in its industry. It will build a new plant in a redevelopment area and add 115 employees.  |work= Los Angeles Times|date=July 26, 1996 |accessdate=October 17, 2011}}</ref> world's largest zipper manufacturing firm
+* [[Yogurtland]]
+* [[Zyxel]], maker of routers, switches and other networking products
+{{div col end}}
+
+===Top employers===
+According to the City's 2012 Comprehensive Annual Financial Report,<ref name="cafr">{{cite web |url=http://www.anaheim.net/images/articles/29/AnaheimCAFR.pdf |title=City of Anaheim, California Comprehensive Annual Financial Report, for the Year ended June 30, 2012 |publisher=City of Anaheim}}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|[[Disneyland Resort]]
+|22,200
+|-
+| 2
+|[[Kaiser Permanente]]
+|5,400
+|-
+| 3
+|[[Kaiser Permanente|Kaiser Permanente Anaheim Medical Center]] 
+|3,700
+|-
+| 4
+|Northgate González Markets
+|1,900
+|-
+| 5
+|[[Anaheim Regional Medical Center]]
+|1,200
+|-
+| 6
+|[[AT&T Inc.|AT&T]]
+|1,000
+|-
+| 7
+|[[Hilton Hotels & Resorts|Hilton Anaheim]]
+|967
+|-
+| 8
+|[[L-3 Communications]]
+|950
+|-
+| 9
+|[[Time Warner Cable]]
+|800
+|-
+| 10
+|[[Prime Healthcare Services|West Anaheim Medical Center]]
+|796
+|}
+
+===Retail===
+Larger retail centers include the [[power center (retail)|power centers]] [[Anaheim Plaza]] in western Anaheim (347,000 ft2),<ref>[http://legacy.kimcorealty.com/File/MarketingBrochure/webapps/webprints/Marketing_Package_for_Site_SCAA1401.pdf Anaheim Plaza website]</ref> and Anaheim Town Square in East Anaheim (374,000 ft2),<ref>{{cite web|url=http://www.anaheimtownsquare.com/index.cfm?tdc=dsp&page=leasing|title=Anaheim Town Square|work=anaheimtownsquare.com}}</ref> as well as the Anaheim GardenWalk [[lifestyle center (retail)|lifestyle center]] (440,000 ft2 of retail, dining and entertainment located in the Anaheim Resort).
+
+==Attractions==
+* [[Adventure City]]
+* Anaheim GardenWalk
+* [[Anaheim Convention Center]], Largest convention center on West Coast
+* [[Angel Stadium of Anaheim]]
+* [[Battle of the Dance]] dinner theater (closed in 2012)
+* [[Disneyland Resort]]<!-- Deleted image removed: [[File:espn zone.jpg|thumb|right|[[ESPN Zone]] in Anaheim]] -->
+** [[Disneyland Park (Anaheim)|Disneyland]]
+** [[Disney California Adventure Park]]
+** [[Downtown Disney (California)|Downtown Disney]]
+*** [[ESPN Zone]]
+*** [[House of Blues]]
+* [[The Grove of Anaheim]], formerly the Sun Theater, formerly Tinseltown Studios
+* [[Honda Center]], formerly the "Arrowhead Pond of Anaheim"
+* Anaheim Ice, Public rink for 6,000+ skaters per week
+* American Sports Centers, Home of U.S. Men’s National Volleyball Team
+* Flightdeck Flight Simulation Center
+* Anaheim Hills Golf Course
+* Dad Miller Golf Course
+* Oak Canyon Nature Center
+* MUZEO, Art Museum located in Downtown Anaheim
+* Anaheim/OC Walk of Stars<ref name="anaheim3"/>
+
+==Sports teams==
+[[File:Anaheim-streetbanners-ducksangels.JPG|thumb|Street banners promoting the [[Anaheim Ducks]] and [[Los Angeles Angels of Anaheim|Angels]].]]
+
+===Current teams===
+* [[National Hockey League|NHL]] team: [[Anaheim Ducks]]&nbsp;– [[2007 Stanley Cup Finals|2007 Stanley Cup Champions]]
+* [[Major League Baseball|MLB]] team: [[Los Angeles Angels of Anaheim]]&nbsp;– [[2002 World Series]] Champions under the name Anaheim Angels
+* [[National Football League|NFL]] team: [[History of the Los Angeles Rams|Los Angeles Rams]] played in Anaheim from 1980 through 1994 before moving to [[St. Louis, Missouri|St. Louis]]. The Rams play again beginning with the season 2016<ref>https://en.wikipedia.org/wiki/2016_Los_Angeles_Rams_season</ref>
+* [[Arena Football League|AFL]] team: [[Los Angeles Kiss]]
+
+===Defunct or Relocated teams===
+* [[National Lacrosse League|NLL]] team: [[Anaheim Storm]] (Folded after 2004–2005 season because of low attendance)
+* [[National Football League|NFL]] team: [[History of the Los Angeles Rams|Los Angeles Rams]] played in Anaheim from 1980 through 1994 before moving to [[St. Louis, Missouri|St. Louis]]. The Rams would return to Los Angeles in 2016.
+* [[World Football League]] team: The [[Southern California Sun]] played at [[Anaheim Stadium]] from 1974–1975.
+* [[Arena Football League (1987–2008)|Arena Football League]] team: [[Anaheim Piranhas]] played at the Arrowhead Pond from 1994 to 1997.
+* [[Roller Hockey International]] team: [[Anaheim Bullfrogs]] played in the RHI from 1993 to 1997 and 1999, winning the [[Murphy Cup]] Championship twice.
+* [[American Basketball Association]] team: [[Anaheim Amigos]] played at the [[Anaheim Convention Center]] during the 1967–68 Season, then moved to Los Angeles.
+* [[American Basketball Association (2000–)|ABA2000]] team: [[Southern California Surf]] played at the [[Anaheim Convention Center]] from 2001–2002.
+* [[NBA Development League|NBADL]] team: [[Anaheim Arsenal]] played at the [[Anaheim Convention Center]] from 2006–2009. The team moved to [[Springfield, Massachusetts]] and was renamed for the 2009–2010 season.
+* [[World Team Tennis]]: The Anaheim Oranges<ref>{{cite web|url=http://www.fortunecity.com/wembley/stamford/576/wtt/ |title=WORLD TEAM TENNIS (1974–1978) |publisher=Fortunecity.com |date=June 3, 2000 |accessdate=October 17, 2011 |archiveurl=https://web.archive.org/web/20110511133620/http://www.fortunecity.com/wembley/stamford/576/wtt/ |archivedate=2011-05-11}}</ref> played in 1978.
+* [[Continental Indoor Soccer League]] Team: The [[Anaheim Splash]], played from 1994 to 1997.
+* [[California Surf]] of the now defunct [[North American Soccer League (1968–1984)|North American Soccer League]] played from 1978 to 1981.
+
+===Court battle against the Angels===
+{{Main|City of Anaheim v. Angels Baseball LP}}
+[[File:Angel Stadium of Anaheim.jpg|thumb|left|[[Angel Stadium]] of Anaheim in 2003.]]
+On January 3, 2005, Angels Baseball LP, the ownership group for the Anaheim Angels, announced that it would change the name of the club to the Los Angeles Angels of Anaheim. [[Arturo Moreno]] believed Team spokesmen pointed out that from its inception, the Angels had been granted territorial rights by [[Major League Baseball]] to the counties of [[Los Angeles County|Los Angeles]], [[Ventura County|Ventura]], [[Riverside County|Riverside]], and [[San Bernardino County|San Bernardino]] in addition to Orange County. The new owner knew the name would help him market the team to the entire Southern California region rather than just Orange County. The "of Anaheim" was included in the official name to comply with a provision of the team's lease at Angel Stadium which requires that "Anaheim" be included in the team's name.
+
+Mayor [[Curt Pringle]] and other city officials countered that the name change violated the spirit of the lease clause, even if it were in technical compliance. They argued that a name change was a major bargaining chip in negotiations between the city and Disney Baseball Enterprises, Inc., then the ownership group for the Angels. They further argued that the city would never have agreed to the new lease without the name change, because the new lease required that the city partially fund the stadium's renovation but provided very little revenue for the city. Anaheim sued Angels Baseball LP in Orange County [[Superior Court]], and a jury [[trial (law)|trial]] was completed in early February 2006, resulting in a victory for the Los Angeles Angels of Anaheim franchise.
+
+Anaheim appealed the court decision with the [[California Court of Appeal]] in May 2006. The case was tied up in the Appeals Court for over two years. In December 2008, the Appeals Court upheld the February 2006 Decision and ruled in favor of The Angels Organization. In January 2009, the Anaheim City Council voted not to appeal the court case any further, bringing an end to the four-year legal dispute between the City of Anaheim and the Angels Organization.
+
+==Government==
+
+===City government===
+[[File:Anaheimcityhall.jpg|right|thumb|Anaheim City Hall.]]
+{{See also|List of mayors of Anaheim, California}}
+Under its [[Municipal charter|city charter]], Anaheim operates under a [[council-manager government]]. Legislative authority is vested in a [[city council]] of five [[nonpartisan]] members, who hire a professional city manager to oversee day-to-day operations. The mayor serves as the presiding officer of the city council in a [[first among equals]] role.  Under the city's [[term limit]]s, an individual may serve a maximum of two terms as a city council member and two terms as the mayor.
+
+Up until 2014, all council seats were elected at large. Voters elected the mayor and four other members of the city council to serve four-year staggered terms. Elections for two council seats were held in years divisible by four while elections for the mayor and the two other council seats were elected during the intervening even-numbered years.
+
+In response to [[2012 Anaheim, California police shooting and protests|protests]] and a [[California Voting Rights Act]] lawsuit by the [[American Civil Liberties Union]] and several residents, the city placed two measures on the November 2014 ballot. Measure L proposed that council members be elected by district instead of at large. Measure M proposed to increase the number of council seats from five to seven. Both measures passed.<ref>{{Cite news
+| last         = Do
+| first        = Anh
+| date         = November 5, 2014
+| title        = Backers of Anaheim's Measure L anticipate better representation
+| url          = http://www.latimes.com/local/orangecounty/la-me-ff-1006-anaheim-council-districts-20141106-story.html
+| newspaper    = Los Angeles Times
+| accessdate   = December 16, 2014
+}}</ref>
+
+The current city council:<ref>{{Cite web
+ | url = http://www.anaheim.net/title/City+Council/
+ | title = City Council
+ | publisher = City of Anaheim
+ | accessdate = December 18, 2014}}</ref>
+* Mayor Tom Tait (since 2010)
+* Mayor Pro Tem Kris Murray (since 2010)
+* Jordan Brandman (since 2012)
+* Lucille Kring (since 2012)
+* James James Vanderbilt
+
+===Federal, state and county representation===
+In the [[United States House of Representatives]], Anaheim is split among three Congressional districts:<ref name=cd_splits>{{Cite web
+ | url = http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip
+ | title = Communities of Interest - City
+ | publisher = California Citizens Redistricting Commission
+ | accessdate = September 24, 2014}}</ref>
+* {{Representative|cacd|39|fmt=district}},<ref name=gt39>{{Cite GovTrack|CA|39}}</ref>
+* {{Representative|cacd|45|fmt=district}},<ref name=gt45>{{Cite GovTrack|CA|45}}</ref> and
+* {{Representative|cacd|46|fmt=district}}.<ref name=gt46>{{Cite GovTrack|CA|46}}</ref>
+
+In the [[California State Senate]], Anaheim is split among three districts:<ref name=sd_splits>{{Cite web
+ | url = http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_sd_finaldraft_splits.zip
+ | title = Communities of Interest - City
+ | publisher = California Citizens Redistricting Commission
+ | accessdate = September 24, 2014}}</ref>
+* {{Representative|casd|29|fmt=sdistrict}},
+* {{Representative|casd|34|fmt=sdistrict}}, and
+* {{Representative|casd|37|fmt=sdistrict}}.
+
+In the [[California State Assembly]], Anaheim is split among three districts:<ref name=ad_splits>{{Cite web
+ | url = http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_ad_finaldraft_splits.zip
+ | title = Communities of Interest - City
+ | publisher = California Citizens Redistricting Commission
+ | accessdate = September 24, 2014}}</ref>
+* {{Representative|caad|65|fmt=adistrict}},
+* {{Representative|caad|68|fmt=adistrict}}, and
+* {{Representative|caad|69|fmt=adistrict}}.
+
+On the [[Orange County Board of Supervisors]], Anaheim is divided between two districts, with Anaheim Hills lying in the 3rd District and the remainder of Anaheim lying in the 4th District:
+* 3rd, represented by [[Todd Spitzer]] since 2013
+* 4th, represented by Shawn Nelson since 2010
+
+==Infrastructure==
+
+===Emergency services===
+[[File:AnaheimPD-h500-N1607A-071205-04-16.jpg|thumb|right|Anaheim Police Department's [[MD Helicopters MD 500|MD500E]] helicopter, ANGEL]]
+Fire protection is provided by the [[Anaheim Fire Department]], Disneyland Resort has its own Fire Department, though it does rely on the Anaheim Fire Department for support, and for Paramedic Services.  Law enforcement is provided by the [[Anaheim Police Department]].  Ambulance service is provided by [[Care Ambulance Service]].
+
+===Anaheim Public Utilities===
+Anaheim Public Utilities is the only municipal owned water and electric utility in Orange County, providing residential and business customers with water and electric services.  The utility is regulated and governed locally by the City Council. A Public Utilities Board, made up of Anaheim residents, advises the City Council on major utility issues.<ref>{{cite web|url=http://www.allbusiness.com/north-america/united-states-california-metro-areas/4092465-1.html |title=Low Electric Rates, Reliable Water Supply Draw Businesses to Anaheim &#124; Orange County Business Journal &#124; Professional Journal archives from |publisher=AllBusiness.com |date=October 15, 2006 |accessdate=October 17, 2011 |archiveurl=https://web.archive.org/web/20110512005341/http://www.allbusiness.com/north-america/united-states-california-metro-areas/4092465-1.html |archivedate=2011-05-12}}</ref>
+
+Anaheim has decided to bury power lines along major transportation corridors, converting its electricity system for aesthetic and reliability  reasons.<ref>{{cite web|url=http://www.eia.gov/todayinenergy/detail.cfm?id=7250 |title=Power outages often spur questions around burying power lines&nbsp;– Today in Energy&nbsp;– U.S. Energy Information Administration (EIA) |publisher=Eia.gov |date=July 25, 2012 |accessdate=August 3, 2012}}</ref> To minimize the impact on customer bills, undergrounding is taking place slowly over a period of 50 years, funded by a 4% surcharge on electric bills.<ref>{{cite web|url=http://www.anaheim.net/article.asp?id=1384 |title=City of Anaheim&nbsp;– Underground Conversion |publisher=Anaheim.net |accessdate=August 3, 2012}}</ref>
+
+==Crime==
+In 2003, Anaheim reported nine murders; given its population, this rate was one-third of the national average. Reported rapes the city are relatively uncommon as well, but have been increasing, along with the national average. Robbery (410 reported incidents) and aggravated assault (824 incidents) rank among the most frequent [[violent crime]]s in the city, though robbery rates are half of the national average, and aggravated assaults are 68% of the average. 1,971 [[burglary|burglaries]] were reported, as well as 6,708 thefts, 1,767 car thefts, and 654 car accidents. All three types of crime were below average. There were 43 cases of arson reported in 2003, 43% of the national average.<ref>{{cite web|url=http://www.cityrating.com/citycrime.asp?city=Anaheim&state=CA |title=Anaheim Crime Statistics : California ( CA ) |publisher=CityRating.com |accessdate=October 17, 2011}}</ref>
+
+==Education==
+
+===Schools===
+Anaheim is served by seven public school districts:<ref>{{cite web|author=City of Anaheim|title=School Districts Educating the Youth of Anaheim|url=http://www.anaheim.net/article.asp?id=1152&sectionid=91|year=2006|accessdate=May 28, 2006| archiveurl= https://web.archive.org/web/20060426172636/http://www.anaheim.net/article.asp?id=1152&sectionid=91| archivedate= April 26, 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{Colbegin}}
+* [[Anaheim Elementary School District]]
+* [[Anaheim Union High School District]]
+* [[Centralia School District]]
+* [[Magnolia School District (California)|Magnolia School District]]
+* [[Orange Unified School District]]
+* [[Placentia-Yorba Linda Unified School District]]
+* [[Savanna School District]]
+{{Colend}}
+
+Anaheim is home to 84 public schools,<ref name="anaheim3">{{cite web|url=http://www.anaheim.net/images/articles/236/AtaGlanceFinalDraft.pdf |title=Anaheim 2011 factsheet |format=PDF |accessdate=November 25, 2012}}</ref> of which 46 serve elementary students, nine are junior high schools, fourteen are high schools and six offer alternative education.
+
+Private schools in the city include [[Acaciawood Preparatory Academy]], [[Cornelia Connelly High School]], [[Fairmont Preparatory Academy]] and [[Servite High School]].
+
+===Higher education===
+Anaheim has three private universities: [[Anaheim University]] and Southern California Institute of Technology (SCIT), and [[Bristol University (California)|Bristol University]] (BU) with its sport teams Bristol Bears.
+
+[[North Orange County Community College District]] serves the community.
+
+===Libraries===
+Anaheim has eight public library branches.
+
+==Transportation==
+In the western portion of the city (not including Anaheim Hills), the major surface streets run east to west, starting with the northernmost, Orangethorpe Avenue, La Palma Avenue, Lincoln Avenue, Ball Road and Katella Avenue. The major surface streets running north-south, starting with the westernmost, are Knott Avenue, Beach Boulevard ([[California State Route 39|SR 39]]), Magnolia Avenue, Brookhurst Street, Euclid Street, Harbor Boulevard, Anaheim Boulevard and State College Boulevard.
+
+The [[Santa Ana Freeway]] (I-5), the Orange Freeway (SR 57) and the Riverside Freeway (SR 91) all pass through Anaheim. The [[Costa Mesa Freeway]] (SR 55), and the [[California State Route 241#Route description|Eastern Transportation Corridor]] (SR 241) also have short stretches within the city limits.
+
+Anaheim is served by two major railroads, the [[Union Pacific Railroad]] and the [[BNSF Railway]]. In addition, the  [[Anaheim Regional Transportation Intermodal Center]] (ARTIC), a major regional train station near [[Honda Center]] and [[Angel Stadium]], serves both [[Amtrak]] and [[Metrolink (Southern California)|Metrolink]] rail lines, and the [[Anaheim Canyon (Metrolink station)|Anaheim Canyon Metrolink station]] serves Metrolink's [[IEOC Line]]. ARTIC connects bus, rail including the proposed [[California High-Speed Rail]] Network and the proposed Anaheim Fixed-Guideway Transit Corridor.<ref>{{cite web|url=http://www.anaheimfixedguideway.com/ |title=AConnext &#124; Anaheim Transit. Where You Want to Go |publisher=Anaheimfixedguideway.com |accessdate=October 17, 2011}}</ref><ref>{{cite web|url=http://www.octa.net/M2Project.aspx?EntryId=343 |title=Measure M2 Project Regional Gateways |publisher=Octa.net |accessdate=October 17, 2011 |archiveurl=https://web.archive.org/web/20090610001200/http://www.octa.net/M2Project.aspx?EntryId=343 |archivedate=2009-06-10}}</ref>
+
+The [[Orange County Transportation Authority|Orange County Transportation Authority (OCTA)]] provides bus service for Anaheim with local and county-wide routes, and both the OCTA and the [[LACMTA|Los Angeles County Metro]] offer routes connecting Anaheim to Los Angeles County. Also, the not-for-profit [[Anaheim Resort Transit]] (ART) provides local shuttle service in the Disneyland Resort area serving local hotels and both the California Adventure and Disneyland theme parks, and [[Disney GOALS]], operates daily free bus service for low-income youth in the central Anaheim area.
+
+Anaheim is equidistant from both [[John Wayne Airport]] and [[Long Beach Airport]] (15 miles), but is also accessible from nearby [[Los Angeles International Airport|Los Angeles International]] (30 miles), and [[Ontario Airport|Ontario]] (35 miles) airports.<ref name="anaheim3"/>
+
+==Notable people== <!--be sure Anaheim mentioned in each linked page-->
+<!-- Please do not add individual names here, please add to the list below -->
+{{Main|List of people from Anaheim, California}}
+
+==Sister cities==
+* {{flagicon|JPN}} [[Mito, Ibaraki|Mito]], Japan
+* {{flagicon|ESP}} [[Vitoria-Gasteiz]], Spain
+
+==See also==
+{{portal|Greater Los Angeles|California}}
+* [[Anaheim Island, California]]
+* [[History of California]]
+* [[List of cities and towns in California]]
+* [[List of museums in Orange County, California]]
+
+==References==
+{{Reflist|30em}}
+
+{{Geographic Location
+|Center    = Anaheim
+|North     = [[Fullerton, California|Fullerton]], [[Brea, California|Brea]]
+|Northeast = [[Placentia, California|Placentia]]
+|East      = [[Villa Park, California|Villa Park]]
+|Southeast = [[Santa Ana, California|Santa Ana]], [[Orange, California|Orange]]
+|South     = [[Santa Ana, California|Santa Ana]], [[Garden Grove, California|Garden Grove]]
+|Southwest = [[Westminster, California|Westminster]]
+|West      = [[Cypress, California|Cypress]]
+|Northwest = [[Buena Park, California|Buena Park]]
+}}
+
+==External links==
+* {{commons category inline|Anaheim, California}}
+* {{Wikivoyage-inline|Anaheim}}
+* {{Official website}}
+* [http://www.anaheimhistoricalsociety.com/ Anaheim Historical Society]
+* [http://www.anaheimchamber.org/ Anaheim Chamber of Commerce]
+* [http://www.anaheimoc.org/ Anaheim Orange County Visitor & Convention Bureau]
+* [http://www.downtownanaheim.com/ Welcome to Downtown Anaheim]
+* [http://www.ocair.com/ John Wayne—Orange County International Airport]
+{{Anaheim}}
+{{Navboxes
+|title = Articles related to Anaheim
+|list  =
+{{Orange County, California}}
+{{Los Angeles Metropolitan Area}}
+{{Greater Los Angeles Area}}
+{{California}}
+{{California cities and mayors of 100,000 population}}
+{{Disneyland}}
+}}
+
+[[Category:Anaheim, California| ]]
+[[Category:1857 establishments in California]]
+[[Category:1876 establishments in California]]
+[[Category:Cities in Orange County, California]]
+[[Category:Cities in Southern California]]
+[[Category:German-American history]]
+[[Category:Polish-American history]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Populated places on the Santa Ana River]]
+[[Category:Populated places established in 1857]]
+[[Category:Populated places established in 1876]]

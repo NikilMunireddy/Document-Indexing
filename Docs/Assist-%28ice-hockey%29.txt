@@ -1,0 +1,36 @@
+Assist (ice hockey)
+
+{{Use mdy dates|date=June 2012}}
+[[File:Ice Hockey 2-on-1 One-Timer.gif|thumb|349px|In this diagram, the blue player on the right would be credited with an assist, while the blue player on the left would score the goal.]]In [[ice hockey]], an '''assist''' is attributed to up to two players of the scoring team who shot, passed or deflected the [[Puck (sports)#In ice hockey|puck]] towards the scoring teammate, or touched it in any other way which enabled the [[Goal (hockey)|goal]], meaning that they were "assisting" in the goal. There can be a maximum of two assists per goal. The assists will be awarded in the order of play, with the last player to pass the puck to the goal scorer getting the primary assist and the player who passed it to the primary assister getting the secondary assist.<ref>Brace, p. 22</ref> Players who gain an assist will get one [[point (ice hockey)|point]] added to their player statistics.<ref>{{cite web
+ |author=NHL
+ |publisher=NHL
+ |url=http://www.nhl.com/ice/page.htm?id=26489
+ |title=NHL Rulebook, Rule No. 78
+ |accessdate=June 14, 2010| archiveurl= http://web.archive.org/web/20100606011706/http://www.nhl.com/ice/page.htm?id=26489| archivedate= June 6, 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+==Special cases==
+If a player scores off of a [[rebound (sports)|rebound]] given up by a [[goaltender]], assists are still awarded, as long as there is no re-possession by that goaltender, meaning he did not have complete control of the puck.
+
+However, a rule says that only one point can be credited to any one player on a goal scored.<ref>{{cite web|url=http://www.nhl.com/ice/page.htm?id=26489|title=NHL Official Rules – Rule 78 – Goals|accessdate=January 5, 2012}}</ref>  This means one player cannot be credited with a goal and an assist for the same goal scored; instead the player would only get credit for a goal and a different player may get credit for an assist, if applicable.  It also means that one player cannot be credited with two assists for the same goal scored; instead the player would only get credit for one assist and a different player may get credit for the other assist, if applicable.
+
+Additionally, if a player passes the puck to another player who then completes a [[give-and-go]] with a different player for a goal, the player who made the pass that set up the goal gets the primary assist, and the player who passed to the eventual goal scorer before the give-and-go took place gets the secondary assist. This is essentially because assists are to be awarded to the last (up to) two players of the scoring team who had possession of the puck before the eventual goal scorer had possession and ultimately scored, regardless of whether that eventual goal scorer had possession at any time in between the two other players. This also means that possession of the puck can go from and in between the eventual goal scorer and eventual assist getters an infinite amount of times, and this scoring standard will still be applied. The no change in team possession guideline still applies to these particular cases.
+
+==See also==
+*[[List of NHL players with 1000 assists]]
+*[[Assist (disambiguation)]]
+
+==References==
+* {{cite book
+ |title=Play The Game: Ice Hockey
+ |year=1995
+ |last=Brace |first=Ian
+ |publisher=Ward Lock Limited
+ |isbn=0-7137-2517-6}}
+
+;Notes
+{{reflist}}
+
+==External links==
+* [http://www.nhl.com/ice/page.htm?id=26489 NHL Rulebook, Rule #78] – Goals and Assists
+
+[[Category:Ice hockey statistics]]

@@ -1,0 +1,156 @@
+Hordaland
+
+{{expand Norwegian|Hordaland|date=July 2012}}
+{{Infobox Fylke
+| name               = Hordaland
+| idnumber           = 12
+| image_skyline      = Hordaland_Hardangerfjord_05.JPG
+| capital            = [[Bergen]]
+| mayor              = [[Torill Selsvold Nyborg]]
+| mayor_party        = [[Christian Democratic Party (Norway)|Kristelig Folkeparti]]
+| mayor_date         = 2003
+| governor           = [[Lars Sponheim]]
+| governor_party     = [[Liberal Party (Norway)|Venstre]]
+| governor_date      = 2010
+| region             = Vestlandet
+| arearank           = 9
+| area               = 15460
+| arealand           = 14551
+| areapercent        = 4.78
+| population_as_of   = 2014
+| populationrank     = 3
+| population         = {{formatnum:{{#expr: 4856 + 0.14 *{{Age in days|2011|4|1}} round 0}}00}} <!--AUTOUPDATES DAILY at 00:00 UTC, Hordaland pop clock adds 14 people per day --> || {{CURRENTMONTHNAME}} {{CURRENTDAY}},  {{CURRENTYEAR}} || {{#expr: (4856 + 14 *{{Age in days|2011|4|1}} ) / {{worldpop}} * 100 round 3}}% || style="font-size: 75%"|[http://www.ssb.no/english/subjects/02/02/folkendrkv_en/2011k1/kvart12-en.html Statistics Norway - Population per 1 April 2011 and population changes during 1st quarter of 2011. Hordaland.]
+| populationpercent  = 9.72
+| populationdensity  = auto
+| populationincrease = 7.9
+| gdp_as_of          = 2001
+| gdprank            = 2
+| gdppercent         = 7.55
+| gdpcapita          = 263,056
+| incomecapita       = 148,300
+| coatofarms         = Hordaland_vapen.svg
+| munwebpage         = www.hordaland.no
+| language           = [[Norwegian language|Nynorsk]]
+| demonym            = Hordalending
+| latd = 60 |latm = 15 | lats = 
+| longd= 06 |longm= 00 | longs= 
+}}
+
+'''Hordaland''' {{IPA-no|ˈhɔrdɑˈlɑn||Hordaland.ogg}} is a [[Counties of Norway|county]] in [[Norway]], bordering [[Sogn og Fjordane]], [[Buskerud]], [[Telemark]], and [[Rogaland]] counties. Hordaland is the third largest county after [[Akershus]] and [[Oslo]] by population. The county government is the [[Hordaland County Municipality]] which is located in [[Bergen]]. Before 1972, the city of Bergen was its own separate county apart from Hordaland.
+
+==Name and symbols==
+
+===Name===
+Hordaland ([[Old Norse]]: ''Hǫrðaland'') is the old name of the region which was revived in 1919. The first element is the plural [[genitive case]] of ''hǫrðar'', the name of an old [[Germanic peoples|Germanic]] tribe (see [[Charudes]]). The last element is ''land'' which means "land" or "region" in the Norwegian language.
+
+Until 1919 the name of the county was ''[[Bergenhus len|Søndre Bergenhus amt]]'' which meant "(the) southern (part of) Bergenhus [[amt (subnational entity)|amt]]". (The old ''Bergenhus amt'' was created in 1662 and was divided into Northern and Southern parts in 1763.)
+
+{{see also|Rogaland|Sogn og Fjordane}}
+
+===Flag===
+[[File:Flag of Hordaland.svg|thumb|left|The flag of Hordaland]]
+The flag of Hordaland shows two golden axes and a crown in red. The flag is a banner of the [[Coat of arms of Hordaland|coat of arms]] derived from the old seal of the guild of St. Olav from Onarheim in [[Tysnes]] municipality. This seal was used by the delegates of [[Sunnhordland]] in 1344 on the document to install king [[Haakon V of Norway]]. It was thus the oldest symbol used for the region and adapted as the arms and flag in 1961. The symbols refer to the patron saint of the guild, [[Saint Olav]], King of Norway, whose symbol is an axe.<ref>{{cite web|publisher=Heraldry of the World|title=Civic heraldry of Norway - Norske Kommunevåpen|url=http://www.ngw.nl/heraldrywiki/index.php?title=Hordaland|accessdate=2015-04-12}}</ref>
+
+=== Coat of arms ===
+The [[Coat of arms|coat-of-arms]] were officially granted on 1 December 1961.  They were designed by Magnus Hardeland, but the general design had been originally used in the [[Sunnhordland]] region during the 14th century.  In the early 20th century, leaders of the county began using the old arms as a symbol for the county once again.  The arms are on a red background and consist of two golden [[axe]]s that are crossed with a golden [[Heraldic crown|crown]] above them.<ref>{{cite web|url=http://home.no.net/~thuridcs/Kommvpn/Hrdland/beskr-hordal.htm|title=Hordaland fylke|accessdate=2008-08-29|language=no}}</ref>
+
+==History==
+{{Historical populations
+| footnote = '''''Source''': [http://www.ssb.no/english/subjects/02/02/folkendrhist_en/tables/tab/12.html Statistics Norway].<ref>http://www.ssb.no/fob/kommunehefte/12/fob_12_tabeller.pdf</ref><ref>http://www.ssb.no/emner/02/03/folkfram/tab-2009-06-11-06.html</ref>
+| shading  = off
+| align = left
+|1769|63757
+|1900|205771
+|1950|308164
+|1960|338265
+|1970|369430
+|1980|388084
+|1990|407427
+|2000|435219
+|2010|477175
+|2014|508500
+}}
+{{bar box
+| title    = Religion in Hordaland<ref>[http://statbank.ssb.no/statistikkbanken/Default_FR.asp?PXSid=0&nvl=true&PLanguage=0&tilside=selecttable/hovedtabellHjem.asp&KortnavnWeb=kirke_kostra Statistics Norway - Church of Norway.]</ref><ref>[http://www.ssb.no/english/subjects/07/02/10/trosamf_en/tab-2010-12-13-02-en.html Statistics Norway - Members of religious and life stance communities outside the Church of Norway, by religion/life stance. County. 2006-2010]</ref>
+| titlebar = #ddd
+| left1    = religion
+| right1   = percent
+| float    = right
+| bars     =
+{{bar percent|[[Christianity]]|Purple|87.34}}
+{{bar percent|[[Islam]]|Green|0.77}}
+{{bar percent|[[Buddhism]]|Red|0.22}}
+{{bar percent|Other|Blue|11.67}}
+}}
+Hordaland county has been around for more than one thousand years.  Since the 7th century, the area was made up of many [[petty kingdom]]s under the [[Gulating]] and was known as ''Hordafylke'' since around the year 900. In the early 16th century, Norway was divided into four ''len''.  The [[Bergenhus len]] was headquartered in [[Bergen]] and encompassed much of western and northern Norway.<ref name=no />
+
+In 1662, the ''lens'' were replaced by [[Amt (country subdivision)#The amt in Norway|amt]]s.  ''Bergenhus amt'' originally consisted of the present-day areas of Hordaland, [[Sogn og Fjordane]], and [[Sunnmøre]] and the far northern [[Nordlandene amt]] was subordinate to Bergenhus.  In the 1680s, Nordlandene and Sunnmøre were split from Bergenhus. In 1763, the ''amt'' was divided into northern and southern parts: ''Nordre Bergenhus amt'' and ''Søndre Bergenhus amt''.  When the amt was split, the present day municipality of [[Gulen]] was split with the southern part ending up in Søndre Bergenhus amt.  In 1773, the border was re-drawn so that all of Gulen was located in the northern part.  Søndre Bergenhus amt was renamed ''Hordaland fylke'' in 1919.<ref name=no />
+
+The city of [[Bergen]] was classified as a city-county ''(byamt)'' from 1831-1972.  During that time in 1915, the municipality of [[Årstad (municipality)|Årstad]] was annexed into Bergen.  In 1972, the neighboring municipalities of [[Arna (municipality)|Arna]], [[Fana]], [[Laksevåg (municipality)|Laksevåg]] and [[Åsane (municipality)|Åsane]] were annexed into the city of Bergen.  Also at that same time, the city of Bergen lost its county status, and became a part of Hordaland county.<ref name=no />
+
+==Government==
+[[File:Hardanger1.jpg|thumb|right|[[Hardanger]] is one of Norway's most important sources of [[fruit]], providing approximately 40% of the country's fruit production, including [[apple]]s, [[plum]]s, [[pear]]s, [[cherries]], and [[redcurrant]]s.]]
+A county ''(fylke)'' is the chief local administrative area in [[Norway]]. The whole country is divided into 19 counties. A county is also an election area, with popular votes taking place every 4 years.  In Hordaland, the government of the county is the [[Hordaland County Municipality]].  It includes 57 members are elected to form a [[county council (Norway)|county council]] ''(Fylkesting)''. Heading the ''Fylkesting'' is the county mayor ''(fylkesordførar)''. Since 2003, the [[Hordaland county municipality]] has been led by [[Torill Selsvold Nyborg]], the county mayor.
+
+The county also has a [[County governor (Norway)|County Governor]] ''(fylkesmann)'' who is the representative of the [[Monarchy of Norway|King]] and [[Politics of Norway|Government of Norway]]. [[Lars Sponheim]] is the current [[List of County Governors of Hordaland|County Governor of Hordaland]].
+
+The municipalities in Hordaland are divided among four [[district court (Norway)|district courts]] ''(tingrett)'': [[Nordhordland District Court|Nordhordland]], [[Sunnhordland District Court|Sunnhordland]], [[Bergen District Court|Bergen]], and [[Hardanger District Court|Hardanger]]. Hordaland is also part of the [[Gulating Court of Appeal]] district based in Bergen.<ref name=no>[[:no:Hordaland]]</ref>
+*Nordhordland District Court: [[Askøy]], [[Austevoll]], [[Austrheim]], [[Fedje]], [[Fjell]], [[Fusa]], [[Lindås]], [[Masfjorden]], [[Meland]], [[Modalen]], [[Os, Hordaland|Os]], [[Osterøy]], [[Radøy]], [[Samnanger]], [[Sund, Norway|Sund]], [[Vaksdal]], [[Voss]], [[Øygarden]], and [[Gulen]] (Gulen is actually in neighboring [[Sogn og Fjordane]] county)
+*Sunnhordland District Court: [[Bømlo]], [[Etne]], [[Fitjar]], [[Kvinnherad]], [[Stord]], [[Sveio]] and [[Tysnes]]
+*Bergen District Court: the city of [[Bergen]]
+*Hardanger District Court: [[Eidfjord]], [[Granvin]], [[Jondal]], [[Kvam]], [[Odda]], [[Ullensvang]] and [[Ulvik]]
+
+Most of the municipalities in Hordaland are part of the Hordaland [[Law enforcement by country#Norway|police district]]. [[Gulen]] and [[Solund]] in [[Sogn og Fjordane]] county are also part of the Hordaland police district. [[Bømlo]], [[Etne]], [[Fitjar]], [[Stord]] and [[Sveio]] are a part of the ''"[[Haugaland]] and [[Sunnhordland]]"'' police district, along with eight other municipalities in [[Rogaland]] county.<ref name=no />
+
+==Geography==
+[[File:FinseInWinter.jpg|thumb|left|Finse is the highest point of the Norwegian Railway System, located at {{convert|1222|m|0|abbr=on}} [[Above mean sea level|above sea level]].]]
+Hordaland is semi-circular in shape. It is located on the [[Western Norway|western coast of Norway]], split from southwest to northeast by the long, deep [[Hardangerfjorden]], one of [[Norway]]'s main [[fjord]]s and a great tourist attraction. About half of the National park of [[Hardangervidda]] is in this county. The county also includes many well-known [[waterfall]]s of Norway, such as [[Vøringsfossen]] and [[Stykkjedalsfossen]]. It also includes the [[Folgefonna]] and [[Hardangerjøkulen]] [[glacier]]s.
+
+More than 60% of the inhabitants live in [[Bergen]] and the surrounding area. Other urban or semi-urban centres include [[Leirvik]], [[Voss]] and [[Odda]].
+
+===Municipalities===
+[[File:NO 1201 Bergen-15-.svg|thumb|400px|Map of Hordaland Districts and Municipalities{{legend|yellow|Nordhordland}}{{legend|red|Midthordland}} {{legend|blue|Sunnhordland}}{{legend|lime|Hardanger}} {{legend|fuchsia|Voss}}]]
+In 1837, the counties were divided into local administrative units each with their own governments. The number and borders of these [[Municipalities of Norway|municipalities]] have changed over time, and at present there are 33 municipalities in Hordaland. {{further2|A more detailed [[List of municipalities in Hordaland, Norway]]}}
+
+[[File:Befolkningsutvikling i Hordaland.svg|thumb|297x297px|The population growth in Hordaland (Blue: High / Green: Medium / Red Low - Negative)]]
+
+===Districts===
+Hordaland is conventionally divided into [[Districts of Norway|traditional districts]]. The inland districts are [[Hardanger]] and [[Voss]] and the coastal districts are [[Sunnhordland]], [[Midhordland]] and [[Nordhordland]]. ''[[Strilelandet]]'' is the colloquial name of a more informal region commonly held to encompass Midhordland and Nordhordland. ''Stril'' is a name the inhabitants of [[Bergen]] apply to the people living in the traditionally agricultural areas surrounding the city.
+
+==International relations==
+{{See also|List of twin towns and sister cities in Norway}}
+
+===Twin towns – Sister cities===
+Hordaland county is [[Twin towns and sister cities|twinned]] with:<ref name=no />
+
+*{{flagicon|FRA}} [[Lower Normandy]], [[France]]
+*{{flagicon|LTU}} [[Kaunas]], [[Lithuania]]
+*{{flagicon|UK}} [[Cardiff]], [[United Kingdom]]<ref name="Cardiff twinning">{{cite web|url=http://www.cardiff.gov.uk/content.asp?id=2940&d1=0 |title=Home page of Cardiff Council – Cardiff's twin cities |publisher=Cardiff Council |date=15 June 2010 |accessdate=10 August 2010}}</ref>
+*{{flagicon|UK}} [[Orkney Islands]], [[United Kingdom]]
+
+==Notable residents==
+* [[Ole Bull]] (1810–1880), composer, violinist
+* [[Tore Eikeland]] (1990-2011), politician
+* [[Edvard Grieg]] (1843–1907), composer
+* [[Nordahl Grieg]] (1902–1943), writer
+* [[C. J. Hambro]] (1885–1964), politician
+* [[Ludvig Holberg]] (1684–1754), writer
+* [[Leif Andreas Larsen]] ("Shetlands-Larsen") (1906–1990), military officer in World War II.
+* [[Christian Michelsen]] (1857–1925), politician
+* [[Johan Sebastian Welhaven]] (1807–1873), writer
+
+{{wide image|PanoramaSotraNese.jpg|700px|align-cap=center|Panorama over the island of [[Sotra]].}}
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commons category}}
+{{wikivoyage}}
+* [http://www.hordaland.no/ County web site]
+* [http://kart.ivest.no/hordaland/index.jsp Map of Hordaland]
+
+{{Counties of Norway}}
+
+[[Category:Counties of Norway]]
+[[Category:Hordaland| ]]

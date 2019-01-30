@@ -1,0 +1,859 @@
+Gujarati language
+
+{{distinguish|Gujari language}}
+{{Use dmy dates|date=March 2013}}
+{{Original research|date=February 2015}}
+{{Infobox language
+|name=Gujarati
+|altname=ગુજરાતી
+|nativename=''Gujarātī''
+|pronunciation= {{IPA-gu|ɡudʒəˈɾɑːt̪i|}}
+|states = [[India]], [[Pakistan]]
+|region = [[Gujarat]]
+|ethnicity=[[Gujaratis]]
+|speakers = {{sigfig|48.9|1}} million
+|date     = 2007
+|ref      = ne2007
+|familycolor=Indo-European
+|fam2=[[Indo-Iranian languages|Indo-Iranian]]
+|fam3=[[Indo-Aryan languages|Indo-Aryan]]
+|fam4=[[Western Indo-Aryan languages|Western]]<ref>[http://homepages.fh-giessen.de/kausen/klassifikationen/Indogermanisch.doc Ernst Kausen, 2006. ''Die Klassifikation der indogermanischen Sprachen''] ([[Microsoft Word]], 133 KB)</ref>
+|fam5=[[Gujarati languages]]
+|ancestor=[[Old Gujarati language|Old Gujarati]]
+|ancestor2=[[Middle Gujarati language|Middle Gujarati]]
+|script=[[Gujarati alphabet]] ([[Brahmic scripts|Brahmic]])<br />[[Gujarati Braille]]<br />[[Arabic script]]<br />[[Devanagari]] (historical)
+|nation=[[Gujarat]] ([[India]])<ref>{{Harvnb|Dwyer|1995|p=5}}</ref><br />[[Daman and Diu]] ([[India]])<br /> [[Dadra and Nagar Haveli]] ([[India]])
+|iso1=gu
+|iso2=guj
+|iso3=guj
+|lingua=59-AAF-h
+|glotto=guja1252
+|glottorefname=Gujarati
+|map=Gujaratispeakers.png
+|mapcaption=Distribution of native Gujarati speakers in India
+|notice=Indicj
+|notice2=IPA
+}}
+
+'''Gujarati''' {{IPAc-en|ɡ|ʊ|dʒ|ə|ˈ|r|ɑː|t|i}}<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> ({{lang|gu|ગુજરાતી}} {{IAST|Gujarātī}} {{IPA-gu|ɡudʒəˈɾɑːt̪i|}}) is an [[Indo-Aryan languages|Indo-Aryan language]] native to the [[India]]n state of [[Gujarat]]. It is part of the greater [[Indo-European languages|Indo-European]] [[language family]]. Gujarati is descended from [[Old Gujarati]] (''circa'' 1100–1500&nbsp;AD). In India, it is the chief language in the state of [[Gujarat]], as well as an official language in the [[union territory|union territories]] of [[Daman and Diu]] and [[Dadra and Nagar Haveli]]. Gujarati is the language of the [[Gujjars]], who had ruled [[Rajputana]] and [[Punjab]].
+
+According to the [[Central Intelligence Agency]] (CIA), 4.5% of the Indian population (1.21&nbsp;billion according to the 2011 census) speaks Gujarati, which amounts to 54.6&nbsp;million speakers in India.<ref>{{cite web|url=http://www.wwt-services.co.uk/translations/languages/gujarati-translation-216|title=Translation from Gujarati to English and from English to Gujarati – Translation Services|author=Sandra Küng|date=6 June 2013|work=wwt-services.co.uk|accessdate=29 March 2015}}</ref> There are about 65.5&nbsp;million speakers of Gujarati worldwide, making it the 26th-[[List of languages by number of native speakers|most-spoken native language]] in the world. Gujarati was the [[first language]] of [[Mahatma Gandhi]] and [[Muhammad Ali Jinnah]].
+
+==History==
+[[Image:Jinnah Gandhi.jpg|thumb|right|250px|[[Muhammad Ali Jinnah]] and [[Mahatma Gandhi]] sharing a [[Laughter|laugh]] in [[Bombay]] in 1944, for ill-fated political talks. These two prime political figures of the [[Indian subcontinent]] in the 20th century were [[Gujarati people|Gujarati''']]s and native speakers of the Gujarati language.<br><br>For Jinnah, Gujarati was important only as mother tongue. He was neither born nor raised in [[Gujarat]]''',<ref name="story">{{cite web| url=http://www.storyofpakistan.com/person.asp?perid=P009| title=Muhammad Ali Jinnah (1876–1948)| first=Story of Pakistan| last=Timeline: Personalities| accessdate=12 May 2007}}</ref> and Gujarat did not end up a part of Pakistan, the state he espoused. He went on to advocate for solely [[Urdu]] in his [[Pakistan Movement|politics]].<br><br>For Gandhi, Gujarati served as a medium of literary expression. He helped to inspire a renewal in its literature,<ref name="Dalby">{{Harvnb|Dalby|1998|p=237}}</ref> and in 1936 he introduced the current spelling convention at the [[Gujarati Sahitya Parishad|Gujarati Literary Society]]'s 12th meeting.<ref>{{Harvnb|Mistry|1997|p=654}}</ref>]]
+[[File:Upadesamala2.jpg|thumb|Updeshmala, Manuscript in Jain Prakrit and Old Gujarati on paper, Rupnagar, Rajastan, India, 1666, 76 ff. (−16 ff.), 11x25 cm, single column, (10x22 cm), 4 lines main text, 2–4 lines of interlinear commentary for each text line, in Jain Devanagari book script, filled with red and yellow, 17 paintings in colours mostly of [[Svetambara]] [[Jain]] monks, influenced by the [[Mughal painting|Mughal style]].<br><br>The text is a Prakrit didactic work of how best to live a proper Jain life, aimed probably at the laity. The Svetambara pontiff, Sri Dharmadasagaî, lived in the mid-6th century. The Old Gujarati prose commentary was written in 1487. The colophon gives the place, date, and the name of the religious leader, Sri Namdalalaji, on whose order the work was transcribed.]]Gujarati (also sometimes spelled ''Gujerati'', ''Gujarathi'', ''Guzratee'', ''Guujaratee'', ''Gujrathi'', and ''Gujerathi''<ref name="e18">{{e18|guj}}</ref><ref name="Mistry2001p274">{{Harvnb|Mistry|2001|pp=274}}</ref>) is a modern IA (Indo-Aryan) language [[evolutionary linguistics|evolved]] from [[Sanskrit]]. The traditional practice is to differentiate the IA languages on the basis of three historical stages:<ref name="Mistry2001p274"/>
+#Old IA ([[Vedic Sanskrit|Vedic]] and [[Sanskrit|Classical]] Sanskrit)
+#Middle IA (various [[Prakrit]]s and [[Apabhramsha]]s)
+#New IA (modern languages such as [[Hindi]], [[Punjabi language|Punjabi]], [[Bengali language|Bengali]], [[Et cetera|etc.]])
+Another view postulates successive family tree splits, in which Gujarati is assumed to have separated from other IA languages in four stages:<ref name="M2">{{Harvnb|Mistry|2003|p=115}}</ref>
+#IA languages split into Northern, Eastern, and Western divisions based on the innovate characteristics such as [[plosive]]s becoming [[Voice (phonetics)|voiced]] in the Northern (Skt. ''danta'' "[[tooth]]" > Punj. ''dānd'') and [[dental consonant|dental]] and [[retroflex consonant|retroflex]] [[sibilant]]s merging with the [[palatal]] in the Eastern (Skt. ''sandhya''  "[[evening]]" > Beng. ''śājh'').<ref>{{Harvnb|Mistry|1997|pp=654–655}}</ref>
+#Western, into Central and Southern.
+#Central, in Gujarati/[[Rajasthani language|Rajasthani]], [[Western Hindi]], and Punjabi/Lahanda/Sindhi, on the basis of innovation of [[auxiliary verb]]s and [[postpositions]] in Gujarati/Rajasthani.<ref name="Mistry2001p274"/>
+#Gujarati/Rajasthani into Gujarati and Rajasthani through development of such characteristics as auxiliary ''ch''- and the [[Possession (linguistics)|possessive]] [[Marker (linguistics)|marker]] -''n''- during the 15th century.<ref>{{Harvnb|Mistry|1997|p=655}}</ref>
+
+The principal changes from Sanskrit are the following:<ref name="M2"/>
+*[[Phonology|Phonological]]
+**Loss of original [[phoneme|phonemic]] [[Vowel length|length]] for [[vowel]]s
+**Change of [[consonant cluster]]s to [[Consonant length|geminate]] and then to single [[consonant]]s (with compensatory vowel length)
+{| class="wikitable" style="text-align:center"
+!English !! Sanskrit !! [[Prakrit]] !! Gujarati !! Ref
+|-
+||hand||''hasta''||''hattha''||''hāth''||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:1:1221.soas p. 811. Entry 14024.]}}</ref>
+|-
+||[[seven]]||''sapta''||''satta''||''sāt''||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:1:508.soas p. 760. Entry 13139.]}}</ref>
+|-
+||[[eight]]||''aṣṭā''||''aṭṭha''||''āṭh''||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.0:1:728.soas p. 41. Entry 941.]}}</ref>
+|-
+||[[snake]]||''sarpa''||''sappa''||''sāp''||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:1:611.soas p. 766. Entry 13271.]}}</ref>
+|}
+*[[Morphology (linguistics)|Morphological]]
+**Reduction in the number of [[Compound (linguistics)|compound]]s
+**Merger of the [[Dual (grammatical number)|dual]] with [[plural]]
+**Replacement of [[Grammatical case|case]] [[affix]]es by postpositions
+**Development of [[Periphrasis|periphrastic]] [[Grammatical tense|tense]]/[[Grammatical voice|voice]]/[[Grammatical mood|mood]] constructions
+*[[Syntax]]
+**[[Split ergativity]]
+**More complex [[Agreement (linguistics)|agreement]] system
+Gujarati is then customarily divided into the following three historical stages:<ref name="Mistry2001p274"/>
+
+===Old Gujarati===
+{{main|Old Gujarati language}}
+
+===Middle Gujarati===
+{{main|Middle Gujarati language}}
+
+===Modern Gujarati (AD 1800– )===
+[[File:A Page from the Gujarati translation of 'Dabistān-i Mazāhibm' prepared and printed by Fardunji Marzban (1815).jpg|thumb|A Page from the Gujarati translation of 'Dabestan-e Mazaheb' prepared and printed by Fardunji Marzban (25 December 1815)]]
+A major phonological change was the deletion of the final ə, such that the modern language has consonant-final words. Grammatically, a new plural marker of -o developed.<ref name="CardonaSuthar661">{{Harvnb|Cardona|Suthar|2003|p=661}}</ref> In literature, the third quarter of the 19th century saw a series of milestones for Gujarati, which previously had had verse as its dominant mode of literary composition.<ref>Yashaschandra, S. (1995) "Towards Hind Svaraj: An Interpretation of the Rise of Prose in 19th-century Gujarati Literature." ''Social Scientist''. Vol. 23, No. 10/12. pp. 41–55.</ref>
+* The printing was introduced in Gujarati in 1812. The first printed book published was the Gujarati translation of ''[[Dabestan-e Mazaheb]]'' prepared and printed by Parsi priest [[Fardunjee Marzban]] in 1815.<ref name="Kothari2014">{{cite book|author=Rita Kothari|title=Translating India|url=https://books.google.com/books?id=2-xQAwAAQBAJ&pg=PA73|accessdate=5 August 2014|date=8 April 2014|publisher=Routledge|isbn=978-1-317-64216-9|pages=73–74}}</ref>
+* 1822, first Gujarati newspaper: ''[[Mumbai Samachar]]'', the oldest newspaper in India still in circulation.<ref name="Kothari2014"/>
+* 1840s, personal diary composition: ''Nityanondh'', Durgaram Mehta.
+* 1851, first essay: ''Maniaḷī Maḷvāthi thātā Lābh'', [[Narmadashankar Dave]].
+* 1866, first original novel: ''[[Karan Ghelo|Karaṇ Ghelo]]'', [[Nandshankar Mehta]].<ref name="Kothari2014"/>
+* 1866, first [[social novel]]: ''Sasu Vahu ni Ladai'', Mahipatram<ref name="Kothari2014"/>
+* 1866, first autobiography: ''Mārī Hakīkat'', [[Narmadashankar Dave]]
+* 1900, first original short story: ''Shantidas'', [[Ambalal Desai]].<ref name="Das1991">{{cite book|author=Sisir Kumar Das |title=History of Indian Literature|url=https://books.google.com/books?id=sHklK65TKQ0C&pg=PA479 |volume=1|year=1991|publisher=Sahitya Akademi|isbn=978-81-7201-006-5|page=479}}</ref>
+
+== Demographics and distribution ==
+[[Image:Administrative map of Gujarat.png|thumb|right|Map of Gujarat|275px]]
+[[File:India Square JC jeh.JPG|thumb| [[India Square]], [[Jersey City, New Jersey|Jersey City]], [[New Jersey]], USA. Gujarati has achieved high linguistic prominence in many urban districts worldwide, particularly in the [[New York City Metropolitan Area]].]]
+Of the approximately 46&nbsp;million speakers of Gujarati in 1997, roughly 45.5&nbsp;million resided in India, 150,000 in Uganda, 50,000 in [[Tanzania]], 50,000 in Kenya and roughly 100,000 in Karachi, Pakistan, excluding several hundreds of thousands of Memonis who do not self-identify as Gujarati, but hail from a region within the state of Gujarat.<ref name="e16">{{e16|guj}}</ref>  There is a certain amount of Mauritian population and a large amount of [[Réunion]] Island people who are from Gujarati descent among which some of them still speak Gujarati.
+
+A considerable Gujarati-speaking population exists in [[North America]], most particularly in the [[New York City Metropolitan Area]] and in the [[Greater Toronto Area]], which have over 100,000 speakers and over 75,000 speakers, respectively, but also throughout the major metropolitan areas of the [[United States]] and [[Canada]]. According to the 2011 census, Gujarati is the seventeenth most spoken language in the Greater Toronto Area, and the fourth most spoken South Asian language after [[Urdu]], [[Punjabi language|Punjabi]] and [[Tamil language|Tamil]]. The UK has 200,000 speakers, many of them situated in the [[London]] area, but also in [[Birmingham]], [[Manchester]]  [[Warrington]] and in [[Leicester]], [[Coventry]], [[Bradford]] and the former mill towns within [[Lancashire]] and [[Wembley]]. A portion of these numbers consists of [[East Africa]]n Gujaratis who, under increasing discrimination and policies of Africanisation in their newly independent resident countries (especially [[Uganda]], where [[Idi Amin]] expelled 50,000 Asians), were left with uncertain futures and [[citizenship]]s. Most, with British [[passport]]s, settled in the UK.<ref name="Dalby"/><ref>{{Harvnb|Dwyer|1995|p=273}}</ref> Gujarati is offered as a [[GCSE]] subject for students in the UK.
+
+Besides being spoken by the [[Gujarati people]], non-Gujarati residents of and migrants to the state of [[Gujarat]] also count as speakers, among them the [[Kutch]]is (as a [[literary language]]),<ref name="Dalby"/> the [[Parsi people|Parsis]] (adopted as a [[First language|mother tongue]]), and [[Hindu]] [[Sindhi people|Sindhi]] [[refugees]] from Pakistan.
+A distribution of the geographical area can be found in  '[[Linguistic Survey of India]]' by [[George A. Grierson]].
+
+=== Official status ===
+Gujarati is one of the twenty-two [[official language]]s and fourteen [[regional language]]s of India. It is officially recognized in the state of Gujarat, India.
+{{See also|States of India by Gujarati speakers}}
+
+=== Dialects ===
+In [https://archive.org/details/simplifiedgramma00tisdiala A simplified grammar of the Gujarati language (1892)] by [[William St. Clair Tisdall|William Tisdall]], two major dialects of Gujarati are mentioned: a standard 'Hindu' dialect and a '[[Parsi]]' dialect. However, Gujarati has undergone contemporary reclassification with respect to the widespread regional differences in vocabulary and phrasing; notwithstanding the number of poorly attested, dubiously cited dialects.
+* Standard Gujarati: primarily spoken in the [[Saurashtra (region)|Saurashtra]] region, this forms something of a standardised variant of Gujarati across news, education and government.
+* Gamadia: spoken primarily in [[Ahmedabad]] and the surrounding regions.
+* Parsi: the aforementioned variety spoken by the [[Zoroastrianism|Zoroastrian]] Parsi minority. This highly distinctive variety has been subject to considerable lexical influence by [[Avestan]], the [[Liturgy|liturgical]] Zoroastrian language.
+* Khatiawari: spoken primarily in the [[Kathiawar]] region.
+* Kharwa, Kakari and Tarimuki are also often cited as additional vareties of Gujarati by ''[https://www.ethnologue.com/ Ethnologue].''<ref name="e16" />
+[[Kutchi language|Kutchi]] is often referred to as a dialect of Gujarati, but most linguists consider it closer to [[Sindhi language|Sindhi]]. In addition, a mixture between Sindhi, Gujarati, and Kutchi called [[Memoni language|Memoni]] is related to Gujarati, albeit distantly.{{Citation needed|date=August 2011}}. 
+
+Furthermore, words used by the native languages of areas where the [[Gujarati people]] have become a diaspora community, such as [[East Africa]] ([[Swahili Coast|Swahili]]), have become loanwords in local dialects of Gujarati.<ref>{{Citation |last=Ogilvie |first=Sarah |editor=Keith Brown |encyclopedia=Concise Encyclopedia of Languages of the World |year=2009 |publisher=Elsevier |location=Amsterdam, Netherlands |isbn=9780080877754 |edition=1st |url=https://books.google.com/books?id=F2SRqDzB50wC&pg=PA469#v=onepage&q&f=false |title=Concise Encyclopedia of Languages of the World}}</ref>
+
+==Phonology==
+{{Main|Gujarati phonology}}
+
+===Vowels===
+{| class="wikitable" style="text-align:center;"
+! !![[Front vowel|Front]] !! [[Central vowel|Central]] !![[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+|{{IPA|i}}|| ||colspan="2"|{{IPA|u}}
+|-
+! [[Close-mid vowel|Close-mid]]
+|{{IPA|e}}|| rowspan="2" valign="center"| {{IPA|ə}}||{{IPA|o}}
+|-
+! [[Open-mid vowel|Open-mid]]
+|{{IPA|ɛ}}||{{IPA|ɔ}}
+|-
+! [[Open vowel|Open]]
+| ({{IPA|æ}}) || colspan="2" align="center"| {{IPA|ɑ}}
+|}
+
+===Consonants===
+{| class="wikitable" style=text-align:center
+|+[[Consonant]]s
+|-
+!colspan=2|
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]/<br>[[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Postalveolar consonant|Postal.]]<br>/[[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan=2| [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ɳ}}
+| || ||
+|-
+!rowspan=4| [[Stop consonant|Plosive]]
+! <small>[[Voicelessness|voiceless]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t̪}}
+| {{IPAlink|ʈ}}
+| {{IPAlink|tʃ}}
+| {{IPAlink|k}}
+|
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+| {{IPAlink|b}}
+| {{IPAlink|d̪}}
+| {{IPAlink|ɖ}}
+| {{IPAlink|dʒ}}
+| {{IPAlink|ɡ}}
+|
+|-
+! <small>[[Aspirated consonant|aspirated]]</small>
+| {{IPA|pʰ}}
+| {{IPA|t̪ʰ}}
+| {{IPA|ʈʰ}}
+| {{IPA|tʃʰ}}
+| {{IPA|kʰ}}
+|
+|-
+! <small>[[Breathy voice|murmured]]</small>
+| {{IPA|bʱ}}
+| {{IPA|d̪ʱ}}
+| {{IPA|ɖʱ}}
+| {{IPA|dʒʱ}}
+| {{IPA|ɡʱ}}
+|
+|-
+!rowspan=2| [[Fricative consonant|Fricative]]
+! <small>[[Voicelessness|voiceless]]</small>
+| ({{IPAlink|f}})
+| {{IPAlink|s}}
+|
+| {{IPAlink|ʃ}}
+| ||
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+|
+| ({{IPAlink|z}})
+| || ||
+| {{IPAlink|ɦ}}
+|-
+!colspan=2| [[Approximant consonant|Approximant]]
+| {{IPAlink|ʋ}}
+| {{IPAlink|l}}
+| {{IPA|{{PUA|[[Retroflex lateral flap|&#xf269;]]}}}}<ref>Masica (1991:97)</ref>
+| {{IPAlink|j}}
+| ||
+|-
+!colspan=2| [[Flap consonant|Flap]]
+|
+| {{IPAlink|ɾ}}
+| || || ||
+|}
+
+== Writing system ==
+{{Main|Gujarati alphabet|Gujarati braille}}
+Similar to other [[Nagari|Nāgarī]] writing systems, the Gujarati script is an [[abugida]]. It is used to write the Gujarati and [[Kutchi language|Kutchi]] languages. It is a variant of [[Devanāgarī]] script differentiated by the loss of the characteristic horizontal line running above the letters and by a small number of modifications in the remaining characters.
+
+Gujarati and closely related languages, including [[Kutchi language|Kutchi]], can be written in the [[Arabic script|Arabic]] or [[Persian script]]s. This is traditionally done by many in Gujarat's [[Kutch]] district.
+
+==Vocabulary==
+
+===Categorisation and sources===
+These are the three general categories of words in modern Indo-Aryan: ''tatsam'', ''tadbhav'', and loanwords.<ref>Snell, R. (2000) ''Teach Yourself Beginner's Hindi Script.'' Hodder & Stoughton. pp. 83–86.</ref>
+
+====Tadbhav====
+તદ્ભવ ''tadbhava'', "of the nature of that". Gujarati is a modern Indo-Aryan language descended from [[Sanskrit]] (old Indo-Aryan), and this category pertains exactly to that: words of Sanskritic origin that have demonstratively undergone change over the ages, ending up characteristic of modern Indo-Aryan languages specifically as well as in general. Thus the "that" in "of the nature of that" refers to Sanskrit. They tend to be non-technical, everyday, crucial words; part of the spoken vernacular. Below is a table of a few Gujarati ''tadbhav'' words and their Old Indo-Aryan sources:
+
+{| class="wikitable" style="text-align:center"
+!colspan="2"|Old Indo-Aryan
+!colspan="2"|Gujarati
+!Ref
+|-
+||[[wikt:I|I]]||''aham''||''hũ''|| ||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.0:1:773.soas p. 44. Entry 992.]}}</ref>
+|-
+||falls, slips||''khasati''||''khasvũ''||to move||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.1:1:229.soas p. 203. Entry 3856.]}}</ref>
+|-
+||causes to move||''arpayati''||''āpvũ''||to give||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.0:1:552.soas p. 30. Entry 684.]}}</ref>
+|-
+||[[wikt:school|school]]||''nayaśālā''||''niśāḷ''|| ||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.2:1:516.soas p. 401. Entry 6969.]}}</ref>
+|-
+||attains to, obtains||''prāpnoti''||''pāmvũ''|| ||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.2:1:2005.soas p. 502. Entry 8947.]}}</ref>
+|-
+||[[wikt:tiger|tiger]]||''vyāghra''||''vāgh''|| ||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1:2126.soas p. 706. Entry 12193.]}}</ref>
+|-
+||equal, alike, level||''sama''||''samũ''||right, sound||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:1:541.soas p. 762. Entry 13173.]}}</ref>
+|-
+||all||''sarva''||''sau''|| ||<ref>{{Harvnb|Turner|1966|loc=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:1:616.soas p. 766. Entry 13276.]}}</ref>
+|}
+
+====Tatsam====
+તત્સમ ''tatsama'', "same as that". While Sanskrit eventually stopped being spoken vernacularly, in that it changed into [[Middle Indo-Aryan languages|Middle Indo-Aryan]], it was nonetheless standardized and retained as a literary and [[liturgical language]] for long after. This category consists of these borrowed words of (more or less) pure Sanskrit character. They serve to enrich Gujarati and modern Indo-Aryan in its formal, technical, and religious vocabulary. They are recognizable by their Sanskrit inflections and markings; they are thus often treated as a separate grammatical category unto themselves.
+
+{| class="wikitable"
+!Tatsam
+!English
+!Gujarati
+|-
+||''lekhak''||[[wikt:writer|writer]]||''lakhnār''
+|-
+||''vijetā''||[[wikt:winner|winner]]||''jītnār''
+|-
+||''vikǎsit''||[[wikt:developed|developed]]||''vikǎselũ''
+|-
+||''jāgǎraṇ''||[[wikt:awakening|awakening]]||''jāgvānũ''
+|}
+
+Many old tatsam words have changed their meanings or have had their meanings adopted for modern times. પ્રસારણ ''prasāraṇ'' means "spreading", but now it is used for "[[wikt:broadcasting|broadcasting]]". In addition to this are [[neologism]]s, often being [[calque]]s. An example is ''[[wikt:telephone|telephone]]'', which is [[Greek language|Greek]] for "far talk", translated as દુરભાષ ''durbhāṣ''. Though most people just use ફોન ''phon'' and thus neo-Sanskrit has varying degrees of acceptance.
+
+So, while having unique ''tadbhav'' sets, modern IA languages have a common, higher ''tatsam'' pool. Also, ''tatsam''s and their derived ''tadbhav''s can also co-exist in a language; sometimes of no consequence and at other times with differences in meaning:
+{| class="wikitable"
+!colspan="2"|Tatsam
+!colspan="2"|Tadbhav
+|-
+||''[[karma]]''||Work — [[Dharmic]] religious concept of works or deeds whose divine consequences are experienced in this life or the next.||''kām''||work [without any religious connotations].
+|-
+||''kṣetra''||Field — Abstract sense, such as a field of knowledge or activity; ''khāngī kṣetra'' → private sector. Physical sense, but of higher or special importance; ''raṇǎkṣetra'' → battlefield.||''khetar''||field [in agricultural sense].
+|}
+
+What remains are words of foreign origin (''videśī''), as well as words of local origin that cannot be pegged as belonging to any of the three prior categories (''deśaj''). The former consists mainly of [[Persian language|Persian]], [[Arabic]], and English, with trace elements of [[Portuguese language|Portuguese]] and [[Turkic languages|Turkish]]. While the phenomenon of English [[loanword]]s is relatively new, Perso-Arabic has a longer history behind it. Both English and Perso-Arabic influences are quite nationwide phenomena, in a way paralleling ''tatsam'' as a common vocabulary set or bank. What's more is how, beyond a transposition into general Indo-Aryan, the Perso-Arabic set has also been assimilated in a manner characteristic and relevant to the specific Indo-Aryan language it is being used in, bringing to mind ''tadbhav''.
+
+====Perso-Arabic====
+India was ruled for many a century by Persian-speaking [[Muslim conquest in the Indian subcontinent|Muslims]], amongst the most notable being the [[Turkic peoples|Turko]]-[[Afghanistan|Afghan]] [[Delhi Sultanate]], and the [[Turco-Mongol]] [[Mughal dynasty]]. As a consequence Indian languages were changed greatly, with the large scale entry of Persian and its many Arabic loans into the Gujarati lexicon. One fundamental adoption was Persian's conjunction "that", ''ke''. Also, while ''tatsam'' or Sanskrit is etymologically continuous to Gujarati, it is essentially of a differing grammar (or language), and that in comparison while Perso-Arabic is etymologically foreign, it has been in certain instances and to varying degrees grammatically indigenized. Owing to centuries of situation and the end of Persian education and power, (1) Perso-Arabic loans are quite unlikely to be thought of or known as loans, and (2) more importantly, these loans have often been Gujarati-ized. ''dāvo'' – claim, ''fāydo'' – benefit, ''natījo'' – result, and ''hamlo'' – attack, all carry Gujarati's masculine gender marker, ''o''. ''khānũ'' – compartment, has the neuter ''ũ''. Aside from easy slotting with the auxiliary ''karvũ'', a few words have made a complete transition of verbification: ''kabūlvũ'' – to admit (fault), ''kharīdvũ'' – to buy, ''kharǎcvũ'' – to spend (money), ''gujarvũ'' – to pass. The last three are definite part and parcel.
+
+Below is a table displaying a number of these loans. Currently some of the etymologies are being referenced to an Urdu [[dictionary]], so it should be noted that Gujarati's singular masculine ''o'' corresponds to Urdu ''ā'', neuter ''ũ'' groups into ''ā'' as Urdu has no neuter gender, and Urdu's Persian ''z'' is not upheld in Gujarati and corresponds to ''j'' or ''jh''. In contrast to modern Persian, the pronunciation of these loans into Gujarati and other Indo-Aryan languages, as well as that of Indian-recited Persian, seems to be in line with Persian spoken in [[Afghanistan]] and [[Central Asia]], perhaps 500&nbsp;years ago.<ref name="Masica75">{{Harvnb|Masica|1991|p=75}}</ref>
+
+{|class="wikitable" style="text-align:center"
+!colspan="12"|NOUNS
+!rowspan="2" colspan="12"|ADJECTIVES
+|-
+!colspan="4"|MASC
+!colspan="4"|NEU
+!colspan="4"|FEM
+|-
+||''fāydo''||gain, advantage, benefit||A||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.5:1:1202.platts 776]}}</ref>||''khānũ''||compartment||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1:2080.platts 486]}}</ref>||''kharīdī''||purchase(s), shopping||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1:2215.platts 489]}}</ref>||''tājũ''||fresh||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.2:1:778.platts 305]}}</ref>
+|-
+||''humlo''||attack||A||<ref>{{Harvnb|Tisdall|1892|p=168}}</ref>||''makān''||house, building||A||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.7:1:147.platts 1057]}}</ref>||''śardī''||[[wikt:common cold|common cold]]||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.4:1:2715.platts 653]}}</ref>||''judũ''||different, separate||P||<ref>{{Harvnb|Tisdall|1892|p=170}}</ref>
+|-
+||''dāvo''||claim||A||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1:3371.platts 519]}}</ref>||''nasīb''||[[wikt:luck|luck]]||A||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.7:1:3404.platts 1142]}}</ref> ||''bāju''||side||P||<ref>{{Harvnb|Tisdall|1892|p=160}}</ref>||''najīk''||near||P||<ref>{{Harvnb|Tisdall|1892|p=177}}</ref>
+|-
+||''natījo''||result, outcome||A||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.7:1:2542.platts 1123]}}</ref>||''śaher''||[[wikt:city|city]]||P||<ref>{{Harvnb|Tisdall|1892|p=184}}</ref>||''cījh''||thing||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.3:1:1580.platts 471]}}</ref>||''kharāb''||bad||A||<ref>{{Harvnb|Tisdall|1892|p=172}}</ref>
+|-
+||''gusso''||[[wikt:anger|anger]]||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.5:1:1046.platts 771]}}</ref>||''medān''||[[wikt:plain|plain]]||P||<ref>{{Harvnb|Tisdall|1892|p=175}}</ref>||''jindgī''||life||P||<ref>{{Harvnb|Tisdall|1892|p=169}}</ref>||''lāl''||[[wikt:red|red]]||P||<ref>{{Harvnb|Platts|1884|p=[http://dsal.uchicago.edu/cgi-bin/philologic/getobject.pl?c.6:1:2251.platts 947]}}</ref>
+|}
+
+Lastly, Persian, being part of the [[Indo-Iranian languages|Indo-Iranian language family]] as Sanskrit and Gujarati are, met up in some instances with its cognates:<ref>{{Harvnb|Masica|1991|p=71}}</ref>
+
+{|class="wikitable" style="text-align:center"
+! Persian !! INDO-ARYAN !! English
+|-
+|''marǎd''||''martya''||man, mortal
+|-
+|''[[-stan|stān]]''||''sthān''||place, land
+|-
+|''ī''||''īya''||(adjectival suffix)
+|-
+|''band''||''bandh''||closed, fastened
+|}
+
+[[Zoroastrian]] Persian [[refugee]]s known as [[Parsi people|Parsis]] also speak an accordingly Persianized form of Gujarati.<ref>{{Harvnb|Tisdall|1892|p=15}}</ref>
+
+====English====
+[[Image:Fruit juice shop in Navsari.jpg|thumb|right|280px|test|''śrī sarasvatī fruṭ jyuś sɛnṭar'' – "[[Sri|Shri]] [[Saraswati]] [[wikt:fruit|fruit]] [[wikt:juice|juice]] Centre". Note that "Fruit Juice Centre" is in English. A Gujarati alternative would be ''phaḷnā ras nu kendra''. It (''kendra'' in particular) would however sound quite [[pedantic]] and out of place.]]
+With the end of Perso-Arabic inflow, English became the current foreign source of new vocabulary. English had and continues to have a considerable influence over Indian languages. Loanwords include new innovations and concepts, first introduced directly through [[British Empire|British colonialism]], and then streaming in on the basis of continued [[Anglosphere]] dominance in the post-colonial period. Besides the category of new ideas is the category of English words that already have Gujarati counterparts which end up replaced or existed alongside with. The major driving force behind this latter category has to be the continuing role of English in modern India as a language of education, prestige, and mobility. In this way, Indian speech can be sprinkled with English words and expressions, even switches to whole sentences.<ref>{{Harvnb|Masica|1991|pp=49–50}}</ref> ''See [[Hinglish]], [[Code-switching]]''.
+
+In matters of sound, English [[alveolar consonant|alveolar]] consonants map as [[Retroflex consonant|retroflexes]] rather than [[Dental consonant|dentals]]. Two new characters were created in Gujarati to represent English /æ/'s and /ɔ/'s. Levels of Gujarati-ization in sound vary. Some words don't go far beyond this basic transpositional rule, and sound much like their English source, while others differ in ways, one of those ways being the carrying of dentals. ''See [[Indian English]]''.
+
+As English loanwards are a relatively new phenomenon, they adhere to English grammar, as ''tatsam'' words adhere to Sanskrit. Though that isn't to say that the most basic changes have been underway: many English words are pluralized with Gujarati ''o'' over English "s". Also, with Gujarati having 3 genders, genderless English words must take one. Though often inexplicable, gender assignment may follow the same basis as it is expressed in Gujarati: vowel type, and the nature of word meaning.
+
+{|class="wikitable" style="text-align:center"
+!colspan="2"| !!colspan="2"| !!colspan="2"| !!colspan="2"| !!colspan="2"| !!colspan="2"| !!colspan="2"| !!colspan="2"|
+|-
+|''bâṅk''||[[wikt:bank|bank]]
+|''phon''||[[wikt:phone|phone]]
+|''ṭebal''||[[wikt:table|table]]
+|''bas''||[[wikt:bus|bus]]
+|''rabbar''||[[wikt:eraser|rubber]] (eraser)
+|''ṭorc''||[[wikt:flashlight|torch]]
+|''dôkṭar''||[[wikt:doctor|doctor]] (physician)
+|''rasīd''||[[wikt:receipt|receipt]]
+|-
+|''helo <br /> halo <br /> hālo''||[[wikt:hello|hello]]
+|''hôspiṭal<br />aspitāl<br />ispitāl''||[[wikt:hospital|hospital]]
+|''sṭeśan <br /> ṭeśan''||[[wikt:train station|train station]]
+|''sāykal''||[[wikt:bicycle|(bi)cycle]]
+|''rum''||[[wikt:room|room]]
+|''āis krīm''||[[wikt:ice cream|ice cream]]
+|''rôbaṭ''||[[wikt:robot|robot]]
+|''ṭāym''||[[wikt:time|time]]
+|-
+|''aṅkal''<sup>1</sup>||[[wikt:uncle|uncle]]
+|''āṇṭī''<sup>1</sup>||[[wikt:aunt|aunt]]ie
+|''pākīṭ''||[[wikt:wallet|wallet]]
+|''kavar''||[[wikt:envelope|envelope]]
+|''noṭ''||[[wikt:banknote|banknote]]
+|''skūl''||[[wikt:school|school]]
+|''ṭyuśan''||[[wikt:tuition|tuition]]
+|''esī''||[[wikt:AC|AC]] (air conditioning)
+|-
+|''minaṭ'' <br /> ''miniṭ''||[[wikt:minute|minute]]
+|''ṭikiṭ'' <br /> ''ṭikaṭ''||[[wikt:ticket|ticket]]
+|''sleṭ''||[[wikt:slate|slate]]
+|''hoṭal''||[[wikt:hotel|hotel]]
+|''pārṭī''||[[wikt:political party|political party]]
+|''ṭren''||[[wikt:train|train]]
+|''kalekṭar''||[[district collector]]
+|''reḍīyo''||[[wikt:radio|radio]]
+|}
+
+*<sup>1</sup> These English forms are often used (prominently by [[Non-resident Indian and person of Indian origin|NRI]]s) for those family friends and elders that aren't actually uncles and aunts but are of the age.
+
+====Portuguese====
+The smaller foothold the Portuguese had in wider India had linguistic effects. Gujarati took up a number of words, while elsewhere the influence was great enough to the extent that creole languages came to be (''see [[Portuguese India]], [[Portuguese-based creole languages#India and Sri Lanka|Portuguese-based creole languages in India and Sri Lanka]]''). Comparatively, the impact of Portuguese has been greater on coastal languages<ref>{{Harvnb|Masica|1991|p=49}}</ref> and their loans tend to be closer to the Portuguese originals.<ref>{{Harvnb|Masica|1991|p=73}}</ref> The source dialect of these loans imparts an earlier pronunciation of ''ch'' as an affricate instead of the current standard of [ʃ].<ref name="Masica75"/>
+
+{|class="wikitable" style="text-align:center"
+!Gujarati !! Meaning !! Portuguese
+|-
+||''istrī''||[[wikt:iron|iron (ing)]]||estirar<sup>1</sup>
+|-
+||''mistrī''<sup>2</sup>||[[wikt:carpenter|carpenter]]||mestre<sup>3</sup>
+|-
+||''sābu''||[[wikt:soap|soap]]||sabão (from Arabic ''sābun'')
+|-
+||''chāvī''||[[wikt:key|key]]||chave
+|-
+||''tamāku''||[[wikt:tobacco|tobacco]]||{{Not a typo|tobaco}}
+|-
+||''kobī''||[[wikt:cabbage|cabbage]]||couve
+|-
+||''kāju''||[[wikt:cashew|cashew]]||caju
+|-
+||''pāũ''||[[wikt:bread|bread]]||pão
+|-
+||''baṭāko''||[[wikt:potato|potato]]||batata
+|-
+||''anānas''||[[wikt:pineapple|pineapple]]||ananás
+|-
+||''pādrī''||[[The Reverend#Catholic Churches|father]] (in Catholicism)||padre
+|-
+||''aṅgrej(ī)''||[[wikt:English|English]] (not specifically the language)||inglês
+|-
+||''nātāl''||[[wikt:Christmas|Christmas]]||natal
+|}
+
+:<sup>1</sup> "Lengthen".
+:<sup>2</sup> Common occupational [[surname]].
+:<sup>3</sup> "Master".
+
+===Loans into English===
+''[[Bungalow]]''—
+{{cquote|1676, from Gujarati ''bangalo'', from Hindi ''bangla'' "low, thatched house," lit. "Bengalese," used elliptically for "house in the Bengal style."<ref>[http://www.etymonline.com/index.php?term=bungalow Bungalow]. [[Online Etymology Dictionary]].</ref>}}
+
+''[[Coolie]]''—
+{{cquote|1598, "name given by Europeans to hired laborers in India and China," from Hindi ''quli'' "hired servant," probably from ''koli'', name of an aboriginal tribe or caste in Gujarat.<ref>[http://www.etymonline.com/index.php?term=coolie Coolie]. Online Etymology Dictionary.</ref>}}
+
+''[[Tank (disambiguation)|Tank]]''—
+{{cquote|c.1616, "pool or lake for irrigation or drinking water," a word originally brought by the Portuguese from India, ult. from Gujarati ''tankh'' "cistern, underground reservoir for water," Marathi ''tanken'', or ''tanka'' "reservoir of water, tank." Perhaps from Skt. ''tadaga-m'' "pond, lake pool," and reinforced in later sense of "large artificial container for liquid" (1690) by Port. ''tanque'' "reservoir," from ''estancar'' "hold back a current of water," from V.L. *''stanticare'' (see ''stanch''). But others say the Port. word is the source of the Indian ones.<ref>[http://www.etymonline.com/index.php?term=tank Tank]. Online Etymology Dictionary.</ref>}}
+
+==Grammar==
+{{Main|Gujarati grammar}}
+Gujarati is a head-final, or left-[[Branching (linguistics)|branching]] language. [[Adjective]]s precede [[noun]]s, [[direct object]]s come before [[verb]]s, and there are [[postposition]]s. The [[word order]] of Gujarati is [[subject–object–verb|SOV]], and there are three [[grammatical gender|genders]] and two [[grammatical number|numbers]]. There are no [[definite article|definite]] or [[indefinite article]]s. A verb is expressed with its [[Root (linguistics)|verbal root]] followed by [[suffix]]es marking [[Grammatical aspect|aspect]] and [[Agreement (linguistics)|agreement]] in what is called a main form, with a possible proceeding [[Auxiliary verb|auxiliary]] form derived from ''to be'', marking [[Grammatical tense|tense]] and [[Grammatical mood|mood]], and also showing agreement. [[Causative]]s (up to double) and passives have morphological basis'.<ref>{{Harvnb|Mistry|2001|pp=276–277}}</ref>
+
+==Sample text==
+[[Image:Gandhi's hut-karadi.jpg|thumb|right|250px|Gujarati sample ([[signboard|Sign]] about [[Gandhi]]'s [[Hut (dwelling)|hut]])]]
+;[[Gujarati script]] —
+
+:ગાંધીજીની ઝૂંપડી-કરાડી
+
+:જગ પ્રસિદ્ધ દાંડી કૂચ પછી ગાંધીજીએ અહીં આંબાના વૃક્ષ નીચે ખજૂરી નાં છટિયાંની એક ઝૂંપડીમાં તા.૧૪-૪-૧૯૩૦ થી તા.૪-૫-૧૯૩૦ સુધી નિવાસ કર્યો હતો. દાંડીમાં છઠ્ઠી એપ્રિલે શરૂ કરેલી નિમક કાનૂન (મીઠાના સત્યાગ્રહ) ભંગની લડતને તેમણે અહીંથી વેગ આપી દેશ વ્યાપી બનાવી હતી. અહીંથી જ તેમણે ધરાસણાના મીઠાના અગરો તરફ કૂચ કરવાનો પોતાનો સંકલ્પ બ્રિટિશ વાઈસરૉયને પત્ર લખીને જણાવ્યો હતો.
+
+:તા.૪થી મે ૧૯૩૦ની રાતના બાર વાગ્યા પછી આ સ્થળેથી બ્રિટિશ સરકારે તેમની ધરપકડ કરી હતી.
+
+;[[Devanagari script]] –
+
+:<big>    गांधीजीनी झूंपडी-कराडी
+
+:जग प्रसिद्ध दांडी कूच पछी गांधीजीए अहीं आंबाना वृक्ष नीचे खजूरीनां छटियांनी एक झूंपडीमां ता.१४-४-१९३०थी ता.४-५-१९३० सुधी निवास कर्यो हतो. दांडीमां छठ्ठी एप्रिले शरू करेली निमक कानून भंगनी लडतने तेमणे अहींथी वेग आपी देश व्यापी बनावी हती. अहींथीज तेमणे धरासणाना मीठाना अगरो तरफ कूच करवानो पोतानो संकल्प ब्रिटिश वाईसरॉयने पत्र लखीने जणाव्यो हतो.
+
+:ता.४थी मे १९३०नी रातना बार वाग्या पछी आ स्थळेथी ब्रिटिश सरकारे तेमनी धरपकड करी हती. </big>
+
+;[[Transliteration]] —
+
+:gāndhījīnī jhū̃pṛī-Karāṛī
+
+:jag prasiddh dāṇḍī kūch pachhī gāndhījīe ahī̃ āmbānā vrukṣh nīche khajūrī nā̃ chaṭiyā̃nī ek jhū̃pṛīmā̃ tā.14-4-1930 thī tā.4-5-1930 sudhī nivās karyo hato. dāṇḍīmā̃ chaṭhṭhī april e śharū karelī nimak kānūn bhaṅgnī laṛatne temṇe ahī̃thī veg āpī deśh vyāpī banāvī hatī. ahī̃thīj temṇe dharāsaṇānā mīṭhānā agaro taraph kūch karvāno potāno saṅkalp briṭiśh vāīsarôyne patra lakhīne jaṇāvyo hato.
+
+:tā.4thī me 1930nī rātnā bār vāgyā pachī ā sthaḷethī briṭiśh sarkāre temnī dharpakaṛ karī hatī.
+
+;[[Phonetic transcription|Transcription]] ([[IPA]]) —
+
+:{{IPA|ɡɑn̪d̪ʱid͡ʒini d͡ʒʱũpɽi-kəɾɑɽi}}
+
+:{{IPA|d͡ʒəɡ pɾəsɪd̪d̪ʱ ɖɑɳɖi kut͡ʃ pət͡ʃʰi ɡɑn̪d̪ʱid͡ʒie ə̤ȷ̃ ɑmbɑnɑ ʋɾʊkʃ nit͡ʃe kʰəd͡ʒuɾnɑ̃ t͡ʃʰəʈijɑ̃ni ek d͡ʒʱũpɽimɑ̃ t̪ɑ _________t̪ʰi t̪ɑ._______ sud̪ʱi niʋɑs kəɾjot̪o. ɖɑɳɖimɑ̃ t͡ʃʰəʈʰʈʰi epɾile ʃəɾu kəɾeli nimək kɑnun bʱəŋɡni ləɽət̪ne t̪ɛmɳe ə̤ȷ̃t̪ʰi ʋeɡ ɑpi deʃ ʋjɑpi bənɑʋit̪i. ə̤ȷ̃t̪ʰid͡ʒ t̪ɛmɳe d̪ʱəɾɑsəɽ̃ɑnɑ miʈʰɑnɑ əɡəɾo t̪əɾəf kut͡ʃ kəɾʋɑno pot̪ɑno səŋkəlp bɾiʈiʃ ʋɑjsəɾɔjne pət̪ɾə ləkʰine d͡ʒəɽ̃ɑʋjot̪o.}}
+
+:{{IPA|t̪ɑ.__t̪ʰi me ____ni ɾɑt̪nɑ bɑɾ ʋɑɡjɑ pət͡ʃʰi ɑ st̪ʰəɭet̪ʰi bɾiʈiʃ səɾkɑɾe t̪ɛmni d̪ʱəɾpəkəɽ kəɾit̪i.}}
+<!-- The underscores must be replaced with accurate transcriptions of the Gujarati number words. You cannot simply put numerals in IPA text! -->
+
+;Simple [[Interlinear gloss|gloss]] —
+
+:gandhiji's hut-karadi
+
+:world famous dandi march after gandhiji here mango's tree under palm date's bark's one hut-in date.14-4-1930-from date.4-5-1930 until residence done was. dandi-in sixth april-at started done salt law break's fight (-to) he here-from speed gave country wide made was. ''here''-from he dharasana's salt's mounds towards march doing's self's resolve british viceroy-to letter written-having notified was.
+
+:date.4-from May 1930's night's twelve struck after this place-at-from British government his arrest done was.
+
+;Transliteration and detailed gloss —
+:{| class="wikitable" style="text-align:center"
+||gāndhījī-n-ī||jhū̃pṛ-ī-Ø||Karāṛī
+|-
+||gandhiji<small>–GEN–FEM</small>||hut<small>–FEM–SG</small>||karadi
+|}
+
+:{| class="wikitable" style="text-align:center"
+||jag||prasiddh||dāṇḍī||kūc||pachī||gāndhījī-e||ahī̃||āmb-ā-Ø-n-ā||vṛkṣ||nīce
+|-
+||world||famous||dandi||march||after||gandhiji<small>–ERG</small>||here||mango<small>–MASC.OBL–SG–GEN–MASC.OBL</small> ||tree||under
+|}
+
+:{| class="wikitable" style="text-align:center"
+||khajūr-ī-Ø-n-ā̃||chaṭiy-ā̃-n-ī||ek||jhū̃pṛ-ī-Ø-mā̃||tā.||14 4 1930thī||tā.||rowspan="2"|4 5 1930||sudhī
+|-
+||palmdate<small>–FEM–SG–GEN–NEUT.OBL</small>||bark<small>–NEUT.PL.OBL–GEN–FEM.OBL</small>||one
+|hut<small>–FEM–SG–</small>in||date||14 4 1930<small>–</small>from||date||until
+|}
+
+:{| class="wikitable" style="text-align:center"
+||nivās||kar-y-o||ha-t-o||rowspan="2"|.||dāṇḍī-mā̃||chaṭhṭhī||epril-e||śarū||kar-el-ī||nimak
+|-
+||residence<small>.MASC.SG.OBJ.NOM</small>||do<small>–PERF–MASC.SG</small>
+|be<small>–PAST–MASC.SG</small>||dandi–in||sixth||April–at||started
+|do<small>–PAST.PTCP–FEM</small>||salt
+|}
+
+:{| class="wikitable" style="text-align:center"
+||kānūn||bhaṅg-n-ī||laṛat-Ø-ne||te-m-ṇe||ahī̃-thī||veg||āp-ī||deś||vyāpī
+|-
+||law||break<small>–GEN–FEM.OBL</small>||fight<small>.FEM.OBJ–SG–ACC</small>
+|<small>3.DIST–HONORIFIC–ERG</small>||here–from||speed<small>–OBJ</small>
+|give<small>–CONJUNCTIVE</small>||country||wide
+|}
+
+:{| class="wikitable" style="text-align:center"
+||ban-āv-Ø-ī||ha-t-ī||rowspan="2"|.||ahī̃-thī-j||te-m-ṇe||dharāsaṇā-n-ā
+|-
+||become<small>–CAUS–PERF–FEM</small>||be<small>–PAST–FEM</small>||here–from<small>–INTENSIFIER</small>
+|<small>3.DIST–HONORIFIC–ERG</small>||dharasana<small>–GEN–MASC.PL</small>
+|}
+
+:{| class="wikitable" style="text-align:center"
+||mīṭh-ā-n-ā||agar-o||taraph||kūc||kar-v-ā-n-o||potā-n-o
+|-
+||salt<small>–NEUT.SG.OBL–GEN–MASC.PL</small>||mound<small>.MASC–PL</small>||towards
+|march<small>.MASC.SG</small>||do<small>–INF–OBL–GEN–MASC.SG</small>
+|<small>REFL–GEN–MASC.SG</small>
+|}
+
+:{| class="wikitable" style="text-align:center"
+||saṅkalp||briṭiś||vāīsarôy-Ø-ne||patra||lakh-īne||jaṇ-āv-y-o||ha-t-o||rowspan="2"|.||tā.
+|-
+||resolve<small>.MASC.SG.OBJ.ACC</small>||British||viceroy<small>.OBJ–SG–DAT</small>
+|letter||write<small>–CONJUNCTIVE</small>||know<small>–CAUS–PERF–MASC.SG</small>
+|be<small>–PAST–MASC.SG</small>||date
+|}
+
+:{| class="wikitable" style="text-align:center"
+||4-thī||me||1930-n-ī||rāt-Ø-n-ā||bār||vāg-y-ā||pachī||ā||sthaḷ-e-thī||briṭiś
+|-
+||4-th||may||1930<small>–GEN–FEM.OBL</small>||night<small>.FEM–SG–GEN–MASC.OBL</small>
+|twelve||strike<small>–PERF–OBL</small>||after||<small>3.PROX</small>
+|place–at–from||British
+|}
+
+:{| class="wikitable" style="text-align:center"
+||sarkār-e||te-m-n-ī||dharpakaṛ||kar-Ø-ī||ha-t-ī||rowspan="2"|.
+|-
+||government<small>–ERG</small>||<small>3.DIST–HONORIFIC–GEN–FEM</small>
+|arrest<small>.FEM.SG.OBJ.ACC</small>||do<small>–PERF–FEM</small>||be<small>–PAST–FEM</small>
+|}
+
+;[[Translation]] —
+
+:Gandhiji's hut-Karadi
+
+:After the world-famous [[Salt Satyagraha|Dandi March]] Gandhiji resided here in a [[date palm]] [[bark]] hut underneath a/the [[mango tree]], from 14-4-1930 to 4-5-1930. From here he gave speed to and spread country-wide the anti-Salt Law struggle, started in Dandi on 6 April. From ''here'', writing in a letter, he notified the British Viceroy of his resolve of marching towards the [[salt]] [[mound]]s of Dharasana.
+
+:The British government arrested him at this location, after twelve o'clock on the night of 4 May 1930.
+
+'''Translation''' (provided at location) —
+
+:Gandhiji's hut-Karadi
+
+:Here under the mango tree in the hut made of palm leaves (khajoori) Gandhiji stayed from 14-4-1930 to 4-5-1930 after the world famous Dandi march. From here he gave impetus to the civil disobedience movement for breaking the salt act started on 6 April at Dandi and turned it into a nationwide movement. It was also from this place that he wrote a letter to the British viceroy expressing his firm resolve to march to the salt works at Dharasana.
+
+:This is the place from where he was arrested by the British government after midnight on 4 May 1930.
+
+==See also==
+* [[Gujarati literature]]
+* [[Gujarati journalism]]
+* [[Lists of Gujarati-language writers]]
+
+== References ==
+{{Reflist|3}}
+
+== Bibliography ==
+{{Further reading cleanup|date=February 2010}}
+
+=== Dictionaries ===
+*Belsare, M.B. (1904) ''An etymological Gujarati-English Dictionary.''
+*[[Deshpande]], P.G. (1974) ''Gujarati-English Dictionary.'' Ahmadabad: University Granth Nirman Board.
+*Deshpande, P.G. (1982) ''Modern English-Gujarati Dictionary.'' Bombay: [[Oxford University Press]].
+*Deshpande, P.G. & Parnwell, E.C. (1977) ''Oxford Picture Dictionary. English-Gujarati.'' Oxford University Press.
+*Deshpande, P.G. (1988) ''Universal English-Gujarati Dictionary.'' Bombay: Oxford University Press.
+*Mehta, B.N. & Mehta, B.B. (1925) ''The Modern Gujarati-English Dictionary.''
+*{{Citation
+ | last= Platts
+ | first= J.T.
+ | year= 1884
+ | title= A dictionary of Urdu, classical Hindi, and English
+ | place= London
+ | publisher= W. H. Allen & Co
+ | url= http://dsal.uchicago.edu/dictionaries/platts/
+}}.
+*[[Babu Suthar|Suthar, B.]] (2003) [http://ccat.sas.upenn.edu/plc/gujarati/guj-engdictionary.pdf ''Gujarati-English Learner's Dictionary'' (1 Mb)]
+*{{Citation
+ | last= Turner
+ | first= Ralph Lilley
+ | authorlink= Ralph Lilley Turner
+ | year= 1966
+ | title= A Comparative Dictionary of the Indo-Aryan Languages
+ | place= London
+ | publisher= Oxford University Press
+ | url= http://dsal.uchicago.edu/dictionaries/soas/
+}}.
+
+=== Grammars ===
+*{{Citation
+ | last= Cardona
+ | first= George
+ | authorlink= George Cardona
+ | year= 1965
+ | title= A Gujarati Reference Grammar
+ | publisher= University of Pennsylvania Press
+}}.
+*{{Citation
+ | last= Taylor
+ | first= G.P.
+ | year= 1908
+ | title= The Student's Gujarati Grammar
+ | place= New Delhi
+ | publisher= Asian Educational Services
+}}.
+*{{Citation
+ | last= Tisdall
+ | first= W.S.
+ | year= 1892
+ | title= A Simplified Grammar of the Gujarati Language
+ | url= https://archive.org/details/simplifiedgramma00tisdiala
+}}.
+
+===Courses===
+*{{Citation
+ | last= Dave
+ | first= Jagdish
+ | year= 1995
+ | title= Colloquial Gujarati
+ | publisher= Routledge
+ | edition= 2004
+ | isbn= 0-415-09196-9
+}}.
+*{{Citation
+ | last= [[Gujarati Literary Academy]] UK
+ | first=
+ | year= 1985
+ | title= Text Books 1 to 5
+ | publisher= Navabharat Sahitya Mandir Mumbai
+ | edition= 1985
+ }}.
+*{{Citation
+ | last= Dwyer
+ | first= Rachel
+ | year= 1995
+ | title= Teach Yourself Gujarati
+ | place= London
+ | publisher= Hodder and Stoughton
+ | url= http://www.racheldwyer.com/publications.html
+}}.
+*{{Citation
+ | last= Lambert
+ | first= H.M.
+ | year= 1971
+ | title= Gujarati Language Course
+ | publisher= Cambridge University Press
+}}.
+
+=== Phonology ===
+*{{Citation
+ | last= Dave
+ | first= T.N.
+ | title= Notes on Gujarati Phonology
+ | journal= Bulletin of the School of Oriental Studies
+ |volume= 6
+ |issue= 3
+ | year= 1931
+ | pages= 673–678
+ | url= http://links.jstor.org/sici?sici=1356-1898%281931%296%3A3%3C673%3ANOGP%3E2.0.CO%3B2-W
+ | doi=10.1017/S0041977X00093174
+ }}.
+*{{Citation
+ | last= Firth
+ | first= J.R.
+ | title= Phonetic Observations on Gujarati
+ | journal= Bulletin of the School of Oriental and African Studies
+ |volume= 20
+ |issue= 1
+ | year= 1957
+ | pages= 231–241
+ | url= http://links.jstor.org/sici?sici=0041-977X%281957%2920%3A1%2F3%3C231%3APOOG%3E2.0.CO%3B2-P
+ | doi=10.1017/S0041977X00061802
+ }}.
+*{{Citation
+ | last= Mistry
+ | first= P.J.
+ | year= 1997
+ | chapter= Gujarati Phonology
+ | editor-last= Kaye
+ | editor-first= A.S.
+ | title= Phonologies of Asia and Africa
+ | place= Winona Lake
+ | publisher= Eisenbrauns
+}}.
+*{{Citation
+ | last= Pandit
+ | first= P.B.
+ | title= Historical Phonology of Gujarati Vowels
+ | journal= Language
+ |volume= 37
+ |issue= 1
+ | year= 1961
+ | pages= 54–66
+ | url= http://links.jstor.org/sici?sici=0097-8507%28196101%2F03%2937%3A1%3C54%3AHPOGV%3E2.0.CO%3B2-R
+ | doi=10.2307/411249
+ }}.
+*{{Citation
+ | last= Turner
+ | first= Ralph Lilley
+ | title= Gujarati Phonology
+ | journal= Journal of the [[Royal Asiatic Society]]
+ | year= 1921
+ | pages= 505–544
+ }}.
+*{{Citation
+ | last= Turner
+ | first= Ralph Lilley
+ | title= Indo-Aryan Nasals in Gujarati
+ | journal= Journal of the Royal Asiatic Society
+ | year= 1915
+ | pages= 1033–1038
+ }}.
+
+===Overviews===
+*{{Citation
+ | last1= Cardona
+ | first1= George
+ | year= 2003
+ | authorlink1= George Cardona
+ | last2= Suthar
+ | first2= Babu
+ | authorlink2= Babu Suthar
+ | chapter= Gujarati
+ | url= https://books.google.com/books?id=jPR2OlbTbdkC&pg=PA659&dq=indo-aryan+languages| editor1-last= Cardona
+ | editor1-first= George
+ | editor2-last= Jain
+ | editor2-first= Dhanesh
+ | title= The Indo-Aryan Languages
+ | publisher= Routledge
+ | isbn= 978-0-415-77294-5
+}}.
+*{{Citation
+ | last= Dalby
+ | first= Andrew
+ | authorlink= Andrew Dalby
+ | year= 1998
+ | chapter= Gujarati
+ | title= Dictionary of languages: the definitive reference to more than 400 languages
+ | place= New York
+ | publisher= Columbia University Press
+ | isbn= 0-231-11568-7
+}}.
+*{{Citation
+ | last= Mistry
+ | first= P.J.
+ | year= 2003
+ | chapter= Gujarati
+ | editor-last= Frawley
+ | editor-first= William
+ | title= International Encyclopedia of Linguistics
+ | edition= 2nd
+ | place= Oxford
+ | publisher= Oxford University Press
+ |volume= 2
+}}.
+*{{Citation
+ | last= Mistry
+ | first= P.J.
+ | year= 2001
+ | chapter= Gujarati
+ | editor1-last= Garry
+ | editor1-first= Jane
+ | editor2-last= Rubino
+ | editor2-first= Carl
+ | title= An encyclopedia of the world's major languages, past and present
+ | publisher= New England Publishing Associates
+}}.
+
+=== Old Gujarati ===
+*Bender, E. (1992) ''The Salibhadra-Dhanna-Carita: A Work in Old Gujarati Critically Edited and Translated, with a Grammatical Analysis and Glossary''. [[American Oriental Society]]: New Haven, Conn. ISBN 0-940490-73-0
+*{{Citation
+ | last= Brown
+ | first= W.N.
+ | title= An Old Gujarati Text of the Kalaka Story
+ | journal= Journal of the American Oriental Society
+ |volume= 58
+ |issue= 1
+ | year= 1938
+ | pages= 5–29
+ | url= http://links.jstor.org/sici?sici=0003-0279%28193803%2958%3A1%3C5%3AAOGTOT%3E2.0.CO%3B2-6
+ | doi= 10.2307/594192
+ }}.
+*Dave, T.N. (1935) ''A Study of the Gujarati Language in the XVth Century''. The Royal Asiatic Society. ISBN 0-947593-30-6
+*Tessitori, L.P. (1914–1916) "Notes on the Grammar of Old Western Rajasthani." ''Indian Antiquary''. 43–45.
+
+=== Other ===
+*{{Citation
+ | last= Gajendragadkar
+ | first= S.N.
+ | year= 1972
+ | title= Parsi Gujarati
+ | place= Bombay
+ | publisher= University of Bombay
+}}.
+*{{Citation
+ | last= Masica
+ | first= Colin
+ | authorlink= Colin Masica
+ | year= 1991
+ | title= The Indo-Aryan Languages
+ | place= Cambridge
+ | publisher= Cambridge University Press
+ | isbn= 978-0-521-29944-2
+ | url= https://books.google.com/books?id=J3RSHWePhXwC&printsec=frontcover&dq=indo-aryan+languages
+}}.
+*{{Citation
+ | last= Mistry
+ | first= P.J.
+ | year= 1996
+ | chapter= Gujarati Writing
+ | editor1-last= Daniels
+ | editor2-last= Bright
+ | title= The World's Writing Systems
+ | publisher= Oxford University Press
+}}.
+
+== External links ==
+{{InterWiki|code=gu}}
+{{Wikibooks|Gujarati}}
+{{Wikivoyage|Gujarati phrasebook|Gujarati|a phrasebook}}
+*[http://www.gujaratilexicon.com Gujarati Online Dictionary & Language Resources]
+*[http://lmp.ucla.edu/Profile.aspx?menu=004&LangID=85 UCLA Language Materials Project: Gujarati]
+*[http://gu.wiktionary.org Gujarati Wiktionary]
+*[http://www.ciil-ebooks.net/html/bbjgujarati/contents.html Bharatiya Bhasha Jyoti: Gujarati] —a textbook for learning Gujarati through Hindi from the [[Central Institute of Indian Languages]].
+*[http://www.bdword.com/english-to-gujarati-dictionary- English to Gujarati Dictionary]
+
+{{Gujarati language}}
+{{Gujarat}}
+{{Languages of India}}
+{{Languages of Pakistan}}
+{{Indo-Iranian languages}}
+{{Portal bar|Languages|India}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gujarati Language}}
+[[Category:Gujarati language| ]]
+[[Category:Gujarati literature]]
+[[Category:Indo-Aryan languages]]
+[[Category:Subject–object–verb languages]]
+[[Category:Official languages of India]]
+[[Category:Languages of Canada]]
+[[Category:Languages of Kenya]]
+[[Category:Languages of Pakistan]]
+[[Category:Languages of Tanzania]]
+[[Category:Languages of Uganda]]
+[[Category:Languages of the United Kingdom]]
+[[Category:Languages of the United States]]

@@ -1,0 +1,1079 @@
+Arabic
+
+{{About|the general language or language group|the literary standard|Modern Standard Arabic|the various vernaculars|varieties of Arabic|the small family also encompassing the North Arabian languages|Arabic languages}}
+{{Use dmy dates|date=July 2013}}
+{{Infobox language
+|name = Arabic
+|nativename = {{lang|ar|العَرَبِية / 7عربي ,عربى}}<br />''{{transl|ar|ALA|ʻarabiyy / al-ʻarabiyyah}}''
+|pronunciation = {{IPA|/ʕaraˈbijː/}}, {{IPA|/ʔalʕaraˈbijːah/}}
+|image = Arabic albayancalligraphy.svg
+|imagesize = 150px
+|imagecaption = '''{{transl|ar|al-ʿArabiyyah}}''' in written Arabic ([[Naskh (script)|Naskh]] script)
+|states = Countries of the [[Arab League]], minorities in neighboring countries [[Eritrea]], [[Mali]], [[Niger]], [[Kenya]], [[Chad]], [[Senegal]], [[South Sudan]], [[Ethiopia]], [[Iranian Arabic|Iran]], [[Madagascar]], [[Tanzania]], [[Mozambique]] etc.
+|speakers = {{sigfig|293|2}} million
+|date = 2010
+|ref = ne2010
+|familycolor = Afro-Asiatic
+|fam2 = [[Semitic languages|Semitic]]
+|fam3 = [[Central Semitic languages|Central Semitic]]
+|fam4 = [[Arabic languages]]
+|stand1 = [[Modern Standard Arabic]]
+|dia1 = [[Maghrebi Arabic|Western (Maghrebi)]]
+|dia2 = [[Varieties of Arabic#Central varieties|Central]] (incl. [[Egyptian Arabic|Egyptian]], [[Sudanese Arabic|Sudanese]])
+|dia3 = [[Varieties of Arabic#Northern varieties|Northern]] (incl. [[Levantine Arabic|Levantine]], [[Mesopotamian Arabic|Mesopotamian]])
+|dia4 = [[Peninsular Arabic|Peninsular]] ([[Gulf Arabic|Gulf]], [[Hejazi Arabic|Hejazi]], [[Najdi Arabic|Najdi]], [[Yemeni Arabic|Yemeni]])
+|script = [[Arabic alphabet]]<br>[[Arabic Braille]]<br>[[Syriac alphabet]] ([[Garshuni]])<br>[[Hebrew alphabet]] ([[Judeo-Arabic languages]])<br>[[Greek alphabet]] ([[Cypriot Maronite Arabic]])<br>[[Latin script]] ([[Maltese language|Maltese]], [[Lebanese Arabic dialect|Lebanese Arabic]], [[Tunisian Arabic]])
+|sign = Signed Arabic (national forms)
+|nation = [[Modern Standard Arabic]] is an official language of [[List of countries where Arabic is an official language|28 states]], the third most after English and French<ref>{{Harvcoltxt|Wright|2001|p=492}}</ref>{{collapsible list
+|[[Algeria]]<br>[[Bahrain]]<br>[[Comoros]]<br>[[Chad]]<br>[[Djibouti]]<br>[[Egypt]]<br>[[Eritrea]]<br>[[Iraq]]<br>[[Israel]]<br>[[Jordan]]<br>[[Kuwait]]<br>[[Lebanon]]<br>[[Libya]]<br>[[Mali]] ([[National language|national status]])<br>[[Mauritania]]<br>[[Morocco]]<br>[[Niger]] ([[National language|national status]])<br>[[Oman]]<br>[[State of Palestine|Palestine]]<br>[[Qatar]]<br>[[Sahrawi Arab Democratic Republic|SADR]]<br>[[Saudi Arabia]]<br>[[Senegal]] ([[National language|national status]])<br>[[Somalia]]<br>[[South Sudan]] ([[National language|national status]])<br>[[Sudan]]<br>[[Syria]]<br>[[Tunisia]]<br>[[United Arab Emirates]]<br>[[Yemen]]<br>[[African Union]]<br>[[Arab League]]<br>[[Organisation of Islamic Cooperation (OIC)|Organisation of Islamic Cooperation]]<br>[[United Nations]]}}
+|agency = {{collapsible list
+|[[File:Blank.png|26px|link=]] [[Arabic Language International Council]]<br>
+[[Algeria]]: [[Supreme Council of the Arabic language in Algeria]]<br>
+[[Egypt]]: [[Academy of the Arabic Language in Cairo]]<br>
+[[Iraq]]: [[Iraqi Academy of Sciences]]<br>
+[[Jordan]]: [[Jordan Academy of Arabic]]<br>
+[[Libya]]: Academy of the Arabic Language in Jamahiriya<br>
+[[Morocco]]: [[Academy of the Arabic Language in Rabat]]<br>
+[[Saudi Arabia]]: [[Academy of the Arabic Language in Riyadh]]<br>
+[[Somalia]]: [[Academy of the Arabic Language in Mogadishu]]<br>
+[[Sudan]]: [[Academy of the Arabic Language in Khartoum]]<br>
+[[Syria]]: [[Arab Academy of Damascus]] (the oldest)<br>
+[[Tunisia]]: [[Beit Al-Hikma Foundation]]<br>
+[[Israel]]: [[Academy of the Arabic Language in Israel]]}}
+|iso1 = ar
+|iso2 = ara
+|iso3 = ara
+|glotto = arab1395
+|glottorefname= Arabic
+|lingua = 12-AAC 
+|map = Arabic speaking world.svg
+|mapcaption = {{legend|SeaGreen|Arabic is the sole official language}}<br>{{legend|#0053ad|Arabic is an official language}}<br>{{legend|#41a2fc|Arabic is an official language but a minority}}
+|notice = IPA
+}}
+
+{{Contains Arabic text}}
+'''Arabic''' ({{lang-ar|العَرَبِية}}, ''{{transl|ar|ALA|al-ʻarabiyyah}}'' {{IPA-ar|ʔalʕaraˈbijːah||Al arabic.ogg}} or {{lang-ar|عربي ,عربى}} ''{{transl|ar|ALA|ʻarabiyy}}'' {{IPA-ar|ʕaraˈbijː||Arabi.ogg}}) is the [[Classical Arabic]] language of the 6th century and its [[varieties of Arabic|modern descendants]] excluding [[Maltese language|Maltese]]. Arabic is spoken in a wide arc stretching across [[Western Asia]], [[North Africa]], and the [[Horn of Africa]]. Arabic belongs to the [[Semitic languages|Semitic]] branch of the [[Afroasiatic languages|Afroasiatic]] family.
+
+The literary language, called [[Modern Standard Arabic]] or Literary Arabic, is the only official form of Arabic. It is used in most written documents as well as in formal spoken occasions, such as lectures and news broadcasts.
+
+Arabic is a [[Central Semitic language]], closely related to [[Aramaic language|Aramaic]], [[Hebrew language|Hebrew]], [[Ugaritic language|Ugaritic]] and [[Phoenician language|Phoenician]]. Standard Arabic is distinct from and more conservative than all of the spoken varieties, and the two exist in a state known as [[diglossia]], used side-by-side for different societal functions.
+
+Some of the spoken varieties are [[mutual intelligibility|mutually unintelligible]],<ref>"Arabic language." ''Encyclopædia Britannica''. 2009. Encyclopædia Britannica Online. Retrieved on 29 July 2009.</ref> both written and orally, and the varieties as a whole constitute a [[sociolinguistic language]]. This means that on purely linguistic grounds they would likely be considered to constitute more than one language, but are commonly grouped together as a single language for political or religious reasons ([[#Arabic and Islam|see below]]). If considered multiple languages, it is unclear how many languages there would be, as {{citation needed span|the spoken varieties form a [[dialect chain]] with no clear boundaries|date=June 2015}}. If Arabic is considered a single language, it is perhaps spoken by as many as 422 million speakers (native and non-native) in the Arab world,<ref>{{cite web |url= http://www.unesco.org/new/en/unesco/events/prizes-and-celebrations/celebrations/international-days/world-arabic-language-day/ |title= World Arabic Language Day |work= UNESCO |date= 18 December 2014 |accessdate= 12 February 2014}}</ref> making it one of the six most-spoken languages in the world. If considered separate languages, the most-spoken variety would most likely be [[Egyptian Arabic]]<ref>{{e18|arz|Egyptian Arabic}}</ref> with 89 million native speakers<ref>{{Cite web|title = The World Factbook|url = https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html|website = www.cia.gov|accessdate = 2015-09-14}}</ref>—still greater than any other Afroasiatic language. Arabic also is a [[liturgical]] language of 1.6 billion [[Muslims]].<ref name="pewmuslim4">{{cite web |url=http://www.pewforum.org/2011/01/27/the-future-of-the-global-muslim-population |title=Executive Summary |work= Future of the Global Muslim Population |publisher=Pew Research Center |accessdate=22 December 2011}}</ref><ref>{{cite web|url=http://features.pewforum.org/muslim-population/?sort=Pop2030 |title=Table: Muslim Population by Country &#124; Pew Research Center's Religion & Public Life Project |publisher=Features.pewforum.org |date=2011-01-27 |accessdate=2014-05-18}}</ref> It is one of six [[official languages of the United Nations]].<ref>{{cite web|url=http://www.un.org/en/sections/about-un/official-languages/ |title=UN official languages |publisher=Un.org |date= |accessdate=18 October 2015}}</ref>
+
+The modern written language (Modern Standard Arabic) is derived from the language of the [[Quran]] (known as Classical Arabic or Quranic Arabic). It is widely taught in schools and universities, and is used to varying degrees in workplaces, government, and the media. The two formal varieties are grouped together as Literary Arabic, which is the official language of 26 states and the [[liturgical language]] of [[Islam]]. Modern Standard Arabic largely follows the grammatical standards of Quranic Arabic and uses much of the same vocabulary. However, it has discarded some grammatical constructions and vocabulary that no longer have any counterpart in the spoken varieties, and has adopted certain new constructions and vocabulary from the spoken varieties. Much of the new vocabulary is used to denote concepts that have arisen in the post-Quranic era, especially in modern times.
+
+Arabic is the only surviving member of the [[Ancient North Arabian]] dialect group attested in [[History of the Arabic alphabet#Pre-Islamic Arabic inscriptions|pre-Islamic Arabic inscriptions]] dating back to the 4th century.<ref>{{Harvcoltxt|Versteegh|1997|p=33}}</ref><!-- As explained in [[Ancient North Arabian]], Arabic does not belong to this group. See [[Arabic languages]] for visualization. Note the difference between Arabic(from the ethnic group Arabs) and Arabian (the wider term, from the larger geographical region Arabia, the peninsula; this includes Yemen and Oman, where non-Arabic Semitic languages, known as [[Modern South Arabian]], are still spoken), a perennial source of confusion! --> Arabic is written with the Arabic alphabet, which is an [[abjad]] script and is written from [[right-to-left]] although the spoken varieties are sometimes written in [[Arabic chat alphabet|ASCII Latin]] from [[left-to-right]] with no standardized forms.
+
+Arabic has influenced many languages around the globe throughout its history. Some of the most influenced languages are [[Persian language|Persian]], [[Turkish language|Turkish]],  [[Urdu language|Urdu]], [[Kurdish language|Kurdish]], [[Somali language|Somali]], [[Swahili language|Swahili]], [[Bosnian language|Bosnian]], [[Kazakh language|Kazakh]], [[Bengali language|Bengali]], [[Hindi]], [[Malay language|Malay]], [[Indonesian language|Indonesian]], [[Tigrinya language|Tigrinya]], [[Pashto language|Pashto]], [[Punjabi language|Punjabi]], [[Tagalog language|Tagalog]], [[Sindhi language|Sindhi]] and [[Hausa language|Hausa]]. During the [[Middle Ages]], Literary Arabic was a major vehicle of culture in Europe, especially in science, mathematics and philosophy. As a result, many European languages have also [[loanword|borrowed]] many words from it. Many words of Arabic origin are also found in ancient languages like Latin and Greek. Arabic influence, mainly in vocabulary, is seen in [[Romance languages]], particularly [[Arabic influence on the Spanish language|Spanish]], [[Catalan language|Catalan]], [[Galician language|Galician]], [[List of Portuguese words of Arabic origin|Portuguese]], and [[Sicilian language|Sicilian]], owing to both the proximity of Christian European and Muslim Arab civilizations and 800 years of Arabic culture and language in the [[Iberian Peninsula]], referred to in Arabic as [[al-Andalus]].
+
+Arabic has also borrowed words from many languages, including Hebrew, Aramaic, [[Greek language|Greek]], Persian and [[Syriac language|Syriac]] in early centuries, Kurdish in medieval times and contemporary European languages in modern times, mostly English and French.
+
+==History==
+
+=== Pre-Islamic Arabic and Arabic language ===
+{{Main|Old Arabic}}
+Many Semitic languages were spoken in Arabia during antiquity. The first of these languages to share the isoglosses of Arabic dialects are today labelled [[Safaitic]] and [[Hismaic]].<ref name="jallad">{{cite book|last=Al-Jallad|first=Ahmad|title= An Outline of the Grammar of the Safaitic Inscriptions|date=2015|publisher=Brill|location=Leiden}}, 11–14</ref> These were natively written in South Arabian scripts, although some transcriptions into Greek script survive in graffiti.<ref>Al-Jallad, 41-7</ref> Some Safaitic writing was etched into the walls of Pompeii, and in Arabia are recorded Imperial Roman names like Claudius and Titus - implying a first-century CE date, at least for these.<ref>Al-Jallad, 20</ref>
+
+The earliest inscriptions of Arabic in the (northern) Arabic script date CE 512-568.<ref name="bateson54">{{cite book|last=Bateson|first=Mary Catherine|title=Arabic Language Handbook|date=2003|publisher=Georgetown University Press|location=Washington DC|page=54}}</ref> The [[Aramaic alphabet]] was introduced to the Arab people through traders from the Mediterranean Empire, and the Arab people began using the script during the Christian period in the Middle East.<ref name="bateson54"/> From the Aramaic, the script continued to develop through two separate kingdoms in the region: The Nabataean and the Palmyran. The Arabic script that is widely used today developed from the Nabataean Kingdom's writing script.<ref name="bateson55">{{cite book|last=Bateson|first=Mary Catherine|title=Arabic Language Handbook|date=2003|publisher=Georgetown University Press|location=Washington DC|page=55}}</ref> While the [[Nabataean alphabet]] and writing system met a great deal of the needs, it did not provide letters or symbols for /t/, /h/, /g/, /z/ and /d/, which were not represented by Aramaic script.<ref name="bateson55"/> The Aramaic writing system also only provided fifteen letter shapes for 28 consonants.<ref name="bateson55"/> In order to differentiate between consonants that had the same shape, a system of placing dots around the letters developed. It took over 100 years in order to codify these dots around letters (Bateson, 55). Evidence of the development of codified dots is recorded on numerous different codes and tombstones.<ref name="bateson55"/> In the 8th century, the dots were finally codified enough that all texts used dots with the exception of purely decorative writings that were not meant to be read.<ref name="bateson55"/> 
+In addition to the issue of codifying the dots above letters, there was also the issue of how to represent vowel sounds in Arabic script, a language made up of an all-consonants script (an [[abjad]]). During the 7th century a dotting system also developed to mark vowels.<ref name="bateson57">{{cite book|last=Bateson|first=Mary Catherine|title=Arabic Language Handbook|date=2003|publisher=Georgetown University Press|location=Washington DC|page=57}}</ref> Red dots were used to mark vowels while black lines were used to mark consonants. Eventually smaller versions of the letters representing short vowels were placed above consonants in order to indicate that a vowel was present.<ref name="bateson57"/>
+
+===Pre-Islamic poetry and early Islamic literature===
+The oral poetic tradition had been alive and well for centuries in the Arabian Peninsula before it was eventually recorded. Arab poets blossomed in the 6th century AD but their work was not recorded or written down until the 8th or 9th century AD.<ref>{{cite book|last=Holes|first=Clive|title=Modern Arabic: Structures, Functions and Varieties|date=2004|publisher=Georgetown University Press|location=Washington DC|page=3}}</ref> There were linguistic oddities in regards to spelling found throughout the poems. The poems had been recorded, but there were different spelling and pronunciation techniques used by different authors when trying to record a poem that had previously only been recited.<ref>{{cite book|last=Holes|first=Clive|title=Modern Arabic: Structures, Functions and Varieties|date=2004|publisher=Georgetown University Press|location=Washington DC|page=11}}</ref> These differences reflected how different dialects had a large impact on written Arabic and how texts were recorded. To solve this problem, grammarians and scholars asked Bedouins to recite poems in order to hear how they pronounced the poem as their voices were believed to be pure. Consensus was then used to determine the correct pronunciation of a word so that the word could also be spelt correctly.<ref name="holes12">{{cite book|last=Holes|first=Clive|title=Modern Arabic: Structures, Functions and Varieties|date=2004|publisher=Georgetown University Press|location=Washington DC|page=12}}</ref> Eventually, scholars and grammar developed a system for standardizing Classical Arabic so that texts and words would be written in a way that the majority of the population could understand.<ref name="holes12"/>
+Muslims believe that the Quran was revealed to Muhammad in 632 CE.<ref name="autogenerated2006">Beeston, A. F. L.. The Arabic language today. Washington, D.C.: Georgetown University Press, 2006. Print.</ref><ref>{{cite book|last=A.F.L|first=Beeston|title=The Arabic Language Today|date=1970|publisher=Georgetown University Press|location=Washington DC|page=3}}</ref>
+Both a formal and informal version of Arabic existed during the Pre-Islamic Period. The informal dialect was used on coin and tomb inscriptions while the formal variety of Arabic was used on letters and contracts. However, contracts were sometimes written in a mixture of Formal and Informal Arabic, reflecting the large influence dialects had on the written language in Pre-Islamic Arabia.<ref>{{cite book|last=A.F.L|first=Beeston|title=The Arabic Language Today|date=1970|publisher=Georgetown University Press|location=Washington DC|page=4}}</ref>
+
+===The Islamic conquests and Arabic language===
+[[File:Arabian nights manuscript.jpg|thumb|The Galland Manuscript of ''[[One Thousand and One Nights]]'', 14th century]]
+The [[Islamic conquests]] introduced Arabic to new non-Arab regions, such as North Africa, Spain and Persia. As a result, Osmanli, Kurdish, Persian, Urdu, Malay, Berber, Swahili and Hausa all adopted some Arabic alphabet into their writing systems and Arabic adopted 12 letters from others (for example, Persian P CH Zh and Ga). These sounds entered Arabic through loanwords.<ref>Bateson, Mary Catherine. Arabic language handbook. Washington, D.C.: Georgetown University Press, 2003. Print. p. 58</ref> In the 8th century Islamic scholars in Lower Iraq feared the influence that the recently conquered non-Arabs would have on the language and scholars became more conservative and a more standardized Classical Arabic writing system developed.<ref name="autogenerated2006"/> However, non-Arabs had a huge influence on the religious writings at the time since many of the intellectual elite were non-Arab.<ref name="autogenerated2006"/>
+
+===Modern era===
+During the colonial era, the European powers occupying Arab nations actively encouraged the public spread and use of colloquial Arabic dialects and suppressed the use and teaching of classical Arabic. This caused great diversity in dialects throughout the near east, northern Africa, and even eastern European dialects of Arabic like Czech Arabic and Slavo-Anderski Arabic.<ref>John Andrew Morrow, [https://books.google.com/books?id=W6dAAgAAQBAJ&pg=PA257 Islamic Images and Ideas: Essays on Sacred Symbolism], pg. 257. [[Jefferson, North Carolina|Jefferson]]: [[McFarland & Company]], 2013. ISBN 978-1-4766-1288-1</ref> After wiping out a third of the Algerian population between 1830 and 1872 for example, the French then closed all Qur'anic schools and banned public usage of Arabic; Arabic was actually declared a foreign language in 1938 and while about half the population was literate in Arabic at the beginning of French colonization, 90% of the native population was illiterate in both Arabic and French by its end in the 1960s.<ref>John Andrew Morrow, ''Islamic Images and Ideas'', pg. 258.</ref>
+
+== Classical, Modern Standard and spoken Arabic ==
+{{See also|List of Arabic dictionaries}}
+''Arabic'' usually designates one of three main variants: [[Classical Arabic]], [[Modern Standard Arabic]] and [[Varieties of Arabic|''colloquial'' or ''dialectal'' Arabic]]. Classical Arabic is the language found in the [[Quran]], used from the period of [[Pre-Islamic Arabia]] to that of the [[Abbasid Caliphate]]. Theoretically, Classical Arabic is considered normative, according to the syntactic and grammatical norms laid down by classical grammarians (such as [[Sibawayh]]) and the vocabulary defined in classical dictionaries (such as the {{transl|ar|ALA|Lisān al-ʻArab}}). In practice, however, modern authors almost never write in pure Classical Arabic, instead using a [[literary language]] with its own grammatical norms and vocabulary, commonly known as Modern Standard Arabic (MSA).
+
+MSA is the variety used in most current, printed Arabic publications, spoken by some of the Arabic media across [[North Africa]], the [[Horn of Africa]] and the [[Middle East]], and understood by most educated Arabic speakers. "Literary Arabic" and "Standard Arabic" ({{lang|ar|فُصْحَى}} ''{{transl|ar|fuṣḥá}}'') are less strictly defined terms that may refer to Modern Standard Arabic or Classical Arabic.
+
+Some of the differences between Classical Arabic (CA) and Modern Standard Arabic (MSA) are as follows:
+* Certain grammatical constructions of CA that have no counterpart in any modern dialect (e.g., the [[energetic mood]]) are almost never used in Modern Standard Arabic.
+* No modern spoken variety of Arabic has [[Grammatical case|case]] distinctions. As a result, MSA is generally composed without case distinctions in mind, and the proper cases are added after the fact, when necessary. Because most case endings are noted using final short vowels, which are normally left unwritten in the Arabic script, it is unnecessary to determine the proper case of most words. The practical result of this is that MSA, like English and [[Standard Chinese]], is written in a strongly determined word order and alternative orders that were used in CA for emphasis are rare. In addition, because of the lack of case marking in the spoken varieties, most speakers cannot consistently use the correct endings in extemporaneous speech. As a result, spoken MSA tends to drop or regularize the endings except when reading from a prepared text.
+* The numeral system in CA is complex and heavily tied in with the case system. This system is never used in MSA, even in the most formal of circumstances; instead, a significantly simplified system is used, approximating the system of the conservative spoken varieties.
+
+MSA uses much Classical vocabulary (e.g., ''{{transl|ar|ALA|dhahaba}}'' 'to go') that is not present in the spoken varieties. In addition, MSA has borrowed or coined a large number of terms for concepts that did not exist in Quranic times, and MSA continues to evolve.<ref>{{Harvcoltxt|Kaye|1991|p=?}}</ref> Some words have been borrowed from other languages—notice that transliteration mainly indicates spelling and not real pronunciation (e.g., {{lang|ar|فيلم}} ''{{transl|ar|ALA|fīlm}}'' 'film' or {{lang|ar|ديموقراطية}} ''{{transl|ar|ALA|dīmūqrāṭiyyah}}'' 'democracy').
+
+However, the current preference is to avoid direct borrowings, preferring to either use [[loan translation]]s (e.g., {{lang|ar|فرع}} ''{{transl|ar|ALA|farʻ}}'' 'branch', also used for the branch of a company or organization; {{lang|ar|جناح}} ''{{transl|ar|ALA|jināḥ}}'' 'wing', is also used for the wing of an airplane, building, air force, etc.), or to coin new words using forms within existing [[Semitic root|roots]] ({{lang|ar|استماتة}} ''{{transl|ar|istimātah}}'' '[[apoptosis]]', using the root {{lang|ar|موت}} ''m/w/t'' 'death' put into the [[Arabic verbs#Form X|Xth form]], or {{lang|ar|جامعة}} ''{{transl|ar|ALA|jāmiʻah}}'' 'university', based on {{lang|ar|جمع}} ''{{transl|ar|ALA|jamaʻa}}'' 'to gather, unite'; {{lang|ar|جمهورية}} ''{{transl|ar|ALA|jumhūriyyah}}'' 'republic', based on {{lang|ar|جمهور}} ''{{transl|ar|jumhūr}}'' 'multitude'). An earlier tendency was to repurpose older words; that has fallen into disuse (e.g., {{lang|ar|هاتف}} ''{{transl|ar|hātif}}'' 'telephone' < 'invisible caller (in Sufism)'; {{lang|ar|جريدة}} ''{{transl|ar|jarīdah}}'' 'newspaper' < 'palm-leaf stalk').
+
+''Colloquial'' or ''dialectal'' Arabic refers to the many national or regional varieties which constitute the everyday spoken language. Colloquial Arabic has many regional variants; geographically distant varieties usually differ enough to be [[mutual intelligibility|mutually unintelligible]], and some linguists consider them distinct languages.<ref>"Arabic Language." Microsoft Encarta Online Encyclopedia 2009. Retrieved on 29 July 2009.</ref> The varieties are typically unwritten. They are often used in informal spoken media, such as [[soap opera]]s and [[talk show]]s,<ref name=Jenkins>{{Citation |last=Jenkins |first=Orville Boyd |url= http://strategyleader.org/articles/arabicpercent.html |title= Population Analysis of the Arabic Languages |date= 18 March 2000}}</ref> as well as occasionally in certain forms of written media such as poetry and printed advertising.
+
+The only variety of modern Arabic to have acquired official language status is [[Maltese language|Maltese]], which is spoken in (predominately [[Roman Catholic]]) [[Malta]] and written with the [[Maltese alphabet|Latin script]]. It is descended from Classical Arabic through [[Siculo-Arabic]], but is not mutually intelligible with any other variety of Arabic. Most linguists list it as a separate language rather than as a dialect of Arabic. Historically, [[Algerian Arabic]] was taught in [[French Algeria]] under the name ''[[darija]]''.
+[[File:Flag of the Arab League.svg|thumb|left|upright|Flag of the [[Arab League]], used in some cases for the Arabic language.]]
+[[File:Flag of Hejaz 1917.svg|thumb|left|upright|Flag used in some cases for the Arabic language]]
+
+Even during Muhammad's lifetime, there were dialects of spoken Arabic. Muhammad spoke in the dialect of [[Mecca]], in the western [[Arabian peninsula]], and it was in this dialect that the Quran was written down. However, the dialects of the eastern Arabian peninsula were considered the most prestigious at the time, so the language of the Quran was ultimately converted to follow the eastern [[phonology]]. It is this phonology that underlies the modern pronunciation of Classical Arabic. The phonological differences between these two dialects account for some of the complexities of Arabic writing, most notably the writing of the [[glottal stop]] or ''[[hamzah]]'' (which was preserved in the eastern dialects but lost in western speech) and the use of ''{{transl|ar|ALA|alif maqṣūrah}}'' (representing a sound preserved in the western dialects but merged with ''{{transl|ar|ā}}'' in eastern speech).{{citation needed|date=November 2015}}
+
+==Language and dialect==
+The sociolinguistic situation of Arabic in modern times provides a prime example of the linguistic phenomenon of [[diglossia]], which is the normal use of two separate varieties of the same language, usually in different social situations. In the case of Arabic, educated Arabs of any nationality can be assumed to speak both their school-taught Standard Arabic as well as their native, mutually unintelligible "dialects";<ref>Janet C. E. Watson, [https://books.google.com/books?id=4RDIoDAF1e8C&pg=PR19 The Phonology and Morphology of Arabic], Introduction, pg. xix. [[Oxford]]: [[Oxford University Press]], 2007. ISBN 978-0-19-160775-2</ref><ref>[https://books.google.com/books?id=oj5jAMspUfAC&pg=PA10462 Proceedings and Debates of the] [[107th United States Congress]] [[Congressional Record]], pg. 10,462. Washington, D.C.: [[United States Government Printing Office]], 2002.</ref><ref>Shalom Staub, [https://books.google.com/books?id=HPsCHy3nsA8C&pg=PA124 Yemenis in New York City: The Folklore of Ethnicity], pg. 124. [[Philadelphia]]: [[Balch Institute for Ethnic Studies]], 1989. ISBN 978-0-944190-05-0</ref><ref>[[Daniel Newman (academic)|Daniel Newman]], [https://books.google.com/books?id=DEdXz4OVvqMC&pg=PA1 Arabic-English Thematic Lexicon], pg. 1. London: Routledge, 2007. ISBN 978-1-134-10392-8</ref><ref>Rebecca L. Torstrick and Elizabeth Faier, [https://books.google.com/books?id=Jwp6D51NB34C&pg=PA41 Culture and Customs of the Arab Gulf States], pg. 41. [[Santa Barbara, California|Santa Barbara]]: [[ABC-CLIO]], 2009. ISBN 978-0-313-33659-1</ref> these dialects linguistically constitute separate languages which may have dialects of their own.<ref>[[Walter J. Ong]], [https://books.google.com/books?id=JXC217u47tEC&pg=PA32 Interfaces of the Word: Studies in the Evolution of Consciousness and Culture], pg. 32. [[Ithaca, New York|Ithaca]]: [[Cornell University Press]], 2012. ISBN 978-0-8014-6630-4</ref> When educated Arabs of different dialects engage in conversation (for example, a Moroccan speaking with a Lebanese), many speakers [[Code-switching|code-switch]] back and forth between the dialectal and standard varieties of the language, sometimes even within the same sentence. Arabic speakers often improve their familiarity with other dialects via music or film.
+
+The issue of whether Arabic is one language or many languages is politically charged, in the same way it is for the [[varieties of Chinese]], [[Hindi language|Hindi]] and [[Urdu language|Urdu]], [[Serbian language|Serbian]] and [[Croatian language|Croatian]], [[Scots language|Scots]] and English, etc. In contrast to speakers of Hindi and Urdu who claim they cannot understand each other even when they can, speakers of the varieties of Arabic will claim they can all understand each other even when they cannot.<ref>Clive Holes, [https://books.google.com/books?id=8E0Rr1xY4TQC&pg=PA2&dq=arabic+languages+unintelligible&hl=en&sa=X&ei=6AGMU8HGD4ynyATW1YDYCw&ved=0CF0Q6AEwCA#v=onepage&q=arabic%20languages%20unintelligible&f=false Modern Arabic: Structures, Functions, and Varieties], pg. 3. [[Washington, D.C.]]: [[Georgetown University Press]], 2004. ISBN 978-1-58901-022-2</ref> The issue of diglossia between spoken and written language is a significant complicating factor: A single written form, significantly different from any of the spoken varieties learned natively, unites a number of sometimes divergent spoken forms. For political reasons, Arabs mostly assert that they all speak a single language, despite significant issues of mutual incomprehensibility among differing spoken versions.<ref>Nizar Y. Habash,[https://books.google.com/books?id=kRIHCnC74BoC&pg=PA1&dq=arabic+languages+dialects+political&hl=en&sa=X&ei=9xGMU-rDBYajyASWhoDgAw&ved=0CCsQ6AEwADgK#v=onepage&q=arabic%20languages%20dialects%20political&f=false Introduction to Arabic Natural Language Processing], pgs.&nbsp;1–2. [[San Rafael, California|San Rafael]]: Morgan & Claypool Publishers, 2010. ISBN 978-1-59829-795-9</ref>
+
+From a linguistic standpoint, it is often said that the various spoken varieties of Arabic differ among each other collectively about as much as the [[Romance languages]].<ref>Bernard Bate, [https://books.google.com/books?id=8uP7LHS3cDMC&pg=PT38&dq=arabic+languages+mutually+unintelligible&hl=en&sa=X&ei=-AWMU_6OC8GjyAS4_oK4Bg&ved=0CDAQ6AEwAQ#v=onepage&q=arabic%20languages%20mutually%20unintelligible&f=false Tamil Oratory and the Dravidian Aesthetic: Democratic Practice in South India], pgs.&nbsp;14–15. [[New York City|New York]]: [[Columbia University Press]], 2013. ISBN 978-0-231-51940-3</ref> This is an apt comparison in a number of ways. The period of divergence from a single spoken form is similar—perhaps 1500 years for Arabic, 2000 years for the Romance languages. Also, while it is comprehensible to people from the [[Maghreb]], a linguistically innovative variety such as [[Moroccan Arabic]] is essentially incomprehensible to Arabs from the [[Mashriq]], much as French is incomprehensible to Spanish or Italian speakers but relatively easily learned by them. This suggests that the spoken varieties may linguistically be considered separate languages.
+
+== Influence of Arabic on other languages ==
+{{Main|Influence of Arabic on other languages}}
+{{See also|List of Arabic loanwords in English}}
+
+The influence of Arabic has been most important in Islamic countries, because it is the language of the Islamic sacred book, Quran. Arabic is also an important source of vocabulary for languages such as [[Baluchi language|Baluchi]], [[Bengali language|Bengali]], [[Berber languages|Berber]], [[Bosnian language|Bosnian]], [[Catalan language|Catalan]], [[Chechen language|Chechen]], [[Dagestani language|Dagestani]], [[English language|English]], [[French language|French]], [[German language|German]], [[Gujarati language|Gujarati]], [[Hausa language|Hausa]], [[Hindustani language|Hindustani]], [[Italian language|Italian]], [[Indonesian language|Indonesian]], [[Kazakh language|Kazakh]], [[Kurdish language|Kurdish]], [[Kutchi Language|Kutchi]], [[Malay language|Malay]], [[Malayalam]], [[Pashto language|Pashto]], [[Persian language|Persian]], [[Portuguese language|Portuguese]], [[Punjabi language|Punjabi]], [[Rohingya language|Rohingya]], [[Saraiki language|Saraiki]], [[Sicilian language|Sicilian]], [[Sindhi language|Sindhi]], [[Somali language|Somali]], [[Spanish language|Spanish]], [[Swahili language|Swahili]], [[Tagalog language|Tagalog]], [[Turkish language|Turkish]], [[Urdu]], [[Uzbek language|Uzbek]] and [[Wolof language|Wolof]], as well as other languages in countries where these languages are spoken.
+
+In addition, English has many Arabic loanwords, some directly but most through the medium of other Mediterranean languages. Examples of such words include admiral, adobe, alchemy, alcohol, algebra, algorithm, alkaline, almanac, amber, arsenal, assassin, candy, carat, cipher, coffee, cotton, ghoul, hazard, jar, kismet, lemon, loofah, magazine, mattress, sherbet, sofa, sumac, tariff and many other words.{{citation needed|date=December 2012}} Other languages such as Maltese<ref>{{cite web |author=EB staff |url=http://www.britannica.com/eb/article-9050379/Maltese-language |title=Maltese language – Britannica Online Encyclopedia |publisher=Britannica.com |date= |accessdate=4 May 2010}}</ref> and [[Kinubi]] derive ultimately from Arabic, rather than merely borrowing vocabulary or grammatical rules.
+
+Terms borrowed range from religious terminology (like Berber ''taẓallit'' 'prayer' < [[salat]]) ({{lang|ar|صلاة}} ''{{transl|ar|ṣalāh}}''), academic terms (like [[Uyghur language|Uyghur]] ''mentiq'' 'logic'), economic items (like English ''coffee'') to [[placeholder name|placeholders]] (like Spanish ''fulano'' 'so-and-so') and everyday terms (like Hindustani ''lekin'' 'but', or Spanish ''taza'' meaning 'cup'and ''hasta'' meaning 'until'), and expressions (like Catalan ''a betzef'' 'galore, in quantity'). Most Berber varieties (such as [[Kabyle language|Kabyle]]), along with Swahili, borrow some numbers from Arabic. Most Islamic religious terms are direct borrowings from Arabic, such as {{lang|ar|صلاة}} ''salat'' 'prayer' and {{lang|ar|إمام}} ''imam'' 'prayer leader.'
+
+In languages not directly in contact with the Arab world, Arabic loanwords are often transferred indirectly via other languages rather than being transferred directly from Arabic. For example, most Arabic loanwords in Hindustani entered through Persian though Persian is an [[Indo-Iranian languages|Indo-Iranian language]]. Older Arabic loanwords in Hausa were borrowed from [[Kanuri language|Kanuri]].
+
+Some words in English and other European languages are derived from Arabic, often through other European languages, especially Spanish and Italian. Among them are commonly used words like "[[coffee]]" ({{lang|ar|قهوة}} ''qahwah''), "[[cotton]]" ({{lang|ar|قطن}} ''{{transl|ar|quṭn}}'') and "magazine" ({{lang|ar|مخازن}} ''[[makhzen|{{transl|ar|ALA|makhāzin}}]]''). English words more recognizably of Arabic origin include "[[algebra]]", "[[alcohol]]", "[[alchemy]]", "[[alkali]]", "[[zenith]]," and "[[nadir]]".
+
+Arabic words also made their way into several West African languages as Islam spread across the Sahara. Variants of Arabic words such as {{lang|ar|كتاب}} ''kitāb'' (book) have spread to the languages of African groups who had no direct contact with Arab traders.<ref>{{Harvcoltxt|Gregersen|1977|p=237}}</ref>
+
+As, throughout the Islamic world, Arabic occupied a position similar to that of Latin in Europe, many of the Arabic concepts in the field of science, philosophy, commerce etc. were coined from Arabic roots by non-native Arabic speakers, notably by Aramaic and Persian translators, and then found their way into other languages. This process of using Arabic roots, especially in Kurdish and Persian, to translate foreign concepts continued right until the 18th and 19th century, when swaths of Arab-inhabited lands were under [[Ottoman Empire|Ottoman]] rule.
+
+==Influence of other languages on Arabic==
+The most important sources of borrowings into (pre-Islamic) Arabic are from the related (Semitic) languages [[Aramaic language|Aramaic]],<ref>See the seminal study by Siegmund Fraenkel, ''Die aramäischen Fremdwörter im Arabischen'', Leiden 1886 (repr. 1962)</ref> which used to be the principal, international language of communication throughout the ancient Near and Middle East, [[Ge'ez language|Ethiopic]], and to a lesser degree Hebrew (mainly religious concepts). In addition, many cultural, religious and political terms have entered Arabic from [[Iranian languages]], notably [[Middle Persian]], [[Parthian language|Parthian]], and (Classical) Persian,<ref>See for instance Wilhelm Eilers, "Iranisches Lehngut im Arabischen", ''Actas IV. Congresso des Estudos Árabes et Islâmicos, Coimbra, Lisboa'', Leiden 1971, with earlier references.</ref> and Hellenistic Greek (''kīmiyāʼ'' has as origin the Greek ''khymia'', meaning in that language the melting of metals; see Roger Dachez, ''Histoire de la Médecine de l'Antiquité au XXe siècle'', Tallandier, 2008, p.&nbsp;251), ''alembic'' (distiller) from ''ambix'' (cup), ''almanac'' (climate) from ''almenichiakon'' (calendar). (For the origin of the last three borrowed words, see Alfred-Louis de Prémare, ''Foundations of Islam'', Seuil, L'Univers Historique, 2002.) Some Arabic borrowings from Semitic or Persian languages are, as presented in De Prémare's above-cited book:
+
+* ''madīnah''/[[medina]] (مدينة, city or city square), a word of Aramaic or Hebrew origin מדינה;
+* ''jazīrah'' (جزيرة), as in the well-known form الجزيرة "Al-Jazeera," means "island" and has its origin in the Syriac ܓܙܝܪܗ ''gazīra''.
+* ''lāzaward'' (لازورد) is taken from Persian لاژورد ''lājvard'', the name of a blue stone, lapis lazuli. This word was borrowed in several European languages to mean (light) blue - azure in English, ''azur'' in French and ''azul'' in Spanish.
+
+==Arabic alphabet and nationalism==
+
+There have been many instances of national movements to convert Arabic script into Latin script or to Romanize the language.
+
+===Lebanon===
+The Beirut newspaper ''La Syrie'' pushed for the change from Arabic script to Latin script in 1922. The major head of this movement was [[Louis Massignon]], a French Orientalist, who brought his concern before the Arabic Language Academy in Damacus in 1928. Massignon's attempt at Romanization failed as the Academy and population viewed the proposal as an attempt from the Western world to take over their country. [[Sa'id al-Afghani|Sa'id Afghani]], a member of the Academy, mentioned that the movement to Romanize the script was a [[Zionism|Zionist]] plan to dominate Lebanon.<ref name="shrivtiel179">{{cite book|last=Shrivtiel|first=Shraybom|title=The Question of Romanisation of the Script and The Emergence of Nationalism in the Middle East|date=1998|publisher=Mediterranean Language Review|pages=179–196}}</ref><ref name="shirvtiel188">Shrivtiel, p. 188</ref>
+
+===Egypt===
+After the period of colonialism in Egypt, Egyptians were looking for a way to reclaim and re-emphasize Egyptian culture. As a result, some Egyptians pushed for an Egyptianization of the Arabic language in which the formal Arabic and the colloquial Arabic would be combined into one language and the Latin alphabet would be used.<ref name="shrivtiel179"/><ref name="shirvtiel188"/>  There was also the idea of finding a way to use [[Hieroglyphics]] instead of the Latin alphabet, but this was seen as too complicated to use.<ref name="shrivtiel179"/><ref name="shirvtiel188"/> A scholar, [[Salama Musa]] agreed with the idea of applying a Latin alphabet to Arabic, as he believed that would allow Egypt to have a closer relationship with the West. He also believed that Latin script was key to the success of Egypt as it would allow for more advances in science and technology. This change in script, he believed, would solve the problems inherent with Arabic, such as a lack of written vowels and difficulties writing foreign words that made it difficult for non-native speakers to learn.<ref name="shrivtiel179"/><ref name="shirvtiel188"/> Ahmad Lutfi As Sayid and Muhammad Azmi, two Egyptian intellectuals, agreed with Musa and supported the push for Romanization.<ref name="shrivtiel179"/><ref name="shrivtiel189">Shrivtiel, p. 189</ref> The idea that Romanization was necessary for modernization and growth in Egypt continued with Abd Al Aziz Fahmi in 1944. He was the chairman for the Writing and Grammar Committee for the Arabic Language Academy of Cairo.<ref name="shrivtiel179"/><ref name="shrivtiel189"/> However, this effort failed as the Egyptian people felt a strong cultural tie to the Arabic alphabet.<ref name="shrivtiel179"/><ref name="shrivtiel189"/>  In particular, the older Egyptian generations believed that the Arabic alphabet had strong connections to Arab values and history, which is easy to believe due to the long history of the Arabic alphabet (Shrivtiel, 189).
+
+== Arabic and Islam ==
+Classical Arabic is the language of the [[Qur'an]]. Arabic is closely associated with the religion of [[Islam]] because the Qur'an is written in the language, but it is nevertheless also spoken by [[Arab Christians and Arabic-speaking Christians|Arab Christians]], [[Mizrahi Jews]] and Iraqi [[Mandaean]]s. Most of the world's [[Muslims]] do not speak Arabic as their native language, but many can read the Quranic script and recite the Quran. Among non-Arab Muslims, translations of the Quran are most often accompanied by the original text.
+
+Some Muslims present a [[Proto-Human language|monogenesis]] of languages and claim that the Arabic language was the language revealed by God for the benefit of mankind and the original language as a prototype system of symbolic communication, based upon its system of triconsonantal roots, spoken by man from which all other languages were derived, having first been corrupted.<ref>{{cite web|url=http://www.alislam.org/topics/arabic/ |title=Arabic – the mother of all languages – Al Islam Online |publisher=Alislam.org |date= |accessdate=4 May 2010| archiveurl= https://web.archive.org/web/20100430215148/http://www.alislam.org/topics/arabic/| archivedate= 30 April 2010 <!--DASHBot-->| deadurl= no}}</ref><ref name="meforum">{{cite web |last=Coffman |first=James |url=http://www.meforum.org/article/276|title=Does the Arabic Language Encourage Radical Islam?|accessdate=5 December 2008|publisher=Middle East Quarterly|date=December 1995}}</ref> [[Judaism]] has a similar account with the [[Tower of Babel]].
+
+== External history ==
+{{See also|History of the Arabic alphabet#Pre-Islamic Arabic inscriptions|l1=Pre-Islamic Arabic inscriptions}}
+[[File:Semitic languages.svg|thumb|300px|Arabic languages (''brown'') within Semitic languages.]]
+
+Among the earliest surviving texts in [[Ancient North Arabian]], a group of languages closely related to but not a direct predecessor of Arabic, are the [[Hasaitic dialect|Hasaean]] inscriptions of in eastern Arabia, from about the 4th century BC, written not in the modern Arabic alphabet, nor in its [[Nabataean language|Nabataean]] ancestor, but in variants of the [[epigraphic]] South Arabian ''[[South Arabian alphabet|musnad]]''. More numerous are the 6th-century BC [[Lihyanite]] texts from southeastern Arabia and the [[Thamudic]] texts found throughout Arabia and the [[Sinai]], and not actually connected with [[Thamud]].
+
+Classical Arabic co-existed with the Old North Arabian languages. In the 5th century BC, [[Herodotus]] ([[Histories (Herodotus)|''Histories'']] I,131; III,8) quotes the epithet of a goddess in its preclassical Arabic form as [[Al-lāt|''Alilat'']] (Ἀλιλάτ, i.&nbsp;e.,''ʼal-ʼilat''), which means "the goddess".<ref>Woodard, Roger D. Ancient Languages of Syria-Palestine and Arabia. p 208</ref> Apart from this isolated [[theonym]], Arabic is first attested in an inscription in [[Qaryat al-Fāw]] (formerly Qaryat Dhat Kahil, near [[Sulayyil]], [[Saudi Arabia]]) in the 1st century BC.<ref name="Woodard, Roger D p 180">Woodard, Roger D. (2008), ''Ancient Languages of Syria-Palestine and Arabia''. p. 180</ref><ref>M. C. A. Macdonald, "Reflections on the Linguistic Map of Pre-Islamic Arabia", Arabian Archaeology and Epigraphy, 2000, Volume 11, p. 50 and 61</ref> Later come the Safaitic and Hismaic inscriptions beginning in the 1st century AD (in the South Arabian script) and the many Arabic personal names attested in [[Nabataean]] inscriptions (which inscriptions are, however, Aramaic).
+
+The oldest inscription in Classical Arabic known in 1985 goes back to 328 AD and is known as the [[Namara inscription|{{transl|ar|Namārah}} inscription]], written in the Nabataean alphabet and named after the place where it was found in southern [[Syria]] in April 1901.<ref>{{cite journal |last=Bellamy |first=James A. |title= A New Reading of the Namārah Inscription |year= 1985 |journal= Journal of the American Oriental Society |volume= 105 |issue= 1 |pages= 31–51 |publisher= American Oriental Society |doi= 10.2307/601538 |jstor= 601538 |ref= harv}}</ref>
+By the fourth century AD, the Arab kingdoms of the [[Lakhmids]] in southern [[Iraq]] and the [[Ghassanids]] in southern Syria appeared. The [[Kindite]] Kingdom emerged in Central Arabia. Their courts were responsible for some notable examples of pre-Islamic Arabic poetry and for some of the few surviving pre-Islamic Arabic inscriptions in the Arabic script.<ref>{{cite web|url=http://linguistics.byu.edu/classes/ling450ch/reports/arabic.html |title=A History of the Arabic Language |publisher=Linguistics.byu.edu |date= |accessdate=4 May 2010| archiveurl= https://web.archive.org/web/20100505134209/http://linguistics.byu.edu/classes/ling450ch/reports/arabic.html| archivedate= 5 May 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+== Internal history ==
+[[File:Bilingual traffic sign qatar.jpg|thumb|[[Bilingual]] traffic sign in [[Qatar]].]]
+The [[Semitic languages]] changed a great deal between [[Proto-Semitic]] and the establishment of the [[Central Semitic languages]], particularly in terms of grammar. Innovations of the Central Semitic languages—all maintained in Classical Arabic—include
+* The conversion of the suffix-conjugated stative formation into a past tense.
+* The conversion of the prefix-conjugated preterite-tense formation into a present tense.
+* The elimination of other prefix-conjugated mood/aspect forms (e.g., a present tense formed by doubling the middle root, a perfect formed by infixing a /t/ after the first root consonant, probably a jussive formed by a stress shift) in favor of new moods formed by endings attached to the prefix-conjugation forms (e.g., ''-u'' for indicative, ''-a'' for subjunctive, no ending for jussive, ''-an'' or ''-anna'' for energetic).
+* The development of an internal passive.
+
+===Phonological history===
+Of the 29 Proto-Semitic consonants, only one has been lost: {{IPA|*/ʒ/}},{{clarify|reason=This sound is not given in the article on Proto-Semitic. Is it from an alternative formulation of the PS phonological system?|date=April 2015}} which merged with {{IPA|/ʃ/}}.<ref>{{Harvcoltxt|Lipinski|1997|p=124}}</ref> But the consonant {{IPA|*/ʒ/}} is still found in many colloquial Arabic dialects. Various other consonants have changed their sound too, but have remained distinct. An original {{IPA|*/p/}} lenited to {{IPA|/f/}}, and {{IPA|*/ɡ/}} - consistently attested in pre-Islamic Greek transcription of Arabic languages<ref>Al-Jallad, 42</ref> - became palatalized to {{IPA|/ɡʲ/}} or {{IPA|/ɟ/}} by the time of the Quran and {{IPAslink|d͡ʒ}}, {{IPAslink|ɡ}}, {{IPAslink|ʒ}} or {{IPA|/ɟ/}} in MSA (see [[Arabic phonology#Local variations]] for more detail).<ref>{{Harvcoltxt|Watson|2002|pp=5, 15–16}}</ref>  An original [[voiceless alveolar lateral fricative]] {{IPA|*/ɬ/}} became {{IPA|/ʃ/}}.<ref name="Harvcoltxt|Watson|2002|p=2">{{Harvcoltxt|Watson|2002|p=2}}</ref> Its [[emphatic consonant|emphatic]] counterpart {{IPA|/ɬˠ~ɮˤ/}} was considered by Arabs to be the most unusual sound in Arabic (Hence the Classical Arabic's appellation ''{{transl|ar|ALA|lughat al-ḍād}}'' or "language of the {{transl|ar|ALA|ḍād}}"); for most modern dialects, it has become an emphatic stop {{IPA|/dˤ/}} with loss of the laterality<ref name="Harvcoltxt|Watson|2002|p=2" /> or with complete loss of any pharyngealization or velarization, {{IPA|/d/}}. (The classical ''{{transl|ar|ALA|ḍād}}'' pronunciation of [[pharyngealization]] {{IPA|/ɮˤ/}} still occurs in the [[Mehri language]] and the similar sound [[voiced alveolar lateral fricative|without velarization]] exists in other [[Modern South Arabian languages]].)
+
+Other changes may also have happened. Classical Arabic pronunciation is not thoroughly recorded and different [[comparative method (linguistics)|reconstructions]] of the sound system of Proto-Semitic propose different phonetic values. One example is the emphatic consonants, which are pharyngealized in modern pronunciations but may have been velarized in the eighth century and glottalized in Proto-Semitic.<ref name="Harvcoltxt|Watson|2002|p=2"/>
+
+Reduction of {{IPA|/j/}} and {{IPA|/w/}} between vowels occurs in a number of circumstances and is responsible for much of the complexity of third-weak ("defective") verbs. Early Akkadian transcriptions of Arabic names shows that this reduction had not yet occurred as of the early part of the 1st millennium BC.
+
+The Classical Arabic language as recorded was a poetic [[koine]] that reflected a consciously archaizing dialect, chosen based on the tribes of the western part of the [[Arabian Peninsula]], who spoke the most conservative variants of Arabic. Even at the time of Mohammed and before, other dialects existed with many more changes, including the loss of most glottal stops, the loss of case endings, the reduction of the diphthongs {{IPA|/aj/}} and {{IPA|/aw/}} into monophthongs {{IPA|/eː, oː/}}, etc. Most of these changes are present in most or all modern varieties of Arabic.
+
+An interesting feature of the writing system of the Quran (and hence of Classical Arabic) is that it contains certain features of Muhammad's native dialect of Mecca, corrected through diacritics into the forms of standard Classical Arabic. Among these features visible under the corrections are the loss of the glottal stop and a differing development of the reduction of certain final sequences containing {{IPA|/j/}}: Evidently, final {{IPA|/-awa/}} became {{IPA|/aː/}} as in the Classical language, but final {{IPA|/-aja/}} became a different sound, possibly {{IPA|/eː/}} (rather than again {{IPA|/aː/}} in the Classical language). This is the apparent source of the ''alif maqṣūrah'' 'restricted alif' where a final {{IPA|/-aja/}} is reconstructed: a letter that would normally indicate {{IPA|/j/}} or some similar high-vowel sound, but is taken in this context to be a logical variant of ''alif'' and represent the sound {{IPA|/aː/}}.
+
+== Dialects and descendants ==
+[[File:Arabic Dialects.svg|thumb|left|300px|Different dialects of Arabic.]]
+{{Main|Varieties of Arabic}}
+''Colloquial Arabic'' is a collective term for the spoken varieties of Arabic used throughout the [[Arab world]], which differ radically from the literary language. The main dialectal division is between the varieties within and outside of the Arabian peninsula, followed by that between [[Varieties of Arabic#Sedentary vs. Bedouin|sedentary]] varieties and the much more conservative [[Bedouin]] varieties. All of the varieties outside of the Arabian peninsula (which include the large majority of speakers) have a large number of features in common with each other that are not found in Classical Arabic. This has led researchers to postulate the existence of a prestige koine dialect in the one or two centuries immediately following the Arab conquest, whose features eventually spread to all of the newly conquered areas. (These features are present to varying degrees inside the Arabian peninsula. Generally, the Arabian peninsula varieties have much more diversity than the non-peninsula varieties, but have been understudied.)
+
+Within the non-peninsula varieties, the largest difference is between the non-Egyptian [[Maghrebi Arabic|North African dialects]] (especially Moroccan Arabic) and the others. Moroccan Arabic in particular is hardly comprehensible to Arabic speakers east of [[Libya]] (although the converse is not true, in part due to the popularity of Egyptian films and other media).
+
+One factor in the differentiation of the dialects is influence from the languages previously spoken in the areas, which have typically provided a significant number of new words and have sometimes also influenced pronunciation or word order; however, a much more significant factor for most dialects is, as among Romance languages, retention (or change of meaning) of different classical forms. Thus Iraqi ''aku'', Levantine ''fīh'' and North African ''kayən'' all mean 'there is', and all come from Classical Arabic forms (''yakūn'', ''fīhi'', ''kā'in'' respectively), but now sound very different.
+
+===Examples===
+Transcription is a [[broad transcription|broad IPA transcription]], so minor differences were ignored for easier comparison.
+
+{| class=wikitable
+|-
+! Variety
+! I love reading a lot
+! When I went to the library
+! I didn't find this old book
+! I wanted to read a book about the history of women in France
+|-
+! Literary Arabic in Arabic script<br><small>(dialects are written in other non-standardized spellings)</small>
+|<span style="font-size:large;line-height:145%">{{script/Arabic|أنا أحبّ القراءة كثيراً}}</span>
+|<span style="font-size:large;line-height:145%">{{script/Arabic|عندما ذهبت إلى المكتبة}}</span>
+|<span style="font-size:large;line-height:145%">{{script/Arabic|لم أجد هٰذا الكتاب القديم}}</span>
+|<span style="font-size:large;line-height:145%">{{script/Arabic|كنت أردت أن أقرأ كتاباً عن تاريخ المرأة  في فرنسا}}</span>
+|-
+! [[Classical Arabic]]<br>(liturgical or poetic only)
+| {{transl|ar|ʔanaː ʔuħibːu l-qiraːʔata kaθiːraː}}
+| {{transl|ar|ʕindamaː ðahabtu ʔilaː l-maktabah}}
+| {{transl|ar|lam ʔaɟidu haːðaː l-kitaːba l-qadiːm}}
+| {{transl|ar||kuntu ʔaradtu ʔan ʔaqraʔa kitaːban ʕan taːriːxi l-marʔati fiː faransaː}}
+|-
+! [[Modern Standard Arabic]]
+| {{transl|ar|ʔana(ː) ʔuħibb al-qiraːʔa kaθiːran}}
+| {{transl|ar|ʕindama(ː) ðahabtu ʔilaː l-maktaba}}
+| {{transl|ar|lam ʔaɟid haːða(ː) l-kitaːb al-qadiːm}}
+| {{transl|ar|kuntu ʔaradtu ʔan ʔaqraʔ kitaːb ʕan taːriːx al-marʔa fiː faransa(ː)}}
+|-
+! [[Yemeni Arabic]] (Sanaa)
+| {{transl|ayn|ˈʔana bajn aˈħibb el-geˈraːje ˈgawi}}
+| {{transl|ayn|ˈlaw ma ˈsert saˈla: el-ˈmaktabe}}
+| {{transl|ayn|ma leˈge:t-ʃ ˈðajje al-keˈtaːb el-gaˈdiːm }}
+| {{transl|ayn|kont ˈaʃti ˈʔagra keˈtaːb ʕan taˈriːx al-ˈmare wastˤ faˈraːnsa}}
+|-
+! [[Kuwaiti Arabic|Gulf Arabic]] (Kuwait) 
+| {{transl|afb|ʔaːna waːyed aħibb aɡraː}}
+| {{transl|afb|lamman reħt al-maktaba}}
+| {{transl|afb|ma liɡeːt hal ketaːb al-ɡadiːm}}
+| {{transl|afb|kent abiː aɡra ketaːb an tariːx el-ħariːm eb fransa}}
+|-
+! [[Mesopotamian Arabic|Gilit Mesopotamian]] (Baghdad?) 
+| {{transl|acm|ˈaːni aˈħibb el-qˈraːja ˈkulliʃ}}
+| {{transl|acm|ˈlamman ˈreħit lel-maktaba}}
+| {{transl|acm|ma liˈɡeːt haːða l-ketaːb al-qadiːm}}
+| {{transl|acm|redet aqra ketaːb ʕan tariːx al-niswan eb-fransa}}
+|-
+! [[Hijazi Arabic]] (Medina)
+| {{transl|acw|ˈana marra aˈħubb al-ɡiraːja}}
+| {{transl|acw|ˈlamma ruħt al-ˈmaktaba}}
+| {{transl|acw|ma liɡiːt haːda l-kitaːb al-ɡadiːm}}
+| {{transl|acw|kunt abɣa aɡra kitaːb ʕan tariːx al-ħariːm fi faransa}}
+|-
+! Western [[Syrian Arabic]] (Damascus)
+| {{transl|apc|ʔana ktiːr b'ħəbb lᵊ-ʔraːje}}
+| {{transl|apc|ˈlamma ˈrəħt ʕal-ˈmaktabe}}
+| {{transl|apc|ma laʔeːt ha-l-ᵊkˈtaːb lᵊ-ʔˈdiːm }}
+| {{transl|apc|kaːn ˈbaddi ʔra ktaːb ʕan taˈriːx ᵊl-ˈmara bᵊ-ˈfraːnsa}}
+|-
+! [[Lebanese Arabic]] (Beyrut?)
+| {{transl|apc|ktiːr bħibb il-ʔiˈreːje}}
+| {{transl|apc|ˈlamma ˈreħit ʕal-ˈmaktabe}}
+| {{transl|apc|ma lʔeːt ha-l-ikˈteːb le-ʔˈdiːm }}
+| {{transl|apc|keːn ˈbaddi ʔra kteːb ʕan teˈriːx il-ˈmara bi-ˈfraːnsa}}
+|-
+! [[Palestinian Arabic|Urban Palestinian]] (Jerusalem)
+| {{transl|ajp|'ʔana ba'ħebb l-ᵊʔ'raːje ktiːr }}
+| {{transl|ajp|ˈlamma ˈruħᵊt ʕal-ˈmaktabe}}
+| {{transl|ajp|ma laˈʔeːtᵊʃ ha-l-ᵊkˈtaːb ᵊl-ʔaˈdiːm }}
+| {{transl|ajp|kaːn ˈbeddi ˈʔɑʔrɑ ktaːb ʕan taˈriːx ᵊl-ˈmɑrɑ fi fˈransa}}
+|-
+! [[Palestinian Arabic|Rural Palestinian]] (West Bank)
+| {{transl|ajp|'ʔana ba'ħebb l-ᵊk'raːje kθiːr }}
+| {{transl|ajp|ˈlamma ˈruħᵊt ʕal-ˈmatʃtabe}}
+| {{transl|ajp|ma laˈkeːtᵊʃ ha-l-ᵊtʃˈtaːb ᵊl-kaˈdiːm }}
+| {{transl|ajp|kaːn ˈbeddi ˈʔɑkrɑ tʃtaːb ʕan taˈriːx ᵊl-ˈmɑrɑ fi fˈransa}}
+|-
+! [[Egyptian Arabic|Egyptian]] (metropolitan)
+| {{transl|arz|ana baħebb el-ʔeraːja ʔawi}}<!--please don't use short i,u because they mislead readers as if Egyptian had short i~ɪ,u~ʊ-->
+| {{transl|arz|ˈlamma ˈroħt el-makˈtaba}}
+| {{transl|arz|ma-lˈʔet-ʃ l-keˈtaːb el-ʔaˈdiːm da}}
+| {{transl|arz|ˈana ˈkont-e ˈʕawz-ˈaʔra kˈtaːb ʕan taˈriːx el-setˈtaːt fe faˈransa}}
+|-
+! [[Libyan Arabic]] (Tripoli?)
+| {{transl|ayl|ana nħəb il-ɡraːja halba}}
+| {{transl|ayl|lamma mʃeːt lil-maktba}}
+| {{transl|ayl|malɡeːtiʃ  ha-li-ktaːb lə-ɡdiːm}}
+| {{transl|ayl|kunt nibi naɡra ktaːb ʔleː tariːx ə-nsawiːn fi fraːnsa}}
+|-
+! [[Tunisian Arabic|Tunisian]] (Tunis)
+| {{transl|aeb|nħɪb lɪqrɑːjæ bɑrʃæ}}
+| {{transl|aeb|wæqtɪlli mʃiːt lɪlmæktbæ }}
+| {{transl|aeb|mæl-qiːtʃ hæ-lɪktɛːb lɪqdiːm}}
+| {{transl|aeb|kʊnt nħɪb næqræ ktɛːb ʕlæ tɛrix lɪmræ fi frɑːnsæ}}
+|-
+! [[Algerian Arabic|Algerian]] (Algiers?)
+| {{transl|ab|eːna nħebb l-qraːja bezzef}}
+| {{transl|ab|ki ruħt l il-maktaba}}
+| {{transl|ab|ma-lqiːt-ʃ ha l-kteːb l-qdiːm}}
+| {{transl|ab|kunt ħaːb naqra kteːb ʕala tariːx l-mra fi fraːnsa}}
+|-
+! [[Moroccan Arabic|Moroccan]] (Rabat?)
+| {{transl|apy|ana ʕziz ʕlija bzzaf nqra}}
+| {{transl|apy|melli mʃit l-lmaktaba}}
+| {{transl|apy|ma-lqiːt-ʃ had l-ktab l-qdim}}
+| {{transl|apy|kent baɣi nqra ktab ʕla tarix l-mra f-fransa}}
+|-
+! [[Maltese language|Maltese]] (Valetta)
+| {{transl|mlt|ɪnħɔpː nɐʔrɐ ħɐfnɐ}}
+| {{transl|mlt|mɛtɐ mɔrt ɪl-lɪbrɛrɪjɐ}}
+| {{transl|mlt|mɐ sɪbtʃ dɐn ɪl-ktiɛp ʔɐdɪm}}
+| {{transl|mlt|rɪdt nɐʔrɐ ktiep dwɐr l-ɪstɔrjɐ tɐl-mɐrɐ fɪ frɐntsɐ}}
+|}
+
+=== Koine ===
+Accordingly, [[Charles A. Ferguson]],<ref>{{citation|first=Charles|last=Ferguson|title=The Arabic Koine|journal=Language|volume=35|year=1959|pages=616–630|issue=4|doi=10.2307/410601}}</ref> the following are some of the characteristic features of the [[Koiné language|koine]] that underlies all of the modern dialects outside the Arabian peninsula. Although many other features are common to most or all of these varieties, Ferguson believes that these features in particular are unlikely to have evolved independently more than once or twice and together suggest the existence of the koine:
+* Loss of the [[dual (grammatical number)]] except on nouns, with consistent plural agreement (cf. feminine singular agreement in plural inanimates).
+* Change of ''a'' to ''i'' in many affixes (e.g., non-past-tense prefixes ''ti- yi- ni-''; ''wi-'' 'and'; ''il-'' 'the'; feminine ''-it'' in the [[construct state]]).
+* Loss of third-weak verbs ending in ''w'' (which merge with verbs ending in ''y'').
+* Reformation of geminate verbs, e.g., ''{{transl|ar|ḥalaltu}}'' 'I untied' → ''{{transl|ar|ḥalēt(u)}}''.
+* Conversion of separate words ''lī'' 'to me', ''laka'' 'to you', etc. into indirect-object [[clitic]] suffixes.
+* Certain changes in the [[cardinal number (linguistics)|cardinal number]] system, e.g., ''{{transl|ar|khamsat ayyām}}'' 'five days' → ''{{transl|ar|kham(a)s tiyyām}}'', where certain words have a special plural with prefixed ''t''.
+* Loss of the feminine [[elative (gradation)|elative]] (comparative).
+* Adjective plurals of the form ''{{transl|ar|kibār}}'' 'big' → ''{{transl|ar|kubār}}''.
+* Change of [[Arabic grammar#Nisba|nisba]] suffix ''{{transl|ar|-iyy}}'' > ''{{transl|ar|i}}''.
+* Certain lexical items, e.g., ''{{transl|ar|jāb}}'' 'bring' < ''{{transl|ar|jāʼa bi-}}'' 'come with'; ''{{transl|ar|shāf}}'' 'see'; ''{{transl|ar|ēsh}}'' 'what' (or similar) < ''{{transl|ar|ayyu shayʼ}}'' 'which thing'; ''{{transl|ar|illi}}'' (relative pronoun).
+* Merger of {{IPA|/ɮˤ/}} and {{IPA|/ðˤ/}}.
+
+=== Dialect groups ===
+* Egyptian Arabic is spoken by around 53 million in [[Egypt]] (55 million worldwide).<ref name="EA">{{cite book | url=http://www.ethnologue.com/language/arz | title=Arabic, Egyptian Spoken | publisher=[[Ethnologue]] | year=2006 | edition=18th}}</ref> It is one of the most understood varieties of Arabic, due in large part to the widespread distribution of Egyptian films and television shows throughout the Arabic-speaking world
+* [[Levantine Arabic]] includes [[North Levantine Arabic]], [[South Levantine Arabic]] and [[Cypriot Arabic]]. It is spoken by about 21 million people in [[Lebanon]], Syria, [[Jordan]], [[Palestinian Territories]], [[Israel]], [[Cyprus]] and [[Turkey]].
+* Maghrebi Arabic, also called "Darija" spoken by about 70 million people in [[Morocco]], [[Algeria]], [[Tunisia]], Libya and Malta. It is very hard to understand for Arabic speakers from the Mashriq or Mesopotamia, the easiest being Libyan Arabic and the hardest Moroccan Arabic and Maltese language (which is close to Tunisian Arabic) . The others such as Algerian Arabic can be considered "in between".
+* Maltese, spoken on the island of Malta, is the only dialect to have established itself as a fully separate language,{{citation needed|date=May 2013}} with independent literary norms. [[Sicilian Arabic]], spoken on the island of [[Sicily]] until the 14th century, developed into Maltese in Malta. In the course of its history the language has adopted numerous loanwords, phonetic and phonological features, and even some grammatical patterns, from Italian, Sicilian and English. It is also the only Semitic language written in the [[Latin script]]. Furthermore, Maltese or Sicilian Arabic are closely related to Tunisian Arabic due to the cultural and historical ties between Tunisia and Malta,<ref>Borg and Azzopardi-Alexander ''Maltese'' (1997:xiii) "The immediate source for the Arabic vernacular spoken in Malta was Muslim Sicily, but its ultimate origin appears to have been Tunisia. In fact Maltese displays some areal traits typical of Maghrebine Arabic, although during the past eight hundred years of independent evolution it has drifted apart from Tunisian Arabic".</ref> and the languages are partially mutually intelligible.<ref>Borg and Azzopardi-Alexander ''Maltese'' (1997:xiii)</ref>
+* Mesopotamian Arabic, spoken by about 7 million people in Iraq (where it is called "Aamiyah"), eastern Syria and southwestern [[Iran]] ([[Khuzestan Province|Khuzestan]]).
+* [[Sudanese Arabic]] is spoken by 17 million people in [[Sudan]] and some parts of southern Egypt. Sudanese Arabic is quite distinct from the dialect of its neighbor to the north; rather, the Sudanese have a dialect similar to the Hijazi dialect.
+* [[Gulf Arabic]], spoken by around four million people, predominantly in [[Kuwait]], [[Bahrain]], some parts of [[Oman]], eastern Saudi Arabia coastal areas and some parts of [[UAE]] and Qatar. Also spoken in Iran's [[Bushehr Province|Bushehr]] and [[Hormozgan Province|Hormozgan]] provinces. Although Gulf Arabic is spoken in Qatar, most Qatari citizens speak Najdi Arabic (Bedawi).
+* Yemeni Arabic spoken in [[Yemen]], [[Somalia]], [[Djibouti]] and southern Saudi Arabia by 15 million people. Similar to Gulf Arabic.
+* [[Najdi Arabic]], spoken by around 10 million people, mainly spoken in Najd, central and northern Saudi Arabia. Most Qatari citizens speak Najdi Arabic (Bedawi).
+* [[Hejazi Arabic]] (6 million speakers), spoken in Hijaz, western Saudi Arabia
+* [[Hassaniya Arabic]] (3 million speakers), spoken in [[Mauritania]], [[Western Sahara]], some parts of northern [[Mali]], southern Morocco and south-western Algeria.
+* [[Bahrani Arabic]] (600,000 speakers), spoken by [[Bahrani people|Bahrani Shiʻah]] in Bahrain and [[Qatif]], the dialect exhibits many big differences from Gulf Arabic. It is also spoken to a lesser extent in Oman.
+* [[Judeo-Arabic languages|Judeo-Arabic]] dialects - these are the dialects spoken by the Jews that had lived or continue to live in the Arab World. As Jewish migration to Israel took hold, the language did not thrive and is now considered endangered.
+* [[Central Asian Arabic]], spoken in [[Uzbekistan]], [[Tajikistan]] and [[Afghanistan]], is highly endangered
+* [[Samaritan alphabet|Samaritan Arabic]], spoken by only several hundred in the [[Nablus]] region
+* [[Shirvani Arabic]], spoken in [[Azerbaijan]] and [[Dagestan]] until the 1930s, now extinct.
+* [[Andalusian Arabic]], spoken in Spain and [[Portugal]] until the 16th century.
+
+== Phonology ==
+{{Main|Arabic phonology}}
+{{IPA notice}}
+
+The "colloquial" spoken varieties of Arabic are learned at home and constitute the native languages of Arabic speakers. "Formal" [[Literary Arabic]] (usually specifically Modern Standard Arabic) is learned at school; although many speakers have a native-like command of the language, it is technically not the native language of any speakers. Both varieties can be both written and spoken, although the colloquial varieties are rarely written down and the formal variety is spoken mostly in formal circumstances, e.g., in radio broadcasts, formal lectures, parliamentary discussions and to some extent between speakers of different colloquial varieties. Even when the literary language is spoken, however, it is normally only spoken in its pure form when reading a prepared text out loud. When speaking [[extemporaneous]]ly (i.e. making up the language on the spot, as in a normal discussion among people), speakers tend to deviate somewhat from the strict literary language in the direction of the colloquial varieties. In fact, there is a continuous range of "in-between" spoken varieties: from nearly pure Modern Standard Arabic (MSA), to a form that still uses MSA grammar and vocabulary but with significant colloquial influence, to a form of the colloquial language that imports a number of words and grammatical constructions in MSA, to a form that is close to pure colloquial but with the "rough edges" (the most noticeably "vulgar" or non-Classical aspects) smoothed out, to pure colloquial. The particular variant (or ''[[Register (sociolinguistics)|register]]'') used depends on the social class and education level of the speakers involved and the level of formality of the speech situation. Often it will vary within a single encounter, e.g., moving from nearly pure MSA to a more mixed language in the process of a radio interview, as the interviewee becomes more comfortable with the interviewer. This type of variation is characteristic of the [[diglossia]] that exists throughout the Arabic-speaking world.
+
+=== Literary Arabic ===
+[[File:Poem by Abu 'ala al-Ma'arri ("I no longer steal from nature") read in Arabic.ogg|thumb|right|180x180px|Speech sample in Arabic.]]
+Although Modern Standard Arabic (MSA) is a unitary language, its pronunciation varies somewhat from country to country and from region to region within a country. The variation in individual "accents" of MSA speakers tends to mirror corresponding variations in the colloquial speech of the speakers in question, but with the distinguishing characteristics moderated somewhat. Note that it is important in descriptions of "Arabic" phonology to distinguish between pronunciation of a given colloquial (spoken) dialect and the pronunciation of MSA by these same speakers. Although they are related, they are not the same. For example, the phoneme that derives from Proto-Semitic /g/ has many different pronunciations in the modern spoken varieties, e.g., {{IPA|[d͡ʒ ~ ʒ ~ j ~ ɡʲ ~ ɡ]}}. Speakers whose native variety has either {{IPAblink|d͡ʒ}} or {{IPAblink|ʒ}} will use the same pronunciation when speaking MSA. Even speakers from [[Cairo]], whose native Egyptian Arabic has {{IPAblink|ɡ}}, normally use {{IPAblink|ɡ}} when speaking MSA. The {{IPAblink|j}} of Persian Gulf speakers is the only variant pronunciation which isn't found in MSA; {{IPA|[d͡ʒ~ʒ]}} is used instead.
+
+Another example: Many colloquial varieties are known for a type of [[vowel harmony]] in which the presence of an "emphatic consonant" triggers backed [[allophone]]s of nearby vowels (especially of the low vowels {{IPA|/aː/}}, which are backed to {{IPAblink|ɑ|ɑ(ː)}} in these circumstances and very often fronted to {{IPAblink|æ|æ(ː)}} in all other circumstances). In many spoken varieties, the backed or "emphatic" vowel allophones spread a fair distance in both directions from the triggering consonant; in some varieties (most notably Egyptian Arabic), the "emphatic" allophones spread throughout the entire word, usually including prefixes and suffixes, even at a distance of several syllables from the triggering consonant. Speakers of colloquial varieties with this vowel harmony tend to introduce it into their MSA pronunciation as well, but usually with a lesser degree of spreading than in the colloquial varieties. (For example, speakers of colloquial varieties with extremely long-distance harmony may allow a moderate, but not extreme, amount of spreading of the harmonic allophones in their MSA speech, while speakers of colloquial varieties with moderate-distance harmony may only harmonize immediately adjacent vowels in MSA.)
+
+==== Vowels ====
+Modern Standard Arabic has six pure [[vowel]]s, with short {{IPA|/a i u/}} and corresponding long vowels {{IPA|/aː iː uː/}}. There are also two [[diphthongs]]: {{IPA|/aj/}} and {{IPA|/aw/}}.
+
+The pronunciation of the vowels differs from speaker to speaker, in a way that tends to reflect the pronunciation of the corresponding colloquial variety. Nonetheless, there are some common trends. Most noticeable is the differing pronunciation of {{IPA|/a/}} and {{IPA|/aː/}}, which tend towards fronted {{IPAblink|æ|æ(ː)}}, {{IPAblink|a|a(ː)}} or {{IPAblink|ɛ|ɛ(ː)}} in most situations, but a back {{IPAblink|ɑ|ɑ(ː)}} in the neighborhood of [[emphatic consonant]]s. Some accents and dialects, such as those of the [[Hijaz]], have central {{IPAblink|ä|ä(ː)}} in all situations. The vowels {{IPA|/u/}} and {{IPA|/i/}} are often affected somewhat in emphatic neighborhoods as well, with generally more back or centralized [[allophone]]s, but the differences are less great than for the low vowels. The pronunciation of short {{IPA|/u/}} and {{IPA|/i/}} tends towards {{IPA|[ʊ~o]}} and {{IPA|[ɪ~e]}} in many dialects.
+
+The definition of both "emphatic" and "neighborhood" vary in ways that reflect (to some extent) corresponding variations in the spoken dialects. Generally, the consonants triggering "emphatic" allophones are the [[pharyngealization|pharyngealized]] consonants {{IPA|/tˤ dˤ sˤ ðˤ/}}; {{IPAslink|q}}; and {{IPAslink|r}}, if not followed immediately by {{IPA|/i(ː)/}}. Frequently, the {{lcons|uvular}} [[fricative]]s {{IPA|/x ɣ/}} also trigger emphatic allophones; occasionally also the [[pharyngeal consonant]]s {{IPA|/ʕ ħ/}} (the former more than the latter). Many dialects have multiple emphatic allophones of each vowel, depending on the particular nearby consonants. In most MSA accents, emphatic coloring of vowels is limited to vowels immediately adjacent to a triggering consonant, although in some it spreads a bit farther: e.g., {{lang|ar|وقت}} ''{{transl|ar|waqt}}'' {{IPA|[wɑqt]}} 'time'; {{lang|ar|وطن}} ''{{transl|ar|waṭan}}'' {{IPA|[wɑtˤɑn]}} 'homeland'; {{lang|ar|وسط المدينة}} ''{{transl|ar|wasṭ al-madīnah}}'' {{IPA|[wæstˤɑl-mædiːnɐ]}} 'downtown' (sometimes {{IPA|[wɑstˤɑl-mædiːnæ]}} or similar).
+
+In a non-emphatic environment, the vowel /a/ in the diphthong {{IPA|/aj/}} tends to be fronted even more than elsewhere, often pronounced {{IPA|[æj]}} or {{IPA|[ɛj]}}: hence {{lang|ar|سيف}} ''{{transl|ar|sayf}}'' {{IPA|[sajf ~ sæjf ~ sɛjf]}} 'sword' but {{lang|ar|صيف}} ''{{transl|ar|ṣayf}}'' {{IPA|[sˤɑjf]}} 'summer'. However, in accents with no emphatic allophones of /a/ (e.g., in the [[Hijaz]]), the pronunciation {{IPA|[äj]}} occurs in all situations.
+
+==== Consonants ====
+{| class="wikitable" style="text-align: center;"
+|-
+|+ Consonant phonemes of Standard Arabic
+! colspan="2" rowspan="2" |
+! rowspan="2" | [[Labial consonant|Labial]]
+! colspan="2" | [[Interdental consonant|Interdental]]
+! colspan="2" | [[Alveolar consonant|Alveolar]],<br>[[Dental consonant|Dental]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! rowspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Uvular consonant|Uvular]]
+! rowspan="2" | [[Pharyngeal consonant|Pharyngeal]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|- style="font-size: small;"
+! <small>plain</small>
+! <small>[[Emphatic consonant|emp.]]</small>
+! <small>emp.</small>
+! <small>plain</small>
+|-
+! colspan="2" | <small>[[Nasal consonant|Nasal]]</small>
+| {{IPAlink|m}}
+|
+|
+|
+| {{IPAlink|n}}
+|
+|
+|
+|
+|
+|-
+! rowspan="2" | <small>[[Stop consonant|Stop]]</small>
+! <small>[[Voicelessness|voiceless]]</small>
+| <br>{{IPAlink|b}}
+|
+|
+| {{IPA|tˤ}}
+| {{IPAlink|t}}
+|
+| {{IPAlink|k}}
+| {{IPAlink|q}}
+|
+| {{IPAlink|ʔ}}
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+|
+|
+|
+| {{IPA|dˤ}}<sup>3</sup>
+| {{IPAlink|d}}
+| colspan="2" | {{IPA link|ʒ}}~{{IPA link|d͡ʒ}}~{{IPA link|ɟ}}~{{IPA link|ʲ|ɡʲ}}~{{IPA link|ɡ}}
+|
+|
+|
+|-
+! rowspan="2" | <small>[[Fricative consonant|Fricative]]</small>
+! <small>voiceless</small>
+| {{IPAlink|f}}
+| {{IPA link|θ}}
+|
+| {{IPA|sˤ}}
+| {{IPAlink|s}}
+| {{IPAlink|ʃ}}
+| colspan="2" | {{IPAlink|x}}~{{IPAlink|χ}}<ref name="Watson 2002 18">{{Harvcoltxt|Watson|2002|p=18}}</ref>
+| {{IPAlink|ħ}}
+| {{IPAlink|h}}
+|-
+! <small>voiced</small>
+|
+| {{IPAlink|ð}}
+| colspan="2" | {{IPA|ðˤ~zˤ}}
+| {{IPAlink|z}}
+|
+| colspan="2" | {{IPAlink|ɣ}}~{{IPAlink|ʁ}}
+| rowspan="2" | {{IPAlink|ʕ}}
+|
+|-
+! colspan="2" | <small>[[Approximant consonant|Approximant]]</small>
+|
+|
+|
+|
+| {{IPAlink|l}}
+| {{IPAlink|j}}
+| {{IPAlink|w}}
+|
+|
+|-
+! colspan="2" | <small>[[Trill consonant|Trill]]</small>
+|
+|
+|
+|
+| {{IPAlink|r}}
+|
+|
+|
+|
+|
+|}
+The phoneme {{IPA|/ʒ~d͡ʒ~ɟ~ɡʲ~ɡ/}} is represented by the Arabic letter ''{{transl|ar|ALA|jīm}}'' ({{lang|ar|[[ج]]}}) and has many standard pronunciations. {{IPAblink|d͡ʒ}} is characteristic of north Algeria, Iraq, also in most of the Arabian peninsula but with an allophonic {{IPAblink|ʒ}} in some positions; {{IPAblink|ʒ}} occurs in most of the [[Levant]] and most North Africa; and {{IPAblink|ɡ}} is used in most of Egypt and some regions in Yemen and Oman. Generally this corresponds with the pronunciation in the colloquial dialects.<ref name="Watson 2002 16">{{Harvcoltxt|Watson|2002|p=16}}</ref> In some regions in Sudan and Yemen, as well as in some Sudanese and Yemeni dialects, it may be either {{IPA|[ɡʲ]}} or {{IPAblink|ɟ}}, representing the original pronunciation of Classical Arabic. Foreign words containing {{IPAslink|ɡ}} may be transcribed with {{rtl-lang|ar|[[ج]]}}, {{rtl-lang|ar|[[غ]]}}, {{rtl-lang|ar|[[ك]]}}, {{rtl-lang|ar|[[ق]]}}, {{rtl-lang|fa|[[گ]]}}, {{script/Arabic|[[ݣ]]}} or {{script/Arabic|ڨ}}, mainly depending on the regional spoken variety of Arabic or the commonly diacriticized Arabic letter. Note also that in northern Egypt, where the Arabic letter ''{{transl|ar|jīm}}'' ({{lang|ar|[[ج]]}}) is normally pronounced {{IPAblink|ɡ}}, a separate phoneme {{IPAslink|ʒ}}, which may be transcribed with {{lang|ar|چ}}, occurs in a small number of mostly non-Arabic loanwords, e.g., {{IPA|/ʒakitta/}} 'jacket'.
+
+{{IPA|/θ/}} ({{lang|ar|ث}}) can be pronounced as {{IPAblink|t}} or even {{IPAblink|s}}. In some places of Maghreb it can be also pronounced as {{IPAblink|t͡s}}.
+
+{{IPA|/x/}} and {{IPA|/ɣ/}} ({{lang|ar|خ,&lrm; غ}}) are velar, post-velar, or uvular.<ref name="Watson 2002 18"/>
+
+In many varieties, {{IPA|/ħ, ʕ/}} ({{lang|ar|ح,&lrm; ع}}) are actually [[epiglottal consonant|epiglottal]] {{IPA|[ʜ, ʢ]}} (despite what is reported in many earlier works).
+
+{{IPA|/l/}} is pronounced as velarized {{IPAblink|ɫ}} in الله {{IPA|/ʔallaːh/}}, the name of God, q.e. [[Allah]], when the word follows ''a'', ''ā'', ''u'' or ''ū'' (after ''i'' or ''ī'' it is unvelarized: بسم الله ''bismi l–lāh'' {{IPA|/bismillaːh/}}). Some speakers velarize other occurrences of /l/ in MSA, in imitation of their spoken dialects.
+
+The emphatic consonant {{IPA|/dˤ/}} was actually pronounced {{IPA|[ɮˤ]}}, or possibly {{IPA|[d͡ɮˤ]}}<ref>{{citation|first=Charles|last=Ferguson|title=The Arabic Koine|journal=Language|volume=35|year=1959|page=630|issue=4|doi=10.2307/410601}}</ref>—either way, a highly unusual sound. The medieval Arabs actually termed their language ''{{transl|ar|ALA|lughat al-ḍād}}'' 'the language of the [[Ḍād]]' (the name of the letter used for this sound), since they thought the sound was unique to their language. (In fact, it also exists in a few other minority Semitic languages, e.g., Mehri.)
+
+Arabic has consonants traditionally termed "emphatic" {{IPA|/tˤ, dˤ, sˤ, ðˤ/}} ({{lang|ar|ط,&lrm; ض,&lrm; ص,&lrm; ظ}}), which exhibit simultaneous [[pharyngealization]] {{IPA|[tˤ, dˤ, sˤ, ðˤ]}} as well as varying degrees of [[velarization]] {{IPA|[tˠ, dˠ, sˠ, ðˠ]}}, so they may be written with the "Velarized or pharyngealized" diacritic (<big>{{IPA|&nbsp;̴&nbsp;}}</big>) as: {{IPA|/t̴, d̴, s̴, ð̴/}}. This simultaneous articulation is described as "Retracted Tongue Root" by phonologists.<ref>e.g., {{Harvcoltxt|Thelwall|2003|p=52}}</ref> In some transcription systems, emphasis is shown by capitalizing the letter, for example, {{IPA|/dˤ/}} is written {{angle bracket|D}}; in others the letter is underlined or has a dot below it, for example, {{angle bracket|{{transl|ar|ḍ}}}}.
+
+Vowels and consonants can be phonologically short or long. Long ([[gemination|geminate]]) consonants are normally written doubled in Latin transcription (i.e. bb, dd, etc.), reflecting the presence of the [[Arabic diacritics|Arabic diacritic]] mark ''{{transl|ar|shaddah}}'', which indicates doubled consonants. In actual pronunciation, doubled consonants are held twice as long as short consonants. This consonant lengthening is phonemically contrastive: {{lang|ar|قبل}} ''{{transl|ar|qabala}}'' 'he accepted' vs. {{lang|ar|قبّل}} ''{{transl|ar|qabbala}}'' 'he kissed'.
+
+==== Syllable structure ====
+Arabic has two kinds of syllables: open syllables (CV) and (CVV)—and closed syllables (CVC), (CVVC) and (CVCC). The syllable types with two [[morae]] (units of time), i.e. CVC and CVV, are termed ''[[heavy syllable]]s'', while those with three morae, i.e. CVVC and CVCC, are ''[[superheavy syllable]]s''. Superheavy syllables in Classical Arabic occur in only two places: at the end of the sentence (due to [[pausa]]l pronunciation) and in words such as {{lang|ar|حارّ}} ''{{transl|ar|ḥārr}}'' 'hot', {{lang|ar|مادّة}} ''{{transl|ar|māddah}}'' 'stuff, substance', {{lang|ar|تحاجوا}} ''{{transl|ar|taḥājjū}}'' 'they disputed with each other', where a long ''{{transl|ar|ā}}'' occurs before two identical consonants (a former short vowel between the consonants has been lost). (In less formal pronunciations of Modern Standard Arabic, superheavy syllables are common at the end of words or before [[clitic]] suffixes such as ''{{transl|ar|-nā}}'' 'us, our', due to the deletion of final short vowels.)
+
+In surface pronunciation, every vowel must be preceded by a consonant (which may include the [[glottal stop]] {{IPA|[ʔ]}}). There are no cases of [[hiatus (linguistics)|hiatus]] within a word (where two vowels occur next to each other, without an intervening consonant). Some words do have an underlying vowel at the beginning, such as the definite article ''al-'' or words such as {{lang|ar|اشترا}} ''{{transl|ar|ALA|ishtarā}}'' 'he bought', {{lang|ar|اجتماع}} ''{{transl|ar|ALA|ijtimāʻ}}'' 'meeting'. When actually pronounced, one of three things happens:
+* If the word occurs after another word ending in a consonant, there is a smooth transition from final consonant to initial vowel, e.g., {{lang|ar|اجتماع}} ''{{transl|ar|ALA|al-ijtimāʻ}}'' 'meeting' {{IPA|/alid͡ʒtimaːʕ/}}.
+* If the word occurs after another word ending in a vowel, the initial vowel of the word is [[elision|elided]], e.g., {{lang|ar|بيت المدير}} ''{{transl|ar|baytu (a)l-mudīr}}'' 'house of the director' {{IPA|/bajtulmudiːr/}}.
+* If the word occurs at the beginning of an utterance, a glottal stop {{IPA|[ʔ]}} is added onto the beginning, e.g., {{lang|ar|البيت هو}} ''{{transl|ar|al-baytu huwa&nbsp;...}}'' 'The house is&nbsp;...' {{IPA|/ʔalbajtuhuwa&nbsp;... /}}.
+
+==== Stress ====
+Word stress is not phonemically contrastive in Standard Arabic. It bears a strong relationship to vowel length. The basic rules for Modern Standard Arabic are:
+* A final vowel, long or short, may not be stressed.
+* Only one of the last three syllables may be stressed.
+* Given this restriction, the last [[heavy syllable]] (containing a long vowel or ending in a consonant) is stressed, if it is not the final syllable.
+* If the final syllable is super heavy and closed (of the form CVVC or CVCC) it receives stress.
+* If no syllable is heavy or super heavy, the first possible syllable (i.e. third from end) is stressed.
+* As a special exception, in Form VII and VIII verb forms stress may not be on the first syllable, despite the above rules: Hence ''{{transl|ar|in<u>ka</u>tab(a)}}'' 'he subscribed' (whether or not the final short vowel is pronounced), ''{{transl|ar|yan<u>ka</u>tib(u)}}'' 'he subscribes' (whether or not the final short vowel is pronounced), ''{{transl|ar|yan<u>ka</u>tib}}'' 'he should subscribe (juss.)'. Likewise Form VIII ''{{transl|ar|ALA|ish<u>ta</u>rā}}'' 'he bought', ''{{transl|ar|ALA|yash<u>ta</u>rī}}'' 'he buys'.
+
+Examples:''{{transl|ar|ki<u>tā</u>b(un)}}'' 'book', ''{{transl|ar|<u>kā</u>-ti-b(un)}}'' 'writer', ''{{transl|ar|<u>mak</u>-ta-b(un)}}'' 'desk', ''{{transl|ar|ma-<u>kā</u>-ti-b(u)}}'' 'desks', ''{{transl|ar|mak-<u>ta</u>-ba-tun}}'' 'library' (but ''{{transl|ar|<u>mak</u>-ta-ba(-tun)}}'' 'library' in short pronunciation), ''{{transl|ar|<u>ka</u>-ta-bū}}'' (Modern Standard Arabic) 'they wrote' = ''{{transl|ar|<u>ka</u>-ta-bu}}'' (dialect), ''{{transl|ar|ka-ta-<u>bū</u>-h(u)}}'' (Modern Standard Arabic) 'they wrote it' = ''{{transl|ar|ka-ta-<u>bū</u>}}'' (dialect), ''{{transl|ar|ka-<u>ta</u>-ba-tā}}'' (Modern Standard Arabic) 'they (dual, fem) wrote', ''{{transl|ar|ka-<u>tab</u>-tu}}'' (Modern Standard Arabic) 'I wrote' = ''{{transl|ar|ka-<u>tabt</u>}}'' (short form or dialect). Doubled consonants count as two consonants: ''{{transl|ar|ma-<u>jal</u>-la-(tan)}}'' 'magazine', ''{{transl|ar|ma-<u>ḥal</u>l(-un)}}'' "place".
+
+These rules may result in differently stressed syllables when final case endings are pronounced, vs. the normal situation where they are not pronounced, as in the above example of ''{{transl|ar|mak-<u>ta</u>-ba-tun}}'' 'library' in full pronunciation, but ''{{transl|ar|<u>mak</u>-ta-ba(-tun)}}'' 'library' in short pronunciation.
+
+The restriction on final long vowels does not apply to the spoken dialects, where original final long vowels have been shortened and secondary final long vowels have arisen from loss of original final ''-hu/hi''.
+
+Some dialects have different stress rules. In the Cairo (Egyptian Arabic) dialect a heavy syllable may not carry stress more than two syllables from the end of a word, hence ''{{transl|ar|mad-<u>ra</u>-sah}}'' 'school', ''{{transl|ar|qā-<u>hi</u>-rah}}'' 'Cairo'. This also affects the way that Modern Standard Arabic is pronounced in Egypt. In the Arabic of [[Sana'a|Sanaa]], stress is often retracted: ''{{transl|ar|<u>bay</u>-tayn}}'' 'two houses', ''{{transl|ar|<u>mā</u>-sat-hum}}'' 'their table', ''{{transl|ar|ma-<u>kā</u>-tīb}}'' 'desks', ''{{transl|ar|<u>zā</u>-rat-ḥīn}}'' 'sometimes', ''{{transl|ar|mad-<u>ra</u>-sat-hum}}'' 'their school'. (In this dialect, only syllables with long vowels or diphthongs are considered heavy; in a two-syllable word, the final syllable can be stressed only if the preceding syllable is light; and in longer words, the final syllable cannot be stressed.)
+
+==== Levels of pronunciation ====
+The final short vowels (e.g., the case endings ''-a -i -u'' and mood endings ''-u -a'') are often not pronounced in this language, despite forming part of the formal paradigm of nouns and verbs. The following levels of pronunciation exist:
+
+===== Full pronunciation =====
+
+===== Full pronunciation with [[pausa]] =====
+This is the most formal level actually used in speech. All endings are pronounced as written, except at the end of an utterance, where the following changes occur:
+* Final short vowels are not pronounced. (But possibly an exception is made for feminine plural ''-na'' and shortened vowels in the jussive/imperative of defective verbs, e.g., ''irmi!'' 'throw!'".)
+* The entire indefinite noun endings ''-in'' and ''-un'' (with [[nunation]]) are left off. The ending ''-an'' is left off of nouns preceded by a ''[[tāʾ marbūṭa]]h'' ة (i.e. the ''-t'' in the ending ''-at-'' that typically marks feminine nouns), but pronounced as ''-ā'' in other nouns (hence its writing in this fashion in the Arabic script).
+* The ''tāʼ marbūṭah'' itself (typically of feminine nouns) is pronounced as ''h''. (At least, this is the case in extremely formal pronunciation, e.g., some Quranic recitations. In practice, this ''h'' is usually omitted.)
+
+===== Formal short pronunciation =====
+This is a formal level of pronunciation sometimes seen. It is somewhat like pronouncing all words as if they were in pausal position (with influence from the [[varieties of Arabic|colloquial varieties]]). The following changes occur:
+* Most final short vowels are not pronounced. However, the following short vowels ''are'' pronounced:
+** feminine plural ''-na''
+** shortened vowels in the jussive/imperative of defective verbs, e.g., ''irmi!'' 'throw!'
+** second-person singular feminine past-tense ''-ti'' and likewise ''anti'' 'you (fem. sg.)'
+** sometimes, first-person singular past-tense ''-tu''
+** sometimes, second-person masculine past-tense ''-ta'' and likewise ''anta'' 'you (masc. sg.)'
+** final ''-a'' in certain short words, e.g., ''laysa'' 'is not', ''sawfa'' (future-tense marker)
+* The [[nunation]] endings ''-an -in -un'' are not pronounced. However, they ''are'' pronounced in adverbial accusative formations, e.g., ''{{transl|ar|taqrīban}}'' تَقْرِيبًا 'almost, approximately', ''{{transl|ar|ALA|ʻādatan}}'' عَادَةً 'usually'.
+* The ''[[tāʾ marbūṭa]]h'' ending ة is unpronounced, ''except'' in [[construct state]] nouns, where it sounds as ''t'' (and in adverbial accusative constructions, e.g., ''{{transl|ar|ALA|ʻādatan}}'' عَادَةً 'usually', where the entire ''-tan'' is pronounced).
+* The masculine singular [[Arabic grammar#Nisba|nisbah]] ending ''{{transl|ar|ALA|-iyy}}'' is actually pronounced ''{{transl|ar|-ī}}'' and is unstressed (but plural and feminine singular forms, i.e. when followed by a suffix, still sound as ''{{transl|ar|ALA|-iyy-}}'').
+* ''Full endings'' (including case endings) occur when a [[clitic]] object or possessive suffix is added (e.g., ''{{transl|ar|-nā}}'' 'us/our').
+
+===== Informal short pronunciation =====
+This is the pronunciation used by speakers of Modern Standard Arabic in [[extemporaneous]] speech, i.e. when producing new sentences rather than simply reading a prepared text. It is similar to formal short pronunciation except that the rules for dropping final vowels apply ''even'' when a [[clitic]] suffix is added. Basically, short-vowel case and mood endings are never pronounced and certain other changes occur that echo the corresponding colloquial pronunciations. Specifically:
+* All the rules for formal short pronunciation apply, except as follows.
+* The past tense singular endings written formally as ''-tu -ta -ti'' are pronounced ''-t -t -ti''. But masculine ''{{transl|ar|ʾanta}}'' is pronounced in full.
+* Unlike in formal short pronunciation, the rules for dropping or modifying final endings are also applied when a [[clitic]] object or possessive suffix is added (e.g., ''{{transl|ar|-nā}}'' 'us/our'). If this produces a sequence of three consonants, then one of the following happens, depending on the speaker's native colloquial variety:
+** A short vowel (e.g., ''-i-'' or ''-ǝ-'') is consistently added, either between the second and third or the first and second consonants.
+** Or, a short vowel is added only if an otherwise unpronounceable sequence occurs, typically due to a violation of the [[sonority hierarchy]] (e.g., ''-rtn-'' is pronounced as a three-consonant cluster, but ''-trn-'' needs to be broken up).
+** Or, a short vowel is never added, but consonants like ''r l m n'' occurring between two other consonants will be pronounced as a [[syllabic consonant]] (as in the English words "butter bottle bottom button").
+** When a doubled consonant occurs before another consonant (or finally), it is often shortened to a single consonant rather than a vowel added. (But note that Moroccan Arabic never shortens doubled consonants or inserts short vowels to break up clusters, instead tolerating arbitrary-length series of arbitrary consonants and hence Moroccan Arabic speakers are likely to follow the same rules in their pronunciation of Modern Standard Arabic.)
+* The clitic suffixes themselves tend also to be changed, in a way that avoids many possible occurrences of three-consonant clusters. In particular, ''-ka -ki -hu'' generally sound as ''-ak -ik -uh''.
+* Final long vowels are often shortened, merging with any short vowels that remain.
+* Depending on the level of formality, the speaker's education level, etc., various grammatical changes may occur in ways that echo the colloquial variants:
+** Any remaining case endings (e.g. masculine plural nominative ''-ūn'' vs. oblique ''-īn'') will be leveled, with the oblique form used everywhere. (However, in words like ''{{transl|ar|ab}}'' 'father' and ''{{transl|ar|ALA|akh}}'' 'brother' with special long-vowel case endings in the [[construct state]], the nominative is used everywhere, hence ''{{transl|ar|ALA|abū}}'' 'father of', ''{{transl|ar|ALA|akhū}}'' 'brother of'.)
+** Feminine plural endings in verbs and clitic suffixes will often drop out, with the masculine plural endings used instead. If the speaker's native variety has feminine plural endings, they may be preserved, but will often be modified in the direction of the forms used in the speaker's native variety, e.g. ''-an'' instead of ''-na''.
+** Dual endings will often drop out except on nouns and then used only for emphasis (similar to their use in the colloquial varieties); elsewhere, the plural endings are used (or feminine singular, if appropriate).
+
+=== Colloquial varieties ===
+{{Further|Varieties of Arabic}}
+
+====Vowels====
+As mentioned above, many spoken dialects have a process of ''emphasis spreading'', where the "emphasis" ([[pharyngealization]]) of [[emphatic consonant]]s spreads forward and back through adjacent syllables, pharyngealizing all nearby consonants and triggering the back allophone {{IPAblink|ɑ|ɑ(ː)}} in all nearby [[low vowel]]s. The extent of emphasis spreading varies. For example, in Moroccan Arabic, it spreads as far as the first full vowel (i.e. sound derived from a long vowel or diphthong) on either side; in many Levantine dialects, it spreads indefinitely, but is blocked by any {{IPAslink|j}} or {{IPAslink|ʃ}}; while in Egyptian Arabic, it usually spreads throughout the entire word, including prefixes and suffixes. In Moroccan Arabic, {{IPA|/i u/}} also have emphatic allophones {{IPA|[o~ɔ e~ɛ]}}.
+
+Unstressed short vowels, especially {{IPA|/i u/}}, are deleted in many contexts. Many sporadic examples of short vowel change have occurred (especially /a/→/i/ and interchange /i/↔/u/). Most Levantine dialects merge short /i u/ into /ǝ/ in most contexts (all except directly before a single final consonant). In Moroccan Arabic, on the other hand, short /u/ triggers [[labialization]] of nearby consonants (especially [[velar consonant]]s and [[uvular consonant]]s), and then short /a i u/ all merge into /ǝ/, which is deleted in many contexts. (The labialization plus /ǝ/ is sometimes interpreted as an underlying phoneme {{IPA|/ŭ/}}.) This essentially causes the wholesale loss of the short-long vowel distinction, with the original long vowels {{IPA|/aː iː uː/}} remaining as half-long {{IPA|[aˑ iˑ uˑ]}}, phonemically {{IPA|/a i u/}}, which are used to represent ''both'' short and long vowels in borrowings from Literary Arabic.
+
+Most spoken dialects have [[monophthongization|monophthongized]] original {{IPA|/aj aw/}} to {{IPA|/eː oː/}} (in all circumstances, including adjacent to emphatic consonants). In Moroccan Arabic, these have subsequently merged into original {{IPA|/iː uː/}}.
+
+====Consonants====
+In some dialects, there may be more or fewer phonemes than those listed in the chart above. For example, non-Arabic {{IPAblink|v}} is used in the Maghrebi dialects as well in the written language mostly for foreign names. Semitic {{IPAblink|p}} became {{IPA|[f]}} extremely early on in Arabic before it was written down; a few modern Arabic dialects, such as Iraqi (influenced by Persian and [[Kurdish Language|Kurdish]]) distinguish between {{IPAblink|p}} and {{IPAblink|b}}. The Iraqi Arabic also uses sounds {{IPAblink|ɡ}}, {{IPAblink|t͡ʃ}} and uses Persian adding letters, e.g.: {{lang|fa|گوجة}} ''{{transl|ar|gawjah}}'' – ''a plum''; {{lang|fa|چمة}} ''{{transl|ar|chimah}} – ''a truffle'' and so on.
+
+Early in the expansion of Arabic, the separate emphatic phonemes {{IPA|[ɮˤ]}} and {{IPA|[ðˤ]}} coalesced into a single phoneme {{IPA|[ðˤ]}}. Many dialects (such as Egyptian, Levantine, and much of the Maghreb) subsequently lost {{lcons|interdental}} [[fricative]]s, converting {{IPA|[θ ð ðˤ]}} into {{IPA|[t d dˤ]}}. Most dialects borrow "learned" words from the Standard language using the same pronunciation as for inherited words, but some dialects without interdental fricatives (particularly in Egypt and the Levant) render original {{IPA|[θ ð ðˤ ɮˤ]}} in borrowed words as {{IPA|[s z zˤ dˤ]}}.
+
+Another key distinguishing mark of Arabic dialects is how they render the original velar and uvular plosives {{IPAslink|q}}, {{IPAslink|d͡ʒ}} (Proto-Semitic {{IPAslink|ɡ}}), and {{IPAslink|k}}:
+* {{lang|ar|ق}} {{IPAslink|q}} retains its original pronunciation in widely scattered regions such as Yemen, Morocco, and urban areas of the Maghreb. It is pronounced as a [[glottal stop]] {{IPAblink|ʔ}} in several '''prestige dialects''', such as those spoken in Cairo, Beirut and Damascus. But it is rendered as a voiced velar plosive {{IPAblink|ɡ}} in Persian Gulf, Upper Egypt, parts of the Maghreb, and less urban parts of the Levant (e.g. Jordan). In Iraqi Arabic it sometimes retains its original pronunciation and is sometimes rendered as a voiced velar plosive, depending on the word. Some traditionally Christian villages in rural areas of the Levant render the sound as {{IPAblink|k}}, as do Shiʻi Bahrainis. In some Gulf dialects, it is palatalized to {{IPAblink|d͡ʒ}} or {{IPAblink|ʒ}}. It is pronounced as a voiced uvular constrictive {{IPAblink|ʁ}} in Sudanese Arabic. Many dialects with a modified pronunciation for {{IPAslink|q}} maintain the {{IPAblink|q}} pronunciation in certain words (often with religious or educational overtones) borrowed from the Classical language.
+* {{lang|ar|ج}} {{IPA|/d͡ʒ/}} is pronounced as an affricate in Iraq and much of the Arabian Peninsula, but is pronounced {{IPAblink|ɡ}} in most of North Egypt and parts of Yemen and Oman, {{IPAblink|ʒ}} in Morocco, Tunisia and the Levant, and {{IPAblink|j}}, {{IPA|[i̠]}} in most words in much of the Persian Gulf.
+* {{lang|ar|ك}} {{IPAslink|k}} usually retains its original pronunciation, but is palatalized to {{IPAslink|t͡ʃ}} in many words in Israel and the Palestinian Territories, Iraq, and much of the Arabian Peninsula. Often a distinction is made between the suffixes {{IPA|/-ak/}} ('you', masc.) and {{IPA|/-ik/}} ('you', fem.), which become {{IPA|/-ak/}} and {{IPA|/-it͡ʃ/}}, respectively. In Sana'a, Omani, and Bahrani {{IPA|/-ik/}} is pronounced {{IPA|/-iʃ/}}.
+
+Pharyngealization of the emphatic consonants tends to weaken in many of the spoken varieties, and to spread from emphatic consonants to nearby sounds. In addition, the "emphatic" allophone {{IPAblink|ɑ}} automatically triggers pharyngealization of adjacent sounds in many dialects. As a result, it may difficult or impossible to determine whether a given [[coronal consonant]] is phonemically emphatic or not, especially in dialects with long-distance emphasis spreading. (A notable exception is the sounds {{IPAslink|t}} vs. {{IPAslink|tˤ}} in Moroccan Arabic, because the former is pronounced as an [[affricate]] {{IPAblink|t͡s}} but the latter is not.)
+
+== Grammar ==
+[[File:Fa33aalah EN.pdf|thumb|upright=1.5|right|Examples of how the Arabic root and form system works.]]
+{{Main|Arabic grammar}}
+
+=== Literary Arabic ===
+{{main|Modern Standard Arabic}}
+
+As in other Semitic languages, Arabic has a complex and unusual [[morphology (linguistics)|morphology]] (i.e. method of constructing words from a basic [[root (linguistics)|root]]). Arabic has a [[nonconcatenative morphology|nonconcatenative]] "root-and-pattern" morphology: A root consists of a set of bare consonants (usually [[triliteral|three]]), which are fitted into a discontinuous pattern to form words. For example, the word for 'I wrote' is constructed by combining the root '''{{transl|ar|k-t-b}}''' 'write' with the pattern '''{{transl|ar|-a-a-tu}}''' 'I Xed' to form ''{{transl|ar|katabtu}}'' 'I wrote'. Other verbs meaning 'I Xed' will typically have the same pattern but with different consonants, e.g. ''{{transl|ar|ALA|qaraʼtu}}'' 'I read', ''{{transl|ar|ALA|akaltu}}'' 'I ate', ''{{transl|ar|ALA|dhahabtu}}'' 'I went', although other patterns are possible (e.g. ''{{transl|ar|ALA|sharibtu}}'' 'I drank', ''{{transl|ar|ALA|qultu}}'' 'I said', ''{{transl|ar|ALA|takallamtu}}'' 'I spoke', where the subpattern used to signal the past tense may change but the suffix ''{{transl|ar|-tu}}'' is always used).
+
+From a single root '''{{transl|ar|k-t-b}}''', numerous words can be formed by applying different patterns:
+* ''{{transl|ar|ALA|katabtu}}'' 'I wrote'
+* ''{{transl|ar|ALA|kattabtu}}'' 'I had (something) written'
+* ''{{transl|ar|ALA|kātabtu}}'' 'I corresponded (with someone)'"
+* ''{{transl|ar|AKA|aktabtu}}'' 'I dictated'
+* ''{{transl|ar|ALA|iktatabtu}}'' 'I subscribed'
+* ''{{transl|ar|ALA|takātabnā}}'' 'we corresponded with each other'
+* ''{{transl|ar|ALA|aktubu}}'' 'I write'
+* ''{{transl|ar|ALA|ukattibu}}'' 'I have (something) written'
+* ''{{transl|ar|ALA|ukātibu}}'' 'I correspond (with someone)'
+* ''{{transl|ar|ALA|uktibu}}'' 'I dictate'
+* ''{{transl|ar|ALA|aktatibu}}'' 'I subscribe'
+* ''{{transl|ar|ALA|natakātabu}}'' 'we correspond each other'
+* ''{{transl|ar|ALA|kutiba}}'' 'it was written'
+* ''{{transl|ar|ALA|uktiba}}'' 'it was dictated'"
+* ''{{transl|ar|ALA|maktūb}}'' 'written'
+* ''{{transl|ar|ALA|muktab}}'' 'dictated'
+* ''{{transl|ar|ALA|kitāb}}'' 'book'
+* ''{{transl|ar|ALA|kutub}}'' 'books'
+* ''{{transl|ar|ALA|kātib}}'' 'writer'
+* ''{{transl|ar|ALA|kuttāb}}'' 'writers'
+* ''{{transl|ar|maktab}}'' 'desk, office'
+* ''{{transl|ar|maktabah}}'' 'library, bookshop'
+* etc.
+
+====Nouns and adjectives====
+Nouns in Literary Arabic have three grammatical [[noun case|cases]] ([[nominative case|nominative]], [[accusative case|accusative]], and [[genitive case|genitive]] [also used when the noun is governed by a preposition]); three [[grammatical number|numbers]] (singular, dual and plural); two [[gender (grammar)|genders]] (masculine and feminine); and three "states" (indefinite, definite, and [[Status constructus|construct]]). The cases of singular nouns (other than those that end in long ā) are indicated by [[suffix]]ed short vowels (/-u/ for nominative, /-a/ for accusative, /-i/ for genitive).
+
+The feminine singular is often marked by /-at/, which is reduced to /-ah/ or /-a/ before a pause. Plural is indicated either through endings (the [[sound plural]]) or internal modification (the [[broken plural]]). Definite nouns include all proper nouns, all nouns in "construct state" and all nouns which are [[prefix]]ed by the definite article /al-/. Indefinite singular nouns (other than those that end in long ā) add a final /-n/ to the case-marking vowels, giving /-un/, /-an/ or /-in/ (which is also referred to as [[nunation]] or [[tanwīn]]).
+
+[[Adjective]]s in Literary Arabic are marked for case, number, gender and state, as for nouns. However, the plural of all non-human nouns is always combined with a singular feminine adjective, which takes the /-ah/ or /-at/ suffix.
+
+[[Pronoun]]s in Literary Arabic are marked for person, number and gender. There are two varieties, independent pronouns and [[Enclitic#Enclitic|enclitics]]. Enclitic pronouns are attached to the end of a verb, noun or preposition and indicate verbal and prepositional objects or possession of nouns. The first-person singular pronoun has a different enclitic form used for verbs (/-ni/) and for nouns or prepositions (/-ī/ after consonants, /-ya/ after vowels).
+
+Nouns, verbs, pronouns and adjectives agree with each other in all respects. However, non-human plural nouns are grammatically considered to be feminine singular. Furthermore, a verb in a verb-initial sentence is marked as singular regardless of its semantic number when the subject of the verb is explicitly mentioned as a noun. Numerals between three and ten show "chiasmic" agreement, in that grammatically masculine numerals have feminine marking and vice versa.
+
+====Verbs====
+Verbs in Literary Arabic are marked for person (first, second, or third), gender, and number. They are [[Grammatical conjugation|conjugated]] in two major paradigms ([[past]] and [[non-past]]); two [[grammatical voice|voices]] (active and passive); and six [[grammatical mood|moods]] ([[indicative]], [[imperative mood|imperative]], [[subjunctive]], [[Irrealis mood#Jussive|jussive]], shorter [[energetic mood|energetic]] and longer energetic), the fifth and sixth moods, the energetics, exist only in Classical Arabic but not in MSA.<ref>Rydin, Karin C. (2005). A reference grammar of Modern Standard Arabic. New York: Cambridge University Press.</ref> There are also two [[participle]]s (active and passive) and a [[verbal noun]], but no [[infinitive]].
+
+The past and non-past paradigms are sometimes also termed [[perfective]] and [[imperfective]], indicating the fact that they actually represent a combination of [[Grammatical tense|tense]] and [[Grammatical aspect|aspect]]. The moods other than the [[indicative]] occur only in the non-past, and the [[future tense]] is signaled by prefixing ''{{transl|ar|sa-}}'' or ''{{transl|ar|sawfa}}'' onto the non-past. The past and non-past differ in the form of the stem (e.g., past ''{{transl|ar|katab-}}'' vs. non-past ''{{transl|ar|-ktub-}}''), and also use completely different sets of affixes for indicating person, number and gender: In the past, the person, number and gender are fused into a single [[suffix]]al morpheme, while in the non-past, a combination of [[prefix]]es (primarily encoding person) and suffixes (primarily encoding gender and number) are used. The passive voice uses the same person/number/gender affixes but changes the vowels of the stem.
+
+The following shows a paradigm of a regular Arabic verb, ''{{transl|ar|kataba}}'' 'to write'. Note that in Modern Standard Arabic, many final short vowels are dropped (indicated in parentheses below), and the energetic mood (in either long or short form, which have the same meaning) is almost never used.
+
+====Derivation====
+Unlike most languages, Arabic has virtually no means of [[derivational morphology|deriving]] words by adding prefixes or suffixes to words. Instead, they are formed according to a finite (but fairly large) number of templates applied to roots.
+
+For verbs, a given root can construct up to fifteen different verbs, each with one or more characteristic meanings and each with its own templates for the past and non-past stems, active and passive participles, and verbal noun. These are referred to by Western scholars as "Form I", "Form II", and so on through "Form XV" (although Forms XI to XV are rare). These forms encode concepts such as the [[causative]], [[intensive]] and [[reflexive verb|reflexive]]. These forms can be viewed as analogous to [[verb conjugation]]s in languages such as Spanish in terms of the additional complexity of verb formation that they induce. (Note, however, that their usage in constructing vocabulary is somewhat different, since the same root can be conjugated in multiple forms, with different shades of meaning.)
+
+Examples of the different verbs formed from the root ''{{transl|ar|k-t-b}}'' 'write' (using ''{{transl|ar|ḥ-m-r}}'' 'red' for Form IX, which is limited to colors and physical defects):
+{|class="wikitable"
+|+Most of these forms are exclusively [[Classical Arabic]]
+! Form !! Past !! Meaning !! Non-past !! Meaning
+|-
+| I || ''{{transl|ar|'''k'''a'''t'''a'''b'''a}}'' || 'he wrote' || ''{{transl|ar|ya'''kt'''u'''b'''u}}'' || 'he writes'
+|-
+| II || ''{{transl|ar|'''k'''a'''tt'''a'''b'''a}}'' || 'he made (someone) write' || ''{{transl|ar|yu'''k'''a'''tt'''i'''b'''u}}'' || "he makes (someone) write"
+|-
+| III || ''{{transl|ar|'''k'''ā'''t'''a'''b'''a}}'' || 'he corresponded with, wrote to (someone)' || ''{{transl|ar|yu'''k'''ā'''t'''i'''b'''u}}'' || 'he corresponds with, writes to (someone)'
+|-
+| IV || ''{{transl|ar|ʾa'''kt'''a'''b'''a}}'' || 'he dictated' || ''{{transl|ar|yu'''kt'''i'''b'''u}}'' || 'he dictates'
+|-
+| V || ''{{transl|ar|ta'''k'''a'''tt'''a'''b'''a}}'' || 'nonexistent' || ''{{transl|ar|yata'''k'''a'''tt'''a'''b'''u}}'' || 'nonexistent'
+|-
+| VI || ''{{transl|ar|ta'''k'''ā'''t'''a'''b'''a}}'' || 'he corresponded (with someone, esp. mutually)' || ''{{transl|ar|yata'''k'''ā'''t'''a'''b'''u}}'' || 'he corresponds (with someone, esp. mutually)'
+|-
+| VII || ''{{transl|ar|in'''k'''a'''t'''a'''b'''a}}'' || 'he subscribed' || ''{{transl|ar|yan'''k'''a'''t'''i'''b'''u}}'' || 'he subscribes'
+|-
+| VIII || ''{{transl|ar|i'''k'''ta'''t'''a'''b'''a}}'' || 'he copied' || ''{{transl|ar|ya'''k'''ta'''t'''i'''b'''u}}'' || 'he copies'
+|-
+| IX || ''{{transl|ar|i'''ḥm'''a'''rr'''a}}'' || 'he turned red' || ''{{transl|ar|ya'''ḥm'''a'''rr'''u}}'' || 'he turns red'
+|-
+| X || ''{{transl|ar|ista'''kt'''a'''b'''a}}'' || 'he asked (someone) to write' || ''{{transl|ar|yasta'''kt'''i'''b'''u}}'' || 'he asks (someone) to write'
+|}
+
+Form II is sometimes used to create transitive [[denominative verb]]s (verbs built from nouns); Form V is the equivalent used for intransitive denominatives.
+
+The associated participles and verbal nouns of a verb are the primary means of forming new lexical nouns in Arabic. This is similar to the process by which, for example, the English [[gerund]] "meeting" (similar to a verbal noun) has turned into a noun referring to a particular type of social, often work-related event where people gather together to have a "discussion" (another lexicalized verbal noun). Another fairly common means of forming nouns is through one of a limited number of patterns that can be applied directly to roots, such as the "nouns of location" in ''ma-'' (e.g. ''{{transl|ar|maktab}}'' 'desk, office' < ''{{transl|ar|k-t-b}}'' 'write', ''{{transl|ar|maṭbakh}}'' 'kitchen' < ''{{transl|ar|ṭ-b-kh}}'' 'cook').
+
+The only three genuine suffixes are as follows:
+* The feminine suffix ''-ah''; variously derives terms from women from related terms for men, or more generally terms along the same lines as the corresponding masculine, e.g. ''{{transl|ar|maktabah}}'' 'library' (also a writing-related place, but different from ''{{transl|ar|maktab}}'', as above).
+* The [[Arabic grammar#Nisba|nisbah]] suffix ''-iyy-''. This suffix is extremely productive, and forms adjectives meaning "related to X". It corresponds to English adjectives in ''-ic, -al, -an, -y, -ist'', etc.
+* The feminine [[Arabic grammar#Nisba|nisbah]] suffix ''-iyyah''. This is formed by adding the feminine suffix ''-ah'' onto nisba adjectives to form abstract nouns. For example, from the basic root ''{{transl|ar|sh-r-k}}'' 'share' can be derived the Form VIII verb ''{{transl|ar|ishtaraka}}'' 'to cooperate, participate', and in turn its verbal noun ''{{transl|ar|ishtirāk}}'' 'cooperation, participation' can be formed. This in turn can be made into a nisbah adjective ''{{transl|ar|ishtirākī}}'' 'socialist', from which an abstract noun ''{{transl|ar|ishtirākiyyah}}'' 'socialism' can be derived. Other recent formations are ''{{transl|ar|jumhūriyyah}}'' 'republic' (lit. "public-ness", < ''{{transl|ar|jumhūr}}'' 'multitude, general public'), and the [[Gaddafi]]-specific variation ''{{transl|ar|jamāhīriyyah}}'' 'people's republic' (lit. "masses-ness", < ''{{transl|ar|jamāhīr}}'' 'the masses', pl. of ''{{transl|ar|jumhūr}}'', as above).
+
+=== Colloquial varieties ===
+{{main|Varieties of Arabic}}
+
+The spoken dialects have lost the case distinctions and make only limited use of the dual (it occurs only on nouns and its use is no longer required in all circumstances). They have lost the mood distinctions other than imperative, but many have since gained new moods through the use of prefixes (most often /bi-/ for indicative vs. unmarked subjunctive). They have also mostly lost the indefinite "nunation" and the internal passive.
+
+The following is an example of a regular verb paradigm in Egyptian Arabic.
+
+{| class="wikitable"
+|+Example of a regular Form I verb in [[Egyptian Arabic]], ''kátab/yíktib'' "write"
+! colspan=2|Tense/Mood
+! Past
+! Present Subjunctive
+! Present Indicative
+! Future
+! Imperative
+|-
+! style="width:100%;" colspan="7"| Singular
+|-
+! colspan=2|1st
+| ''katáb-t''
+| ''á-ktib''
+| ''bá-ktib''
+| ''ḥá-ktib''
+| style=background:silver|
+|-
+! rowspan=2| 2nd
+!<small>masculine</small>
+| ''katáb-t''
+| ''tí-ktib''
+| ''bi-tí-ktib''
+| ''ḥa-tí-ktib''
+| ''í-ktib''
+|-
+!<small>feminine</small>
+| ''katáb-ti''
+| ''ti-ktíb-i''
+| ''bi-ti-ktíb-i''
+| ''ḥa-ti-ktíb-i''
+| ''i-ktíb-i''
+|-
+! rowspan=2|3rd
+!<small>masculine</small>
+| ''kátab''
+| ''yí-ktib''
+| ''bi-yí-ktib''
+| ''ḥa-yí-ktib''
+| rowspan=2 style=background:silver|
+|-
+!<small>feminine</small>
+| ''kátab-it''
+| ''tí-ktib''
+| ''bi-tí-ktib''
+| ''ḥa-tí-ktib''
+|-
+! style="width:100%;" colspan="7"| Plural
+|-
+! colspan=2|1st
+| ''katáb-na''
+| ''ní-ktib''
+| ''bi-ní-ktib''
+| ''ḥá-ní-ktib''
+| style=background:silver|
+|-
+! colspan=2|2nd
+| ''katáb-tu''
+| ''ti-ktíb-u''
+| ''bi-ti-ktíb-u''
+| ''ḥa-ti-ktíb-u''
+| ''i-ktíb-u''
+|-
+! colspan=2|3rd
+| ''kátab-u''
+| ''yi-ktíb-u''
+| ''bi-yi-ktíb-u''
+| ''ḥa-yi-ktíb-u''
+| style=background:silver|
+|}
+
+== Writing system {{anchor|writing system}} ==
+{{Main|Arabic alphabet|Arabic Braille}}
+[[File:Menulis khat.jpg|thumb|[[Islamic calligraphy]] written by a Malay Muslim in Malaysia. The calligrapher is making a rough draft.]]
+The Arabic alphabet derives from the Aramaic through [[Nabatean alphabet|Nabatean]], to which it bears a loose resemblance like that of [[Coptic alphabet|Coptic]] or [[Cyrillic script]]s to [[Greek alphabet|Greek script]]. Traditionally, there were several differences between the Western (North African) and Middle Eastern versions of the alphabet—in particular, the ''faʼ'' had a dot underneath and ''qaf'' a single dot above in the Maghreb, and the order of the letters was slightly different (at least when they were used as numerals).
+
+However, the old Maghrebi variant has been abandoned except for calligraphic purposes in the Maghreb itself, and remains in use mainly in the Quranic schools ([[zaouia]]s) of West Africa. Arabic, like all other Semitic languages (except for the Latin-written Maltese, and the languages with the [[Ge'ez script]]), is written from right to left. There are several styles of script, notably [[Naskh (script)|naskh]], which is used in print and by computers, and [[Ruq'ah|ruqʻah]], which is commonly used in [[handwriting]].<ref>{{Harvcoltxt|Hanna|Greis|1972|p=2}}</ref>
+
+=== Calligraphy ===
+{{Main|Islamic calligraphy}}
+
+After [[Khalil ibn Ahmad al Farahidi]] finally fixed the Arabic script around 786, many styles were developed, both for the writing down of the Quran and other books, and for inscriptions on monuments as decoration.
+
+Arabic calligraphy has not fallen out of use as calligraphy has in the Western world, and is still considered by [[Arabs]] as a major art form; calligraphers are held in great esteem. Being cursive by nature, unlike the Latin script, Arabic script is used to write down a [[ayah|verse]] of the Quran, a [[hadith]], or simply a [[proverb]]. The composition is often abstract, but sometimes the writing is shaped into an actual form such as that of an animal. One of the current masters of the genre is [[Hassan Massoudy]].
+
+=== Romanization ===
+{{Main|Romanization of Arabic}}
+
+{| class="wikitable" style="float: right; margin: 1em;"
+|+ Examples of different transliteration/transcription schemes
+! Letter
+! [[International Phonetic Alphabet|IPA]]
+! [[United Nations Conference on the Standardization of Geographical Names|UNGEGN]]
+! [[ALA-LC]]
+! [[Hans Wehr transliteration|Wehr]]
+! [[DIN 31635|DIN]] !! [[ISO 233|ISO]]
+! [[Spanish Arabists School|SAS]]
+! [[ISO 233-2|-2]]
+! [[Bikdash Arabic Transliteration Rules|BATR]]
+! [[ArabTeX]]
+! [[Arabic chat alphabet|chat]]
+! [[Malay alphabet|Malay]]
+|-
+! <big>{{lang|ar|[[ء]]}}</big>
+| {{IPA link|ʔ}}
+|colspan="3"| <span title="Modifier letter apostrophe" style="font-size:160%">ʼ</span>
+| <span title="Modifier letter right half ring" style="font-size:170%">ʾ</span> || <span title="Modifier letter vertical line" style="font-size:160%">ˈ</span>,&nbsp;<span title="Modifier letter low vertical line" style="font-size:160%">ˌ</span>
+| <span title="Modifier letter right half ring" style="font-size:170%">ʾ</span>
+| <span title="Apostrophe" style="font-size:140%">'</span>
+| e
+| <span title="Apostrophe" style="font-size:140%">'</span>
+| 2
+| '
+|-
+! <big>{{lang|ar|ا}}</big>
+| {{IPA|aː}}
+|colspan="4"| ā
+| <span title="Modifier letter right half ring" style="font-size:170%">ʾ</span>
+| ā
+| aa
+| aa / A
+| a
+| a/e/é
+| a/o
+|-
+! <big>{{lang|ar|[[ي]]}}</big>
+| {{IPA link|j}}, {{IPA|iː}}
+| y
+|colspan="5"| y; ī
+| y; e
+| y; ii
+| y
+| y; i/ee; ei/ai
+| y; i
+|-
+! <big>{{lang|ar|ث}}</big>
+| {{IPA link|θ}}
+|colspan="2"| th
+|colspan="3"| ṯ
+| ç
+| ṯ
+| c
+| _t
+| s/th
+| ts
+|-
+! <big>{{lang|ar|ج}}</big>
+| {{IPA link|d͡ʒ}}~{{IPA link|ɡ}}~{{IPA link|ʒ}}
+|colspan="3"| j
+|colspan="2"| ǧ
+| ŷ
+| j
+| j
+| ^g
+| j/g/dj
+| j
+|-
+! <big>{{lang|ar|ح}}</big>
+| {{IPA link|ħ}}
+| ḩ
+|colspan="6"| ḥ
+| H
+| .h
+| 7
+| h
+|-
+! <big>{{lang|ar|خ}}</big>
+| {{IPA link|x}}
+|colspan="2"| kh
+| ḵ
+| ḫ || ẖ
+| j
+| x
+| K
+| _h
+| kh/7'/5
+| kh
+|-
+! <big>{{lang|ar|ذ}}</big>
+| {{IPA link|ð}}
+|colspan="2"| dh
+|colspan="4"| ḏ
+| đ
+| z<big>'</big>
+| _d
+| z/dh/th
+| dz
+|-
+! <big>{{lang|ar|ش}}</big>
+| {{IPA link|ʃ}}
+|colspan="2"| sh
+|colspan="5"| š
+| x
+| ^s
+| sh/ch
+| sy
+|-
+! <big>{{lang|ar|ص}}</big>
+| {{IPA link|ˤ|sˤ}}
+| ş
+|colspan="6"| ṣ
+| S
+| .s
+| s/9
+| sh
+|-
+! <big>{{lang|ar|ض}}</big>
+| {{IPA link|ˤ|dˤ}}
+| ḑ
+|colspan="6"| ḍ
+| D
+| .d
+| d/9'
+| dh
+|-
+! <big>{{lang|ar|ط}}</big>
+| {{IPA link|ˤ|tˤ}}
+| ţ
+|colspan="6"| ṭ
+| T
+| .t
+| t/6
+| th
+|-
+! <big>{{lang|ar|ظ}}</big>
+| {{IPA link|ðˤ}}~{{IPA link|zˤ}}
+| z̧
+|colspan="5"| ẓ
+| đ̣
+| Z
+| .z
+| z/dh/6'
+| zh
+|-
+! <big>{{lang|ar|ع}}</big>
+| {{IPA link|ʕ}}
+|colspan="3"| <span title="Modifier letter turned comma" style="font-size:160%">ʻ</span>
+|colspan="3"| <span title="Modifier letter left half ring" style="font-size:170%">ʿ</span>
+| ř
+| E
+| <span title="Grave accent" style="font-size:140%">'</span>
+| 3
+| '
+|-
+! <big>{{lang|ar|غ}}</big>
+| {{IPA link|ɣ}}
+|colspan="2"| gh
+| ḡ
+|colspan="2"| ġ
+| g
+| j
+| g
+| .g
+| gh/3'/8
+| gh
+|}
+
+There are a number of different standards for the [[romanization of Arabic]], i.e. methods of accurately and efficiently representing Arabic with the Latin script. There are various conflicting motivations involved, which leads to multiple systems. Some are interested in [[transliteration]], i.e. representing the ''spelling'' of Arabic, while others focus on [[Phonetic transcription|transcription]], i.e. representing the ''pronunciation'' of Arabic. (They differ in that, for example, the same letter {{lang|ar|[[ي]]}} is used to represent both a consonant, as in "'''y'''ou" or "'''y'''et", and a vowel, as in "m'''e'''" or "'''ea'''t".) Some systems, e.g. for scholarly use, are intended to accurately and unambiguously represent the phonemes of Arabic, generally making the phonetics more explicit than the original word in the Arabic script. These systems are heavily reliant on [[diacritic]]al marks such as "š" for the sound equivalently written ''sh'' in English. Other systems (e.g. the [[Bahá'í orthography]]) are intended to help readers who are neither Arabic speakers nor linguists with intuitive pronunciation of Arabic names and phrases.<ref>Kharusi, N. S. & Salman, A. (2011) The English Transliteration of Place Names in Oman. Journal of Academic and Applied Studies Vol. 1(3) September 2011, pp.&nbsp;1–27 Available online at www.academians.org</ref> These less "scientific" tend to avoid [[diacritics]] and use [[digraph (orthography)|digraphs]] (like ''sh'' and ''kh''). These are usually simpler to read, but sacrifice the definiteness of the scientific systems, and may lead to ambiguities, e.g. whether to interpret ''sh'' as a single sound, as in ''gash'', or a combination of two sounds, as in ''gashouse''. The [[ALA-LC]] romanization solves this problem by separating the two sounds with a [[Prime (symbol)|prime]] symbol ( ′ ); e.g., ''as′hal'' 'easier'.
+
+During the last few decades and especially since the 1990s, Western-invented text communication technologies have become prevalent in the Arab world, such as [[personal computers]], the [[World Wide Web]], [[email]], [[bulletin board system]]s, [[Internet Relay Chat|IRC]], [[instant messaging]] and [[mobile phone text messaging]]. Most of these technologies originally had the ability to communicate using the Latin script only, and some of them still do not have the Arabic script as an optional feature. As a result, Arabic speaking users communicated in these technologies by transliterating the Arabic text using the Latin script, sometimes known as IM Arabic.
+
+To handle those Arabic letters that cannot be accurately represented using the Latin script, numerals and other characters were appropriated. For example, the numeral "3" may be used to represent the Arabic letter {{angle bracket|{{lang|ar|ع}}}}. There is no universal name for this type of transliteration, but some have named it [[Arabic Chat Alphabet]]. Other systems of transliteration exist, such as using dots or capitalization to represent the "emphatic" counterparts of certain consonants. For instance, using capitalization, the letter {{angle bracket|{{lang|ar|د}}}}, may be represented by '''d'''. Its emphatic counterpart, {{angle bracket|{{lang|ar|ض}}}}, may be written as '''D'''.
+
+=== Numerals ===
+In most of present-day North Africa, the [[Western Arabic numerals]] (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) are used. However, in Egypt and Arabic-speaking countries to the east of it, the [[Eastern Arabic numerals]] ({{script/Arabic|٠}} – {{script/Arabic|١}} – {{script/Arabic|٢}} – {{script/Arabic|٣}} – {{script/Arabic|٤}} – {{script/Arabic|٥}} – {{script/Arabic|٦}} – {{script/Arabic|٧}} – {{script/Arabic|٨}} – {{script/Arabic|٩}}) are in use. When representing a number in Arabic, the lowest-valued [[positional notation|position]] is placed on the right, so the order of positions is the same as in left-to-right scripts. Sequences of digits such as telephone numbers are read from left to right, but numbers are spoken in the traditional Arabic fashion, with units and tens reversed from the modern English usage. For example, 24 is said "four and twenty" just like in the German language (''vierundzwanzig'') and [[Classical Hebrew]], and '''1975''' is said "a thousand and nine-hundred and five and seventy" or, more eloquently, "five and seventy and nine-hundred and a thousand."
+
+== Language-standards regulators ==
+[[Academy of the Arabic Language (disambiguation)|Academy of the Arabic Language]] is the name of a number of language-regulation bodies formed in the Arab League. The most active are in [[Academy of the Arabic Language in Damascus|Damascus]] and [[Academy of the Arabic Language in Cairo|Cairo]]. They review language development, monitor new words and approve inclusion of new words into their published standard dictionaries. They also publish old and historical Arabic manuscripts.
+{{see also|Arabic Language International Council}}
+
+== As a foreign language ==
+Arabic has been taught worldwide in many [[elementary school|elementary]] and [[secondary school|secondary]] schools, especially Muslim schools. Universities around the world have classes that teach Arabic as part of their [[Foreign Languages|foreign languages]], [[Middle Eastern studies]], and [[religious studies]] courses. [[Arabic language school]]s exist to assist students to learn Arabic outside the academic world. There are many Arabic [[language school]]s in the Arab world and other [[Muslim world|Muslim]] countries. Because the Quran is written in Arabic and all [[Glossary of Islam|Islamic terms]] are in Arabic, millions{{Citation needed|date=February 2016}} of Muslims (both Arab and non-Arab) study the language. Software and books with tapes are also important part of Arabic learning, as many of Arabic learners may live in places where there are no academic or Arabic language school classes available. Radio series of Arabic language classes are also provided from some radio stations.{{Citation needed|date=October 2012}} A number of websites on the [[Internet]] provide online classes for all levels as a means of distance education; most teach Modern Standard Arabic, but some teach regional varieties from numerous countries.<ref>{{cite web|title=Reviews of Language Courses|url=http://Lang1234.com|publisher=Lang1234|accessdate=12 September 2012}}</ref>
+
+==Arabic speakers and other languages==
+{{expand section|date=May 2013}}
+[[File:Bahrain classroom.jpg|thumb|In [[Bahrain]], Arabic is largely used in educational settings.]]
+Historically, Arab linguists considered the Arabic language to be superior to all other languages, and took almost no interest in learning any language other than Arabic {{Citation needed|date=January 2016}}. With the sole example of Medieval linguist [[Abu Hayyan al-Gharnati]] - who, while a scholar of the Arabic language, was not ethnically Arab - scholars of the Arabic language made no efforts at studying comparative linguistics, considering all other languages inferior.<ref>[[Kees Versteegh]], ''The Arabic Linguistic Tradition'', pg. 106. Part of Landmarks in Linguistic Thought series, vol. 3. [[New York City|New York]]: [[Routledge]], 1997. ISBN 978-0-415-15757-5</ref>
+
+In modern times, the educated upper classes in the Arab world have taken a nearly opposite view. [[Yasir Suleiman]] wrote in 2011 that "studying and knowing English or French in most of the Middle East and North Africa have become a badge of sophistication and modernity and&nbsp;... feigning, or asserting, weakness or lack of facility in Arabic is sometimes paraded as a sign of status, class, and perversely, even education through a mélange of code-switching practises."<ref>Suleiman, p. [https://books.google.com/books?id=FQAiPgBRUkoC&pg=PA93 93]</ref> [[Arab-American]] professor Franck Salamah went as far as to declare Arabic a dead language conveying dead ideas, blaming its stagnation for Arab intellectual stagnation and lamenting that great writers in Arabic are judged by their command of the language and not the merit of the ideas they express with it.<ref>Franck Salamah, [https://books.google.com/books?id=BL44ZZwSwbYC&pg=PR16 Language, Memory, and Identity in the Middle East: The Case for Lebanon], Introduction, pg. xvi. [[Lanham, Maryland|Lanham]]: [[Lexington Books]], 2010. ISBN 978-0-7391-3740-6</ref>
+
+== See also ==
+{{Portal|Islam}}
+{{col-begin}}{{col-break}}
+* [[Diglossia#Arabic|Arabic diglossia]]
+* [[AIDA - International Association of Arabic Dialectology]]
+* [[Arabic grammar]]
+* [[Arabic influence on the Spanish language]]
+* [[Arabic literature]]
+* [[Arabic–English Lexicon]]
+* [[Arabist]]
+* ''[[Dictionary of Modern Written Arabic]]''
+{{col-break|gap=4em}}
+* [[Glossary of Islam]]
+* [[List of Arabic neighborhoods]]
+* [[List of arabophones]]
+* [[List of countries where Arabic is an official language]]
+* [[List of French words of Arabic origin]]
+* [[List of Portuguese words of Arabic origin]]
+* [[List of replaced loanwords in Turkish]]
+{{col-end}}
+
+== References ==
+'''Notes'''
+{{Reflist|30em}}
+
+'''Bibliography'''
+{{Refbegin|colwidth=30em}}
+* {{Citation|first1=Mohamed|last1=Badawi|first2=Christian A.|last2=Caroli|title=As-Sabil: Grundlagen der arabischen Grammatik|language=German|location=Konstanz|year=2011}}
+* {{Citation|first1=Mary Catherine|last1=Bateson|title=Arabic Language Handbook|publisher=Georgetown University Press|year=2003|isbn=0-87840-386-8}}
+* {{Citation|last1=Durand|first1=Olivier|last2=Langone|first2=Angela D.|last3=Mion|first3=Giuliano|title=Corso di Arabo Contemporaneo. Lingua Standard|language=Italian|location=Milan|publisher=Hoepli|year=2010|isbn=978-88-203-4552-5}}
+* {{Citation |title= Language in Africa |last= Gregersen |first= Edgar A. |year= 1977 |publisher= CRC Press |location= |isbn= 0-677-04380-5}}
+* {{Citation|authorlink1=George Grigore|first1=George|last1=Grigore|year=2007|title=L'arabe parlé à Mardin. Monographie d'un parler arabe périphérique|location=Bucharest|publisher=Editura Universitatii din Bucuresti|isbn=978-973-737-249-9|url=http://www.arc-news.com/read.php?lang=en&id_articol=1059}}
+* {{Citation|title=Writing Arabic: A Linguistic Approach, from Sounds to Script |last1=Hanna|first1=Sami A.|first2=Naguib|last2=Greis |year=1972 |publisher=Brill Archive|isbn=90-04-03589-3}}
+* {{Citation|last1=Haywood|last2=Nahmad|title=A new Arabic grammar|location=London|year=1965|isbn=0-85331-585-X|publisher=Lund Humphries}}
+* {{Citation|title=The Semitic languages|first1=Robert|last1=Hetzron|edition=Illustrated|publisher=Taylor & Francis|year=1997|isbn=978-0-415-05767-7}}
+* {{Citation|last1=Irwin|first=Robert|year=2006|title=For Lust of Knowing|location=London|publisher=Allen Lane}}
+* {{Citation|first1=Robert B.|last1=Kaplan|first2=Richard B.|last2=Baldauf|title=Language Planning and Policy in Africa|publisher=Multilingual Matters|year=2007|isbn=1-85359-726-0}}
+* {{Citation |first1= Alan S.|last1= Kaye |year= 1991 |title= The Hamzat al-Waṣl in Contemporary Modern Standard Arabic |journal= Journal of the American Oriental Society |volume= 111 |issue= 3 |pages= 572–574 |publisher= American Oriental Society |doi= 10.2307/604273 |jstor= 604273}}
+* {{Citation|first=Edward William|last=Lane|title=Arabic–English Lexicon|year=1893|edition=2003 reprint|url=http://www.studyquran.co.uk/LLhome.htm|isbn=81-206-0107-6|publisher=Asian Educational Services|location=New Delhi}}
+* {{Citation|last=Lipinski|first=Edward|year=1997|title=Semitic Languages|location=Leuven|publisher=Peeters}}
+* {{Citation|last=Mion|first=Giuliano|title=La Lingua Araba|language=Italian|location=Rome|publisher=Carocci|year=2007| isbn=978-88-430-4394-1}}
+* {{Citation|last1=Mumisa|first1=Michael|title=Introducing Arabic|publisher=Goodword Books|year=2003|isbn=81-7898-211-0}}
+* {{Citation|first1=S.|last1=Procházka|year=2006|chapter="Arabic"|title=Encyclopedia of Language and Linguistics|edition=2nd}}
+* {{Citation|last1=Steingass|first1=Francis Joseph|authorlink=Francis Joseph Steingass|url=https://books.google.com/?id=3JXQh09i2JwC|title=Arabic–English Dictionary|publisher=Asian Educational Services|year=1993|isbn=978-81-206-0855-9}}
+* Suileman, Yasir. ''Arabic, Self and Identity: A Study in Conflict and Displacement''. [[Oxford University Press]], 10 August 2011. ISBN 0-19-974701-6, 978-0-19-974701-6.
+* {{Cite book
+|last = Thelwall
+|first= Robin
+|year= 2003
+|chapter= Arabic
+|publisher=Cambridge
+|location=Cambridge, UK
+|isbn=0-521-63751-1
+|title = Handbook of the International Phonetic Association a guide to the use of the international phonetic alphabet
+}}
+* {{Citation |first1=R. |last1=Traini |title=Vocabolario di arabo |publisher=I.P.O. |location=Rome |trans_title=Dictionary of Modern Written Arabic |language=Italian |agency= Harassowitz |year=1961}}
+* {{Citation |first1=Laura Veccia |last1=Vaglieri |title=Grammatica teorico-pratica della lingua araba |publisher=I.P.O. |location=Rome}}
+* {{Citation |first1=Kees |last1=Versteegh |title=The Arabic Language |publisher=Edinburgh University Press |year=1997 |isbn=90-04-17702-7}}
+* {{Citation
+|last = Watson
+|first= Janet
+|year= 2002
+|title= The Phonology and Morphology of Arabic
+|place=New York
+|publisher= Oxford University Press
+|isbn = 0-19-824137-2
+}}
+* {{Citation|first1=Hans|last1=Wehr|title=[[Arabisches Wörterbuch für die Schriftsprache der Gegenwart]]: Arabisch-Deutsch|publisher=Harassowitz|year=1952|edition=1985 reprint (English)|isbn=3-447-01998-0}}
+* {{Citation |title=The New York Times Almanac 2002 |first1=John W.|last1=Wright |year=2001 |publisher=Routledge |isbn=1-57958-348-2}}
+{{Refend}}
+
+== External links ==
+{{InterWiki|code=ar}}
+{{Wiktionary category}}
+{{Wikiversity}}
+{{Wikibooks|Arabic}}
+{{Commons category|Arabic language}}
+{{Wikivoyage|Arabic phrasebook|Arabic|a phrasebook}}
+* [[b:Language Learning Difficulty for English Speakers|Arabic: a Category III language]] Languages which are difficult for native English speakers.
+* [http://www1.ccls.columbia.edu/~cadim/TUTORIAL.ARABIC.NLP.pdf Dr. Nizar Habash's, Columbia University, Introduction to Arabic Natural Language Processing]
+* [http://www.google.com/ta3reeb/ Google Ta3reeb – Google Transliteration]
+* [http://transliteration.org/quran/Pronunciation/Letters/TashP.htm Transliteration] Arabic language pronunciation applet
+* [https://www.livelingua.com/fsi-arabic-course.php USA Foreign Service Institute Arabic basic course]
+*[http://alpage.inria.fr/~sagot/woler2011/WoLeR2011/Program_&_Proceedings_files/WoLeR%202011%20-%20Neme.pdf '' Alexis Neme  (2011), A lexicon of Arabic verbs constructed on the basis of Semitic taxonomy and using finite-state transducers'']
+*[https://halshs.archives-ouvertes.fr/hal-00831338 '' Alexis Neme  and Eric Laporte (2013), Pattern-and-root inflectional morphology: the Arabic broken plural'']
+*[https://www.academia.edu/13002690/Do_computer_scientists_deeply_understand_the_traditional_Arabic_morphology_%D9%87%D9%84_%D9%8A%D9%81%D9%87%D9%85_%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%88%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%D9%8A%D9%91%D9%88%D9%86_%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B5%D8%B1%D9%81_%D9%81%D9%87%D9%85%D8%A7%D9%8B_%D8%B9%D9%85%D9%8A%D9%82%D8%A7%D9%8B_   ''Alexis Neme  and Eric Laporte (2015), Do computer scientists deeply understand Arabic morphology? - هل يفهم المهندسون الحاسوبيّون علم الصرف فهماً عميقاً؟'', available also in Arabic, Indonesian, French]
+* {{Cite NIE |last=Jastrow |first=Morris |authorlink=Morris Jastrow, Jr. |wstitle=Arabic Language and Literature |year=1905 |short=x}}
+
+{{Arabic language}}
+{{Language histories}}
+{{Modern Semitic languages}}
+{{Varieties of Arabic}}
+{{Semitic languages}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arabic Language}}
+[[Category:Arabic language| ]]
+[[Category:Central Semitic languages]]
+[[Category:Fusional languages]]
+[[Category:Languages of Algeria]]
+[[Category:Languages of Bahrain]]
+[[Category:Languages of Chad]]
+[[Category:Languages of Comoros]]
+[[Category:Languages of Djibouti]]
+[[Category:Languages of Eritrea]]
+[[Category:Languages of Gibraltar]]
+[[Category:Languages of Iraq]]
+[[Category:Languages of Jordan]]
+[[Category:Languages of Kuwait]]
+[[Category:Languages of Lebanon]]
+[[Category:Languages of Libya]]
+[[Category:Languages of Mauritania]]
+[[Category:Languages of Morocco]]
+[[Category:Languages of Oman]]
+[[Category:Languages of Qatar]]
+[[Category:Languages of Saudi Arabia]]
+[[Category:Languages of Somalia]]
+[[Category:Languages of Sudan]]
+[[Category:Languages of Syria]]
+[[Category:Languages of the United Arab Emirates]]
+[[Category:Languages of Tunisia]]
+[[Category:Languages of Yemen]]
+[[Category:Languages of Trinidad and Tobago]]
+[[Category:Requests for audio pronunciation (Arabic)]]
+[[Category:Stress-timed languages]]
+[[Category:Subject–verb–object languages]]
+[[Category:Languages of Palestine]]

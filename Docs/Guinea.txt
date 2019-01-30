@@ -1,0 +1,503 @@
+Guinea
+
+{{other uses}}
+{{Use dmy dates|date=October 2012}}
+{{Coord|11|N|10|W|display=title}}
+{{Infobox country
+| conventional_long_name = Republic of Guinea
+| native_name = ''République de Guinée''
+| common_name = Guinea
+| image_flag = Flag of Guinea.svg
+| image_coat =Coat of arms of Guinea-new.svg
+| image_map = Location Guinea AU Africa.svg
+| map_caption = {{map caption|countryprefix=|location_color=dark blue|region=Africa|region_color=dark grey|subregion=the [[African Union]]|subregion_color=light blue}}
+| image_map2 = Guinea - Location Map (2013) - GIN - UNOCHA.svg
+| national_motto = {{native phrase|fr|"Travail, Justice, Solidarité"|italics=off}}<br/>{{small|"Work, Justice, Solidarity"}}
+| national_anthem = {{native name|fr|[[Liberté]]|nolink=on}}<br/>{{small|''Freedom''}}<br/><center>[[File:National Anthem of Guinea by US Navy Band.ogg]]</center>
+| official_languages = French
+| languages_type = [[Vernacular language|Vernacular<br/>language]]s
+| languages = {{unbulleted list |[[Maninka language|Maninka]]
+[[Fula language|Fula]] | |[[Susu language|Susu]]}}
+| demonym = Guinean
+| ethnic_groups =
+ {{unbulleted list
+  | {{nowrap|35.0% [[Fula people|Fula]]}}
+  | 35.0% [[Mandinka people|Mandinka]]
+  | 15.0% [[Susu people|Susu]]
+  | 5.0% [[Kissi people|Kissi]]
+  | 5.0% [[Kpelle people|Kpelle]]
+  | 5.0% others<ref name="guinea_stats">{{cite web|title=Nations Online: Guinea - Republic of Guinea - West Africa|url=http://www.nationsonline.org/oneworld/guinea.htm|publisher=Nations Online|accessdate=25 August 2014|deadurl=no|archiveurl=http://www.webcitation.org/6S6IuEJCO|archivedate=25 August 2014}}</ref>
+ }}
+| ethnic_groups_year =
+| capital = [[Conakry]]
+| latd=9 |latm=31 |latNS=N |longd=13 |longm=42 |longEW=W
+| largest_city = capital
+| government_type = [[Presidential republic]]
+| leader_title1 = [[List of heads of state of Guinea|President]]
+| leader_name1 = [[Alpha Condé]]
+| leader_title2 = [[List of heads of government of Guinea|Prime Minister]]
+| leader_name2 = [[Mamady Youla]]
+| legislature = [[National Assembly (Guinea)|National Assembly]]
+| area_rank = 78th
+| area_magnitude = 1 E11
+| area_km2 = 245,836
+| area_sq_mi = 94,926 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = negligible
+| population_estimate = 8,746,128<ref name=cia>{{cite web |author=Central Intelligence Agency |authorlink=Central Intelligence Agency |publisher=[[The World Factbook]] |title=Guinea |url=https://www.cia.gov/library/publications/the-world-factbook/geos/gv.html |year=2009 |accessdate=28 January 2010}}</ref>
+| population_estimate_rank = 81st
+| population_estimate_year = 2000
+| population_census = 11,628,972
+| population_census_year = 2014
+| population_density_km2 = 40.9
+| population_density_sq_mi = 106.1 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_densty_rank = 164th
+| GDP_PPP = $16.214&nbsp;billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=62&pr1.y=9&c=614%2C668%2C638%2C674%2C616%2C676%2C748%2C678%2C618%2C684%2C624%2C688%2C622%2C728%2C626%2C692%2C628%2C694%2C632%2C714%2C636%2C716%2C634%2C722%2C662%2C718%2C642%2C724%2C643%2C199%2C644%2C733%2C646%2C734%2C648%2C738%2C652%2C742%2C656%2C746%2C654%2C754%2C664%2C698%2C666&s=NGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Guinea |publisher=International Monetary Fund |accessdate=18 April 2012}}</ref> <!--Do not edit!-->
+| GDP_PPP_year = 2016
+| GDP_PPP_per_capita = $1,281<ref name=imf2/> <!--Do not edit!-->
+| GDP_nominal = $7.067&nbsp;billion<ref name=imf2/> <!--Do not edit!-->
+| GDP_nominal_year = 2016
+| GDP_nominal_per_capita = $558<ref name=imf2/> <!--Do not edit!-->
+| sovereignty_type = [[Independence]]
+| established_event1 = from [[France]]
+| established_date1 = 2 October 1958
+| Gini_year = 1994
+| Gini_change =  <!--increase/decrease/steady-->
+| Gini = 70.3 <!--number only-->
+| Gini_ref = |Gini_rank =
+| HDI_year = 2013<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = decrease<!--increase/decrease/steady-->
+| HDI = 0.412 <!--number only-->
+|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |date=2014 |accessdate=27 July 2014 |publisher=United Nations Development Programme | pages=21–25}}</ref>
+| HDI_rank = 179th
+| FSI = {{nowrap|101.3 {{increase}} 2.3}}
+| FSI_year = 2007
+| FSI_rank = 9th
+| FSI_category = <span style="color:#f00;white-space:nowrap;">Alert</span>
+| currency = [[Guinean franc]]
+| currency_code = GNF
+| country_code =
+| time_zone =
+| utc_offset = +0
+| time_zone_DST = | utc_offset_DST =
+| drives_on = right
+| calling_code = [[+224]]
+| cctld = [[.gn]]
+}}
+
+'''Guinea''' {{IPAc-en|audio=En-us-Guinea.ogg|ˈ|ɡ|ɪ|n|i}}, officially the '''Republic of Guinea''' ({{lang-fr|link=no|République de Guinée}}), is a country in [[West Africa]]. Formerly known as [[French Guinea]] ({{lang-fr|Guinée française}}), the modern country is sometimes referred to as '''Guinea-Conakry''' in order to distinguish it from other parts of the [[Guinea (region)|wider region of the same name]], such as [[Guinea-Bissau]] and [[Equatorial Guinea]].<ref>See, for example, [http://www.uiowa.edu/~africart/toc/countries/Guinea-Conakry.html Univ. of Iowa map], [http://www.musicvideos.the-real-africa.com/guinea/ Music Videos of Guinea Conakry – Clips Guineens], [http://netministries.org/see/churches/ch00472 The Anglican Diocese of Guinea – Conakry], [http://www.cfi.fr/partenaires_en.php3?id_rubrique=24&id_article=473 Canal France International's English-language page for Guinea Conakry]</ref> Guinea has a population of 10.5 million and an area of {{convert|245,860|km2|sqmi|0}}.<ref name="guinea_stats"/>
+
+Guinea is a [[republic]]. The president is directly elected by the people and is [[head of state]] and [[head of government]].  The unicameral [[National Assembly (Guinea)|Guinean National Assembly]] is the [[legislative body]] of the country, and its members are also directly elected by the people.  The judicial branch is led by the Guinea Supreme Court, the highest and final court of appeal in the country.<ref name="reuters.com">Guinea Election, 16 November 2013, Reuters, http://www.reuters.com/article/2013/11/16/us-guinea-election-idUSBRE9AF0AP20131116</ref>
+
+Guinea is a predominantly [[Islam]]ic country, with [[Muslim]]s representing 85 percent of the population.<ref>{{cite web|url=http://www.visualgeography.com/categories/guinea/religion.html][http://www.ecobank.com/countryinfo.aspx?cid=74049][http://www.uiowa.edu/~africart/toc/countries/Guinea-Conakry.html|title=Visual Geography|publisher=|accessdate=15 October 2014}}</ref> Guinea's people belong to twenty-four [[Demographics of Guinea|ethnic groups]].  French, the official language of Guinea, is the main language of communication in schools, in government administration, in the media, but more than twenty-four indigenous languages are also spoken.
+
+Guinea's economy is largely dependent on agriculture and [[mineral]] production.<ref>{{cite web|url=http://www.africa-import-export.gm/import-export/guinea-conakry.htm|title=Guinea Conakry: Major Imports, Exports, Industries & Business Opportunities in Guinea Conakry, Africa|publisher=|accessdate=15 October 2014}}</ref> It is the world's second largest producer of [[bauxite]], and has rich deposits of [[diamonds]] and [[gold]].<ref name="guineaconakrysupport.com">{{cite web|url=http://www.guineaconakrysupport.com/?lang=en|title=Guinea Conakry Support - Guinee Conakry Trade and Support. (GCTS)|publisher=|accessdate=15 October 2014}}</ref>
+
+[[Human rights in Guinea]] remain a controversial issue. In 2011 the United States government claimed that [[torture]] by security forces, and abuse of women and children (e.g. [[female genital mutilation]]) were ongoing abuses of human rights.<ref name='State 2011'>{{cite web | url = http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?dlid=186203 | title = Country Reports on Human Rights Practices for 2011: Guinea | accessdate =27 August 2012 | author = [[Bureau of Democracy, Human Rights and Labor]] | year = 2012 | publisher = [[United States Department of State]]}}</ref>
+
+The country is named after the [[Guinea (region)|Guinea region]]. Guinea is a traditional name for the region of Africa that lies along the [[Gulf of Guinea]]. It stretches north through the [[Tropical and subtropical moist broadleaf forests|forested tropical regions]] and ends at the [[Sahel]]. The English term Guinea comes directly from the [[Portuguese language|Portuguese]] word ''Guiné'', which emerged in the mid-15th century to refer to the lands inhabited by the ''Guineus'', a generic term for the black African peoples below the [[Senegal River]], as opposed to the '[[Tawny (color)|tawny]]' Zenaga Berbers, above it, whom they called ''Azenegues'' or [[Moors]].
+
+The country was at the core of the [[2014 Ebola outbreak]].
+
+==History==
+{{Main|History of Guinea}}
+The land that is now Guinea belonged to a series of African empires until France colonized it in the 1890s, and made it part of [[French West Africa]]. Guinea declared its independence from France on 2 October 1958. Since independence until the [[Guinean presidential election, 2010|presidential election]] of 2010, Guinea was governed by a number of [[Autocracy|autocratic]] rulers.<ref>{{cite web
+| last = Zounmenou
+| first = David
+| title = Guinea: Hopes for Reform Dashed Again
+| publisher=allAfrica.com
+| date = 2 January 2009
+| url = http://allafrica.com/stories/200901020524.html
+| accessdate =27 December 2009}}</ref><ref>{{cite web|url=http://hdrstats.undp.org/en/countries/country_fact_sheets/cty_fs_GIN.html |title=UN Human Development Report 2009 |publisher=Hdrstats.undp.org |accessdate=28 March 2010}}</ref><ref>{{cite news|last=Ross |first=Will |url=http://news.bbc.co.uk/2/hi/africa/7647962.stm |title=Africa &#124; Guineans mark '50 years of poverty' |publisher=BBC News  |date=2 October 2008 |accessdate=28 March 2010}}</ref>
+
+===West African empires and Kingdoms in Guinea===
+{{main|Imamate of Futa Jallon|Wassoulou Empire}}
+What is now Guinea was on the fringes of the major [[West Africa]]n empires. The [[Ghana Empire]] is believed to be the earliest of these which grew on trade but contracted and ultimately fell due to the hostile influence of the [[Almoravids]]. It was in this period that Islam first arrived in the region.
+
+The [[Sosso]] kingdom (12th to 13th centuries) briefly flourished in the void but the Islamic [[Malinke people|Manding]] [[Mali Empire]] came to prominence when [[Sundiata Keita|Soundiata Kéïta]] defeated the Sosso ruler, [[Soumaoro Kanté|Soumangourou Kanté]] at the semi-historical [[Battle of Kirina]] in c. 1235. The Mali Empire was ruled by [[Mansa (title)|Mansa]] (Emperors), the most famous being [[Musa I of Mali|Kankou Moussa]], who made a famous [[hajj]] to Mecca in 1324. Shortly after his reign the Mali Empire began to decline and was ultimately supplanted by its [[vassal]] states in the 15th century.
+
+The most successful of these was the [[Mali Empire and Songhoi Empire]], expanding its power from about 1460, and eventually surpassing the Mali Empire in both territory and wealth. It continued to prosper until a civil war over succession followed the death of [[Askia Daoud]] in 1582. The weakened empire fell to invaders from [[Morocco]] at the [[Battle of Tondibi]] just 3 years later. The Moroccans proved unable to rule the kingdom effectively, however, and it split into many small kingdoms.
+[[File:Almamy Samory Touré.jpg|thumb|[[Samori Toure]] was the founder of the [[Wassoulou Empire]], an [[Islamic]] state in present-day Guinea that resisted [[France|French]] colonial rule in [[West Africa]] from 1882 until Ture's capture in 1898.]]
+After the fall of the major West African empires, various kingdoms existed in what is now Guinea. [[Fulani]] Muslims migrated to [[Futa Jallon]] in Central Guinea and established an Islamic state from 1735 to 1898 with a written constitution and alternate rulers. The Wassoulou or Wassulu empire was a short-lived (1878–1898) empire, led by [[Samori Toure]] in the predominantly [[Mandinka people|Malinké]] area of what is now upper Guinea and southwestern [[Mali]] (Wassoulou). It moved to [[Ivory Coast]] before being conquered by the French. Guinea was the country Mufasa died.
+
+===Colonial era===
+The [[slave trade]] came to the coastal region of Guinea with European traders in the 16th century. Slavery had always been part of everyday life but the scale increased as slaves were exported to work elsewhere in the [[triangular trade]].
+
+Guinea's colonial period began with French military penetration into the area in the mid-19th century. French domination was assured by the defeat in 1898 of the armies of [[Samori Touré]], Mansa (or Emperor) of the [[Ouassoulou]] state and leader of Malinké descent, which gave France control of what today is Guinea and adjacent areas.
+
+France negotiated Guinea's present boundaries in the late 19th and early 20th centuries with the British for [[Sierra Leone]], the Portuguese for their Guinea colony (now [[Guinea-Bissau]]), and [[Liberia]]. Under the French, the country formed the [[French Guinea|Territory of Guinea]] within [[French West Africa]], administered by a governor general resident in [[Dakar]]. Lieutenant governors administered the individual colonies, including Guinea.
+
+===Independence and post-colonial rule (1958-2008)===
+In 1958 the [[French Fourth Republic]] collapsed due to political instability and its failures in dealing with its colonies, especially [[Indochina]] and [[Algeria]]. The founding of a [[French Fifth Republic|Fifth Republic]] was supported by the French people, while French President [[Charles de Gaulle]] made it clear on 8 August 1958 that France's colonies were to be given a stark choice between more [[Autonomous entity|autonomy]] in a new [[French Community]] and immediate independence in the referendum to be held on 28 September 1958. The other colonies chose the former but Guinea — under the leadership of [[Ahmed Sékou Touré]] whose [[Democratic Party of Guinea – African Democratic Rally|Democratic Party of Guinea]] (PDG) had won 56 of 60 seats in 1957 territorial elections — voted overwhelmingly for independence. The French withdrew quickly, and on 2 October 1958, Guinea proclaimed itself a sovereign and independent republic, with Sékou Touré as president.
+[[File:Ahmed Sékou Touré na obisku v Ljubljani 1961 (3).jpg|thumb|President [[Ahmed Sékou Touré]] was supported by the Communist bloc states and in 1961 visited [[Yugoslavia]].]]
+
+Following France's withdrawal, Guinea quickly aligned itself with the [[Soviet Union]] and adopted [[Socialism|socialist]] policies. This alliance was short lived, however, as Guinea moved towards a Chinese model of socialism. Despite this, however, the country continued to receive aid and investment from [[capitalism|capitalist]] countries such as the U.S.. Even the relationship with France improved, after the election of [[Valéry Giscard d'Estaing]] as president, trade increased and the two countries exchanged diplomatic visits.
+
+By 1960, Touré had declared the PDG the only legal party.  For the next 24 years, the government and the PDG were one.  Touré was reelected unopposed to four seven-year terms as president, and every five years voters were presented with a single list of PDG candidates for the National Assembly.  Advocating a hybrid [[African Socialism]] domestically and [[Pan-Africanism]] abroad, Touré quickly became a polarising leader, and his government became intolerant of dissent, imprisoning hundreds, and stifling free press.
+
+At the same time, the Guinean government nationalised land, removed French appointed and traditional chiefs from power, and broke ties with French government and companies. Vacillating between support for the [[Soviet Union]] and (by the late 1970s) the United States, Guinea's economic situation became as unpredictable as its diplomatic line. Alleging plots and conspiracies against him at home and abroad, Touré’s regime targeted real and imagined opponents, driving thousands of political opponents into exile.
+
+In 1970, Portuguese forces, from neighboring [[Portuguese Guinea]], staged [[Operation Green Sea]], a raid into Guinea with the support of exiled Guinean opposition forces. Among other goals, the Portuguese military wanted to kill or capture Sekou Toure due his support of the [[PAIGC]], a guerilla movement operating inside Portuguese Guinea.<ref>"Mr Sekou Touré, who gave the PAIGC unstinted support during its war against the Portuguese,..."[http://www.economist.com/world/mideast-africa/displaystory.cfm?story_id=13213487 Black revolt], [[The Economist]] (22 November 1980)</ref> After several days of fierce fighting, the Portuguese forces retreated after achieving most of their goals. The regime of Sékou Touré increased the number of internal arrests and executions.
+[[File:22novemberdetail.JPG|thumb|Monument to commemorate the 1970 military victory over the Portuguese raid. The only objective not accomplished by the Portuguese raid was the capture of Ahmed Sékou Touré.]]
+Sékou Touré died on 26 March 1984 after a heart operation in the United States, and was replaced by [[Heads of Government of Guinea|Prime Minister]] [[Louis Lansana Beavogui]], who was to serve as interim president pending new elections.
+
+The PDG was due to elect a new leader on 3 April 1984.  Under the constitution, that person would have been the only candidate for president.  However, hours before that meeting, Colonels [[Lansana Conté]] and [[Diarra Traoré]] seized power in a bloodless [[coup]]. Conté assumed the role of president, with Traoré serving as prime minister until December.
+
+Conté immediately denounced the previous regime’s record on [[human rights]], released 250 political prisoners and encouraged approximately 200,000 more to return from exile. He also made explicit the turn away from socialism, but this did little to alleviate poverty and the country showed no immediate signs of moving towards [[democracy]].
+
+In 1992, Conté announced a return to civilian rule, with a presidential poll in 1993 followed by elections to parliament in 1995 (in which his party - the [[Party of Unity and Progress]] - won 71 of 114 seats.) Despite his stated commitment to democracy, Conté's grip on power remained tight. In September 2001 the opposition leader [[Alpha Condé]] was imprisoned for endangering state security, though he was pardoned 8 months later. He subsequently spent a period of exile in France.
+
+In 2001 Conté organized and won a referendum to lengthen the presidential term and in 2003 begun his third term after elections were boycotted by the opposition. In January 2005, Conté survived a suspected assassination attempt while making a rare public appearance in the capital [[Conakry]]. His opponents claimed that he was a "tired dictator"<ref>[http://www.guinea-forum.org/Analyses/index.asp?ana=28&Lang=A ] {{wayback|url=http://www.guinea-forum.org/Analyses/index.asp?ana=28&Lang=A |date=20070616165043 }}</ref> whose departure was inevitable, whereas his supporters believed that he was winning a battle with dissidents. Guinea still faces very real problems and according to [[Foreign Policy]] is in danger of becoming a [[failed state]].<ref>{{cite web | url=http://www.foreignpolicy.com/story/cms.php?story_id=4350 | title= Failed States list 2008 | publisher = Fund for Peace | accessdate=2008-06-27 }}</ref>
+
+In 2000 Guinea became embroiled in the instability which had long blighted the rest of [[West Africa]] as rebels crossed the borders with [[Liberia]] and [[Sierra Leone]] and it seemed for a time that the country was headed for [[civil war]].<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/africa/986375.stm | work=BBC News | title=Civil war fears in Guinea | date=23 October 2000 | accessdate=2 April 2010}}</ref> Conté blamed neighbouring leaders for coveting Guinea's natural resources, though these claims were strenuously denied.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/africa/1102574.stm | work=BBC News | title=Guinea head blames neighbours | date=6 January 2001 | accessdate=2 April 2010}}</ref> In 2003 Guinea agreed to plans with her neighbours to tackle the insurgents. In 2007 there were [[2007 Guinean general strike|big protests]] against the government, resulting in the appointment of a new prime minister.<ref>{{cite web|url=http://www.aspr.ac.at/epu/research/rp_0307.pdf |title=Austrian Study Centre for Peace and Conflict Resolution (ASPR) &#124; Peace Castle Austria |publisher=ASPR |date= |accessdate=2013-09-09}}</ref>
+
+===Recent history===
+Conté remained in power until his death on 23 December 2008<ref>{{cite news
+| last = McGreal
+| first = Chris
+| title = Lansana Conté profile: Death of an African 'Big Man'
+|work=The Guardian
+| location=London
+| date = 23 December 2008
+| url = http://www.guardian.co.uk/world/2008/dec/23/lansana-conte-profile
+| accessdate =23 December 2009}}</ref> and several hours following his death, [[Moussa Dadis Camara]] seized control in a [[2008 Guinean coup d'état|coup]], declaring himself head of a [[military junta]].<ref>{{cite news
+| last = Walker
+| first = Peter
+| title = Army steps in after Guinea president Lansana Conté dies
+|work=The Guardian
+| location=London
+| date = 23 December 2008
+| url = http://www.guardian.co.uk/world/2008/dec/23/guinea-dictator-lansana-conte-dies
+| accessdate =23 December 2009}}</ref>
+
+Protests against the coup became violent and 157 people were killed when, on 28 September 2009, the junta ordered its soldiers to attack people who had gathered to protest Camara's attempt to become president.<ref>{{cite news
+| title = Guinea massacre toll put at 157
+|publisher=BBC
+| date = 29 September 2009
+| url = http://news.bbc.co.uk/2/hi/8280603.stm
+| accessdate =23 December 2009 | location=London}}</ref> The soldiers went on a rampage of rape, mutilation, and murder which caused many foreign governments to withdraw their support for the new regime.<ref name = "NYT">{{cite news
+| last = MacFarquhar
+| first = Neil
+| title = U.N. Panel Calls for Court in Guinea Massacre
+|work=The New York Times
+| date = 21 December 2009
+| url = http://www.nytimes.com/2009/12/22/world/africa/22guinea.html
+| accessdate =23 December 2009}}</ref>
+
+On 3 December 2009, an aide shot Camara during a dispute about the rampage of September. Camara went to Morocco for medical care.<ref name = "NYT"/><ref>{{cite web
+| title = Guinean soldiers look for ruler's dangerous rival
+| publisher=malaysianews.net
+| date = 5 December 2009
+| url = http://www.malaysianews.net/story/573838
+| accessdate =23 December 2009}}</ref> Vice-President (and defense minister) [[Sékouba Konaté]] flew back from [[Lebanon]] to run the country in Camara's absence.<ref>[http://news.xinhuanet.com/english/2009-12/16/content_12658142.htm Guinea's presidential guard explains assassination motive]. [[Xinhua]]. 16 December 2009.</ref> On 12 January 2010 Camara was flown from Morocco to [[Burkina Faso]].<ref>[http://news.yahoo.com/s/ap/20100112/ap_on_re_af/af_burkina_faso_guinea_leader Brahima Ouedraogo, "Guinea leader arrives in Burkina Faso", Associated Press/Yahoo News (12 January 2009)] {{wayback|url=http://news.yahoo.com/s/ap/20100112/ap_on_re_af/af_burkina_faso_guinea_leader |date=20150611004131 }}</ref> After meeting in [[Ouagadougou]] on 13 and 14 January, Camara, Konaté and [[Blaise Compaoré]], President of Burkina Faso, produced a formal statement of twelve principles promising a return of Guinea to civilian rule within six months.{{citation needed|date=June 2014}} It was agreed that the military would not contest the forthcoming elections, and Camara would continue to remain outside of Guinea.<ref>{{cite web|author=celine says: |url=http://www.newstimeafrica.com/archives/10414 |title="In Full: Declaration Made in Burkina Faso Between Dadis Camara and Sekouba Konate", ''Newstime Africa'' (16 January 2010) |publisher=Newstimeafrica.com |accessdate=28 March 2010}}</ref> On 21 January 2010 the military junta appointed [[Jean-Marie Doré]] as Prime Minister of a six-month transition government, leading up to elections.<ref>[http://www.reuters.com/article/idUSLDE60K1L120100121?type=marketsNews "Guinea junta officially names Dore prime minister"], Reuters, 21 January 2010.</ref>
+
+The presidential election was held on 27 June<ref>[http://www.afrol.com/articles/35415 afrol News – Election date for Guinea proposed]. Afrol.com. Retrieved on 28 June 2011.</ref><ref name=transitional>[http://news.xinhuanet.com/english/2010-01/16/content_12820272.htm Guinea to hold presidential elections in six months _English_Xinhua]. News.xinhuanet.com (16 January 2010). Retrieved on 28 June 2011.</ref> and was the first free and fair election since independence in 1958. Ex-Prime Minister [[Cellou Dalein Diallo]] and his rival [[Alpha Condé]] emerged as the two runners-up for the second round.<ref>{{cite news| url=http://www.bbc.co.uk/news/10499343 |work=BBC News | title=Guinea election goes to run-off as Diallo falls short | date=3 July 2010}}</ref> However, due to allegations of electoral fraud, the second round of the election was postponed until 19 September 2010.<ref>{{cite news| url=http://www.bbc.co.uk/news/world-africa-10920366 |work=BBC News | title=Guinea sets date for presidential run-off vote | date=9 August 2010}}</ref> On 22 September 2010, the second round was delayed again until 10 October.<ref>[http://www.reuters.com/article/idUSTRE68L5RX20100922 Saliou Samb, "Guinea election body proposes 10 October run-off", '&#39;Reuters'&#39; (22 September 2010)]. Reuters.com. Retrieved on 28 June 2011.</ref> Another delay, until 24 October, was announced in early October.<ref>[http://english.aljazeera.net/news/africa/2010/10/201010521331725239.html "Guinea run-off election date set", '&#39;Al Jazeera'&#39; (5 October 2010)]. [[English.aljazeera.net]] (5 October 2010). Retrieved on 28 June 2011.</ref> Elections were finally held on 7 November. Voter turnout was high, and the elections went relatively smoothly.<ref>[http://www.bbc.co.uk/news/world-africa-11705147 "Guinea sees big turnout in presidential run-off poll", '&#39;BBC'&#39; (7 November 2010)]. Bbc.co.uk (7 November 2010). Retrieved on 28 June 2011.</ref> On 16 November 2010, [[Alpha Condé]], the leader of the opposition party [[Rally of the Guinean People]] (RGP), was officially declared the winner. He promised to reform the security sector and review mining contracts.<ref>[http://www.iol.co.za/news/africa/conde-declared-victorious-in-guinea-1.831341 Conde declared victorious in Guinea – Africa | IOL News]. IOL.co.za (16 November 2010). Retrieved on 28 June 2011.</ref>
+
+On the night of 18 July 2011, President Condé's residence was attacked in an attempted coup.<ref>[http://allafrica.com/stories/201107190453.html Guinea: Conde's Residence Hit By Rocket Fire]. allAfrica.com (19 July 2011).</ref><ref>Jean, Tamba. (5 August 2011) [http://allafrica.com/stories/201108050223.html Guinea: 16 Charged With Assassination Attempt On Leader]. allAfrica.com.</ref>
+
+In April 2012, President Condé postponed legislative elections indefinitely, citing the need to ensure that they were "transparent and democratic".<ref name="RNW Africa Desk">{{cite web|title=Guinea president postpones parliamentary elections indefinitely|url=http://www.rnw.nl/africa/article/guinea-president-postpones-parliamentary-elections-indefinitely|publisher=Radio Netherlands Worldwide|accessdate=22 August 2012|author=RNW Africa Desk|date=28 April 2012}}</ref>
+
+====2013 Protests====
+{{Update section|date=November 2015}}
+The opposition coalition withdrew from the electoral process in mid-February, mainly due to President Conde's insistence on using a suspicious South African firm [[Waymark Infotech]] to draw up the registered voter list.<ref name="Reuters">{{cite web| title= Security forces break up Guinea opposition funeral march| publisher= Reuters| url= http://uk.reuters.com/article/2013/03/08/uk-guinea-clashes-idUKBRE92714Z20130308 | date=8 March 2013}}</ref><ref name=SAL>{{cite web| title=Guinea electoral body appoints South African firm | author=Salon| publisher=Salon| url=http://www.salon.com/2013/02/15/guinea_electoral_body_appoints_south_african_firm/| date=15 February 2013}}</ref> In late February 2013, [[2013 Guinea Violence|political violence erupted in Guinea]] after protesters took to the streets to voice their concerns over the transparency of the upcoming May 2013 elections. The demonstrations were fueled by the opposition coalition’s decision to step down from the electoral process in protest at the lack of transparency in the preparations for elections.<ref name=Rone>{{cite web| title=Guinea opposition pulls out of legislative elections process | author=Reuters| publisher=Reuters| url=http://www.reuters.com/article/2013/02/24/guinea-elections-opposition-idUSL6N0BO39F20130224 | date=24 February 2013}}</ref> Nine people were killed during the protests, while around 220 were injured, and many of the deaths and injuries were caused by security forces using live fire on protesters.<ref name="Reuters"/><ref name=Rtwo>{{cite web| title=Two more killed in Guinea as protests spread | author=Daniel Flynn| publisher=Reuters| url=http://www.reuters.com/article/2013/03/05/guinea-clashes-idUSL6N0BXK3S20130305 | date=5 March 2013}}</ref>
+
+The political violence also led to inter-ethnic clashes between the [[Fula people|Fula]] and [[Malinke]] peoples, the latter forming the base of support for President Condé, with the former mainly supporting the opposition.<ref>{{cite web| title=Ethnic Clashes Erupt in Guinea Capital | author=Reuters| publisher=Voice of America| url=http://www.voanews.com/content/ethnic-clashes-erupt-in-guinea-capital-reuters/1613697.html | date=1 March 2013}}</ref>
+
+On 26 March 2013 the opposition party backed out of the negotiation with the government over the upcoming 12 May election. The opposition claimed that the government has not respected them, and have not kept any promises they agreed to. This is expected to lead to more protests and fighting in the streets of Guinea.<ref>{{cite web| title=Guinea election talks fail, opposition threatens protests | author=Bate Felix| publisher=Reuters| url=http://www.reuters.com/article/2013/03/26/us-guinea-election-idUSBRE92P11320130326| date=26 March 2013}}</ref>
+
+====Ebola virus outbreak====
+On 25 March 2014, the [[World Health Organization]] said that [[Ministry of Health (Guinea)|Guinea's Ministry of Health]] had reported [[Ebola virus epidemic in Guinea|an outbreak]] of [[Ebola virus disease]] in Guinea. This initial outbreak had a total of 86 cases, including 59 deaths. By 28 May, there were 281 cases, with 186 deaths.<ref>{{cite web |url=http://www.cdc.gov/vhf/ebola/outbreaks/guinea/recent_updates.html |title=Previous Updates: 2014 West Africa Outbreak |publisher=Centers for Disease Control and Prevention|accessdate= 23 November 2015}}</ref> It is believed that the first case was Emile Ouamouno, a 2-year-old boy who lived in the village of [[Meliandou]]. He fell ill on 2 December 2013 and died on 6 December.<ref>{{cite web|url=http://edition.cnn.com/2014/10/28/health/ebola-patient-zero/index.html|title=Ebola: Patient zero was a toddler in Guinea - CNN.com|date=28 October 2014|work=CNN|accessdate=23 November 2015}}</ref><ref>{{cite web|url=http://www.ibtimes.com/ebola-patient-zero-emile-ouamouno-guinea-first-contract-disease-1714698|title=Ebola Patient Zero: Emile Ouamouno Of Guinea First To Contract Disease|date=28 October 2014|work=International Business Times|accessdate=23 November 2015}}</ref> On 18 September 2014, eight members of an Ebola education health care team [[Womey Massacre|were murdered]] by villagers in the town of [[Womey]].<ref>{{cite news|url=http://online.wsj.com/articles/arrests-made-in-killings-of-guinea-ebola-education-team-1411144837|title=Arrests Made in Killings of Guinea Ebola Education Team|work=Wall Street Journal|date=19 September 2014|accessdate=23 November 2015}}</ref> As of 1 November 2015, there have been 3,810 cases and 2,536 deaths in Guinea.<ref>{{cite web| url=http://apps.who.int/ebola/current-situation/ebola-situation-report-4-november-2015| title=Ebola Situation Report - 4 November 2015| publisher=World Health Organization| accessdate=23 November 2015}}</ref>
+
+==Government and politics==
+{{Further|Politics of Guinea}}
+[[File:Alpha Conde - World Economic Forum Annual Meeting 2012.jpg|thumb|[[Alpha Condé]], the current President of Guinea.]]
+The country is a [[republic]]. The president is directly elected by the people and is [[head of state]] and [[head of government]]. The Unicameral National Assembly is the [[legislative body]] of the country, and its members are directly elected by the people. The judicial branch is led by the Guinea Supreme Court, the highest and final Court of appeal in the country.<ref name="reuters.com"/>
+
+Guinea is a member of many international organizations including the [[African Union]], [[Agency for the French-Speaking Community]], [[African Development Bank]], [[Economic Community of West African States]], [[International Bank for Reconstruction and Development|World Bank]], [[Islamic Development Bank]], [[International Monetary Fund|IMF]], and the [[United Nations]].
+
+=== Political culture ===
+President [[Alpha Conde]] derives support from Guinea's second-largest ethnic group, the [[Malinke]].<ref name="Guinea 2013">{{cite web|url=http://www.reuters.com/article/2013/07/17/us-guinea-violence-idUSBRE96G00820130717|title= "Guinea's Conde appeals for calm after 11 killed in ethnic clashes", Reuters, 16 July 2013.|work=Reuters|accessdate=15 October 2014}}</ref> Guinea's opposition is backed by the [[Fula people|Fula]] ethnic group, also known as ''Peul'', who account for around 40 percent of the population.<ref name="Guinea 2013"/>
+
+===Executive branch===
+The [[president of Guinea]] is normally elected by popular vote for a five-year term; candidate must receive a majority of the votes cast to be elected president. The president governs Guinea, assisted by a [[Privy Council|council]] of 25 civilian [[Minister (government)|ministers]] appointed by him. The government administers the country through eight regions, 33 [[prefecture]]s, over 100 [[subprefecture]]s, and many districts (known as [[commune (subnational entity)|commune]]s in [[Conakry]] and other large cities and villages or "quartiers" in the interior). District-level leaders are elected; the president appoints officials to all other levels of the highly centralized administration.
+
+Since the 2010 Presidential Elections, the head of state has been [[Alpha Condé]].
+
+===Legislative branch===
+The [[National Assembly of Guinea]], the country's legislative body, has not met since 2008 when it was dissolved after the military coup in December. [[Guinean legislative election, 2013|Elections]] have been postponed many times since 2007. In April 2012, President Condé postponed the elections indefinitely, citing the need to ensure that they were "transparent and democratic".<ref name="RNW Africa Desk"/>
+
+The [[Guinean legislative election, 2013|2013 Guinean legislative election]] were held on 24 September 2013.<ref>{{cite news|title=Guinea election body sets legislative polls for September 24|url=http://www.reuters.com/article/2013/07/09/us-guinea-election-idUSBRE9681C720130709|accessdate=7 August 2013|newspaper=Reuters|date=9 July 2013}}</ref> President [[Alpha Condé]]'s party, the [[Rally of the Guinean People]] (RPG), won a [[Plurality (voting)|plurality]] of seats in the [[National Assembly of Guinea]], with 53 out of 114 seats. The opposition parties won a total of 53 seats, and opposition leaders denounced the official results as fraudulent.
+
+=== Foreign relations ===
+{{Further|Foreign relations of Guinea}}
+
+Guinea's foreign relations, including those with its [[West Africa]]n neighbors, have improved steadily since 1985.<ref>[http://www.state.gov/r/pa/ei/bgn/2824.htm Background Note: Guinea], US Department of State, February 2009</ref>
+
+===Military===
+{{Main|Military of Guinea}}
+Guinea's armed forces are divided into five branches – army, navy, air force, the paramilitary National [[Gendarmerie]] and the Republican Guard – whose chiefs report to the Chairman of the Joint Chiefs of Staff, who is subordinate to the Minister of Defense. In addition, regime security forces include the National Police Force (Sûreté National). The Gendarmerie, responsible for internal security, has a strength of several thousand.
+
+The army, with about 15,000 personnel, is by far the largest branch of the armed forces.  It is mainly responsible for protecting the state borders, the security of administered territories, and defending Guinea's national interests. Air force personnel total about 700. The force's equipment includes several Russian-supplied fighter planes and transports. The navy has about 900 personnel and operates several small [[patrol craft]] and barges.
+
+==Geography==
+[[File:Un-guinea.png|thumb|650px|A map showing [[List of cities in Guinea|Guinea's cities]] and [[Administrative divisions of Guinea|administrative divisions]].]]
+[[File:Guniea map of Köppen climate classification.svg|thumb|300px|Guinea map of Köppen climate classification.]]
+{{Main|Geography of Guinea}}
+
+Guinea shares its northern border with Guinea-Bissau, [[Senegal]], and [[Mali]], and its southern border with [[Sierra Leone]], [[Liberia]], and [[Ivory Coast]]. The nation forms a crescent as it curves from its western border on the [[Atlantic Ocean]] toward the east and the south. The sources of the [[Niger River]], [[Gambia River]], and [[Senegal River]] are all found in the [[Guinea Highlands]].<ref>[http://www.fao.org/docrep/W4347E/w4347e0h.htm],[http://www.fao.org/docrep/W4347E/w4347e0i.htm#the niger river basin], [http://www.fao.org/docrep/W4347E/w4347e0t.htm#the gambia river basin]</ref>
+
+At {{convert|245857|km2|sqmi|abbr=on}}, Guinea is roughly the size of the United Kingdom. There are {{convert|320|km|mi|abbr=on}} of coastline and a total land border of {{convert|3400|km|mi|abbr=on}}. Its neighbours are [[Ivory Coast]] (Côte d'Ivoire), [[Guinea-Bissau]], Liberia, [[Mali]], Senegal and [[Sierra Leone]]. It lies mostly between latitudes [[7th parallel north|7°]] and [[13th parallel north|13°N]], and longitudes [[7th meridian west|7°]] and [[15th meridian west|15°W]] (a small area is west of 15°).
+
+Guinea is divided into four main regions: [[Maritime Guinea]], also known as Lower Guinea or the Basse-Coté lowlands, populated mainly by the Susu ethnic group; the cooler, mountainous [[Fouta Djallon]] that run roughly north-south through the middle of the country, populated by Fulas, the Sahelian Haute-Guinea to the northeast, populated by [[Mandinka people|Malinké]], and the forested jungle regions in the southeast, with several ethnic groups. Guinea's mountains are the source for the Niger, the Gambia, and Senegal Rivers, as well as the numerous rivers flowing to the sea on the west side of the range in Sierra Leone and Ivory Coast.
+
+The highest point in Guinea is [[Mount Nimba]] at {{convert|1752|m|ft|abbr=on}}. Although the Guinean and Ivorian sides of the [[Nimba Massif]] are a [[UNESCO]] [[Strict Nature Reserve]], the portion of the so-called Guinean Backbone continues into [[Liberia]], where it has been mined for decades; the damage is quite evident in the [[Nzérékoré Region]] at {{Coord|7|32|17|N|8|29|50|W|region:GN_type:landmark}}.
+
+===Regions and prefectures===
+{{Main|Administrative divisions of Guinea}}
+[[File:Guinea Regions.png|thumb|350px|[[Regions of Guinea]].]]
+
+The Republic of Guinea covers {{convert|245857|km2|sqmi|0}} of West Africa, about [[10th parallel north|10 degrees north]] of the equator. Guinea is divided into four natural regions with distinct human, geographic, and climatic characteristics:
+
+* [[Maritime Guinea]] (''La Guinée Maritime'') covers 18% of the country
+* [[Middle Guinea]] (''La Moyenne-Guinée'') covers 20% of the country
+* [[Upper Guinea]] (''La Haute-Guinée'') covers 38% of the country
+* [[Guinée forestière|Forested Guinea]] (''Guinée forestière'') covers 23% of the country, and is both forested and mountainous
+
+Guinea is divided into eight [[Regions of Guinea|administrative regions]] and subdivided into thirty-three [[Prefectures of Guinea|prefectures]]. [[Conakry]] is Guinea's capital, largest city, and economic centre. [[Nzérékoré]], located in the [[Guinée forestière]] region in Southern Guinea, is the second largest city.
+
+Other major cities in the country with a population above 100,000 include [[Kankan]], [[Kindia]],  [[Labé|Labe]], [[Guéckédou]], [[Boké|Boke]], [[Mamou]] and [[Kissidougou]].
+
+{|class="wikitable sortable"
+|-
+!Region!!Capital!!Population <br> (2014 census)
+|-
+|[[Conakry Region]] ||[[Conakry]]||1,667,864
+|-
+|[[Nzérékoré Region]] ||[[Nzérékoré]]||1,663,582
+|-
+|[[Kankan Region]] ||[[Kankan]]||1,986,329
+|-
+|[[Kindia Region]] ||[[Kindia]]||1,559,185
+|-
+|[[Boké Region]] ||[[Boké]]||1,081,445
+|-
+|[[Labé Region]] ||[[Labé]]||995,717
+|-
+|[[Faranah Region]] ||[[Faranah]]||942,733
+|-
+|[[Mamou Region]]||[[Mamou]]||732,117
+|}
+* The capital [[Conakry]] with a population of 1,667,864 ranks as a special zone.
+
+=== Wildlife ===
+{{Main|Wildlife of Guinea|Wildlife of Guinea=}}
+
+The wildlife of Guinea is very diverse due to the wide variety of different habitats. The southern moist part of the country lies within [[Guinean Forests of West Africa]] [[Biodiversity hotspot|Biodiversity Hotspot]], however the north-east characterized by dry savanna. Unfortunately, declining populations of large mammals restricted to uninhabited distant parts of parks and reserves.
+
+==Economy==
+{{Main|Economy of Guinea}}
+
+[[File:Guinea Export Treemap.jpg|thumb|350px|A proportional depiction of Guinea's export products.]]
+[[File:Fisher women on River Niger in Guinea, Africa.jpg|thumb|250px|Malinke fisher women on the Niger River, [[Niandankoro]], [[Kankan Region]], in eastern Guinea.]]
+Guinea has abundant natural resources including 25 percent or more of the world's known [[bauxite]] reserves. Guinea also has diamonds, gold, and other metals. The country has great potential for [[hydroelectric power]]. Bauxite and alumina are currently the only major exports. Other industries include processing plants for beer, juices, soft drinks and tobacco. Agriculture employs 80 percent of the nation's labor force. Under French rule, and at the beginning of independence, Guinea was a major exporter of bananas, [[pineapples]], coffee, peanuts, and [[palm oil]].
+
+===Mining===
+
+Guinea possesses over 25&nbsp;billion [[tonne]]s (metric tons) of bauxite – and perhaps up to one-half of the world's reserves. In addition, Guinea's mineral wealth includes more than 4-billion tonnes of high-grade iron ore, significant diamond and gold deposits, and undetermined quantities of [[uranium]]. Guinea has 
+considerable potential for growth in agricultural and fishing sectors. Soil, water, and climatic conditions provide opportunities for large-scale irrigated farming and agro industry. Possibilities for investment and commercial activities exist in all these areas, but Guinea's poorly developed infrastructure and rampant corruption continue to present obstacles to large-scale investment projects.
+
+Joint venture bauxite mining and alumina operations in northwest Guinea historically provide about 80% of Guinea's [[Foreign exchange reserves|foreign exchange]].  Bauxite is refined into alumina, which is later [[smelting|smelted]] into aluminium.  The ''Compagnie des Bauxites de Guinea'' (CBG), which exports about 14 million tonnes of high-grade bauxite annually, is the main player in the bauxite industry. CBG is a joint venture, 49% owned by the Guinean Government and 51% by an international consortium known as Halco Mining Inc., itself a joint venture controlled by aluminium producer Alcoa ( AA), global miner Rio Tinto and Dadco Investments.<ref>[http://af.reuters.com/article/metalsNews/idAFL5N0YK4R020150529  Reuters, "Guinea bauxite miner CBG plans $1 bln expansion to meet demand" (05/29/2015)]</ref>  CBG has exclusive rights to bauxite reserves and resources in north-western Guinea through 2038.<ref>[http://www.dadcoalumina.com/about/history.aspx  "Dadco: History"]</ref>
+
+The ''Compagnie des Bauxites de Kindia'' (CBK), a joint venture between the Government of Guinea and [[United Company RUSAL|RUSAL]], produces some 2.5&nbsp;million [[tonne]]s annually, nearly all of which is exported to [[Russia]] and Eastern Europe. [[Dian Dian]], a Guinean/[[Ukraine|Ukrainian]] joint bauxite venture, has a projected production rate of {{convert|1000000|t|ST LT|0|abbr=on|lk=on}} per year, but is not expected to begin operations for several years. The ''[[Alumina Company of Guinea|Alumina Compagnie de Guinée]]'' (ACG), which took over the former Friguia Consortium, produced about 2.4&nbsp;million tonnes in 2004 as raw material for its alumina refinery. The refinery exports about 750,000 tonnes of alumina. Both Global Alumina and Alcoa-Alcan have signed conventions with the Government of Guinea to build large alumina refineries with a combined capacity of about 4 million tonnes per year.
+
+Diamonds and gold also are mined and exported on a large scale. AREDOR, a joint diamond-mining venture between the Guinean Government (50%) and an Australian, British, and Swiss [[consortium]], began production in 1984 and mined diamonds that are 90% gem quality. Production stopped from 1993 until 1996, when First City Mining, of Canada, purchased the international portion of the consortium. The bulk of diamonds are mined artisanally. The largest gold mining operation in Guinea is a joint venture between the government and [[Ashanti Goldfields]] of [[Ghana]]. Société Minière de Dinguiraye (SMD) also has a large gold mining facility in Lero, near the Malian border.
+
+Guinea has large reserves of the steel-making raw material, iron ore. Rio Tinto is the majority owner of the $6 billion Simandou iron ore project, which the firm says is the world's best unexploited resource.<ref>[http://www.minesandcommunities.org/article.php?a=8889 Saliou Samb and Daniel Magnowski, "One dead in Guinea protest, mine trains stop", Reuters (1 November 2008)]. Minesandcommunities.org (1 November 2008)..</ref> Rio Tinto has signed a binding agreement with [[Aluminum Corp. of China Ltd.]] to establish the joint venture for the Simandou iron ore project. This project is said to be of the same magnitude as the [[Pilbara]] in Western Australia.{{Citation needed|date=September 2011}}
+
+In September 2011, Guinea adopted a new mining code. The law set up a commission to review deals struck during the chaotic days between the end of dictatorship in 2008 and Condé coming to power.<ref name="TST">[http://www.scribd.com/doc/95727476/Secret-Deal-Threatens-Big-Miners-The-Sunday-Times Danny Fortson, "Secret deal threatens big miners", '&#39;The Sunday Times'&#39; (3 June 2012)]. Scribd.com (3 June 2012)..</ref>
+
+===Problems and reforms===
+In 2002, the [[IMF]] suspended Guinea's [[Poverty Reduction and Growth Facility]] (PRGF) because the government failed to meet key performance criteria. In reviews of the PRGF, the World Bank noted that Guinea had met its spending goals in targeted social priority sectors. However, spending in other areas, primarily defense, contributed to a significant fiscal deficit.{{Citation needed|date=September 2011}} The loss of IMF funds forced the government to finance its debts through [[Central Bank]] advances. The pursuit of unsound economic policies has resulted in imbalances that are proving hard to correct.
+
+Under then-Prime Minister Diallo, the government began a rigorous reform agenda in December 2004 designed to return Guinea to a PRGF with the IMF. Exchange rates have been allowed to float, price controls on gasoline have been loosened, and government spending has been reduced while tax collection has been improved. These reforms have not reduced inflation, which hit 27% in 2004 and 30% in 2005. Currency depreciation is also a concern. The Guinea franc was trading at 2550 to the dollar in January 2005. It hit 5554 to the dollar by October 2006.
+
+Despite the opening in 2005 of a new road connecting Guinea and Mali, most major roadways remain in poor repair, slowing the delivery of goods to local markets. Electricity and water shortages are frequent and sustained, and many businesses are forced to use expensive power generators and fuel to stay open.
+
+Even though there are many problems plaguing Guinea's economy, not all foreign investors are reluctant to come to Guinea. Global Alumina's proposed alumina refinery has a price tag above $2&nbsp;billion. Alcoa and Alcan are proposing a slightly smaller refinery worth about $1.5&nbsp;billion. Taken together, they represent the largest private investment in [[sub-Saharan Africa]] since the [[Chad-Cameroon Petroleum Development and Pipeline Project|Chad-Cameroon oil pipeline]]. Also, Hyperdynamics Corporation, an American oil company, signed an agreement in 2006 to develop Guinea's offshore Senegal Basin oil deposits in a concession of {{convert|31000|sqmi|km2|sigfig=2}}; it is pursuing seismic exploration.<ref>{{cite web|url=http://www.hyperdynamics.com/media/HDY-JV-Partner-Opportunity-Brochure-082208.pdf|title=Joint Venture Opportunity Offshore the West Coast of Africa}}Hyperdynamics Corporation (2008)</ref>
+
+On 13 October 2009, Guinean Mines Minister Mahmoud Thiam announced that the [[China International Fund]] would invest more than $7bn (£4.5bn) in infrastructure. In return, he said the firm would be a "strategic partner" in all mining projects in the mineral-rich nation. He said the firm would help build ports, railway lines, power plants, low-cost housing and even a new administrative centre in the capital, [[Conakry]].<ref>{{cite news|title=Guinea confirms huge China deal|url= http://news.bbc.co.uk/1/hi/world/africa/8304418.stm|date = 13 October 2009|accessdate =13 October 2009|publisher=BBC News   | location=London}}</ref> In September 2011, Mohamed Lamine Fofana, the Mines Minister following the [[Guinean presidential election, 2010|2010 election]], said that the government had overturned the agreement by the ex-military junta.<ref name=bbcmines>{{cite news|title=Guinea mining: PM defends radical industry shake-up|url=http://www.bbc.co.uk/news/world-africa-14915121|newspaper=BBC|date=14 September 2011}}</ref>
+
+Youth unemployment, however, remains a large problem. Guinea needs an adequate policy to address the concerns of urban youth. One problem is the disparity between their life and what they see on television. For youth who cannot find jobs, seeing the economic power and consumerism of richer countries only serves to frustrate them further.<ref>[http://www.inwent.org/ez/articles/171240/index.en.shtml Joschka Philipps, "Explosive youth: Focus", D+C (Development and Cooperation), funded by Germany’s Federal Ministry for Economic Cooperation and Development, (2010/05) pages 190–193]. Inwent.org..</ref>
+
+===Oil===
+Guinea signed a [[Production sharing agreement]] with Hyperdynamics Corporation of [[Houston]] in 2006 to explore a large offshore tract, recently in partnership with Dana Petroleum PLC ([[Aberdeen]], United Kingdom). The initial well, the Sabu-1, was scheduled to begin drilling in October 2011 at a site in approximately 700&nbsp;meters of water.  The Sabu-1 will target a four-way [[anticline]] prospect with [[upper Cretaceous]] sands and is anticipated to be drilled to a total depth of 3,600&nbsp;meters.<ref>[http://investors.hyperdynamics.com/releasedetail.cfm?ReleaseID=600343 * '&#39;Hyperdynamics News Releases'&#39;]. Investors.hyperdynamics.com..</ref>
+
+Following the completion of exploratory [[drilling]] in 2012, the Sabu-1 well was not deemed commercially viable.<ref>{{cite web|title=Hyperdynamics completes drilling at Sabu-1 well offshore Guinea-Conakry|url=http://www.offshore-technology.com/news/newshyperdynamics-completes-drilling-of-sabu-1-well-offshore-guinea-conakry|website=www.offshore-technology.com|accessdate=3 February 2015}}</ref> In November 2012, Hyperdynamics subsidiary SCS reached an agreement for a sale of 40% of the concession to [[Tullow Oil]], bringing ownership shares in the Guinea offshore tract to 37% Hyperdynamics, 40% Tullow Oil, and 23% Dana Petroleum.<ref>{{cite web|title=Tullow Oil Agrees Farm-in to Guinea Concession|url=http://www.tullowoil.com/index.asp?pageid=137&newsid=805|website=www.tullowoil.com|accessdate=3 February 2015}}</ref> Hyperdynamics will have until September 2016 under the current agreement to begin drilling its next selected site, the Fatala [[turbidite]] fan prospect.<ref>{{cite web|author1=Hyperdynamics|title=Overview of the Guinea Project|url=http://www.hyperdynamics.com/guinea_project.htm|website=www.hyperdynamics.com|accessdate=3 February 2015}}</ref>
+
+===Transport infrastructure===
+{{Main|Transport in Guinea}}
+
+The railway from Conakry to [[Kankan]] ceased operating in the mid-1980s.{{Citation needed|date=September 2009}} Domestic air services are intermittent. Most vehicles in Guinea are 20+ years old, and cabs are any four-door vehicle which the owner has designated as being for hire. Locals, nearly entirely without vehicles of their own, rely upon these taxis (which charge per seat) and small buses to take them around town and across the country. There is some river traffic on the Niger and Milo rivers. Horses and donkeys pull carts, primarily to transport construction materials.
+
+<!-- Iron mining at [[Simandou]] (South) in the southeast beginning in 2007 and at [[Kalia, Faranah|Kalia]] in the east is likely to result in the construction of a new heavy-duty [[standard gauge]] railway and deepwater port. Iron mining at Simandou (North) will load to a new port near [[Buchanan, Liberia]], in exchange for which rehabilitation of the [[Conakry]] to Kankan line will occur.{{Citation needed|date=September 2012}} - this plan seems to be a dead letter -->
+
+Mining operations are expected to start at [[Simandou]] before the end of 2015.  [[Rio Tinto Limited]] plans to build a 650&nbsp;km railway to transport iron ore from the mine to the coast, near [[Matakong]], for export.<ref name="Railways Africa">{{cite web|url=http://www.railwaysafrica.com/blog/2010/10/guinea-simandou-project-gains-momentum/|accessdate=2010-11-09|title=GUINEA: SIMANDOU PROJECT GAINS MOMENTUM | publisher = Railways Africa}}</ref>  Much of the Simandou iron ore is expected to be shipped to China for steel production.<ref name="Bulk Materials">http://www.bulkmaterialsinternational.com/htm/w20100330.015488.htm</ref>
+
+[[Conakry International Airport]] is the largest airport in the country, with flights to other cities in Africa as well as to Europe.
+
+==Demography==
+{{Main|Demography of Guinea}}
+[[File:Pita, Guinea.gif|thumb|200px|Guinean women.]]
+The population of Guinea is estimated at 10.5&nbsp;million. [[Conakry]], the capital and largest city, is the hub of Guinea's economy, commerce, education, and culture. In 2014, the [[total fertility rate]] (TFR) of Guinea was estimated at 4.93 children born per woman.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2127rank.html|title=The World Factbook|publisher=|accessdate=15 October 2014}}</ref>
+
+=== Urbanization ===
+
+{{Largest cities of Guinea}}
+
+===Languages===
+{{main|Languages of Guinea}}
+
+The official language of Guinea is [[French language|French]]. Other significant languages spoken are [[Fula language|Pular]] (Fulfulde or Fulani), [[Maninka language|Maninka]] (Malinke), [[Susu language|Susu]], [[Kissi language|Kissi]], [[Kpelle language|Kpelle]],and  [[Loma language|Loma]],
+
+===Ethnic groups===
+
+The population of Guinea comprises about 24 ethnic groups. The [[Mandinka people|Mandinka]], also known as Mandingo or Malinké, comprise 28% of the population and are mostly found in eastern Guinea concentrated around the [[Kankan Prefecture|Kankan]] and [[Kissidougou Prefecture|Kissidougou]] prefectures.<ref name=guinea_stats/>
+The [[Fula people|Fulas or Fulani]] ({{lang-fr|link=no|Peuls}}; {{lang-ff|Fulɓe}}), comprise 45% of the population and are mostly found in the [[Futa Djallon|Futa Djallon region]].
+
+The [[Soussou]], comprising 10% of the population, are predominantly in western areas around the capital [[Conakry]], [[Forécariah]], and [[Kindia]]. Smaller ethnic groups make up the remaining 17% of the population, including [[Kpelle people|Kpelle]], [[Kissi people|Kissi]], [[Zialo]], Toma and others.<ref name=guinea_stats/> Approximately 10,000 non-Africans live in Guinea, predominantly Lebanese, French, and other Europeans.<ref>"[http://www.state.gov/r/pa/ei/bgn/2824.htm Guinea]". [[Bureau of Public Affairs]].</ref>
+
+===Religion===
+{{Further|Religion in Guinea}}
+
+{{bar box
+|title=Guinea religious sects<ref name="islam">{{cite web|author=United Nations High Commissioner for Refugees |url=http://www.unhcr.org/refworld/docid/4cf2d06b43.html |title=2010 Report on International Religious Freedom – Sierra Leone |publisher=UNHCR.org |accessdate=20 May 2012}}</ref>
+|titlebar=#ddd
+|left1='''Religion'''
+|right1='''Percent'''
+|float=right
+|bars=
+{{bar percent|[[Islam]]|lightgreen|85}}[http://oluseguntoday.wordpress.com/2009/10/13/71-of-sierra-leoneans-are-muslims/]
+{{bar percent|[[Christianity]]|blue|8}}
+{{bar percent|[[Traditional African religion]]|brown|7}}
+}}
+
+[[File:Conakrymosque.jpg|thumb|200px|The [[Conakry Grand Mosque]] in Guinea, one of the largest mosques in West Africa.]]
+The population of Guinea is approximately 85 percent [[Muslim]], 8 percent [[Christian]], with 7 percent adhering to indigenous religious beliefs.<ref name="state.gov">[http://www.state.gov/documents/organization/208368.pdf  "Guinea 2012 International Religious Freedom Report", US State Department, Bureau of Democracy, Human Rights and Labor.]</ref> Much of the population, both Muslim and Christian, also incorporate indigenous African beliefs into their outlook.<ref name="state.gov"/>
+
+Guinean Muslims are generally [[Sunni Islam|Sunni]] of [[Maliki]] school of jurisprudence, influenced with [[Sufism]],<ref>[http://www.jstor.org/pss/3818383 Kenneth Harrow, "A Sufi Interpretation of 'Le Regard du Roi'", ''Research in African Literature'' v. 14 no. 2 (Summer, 1983)]</ref> with many [[Ahmadiyya]];<ref>{{cite book | url=https://books.google.com/books?id=v2yiyLLOj88C&pg=PA1280&dq&hl=en&sa=X&ei=jwOPU7L5LsGaO7b7gJgD&ved=0CDUQ6AEwAg#v=onepage&q&f=false | title=Religions of the World: A Comprehensive Encyclopedia of Beliefs | publisher = | page=1280 | author=J. Gordon Melton, Martin Baumann | isbn=978-1-59884-203-6 | accessdate=4 June 2014}}</ref> there are relatively few [[Shi'a Islam|Shi'a]] in Guinea.
+
+Christian groups include [[Roman Catholics]], [[Anglicanism|Anglicans]], [[Baptists]], [[Seventh-day Adventist Church|Seventh-day Adventists]], and [[Evangelicalism|Evangelical]] groups. [[Jehovah's Witnesses]] are active in the country and recognized by the Government. There is a small [[Bahá'í Faith|Baha'i]] community. There are small numbers of [[Hinduism|Hindus]], [[Buddhism|Buddhists]], and traditional Chinese religious groups among the [[expatriate]] community.<ref>[http://www.state.gov/g/drl/rls/irf/2008/108372.htm International Religious Freedom Report 2008: Guinea]. United States [[Bureau of Democracy, Human Rights and Labor]] (29 December 2008). ''This article incorporates text from this source, which is in the [[public domain]].''</ref>
+
+There were three days of ethno-religious fighting in the city of [[Nzerekore]] in July 2013.<ref name="Guinea 2013"/><ref name="bbc.com">{{cite web|url=http://www.bbc.com/news/world-africa-23335719|title="Guinean troops deployed after deadly ethnic clashes", BBC Africa, 17 July 2013.|work=BBC News|accessdate=15 October 2014}}</ref> Fighting between ethnic [[Kpelle people|Kpelle]], who are Christian or animist, and ethnic Konianke, who are Muslims and close to the larger [[Malinke]] ethnic group, left at least 54 dead.<ref name="bbc.com"/> The dead included people who were killed with machetes and burned alive.<ref name="bbc.com"/> The violence ended after the Guinea military imposed a curfew, and President Conde made a televised appeal for calm.<ref name="bbc.com"/>
+
+==Education==
+{{Main|Education in Guinea}}
+
+[[File:Guinea schoolgirls.jpg|Schoolgirls in [[Conakry]], Guinea|thumb]]
+The literacy rate of Guinea is one of the lowest in the world: in 2010 it was estimated that only 41% of adults were literate (52% of males and 30% of females).<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2103.html|title=The World Factbook|publisher=|accessdate=15 October 2014}}</ref>
+Primary education is compulsory for 6 years, but most children do not attend for so long, and many do not go to school at all. In 1999, primary school attendance was 40 percent. Children, particularly girls, are kept out of school in order to assist their parents with domestic work or agriculture,<ref>[http://www.dol.gov/ilab/media/reports/iclp/tda2001/guinea.htm Bureau of International Labor Affairs (ILAB) – U.S. Department of Labor]. Dol.gov. Retrieved on 28 June 2011.</ref> or to be married: Guinea has one of the highest rates of [[child marriage]] in the world.<ref>According to the WHO:"The 10 countries with the highest rates of child marriage are: Niger, 75%; Chad and Central African Republic, 68%; Bangladesh, 66%; '''Guinea, 63%'''; Mozambique, 56%; Mali, 55%; Burkina Faso and South Sudan, 52%; and Malawi, 50%."[http://www.who.int/mediacentre/news/releases/2013/child_marriage_20130307/en/]</ref>
+
+== Health ==
+{{Further|Health in Guinea}}
+
+=== Ebola ===
+{{Further|Ebola virus epidemic in West Africa}}
+
+In 2014 there was an outbreak of the [[Ebola virus epidemic in Guinea|Ebola virus in Guinea]]. In response, the health ministry banned [[Bushmeat|the sale and consumption of bats]], thought to be carriers of the disease. Despite this measure, the virus eventually spread from rural areas to [[Conakry]],<ref>{{cite news |date= 28 March 2014 |title= Ebola: Guinea outbreak reaches capital Conakry |url=http://www.bbc.com/news/world-africa-26774343 |publisher= BBC |accessdate= 30 March 2014 }}</ref> and by late June 2014 had spread to neighboring countries [[Sierra Leone]] and [[Liberia]]. In early August 2014 Guinea closed its borders to Sierra Leone and Liberia to help contain the spreading of the virus, as more new cases of the disease were being reported in those countries than in Guinea.
+
+The outbreak began in early December, in a village called Meliandou, southeastern Guinea, not far from the borders with both Liberia and Sierra Leone. The first known case was a two-year-old child who died, after fever and vomiting and passing black stool, on December 6. The child's mother died a week later, then a sister and a grandmother, all with symptoms that included fever, vomiting, and diarrhea. Then, by way of caregiving visits or attendance at funerals, the outbreak spread to other villages.
+
+===Maternal and child healthcare===
+The 2010 maternal mortality rate per 100,000 births for Guinea is 680. This is compared with 859.9 in 2008 and 964.7 in 1990. The under 5 mortality rate, per 1,000 births is 146 and the neonatal mortality as a percentage of under 5's mortality is 29. In Guinea the number of midwives per 1,000 live births is 1 and the lifetime risk of death for pregnant women is 1 in 26.<ref name="SOWMY">{{cite web|url=http://www.unfpa.org/sowmy/report/home.html|title=The State of the World's Midwifery|publisher=United Nations Population Fund|accessdate=August 2011}}</ref> Guinea has the second highest prevalence of [[female genital mutilation]] in the world.<ref>{{cite web|url=http://www.who.int/reproductivehealth/topics/fgm/prevalence/en/|title=WHO - Female genital mutilation and other harmful practices|publisher=|accessdate=15 October 2014}}</ref><ref>http://www.unicef.org/media/files/FGCM_Lo_res.pdf</ref>
+
+===HIV/AIDS===
+{{Main|HIV/AIDS in Guinea}}
+
+An estimated 170,000 adults and children were infected at the end of 2004.<ref>{{cite web|url=http://www.who.int/hiv/HIVCP_GIN.pdf |title=Status of HIV/AIDS in Guinea, 2005 |accessdate=30 September 2007 |year=2005 |format=PDF |publisher=World Health Organisation }}</ref><ref>{{cite web|url=http://www.who.int/GlobalAtlas/predefinedReports/EFS2006/EFS_PDFs/EFS2006_GN.pdf |title=Epidemiological Fact Sheets: HIV/AIDS and Sexually Transmitted Infections, December 2006 |accessdate=30 September 2007 |date=December 2006 |format=PDF |publisher=World Health Organisation }}</ref> Surveillance surveys conducted in 2001 and 2002 show higher rates of HIV in urban areas than in rural areas. Prevalence was highest in [[Conakry]] (5%) and in the cities of the [[Forest Guinea]] region (7%) bordering [[Côte d’Ivoire]], [[Liberia]], and [[Sierra Leone]].<ref name=usaid>[http://www.usaid.gov/our_work/global_health/aids/Countries/africa/guinea_05.pdf "Health Profile: Guinea"]. [[USAID]] (March 2005). {{PD-notice}}</ref>
+
+HIV is spread primarily through multiple-partner [[heterosexual]] intercourse. Men and women are at nearly equal risk for HIV, with young people aged 15 to 24 most vulnerable. Surveillance figures from 2001–2002 show high rates among commercial sex workers (42%), active military personnel (6.6%), truck drivers and bush taxi drivers (7.3%), miners (4.7%), and adults with tuberculosis (8.6%).<ref name=usaid/>
+
+Several factors are fueling the HIV/[[AIDS]] epidemic in Guinea. They include unprotected sex, multiple sexual partners, illiteracy, endemic poverty, unstable borders, refugee migration, lack of civic responsibility, and scarce medical care and public services.<ref name=usaid/>
+
+===Malnutrition===
+Malnutrition is a serious problem for Guinea. A 2012 study reported high chronic malnutrition rates, with levels ranging from 34% to 40% by region, as well as acute malnutrition rates above 10% in Upper Guinea’s mining zones. The survey showed that 139,200 children suffer from acute malnutrition, 609,696 from chronic malnutrition and further 1,592,892 suffer from anemia. Degradation of care practices, limited access to medical services, inadequate hygiene practices and a lack of food diversity explain these levels.<ref>{{cite web|url=http://home.wfp.org/stellent/groups/public/documents/eb/wfpdoc062106.pdf |title=Enquête nationale nutrition-santé,basée sur la méthodologie SMART, 2011-2012 |accessdate=12 May 2014 |year=2012 |format=PDF |publisher=World Food Programme }}</ref>
+
+===Malaria===
+[[Malaria]] is prevalent in Guinea. It is transmitted year-round, with peak transmission from July through October.<ref>http://www.pmi.gov/docs/default-source/default-document-library/malaria-operational-plans/fy14/guinea_mop_fy14.pdf?sfvrsn=8</ref> Malaria is one of the top causes of disability in Guinea.<ref>http://www.healthdata.org/sites/default/files/files/country_profiles/GBD/ihme_gbd_country_report_guinea.pdf</ref>
+
+==Culture==
+[[File:Guinea Dinguiraye market.jpg|thumb|300px|A market stall selling vegetables in [[Dinguiraye Prefecture]], Guinea.]]
+
+=== Polygamy ===
+{{Further|Polygamy in Guinea}}
+
+Polygamy is prohibited by law in Guinea.<ref>[http://ddata.over-blog.com/xxxyyy/2/86/20/02/CODE-CIVIL.pdf  Article 316, Civil Code of the Republic of Guinea (Code Civil de la Republique de Guinee)]</ref> [[UNICEF]] reports that 53.4% of Guinean women aged 15–49 are in polygamous marriages.<ref>[http://www.unicef.org/publications/files/Early_Marriage_12.lo.pdf  "''Early Marriage A Harmful Traditional Practice - A Statistical Exploration''", UNICEF, 2005, p. 38.]</ref>
+
+=== Music ===
+{{Further|Music of Guinea}}
+Like other West African countries, Guinea has a rich musical tradition. The group [[Bembeya Jazz]] became popular in the 1960s after Guinean independence.
+
+=== Cuisine ===
+{{Further|Cuisine of Guinea}}
+[[Guinean cuisine]] varies by region with rice as the most common staple. Cassava is also widely consumed.<ref name=friends>[http://friendsofguinea.org/about-guinea/recipes Recipes] Friends of Guinea</ref> Part of [[West African cuisine]], the foods of Guinea include [[fufu]], [[jollof rice]], [[maafe]], and [[tapalapa bread]]. In rural areas, food is eaten from a large serving dish and eaten by hand outside of homes.<ref name=dc>[http://wamu.org/programs/metro_connection/12/09/21/eating_in_the_embassy_guinean_embassy_brings_west_african_food_to_washington Eating In The Embassy: Guinean Embassy Brings West African Food To Washington] by Rebecca Sheir 21 September 2012 WAMU 88.5</ref>
+
+=== Female genital mutilation ===
+{{one source|section|date=November 2014}}
+According to [[Anastasia Gage]], an associate professor at [[Tulane University]], and [[Ronan van Rossem]], an associate professor at [[Ghent University]],<ref>{{cite journal|title=The effects of female genital mutilation on the onset of sexual activity and marriage in Guinea.| pmid=17943434 | doi=10.1007/s10508-007-9237-5 | volume=38| year=2009| journal=Arch Sex Behav| pages=178–85 | last1 = Van Rossem | first1 = R | last2 = Gage | first2 = AJ}}</ref> female genital mutilation in Guinea had been performed on more than 98% of women {{As of|2009|lc=y}}.<ref>{{cite journal | last1 = Rossem | first1 = R. V. | last2 = Gage | first2 = A. J. | year = 2009 | title = The effects of female genital mutilation on the onset of sexual activity and marriage in Guinea | url = | journal = Archives of Sexual Behavior | volume = 38 | issue = 2| pages = 178–185 | doi = 10.1007/s10508-007-9237-5 | pmid=17943434}}</ref> In Guinea almost all cultures, religions, and ethnicities practice female genital mutilation.<ref>{{cite journal | last1 = Rossem | first1 = R. V. | last2 = Gage | first2 = A. J. | year = 2009 | title = The effects of female genital mutilation on the onset of  sexual activity and marriage in Guinea | url = | journal = Archives of Sexual Behavior | volume = 38 | issue = 2| pages = 178–185 | doi = 10.1007/s10508-007-9237-5 | pmid=17943434}}</ref>
+
+==See also==
+{{portal|Guinea|Africa|Geography|<!--West Africa-->|<!--African Union-->|<!--ECOWAS-->}}
+* [[Outline of Guinea]]
+* [[Index of Guinea-related articles]]
+* <!-- [[Bibliography of Guinea]] -->
+* <!-- {{wikipedia books link|Guinea}} -->
+* [[List of Guineans]]
+* [[Agriculture in Guinea]]
+{{clear}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*http://www.minorityrights.org/5503/guinea/guinea-overview.html
+{{Sister project links|voy=Guinea}}
+* http://www.africaguinee.com
+* {{Official website|http://www.presidence.gov.gn/}} {{fr icon}}
+* [http://www.lejourguinee.com Le Jour Guinée] {{fr icon}}
+* {{CIA World Factbook link|gv|Guinea}}
+* [http://www.wikiguinee.net wikiGuinée]
+* [http://ucblibraries.colorado.edu/govpubs/for/guinea.htm Guinea] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Africa/Guinea}}
+* [http://www.bbc.co.uk/news/world-africa-13442051 Guinea profile] from the [[BBC News]]
+* {{wikiatlas|Guinea}}
+* [http://www.unfpa.org/sowmy/resources/docs/country_info/profile/en_GuineaC_SoWMy_Profile.pdf The State of the World's Midwifery – Guinea Country Profile]
+* [http://infoasaid.org/sites/infoasaid.org/files/guinea_media_landscape_guide_updated_300811.pdf 'Media and Telecommunication Lansdcape in Guinea'], a [http://infoasaid.org/ 'infoasaid'] guide, April 2011, 69 pp.
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=GN Key Development Forecasts for Guinea] from [[International Futures]]
+* [http://www.cciaga.org CHAMBRE DE COMMERCE, D'INDUSTRIE ET D'ARTISANAT DE GUINÉE Allemagne (CCIAGA)]
+;Trade
+*[http://wits.worldbank.org/CountryProfile/Country/GIN/Year/2008/Summary Guinea 2008 Summary Trade Statistics]
+{{Guinea topics}}
+{{Countries of Africa}}
+{{Navboxes
+| title = International membership
+| list =
+{{African Union}}
+{{La Francophonie}}
+{{Organisation of the Islamic Conference}}
+}}
+
+{{Authority control}}
+
+[[Category:Guinea| ]]
+[[Category:Countries in Africa]]
+[[Category:Economic Community of West African States]]
+[[Category:French-speaking countries and territories]]
+[[Category:Least developed countries]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Organisation of Islamic Cooperation]]
+[[Category:Republics]]
+[[Category:States and territories established in 1958]]
+[[Category:Member states of the United Nations]]
+[[Category:West African countries]]
+[[Category:World Digital Library related]]
+[[Category:Muslim-majority countries]]

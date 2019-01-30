@@ -1,0 +1,40 @@
+720p
+
+[[Image:Vector Video Standards2.svg|thumb|This chart shows the most [[List of common resolutions|common display resolutions]], 720p being one of the 16:9 formats shown in blue.]]
+
+'''720p''' (also known as [[graphics display resolution#HD|HD]]) is a progressive [[High-definition television|HDTV]] signal format with 720 horizontal lines and an [[aspect ratio]] (AR) of [[16:9]] (1.78:1). All major HDTV broadcasting standards (such as [[SMPTE 292M]]) include a 720p format which has a resolution of 1280×720; however, there are other formats, including [[HDV]] Playback and [[AVCHD]] for camcorders, which use 720p images with the standard HDTV resolution. The frame rate is standards-dependent, and for conventional broadcasting appears in 50 progressive frames per second in former PAL/SECAM countries (Europe, Australia, others), and 59.94 frames per second in former NTSC countries (North America, Japan, Brazil, others).
+
+The number ''720'' stands for the 720 horizontal [[scan line]]s of image [[display resolution]] (also known as 720 pixels of verticn-[[Interlaced video|interlaced]]).<ref>{{Cite web |url=http://www.afterdawn.com/glossary/term.cfm/720p |title=720p - AfterDawn: Glossary of technology terms & acronyms}}</ref> When broadcast at 60{{refn|It is actually broadcast at 60*(1000/1001) frame/s, which is precisely 59.{{overline|94005994005994}}.<ref>{{Cite web |url= http://www.tvtechnology.com/article/60026 |title=Will the End of NTSC Be the End of 59.94? |publisher=TVTechnology |date=2008-01-09 |accessdate=2010-10-08 |first=Randy |last=Hoffner}}</ref>|group=note}} frames per second, 720p features the highest [[temporal resolution]] possible under the [[ATSC (standards)|ATSC]] and [[Digital Video Broadcasting|DVB]] standards. The term assumes a [[widescreen]] [[Aspect ratio (image)|aspect ratio]] of [[16:9]], thus implying a resolution of 1280×720 [[pixel|px]] (0.9 [[Pixel#Megapixel|megapixels]]).
+
+720i (720 lines [[Interlaced video|interlaced]]) is an erroneous term found in numerous sources and publications. Typically, it is a typographical error in which the author is referring to the 720p HDTV format. However, in some cases it is incorrectly presented as an actual alternative format to 720p.<ref>{{cite book |title=HDTV for Dummies |last=Briere |first=Daniel |author2=Patrick Hurley |year=2006 |page=13 |url=http://books.google.com/books?id=Jb62Hkrj0oYC&printsec=frontcover&dq=hdtv+for+dummies |publisher=[[For Dummies]]}}</ref> No proposed or existing broadcast standard permits 720 ''interlaced'' lines in a video frame at any frame rate.<ref>{{cite web |format=PDF |url=http://www.atsc.org/cms/standards/a72/a_72_part_1.pdf |title=ATSC Standard: Video System Characteristics of AVC in the ATSC Digital Television System |date=2008-07-29 |accessdate=2011-07-24}}</ref>
+
+== Comparison with 1080i ==
+Progressive scanning reduces the need to prevent flicker by anti-aliasing single high contrast horizontal lines.<ref>{{Cite web |url= http://www.afterdawn.com/glossary/term.cfm/720p |title=720p |publisher=AfterDawn |date=2010-08-10 |accessdate=2010-10-08}}</ref><ref>{{Cite web |url= http://reviews.cnet.com/4520-6029_7-6301006-1.html |title=720p |publisher=[[CNET Networks|CNET]] Glossary |accessdate=2010-10-08}}</ref> It is also easier to perform high-quality 50↔60&nbsp;Hz conversion and slow-motion clips with progressive video.
+
+A 720p60 (720p at 59.94&nbsp;Hz) video has advantage over 480i and 1080i60 (29.97/30 frame/s, 59.94/60&nbsp;Hz) in that it comparably reduces the number of 3:2 artifacts introduced during transfer from 24 frame/s film. However, 576i and 1080i50 (25 frame/s, 50&nbsp;Hz), which are common in Europe, generally do not suffer from [[telecine|pull down]] artifacts as film frames are simply played at 25 frames and the audio pitch corrected by 25/24ths. As a result, 720p60 is used for US broadcasts while European HD broadcasts often use 1080i50 24* frame, with a horizontal resolution of 1920 or 1440 depending on bandwidth constraints. However, some European broadcasters do use the 720p50 format, such as German broadcasters [[ARD (broadcaster)|ARD]] and [[ZDF]], the Flemish Broadcasting Company ([[Vlaamse Radio- en Televisieomroeporganisatie|VRT]]) in Belgium, the Norwegian Broadcasting Corporation ([[NRK]]) and Spanish Radio and Television Corporation ([[TVE HD]]). [[Arte]], a dual-language French-German channel produced in collaboration by ARD, ZDF and [[France Télévisions]], broadcasts in German at 720p50 but in French at 1080i50.
+
+== Notes ==
+{{Reflist | group=note}}
+
+== See also ==
+{{portal|Television}}
+{{div col|colwidth=30em}}
+* [[Ultra-high-definition television|4320p]], [[2160p]], [[1080p]], [[1080i]],  [[576p]], [[576i]], [[480p]], [[480i]], [[360p]], [[240p]]
+* [[High-definition television]] (HDTV)
+* [[High resolution]]
+* [[List of common resolutions]]
+* [[Low-definition television]]
+* [[Plasma display]]
+{{div col end}}
+
+== References ==
+{{reflist|30e}}
+
+==External links==
+* [http://tech.ebu.ch/docs/techreports/tr005.pdf EBU Technical paper on HDTV formats]
+
+{{TV resolution}}
+{{Video formats}}
+
+[[Category:Television terminology]]
+[[Category:Video formats]]

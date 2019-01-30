@@ -1,0 +1,118 @@
+Hexapoda
+
+{{Taxobox
+| name = Hexapods
+| fossil_range = {{Fossil range|Early Devonian|Recent|ref=<ref name=Gaunt2002/>}}
+| image = diptera_01gg.jpg
+| image_caption = A [[flesh-fly]]
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| unranked_subphylum = [[Pancrustacea]]
+| subphylum = '''Hexapoda'''
+| subphylum_authority = [[Pierre André Latreille|Latreille]], 1825
+| subdivision_ranks = Classes & Orders
+| subdivision = 
+Class [[Insect]]a (insects)<br>
+Class [[Entognatha]]
+}}
+The subphylum '''Hexapoda''' (from the [[Greek language|Greek]] for ''six legs'') constitutes the largest number of species of [[arthropod]]s and includes the [[insect]]s as well as three much smaller groups of wingless arthropods: [[Collembola]], [[Protura]], and [[Diplura]] (all of these were once considered insects). The Collembola (or [[springtail]]s) are very abundant in terrestrial environments. ''Hexapods'' are named for their most distinctive feature: a consolidated thorax with three pairs of legs. Most other arthropods have more than three pairs of legs.
+
+==Hexapod morphology==
+Hexapods have bodies divided into an anterior head, [[Thorax (insect anatomy)|thorax]], and posterior abdomen. The [[Arthropod head problem|head]] is composed of a presegmental '''''acron''''' that usually bears eyes (absent in Protura and Diplura), followed by six segments, all closely fused together, with the following appendages:
+:Segment I. None
+:Segment II. [[Antenna (biology)|Antennae]] (sensory), absent in [[Protura]]
+:Segment III. None
+:Segment IV. [[Labium (insect)#Mandible|Mandible]]s (crushing jaws)
+:Segment V. [[Labium (insect)#Maxilla|Maxillae]] (chewing jaws)
+:Segment VI. [[Labium (insect)|Labium]] (lower lip)
+The mouth lies between the fourth and fifth segments and is covered by a projection from the sixth, called the '''labrum''' (upper lip).  In true insects (class Insecta) the mouthparts are exposed or '''''ectognathous''''', while in other groups they are enveloped or '''''endognathous'''''.  Similar appendages are found on the heads of [[Myriapoda]] and [[Crustacea]], although these have secondary antennae.
+
+The thorax is composed of three segments, each of which bears a single pair of legs. As is typical of arthropods adapted to life on land, each leg has only a single walking branch composed of five segments, without the gill branches found in some other arthropods.  In most insects the second and third thoracic segments also support wings.  It has been suggested that these may be homologous to the gill branches of crustaceans, or they may have developed from extensions of the segments themselves.
+
+The abdomen consists of eleven segments in all true insects (often reduced in number in many insect species), but in Protura it has twelve, and in [[Collembola]] only six (sometimes reduced to only four).  The appendages on the abdomen are extremely reduced, restricted to the external genitalia and sometimes a pair of sensory [[Cercus|cerci]] on the last segment.
+
+==Hexapod evolution and relationships==
+The [[Myriapoda|myriapods]] have traditionally been considered the closest relatives of the hexapods, based on morphological similarity.  These were then considered subclasses of a subphylum called [[Uniramia]] or Atelocerata.  New work, however, has called this into question, and it appears their closest relatives may be the [[crustacean]]s.<ref>{{cite journal|author=[[Gonzalo Giribet|Giribet, G.]], [[Gregory D. Edgecombe|Edgecombe, G.D.]] and [[Ward C. Wheeler|Wheeler, W.C.]]| year=2001 |title= Arthropod phylogeny based on eight molecular loci and morphology | journal=[[Nature (journal)|Nature]]|pmid=11557979|volume=413|issue=6852| pages=157–161 |doi= 10.1038/35093097}}</ref> The non-insect hexapods have variously been considered a single evolutionary line, typically treated as Class [[Entognatha]] (cladogram A), or several lines with different relationships with the Class Insecta.  In particular, the Diplura may be more closely related to the Insecta than the Collembola or the Protura (cladogram B).  There is also some evidence suggesting that the hexapod groups may not share a common origin, and in particular that the Collembola belong elsewhere.
+
+Molecular analysis suggests that the hexapods diverged from their sister group, the [[Anostraca]] (fairy shrimps), at around the start of the [[Silurian]] period {{Ma|440}} - coinciding with the appearance of [[vascular plants]] on land.<ref name=Gaunt2002>{{cite journal
+ | author = Gaunt, M.W.
+ |author2=Miles, M.A.
+ | date = 1 May 2002
+ | title = An Insect Molecular Clock Dates the Origin of the Insects and Accords with Palaeontological and Biogeographic Landmarks
+ | journal = Molecular Biology and Evolution
+ | volume = 19
+ | pages = 748–761
+ | issn = 1537-1719
+ | url = http://www.mbe.oupjournals.org/cgi/content/abstract/19/5/748 
+ | accessdate = 14 July 2007
+ | pmid = 11961108
+ | issue = 5
+ | doi=10.1093/oxfordjournals.molbev.a004133
+ }}</ref>
+
+The following [[cladogram]]s, showing three possible relationships among hexapoda, are based on the [[Tree of Life Web Project]];<ref name=tree>[http://www.tolweb.org/Hexapoda/2528 Tree of Life, Hexapoda].</ref> [[Diplura]] is shown with an unstable position:
+
+{| style="float:left; margin-right:1em"
+|{{Clade | style=font-size:100%;line-height:100%
+| label1=Hexapoda
+| 1={{Clade
+  |label1= [[Entognatha]]
+  | 1={{clade
+    | label1=[[Ellipura]]
+    | 1= {{clade
+       | label1=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       | 1= [[Collembola]]
+       | 2=[[Protura]]}}
+    | 2=[[Diplura]]}}
+| label2=[[Ectognatha]]
+  | 2=[[Insecta]]
+}} }}
+'''A'''
+|}
+{| style="float:left; margin-right:1em"
+|{{Clade | style=font-size:100%;line-height:100%
+| label1=Hexapoda
+| 1={{Clade
+  | label1=[[Ellipura]]
+  | 1={{clade
+    | label1=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    | 1=[[Collembola]]
+    | 2=[[Protura]]}}
+  | 2={{clade
+  | 1=[[Diplura]]
+  | 2=[[Insecta]]
+}} }} }}
+'''B'''
+|}
+{| style="float:left; margin-right:1em"
+|{{Clade | style=font-size:100%;line-height:100%
+| label1=Hexapoda
+| 1={{Clade
+  | label1=[[Ellipura]]
+  | 1={{clade
+    | label1=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    | 1=[[Collembola]]
+    | 2=[[Protura]]}}
+  | 2=[[Diplura]]
+  | 3=[[Insecta]]
+}} }}
+'''C'''
+|}{{clear left}}
+An incomplete possible  insect fossil, ''[[Strudiella devonica]],'' has been recovered from the [[Devonian]] period. This fossil may help to fill the [[arthropod gap]] from 385 million to 325 million years ago.{{citation needed|date=March 2014}}<ref>The Web page cites Garrouste R, Clément G, Nel P, Engel MS, Grandcolas P, D’Haese C, Lagebro L, Denayer J, Gueriau P, Lafaite P, Olive S, Prestianni C, Nel A (2012) A complete insect from the Late Devonian period. Nature 488, 82–85.</ref>
+
+{{see also|Phylogeny of insects}}
+
+==References==<!-- ZoolSci25:1139. -->
+{{Reflist}}
+
+==External links==
+{{Portal|Arthropods}}
+*{{Wikispecies-inline|Hexapoda}}
+*{{Wikibooks-inline|Dichotomous Key/Hexapoda|Dichotomous key to the Hexapoda}}
+*{{cite web |url=http://tolweb.org/tree?group=Hexapoda&contgroup=Arthropoda |publisher=[[Tree of Life Web Project]] |title=Hexapoda. Insects, springtails, diplurans, and proturans}}
+
+{{Arthropods}}
+
+[[Category:Hexapoda| ]]
+[[Category:Animal subphyla]]
+[[Category:Extant Early Devonian first appearances]]

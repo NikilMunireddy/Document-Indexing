@@ -1,0 +1,715 @@
+African Union
+
+{{lead too short|date=December 2013}}
+{{Infobox geopolitical organization
+|conventional_long_name = African Union
+|native_name =
+ {{unbulleted list
+  |{{native name|ar|الاتحاد الأفريقي|italic=no}}
+  |{{native name|fr|Union africaine}}
+  |{{native name|pt|União Africana}}
+  |{{native name|es|Unión Africana}}
+ }}
+|linking_name = the African Union
+|image_flag = African Union flag.svg |alt_flag = 
+|symbol_type = Emblem
+|image_symbol = Emblem of the African Union.svg |alt_symbol = 
+|symbol_width = 85px
+|motto = <br/>"A United and Strong Africa"
+|anthem = <br/>{{raise|0.3em|{{nowrap|''[[Let Us All Unite and Celebrate Together]]''&nbsp;<ref>{{cite web | url=http://www.africamasterweb.com/AuAnthem.html | title=African Union anthem, etc. | publisher=Africamasterweb.com | accessdate=26 November 2012}}</ref>}}}}<br/>[[File:LetUsAllUniteAndCelebrateTogether.ogg|center]]
+|image_map = African Union (orthographic projection).svg
+|alt_map = An [[Orthographic projection (cartography)|orthographic projection]] of [[Earth|the world]], highlighting the African Union and its member states (green).
+|map_width = 220px
+|map_caption = Dark green: member states<br/>Light green: suspended members
+|org_type = [[Continental union]]
+|membership_type = Membership
+|membership = [[Member states of the African Union|54 member states]]
+|admin_center_type = Political centres
+|admin_center =  {{unbulleted list|{{nowrap|{{flagicon|Ethiopia}} [[Addis Ababa]]<sup>a</sup>}} |{{nowrap|{{flagicon|South Africa}} [[Johannesburg]] <sup>b</sup>}} }}
+|largest_city = {{nowrap|{{flagicon|Nigeria}} [[Lagos]]}}
+|languages_type = Working languages
+|languages = {{hlist |[[Arabic language|Arabic]]|[[English language|English]]|[[French language|French]]|[[Portuguese language|Portuguese]]|[[Spanish language|Spanish]]}}
+|demonym = African 
+|leader_title1 = [[Chairperson of the African Union|Assembly Chair]]
+|leader_name1 = {{flagicon|Chad}} [[Idriss Déby]]
+|leader_title2 = [[Chairperson of the African Union Commission|Commission Chair]]
+|leader_name2 = {{flagicon|South Africa}} [[Nkosazana Dlamini-Zuma]]
+|leader_title3 = [[Pan-African Parliament#Presidents of the Pan-African Parliament|Parliamentary President]]
+|leader_name3 = {{flagicon|Cameroon}} [[Roger Nkodo Dang]]
+|legislature = {{nowrap|[[Pan-African Parliament]]}}
+|established_event1 = [[Organisation of African Unity|OAU Charter]]
+|established_date1 = {{nowrap|{{start date and years ago|df=yes|1963|05|25}}}}
+|established_event2 = [[Abuja Treaty]]
+|established_date2 = 3 June 1991
+|established_event3 = [[Sirte Declaration]]
+|established_date3 = 9 September 1999
+|established_event4 = African Union founded
+|established_date4 = 9 July 2002
+|area_magnitude = 1 E+13
+|area_km2 = 29865860
+|area_label =  Total
+|population_estimate = 1,053,136,000
+|population_estimate_year = 2013
+|population_density_km2 = 40.9
+|GDP_PPP = US$3.757&nbsp;trillion<ref name="imf.org">{{cite web | url= http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=51&pr.y=10&sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=612%2C682%2C686%2C611%2C469%2C732%2C744%2C672&s=PPPGDP&grp=0&a=| title=Report for Selected Countries and Subjects | publisher=[[International Monetary Fund]] | date=14 September 2006 | accessdate=26 November 2012}}</ref><ref name="ReferenceA">{{cite web | url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=46&pr.y=4&sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=603&s=PPPGDP&grp=1&a=1 | title=Report for Selected Country Groups and Subjects | publisher=IMF | date=14 September 2006 | accessdate=26 November 2012}}</ref>
+|GDP_PPP_rank = 
+|GDP_PPP_year = 2014
+|GDP_PPP_per_capita = $3,568
+|GDP_nominal_year = 2014 
+|GDP_nominal = $2.390&nbsp;trillion<ref>{{cite web | url= http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2009&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=80&pr1.y=7&c=612%2C682%2C686%2C611%2C469%2C732%2C744%2C672&s=NGDPD&grp=0&a= | title=Report for Selected Countries and Subjects | publisher=IMF | date=14 September 2006 | accessdate=26 November 2012}}</ref><ref>{{cite web | url=http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2009&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=71&pr1.y=13&c=603&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1 | title=Report for Selected Country Groups and Subjects | publisher=IMF | date=14 September 2006 | accessdate=26 November 2012}}</ref>
+| GDP_nominal_per_capita = $2,173
+| currency= [[Central banks and currencies of Africa|42 currencies]]
+|utc_offset = -1 to +4
+|cctld = [[.africa]]&nbsp;<sup>c</sup>
+|calling_code = [[Telephone numbers in Africa|57 codes]]
+|footnotes = {{unbulleted list |<sup>a</sup> Seat of the [[African Union Commission]]. |<sup>b</sup> Seat of the [[Pan-African Parliament]]. |<sup>c</sup> Proposed.}}
+|official_website = {{url|au.int}}
+}}
+{{Life in the African Union}}
+The '''African Union''' ('''AU''') is a [[continental union]] consisting of 54 [[Sovereign state|countries]] in [[Africa]]. The only African state that is a [[Members of the United Nations|United Nations member]], but is not a member of the African Union is [[Morocco]], who opted to leave due to the African Union's [[Political status of Western Sahara|recognition]] of the [[Sahrawi Arab Democratic Republic]] ([[Western Sahara]]) as a member state. The AU was established on 26 May 2001 in [[Addis Ababa]] and launched on 9 July 2002 in [[South Africa]],<ref name="African Union 2002">{{cite web | url=http://www.africa-union.org/official_documents/Speeches_&_Statements/HE_Thabo_Mbiki/Launch%20of%20the%20African%20Union,%209%20July%202002.htm | title=Launch of the African Union, 9 July 2002: Address by the chairperson of the AU, President Thabo Mbeki | author=Thabo Mbeki | date=9 July 2002 | publisher=africa-union.org | location=ABSA Stadium, Durban, South Africa | accessdate=8 February 2009}}</ref> with the aim of replacing the [[Organisation of African Unity]] (OAU). The most important decisions of the AU are made by the [[Assembly of the African Union]], a semi-annual meeting of the heads of state and government of its member states. The AU's secretariat, the [[African Union Commission]], is based in Addis Ababa.
+
+==Overview==
+The objectives of the AU are:
+#To achieve greater unity and solidarity between the African countries and Africans.
+#To defend the sovereignty, [[territorial integrity]] and independence of its Member States.
+#To accelerate the political and social-economic  integration of the continent.
+#To promote and defend African common positions on issues of interest to the continent and its peoples.
+#To encourage international cooperation, taking due account of the [[Charter of the United Nations]] and the [[Universal Declaration of Human Rights]].
+#To promote peace, security, and stability on the continent.
+#To promote democratic principles and institutions, popular participation and good governance.
+#To promote and protect human and peoples' rights in accordance with the [[African Charter on Human and Peoples' Rights]] and other relevant [[international human rights instruments|human rights instruments]].
+#To establish the necessary conditions which enable the continent to play its rightful role in the global economy and in international negotiations.
+#To promote [[sustainable development]] at the [[economic, social and cultural rights|economic, social and cultural levels]] as well as the integration of African economies.
+#To promote co-operation in all fields of human activity to raise the [[living standard]]s of African peoples.
+#To coordinate and harmonize the policies between the existing and future [[Regional Economic Communities]] for the gradual attainment of the objectives of the Union.
+#To advance the development of the continent by promoting research in all fields, in particular in science and technology.
+#To work with relevant international partners in the eradication of preventable diseases and the promotion of good health on the continent.
+
+The African Union is made up of both political and administrative bodies. The highest decision-making organ is the [[Assembly of the African Union]], made up of all the heads of state or government of member states of the AU. The Assembly is chaired by [[Idriss Déby]], President of [[Chad]]. The AU also has a representative body, the [[Pan African Parliament]], which consists of 265 members elected by the national legislatures of the AU member states. Its president is [[Roger Nkodo Dang|Bethel Nnaemeka Amadi]].
+
+Other political institutions of the AU include
+*the [[Executive Council of the African Union|Executive Council]], made up of [[foreign minister]]s, which prepares decisions for the Assembly;
+*the [[Permanent Representatives Committee]], made up of the ambassadors to [[Addis Ababa]] of AU member states; and
+*the [[Economic, Social, and Cultural Council]] (ECOSOCC), a civil society consultative body.
+
+The [[African Union Commission|AU Commission]], the secretariat to the political structures, is chaired by [[Nkosazana Dlamini-Zuma]] of South Africa. On 15 July 2012, Ms. Dlamini-Zuma won a tightly contested vote to become the first female head of the African Union Commission, replacing [[Jean Ping]] of [[Gabon]].
+
+[[File:African Union conference center and office complex, AUCC.jpg|thumb|250px|The African Union's headquarters complex in [[Addis Ababa]].]]
+The main administrative capital of the African Union is in Addis Ababa, [[Ethiopia]], where the African Union Commission is headquartered. A new headquarters complex, the [[AU Conference Center and Office Complex]] (AUCC), was inaugurated on 28 January 2012, during the 18th AU summit.<ref name=AU_NewHQ>Press release No 13 / 18th AU Summit : [http://www.au.int/en/sites/default/files/28%2001%202012_18SUMMIT_PR_INAUGURATION.pdf Inauguration of the new African Union Conference Center]. Directorate of Information and Communication. [[African Union Commission]] (28 January 2012).</ref> The complex was built by [[China State Construction Engineering Corporation]] as a gift from the [[Government of the People's Republic of China|Chinese government]], and accommodates, among other facilities, a 2,500-seat plenary hall and a 20-story office tower. The tower is 99.9 meters high to signify the date 9 September 1999, when the [[Organization of African Unity]] voted to become the African Union.<ref name=Chinadaily_NewHQ>{{cite web|last= Linyan|first=Wang|title=New headquarters shows partnership entering era of hope: Ethiopia PM|url=http://www.chinadaily.com.cn/cndy/2012-01/30/content_14502354.htm|work=[[China Daily]]|accessdate=2 February 2012}}</ref>
+
+Other AU structures are hosted by different member states:
+*the [[African Commission on Human and Peoples' Rights]] is based in [[Banjul]], [[the Gambia]]; and
+*the [[New Partnership for Africa's Development]] (NEPAD) and [[APRM]] [[wikt:secretariat|Secretariat]]s and the [[Pan-African Parliament]] are in [[Midrand]], South Africa.
+
+The AU covers the entire continent except for [[Morocco]] and several territories held by Spain ([[Canary Islands]]), France ([[Mayotte]], [[Réunion]], [[Scattered Islands in the Indian Ocean]]), Portugal ([[Madeira]], [[Savage Islands]]) and the United Kingdom, [[Saint Helena, Ascension and Tristan da Cunha]]){{which|date=September 2014}}. Morocco is not a member because its government opposes the membership of [[Western Sahara]] as the [[Sahrawi Arab Democratic Republic]]. However, Morocco has a special status within the AU and benefits from the services available to all AU states from the institutions of the AU, such as the [[African Development Bank]]. Moroccan delegates also participate at important AU functions, and negotiations continue to try to resolve the conflict with the [[Polisario Front]] in [[Tindouf]], [[Algeria]] and the [[Free Zone (Western Sahara region)|parts of Western Sahara]].
+
+The AU's first military intervention in a member state was the May 2003 deployment of a peacekeeping force of soldiers from South Africa, [[Ethiopia]], and [[Mozambique]] to [[Burundi]] to oversee the implementation of the various agreements. AU troops were also deployed in [[Sudan]] for peacekeeping in the [[Darfur conflict]], before the mission was handed over to the United Nations on 1 January 2008 [[UNAMID]]. The AU has also sent a peacekeeping mission to [[Somalia]], of which the peacekeeping troops are from [[Uganda]] and Burundi.
+
+The AU has adopted a number of important new documents establishing norms at continental level, to supplement those already in force when it was created. These include the [[African Union Convention on Preventing and Combating Corruption]] (2003), the [[African Charter on Democracy, Elections and Governance]] (2007), the [[New Partnership for Africa's Development]] (NEPAD) and its associated Declaration on Democracy, Political, Economic and Corporate Governance.<ref>AU treaties available at: http://www.africa-union.org/root/au/Documents/Treaties/treaties.htm</ref>
+
+===Treaties===
+{{AU evolution timeline}}
+
+==Membership==
+{{See also|Member states of the African Union}}
+
+All [[UN member states]] based in Africa and African waters are or have been members of the AU or OAU, as is the [[Sahrawi Arab Democratic Republic]], whose [[International recognition of the Sahrawi Arab Democratic Republic|status is disputed]]. [[Morocco]] unilaterally withdrew.  Spain, primarily a European country, maintains sovereignty over [[Ceuta]] and [[Melilla]] on the African mainland and the [[Canary Islands]], and is accredited to the African Union.<ref>http://au.int/en/partnerships/others</ref>
+
+{{Col-begin}}
+{{Col-4}}
+*{{Country|Algeria}}
+*{{Country|Angola}}
+*{{Country|Benin}}
+*{{Country|Botswana}}
+*{{Country|Burkina Faso}}
+*{{Country|Burundi}}
+*{{Country|Cape Verde}}
+*{{Country|Cameroon}}
+*{{Country|Central African Republic}}
+*{{Country|Chad}}
+*{{Country|Comoros}}
+*{{Country|Côte d'Ivoire}}
+*{{Country|Democratic Republic of Congo }}
+*{{Country|Djibouti}}
+{{Col-4}}
+*{{Country|Egypt}}
+*{{Country| Equatorial Guinea}}
+*{{Country|Eritrea}}
+*{{Country|Ethiopia}}
+*{{Country|Gabon}}
+*{{Country|Gambia}}
+*{{Country|Ghana}}
+*{{Country|Guinea}}
+*{{Country|Guinea-Bissau}}
+*{{Country|Kenya}}
+*{{Country|Lesotho}}
+*{{Country|Liberia}}
+*{{Country|Libya}}
+*{{Country|Madagascar}}
+{{Col-4}}
+*{{Country|Malawi}}
+*{{Country|Mali}}
+*{{Country|Mauritania}}
+*{{Country|Mauritius}}
+*{{Country|Mozambique}}
+*{{Country|Namibia}}
+*{{Country|Niger}}
+*{{Country|Nigeria}}
+*{{Country|Republic of Congo}}
+*{{Country|Rwanda}}
+*{{Country|Sahrawi Arab Democratic Republic}}
+*{{Country|São Tomé and Príncipe}}
+*{{Country|Senegal}}
+{{Col-4}}
+*{{Country|Seychelles}}
+*{{Country|Sierra Leone}}
+*{{Country|Somalia}}
+*{{Country|South Africa}}
+*{{Country|South Sudan}}
+*{{Country|Sudan}}
+*{{Country|Swaziland}}
+*{{Country|Tanzania}}
+*{{Country|Togo}}
+*{{Country|Tunisia}}
+*{{Country|Uganda}}
+*{{Country|Zambia}}
+*{{Country|Zimbabwe}}
+{{Col-end}}
+
+[[File:Regions of the African Union.png|thumb|[[Regions of the African Union]]<br>
+{{colorbox|#DAA520|North}}
+{{colorbox|#87CEEB|Southern}}
+{{colorbox|#90EE90|East}}
+{{colorbox|#FA8072|West}}
+{{colorbox|#7B68EE|Central}}]]
+
+===Member observer===
+*{{Country|Haiti}} – At the 18th AU summit in Addis Ababa on 2 February 2012, Haiti obtained [[Observer status|Member Observer]] status and thereafter submitted a formal request to become an Associate Member.<ref>{{cite web|url=http://www.haitilibre.com/en/news-4863-haiti-diplomacy-haiti-becomes-a-member-of-the-african-union.html|title=Haiti – Diplomacy: Haiti becomes a member of the African Union – HaitiLibre.com, Haiti News, The haitian people's voice|publisher=Haitilibre.com|accessdate=26 November 2012}}</ref>
+*{{Country|Kazakhstan }} – On 14 November 2013, Kazakhstan obtained [[Observer status|Member Observer]] status after the appropriate treaties were ratified in May 2013. Foreign Minister [[Erlan Idrisov]] became the Permanent Representative of the Republic of Kazakhstan in the African Union.<ref>{{cite web|url=http://www.mfa.gov.kz/en/#!/news/article/12319|title= Kazakhstan was granted an observer status in the African Union|publisher=[[Ministry of Foreign Affairs of the Republic of Kazakhstan]]|accessdate=30 January 2014}}</ref>
+*{{Country|Latvia}} – Observer state to the African Union since 2012.<ref>{{cite web|url= http://www.mfa.gov.lv/en/news/press-releases/2012/january/11-3/|title=Latvia becomes observer to African Union|publisher=[[Ministry of Foreign Affairs of the Republic of Latvia]]|date=14 November 2013|accessdate=30 January 2014}}</ref>
+*{{Country|Lithuania}} – [[Observer status|Member Observer]] to the African Union status since 2013.<ref>{{cite web|url=http://au.int/en/organs/Non-African-States|title=Non-African States and Organisations accredited to the AU|publisher=[[The African Union Commission]]|accessdate=19 November 2015}}</ref>
+*{{Country|Palestine}} – At the 21st summit of the African Union organization granted Palestine observer status.<ref>{{cite web|url=http://www.egyptindependent.com/news/au-grants-palestine-observer-status|author=Fathya el-Dakhakhni|title=AU grants Palestine observer status|publisher=[[Egypt Independent]]|date=27 May 2013|accessdate=30 January 2014}}</ref>
+*{{Country|Serbia}} – country has [[Observer status|Member Observer]] status in African Union and [[Minister of Foreign Affairs (Serbia)|Serbian Foreign Ministers]] [[Ivan Mrkić]] in 2012 and 2014 and [[Vuk Jeremić]] in 2011 participated in Addis Ababa Summits.<ref>{{cite web|url=http://www.b92.net/info/vesti/index.php?yyyy=2014&mm=01&dd=30&nav_category=11&nav_id=806062|title=Mrkić na samitu u Adis Abebi |publisher=[[B92]]|date=30 January 2014|accessdate=30 January 2014}}</ref><ref>{{cite web|url= http://www.b92.net/eng/news/politics.php?yyyy=2011&mm=01&dd=27&nav_id=72376 |title= Serbian FM urges African Union support|publisher=[[B92]]|accessdate=30 January 2014}}</ref><ref>{{cite web|url=http://addisababa.mfa.gov.rs/us.php|title= 	
+bilateral relations|publisher=[[Ethiopia–Serbia relations|Embassy of Serbia in Ethiopia]] |accessdate=30 January 2014}}</ref>
+*{{Country|Turkey}} – country has [[Observer status|Member Observer]] status since 2005.<ref>{{cite web|url=http://belgrade.emb.mfa.gov.tr/ShowAnnouncement.aspx?ID=142473|title=Press Release Regarding The Participation of H.e. Mr. Bekir Bozdağ, Deputy Prime Minister of the Republic of Turkey, In The 18th Ordinary Session of the Assembly of the African Union|publisher=[[Ministry of Foreign Affairs of Turkey]]|date=28 January 2012|accessdate=30 January 2014}}</ref>
+
+===Former members===
+*{{Country|Morocco }} – left the AU's predecessor, the [[Organisation of African Unity]] (OAU) in 1984, when the majority of member countries supported the [[Sahrawi Arab Democratic Republic]] (proclaimed by the [[Polisario Front]] in 1976 claiming the representation of the [[Western Sahara]]), resulting on SADR admission in the AU.<ref>[http://news.bbc.co.uk/1/hi/world/africa/1428796.stm BBC News (8 July 2001) – "OAU considers Morocco readmission"]. Retrieved 9 July 2006.</ref><ref>[http://www.arabicnews.com/ansub/Daily/Day/020709/2002070920.html Arabic News (9 July 2002) – "South African paper says Morocco should be one of the AU and NEPAD leaders"]. Retrieved 9 July 2006</ref> Morocco's ally, [[Zaire]] (now the [[Democratic Republic of the Congo]]), similarly opposed the OAU's admission of the Sahrawi Republic, and the [[Mobutu Sese Seko|Mobutu]] regime boycotted the organisation from 1984 to 1986.<ref>[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+zr0178) ''Zaire: A Country Study'', "Relations with North Africa"]. Retrieved 18 May 2007</ref> Some countries have since [[Foreign_relations_of_the_Sahrawi_Arab_Democratic_Republic#Former_diplomatic_relations|retracted their support]] for the Sahrawi Republic.
+* {{Country|Tanganyika}} –  Merged with Zansibar on 26 April 1964 to form the United Republic of <br>Tanganyika and Zanzibar which was renamed Tanzania on 1 November 1964
+*  {{Flagicon|Zanzibar|1964}} [[People's Republic of Zanzibar|Zanzibar]] –  Merged with Tanganyika on 26 April 1964 to form the United Republic of <br>Tanganyika and Zanzibar which was renamed Tanzania on 1 November 1964
+
+==Organizations==
+{{Politics of the African Union}}
+The African Union has a number of official bodies:
+
+; [[Pan-African Parliament]] (PAP): To become the highest legislative body of the African Union. The seat of the PAP is at [[Midrand]], South Africa. The Parliament is composed of 265&nbsp;elected representatives from all 54&nbsp;AU states, and intended to provide popular and civil-society participation in the processes of democratic governance. Its president is the Hon. Prince [[Bethel Nnaemeka Amadi]], Esq. of [[Nigeria]].
+
+; [[Assembly of the African Union]]: Composed of heads of state and heads of government of AU states, the Assembly is currently the supreme governing body of the African Union. It is gradually devolving some of its decision-making powers to the Pan African Parliament. It meets once a year and makes its decisions by consensus or by a two-thirds majority. The current [[Chairperson of the African Union|chair of the AU]] is [[Chad]]ian President [[Idriss Déby]].
+
+; [[African Union Commission|African Union Commission (or Authority)]] : The secretariat of the African Union, composed of ten commissioners and supporting staff and headquartered in [[Addis Ababa]], Ethiopia. In a similar fashion to its [[European Union|European]] counterpart, the [[European Commission]], it is responsible for the administration and co-ordination of the AU's activities and meetings.
+
+; [[Court of Justice of the African Union]]: The Constitutive Act provides for a Court of Justice to rule on disputes over interpretation of AU treaties. A protocol to set up this Court of Justice was adopted in 2003 and entered into force in 2009. It was, however, superseded by a protocol creating an [[African Court of Justice and Human Rights]], which will incorporate the already established [[African Court on Human and Peoples' Rights]] (see below) and have two chambers: one for general legal matters and one for rulings on the human rights treaties.
+
+; [[Executive Council of the African Union|Executive Council]]: Composed of ministers designated by the governments of member states. It decides on matters such as foreign trade, social security, food, agriculture and communications, is accountable to the Assembly, and prepares material for the Assembly to discuss and approve.It is chaired by Mr Shawn Makuyana of Zimbabwe (2015–).
+
+; [[Permanent Representatives' Committee of the African Union|Permanent Representatives' Committee]]: Consisting of nominated permanent representatives of member states, the Committee prepares the work for the Executive Council, similar the role of the [[Committee of Permanent Representatives]] in the [[European Union]].
+
+; [[Peace and Security Council]] (PSC): Proposed at the Lusaka Summit in 2001 and established in 2004 under a protocol to the Constitutive Act adopted by the AU Assembly in July 2002. The protocol defines the PSC as a collective security and early warning arrangement to facilitate timely and effective response to conflict and crisis situations in Africa. Other responsibilities conferred to the PSC by the protocol include prevention, management and resolution of conflicts, post-conflict peace building and developing common defence policies. The PSC has fifteen members elected on a regional basis by the Assembly. Similar in intent and operation to the [[United Nations Security Council]].
+
+; [[Economic, Social and Cultural Council]]: An advisory organ composed of professional and civic representatives, similar to the European [[Economic and Social Committee]]. The chair of ECOSOCC, elected in 2008, is Cameroonian lawyer [[Akere Muna]] of the Pan-African Lawyers Union (PALU).
+
+; [[Specialised Technical Committees of the African Union|Specialised Technical Committees]]: Both the Abuja Treaty and the Constitutive Act provide for Specialised Technical Committees to be established made up of African ministers to advise the Assembly. In practice, they have never been set up. The ten proposed themes are: Rural Economy and Agricultural Matters; Monetary and Financial Affairs; Trade, Customs, and Immigration; Industry, Science and Technology; Energy, Natural Resources, and Environment; Transport, Communications, and Tourism; Health; Labour, and Social Affairs; Education, Culture, and Human Resources.
+
+; Financial institutions:
+*[[African Central Bank]]&nbsp;– [[Abuja]], Nigeria
+*[[African Investment Bank]]&nbsp;– [[Tripoli]], Libya
+*[[African Monetary Fund]]&nbsp;– [[Yaoundé]], Cameroon
+
+These institutions have not yet been established, however, the Steering Committees working on their founding have been constituted. Eventually, the AU aims to have a single currency (the [[Afro (currency)|Afro]]).
+
+; Human rights: The [[African Commission on Human and Peoples' Rights]], in existence since 1986, is established under the [[African Charter on Human and Peoples' Rights]] (the African Charter) rather than the Constitutive Act of the African Union. It is the premier African human rights body, with responsibility for monitoring and promoting compliance with the African Charter. The [[African Court on Human and Peoples' Rights]] was established in 2006 to supplement the work of the Commission, following the entry into force of a protocol to the African Charter providing for its creation. It is planned that the African Court on Human and Peoples' Rights will be merged with the Court of Justice of the African Union (see above).
+
+; [[African Energy Commission]]
+
+==African Union Summits==
+{{Expand section|missing sessions|date=November 2015}}
+
+{| class="sortable wikitable"
+|-
+! Session
+! Location (Country)
+! Location (City)
+! Date
+! Theme
+! Notes
+|-
+| 25th<ref>Event details: http://summits.au.int/en/25thsummit</ref><ref>Event details: http://www.dirco.gov.za/docs/2015/au0421.htm</ref> || [[Johannesburg]]||{{Country|South Africa}} || 7–15 June 2015 || "2015 year of women's empowerment and development towards Africa's agenda 2063" || Featured Angelina Jolie<ref>{{cite web | title= A Call for Global Support in Ending Women’s Violence Done by Angelina Jolie | publisher= Newwatch NGR | url= http://www.newswatchngr.com/a-call-for-global-support-in-ending-womens-violence-done-by-angelina-jolie-14938 | website=newswatchngr.com | date= February 2016 | accessdate=23 February 2016}}</ref> 
+|-
+| 24th<ref>Event details: http://summits.au.int/en/24thsummit</ref> || [[Addis Ababa]]||{{Country|Ethiopia}} || 23-31 January 2015 || "2015 year of women's empowerment and development towards Africa's agenda 2063" ||
+|-
+| 2nd Africa – Turkey Summit<ref>Event details: http://summits.au.int/en/africaturkey2014</ref><ref>Event details: http://afrika.mfa.gov.tr/turkey-africa-partnership-summit-19-21-november-2014.en.mfa</ref>||rowspan="2"| [[Malabo]]||rowspan="2"| {{Country|Equatorial Guinea}} || 19-21 November 2014 || "A new model of partnership to enhance a sustainable development and integration of Africa" ||
+|-
+| 23rd<ref>Event details: http://summits.au.int/en/23rdsummit</ref> || 20–27 June 2014 || "Agriculture and food security" ||
+|-
+| 22nd<ref>Event details: http://summits.au.int/en/22ndsummit</ref><ref>Event details: http://www.nepad.org/summit/22nd-ordinary-session-summit-african-union</ref> ||rowspan="4"| [[Addis Ababa]]||rowspan="4"|{{Country|Ethiopia}} || 21–31 January 2014 || "2014 Year of Agriculture and Food Security, Marking 10th Anniversary of the Adoption of the Comprehensive Africa Agriculture Development Programme (CAADP)" ||
+|-
+| ICC – Extraordinary Summit<ref>Event details: http://summits.au.int/en/icc</ref>  || 10–16 October 2013 || "Africa's relationship with the [[International Criminal Court|ICC]]" || This was in regards to the ICC's non-adherence to AU calls to drop certain charges against sitting leaders and that it was disproportionally targeting Africans.<ref>{{cite news|url=http://www.irishtimes.com/news/world/africa/kenya-pushing-for-african-split-from-international-criminal-court-1.1549427|title=Kenya pushing for African split from International Criminal Court|newspaper=[[Irish Times]]|accessdate=30 January 2014}}</ref>
+|-
+| 21st<ref>Event details: http://summits.au.int/en/21stsummit</ref> || 19–27 May 2013 || "Panafricanism and African renaissance" ||
+|-
+| 20th<ref>Event details: http://summits.au.int/en/20thsummit</ref>  || 27-28 January 2013 || "Panafricanism and African renaissance" ||
+|-
+| Diaspora Summit 2012<ref>Event details: http://summits.au.int/en/diasporasummit2012</ref> || [[Sandton, South Africa| Sandton]]||{{Country|South Africa}} || 23-25 May 2012 || "Towards the realisation of a united and integrated Africa and its diaspora" ||
+|-
+| 18th<ref>Event details: http://summits.au.int/en/18thsummit</ref> || Addis Ababa, ||{{Country|Ethiopia}} || 23–30 January 2012 || "Boosting Intra-African trade" ||
+|-
+| 17th<ref>Event details: http://summits.au.int/en/17thsummit</ref> || Malabo, ||{{Country|Equatorial Guinea}} || 23 June-1 July 2011 || "Youth empowerment for sustainable development" ||
+|-
+| 2nd Africa - India Forum Summit<ref>Event details: http://summits.au.int/en/AfricaIndia</ref> ||rowspan="2| Addis Ababa, ||rowspan="2"|{{Country|Ethiopia}} || 20–25 May 2011 || "Enhancing partnership: shared vision" ||
+|-
+| 16th<ref>Event details: http://summits.au.int/en/16thsummit</ref>  || 24-31 January 2011 || "Towards greater unity and integration through shared values" ||
+|-
+| 1st<ref>Event details: http://www.au2002.gov.za/</ref> || [[Durban, South Africa| Durban]]||{{Country|South Africa}} || 9-10 July 2002 || "A new model of partnership to enhance a sustainable development and integration of Africa" || Notable events include the launch of the African Union.<ref>http://www.au2002.gov.za/docs/dbnsummit/index.html</ref>
+|-
+|}
+
+==Role of the diaspora==
+The Constitutive Act of the AU declares that it shall "invite and encourage the full participation of the [[African diaspora]] as an important part of our Continent, in the building of the African Union". The African Union Government has defined the African diaspora as "consisting of people of African origin living outside the continent, irrespective of their citizenship and nationality and who are willing to contribute to the development of the continent and the building of the African Union".<ref>[http://www.siue.edu/~mafolay/JournalInfo/Vol-2/Issue%201%20revised.pdf ''Pan-Africanism and the African Union''], Dallas L. Browne.</ref>
+
+==Current issues==
+The AU faces many challenges, including health issues such as combating [[malaria]] and the AIDS/HIV epidemic; political issues such as confronting undemocratic regimes and mediating in the many civil wars; economic issues such as improving the [[Human Development Index|standard of living]] of millions of impoverished, uneducated Africans; ecological issues such as dealing with recurring famines, [[desertification]], and lack of ecological [[sustainability]]; as well as the [[international law|legal]] [[Legal status of Western Sahara|issues regarding Western Sahara]].
+
+===Union Government===
+The principal topic for debate at the July 2007 AU summit held in [[Accra]], Ghana, was the creation of a Union Government,<ref>Decision on the Report of the 9th Extraordinary session of the executive council on the proposals for the Union Government, DOC.Assembly/AU/10 (VIII), Assembly/AU/Dec.156 (VIII).</ref> with the aim of moving towards a [[United States of Africa]]. A study on the [[Union Government of Africa|Union Government]] was adopted in late 2006,<ref>Study on an African Union Government: Towards a United States of Africa, 2006. See also, Decision on the Union Government, Doc. Assembly/AU/2(VII).</ref> and proposes various options for "completing" the African Union project. There are divisions among African states on the proposals, with some (notably [[Great Socialist People's Libyan Arab Jamahiriya|Libya]]) following a maximalist view leading to a common government with an AU army; and others (especially the southern African states) supporting rather a strengthening of the existing structures, with some reforms to deal with administrative and political challenges in making the AU Commission and other bodies truly effective.<ref>For further discussion of this proposal see http://www.pambazuka.org/aumonitor/</ref>
+
+Following a heated debate in Accra, the [[Assembly of the African Union|Assembly of Heads of State and Government]] agreed in the form of a declaration to review the state of affairs of the AU with a view to determining its readiness towards a Union Government.<ref>Accra Declaration, Assembly of the Union at its 9th Ordinary session in Accra, Ghana, 1–3 July 2007.</ref> In particular, the Assembly agreed to:
+*Accelerate the economic and political integration of the African continent, including the formation of a [[Union Government of Africa]];
+*Conduct an audit of the institutions and organs of the AU; review the relationship between the AU and the RECs; find ways to strengthen the AU and elaborate a timeframe to establish a Union Government of Africa.
+
+The declaration lastly noted the "importance of involving the African peoples, including Africans in the Diaspora, in the processes leading to the formation of the Union Government."
+
+Following this decision, a panel of eminent persons was set up to conduct the "audit review". The review team began its work on 1 September 2007. The review was presented to the Assembly of Heads of State and Government at the January 2008 summit in Addis Ababa. No final decision was taken on the recommendations, however, and a committee of ten heads of state was appointed to consider the review and report back to the July 2008 summit to be held in Egypt.<ref>{{cite web|url=http://www.africa-union.org/root/au/Conferences/2008/january/summit/docs/decisions/Assembly.Dec_171%20-%20192%20_X_%20-%20Addis_February_2008.pdf|title=Decision on the Report of the Executive Council on the Audit of the Union and the Report of the Ministerial Committee on the Union Government, Doc. Assembly/Au/8(X)|format=[[Portable Document Format|PDF]]|accessdate=26 November 2012}}</ref> At the July 2008 summit, a decision was once again deferred, for a "final" debate at the January 2009 summit to be held in Addis Ababa.
+
+===Role of African Union===
+{{Supranational African Bodies|align=right|size=500px}}
+
+One of the key debates in relation to the achievement of greater continental integration is the relative priority that should be given to integration of the continent as a unit in itself or to integration of the sub-regions. The 1980 [[Lagos Plan of Action for the Development of Africa]] and the 1991 treaty to establish the African Economic Community (also referred to as the Abuja Treaty), proposed the creation of [[Regional Economic Communities]] (RECs) as the basis for African integration, with a timetable for regional and then continental integration to follow.<ref>See note on [http://www.dfa.gov.za/docs/2003/au0815.htm The Role of the Regional Economic Communities (RECs) as the Building Blocks of the African Union] prepared by the South African Department of Foreign Affairs.</ref>
+
+Currently, there are eight RECs recognised by the AU, each established under a separate regional treaty. They are:
+
+*the [[Arab Maghreb Union]] (UMA)
+*the [[Common Market for Eastern and Southern Africa]] (COMESA)
+*the [[Community of Sahel-Saharan States]] (CEN-SAD)
+*the [[East African Community]] (EAC)
+*the [[Economic Community of Central African States]] (ECCAS)
+*the [[Economic Community of West African States]] (ECOWAS)
+*the [[Intergovernmental Authority on Development]] (IGAD)
+*the [[Southern Africa Development Community]] (SADC)
+
+The membership of many of the communities overlaps, and their rationalisation has been under discussion for several years&nbsp;– and formed the theme of the 2006 Banjul summit. At the July 2007 Accra summit the Assembly finally decided to adopt a Protocol on Relations between the African Union and the Regional Economic Communities.<ref>Decision on the Protocol on Relations between the African Union and the Regional Economic Communities (RECs), Assembly/AU/Dec.166 (IX).</ref> This protocol is intended to facilitate the harmonisation of policies and ensure compliance with the Abuja Treaty and Lagos Plan of Action time frames.
+
+===Selection of chair===
+In 2006, the AU decided to create a Committee "to consider the implementation of a rotation system between the regions" in relation to the presidency. Controversy arose at the 2006 summit when Sudan announced its candidacy for the AU's chairmanship, as a representative of the East African region. Several member states refused to support Sudan because of tensions over [[Darfur]] (see also below). Sudan ultimately withdrew its candidacy and President [[Denis Sassou-Nguesso]] of the [[Republic of the Congo]] was elected to a one-year term. At the January 2007 summit, Sassou-Nguesso was replaced by President [[John Agyekum Kufuor]] of Ghana, despite another attempt by Sudan to gain the chair. 2007 was the 50th anniversary of Ghana's independence, a symbolic moment for the country to hold the chair of the AU—and to host the mid-year summit at which the proposed Union Government was also discussed. In January 2008, President [[Jakaya Kikwete]] of Tanzania took over as chair, representing the East African region and thus apparently ending Sudan's attempt to become chair—at least till the rotation returns to East Africa.<ref>See [http://www.afrimap.org/english/images/report/AU_People-DrivenNov07.pdf ''Towards a People-Driven African Union: Current Obstacles and New Opportunities''], AfriMAP, AFRODAD and Oxfam GB, Updated Edition November 2007, pp. 45–46, and [http://www.afrimap.org/english/images/report/AfriMAP-AU-Guide-EN.pdf ''Strengthening Popular Participation in the African Union: A Guide to AU Structures and Processes''], AfriMAP and Oxfam GB, 2010, pp. 8–9.</ref> The current chair is Benin.
+
+=== AIDS in Africa ===
+One of the most serious issues to face Africa is not a dispute between nations, but rather the rapid spread of HIV and the AIDS [[pandemic]]. [[Sub-Saharan Africa]], especially southern Africa, is by far the most affected area in the world, and the infection is now starting to claim lives by the millions. While the measurement of HIV prevalence rates has proved methodologically challenging, more than 20% of the sexually active population of many countries of southern Africa may be infected, with South Africa, Botswana, [[Kenya]], Namibia, and [[Zimbabwe]] all expected to have a decrease in [[life expectancy]] by an average of 6.5 years. The effects on South Africa, which constitutes 30% of the AU's economy,{{Citation needed|date=March 2010}} threatens to significantly stunt GDP growth, and thus internal and external trade for the continent.
+
+===Libya===
+The AU attempted to mediate in the early stages of the [[2011 Libyan civil war]], forming an ''ad hoc'' committee of five presidents ([[Republic of the Congo|Congolese]] President [[Denis Sassou Nguesso]], Malian President [[Amadou Toumani Touré]], Mauritanian President [[Mohamed Ould Abdel Aziz]], South African President [[Jacob Zuma]], and Ugandan President [[Yoweri Museveni]]) to broker a truce.<ref>{{cite news|url=http://thestar.com.my/news/story.asp?sec=nation&file=/2011/3/21/nation/8313696|work=The Star|title=African Union urges restraint on both sides|date=21 March 2011|accessdate=5 July 2011}}</ref> However, the beginning of the [[NATO]]-led [[2011 military intervention in Libya|military intervention]] in March 2011 prevented the committee from traveling to [[Great Socialist People's Libyan Arab Jamahiriya|Libya]] to meet with Libyan leader and former head of the AU until 2010 [[Muammar Gaddafi]].<ref>{{cite news|url= http://www.monitor.co.ug/News/National/-/688334/1129850/-/c3uoa3z/-/|work=[[Daily Monitor]]|title=Kutesa, AU blocked from entering Libya|date=21 March 2011|accessdate=21 March 2011|first=Emmanuel|last=Mulondo}}</ref> As a body, the AU sharply dissented from the [[United Nations Security Council]]'s decision to create a [[no-fly zone]] over Libya,<ref>{{cite web|url=http://www.sudantribune.com/NAfrican-Union-demands-end-to,38339 |title=African Union demands end to military strikes on Libya, skips Paris meeting|work=Sudan Tribune|date= 19 March 2011|accessdate=21 March 2011| archiveurl= https://web.archive.org/web/20110321212338/http://www.sudantribune.com/NAfrican-Union-demands-end-to,38339|archivedate=21 March 2011 |deadurl=no}}</ref> though a few member states, such as [[Botswana]],<ref>{{cite news|url=http://www.mmegi.bw/index.php?sid=1&aid=1909&dir=2011/March/Wednesday23|date=23 March 2011|accessdate=5 April 2011|title=Khama supports no-fly zone on Libya|work=Mmegi|first=Baboki|last=Kayawe}}</ref> [[Gabon]],<ref>{{cite news|url= http://english.aljazeera.net/news/africa/2011/03/201131720311168561.html|publisher=Al Jazeera|date=18 March 2011|accessdate=18 March 2011|title=UN authorises no-fly zone over Libya| archiveurl= https://web.archive.org/web/20110318102654/http://english.aljazeera.net/news/africa/2011/03/201131720311168561.html|archivedate=18 March 2011 |deadurl=no}}</ref> [[Zambia]],<ref>{{cite news|url=http://www.postzambia.com/post-read_article.php?articleId=19332|work=The Post|date=27 March 2011|accessdate=5 April 2011|title=Rupiah backs action against Libya}}</ref> and others expressed support for [[United Nations Security Council Resolution 1973|the resolution]].
+
+As a result of Gaddafi's defeat at the [[2011 Battle of Tripoli|Battle of Tripoli]], the decisive battle of the war, in August 2011, the [[Arab League]] voted to recognise the anti-Gaddafi [[National Transitional Council]] as the legitimate government of the country pending elections,<ref>{{cite news|url=http://www.rttnews.com/Content/GeneralNews.aspx?Id=1700187&SM=1|agency=[[RTTNews]]|date=25 August 2011|accessdate=25 August 2011|title=Arab League Recognizes Libyan Rebel Council}}</ref> yet although the council has been recognised by several AU member states, including two countries that are also members of the Arab League,<ref>{{cite news|url=http://www.seattlepi.com/news/article/Tunis-recognizes-Libyan-rebels-as-country-s-rep-2134144.php|work=Seattle Post-Intelligencer|title=Tunis recognizes Libyan rebels as country's rep|date=20 August 2011|accessdate=20 August 2011|deadurl=yes}} {{Dead link|date=December 2011|bot=RjwilmsiBot}}</ref><ref>{{cite news|title=Egypt recognises Libya rebel government |url=http://www.thenewage.co.za/26532-1019-53-Egypt_recognises_Libya_rebel_government |accessdate=22 August 2011 |newspaper=[[The New Age (South African newspaper)|The New Age]] |location=South Africa |date=22 August 2011 |deadurl=unfit |archiveurl=https://web.archive.org/web/20120308203558/http://www.thenewage.co.za/26532-1019-53-Egypt_recognises_Libya_rebel_government |archivedate=8 March 2012 }}</ref> the AU [[Peace and Security Council]] voted on 26 August 2011 not to recognise it, insisting that a ceasefire be agreed to and a national [[unity government]] be formed by both sides in the civil war.<ref>{{cite news|first=Barry|last=Malone|url=http://www.dailystar.com.lb/News/Middle-East/2011/Aug-26/AU-wont-recognise-Libyan-rebel-council-diplomats.ashx#axzz1W9KDcooQ|work=The Daily Star|date=26 August 2011|accessdate=26 August 2011|title=AU won't recognise Libyan rebel council: diplomats}}</ref> A number of AU member states led by [[Ethiopia]], Nigeria, and [[Rwanda]] requested that the AU recognise the NTC as Libya's interim governing authority,<ref>{{cite news|url=http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=304812|agency=NOW Lebanon|date=24 August 2011|accessdate=24 August 2011|title=Ethiopia recognizes Libyan rebels}}</ref><ref>{{cite news|agency=Afrique en ligne|url=http://www.afriquejet.com/libya-ntc-national-transitional-council-in-libya-2011082721212.html|date=27 August 2011|accessdate=27 August 2011|title=Libya-NTC: National Transitional Council in Libya}}</ref> and several other AU member states have recognised the NTC regardless of the Peace and Security Council's decision.<ref>{{cite news|url= http://blogs.aljazeera.net/liveblog/libya-aug-24-2011-2025/|title=Chad recognises rebel council as only legitimate authority in neighbouring Libya|date=24 August 2011|publisher=Al Jazeera|accessdate=24 August 2011}}</ref><ref>{{cite news|date=27 August 2011|accessdate=27 August 2011|url=http://www.reuters.com/article/2011/08/27/us-libya-rebels-recognition-idUSTRE77Q1ME20110827|title=Benin recognize Libyan rebels|agency=[[Reuters]]}}</ref> However, AU member states [[Algeria]]<ref>{{cite news|url=http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=305666|agency=NOW Lebanon|date=26 August 2011|accessdate=26 August 2011|title=Algeria declines to recognize Libyan rebels}}</ref> and [[Zimbabwe]]<ref>{{cite news|url=http://www.thezimbabwean.co.uk/news/africa/52122/libyan-envoy-to-zimbabwe-expelled.html|work=The Zimbabwean|title=Libyan envoy to Zimbabwe expelled for burning flag|date=26 August 2011|accessdate=26 August 2011}}</ref> have indicated they will not recognise the NTC, and South Africa has expressed reservations as well.<ref>{{cite news|url=http://mg.co.za/article/2011-08-26-libya-how-sa-stood-firm-on-money-for-rebels/|agency=Mail & Globe Online|date=26 August 2011|accessdate=27 August 2011|title=Libya: How SA stood firm on money for rebels}}</ref>
+
+On 20 September 2011, the African Union officially recognised the National Transitional Council as the legitimate representative of Libya.<ref>{{cite news|title=African Union officially recognises Libya's new leadership|url= http://www.google.com/hostednews/afp/article/ALeqM5h2NflCTWlrw96Cs-Ts7A7Xcem2dA?docId=CNG.a8a1185f4a08d2928999ea8643dc5bd9.501}}</ref>
+
+==Interventions in support of constitutionality==
+===Togo===
+In response to the death of [[Gnassingbé Eyadéma]], President of [[Togo]], on 5 February 2005, AU leaders described the naming of his son [[Faure Gnassingbé]] the successor as a [[Coup d'état|military coup]].<ref>{{cite news|url= http://news.bbc.co.uk/1/hi/world/africa/4240485.stm|title=AU denounces Togo 'military coup'|publisher=[[BBC News]]|date=6 February 2005|accessdate=10 July 2006}}</ref> Togo's constitution calls for the speaker of parliament to succeed the president in the event of his death. By law, the parliament speaker must call national elections to choose a new president within sixty days. The AU's protest forced Gnassingbé to hold elections. Under heavy allegations of election fraud, he was officially elected President on 4 May 2005.
+
+===Mauritania===
+On 3 August 2005, a coup in [[Mauritania]] led the African Union to suspend the country from all organisational activities. The Military Council that took control of Mauritania promised to hold elections within two years.{{Citation needed|date=July 2011}} These were held in early 2007, the first time that the country had held elections that were generally agreed to be of an acceptable standard. Following the elections, Mauritania's membership of the AU was restored. However, on 6 August 2008, a fresh coup overthrew the government elected in 2007. The AU once again suspended Mauritania from the continental body.<ref>{{cite news|url=http://www.economist.com/node/14105592|title=All is rather easily forgiven|work=[[The Economist]]|date=23 July 2009|accessdate=15 July 2011}}</ref>
+
+===Mali===
+{{Expand section|date=July 2013}}
+In March 2012, a military coup was staged in Mali, when an alliance of Touareg and Islamist forces conquered the north, resulting in a coming to power of the Islamists. After a military intervention with help from French troops, the region was in control of the Malian army. To reinstall local authorities, the AU helped to form a caretaker government, supporting it and holding presidential elections in Mali in July 2013.<ref name="dandc.eu">Bernadette Schulz, Ruth Langer, [http://www.dandc.eu/en/article/african-peace-and-security-architecture-already-proving-useful-even-though-it-still-work "Peace missions – The long haul"], D+C, 27 August 2013.</ref>
+
+== Regional conflicts and military interventions==
+One of the objectives of the AU is to "promote peace, security, and stability on the continent".<ref>Article 3(f) of the Constitutive Act.</ref> Among its principles is 'Peaceful resolution of conflicts among Member States of the Union through such appropriate means as may be decided upon by the Assembly'.<ref>Article 4(e) of the Constitutive Act.</ref> The primary body charged with implementing these objectives and principles is the Peace and Security Council. The PSC has the power, among other things, to authorise peace support missions, to impose sanctions in case of unconstitutional change of government, and to "take initiatives and action it deems appropriate" in response to potential or actual conflicts. The PSC is a decision-making body in its own right, and its decisions are binding on member states.
+
+Article 4(h) of the Constitutive Act, repeated in article 4 of the Protocol to the Constitutive Act on the PSC, also recognises the right of the Union to intervene in member state in circumstances of war crimes, genocide and crimes against humanity. Any decision to intervene in a member state under article 4 of the Constitutive Act will be made by the Assembly on the recommendation of the PSC.
+
+Since it first met in 2004, the PSC has been active in relation to the crises in Darfur, Comoros, Somalia, [[Democratic Republic of Congo]], Burundi, Côte d'Ivoire and other countries. It has adopted resolutions creating the AU peacekeeping operations in Somalia and Darfur, and imposing sanctions against persons undermining peace and security (such as travel bans and asset freezes against the leaders of the rebellion in Comoros). The Council is in the process of overseeing the establishment of a "standby force" to serve as a permanent African peacekeeping force.,{{citation needed|date=January 2014}} Institute for Security Studies, South Africa, March 2008.
+
+The founding treaty of the AU also called for the establishment of the African Peace and Security Architecture (APSA), including the [[African Standby Force]] (ASF), which is to be deployed in emergencies. That means, in cases of genocide or other serious human-rights violations, an ASF mission can be launched even against the wishes of the government of the country concerned, as long as it is approved by the AU General Assembly. In the past AU peacekeeping missions, the concept was not yet applied, forces had to be mobilised from member states. The AU is planning on putting the concept into practise by 2015 the earliest.<ref name=dandc.eu/>
+
+=== Darfur, Sudan ===
+{{Main|African Union Mission in Sudan}}
+[[File:Eritrea - Flickr - Al Jazeera English.jpg|thumb|[[South Sudanese independence referendum, 2011]]]]
+In response to the ongoing [[Darfur conflict]] in Sudan, the AU has deployed 7,000 peacekeepers, many from [[Rwanda]] and [[Nigeria]], to [[Darfur]]. While a donor's conference in [[Addis Ababa]] in 2005 helped raise funds to sustain the peacekeepers through that year and into 2006, in July 2006 the AU said it would pull out at the end of September when its mandate expires.<ref>{{cite news|url= http://news.bbc.co.uk/2/hi/africa/5124608.stm|publisher=BBC News|title=AU Darfur mission 'to end soon'|date=28 June 2006|accessdate=23 April 2010}}</ref> Critics of the AU peacekeepers, including Dr. [[Eric Reeves]], have said these forces are largely ineffective due to lack of funds, personnel, and expertise. Monitoring an area roughly the size of France has made it even more difficult to sustain an effective mission. In June 2006, the [[United States Congress]] appropriated US$173&nbsp;million for the AU force. Some, such as the [[Genocide Intervention Network]], have called for United Nations (UN) or [[NATO]] intervention to augment and/or replace the AU peacekeepers. The UN has considered deploying a force, though it would not likely enter the country until at least October 2007.<ref>{{cite web|url=http://www.un.org/News/Press/docs//2007/sc9089.doc.htm|title= Security Council Authorises Deployment of United Nations-African Union 'Hybrid' Peace Operation in Bid To Resolve Darfur Conflict |publisher=United Nations |accessdate=26 November 2012}}</ref> The under-funded and badly equipped AU mission was set to expire on 31 December 2006 but was extended to 30 June 2007 and merged with the [[United Nations African Union Mission in Darfur]] in October 2007. In July 2009 the African Union ceased cooperation with the [[International Criminal Court]], refusing to recognise the international arrest warrant it had issued against Sudan's leader, [[Omar al-Bashir]], who was indicted in 2008 for [[War crime]]s.<ref>{{cite news|url= http://news.bbc.co.uk/2/hi/africa/8134718.stm|publisher=BBC News|title=African move on Bashir dismissed|date=5 July 2009|accessdate=23 April 2010}}</ref>
+
+The AU struggled to have a strategic role in the independence talks and the reconciliation process of [[South Sudan]], anyway due to overwhelming interests of African and non-African powers, its influence is still limited and not consistent.<ref>{{cite journal|last=Sulaiman|first=Abubkar o.|author2=Agoha, Ifeanyi Chuckwu|title=South Sudan Negotiated Independence: A Critique of African Union’s Role|journal=European Journal of Sustainable Development|date=1 October 2013|volume=2|issue=3|pages=145–154|doi=10.14207/ejsd.2013.v2n3p145|url=http://www.ecsdev.org/index.php/publications/archive?start=1}}</ref>
+
+===Somalia===
+{{Main|African Union Mission to Somalia}}
+
+From the early 1990s up until 2012, [[Somalia]] was without a functioning central government. A peace agreement aimed at ending the [[Somali Civil War|civil war]] that broke out following the collapse of the [[Siad Barre]] regime was signed in 2006 after many years of peace talks. However, the new government was almost immediately threatened by further violence. To temporarily shore up the government's military base, starting in March 2007, AU soldiers began arriving in [[Mogadishu]] as part of a peacekeeping force that was intended by the AU to eventually be 8,000 strong.<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/africa/2115736.stm|publisher=BBC News|title=African Union replaces dictators' club|date=8 July 2002|accessdate=23 April 2010|first=Paul|last= Reynolds|archiveurl= https://web.archive.org/web/20100601025542/http://news.bbc.co.uk/2/hi/africa/2115736.stm| archivedate= 1 June 2010 |deadurl=no}}</ref> Eritrea recalled its ambassadors to the African Union on 20 November 2009<ref>[http://www.afrol.com/articles/10577 Afro News] ''Eritrea breaks with African Union'', 20 November 2009.</ref> after the African Union called on the United Nations Security Council to impose sanctions on them due to their alleged support of Somali Islamists attempting to topple the [[Transitional Federal Government]] of Somalia, the internationally recognised government of Somalia which holds Somalia's seat on the African Union.<ref>[http://news.bbc.co.uk/2/hi/africa/8064939.stm "AU Calls for sanctions on Eritrea"] BBC.co.uk 23 May 2009. Retrieved 23 May 2009</ref> On 22 December 2009, the Security Council passed [[United Nations Security Council Resolution 1907|UNSCR 1907]], which imposed an arms embargo on Eritrea, travel bans on Eritrean leaders, and asset freezes on Eritrean officials. Eritrea strongly criticised the resolution. In January 2011, Eritrea reestablished their mission to the AU in Addis Ababa.<ref>{{cite web|url= http://allafrica.com/stories/201101210166.html|title=Eritrea: Nation Appoints AU Envoy in Ethiopia|date=20 January 2011|accessdate=9 May 2011}}</ref>
+
+===Anjouan, Comoros===
+{{Main|2008 invasion of Anjouan}}
+
+==Economy==
+{{main|Economy of the African Union}}
+The AU's future goals include the creation of a [[free trade area]], a [[customs union]], a [[single market]], a [[central bank]], and a common currency (see [[African Monetary Union]]), thereby establishing [[economic and monetary union]]. The current plan is to establish an [[African Economic Community]] with a single currency by 2023.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/africa/country_profiles/3870303.stm|title=   
+Profile: African Union|date=1 July 2006|accessdate=10 July 2006|publisher=BBC News| archiveurl= https://web.archive.org/web/20060712034155/http://news.bbc.co.uk/2/hi/africa/country_profiles/3870303.stm|archivedate=12 July 2006 |deadurl=no}}</ref>
+
+==Languages==
+{{Main|Languages of the African Union}}
+According to the Constitutive Act of the African Union, its working languages are Arabic, English, French and Portuguese, and [[Languages of Africa|African languages]] "if possible".<ref>Article 25, Constitutive Act of the African Union.</ref> A protocol amending the Constitutive Act, adopted in 2003 but as of 2015 not in force, would add Spanish, [[Swahili language|Swahili]] and "any other African language" and declare all "official" (rather than "working") languages of the African Union.<ref>{{Citation|url=http://au.int/en/sites/default/files/PROTOCOL_AMENDMENTS_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION.pdf | title= Protocol on Amendments to the Constitutive Act of the African Union: Article 11, Official Languages.}}</ref> The Executive Council shall determine the process and practical modalities for the use of official languages as working languages.
+
+Founded in 2001 under the auspices of the AU, the [[African Academy of Languages]] promotes the usage and perpetuation of African languages among African people. The AU declared 2006 the Year of African Languages.<ref name="Year of African Languages">{{cite web|url=http://allafrica.com/stories/200606210733.html|title=Ethiopia: AU Launches 2006 As Year of African Languages|accessdate=2006|year=2006|publisher=[[AllAfrica.com]]}}</ref><ref name="Year of African Languages 2">{{cite web|url= http://web.uct.ac.za/depts/praesa/YoAL.htm|title=The Year of African Languages (2006) – Plan for the year of African Languages – Executive Summary|accessdate=30 September 2006|author=Project for the Study of Alternative Education in South Africa |year=2006|publisher=Project for the Study of Alternative Education in South Africa}}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}</ref> 2006 also marked Ghana's 55th anniversary since it founded the [[Bureau of Ghana Languages]] originally known as [[Bureau of Ghana Languages|Gold Coast Vernacular Literature Bureau]].
+
+==Geography==
+{{Main|Geography of the African Union}}
+
+Member [[Sovereign state|states]] of the African Union cover almost the entirety of continental Africa and several off-shore islands. Consequently, the geography of the African Union is wildly diverse, including the world's largest hot desert (the [[Sahara]]), huge jungles and [[savanna]]s, and the world's longest river (the [[Nile]]).
+
+The AU presently has an area of 29,922,059&nbsp;km² (18,592,705&nbsp;mi²), with 24,165&nbsp;km (15,015&nbsp;mi) of coastline. The vast majority of this area is on continental Africa, while the only significant territory off the mainland is the island of [[Madagascar]] ([[List of islands by area|the world's fourth largest island]]), accounting for slightly less than 2% of the total.
+
+==Foreign relations==
+{{Main|Foreign relations of the African Union}}
+
+The individual member states of the African Union coordinate foreign policy through this agency, in addition to conducting their own [[international relations]] on a state-by-state basis. The AU represents the interests of African peoples at large in [[intergovernmental organisation]]s (IGOs); for instance, it is a [[United Nations General Assembly observers|permanent observer]] at the [[United Nations General Assembly]]. Both the African Union and the United Nations work in tandem to address issues of common concerns in various areas. The African Union Mission in United Nations aspires to serve as a bridge between the two Organisations.
+
+Membership of the AU overlaps with other IGOs and occasionally these third-party organisations and the AU will coordinate matters of public policy. The African Union maintains special diplomatic representation with the [[Ambassadors from the United States|United States]] and the [[European Union Special Representative|European Union]].
+
+==History==
+{{Main|History of the African Union}}
+
+The historical foundations of the African Union originated in the [[Union of African States]], an early [[confederation]] that was established by [[Kwame Nkrumah]] in the 1960s, as well as subsequent attempts to unite Africa, including the [[Organisation of African Unity]] (OAU), which was established on 25 May 1963, and the [[African Economic Community]] in 1981. Critics argued that the OAU in particular did little to protect the rights and liberties of African citizens from their own political leaders, often dubbing it the "Dictators' Club".<ref>[http://news.bbc.co.uk/2/hi/africa/2115736.stm African Union replaces dictators' club], [[BBC]], 8 July 2002.</ref>
+
+The idea of creating the AU was revived in the mid-1990s under the leadership of Libyan head of state [[Muammar al-Gaddafi]]: the heads of state and government of the OAU issued the [[Sirte Declaration]] (named after Sirte, in Libya) on 9 September 1999, calling for the establishment of an African Union. The Declaration was followed by summits at [[Lomé]] in 2000, when the [[Constitutive Act of the African Union]] was adopted, and at [[Lusaka]] in 2001, when the plan for the implementation of the African Union was adopted. During the same period, the initiative for the establishment of the [[New Partnership for Africa's Development]] (NEPAD), was also established.
+
+The African Union was launched in [[Durban]] on 9 July 2002, by its first chairperson, South African [[Thabo Mbeki]], at the first session of the Assembly of the African Union. The second session of the Assembly was in [[Maputo]] in 2003, and the third session in [[Addis Ababa]] on 6 July 2004.
+
+[[Barack Obama]] was the first ever sitting [[United States]] president to speak in front of the African Union in Addis Ababa, on 29 July 2015. With his speech, he encouraged the world to increase economic ties via investments and trade with the [[Outline of Africa|continent]], and lauded the progresses made in [[Education in Africa|education]], infrastructure and [[Economy of Africa|economy]]. But he also criticized lacks of democracy and leaders who refuse to step off, discrimination against minorities ([[LGBT]] people, religious groups and ethnicities) and corruption. He suggested an intensified [[democratization]] and free trade, to significantly increase living quality for Africans.<ref>{{cite web|last1=Lee|first1=Carol E.|title=Obama Becomes First U.S. President to Address African Union|url=http://www.wsj.com/articles/obama-becomes-first-u-s-president-to-address-african-union-1438090849|publisher=Wall Street Journal|accessdate=29 July 2015}}</ref><ref>{{cite web|title=Remarks by President Obama to the People of Africa|url=https://www.whitehouse.gov/the-press-office/2015/07/28/remarks-president-obama-people-africa|publisher=The White House|accessdate=29 July 2015}}</ref>
+
+==Symbols==
+[[File:Emblem of the African Union.svg|thumb|right|200px|<center>'''Emblem of the African Union'''</center>]]
+The [[emblem of the African Union]] consists of a gold ribbon bearing small interlocking red rings, from which palm leaves shoot up around an outer gold circle and an inner green circle, within which is a gold representation of Africa. The red interlinked rings stand for African solidarity and the blood shed for the liberation of Africa; the palm leaves for peace; the gold, for Africa's wealth and bright future; the green, for African hopes and aspirations. To symbolise African unity, the silhouette of Africa is drawn without internal borders.
+
+The African Union adopted its new flag at its 14th Ordinary Session of the Assembly of Heads of State and Government taking place in Addis Ababa 2010. During the 8th African Union Summit which took place in Addis Ababa on 29 and 30 January 2007, the Heads of State and Government decided to launch a competition for the selection of a new flag for the Union. They prescribed a green background for the flag symbolising hope of Africa and stars to represent Member States.
+
+Pursuant to this decision, the African Union Commission (AUC) organised a competition for the selection of a new flag for the African Union. The AUC received a total of 106 entries proposed by citizens of 19 African countries and 2 from the Diaspora. The proposals were then examined by a panel of experts put in place by the African Union Commission and selected from the five African regions for short listing according to the main directions given by the Heads of State and Government.
+
+At the 13th Ordinary Session of the Assembly, the Heads of State and Government examined the report of the Panel and selected one among all the proposals. The flag is now part of the paraphernalia of the African Union and replaces the old one.
+
+The old [[flag of the African Union]] bears a broad green horizontal stripe, a narrow band of gold, the emblem of the African Union at the centre of a broad white stripe, another narrow gold band and a final broad green stripe. Again, the green and gold symbolise Africa's hopes and aspirations as well as its wealth and bright future, and the white represents the purity of Africa's desire for friends throughout the world. The flag has led to the creation of the "[[national colours]]" of Africa of gold and green (sometimes together with white). These colours are visible in one way or another in the flags of many African nations. Together the colours green, gold, and red constitute the [[Pan-African colours]].
+
+The African Union has adopted a new anthem, ''[[Let Us All Unite and Celebrate Together]]'', and has the chorus ''O sons and daughters of Africa, flesh of the sun and flesh of the sky, Let us make Africa the tree of life''.
+
+== List of chairpersons ==
+{{Main|Chairperson of the African Union}}
+[[File:Jakaya Kikwete and Muammar al-Gaddafi, 12th AU Summit, 090202-N-0506A-678.jpg|thumb|[[Muammar Gaddafi]] embracing Tanzanian President [[Jakaya Kikwete|Kikwete]] after assuming the chairmanship.]]
+{|class="wikitable"
+|- valign=top
+|+Chairpersons of the African Union
+|-
+! Name
+! Beginning of term
+! End of term
+! Country
+|-
+|[[Thabo Mbeki]]
+|9 July 2002
+|10 July 2003
+|{{flag|South Africa}}
+|-
+|[[Joaquim Chissano]]
+|10 July 2003
+|6 July 2004
+|{{flag|Mozambique}}
+|-
+|[[Olusegun Obasanjo]]
+|6 July 2004
+|24 January 2006
+|{{flag|Nigeria}}
+|-
+|[[Denis Sassou-Nguesso]]
+|24 January 2006
+|24 January 2007
+|{{flag|Congo}}
+|-
+|[[John Kufuor]]
+|30 January 2007
+|31 January 2008
+|{{flag|Ghana}}
+|-
+|[[Jakaya Kikwete]]
+|31 January 2008
+|2 February 2009
+|{{flag|Tanzania}}
+|-
+|[[Muammar al-Gaddafi]]
+|2 February 2009
+|31 January 2010
+|{{flag|Libya|1977}}
+|-
+|[[Bingu wa Mutharika]]<ref>[http://af.reuters.com/article/topNews/idAFJOE60U05O20100131l Gaddafi fails in bid to remain African Union chair], Reuters, 31 January 2010 {{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}</ref><ref>[http://www.google.com/hostednews/afp/article/ALeqM5g8cvj3048f4WEB6UQuim80MKqhVA Malawi president takes over as AU president], AFP, 31 January 2010</ref>
+|31 January 2010
+|31 January 2011
+|{{flag|Malawi|2010}}
+|-
+|[[Teodoro Obiang Nguema Mbasogo]]<ref>[http://www.au.int/en/dp/cp/biography According to the AU], his official style is ''Son Excellence Obiang Nguema Mbasogo, Président de la République, Chef de l'État et Président Fondateur du Parti Démocratique de Guinée Equatoriale'' {{fr icon}}. Retrieved 4 October 2011.</ref>
+|31 January 2011
+|29 January 2012
+|{{flag|Equatorial Guinea}}
+|-
+|[[Yayi Boni]]
+|29 January 2012
+|27 January 2013
+|{{flag|Benin}}
+|-
+|[[Hailemariam Desalegn]]
+|27 January 2013
+|30 January 2014
+|{{flag|Ethiopia}}
+|-
+|[[Mohamed Ould Abdel Aziz]]
+|30 January 2014
+|30 January 2015
+|{{flag|Mauritania}}
+|-
+|[[Robert Mugabe]]
+|30 January 2015
+|30 January 2016
+|{{flag|Zimbabwe}}
+|-
+|[[Idriss Déby]]
+|30 January 2016
+|''Incumbent''
+|{{flag|Chad}}
+|}
+
+== Indicators ==
+
+The following table shows various data for AU member states, including area, population, economic output and income inequality, as well as various indices, including human development, viability of the state, perception of corruption, economic freedom, state of peace, freedom of the press and democratic level.
+
+{| class="wikitable sortable" style="text-align:right"
+|-
+! Country !! [[List of countries and outlying territories by total area|Area]]<ref name="wdi">{{cite web|url=http://databank.worldbank.org/ddp/home.do|title=World Development Indicators|publisher=[[World Bank]]|date=27 September 2012|accessdate=12 October 2012}}</ref><br>(km²)<br>2010 !! [[List of countries by population|Population]]<ref name="wdi"/><br>2011 !! [[List of countries by GDP (PPP)|GDP (PPP)]]<ref name="wdi"/><br>([[Geary–Khamis dollar|Intl. $]])<br>2011 !! [[List of countries by GDP (PPP) per capita|GDP (PPP)<br>per capita]]<ref name="wdi"/><br>([[Geary–Khamis dollar|Intl. $]])<br>2011 !! [[Gini coefficient|Income<br>inequality]]<ref name="wdi"/><br>1994–2011<br><small>(latest available)</small> !! [[Human Development Index|HDI]]<ref>{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Complete.pdf |title=Statistics &#124; Human Development Reports (HDR) &#124; United Nations Development Programme (UNDP)|publisher=Hdr.undp.org|accessdate=17 November 2011}}</ref><br>2011 !! [[Failed States Index|FSI]]<ref>{{cite web|url=http://www.fundforpeace.org/global/?q=fsi-grid2012|title=Failed States Index Scores 2012|publisher=[[Fund for Peace]]|accessdate=21 June 2012}}</ref><br>2012 !! [[Corruption Perceptions Index|CPI]]<ref>{{cite web|url=http://cpi.transparency.org/cpi2011/results/|title=Corruption Perceptions Index: Transparency International|publisher=Transparency.org|date=1 December 2011 |accessdate=1 December 2011}}</ref><br>2011 !! [[Index of Economic Freedom|IEF]]<ref>{{cite web|url= http://www.heritage.org/index/ranking.aspx|title=Country rankings for trade, business, fiscal, monetary, financial, labor and investment freedoms|publisher=[[The Heritage Foundation]]|accessdate=4 March 2011}}</ref><br>2011 !! [[Global Peace Index|GPI]]<ref>{{cite web|url=http://www.visionofhumanity.org/wp-content/uploads/2012/06/2012-Global-Peace-Index-Map-and-Rankings.pdf|title=Global Peace Index 2012|publisher=Vision of Humanity|date=June 2012|accessdate=13 June 2012}}</ref><br>2012 !! [[Reporters Without Borders#Worldwide Press Freedom Index|WPFI]]<ref>{{cite web|url=http://en.rsf.org/spip.php?page=classement&id_rubrique=1043|title=Press freedom index 2011–2012|publisher=RSF.org |accessdate=12 May 2012}}</ref><br>2011/2012 !! [[Democracy Index|DI]]<ref>{{cite web|url=http://www.sida.se/Global/About%20Sida/Så%20arbetar%20vi/EIU_Democracy_Index_Dec2011.pdf|title=Democracy Index 2011|work=The Economist |format=PDF|accessdate=14 May 2012}}</ref><br>2011
+|-
+| style="text-align:left;"| {{Country|Algeria}} || style="background:#CBFECB" | 2,381,740 || style="background:#CBFECB" | 35,980,193 || style="background:#CBFECB" | 263,552,001,454 || style="background:#FECB98" | 8,715 || style="background:#FEFD65" | 35.3 || style="background:#FECB98" | 0,698 || style="background:#FECB98" | 78.1 || style="background:#FECB98" | 2.9 || style="background:#FECB98" | 52.4 || style="background:#FF9865" | 2,255 || style="background:#FECB98" | 56.00 || style="background:#FF9865" | 3.44
+|-
+| style="text-align:left;"| {{Country|Angola}} || style="background:#CBFECB" | 1,246,700 || style="background:#FEFD65" | 19,618,432 || style="background:#FEFD65" | 116,345,451,961 || style="background:#FECB98" | 5,930 || style="background:#FF9865" | 58.6 || style="background:#FF9865" | 0,486 || style="background:#FECB98" | 85.1 || style="background:#FF9865" | 2.0 || style="background:#FF9865" | 46.2 || style="background:#FECB98" | 2,105 || style="background:#FECB98" | 58.43 || style="background:#FF9865" | 3.32
+|-
+| style="text-align:left;"| {{Country|Benin}} || style="background:#FEFD65" | 112,620 || style="background:#FEFD65" | 9,099,922 || style="background:#FECB98" | 14,813,078,086 || style="background:#FF9865" | 1,628 || style="background:#FEFD65" | 38.6 || style="background:#FF9865" | 0,427 || style="background:#FECB98" | 78.6 || style="background:#FECB98" | 3.0 || style="background:#FECB98" | 56.0 || style="background:#FECB98" | 2,231 || style="background:#FECB98" | 31.00 || style="background:#FEFD65" | 6.06
+|-
+| style="text-align:left;"| {{Country|Botswana}} || style="background:#CBFECB" | 581,730 || style="background:#FECB98" | 2,030,738 || style="background:#FECB98" | 29,958,865,343 || style="background:#FEFD65" | 14,753 || style="background:#FF9865" | 61.0 || style="background:#FECB98" | 0,633 || style="background:#FEFD65" | 66.5 || style="background:#CBFECB" | 6.1 || style="background:#CBFECB" | 68.8 || style="background:#CBFECB" | 1,621 || style="background:#CBFECB" | 12.00 || style="background:#CBFECB" | 7.63
+|-
+| style="text-align:left;"| {{Country|Burkina Faso}} || style="background:#FEFD65" | 274,220 || style="background:#FEFD65" | 16,967,845 || style="background:#FECB98" | 22,219,630,703 || style="background:#FF9865" | 1,310 || style="background:#FECB98" | 39.8 || style="background:#FF9865" | 0,331 || style="background:#FF9865" | 87.4 || style="background:#FECB98" | 3.0 || style="background:#FEFD65" | 60.6 || style="background:#FEFD65" | 1,881 || style="background:#FEFD65" | 23.33 || style="background:#FECB98" | 3.59
+|-
+| style="text-align:left;"| {{Country|Burundi}} || style="background:#FECB98" | 27,830 || style="background:#FEFD65" | 8,575,172 || style="background:#FF9865" | 5,214,123,472 || style="background:#FF9865" | 608 || style="background:#CBFECB" | 33.3 || style="background:#FF9865" | 0,316 || style="background:#FF9865" | 97.5 || style="background:#FF9865" | 1.9 || style="background:#FF9865" | 49.6 || style="background:#FF9865" | 2,524 || style="background:#FECB98" | 57.75 || style="background:#FECB98" | 4.01
+|-
+| style="text-align:left;"| {{Country|Cameroon}} || style="background:#CBFECB" | 475,440 || style="background:#FEFD65" | 20,030,362 || style="background:#FEFD65" | 47,738,231,020 || style="background:#FF9865" | 2,383 || style="background:#FEFD65" | 38.9 || style="background:#FF9865" | 0,482 || style="background:#FF9865" | 93.1 || style="background:#FECB98" | 2.5 || style="background:#FF9865" | 51.8 || style="background:#FECB98" | 2,113 || style="background:#FECB98" | 35.00 || style="background:#FF9865" | 3.41
+|-
+| style="text-align:left;"| {{Country|Cape Verde}} || style="background:#FF9865" | 4,030 || style="background:#FF9865" | 500,585 || style="background:#FF9865" | 2,063,740,972 || style="background:#FECB98" | 4,123 || style="background:#FF9865" | 50.5 || style="background:#FECB98" | 0,568 || style="background:#FEFD65" | 74.7 || style="background:#CBFECB" | 5.5 || style="background:#FEFD65" | 64.6 || {{N/A}} || style="background:#CBFECB" | -6.00 || style="background:#CBFECB" | 7.92
+|-
+| style="text-align:left;"| {{Country|Central African Republic}} || style="background:#CBFECB" | 622,980 || style="background:#FECB98" | 4,486,837 || style="background:#FF9865" | 3,660,980,390 || style="background:#FF9865" | 816 || style="background:#FF9865" | 56.3 || style="background:#FF9865" | 0,343 || style="background:#FF9865" | 103.8 || style="background:#FF9865" | 2.2 || style="background:#FF9865" | 49.3 || style="background:#FF9865" | 2,872 || style="background:#FEFD65" | 20.00 || style="background:#FF9865" | 1.82
+|-
+| style="text-align:left;"| {{Country|Chad}} || style="background:#CBFECB" | 1,284,000 || style="background:#FEFD65" | 11,525,496 || style="background:#FECB98" | 17,645,370,046 || style="background:#FF9865" | 1,531 || style="background:#FECB98" | 39.8 || style="background:#FF9865" | 0,328 || style="background:#FF9865" | 107.6 || style="background:#FF9865" | 2.0 || style="background:#FF9865" | 45.3 || style="background:#FF9865" | 2,671 || style="background:#FECB98" | 37.67 || style="background:#FF9865" | 1.62
+|-
+| style="text-align:left;"| {{Country|Comoros}} || style="background:#FF9865" | 1,860 || style="background:#FF9865" | 753,943 || style="background:#FF9865" | 842,530,721 || style="background:#FF9865" | 1,117 || style="background:#FF9865" | 64.3 || style="background:#FF9865" | 0,433 || style="background:#FECB98" | 83.0 || style="background:#FF9865" | 2.4 || style="background:#FF9865" | 43.8 || {{N/A}} || style="background:#CBFECB" | 13.00 || style="background:#FF9865" | 3.52
+|-
+| style="text-align:left;"| {{Country|Côte d'Ivoire}} || style="background:#FEFD65" | 322,460 || style="background:#FEFD65" | 20,152,894 || style="background:#FECB98" | 36,338,307,504 || style="background:#FF9865" | 1,803 || style="background:#FECB98" | 41.5 || style="background:#FF9865" | 0,400 || style="background:#FF9865" | 103.6 || style="background:#FF9865" | 2.2 || style="background:#FECB98" | 55.4 || style="background:#FF9865" | 2,419 || style="background:#FF9865" | 83.50 || style="background:#FF9865" | 3.08
+|-
+| style="text-align:left;"| {{Country|Congo, Democratic Republic of the}} || style="background:#CBFECB" | 2,344,860 || style="background:#CBFECB" | 67,757,577 || style="background:#FECB98" | 25,440,229,129 || style="background:#FF9865" | 375 || style="background:#FECB98" | 44.4 || style="background:#FF9865" | 0,286 || style="background:#FF9865" | 111.2 || style="background:#FF9865" | 2.0 || style="background:#FF9865" | 40.7 || style="background:#FF9865" | 3,073 || style="background:#FF9865" | 67.67 || style="background:#FF9865" | 2.15
+|-
+| style="text-align:left;"| {{Country|Djibouti}} || style="background:#FECB98" | 23,200 || style="background:#FECB98" | 905,564 || style="background:#FF9865" | 1,997,160,467<sup>a</sup> || style="background:#FF9865" | 2,290<sup>a</sup> || style="background:#FECB98" | 40.0 || style="background:#FF9865" | 0,430 || style="background:#FECB98" | 83.8 || style="background:#FECB98" | 3.0 || style="background:#FECB98" | 54.5 || style="background:#FEFD65" | 1,881 || style="background:#FF9865" | 83.50 || style="background:#FF9865" | 2.68
+|-
+| style="text-align:left;"| {{Country|Egypt}} || style="background:#CBFECB" | 1,001,450 || style="background:#CBFECB" | 82,536,770 || style="background:#CBFECB" | 521,964,470,584 || style="background:#FECB98" | 6,324 || style="background:#CBFECB" | 30.8 || style="background:#FECB98" | 0,644 || style="background:#FF9865" | 90.4 || style="background:#FECB98" | 2.9 || style="background:#FECB98" | 59.1 || style="background:#FECB98" | 2,220 || style="background:#FF9865" | 97.50 || style="background:#FECB98" | 3.95
+|-
+| style="text-align:left;"| {{Country|Equatorial Guinea}} || style="background:#FECB98" | 28,050 || style="background:#FF9865" | 720,213 || style="background:#FECB98" | 26,298,591,108 || style="background:#CBFECB" | 24,735 || {{N/A}} || style="background:#FECB98" | 0,537 || style="background:#FF9865" | 86.3 || style="background:#FF9865" | 1.9 || style="background:#FF9865" | 47.5 || style="background:#FECB98" | 2,039 || style="background:#FF9865" | 86.00 || style="background:#FF9865" | 1.77
+|-
+| style="text-align:left;"| {{Country|Eritrea}} || style="background:#FEFD65" | 117,600 || style="background:#FECB98" | 5,415,280 || style="background:#FF9865" | 3,189,065,543 || style="background:#FF9865" | 589 || {{N/A}} || style="background:#FF9865" | 0,349 || style="background:#FF9865" | 94.5 || style="background:#FECB98" | 2.5 || style="background:#FF9865" | 36.7 || style="background:#FF9865" | 2,264 || style="background:#FF9865" | 142.00 || style="background:#FF9865" | 2.34
+|-
+| style="text-align:left;"| {{Country|Ethiopia}} || style="background:#CBFECB" | 1,104,300 || style="background:#CBFECB" | 84,734,262 || style="background:#FEFD65" | 94,603,635,847 || style="background:#FF9865" | 1,116 || style="background:#CBFECB" | 29.8 || style="background:#FF9865" | 0,363 || style="background:#FF9865" | 97.9 || style="background:#FECB98" | 2.7 || style="background:#FF9865" | 50.5 || style="background:#FF9865" | 2,504 || style="background:#FECB98" | 56.60 || style="background:#FECB98" | 3.79
+|-
+| style="text-align:left;"| {{Country|Gabon}} || style="background:#FEFD65" | 267,670 || style="background:#FECB98" | 1,534,262 || style="background:#FECB98" | 24,487,009,222 || style="background:#FEFD65" | 15,960 || style="background:#FECB98" | 41.5 || style="background:#FECB98" | 0,674 || style="background:#FEFD65" | 74.6 || style="background:#FECB98" | 3.0 || style="background:#FECB98" | 56.7 || style="background:#FEFD65" | 1,972 || style="background:#FECB98" | 36.50 || style="background:#FF9865" | 3.48
+|-
+| style="text-align:left;"| {{Country|Gambia, The}} || style="background:#FF9865" | 11,300 || style="background:#FECB98" | 1,776,103 || style="background:#FF9865" | 3,792,511,029 || style="background:#FF9865" | 2,135 || style="background:#FF9865" | 47.3 || style="background:#FF9865" | 0,420 || style="background:#FECB98" | 80.6 || style="background:#FEFD65" | 3.5 || style="background:#FECB98" | 57.4 || style="background:#FEFD65" | 1,961 || style="background:#FF9865" | 65.50 || style="background:#FF9865" | 3.38
+|-
+| style="text-align:left;"| {{Country|Ghana}} || style="background:#FEFD65" | 238,540 || style="background:#CBFECB" | 24,965,816 || style="background:#FEFD65" | 75,660,464,231 || style="background:#FF9865" | 3,100 || style="background:#FECB98" | 42.8 || style="background:#FECB98" | 0,541 || style="background:#FEFD65" | 67.5 || style="background:#FEFD65" | 3.9 || style="background:#FECB98" | 59.4 || style="background:#FEFD65" | 1,807 || style="background:#CBFECB" | 11.00 || style="background:#FEFD65" | 6.02
+|-
+| style="text-align:left;"| {{Country|Guinea}} || style="background:#FEFD65" | 245,860 || style="background:#FEFD65" | 10,221,808 || style="background:#FF9865" | 11,534,395,660 || style="background:#FF9865" | 1,128 || style="background:#FECB98" | 39.4 || style="background:#FF9865" | 0,344 || style="background:#FF9865" | 101.9 || style="background:#FF9865" | 2.1 || style="background:#FF9865" | 51.7 || style="background:#FECB98" | 2,073 || style="background:#FEFD65" | 30.00 || style="background:#FF9865" | 2.79
+|-
+| style="text-align:left;"| {{Country|Guinea-Bissau}} || style="background:#FECB98" | 36,130 || style="background:#FECB98" | 1,547,061 || style="background:#FF9865" | 1,935,816,767 || style="background:#FF9865" | 1,251 || style="background:#FEFD65" | 35.5 || style="background:#FF9865" | 0,353 || style="background:#FF9865" | 99.2 || style="background:#FF9865" | 2.2 || style="background:#FF9865" | 46.5 || style="background:#FECB98" | 2,105 || style="background:#FEFD65" | 26.00 || style="background:#FF9865" | 1.99
+|-
+| style="text-align:left;"| {{Country|Kenya}} || style="background:#CBFECB" | 580,370 || style="background:#CBFECB" | 41,609,728 || style="background:#FEFD65" | 71,497,717,724 || style="background:#FF9865" | 1,718 || style="background:#FF9865" | 47.7 || style="background:#FF9865" | 0,509 || style="background:#FF9865" | 98.4 || style="background:#FF9865" | 2.2 || style="background:#FECB98" | 57.4 || style="background:#FF9865" | 2,252 || style="background:#FEFD65" | 29.50 || style="background:#FECB98" | 4.57
+|-
+| style="text-align:left;"| {{Country|Lesotho}} || style="background:#FECB98" | 30,360 || style="background:#FECB98" | 2,193,843 || style="background:#FF9865" | 3,761,750,856 || style="background:#FF9865" | 1,715 || style="background:#FF9865" | 52.5 || style="background:#FF9865" | 0,450 || style="background:#FECB98" | 79.0 || style="background:#FEFD65" | 3.5 || style="background:#FF9865" | 47.5 || style="background:#FEFD65" | 1,864 || style="background:#FEFD65" | 21.00 || style="background:#FEFD65" | 6.33
+|-
+| style="text-align:left;"| {{Country|Liberia}} || style="background:#FEFD65" | 111,370 || style="background:#FECB98" | 4,128,572 || style="background:#FF9865" | 2,382,497,925 || style="background:#FF9865" | 577 || style="background:#FEFD65" | 38.2 || style="background:#FF9865" | 0,329 || style="background:#FF9865" | 93.3 || style="background:#FECB98" | 3.2 || style="background:#FF9865" | 46.5 || style="background:#FECB98" | 2,131 || style="background:#FECB98" | 40.50 || style="background:#FECB98" | 4.97
+|-
+| style="text-align:left;"| {{Country|Libya}} || style="background:#CBFECB" | 1,759,540 || style="background:#FEFD65" | 6,422,772 || style="background:#FEFD65" | 105,554,599,321<sup>a</sup> || style="background:#FEFD65" | 16,855<sup>a</sup> || {{N/A}} || style="background:#FEFD65" | 0,760 || style="background:#FECB98" | 84.9 || style="background:#FF9865" | 2.0 || style="background:#FF9865" | 38.6 || style="background:#FF9865" | 2,830 || style="background:#FF9865" | 77.50 || style="background:#FECB98" | 3.55
+|-
+| style="text-align:left;"| {{Country|Madagascar}} || style="background:#CBFECB" | 587,040 || style="background:#CBFECB" | 21,315,135 || style="background:#FECB98" | 20,724,804,452 || style="background:#FF9865" | 972 || style="background:#FECB98" | 44.1 || style="background:#FF9865" | 0,480 || style="background:#FECB98" | 82.5 || style="background:#FECB98" | 3.0 || style="background:#FEFD65" | 61.2 || style="background:#FECB98" | 2,124 || style="background:#FEFD65" | 29.50 || style="background:#FECB98" | 3.93
+|-
+| style="text-align:left;"| {{Country|Malawi}} || style="background:#FEFD65" | 118,480 || style="background:#FEFD65" | 15,380,888 || style="background:#FECB98" | 14,124,318,474 || style="background:#FF9865" | 918 || style="background:#FECB98" | 39.0 || style="background:#FF9865" | 0,400 || style="background:#FF9865" | 88.8 || style="background:#FECB98" | 3.0 || style="background:#FECB98" | 55.8 || style="background:#FEFD65" | 1,894 || style="background:#FF9865" | 68.00 || style="background:#FECB98" | 5.81
+|-
+| style="text-align:left;"| {{Country|Mali}} || style="background:#CBFECB" | 1,240,190 || style="background:#FEFD65" | 15,839,538 || style="background:#FECB98" | 17,401,077,762 || style="background:#FF9865" | 1,099 || style="background:#CBFECB" | 33.0 || style="background:#FF9865" | 0,359 || style="background:#FECB98" | 77.9 || style="background:#FECB98" | 2.8 || style="background:#FECB98" | 56.3 || style="background:#FECB98" | 2,132 || style="background:#CBFECB" | 0.00 || style="background:#FEFD65" | 6.36
+|-
+| style="text-align:left;"| {{Country|Mauritania}} || style="background:#CBFECB" | 1,030,700 || style="background:#FECB98" | 3,541,540 || style="background:#FF9865" | 9,105,623,199 || style="background:#FF9865" | 2,571 || style="background:#FECB98" | 40.5 || style="background:#FF9865" | 0,453 || style="background:#FF9865" | 87.6 || style="background:#FF9865" | 2.4 || style="background:#FECB98" | 52.1 || style="background:#FF9865" | 2,301 || style="background:#FEFD65" | 22.20 || style="background:#FECB98" | 4.16
+|-
+| style="text-align:left;"| {{Country|Mauritius}}<ref>Gini Index obtained from: {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html|title=DISTRIBUTION OF FAMILY INCOME – GINI INDEX|work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|accessdate=12 October 2012}}</ref> || style="background:#FF9865" | 2,040 || style="background:#FECB98" | 1,286,051 || style="background:#FECB98" | 18,676,949,333 || style="background:#FEFD65" | 14,523 || 39<sup>b</sup> || style="background:#FEFD65" | 0,728 || style="background:#CBFECB" | 44.7 || style="background:#FEFD65" | 5.1 || style="background:#CBFECB" | 76.2 || style="background:#CBFECB" | 1,487 || style="background:#FEFD65" | 17.00 || style="background:#CBFECB" | 8.04
+|-
+| style="text-align:left;"| {{Country|Mozambique}} || style="background:#CBFECB" | 799,380 || style="background:#CBFECB" | 23,929,708 || style="background:#FECB98" | 23,499,133,235 || style="background:#FF9865" | 982 || style="background:#FF9865" | 45.7 || style="background:#FF9865" | 0,322 || style="background:#FECB98" | 82.4 || style="background:#FECB98" | 2.7 || style="background:#FECB98" | 56.8 || style="background:#FEFD65" | 1,796 || style="background:#FEFD65" | 21.50 || style="background:#FECB98" | 4.87
+|-
+| style="text-align:left;"| {{Country|Namibia}} || style="background:#CBFECB" | 824,290 || style="background:#FECB98" | 2,324,004 || style="background:#FECB98" | 15,862,655,382 || style="background:#FECB98" | 6,826 || style="background:#FF9865" | 63.9 || style="background:#FECB98" | 0,625 || style="background:#FEFD65" | 71.0 || style="background:#FEFD65" | 4.4 || style="background:#FEFD65" | 62.7 || style="background:#FEFD65" | 1,804 || style="background:#CBFECB" | -2.00 || style="background:#FEFD65" | 6.24
+|-
+| style="text-align:left;"| {{Country|Niger}} || style="background:#CBFECB" | 1,267,000 || style="background:#FEFD65" | 16,068,994 || style="background:#FF9865" | 11,763,433,268 || style="background:#FF9865" | 732 || style="background:#FEFD65" | 34.6 || style="background:#FF9865" | 0,295 || style="background:#FF9865" | 96.9 || style="background:#FF9865" | 2.5 || style="background:#FECB98" | 54.3 || style="background:#FECB98" | 2,241 || style="background:#CBFECB" | 2.50 || style="background:#FEFD65" | 5.94
+|-
+| style="text-align:left;"| {{Country|Nigeria}} || style="background:#CBFECB" | 923,770 || style="background:#CBFECB" | 162,470,737 || style="background:#CBFECB" | 411,371,765,042 || style="background:#FF9865" | 2,532 || style="background:#FF9865" | 48.8 || style="background:#FF9865" | 0,459 || style="background:#FF9865" | 101.1 || style="background:#FF9865" | 2.4 || style="background:#FECB98" | 56.7 || style="background:#FF9865" | 2,801 || style="background:#FECB98" | 56.40 || style="background:#FECB98" | 3.83
+|-
+| style="text-align:left;"| {{Country|Congo, Republic of the}} || style="background:#FEFD65" | 342,000 || style="background:#FECB98" | 4,139,748 || style="background:#FECB98" | 18,336,706,982 || style="background:#FECB98" | 4,429 || style="background:#FF9865" | 47.3 || style="background:#FECB98" | 0,533 || style="background:#FF9865" | 90.1 || style="background:#FF9865" | 2.2 || style="background:#FF9865" | 43.6 || style="background:#FECB98" | 2,148 || style="background:#FEFD65" | 30.38 || style="background:#FF9865" | 2.89
+|-
+| style="text-align:left;"| {{Country|Rwanda}} || style="background:#FECB98" | 26,340 || style="background:#FEFD65" | 10,942,950 || style="background:#FECB98" | 13,690,574,770 || style="background:#FF9865" | 1,251 || style="background:#FF9865" | 50.8 || style="background:#FF9865" | 0,429 || style="background:#FF9865" | 89.3 || style="background:#FEFD65" | 5.0 || style="background:#FEFD65" | 62.7 || style="background:#FF9865" | 2,250 || style="background:#FF9865" | 81.00 || style="background:#FF9865" | 3.25
+|-
+| style="text-align:left;"| {{Country|São Tomé and Príncipe}} || style="background:#FF9865" | 960 || style="background:#FF9865" | 168,526 || style="background:#FF9865" | 346,851,135 || style="background:#FF9865" | 2,058 || style="background:#FF9865" | 50.8 || style="background:#FF9865" | 0,509 || style="background:#FEFD65" | 73.9 || style="background:#FECB98" | 3.0 || style="background:#FF9865" | 49.5 || {{N/A}} || {{N/A}} || {{N/A}}
+|-
+| style="text-align:left;"| {{Country|Senegal}} || style="background:#FEFD65" | 196,720 || style="background:#FEFD65" | 12,767,556 || style="background:#FECB98" | 25,287,537,120 || style="background:#FF9865" | 1,981 || style="background:#FECB98" | 39.2 || style="background:#FF9865" | 0,459 || style="background:#FECB98" | 79.3 || style="background:#FECB98" | 2.9 || style="background:#FECB98" | 55.7 || style="background:#FEFD65" | 1,994 || style="background:#FEFD65" | 26.00 || style="background:#FECB98" | 5.32
+|-
+| style="text-align:left;"| {{Country|Seychelles}} || style="background:#FF9865" | 460 || style="background:#FF9865" | 86,000 || style="background:#FF9865" | 2,272,152,389 || style="background:#CBFECB" | 26,420 || style="background:#FF9865" | 65.8 || style="background:#FEFD65" | 0,773 || style="background:#FEFD65" | 65.1 || style="background:#FEFD65" | 4.8 || style="background:#FF9865" | 51.2 || {{N/A}} || style="background:#FEFD65" | 25.00 || {{N/A}}
+|-
+| style="text-align:left;"| {{Country|Sierra Leone}} || style="background:#FECB98" | 71,740 || style="background:#FECB98" | 5,997,486 || style="background:#FF9865" | 5,259,635,009 || style="background:#FF9865" | 877 || style="background:#FECB98" | 42.5 || style="background:#FF9865" | 0,336 || style="background:#FF9865" | 90.4 || style="background:#FF9865" | 2.5 || style="background:#FF9865" | 49.6 || style="background:#FEFD65" | 1,855 || style="background:#FEFD65" | 21.00 || style="background:#FECB98" | 4.34
+|-
+| style="text-align:left;"| {{Country|Somalia}}<ref>GDP (PPP) and GDP (PPP) per capita obtained from: {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/so.html|title=Somalia|work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|accessdate=12 October 2012}}</ref> || style="background:#CBFECB" | 637,660 || style="background:#FEFD65" | 9,556,873 || 5,896,000,000<sup>c</sup> || 600<sup>c</sup> || {{N/A}} || {{N/A}} || style="background:#FF9865" | 114.9 || style="background:#FF9865" | 1.0 || {{N/A}} || style="background:#FF9865" | 3,392 || style="background:#FF9865" | 88.33 || {{N/A}}
+|-
+| style="text-align:left;"| {{Country|South Africa}} || style="background:#CBFECB" | 1,219,090 || style="background:#CBFECB" | 50,586,757 || style="background:#CBFECB" | 558,215,907,199 || style="background:#FEFD65" | 11,035 || style="background:#FF9865" | 63.1 || style="background:#FECB98" | 0,619 || style="background:#FEFD65" | 66.8 || style="background:#FEFD65" | 4.1 || style="background:#FEFD65" | 62.7 || style="background:#FF9865" | 2,321 || style="background:#CBFECB" | 12.00 || style="background:#CBFECB" | 7.79
+|-
+| style="text-align:left;"| {{Country|South Sudan}}<ref>Area obtained from: {{cite web|url=http://ssnbs.org/storage/stats-year-books/Statistical%20Year%20Book%20For%20Southern%20Sudan%202010%20Final.pdf|title=Statistical Yearbook for Southern Sudan 2010|publisher=Southern Sudan Centre for Census, Statistics and Evaluation|accessdate=1 June 2012}}</ref><ref>GDP (PPP) and GDP (PPP) per capita obtained from: {{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=73&pr.y=0&sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=733&s=PPPGDP%2CPPPPC&grp=0&a=|title=World Economic Outlook Database, October 2012|publisher=[[International Monetary Fund]]|accessdate=12 October 2012}}</ref> || 644,331 || style="background:#FEFD65" | 10,314,021 || 21,123,000,000 || 2,134 || style="background:#FF9865" | 45.5 || {{N/A}} || style="background:#FF9865" | 108.4 || {{N/A}} || {{N/A}} || {{N/A}} || style="background:#FECB98" | 41.25 || {{N/A}}
+|-
+| style="text-align:left;"| {{Country|Sudan}} || style="background:#CBFECB" | 2,505,810<sup>d</sup> || style="background:#CBFECB" | 34,318,385 || style="background:#FEFD65" | 95,554,956,806<sup>d</sup> || style="background:#FF9865" | 2,141<sup>d</sup> || style="background:#FEFD65" | 35.3<sup>d</sup> || style="background:#FF9865" | 0,408<sup>d</sup> || style="background:#FF9865" | 109.4 || style="background:#FF9865" | 1.6<sup>d</sup> || {{N/A}} || style="background:#FF9865" | 3,193<sup>d</sup> || style="background:#FF9865" | 100.75 || style="background:#FF9865" | 2.38<sup>d</sup>
+|-
+| style="text-align:left;"| {{Country|Swaziland}} || style="background:#FECB98" | 17,360 || style="background:#FECB98" | 1,067,773 || style="background:#FF9865" | 6,511,874,679 || style="background:#FECB98" | 6,099 || style="background:#FF9865" | 51.5 || style="background:#FF9865" | 0,522 || style="background:#FECB98" | 83.5 || style="background:#FECB98" | 3.1 || style="background:#FECB98" | 59.1 || style="background:#FECB98" | 2,028 || style="background:#FF9865" | 67.00 || style="background:#FF9865" | 3.26
+|-
+| style="text-align:left;"| {{Country|Tanzania}} || style="background:#CBFECB" | 947,300 || style="background:#CBFECB" | 46,218,486 || style="background:#FEFD65" | 68,217,893,777 || style="background:#FF9865" | 1,521 || style="background:#FEFD65" | 37.6 || style="background:#FF9865" | 0,466 || style="background:#FECB98" | 80.4 || style="background:#FECB98" | 3.0 || style="background:#FECB98" | 57.0 || style="background:#FEFD65" | 1,873 || style="background:#CBFECB" | 6.00 || style="background:#FECB98" | 5.56
+|-
+| style="text-align:left;"| {{Country|Togo}} || style="background:#FECB98" | 56,790 || style="background:#FEFD65" | 6,154,813 || style="background:#FF9865" | 6,414,397,867 || style="background:#FF9865" | 1,042 || style="background:#FEFD65" | 34.4 || style="background:#FF9865" | 0,435 || style="background:#FF9865" | 87.5 || style="background:#FF9865" | 2.4 || style="background:#FF9865" | 49.1 || {{N/A}} || style="background:#FEFD65" | 28.50 || style="background:#FF9865" | 3.45
+|-
+| style="text-align:left;"| {{Country|Tunisia}} || style="background:#FEFD65" | 163,610 || style="background:#FEFD65" | 10,673,800 || style="background:#FEFD65" | 100,496,433,356 || style="background:#FEFD65" | 9,415 || style="background:#FECB98" | 41.4 || style="background:#FECB98" | 0,698 || style="background:#FEFD65" | 74.2 || style="background:#FEFD65" | 3.8 || style="background:#FECB98" | 57.7 || style="background:#FEFD65" | 1,955 || style="background:#FECB98" | 60.25 || style="background:#CBFECB" |10.9
+|-
+| style="text-align:left;"| {{Country|Uganda}} || style="background:#FEFD65" | 241,550 || style="background:#CBFECB" | 34,509,205 || style="background:#FECB98" | 46,730,051,194 || style="background:#FF9865" | 1,354 || style="background:#FECB98" | 44.3 || style="background:#FF9865" | 0,446 || style="background:#FF9865" | 96.5 || style="background:#FF9865" | 2.4 || style="background:#FEFD65" | 61.7 || style="background:#FECB98" | 2,121 || style="background:#FF9865" | 64.00 || style="background:#FECB98" | 5.08
+|-
+| style="text-align:left;"| {{Country|Western Sahara}}<ref>Population obtained from: {{cite web|url=http://www.theodora.com/wfb2011/western_sahara/index.html|title=Western Sahara – 2011|work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|date=13 January 2011|accessdate=1 June 2012}}</ref><ref>Area, GDP (PPP) and GDP (PPP) per capita obtained from: {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html|title=Western Sahara|work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|accessdate=1 June 2012}}</ref> || 266,000 || 491,519 || 906,500,000<sup>e</sup> || 2,500<sup>e</sup> || {{N/A}} || {{N/A}} || {{N/A}} || {{N/A}} || {{N/A}} || {{N/A}} || {{N/A}} || {{N/A}}
+|-
+| style="text-align:left;"| {{Country|Zambia}} || style="background:#CBFECB" | 752,610 || style="background:#FEFD65" | 13,474,959 || style="background:#FECB98" | 21,869,657,293 || style="background:#FF9865" | 1,623 || style="background:#FF9865" | 54.6 || style="background:#FF9865" | 0,430 || style="background:#FF9865" | 85.9 || style="background:#FECB98" | 3.2 || style="background:#FECB98" | 59.7 || style="background:#FEFD65" | 1,830 || style="background:#FEFD65" | 30.00 || style="background:#FEFD65" | 6.19
+|-
+| style="text-align:left;"| {{Country|Zimbabwe}}<ref>GDP (PPP) and GDP (PPP) per capita obtained from: {{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=9&pr.y=9&sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=698&s=PPPGDP%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2012 |publisher=[[International Monetary Fund]]|accessdate=12 October 2012}}</ref> || style="background:#FEFD65" | 390,760 || style="background:#FEFD65" | 12,754,378 || 6,474,000,000 || 515 || style="background:#FF9865" | 50.1 || style="background:#FF9865" | 0,376 || style="background:#FF9865" | 106.3 || style="background:#FF9865" | 2.2 || style="background:#FF9865" | 22.1 || style="background:#FF9865" | 2,538 || style="background:#FECB98" | 55.00 || style="background:#FF9865" | 2.68
+|- style="background:#f2f2f2;"
+| style="text-align:left;"| {{hs|zzz}}'''AU<sup>f</sup>''' || '''29,865,860''' || '''1,012,571,880''' || '''3,080,877,237,840''' || '''2,981'''<sup>g</sup> || '''44.7'''<sup>h</sup> || '''0,470''' || '''87.5''' || '''2.9''' || '''53.4''' || '''2,207''' || '''43.15''' || '''4.29'''
+|-
+! Country !! [[List of countries and outlying territories by total area|Area]]<br>(km²)<br>2010 !! [[List of countries by population|Population]]<br>2011 !! [[List of countries by GDP (PPP)|GDP (PPP)]]<br>([[Geary–Khamis dollar|Intl. $]])<br>2011 !! [[List of countries by GDP (PPP) per capita|GDP (PPP)<br>per capita]]<br>([[Geary–Khamis dollar|Intl. $]])<br>2011 !! [[Gini coefficient|Income<br>inequality]]<br>1993–2009<br><small>(latest available)</small> !! [[Human Development Index|HDI]]<br>2011 !! [[Failed States Index|FSI]]<br>2012 !! [[Corruption Perceptions Index|CPI]]<br>2011 !! [[Index of Economic Freedom|IEF]]<br>2011 !! [[Global Peace Index|GPI]]<br>2012 !! [[Reporters Without Borders#Worldwide Press Freedom Index|WPFI]]<br>2011/2012 !! [[Democracy Index|DI]]<br>2011
+|}
+<sup>a</sup><small> Data refer to 2009.</small><br>
+<sup>b</sup><small> Data refer to 2006.</small><br>
+<sup>c</sup><small> Data refer to 2010.</small><br>
+<sup>d</sup><small> Includes South Sudan.</small><br>
+<sup>e</sup><small> Data refer to 2007.</small><br>
+<sup>f</sup><small> AU total used for indicators 1 through 3; AU weighted average used for indicator 4; AU unweighted average used for indicators 5 through 12.</small><br>
+<sup>g</sup><small> Excludes Djibouti, Libya, Somalia and Western Sahara.</small><br>
+<sup>h</sup><small> Excludes South Sudan.</small><br>
+<small>Note: The colors indicate the country's global position in the respective indicator. For example, a green cell indicates that the country is ranked in the upper 25% of the list (including all countries with available data).</small>
+
+{| class="wikitable" style="font-size: 85%"
+|-
+|style="background:#CBFECB; width:3em;" | || Highest fourth
+|-
+|style="background:#FEFD65; width:3em;" | || Upper-mid (2nd to 3rd [[quartile]])
+|-
+|style="background:#FECB98; width:3em;" | || Lower-mid (1st to 2nd quartile)
+|-
+|style="background:#FF9865; width:3em;" | || Lowest fourth
+|}
+
+==See also==
+{{portal|Geography|Africa}}
+{{div col|colwidth=20em}}
+*[[African Century]]
+*[[African Peer Review Mechanism]]
+*[[African Renaissance]]
+*[[African Unification Front]]
+*[[Africanisation]]
+*[[Arab Union]]
+*[[Casablanca Group]]
+*[[Central Asian Union]]
+*[[Continental union]]
+*[[Ezulwini agreement]]
+*[[Friends of the African Union]]
+*[[Indigenous peoples of Africa]]
+*[[Monrovia Group]]
+*[[North American Union]]
+*[[Pacific Union]]
+*[[Union of South American Nations]]
+
+{{div col end}}
+
+== References ==
+{{Reflist|30em}}
+
+==Bibliography==
+*[http://www.afrimap.org/english/images/report/AfriMAP-AU-Guide-EN.pdf ''Strengthening Popular Participation in the African Union: A Guide to AU Structures and Processes''], AfriMAP and Oxfam GB, 2010
+*[http://www.afrimap.org/english/images/report/AU_People-DrivenNov07.pdf ''Towards a People Driven African Union: Current Challenges and New Opportunities''] AfriMAP, AFRODAD and Oxfam GB, January 2007
+*The New African Initiative and the African Union: A Preliminary Assessment and Documentation</cite> by Henning Melber, Publisher: Nordiska Afrikainstitutet, Sweden; ISBN 91-7106-486-9; (October 2002)
+*"The African Union, NEPAD and Human Rights: The Missing Agenda" ''Human Rights Quarterly'' Vol.26, No.4, November 2004.
+*[http://web.archive.org/web/20070927195414/http://www.ppl.nl/catalogue.php?ppn=241754658&keyword=African%20Union&pagename=keyword-catalogue Bibliography on the AU at the Peace Palace Library]
+
+==External links==
+{{Spoken Wikipedia-4|2006-10-20|African_Union.ogg|African_Union2.ogg|African_Union3.ogg|African_Union4.ogg|...}}
+{{Commons category|African Union}}
+*[http://www.au.int/ African Union] official site
+*[http://www.aumission-ny.org/ African Union Mission in the United Nations]
+*[http://www.au2002.gov.za/ 1st African Union Summit July 2002] in Durban, South Africa, website created by SA government
+*[http://www.au2003.gov.mz/ 2nd African Union Summit July 2003] in Maputo, Mozambique
+*[http://www.africa-union.org/AU%20summit%202004/Au%20summit%202004.htm 3rd African Union Summit July 2004], Addis Ababa, Ethiopia
+*[http://www.africa-union.org/summit/jan2005/home.htm 4th African Union Summit January 2005], Abuja, Nigeria
+*[http://www.africa-union.org/summit/JULY%202005/home.htm 5th African Union Summit July 2005] in Sirte, Libya.
+*[http://www.africa-union.org/summit/jan%202006/home.htm 6th African Union Summit January 2006] in Khartoum, Sudan.
+*[http://www.africa-union.org/root/au/Conferences/Past/2006/July/summit/summit.htm 7th African Union Summit July 2006] in Banjul, the Gambia.
+*[http://www.bjlausummit2006.gm/ 7th African Union Summit 2006] in Banjul, the Gambia, website created by the host government.
+*[http://www.africa-union.org/root/AU/Conferences/Past/2007/January/summit/summit1.htm 8th AU summit January 2007], Addis Ababa, Ethiopia
+*[http://www.africa-union.org/root/AU/Conferences/2007/june/summit/9thAUSummit.htm 9th AU summit July 2007], Accra, Ghana
+*[http://www.africa-union.org/root/au/Conferences/2008/january/summit/10thsummit.htm 10th AU summit January 2008], Addis Ababa, Ethiopia
+*[http://www.africa-union.org/root/AU/Conferences/2008/june/summit/summit.htm 11th AU summit July 2008], Sharm El Sheikh, Egypt
+*[http://www.africa-union.org/root/au/Conferences/2009/january/summit/12thsummit.html 12th AU summit January 2009], Addis Ababa, Ethiopia
+*[http://www.africa-union.org/root/AU/Conferences/2009/july/summit/13thsummit.html 13th AU summit June 2009], Sirte, Libya
+
+;Other relevant sites
+*[http://www.pambazuka.org/aumonitor/ AU Monitor]
+*[http://www.afrimap.org/ AfriMAP] The Africa Governance Monitoring and Advocacy Project of the Open Society Institute
+*[http://www.sarpn.org.za/nepad.php Southern Africa Regional Poverty Network] Page on the AU and NEPAD&nbsp;– many useful links
+*[http://www.panafricanperspective.com/youtube_USofAfrica.html Pan-African Perspective] Background on Union Government debate
+*[http://news.bbc.co.uk/1/hi/world/africa/country_profiles/3870303.stm BBC Profile: African Union]
+*{{dmoz|Society/Government/Multilateral/Regional/African_Union|African Union}}
+*[http://www.english.rfi.fr/africa/20100212-africa-50-years-independence Africa: 50 years of independence] Radio France Internationale in English
+*[http://www.english.rfi.fr/africa/20100225-broken-dream-african-unity "The broken dream of African unity, Jean-Karim Fall"], Radio France Internationale in English
+
+{{African Union|state=collapsed}}
+{{Navboxes
+|title = Articles related to the African Union
+|list =
+{{Africa topics}}
+{{Regional organisations}}
+{{Pan-Africanism}}
+{{South-South}}
+{{International power}}
+}}
+
+{{Use dmy dates|date=May 2016}}
+
+{{Authority control}}
+
+[[Category:African Union]]<!--Keep as first category listed (eponymous)-->
+[[Category:Organisations based in Addis Ababa]]
+[[Category:Organizations established in 2001]]
+[[Category:United Nations General Assembly observers]]
+[[Category:Intergovernmental organizations established by treaty]]
+[[Category:Pan-African organizations]]

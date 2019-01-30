@@ -1,0 +1,766 @@
+Aleppo
+
+{{Redirect|Halab}}
+{{Other uses}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Aleppo
+|other_name             = {{transl|ar|ALA|Ḥalab}}
+|native_name            = {{lang|ar|ﺣﻠﺐ}}
+<!-- for cities whose native name is not in English -->
+|nickname               = Al-Shahbaa<ref>{{cite web|url=http://www.almaany.com/home.php?language=arabic&lang_name=%D8%B9%D8%B1%D8%A8%D9%8A&word=%D8%B4%D9%8E%D9%87%D9%92%D8%A8%D8%A7%D8%A1%D9%8F|title=معنى كلمة شَهْباءُ في معجم المعاني الجامع والمعجم الوسيط - معجم عربي عربي - صفحة 1|author=Almaany Team|work=almaany.com}}</ref>
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Aleppo new mix.jpg
+|imagesize              = 300px
+|image_caption          = <div style="background:#fee8ab;">
+[[Ancient City of Aleppo]]<br />[[Citadel of Aleppo|Aleppo Citadel]]&nbsp;• The entrance to [[al-Madina Souq]]<br />[[Great Mosque of Aleppo]]&nbsp;• [[Baron Hotel]]<br />[[Saint Elias Cathedral]]&nbsp;• [[Queiq River]]<br />Panorama of Aleppo at night</div>
+|image_flag             =
+|flag_size              =
+|image_seal             = [[File:This is the seal of the Aleppo city.png|100px]]
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Syria
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 250
+|pushpin_map_caption    = Location in Syria
+<!-- Location ------------------>
+|coordinates_region     = SY
+|subdivision_type       = Country
+| subdivision_name        = {{flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_name1      = [[Aleppo Governorate]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_name2      = [[Mount Simeon District|Mount Simeon]] (Jabal Semaan)
+|subdivision_type3      =
+|subdivision_name3      =
+| parts_type            = [[Battle of Aleppo (2012–present)|Occupation]]
+| parts_style           = para
+| p1                    = [[File:Flag of Syria.svg|25px]] [[Syrian Armed Forces]]<br>[[File:Flag of the Al-Nusra Front.svg|25px]] [[al-Nusra Front]]<br>[[File:Logo of the Islamic Front (Syria).svg|25px]] [[Islamic Front (Syria)|Islamic Front]]<br>[[File:Flag of Syria (1932-1958; 1961-1963).svg|25px]] [[Free Syrian Army]]<br>[[File:Flag of Syrian Kurdistan.svg|25px]] [[People's Protection Units]] (Only in [[Sheikh Maqsood]]) 
+<!-- Politics -----     =
+|subdivision_name1      =
+|subdivision_type2 ------------>
+|government_footnotes   =
+|government_type        =
+|leader_title           = Governor
+|leader_name            = Marwan Olabi
+|leader_title1          = Mayor
+|leader_name1           = Ayman Hallaq
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = First settled
+|established_date       = 5000 BC
+|established_title2     = First city council
+|established_date2      = 1868
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3
+|area_water_km2         =
+|area_water_percen      =
+<!-- Area    --------------------->
+|area_magnitude           =
+|area_footnotes           =
+|area_total_km2           = 190
+|area_land_km2            =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Population   ----------------------->
+|population_as_of               = 2004 census
+|population_footnotes           =
+|population_note                =
+|population_total               = 2,132,100
+|population_density_km2         = 11,222
+|population_metro               = 2,181,061
+|population_density_metro_km2   = auto
+|population_urban               =
+|population_density_urban_km2   =
+|population_blank1_title        = 
+|population_blank1              = 
+|population_blank2_title        = 
+|population_blank2              = 
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[EEST]]
+|utc_offset_DST         = +3
+|latd=36 |latm=13 |latNS=N
+|longd=37 |longm=10 |longEW=E
+|elevation_footnotes    =  <!--for references: use  tags-->
+|elevation_m            = 379
+|elevation_ft           =
+<!-- Area/postal codes and others -------->
+|postal_code_type       =
+|postal_code            =
+|area_code              = Country code: 963 <br> City code: 21
+|website                = {{URL|http://www.alp-city.org/}} (defunct)
+|footnotes              = Sources: Aleppo city area<ref name="Syr-news1"/> Sources: City population<ref name="Population facts">[[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]] (CBS). [http://www.cbssyr.org/new%20web%20site/General_census/census_2004/NH/TAB02-1-2004.htm Aleppo Subdistrict Population].</ref>
+{{designation list | embed = yes
+   | designation1 = WHS
+   | designation1_offname = Ancient City of Aleppo
+   | designation1_date = 1986 <small>(10th [[World Heritage Committee|session]])</small>
+   | designation1_number = [http://whc.unesco.org/en/list/21 21]
+   | designation1_criteria = iii, iv
+   | designation1_type = Cultural
+   | designation1_free1name = State Party
+   | designation1_free1value = Syria
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in the Arab States|Arab States]]
+   }}
+|blank_name               = Demonym
+|blank_info               = Aleppine(s)
+}}
+'''Aleppo'''  ({{IPAc-en|ə|ˈ|l|ɛ|p|oʊ}}; {{lang-ar|ﺣﻠﺐ}} / [[ALA-LC]]: ''{{transl|ar|ALA|Ḥalab}}'', <!--north Levantine pronunciation-->{{IPA-ar|ˈħalab|IPA}}) is the largest city{{citation needed|date=April 2016}} in [[Syria]] and it  serves as the capital of the [[Aleppo Governorate]], the most populous [[Governorates of Syria|Syrian governorate]].<ref name="UNDATA">{{cite web|url=http://data.un.org/CountryProfile.aspx?crName=Syrian%20Arab%20Republic |title=UN Data, Syrian Arab republic |publisher=Data.un.org |date=24 October 1945 |accessdate=11 March 2012}}</ref> With an official population of 2,132,100 (2004 census), it is also one of the largest cities in the [[Levant]].<ref>{{cite web |url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2007/notestab08.pdf |title=UN Demographic Yearbook 2009 |accessdate=21 April 2010}}</ref><ref>Expatify.com [http://www.expatify.com/syria/navigating-the-major-cities-of-syria-aleppo-and-damascus.html Navigating the Major Cities of Syria]</ref> For centuries, Aleppo was the [[Syria (region)|Syrian region]]'s largest city and the [[Ottoman Empire]]'s third-largest, after [[Constantinople]] and [[Cairo]].<ref name="Encyclopedia of the Ottoman Empire">{{cite book|url=https://books.google.com/books?id=QjzYdCxumFcC&pg=PA30&lpg=PA30&dq=Aleppo+third+largest+Ottoman+Empire&source=bl&ots=Pc1aMdCNu7&sig=Gz0APza0iRfEgNZY9UACCvkF7Ps&hl=en&ei=SHjJTOfXH5HSuwOnpu0V&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCEQ6AEwAw#v=onepage&q=Aleppo%20third%20largest%20Ottoman%20Empire&f=false |title=Encyclopedia of the Ottoman Empire |publisher=Google Books |accessdate=11 March 2012}}</ref><ref name="Russell, Alexander (1794) The natural history of Aleppo">Russell, Alexander (1794), [https://books.google.com/books?id=7PfaAAAAMAAJ&ots=IZU99uoBId&dq=the%20natural%20history%20of%20aleppo&pg=PA1#v=onepage&q&f=true The natural history of Aleppo], 2nd Edition, Vol. I, pp. 1–2</ref><ref name="Gaskin, James J. 1846 Geography and sacred history of Syria p.33">Gaskin, James J. (1846), [https://books.google.com/books?id=9SoEAAAAQAAJ&dq=Gaskin%2C%20James%20J.%201846%20Geography%20and%20sacred%20history%20of%20Syria&pg=PA33#v=onepage&q&f=true Geography and sacred history of Syria], pp. 33–34</ref>
+
+Aleppo is one of [[List of cities by time of continuous habitation#Middle East|the oldest continuously inhabited cities in the world]]; it has been inhabited since perhaps as early as the 6th millennium BC.<ref>''Columbia Encyclopedia'', Sixth Edition (2010)</ref> Excavations at Tell as-Sawda and Tell al-Ansari, just south of the old city of Aleppo, show that the area was occupied since at least the latter part of the 3rd millennium BC;<ref>The Oxford encyclopedia of archaeology in the Near East (1997)</ref> and this is also when Aleppo is first mentioned in cuneiform tablets unearthed in [[Ebla]] and [[Mesopotamia]], in which it is noted for its commercial and military proficiency.<ref>Britannica Concise Encyclopedia (2010)</ref> Such a long history is probably due to its being a strategic trading point midway between the Mediterranean Sea and Mesopotamia (i.e. modern Iraq).
+
+The city's significance in history has been its location at the end of the [[Silk Road]], which passed through central Asia and Mesopotamia. When the [[Suez Canal]] was inaugurated in 1869, trade was diverted to sea and Aleppo began its slow decline. At the fall of the Ottoman Empire after World War I, Aleppo ceded its northern hinterland to modern Turkey, as well as the important railway connecting it to [[Mosul]]. Then in the 1940s it lost its main access to the sea, [[Antakya|Antioch]] and [[İskenderun|Alexandretta]], also to Turkey. Finally, the isolation of Syria in the past few decades further exacerbated the situation, although perhaps it is this very decline that has helped to preserve the old city of Aleppo, its medieval architecture and traditional heritage. It won the title of the "Islamic Capital of Culture 2006", and has also witnessed a wave of successful restorations of its historic landmarks, until the start of the [[Syrian Civil War]] in 2011 and the [[Battle of Aleppo (2012–present)]] which resulted in grave destruction.<ref>{{cite web|url=http://archnet.org/collections/54/sites/6414|title=Collections - Aga Khan Collection - Aga Khan Historic Cities Programme - Aleppo Citadel Restoration - Archnet|work=archnet.org}}</ref>
+
+==Etymology==
+Modern-day English-speakers commonly refer to the city as ''Aleppo''. It was known in antiquity as ''Khalpe'', ''Khalibon'', and to the [[Ancient Greece|Greeks]] and [[Ancient Rome|Romans]] as ''Beroea'' ({{lang|grc|Βέροια}}).<ref>{{cite web|url=http://www.worldheritagesite.org/sites/aleppo.html |title= Aleppo |publisher= World Heritage Site |accessdate=11 March 2012}}</ref> During the [[Crusades]], and again during the [[French Mandate for Syria and the Lebanon]] of 1923-1946, the name ''Alep'' was used. ''Aleppo'' represents the Italianised version of this.
+
+The original ancient name, '''''Halab''''', has survived as the current Arabic name of the city. It is of obscure origin. Some have proposed that ''halab'' means "iron" or "copper" in [[Amorite]] languages, since the area served as a major source of these metals in antiquity. However, according to the 20th-century historian sheikh Kamel al-Ghazzi and to the contemporary linguist priest Barsoum Ayyoub, the name '''Halab''' (and consequently '''Aleppo''') derives from the Aramaic word '''''Halaba''''' which means "white", referring to the colour of soil and marble abundant in the area.<ref>[http://souriabaladi.com/index.php?id=624 The origin of the name ''Aleppo'']</ref> The modern-day Arabic nickname of the city, '''ash-Shahbaa''' (Arabic: الشهباء), which means "the white-coloured", also allegedly derives from the famous white marble of Aleppo. However, this story is only a myth, without any historical base.<ref>{{cite web|url=http://www.hadhramautnews.net/news-4451.htm|title=حلب الشهباء..معناهاوأهميتها عند النبي العربي إبراهيم الخليل|work=hadhramautnews.net}}</ref>
+
+One legend states that the name ''Halab'' means "gave out milk", coming from the ancient tradition that [[Abraham]] gave milk to travelers as they passed through the region. This is not to construe the idea that [[Abraham]] was born in that land. It is more accepted that he was born in Haran which is further north of Halab.<ref>[http://www.teachittome.com/seforim2/seforim/travels_of_rabbi_pesachia_of_regensburg.pdf Travels of Rabbi Pesachia of Regensburg]. teachittome.com (p.&nbsp;53).</ref> The colour of his cows was white (Arabic: شهباء ''shahbaa''), therefore the city was also called ''Halab ash-Shahbaa'' ("he milked the white-coloured").
+
+From the 11th century it was common [[Rabbi]]nic usage to apply the term "[[Zobah|Aram-Zobah]]" to the area of Aleppo, and [[Syrian Jews]] continue to do so {{as of | 2015 | lc = on}}.
+
+==History==
+{{main|Ancient City of Aleppo|Timeline of Aleppo|List of rulers of Aleppo}}
+
+===Pre-history and pre-classical era===
+{{main|Armi (Syria)|Yamhad|Yamhad dynasty}}
+[[File:Ancient Aleppo from Citadel.jpg|thumb|[[Ancient City of Aleppo|Ancient Aleppo]]]]
+[[File:Udgravning (Citadellet Aleppo).jpg|thumb|Hadad Temple Inside [[Aleppo Citadel]]]]
+Aleppo has scarcely been touched by archaeologists, since the modern city occupies its ancient site. The site has been occupied from around 5000 BC, as excavations in Tallet Alsauda show.
+
+Aleppo appears in historical records as an important city much earlier than [[Damascus]]. The first record of Aleppo comes from the third millennium BC, in the [[Ebla tablets]] when Aleppo was referred to as '''Ha-lam''',<ref>{{cite book|url=https://books.google.com/books?id=hFRwonqqNCUC&pg=PA250#v=onepage&q&f=false|title= Orientalia: Vol. 63|author= alfonso archi|page= 250}}</ref> some historians such as [[Wayne Horowitz]] identify Aleppo with the capital of an independent kingdom closely related to [[Ebla]], known as [[Armi (Syria)|Armi]],<ref>{{cite book|url=https://books.google.com/books?id=9bbgJzacoJYC&pg=PA482#v=onepage&q&f=false|title= 6 ICAANE|author1=Paolo Matthiae |author2=Licia Romano |page= 482}}</ref> although this identification is contested. the city had a religious Importance, The main temple of the storm god [[Hadad]] was located on the citadel hill in the center of the city,<ref>{{cite book|url=https://books.google.com/books?id=Xno9AgAAQBAJ&pg=PA111&dq=Temple+of+Hadad+in+Aleppo+Citadel&hl=nl&sa=X&ei=haTPUrmbM8bP0QWGhYGYBQ&ved=0CDgQ6AEwAA#v=onepage&q=Temple%20of%20Hadad%20in%20Aleppo%20Citadel&f=false|title= Ancient Syria: A Three Thousand Year History|author= Trevor Bryce|page= 111}}</ref> and the city was known as the city of Hadad.<ref>{{cite book|url=https://books.google.com/books?id=AaZg0ypYrnQC&pg=PA264#v=onepage&q&f=false|title= Ebla and its Landscape: Early State Formation in the Ancient Near East|author1=Paolo Matthiae |author2=Nicoló Marchetti |page= 250}}</ref>
+
+[[Naram-Sin of Akkad]] mention his destruction of Ebla and [[Armani (kingdom)|Armani/Armanum]],<ref>{{cite book|url=https://books.google.com.qa/books?id=P8fl8BXpR0MC&pg=PA82&lpg=PA82&dq=ebla+arman&source=bl&ots=JdZsdIP7O4&sig=ag_zXHPCttBHmSO-ssFQvsFrwLI&hl=en&sa=X&ei=ThadT56SJcyJrAezmJBa&redir_esc=y#v=onepage&q=ebla%20arman&f=false |first=Wayne|last= Horowitz|title=Mesopotamian Cosmic Geography|publisher=Eisenbrauns|year= 1998|isbn=0-931464-99-4 |accessdate=29 August 2013}}</ref> in the 23rd century BC.<ref>Pettinato, Giovanni (Johns Hopkins University Press, 1991) ''Ebla, a new look at history'' p.135</ref><ref name="Hawkins, John David 2000 p.388">Hawkins, John David (2000) ''Inscriptions of the iron age'' p.388</ref> but the identification of Armani in the inscription of Naram-Sim as Armi in the Eblaite tablets is heavily debated,<ref>{{cite book|url=https://books.google.com/books?id=0Rwals-oh6kC&pg=PA63#v=onepage&q&f=false|title= Eblaitica: Essays on the Ebla Archives and Eblaite Language, Volume 4|author1=Cyrus Herzl Gordon |author2=Gary Rendsburg |author3=Nathan H. Winter |page= 63,64,65,66}}</ref>  as there was no Akkadian annexation of Ebla or northern Syria.<ref>{{cite book|url=https://books.google.com/books?id=0Rwals-oh6kC&pg=PA79#v=onepage&q&f=false|title= Eblaitica: Essays on the Ebla Archives and Eblaite Language, Volume 4|author1=Cyrus Herzl Gordon |author2=Gary Rendsburg |author3=Nathan H. Winter |page= 63,64,65,66}}</ref>
+
+In the [[First Babylonian Dynasty|Old Babylonian]] period, Aleppo's name appears as Ḥalab (Ḥalba) for the first time.<ref name="Hawkins, John David 2000 p.388"/> Aleppo was the capital of the important [[Amorite]] dynasty of [[Yamhad|Yamḥad]]. The kingdom of Yamḥad (c. 1800–1525 BC), alternatively known as the 'land of Ḥalab,' was the most powerful in the Near East during the reign of [[Yarim-Lim I]].<ref>Kuhrt, Amélie (1998) ''The ancient Near East'' p.100</ref> Yamḥad was devastated by the [[Hittites]] under [[Mursilis I]] in the 16th century BC. However, it soon resumed its leading role in Syria when the Hittite power in the region waned due to internal strife.<ref name="Hawkins, John David 2000 p.388"/>
+
+Taking advantage of the power vacuum in the region, [[Parshatatar]], king of the [[Hurrian]] kingdom of [[Mitanni]] instigated a rebellion that ended the life of Yamhad last king [[Ilim-Ilimma I]] in c. 1525 BC,<ref>{{cite book|url=https://books.google.com/books?id=41-MAgAAQBAJ&pg=PA34&dq=ilim+ilimma&hl=nl&sa=X&ei=EHHsUuyCDIaO0AWAo4DoCA&ved=0CHkQ6AEwCQ#v=onepage&q=ilim%20ilimma&f=false|title= Ancient Syria: A Three Thousand Year History|author= Trevor Bryce|page=34}}</ref> Subsequently Parshatatar conquered Aleppo and the city found itself on the frontline in the struggle between the Mitanni, the Hittites and [[Ancient Egypt|Egypt]].<ref name="Hawkins, John David 2000 p.388"/> [[Niqmepa, King of Alalakh|Niqmepa]] of [[Alalakh]] who descends from the old Yamhadite kings controlled the city as a vassal to Mitanni and was attacked by [[Tudhaliya I]] of the Hittites as a retaliation for his alliance to Mitanni.<ref>{{cite book|url=https://books.google.com/books?id=Agg5-lpVI2MC&pg=PA152#v=onepage&q&f=false|title= The Kingdom of the Hittites|author= Trevor Bryce|page=152}}</ref> Later the Hittite king [[Suppiluliumas I]] permanently defeated Mitanni and conquered Aleppo in the 14th century BC, Suppiluliumas installed his son [[List of rulers of Aleppo#The Hittite Dynasty|Telepinus]] as king and a dynasty of Suppiluliumas descendents ruled Aleppo until the [[Late Bronze Age collapse]].<ref>{{cite book|url=https://books.google.com/books?id=6TwiY96cunQC&pg=PA388&dq=#v=onepage&q&f=false|title= Inscriptions of the Iron Age: Part 1|author= John David Hawkins|page= 388}}</ref>
+
+Aleppo had [[cult]]ic importance to the Hittites for being the center of worship of the [[Teshub|Storm-God]].<ref name="Hawkins, John David 2000 p.388"/> this religious importance continued after the collapse of the Hittite kingdom in the 12th century BC, when Aleppo became part of the [[Syro-Hittite states|Syro-Hittite]] kingdom of [[Palistin]],<ref name="bryce3">{{cite book|url=https://books.google.com/books?id=q8Z7AgAAQBAJ&pg=PA111#v=onepage&q&f=false|title= Ancient Syria: A Three Thousand Year History|author=Trevor Bryce|page= 111}}</ref> whose king renovated the temple of Hadad which was discovered in 2003.<ref>{{cite book|url=https://books.google.com/books?id=YMxY_hfXkCQC&pg=PA130#v=onepage&q&f=false|title= A New Luwian Stele and the Cult of the Storm-god at Til Barsib-Masuwari|author=Guy Bunnens|page= 130}}</ref>
+
+At the beginning of the 1st millennium BC, Aleppo became part of [[Bit Agusi]] (which had its capital at [[Arpad (Syria)|Arpad]]) .<ref>Lipinsky, Edward, 2000.'' The Aramaeans: Their Ancient History, Culture, Religion'' (Peeters), p. 195.</ref> Bit Agusi along with Aleppo was conquered by the [[Assyrians]] In the 8th century BC and became part of the [[Neo-Assyrian Empire]] until the late 7th century BC,<ref>Healy, Mark (1992). ''The Ancient Assyrians'' (Osprey) p. 25.</ref> before passing through the hands of the [[Neo-Babylonian]]s and the [[Achamenid|Achamenid Persians]].<ref>Kipfer, Barbara Ann (2000). ''Encyclopedic Dictionary of Archaeology''. p. 626.</ref>
+
+===Classical antiquity===
+[[File:Brad Northern Basilica.jpg|thumb|The ruins of the [[Maronite]] basilica in [[Barad, Syria|Barad]]]]
+[[Alexander the Great]] took over the city in 333 BC. [[Seleucus Nicator]] established a [[Hellenic Republic|Hellenic]] settlement in the site between 301 and 286 BC. He called it ''Beroea'' (Βέροια), after [[Veria|Beroea]] in [[Macedon]].
+
+Northern Syria was the center of gravity of the Hellenistic colonizing activity, and therefore of Hellenistic culture in the [[Seleucid Empire]]. As did other Hellenized cities of the Seleucid kingdom, Beroea probably enjoyed a measure of local autonomy, with a local civic assembly or ''[[Boule (ancient Greece)|boulē]]'' composed of free Hellenes.<ref name="Phenix, Robert R. 2008">Phenix, Robert R. (2008) ''The sermons on Joseph of [[Balai of Qenneshrin]]''</ref>
+
+Beroea remained under Seleucid rule until 88 BC when Syria was occupied by [[Tigranes the Great]] and Beroea became part of the [[Kingdom of Armenia (antiquity)|Kingdom of Armenia]]. After the [[Roman Republic|Roman]] victory over Tigranes, Syria was handed over to [[Pompey]] in 64 BC, at which time they became a [[Roman Syria|Roman province]]. Rome's presence afforded relative stability in northern Syria for over three centuries. Although the province was administered by a [[legatus|legate]] from Rome, Rome did not impose its administrative organization on the Greek-speaking ruling class.<ref name="Phenix, Robert R. 2008"/>
+
+The Roman era saw an increase in the population of northern Syria that accelerated under the [[Byzantine Empire|Byzantines]] well into the 5th century. In [[Late Antiquity]], Beroea was the second largest Syrian city after [[Antioch]], the capital of Syria and the third largest city in the Roman world. Archaeological evidence indicates a high population density for settlements between Antioch and Beroea right up to the 6th century. This agrarian landscape holds now the remains of large estate houses and churches such as the [[Church of Saint Simeon Stylites]].<ref name="Phenix, Robert R. 2008"/>
+
+Beroea is mentioned in [[2 Maccabees|2 Macc.]] 13:3.
+
+===Ecclesiastical history===
+[[File:Aleppo Citadel 10 - Mosque of Abraham.jpg|thumb|The Mosque of Abraham in the Citadel of Aleppo, originally built by the Byzantines as a church]] 
+The names of several bishops of the [[episcopal see]] of Beroea, which was in the [[Roman province]] of [[Syria Prima]], are recorded in extant documents. The first whose name survives is that of Saint [[Eustathius of Antioch]], who, after being bishop of Beroea, was transferred to the important [[metropolitan see]] of [[Patriarch of Antioch|Antioch]] shortly before the 325 [[First Council of Nicaea]]. His successor in Beroea Cyrus was for his fidelity to the Nicene faith sent into exile by the [[Roman Emperor]] [[Constantius II]]. After the [[Council of Seleucia]] of 359, called by Constantius, [[Meletius of Antioch]] was transferred from [[Sivas|Sebastea]] to Beroea but in the following year was promoted to Antioch. His successor in Beroea, Anatolius, was at a council in Antioch in 363. Under the persecuting Emperor [[Valens]], the bishop of Beroea was Theodotus, a friend of [[Basil the Great]]. He was succeeded by [[Acacius of Beroea]], who governed the see for over 50 years and was at the [[First Council of Constantinople]] in 381 and the [[Council of Ephesus]] in 431. In 438, he was succeeded by Theoctistus, who participated in the [[Council of Chalcedon]] in 451 and was a signatory of the joint letter that the bishops of the province of Syria Prima sent in 458 to Emperor [[Leo I the Thracian]] about the murder of [[Proterius of Alexandria]]. In 518 Emperor [[Justin I]] exiled the bishop of Beroea Antoninus for rejecting the Council of Chalcedon. The last known bishop of the see is Megas, who was at a synod called by [[Patriarch Menas of Constantinople]] in 536.<ref>Michel Lequien, [https://books.google.com/books?id=86weAemI-e4C&printsec=frontcover#v=onepage&q&f=false ''Oriens christianus in quatuor Patriarchatus digestus''], Paris 1740, Vol. II, coll. 781-786</ref><ref>Raymond Janin, v. ''2. Berrhée'' in [http://booksnow.scholarsportal.info/ebooks/oca2/4/dictionnairedhis08bauduoft/dictionnairedhis08bauduoft.pdf ''Dictionnaire d'Histoire et de Géographie ecclésiastiques''], vol. VIII, 1935, coll. 887-888</ref> After the Arab conquest, Beroea ceased to be a residential bishopric, and is today listed by the [[Catholic Church]] as a [[titular see]].<ref>''Annuario Pontificio 2013'' (Libreria Editrice Vaticana 2013 ISBN 978-88-209-9070-1), p. 848</ref>
+
+Very few physical remains have been found from the Roman and Byzantine periods in the Citadel of Aleppo. The two mosques inside the Citadel are known to be converted from churches originally built by the Byzantines.<ref name="Julia1">Gonnela, 2008, pp. 12–13</ref> They were later converted into mosques by the [[Mirdasid dynasty|Mirdasids]] during the 11th century.
+
+===Medieval period===
+[[File:Bab Qinnasrin2010.jpg|thumb|The old walls of Aleppo and the [[Bab Qinnasrin|Gate of Qinnasrin]] restored in 1256 by [[An-Nasir Yusuf]]]]
+The [[Sassanid Persia]]ns [[Byzantine-Sassanid War of 602-628|invaded and controlled]] Syria briefly in the early 7th century. Soon after Aleppo fell to [[Muslim conquests|Muslims]] under [[Abu Ubaidah ibn al Jarrah]] in 637. In 944, it became the seat of an independent Emirate under the [[Hamdanid]] prince [[Sayf al-Daula]], and enjoyed a period of great prosperity, being home to the great poet [[al-Mutanabbi]] and the philosopher and [[polymath]] [[al-Farabi]]. The city was sacked by a resurgent Byzantine Empire in 962, while Byzantine forces occupied it briefly from 974 to 987. The city and its Emirate became an Imperial vassal from 969 until the [[Byzantine–Seljuk Wars]]. The city was twice besieged by the [[Crusades|Crusaders]], in 1098 and in 1124, but was not conquered.
+
+On 9 August 1138, [[1138 Aleppo earthquake|a deadly earthquake]] ravaged the city and the surrounding area. Although estimates from this time are very unreliable, it is believed that 230,000 people died, making it the [[List of earthquakes#Deadliest earthquakes on record|seventh deadliest]] earthquake in recorded history.
+
+In 1128 Aleppo became capital of the expanding [[Zengid dynasty]], which ultimately conquered Damascus in 1154. In 1183 Aleppo came under the control of [[Saladin]] and then the [[Ayyubid]] Dynasty.
+
+On 24 January 1260,<ref>{{cite journal|author=Jackson, Peter |title=The Crisis in the Holy Land in 1260 |journal=[[The English Historical Review]] |volume=95 |date=July 1980 |pages=481–513 |issue=376 |doi=10.1093/ehr/XCV.CCCLXXVI.481}}</ref> the [[Siege of Aleppo (1260)|city was taken]] by the [[Mongols]] under [[Hulagu]] in alliance with their vassals the [[France|Frank]] knights of the ruler of [[Antioch]] [[Bohemond VI]] and his father-in-law the [[Cilician Armenia|Armenian]] ruler [[Hetoum I]].<ref>"Histoire des Croisades", René Grousset, p. 581, ISBN 2-262-02569-X.</ref> The city was poorly defended by [[Turanshah]], and as a result the walls fell after six days of bombardment, and the citadel fell four weeks later. The Muslim population was massacred and many Jews were also killed.<ref name="Shelemay1998">{{cite book|author=Kay Kaufman Shelemay|title=Let jasmine rain down: song and remembrance among Syrian Jews|url=https://books.google.com/books?id=pgoFDZeHhF4C&pg=PA70|accessdate=24 November 2010|year=1998|publisher=University of Chicago Press|isbn=978-0-226-75211-2|page=70}}</ref> The Christian population was spared. Turanshah was shown unusual respect by the Mongols, and was allowed to live because of his age and bravery. The city was then given to the former Emir of [[Homs]], [[al-Ashraf]], and a Mongol garrison was established in the city. Some of the spoils were also given to Hethoum I for his assistance in the attack. The Mongol Army then continued on to [[Damascus]], which surrendered, and the Mongols entered the city on 1 March 1260.
+
+[[File:Souk Al Zirb Aleppo.jpg|thumb|left|Souq az-Zirb, where coins were being struck during the Mamluk period]]
+In September 1260, the Egyptian Mamluks negotiated for a treaty with the Franks of Acre which allowed them to pass through Crusader territory unmolested, and engaged the Mongols at the [[Battle of Ain Jalut]] on 3 September 1260. The Mamluks won a decisive victory, killing the Mongols' Nestorian Christian general [[Kitbuqa]], and five days later they had re-taken Damascus. Aleppo was recovered by the Muslims within a month, and a Mamluk governor placed to govern the city. Hulagu sent troops to try to recover Aleppo in December. They were able to massacre a large number of Muslims in retaliation for the death of Kitbuqa, but after a fortnight could make no other progress and had to retreat.<ref>Runciman, p. 314.</ref>
+
+[[File:Al-Atroush Mosque, Aleppo.jpg|thumb|[[Al-Otrush Mosque]] of the Mamluk period]]
+The Mamluk governor of the city became insubordinate to the central Mamluk authority in Cairo, and in Autumn 1261 the Mamluk leader [[Baibars]] sent an army to reclaim the city. In October 1271, the Mongols took the city again, attacking with 10,000 horsemen from [[Anatolia]], and defeating the [[Turkmen people|Turcoman]] troops who were defending Aleppo. The Mamluk garrisons fled to [[Hama]], until Baibars came north again with his main army, and the Mongols retreated.<ref>Runciman, pp. 336–337.</ref>
+
+On 20 October 1280, the Mongols took the city again, pillaging the markets and burning the mosques. The Muslim inhabitants fled for Damascus, where the Mamluk leader [[Qalawun]] assembled his forces. When his army advanced, the Mongols again retreated, back across the [[Euphrates]].
+
+In 1400, the Mongol-Turkic leader [[Timur|Tamerlane]] captured the city again from the Mamluks.<ref>Runciman, p. 463.</ref> He massacred many of the inhabitants, ordering the building of a tower of 20,000 skulls outside the city.<ref>[http://everything2.com/index.pl?node=Battle%20of%20Aleppo Battle of Aleppo@Everything2.com<!-- Bot generated title -->].</ref> After the withdrawal of the Mongols, all the Muslim population returned to Aleppo. On the other hand, Christians who left the city during the Mongol invasion, were unable to resettle back in their own quarter in the old town, a fact that led them to establish a new neighbourhood in 1420, built at the northern suburbs of Aleppo outside the city walls, to become known as ''al-Jdeydeh'' quarter (for "new district" in Arabic).
+
+===Ottoman era===
+[[File:Khusruwiyah mosque and Aleppo view2.jpg|thumb|[[Khusruwiyah Mosque]] of the Ottoman period]]
+Aleppo became part of the [[Ottoman Empire]] in 1516, when the city had around 50,000 inhabitants. It was the centre of the [[Aleppo Eyalet]]; the rest of what later became Syria was part of either the eyalets of Damascus, Tripoli, Sidon or Raqqa. Following the Ottoman provincial reform of 1864 Aleppo became the centre of the newly constituted Vilayet of Aleppo in 1866.
+
+Thanks to its strategic geographic location on the trade route between [[Anatolia]] and the east, Aleppo rose to high prominence in the Ottoman era, at one point being second only to [[Constantinople]] in the empire. By the middle of the 16th century, Aleppo had displaced [[Damascus]] as the principal market for goods coming to the Mediterranean region from the east. This is reflected by the fact that the [[Levant Company of London]], a joint-trading company founded in 1581 to monopolize England's trade with the Ottoman Empire, never attempted to settle a factor, or agent, in Damascus, despite having had permission to do so. Aleppo served as the company's headquarters until the late 18th century.<ref name="Masters 2009">Ágoston and Masters (2009), Encyclopedia of the Ottoman Empire</ref>
+
+[[File:Aleppo Khan Shuneh.jpg|thumb|left|Khan al-Shouneh of 1546]]
+As a result of the economic development, many European states had opened consulates in Aleppo during the 16th and the 17th centuries, such as the consulate of the [[Republic of Venice]] in 1548, the consulate of France in 1562, the consulate of England in 1583 and the consulate of the [[Netherlands]] in 1613.<ref>{{cite web|url=http://www.panoramaline.com/aleppo-arab.htm |title=Aleppo in History (in Arabic) |publisher=Panoramaline.com |accessdate=11 March 2012}}</ref>
+
+However, the prosperity Aleppo experienced in the 16th and 17th century started to fade as silk production in Iran went into decline with the fall of the [[Safavid dynasty]] in 1722. By mid-century, caravans were no longer bringing silk from Iran to Aleppo, and local Syrian production was insufficient for Europe's demand. European merchants left Aleppo and the city went into an economic decline that was not reversed until the mid-19th century when locally produced cotton and tobacco became the principal commodities of interest to the Europeans.<ref name="Masters 2009"/>
+
+The economy of Aleppo was badly hit by the opening of the [[Suez Canal]] in 1869. This, in addition to political instability that followed the implementation of significant reforms in 1841 by the central government, contributed to Aleppo's decline and the rise of Damascus as a serious economic and political competitor with Aleppo.<ref name="Masters 2009"/>
+
+[[File:Aleppo Jdeydeh.jpg|thumb|upright|Narrow alley at the [[Armenians|Armenian]] quarter in [[Al-Jdayde|Jdeydeh]], early 17th century]]
+Reference is made to the city in 1606 in William Shakespeare's 'Macbeth.' The witches torment the captain of the ship the Tiger which was headed to Aleppo{{clarify|date=June 2015}} from England but endured a 567-day voyage before returning unsuccessfully to port. Reference is also made to the city in Shakespeare's 'Othello' when Othello speaks his final words (ACT V, ii, 349f.): "Set you down this/And say besides that in Aleppo once,/Where a malignant and a turbanned Turk/Beat a Venetian and traduced the state,/I took by th' throat the circumcised dog/And smote him—thus!" (Arden Shakespeare Edition, 2004). The English naval chaplain [[Henry Teonge]] describes in his diary a visit he paid to the city in 1675, when there was a colony of Western European merchants living there.
+
+The city remained Ottoman until the empire's collapse, but was occasionally riven with internal feuds as well as attacks of [[cholera]] from 1823. Around 20–25 percent of the population died of [[Plague (disease)|plague]] in 1827.<ref>Suraiya Faroqhi, Halil İnalcık, Donald Quataert (1997). "''[https://books.google.com/books?id=c00jmTrjzAoC&pg=PA788&dq&hl=en#v=onepage&q=&f=false An economic and social history of the Ottoman Empire]''". Cambridge University Press. p.788. ISBN 0-521-57455-2</ref> In 1850 a Muslim mob [[Massacre of Aleppo (1850)|attacked]] Christian neighbourhoods, tens of Christians were killed and several churches looted. Janissary rebels installed their own government when the Ottoman governor fled. The Ottomans took over the city weeks later killing some 5,000.<ref>{{cite book|last1=Eldem|first1=Edhem|last2=Goffman|first2=Daniel|last3=Masters|first3=Bruce|title=The Ottoman City between East and West: Aleppo, İzmir, and Istanbul|url=https://books.google.com/books?id=efp53UAQ6bIC|accessdate=15 October 2012|date=11 November 1999|publisher=Cambridge University Press|isbn=978-0-521-64304-7 |page=71}}</ref> By 1901, the city's population was around 110,000.
+
+At the end of World War I, the [[Treaty of Sèvres]] made most of the Province of Aleppo part of the newly established nation of [[Syria]], while Cilicia was [[French–Armenian Agreement (1916)|promised]] by France to become an Armenian state. However, [[Kemal Atatürk]] annexed most of the Province of Aleppo as well as Cilicia to [[Turkey]] in his [[Turkish war of independence|War of Independence]]. The Arab residents in the province (as well as the Kurds) supported the Turks in this war against the French, including the leader of the [[Hananu Revolt]], [[Ibrahim Hananu]], who directly coordinated with Atatürk and received weaponry from him. The outcome, however, was disastrous for Aleppo, because as per the [[Treaty of Lausanne]], most of the Province of Aleppo was made part of Turkey with the exception of Aleppo and [[Alexandretta]];<ref name="atak5">{{cite book|url=https://books.google.nl/books?id=ttYVBQAAQBAJ&pg=PT149|title= Eastward to Tartary|author= Robert D. Kaplan|page=149|year= 2014}}</ref> thus, Aleppo was cut from its northern satellites and from the Anatolian cities beyond on which Aleppo depended heavily in commerce. Moreover, the [[Sykes-Picot]] division of the Near East separated Aleppo from most of [[Mesopotamia]], which also harmed the economy of Aleppo. The situation was exacerbated further in 1939 when Alexandretta was annexed to Turkey,<ref name="atak">{{cite book|url=https://books.google.nl/books?id=cO50m62MA8AC&pg=PT55|title= Ataturk|author= Andrew Mango|page=55|year= 2011}}</ref><ref name="atak3">{{cite book|url=https://books.google.nl/books?id=smkXH4UwJOsC&pg=PA64|title= Negotiating for the Past: Archaeology, Nationalism, and Diplomacy in the Middle East, 1919-1941|author= James F. Goode|page=64|year= 2009}}</ref><ref name="atak4">{{cite book|url=https://books.google.nl/books?id=3dnGAAAAQBAJ&pg=PA58|title= Turkish Foreign Policy: Islam, Nationalism, and Globalization|author= Hasan Kösebalaban|page=58|year= 2011}}</ref> thus depriving Aleppo of its main port of [[Iskenderun]] and leaving it in total isolation within Syria.{{OR|date=June 2015}}
+
+===French mandate===
+{{See also|State of Aleppo}}
+[[File:General Gouraud marching in Aleppo.jpg|thumb|left|General [[Henri Gouraud (French Army officer)|Gouraud]] crossing through al-Khandaq street on 13 September 1920]]
+The [[State of Aleppo]] was declared by the French General [[Henri Gouraud (French Army officer)|Henri Gouraud]] in September 1920 as part of a French scheme to make Syria easier to control by dividing it into several smaller states. France became more hostile to the idea of a united Syria after the [[Battle of Maysaloun]].
+
+By separating Aleppo from Damascus, Gouraud wanted to capitalize on a traditional state of competition between the two cities and turn it into political division. The people in Aleppo were unhappy with the fact that Damascus was chosen as capital for the new nation of Syria. Gouraud sensed this sentiment and tried to manipulate it by making Aleppo the capital of a large and wealthier state with which it would have been hard for Damascus to compete. The State of Aleppo as drawn by France contained most of the fertile area of Syria: the fertile countryside of Aleppo in addition to the entire fertile basin of river [[Euphrates]]. The state also had access to sea via the autonomous [[Sanjak of Alexandretta]]. On the other hand, Damascus, which is basically an oasis on the fringes of the [[Syrian Desert]], had neither enough fertile land nor access to sea. Basically, Gouraud wanted to lure Aleppo by giving it control over most of the agricultural and mineral wealth of Syria so that it would never want to unite with Damascus again.<ref name="M. Andrew 1981">M. Andrew & Sydney Kanya-Forstner (1981) The climax of French imperial expansion, 1914–1924</ref><ref name="Fieldhouse, David Kenneth 2006">Fieldhouse, David Kenneth (2006) Western imperialism in the Middle East 1914–1958</ref>
+
+[[File:Aleppo Grand Seray.jpg|thumb|[[Grand Serail d'Alep]], originally planned as the government building of the [[State of Aleppo]]]]
+The limited economic resources of the Syrian states made the option of completely independent states undesirable for France, because it threatened an opposite result: the states collapsing and being forced back into unity. This was why France proposed the idea of a Syrian federation that was realized in 1923. Initially, Gouraud envisioned the federation as encompassing all the states, even Lebanon. In the end however, only three states participated: Aleppo, [[State of Damascus|Damascus]], and the [[Alawite State]]. The capital of the federation was Aleppo at first, but it was relocated to Damascus. The president of the federation was [[Subhi Barakat]], an [[Antioch]]-born politician from Aleppo.
+
+The federation ended in December 1924, when France merged Aleppo and Damascus into a single Syrian State and separated the Alawite State again. This action came after the federation decided to merge the three federated states into one and to take steps encouraging Syria's financial independence, steps which France viewed as too much.<ref name="M. Andrew 1981"/><ref name="Fieldhouse, David Kenneth 2006"/>
+
+When the [[Great Syrian Revolt|Syrian Revolt]] erupted in southern Syria in 1925, the French held in Aleppo State new elections that were supposed to lead to the breaking of the union with Damascus and restore the independence of Aleppo State. The French were driven to believe by pro-French Aleppine politicians that the people in Aleppo were supportive of such a scheme. After the new council was elected, however, it surprisingly voted to keep the union with Damascus. [[Syrian National Block|Syrian nationalists]] had waged a massive anti-secession public campaign that vigorously mobilized the people against the secession plan, thus leaving the pro-French politicians no choice but to support the union. The result was a big embarrassment for France, which wanted the secession of Aleppo to be a punitive measure against Damascus, which had participated in the Syrian Revolt. This was the last time that independence was proposed for Aleppo.<ref>LaMaziere, Pierre (1926) Partant pour la Syrie</ref>
+
+===Post-independence===
+[[File:Aleppo Quwwatli.jpg|thumb|[[Shukri al-Quwatli]] street, was known as Rue de France during the French mandate]]
+The period immediately following independence from France was marked by increasing rivalry between Aleppo and Damascus.{{citation needed|date=November 2012}} Aleppo feverishly called for an immediate union between Syria and [[kingdom of Iraq|Hashimite Iraq]], a demand that was firmly rejected by Damascus. Instead, Damascus favoured a pro-Egyptian, pro-Saudi orientation and actively participated in the establishment of the [[Arab League]] in [[Alexandria]] in 1944, an organization that was seen by many [[Arab nationalist]]s as a 'conspiracy' aimed against the unification of the [[Fertile Crescent]] under the [[Hashimite]]s.{{citation needed|date=November 2012}}
+
+The increasing disagreements between Aleppo and Damascus led eventually to the split of the [[Syrian National Block|National Block]] into two factions: the [[National Party (Syria)|National Party]], established in Damascus in 1946, and the [[People's Party (Syria)|People's Party]], established in Aleppo in 1948 by Rushdi Kikhya and [[Nazim Qudsi]].{{citation needed|date=November 2012}} An underlying cause of the disagreement, in addition to the union with Iraq, was Aleppo's intention to relocate the capital from Damascus. The issue of the capital became an open debate matter in 1950 when the Popular Party presented a constitution draft that called Damascus a "temporary capital."{{citation needed|date=November 2012}}
+
+[[File:Aleppo Night by Charles Hajj.jpg|left|thumb|[[Bab al-Faraj Clock Tower]] with the Aleppo City Council tower in the left background]]
+The first [[coup d'état]] in modern Syrian history was carried out in March 1949 by an army officer from Aleppo, [[Hussni Zaim]]. However, lured by the absolute power he enjoyed as a dictator, Zaim soon developed a pro-Egyptian, pro-Western orientation and abandoned the cause of union with Iraq. This incited a second coup only four months after his.{{citation needed|date=November 2012}} The second coup, led by [[Sami Hinnawi]] (also from Aleppo), empowered the Popular Party and actively sought to realize the union with Iraq. The news of an imminent union with Iraq incited a third coup the same year: in December 1949, [[Adib Shishakly]] led a coup preempting a union with Iraq that was about to be declared.{{citation needed|date=November 2012}}
+
+[[File:Aleppo, tilel street.jpg|thumb|upright|Tilel street]]
+Soon after Shishakly's domination ended in 1954, a [[United Arab Republic|union]] with Egypt under [[Gamal Abdul Nasser]] was implemented in 1958. The union, however, collapsed only two years later when a junta of young Damascene officers carried out a separatist coup. Aleppo resisted the separatist coup, but eventually it had no choice but to recognize the new government.{{Citation needed|date=January 2015}}
+
+In March 1963 a coalition of [[Baathist]]s, [[Nasserist]]s, and Socialists launched a new coup whose declared objective was to restore the union with Egypt. However, the new government only restored the flag of the union. Soon thereafter disagreement between the Baathists and the Nasserists over the restoration of the union became a crisis, and the Baathists ousted the Nasserists from power. The Nasserists, most of whom were from the Aleppine middle class, responded with an insurgency in Aleppo in July 1963.
+
+Again, the Ba'ath government tried to absorb the dissent of the Syrian middle class (whose center of political activism was Aleppo) by putting to the front [[Amin al-Hafiz]], a Baathist military officer from Aleppo.{{Citation needed|date=January 2015}}
+
+President [[Hafez al-Assad]], who came to power in 1970, relied on support from the business class in Damascus.<ref>Seale, Patrick (1990) Asad: The Struggle for the Middle East</ref> This gave Damascus further advantage over Aleppo, and hence Damascus came to dominate the Syrian economy. The strict centralization of the Syrian state, the intentional direction of resources towards Damascus, and the hegemony Damascus enjoys over the Syrian economy made it increasingly hard for Aleppo to compete. Hence, Aleppo is no longer an economic or cultural capital of Syria as it once used to be.<ref>[http://www.cbssyr.org/economy%20statistics/Foreign%20Investment/2008/m-tab7.htm The centrelization of Economy in Syria]{{dead link|date=March 2012}}</ref>
+
+In 2006, Aleppo was named by the Islamic Educational Scientific and Cultural Organization (ISESCO) as the capital of Islamic culture.<ref>{{Wayback |date=20080705113151 |url=http://www.aleppo-cic.sy/ |title=ﺣﻠﺐ ﻋﺎﺻﻤﺔ ﺍﻟﺜﻘﺎﻓﺔ ﺍﻟﺈﺳﻠﺎﻣﻴﺔ-Aleppo the Capital of Islamic Culture }}. Retrieved 1 February 2010.</ref>
+
+===Syrian Civil War===
+{{Main|Syrian civil war|Battle of Aleppo (2012–present)}}
+[[File:Saadallah after the explosion.jpg|thumb|The scene at [[Saadallah Al-Jabiri Square]] after being targeted by the armed opposition in October 2012]]
+On 12 August 2011, some months after protests had begun elsewhere in Syria, anti-government protests were held in several districts of Aleppo, including the city's Sakhour district. At least two protesters had  been shot dead by security forces during a demonstration in Sakhour with tens of thousands attendees.<ref>{{cite news|author1=Martin Chulov in Beirut |author2=Nour Ali |url=http://www.guardian.co.uk/world/2011/aug/12/syria-violence-spreads-aleppo |title=Syria violence spreads to commercial capital Aleppo &#124; World news |work=The Guardian |date= 12 August 2011|accessdate=11 March 2012 |location=London}}</ref>
+
+Two months later a pro-government demonstration was held in [[Saadallah Al-Jabiri Square]]. According to the ''New York Times'', the 11 October 2011 rally in support of [[President of Syria|president]] [[Bashar al-Assad]] was held by large crowds,<ref name="nytimes">{{cite news| url=http://www.nytimes.com/2011/10/20/world/middleeast/assad-supporters-hold-rally-in-aleppo-syria.html | work=The New York Times | first=Nada | last=Bakri | title=Pro-Assad Rally Shows Syrian Government Can Still Command Support | date=19 October 2011}}</ref> while state and local media claimed more than 1.5 million attended and that it was one of the largest rallies ever held in Syria.<ref>{{cite web|url=http://www.dp-news.com/en/detail.aspx?articleid=100538 |title=Aleppo Mass Rally &#124; DayPress |publisher=Dp-news.com |date=20 October 2011 |accessdate=11 March 2012}}</ref>
+
+In early 2012 security forces began to be targeted with bombings. On [[2012 Aleppo bombings|10 February 2012]], suicide [[car bombs]] exploded outside two security compounds – the Military Intelligence Directorate's local headquarters, and a Security Preservation forces barracks<ref name="herald-sun">{{cite news|title=Syria says bombers kill 28 in Aleppo|url=http://www.heraldsun.com.au/news/breaking-news/syria-says-bombers-kill-28-in-aleppo/story-e6frf7jx-1226268384138|accessdate=11 February 2012|newspaper=[[The Herald-Sun]]|date=11 February 2012|author=Aji, Albert|author2=Keath, Lee|agency=Associated Press}}</ref> – reportedly killing 28 (four civilians, thirteen military personnel and eleven security personnel<ref name="herald-sun"/>) and wounding 235.<ref name="BBC">{{cite news|title=Syria unrest: Aleppo bomb attacks 'kill 28' | url=http://www.bbc.co.uk/news/world-middle-east-16978803 |accessdate=11 February 2012 |newspaper=BBC |date=10 February 2012 |author=Staff}}</ref> On 18 March 2012, another car bomb blast in a residential neighbourhood reportedly killed two security personnel and one female civilian, and wounded 30 residents.<ref>{{cite web|url=http://www.emirates247.com/news/world/deadly-car-bombing-hits-syria-s-aleppo-2012-03-18-1.449068 |title=Deadly car bomb hits Alepp |publisher=Emirates247.com |date=18 March 2012 |accessdate=29 August 2013}}</ref><ref>{{cite news|author=The Associated Press |url=http://www.cbc.ca/news/world/story/2012/03/18/syria-violence-sunday.html |title=CBC news:Blast in Aleppo |publisher=Cbc.ca |date=18 March 2012 |accessdate=29 August 2013}}</ref>
+
+In late July 2012, the conflict reached Aleppo in earnest when fighters from the surrounding countryside mounted their first offensive there,<ref name=mogelson>[http://www.newyorker.com/reporting/2013/04/29/130429fa_fact_mogelson The River Martyrs]| ''New Yorker''|Luke Mogelson | p.42| 29 April 2013</ref> apparently trying to capitalise on momentum gained during the Damascus assault.<ref>{{cite news|author1=Martin Chulov |author2=Luke Harding |url=http://www.guardian.co.uk/world/2012/jul/29/syria-unrest-assad-forces-aleppo |title=Syria unrest: Assad forces continue onslaught in Aleppo |work=The Guardian |date= 29 July 2001|accessdate=2 August 2012 |location=London}}</ref> Since then some of the civil war's "most devastating bombing and fiercest fighting has taken place" in Aleppo, often in residential areas.<ref name=mogelson/> In the summer, autumn and winter of 2012 house-to-house fighting between rebels and government forces has continued, and as of spring 2013 the Syrian army has entrenched itself in the western part of Aleppo (government forces were operating from a military base in the southern part of the city) and the rebels in the eastern part with a [[no man's land]] between them.<ref name=mogelson/> One estimate of casualties by an international humanitarian organizations is 13,500 killed – 1500 under 5 years of age – and 23,000 injured.<ref name=mogelson/> Local police stations in the city were a focus of conflict.<ref name=NYT73112>{{cite news|title=Rebels in Syria's Largest City Said to Seize 2 Police Stations|url=http://www.nytimes.com/2012/08/01/world/middleeast/rebels-in-syrias-aleppo-claim-to-seize-important-police-stations.html|accessdate=1 August 2012|newspaper=The New York Times|date=31 July 2012|author=Damien Cave}}</ref><ref name=NYT8312>{{cite web|title=Brutal Treatment of Pro-Assad Captives|url=https://www.nytimes.com/slideshow/2012/08/02/world/middleeast/20120812-aleppo.html|work=The New York Times|accessdate=3 August 2012|format=Slide show|date=1–3 August 2012}}</ref>
+
+The [[Syrian opposition|armed opposition]] has reportedly rounded up and executed prominent supporters of Bashar al-Assad and pro-[[Arab Socialist Ba'ath Party – Syria Region|Ba'ath]] activists.<ref>{{cite web|url=http://www.allvoices.com/contributed-news/12705128-video-shows-rebels-executing-assad-supporters-in-aleppo |title=Executing Assad supporters in Aleppo |publisher=Allvoices.com |date= |accessdate=29 August 2013}}</ref> A series of car bomb attacks<ref>{{cite news|url=http://www.huffingtonpost.com/2012/09/10/aleppo-car-bomb-blast_n_1870248.html |title=Aleppo car bomb |publisher=Huffingtonpost.com |date= 10 September 2012|accessdate=29 August 2013}}</ref><ref>[http://www.dailystar.com.lb/News/Middle-East/2012/Sep-10/187346-car-bomb-kills-27-wounds-64-in-aleppo.ashx#axzz26u3GCeBc Syria raises death toll in Aleppo blast to 30]. ''Daily Star'', 10 September 2012</ref><ref>{{cite web|url=http://rt.com/news/bomb-assad-aleppo-rebels-736/ |title=Bomb targets Assad forces, 27 killed (PHOTOS) – RT News |publisher=Rt.com |date=10 September 2012 |accessdate=29 August 2013}}</ref> and extensive looting<ref name=lost>{{cite web|last=Dark|first=Edward|title=How We Lost The Syrian Revolution|url=http://www.al-monitor.com/pulse/originals/2013/05/syria-revolution-aleppo-assad.html|work=28 May 2013|publisher=Al Monitor|accessdate=29 May 2013}}</ref> have been attributed to opposition forces as well. Contested and rebel held parts of the city have been subject to "continuous jet, mortar, and artillery bombardment" by pro-government forces.<ref name=mogelson/> Analysis of satellite imagery has shown the destruction as "severely lopsided", with opposition-controlled neighbourhoods overwhelmingly hit. "Before and after" photographs from Aleppo neighbourhoods of Ard al-Hamra, Tariq al-Bab, and Jabal Badro have shown the destruction where missiles have slammed into residential areas.<ref>{{cite news|author=Neela Debnath |url=http://www.independent.co.uk/news/world/middle-east/interactive-infographic-the-destruction-of-aleppo-8750639.html |title=Interactive infographic: The destruction of Aleppo – Middle East – World |work=The Independent |date=7 August 2013 |accessdate=29 August 2013 |location=London}}</ref>
+
+As a result of the severe battle, many sections in [[Al-Madina Souq]] (part of the [[Old City of Aleppo]] [[World Heritage Site]]), including parts of the [[Great Mosque of Aleppo]] and other medieval buildings in the ancient city, were destroyed and ruined or burnt in late summer 2012 as the armed groups of the [[Free Syrian Army]] and the [[Syrian Arab Army]] [[Battle of Aleppo (2012)|fought]] for control of the city.<ref>{{cite web|url=http://www.kyivpost.com/content/world/fighting-in-aleppo-starts-fire-in-medieval-souks-313673.html |title=Fighting in Aleppo starts fire in medieval souqs |publisher=Kyivpost.com |date= |accessdate=29 August 2013}}</ref><ref>{{cite web|publisher=UNESCO World Heritage Centre |url=http://whc.unesco.org/en/news/940 |title=UNESCO Director-General deplores destruction of ancient Aleppo markets, a World Heritage site |date= |accessdate=29 August 2013}}</ref>
+
+According to the Syrian Foreign Ministry, some 1,000 factories in Aleppo have been plundered, and their stolen goods transferred to Turkey with the full knowledge and facilitation of the Turkish government.<ref>{{cite web|url=http://www.dailystar.com.lb/News/Middle-East/2013/Jan-10/201697-syria-says-turkey-involved-in-looting-northern-factories.ashx#axzz2O7XdaZUm |title=Syria says Turkey involved in looting northern factories &#124; News , Middle East |publisher=The Daily Star |date= |accessdate=25 March 2013}}</ref>
+
+As of November 2013, ''[[The Guardian]]'' journalist [[Francesca Borri]] reports [[Islamist]] fighters dominating rebel areas in Aleppo, and claimed they were focusing on enforcing [[sharia]] law and fighting one another rather than the government. Masquerading as a Syrian traveling through the city, Borri reports widespread destruction, and evidence of malnutrition and disease.<ref name=Borri>{{cite journal|last=Borri|first=Francesca|title=In Aleppo I only survive by looking Syrian|journal=The Guardian|date=12 November 2013|url=http://www.theguardian.com/commentisfree/2013/nov/12/only-survive-by-looking-syrian-hunted-by-islamists|accessdate=13 November 2013}}</ref>
+
+In February 2014, the opposition groups of the Islamic Front claimed responsibility for destroying a series of major historic buildings in the old city including the justice palace, the Carlton Citadel hotel which was being used as an army base,<ref>{{cite news|url=http://www.dailystar.com.lb/News/Middle-East/2014/Dec-30/282656-tunnel-blast-kills-wounds-troops-in-syrias-aleppo-activists.ashx | title= Tunnel blast kills, wounds troops in Syria's Aleppo: activists | publisher= The Daily Star| agency= Agence France Presse | date= December 30, 2014 |accessdate=December 31, 2014}}</ref> the old building of the city council, the [[Grand Serail of Aleppo]], [[Khusruwiyah Mosque]], Khan al-Shouneh and many other souqs and khans.<ref>{{cite web|url=https://www.aksalser.com/?page=view_articles&id=cdff95d4f3ae930a739f3837b1620b9b|title=حلب : حوالي 50 قتيلاً من قوات النظام بعد تفجير الثوار لمبنى القصر العدلي في المدينة القديمة ( فيديو ) - عكس السير دوت كوم|work=aksalser.com}}</ref><ref>{{cite web|url=http://www.all4syria.info/Archive/131356|title=تفجير فندق الكارلتون بحلب، وقطع الإمداد عن قوات النظام في قلعتها|work=كلنا شركاء في الوطن}}</ref><ref>{{cite web|url=http://www.slabnews.com/article/61694|title=SlabNews.com - فيديو - تفجير مبنى العلم في حلب القديمة|work=SlabNews.com - سلاب نيوز}}</ref>
+
+==Geography and climate==
+[[File:تلال جبل حلب.JPG|thumb|left|The nearby [[Kurd Mountains]] at the northwest of Aleppo]]
+[[File:Downtown Aleppo, Queik river at night.jpg|thumb|[[Queiq River]]]]
+Aleppo lies about {{convert|120|km|0|abbr=on}} inland from the [[Mediterranean Sea]], on a [[Aleppo plateau|plateau]] {{convert|380|m|abbr=on}} above sea level, {{convert|45|km|abbr=on}} east of the Syrian-Turkish border [[Bab al-Hawa Border Crossing|checkpoint of Bab al-Hawa]]. The city is surrounded by farmlands from the north and the west, widely cultivated with olive and [[pistachio]] trees. To the east, Aleppo approaches the dry areas of the [[Syrian Desert]].
+
+The city was originally founded a few kilometres south of the location of the current old city, on the right bank of [[Queiq River]] which arises from the [[Aintab plateau]] in the north and runs through Aleppo southward to the fertile country of [[Qinnasrin]]. The old city of Aleppo lies on the left bank of the Queiq. It was surrounded by a circle of eight hills surrounding a prominent central hill on which the castle (originally a temple dating to the 2nd millennium BC) was erected. The radius of the circle is about {{convert|10|km|abbr=on}}. The hills are Tell as-Sawda, Tell ʕāysha, Tell as-Sett, Tell al-Yāsmīn (Al-ʕaqaba), Tell al-Ansāri (Yārūqiyya), ʕan at-Tall, al-Jallūm, Baḥsīta.<ref name="Duden6">{{cite book | editor = Alexander Russell | title = The Natural History of Aleppo | edition = 1st | year = 1856 | publisher = Unknown | location = London | isbn = | page = 266}}</ref> The old city was enclosed within an ancient wall that was last rebuilt by the [[Mamluk]]s. The wall has since disappeared. It had nine gates and was surrounded by a broad deep ditch.<ref name="Duden6"/>
+
+Occupying an area of more than {{convert|190|km²|abbr=on}}, Aleppo is one of the fastest growing cities in the Middle East. According to the new major plan of the city adopted in 2001, it is envisaged to increase the total area of Aleppo up to {{convert|420|km²|abbr=on}} by the end of 2015.<ref name="Syr-news1">Syria News [http://www.syria-news.com/readnews.php?sy_seq=99523 statement by Syrian Minister of Local Administration, Syria (Arabic, August 2009)]</ref><ref name="Aleppo plan"/>
+
+Aleppo has a [[cold semi-arid climate|cool steppe climate]] ([[Köppen climate classification|Köppen]]: BSk). The mountain series that run along the Mediterranean coast, namely [[Mount Alawites]] and [[Mount Amanus]], largely block the effects of the Mediterranean on climate ([[rain shadow effect]]). The average temperature is {{convert|18|to|20|°C|°F}}. The average precipitation is {{convert|395|mm|2|abbr=on}}. 80% of precipitation occurs between October and March. Snow is rare. Average humidity is 58%.<ref>Qishri & Samsoum (2009) ''Aleppo Governorate, a Study of Geographic Climatology'' (Arabic) (numbers are from the Syrian Meteorological General Directorate)</ref>
+
+{{Weather box|location = Aleppo (1946-2004)
+|metric first = Y
+|single line = Y
+|Jan record high C = 17
+|Feb record high C = 21
+|Mar record high C = 31
+|Apr record high C = 34
+|May record high C = 41
+|Jun record high C = 47
+|Jul record high C = 46
+|Aug record high C = 43
+|Sep record high C = 41
+|Oct record high C = 37
+|Nov record high C = 30
+|Dec record high C = 18
+|year record high C= 47
+
+|Jan high C = 10.3
+|Feb high C = 12.6
+|Mar high C = 16.9
+|Apr high C = 22.6
+|May high C = 28.7
+|Jun high C = 33.6
+|Jul high C = 36.2
+|Aug high C = 36.1
+|Sep high C = 33.2
+|Oct high C = 27.0
+|Nov high C = 16.8
+|Dec high C = 11.9
+
+|Jan low C =  1.7
+|Feb low C =  2.4
+|Mar low C =  5.0
+|Apr low C =  8.9
+|May low C = 13.5
+|Jun low C = 18.1
+|Jul low C = 20.9
+|Aug low C = 20.9
+|Sep low C = 17.3
+|Oct low C = 12.4
+|Nov low C =  6.4
+|Dec low C =  3.3
+
+|year high C= 23.8 |year low C= 10.9
+|year high F =74.9 |year low F =51.6
+
+|Jan record low C = −13
+|Feb record low C = −10
+|Mar record low C = −7
+|Apr record low C = −2
+|May record low C = 0
+|Jun record low C = 9
+|Jul record low C = 16
+|Aug record low C = 15
+|Sep record low C = 7
+|Oct record low C = 5
+|Nov record low C = −3
+|Dec record low C = −8
+|year record low C= −13
+
+|Jan precipitation mm = 60.3
+|Feb precipitation mm = 52.0
+|Mar precipitation mm = 46.1
+|Apr precipitation mm = 33.6
+|May precipitation mm = 17.9
+|Jun precipitation mm =  2.3
+|Jul precipitation mm =  0.1
+|Aug precipitation mm =  0.3
+|Sep precipitation mm =  2.2
+|Oct precipitation mm = 19.2
+|Nov precipitation mm = 35.2
+|Dec precipitation mm = 59.6
+|year precipitation mm=
+|unit precipitation days = 0.1 mm
+
+|Jan precipitation days= 13
+|Feb precipitation days= 14
+|Mar precipitation days= 10
+|Apr precipitation days=  7
+|May precipitation days=  4
+|Jun precipitation days=  1
+|Jul precipitation days=  0
+|Aug precipitation days=  0
+|Sep precipitation days=  1
+|Oct precipitation days=  4
+|Nov precipitation days=  7
+|Dec precipitation days= 11
+|year precipitation days=
+
+|Jan sun = 120.9
+|Feb sun = 140.0
+|Mar sun = 198.4
+|Apr sun = 243.0
+|May sun = 319.3
+|Jun sun = 366.0
+|Jul sun = 387.5
+|Aug sun = 365.8
+|Sep sun = 303.0
+|Oct sun = 244.9
+|Nov sun = 186.0
+|Dec sun = 127.1
+|year sun=3001.9
+
+|source 1 = [[World Meteorological Organization]],<ref name = WMO>{{cite web
+| url=http://worldweather.wmo.int/099/c01261.htm
+| title= World Weather Information Service – Aleppo
+| publisher= World Meteorological Organization
+| accessdate=10 November 2012}}</ref> [[Hong Kong Observatory]] (sun 1961–1990)<ref name = HKO>{{cite web
+| url=http://www.weather.gov.hk/wxinfo/climat/world/eng/europe/gr_tu/aleppo_e.htm
+| title= Climatological Information for Aleppo, Syria
+| publisher= Hong Kong Observatory
+| accessdate=10 November 2012}}</ref>
+|source 2 = BBC Weather (record highs and lows)<ref name="weather1">{{cite web
+|url = http://www.bbc.co.uk/weather/170063
+|title =Average Conditions Aleppo, Syria
+|accessdate =10 November 2012
+|publisher =BBC Weather }}</ref>
+|date=November 2010
+}}
+
+==Demographics==
+
+===History===
+{{Historical populations
+|type =
+|footnote = Source<ref name="Population facts"/>
+|1883 |99179
+|1901 |108143
+|1922 |156748
+|1925 |210000
+|1934 |249921
+|1944 |325000
+|1950 |362500
+|1960 |425467
+|1965 |500000
+|1983 |639000
+|1990 |1216000
+|1995 |1500000
+|2000 |1937858
+|2004 |2132100
+|2005 |2301570
+}}
+[[File:Alepp0fashion.jpg|thumb|left|upright|A [[Jewish]] woman and a couple of [[Bedouins]] in Aleppo, 1873]]
+
+According to the Aleppine historian Sheikh ''Kamel Al-Ghazzi'' (1853–1933), the population of Aleppo was around 400,000 before the disastrous earthquake of 1822. Followed by cholera and plague attacks in 1823 and 1827 respectively, the population of the city declined to 110,000 by the end of the 19th century.<ref>Saint Terezia Church Aleppo [http://www.terezia.org/section.php?id=1823 Christians in Aleppo at the end of the Ottoman Empire]</ref> In 1901, the total population of Aleppo was 108,143 of which Muslims were 76,329 (70.58%), Christians &ndash; mostly Catholics &ndash; 24,508 (22.66%) and Jews 7,306 (6.76%).<ref>Alepppo in One Hundred Years 1850– 1950, vol.2-page 3, 1994 Aleppo. Authors: Mohammad Fuad Ayntabi and Najwa Othman</ref>
+
+Aleppo's large Christian population swelled with the influx of [[Armenians in Syria|Armenian]] and [[Assyrians in Syria|Assyrian-Syriac]] Christian refugees during the early 20th-century and after the [[Armenian Genocide]] and [[Assyrian Genocide]] of 1915. After the arrival of the first groups of [[Armenians in Syria|Armenian]] refugees (1915–1922) the population of Aleppo in 1922 counted 156,748 of which Muslims were 97,600 (62.26%), native Christians -mostly Catholics- 22,117 (14.11%), Jews 6,580 (4.20%), Europeans 2,652 (1.70%), Armenian refugees 20,007 (12.76%) and others 7,792 (4.97%).<ref>Alepppo in One Hundred Years 1850–1950, vol.3-page 26, 1994 Aleppo. Authors: Mohammad Fuad Ayntabi and Najwa Othman</ref><ref>The Golden River in the History of Aleppo, ({{lang-ar|ﻧﻬﺮ ﺍﻟﺬﻫﺐ ﻓﻲ ﺗﺎﺭﻳﺦ ﺣﻠﺐ}}), vol.1 (1922) page 256, published in 1991, Aleppo. Author: Sheikh ''Kamel Al-Ghazzi''</ref>
+
+The second period of Armenian flow towards Aleppo marked with the withdrawal of the French troops from [[Cilicia]] in 1923.<ref>The Golden River in the History of Aleppo ({{lang-ar|ﻧﻬﺮ ﺍﻟﺬﻫﺐ ﻓﻲ ﺗﺎﺭﻳﺦ ﺣﻠﺐ}}), vol.3 (1925) pages 449–450, published in 1991, Aleppo. Author: Sheikh ''Kamel Al-Ghazzi''</ref> After the arrival of more than 40,000 Armenian refugees between 1923 and 1925, the population of the city reached up to 210,000 by the end of 1925, where Armenians formed more than 25% of it.<ref>{{cite book | last = Hovannisian | first = Richard G. | authorlink = Richard G. Hovannisian | title = The Armenian People From Ancient to Modern Times, Volume II: Foreign Dominion to Statehood: The Fifteenth Century to the Twentieth Century | publisher = Palgrave Macmillan | location = New York | year =2004 | isbn = 1-4039-6422-X | page =425}}</ref>
+
+According to the historical data presented by ''Al-Ghazzi'', the vast majority of the Aleppine Christians were Catholics until the latter days of the Ottoman rule. The growth of the [[Oriental Orthodox]] Christians is related with the arrival of the [[Armenian genocide|Armenian]] and Assyrian genocide-survivors from Cilicia and Southern Turkey, while on the other hand, large numbers of [[Eastern Orthodox Church of Antioch|Eastern Orthodox Christians]] from the [[Hatay Province|Sanjak of Alexandretta]] arrived in Aleppo, after the annexation of the Sanjak in 1939 in favour of Turkey.
+[[File:Umayyad Mosque, Aleppo, Syria (5077865830).jpg|thumb|Syrian children in Aleppo]]
+
+In 1944, Aleppo's population was around 325,000, with 112,110 (34.5%) Christians among which Armenians have counted 60,200. Armenians formed more than half of the Christian community in Aleppo until 1947, when many groups of them left for [[Soviet Armenia]] within the frames of the ''Armenian Repatriation Process (1946–1967)''.
+
+===Current status===
+[[File:Surp Asdvadzadzin10.jpg|thumb|left|[[Church of the Holy Mother of God (Aleppo)|Armenian Apostolic church of the Holy Mother of God]]]]
+[[File:Rahman mosque.jpg|thumb|[[Ar-Rahman Mosque]]]]
+Aleppo is the most populous city in Syria, with a population of 2,132,100 as indicated in the latest official census in 2004 by the [[Central Bureau of Statistics (Syria)|Syria Central Bureau of Statistics]] (CBS). Its subdistrict (''[[nahiya]]'') consists of 23 localities with a collective population of 2,181,061 in 2004.<ref name="CBS">{{Wayback |date=20120520173518 |url=http://www.cbssyr.org/new%20web%20site/General_census/census_2004/NH/TAB02-1-2004.htm |title=General Census of Population and Housing 2004 }}. [[Central Bureau of Statistics (Syria)|Syria Central Bureau of Statistics]] (CBS). Aleppo Governorate. Archived. {{ar icon}}</ref> According to the official estimate announced by the Aleppo City Council, the population of the city was 2,301,570 by the end of 2005. As a result of the [[Syrian Civil War]], however, the city eastern half's population under the control of the opposition had plummeted to an estimated 40,000 by 2015.<ref>{{cite web|url=http://www.theguardian.com/world/2015/mar/12/worst-place-in-world-aleppo-ruins-four-years-syria-war|title=The worst place in the world? Aleppo in ruins after four years of Syria war |publisher=theguardian.com |date=12 March 2015 |accessdate=22 November 2015}}</ref>
+
+More than 80% of Aleppo's inhabitants are [[Sunni]] [[Muslims]]. They are mainly [[Syrian people|Arabs]] followed by [[Syrian Turkmen|Turkmens]] and [[Kurds]]. Other Muslim groups include small numbers of ethnic  [[Circassians]], [[Chechens]], [[Albanians]], [[Bosniaks]], [[Greeks]] and [[Bulgarians]].
+
+As one of the largest Christian communities in the Middle East, Aleppo is home to many [[Oriental Orthodox]] Christian congregations, mainly [[Armenians in Syria|Armenians]] and [[Assyrians in Syria|Assyrians/Syriacs]]. Historically, the city is the main centre of French Catholic Missionaries in Syria.<ref>{{cite web|url=http://www.catholicnews.sg/index.php?option=com_content&view=article&id=2746&Itemid=120 |title=Catholic Doctor "Flies High" with The Flying Hospital to Treat the Less Fortunate in Aleppo, Syria |publisher=Catholicnews.sg |date=23 March 2009 |accessdate=29 August 2013}}</ref> Nowadays, more than 250,000 Christians live in the city representing about 12% of the total population, though the flight of refugees from the city as a result of the Syrian Civil War has led to the Christian population still in Aleppo falling to only 100,000, of whom half are ethnic [[Armenians in Syria|Armenians]].<ref>{{cite web|url=http://www.aina.org/news/20141202174517.htm|title=Christians Hold Out in Syria's Aleppo Despite Jihadist Threat|work=aina.org}}</ref> A significant number of [[Assyrians in Syria|Assyrians]] in Aleppo speak [[Aramaic]] and hail from the city of [[Urfa]] in Turkey. The large community of [[Oriental Orthodox]] Christians belongs to the [[Armenian Apostolic Church|Armenian Apostolic]] and [[Syriac Orthodox Church|Syriac Orthodox]] churches. Also, there are members of the [[Eastern Orthodox Church of Antioch]]. There is also a strong presence of [[Eastern Catholic]] Christians in the city including [[Melkite Catholic Church|Melkite Catholics]], [[Maronite Church|Maronite Catholics]], [[Chaldean Catholic Church|Chaldean Catholics]], [[Syriac Catholic Church|Syriac Catholics]] and also there are some who follow the [[Latin rite]]. [[Evangelical]] Christians of different denominations are a minority in the city. Several areas have a Christian and Armenian majority, such as the old Christian quarter of [[Al-Jdayde|Jdeydeh]]. Currently, there are 45 operating churches in the city, possessed by the above-mentioned Christian congregations.
+
+The Arabic-speaking population of Aleppo uses the [[North Syrian Arabic|North Syrian dialect]] of the [[Levantine Arabic]].
+
+===Jews in Aleppo===
+[[File:Synagogue Aleppo.jpg|left|thumb|The Central synagogue in 2011]]
+The city was home to a significant [[Jewish]] population from ancient times. The [[Central Synagogue of Aleppo|Great Synagogue]], built in the 5th century, housed the [[Aleppo Codex]].<ref>[http://www.bbc.co.uk/news/world-middle-east-18957096 Profile: Aleppo, Syria's second city]. [[BBC News]]. 24 July 2012.</ref> The Jews of Aleppo were known for their religious commitment, Rabbinic leadership, and their liturgy, consisting of [[Pizmonim]] and [[Baqashot]]. After the [[Spanish Inquisition]], the city of Aleppo received many Sephardic Jewish immigrants, who eventually joined with the native Aleppo Jewish community. Peaceful relations existed between the Jews and surrounding population.{{citation needed|date=July 2012}} In the early 20th-century, the town's Jews lived mainly in Al-Jamiliyah, Bab Al-Faraj and the neighbourhoods around the Great Synagogue. Unrest in Palestine in the years preceding the establishment of Israel in 1948 resulted in growing hostility towards Jews living in Arab countries, culminating in the [[Jewish exodus from Arab lands]]. In December 1947, after the UN decided the [[partition of Palestine]], an Arab mob<ref>Howard Sachar, A History of Israel: From the Rise of Zionism to Our Time., (NY: Alfred A. Knopf, 1979), p. 400; Maurice Roumani, The Case of the Jews from Arab Countries: A Neglected Issue, (Tel Aviv: World Organization of Jews from Arab Countries, 1977), p. 31; Norman Stillman, The Jews of Arab Lands in Modern Times, (NY: Jewish Publication Society, 1991), p. 146</ref> [[Aleppo pogrom|attacked the Jewish quarter]]. Homes, schools and shops were badly damaged.<ref name="Human rights in Syria">James A. Paul. [https://books.google.com/books?id=N-xjxWYWnlwC&pg=PA91&dq=aleppo+synagogues+1947&hl=en&ei=xH12TKXaDcmXOIW_nNMG&sa=X&oi=book_result&ct=result&resnum=5&ved=0CEUQ6AEwBDgK#v=onepage&q=aleppo%20synagogues%201947&f=false Human rights in Syria], Middle East Watch. pg. 91.</ref> Soon after, many of the town's remaining 6,000 Jews emigrated.<ref name="books.google.co.uk">[https://books.google.com/books?id=6KgyAAAAMAAJ&q=%22In+this+pogrom+150+houses,+50+shops+and+5+Jewish%22&dq=%22In+this+pogrom+150+houses,+50+shops+and+5+Jewish%22&hl=en&ei=3np2TN_IBIHeOK3v0MAG&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC8Q6AEwAA American Jewish year book, Volume 50] and [https://books.google.com/books?id=6KgyAAAAMAAJ&q=%22Even+the+local+French+school+was%22&dq=%22Even+the+local+French+school+was%22&hl=en&ei=83p2TPnjKM2sOLiNka8G&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDQQ6AEwAA American Jewish year book, Volume 50], American Jewish Committee, 1949. pg. 441.</ref> In 1968, there were an estimated 700 Jews still remaining in Aleppo.<ref>Avi Beker. [https://books.google.com/books?ei=nzx2TMTsPI2jOLXa5aMG&ct=result&id=FP_38S-75eQC&dq=%22closed+down%2C+and+it+remains+locked+to+the+present+day.%22&q=Aleppo Jewish Communities of the World], Lerner Publishing Group, 1998. pg. 208. ISBN 0-8225-9822-1.</ref>
+
+The houses and other properties of the Jewish families which were not sold after the migration, remain uninhabited under the protection of the Syrian Government {{Citation needed|date=January 2012}}. Most of these properties are in Al-Jamiliyah and Bab Al-Faraj areas, and the neighbourhoods around the [[Central Synagogue of Aleppo]]. In 1992, the Syrian government lifted the travel ban on its 4,500 Jewish citizens.<ref>{{cite news|url=http://www.nytimes.com/1992/04/28/world/syria-giving-jews-freedom-to-leave.html?pagewanted=all&src=pm |title=The New York Times:Syria Giving Jews Freedom To Leave |work=The New York Times |date=28 April 1992 |accessdate=11 March 2012 |first=Thomas L. |last=Friedman}}</ref> Most traveled to the USA, where a sizable number of [[Syrian Jews]] currently live in [[Brooklyn]], New York.
+
+==Culture==
+
+===Museums===
+[[File:Aleppo citadel Museum laz.jpg|thumb|[[Aleppo Citadel Museum]]]]
+*[[National Museum of Aleppo]].
+*Museum of the popular traditions known as the ''Aleppine House'' at ''[[commons:Category:Ajikbash House|Beit Achiqbash]]'' in [[Al-Jdayde|Jdeydeh]].
+*[[Aleppo Citadel Museum]].
+*Museum of medicine and science at Bimaristan Arghun al-Kamili.
+*Aleppo Memory Museum at ''[[Beit Ghazaleh]]'' in [[Al-Jdayde|Jdeydeh]].
+*''Zarehian Treasury'' of the Armenian Apostolic Church at the old Armenian church of the Holy Mother of God, [[Al-Jdayde|Jdeydeh]].
+
+===Art===
+[[File:Aleppomusic.jpg|thumb|Musicians from Aleppo, 18th century]]
+Aleppo is considered one of the main centres of Arabic traditional and classic music with the famous Aleppine ''[[Muwashshah]]s'', ''[[Qudud Halabiya]]'' and ''[[Arabic maqam|Maqams]]'' (religious, secular and folk poetic-musical genres). Aleppines in general are fond of Arab classical music, the ''Tarab'', and it is not a surprise that many artists from Aleppo are considered pioneers among the Arabs in classic and traditional music. The most prominent figures in this field are Sabri Mdallal, [[Sabah Fakhri]], [[Shadi Jamil]], [[Abed Azrie]] and [[Nour Mhanna]]. Many iconic artists of the Arab music like [[Sayed Darwish]] and [[Mohammed Abdel Wahab]] were visiting Aleppo to recognize the legacy of Aleppine art and learn from its cultural heritage.
+
+Aleppo is also known for its knowledgeable and cultivated listeners, known as ''sammi'a'' or "connoisseur listeners".<ref>{{cite book|last=Racy|first=A.J.|title=Making Music in the Arab World: The Culture and Artistry of Tarab|year=2003|publisher=Cambridge University Press|location=Cambridge, UK|isbn=0-521-31685-5|page=248}}</ref> Aleppine musicians often claim that no major Arab artist achieved fame without first earning the approval of the Aleppine ''sammi'a''.<ref>{{cite book|last=Shannon|first=Johnathan Holt|title=Among the Jasmine Trees: Music and Modernity in Contemporary Syria|year=2006|publisher=Wesleyan University Press|location=Middletown, CT|isbn=978-0-8195-6944-8}}</ref>
+
+Aleppo hosts many music shows and festivals every year at the citadel amphitheatre, such as the "Syrian Song Festival", the "Silk Road Festival" and "Khan al-Harir Festival".
+
+===Cuisine===
+[[File:Kebab khashkhash.jpg|thumb|Kebab khashkhash from Aleppo]]
+[[Syrian cuisine]] in general, and especially Aleppine cuisine, has a very wide selection of dishes. Being surrounded by olive, nut and fruit orchards, Aleppo is famous for a love of eating, as the cuisine is the product of fertile land and location along the [[Silk Road]]. The International Academy of Gastronomy in France awarded Aleppo its culinary prize in 2007.<ref>{{cite web |title = NPR web: Food Lovers Discover The Joys Of Aleppo |url = http://www.npr.org/templates/story/story.php?storyId=122058669}}</ref> But in fact, Aleppo was a food capital long before Paris,{{Citation needed|date=June 2015}} because of its diverse communities of [[Arabs]], [[Kurds]], [[Armenians]], [[Circassians]],sizable Arab Christian population and [[Turcomans]]. All of those groups contributed food traditions, since Aleppo was part of the [[Ottoman Empire]].{{clarify|date=June 2015}}
+
+The city has a vast selection of different types of dishes, such as [[kebab]], [[kibbeh]], [[dolma]], [[hummus]], ful halabi, [[za'atar]] halabi, etc. Ful halabi is a typical Aleppine breakfast meal: fava bean soup with a splash of olive oil, lemon juice, garlic and Aleppo's red peppers. The za'atar of Aleppo (thyme) is a kind of oregano which is very popular in the regional cuisines.
+
+The kibbeh is one of the favourite foods of the locals, and the Aleppines have created more than 17 types of kibbeh dishes, which is considered a form of art for them. These include ''kibbeh'' prepared with [[sumac]] (''kәbbe sәmmāʔiyye''), [[yogurt]] (''kәbbe labaniyye''), [[quince]] (''kәbbe safarjaliyye''), lemon juice (''kәbbe ḥāmḍa''), [[pomegranate]] sauce and [[cherry]] sauce. Other varieties include the "disk" ''kibbeh'' (''kәbbe ʔrāṣ''), the "plate" ''kibbeh'' (''kәbbe bәṣfīḥa'' or ''kәbbe bṣēniyye'') and the raw ''kibbeh'' (''kәbbe nayye''). Kebab Halabi -influenced by Armenian and Turkish tastes- has around 26 variants<ref>{{cite web|url=http://www.kuna.net.kw/ArticlePrintPage.aspx?id=1591518&language=ar |title=ﻛﻮﻧﺎ :: ﺍﻟﻤﻄﺒﺦ ﺍﻟﺤﻠﺒﻲ ﻳﻨﻔﺮﺩ ﺑﺘﻨﻮﻉ ﺍﻃﻌﻤﺘﻪ ﻭﻃﻴﺐ ﻧﻜﺘﻪ 11/01/2006 |publisher=Kuna.net.kw |date= |accessdate=29 August 2013}}</ref> including: ''kebab'' prepared with cherry (''kebab karaz''), eggplant (''kebab banjan''), [[chili pepper]] with [[parsley]] and [[pine nut]] (''kebab khashkhash''), [[truffle]] (''kebab kamayeh''), [[tomato paste]] (''kebab hindi''), cheese and [[mushroom]] (''kebab ma'juʔa''), etc.<ref>[http://www.isalep.com/cuisine-aleppo/?p=1362 Aleppo cuisine]</ref> The favourite drink is [[Arak (distilled beverage)|Arak]], which is usually consumed along with [[meze]], Aleppine kebabs and kibbehs. [[Beer in Syria|Al-Shark beer]] -a product of Aleppo- is also among the favourite drinks. Local wines and brandies are consumed as well.
+
+Aleppo is the origin of different types of sweets and pastries. The Aleppine sweets, such as mabrumeh, siwar es-sett, balloriyyeh, etc., are characterized by containing high rates of ghee butter and sugar. Other sweets include mamuniyeh, shuaibiyyat, mushabbak, zilebiyeh, ghazel al-banat etc. Most pastries contain the renowned Aleppine pistachios and other types of nuts.
+
+===Historical sites===
+{{Main|Ancient City of Aleppo}}
+[[File:Citadel of Aleppo.jpg|thumb|left|300px|[[Citadel of Aleppo|Aleppo Citadel]]]]
+[[File:Aleppo throne hall.jpg|thumb|Throne hall of the citadel]]
+Aleppo is characterized with mixed architectural styles, having been ruled, among others, by Romans, Byzantines, Seljuqs, Mamluks and Ottomans.<ref>{{cite news|last=Yacoub |first=Khaled |url=http://www.reuters.com/article/lifestyleMolt/idUSTRE66F1ED20100716 |title=Travel Postcard: 48 hours in Aleppo, Syria |agency=Reuters |date= 16 July 2010|accessdate=11 March 2012}}</ref>
+
+Various types of 13th and 14th centuries constructions, such as caravanserais, caeserias, Quranic schools, hammams and religious buildings are found in the [[Old City of Aleppo|old city]]. The quarters of the [[Al-Jdayde|Jdeydeh]] district are home to numerous 16th and 17th-century houses of the Aleppine bourgeoisie, featuring stone engravings. [[Baroque architecture]] of the 19th and early 20th centuries is common in the Azizyeh quarter, including the ''Villa Rose''. The new ash-Shahbaa quarter is a mixture of several styles, such as [[Neo-classical architecture|Neo-classic]], [[Norman Architecture|Norman]], Oriental and even [[Chinese architecture]].<ref>{{cite web|url=http://www.middleeast.com/aleppo.htm |title=Aleppo |publisher=Middleeast.com |accessdate=11 March 2012}}</ref>
+
+Since the old city is characterized with its large mansions, narrow alleys and covered souqs, the modern city's architecture has replenished the town with wide roads and large squares such as the [[Saadallah Al-Jabiri Square]], the [[Liberty Square (Aleppo)|Liberty Square]], the President's Square and [[Sabaa Bahrat Square (Aleppo)|Sabaa Bahrat Square]].
+There is a relatively clear division between old and new Aleppo. The older portions of the city, with an approximate area of {{convert|160|ha|acre}} were contained within a wall, {{convert|5|km|abbr=on}} in circuit with nine gates. The huge medieval [[castle]] in the city – known as the [[Citadel of Aleppo]] – occupies the center of the ancient part, in the shape of an [[acropolis]].
+
+Being subjected to constant invasions and political instability, the inhabitants of the city were forced to build cell-like quarters and districts that were socially and economically independent. Each district was characterized by the religious and ethnic characteristics of its inhabitants.
+
+The mainly white-stoned old town was built within the historical walls of the city, pierced by the nine historical gates, while the newer quarters of the old city were first built by the Christians during the early 15th century in the northern suburbs of the ancient city, after the Mongol withdrawal from Aleppo. The new quarters were called ''Jdeydeh''. [[Al-Jdayde|Jdeydeh]] is one of the finest examples of a cell-like quarter in Aleppo. After [[Timur|Tamerlane]] invaded Aleppo in 1400 and destroyed it, the Christians migrated out of the city walls and established their own cell in 1420, at the northwestern suburbs of the city, thus founding the quarters of [[Al-Jdayde|Jdeydeh]]. The inhabitants of [[Al-Jdayde|Jdeydeh]] were mainly brokers who facilitated trade between foreign traders and local merchants. As a result of the economic development, many other quarters were established outside the walls of the ancient city during the 15th and 16th centuries.
+
+Thus, the [[Old City of Aleppo]] -composed of the ancient city within the walls and the old cell-like quarters outside the walls- has an approximate area of {{convert|350|ha|sqmi}} housing more than 120,000 residents.<ref>{{cite web|author=bleeker |url=http://www.historische-aleppo-seife.de/engl_history.html |title=Alepposeife: Aleppo history |publisher=Historische-aleppo-seife.de |accessdate=11 March 2012}}</ref>
+
+====Souqs and Khans====
+{{Main|Al-Madina Souq}}
+[[File:Aleppo-suq-Alp.JPG|thumb|Ancient Aleppo, [[Al-Madina Souq]]]]
+The city's strategic trading position attracted settlers of all races and beliefs who wished to take advantage of the commercial roads that met in Aleppo from as far as China and [[Mesopotamia]] to the east, Europe to the west, and the [[Fertile Crescent]] and [[Egypt]] to the south. The largest covered [[souq]]-market in the world is in Aleppo, with an approximate length of {{convert|13|km|abbr=off}}.<ref>{{cite web|url=http://www.esyria.sy/ealeppo/index.php?p=stories&category=round&filename=201010291220021 |title=eAleppo: The old Souqs of Aleppo (in Arabic) |publisher=Esyria.sy |accessdate=11 March 2012}}</ref><ref>Forbes, Andrew, and Henley, David, ''[http://www.cpamedia.com/article.php?pg=archive&acid=120601100823&aiid=120601101137 Aleppo's Great Bazaar]''</ref>
+
+''[[Souq al-Madina]]'', as it is locally known, is an active trade centre for imported luxury goods, such as raw silk from [[Iran]], spices and dyes from India, and coffee from [[Damascus]]. Souq al-Madina is also home to local products such as wool, agricultural products and soap. Most of the souqs date back to the 14th century and are named after various professions and crafts, hence the wool souq, the copper souq, and so on. Aside from trading, the souq accommodated the traders and their goods in ''khans'' ([[caravanserai]]s) and scattered in the souq. Other types of small market-places were called ''caeserias'' (ﻗﻴﺴﺎﺭﻳﺎﺕ). Caeserias are smaller than khans in their sizes and functioned as workshops for craftsmen. Most of the khans took their names after their location in the souq and function, and are characterized with their beautiful façades and entrances with fortified wooden doors.
+
+====Gates of Aleppo and other historic buildings====
+[[File:Antioch gate in Aleppo walls.jpg|thumb|upright|[[Bab Antakeya|Gate of Antioch]] rebuilt during the 11th century]]
+The old part of the city is surrounded with {{convert|5|km|mi|adj=mid|-long}}, thick walls, pierced by the nine historical gates (many of them are well-preserved) of the old town. These are, clockwise from the north-east of the citadel:
+
+[[Bab al-Hadid]], [[Bab al-Ahmar]], [[Bab al-Nairab]], [[Bab al-Maqam]], [[Bab Qinnasrin]], [[Bab Antakeya]], [[Bāb Jnēn]], [[Bab al-Faraj (Aleppo)|Bab al-Faraj]] and [[Bab al-Nasr (Aleppo)|Bab al-Nasr]].
+
+The most significant historic buildings of the ancient city include:
+
+*[[Citadel of Aleppo|The Citadel]], a large fortress built atop a huge, partially artificial mound rising {{convert|50|m|abbr=on}} above the city, dates back to the first millennium BC. Recent excavations unearthed a temple and 25 statues dating back to the first millennium BC.<ref>{{cite news|url=http://www.dp-news.com/pages/detail.aspx?articleid=80968&l=2 |title=Aleppo&nbsp;... Cultural Landmark, Trade Hub|agency=Xinhua News Agency |publisher=DP-news |date=16 April 2011 |accessdate=11 March 2012}}</ref> Many of the current structures date from the 13th century. The Citadel had been extensively damaged by earthquakes, notably in 1822.
+*[[Al-Shibani Church]]-School, [[Al-Halawiyah Madrasa]], [[Al-Muqaddamiyah Madrasa]], [[Al-Zahiriyah Madrasa]], [[Al-Sultaniyah Madrasa]], [[Al-Firdaws Madrasa]], Bimaristan Arghun al-Kamili, [[Junblatt Palace]], [[Al-Uthmaniyah Madrasa|Madrasa Al-Uthmaniyah]], Bab Al-Faraj Clock Tower, etc.
+
+The most significant historic buildings of the [[Al-Jdayde|Jdeydeh]] Christian quarter include:<ref>{{cite web |title = Ministry of Tourism, Syria: Aleppine House (in Arabic) |url = http://www.syriatourism.org/index.php?module=subjects&func=viewpage&pageid=2081}}</ref>
+*''Beit Wakil'', an Aleppine mansion built in 1603, with unique wooden decorations. One of its decorations was taken to [[Berlin]] and exhibited in [[Pergamon Museum]], known as the ''Aleppo Room''.
+*''[[commons:Category:Ajikbash House|Beit Achiqbash]]'', an old Aleppine house built in 1757. The building is home to the ''Popular Traditions Museum'' since 1975, showing fine decorations of the Aleppine art.
+*''[[Beit Ghazaleh]]'', an old 17th-century mansion characterized with fine decorations, carved by the Armenian sculptor ''Khachadur Bali'' in 1691. It was used as an Armenian elementary school during the 20th century.
+
+====Places of worship====
+[[File:Al-Shibani Alp8.JPG|thumb|[[Al-Shibani Church]]-School]]
+*[[Great Mosque of Aleppo]] (Jāmi' Bani Omayya al-Kabīr), founded c. 715 by Umayyad caliph [[Walid I]] and most likely completed by his successor [[Sulayman ibn Abd al-Malik|Sulayman]]. The building contains a tomb associated with [[Zechariah (priest)|Zachary]], father of [[John the Baptist]].  Construction of the present structure for Nur al-Din commenced in 1158. However, it was damaged during the [[Mongol]] invasion of 1260, and was rebuilt. The {{convert|45|m|ft|adj=mid|-high}} tower (described as "the principal monument of medieval Syria")<ref name="Burns 1999 35">{{cite book |first=Russ |last=Burns |title=Monuments of Syria |page=35 |year=1999 |location=New York, London}}</ref> was erected in 1090–1092 under the first Seljuk sultan, [[Tutush I]]. It had four façades with different styles.  The tower was completely destroyed during the Syrian civil war in March 2013 (reported on 24 March 2013).
+*[[Al-Nuqtah Mosque]] ("Mosque of the drop [of blood]"), a [[Shia|Shī'ah]] mosque, which contains a stone said to be marked by a drop of [[Husayn ibn Ali|Husayn]]'s blood. The site is believed to have previously been a monastery, which was converted into a mosque in 944.
+*[[Al-Shuaibiyah Mosque]], [[Al-Qaiqan Mosque]], [[Mahmandar Mosque]], [[Altun Bogha Mosque]], [[Al-Sahibiyah Mosque]], [[Bahsita Mosque]], [[Al-Tawashi Mosque]], [[Al-Otrush Mosque]], [[Al-Saffahiyah Mosque]], [[Khusruwiyah Mosque]], [[Al-Adiliyah Mosque]], [[Bahramiyah Mosque]], etc.
+* Churches of [[Al-Jdayde|Jdeydeh]] Christian quarter: the [[Forty Martyrs Cathedral|Forty Martyrs Armenian Apostolic Cathedral]], the [[Church of the Dormition of Our Lady|Dormition of Our Lady]] Greek Orthodox church, [[Mar Assia al-Hakim Church|Mar Assia Al-Hakim Syrian Catholic church]], the Maronite [[Saint Elias Cathedral]], the Armenian Catholic Cathedral of Our Mother of Reliefs and the Melkite Greek Catholic Cathedral of Virgin Mary.
+*The [[Central Synagogue of Aleppo]] or al-Bandara synagogue, completed as early as the 9th century by the efforts of the Jewish community. The synagogue was ruined several times until 1428 when it was restored. Recently, the building was renovated by the efforts of Aleppine Jewish migrants in US.<ref>{{cite web|url=http://www.travelnut.me/aleppo |title=Aleppo |publisher=Travelnut |date=13 December 2011 |accessdate=11 March 2012}}</ref>
+
+====Hammams====
+[[File:Hammam Al-Nahhasseen Aleppo.jpg|thumb|[[Hammam al-Nahhasin]]]]
+Aleppo was home to 177 [[Turkish bath|hammam]]s during the medieval period, until the Mongol invasion when many vital structures in the city were destroyed. Today, roughly 18 hammams are operating in the old city.
+*[[Hammam al-Nahhasin]] built during the 12th century near khan al-Nahhaseen.
+*Hammam al-Sultan built in 1211 by [[Az-Zahir Ghazi]].
+*Hammam al-Bayadah of the Mamluk era built in 1450.
+*[[Hammam Yalbugha]] built in 1491 by the [[List of rulers of Aleppo|Emir of Aleppo]] Saif ad-Din Yalbugha al-Naseri.<ref>{{cite book |title=Syria & Lebanon |last1= Carter|first1= Terry|last2=Dunston |first2=Lara |last3= Humphreys|first3= Andrew|year=2004 |publisher=Lonely Planet |isbn=978-1-86450-333-3 |page=186 |url=https://books.google.com/books?id=Gh8ZrZRKaRwC&pg=PA186&dq=Hammam+yalbougha&ei=t_WsS57SLp6QkASto_mbDQ&cd=1#v=onepage&q=Hammam%20yalbougha&f=false }}</ref>
+*Hammam al-Jawhary, hammam Azdemir, hammam Bahram Pasha, hammam Bab al-Ahmar, etc.
+
+===Nearby attractions and the ''Dead Cities''===
+{{Main|Dead Cities}}
+[[File:Kharab Shams Basilica, Dead Cities region, NW Syria.jpg|thumb|Kharab Shams Basilica]]
+Aleppo's western suburbs are home to a group of historical sites and villages which are commonly known as the ''[[Dead Cities]]''. Around 700 abandoned settlements in the northwestern parts of Syria prior to the 5th century, contain remains of Christian [[Byzantine architecture]]. Many hundreds of those settlements are located in [[Mount Simeon]] (Jabal Semaan) and Jabal Halaqa regions at the western suburbs of Aleppo, within the range of [[Limestone Massif]].<ref>[http://www.syria.strabon.org/ua/pm_villesmortes/antique-villages/index_en.html Ancient villages (dead cities)]</ref> Dead Cites were inscribed as a [[UNESCO World Heritage Site]] in 2011, under the name of "Ancient Villages of Northern Syria".<ref>{{cite web|url=http://whc.unesco.org/en/list/1348|title=Ancient Villages of Northern Syria|author=UNESCO |accessdate=30 October 2011}}</ref>
+
+The most notable ''Dead cities'' and archaeological sites in Mount Simeon and [[Kurd Mountain|Mount Kurd]] near Aleppo include: the Kalota Castle and churches northwest of Aleppo, the Kharab Shams Byzantine basilica of the 4th century,<ref>eAleppo:Kharab Shams [http://www.esyria.sy/ealeppo/index.php?p=stories&category=ruins&filename=200812270845011 Kharab Shams in history (in Arabic)]</ref> the half-ruined Roman basilica in Fafertin village of 372 AD, the old Byzantine settlement of Surqanya village northwest of Aleppo, the 4th-century Basilic church of Sinhar historic settlement, the Mushabbak Basilica dating back to the second half of the 5th century, the 9th-century BC Assyrian settlement of Kafr Nabo, [[Barad, Syria|Brad]] village and the [[Julian of Antioch|Saint Julianus]] Maronite monastery (399–402 AD) where the shrine of [[Maron|Saint Maron]] is located, the 5th-century Kimar settlement of the Roman and Byzantine eras, the [[Church of Saint Simeon Stylites]] of the 5th century, the [[Syro–Hittite states|Syro-Hittite]] [[Ain Dara temple]] of the [[Iron Age]] dating back to the 10th and 8th centuries BC, the ancient city of [[Cyrrhus]] with the old Roman amphitheatre and two historic bridges, etc.
+
+==Transportation==
+[[File:Aleppo Bagdad Railway Station, cropped.jpg|thumb|[[Aleppo Railway Station]]]]
+
+===Buses and minibuses===
+The city of Aleppo is served by a [[public transport]] network of buses and minibuses. New modern buses are used to connect the city with Damascus and the other Syrian cities to the east and the south of Aleppo.
+
+===Railway===
+Aleppo was one of the major stations of Syria that has been connected with the [[Baghdad Railway]] in 1912, within the [[Ottoman Empire]]. The connections to Turkey and onwards to [[Ankara]] still exist today, with a twice weekly train from Damascus. It is perhaps for this historical reason that Aleppo is the headquarters of Syria national railway network, [[Chemins de Fer Syriens]]. As the railway is relatively slow, much of the passenger traffic to the port of [[Latakia]] had moved to road-based air-conditioned coaches. But this has reversed in recent years with the 2005 introduction of South Korean built [[Diesel multiple unit|DMU]]s providing a regular bi-hourly express service to both Latakia and Damascus, which miss intermediate stations.
+[[File:Aleppo (2) cropped.jpg|thumb|upright 1.2|[[Aleppo International Airport]]]]
+
+However, after the break-out of the civil war in 2011, the Syrian railway network has suffered major damage and is currently out of use.
+
+===Airport===
+[[Aleppo International Airport]] ([[IATA]]: ALP, [[ICAO]]: OSAP) is the international airport serving the city. The airport serves as a secondary hub for [[Syrian Arab Airlines]]. The history of the airport dates back to the beginning of the 20th century. It was upgraded and developed in the years to 1999 when the new current terminal was opened.<ref>Aleppo Int. Airport [http://www.terezia.org/section.php?id=1823 Historical Overview]</ref>
+
+However, the airport was closed since the beginning of 2013 as a result of the military operations in the area.
+
+==Economy==
+
+===Trade and industry===
+[[File:Aleppo, textile suq market.jpg|left|thumb|Traditional textile and rug markets]]
+[[File:Aleppo shopping street.jpg|thumb|Markets at Tilel street]]
+The main role of the city was as a trading place throughout the history, as it sat at the crossroads of two trade routes and mediated the trade from India, the [[Tigris]] and [[Euphrates]] regions and the route coming from [[Damascus]] in the South, which traced the base of the mountains rather than the rugged seacoast. Although trade was often directed away from the city for political reasons {{Why?|date=January 2012}}, it continued to thrive until the Europeans began to use the [[Cape of Good Hope|Cape route]] to India and later to utilize the route through [[Egypt]] to the [[Red Sea]].
+
+The commercial traditions in Aleppo have deep roots in the history. The Aleppo Chamber of commerce founded in 1885, is one of the oldest chambers in the Middle East and the Arab world. According to many historians, Aleppo was the most developed commercial and industrial city in the [[Ottoman Empire]] after [[Constantinople]] and [[Cairo]].<ref name="Encyclopedia of the Ottoman Empire"/>
+
+Being the largest urban area in the Syrian Republic, the economy of Aleppo is driven by textiles, chemicals, pharmaceutics, agro-processing industries, electricals, alcoholic beverages, engineering and tourism. It is the country's dominant manufacturing centre, with a share of more than 50% of manufacturing employment and an even greater export share.<ref>Madinatuna:Aleppo City Development Strategy [http://madinatuna.com/en/economy Economy]</ref>
+
+Possessing the most developed commercial and industrial plants in Syria, Aleppo is a major centre for manufacturing precious metals and stones.<ref>{{cite web|url=http://www.aliqtisadi.com/index.php?mode=article&id=23863 |title=Gold in Syria |publisher=aliqtisadi.com |date= |accessdate=29 August 2013}}</ref> The annual amount of the processed gold produced in Aleppo is around 8.5 tonnes, making up to 40% of the entire manufactured gold in Syria.<ref>{{cite web|url=http://www.syriasteps.com/?d=128&id=42162 |title=Aleppo gold market |publisher=Syria Steps |date= |accessdate=29 August 2013}}</ref>
+
+The industrial city of Aleppo in [[Shaykh Najjar|Sheikh Najjar]] district is one of the largest in Syria and the region. Occupying an area of {{convert|4412|ha|acre}} in the north-eastern suburbs of Aleppo, the total investments in the city counted more than US$3.4 billion during 2010.<ref>{{cite web|url=http://www.aksalser.com/?page=view_news&id=5ace559cb86c8b34f1e024e479b11815&ar=17773089 |title=155 billion Syrian Pounds invested in Aleppo Industrial City (in Arabic) |publisher=Aksalser.com |accessdate=11 March 2012}}</ref> Still under development, it is envisaged to open hotels, exhibition centres and other facilities within the industrial city.
+
+The old traditional crafts are well-preserved in the old part of the city. The famous laurel [[Aleppo soap|soap of Aleppo]] is considered to be the world's first hard soap.<ref>Aleppo Soap [http://www.ursoap.com/pages/history_page.htm Soap History]</ref>
+
+===Construction===
+[[File:AleppoCitadel.jpg|thumb|The restored square of the citadel]]
+Aleppo is one of the fastest-growing cities in Syria and the Middle East.<ref>{{cite book|url=https://books.google.com.qa/books?id=oDz9juos_tkC&pg=PA195&dq=aleppo+fast+growing&hl=en&sa=X&ei=IclMT_OaIcHorQfsrfm3Dw&ved=0CDEQ6AEwAA#v=onepage&q=aleppo%20fast%20growing&f=false |title=The Report: Syria 2011 By Oxford Business Group, page 195 |publisher=Google Books |accessdate=11 March 2012}}</ref> Many villagers and inhabitants of other Syrian districts are migrating to Aleppo in an effort to find better job opportunities, a fact that always increases population pressure, with a growing demand for new residential capacity. New districts and residential communities have been built in the suburbs of Aleppo, many of them are still under construction {{As of|2010|lc=on}}.
+
+Two major construction projects are scheduled in Aleppo: the "Old City Revival" project and the "Reopening of the stream bed of Queiq River".
+
+*The Old City revival project completed its first phase by the end of 2008, and the second phase started in early 2010. The purpose of the project is the preservation of the old city of Aleppo with its souqs and khans, and restoration of the narrow alleys of the old city and the roads around the citadel.
+*The restoration of [[Queiq River]] is directed towards the revival of the flow of the river, demolishing both the artificial cover of the stream bed and the reinforcement of the stream banks along the river in the city centre. The flow of the river was blocked during the 1960s by the Turks, turning the river into a tiny sewage channel, something that led the authorities to cover the stream during the 1970s. In 2006 the flow of pure water was restored through the efforts of the Syrian government, granting a new life to the Quweiq River.
+
+Like other major Syrian cities, Aleppo is suffering from the dispersal of [[informal settlements]]: almost half of its population (around 1.2 million) is estimated to live in 22 informal settlements of different types.<ref>{{cite web |title = Madinatuna, Aleppo Cite Development Strategy: Informal Settlements |url = http://madinatuna.com/en/informals}}</ref>
+
+===Leisure and entertainment===
+[[File:Shahba mall1.jpg|thumb|The [[Shahba Mall]]]]
+Aleppo boasts a vibrant [[nightlife]]. Several night-clubs, bars and cabarets that are open until dawn can be found throughout the city. Many bars are located in the old quarter of Jdeydeh quarter within ancient oriental mansions that provide special treats from the Aleppine flavour and cuisine along with local music.
+
+''Club d'Alep'' opened in 1945, is a unique social club known for [[Contract bridge|bridge games]] and other nightlife activities. The [[Aleppo Public Park]] opened in 1949, is one of the largest planted parks in Syria, located near the Aziziyeh area, where the Queiq river breaks through the green park. ''Blue Lagoon'', one of the favourite places of the Aleppine people, is the first water park in Syria. The [[Shahba Mall]] of Aleppo is one of the largest shopping centres in the [[Levant]].
+
+==Education==
+[[File:Aleppo University, Faculty of Arts and Humanities.jpg|thumb|The faculty of Arts and Humanities at the [[University of Aleppo]]]]
+As the main economic centre of Syria, Aleppo has a large number of educational institutions. Along with the [[University of Aleppo]], there are state colleges and private universities which attract large numbers of students from other regions of Syria and the Arab countries. The number of the students in Aleppo University is more than 60,000. The university has 18 faculties and 8 technical colleges in the city of Aleppo.
+
+Currently, there are three private universities operating in the city: [[Private University of Science and Arts]] (PUSA), [[al-Shahba University]] (SU) and Mamoun University for Science and Technology (MUST).
+
+Branches of the state conservatory and the fine arts school are also operating in the city.
+
+Aleppo is home to several Christian and Armenian private schools as well as 2 international schools: [[International School of Aleppo]] and [[Lycée Français d'Alep]].
+
+==Sport==
+[[File:Aleppo international.jpg|thumb|[[Aleppo International Stadium]]]]
+The city of Aleppo is considered an important centre of [[team sport]]s with [[association football|football]] being the most popular in the city. It is home to 5 major sport clubs, including [[Al-Ittihad SC Aleppo|al-Ittihad SC]], [[al-Hurriya SC]], [[al-Yarmouk SC Aleppo|al-Yarmouk SC]], [[Jalaa SC]] and [[Ouroube SC Aleppo|Ouroube SC]].
+
+[[Basketball]] is also very popular in the city. All of the 5 Aleppine major sport clubs participate in the men's and women's top division of the Syrian Basketball League.
+
+Other popular sports being practiced by the major clubs in the city include [[tennis]], [[handball]], [[volleyball]], [[table tennis]] and [[swimming (sport)|swimming]].
+
+With a capacity of 75,000 spectators, the [[Aleppo International Stadium]] is the largest sports venue in Syria.<ref>{{cite web|url=http://www.worldstadiums.com/middle_east/countries/syria.shtml |title=Stadiums in Syria |publisher=World Stadiums |accessdate=11 March 2012}}</ref> Other major sport venues in the city include the [[al-Ittihad Stadium]], [[al-Hamadaniah Stadium]], [[Aleppo 7 April Stadium|7 April Stadium]], [[Ri'ayet al-Shabab Stadium]], [[al-Hamadaniah Sports Arena]], [[al-Assad Sports Arena]], [[Bassel al-Assad Swimming Complex]], [[al-Hamadaniah Olympic Swimming and Diving Complex]] and [[al-Hamadaniah Tennis Complex]].
+
+==Municipality and international relations==
+[[File:Aleppo culture.jpg|thumb|Aleppo, '''Capital of Islamic Culture 2006''']]
+The city of Aleppo is the capital of [[Aleppo Governorate]] and the centre of [[Mount Simeon District]]. Aleppo City Council is the governing body of the city. The first municipality council was formed in 1868.<ref>{{cite web|url=http://www.esyria.sy/ealeppo/index.php?p=stories&category=ruins&filename=201111062205011 |title=eAleppo:Khans in Aleppo |publisher=Esyria.sy |accessdate=11 March 2012}}</ref> However, the governor who is being appointed by the president of the republic, has a supreme authority over the city and the entire governorate.
+
+===Subdivisions===
+Districts in Aleppo could be sorted in 4 categories:
+*Old quarters inside the walls of the ancient city.
+*Old quarters outside the walls of the ancient city.
+*Modern neighbourhoods.
+*Informal settlements.
+
+===Integrated Urban Development in Aleppo===
+[[File:Covered Suq of Aleppo2.JPG|thumb|''Souq al-Dira''', maintaining its traditional role as a tailoring centre]]
+The "Integrated Urban Development in Aleppo" (UDP) is a joint programme between the German Development Cooperation ([[GTZ]]) and the Municipality of Aleppo.<ref>{{cite web|url=http://www.udp-aleppo.org/ |title=UDP-Aleppo |publisher=UDP-Aleppo |date=15 December 2011 |accessdate=11 March 2012}}</ref> The programme promotes capacities for sustainable urban management and development at the national and municipal level.
+
+The Programme has three fields of work:
+# Aleppo City Development Strategy (CDS): promoting support structures for the municipality, including capacity building, networking, and developing municipal strength in the national development dialogue.
+# Informal Settlements (IS): includes strategy and management development of informal settlements.
+# The Project for the Rehabilitation of the Old City of Aleppo (OCA): includes further support to the rehabilitation of the Old City, as well as to a long-term oriented city development strategy.
+
+The UDP cooperates closely with other interventions in the sector, namely the EU-supported 'Municipal Administration Modernization' programme. It is planned to operate from 2007 to 2016.
+
+===Preservation of the ancient city===
+[[File:Khan al-Wazir with Sahibiyah mosque.jpg|thumb|left|Khan al-Wazir after rehabilitation]]
+[[File:Khandaq6 Alp.jpg|thumb|Al-Khandaq street, one of the restored streets of the old city]]
+As an ancient trading centre, Aleppo's impressive ''[[souq]]s'', ''khans'', ''hammams'', ''madrasas'', mosques and churches are all in need of more care and preservation work. After [[World War II]], the city was significantly redesigned; in 1954 French architect [[André Gutton]] had a number of wide new roads cut through the city to allow easier passage for modern traffic. Between 1954 and 1983 many buildings in the old city were demolished to allow for the construction of modern apartment blocks, particularly in the northwestern areas (Bab al-Faraj and [[Bab al-Jinan]]). As awareness for the need to preserve this unique cultural heritage increased, Gutton's master plan was finally abandoned in 1979 to be replaced with a new plan presented by the Swiss expert and [[urban designer]] [[Stefano Bianca]], which adopted the idea of "preserving the traditional architectural style of Ancient Aleppo" paving the way for [[UNESCO]] to declare the [[Old City of Aleppo]] as a World Heritage Site in 1986.<ref name="Aleppo plan">{{cite web |title = eAleppo:Aleppo city major plans throughout the history |url = http://www.esyria.sy/ealeppo/index.php?p=stories&category=misc&filename=201009251220032|language= Arabic}}</ref>
+
+Several international institutions have joined efforts with local authorities and the Aleppo Archaeological Society, to rehabilitate the old city by accommodating contemporary life while preserving the old one. The governorate and the municipality are implementing serious programmes directed towards the enhancement of the ancient city and Jdeydeh quarter.
+
+The German Technical Cooperation ([[GTZ]]) and [[Aga Khan Foundation]] (within the frames of [[Aga Khan Historic Cities Programme]]) have a great contribution in the preservation process of the old city.
+
+===Twin towns — sister cities===
+{{Main|List_of_twin_towns_and_sister_cities_in_Asia#Syria|l1=List of twin towns and sister cities in Syria}}
+Currently, Aleppo has 3 sister cities:
+*{{flagicon|FRA}} [[Lyon]], France since 18 October 2000.<ref name="Lyon">{{cite web |url=http://www.lyon.fr/vdl/sections/en/villes_partenaires/villes_partenaires_2/?aIndex=1|title=''Partner Cities of Lyon and Greater Lyon'' |publisher= 2008 Mairie de Lyon |accessdate=17 July 2009}}</ref>
+*{{flagicon|TUR}} [[Gaziantep]], [[Turkey]] since 13 November 2005.<ref>{{cite web |title = Gaziantep cultural committee: Gaziantep sister cities, Aleppo-Syria (in Turkish) |url = http://www.gaziantepkultursanat.org/gaziantep/kardes_sehirleri/halep.htm}}</ref>
+*{{flagicon|BLR}} [[Brest, Belarus|Brest]], Belarus since 28 January 2010.<ref>{{cite web |title = Jamahir newspaper: 28 January 2010 (in Arabic)|url = http://jamahir.alwehda.gov.sy/_View_news2.asp?FileName=103164560320100127234904}}</ref>
+
+==Notable natives==
+{{See also|Rulers of Aleppo}}
+{{div col|colwidth=35em}}
+*[[Simeon Stylites]], prominent figure in Christianity.
+*[[Maron|Saint Maron]], prominent figure in Christianity.
+*[[Jacob of Edessa]], [[Syriac people|Syriac]] writer and theologian, 7th century.
+*[[Buhturi]], iconic Arab poet.
+*[[Sayf al-Dawla]] al-Hamdani, ruler of Hamadanid dynasty.
+*[[Paul of Aleppo]], 17th century Archdeacon of Aleppo, traveler and chronicler.
+*[[Philipp Stamma]], [[chess master]] and writer.
+*[[Rizqallah Hassun]], Syrian-Armenian poet, founded the first Arabic newspaper in 1855.
+*[[Francis Marrash|Francis]], [[Abdallah Marrash|Abdallah]] and [[Maryana Marrash]], prominent writers and poets.
+*[[Abd al-Rahman al-Kawakibi]], thinker and religious reformer.
+*[[Mar'i Pasha al-Mallah]], politician and governor general of the State of Aleppo.
+*[[Qustaki al-Himsi]], influential Syrian writer and poet.
+*[[Zeki Pasha]], [[Field marshal]] of the Ottoman forces in the [[Balkans]].
+*[[Jacobo Harrotian]], Mexican [[General officer|General]], participated in the [[Mexican Revolution]].
+*[[Sati' al-Husri]], educationalist and influential thinker of [[Arab nationalism]].
+*[[Subhi Barakat]], politician, president of the State of Syria 1925–1926.
+*[[Saadallah al-Jabiri]], prime minister (1947) and patriotic leader.
+*[[Husni al-Za'im]], first Syrian military dictator following independence.
+*[[John George (actor)|John George]], dwarf actor appeared in silent American movies.
+*[[Sami al-Hinnawi]], leader of the second military coup in 1949.
+*[[Gabriel Acacius Coussa]], [[Cardinal (Catholicism)|cardinal]] and expert in [[canon law]].
+*[[Nazim al-Kudsi]], former [[List of Presidents of Syria|president of Syria]].
+*[[Jean Carzou]], French-Armenian painter.
+*[[Omar Abu-Riche]], influential Syrian poet.
+*[[Antranig Dzarugian]], Armenian novelist and poet.
+*[[Wahbi al-Hariri]], artist and architect.
+*[[Amin al-Hafiz]], former president of Syria.
+*[[Fateh Moudarres]], renowned Syrian painter.
+*[[Hilarion Capucci]], titular archbishop of [[Caesarea Maritima|Caesarea]] and militant.
+*[[Moustapha Akkad]], film producer and director.
+*[[George Tutunjian]], [[Armenian revolutionary songs]] performer.
+*[[Sabah Fakhri]], iconic Arabic traditional songs performer.
+*[[Louay Kayali]], renowned Syrian painter.
+*[[Georges Tarabichi]], renowned Syrian writer and translator.
+*[[Ali Sarmini]], renowned Syrian painter.
+*[[Muhammad Naji al-Otari]], prime minister of Syria between 2003 and 2011.
+*[[Levon Ter-Petrossian]], president of the [[Armenia]] between 1991 and 1998.
+*[[Abed Azrie]], composer and classical songs performer.
+*[[Abd al-Rahman Mowakket]], prize-winning contemporary sculptor.
+*[[Harut Sassounian]], Armenian-American writer and journalist.
+*[[Muhammed Faris]], first Syrian [[cosmonaut]].
+*[[Seta Dadoyan]], Armenian scholar and historian.
+*[[Karnig Sarkissian]], [[Armenian revolutionary songs]] performer.
+*[[Paul Baghdadlian]], Armenian singer.
+*[[Najdat Anzour]], TV director of [[Circassians|Circassian]] origins.
+*[[Bassam Kousa]], prominent actor.
+*[[Vartan Oskanian]], foreign minister of Armenia between 1998 and 2008.
+*[[Mohammad Nasser Afash|Mohammad Afash]], Syrian [[association football|footballer]] notable for playing in Europe.
+*[[Avraam Russo]], Russian pop singer of Syrian-Armenian origin.
+*[[Charla Baklayan Faddoul]], United States reality TV star.
+*[[Diana al-Hadid]], contemporary Syrian sculptor based in the USA.
+*[[Wiz Kilo]], Syrian–Canadian [[hip hop]] and [[R&B]] artist.
+{{div col end}}
+
+==See also==
+{{Portal|Syria}}
+*[[North Syrian Arabic]]
+*[[Pinus halepensis]]
+*[[Tulipa aleppensis]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikivoyage|Aleppo}}
+{{Wiktionary|Aleppo}}
+{{Commons category|Aleppo}}
+*[http://www.aleppo.gov.sy/ Aleppo Governorate]
+*[http://www.esyria.sy/ealeppo/ Aleppo news]
+*[http://www.aleppo.us/ Aleppo history and culture]
+
+{{Coord|36|13|N|37|10|E|display=title|region:SY_type:city}}
+
+{{S-start}}
+{{Succession box
+|title=Capital of Islamic culture
+|before=[[Mecca]]
+|after=[[Fes]]
+|years=2006}}
+{{S-end}}
+
+{{Aleppo landmarks}}
+{{Cities of Syria}}
+{{Aleppo Governorate|simeon}}
+{{World Heritage Sites in Syria}}
+{{Syro-Hittite states}}
+
+{{Authority control}}
+
+[[Category:Aleppo]]
+[[Category:Amorite cities]]
+[[Category:Populated places along the Silk Road]]
+[[Category:Populated places in Mount Simeon District]]
+[[Category:Populated places established in the 5th millennium BC]]
+[[Category:Cities in Syria]]

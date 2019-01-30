@@ -1,0 +1,670 @@
+Guyana
+
+{{other uses}}
+{{pp-move-indef}}
+{{coord|5|-58.75|type:country_region:GY|format=dms|display=title}}
+{{EngvarB|date=October 2015}}
+{{Use dmy dates|date=May 2016}}
+{{Infobox country
+| conventional_long_name = Co-operative Republic of Guyana
+| common_name = Guyana
+| image_flag = Flag of Guyana.svg
+| image_coat = Coat of Arms of Guyana.svg|100px|[[Coat of arms of Guyana]]
+| national_motto = "One People, One Nation, One Destiny"
+| national_anthem = ''[[Dear Land of Guyana, of Rivers and Plains]]''<br /><center>[[File:National Anthem of Guyana.ogg]]</center>
+| image_map = Guyana (orthographic projection).svg  
+| Guyana shown in dark green, territorial claims from Venezuela shown in light green.
+| capital = [[Georgetown, Guyana|Georgetown]]
+| largest_city = capital
+| latd=6 |latm=46 |latNS=N |longd=58 |longm=10 |longEW=W
+| official_languages = [[English language|English]]
+| regional_languages =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 11 languages
+  |[[Portuguese language|Portuguese]] |[[Spanish language|Spanish]] |[[Kapóng language|Akawaio]]
+  |[[Macushi language|Macushi]] |[[Waiwai language|Waiwai]] |[[Arawakan languages|Arawak]]
+  |[[Patamona language|Patamona]] |[[Warao language|Warrau]] |[[Carib language|Carib]]
+  |[[Wapishana people|Wapishana]] |[[Cariban languages|Arekuna]]
+ }}
+| ethnic_groups =
+ {{unbulleted list
+  | 43.5% [[Indo-Guyanese|East Indian]]
+  | {{nowrap|30.2% [[Afro-Guyanese|Black (African)]]}}
+  | 16.7% [[Multiracial|Mixed]]
+  |  9.1% [[Indigenous peoples of the Americas|Amerindian]]
+  |  0.5% others<ref name="cia"/>
+ }}
+| ethnic_groups_year = 2002
+| demonym = Guyanese
+| government_type = [[Unitary state|Unitary]] [[Semi-presidential system|Semi-presidential]] [[republic]]
+| leader_title1 = [[President of Guyana|President]]
+| leader_name1 = [[David A. Granger|David Granger]]
+| leader_title2 = [[List of Prime Ministers of Guyana|Prime Minister]]
+| leader_name2 = [[Moses Nagamootoo]]
+| legislature = [[National Assembly (Guyana)|National Assembly]]
+| area_rank = 85th
+| area_magnitude = 1 E11
+| area_km2 = 214,970
+| area_sq_mi = 83,000 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 8.4
+| population_estimate = 735,554<ref name="cia"/>
+| population_estimate_rank = 165th
+| population_estimate_year = 2014
+| population_census = 747,884<ref name="2012Census">[http://www.geohive.com/cntry/guyana.aspx Guyana 2012 Census] GeoHive– Guyana. Retrieved 2 August 2012.</ref>
+| population_census_year = 2012
+| population_density_km2 = 3.502
+| population_density_sq_mi = 9.071 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 232nd or 8th least-densely populated in the world
+| GDP_PPP = $6.155 billion<ref name="imf2"/>
+| GDP_PPP_year = 2012
+| GDP_PPP_per_capita = $7,938<ref name="imf2"/>
+| GDP_nominal = $2.788 billion<ref name="imf2"/>
+| GDP_nominal_year = 2012
+| GDP_nominal_per_capita = $3,596<ref name="imf2"/>
+| currency = [[Guyanese dollar]]
+| currency_code = GYD
+| sovereignty_type = Formation
+| established_event1 = [[Dutch colonization of the Guianas|Dutch Guiana]]
+| established_date1 = 1667–1814
+| established_event2 = [[British Guiana]]
+| established_date2 = 1814–1966
+| established_event3 = [[Independence]] from the [[United Kingdom]]
+| established_date3 = 26 May 1966
+| established_event4 = Republic
+| established_date4 = 23 February 1970
+| established_event5 = {{nowrap|[[Constitution of Guyana|Current constitution]]}}
+| established_date5 = 6 October 1980
+| Gini_year = 1998 | Gini_change =  <!--increase/decrease/steady--> | Gini = 44.5 <!--number only--> | Gini_ref = <ref name="Gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI |title=GINI index (World Bank estimate) |accessdate=22 July 2015 |publisher= World Bank }}</ref> | Gini_rank =
+| HDI_year = 2014<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase<!--increase/decrease/steady-->
+| HDI = 0.636 <!--number only-->
+| HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report |date=2015 |accessdate=15 December 2015 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 124th
+| country_code =
+| time_zone = GYT (Guyana Time)
+| utc_offset = -4
+| time_zone_DST = | utc_offset_DST =
+| drives_on = [[Right- and left-hand traffic|left]]
+| calling_code = [[+592]]
+| cctld = [[.gy]]
+}}
+
+'''Guyana''' (pronounced {{IPAc-en|ɡ|aɪ|ˈ|ɑː|n|ə}} or {{IPAc-en|ɡ|aɪ|ˈ|æ|n|ə}}),<ref>{{cite book
+|title=Longman pronunciation dictionary
+|first=John C.
+|last= Wells
+|publisher=Longman
+|location=Harlow, England
+|year=1990
+|isbn=0582053838
+}} entry "Guyana"</ref><ref name="AH">{{cite web|url=http://education.yahoo.com/reference/dictionary/entry/Guyana |title=Guyana – Dictionary definition and pronunciation – Yahoo! Education |publisher=Education.yahoo.com |date= |accessdate=30 March 2014}}</ref> officially the '''Co-operative Republic of Guyana''',<ref name="ISW">{{cite web |url=http://www.state.gov/s/inr/rls/4250.htm |title=Independent States in the World |publisher=state.gov}}</ref> is a sovereign state on the northern mainland of [[South America]]. It is bordered by the Atlantic Ocean to the north, [[Brazil]] to the south and southwest, [[Suriname]] to the east and [[Venezuela]] to the west. With {{convert|215000|sqkm|sqmi}}, Guyana is the fourth-smallest country on mainland South America after [[Uruguay]], [[Suriname]], and [[French Guiana]].
+
+The region known as "[[The Guianas|Guyana]]" comprised the [[Guiana Shield|large shield landmass]] north of the [[Amazon River]] and east of the [[Orinoco River]] known as the "Land of many waters". Originally inhabited by several indigenous groups, Guyana was settled by the Dutch before coming under [[British Empire|British control]] in the late 18th century. It was governed as the plantation economy of [[British Guiana]] until independence in 1966, and officially became a republic within the British [[Commonwealth of Nations]] in 1970. The legacy of British rule is reflected in the country's diverse population, which includes [[Indian people|Indian]], African, Amerindian, and multiracial groups.
+
+Guyana also has the distinction of being the only South American nation in which English is the official language. The majority of the population, however, speak [[Guyanese Creole]], an [[English-based creole language]] with slight Dutch, [[Arawakan languages|Arawakan]] and Caribbean influences. In addition to being part of the [[Anglophone Caribbean]], Guyana is one of the few [[Caribbean]] countries that is not an island in the West Indies. The [[Caribbean Community]] (CARICOM), of which Guyana is a member, is [[Secretariat (administrative office)|headquartered]] in Guyana's capital and largest city, [[Georgetown, Guyana|Georgetown]]. In 2008, the country joined the [[Union of South American Nations]] as a founding member.
+
+== Etymology == <!--linked-->
+
+The name "Guyana" is derived from ''Guiana'', the original name for [[The Guianas|the region]] that formerly included Guyana (British Guiana), [[Suriname]] ([[Dutch colonization of the Guianas|Dutch Guiana]]), [[French Guiana]], and parts of [[Colombia]], [[Venezuela]] and [[Brazil]]. According to the ''[[Oxford English Dictionary]],'' Guyana is derived from an Indigenous Amerindian language and means "land of many waters".<ref>{{cite web | url=http://www.oxforddictionaries.com/us/definition/american_english/Guyana | title=Guyana | publisher=Oxford Dictionaries | accessdate=9 May 2015}}</ref>
+
+== History ==
+{{main|History of Guyana}}
+
+There are nine [[Indigenous peoples of the Americas|indigenous]] tribes residing in Guyana: the [[Wai-wai people|Wai Wai]], Machushi, Patamona, Arawak, Carib, Wapishana, Arecuna, Akawaio, and Warrau.<ref>{{cite web|url=http://www.amerindian.gov.gy/discover/tribes/index.html |title=Ministry of Amerindian Affairs – Georgetown, Guyana |publisher=Amerindian.gov.gy |date= |accessdate=30 March 2014}}</ref> Historically the [[Arawaks|Arawak]] and [[Kalina people|Carib]] tribes dominated Guyana. Although [[Christopher Columbus]] sighted Guyana during his third voyage (in 1498), the Dutch were the first to establish colonies: [[Essequibo (colony)|Essequibo]] (1616), [[Berbice]] (1627), and [[Demerara]] (1752). After the [[Kingdom of Great Britain|British]] assumed control in 1796, the Dutch formally ceded the area in 1814. In 1831 the three separate colonies became a single British colony known as [[British Guiana]].
+
+[[File:LocationNetherlandsGuiana.png|thumb|left|A map of [[Dutch colonization of the Guianas|Dutch Guiana]] 1667–1814.]]
+Since its Independence in 1824 Venezuela has claimed the area of land to the west of the [[Essequibo River]]. [[Simón Bolívar]] wrote to the British government warning against the Berbice and Demerara settlers settling on land which the Venezuelans, as assumed heirs of Spanish claims on the area dating to the sixteenth century, claimed was theirs. In 1899 an international tribunal ruled the land belonged to Great Britain. The border disputes persist and no final settlement has been reached <ref name=foxlatino>{{cite web |title = Guyana ponders judicial action in border dispute with Venezuela |url=http://latino.foxnews.com/latino/politics/2014/12/23/guyana-ponders-judicial-action-in-border-dispute-with-venezuela |work = FoxNews Latino |date=23 December 2014 |accessdate = 22 February 2015 }}</ref>
+
+[[File:Boundary lines of British Guiana 1896.jpg|thumb|Map of British Guiana.]]
+Guyana achieved independence from the United Kingdom on 26 May 1966 and became a republic on 23 February 1970, remaining a member of the [[Commonwealth of Nations|Commonwealth]]. The [[United States Department of State|US State Department]] and the US [[Central Intelligence Agency]] (CIA), along with the British government, played a strong role in influencing political control in Guyana during this time.<ref>[http://www.guyana.org/govt/US-declassifed-documents-1964-1968.html US Declassified Documents (1964–1968)]. guyana.org {{wayback|url=http://www.guyana.org/govt/US-declassifed-documents-1964-1968.html |date=20070212125256 |df=y }}</ref> The American government supported [[Forbes Burnham]] during the early years of independence because [[Cheddi Jagan]] was identified as a [[Marxist]]. They provided secret financial support and political campaign advice to Burnham's [[People's National Congress]], to the detriment of the Jagan-led [[People's Progressive Party (Guyana)|People's Progressive Party]], which was mostly supported by Guyanese of East Indian background.
+
+In 1978, Guyana received international notice when 918 members of the American cult, [[Peoples Temple]], died in a mass murder/suicide. Most of the suicides were American and more than 300 children were killed; the people were members of a group led by [[Jim Jones]] in [[Jonestown]], the settlement which they had created. Jim Jones's bodyguards had earlier attacked people taking off at a small remote airstrip close to Jonestown, killing five people, including [[Leo Ryan]], the only US [[United States House of Representatives|congressman]] ever assassinated in the line of duty.
+
+In May 2008, President [[Bharrat Jagdeo]] was a signatory to the [[UNASUR Constitutive Treaty]] of the [[Union of South American Nations]]. Guyana has ratified the treaty.
+
+== Geography ==
+{{main|Geography of Guyana}}
+
+The territory controlled by Guyana lies between latitudes [[1st parallel north|1°]] and [[9th parallel north|9°N]], and longitudes [[56th meridian west|56°]] and [[62nd meridian west|62°W]].
+
+The country can be divided into five natural regions; a narrow and fertile marshy plain along the Atlantic coast (low coastal plain) where most of the population lives; a white sand belt more inland (hilly sand and clay region), containing most of Guyana's mineral deposits; the dense [[rain forest]]s (Forested Highland Region) in the southern part of the country; the desert [[savannah]] in the southern west; and the smallest interior lowlands (interior savannah) consisting mostly of mountains that gradually rise to the Brazilian border.
+
+Some of Guyana's highest mountains are [[Mount Ayanganna]] ({{convert|2042|m|ft|0|disp=or}}), [[Monte Caburaí]] ({{convert|1465|m|ft|0|disp=or}}) and [[Mount Roraima]] ({{convert|2810|m|ft|0|disp=or}} – the highest mountain in Guyana) on the Brazil-Guyana-Venezuela [[tripoint]] border, part of the [[Pakaraima]] range. Mount Roraima and Guyana's table-top mountains ([[tepui]]s) are said to have been the inspiration for [[Sir Arthur Conan Doyle]]'s 1912 novel ''[[The Lost World (Arthur Conan Doyle)|The Lost World]]''. There are also many volcanic [[escarpment]]s and waterfalls, including [[Kaieteur Falls]] which is believed to be the largest water drop in the world.<ref name=independent>{{cite news|title= South America: Do the continental: The best of what's new; spectacular waterfalls, forgotten cities, pre-Inca trails |work = The Independent |date=14 November 2004 |page = Features, page 3 | accessdate=22 February 2015 |first = Mark |last = Rowe }}</ref> North of the [[Rupununi River]] lies the [[Rupununi savannah]], south of which lie the [[Kanuku Mountains]].
+
+[[File:Rupununi Savannah.jpg|thumb|[[Rupununi Savannah]].]]
+
+The four longest rivers are the [[Essequibo River|Essequibo]] at {{convert|1010|km|mi|0}} long, the [[Courantyne River]] at {{convert|724|km|mi|0}}, the [[Berbice River|Berbice]] at {{convert|595|km|mi|0}}, and the [[Demerara River|Demerara]] at {{convert|346|km|mi|0}}. The Corentyne river forms the border with Suriname. At the mouth of the Essequibo are several large islands, including the {{convert|145|km|mi|0|abbr=on}} wide [[Shell Beach, Guyana|Shell Beach]] lies along the northwest coast, which is also a major breeding area for [[sea turtle]]s (mainly [[leatherback sea turtle|leatherbacks]]) and other wildlife.
+
+The local [[climate]] is [[tropical climate|tropical]] and generally hot and humid, though moderated by northeast [[trade winds]] along the coast. There are two rainy seasons, the first from May to mid-August, the second from mid-November to mid-January.
+
+Guyana has one of the largest unspoiled [[rainforest]]s in South America, some parts of which are almost inaccessible by humans. The rich natural history of Guyana was described by early explorers [[Walter Raleigh|Sir Walter Raleigh]] and [[Charles Waterton]] and later by naturalists Sir [[David Attenborough]] and [[Gerald Durrell]]. In 2008, the [[BBC]] ran a three-part programme called ''Lost Land of the Jaguar'' which highlighted the huge diversity of wildlife, including undiscovered species and rare species such as the [[giant otter]] and [[harpy eagle]].
+
+In 2012, Guyana received a $45 million reward from Norway for its rainforest protection efforts. This stems from a 2009 agreement between the nations for a total of $250 million for protecting and maintaining the natural habitat. Thus far, the country has received $115 million of the total grant.
+
+===Regions and Neighbourhood Councils=== <!--Linked from [[Administrative divisions of Guyana]]-->
+{{main|Regions of Guyana|Neighbourhood Councils of Guyana}}
+Guyana is divided into 10 regions:<ref>[http://www.statisticsguyana.gov.gy/pubs/Chapter3_Population_Redistribution_Internal_Migration.pdf Bureau of Statistics – Guyana], CHAPTER III: POPULATION REDISTRIBUTION AND INTERNAL MIGRATION, Table 3.4: Population Density, Guyana: 1980–2002</ref><ref>[http://gina.gov.gy/natprofile/gnprof.html Guyana – Government Information Agency], National Profile. gina.gov.gy {{wayback|url=http://gina.gov.gy/natprofile/gnprof.html |date=20070814020614 |df=y }}</ref>
+{| class="wikitable sortable"
+|- style="background:#bbb;"
+! No
+! Region
+! Area km<sup>2</sup>
+! Population (2012 Census)
+! Population(2012 Census)<br />per km<sup>2</sup>
+|-
+| align=right | '''1''' || [[Barima-Waini]] || 20,339 || 26,941 || 1.32
+|-
+| align=right | '''2''' || |[[Pomeroon-Supenaam]] || 6,195 || 46,810 || 7.56
+|-
+| align=right | '''3''' || [[Essequibo Islands-West Demerara]] || 3,755 || 107,416 || 28.61
+|-
+| align=right | '''4''' || [[Demerara-Mahaica]] || 2,232 || 313,429 || 140.43
+|-
+| align=right | '''5''' || [[Mahaica-Berbice]] || 4,190 || 49,723 || 11.87
+|-
+| align=right | '''6''' || [[East Berbice-Corentyne]] || 36,234 || 109,431 || 3.02
+|-
+| align=right | '''7''' || [[Cuyuni-Mazaruni]] || 47,213 || 20,280 || 0.43
+|-
+| align=right | '''8''' || [[Potaro-Siparuni]] || 20,051 || 10,190 || 0.51
+|-
+| align=right | '''9''' || [[Upper Takutu-Upper Essequibo]] || 57,750 || 24,212 || 0.42
+|-
+| align=right | '''10''' || [[Upper Demerara-Berbice]] || 17,040 || 39,452 || 2.32
+|-
+| || '''Guyana''' || align=left | '''214,999''' || align=left | '''747,884''' || align=left |'''3.48'''
+|}
+
+The regions are divided into 27 neighbourhood councils.<ref>{{cite web |url=http://www.statisticsguyana.gov.gy/pubs/List_of_NDCs.pdf |title=Government of Guyana, Statistics |format=PDF |date= |accessdate=2 May 2010}}</ref>
+
+===Boundary disputes===
+{{see also|Schomburgk Line|Borders of Suriname}}
+Guyana is in [[Territorial dispute|border disputes]] with both [[Suriname]], which claims the area east of the left bank of the [[Corentyne River]] and the New River in southwestern Suriname, and [[Venezuela]] which claims the land west of the Essequibo River, once the [[Dutch colony]] of [[Essequibo (colony)|Essequibo]] as part of Venezuela's [[Guayana Essequiba]].<ref name = foxlatino/><ref>{{Wayback |df=yes|date=20090406062803 |url=http://www.guyanachronicle.com/ARCHIVES/archive%2017-06-07.html |title=Tribunal decision tentatively set for August}}. guyanachronicle.com, Archives for 17 June 2007</ref><ref>{{cite web|url=http://landofsixpeoples.com/news701/nk0702053.html |title=Guyana to experience ‘massive' oil exploration this year |publisher=Landofsixpeoples.com |date=5 February 2007 |accessdate=2 May 2010}}</ref><ref>{{cite web|url=http://www.caribbean360.com/News/Business/Stories/2007/04/27/NEWS0000004303.html |title=News in the Caribbean |publisher=Caribbean360.com |date=27 April 2007 |accessdate=2 May 2010}}</ref> The maritime<ref>[http://www.islandjournal.net/reportc.htm?section=caribbeannewsnow&story=Foreign-affairs-minister-reiterates-Guyana%27s-territorial-sovereignty&id=21520&catid=13 Foreign affairs minister reiterates Guyana's territorial sovereignty]. CaribbeanNetNews.com (17 February 2010).</ref><ref>[http://www.antiguaobserver.com/?p=24790 POINT OF CLARIFICATION: Guyana clears air on Suriname border talk]. [[Caribbean News Agency]] (17 February 2010).</ref> component of the territorial dispute with Suriname was arbitrated by the [[United Nations Convention on Law of the Sea]], and a ruling was announced on 21 September 2007. The ruling concerning the [[Caribbean Sea]] north of both nations found both parties violated treaty obligations and declined to order any compensation to either party.<ref>{{cite web |url=http://www.pca-cpa.org/showpage.asp?pag_id=1147 |title=official site of the Permanent Court of Arbitration |publisher=Pca-cpa.org |accessdate=2 May 2010}}</ref>
+
+When the British surveyed British Guiana in 1840, they included the entire [[Cuyuni River]] basin within the colony. Venezuela did not agree with this as it claimed all lands west of the Essequibo River. In 1898, at Venezuela's request, an international [[Arbitral tribunal|arbitration tribunal]] was convened, and in 1899 they issued an award giving about 94% of the disputed territory to British Guiana.
+
+Venezuela never has accepted the award by this treaty, and raised the issue again at the time of Guyana's independence. This issue is now governed by the Treaty of Geneva of 1966, which was signed by the Governments of Guyana, Great Britain and Venezuela, and Venezuela continues to claim [[Guayana Esequiba (Zona en Reclamación)|Guayana Esequiba]].<ref name="Ishmael">[http://www.guyana.org/features/trail_diplomacy.html Ishmael, Odeen (1998, rev. 2006) "The Trail Of Diplomacy: A Documentary History of the Guyana-Venezuela Border Issue"] Dr. Ishmael was Ambassador of Guyana to Venezuela when this was written.</ref> Venezuela calls this region "Zona en Reclamación" (Reclamation Zone) and Venezuelan maps of the national territory routinely include it, drawing it in with dashed lines.<ref>{{cite web |url=http://www.a-venezuela.com/mapas/map/html/politico.html |title=Mapa Politico de Venezuela |publisher=A-venezuela.com|accessdate=2 May 2010}}</ref>
+
+Specific small disputed areas involving Guyana are [[Ankoko Island]] with Venezuela; Corentyne River<ref>{{cite news | url=http://www.islandjournal.net/reportc.htm?section=caribbeannewsnow&story=Guyana-and-Suriname-border-dispute-continues-despite-UN-findings&id=11740&catid=13 |title=Guyana and Suriname border dispute continues despite UN findings |accessdate=15 December 2008 |first=Oscar |last=Ramjeet |date=28 October 2008 |work=Caribbean Net News}}</ref> with Suriname; and [[New River Triangle]]<ref>{{cite news | url=http://www.stabroeknews.com/2008/opinion/letters/10/24/there-is-no-agreement-recognizing-suriname%E2%80%99s-sovereignty-over-the-corentyne-river/ |title=There is no agreement recognizing Suriname's sovereignty over the Corentyne River |accessdate=15 December 2008 |first=Carolyn |last=Rodrigues-Birkett |date=24 October 2008 |work=Stabroek Newspaper }}</ref> with Suriname. In 1967 a Surinamese survey team was found in the [[New River Triangle]] and was forcibly removed. In August 1969 a patrol of the [[Guyana Defence Force]] found an unauthorised military camp and a partially completed airstrip inside the triangle, and documented evidence of the Surinamese intention to occupy the entire disputed area. After an exchange of gunfire, the [[Surinamese]] were driven from the triangle.
+
+===Environment and biodiversity===
+{{see also|Category:Flora of Guyana|Category:Fauna of Guyana}}
+[[File:Guyana BMNG.png|thumb|Satellite image of Guyana from 2004.]]
+The following habitats have been categorised for Guyana: coastal, marine, littoral, estuarine palustrine, mangrove, riverine, lacustrine, swamp, savanna, white sand forest, brown sand forest, montane, cloud forest, moist lowland and dry evergreen scrub forests (NBAP, 1999). About 14 areas of biological interest have been identified as possible hotspots for a National Protected Area System.
+
+More than 80% of Guyana is still covered by forests, ranging from dry evergreen and seasonal forests to montane and lowland evergreen rain forests. These forests are home to more than a thousand species of trees. Guyana's tropical climate, unique geology, and relatively pristine ecosystems support extensive areas of species-rich rain forests and natural habitats with high levels of [[endemism]]. Approximately eight thousand species of plants occur in Guyana, half of which are found nowhere else.
+
+Guyana has one of the highest levels of [[biodiversity]] in the world. Guyana, with 1,168 [[vertebrate]] species, 814 bird species, boasts one of the richest mammalian fauna assemblages of any comparably sized area in the world. The [[Guiana Shield]] region is little known and extremely rich biologically. Unlike other areas of South America, over 70% of the natural habitat remains pristine.
+
+The rich natural history of British Guiana was described by early explorers [[Walter Raleigh|Sir Walter Raleigh]] and [[Charles Waterton]] and later by naturalists Sir [[David Attenborough]] and [[Gerald Durrell]].
+
+In February 2004, the Government of Guyana issued a title to more than {{convert|1|e6acre|km2}} of land in the Konashen Indigenous District declaring this land as the Konashen Community-Owned Conservation Area (COCA), to be managed by the [[Wai-Wai (people)|Wai Wai]]. In doing so Guyana created the world's largest Community-Owned Conservation Area.<ref>{{cite web|url=http://www.conservation.org/Documents/CI_Konashen_COCA_Biodiversity_Booklet.pdf |title=Biodiversity in the Konashen Community-Owned Conservation Area, Guyana |format=PDF |accessdate=2 May 2010}}</ref>
+
+This important event followed a request made by the Wai Wai community to the government of Guyana and Conservation International Guyana (CIG) for assistance in developing a sustainable plan for their lands in Konashen. The three parties signed a Memorandum of Cooperation which outlines a plan for sustainable use of the Konashen COCA's biological resources, identifies threats to the area's biodiversity, and helps develop projects to increase awareness of the COCA as well as generate the income necessary to maintain its protected status.
+[[File:Golden frog Kaieteur (2).jpg|thumb|''Anomaloglossus beebei'' (Kaieteur), specific to the Guianas.]]
+[[File:Rurrenabaque Bolivia - The Amazon.jpg|thumb|The [[hoatzin]], the national bird of Guyana.]]
+
+The Konashen Indigenous District of Southern Guyana houses the headwaters of the Essequibo River, Guyana's principal water source, and drains the Kassikaityu, Kamoa, Sipu and Chodikar rivers. Southern Guyana is host to some of the most pristine expanses of evergreen forests in the northern part of South America. Most of the forests found here are tall, evergreen hill-land and lower montane forests, with large expanses of flooded forest along major rivers. Thanks to the very low human population density of the area, most of these forests are still intact. The Smithsonian Institution has identified nearly 2,700 species of plants from this region, representing 239 distinct families, and there are certainly additional species still to be recorded.
+
+Such incredible diversity of plants supports even more impressive diversity of animal life, recently documented by a biological survey organised by Conservation International. The clean, unpolluted waters of the [[Essequibo River|Essequibo]] watershed support a remarkable diversity of fish and aquatic invertebrates, and are home to [[giant otters]], [[capybaras]], and several species of [[caimans]].
+
+On land, large mammals, such as [[jaguar]]s, [[tapirs]], [[bush dog]]s, [[giant anteater]]s, and [[saki monkey]]s are still common. Over 400 species of birds have been reported from the region, and the reptile and amphibian faunas are similarly rich. The Konashen COCA forests are also home to countless species of insects, arachnids, and other invertebrates, many of which are still undiscovered and unnamed.
+
+The Konashen COCA is relatively unique in that it contains a high level of biological diversity and richness that remains in nearly pristine condition; such places have become rare on earth. This fact has given rise to various non-exploitative, environmentally sustainable industries such as ecotourism, successfully capitalising on the biological wealth of the Konashen COCA with comparatively little enduring impact.
+
+===World Heritage sites===
+Guyana signed the [[Convention Concerning the Protection of the World Cultural and Natural Heritage#Convention and background|Convention Concerning the Protection of the World Cultural and Natural Heritage]] treaty in 1977, the first Caribbean country to do so. In the mid-1990s, Guyana began the process of selecting sites for World Heritage nomination, and three sites were considered: [[Kaieteur National Park]], [[Shell Beach, Guyana|Shell Beach]] and Historic Georgetown. By 1997, work on Kaieteur National Park was started, and in 1998 work on Historic Georgetown was begun. To date, however, Guyana has not made a successful nomination.{{Citation needed|date=August 2015}}
+
+Guyana submitted the Kaieteur National Park, including the [[Kaieteur Falls]], to UNESCO as its first World Heritage Site nomination. The proposed area and surrounds have some of Guyana's most diversified life zones with one of the highest levels of [[endemic]] species found in South America. The Kaieteur Falls are the most spectacular feature of the park, falling a distance of 226&nbsp;metres. The nomination of Kaieteur Park as a World Heritage Site was not successful, primarily because the area was seen by the evaluators as being too small, especially when compared with the Central Suriname Nature Reserve that had just been nominated as a World Heritage Site (2000). The dossier was thus returned to Guyana for revision.{{Citation needed|date=August 2015}}
+
+Guyana continues in its bid for a World Heritage Site. Work continues, after a period of hiatus, on the nomination dossier for Historic Georgetown. A tentative list indicating an intention to nominate Historic Georgetown was submitted to UNESCO in December 2004. In April 2005, two Dutch experts in conservation spent two weeks in Georgetown supervising architecture staff and students of the [[University of Guyana]] in a historic building survey of the selected area. This is part of the data collection for the nomination dossier.{{Citation needed|date=August 2015}}
+
+[[File:GuyanaKaieteurFalls2004.jpg|thumb|upright|[[Kaieteur Falls]] is the world's largest single-drop waterfall by volume.]]
+
+Meanwhile, as a result of the Kaieteur National Park being considered too small, there is a proposal to prepare a nomination for a Cluster Site that will include the Kaieteur National Park, the [[Iwokrama Forest]] and the [[Kanuku Mountains]]. The Iwokrama rain forest, an area rich in biological diversity, has been described by Major General (Retired) Joseph Singh as "a flagship project for conservation." The Kanuku Mountains area is in a pristine state and is home to more than four hundred species of birds and other animals. {{Citation needed|date=August 2015}}
+
+Guyana holds two of the [[World Wildlife Fund]]'s [[Global 200]] eco-regions,{{Citation needed|date=August 2015}} the Guianan and [[Guiana Highlands]] moist forests. It is also home to several endemic species including the [[Chlorocardium|greenheart]] tree.
+
+===Landmarks===
+[[File:St georges.jpg|thumb|upright|[[St. George's Cathedral, Georgetown]].]]
+; [[St. George's Cathedral, Georgetown|St. George's Anglican Cathedral]]: One of the tallest wooden church structures in the world and the second tallest wooden house of worship after the [[Todaiji Temple]] in Japan.
+; [[Demerara Harbour Bridge]]: The world's fourth-longest floating bridge.
+; [[Berbice Bridge]]: The world's sixth-longest floating bridge.
+; [[Secretariat of the Caribbean Community|Caribbean Community (CARICOM) Building]]: Houses the headquarters of the largest and most powerful economic union in the Caribbean.
+; [[Providence Stadium]]: Situated on Providence on the north bank of the [[Demerara River]] and built in time for the ICC World Cup 2007, it is the largest sports stadium in the country. It is also near the Providence Mall, forming a major spot for leisure in Guyana.
+; Guyana International Conference Centre: Presented as a gift from the People's Republic of China to the Government of Guyana. It is the only one of its kind in the country.
+; [[Stabroek Market]]: A large cast-iron colonial structure that looked like a statue was located next to the Demerara River.
+; [[Georgetown City Hall|City Hall]]: A beautiful wooden structure also from the colonial era.
+; [[Takutu River Bridge]]: A bridge across the Takutu River, connecting Lethem in Guyana to Bonfim in Brazil.[http://www.kaieteurnewsonline.com/2009/07/29/takutu-bridge-to-open-friday/ Takutu River Bridge]
+
+== Economy ==
+{{refimprove section|date=September 2014}}
+{{main|Economy of Guyana|Agriculture in Guyana}}
+{{see also|List of Guyanese companies}}
+[[File:Tractor in field of rice by Khirsah1.jpg|thumb|A tractor in a [[rice field]] on Guyana's coastal plain.]]
+
+The main economic activities in Guyana are agriculture (production of rice and [[Natural brown sugar|Demerara sugar]]), [[bauxite]] mining, gold mining, timber, shrimp fishing and minerals. Chronic problems include a shortage of skilled [[labour (economics)|labour]] and a deficient infrastructure. In 2008, the economy witnessed a 3% increase in growth amid the global [[Financial crisis of 2007–08|economic crisis]], grew an impressive 5.4% in 2011 and 3.7% in 2012.
+
+Until recently, the government was juggling a sizeable external debt against the urgent need for expanded public investment. Low prices for key mining and agricultural commodities combined with troubles in the bauxite and sugar industries, had threatened the government's tenuous fiscal position and dimmed prospects for the future. However, the Guyanese economy has rebounded slightly and exhibited moderate economic growth since 1999, thanks to an expansion in the agricultural and mining sectors, a more favourable atmosphere for business initiatives, a more realistic exchange rate, fairly low inflation, and the continued support of international organisations.
+
+The sugar industry, which accounts for 28% of all export earnings, is largely run by the company [[GuySuCo]], which employs more people than any other industry. Many industries have a large foreign investment. For example, the mineral industry is heavily invested in by the American company [[Reynolds Metals]] and the British-Australian [[Rio Tinto Group|Rio Tinto's]] Rio Tinto Alcan subsidiary; the Korean/Malaysian Barama Company has a large stake in the logging industry.
+
+[[File:Guyana Export Treemap.jpg|thumb|Graphical depiction of Guyana's product exports in 28 colour-coded categories.]]
+The production of [[balatá]] (natural [[latex]]) was once big business in Guyana. Most of the balata bleeding in Guyana took place in the foothills of the Kanuku Mountains in the Rupununi. Early exploitation also took place in the North West District, but most of the trees in the area were destroyed by illicit bleeding methods that involved cutting down the trees rather than making incisions in them. Uses of balatá included the making of [[cricket]] balls, the temporary filling of troublesome tooth cavities, and the crafting of figurines and other decorative items (particularly by the Macushi people of the Kanuku mountains).
+
+Major [[private sector]] organisations include the Private Sector Commission (PSC)<ref>{{cite web|author=RedSpider, Romona Khan |url=http://www.psc.org.gy |title=Private Sector Commission |publisher=Psc.org.gy |accessdate=2 May 2010}}</ref> and the Georgetown Chamber of Commerce & Industry (GCCI);<ref>{{cite web |url=http://www.georgetownchamberofcommerce.org |title=Georgetown Chamber of Commerce & Industry (GCCI) |publisher=Georgetownchamberofcommerce.org|accessdate=2 May 2010}}</ref>
+
+The government initiated a major overhaul of the tax code in early 2007. The [[Value Added Tax]] (VAT) was brought into effect, replacing six different taxes. Prior to the implementation of the VAT, it had been relatively easy to evade sales tax, and many businesses were in violation of tax code. Many businesses were very opposed to VAT introduction because of the extra paperwork required; however, the Government has remained firm on the VAT. By replacing several taxes with one flat tax rate, it will also be easier for government auditors to spot [[embezzlement]]. This was prevalent under the former PPP/C regime who authorised the VAT to be equal to 50% of the value of the good. While the adjustment to VAT has been difficult, it may improve day-to-day life because of the significant additional funds the government will have available for public spending.
+
+President [[Bharrat Jagdeo]] had made [[debt relief]] a foremost priority of his administration. He was quite successful, getting US$800&nbsp;million of debt written off by the [[International Monetary Fund]] (IMF), [[World Bank Group|the World Bank]] and the [[Inter-American Development Bank]] (IDB), in addition to millions more from other industrial nations. Jagdeo was lauded by IDB President Moreno for his strong leadership and negotiating skills in pursuing debt relief for Guyana and several other regional countries.
+
+===Summary===
+[[File:Guyana's splenders.jpg|thumb|[[Thatched roof]] houses in Guyana]]
+{{Columns
+|style="width:500px;" |gap=20px
+|col1 =
+; GDP/[[Purchasing power parity|PPP]] (2007 estimate) : US$3.082&nbsp;billion (US$4,029 per capita)
+; Real growth rate: 3.6%
+; Inflation: 12.3%
+; Unemployment: 11.0% (2007)<ref name="cia"/>
+; Arable land: 2%
+; Labour force: 418,000 (2001 estimate)
+; Agricultural produce: sugar, rice, vegetable oils, beef, pork, poultry, dairy products, fish, shrimp
+; Industrial production: [[bauxite]], sugar, rice milling, timber, textiles, gold mining
+|col2 =
+; Natural resources: bauxite, gold, diamonds, hardwood timber, shrimp, fish
+; Exports: US$621.6&nbsp;million (2006 estimate)<br />sugar, gold, bauxite/alumina, rice, shrimp, [[molasses]], rum, timber, sugar, citrus fruits.
+; Imports: US$706.9&nbsp;million (2006 estimate)<br />manufactured items, machinery, petroleum, food.
+; Major trading partners: Canada, US, UK, Portugal, Jamaica, Trinidad and Tobago, China, Cuba, Singapore, Japan , Brazil, Suriname (2009)
+}}
+
+== Demographics ==
+{{main|Demographics of Guyana|Guyanese people}}
+[[File:Guyana population density.png|thumb|Guyana's population density in 2005 (people per km<sup>2</sup>).]]
+[[File:Population Guyana.PNG|left|thumb|A graph showing the population of Guyana from 1961 to 2003. The population decline in the 1980s can be clearly seen.]]
+
+Most of Guyana's population (90%) lives in a narrow coastal strip which ranges from {{convert|10|to|40|mi|disp=flip}} in width and which makes up approximately 10% of the nation's total land area.<ref>{{cite web |url=http://www.geographia.com/guyana/geninfo.html |title=Guyana General Information|publisher=Geographia.com|accessdate=2 May 2010}}</ref>
+
+The present population of Guyana is racially and ethnically heterogeneous, with ethnic groups originating from [[India]], Africa, Europe, and China, as well as [[Indigenous peoples of the Americas|indigenous]] or aboriginal peoples. Despite their diverse ethnic backgrounds, these groups share two common languages: English and [[Guyanese Creole|Creole]].
+
+The largest ethnic group is the [[Indo-Guyanese]] (also known as [[Indo-Caribbeans|East Indians]]), the descendants of indentured labourers from [[India]], who make up 43.5% of the population, according to the 2002 census. They are followed by the [[Afro-Guyanese]], the descendants of slaves from Africa, who constitute 30.2%. Guyanese of mixed heritage make up 16.7%, while the indigenous peoples (known locally as [[Amerindians]]) make up 9.1%. The indigenous groups include the [[Arawaks]], the [[Wai-Wai (people)|Wai Wai]], the [[Kalina people|Caribs]], the [[Akawaio people|Akawaio]], the [[Arecuna]], the [[Patamona]], the [[Wapixana]], the [[Macushi]] and the [[Warao people|Warao]].<ref name="cia"/> The two largest groups, the Indo-Guyanese and Afro-Guyanese, have experienced some racial tension.<ref>"[http://www.bbc.co.uk/caribbean/news/story/2005/09/050920_guyana_race.shtml Guyana turns attention to racism]". BBC News. 20 September 2005.</ref><ref>"[http://www.guyana.org/features/conflicts_indiansandblacks.html Conflict between East-Indian and Blacks in Trinidad and Guyana Socially, Economically and Politically]". Gabrielle Hookumchand, Professor Moses Seenarine. 18 May 2000.</ref><ref>[http://www.ibtimes.com/articles/265657/20111212/guyana-politics-election-blacks-indians-ramotar-ppp.htm International Business Times: "Guyana: A Study in Polarized Racial Politics"] 12 December 2011</ref>
+
+Most Indo-Guyanese are descended from [[Bhojpuri]]-speaking [[Bihari people|Bihari]] and Uttar Pradesh migrants.<ref>{{cite book |url=https://books.google.com/?id=RCF6NnEv9oAC&pg=PA30 |title=Music of Hindu Trinidad |author=Helen Myers |isbn=9780226554532 |year=1999}}</ref> Many Indo-Guyanese are also descended [[Tamil language|Tamil]] speaking Tamils from [[Tamil Nadu]], and [[Telugus]] of [[Telangana]] and [[Andhra Pradesh]] in [[South India]].<ref>{{cite book |url=http://indiandiaspora.nic.in/diasporapdf/chapter17.pdf |title=Indian Diaspora }}</ref>
+
+The distribution pattern in the 2002 census was similar to those of the 1980 and 1991 censuses, but the share of the two main groups has declined. Indo-Guyanese made up 51.9% of the total population in 1980, but by 1991 this had fallen to 48.6%, and then to 43.5% in the 2002 census. Those of African descent increased slightly from 30.8% to 32.3% during the first period (1980 and 1991) before falling to 30.2% in the 2002 census. With small growth in the overall population, the decline in the shares of the two larger groups has resulted in the relative increase of shares of the multiracial and Amerindian groups. The Amerindian population rose by 22,097 people between 1991 and 2002. This represents an increase of 47.3% or annual growth of 3.5%. Similarly, the multiracial population increased by 37,788 persons, representing a 43.0% increase or annual growth rate of 3.2% from the base period of 1991 census. The number of [[Portuguese Guyanese|Portuguese]] (4.3% of the population in 1891) has been declining constantly over the decades.<ref>"[http://www.guyana.org/special/portuguese.html Portuguese emigration from Madeira to British Guiana]"</ref>
+
+===Largest cities===
+{| class="wikitable sortable"
+|+ Largest cities and towns of Guyana<ref>http://www.geonames.org/GY/largest-cities-in-guyana.html</ref>
+|-
+! Rank !! [[List of cities and towns in Guyana|Name]] !! [[Regions of Guyana|Region]] !! Population
+|-
+| '''1''' || [[Georgetown, Guyana|Georgetown]] || [[Demerara-Mahaica]] || 235,017
+|-
+| '''2''' || [[Linden, Guyana|Linden]] || [[Upper Demerara-Berbice]] || 44,690
+|-
+| '''3''' || [[New Amsterdam, Guyana|New Amsterdam]] || [[East Berbice-Corentyne]] || 35,039
+|-
+| '''4''' || [[Anna Regina]] || [[Pomeroon-Supenaam]] || 12,448
+|-
+| '''5''' || [[Bartica]] || [[Cuyuni-Mazaruni]] || 11,157
+|-
+| '''6''' || [[Skeldon, Guyana|Skeldon]] || [[East Berbice-Corentyne]] || 5,859
+|-
+| '''7''' || [[Rosignol]] || [[Mahaica-Berbice]] || 5,782
+|-
+| '''8''' || [[Mahaica]] (village) || [[Demerara-Mahaica]] || 4,867
+|-
+| '''9''' || [[Parika]] || [[Essequibo Islands-West Demerara]] || 4,081
+|-
+| '''10''' || [[Vreed en Hoop]] || [[Demerara-Mahaica]] || 3,073
+|}
+
+===Language===
+{{main|Languages of Guyana}}
+English is the official language of Guyana and is used for education, government, media, and services. The vast majority of the population speaks [[Guyanese Creole]], an English-based creole with slight African and East Indian influence, as their native tongue.<ref>Damoiseau, Robert (2003) ''Eléments de grammaire comparée français-créole guyanais'' Ibis rouge, Guyana, ISBN 2-84450-192-3</ref> In addition, [[Cariban languages]] ([[Akawaio language|Akawaio]], [[Wai-Wai (people)|Wai-Wai]], and [[Macushi]]) are spoken by a small minority, while [[Indo-Aryan languages|Indic languages]] are retained for cultural and religious reasons.
+
+===Religion===
+{{main|Religion in Guyana}}
+Data from a 2002 census on religious affiliation indicated that approximately 57% of the population was Christian, 28% were [[Hindu]] and 7% were Muslims, while 4% of the population did not profess any religion.<ref name=report>[http://www.state.gov/g/drl/rls/irf/2007/90256.htm International Religious Freedom Report 2007: Guyana]. United States [[Bureau of Democracy, Human Rights, and Labor]]. ''This article incorporates text from this source, which is in the [[public domain]].''</ref>
+
+Most Guyanese Christians are either Protestants or Roman Catholics and include a mix of all races.
+
+== Government and politics ==
+{{main|Politics of Guyana}}
+{{Refimprove section|date=December 2008}}
+
+[[File:Old residence.jpg|thumb|left|The State House, Guyana's presidential residence.]]
+[[File:Cottage of city Georgetown.jpg|thumb|right|The Supreme Court of Guyana.]]
+[[File:Parliament building, Guyana.jpg|thumb|right|Guyana's parliament building since 1834.]]
+
+The [[politics of Guyana]] takes place in a framework of a [[representative democracy|representative democratic]] republic, whereby the [[President of Guyana]] is the [[head of government]], and of a [[multi-party system]]. [[Executive power]] is exercised by the government. [[Legislative power]] is vested in both the government and the [[National Assembly of Guyana]].
+
+Historically, politics are a source of tension in the country, and violent riots have often broken out during elections. During the 1970s and 1980s, the political landscape was dominated by the People's National Congress.
+
+In 1992, the first "free and fair" elections were overseen by former United States President [[Jimmy Carter]], and the People's Progressive Party has led the country since. The two parties are principally organised along ethnic lines and as a result often clash on issues related to the allocation of resources.
+
+General Elections were held on 28 November 2011, which resulted in a re-election of the People's Progressive Party (PPP) and installation of that party's presidential candidate [[Donald Ramotar]] as President.
+
+On 11 May 2015, early general elections were held, resulting in a victory for A Partnership For National Unity-Alliance For Change (APNU-AFC) Coalition party. APNU-AFC, a multi-ethnic, multi-party coalition, won a majority, 33 of 65 seats in the National Assembly. On 16 May 2015, retired army general David A. Granger was sworn in as the eighth Executive President of the Co-operative Republic of Guyana.
+
+===Military===
+{{Main|Guyana Defence Force}}
+
+The Guyana Defence Force (GDF) is the military service of Guyana.
+
+== Infrastructure and telecommunications ==
+
+===Transport===
+{{main|Transport in Guyana}}
+[[File:LethemBridge.jpg|thumb|right|Cross-border bridge from Guyana to [[Brazil]] near [[Lethem, Guyana|Lethem]].]]
+There are a total of {{convert|116|mi|km|disp=flip}} of railway, all dedicated to ore transport. There are {{convert|4952|mi|km|disp=flip}} of highway, of which {{convert|367|mi|km|disp=flip}} are paved. Navigable waterways extend to {{convert|669|mi|km|disp=flip}}, including the Berbice, Demerara, and Essequibo rivers.
+There are ports at Georgetown, Port Kaituma, and [[New Amsterdam, Guyana|New Amsterdam]]. There is one international airport ([[Cheddi Jagan International Airport]], Timehri); one regional airport ([[Ogle Airport]]); and about 90 airstrips, nine of which have paved runways. Guyana, [[Suriname]] and the [[Falkland Islands]] are the only three regions in South America which [[drive on the left]].
+
+===Electricity===
+{{main|Electricity sector in Guyana}}
+The electricity sector in Guyana is dominated by [[Guyana Power and Light]] (GPL), the state-owned vertically integrated utility. Although the country has a large potential for hydroelectric and [[bagasse]]-fueled power generation, most of its 226 [[Megawatt|MW]] of installed capacity correspond to inefficient thermoelectric diesel-engine driven generators.{{Citation needed|date=January 2012}}
+
+Several initiatives are in place to improve [[Hinterland energy in Guyana|energy access in the hinterland]].
+
+===Water supply and sanitation===
+{{main|Water supply and sanitation in Guyana}}
+Key issues in the [[Water supply|water]] and [[sanitation]] sector in Guyana are poor service quality, a low level of cost recovery and low levels of access. A high-profile management contract with the British company [[Severn Trent]] was cancelled by the government in February 2007. In 2008 the public utility Guyana Water Inc implemented a Turnaround Plan (TAP) to reduce [[non-revenue water]] and to financially consolidate the utility. NRW reduction is expected to be 5% per annum for the three-year period of the plan, A midterm review is now due to examine the success of the TAP.
+
+===Telecommunications===
+{{CIA-Sect|date=June 2012}}
+Per the CIA World Factbook:<ref name="cia"/>
+
+====Telephone system====
+* Telephones : 154,200 main telephone lines (2012)
+* Telephones – mobile cellular: 600,000+ (2014)
+* Domestic: microwave radio relay network for trunk lines; fixed-line teledensity is about 20 per 100 persons; many areas still lack fixed-line telephone services; mobile-cellular teledensity reached 70 per 100 persons in 2011
+* International: country code – 592; tropospheric scatter to Trinidad; satellite earth station – 1 Intelsat (Atlantic Ocean)
+
+Guyana Telephone & Telegraph (GT&T) is the main mobile phone provider<ref>[http://www.comverse.com/press_releases.aspx?news=guyana_telephone_telegraph Guyana Telephone & Telegraph Chooses Comverse for Business Transformation]. MarketWatch.com (5 July 2011)</ref><ref>{{cite web|url=http://www.billingworld.com/news/2011/07/guyana-telephone-telegraph-taps-comverse.aspx |title=Guyana Telephone & Telegraph Taps Comverse |publisher=Billingworld.com |date=5 July 2011 |accessdate=4 March 2012}}</ref><ref>{{cite web|url=http://www.iewy.com/29708-guyana-telephone-telegraph-chooses-comverse-for-business-transformation.html |title=Guyana Telephone & Telegraph Chooses Comverse for Business Transformation |publisher=Iewy.com |date=5 July 2011 |accessdate=4 March 2012}}</ref>
+
+Digicel is also present in Guyana since 2007 providing mobile service for its citizens
+
+====Radio broadcast stations====
+* AM 3, FM 6, shortwave 1 (1998)
+* FM 88.5 – Rock FM (New Amsterdam, Berbice)<ref>{{cite web|url=https://www.facebook.com/88.5rockfm |title=Little Rock Radio – 88.5 Rock FM – New Amsterdam (Guyana) – Artiest |publisher=Facebook |date= |accessdate=30 March 2014}}</ref> 
+* FM 89.1 – NTN Radio (Georgetown, Demerara)<ref>{{cite web|title=About NTN|url=http://ntntv-radio.com/?page_id=18|publisher=NTN Radio|accessdate=30 March 2014}}</ref> 
+* FM 89.3 – Radio Guyana Inc. (Essequibo re-transmission frequency)<ref name="radioguyanafm1">{{cite web|url=http://radioguyanafm89.com |title=Radio Guyana Inc. &#124; More Music, More Memories |publisher=Radioguyanafm89.com |date=21 November 2013 |accessdate=30 March 2014}}</ref> 
+* FM 89.7 – Radio Guyana Inc. (Berbice re-transmission frequency)<ref name="radioguyanafm1"/> 
+* FM 93.1 – Radio Guyana Inc. (Georgetown, Demerara)<ref name="radioguyanafm1"/> 
+* FM 94.1 – Boom FM (Georgetown, Demerara)<ref>{{cite web|title=HJ Radio {{!}} 94#1 Boom FM|url=http://www.hj941.com|publisher=Hits & Jams Entertainment|accessdate=30 March 2014}}</ref> 
+* FM 98.1 – Hot FM (Georgetown, Demerara)
+* FM 100.1 – Fresh FM (Georgetown, Demerara)
+
+====Television broadcast stations====
+Television broadcast was officially introduced to Guyana in 1991.
+* 15 (1 public station (channel 11); 14 private stations which relay US satellite services) (1997)
+
+Of which are;
+L.R.T.V.S-Little Rock Television Station channel 10 (New Amsterdam, Berbice)
+H.G.P-Halagala General Productions television (Beterverwagting Village, Demerara)
+RCA Television charity,Esssequibo coast
+
+====Satellite television====
+* Satellite television services are offered by DirecTV Caribbean and E-Networks.
+
+====Internet system====
+* Internet country code: [[.gy]]
+* Internet hosts: 6,218 (2008){{Citation needed|date=December 2009}}
+* Internet users: 270,200 (2014)<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html |title=World Factbook: Guyana | publisher=CIA | accessdate=24 January 2016}}</ref>
+
+== Health ==
+{{main|Health in Guyana}}
+
+[[Life expectancy]] at birth is estimated to be 67.39 years for both males and females in 2012.<ref>[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html?countryName=Guyana&countryCode=gy&regionCode=soa&rank=159#gy Life Expectancy ranks]. CIA World Factbook</ref> The PAHO/ WHO Global Health Report 2014 (using statistics of 2012) ranked the country as having the highest [[suicide]] rate in the world, with a mortality rate of 44.2 per 100,000 inhabitants.<ref>[http://apps.who.int/iris/bitstream/10665/131056/1/9789241564779_eng.pdf?ua=1&ua=1 WHO Report 2014 Preventing suicide: A global imperative.]</ref><ref>[http://www.economist.com/news/americas/21616972-when-it-comes-people-taking-their-own-lives-guyana-leads-world-desperate-measures?fsrc=email_to_a_friend The Economist: Suicide – Desperate Measures, 13 Sept 2014.]</ref>  According to 2011 estimates from the [[WHO]], [[HIV]] [[prevalence]] is 1.2% of the adult population (ages 15–49).<ref>[http://www.who.int/gho/publications/world_health_statistics/EN_WHS2011_Part1.pdf WHO Health-Related Millennium Development Goals Report 2011]. Part1</ref> Although Guyana's health profile falls short in comparison with many of its Caribbean neighbours, there has been remarkable progress since 1988, and the Ministry of Health is working to upgrade conditions, procedures, and facilities.{{citation needed|date=January 2016}}
+
+== Education ==
+{{main|Education in Guyana}}
+[[File:Queens College Guyana.jpg|thumb]]
+{{unreferenced section|date=February 2013}}
+
+Guyana's educational system is considered to be among the best in the Caribbean, but it deteriorated significantly in the 1980s, because of inadequate funding and emigration of many highly educated citizens. Although the education system recovered in the 1990s, it still does not produce the quality of educated students necessary for Guyana to modernise its workforce.{{Citation needed|date=May 2010}} The country lacks a critical mass of expertise in many of the disciplines and activities on which it depends.
+
+The educational system does not sufficiently focus on the training of Guyanese in science and technology, technical and vocational subjects, [[business management]], or [[computer science]]s.{{Citation needed|date=May 2010}} The Guyanese education system is modelled on the former [[British education]] system. Students are expected to take the NGSA (National Grade Six Assessment) for entrance into high school in grade 7. They take the [[CXC]] at the end of high school. Schools have introduced the [[Caribbean Advanced Proficiency Examination|CAPE]] exams which all other Caribbean countries have introduced. The [[Advanced Level (UK)|A-level]] system, inherited from the British era, has all but disappeared and is offered only in a few schools.
+
+Further adding to the problems of the educational system, many of the better-educated professional teachers have emigrated to other countries over the past two decades, mainly because of low pay, lack of opportunities and crime.{{Citation needed|date=May 2010}}
+
+== Culture ==
+{{main|Culture of Guyana}}
+{{see also|Literature of Guyana|Music of Guyana}}
+{{unreferenced section|date=February 2013}}
+{| style="float:right;" class="wikitable"
+|+ <span style="font-size:115%;">Holidays</span>
+|-
+| 1 January || New Year's Day
+|-
+| Spring || [[Youman Nabi]]
+|-
+| 23 February || [[Republic Day]]{{\}}[[Mashramani]]
+|-
+| March || [[Phagwah]]
+|-
+| March{{\}}April || [[Good Friday]]
+|-
+| March{{\}}April || [[Easter Sunday]]
+|-
+| 5 May || [[Indian Arrival Day]]
+|-
+| 26 May || [[Independence Day]]
+|-
+| First Monday in July || [[CARICOM Day]]
+|-
+| 1 August || [[Emancipation Day]]
+|-
+| October{{\}}November || [[Diwali]]
+|-
+| 25 December || Christmas
+|-
+| {{nowrap|26 or 27 December}} || [[Boxing Day]]
+|}
+
+Guyana's culture is very similar to that of the English-speaking Caribbean, and has historically been tied to the English-speaking Caribbean as part of the British Empire when it became a possession in the nineteenth century. Guyana is a founding member of the [[Caricom]] (Caribbean Community) economic bloc and also the home of the Bloc's Headquarters, the CARICOM Secretariat.
+
+Guyana's geographical location, its sparsely populated rain-forest regions, and its substantial Amerindian population differentiate it from English-speaking Caribbean countries. Its blend of Indo-Guyanese (East Indian) and Afro-Guyanese (African) cultures gives it similarities to [[Trinidad]] and distinguishes it from other parts of the Americas. Guyana shares similar interests with the islands in the [[West Indies]], such as food, festive events, music, sports, etc.
+
+Guyana plays international cricket as a part of the [[West Indian cricket team|West Indies cricket team]], and the [[Guyanese cricket team|Guyana team]] plays [[first class cricket|first-class cricket]] against other nations of the Caribbean. In March and April 2007 Guyana co-hosted the [[Cricket World Cup 2007]]. In addition to its CARICOM membership, Guyana is a member of [[CONCACAF]], the international football federation for North and Central America and the Caribbean.
+
+Events include [[Mashramani]] (Mash), [[Phagwah]] ([[Holi]]), and [[Deepavali]] ([[Diwali]]).
+
+== Sports ==
+{{see also|Cricket in the West Indies}}
+[[File:Providence Stadium outside.jpg|thumb|left|[[Providence Stadium]] as seen from the East Bank Highway.]]
+
+The major sports in Guyana are [[Guyana national cricket team|cricket]] (Guyana is part of the [[West Indian cricket team|West Indies]] as defined for international cricket purposes<ref>{{cite web|title=Composition and countries|url=http://www.windiescricket.com/|work=W.I Cricket team|publisher=West Indies Cricket Board|accessdate=27 November 2013}}</ref>), [[Basketball in Guyana|basketball]], [[soccer]] ([[association football|football]]) and volleyball.<ref>{{cite web|title=SPORTS, LITERATURE|url=http://www.guyana.org/Handbook/sprtslit.html|publisher=Guyana News and Information|accessdate=30 November 2015}}</ref> Minor sports include [[beach cricket|softball cricket (beach cricket)]], field hockey, [[netball]], [[rounders]], [[lawn tennis]],  table tennis, [[boxing]], [[squash (sport)|squash]], [[Guyana national rugby union team|rugby]], [[horse racing]] and a few others.
+
+Guyana played host to [[international cricket]] matches as part of the [[2007 Cricket World Cup]] (CWC 2007). The new 15,000-seat [[Providence Stadium]], also referred to as Guyana National Stadium, was built in time for the [[Cricket World Cup 2007|World Cup]] and was ready for the beginning of play on 28 March. At the first international game of CWC 2007 at the stadium, [[Lasith Malinga]] of the [[Sri Lanka national cricket team|Sri Lankan team]] took four wickets in four consecutive deliveries.<ref>{{cite news|title=Providence stadium – Records and statistics|url=http://www.cricketworld4u.com/grounds/00042.php|accessdate=27 November 2013|newspaper=Cricket World 4U}}</ref>
+
+For international football purposes, [[Guyana national football team|Guyana]] is part of [[CONCACAF]]. The highest league in their club system is the [[GFF National Super League]].
+
+Guyana also has five courses for [[horse racing]].<ref>{{cite news|last=Service|first=K News|title=Guyana Horse Racing Authority continues its drive to regularize the sport|url=http://www.kaieteurnewsonline.com/2013/07/11/guyana-horse-racing-authority-continues-its-drive-to-regularize-the-sport/|accessdate=27 November 2013|newspaper=Kaiteur News|date=11 July 2013}}</ref>
+{{clear}}
+
+== See also ==
+{{portal|Guyana|Caribbean Community|Latin America}}
+<!-- * [[Bibliography of Guyana]] -->
+<!-- * {{wikipedia books link|Guyana}} -->
+<!-- * [[International rankings of Guyana]] -->
+<!-- * [[List of Guyanans]] -->
+<!-- * [[List of places in Guyana]] -->
+* [[Index of Guyana-related articles]]
+* [[LGBT rights in Guyana]]
+* [[List of international rankings]]
+* [[Outline of Guyana]]
+
+== References ==
+{{reflist
+|30em
+|refs =
+<ref name="cia">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html |title=The World Factbook: Guyana |publisher=CIA |accessdate=6 January 2014}}</ref>
+<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=336&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=25&pr.y=14 |title=Guyana |publisher=International Monetary Fund |accessdate=18 April 2013}}</ref>
+}}
+
+== Further reading ==
+{{div col|30em}}
+* {{cite book
+  | last = Brock
+  | first = Stanley E.
+  | authorlink = Stan Brock (philanthropist)
+  | title = All the Cowboys Were Indians
+  | edition = Commemorative, illustrated (reprint of ''Jungle Cowboy'')
+  | year = 1999
+  | publisher = Synergy South, Inc
+  | location = Lenoir City, TN
+  | isbn = 978-1-892329-00-4
+  | oclc = 51089880
+  | url = https://books.google.com/books?id=dtUcPQAACAAJ&dq=ISBN9781892329004
+  | accessdate = 7 January 2010
+  | ref = harv
+}}
+* {{cite book
+  | last = Brock
+  | first = Stanley E.
+  | authorlink = Stan Brock (philanthropist)
+  | title = Jungle Cowboy
+  | edition = illustrated
+  | year = 1972
+  | publisher = Robert Hale Ltd
+  | location = London
+  | isbn = 978-0-7091-2972-1
+  | oclc = 650259
+  | url = https://books.google.com/books?id=awK7PAAACAAJ&dq=ISBN9780709129721
+  | accessdate = 7 January 2010
+  | ref = harv
+}}
+* Donald Haack, ''Bush Pilot in Diamond Country''
+* [[Hamish MacInnes]], ''Climb to the Lost World'' (1974)
+* Andrew Salkey, ''Georgetown Journal'' (1970)
+* Marion Morrison, ''Guyana'' (Enchantment of the World Series)
+* Bob Temple, ''Guyana''
+* Noel C. Bacchus, ''Guyana Farewell: A Recollection of Childhood in a Faraway Place''
+* Marcus Colchester, ''Guyana: Fragile Frontier''
+* Matthew French Young, ''Guyana: My Fifty Years in the Guyanese Wilds''
+* Margaret Bacon, ''Journey to Guyana''
+* Father Andrew Morrison SJ, ''Justice: The Struggle For Democracy in Guyana 1952–1992''
+* {{cite book
+  | last = Daly
+  | first = Vere T.
+  | title = The Making of Guyana
+  | year = 1974
+  | publisher = Macmillan
+  | isbn = 978-0-333-14482-4
+  | oclc = 1257829
+  | url = https://books.google.com/books?id=UOFrAAAAMAAJ
+  | accessdate = 7 January 2010
+  | ref = harv
+  }}
+* [[D. Graham Burnett]], ''Masters of All They Surveyed: Exploration, Geography and a British El Dorado''
+* Ovid Abrams, ''Metegee: The History and Culture of Guyana''
+* {{cite book
+  | last = Waugh
+  | first = Evelyn
+  | authorlink = Evelyn Waugh
+  | title = Ninety-two days: The account of a tropical journey through British Guiana and part of Brazil
+  | year = 1934
+  | publisher = Farrar & Rinehart
+  | location =  New York
+  | oclc = 3000330
+  | url = https://books.google.com/books?id=Ed4YAAAAYAAJ
+  | accessdate = 7 January 2010
+  | ref = harv
+  }}
+* [[Gerald Durrell]], ''Three Singles To Adventure''
+* Cheddi Jagan. ''The West on Trial: My Fight for Guyana's Freedom
+* Cheddi Jagan. ''My Fight For Guyana's Freedom: With Reflections on My Father by Nadira Jagan-Brancier''.
+* Colin Henfrey, ''Through Indian Eyes: A Journey Among the Indian Tribes of Guiana''.
+* Stephen G. Rabe, ''US Intervention in British Guiana: A Cold War Story''.
+* [[Charles Waterton]], ''Wanderings in South America''.
+* [[David Attenborough]], ''Zoo Quest to Guiana'' (Lutterworth Press, London: 1956).
+* John Gimlette, ''Wild Coast: Travels on South America's Untamed Edge'', 2011.
+* {{cite book
+  | last = Clementi
+  | first = Cecil
+  | authorlink = Cecil Clementi
+  | title = The Chinese in British Guiana
+  | year = 1915
+  | publisher = The Argosy Compny Limited
+  | location =  Georgetown, British Guiana
+  | oclc = 
+  | url = http://caribbeanpress.org/wp-content/uploads/2013/09/Cecil-Clementi-The-Chinese-In-British-Guiana-Complete-Text.pdf
+  | accessdate = 27 October 2015
+  | ref = harv
+  }}
+{{div col end}}
+
+== External links ==
+{{Sisterlinks|Guyana|n=Category:Guyana|voy=Guyana|m=no|mw=no|species=no}}
+* [http://www.op.gov.gy/ Office of the President, Republic of Guyana] (official website).
+* [[Petroleum exploration in Guyana]]
+* [http://www.parliament.gov.gy/ Parliament of the Cooperative Republic of Guyana] (official website).
+* {{Wikiatlas|Guyana}}
+* [http://www.nxtbook.com/nxtbooks/nextcoast/guyana/#/1 Outsourcing in Guyana] from news publication, Nearshore Americas.
+* {{osmrelation-inline|287083}}
+* {{CIA World Factbook link|gy|Guyana}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1211325.stm Country Profile] from the [[BBC News]].
+* [http://www.britannica.com/nations/Guyana Guyana] from the ''[[Encyclopaedia Britannica]]''.
+* [http://ucblibraries.colorado.edu/govpubs/for/guyana.htm Guyana] at ''UCB Libraries GovPubs''.
+* {{es icon}} [http://esequibo.mppre.gob.ve/ Derechos Venezolanos de Soberania en el Esequiboo], Ministerio del Poder Popular para Relaciones Exteriores.
+* [http://translate.google.com/translate?hl=en&sl=es&u=http://esequibo.mppre.gob.ve/&ei=20wuTeHNL4ep8AaSoeD1CQ&sa=X&oi=translate&ct=result&resnum=1&ved=0CBcQ7gEwAA&prev=/search%3Fq%3Dhttp://esequibo.mppre.gob.ve/%26hl%3Den%26biw%3D1440%26bih%3D691%26prmd%3Divns Venezuelan rights of sovereignty in the Essequibo], Ministry of Popular Power for Foreign Affairs (translated by Google).
+* {{dmoz|Regional/South_America/Guyana}}
+* The State of the World's Midwifery, [http://www.unfpa.org/sowmy/resources/docs/country_info/profile/en_Guyana_SoWMy_Profile.pdf Guyana Country Profile].
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=GY Key Development Forecasts for Guyana] from [[International Futures]].
+* [http://crime.guyana.gy/ Guyana Crime Reports]—crowdsourced
+
+{{Geographic location
+ | Centre = {{flag|Guyana}}
+ | N  = ''[[Atlantic Ocean]]''
+ | NE = ''[[Atlantic Ocean]]''
+ | E  = {{flag|Suriname}}
+ | SE = {{flag|Suriname}} <br/> {{flag|Brazil}}
+ | S  = {{flag|Brazil}}
+ | SW = {{flag|Brazil}}
+ | W  = {{flag|Venezuela}}
+ | NW = {{flag|Venezuela}}
+}}
+{{Navboxes
+| title = Articles related to Guyana
+| list =
+{{Navboxes
+| title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+| list =
+'''[[Geographic coordinate system|Lat. <small>and</small> Long.]] {{coord|6|46|N|58|0|W|display=inline}} <span style="colour:darkblue;">(Georgetown)</span>'''
+{{Countries of South America}}
+{{The Guianas}}
+}}
+{{Navboxes
+| title = International membership
+| list =
+{{Commonwealth of Nations}}
+{{Organisation of Islamic Cooperation}}
+{{SACN}}
+{{Caricom}}
+{{Organization of American States}}
+}}
+{{English official language clickable map}}
+}}
+{{Guyana topics}}
+{{Authority control}}
+
+[[Category:Guyana| ]]
+[[Category:Commonwealth republics]]
+[[Category:Countries in South America]]
+[[Category:Countries in the Caribbean]]
+[[Category:Northern South America]]
+[[Category:English-speaking countries and territories]]
+[[Category:Former English colonies]]
+[[Category:Former monarchies of South America]]
+[[Category:Liberal democracies]]
+[[Category:Member states of the Caribbean Community]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the Union of South American Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:States and territories established in 1966]]
+[[Category:1966 establishments in South America]]
+[[Category:Small Island Developing States]]

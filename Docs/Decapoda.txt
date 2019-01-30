@@ -1,0 +1,149 @@
+Decapoda
+
+{{other uses of|decapod|Decapod (disambiguation)}}
+{{Taxobox
+| name = Decapoda
+| fossil_range = {{fossil_range|Devonian|recent}}
+| image = Haeckel Decapoda.jpg
+| image_caption = "Decapoda" from [[Ernst Haeckel|Ernst Haeckel's]] ''[[Kunstformen der Natur]]'', 1904
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| subphylum = [[Crustacean|Crustacea]]
+| classis = [[Malacostraca]]
+| superordo = [[Eucarida]]
+| ordo = '''Decapoda'''
+| ordo_authority = [[Pierre André Latreille|Latreille]], 1802
+| subdivision_ranks = Suborders
+| subdivision =
+[[Dendrobranchiata]]<br/>
+[[Pleocyemata]]<br/>
+See text for superfamilies.
+}}
+
+The '''Decapoda''' or '''decapods''' (literally "ten-footed") are an order of [[crustacean]]s within the class [[Malacostraca]], including many familiar groups, such as [[crayfish]], [[crab]]s, [[lobster]]s, [[Dendrobranchiata|prawns]], and [[Caridea|shrimp]]. Most decapods are [[scavenger]]s. The order is estimated to contain nearly 15,000 species in around 2,700 genera, with around 3,300 fossil species.<ref name="Grave">{{cite journal |journal = [[Raffles Bulletin of Zoology]] |year=2009 |volume = Suppl. 21 |pages=1–109 |title = A classification of living and fossil genera of decapod crustaceans |author1=Sammy De Grave |author2=N. Dean Pentcheff |author3=Shane T. Ahyong |url=http://rmbr.nus.edu.sg/rbz/biblio/s21/s21rbz1-109.pdf|display-authors=etal}}</ref> Nearly half of these species are crabs, with the shrimp (about 3000 species) and [[Anomura]] (including [[hermit crab]]s, [[porcelain crab]]s, [[squat lobster]]s (about 2500 species) making up the bulk of the remainder.<ref name="Grave"/> The earliest [[fossil]] decapod is the [[Devonian]] ''[[Palaeopalaemon]]''.<ref>{{cite web |url=http://palaeo.gly.bris.ac.uk/Palaeofiles/Fossilgroups/Decapoda/Fossilrecord.html |title=Order Decapoda: Fossil record and evolution |publisher=[[University of Bristol]] |author=Robert P. D. Crean |accessdate=January 2, 2010 |date=November 14, 2004}}</ref>
+
+==Anatomy==
+{{main|Decapod anatomy}}
+As the name Decapoda (from the [[Greek language|Greek]] {{lang|el|[[:wikt:δέκα|δέκα]]}}, ''{{lang|el|[[:wikt:deca-|deca-]]}}'', "ten", and {{lang|el|[[:wikt:πούς|πούς]] / ποδός}}, ''[[:wikt:-pod|-pod]]'', "foot") implies, all decapods have ten legs, in the form of five pairs of thoracic appendages on the last five thoracic segments. The front three pairs function as [[Arthropod mouthparts|mouthparts]] and are generally referred to as [[maxilliped]]s; the remainder are [[pereiopod]]s. In many decapods, however, one pair of legs has enlarged pincers; the claws are called [[chela (organ)|chelae]], so those legs may be called chelipeds. Further appendages are found on the abdomen, with each segment capable of carrying a pair of biramous [[pleopod]]s, the last of which form part of the tail fan (together with the [[telson]]) and are called [[uropod]]s.
+
+==Classification==
+Classification within the order Decapoda depends on the structure of the [[gill]]s and legs, and the way in which the [[larva]]e develop, giving rise to two suborders: [[Dendrobranchiata]] and [[Pleocyemata]]. The Dendrobranchiata consist of prawns, including many species colloquially referred to as "shrimp", such as the "white shrimp", ''[[Litopenaeus setiferus]]''. The Pleocyemata include the remaining groups, including "true shrimp".<ref>{{cite book |author=Elena Mente |year=2008 |title=Reproductive Biology of Crustaceans: Case Studies of Decapod Crustaceans |publisher=[[Science Publishers]] |isbn=978-1-57808-529-3 |page=16}}</ref> Those groups which usually walk rather than swim (Pleocyemata, excluding Stenopodidea and Caridea) form a clade called Reptantia.<ref>{{cite journal |author1=G. Scholtz |author2=S. Richter |year=1995 |title=Phylogenetic systematics of the reptantian Decapoda (Crustacea, Malacostraca) |journal=[[Zoological Journal of the Linnean Society]] |volume=113 |pages=289–328 |doi=10.1006/zjls.1995.0011 |issue=3}}</ref>
+
+This classification to the level of superfamilies follows De Grave ''et al.''<ref name="Grave"/>
+
+[[File:Penaeus vannamei 01.jpg|thumb|right|[[Whiteleg shrimp]], ''Litopenaeus vannamei'' ([[Dendrobranchiata]]: [[Penaeoidea]])]]
+[[File:Heterocarpus ensifer.jpg|thumb|right|''[[Heterocarpus ensifer]]'' ([[Caridea]]: [[Pandaloidea]])]]
+[[File:Austropotamobius pallipes.jpg|thumb|right|''[[Austropotamobius pallipes]]'' ([[Astacidea]]: [[Astacoidea]])]]
+[[File:Upogebia deltaura.jpg|thumb|right|''[[Upogebia deltaura]]'' ([[Gebiidea]]: [[Upogebiidae]])]]
+[[File:Lobster 300.jpg|thumb|right|[[California spiny lobster]], ''Panulirus interruptus'' ([[Achelata]]: [[Palinuridae]])]]
+[[File:Polycheles sculptus.jpg|thumb|right|''[[Polycheles sculptus]]'' ([[Polychelida]]: [[Polychelidae]])]]
+[[File:CoenobitaVariabilis2.jpg|thumb|right|[[Australian land hermit crab]], ''Coenobita variabilis'' ([[Anomura]]: [[Paguroidea]])]]
+[[File:Blue crab on market in Piraeus - Callinectes sapidus Rathbun 20020819-317.jpg|thumb|right|Atlantic blue crab, ''[[Callinectes sapidus]]'' ([[Brachyura]]: [[Portunoidea]])]]
+
+Order '''Decapoda''' <small>Latreille, 1802</small>
+*Suborder '''[[Dendrobranchiata]]''' <small>Bate, 1888</small>
+**[[Penaeoidea]] <small>Rafinesque, 1815</small>
+**[[Sergestoidea]] <small>Dana, 1852</small>
+*Suborder '''[[Pleocyemata]]''' <small>Burkenroad, 1963</small>
+**Infraorder '''[[Stenopodidea]]''' <small>Bate, 1888</small>
+**Infraorder '''[[Caridea]]''' <small>Dana, 1852</small>
+***[[Procaridoidea]] <small>Chace & Manning, 1972</small>
+***[[Galatheacaridoidea]] <small>Vereshchaka, 1997</small>
+***[[Pasiphaeoidea]] <small>Dana, 1852</small>
+***[[Oplophoroidea]] <small>Dana, 1852</small>
+***[[Atyoidea]] <small>De Haan, 1849</small>
+***[[Bresilioidea]] <small>Calman, 1896</small>
+***[[Nematocarcinoidea]] <small>Smith, 1884</small>
+***[[Psalidopodoidea]] <small>Wood-Mason, 1874</small>
+***[[Stylodactyloidea]] <small>Bate, 1888</small>
+***[[Campylonotoidea]] <small>Sollaud, 1913</small>
+***[[Palaemonoidea]] <small>Rafinesque, 1815</small>
+***[[Alpheoidea]] <small>Rafinesque, 1815</small>
+***[[Processoidea]] <small>Ortmann, 1896</small>
+***[[Pandaloidea]] <small>Haworth, 1825</small>
+***[[Physetocaridoidea]] <small>Chace, 1940</small>
+***[[Crangonoidea]] <small>Haworth, 1825</small>
+**Infraorder '''[[Astacidea]]''' <small>Latreille, 1802</small>
+***[[Enoplometopoidea]] <small>de Saint Laurent, 1988</small>
+***[[Nephropoidea]] <small>Dana, 1852</small>
+***[[Astacoidea]] <small>Latreille, 1802</small>
+***[[Parastacoidea]] <small>Huxley, 1879</small>
+**Infraorder '''[[Glypheidea]]''' <small>Winckler, 1882</small>
+***[[Glypheoidea]] <small>Winckler, 1882</small>
+**Infraorder '''[[Axiidea]]''' <small>de Saint Laurent, 1979b</small>
+**Infraorder '''[[Gebiidea]]''' <small>de Saint Laurent, 1979</small>
+**Infraorder '''[[Achelata]]''' <small>Scholtz & Richter, 1995</small>
+**Infraorder '''[[Polychelida]]''' <small>Scholtz & Richter, 1995</small>
+**Infraorder '''[[Anomura]]''' <small>MacLeay, 1838</small>
+***[[Aegloidea]] <small>Dana, 1852</small>
+***[[Galatheoidea]] <small>Samouelle, 1819</small>
+***[[Hippoidea]] <small>Latreille, 1825a</small>
+***[[Kiwaoidea]] <small>Macpherson, Jones & Segonzac, 2005</small>
+***[[Lithodoidea]] <small>Samouelle, 1819</small>
+***[[Lomisoidea]] <small>Bouvier, 1895</small>
+***[[Paguroidea]] <small>Latreille, 1802</small>
+**Infraorder '''[[Brachyura]]''' <small>Linnaeus, 1758</small>
+***Section [[Dromiacea]] <small>De Haan, 1833</small>
+****[[Dromioidea]] <small>De Haan, 1833</small>
+****[[Homolodromioidea]] <small>Alcock, 1900</small>
+****[[Homoloidea]] <small>De Haan, 1839</small>
+***Section [[Raninoida]] <small>De Haan, 1839</small>
+***Section [[Cyclodorippoida]] <small>Ortmann, 1892</small>
+***Section [[Eubrachyura]] <small>de Saint Laurent, 1980</small>
+****Subsection [[Heterotremata]] <small>Guinot, 1977</small>
+*****[[Aethroidea]] <small>Dana, 1851</small>
+*****[[Bellioidea]] <small>Dana, 1852</small>
+*****[[Bythograeoidea]] <small>Williams, 1980</small>
+*****[[Calappoidea]] <small>De Haan, 1833</small>
+*****[[Cancroidea]] <small>Latreille, 1802</small>
+*****[[Carpilioidea]] <small>Ortmann, 1893</small>
+*****[[Cheiragonoidea]] <small>Ortmann, 1893</small>
+*****[[Corystoidea]] <small>Samouelle, 1819</small>
+*****[[Dairoidea]] <small>Serène, 1965</small>
+*****[[Dorippoidea]] <small>MacLeay, 1838</small>
+*****[[Eriphioidea]] <small>MacLeay, 1838</small>
+*****[[Gecarcinucoidea]] <small>Rathbun, 1904</small>
+*****[[Goneplacoidea]] <small>MacLeay, 1838</small>
+*****[[Hexapodoidea]] <small>Miers, 1886</small>
+*****[[Leucosioidea]] <small>Samouelle, 1819</small>
+*****[[Majoidea]] <small>Samouelle, 1819</small>
+*****[[Orithyioidea]] <small>Dana, 1852c</small>
+*****[[Palicoidea]] <small>Bouvier, 1898</small>
+*****[[Parthenopoidea]] <small>MacLeay,</small>
+*****[[Pilumnoidea]] <small>Samouelle, 1819</small>
+*****[[Portunoidea]] <small>Rafinesque, 1815</small>
+*****[[Potamoidea]] <small>Ortmann, 1896</small>
+*****[[Pseudothelphusoidea]] <small>Ortmann, 1893</small>
+*****[[Pseudozioidea]] <small>Alcock, 1898</small>
+*****[[Retroplumoidea]] <small>Gill, 1894</small>
+*****[[Trapezioidea]] <small>Miers, 1886</small>
+*****[[Trichodactyloidea]] <small>H. Milne-Edwards, 1853</small>
+*****[[Xanthoidea]] <small>MacLeay, 1838</small>
+****Subsection [[Thoracotremata]] <small>Guinot, 1977</small>
+*****[[Cryptochiroidea]] <small>Paul'son, 1875</small>
+*****[[Grapsoidea]] <small>MacLeay, 1838</small>
+*****[[Ocypodoidea]] <small>Rafinesque, 1815</small>
+*****[[Pinnotheroidea]] <small>De Haan, 1833</small>
+
+==See also==
+{{Portal|Crustaceans|Arthropods}}
+*[[List of Atlantic decapod species]]
+*[[Phylogeny of Malacostraca]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commons category|Decapoda}}
+*{{wikispecies-inline}}
+* [http://decapoda.nhm.org/ Decapod Crustacea] "Tree of Life" page at the [[Natural History Museum of Los Angeles County]]
+* {{dmoz|Science/Biology/Flora_and_Fauna/Animalia/Arthropoda/Crustacea/Malacostraca/Decapoda/|Decapoda}}
+
+{{Malacostraca}}
+
+{{Authority control}}
+
+[[Category:Decapods| ]]
+[[Category:Malacostraca]]
+[[Category:Extant Devonian first appearances]]
+[[Category:Arthropod orders]]

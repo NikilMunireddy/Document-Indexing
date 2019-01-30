@@ -1,0 +1,132 @@
+Hylidae
+
+{{Refimprove|date=September 2008}}
+{{Taxobox
+| name = Hylidae
+| fossil_range = {{Fossil range|57|0}} [[Paleocene]] – recent<ref name=EoR/>
+| image = Agalychnis callidryas.jpg
+| image_width = 250px
+| image_caption = [[Red-eyed tree frog]], ''Agalychnis callidryas''
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Amphibia]]
+| subordo = [[Neobatrachia]]
+| ordo = [[Frog|Anura]]
+| familia = '''Hylidae'''
+| familia_authority = [[Constantine Samuel Rafinesque|Rafinesque]], 1815
+<!-- ADD SUBFAMILIES HERE -->| subdivision_ranks = Genera
+| subdivision = 
+See text.
+| range_map =  Hylidae_distrib.PNG
+| range_map_width = 250px
+| range_map_caption = Distribution of Hylidae (in black)
+}}
+The '''Hylidae''' are a wide-ranging [[family (biology)|family]] of [[frog]]s commonly referred to as "[[tree frog]]s and their allies". However, the hylids include a diversity of frog species, many of which do not live in trees, but are [[Terrestrial animal|terrestrial]] or semiaquatic.<!-- add to summarize whole article -->
+
+==Characteristics==
+Most hylids show adaptations suitable for an arboreal lifestyle, including forward-facing eyes providing [[binocular vision]], and adhesive pads on the fingers and toes. In the nonarboreal species, these features may be greatly reduced, or absent. The ''[[Cyclorana]]'' species are [[burrow]]ing frogs that spend much of their lives underground.<ref name=EoR>{{cite book |editor=Cogger, H.G. & Zweifel, R.G.|author= Zweifel, Robert G.|year=1998|title=Encyclopedia of Reptiles and Amphibians|publisher= Academic Press|location=San Diego|pages= 93–94|isbn= 0-12-178560-2}}</ref>
+
+Hylids mostly feed on insects and other invertebrates, but some larger species can feed on small vertebrates.
+
+Hylids lay their [[egg (biology)|eggs]] in a range of different locations, depending on species. Many use ponds, or puddles that collect in the holes of their trees, while others use [[bromeliad]]s or other water-holding plants. Other species lay their eggs on the leaves of vegetation hanging over water, allowing the [[tadpole]]s to drop into the pond when they hatch.<ref name=EoR/>
+
+A few species use fast-flowing streams, attaching the eggs firmly to the substrate. The tadpoles of these species have suckers enabling them to hold on to rocks after they hatch. Another unusual adaptation is found in some South American hylids, which brood the eggs on the back of the female. The tadpoles of most hylid species have laterally placed eyes, and broad tails with narrow, filamentous tips.<ref name=EoR/>
+
+== Type species ==
+The European tree frog, ''[[Hyla arborea]]'', is common in the middle and south of Europe, and ranges into [[Asia]] and [[North Africa]]. The species becomes very noisy on the approach of rain and is sometimes kept in confinement as a kind of [[barometer]]. <!-- CITE -->
+
+North America has many species of the Hylidae family, including the [[Gray tree frog]] (''Hyla versicolor'') and the [[American green tree frog]] (''H. cinerea''). The [[spring peeper]] (''Pseudacris crucifer'')  is also widespread in the eastern [[United States]] and is commonly heard on summer and spring evenings.
+
+"Tree frog" is a popular name for several of the Hylidae. ''H. versicolor'' is the changeable tree frog, ''Trachycephalus lichenatus'' is the lichened tree frog, and ''Trachycephalus marmoratus'' is the marbled tree frog. <!-- Contested names, see: talk page --> However, the name "treefrog" is not unique to this family, also being used for many species of the [[Rhacophoridae]].
+<gallery>
+Image:Hyla gray treefrog.jpg|''[[Hyla versicolor]]'', North American gray tree frog
+Image:L wilcoxi.jpg|''[[Litoria wilcoxi]]'', stony creek frog
+Image:Hylidae 001.jpg|''Hyla japonica'', [[Japanese tree frog]]
+Image:waxy.tree.frog.arp.jpg|''Phyllomedusa sauvagii'', [[waxy monkey leaf frog]]
+Image:Masked tree frog swimming.JPG|''[[Smilisca phaeota]]'', [[Osa Peninsula]], [[Costa Rica]]
+</gallery>
+
+== Taxonomy ==
+The Hylidae family is divided into these subfamilies and genera:
+;Hylidae
+ {{Multicol}}
+* Subfamily [[Pelodryadinae]] (Austro-Papuan tree frogs)
+** ''[[Cyclorana]]''
+** ''[[Litoria]]''
+** ''[[Nyctimystes]]''
+** ''[[Pelodryas]]''
+* Subfamily [[Phyllomedusinae]] (leaf frogs)
+** ''[[Agalychnis]]''
+** ''[[Cruziohyla]]''
+** ''[[Hylomantis]]'' – rough leaf frogs
+** ''[[Pachymedusa]]'' – Mexican leaf frogs
+** ''[[Phasmahyla]]'' – shining leaf frogs
+** ''[[Phrynomedusa]]'' – colored leaf frogs
+** ''[[Phyllomedusa]]''
+<!-- Current research on Hemiphractinae indicates it is at least one, and possibly three families.  See Hemiphractidae page -->
+ {{Multicol-break}}
+* Subfamily [[Hylinae]]
+** ''[[Acris]]'' – cricket frogs
+** ''[[Anotheca]]'' – spiny-headed tree frog
+** ''[[Aparasphenodon]]'' – casque-headed frogs
+** ''[[Aplastodiscus]]'' – canebreak tree frogs
+** ''[[Argenteohyla]]'' – Argentinian frogs
+** ''[[Bokermannohyla]]''
+** ''[[Bromeliohyla]]''
+** ''[[Charadrahyla]]''
+** ''[[Corythomantis]]'' – casque-headed tree frog
+** ''[[Dendropsophus]]''
+** ''[[Duellmanohyla]]'' – brook frogs
+** ''[[Ecnomiohyla]]''
+** ''[[Exerodonta]]''
+** ''[[Hyla]]'' – common tree frogs
+** ''[[Hyloscirtus]]''
+** ''[[Hypsiboas]]'' – gladiator frogs
+** ''[[Isthmohyla]]''
+** ''[[Itapotihyla]]''
+** ''[[Lysapsus]]''
+** ''[[Megastomatohyla]]''
+** ''[[Myersiohyla]]''
+** ''[[Nyctimantis]]'' – brown-eyed tree frogs
+** ''[[Osteocephalus]]'' – slender-legged tree frogs
+** ''[[Osteopilus]]''
+** ''[[Phyllodytes]]'' – heart-tongued frogs
+** ''[[Plectrohyla]]'' – spike-thumb frogs
+** ''[[Pseudacris]]'' – chorus frogs
+** ''[[Pseudis]]'' – swimming frogs
+** ''[[Ptychohyla]]'' – stream frogs
+** ''[[Scarthyla]]'' – Madre de Dios tree frogs
+** ''[[Scinax]]'' – snouted tree frogs
+** ''[[Smilisca]]'' – burrowing frogs
+** ''[[Sphaenorhynchus]]'' – lime tree frogs
+** ''[[Tepuihyla]]'' – Amazon tree frogs
+** ''[[Tlalocohyla]]''
+** ''[[Trachycephalus]]'' – casque-headed tree frogs
+** ''[[Triprion]]'' – shovel-headed tree frogs
+** ''[[Xenohyla]]''
+{{Multicol-end}}
+
+== References ==
+{{reflist}}
+* ''This article incorporates text from the ''Collier's New Encyclopedia'' (1921).''
+
+==Further reading==
+* "Amero-Australian Treefrogs (Hylidae)". William E. Duellman. ''Grzimek's Animal Life Encyclopedia''. Ed. Michael Hutchins, Arthur V. Evans, Jerome A. Jackson, Devra G. Kleiman, James B. Murphy, Dennis A. Thoney, et al. Vol. 6: Amphibians. 2nd ed.  Detroit: Gale, 2004. p225-243.
+
+== External links ==
+{{Wikispecies|Hylidae}}
+{{commons category|Hylidae}}
+{{Americana Poster|Tree-frog|Hylidae}}
+* [http://research.amnh.org/herpetology/amphibia/index.php Amphibian Species of the World]
+<!-- WILL SORT THESE SOON -->
+*http://www.tolweb.org/Hylidae
+*http://amphibiaweb.org/lists/Hylidae.shtml
+*http://www.floridanature.org/family.asp?family=Hylidae
+*http://www.fs.fed.us/r4/amphibians/family_hylidae.htm
+*http://www.livingunderworld.org/anura/database/hylidae/
+
+{{Anura}}
+
+[[Category:Frogs by classification]]
+[[Category:Tree frogs| ]]
+[[Category:Extant Thanetian first appearances]]

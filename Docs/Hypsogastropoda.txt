@@ -1,0 +1,32 @@
+Hypsogastropoda
+
+{{Automatic taxobox
+| image              = Nassarius tiarula.jpg
+| image_caption      = ''[[Nassarius tiarula]]'' from family [[Nassariidae]]
+| authority          = [[Winston Ponder|Ponder]] & [[David R. Lindberg|Lindberg]], 1997
+| subdivision_ranks  = Clades
+| subdivision        =
+clade [[Littorinimorpha]]<br/>
+informal group [[Ptenoglossa]]<br/>
+clade [[Neogastropoda]]
+}}
+
+'''Hypsogastropoda''' is a [[clade]] containing  [[marine (ocean)|marine]] [[gastropod]]s within the [[clade]] [[Caenogastropoda]].<ref name="Bouchet">Bouchet P. & Rocroi J.-P. (Ed.); Frýda J., Hausdorf B., Ponder W., Valdes A. & Warén A. 2005. ''Classification and nomenclator of gastropod families''. Malacologia: International Journal of Malacology, 47(1-2). ConchBooks: Hackenheim, Germany. ISBN 3-925919-72-4. {{ISSN|0076-2997}}. 397 pp. http://www.vliz.be/Vmdcdata/imis2/ref.php?refid=78278</ref>
+
+This clade contains two clades and one [[informal group]]:
+* Clade [[Littorinimorpha]]
+* Informal group [[Ptenoglossa]]
+*  Clade [[Neogastropoda]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* Murray-Darling Freshwater Research Centre. [http://www.mdfrc.org.au/bugguide/display.asp?class=21&subclass=&order=45&Couplet=0&Type=3 Hypsogastropoda]
+
+{{Wikispecies|Hypsogastropoda}}
+
+[[Category:Hypsogastropoda]]
+
+
+{{Caenogastropoda-stub}}

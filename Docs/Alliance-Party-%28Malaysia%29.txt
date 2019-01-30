@@ -1,0 +1,126 @@
+Alliance Party (Malaysia)
+
+{{Infobox political party
+|country          = Malaysia
+|name             = Alliance Party
+|native_name      = Parti Perikatan
+|native_name_lang = Malay
+|colorcode        = {{Alliance Party (Malaysia)/meta/color}}
+|logo             = [[File:Parti Perikatan logo.svg|100px]]
+|abbreviation     = Alliance
+|founder          = [[Tunku Abdul Rahman]]<br>[[Tan Cheng Lock]]<br>[[V.T. Sambanthan]]
+|foundation       = 1952 
+|legalised        = 30 October 1957 (as fully registered)
+|dissolution      = 1 July 1973
+|successor        = [[Barisan Nasional]]
+|headquarters     = [[Kuala Lumpur]]
+|membership_year  = 
+|membership       = {{nowrap|[[United Malays National Organisation]] (UMNO)}}<br>[[Malaysian Chinese Association]] (MCA)<br>[[Malaysian Indian Congress]] (MIC)
+|ideology         = [[Nationalism]]<br/>[[Conservatism]]
+|position         = [[Right-wing politics|Right-wing]]
+|colours          = Royal blue and white
+|religion         =
+|international    =
+|website          =
+|footnotes        =
+}}
+{{Politics of Malaysia}}
+
+The '''Alliance Party''' ({{lang-ms|Parti Perikatan}}) was a political [[coalition]] in [[Malaysia]]. The Alliance Party, whose membership comprised [[United Malays National Organisation]] (UMNO), [[Malaysian Chinese Association]] (MCA) and [[Malaysian Indian Congress]] (MIC), was formally registered as a political organisation on 30 October 1957.  It was the ruling coalition until it became the [[Barisan National]] in 1973.
+
+==History==
+The Alliance Party started off as an ''ad hoc'' and temporary electoral arrangement between the local branches of [[United Malays National Organisation|UMNO]] and [[Malaysian Chinese Association|MCA]] to contest the [[Kuala Lumpur]] municipal election in 1952.  The UMNO-MCA candidates won in 9 of the 12 seats contested, and their success led a firmer association between the two parties.  The alliance was then joined by [[Malaysian Indian Congress|MIC]] in 1954.<ref name=ency>{{cite book |url=http://books.google.co.uk/books?id=QKgraWbb7yoC&pg=PA138#v=onepage&q&f=false |title=Southeast Asia: A Historical Encyclopedia, from Angkor Wat to East Timor, Volume 1 |editor= Keat Gin Ooi |pages=138–139 |publisher=ABC-CLIO |year= 2004 |isbn=978-1576077702 }}</ref>
+
+In 1955, in the first [[Malayan general election, 1955|general election]] for the [[Federal Legislative Council]] in what was then the British [[protectorate]] of the [[Federation of Malaya]], the UMNO-MCA-MIC Alliance successfully gained the great majority of seats available for contest, winning 51 of the 52 seats contested. It formally registered as a political organisation on 30 October 1957.
+
+The Alliance played an important role in negotiating the transition to independence from British rule, and facilitating the preparation of its constitution. In the [[Malayan general election, 1959|General Election]] held in 1959, after the Malaya had gained independence on 31 August 1957, the Alliance won 74 of the 104 seats contested.
+
+The Alliance is also credited with securing the formation of the [[Federation of Malaysia]] on 16 September 1963. After Malaysia came into being, the Alliance Party of the [[Malay peninsula]] became closely associated with other alliance parties in Sabah and Sarawak.
+
+In the [[Malaysian general election, 1969|1969 general election]], although the Alliance Party won the most seats, it garnered less than half the popular vote due to strong challenges from the opposition parties, in particular the newly formed [[Democratic Action Party]] and [[Parti Gerakan Rakyat Malaysia|Gerakan]].  The unease and anxiety after the election led to the [[13 May Incident|May 13 riots]], and the declaration of a state of emergency.  After the Malaysian Parliament reconvened in 1971, negotiations began with former opposition parties such as Gerakan and [[People's Progressive Party (Malaysia)|People's Progressive Party]], both of which joined the Alliance in 1972, quickly followed by [[Pan-Malaysian Islamic Party]]. In 1973, the Alliance Party, was formally replaced by [[Barisan Nasional]], a coalition of 9 parties, and the Barisan Nasional was registered in June 1974 to contest the [[Malaysian general election, 1974|1974 general election]].<ref>{{cite book |url= https://books.google.co.uk/books?id=BkUORUDN4ysC&pg=PR67#v=onepage&q&f=false |title=The A to Z of Malaysia|author= Keat Gin Ooi |publisher=Scarecrow Press |pages=ixvi-ixvii |year= 2010 |isbn= 978-0810876415 }}</ref><ref>{{cite book |url=https://books.google.co.uk/books?id=G5KLBQAAQBAJ&pg=PA102&lpg=PA102#v=onepage&q&f=false |title=Dictionary of the Modern Politics of Southeast Asia |author= Joseph Liow, Michael Leifer |publisher=Routledge |edition= 4th |date= 18 November 2014 |isbn=978-0415625326 }}</ref>
+
+==Component Parties==
+* [[United Malays National Organisation]] (UMNO)
+* [[Malaysian Chinese Association]] (MCA)
+* [[Malaysian Indian Congress]] (MIC)
+
+==Elected Representatives==
+*[[List of Malayan State and Settlement Council Representatives (1954–59)]]
+*[[Members of the Federal Legislative Council (1955–59)]]
+*[[Members of the Dewan Rakyat, 1st Malayan Parliament]]
+*[[List of Malaysian State Assembly Representatives (1959–64)]]
+*[[Members of the Dewan Rakyat, 2nd Malaysian Parliament]]
+*[[List of Malaysian State Assembly Representatives (1964–69)]]
+*[[Members of the Dewan Rakyat, 3rd Malaysian Parliament]]
+*[[List of Malaysian State Assembly Representatives (1969–74)]]
+
+==General election results==
+{| class="wikitable"
+|-
+! Election
+! Total seats won
+! Total votes
+! Share of votes
+! Outcome of election
+! Election leader
+|-
+![[Malayan general election, 1955|1955]]
+| {{Composition bar|51|52|hex={{Alliance Party (Malaysia)/meta/shading}}}}
+| 818,013
+| 81.7%
+| {{increase}}51 seats; '''Governing coalition'''
+| [[Tunku Abdul Rahman]]
+|-
+![[Malayan general election, 1959|1959]]
+| {{Composition bar|74|104|hex={{Alliance Party (Malaysia)/meta/shading}}}}
+| 800,944
+| 51.8%
+| {{increase}}23 seats; '''Governing coalition'''
+| [[Tunku Abdul Rahman]]
+|-
+![[Malaysian general election, 1964|1964]]
+| {{Composition bar|89|104|hex={{Alliance Party (Malaysia)/meta/shading}}}}
+| 1,204,340
+| 58.4%
+| {{increase}}15 seats; '''Governing coalition'''
+| [[Tunku Abdul Rahman]]
+|-
+![[Malaysian general election, 1969|1969]]
+| {{Composition bar|77|144|hex={{Alliance Party (Malaysia)/meta/shading}}}}
+| 1,063,238
+| 48.4%
+| {{decrease}}12 seats; '''Governing coalition'''
+| [[Tunku Abdul Rahman]]
+|}
+
+==State election results==
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+!rowspan=2| State election !!colspan=12|State Legislative Assembly
+|-
+! [[Perlis State Legislative Assembly]] !! [[Kedah State Legislative Assembly]] !! [[Kelantan State Legislative Assembly]] !! [[Terengganu State Legislative Assembly]] !! [[Penang State Legislative Assembly]] !! [[Perak State Legislative Assembly]] !! [[Pahang State Legislative Assembly]] !! [[Selangor State Legislative Assembly]] !! [[Negeri Sembilan State Legislative Assembly]] !! [[Malacca State Legislative Assembly]] !! [[Johor State Legislative Assembly]] !! Total won / Total contested 
+|-
+! !! !! !! !! !! !! !! !! !! !! !! !! 
+|-
+|2/3 majority||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||{{Composition bar|2|3|hex=#dcdcdc}}||
+|-
+|1959||{{Composition bar|12|12|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|24|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|2|30|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|7|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|17|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|31|40|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|23|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|23|28|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|20|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|20|20|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|28|32|hex={{Alliance Party (Malaysia)/meta/shading}}}}||<!--{{Composition bar|207| |hex={{Alliance Party (Malaysia)/meta/shading}}}}-->
+|-
+|1964||{{Composition bar|11|12|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|24|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|9|30|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|21|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|18|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|35|40|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|24|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|24|28|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|24|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|18|20|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|32|32|hex={{Alliance Party (Malaysia)/meta/shading}}}}||<!--{{Composition bar|241| |hex={{Alliance Party (Malaysia)/meta/shading}}}}-->
+|-
+|1969||{{Composition bar|11|12|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|14|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|11|30|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|13|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|4|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|19|40|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|20|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|14|28|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|16|24|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|15|20|hex={{Alliance Party (Malaysia)/meta/shading}}}}||{{Composition bar|30|32|hex={{Alliance Party (Malaysia)/meta/shading}}}}||<!--{{Composition bar|182| |hex={{Alliance Party (Malaysia)/meta/shading}}}}-->
+|}
+
+==See also==
+* [[Barisan Nasional]]
+
+==References==
+{{reflist}}
+
+{{Malaysian political parties}}
+
+[[Category:Political party alliances in Malaysia]]
+[[Category:1952 establishments in Malaya]]
+[[Category:Political parties established in 1952]]
+[[Category:Political parties disestablished in 1973]]
+[[Category:Defunct political parties in Malaysia]]

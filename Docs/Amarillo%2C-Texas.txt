@@ -1,0 +1,751 @@
+Amarillo, Texas
+
+{{Redirect|Amarillo}}
+{{Use mdy dates|date=May 2012}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Amarillo, Texas
+| official_name           = City of Amarillo
+| native_name             = <!-- if different from the English name -->
+| native_name_lang        = en
+| other_name              = 
+| settlement_type         = [[City]]
+<!-- transliteration(s) -------->
+| translit_lang1          =
+| translit_lang1_type     =
+| translit_lang1_info     =
+| translit_lang1_type5    =
+| translit_lang1_info1    =
+| translit_lang1_type2    =
+| translit_lang1_info2    = <!-- etc., up to translit_lang1_type8 / translit_lang1_info6 -->
+| translit_lang2          =
+| translit_lang2_type     =
+| translit_lang2_info     =
+| translit_lang2_type1    =
+| translit_lang2_info1    =
+| translit_lang2_type2    =
+| translit_lang2_info2    = <!-- etc., up to translit_lang2_type6 / translit_lang2_info6 -->
+<!-- images, nickname, motto --->
+| image_skyline           = Amarillo Texas Downtown.jpg{{!}}border
+| imagesize               = 
+| image_alt               =
+| image_caption           = Downtown Amarillo in May 2005
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| image_flag              =
+| flag_size               =
+| flag_alt                =
+| flag_link               =
+| image_seal              =
+| seal_size               =
+| seal_alt                =
+| seal_link               =
+| image_shield            =
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| image_blank_emblem      = Amarillo, Texas logo.svg
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       =
+| blank_emblem_alt        =
+| blank_emblem_link       =
+| nickname                =
+| motto                   =
+| anthem                  =
+<!-- maps and coordinates ------>
+| image_map               = Potter County Amarillo.svg
+| mapsize                 = 250px
+| map_alt                 =
+| map_caption             = Location in Potter, Randall within the [[State of Texas]]
+| image_map1              =
+| mapsize1                =
+| map_alt1                =
+| map_caption1            =
+| image_dot_map           =
+| dot_mapsize             =
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x                   =
+| dot_y                   =
+| pushpin_map             = Texas
+| pushpin_map_caption    = Location in Texas
+| latd = 35 |latm = 11 |lats = 57 |latNS = N
+| longd = 101 |longm = 50 |longs = 43 |longEW = W
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_region      = US-TX
+| coordinates_type        = <!-- parameter list passed to Coord template, overrides coordinates_region -->
+| coordinates_display     = inline,title
+| coordinates_format      = dms
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = {{flagicon|US}} [[United States]]
+| subdivision_type1       = [[US state|State]]
+| subdivision_name1       = {{flagicon|Texas}} [[Texas]]
+| subdivision_type2       = [[List of counties in Texas|Counties]]
+| subdivision_name2       = [[Potter County, Texas|Potter]]<br />[[Randall County, Texas|Randall]]
+<!-- established --------------->
+| established_title       = <!-- Settled -->
+| established_date        =
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| established_title2      = <!-- Incorporated (city) -->
+| established_date2       =
+| established_title3      =
+| established_date3       =
+| extinct_title           =
+| extinct_date            =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    =
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = <!-- parts text, or header for parts list -->
+| p1                      =
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = [[Council-manager government|Council-Manager]]
+| governing_body          = [[City Council]]
+| leader_title            = [[Mayor]]
+| leader_name             = Paul Harpole 
+(Since May 2011)
+| leader_title1           = Commissioner Place 1
+| leader_name1            = Elisha Demerson
+(Since May 2015)
+| leader_title2           = Commissioner Place 2
+| leader_name2            = Brian J. Eades 
+(Since May 2007)
+| leader_title3           = Commissioner Place 3
+| leader_name3            = Randy Burkett 
+(Since May 2015)
+| leader_title4           = Commissioner Place 4
+| leader_name4            = Mark Nair 
+(Since June 2015) 
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = Imperial
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = 1 E+9
+| area_total_km2          = 233.9
+| area_total_sq_mi        = 90.3
+| area_total_dunam        = <!-- used in Middle East articles only -->
+| area_land_km2           = 232.7
+| area_land_sq_mi         = 89.8
+| area_water_km2          = 1.2
+| area_water_sq_mi        = 0.5
+| area_water_percent      =
+| area_urban_footnotes    = <!-- for references: use <ref> tags -->
+| area_urban_km2          =
+| area_urban_sq_mi        =
+| area_rural_footnotes    = <!-- for references: use <ref> tags -->
+| area_rural_km2          =
+| area_rural_sq_mi        =
+| area_metro_footnotes    = <!-- for references: use <ref> tags -->
+| area_metro_km2          =
+| area_metro_sq_mi        =
+| area_rank               =
+| area_blank1_title       =
+| area_blank1_km2         =
+| area_blank1_sq_mi       =
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_sq_mi       =
+| area_note               =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 1099
+| elevation_ft            = 3605
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_max_ft        =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+| elevation_min_ft        =
+<!-- population ---------------->
+| population_footnotes    =
+| population_total        = 190695 (US: [[List of United States cities by population|121st]])
+| population_as_of        = [[2010 United States Census|2010]]
+| population_rank         =
+| population_density_km2  = 746
+| population_density_sq_mi= 2075.5
+| pop_est_footnotes = <ref name=CensusQF>{{cite web|title=State and County Quick Facts|url=http://quickfacts.census.gov/qfd/states/48/4803000.html|publisher=[[United States Census Bureau]]|accessdate=March 3, 2015}}</ref>
+| population_est          = 196,429
+| pop_est_as_of           = 2013
+| population_urban        =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+| population_rural        =
+| population_density_rural_km2   =
+| population_density_rural_sq_mi =
+| population_metro        = 249881 (US: [[Table of United States Metropolitan Statistical Areas|185th]])
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_density      =
+| population_density_rank =
+| population_blank1_title =
+| population_blank1       =
+| population_density_blank1_km2  =
+| population_density_blank1_sq_mi=
+| population_blank2_title =
+| population_blank2       =
+| population_density_blank2_km2  =
+| population_density_blank2_sq_mi=
+| population_demonym      = Amarilloan
+| population_note         =
+<!-- demographics (section 1) -->
+| demographics_type1      =
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    =
+| demographics1_info1     = <!-- etc., up to demographics1_title5 / demographics1_info5 -->
+<!-- demographics (section 2) -->
+| demographics_type2      =
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    =
+| demographics2_info1     = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->
+| timezone1               = [[North American Central Time Zone|CST]]
+| utc_offset1             = −6
+| timezone1_DST           = CDT
+| utc_offset1_DST         = −5
+| timezone2               =
+| utc_offset2             =
+| timezone2_DST           =
+| utc_offset2_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        = [[ZIP code]]
+| postal_code             = 79101-79111, 79114, 79116-79121, 79123-79124, 79159, 79163, 79166-79168, 79171-79172, 79174, 79178, 79182, 79185, 79187, 79189
+| postal2_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = [[Telephone numbering plan|Area code]]
+| area_code               = [[Area code 806|806]]
+| geocode                 =
+| iso_code                =
+| registration_plate      =
+<!-- twin cities --------------->
+| twin1                   =
+| twin1_country           =
+| twin2                   =
+| twin2_country           = <!-- etc., up to twin9 / twin9_country -->
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info_sec1         = 48-03000<ref name="GR2">{{cite web|url=http://factfinder2.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=American FactFinder}}</ref>
+| blank1_name_sec1        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1        = 1351066<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| blank2_name_sec1        =
+| blank2_info_sec1        = <!-- etc., up to blank7_name_sec1 / blank7_info_sec1 -->
+<!-- blank fields (section 2) -->
+| blank_name_sec2         =
+| blank_info_sec2         =
+| blank1_name_sec2        =
+| blank1_info_sec2        =
+| blank2_name_sec2        =
+| blank2_info_sec2        = <!-- etc., up to blank7_name_sec2 / blank7_info_sec2 -->
+<!-- website, footnotes -------->
+| website                 = {{URL|www.amarillo.gov}}
+| footnotes               =
+}}
+
+'''Amarillo''' ({{IPAc-en|ˌ|æ|m|ə|ˈ|r|ɪ|l|oʊ}}{{refn|{{Citation |last=Jones |first=Daniel |author-link=Daniel Jones (phonetician) |title=English Pronouncing Dictionary |editors=Peter Roach, James Hartmann and Jane Setter |place=Cambridge |publisher=Cambridge University Press |orig-year=1917 |year=2003 |isbn=3-12-539683-2 }}}} {{respell|am-ə|RIL|o}}) is the [[List of cities in Texas by population|fourteenth most populous]] city in the [[U.S. state|state]] of  [[Texas]], in the [[United States]]. It is also the largest city in the [[Texas Panhandle]], and the [[county seat|seat]] of [[Potter County, Texas|Potter&nbsp;County]].<ref>{{cite web | author =Texas State Library this facility/ U.S. Census Bureau | url = http://www.tsl.state.tx.us/ref/abouttx/popcity32000.html | title = 2000 Census: Population of Texas Cities | accessdate =November 22, 2006 | archiveurl = https://web.archive.org/web/20060925234110/http://www.tsl.state.tx.us/ref/abouttx/popcity32000.html <!--Added by H3llBot--> | archivedate = September 25, 2006}}</ref> A portion of the city extends into [[Randall County, Texas|Randall County]]. The population was 190,695 at the [[2010 United States Census|2010 census]] (105,486 in Potter County, and 85,209 in Randall). The [[Amarillo metropolitan area]] has an estimated population of 236,113 in four counties.
+
+Amarillo, originally named Oneida, is situated in the [[Llano Estacado]] region.<ref name="tx_pan">Rathjen, Fredrick W. ''The Texas Panhandle Frontier'' (1973). pg. 11. The University of Texas Press. ISBN 0-292-78007-9.</ref>  The availability of the railroad and freight service provided by the [[Fort Worth and Denver Railway|Fort Worth and Denver City Railroad]] contributed to the city's growth as a cattle marketing center in the late 19th century.<ref name="handbook">{{Handbook of Texas|id=hda02|name=Amarillo}}. Retrieved on January 25, 2007.</ref>
+
+The city was once the [[List of city nicknames in the United States|self-proclaimed]] "[[Helium]] Capital of the World" for having one of the country's most productive helium fields.<ref>{{cite web | work=Wired | title=A Helium Shortage?  | url=http://www.wired.com/wired/archive/8.08/helium.html|date=August 2000 | accessdate=February 4, 2007 | archiveurl= https://web.archive.org/web/20070127163209/http://www.wired.com/wired/archive/8.08/helium.html| archivedate= January 27, 2007 <!--DASHBot-->| deadurl= no}}</ref> The city is also known as "The Yellow Rose of Texas" (as the city takes its name from the Spanish word for yellow),<ref name=autogenerated2>{{Handbook of Texas|id=hda02|name=Amarillo}}</ref> and most recently "Rotor City, USA" for its [[V-22 Osprey]] hybrid aircraft assembly plant.<ref>{{cite web | author = Amarillo Economic Development Corporation | url = http://www.amarilloedc.com/index.php?id=125 | title = What Is Rotor City, USA | accessdate =January 28, 2006| archiveurl= https://web.archive.org/web/20060116215517/http://www.amarilloedc.com/index.php?id=125| archivedate= January 16, 2006 <!--DASHBot-->| deadurl= no}}</ref> Amarillo operates one of the largest [[Meat packing industry|meat packing]] areas in the United States. [[Pantex]], the only [[nuclear weapon]]s assembly and disassembly facility in the country, is also a major employer. The location of this facility also gave rise to the nickname Bomb City. The attractions [[Cadillac Ranch]] and [[The Big Texan Steak Ranch|Big Texan Steak Ranch]] are located adjacent to [[Interstate 40]]. [[U.S. Highway 66 (Texas)|U.S. Highway 66]] also passed through the city.
+
+==History==
+Large ranches exist in the Amarillo area: among others, the defunct [[XIT Ranch]] and the still functioning [[JA Ranch]] founded in 1877 by [[Charles Goodnight]] and [[John George Adair]]. Goodnight continued the partnership for a time after Adair's death with Adair's widow, [[Cornelia Adair|Cornelia Wadsworth Ritchie Adair]], who was then the sole owner from 1887 until her death in 1921.
+
+During April 1887, J.I. Berry established a site for a town after he chose a well-watered section along the way of the Fort Worth and Denver City Railroad, which had begun building across the Texas Panhandle. Berry and [[Colorado City, Texas]] merchants wanted to make their new town site the region's main trading center. On August 30, 1887, Berry's town site won the [[county seat]] election and was established in Potter County. Availability of the [[railroad]] and [[freight]] service after the county seat election made the town a fast-growing [[cattle]] marketing center.<ref name="handbook" />
+
+The settlement originally was called Oneida; it would later change its name to Amarillo, which probably derives from yellow wildflowers that were plentiful during the spring and summer or the nearby Amarillo Lake and Amarillo Creek, named in turn for the yellow soil along their banks and shores (''Amarillo'' is the Spanish word for the color ''yellow''). Early residents originally pronounced the city's name more similar to the Spanish pronunciation {{IPAc-en|ˌ|aː|m|ə|ˈ|r|iː|j|oʊ}} {{respell|ah-mə|REE|yoh}}, which later gave way to the current pronunciation.<ref>Hammond, Clara T., comp. ''Amarillo'' (1974). pg. 6. George Autry, Printer, Amarillo, Texas.</ref>
+[[Image:Amarillo Texas Downtown 1912.jpg|left|thumb|An aerial view of the Amarillo business district in 1912.]]
+[[File:Grand Opera House, Amarillo, Texas.jpg|thumb|left|Grand Opera House, Amarillo, Texas (postcard, circa 1909-1924)]]
+
+On June 19, 1888, [[Henry B. Sanborn]], who is given credit as the "Father of Amarillo,"<ref>{{cite news |author=Everett, Liz |title=History Makers of the High Plains: H.B. Sanborn |date=May 19, 2000 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/051900/his_sanborn.html |accessdate =January 25, 2007}}</ref> and his business partner [[Joseph Glidden|Joseph F. Glidden]] began buying land to the east to move Amarillo after arguing that Berry's site was on low ground and would flood during rainstorms. Sanborn also offered to trade lots in the new location to businesses in the original city’s site and help with the expense of moving to new buildings. His incentives gradually won over people, who moved their businesses to Polk Street in the new commercial district.<ref>{{cite news |author=Crawford, Jim |title=A town determined to survive  |date=July 23, 2006  |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/072306/spe_disama7.shtml |accessdate =January 27, 2007}}</ref> Heavy rains almost flooded Berry’s part of the town in 1889, prompting more people to move to Sanborn's location. This eventually led to another county seat election making Sanborn's town the new county seat in 1893.<ref name="handbook" />
+
+By the late 1890s, Amarillo had emerged as one of the world's busiest cattle shipping points, and its population grew significantly. The city became a [[grain elevator]], milling, and feed-manufacturing center after an increase in production of wheat and small grains during the early 1900s. Discovery of [[natural gas|gas]] in 1918 and [[Petroleum|oil]] three years later brought oil and gas companies to the Amarillo area.<ref name="handbook" /> 
+
+The United States government bought the Cliffside Gas Field with high helium content in 1927 and the Federal Bureau of Mines began operating the Amarillo Helium plant two years later.<ref>{{cite news |author=Livadas, Greg |title=State of Ballooning: Texas |date=October 1999 |work=Balloon Life Magazine |url=http://balloonlife.com/publications/balloon_life/9801/9910/sob9910.html|accessdate =January 25, 2006}}</ref> The plant would be the sole producer of commercial helium in the world for a number of years.<ref>{{Handbook of Texas|id=doh02|name=Helium Production}}. Retrieved on January 25, 2007.</ref> The [[National Helium Reserve|U.S. National Helium Reserve]] is stored in the Bush Dome Reservoir at the Cliffside facility.<ref>{{cite book | author = National Research Council U.S. |   year = 2000 | month = | title = The Impact of Selling the Federal Helium Reserve |chapter=TABLE 2.1 Ownership and Location of Helium Extraction Plants in the United States in 1998|  chapterurl = http://www.nap.edu/openbook/0309070384/html/20.html | editor = | others = |  page = 20 | publisher = National Academy Press |  isbn = 0-309-07038-4 | url = | authorlink = United States National Research Council }}</ref>
+
+Following the lead of the Fort Worth and Denver City Railroad, the [[Atchison, Topeka and Santa Fe Railway]] and [[Chicago, Rock Island and Pacific Railroad]] established services to and from Amarillo. Each of these three carriers maintained substantial freight and passenger depots and repair facilities in the city through most of the 20th century and were major employers within the community.<ref name="railroads">{{cite news |author=Welch, Kevin |title=Crossroads of America |date=July 23, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/072306/spe_disama2.shtml|accessdate =January 25, 2007 }}</ref>
+
+[[File:Amarillo Texas March 1943 View.jpg|thumb|300px|Amarillo, March 1943.]]
+In 1929, [[Ernest O. Thompson]], a decorated [[World War I]] general and a major [[businessman]] in Amarillo, was elected mayor to succeed Lee Bivins. Thompson instituted a major capital improvements project and worked to reduce utility rates. He joined the [[Railroad Commission of Texas|Texas Railroad Commission]] by appointment in 1933 and was elected to full terms in 1934, 1940, 1946, 1952, and 1958. He became an international expert on national petroleum and natural gas production and conservation. The first Mrs. Thompson, [[May Peterson Thompson]], a former [[Metropolitan Opera]] singer, was involved in the arts while in Amarillo and later when the couple lived in [[Austin, Texas|Austin]].
+
+Amarillo was hit by the [[Dust Bowl]] and entered an [[Great Depression|economic depression]]. [[U.S. Routes]] 60, 87, 287, and 66 merged at Amarillo, making it a major tourist stop with numerous motels, restaurants, and [[Curiosity|curio]] shops. [[World War II]] led the establishment of Amarillo Army Air Field in east Amarillo and the nearby Pantex Army Ordnance Plant, which produced bombs and ammunition. After the end of the war, both of the facilities were closed. The Pantex Plant was reopened in 1950 and produced nuclear weapons throughout the [[Cold War]].<ref name="handbook" /> 
+
+In 1951, the army air base was reactivated as [[Amarillo Air Force Base]] and expanded to accommodate a [[Strategic Air Command]] [[B-52 Stratofortress]] wing.<ref>{{cite web | author = Amarillo Economic Development Corporation | url = http://www.amarilloedc.com/index.php?id=51 | title = Community History | accessdate =January 28, 2006| archiveurl= https://web.archive.org/web/20060116220406/http://www.amarilloedc.com/index.php?id=51| archivedate= January 16, 2006 <!--DASHBot-->| deadurl= no}}</ref> The arrival of servicemen and their families ended the city's depression. Between 1950 and 1960, Amarillo's population grew from 74,443 to 137,969. However, the closure of the Amarillo Air Force Base on December 31, 1968, contributed to a decrease in population to 127,010 by 1970.
+
+In 1970, the Census Bureau reported Amarillo's population as 6.1% Hispanic and 88.5% non-Hispanic white.<ref>{{cite web|title=Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html}}</ref> In the 1980s, [[ASARCO]], Iowa Beef Processors (present day [[Tyson Foods]]), [[Owens-Corning]] and [[Weyerhaeuser]] built plants at Amarillo. The Eastridge neighborhood houses many immigrants from countries such as [[Vietnam]], [[Laos]], and [[Burma]]; Many of them found employment at the nearby Iowa Beef Processors plant.<ref>{{cite news |author=Beck, Bruce |title=Representing all walks of life |date=December 27, 2006 |work=Amarillo Globe-News|url=http://www.amarillo.com/stories/122706/our_6355729.shtml |accessdate =January 26, 2007}}</ref> The following decade, Amarillo's city limits encompassed {{convert|60|sqmi|0}} in Potter and Randall counties. [[Interstate 27 (Texas)|Interstate 27]] highway connecting [[Lubbock, Texas|Lubbock]] to Amarillo was built mostly during the 1980s.<ref name="handbook" />
+
+In 2006, the historian [[Paul H. Carlson]], [[professor emeritus]] at [[Texas Tech University]] in Lubbock, published ''Amarillo: The Story of a Western Town.''
+
+==Geography and climate==
+[[Image:palodurolighthouse.jpg|right|thumb|Lighthouse pinnacle in Palo Duro Canyon. The canyon system is located south of the city.]]
+
+Amarillo is located near the middle of the Texas Panhandle. It does not share similar weather characteristics with south and east Texas. Amarillo sits closer in proximity to Oklahoma, New Mexico, Colorado, and Wyoming state capitals than it does to Austin. The region has a surface that is relatively flat and has little soil drainage.  Due to the lack of developed drainage, much of the rainfall either evaporates, infiltrates into the ground, or accumulates in [[playa lake]]s.<ref name="tx_pan" /> According to the [[United States Census Bureau]], the city has a total area of {{convert|90.3|sqmi|km2}}, with {{convert|89.9|sqmi|km2|abbr=on}} of it land and {{convert|0.4|sqmi|km2|abbr=on}} of it (0.50%) water. The Amarillo metropolitan area is the [[List of United States metropolitan statistical areas by population|180th-largest]] in the United States with a population of 236,113 in four counties: [[Armstrong County, Texas|Armstrong]], [[Carson County, Texas|Carson]], Potter, and Randall.
+
+About {{convert|20|mi|km}} northeast of Amarillo is the [[Canadian River]], a central corridor of the [[Southwestern Tablelands]] ecology region, which divides the [[High Plains (United States)|Western High Plains]] ecological region. The southern divide of the Western High Plains is the [[Llano Estacado]] or Staked Plains geographical region.   The river is dammed to form [[Lake Meredith]], a major source of drinking water in the Texas Panhandle region.<ref>{{Handbook of Texas|id=rnc02|name=Canadian River}}. Retrieved on January 25, 2007.</ref> The city is situated near the Panhandle Field, in a productive gas and oil area, covering {{convert|200,000|acre}} in [[Hartley County, Texas|Hartley]], Potter, [[Moore County, Texas|Moore]], [[Hutchinson County, Texas|Hutchinson]], Carson, [[Gray County, Texas|Gray]], [[Wheeler County, Texas|Wheeler]], and [[Collingsworth County, Texas|Collingsworth]] counties. The Potter County portion had the nation's largest natural gas reserve.<ref>
+{{Handbook of Texas
+  |id=dop01
+  |name=Panhandle field
+}}. Retrieved on January 25, 2007.</ref> Approximately {{convert|25|mi|km|sigfig=1}} south of Amarillo is the canyon system, [[Palo Duro Canyon]].
+
+The underground structures known as Amarillo Mountains are an extension of the [[Arbuckles]] of [[Oklahoma]] and the [[Ouachita Mountains|Ouachita]] of [[Arkansas]] and Oklahoma. They are some thousands of feet underground. The range was discovered by pioneer oilmen. Some of the peaks are believed to be {{convert|10000|ft|m}} high.<ref name=PPHM>Exhibit at Panhandle-Plains Historical Museum at Canyon</ref>  The tallest peak is reported to be 2,500 feet underground in northeast Potter County under the [[Alibates Flint Quarries National Monument]].<ref>{{cite web|author=|url=http://amarillo.com/stories/091000/new_amamountans.shtml |title=Quake, rattle and roll &#124; Amarillo Globe-News |publisher=Amarillo.com |date=2000-09-10 |accessdate=2013-09-28}}</ref>
+
+===Cityscape===
+Most of Amarillo’s population growth and commercial development are occurring in the southern and northwestern parts of the city.<ref>{{cite news |author=Chapman, Joe |title=Land Grab |date=February 27, 2005 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/022705/spe_landgra.shtml|accessdate =January 25, 2007}}</ref> Similar to many towns in the Texas Panhandle, the city’s downtown has suffered economic deterioration throughout the years.<ref>{{cite news |author=Moon, Chris |title=Downtown Dilemma: How did it happen? |date=September 15, 2003 |work=Amarillo Globe-News |url=http://amarillo.com/stories/091503/usn_downtown.shtml|accessdate =January 25, 2007}}</ref> To help revitalize it, the organization Center City of Amarillo was formed to establish partnerships with groups who have a large presence in the city.<ref>{{cite news |title=City's center becomes the center of attention |date=March 26, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/032606/spe_4091584.shtml|accessdate =January 25, 2007}}</ref> Since its conception in the 1990s, Center City has sponsored public art projects and started block parties in the downtown area.<ref>{{cite web | publisher=Center City | title=Polk Street Block Party  | url=http://www.centercity.org/blockparty.html| accessdate=February 4, 2007 |archiveurl = https://web.archive.org/web/20060828000235/http://www.centercity.org/blockparty.html |archivedate = August 28, 2006}}</ref>
+
+The 31-story [[Chase Tower (Amarillo)|Chase Tower]] was opened in Amarillo's downtown in 1971.<ref>{{cite news |author=Berzanskis, Cheryl |title=Bank One Center to be renamed in Chase merger |date=June 10, 2004 |work=Amarillo Globe-News |url=http://amarillo.com/stories/061004/new_bankone.shtml|accessdate =January 25, 2007}}</ref> Completed in the same year as the Chase Tower, the Amarillo National Bank Plaza One building houses the headquarters of [[Amarillo National Bank]], the city's largest financial institution.<ref>{{cite web | author = Amarillo National Bank | url = http://www.anb.com/bankHistory.asp | title = Bank History | accessdate =August 7, 2006 |archiveurl = https://web.archive.org/web/20060717014706/http://www.anb.com/bankHistory.asp |archivedate = July 17, 2006}}</ref><ref>{{cite news |author=Hartnett, Dwayne |title=Money Talk |date=February 27, 2005 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/022705/spe_mtalk.shtml|accessdate =January 25, 2007}}</ref> The [[Santa Fe Building (Amarillo)|Santa Fe Building]], completed in 1930, was the regional offices of the Atchison, Topeka and Santa Fe Railway, but was vacant for several years until Potter County bought the building for $426,000 in 1995 to gain new office spaces.<ref>{{cite news |author=Lutz, Jennifer |title=Renovated Santa Fe Building sparkles in debut |date=August 6, 2000 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/080600/new_santafe.shtml|accessdate =January 25, 2007}}</ref>
+
+[[Image:Amarillo Texas - Santa Fe Railroad Building1.jpg|thumb|The Santa Fe Building in the downtown area.]]
+Amarillo's historic homes and buildings listed on the [[National Register of Historic Places]] reflect the economic growth from around 1900 to the start of World War II. Polk Street contains many of the city's historic downtown buildings and homes. The large historic homes on this street were built close to downtown, and homes were located on the west side of the street as a symbol of status because they would be greeted with the sunrise every morning.<ref>{{cite web|author=Excursia / Best Read Guide |url=http://excursia.com/destinations/USA/TX/amarillo/stories/20000929/att_historictour.shtml |title=Take a Historic Tour of Amarillo |accessdate=March 11, 2006 |authorlink=Morris Communications |deadurl=yes |archiveurl=https://web.archive.org/20060107232826/http://excursia.com:80/destinations/USA/TX/amarillo/stories/20000929/att_historictour.shtml |archivedate=January 7, 2006 }}</ref>
+
+The City of Amarillo's Parks and Recreation Department operates over 50 municipal parks, including a [[skatepark]] west of the city. Amarillo's largest parks are Medical Park, Thompson Memorial Park, and Memorial Park, near Amarillo College's Washington Street Campus. From 1978 to 2002, the [[Junior League]] of Amarillo and the City of Amarillo's Parks and Recreation Department co-sponsored Funfest, a family entertainment festival, benefiting the city parks and the league's Community Chest Trust Fund. Funfest was held in Thompson Memorial Park during [[Memorial Day]] weekend.<ref>{{cite news |title=Junior League eyes end to Funfest |date=January 25, 2001 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/012501/new_funfest.shtml|accessdate =January 25, 2007}}</ref> The festival included Amarillo's only {{convert|42.2|km|mi|adj=on}} foot race, the Funfest Marathon.
+
+===Climate===
+Amarillo and the Texas Panhandle's climate is [[semi-arid]] ([[Köppen climate classification]] ''BSk'' or ''BSh'');<ref>Depending on the climatologist's threshold, ''BSk'' if based upon the annual mean temperature (<{{convert|18.0|°C|1|disp=or}}), ''BSh'' if based upon the daily average temperature in the coldest month (≥{{convert|0|°C|disp=or}}).</ref> both the city and the region as a whole lie in [[Hardiness zone|USDA Plant Hardiness Zone]] 7.<ref>{{cite web|author=The Arbor Day Foundation |url=http://www.arborday.org/treeinfo/ZoneInfo.cfm?ZipCode=79101&submit=Look+it+up%21 |title=The Arbor Day Foundation |publisher=Arborday.org |date= |accessdate=2013-06-09}}</ref> It is characterized by high [[diurnal temperature variation]], day-to-day variability, a rush of cold air from the north or northwest into a warmer area and occasionally, by [[blizzard]]s during the winter season and a hot summer with low humidity. The normal annual precipitation is {{convert|20.4|in|mm|0}}, most of it occurring in the late spring and summer months. The monthly daily average temperature ranges from {{convert|37.0|°F|1}} in January to {{convert|78.3|°F|1}} in July. Sunny weather prevails year-round, with nearly 3300 hours of bright sunshine annually. The [[National Weather Service Amarillo, Texas|National Weather Service in Amarillo]] forecasts and provides climatic data for the city.
+
+Extreme temperatures range from {{convert|−16|°F|0}} on [[Great Blizzard of 1899|February 12, 1899]] to {{convert|111|°F|0}} on June 26, 2011, but lows do not typically lower to {{convert|0|°F|0}} in most years, while highs above {{convert|100|°F|C}} are seen on 4.7 days. There is an average of 5.9 days of lows at or below {{convert|10|°F|0}}, 8.9 days where the temperature fails to rise above freezing, and 61 days of {{convert|90|°F|0}}+ highs; unlike in the Rio Grande Valley or eastern portions of Texas, days where the low does not fall below {{convert|70|°F|0}} are uncommon due to the aridity and elevation. Blizzards are very possible, but snowfall is typically light, averaging nearly {{convert|18|in|cm|0}} seasonally and the median figure is near {{convert|10|in|cm|0}}.<ref name= NCDC >
+{{cite web
+  | url = http://cdo.ncdc.noaa.gov/climatenormals/clim20/tx/410211.pdf
+  | title = Climatography of the United States No. 20 (1971–2000)
+  | format=PDF
+  | year=2004
+  | publisher= [[National Oceanic and Atmospheric Administration]]
+  | accessdate=June 8, 2010
+}}</ref> Much of Amarillo's precipitation falls during heavy convective showers and thunderstorms. According to 'Cities Ranked and Rated' (Bert Sperling and Peter Sander), Amarillo averages 48 days per year during which thunder and lightning is reported. This is above the national average. These storms can be severe - Amarillo and the Texas Panhandle are situated in the western portion of "[[Tornado Alley]]".<ref>
+{{cite news
+  |author=Doyle, Thomas
+  |title=Experts say tornado season nears
+  |date=March 29, 2001
+  |work=Amarillo Globe-News
+  |url=http://www.amarillo.com/stories/032901/new_tornadao.shtml
+  |accessdate =January 26, 2007
+}}</ref> Amarillo is also recorded as the windiest city in the U.S. by the Weather Channel
+{{cite web
+  | url = http://www.weather.com/tv/tvshows/americas-morning-headquarters/10-windiest-large-cities-america-20140408?pageno=10
+  | title = America's Windiest Cities
+  | year=2014
+  | publisher= weather.com
+  | accessdate= April 16, 2014
+}}
+
+{{Weather box |imperial first = Y
+|collapsed =
+|location = Amarillo, Texas (1981–2010)
+|single line = Y
+|Jan high F = 50.6
+|Feb high F = 54.2
+|Mar high F = 62.5
+|Apr high F = 71.1
+|May high F = 79.5
+|Jun high F = 87.7
+|Jul high F = 91.4
+|Aug high F = 89.4
+|Sep high F = 82.6
+|Oct high F = 71.9
+|Nov high F = 60.0
+|Dec high F = 49.7
+|year high F= 71.0
+|Jan mean F = 37.0
+|Feb mean F = 40.3
+|Mar mean F = 47.9
+|Apr mean F = 56.3
+|May mean F = 65.6
+|Jun mean F = 74.4
+|Jul mean F = 78.3
+|Aug mean F = 76.8
+|Sep mean F = 69.5
+|Oct mean F = 58.3
+|Nov mean F = 46.3
+|Dec mean F = 36.9
+|year mean F = 57.3
+|Jan low F = 23.4
+|Feb low F = 26.4
+|Mar low F = 33.3
+|Apr low F = 41.6
+|May low F = 51.8
+|Jun low F = 61.0
+|Jul low F = 65.2
+|Aug low F = 64.2
+|Sep low F = 56.4
+|Oct low F = 44.7
+|Nov low F = 32.5
+|Dec low F = 24.0
+|year low F= 43.8
+|Jan record high F =  83
+|Feb record high F =  88
+|Mar record high F =  96
+|Apr record high F =  99
+|May record high F = 104
+|Jun record high F = 111
+|Jul record high F = 106
+|Aug record high F = 107
+|Sep record high F = 103
+|Oct record high F =  99
+|Nov record high F =  87
+|Dec record high F =  83
+|year record high F= 111
+|Jan record low F = −11
+|Feb record low F = −16
+|Mar record low F =  −3
+|Apr record low F =  13
+|May record low F =  26
+|Jun record low F =  38
+|Jul record low F =  51
+|Aug record low F =  48
+|Sep record low F =  30
+|Oct record low F =  12
+|Nov record low F =   0
+|Dec record low F =  −8
+|year record low F= −16
+|precipitation colour = green
+|Jan precipitation inch =  .72
+|Feb precipitation inch =  .56
+|Mar precipitation inch = 1.39
+|Apr precipitation inch = 1.40
+|May precipitation inch = 2.29
+|Jun precipitation inch = 3.16
+|Jul precipitation inch = 2.84
+|Aug precipitation inch = 2.91
+|Sep precipitation inch = 1.92
+|Oct precipitation inch = 1.66
+|Nov precipitation inch =  .80
+|Dec precipitation inch =  .71
+|year precipitation inch=
+|Jan snow inch = 5.0
+|Feb snow inch = 3.1
+|Mar snow inch = 2.9
+|Apr snow inch =  .6
+|May snow inch =  .2
+|Jun snow inch =   0
+|Jul snow inch =   0
+|Aug snow inch =   0
+|Sep snow inch =   0
+|Oct snow inch =  .2
+|Nov snow inch = 2.4
+|Dec snow inch = 4.3
+|year snow inch=18.6
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 3.9
+|Feb precipitation days = 4.3
+|Mar precipitation days = 6.0
+|Apr precipitation days = 5.6
+|May precipitation days = 7.7
+|Jun precipitation days = 8.5
+|Jul precipitation days = 7.2
+|Aug precipitation days = 8.2
+|Sep precipitation days = 6.3
+|Oct precipitation days = 5.3
+|Nov precipitation days = 4.0
+|Dec precipitation days = 4.7
+|year precipitation days=
+|unit snow days = 0.1 in
+|Jan snow days = 2.6
+|Feb snow days = 2.3
+|Mar snow days = 1.9
+|Apr snow days =  .4
+|May snow days =   0
+|Jun snow days =   0
+|Jul snow days =   0
+|Aug snow days =   0
+|Sep snow days =   0
+|Oct snow days =  .1
+|Nov snow days = 1.1
+|Dec snow days = 2.8
+|year snow days=
+|Jan sun = 223.2
+|Feb sun = 217.5
+|Mar sun = 269.7
+|Apr sun = 300.0
+|May sun = 325.5
+|Jun sun = 342.0
+|Jul sun = 353.4
+|Aug sun = 322.4
+|Sep sun = 264.0
+|Oct sun = 266.6
+|Nov sun = 213.0
+|Dec sun = 201.5
+|source 1 = NOAA (extremes 1892–present),<ref>{{cite web |url=http://www.nws.noaa.gov/climate/xmacis.php?wfo=ama |publisher=National Oceanic and Atmospheric Administration |title=National Weather Service Climate |deadurl=no |accessdate=2013-05-04}}</ref> The Weather Channel<ref name= Weather.com >
+{{cite web
+  | url = http://www.weather.com/outlook/recreation/golf/wxclimatology/monthly/graph/USTX0029?from=36hr_bottomnav_golf
+  | title = Monthly Averages for Amarillo, TX – Temperature and Precipitation
+  | accessdate =2008-11-25
+  | publisher = The Weather Channel
+}}</ref>
+|source 2 = HKO (sun only, 1961–1990)<ref name= HKO >
+{{cite web
+  | url = http://www.weather.gov.hk/wxinfo/climat/world/eng/n_america/us/Amarillo_e.htm
+  | title = Climatological Normals of Amarillo
+  | accessdate =2010-06-08
+  | publisher = [[Hong Kong Observatory]]
+}}</ref>
+|date=August 2010
+}}
+
+==Demographics==
+{{US Census population
+|1890= 482
+|1900= 1442
+|1910= 9957
+|1920= 15494
+|1930= 43132
+|1940= 51686
+|1950= 74246
+|1960= 137969
+|1970= 127010
+|1980= 149230
+|1990= 157571
+|2000= 173627
+|2010= 190695
+|estyear=2014
+|estimate=197254
+|estref=<ref name="USCensusEst2014">{{cite web|url=http://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html|title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014|accessdate=June 4, 2015}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=http://www.census.gov/prod/www/abs/decennial/|title=U.S. Decennial Census|publisher=Census.gov|date=|accessdate=2013-09-28}}</ref><br>Texas Almanac: 1850-2000<ref>{{cite web|url=http://www.texasalmanac.com/sites/default/files/images/CityPopHist%20web.pdf|title=Texas Almanac: City Population History 1850-2000|format=PDF|date=|accessdate=2013-09-28}}</ref>
+}}
+
+[[Image:Amarillo Texas - Persons Per Square Mils - Census 2000.png|left|thumb|This map shows the city's average number of inhabitants per square mile of land in 2000.]]
+
+At the 2010 Census, there were 190,695 people residing in Amarillo, an increase of 9.8% since 2000.<ref name="factfinder.census.gov">{{cite web|url=http://factfinder.census.gov/servlet/ACSSAFFFacts?_event=Search&geo_id=&_geoContext=&_street=&_county=Amarillo&_cityTown=Amarillo&_state=04000US48&_zip=&_lang=en&_sse=on&pctxt=fph&pgsl=010 |title=American FactFinder |publisher=Factfinder.census.gov |date= |accessdate=2013-06-09}}</ref>
+
+According to the 2010 Census, 59.7% of the population was [[Non-Hispanic Whites|White]], 6.3% Black or [[African American]], 0.5%  American Indian and Alaska Native, 3.1% Asian, 0.1% from some other race (non-Hispanic) and 1.5% of two or more races (non-Hispanic). 28.8% of Amarillo's population was of  [[Hispanic and Latino Americans|Hispanic]], Latino, or Spanish origin (they may be of any race).<ref name="factfinder.census.gov"/>
+
+There were 67,699 households out of which 33.9% had children under the age of 18 living with them, 50.6% were [[Marriage|married couples]] living together, 12.8% had a female householder with no husband present, and 32.4% were non-families. Of 67,699 households, 2,981 were unmarried partner households: 2,713 heterosexual, 82 same-sex male, and 186 same-sex female. 27.7% of all households were made up of individuals and 9.9% had someone living alone who was 65&nbsp;years of age or older. The average household size was 2.53 and the average family size was 3.10.
+
+The age distribution of the city was as follows: 27.9% of the population was under the age of 18, 10.2% from 18 to 24, 28.8% from 25 to 44, 20.5% from 45 to 64, and 12.6% who were 65&nbsp;years of age or older. The median age was 34&nbsp;years. For every 100 females there are 92.4 males. For every 100 females age 18 and over, there were 88.5 males.
+
+The median income for a household in the city was $34,940, and the median income for a family was $42,536. Males had a median income of $31,321 versus $22,562 for females. The [[per capita income]] for the city was $18,621. About 11.1% of families and 14.5% of the population were below the [[poverty line]], including 19.6% of those under age 18 and 9.3% of those age 65 or over.
+
+==Law and government==
+
+===Local government===
+In 1913, Amarillo became the first Texas city and the fifth in United States to use the [[council-manager government|council-manager]] form of municipal government, with all governmental powers resting in a [[legislative body]] called a council (since 2014; previously commission).<ref>{{Handbook of Texas|id=moc02|name=Council-Manager Form of City Government}}. Retrieved on January 25, 2007.</ref><ref>Hammond, pg. 31.</ref> Amarillo's commission is composed of five elected commissioners, one of whom is the mayor of the city. The mayor and each commissioner serves a two-year term. The role of the commission is to pass ordinances and resolutions, adopt regulations, and appoint city officials, including the [[city manager]]. While the mayor serves as a presiding officer of the commission, the city manager is the administrative head of the municipal government, and is responsible for the administration of all departments. The city commission holds its regular meetings on Tuesday of each week.<ref>{{cite web | author = City of Amarillo / Municode | url =http://www.municode.com/resources/gateway.asp?pid=11818&sid=43 | title = Municipal Code City of Amarillo | accessdate =May 4, 2006| archiveurl= https://web.archive.org/web/20060612212502/http://www.municode.com/resources/gateway.asp?pid=11818&sid=43| archivedate= June 12, 2006 <!--DASHBot-->| deadurl= no}}</ref>
+
+{|class="wikitable" style="margin:auto;"
+|+'''2014 Commission members'''
+|-
+|'''Mayor'''
+|[[Paul Harpole]]
+|-
+|'''Council Place 1'''
+|Elisha Demerson
+|-
+|'''Council Place 2'''
+|Brian Eades
+|-
+|'''Council Place 3'''
+|Randy Burkett
+|-
+|'''Council Place 4'''
+| Mark Nair
+|}
+
+{|class="wikitable" style="margin:auto;"
+|+'''City administration'''
+|-
+|'''City manager'''
+| Terry Childers (Interim) (Since 2015)<ref>http://amarillo.gov/?page_id=8283</ref>
+|-
+|'''Assistant city manager'''
+|Bob Cowell (Since 2013)<ref>http://www.theeagle.com/news/local/planning-development-executive-director-bob-cowell-taking-job-in-amarillo/article_30aa7426-8d6b-5f6f-8c93-cc071d18450f.html</ref>
+|}
+
+===County, state and federal representation===
+As the seat of Potter County, the city is the location of the county's trial, civil, and criminal courts. The Randall County Amarillo Annex building is located within the city limits and houses its Sheriff's Office and Justice of the Peace Court, Precinct 4.{{Citation needed|date=May 2010}}
+
+The [[Texas Courts of Appeals|Texas Seventh Court of Appeals]] is located in Amarillo.<ref>"[http://www.7thcoa.courts.state.tx.us/court/contact.asp Contact Information]." Texas Seventh Court of Appeal. Retrieved March 10, 2010.</ref>
+
+The [[Texas Department of Criminal Justice]] operates the Amarillo District Parole Office in the city.<ref>"[http://www.tdcj.state.tx.us/parole/parole-directory/paroledir-rgnldisparoff5.htm Parole Division Region V]." Texas Department of Criminal Justice. Retrieved May 22, 2010.</ref> It also operates the [[Clements Unit]] in [[unincorporated area|unincorporated]] [[Potter County, Texas|Potter County]], east of Amarillo.<ref name=History>"[http://www.tdcj.state.tx.us/unit_directory/bc.html Clements (BC)]." [[Texas Department of Criminal Justice]]. Retrieved on June 23, 2013. "Unit Address and Phone Number: 9601 Spur 591, Amarillo, TX 79107-9606"</ref>
+
+The [[United States Postal Service]] operates the Amarillo Main Post Office.<ref>"[http://usps.whitepages.com/service/post_office/amarillo-main-ofc-delivery-2301-ross-st-amarillo-tx-1442454 Post Office Location - AMARILLO MAIN OFC DELIVERY]." United States Postal Service. Retrieved May 22, 2010.</ref> Other post offices in the city include Downtown Amarillo,<ref>"[http://usps.whitepages.com/service/post_office/downtown-amarillo-505-e-9th-ave-amarillo-tx-1361180 Post Office Location - DOWNTOWN AMARILLO]." United States Postal Service. Retrieved May 22, 2010.</ref> Jordan,<ref>"[http://usps.whitepages.com/service/post_office/jordan-8301-w-amarillo-blvd-amarillo-tx-1368555 Post Office Location - JORDAN]." United States Postal Service. Retrieved May 22, 2010.</ref> Lone Star,<ref>"[http://usps.whitepages.com/service/post_office/lone-star-5000-s-western-st-amarillo-tx-1382087 Post Office Location - LONE STAR]." United States Postal Service. Retrieved May 22, 2010.</ref> North Amarillo,<ref>"[http://usps.whitepages.com/service/post_office/north-amarillo-841-martin-rd-amarillo-tx-1375234 Post Office Location - NORTH AMARILLO]." United States Postal Service. Retrieved May 22, 2010.</ref> and San Jacinto.<ref>"[http://usps.whitepages.com/service/post_office/san-jacinto-307-s-western-st-amarillo-tx-1380612 Post Office Location - SAN JACINTO]." United States Postal Service. Retrieved May 22, 2010.</ref>
+
+In the [[United States House of Representatives|U.S. House]], Amarillo is located in [[Texas's 13th congressional district]], and is represented by Representative [[Mac Thornberry]]. In the [[Texas Legislature]], the city is in the 31st District in the Texas Senate, represented by [[Republican Party (United States)|Republican]] [[Kel Seliger]], a former Amarillo mayor. It is in the 87th District in the Texas House of Representatives, having been represented by Republican [[David Swinford|David A. Swinford]] since 1991. Swinford retired in January 2011 and was succeeded by fellow Republican [[Four Price]], who is the current representative. That part of Amarillo within Randall County is represented by Swinford's Republican colleague, [[John T. Smithee]], who has served in the 86th District since 1985.
+
+[[Grady Hazlewood]], a 1930s [[district attorney]] in Amarillo, served in the Texas Senate from 1941 to 1971. He authored the first state school loan programs for returning World War II veterans and college students. He is the father of the [[farm-to-market road]] program in Texas.<ref>{{cite web|url=http://www.amarillo.com/stories/051900/his_hazlewood.html |title=Robyn Followwill-Line, 'Grady Hazlewood' |work=[[Amarillo Globe News]] |date=May 19, 2000 |accessdate=April 17, 2010}}</ref>
+
+==Economy==
+{{See also|List of companies in Amarillo, Texas}}
+Amarillo is considered the regional economic center for the Texas Panhandle<ref name="i27">{{cite web | author = United States Department of Transportation | url = http://www.fhwa.dot.gov/planning/econdev/i27tx.htm | title = Economic Development History of Interstate 27 in Texas | accessdate =May 4, 2006| archiveurl= https://web.archive.org/web/20060507065632/http://www.fhwa.dot.gov/planning/econdev/i27tx.htm| archivedate= May 7, 2006 <!--DASHBot-->| deadurl= no}}</ref> as well as Eastern [[New Mexico]] and the Oklahoma Panhandle. The meat packing industry is a major employer in Amarillo; about one-quarter of the United States' beef supply is processed in the area. The city is also the location of headquarters for the Texas Cattle Feeders Association. Petroleum extraction is also a major industry. The helium industry has decreased in significance since the federal government privatized local operations in the late 1990s. [[Bell Helicopter Textron]] opened a [[helicopter]] assembly plant near the city's international airport in 1999.<ref name="i27" />
+
+The city's largest employer in 2005 is Tyson Foods, with 3,700 employees. The [[Amarillo Independent School District]] is next with 3,659 employees followed by [[BWX Technologies|BWXT]] Pantex, Baptist St. Anthony’s Health Care System, City of Amarillo, Northwest Texas Healthcare System, [[Amarillo College]], and [[United Supermarkets]].<ref name="community">{{cite web | author = City of Amarillo's Community Development Department | url = http://www.amarillo.gov/departments/commdev/pdf/2005-2010%20Analysis%20of%20Impediments.pdf | title = 2005–2010 Analysis of Impediments | format = PDF | accessdate =January 27, 2006}}</ref> Other major employers include Bell Helicopter Textron, Owens-Corning, and ASARCO.
+
+Approximately {{convert|14|e6acre}} of agricultural land surrounds the city with [[Maize|corn]], [[wheat]] and [[cotton]] as the primary crops. Other crops in the area include [[sorghum]], [[silage]], [[hay]] and [[soybean]]s.<ref>{{cite news |author=Welch, Kevin |title=Farming changes |date=March 26, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/032606/spe_4109480.shtml|accessdate =January 25, 2007}}</ref> The Texas Panhandle, particularly in [[Hereford, Texas]], serves as a fast-growing milk producing area as several multimillion-dollar state of the art dairies were built in early 2000s.<ref>{{cite news | author=Levine, Steve | title=Cows in Hereford Are All Fired Up About Ethanol Plant | work=The Wall Street Journal | page=A1 | date=January 24, 2006}}</ref>
+
+The Amarillo Economic Development Corporation (AEDC) is funded by a city sales tax, and it provides aggressive incentive packages to existing and prospective employers. In the mid-to-late 1990s, the AEDC gained notoriety by sending mock checks to businesses across the country, placing full-page advertisements in ''[[The Wall Street Journal]]'', and paying an annual $1&nbsp;million subsidy to [[American Airlines]] to retain jet service.<ref>{{cite news |author=Curry, Kerry |title=Phone calls 'in the mail' for AEDC |date=September 9, 1997 |work=Amarillo Globe-News |url=http://amarillo.com/stories/090997/phone.html|accessdate =January 25, 2007}}</ref><ref>{{cite news |title=Amarillo renews American deal |date=May 29, 1997 |work=Amarillo Globe-News |url=http://amarillo.com/stories/052997/renews.html|accessdate =January 25, 2007}}</ref> The AEDC is largely responsible for bringing Bell Helicopter Textron's development of the V-22 Osprey hybrid aircraft and the future site of [[Marine One]] assembly in Amarillo.<ref>{{cite news |author=Hartnett, Dwayne |title=Sky's the limit |date=February 27, 2005 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/022705/spe_sky.shtml|accessdate =January 25, 2007}}</ref>
+
+==Education==
+[[Image:Amarillo-College-Washington-St-Clock-Tower-Dec2005.jpg|thumb|The clock tower at the Amarillo College's Washington Street Campus.]]
+
+According to the 2000 United States Census, 20.5% of all adults over the age of 25 in Amarillo have obtained a [[bachelor's degree]], as compared to a national average of 24.4% of adults over 25, and 79.3% of Amarillo residents over the age of 25 have earned a [[high school]] diploma, as compared to the national average of 80.4%.<ref>{{cite web | author = U.S. Census Bureau | url = http://factfinder.census.gov/servlet/SAFFFacts?_event=Search&geo_id=&_geoContext=&_street=&_county=Amarillo&_cityTown=Amarillo&_state=04000US48&_zip=&_lang=en&_sse=on&pctxt=fph&pgsl=010 | title = Amarillo city, Texas Fact Sheet | accessdate =January 28, 2006}}</ref>
+
+The higher education institutions in the city are [[Amarillo College]], a two-year [[community college]] with over 10,000 students; [[Wayland Baptist University]], a private university based in [[Plainview, Texas|Plainview]], has a branch campus in Amarillo; [[Texas Tech University Health Sciences Center]]  [[Texas Tech University Health Sciences Center Amarillo Campus|at Amarillo]] School of Pharmacy, and [[Texas Tech University at Amarillo]], a branch campus of Texas Tech University that offers selected [[master's degree]] programs. [[West Texas A&M University]], a regional university headquartered in nearby [[Canyon, Texas|Canyon]], has a satellite campus in the Chase Tower in downtown Amarillo.
+
+The public [[primary education|primary]] and [[secondary education]] are mostly handled by the [[Amarillo Independent School District]] (AISD) and [[Canyon Independent School District]]. (CISD) The AISD has approximately 29,000 students in 2004 while CISD has over 8,000 students in 2005.<ref>{{cite web | author = Amarillo Independent School District | url = http://www.amaisd.org/commreport/district_profile.pdf | title = District Profile | format = PDF | accessdate =February 7, 2006 |archiveurl = https://web.archive.org/web/20050516181536/http://www.amaisd.org/commreport/district_profile.pdf |archivedate = May 16, 2005}}</ref><ref>{{cite news |title=2005 in Review |date=March 26, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/032606/spe_05inreviewfh.shtml|accessdate =January 25, 2007| archiveurl= https://web.archive.org/web/20070311101208/http://www.amarillo.com/stories/032606/spe_05inreviewfh.shtml| archivedate= March 11, 2007 <!--DASHBot-->| deadurl= no}}</ref> The AISD operates 4 high schools, 9 [[middle school]]s, 36 [[elementary school]]s, a specialty high school, and an [[alternative school]]. While, the CISD has 2 high schools, 2 junior high/intermediate schools, and 4 elementary schools in Amarillo. [[Randall High School (Amarillo, Texas)|Randall High School]] is located on the southern edge of Amarillo.  Other [[school district]]s in the city are [[River Road Independent School District|River Road]], [[Bushland Independent School District|Bushland]], and [[Highland Park Independent School District (Potter County, Texas)|Highland Park]]. Nonreligious and Christian denomination private schools in Amarillo include [http://www.ascensionacademy.org/ Ascension Academy], [[Holy Cross Catholic Academy (Amarillo, Texas)|Holy Cross Catholic Academy]], [http://www.sanjac.org/ San Jacinto Christian Academy], [http://www.amarillomontessori.com/ Amarillo Montessori Academy], [[St. Andrew's Episcopal School (Amarillo, Texas)|St. Andrew's Episcopal School]], St. Joseph's Catholic School and St. Mary's Catholic School. The city also has one charter school, Vista Academy.
+
+From 1922 to 1938, the author [[Laura Vernon Hamner]], who wrote a [[biographical novel|novelized biography]] of [[Charles Goodnight]], served as the Potter County school superintendent. She was a ranch [[historian]] and [[radio]] personality. In her later years, she lived in the Herring Hotel, owned by Ernest Thompson, and was often known informally as "Miss Amarillo".<ref>{{cite web|url=http://www.tshaonline.org/handbook/online/articles/fhadb |title=Handbook of Texas Online - HAMNER, LAURA VERNON |publisher=Tshaonline.org |date= |accessdate=2013-09-28}}</ref>
+
+==Culture==
+{{See also|l1=Registered Historic Places in Potter County|National Register of Historic Places listings in Potter County, Texas|l2=Randall County|National Register of Historic Places listings in Randall County, Texas}}
+[[Image:War memorial, Amarillo IMG 0128.JPG|thumb|Entrance to Texas Panhandle War Memorial in Amarillo]]
+[[Image:Vietnam War Memorial in Amarillo IMG 0134.JPG|thumb|Listing of Amarillo-area personnel killed in the [[Vietnam War]]]]
+
+Amarillo has a number of natural attractions near the city. The Palo Duro Canyon State Park is the United States' second largest canyon system, after the [[Grand Canyon]] and is located south of Amarillo. Palo Duro has a distinct [[Hoodoo (geology)|hoodoo]] that resembles a lighthouse. Another natural landmark near the city, the [[Alibates Flint Quarries National Monument]] is located {{convert|30|mi}} north of Amarillo. It is once known as the site for prehistoric inhabitants to obtain [[flint]] in order to make tools and weapons. About {{convert|100|mi|-1}} southeast of Amarillo in [[Briscoe County, Texas|Briscoe County]] is [[Caprock Canyons State Park and Trailway]], the state park is the home of the official Texas State [[Bison]] Herd, who were captured and taken care of by cattle rancher Charles Goodnight.<ref>{{cite news |author=Storm, Rick |title=Bison herd to be moved to Caprock Canyons |date=July 4, 1997 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/070497/bison.html|accessdate =January 25, 2007}}</ref>
+
+From 1932 to 1977, the Paramount Theater, originally built for $250,000, flourished in Amarillo. It had plush red [[carpet]], [[mural]]s and a [[pipe organ]], 1,433 seats, and was considered the finest theater north of [[Dallas]]. The building is now an office and parking garage.<ref name=PPHM/>
+
+Local millionaire [[Stanley Marsh 3]] funded many public art projects in the city including the [[Cadillac Ranch]], located west of Amarillo on [[Interstate 40 (Texas)|Interstate 40]], a monument of painted [[Cadillac (automobile)|Cadillac]] automobiles that were dug into the ground head first. Marsh participates as well in an ongoing art project called the Dynamite Museum, which consist of thousands of mock [[traffic sign]]s. These signs, bearing messages such as "Road does not end" or displaying a random picture, are scattered throughout the city of Amarillo.<ref>{{cite news |author=Cowley, Jennifer S. |title=Public Art in Private Places |date=October 2001 |publisher=Texas A&M University's Real Estate Center |url=http://recenter.tamu.edu/tgrande/vol8-4/1523.html|accessdate =January 25, 2007 |archiveurl = https://web.archive.org/web/20060917093309/http://recenter.tamu.edu/tgrande/vol8-4/1523.html |archivedate = September 17, 2006}}</ref>  Besides these works, one can find close to the city the final earthwork of [[Robert Smithson]] (and another commission by Marsh), ''Amarillo Ramp''.
+
+The city has events and attractions honoring the [[cowboy]] and Texas culture. During the third week of September, the Tri-State Fair & Rodeo brings participants mostly from Oklahoma, New Mexico and Texas to Amarillo since 1921.<ref>{{cite news |title=Tri-State Tradition |date=June 26, 2005 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/062605/spe_disama_26.shtml|accessdate =January 25, 2007}}</ref> On the Tri-State Exposition grounds, the [[Amarillo National Center]] is a special events center for events ranging from national [[Equestrianism|equestrian]] competitions to [[Auto racing|motor sports]] and [[rodeo]]s. The World Championship Ranch Rodeo sponsored by the [[Working Ranch Cowboys Association]] is held every November in the [[Amarillo Civic Center]]. Amarillo hosts the annual World Championship Chuckwagon Roundup the first weekend in June. Teams in competition prepare a feast of breaded beef cutlets, mashed potatoes, baked beans, and sourdough biscuits and attempt to duplicate the food served on western cattle trails of the 1860s and 1870s.<ref name="cuisine">{{cite news |author=Smith-Rodgers, Sheryl |title=Cowboy Cooking |date=May 21, 2006 – May 27, 2007 |publisher=American Profile |url=http://www.americanprofile.com/issues/20060521/20060521_5188.asp|accessdate =January 25, 2007 |archiveurl = https://web.archive.org/web/20061206120439/http://www.americanprofile.com/issues/20060521/20060521_5188.asp |archivedate = December 6, 2006}}</ref> The [[url=http://www.amarillolivestockauction.com/|Amarillo Livestock Auction]] on Bull Road holds a free-to-the-public cattle auction on Tuesdays. Now located on Interstate 40, The Big Texan Steak Ranch is famous by offering visitors a free 72&nbsp;[[ounce]] (2&nbsp;kg) beef steak if it (and its accompanying dinner) is eaten in under an hour.
+
+[[Image:Globe-News Center in Amarillo Texas USA.jpg|thumb|The Globe-News Center for the Performing Arts building is located near the Amarillo Civic Center.]]
+[[Image:Sleeping coyote in Amarillo Zoo IMG 0166.JPG|thumb|A [[coyote]] sleeps in the afternoon heat in the Amarillo Zoo.]]
+[[Globe-News Center for the Performing Arts]], opened in 2006, houses the Amarillo Opera, Amarillo Symphony, and [http://www.lonestarballet.org/ Lone Star Ballet] concerts. The facility, located just across the Amarillo Civic Center, features a 1,300-seat auditorium. The Globe-News Center was built in hope by city officials and others that it will revitalize the downtown area.<ref>{{cite news |author=Yates, Phillip |title=It all started with a vision |date=January 15, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/011506/gnc/spe_gnc1.shtml|accessdate =January 25, 2007}}</ref> The nonprofit [[community theater]] group, Amarillo Little Theatre, has its season run from September to May. The theater group's two facilities, the Mainstage and the Adventure Space, are located west of Amarillo's downtown. The Pioneer [[Amphitheater]], located in nearby Palo Duro Canyon, is the setting for the outdoor musical drama ''Texas,'' which plays nightly during the summer. The musical depicts a story about the history of Texas Panhandle settlers throughout the years. In 2002, the [[Theatrical producer|producers]] changed its name to ''Texas Legacies'' after retiring the previous script that was used for 37 years for a more historically-accurate one, but attendance declined over the next four seasons, so it was decided to revert to the original [[Paul Green (playwright)|Paul Green]] script in 2006.<ref>{{cite news |author=Chandler, Chip |title='Legacies' preview gets positive response |date=October 26, 2002 |work=Amarillo Globe-News |url=http://amarillo.com/stories/102602/ent_legaciespre.shtml|accessdate =January 25, 2007}}</ref><ref>{{cite news |author=Crawford, Jim |title='Texas' is back, y'all |date=February 8, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/020806/new_3924505.shtml|accessdate =January 25, 2007}}</ref>
+
+The Amarillo Public Library is affiliated with the Harrington Library Consortium. The consortium consist of public, college, and school libraries located in the Texas Panhandle that share resources and cooperate with one another. Other members include the Amarillo's public schools, Amarillo College, Canyon Area Library, Lovett Memorial Library in [[Pampa, Texas]], and Hutchinson County Library in [[Borger, Texas]].<ref>{{cite web|author=West Texas A&M University's Cornette Library|url=http://www.wtamu.edu/library/indexes/hlc.shtml|title=Harrington Library Consortium|accessdate=June 19, 2006| archiveurl= https://web.archive.org/web/20060624133824/http://www.wtamu.edu/library/indexes/hlc.shtml| archivedate= June 24, 2006 <!--DASHBot-->| deadurl= no}}</ref> The Amarillo Public Library's main branch is located in downtown and operates 4 neighborhood branches.
+
+[[Wonderland Amusement Park (Amarillo, Texas)|Wonderland Amusement Park]] is located in northern Amarillo at Thompson Park, named for Ernest Thompson. The park also houses the Amarillo  [[zoo]] and offers [[picnicking]].
+
+Amarillo residents are known as [[List of Amarilloans|Amarilloans]]. Notable Amarilloans include actress [[Ann Doran]] (1911–2000), old-style journalist [[Bascom N. Timmons]], prominent surveyor [[W. D. Twichell]], the [[Dory Funk]] wrestling family, former [[UFC]] Champions [[Heath Herring]] and [[Evan Tanner]], astronaut [[Rick Husband]], professional golfer Ryan Palmer, rockabilly pioneer [[Buddy Knox]], actress [[Carolyn Jones]], actress and dancer [[Cyd Charisse]], actor and poet [[Harry Northup]], [[Texas State Senate|State Senator]] [[Max Sherman]], [[Republican Party of Texas|Republican]] state chairman [[Tom Mechler]], [[clergy]]man [[W. Winfred Moore]], politicians [[Beau Boulter]], [[Roy Whittenburg]] and [[John Marvin Jones]], businessman [[T. Boone Pickens, Jr.]], singer-songwriter [[J. D. Souther]], gambler Thomas "[[Amarillo Slim]]" Preston, and music artist and composer [[Terry Stafford]] ("Amarillo by Morning"; "Suspicion"). [[Tom Blasingame]], considered to have been the oldest cowboy in the history of the [[American West]], worked for seventy-three years, primarily, on the JA Ranch south of Amarillo. Pulitzer-prize-winning author [[Mark E. Neely, Jr.]] was born in Amarillo on November 10, 1944. In nearby [[Clarendon, Texas|Clarendon]] and [[Canyon, Texas]], lived the [[Western (genre)|Western]] artist [[Harold Dow Bugbee]], whose early works were patronized by Ernest Thompson. Physician [[Steven Berk]] wrote ''Anatomy of a Kidnapping: A Doctor's Story'' about his [[kidnapping]] from his Amarillo home in 2005 and how the four-hour ordeal changed his perspective on life. Singer [[Lacey Brown]] of Amarillo advanced to the top 24 in season 8 on the hit show ''[[American Idol]]''. She returned to the show again in season 9 and advanced to the top 12 but was eliminated from the program on March 17, 2010.
+
+===Museums and art collections===
+The [[American Quarter Horse Association]] (AQHA) is an international organization dedicated to the preservation, improvement and record-keeping of the [[American Quarter Horse]] breed. The organization is headquartered in Amarillo and has a museum. There is also an [[American Quarter Horse Hall of Fame]] exhibited in the museum; among the inductees was [[J. L. "Dusty" Rhoades]] of [[Odessa, Texas|Odessa]], who served as AQHA president in 1966 and 1974. In addition, the AQHA and Center City of Amarillo co-sponsors the project, "Hoof Prints of the American Quarter Horse" which consist of horse statues located in front of several Amarillo businesses, such as the downtown Amarillo National building, Nationwide Insurance, and Edward Jones.  An area business would purchase a horse statue and a local artist paints on it.<ref>{{cite news |author=Welch, Kevin |title=Horses of many colors |date=November 16, 2003 |work=Amarillo Globe-News |url=http://amarillo.com/stories/111603/new_horses.shtml|accessdate =January 25, 2007}}</ref>
+
+Two of the Amarillo area's higher education institutions have at least one museum in their campuses. The Amarillo Art Center [http://www.amarilloart.org/], opened in 1972, is a building complex with the [[Amarillo Museum of Art]]  (AMoA)<ref name=autogenerated1>http://amarillomuseumofart.org/#/</ref> and concert hall located on the Washington Street Campus of Amarillo College. In addition,  Amarillo College's Washington Street Campus is the home to the previously mentioned AMoA<ref name=autogenerated1 /> and is regarded as the largest natural history museum belonging to any two-year college in the United States.<ref>{{Handbook of Texas|id=kca05|name=Amarillo College}}. Retrieved on January 25, 2007.</ref> Located on the campus of West Texas A&M University, the [[Panhandle-Plains Historical Museum]] claims to be the largest historical museum in Texas.
+
+[[Image:Amarillo pond IMG 0153.JPG|left|thumb|Medical Center Park adjacent to Amarillo Botanical Gardens]]
+[[Don Harrington Discovery Center]], located in the city's hospital district, is an interactive science center and space theater with over 60 hands-on exhibits.<ref>{{cite web | author = Don Harrington Discovery Center | url = http://www.dhdc.org/exhibits.html | title = Exhibits | accessdate =February 14, 2006 |archiveurl = https://web.archive.org/web/20051125140410/http://www.dhdc.org/exhibits.html |archivedate = November 25, 2005}}</ref> Outside of the building is a steel structure called the Helium Monument which has time capsules and designates Amarillo the "Helium Capital of the World."<ref name="handbook" /> Near the proximity of the Discovery Center, the Amarillo Botanical Gardens has gardens, indoor exhibits, and a library for visitation throughout the year.
+
+The [http://www.ttuhsc.edu/sop/museum/ Texas Pharmacy Museum] claims to be the only Texas museum specialized in the research, collection, preservation, and exhibition of the history of pharmacy, is also located in the city's hospital district.<ref>{{cite web|author=Texas Tech Health Science Center at Amarillo|url=http://www.ttuhsc.edu/sop/prospective/visitors/museum.aspx|title=Texas Pharmacy Museum|accessdate=April 5, 2006}}</ref>
+
+Other notable museums in the area are the Kwahadi Kiva Indian Museum and the [[Texas Air & Space Museum|English Field Air & Space Museum]]. The Kwahadi Kiva Indian Museum features a collection of [[Native Americans in the United States|Native American]] artifacts and provides dance performances. Sadly, the English Field Air & Space Museum, which had been operated by the Texas Aviation Historical Society featuring aircraft and space exhibits, in 2007 closed its doors and lost many of its aircraft. The museum is now rebuilding its aircraft collection as Texas Air & Space Museum and is located on American Drive on the south side of the airport.
+
+===Local media===
+[[Image:Amarillo National Bank Plaza One - Amarillo Texas USA.jpg|thumb|upright|Amarillo National Bank Plaza One building in downtown Amarillo]]
+The major local newspaper is the ''[[Amarillo Globe-News]]'', owned by [[Morris Communications]], was a combination of three newspapers: ''Amarillo Daily News'', ''Amarillo Globe'', and ''Amarillo Times''. Other publications include a local monthly [[magazine]] dealing with city and regional issues in the Amarillo area called, ''Accent West''. The American Quarter Horse Association publishes two monthly publications, ''The American Quarter Horse Journal'' and ''The American Quarter Horse Racing Journal'', HISPANIC Newspaper El Mensajero owned by Dr. Ramon Godoy started printing in 1989.
+
+Amarillo's major network [[television station|television]] affiliates are [[KACV-TV]] 2 ([[Public Broadcasting Service|PBS]]), [[KAMR]] 4 ([[NBC]]), [[KVII]] 7 ([[American Broadcasting Company|ABC]]), [[KFDA-TV|KFDA]] 10 ([[CBS]]), [[KCIT]] 14 ([[Fox Broadcasting Company|Fox]]), and [[KCPN]] 33 ([[MyNetworkTV|MyNet]]). In the 2005–2006 television season, Amarillo is the 131st largest television [[Media market|market]] in the United States designated by [[Nielsen Media Research]].<ref>{{cite web | author = Nielsen Media Research | url = http://www.nielsenmedia.com/DMAs.html | title = 210 Designated Market Areas | accessdate =February 9, 2006| archiveurl= https://web.archive.org/web/20060207012545/http://www.nielsenmedia.com/DMAs.html| archivedate= February 7, 2006 <!--DASHBot-->| deadurl= no}}</ref>
+
+Amarillo is the 168th largest United States radio market in autumn 2005 designated by the [[radio station|radio]] audience research company, [[Arbitron]]. According to Arbitron the top 5 rated commercial radio stations in Fall 2012/Spring 2013 are:
+# [[KXGL-FM]] -100.9 FM- Classic Hits Station
+# [[KGNC-FM]] -97.9 FM- Country Music Station
+# [[KGNC]] -710 AM- News, Talk and Sports Station
+# [[KXSS-FM]] -96.9 FM- Hit Music Station
+# [[KQIZ-FM]] -93.1 FM- Top 40 Station
+The regional public radio network, High Plains Public Radio, operates KJJP-FM 105.7. Other notable radio stations around the area include the [[Campus radio|college stations]] [[KACV-FM]] 89.9 (Amarillo College) [[KZRK-FM]] (107.9), and  [[KWTS-FM]] 91.1 (West Texas A&M University) in nearby Canyon.
+
+===Outside media attention===
+The city gained national media attention in 1998 when television talk show host [[Oprah Winfrey]] was unsuccessfully sued by local cattlemen for comments made on [[The Oprah Winfrey Show|her show]] connecting American beef to [[Bovine spongiform encephalopathy|mad cow disease]], costing them and their industry millions of dollars.<ref>{{cite news|author=Frankel, Daniel |title=Ranchers Say Oprah Created Lynch Mob Mentality |date=January 21, 1998 |work=[[E!|E! News]] |url=http://www.eonline.com/News/Items/0,1,2414,00.html |accessdate=January 25, 2007 |deadurl=yes |archiveurl=https://web.archive.org/20041205144423/http://www.eonline.com:80/News/Items/0,1,2414,00.html |archivedate=December 5, 2004 }}</ref> In order to attend the trial in Amarillo, she temporarily relocated her show to the Amarillo Little Theatre for nearly a year. During the trial, Winfrey hired Dallas-based jury consultant [[Phil McGraw]] to aid her attorneys on selecting and analyzing the members of the jury.<ref>{{cite news|author=Donald, Mark |title=Analyze this |date=April 13, 2000 |work=[[Dallas Observer]] |url=http://www.dallasobserver.com/issues/2000-04-13/news/feature.html |accessdate=January 25, 2007 |deadurl=yes |archiveurl=https://web.archive.org/20050415135131/http://www.dallasobserver.com:80/issues/2000-04-13/news/feature.html |archivedate=April 15, 2005 }}</ref> McGraw would later become a regular guest on Winfrey's television show and subsequently started his own talk show, ''[[Dr. Phil (TV series)|Dr. Phil]]'', in 2002. Another notable trial in Amarillo includes the [[Fort Worth, Texas|Fort Worth]]-area murder case of [[T. Cullen Davis]], which involved one of the richest men in the United States, his former wife, and her daughter and boyfriend. The trial was moved from Fort Worth to Amarillo in 1977 on a change of venue.<ref>{{cite web | author = [[Court TV]]'s Crime Library | url = http://www.crimelibrary.com/notorious_murders/not_guilty/t_cullen_davis/7.html | title = T. Cullen Davis: The Best Justice Money Can Buy | accessdate =May 25, 2006| archiveurl= https://web.archive.org/web/20060516151611/http://www.crimelibrary.com/notorious_murders/not_guilty/t_cullen_davis/7.html| archivedate= May 16, 2006 <!--DASHBot-->| deadurl= no}}</ref> The murder of [[Brian Deneke]] also brought attention from outside of the Texas Panhandle mainly due to the crime revolved around a conflict between two different cultures. The small town of [[Tulia, Texas]], approximately {{convert|47|mi|0}} south from Amarillo, was the scene of a controversial drug sting in 1999. Local civil rights attorney Jeff Blackburn took up the case of the Tulia defendants, which became a ''[[cause célèbre]]'' and resulted in the exoneration and pardon of the defendants.<ref>Nate Blakeslee. Tulia: Race, Cocaine, and Corruption in a Small Texas Town. New York: PublicAffairs. ISBN 1-58648-454-0</ref> A federal lawsuit directed at the officials responsible for the sting operation was held in Amarillo. In the final settlement, the City of Amarillo agreed to pay $5&nbsp;million in damages to the former Tulia defendants; disband the Panhandle Regional Narcotics Task Force that it set up to oversee the sting operation; and require early retirement for two Amarillo Police Department officers who were responsible for supervising the sting's sole undercover agent.<ref>{{cite web | author = Court TV's Crime Library | url = http://www.crimelibrary.com/gangsters_outlaws/cops_others/tom_coleman/6.html | title = The Tulia Sting | accessdate =July 30, 2006}}</ref><ref>{{cite web|author=[[NAACP]] Legal Defense and Educational Fund |url=http://www.naacpldf.org/content.aspx?article=277 |title=Bad Times In Tulia, TX |accessdate=July 30, 2006 |deadurl=yes |archiveurl=https://web.archive.org/20060213202445/http://www.naacpldf.org/content.aspx?article=277 |archivedate=February 13, 2006 }}</ref>
+
+[[Image:Amarillo-Texas-Starry-Night-Horse-Dec2005.jpg|thumb|The American Quarter Horse Association and Center City of Amarillo sponsors an ongoing public art project that consist of decorated horse statues located in front of several Amarillo businesses.]]
+Amarillo has been mentioned in popular music such "[[Amarillo by Morning (song)|Amarillo by Morning]]" by Paul Fraser and Terry Stafford, [[Nat King Cole]]'s "[[Route 66 (song)|(Get Your Kicks) on Route 66]]", [[Bob Dylan]]'s "[[Brownsville Girl]]" (Amarillo was referred to as the "land of the living dead"), [[Rob Zombie]]'s "Two Lane Blacktop", Amarillo Sky by Jason Aldean, and the song "[[Is This the Way to Amarillo]]" written by [[Neil Sedaka]] and [[Howard Greenfield]], recorded famously by Yorkshireman [[Tony Christie]] and Sedaka, and revived in the UK by comedian [[Peter Kay]] through performances in the comedy series ''[[Peter Kay's Phoenix Nights]]'' and in a charity performance for [[Comic Relief (charity)|Comic Relief]]. Christie's version, which only managed to reach 18  when originally released in 1971, made it to the number 1 spot in the [[UK Singles Chart]] in 2005 for 7 weeks.<ref>{{cite news |title=Amarillo tops 2005 single sales |date= January 2, 2006|publisher=BBC News |url=http://news.bbc.co.uk/2/hi/entertainment/4575226.stm|accessdate =January 25, 2007}}</ref><ref>{{cite news |title=Tony Christie tops singles chart |date= March 20, 2005|publisher=BBC News |url=http://news.bbc.co.uk/2/hi/entertainment/4366721.stm|accessdate =January 25, 2007}}</ref> In 2010, [[Damon Albarn]] wrote the song "[[The Fall (Gorillaz album)|Amarillo]]" whilst on tour in America with the [[Gorillaz]], although it is not known to what extent the song is reference to the city.
+
+The Amarillo Film Commission is a division of the Amarillo Convention and Visitor Council that was created to provide film crews with locations and other assistance when filming in Amarillo.<ref>{{cite web | author = Amarillo Convention and Visitor Council | url = http://www.amarillofilm.org/ | title = Amarillo CVC Film Commission | accessdate =February 9, 2006| archiveurl= https://web.archive.org/web/20060313003228/http://www.amarillofilm.org/| archivedate= March 13, 2006 <!--DASHBot-->| deadurl= no}}</ref> Amarillo was the setting for many motion pictures, including ''[[Indiana Jones and the Last Crusade]]'', ''Switchback'' 1997, and ''The Plutonium Circus'', the 1995 [[South by Southwest|South by Southwest Film Festival]] winner for best documentary feature. Amarillo was the title of the [[Amarillo (Better Call Saul)|third episode of the second season]] of [[AMC (TV channel)]]'s drama [[Better Call Saul]], a spin-off of the hit drama [[Breaking Bad]]. The city played a part in the plot of the episode, as it was a location used by series protagonist [[Saul Goodman|Jimmy McGill]] to solicit clients. <ref>{{cite web|title=Amarillo|url=http://www.imdb.com/title/tt4462676/|website=IMDB}}</ref>
+
+===Sports===
+The [[Lone Star Football League]] team [[Amarillo Venom]] and the [[North American Hockey League|NAHL]] [[junior ice hockey|Jr. A]] hockey team, the [[Amarillo Bulls]] both play in the [[Amarillo Civic Center]]. Amarillo's independent league baseball team, [[Amarillo Thunderheads]] (formerly the Amarillo Sox) of the [[American Association of Independent Professional Baseball|American Association]], plays its home games in the [[Potter County Memorial Stadium]]. Before the founding of the Dillas, the city was the home of the AA [[Amarillo Gold Sox]].<ref>{{cite news |author=Lahnert, Lance |title=Mark Lee to be named revived Dillas' GM today |date=January 10, 2006 |work=Amarillo Globe-News |url=http://amarillo.com/stories/011006/dil_3686659.shtml|accessdate =January 25, 2007}}</ref> Amarillo had a minor league indoor soccer team called the [[Amarillo Challengers]] that competed in the [[SISL]] and later the [[USISL]].<ref>{{cite web | author =[[United Soccer Leagues]] | url = http://www.uslsoccer.com/aboutusl/history/53773.html | title = 1986... genesis: the beginning | accessdate =July 25, 2006}}</ref>
+
+[[West Texas A&M University]] features a full slate of [[National Collegiate Athletic Association|NCAA]] [[NCAA Division II|Division II]] teams; however, [[Amarillo College]] is one of the few community colleges in Texas without an athletic program. From 1968 to 1996, Amarillo hosted the annual [[National Women's Invitational Tournament]] (NWIT), a post season women's [[college basketball]] tournament.<ref>{{cite news |author=Riddle, Greg |title=NWIT – show board of directors the money |date=March 20, 1997 |work=Amarillo Globe-News |url=http://amarillo.com/stories/032097/directors.html|accessdate =January 25, 2007}}</ref> During high school football season, the Amarillo Independent School District schools' home games are in [[Dick Bivins Stadium]] which had a $5.7&nbsp;million renovation in 2005.<ref>{{cite news |title=The new Dick Bivins |date=August 23, 2005 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/082305/pig_2547173.shtml|accessdate =January 25, 2007}}</ref> Randall High School (part of the adjacent Canyon Independent School District) plays its home games in [[Kimbrough Memorial Stadium]] in Canyon, as well as the yearly Clinton Invitational horseshoe tournament. River Road, Highland Park, and Bushland High Schools, also play football, in addition other sports.
+
+Amarillo is home to the Amarillo Gun Club, which features a variety of clay target sports including trap, skeet and 5-Stand.
+
+Another part of Amarillo's sporting history was its roots in [[professional wrestling]]. Amarillo residents Dory Funk, Stanley Blackburn and [[Doc Sarpolis]] promoted the territory for several decades. Funk's sons, [[Dory Funk, Jr.]], and [[Terry Funk]] were both [[National Wrestling Alliance]] World Heavyweight Champions and represented Amarillo.
+
+==Infrastructure==
+
+===Air transportation===
+[[Rick Husband Amarillo International Airport]] is a [[public airport]] located {{convert|10|mi|0}}  east of the [[central business district]] of Amarillo, north of Interstate 40. A portion of the former [[Amarillo Air Force Base]] was converted to civilian use and became part of the airport.<ref>{{Handbook of Texas|id=qba01|name=Amarillo Air Force Base}}. Retrieved on January 25, 2007.</ref> The airport was named after [[NASA]] astronaut [[Rick Husband]], an Amarillo native and commander of the final flight of [[Space Shuttle Columbia]], [[STS-107]], which [[Space Shuttle Columbia disaster|disintegrated]] on re-entry, killing Husband and his crewmates. The airport is served by several major air carriers with non-stop service to [[Dallas, Texas|Dallas]], [[Houston, Texas|Houston]], [[Denver, Colorado|Denver]], and [[Las Vegas, Nevada|Las Vegas]].
+
+[[Tradewind Airport]] is a public-use [[general aviation]] airport located in Randall County, {{convert|3|nmi|mi km}} south of Amarillo's central business district. The airport covers {{convert|595|acre|ha}} and has two [[asphalt]]-paved runways and one [[helipad]].<ref>{{FAA-airport|ID=TDW|use=PU|own=PR|site=23324.*A}}. Federal Aviation Administration. Effective June 30, 2011.</ref>
+
+[[Buffalo Airport (Texas)|Buffalo Airport]] is a public-use general aviation airport located in Randall County, {{convert|9|nmi|mi km}} south of Amarillo's central business district. The airport covers {{convert|40|acre|ha}} and has two grass runways.<ref>{{FAA-airport|ID=1E7|use=PU|own=PR|site=23324.3*A}}. Federal Aviation Administration. Effective June 30, 2011.</ref>
+
+===Ground transportation===
+Local transit services in the city have been available since 1925 and have been provided through the City of Amarillo's [[Amarillo City Transit]] (ACT) department since 1966; before that time the system was privately owned. ACT operates bus services that include fixed route transit and demand response [[paratransit]] which are designed for people with disabilities. The ACT transports approximately 350,000 passengers per year on the fixed route and 30,000 paratransit passengers, but it is a declining ridership. ACT has no plans to scale back any of their transit routes or services.<ref name="community" />
+
+Amarillo has no passenger rail service but remains an important part of the rail freight system. The [[BNSF Railway]] complex in Amarillo continues to serve a heavy daily traffic load, approximately 100-110 trains per day.<ref>{{cite news |author=Cunningham, Greg |title=Transportation key to Amarillo's past, future |date=June 26, 2005 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/062605/spe_disama_6.shtml|accessdate =January 25, 2007}}</ref> The [[Union Pacific Railroad]] also sends substantial shipments to or through Amarillo. In addition to intermodal and general goods, a big portion of rail shipments involve grains and coal. There have been various proposals over the years to add passenger service. One, the ''[[Caprock Chief]]'', would have seen daily service as part of a Fort Worth, Texas—Denver, Colorado service, but it failed to gain traction.
+
+[[Image:Amarillo Tx - Brick Streets.jpg|thumb|left|Several streets around Amarillo's downtown area are still paved in bricks.]]
+The streets in Amarillo's downtown area conform to a [[grid pattern]]. The city's original street layout was set up by William H. Bush, beginning at the west end of the town moving to the east. Bush named the north to south streets for past [[President of the United States|United States presidents]], in chronological order except for [[John Quincy Adams]] because the surname was taken with the second president, [[John Adams]].<ref>{{cite news |author=Routon, Ralph |title=Street names can honor past, embrace future |date=February 8, 2004 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/020804/new_routon.shtml|accessdate =January 25, 2007}}</ref> (The last president so honored was [[Grover Cleveland]]; though the city has expanded eastward the pattern was not continued.)  While the streets running north–south honor past presidents and are designated 'streets', east–west streets are numbered and are designated 'avenues'.  North of the Fort Worth & Denver (now Burlington Northern-Santa Fe) railyard, the numbers are "NW" (northwest) west of Polk Street, and "NE" (northeast) east of Polk.  South of the railyard (including the downtown-city center area), numbers are officially "SW" (southwest) west of Polk, and "SE" (southeast) east of Polk.  Colloquially, though, most tend to dub the SW/SE avenues as W (west)/E (east), respectively.  One example of the numbering difference regards the former U.S. Highway 66 routing west of downtown and into the San Jacinto neighborhood.  Most call it 'West Sixth Street' when it's actually SW Sixth Avenue.
+
+In 1910, the Amarillo voters approved to pay for street paving and the materials used to pave the streets were [[brick]]s.<ref>{{cite news |author=Parker, Debra A. |title=Brick streets helped build |date=May 17, 2001 |work=Amarillo Globe-News |url=http://amarillo.com/stories/051701/new_brickstreets.shtml|accessdate =January 25, 2007}}</ref> As of 2003, the city still has {{convert|16.2|mi}} of brick streets in some parts of the downtown area. The city spent $200,000 in 2002 to restore one block of brick street on Ninth Avenue between Polk and Tyler streets.<ref>{{cite news |author=Chapman, Joe |title=Touchstones of history |date=August 10, 2003 |work=Amarillo Globe-News |url=http://amarillo.com/stories/081003/new_touchstones.shtml|accessdate =January 25, 2007}}</ref>
+
+Less than one mile (~1.6&nbsp;km) of Interstate 27 highway is located in Potter County. The highway terminates at the city's main west-east highway, Interstate 40, just north of the Potter-Randall County line. The roadway continues northward into downtown Amarillo via U.S. [[U.S. Highway 60 (Texas)|60]], [[U.S. Highway 87 (Texas)|87]], and [[U.S. Highway 287 (Texas)|287]], via a series of four one-way streets including Buchanan, Pierce, Fillmore and Taylor. North of downtown the highway becomes US 87 & 287 and continues northward to [[Dumas, Texas]].<ref name="i27" />
+
+Interstate 40, the city's major east–west thoroughfare was completed entirely through Amarillo in November 1968 across the center of the city. Previously, U.S. Highway 66 was the major east–west highway through the city, generally following Amarillo Blvd. to the north of the downtown area and then curving southwest to leave the city near the Veterans Hospital. A city route (which was an original alignment of US 66 through central and west Amarillo) followed Fillmore south into the downtown area and turned on West 6th through the San Jacinto Heights district which is now home to many antique shops, restaurants and other businesses, passing the Amarillo Country Club and veering onto West 9th Street and Bushland Blvd. before tying into the through route at a traffic circle near the Veterans Hospital.
+Loop 335 circles around Amarillo in all four directions and consists of four-lane roadway on its northeast and southwest quadrants and two-lane paving to the southeast and northwest.
+
+Amarillo is also mentioned in the song "[[Route 66 (song)|Route 66]]".
+
+===Medical centers and hospitals===
+[[Image:Amarillo Texas USA - Harrington Regional Medical Center.jpg|thumb|The Harrington Regional Medical Center has two of the city's major hospitals.]]
+Amarillo is home to medical facilities including Baptist St. Anthony’s and Northwest Texas Hospitals, the Don & Sybil Harrington Cancer Center, Bivins Memorial Nursing Home, Texas Tech University Health Sciences Center, Texas Tech School of Pharmacy, and Texas Panhandle Mental Health and Mental Retardation. All are located in the Harrington Regional Medical Center, the first specifically designated city hospital district in Texas.<ref>{{Handbook of Texas|id=sbhfz|name=Harrington Regional Medical Center}}. Retrieved on January 25, 2007.</ref>
+
+Baptist St. Anthony's, known locally as BSA, had some of its services listed on the ''[[U.S. News & World Report]]''{{-'}}s "Top 50 Hospitals" from 2002 to 2005.<ref>{{cite news |author=Schwarz, George |title=BSA facilities receive honors |date=July 8, 2005 |work=Amarillo Globe-News |url=http://amarillo.com/stories/070805/new_2305721.shtml|accessdate =January 25, 2007}}</ref> BSA was a result of a merger between the Texas Panhandle's first hospital, St Anthony's, with High Plains Baptist Hospital in 1996.<ref>{{cite news |author=Hernandez, Basil |title=Harrington Cancer Center joining BSA |date=March 23, 2006 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/032306/new_4286261.shtml|accessdate =January 25, 2007}}</ref> The BSA Hospice & Life Enrichment Center provides important services to the Amarillo area. The BSA facility, opened in 1985, was the first free-standing hospice west of the [[Mississippi River]] that was built and opened without debt.<ref>{{cite news |author=Feduris, Marlene |title=Officials unveil book about city's hospice care |date=September 18, 2002 |work=Amarillo Globe-News |url=http://www.amarillo.com/stories/091802/new_unveilbook.shtml|accessdate =January 25, 2007}}</ref>
+
+[[Image:Tttu amarillo.JPG|thumb|Texas Tech University Health Sciences Center]]
+Northwest Texas Hospital is home to the area's only Level III designated trauma center.
+
+The [[Thomas E. Creek]] Department of Veterans Affairs Medical Center is located east of Harrington Regional Medical Center. The facility opened in 1940 and was renamed in 2005, honoring the 18-year-old Amarillo Marine who was posthumously awarded the [[Medal of Honor]].<ref>{{cite web | author = Library of Congress – Congressional Records | url = http://icreport.loc.gov/cgi-bin/query/z?r108:H13SE4-0025: | title = Thomas E. Creek Department of Veterans Affairs Medical Center -- (House of Representatives – September 13, 2004) | accessdate =April 17, 2006}}</ref> Construction began in 2006 for a new Texas State Veterans Home in northwest Amarillo. The United States government, through the Veterans Affairs Medical Center, provided the funding to build the facility, while the Texas government will run it after construction is completed.<ref>{{cite news |author=Cunningham, Greg |title=Veterans home on its way |date=March 11, 2005 |work=Amarillo Globe-News |url=http://amarillo.com/stories/031105/new_1466138.shtml|accessdate =January 25, 2007}}</ref> The home is scheduled to open in 2007.
+
+===Utilities===
+[[Drinking water]] is provided by the City of Amarillo and its Utilities Division. Amarillo's water supply used to come from both from [[Lake Meredith]] and the [[Ogallala Aquifer]]. Due to  the lake's low water level, water is now only supplied by the aquifer. Lake Meredith is located northeast of Amarillo and in 2005 it contained at least {{convert|114|e9USgal|m3}} of water. By 2011, lake levels had dropped so much due to the Texas drought, the Canadian River Municipal Water Authority voted to stop using it entirely.<ref>{{cite news | agency = Associated Press | url = http://www.usatoday.com/weather/drought/story/2011-10-14/texas-drought-abandoned-lake-meredith/50773340/1 | title = Texas drought leaves lake too low for cities' use | accessdate =November 22, 2011 | work=USA Today | date=October 14, 2011}}</ref> Generally, the city's daily water production averages between {{convert|40|-|50|e6USgal|m3}}.<ref>{{cite web | author = City of Amarillo's Utilities Division | url = http://www.ci.amarillo.tx.us/departments/dirutils/pdf/2005%20CCR%20MSWORD.pdf | title = 2005 Water Quality Report | format = PDF | accessdate =January 28, 2006| archiveurl= https://web.archive.org/web/20060305124221/http://www.ci.amarillo.tx.us/departments/dirutils/pdf/2005%20CCR%20MSWORD.pdf| archivedate= March 5, 2006 <!--DASHBot-->| deadurl= no}}</ref>
+
+Collection and disposal of the city's trash and garbage are the responsibilities of the City of Amarillo's Solid Waste Collection and Solid Waste Disposal Departments. Amarillo's non-hazardous solid waste is collected and disposed of through burial in the city's [[landfill]]. The City of Amarillo also operates recycling collection centers, one  located near the downtown area and 4 at fire stations in the city.<ref>{{cite web | author = City of Amarillo | url = http://www.ci.amarillo.tx.us/departments/solidwaste.htm | title = Solid Waste Departments | accessdate =February 7, 2006 | archiveurl = https://web.archive.org/web/20051109090305/http://www.ci.amarillo.tx.us/departments/solidwaste.htm <!--Added by H3llBot--> | archivedate = November 9, 2005}}</ref> Other utilities are primarily provided by private organizations. Natural gas is distributed by [[Atmos Energy]]. Electric power service is distributed by [[Xcel Energy]], which bought out the Amarillo-based Southwestern Public Service (SPS) in 2006. Wired telephone service is primarily provided by [[AT&T Inc.|AT&T]]. Cable television is provided by [[Suddenlink Communications]].
+
+==See also==
+{{Portal|Texas}}
+* [[List of museums in the Texas Panhandle]]
+* [[List of people from Amarillo, Texas|List of notable people from Amarillo, Texas]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* {{Cite book|title=Amarillo: The Story of a Western Town|author=Carlson, Paul H. |year=2006 |publisher=Texas Tech University Press |isbn=978-0-89672-587-4 |url=}} An illustrated history of the Queen City of the Texas Panhandle.
+
+==External links==
+{{commons category|Amarillo}}
+{{Wikivoyage|Amarillo}}
+* [http://www.amarillo.gov/ City of Amarillo]
+* [http://www.visitamarillo.net/ Visit Amarillo - A Local & Travelers Guide To Amarillo]
+* [http://www.amarillo-chamber.org/ Amarillo Chamber of Commerce]
+* [http://www.visitamarillotx.com/ Amarillo Convention and Visitor Council]
+* [http://www.amarilloedc.com/ Amarillo Economic Development Corp.]
+* [http://www.wildtexas.com/parks/results.php?nearby_cities=Amarillo Amarillo Area Parks]
+* [http://images.amarillolibrary.org/ Amarillo Public Library Photoarchive Collection] – Displays historical pictures of Amarillo and the Texas Panhandle
+* [http://amaits.dot.state.tx.us/its-cameras/?Speed=High Amarillo traffic webcams]
+
+{{Geographic location
+|Centre    = Amarillo
+|North     =
+|Northeast =
+|East      =
+|Southeast =
+|South     = [[Canyon, Texas|Canyon]], [[Lubbock, Texas|Lubbock]]
+|Southwest =
+|West      =
+|Northwest =
+}}
+
+{{Potter County, Texas}}
+{{Randall County, Texas}}
+{{Texas}}
+{{Texas county seats}}
+{{Texas cities and mayors of 100,000 population}}
+
+{{Good article}}
+
+{{Authority control}}
+
+[[Category:Amarillo, Texas| ]]
+[[Category:Cities in Amarillo metropolitan area]]
+[[Category:Cities in Texas]]
+[[Category:County seats in Texas]]
+[[Category:Populated places established in 1887]]
+[[Category:Cities in Potter County, Texas]]
+[[Category:Cities in Randall County, Texas]]

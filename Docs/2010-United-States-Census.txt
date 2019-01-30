@@ -1,0 +1,704 @@
+2010 United States Census
+
+{{Use mdy dates|date=November 2013}}
+{{Infobox census
+| name = Twenty-third Census<br />of the United States
+| logo = [[File:Seal of the United States Census Bureau.svg|120px|Seal of the United States Census Bureau]]
+| logo_caption = Seal of the [[United States Census Bureau|U.S. Census Bureau]]
+| image = [[File:US-Census-2010Logo.svg|150px|Census 2010 logo]]
+| image_caption = The "Census 2010" logo
+| country = United States
+| date = April 1, 2010
+| population = 308,745,538
+| percent_change = {{increase}} 9.7%
+| region_type = state
+| most_populous = {{nowrap|[[California]] (37,253,956)}}
+| least_populous = {{nowrap|[[Wyoming]] (563,626)}}
+}}
+
+The '''2010 United States Census''', known as "'''Census 2010'''", is the twenty-third and most recent United States [[United States Census|national census]]. National [[Census Day]], the reference day used for the census, was April 1, 2010.<ref name="timeline">{{cite web |title=Interactive Timeline |url=http://2010.census.gov/2010census/about/timeline-text.php |work=About the 2010 Census |publisher=U.S. Census Bureau |accessdate=June 17, 2011 |year=2011}}</ref> As part of a drive to increase the count's accuracy, 635,000 temporary enumerators were hired<!--, [N] more than [[2000 United States Census|the previous census in 2000]]-->.<ref name="hawaii"/><ref name="635Khired"/> The population of the United States was counted as 308,745,538,<ref>{{cite press release |title=U.S. Census Bureau Announces 2010 Census Population Counts – Apportionment Counts Delivered to President |url=http://2010.census.gov/news/releases/operations/cb10-cn93.html |publisher=[[United States Census Bureau]] |date=December 21, 2010 |accessdate=January 9, 2011 |archiveurl=//web.archive.org/web/20101224044247/http://2010.census.gov/news/releases/operations/cb10-cn93.html |archivedate=December 24, 2010 <!--DASHBot-->|deadurl=no}}</ref> a 9.7% increase from the [[2000 United States Census|2000 Census]].
+
+==Introduction==
+As required by the [[United States Constitution]], the U.S. census has been conducted every 10 years since 1790. The [[2000 U.S. Census]] was the previous census completed. Participation in the U.S. Census is required by law in [[Title 13 of the United States Code]].<ref>[http://ask.census.gov/cgi-bin/askcensus.cfg/php/enduser/std_adp.php?p_faqid=7634&p_created=1221755235&p_sid=F4uEQg5k&p_accessibility=0&p_redirect=&p_srch=&p_lva=&p_sp=cF9zcmNoPSZwX3NvcnRfYnk9JnBfZ3JpZHNvcnQ9JnBfcm93X2NudD0xMjU3LDEyNTcmcF9wcm9kcz0mcF9jYXRzPSZwX3B2PSZwX2N2PSZwX3NlYXJjaF90eXBlPWFuc3dlcnMuc2VhcmNoX25sJnBfcGFnZT0x&p_li=&p_topview=1 Must I answer the census?] from the [[United States Census]] website</ref>
+
+On January 25, 2010, Census Bureau Director [[Robert Groves (academic)|Robert Groves]] personally inaugurated the 2010 Census enumeration by counting World War II veteran Clifton Jackson, a resident of [[Noorvik, Alaska]].<ref name="noorvik-kickoff">{{cite news|url=http://seattletimes.nwsource.com/html/nationworld/2010889077_apusalaskacensuslaunch.html|title=Remote Alaska village is first eyed in census|first=Rachel|last=D'oro |agency=Associated Press|location=Noorvik, Alaska| accessdate=March 29, 2010 <!--DASHBot--> |date=January 2010|work=The Seattle Times}}</ref> Census forms were delivered by the U.S. Post Office beginning March 15, 2010. The number of forms mailed out or hand-delivered by the Census Bureau was approximately 134 million.<ref name=economist_april>Census Day: Stand up and be counted. The Economist. April 3–9, 2010. p. 40</ref> Although the questionnaire used April 1, 2010 as the reference date as to where a person was living, an insert dated March 15, 2010 included the following printed in bold type: "Please complete and mail back the enclosed census form today."
+
+The 2010 Census national mail participation rate was 74%.<ref>{{cite web|url= http://2010.census.gov/2010census/take10map/|title=Take 10 Map 2010 Census Participation Census Bureau|accessdate=August 10, 2010| archiveurl= //web.archive.org/web/20100820144620/http://2010.census.gov/2010census/take10map/| archivedate= August 20, 2010 <!--DASHBot-->| deadurl= no}}</ref> From April through July 2010, census takers visited households that did not return a form, an operation called "non-response follow-up" (NRFU).
+
+[[File:2010CensusBarackObamaOvalOffice.jpg|thumb|upright|[[Barack Obama|President Obama]] completing his census form in the [[Oval Office]] on March 29, 2010.]]
+In December 2010, the [[United States Census Bureau|Census Bureau]] delivered population information to the [[President of the United States|president]] for [[Apportionment (politics)|apportionment]], and in March 2011, complete [[redistricting]] data was delivered to states.<ref name="timeline"/>
+
+Personally identifiable information will be available in 2082.<ref>{{Cite web|title = The "72-Year Rule" - History - U.S. Census Bureau|url = https://www.census.gov/history/www/genealogy/decennial_census_records/the_72_year_rule_1.html|website = www.census.gov|accessdate = 2015-10-26|first = US Census Bureau, Census History Staff,|last = PIO}}</ref>
+
+==Major changes==
+The Census Bureau did not use a long form for the 2010 Census.<ref name="c2010-aboutform">{{cite web|url=http://2010.census.gov/partners/pdf/2010_TQA_Agent_FAQs_english.pdf|title=Frequently Asked Questions|work=2010 Census|publisher=U.S. Census Bureau|date=May 10, 2010|accessdate=June 17, 2011}}</ref> In several previous censuses, one in six households received this long form, which asked for detailed social and economic information. The 2010 Census used only a short form asking ten basic questions:<ref name="c2010-aboutform"/>
+# How many people were living or staying in this house, apartment, or mobile home on April 1, 2010?
+# Were there any additional people staying here on April 1, 2010 that you did not include in Question 1? Mark all that apply: (checkboxes for: children; relatives; non-relatives; people staying temporarily; none)
+# Is this house, apartment, or mobile home – [Checkboxes for owned with a mortgage, owned free and clear, rented, occupied without rent.]
+# What is your telephone number?
+# What is Person 1's name? (last, first)
+# What is Person 1's sex? (male, female)
+# What is Person 1's age and Person 1's date of birth?
+# Is Person 1 of Hispanic, Latino, or Spanish origin? (checkboxes for: "No", and several for "Yes" which specify groups of countries)
+# What is Person 1's race? (checkboxes for 14 including "other". One possibility was "Black, African Am., or Negro".)
+# Does Person 1 sometimes live or stay somewhere else? (checkboxes for "No", and several locations for "Yes")
+The form included space to repeat some or all of these questions for up to twelve residents total.
+
+In contrast to the 2000 census, an Internet response option was not offered, nor was the form available for download.<ref name="c2010-aboutform"/><ref name="itif-unplugged"/>
+
+Detailed socioeconomic information collected during past censuses will continue to be collected through the [[American Community Survey]].<ref name="itif-unplugged">{{cite web|url=http://www.itif.org/files/eCensusUnplugged.pdf|title=e-Census Unplugged: Why Americans Should Be Able to Complete the Census Online|first=Daniel|last=Castro |publisher=Information Technology & Innovation Foundation|location=Washington, D.C.| accessdate=March 29, 2010 <!--DASHBot--> |date=February 2008}}</ref> The survey provides data about communities in the United States on a 1-year or 3-year cycle, depending on the size of the community, rather than once every 10 years. A small percentage of the population on a rotating basis will receive the survey each year, and no household will receive it more than once every five years.<ref>{{cite web|title=Chapter 4: Sample Design and Selection|url=http://www.census.gov/acs/www/Downloads/survey_methodology/Chapter_4_RevisedDec2010.pdf|work=ACS Design and Methodology|publisher=U.S. Census Bureau|accessdate=June 17, 2011|date=December 2010}}</ref>
+
+In June 2009, the U.S. Census Bureau announced that it would count [[Same-sex marriage|same-sex married couples]]. However, the final form did not contain a separate "same-sex married couple" option. When noting the relationship between household members, same-sex couples who are married could mark their spouses as being "Husband or wife", the same response given by opposite-sex married couples. An "unmarried partner" option was available for couples (whether same-sex or opposite-sex) who were not married.<ref>[http://2010.census.gov/partners/pdf/factSheet_General_LGBT.pdf LGBT Fact Sheet]</ref>
+
+==Cost==
+The 2010 census cost $13 billion, approximately $42 per capita; by comparison, the 2010 census per-capita cost for China was about US$1 and for India was US$0.40.<ref name="econ201106">{{cite news|url=http://www.economist.com/node/18772674?story_id=18772674&CFID=165420949&CFTOKEN=32425086|title=Censuses: Costing the count|date=June 2, 2011|work=The Economist| accessdate=June 17, 2011| archiveurl= //web.archive.org/web/20110610033208/http://www.economist.com/node/18772674?story_id=18772674| archivedate= June 10, 2011 <!--DASHBot-->| deadurl= no}}</ref> Operational costs were $5.4 billion, significantly under the $7 billion budget.<ref name="cnn20100810"/> In December 2010 the [[Government Accountability Office]] (GAO) noted that the cost of conducting the census has approximately doubled each decade since 1970.<ref name="econ201106"/> In a detailed 2004 report to [[United States Congress|Congress]], the GAO called on the Census Bureau to address cost and design issues, and at that time, had estimated the 2010 Census cost to be $11 billion.<ref name="gao">{{cite web|url=http://www.gao.gov/products/GAO-04-37|title=2010 Census: Cost and Design Issues Need to Be Addressed Soon (GAO-04-37)|date=January 15, 2004|format=PDF|publisher=U.S. General Accounting Office|location=Washington, D.C.|oclc=54778614|accessdate=December 27, 2009| archiveurl= //web.archive.org/web/20100107165327/http://www.gao.gov/products/GAO-04-37| archivedate= January 7, 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+In August 2010, Commerce Secretary [[Gary Locke]] announced that the census [[operating expense|operational cost]]s came in significantly under budget; of an almost $7 billion operational budget:<ref name="cnn20100810">{{cite news|title=Census Bureau comes in under budget for 2010 operational costs|url=http://www.cnn.com/2010/POLITICS/08/10/census.under.budget/|publisher=CNN|date=August 10, 2010|accessdate=August 10, 2010}}</ref>
+*$650 million was saved in the budget for the door-to-door questioning (NRFU) phase because 72% of households returned mailed questionnaires;
+*$150 million was saved because of lower-than-planned costs in areas including Alaska and tribal lands; and
+*the $800 million emergency fund was not needed.
+Locke credited the management practices of Census Bureau director [[Robert Groves]], citing in particular the decision to buy additional advertising in locations where responses lagged, which improved the overall response rate. The agency also has begun to rely more on questioning neighbors or other reliable third parties when a person could not be immediately reached at home, which reduced the cost of follow-up visits. Census data for about 22% of U.S. households that did not reply by mail were based on such outside interviews, Groves said.<ref name="cnn20100810"/>
+
+==Technology==
+In 2005, [[Lockheed Martin]] won a six-year, $500 million contract to capture and standardize data for the census. The contract included systems, facilities, and staffing.<ref>{{Cite news|title = Lockheed Gets Census Job|url = http://www.washingtonpost.com/wp-dyn/content/article/2005/10/02/AR2005100201032.html|newspaper = The Washington Post|date = 2005-10-03|access-date = 2015-09-28|issn = 0190-8286|first = Mary|last = Mosquera}}</ref> The final value of that contract was in excess of one billion dollars <ref>{{Cite report|title = 2010 CENSUS PLANNING MEMORANDA SERIES No 195  =https://www.census.gov/2010census /pdf/2010_Census_DRIS_Paper_Questionnaire_Data_Capture_Assessment.pdf |date = 2012-05-22|access-date = 2016-02-10}}</ref> Information technology was about a quarter of the projected $11.3 billion cost of the decennial census.<ref>{{cite news|url=http://fcw.com/articles/2005/06/13/preparing-for-a-decennial-task.aspx|title=Preparing for a decennial task|first=Aliya|last=Sternstein|date=June 13, 2005|work=[[Federal Computer Week]]|publisher=1105 Media|location=Falls Church, Virginia|accessdate=December 27, 2009}}</ref> The use of high-speed document scanning technology, such as ImageTrac scanners developed by [[IBML]], helped Lockheed Martin complete the project on schedule and under budget.<ref>[http://www.healthitoutcomes.com/doc/ibml-scanning-platform-helps-lockheed-martin-0001 "IBML Scanning Platform Helps Lockheed Martin Team Complete 2010 Census Project On Schedule, Under Budget"]. Health IT Outcomes. Retrieved 2015-01-20.</ref>
+
+This was the first census to use [[Hand Held Computer|hand-held computing devices]] with [[Global Positioning System|GPS]] capability, although they were only used for the address canvassing operation. Enumerators (information gatherers) that had operational problems with the device understandably made negative reports. During the 2009 Senate confirmation hearings for [[Robert Groves]], President Obama's Census Director appointee, there was much mention of contracting problems but very little criticism of the units themselves.<ref name="autogenerated1">{{cite web | url=http://www.fcw.com/Articles/2008/03/28/Have-feds-cheapened-contract-bonuses.aspx | title=Have feds cheapened contract bonuses? | publisher=FCW | date=2008-03-28 | accessdate=2013-08-09 | author=Chan, Wade-Hahn}}</ref> In rural areas there was a problem with transmission of data to and from the HHC. Since the units were updated nightly with important changes and reprogramming, operator implementation of proper procedure was imperative. Dramatic dysfunction and delays were caused if the units were not put into [[sleep mode]] overnight. The Census Bureau chose to conduct the primary operation, Non-Response Follow Up (NRFU), without using the handheld computing devices.<ref>[http://www.harris.com/view_pressrelease.asp?act=lookup&pr_id=1818 Harris Corporation Selected for $600 Million U.S. Census Bureau Field Data Collection Automation Program]</ref><ref>[https://ask.census.gov/cgi-bin/askcensus.cfg/php/enduser/std_adp.php?p_faqid=8517&p_sid=eTlggqZj&p_created=1250512381&p_sp=cF9zcmNoPSZwX3NvcnRfYnk9JnBfZ3JpZHNvcnQ9JnBfcm93X2NudD0mcF9wcm9kcz0mcF9jYXRzPSZwX3B2PSZwX2N2PSZwX3BhZ2U9MQ!!&p_search_text=Hand%20held%20computers U.S. Census Bureau – Use of Global Positioning Systems (GPS)]</ref>
+
+==Marketing and undercounts==
+Due to allegations surrounding previous censuses that poor people and non-whites are routinely undercounted, for the 2010 census, the Census Bureau tried to avoid that bias by enlisting tens of thousands of intermediaries, such as churches, charities and firms, to explain to people the importance of being counted.<ref name=economist_april/>
+
+In April 2009, the Census Bureau announced that it intended to work with [[community organization]]s in an effort to count all [[Illegal immigration to the United States|illegal immigrants]] in the United States for the census.<ref>{{cite news|last=Ballasy|first=Nicholas|title=Census Bureau: We'll Work with 'Community Organizations' to Count All Illegal Aliens in 2010|publisher=[[Cybercast News Service]]|date=April 2, 2009|url= http://www.cnsnews.com/news/article/46021|accessdate =June 17, 2011}}</ref>
+
+The [[Association of Community Organizations for Reform Now]] (ACORN) was given a contract to help publicize the importance of the census count and to encourage individuals to fill out their forms. In September 2009, after [[ACORN 2009 undercover videos controversy|controversial undercover videos]] showing four ACORN staffers giving tax advice to a man and a woman posing as a prostitute, the Bureau canceled ACORN's contract.<ref name=wsjournal>{{cite news|url=http://online.wsj.com/article/SB125271412822705239.html|title=Census Bureau Cuts Its Ties With Acorn|last=Sherman|first=Jake|date=September 12, 2009|work=The Wall Street Journal|accessdate=June 17, 2011}}</ref> Various American celebrities, including [[Demi Lovato]] and [[Eva Longoria]],<ref>[http://www.looktothestars.org/news/4051-demi-lovato-and-eva-longoria-urge-census-participation Demi Lovato And Eva Longoria Urge Census Participation]</ref> were used in [[public service announcement]]s targeting younger people to fill out census forms. [[Wilmer Valderrama]] and [[Rosario Dawson]] have helped spread census awareness among young Hispanics, a historically low participating ethnicity in the U.S. Census.<ref>[http://www.icelebz.com/gossips/rosario_dawson_wilmer_valderrama_encourage_latinos_to_complete_2010_census_in_new_psa_s/ Rosario Dawson, Wilmer Valderrama Encourage Latinos To Complete 2010 Census In New PSA's]</ref> Rapper [[Ludacris]] also participated in efforts to spread awareness of the 2010 Census.<ref>[http://www.killerhiphop.com/ludacris-2010-census-campaign-new-york/ Ludacris 2010 Census Campaign In New York: KillerHipHop.com]</ref>
+
+The Census Bureau hired about 635,000 people to find those U.S. residents who had not returned their forms by mail; as of May 28, 2010, 113 census workers had been victims of crime while conducting the census.<ref name="635Khired">{{cite web|url=http://www.nationalledger.com/ledgerdc/article_272632041.shtml|title=US Census Takers Attacked on the Job|work=National Ledger|date=May 28, 2010|accessdate=May 30, 2010| archiveurl= //web.archive.org/web/20100531064523/http://www.nationalledger.com/ledgerdc/article_272632041.shtml| archivedate= May 31, 2010 <!--DASHBot-->| deadurl= no}}</ref>{{Update after|2014|8|16}} As of June 29, there were 436 incidents involving assaults or threats against enumerators, more than double the 181 incidents in [[2000 United States Census|2000]]; one enumerator, attempting to hand-deliver the census forms to a [[Hawaii County]] police officer, was arrested for trespassing – the officer's fellow policemen made the arrest.<ref name="hawaii">{{cite news|title=Census worker taken to court for trespassing|url=http://seattletimes.nwsource.com/html/nationworld/2012284278_apuscensussquabble.html|agency=Associated Press|date=July 5, 2010|accessdate=July 6, 2010|quote=The resident continued to refuse to take the Census, and [census worker Russell] Haas said he waited outside a chain-link fence while the resident called his co-workers at the [[Hawai‘i County Police Department]]. When police arrived, instead of asking the resident to accept the forms as required by federal law, the officers crumpled the papers into Haas' chest and handcuffed him, Haas said....Haas said he told officers that it was his duty to leave the Census forms with the resident, and that he would leave as soon as he did it. The officers were enforcing state law and had not been trained on the federal Census law, Hawaii County Police Maj. Sam Thomas said.|first=Mark|last=Niesse|work=The Seattle Times}}</ref>
+
+Some political conservatives and libertarians questioned the validity of the questions and even encouraged people to refuse to answer questions for privacy and constitutional reasons.<ref name="Wapo williams"/> [[Michele Bachmann]], a conservative [[Republican Party (United States)|Republican]] [[United States House of Representatives|Representative]] from [[Minnesota]], stated that she would not fill out her census form other than to indicate the number of people living in her household because "the Constitution doesn't require any information beyond that."<ref>{{cite news|url=http://www.cbsnews.com/8301-503544_162-5095844-503544.html|title=Rep. Bachmann Refuses To Fill Out 2010 Census|last=Swami|first=Perana|date=June 18, 2009|work=Political Hotsheet|publisher=CBS News|accessdate=April 15, 2010}}</ref> Former Republican Representative and [[Libertarian Party (United States)|Libertarian]] presidential candidate [[Bob Barr]] stated that the census has become too intrusive, going beyond the mere enumeration (i.e., count) intended by the framers of the U.S. Constitution.<ref>{{cite web|url=http://blogs.ajc.com/bob-barr-blog/2009/09/08/census-goes-too-far-with-children/|title=Census goes too far with children|publisher=Atlanta Journal Constitution|accessdate=September 8, 2009}}</ref> According to political commentator [[Juan Williams]], "Census participation rates have been declining since 1970, and if conservatives don't participate, doubts about its accuracy and credibility may become fatal."<ref name="Wapo williams"/>
+
+As a result, the Census Bureau undertook an unprecedented advertising campaign targeted at encouraging white political conservatives to fill out their forms, in the hope of avoiding an undercount of this group. The 2010 U.S. Census was the primary sponsor at NASCAR races in Atlanta, Bristol, and Martinsville, and sponsored the No. 16 [[Ford Fusion (Americas)|Ford Fusion]] driven by [[Greg Biffle]] for part of the season, because of a marketing survey that indicated most NASCAR fans lean politically conservative.<ref name="Wapo williams">{{cite news|url=http://www.washingtonpost.com/wp-dyn/content/article/2010/02/28/AR2010022803364.html|title=Marketing the 2010 census with a conservative-friendly face|first=Juan|last=Williams|date=March 1, 2010|newspaper=Washington Post|accessdate=March 25, 2011}}</ref> It also ran an advertisement during the [[Super Bowl XLIV|2010 Super Bowl]], and hired singer [[Marie Osmond]], who is thought to have many conservative fans, to publicize the census.<ref name="Wapo williams"/>
+
+==2012 election==
+[[File:HouseDelegations2013-23.svg|400px|thumb|right|The 435 seats of the [[United States House of Representatives|House]] grouped by state, as apportioned after the 2010 Census]]
+The results of the 2010 census determined the number of seats that each state receives in the [[United States House of Representatives]] starting with the [[United States elections, 2012#United States House of Representatives|2012 elections]]. Consequently, this affected the number of votes each state has in the [[Electoral College (United States)|Electoral College]] for the [[United States presidential election, 2012|2012 presidential election]].
+
+Because of population changes, eighteen states had changes in their number of seats. Eight states gained at least one seat, and ten states lost at least one seat. The final result involved 12 seats being switched.<ref>{{cite news|url=http://2010.census.gov/news/pdf/apport2010_table1.pdf|title=APPORTIONMENT POPULATION AND NUMBER OF REPRESENTATIVES, BY STATE: 2010 CENSUS|work=US Census|date=December 21, 2010|accessdate=December 21, 2010}}</ref>
+{| class="wikitable"
+|- style="vertical-align:bottom;"
+! Gained four seats|| | Gained two seats|| |Gained one seat|| |Lost one seat|| |Lost two seats
+|- style="vertical-align:top;"
+|[[United States congressional delegations from Texas|Texas]]
+|[[United States congressional delegations from Florida|Florida]]
+|[[United States congressional delegations from Arizona|Arizona]]<br />[[United States congressional delegations from Georgia|Georgia]]<br />[[United States congressional delegations from Nevada|Nevada]]<br />[[United States congressional delegations from South Carolina|South Carolina]]<br />[[United States congressional delegations from Utah|Utah]]<br />[[United States congressional delegations from Washington|Washington]]
+|[[United States congressional delegations from Illinois|Illinois]]<br />[[United States congressional delegations from Iowa|Iowa]]<br />[[United States congressional delegations from Louisiana|Louisiana]]<br />[[United States congressional delegations from Massachusetts|Massachusetts]]<br />[[United States congressional delegations from Michigan|Michigan]]<br />[[United States congressional delegations from Missouri|Missouri]]<br />[[United States congressional delegations from New Jersey|New Jersey]]<br />[[United States congressional delegations from Pennsylvania|Pennsylvania]]
+|[[United States congressional delegations from New York|New York]]<br />[[United States congressional delegations from Ohio|Ohio]]
+|}
+
+==Controversies==
+Some objected to the counting of persons who are in the United States illegally.<ref>{{cite news|title=Our Unconstitutional Census|url=http://online.wsj.com/article/SB10001424052970204908604574332950796281832.html|work=The Wall Street Journal|accessdate=August 9, 2009|first1=John S.|last1=Baker|first2=Elliott|last2=Stonecipher|date=August 9, 2009}}</ref><ref>{{cite news|title=Census 2010: Latino Pastors Urge Census Boycott|url=http://voices.washingtonpost.com/federal-eye/2009/04/census_2010_latino_pastors_urg.html|work=Washington Post|accessdate=April 22, 2009}}</ref> Republican senators [[David Vitter]] and [[Bob Bennett (politician)|Bob Bennett]] tried unsuccessfully to add questions on immigration status to the census form.<ref name=economist_april/>
+
+Organizations such as the [[Prison Policy Initiative]] argued that the census counts of incarcerated men and women as residents of prisons, rather than of their pre-incarceration addresses, skewed political clout and resulted in misleading demographic and population data.<ref>{{cite journal|format=PDF|<!-- archiveurl = http://www.prisonpolicy.org/reports/pace.pdf | -->url=http://digitalcommons.pace.edu/cgi/viewcontent.cgi?article=1205&context=plr|title=Prisoners of the Census: Electoral and Financial Consequences of Counting Prisoners Where They Go, Not Where They Come From|first1=Eric|last1=Lotke|first2=Peter|last2=Wagner|work=Pace Law Review|volume=24|issue=2|date=Spring 2004|pages=587–607|publisher=[[Pace Law School]]|location=White Plains, New York|issn=0272-2410}}  Originally presented at ''Prison Reform Revisited'': a symposium held at Pace University School of Law and the New York State Judicial Institute, Oct. 16–18, 2003. Research supported by grants from the Soros Justice Fellowship Program of the [[Open Society Institute]]{{accessdate|January 2, 2010}}</ref>
+
+The term "[[Negro]]" was used in the questionnaire as one of the options for [[African Americans]] (Question 9. What is Person (number)'s race? ... [[Black people|Black]], African Am., or Negro) as a choice to describe one's race. Census Bureau spokesman Jack Martin explained that "many older African-Americans identified themselves that way, and many still do. Those who identify themselves as Negroes need to be included."<ref>{{cite web|url=http://2010.census.gov/2010census/how/interactive-form.php|title=U.S. Census Bureau interactive form, Question 9|accessdate=January 8, 2010| archiveurl= //web.archive.org/web/20100108084300/http://2010.census.gov/2010census/how/interactive-form.php| archivedate= January 8, 2010 <!--DASHBot-->| deadurl= no}}</ref><ref>{{cite news|url=http://www.nydailynews.com/news/2010/01/06/2010-01-06_census_negro_issue_use_of_word_on_forms_raises_hackles_memories_of_jim_crow.html|title=Use of word Negro on 2010 census forms raises memories of Jim Crow|author1=McFadden, Katie |author2=McShane, Larry | publisher=[[Daily News (New York)|NYDailyNews.com]]|date=January 6, 2010|accessdate=January 8, 2010| archiveurl= //web.archive.org/web/20100109012939/http://www.nydailynews.com/news/2010/01/06/2010-01-06_census_negro_issue_use_of_word_on_forms_raises_hackles_memories_of_jim_crow.html| archivedate= January 9, 2010 <!--DASHBot-->| deadurl= no}}</ref> The word was also used in the 2000 Census, with over 56,000 people identifying themselves as "Negro."<ref>{{cite news|url=http://www.time.com/time/nation/article/0,8599,1955923,00.html|title=Should the Census Be Asking People if They Are Negro?|work=Time|date=January 23, 2010|accessdate=February 7, 2010|first=Barbara|last=Kiviat| archiveurl= //web.archive.org/web/20100126090118/http://www.time.com/time/nation/article/0,8599,1955923,00.html?| archivedate= January 26, 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+The 2010 census contained ten questions about age, gender, ethnicity, home ownership, and household relationships. Six of the ten questions were to be answered for each individual in the household. Federal law has provisions for fining those who refuse to complete the census form.<ref>[http://www.aclu.org/technology-and-liberty/frequently-asked-questions-national-census Frequently Asked Questions on the National Census] from the [[ACLU]] website</ref>
+
+Detroit Mayor [[Dave Bing]] held a press conference on March 22, 2011 to announce that the city would challenge its census results.<ref>{{cite news|url=http://michigan.drupal.publicbroadcasting.net/post/bing-plans-challenge-detroit-census-numbers|title=Bing plans to challenge Detroit census numbers|author=Cwiek, Sarah|publisher=MichiganRadio.com|date=March 22, 2011|accessdate=June 15, 2011}}</ref> The challenge, being led by the city's planning department, cited an inconsistency as an example showing a downtown census tract which lost only 60 housing units, but 1,400 people, implying that a downtown jail or dormitory was missed in canvassing.<ref>{{cite news|url=http://michigan.drupal.publicbroadcasting.net/post/detroit-census-challenge|title=Detroit census challenge|author=Davidson, Kate|publisher=MichiganRadio.com|date=May 2, 2011|accessdate=June 15, 2011}}</ref>
+
+New York City Mayor [[Michael Bloomberg]] held a conference on March 27, 2011, to announce that the city would also challenge his city's census results, specifically the apparent undercounting in the boroughs of [[Queens]] and [[Brooklyn]].<ref>NYC To File Formal Challenge to 2010 Census under Count Question Resolution Process [http://www.mikebloomberg.com/index.cfm?objectid=F93690A8-C29C-7CA2-F22FCD1FB0842DD4]</ref> Bloomberg said that the numbers for Queens and Brooklyn, the two most populous boroughs, are implausible.<ref>[http://www.mikebloomberg.com/index.cfm?objectid=E98B9E79-C29C-7CA2-FE04261B98D69D26 On the 2010 Census Results]</ref> According to the Census, they grew by only 0.1% and 1.6%, respectively, while the other boroughs grew by between 3% and 5%. He also stated that the census showed improbably high numbers of vacant housing in vital neighborhoods such as [[Jackson Heights, Queens]].
+
+The [[Washington, D.C.|District of Columbia]] announced in August 2011 that it would also challenge its census results. The Mayor's Office claimed that the detailed information provided for 549 census blocks is "nonsensical", listing examples of census data that show housing units located in the middle of a street that do not actually exist. However, officials do not believe the city's total population will drastically change as a result of the challenge.<ref>{{cite news|last=DeBonis|first=Mike|title=District challenges its 2010 Census count|url=http://www.washingtonpost.com/local/dc-politics/district-challenges-its-2010-census-count/2011/08/10/gIQAdmfP7I_story.html|accessdate=August 14, 2011|newspaper=The Washington Post|date=August 10, 2011}}</ref>
+
+===''Clemons v. Department of Commerce''===
+{{main|Clemons v. Department of Commerce}}
+A 2009 lawsuit, ''[[Clemons v. Department of Commerce]]'' (see also [[United States congressional apportionment#Controversy and history]]), sought a court order for Congress to reapportion the House of Representatives with a greater number of members following the census, to rectify under- and over-representation of some states under the so-called 435 rule established by [[Public Law 62-5|the Apportionment Act of 1911]], which limits the number of U.S. Representatives to that number, meaning that some states are slightly underrepresented proportionate to their true population and that others are slightly overrepresented by the same standard.{{Clarify|date=December 2010}} Had this occurred, it would have also affected Electoral College apportionment for the 2012–2020 presidential elections.<ref>http://apportionment.us/Complaint.pdf; http://apportionment.us/case.html</ref> After the court order was not granted, the plaintiffs appealed the case to the [[United States Supreme Court]], and on December 13, 2010, the Supreme Court [[vacated judgment|vacated]] and [[remand (court procedure)|remanded]] with instructions to dismiss the complaint for lack of jurisdiction.<ref>[http://www.supremecourt.gov/orders/courtorders/121310zor.pdf Supreme Court orders for December 13, 2010]</ref>
+
+==State rankings==
+{{see also|List of U.S. states and territories by population}}
+The state with the highest percentage rate of growth was [[Nevada]], while the state with the largest population increase was [[Texas]].<ref>[http://www.bloomberg.com/news/2010-12-21/texas-hispanics-set-to-challenge-status-quo-in-reapportionment.html Texas Adds Four Congressional Seats as State's Hispanic Population Grows]</ref> [[Michigan]], the 8th largest by population, was the only state to lose population (although [[Puerto Rico]], a [[Territories of the United States|U.S. territory]], lost population as well), and the [[District of Columbia]] saw its first gain since the 1950s.<ref>[http://www.usatoday.com/news/nation/census/default.htm USA Today 2010 Census]</ref> Note that the resident populations listed below do not include people living overseas. For Congressional apportionment, the sum of a state's resident population and overseas population is used.<ref>[http://www.census.gov/prod/cen2010/briefs/c2010br-08.pdf Congressional Apportionment]</ref>
+
+<!-- Please do not add Puerto Rico, it is better if the territories have their own list. -->
+{| class="wikitable sortable" style="text-align: right;"
+|+ Population and population change in the United States by state
+|-
+! Rank
+! State
+! Population as of<br />2000 Census
+! Population as of<br />2010 Census<ref>{{cite web |url=http://2010.census.gov/2010census/data/apportionment-pop-text.php |title=Resident Population Data: Population Change |date=December 23, 2010 |publisher=[[United States Census Bureau]] |accessdate=December 23, 2010| archiveurl= //web.archive.org/web/20101225031104/http://2010.census.gov/2010census/data/apportionment-pop-text.php| archivedate= December 25, 2010 <!--DASHBot-->| deadurl= yes}}</ref>
+! data-sort-type="number" |Change
+! data-sort-type="number" |Percent<br />change
+|-
+| 1
+| style="text-align: left;" |{{flag|California}}
+| 33,871,648
+| 37,253,956
+| 3,382,308 {{increase}}
+| 10.0% {{increase}}
+|-
+| 2
+| style="text-align: left;" |{{flag|Texas}}
+| 20,851,820
+| 25,145,561
+| 4,293,741 {{increase}}
+| 20.6% {{increase}}
+|-
+| 3
+| style="text-align: left;" |{{flag|New York}}
+| 18,976,457
+| 19,378,102
+| 401,645 {{increase}}
+| 2.1% {{increase}}
+|-
+| 4
+| style="text-align: left;" |{{flag|Florida}}
+| 15,982,378
+| 18,801,310
+| 2,818,932 {{increase}}
+| 17.6% {{increase}}
+|-
+| 5
+| style="text-align: left;" |{{flag|Illinois}}
+| 12,419,293
+| 12,830,632
+| 411,339 {{increase}}
+| 3.3% {{increase}}
+|-
+| 6
+| style="text-align: left;" |{{flag|Pennsylvania}}
+| 12,281,054
+| 12,702,379
+| 421,325 {{increase}}
+| 3.4% {{increase}}
+|-
+| 7
+| style="text-align: left;" |{{flag|Ohio}}
+| 11,353,140
+| 11,536,504
+| 183,364 {{increase}}
+| 1.6% {{increase}}
+|-
+| 8
+| style="text-align: left;" |{{flag|Michigan}}
+| 9,938,444
+| 9,883,640
+| −54,804 {{decrease}}
+| −0.6% {{decrease}}
+|-
+| 9
+| style="text-align: left;" |{{flag|Georgia (U.S. state)|name=Georgia}}
+| 8,186,453
+| 9,687,653
+| 1,501,200 {{increase}}
+| 18.3% {{increase}}
+|-
+| 10
+| style="text-align: left;" |{{flag|North Carolina}}
+| 8,049,313
+| 9,535,483
+| 1,486,170 {{increase}}
+| 18.5% {{increase}}
+|-
+| 11
+| style="text-align: left;" |{{flag|New Jersey}}
+| 8,414,350
+| 8,791,894
+| 377,544 {{increase}}
+| 4.5% {{increase}}
+|-
+| 12
+| style="text-align: left;" |{{flag|Virginia}}
+| 7,078,515
+| 8,001,024
+| 922,509 {{increase}}
+| 13.0% {{increase}}
+|-
+| 13
+| style="text-align: left;" |{{flag|Washington}}
+| 5,894,121
+| 6,724,540
+| 830,419 {{increase}}
+| 14.1% {{increase}}
+|-
+| 14
+| style="text-align: left;" |{{flag|Massachusetts}}
+| 6,349,097
+| 6,547,629
+| 198,532 {{increase}}
+| 3.1% {{increase}}
+|-
+| 15
+| style="text-align: left;" |{{flag|Indiana}}
+| 6,080,485
+| 6,483,802
+| 403,317 {{increase}}
+| 6.6% {{increase}}
+|-
+| 16
+| style="text-align: left;" |{{flag|Arizona}}
+| 5,130,632
+| 6,392,017
+| 1,261,385 {{increase}}
+| 24.6% {{increase}}
+|-
+| 17
+| style="text-align: left;" |{{flag|Tennessee}}
+| 5,689,283
+| 6,346,105
+| 656,822 {{increase}}
+| 11.5% {{increase}}
+|-
+| 18
+| style="text-align: left;" |{{flag|Missouri}}
+| 5,595,211
+| 5,988,927
+| 393,716 {{increase}}
+| 7.0% {{increase}}
+|-
+| 19
+| style="text-align: left;" |{{flag|Maryland}}
+| 5,296,486
+| 5,773,552
+| 477,066 {{increase}}
+| 9.0% {{increase}}
+|-
+| 20
+| style="text-align: left;" |{{flag|Wisconsin}}
+| 5,363,675
+| 5,686,986
+| 323,311 {{increase}}
+| 6.0% {{increase}}
+|-
+| 21
+| style="text-align: left;" |{{flag|Minnesota}}
+| 4,919,479
+| 5,303,925
+| 384,446 {{increase}}
+| 7.8% {{increase}}
+|-
+| 22
+| style="text-align: left;" |{{flag|Colorado}}
+| 4,301,261
+| 5,029,196
+| 727,935 {{increase}}
+| 16.9% {{increase}}
+|-
+| 23
+| style="text-align: left;" |{{flag|Alabama}}
+| 4,447,100
+| 4,779,736
+| 332,636 {{increase}}
+| 7.5% {{increase}}
+|-
+| 24
+| style="text-align: left;" |{{flag|South Carolina}}
+| 4,012,012
+| 4,625,364
+| 613,352 {{increase}}
+| 15.3% {{increase}}
+|-
+| 25
+| style="text-align: left;" |{{flag|Louisiana}}
+| 4,468,976
+| 4,533,372
+| 64,396 {{increase}}
+| 1.4% {{increase}}
+|-
+| 26
+| style="text-align: left;" |{{flag|Kentucky}}
+| 4,041,769
+| 4,339,367
+| 297,598 {{increase}}
+| 7.4% {{increase}}
+|-
+| 27
+| style="text-align: left;" |{{flag|Oregon}}
+| 3,421,399
+| 3,831,074
+| 409,675 {{increase}}
+| 12.0% {{increase}}
+|-
+| 28
+| style="text-align: left;" |{{flag|Oklahoma}}
+| 3,450,654
+| 3,751,351
+| 300,697 {{increase}}
+| 8.7% {{increase}}
+|-
+| 29
+| style="text-align: left;" |{{flag|Connecticut}}
+| 3,405,565
+| 3,574,097
+| 168,532 {{increase}}
+| 4.9% {{increase}}
+|-
+| 30
+| style="text-align: left;" |{{flag|Iowa}}
+| 2,926,324
+| 3,046,355
+| 120,031 {{increase}}
+| 4.1% {{increase}}
+|-
+| 31
+| style="text-align: left;" |{{flag|Mississippi}}
+| 2,844,658
+| 2,967,297
+| 122,639 {{increase}}
+| 4.3% {{increase}}
+|-
+| 32
+| style="text-align: left;" |{{flag|Arkansas}}
+| 2,673,400
+| 2,915,918
+| 242,518 {{increase}}
+| 9.1% {{increase}}
+|-
+| 33
+| style="text-align: left;" |{{flag|Kansas}}
+| 2,688,418
+| 2,853,118
+| 164,700 {{increase}}
+| 6.1% {{increase}}
+|-
+| 34
+| style="text-align: left;" |{{flag|Utah|1913}}
+| 2,233,169
+| 2,763,885
+| 530,716 {{increase}}
+| 23.8% {{increase}}
+|-
+| 35
+| style="text-align: left;" |{{flag|Nevada}}
+| 1,998,257
+| 2,700,551
+| 702,294 {{increase}}
+| 35.1% {{increase}}
+|-
+| 36
+| style="text-align: left;" |{{flag|New Mexico}}
+| 1,819,046
+| 2,059,179
+| 240,133 {{increase}}
+| 13.2% {{increase}}
+|-
+| 37
+| style="text-align: left;" |{{flag|West Virginia}}
+| 1,808,344
+| 1,852,994
+| 44,650 {{increase}}
+| 2.5% {{increase}}
+|-
+| 38
+| style="text-align: left;" |{{flag|Nebraska}}
+| 1,711,263
+| 1,826,341
+| 115,078 {{increase}}
+| 6.7% {{increase}}
+|-
+| 39
+| style="text-align: left;" |{{flag|Idaho}}
+| 1,293,953
+| 1,567,582
+| 273,629 {{increase}}
+| 21.1% {{increase}}
+|-
+| 40
+| style="text-align: left;" |{{flag|Hawaii}}
+| 1,211,537
+| 1,360,301
+| 148,764 {{increase}}
+| 12.3% {{increase}}
+|-
+| 41
+| style="text-align: left;" |{{flag|Maine}}
+| 1,274,923
+| 1,328,361
+| 53,438 {{increase}}
+| 4.2% {{increase}}
+|-
+| 42
+| style="text-align: left;" |{{flag|New Hampshire}}
+| 1,235,786
+| 1,316,470
+| 80,684 {{increase}}
+| 6.5% {{increase}}
+|-
+| 43
+| style="text-align: left;" |{{flag|Rhode Island}}
+| 1,048,319
+| 1,052,567
+| 4,248 {{increase}}
+| 0.4% {{increase}}
+|-
+| 44
+| style="text-align: left;" |{{flag|Montana}}
+| 902,195
+| 989,415
+| 87,220 {{increase}}
+| 9.7% {{increase}}
+|-
+| 45
+| style="text-align: left;" |{{flag|Delaware}}
+| 783,600
+| 897,934
+| 114,334 {{increase}}
+| 14.6% {{increase}}
+|-
+| 46
+| style="text-align: left;" |{{flag|South Dakota}}
+| 754,844
+| 814,180
+| 59,336 {{increase}}
+| 7.9% {{increase}}
+|-
+| 47
+| style="text-align: left;" |{{flag|Alaska}}
+| 626,932
+| 710,231
+| 83,299 {{increase}}
+| 13.3% {{increase}}
+|-
+| 48
+| style="text-align: left;" |{{flag|North Dakota}}
+| 642,200
+| 672,591
+| 30,391 {{increase}}
+| 4.7% {{increase}}
+|-
+| 49
+| style="text-align: left;" |{{flag|Vermont}}
+| 608,827
+| 625,741
+| 16,914 {{increase}}
+| 2.8% {{increase}}
+|-
+| {{sort|50|—}}
+| style="text-align: left;" |{{flag|District of Columbia}}
+| 572,059
+| 601,723
+| 29,664 {{increase}}
+| 5.2% {{increase}}
+|-
+| {{sort|51|50}}
+| style="text-align: left;" |{{flag|Wyoming}}
+| 493,782
+| 563,626
+| 69,844 {{increase}}
+| 14.1% {{increase}}
+|- class="sortbottom"
+| &nbsp;
+| style="text-align: left;" |{{flag|United States}}
+| 281,421,906
+| 308,745,538
+| 27,323,632 {{increase}}
+| 9.7% {{increase}}
+|}
+
+==Metropolitan rankings==
+These are core metropolitan rankings versus combined statistical areas. For full list with current data, go to [[List of Metropolitan Statistical Areas|Metropolitan Statistics]].
+{|class="wikitable sortable"
+|+<big>The top 25 Metropolitan Statistical Areas of the United States of America</big><br /><br />
+!Rank
+!Metropolitan&nbsp;Statistical&nbsp;Area
+!2010 Census
+!Encompassing Combined Statistical&nbsp;Area
+|-
+|align=center| {{nts|1}}
+|<!-- 35620 -->[[New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area]]
+|19,567,410
+|<!-- 408 -->[[New York-Newark, NY-NJ-CT-PA Combined Statistical Area]]
+|-
+|align=center| {{nts|2}}
+|<!-- 31080 -->[[Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area]]
+|12,828,837
+|<!-- 348 -->[[Los Angeles-Long Beach, CA Combined Statistical Area]]
+|-
+|align=center| {{nts|3}}
+|<!-- 16980 -->[[Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Statistical Area]]
+|9,461,105
+|<!-- 176 -->[[Chicago-Naperville, IL-IN-WI Combined Statistical Area]]
+|-
+|align=center| {{nts|4}}
+|<!-- 19100 -->[[Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area]]
+|6,426,214
+|<!-- 206 -->[[Dallas-Fort Worth, TX-OK Combined Statistical Area]]
+|-
+|align=center| {{nts|5}}
+|<!-- 26420 -->[[Houston-The Woodlands-Sugar Land, TX Metropolitan Statistical Area]]
+|5,920,416
+|<!-- 288 -->[[Houston-The Woodlands, TX Combined Statistical Area]]
+|-
+|align=center| {{nts|6}}
+|<!-- 37980 -->[[Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area]]
+|5,965,343
+|<!-- 428 -->[[Philadelphia-Reading-Camden, PA-NJ-DE-MD Combined Statistical Area]]
+|-
+|align=center| {{nts|7}}
+|<!-- 47900 -->[[Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area]]
+|5,636,232
+|<!-- 548 -->[[Washington-Baltimore-Arlington, DC-MD-VA-WV-PA Combined Statistical Area]]
+|-
+|align=center| {{nts|8}}
+|<!-- 33100 -->[[Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area]]
+|5,564,635
+|<!-- 370 -->[[Miami-Fort Lauderdale-Port St. Lucie, FL Combined Statistical Area]]
+|-
+|align=center| {{nts|9}}
+|<!-- 12060 -->[[Atlanta-Sandy Springs-Roswell, GA Metropolitan Statistical Area]]
+|5,286,728
+|<!-- 122 -->[[Atlanta–Athens-Clarke County–Sandy Springs, GA Combined Statistical Area]]
+|-
+|align=center| {{nts|10}}
+|<!-- 14460 -->[[Boston-Cambridge-Newton, MA-NH Metropolitan Statistical Area]]
+|4,552,402
+|<!-- 148 -->[[Boston-Worcester-Providence, MA-RI-NH-CT Combined Statistical Area]]
+|-
+|align=center| {{nts|11}}
+|<!-- 41860 -->[[San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area]]
+|4,335,391
+|<!-- 488 -->[[San Jose-San Francisco-Oakland, CA Combined Statistical Area]]
+|-
+|align=center| {{nts|12}}
+|<!-- 40140 -->[[Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area]]
+|4,224,851
+|<!-- 348 -->[[Los Angeles-Long Beach, CA Combined Statistical Area]]
+|-
+|align=center| {{nts|13}}
+|<!-- 38060 -->[[Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area]]
+|4,192,887
+|
+|-
+|align=center| {{nts|14}}
+|<!-- 19820 -->[[Detroit-Warren-Dearborn, MI Metropolitan Statistical Area]]
+|4,296,250
+|<!-- 220 -->[[Detroit-Warren-Ann Arbor, MI Combined Statistical Area]]
+|-
+|align=center| {{nts|15}}
+|<!-- 42660 -->[[Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area]]
+|3,439,809
+|<!-- 500 -->[[Seattle-Tacoma, WA Combined Statistical Area]]
+|-
+|align=center| {{nts|16}}
+|<!-- 33460 -->[[Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area]]
+|3,348,859
+|<!-- 378 -->[[Minneapolis-St. Paul, MN-WI Combined Statistical Area]]
+|-
+|align=center| {{nts|17}}
+|<!-- 41740 -->[[San Diego-Carlsbad, CA Metropolitan Statistical Area]]
+|3,095,313
+|
+|-
+|align=center| {{nts|18}}
+|<!-- 41180 -->[[St. Louis, MO-IL Metropolitan Statistical Area]]
+|2,787,701
+|<!-- 476 -->[[St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area]]
+|-
+|align=center| {{nts|19}}
+|<!-- 45300 -->[[Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area]]
+|2,783,243
+|
+|-
+|align=center| {{nts|20}}
+|<!-- 12580 -->[[Baltimore-Columbia-Towson, MD Metropolitan Statistical Area]]
+|2,710,489
+|<!-- 548 -->[[Washington-Baltimore-Arlington, DC-MD-VA-WV-PA Combined Statistical Area]]
+|-
+|align=center| {{nts|21}}
+|<!-- 19740 -->[[Denver-Aurora-Lakewood, CO Metropolitan Statistical Area]]
+|2,543,482
+|<!-- 216 -->[[Denver-Aurora, CO Combined Statistical Area]]
+|-
+|align=center| {{nts|22}}
+|<!-- 38300 -->[[Pittsburgh, PA Metropolitan Statistical Area]]
+|2,356,285
+|<!-- 430 -->[[Pittsburgh-New Castle-Weirton, PA-OH-WV Combined Statistical Area]]
+|-
+|align=center| {{nts|23}}
+|<!-- 16740 -->[[Charlotte-Concord-Gastonia, NC-SC Metropolitan Statistical Area]]
+|2,217,012
+|<!-- 172 -->[[Charlotte-Concord, NC-SC Combined Statistical Area]]
+|-
+|align=center| {{nts|24}}
+|<!-- 38900 -->[[Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area]]
+|2,226,009
+|<!-- 440 -->[[Portland-Vancouver-Salem, OR-WA Combined Statistical Area]]
+|-
+|align=center| {{nts|25}}
+|<!-- 41700 -->[[San Antonio-New Braunfels, TX Metropolitan Statistical Area]]
+|2,142,508
+|}
+
+==City rankings==
+Metro rankings are more pertinent to determine economic strength of an area. However, city rankings are also included below.
+{| class="wikitable" style="text-align:right;"
+|+2010 U.S. city population rankings<ref>{{cite web|url=http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml |title=American FactFinder |publisher=Factfinder2.census.gov |date= |accessdate=July 10, 2013}}</ref>
+|-
+! scope="col" | Rank !! scope="col" | City !! scope="col" | State !! scope="col" | Population
+|-
+| 1 ||align=left| [[New York City|New York]] || {{flag|New York}} || 8,175,133
+|-
+| 2 ||align=left| [[Los Angeles]] || {{flag|California}} || 3,792,621
+|-
+| 3 ||align=left| [[Chicago]] || {{flag|Illinois}} || 2,695,598
+|-
+| 4 ||align=left| [[Houston]] || {{flag|Texas}} || 2,099,451
+|-
+| 5 ||align=left| [[Philadelphia]] || {{flag|Pennsylvania}} || 1,526,006
+|-
+| 6 ||align=left| [[Phoenix, Arizona|Phoenix]] || {{flag|Arizona}} || 1,445,632
+|-
+| 7 ||align=left| [[San Antonio]] || {{flag|Texas}} || 1,327,407
+|-
+| 8 ||align=left| [[San Diego]] || {{flag|California}} || 1,307,402
+|-
+| 9 ||align=left| [[Dallas]] || {{flag|Texas}} || 1,197,816
+|-
+| 10 ||align=left| [[San Jose, California|San Jose]] || {{flag|California}} || 945,942
+|-
+| 11 ||align=left| [[Jacksonville, Florida|Jacksonville]] || {{flag|Florida}} || 821,784
+|-
+| 12 ||align=left| [[Indianapolis (balance)|Indianapolis]] || {{flag|Indiana}} || 820,445
+|-
+| 13 ||align=left| [[San Francisco]] || {{flag|California}} || 805,235
+|-
+| 14 ||align=left| [[Austin, Texas|Austin]] || {{flag|Texas}} || 790,390
+|-
+| 15 ||align=left| [[Columbus, Ohio|Columbus]] || {{flag|Ohio}} || 787,033
+|-
+| 16 ||align=left| [[Fort Worth, Texas|Fort Worth]] || {{flag|Texas}} || 741,206
+|-
+| 17 ||align=left| [[Charlotte, North Carolina|Charlotte]] || {{flag|North Carolina}} || 731,424
+|-
+| 18 ||align=left| [[Detroit]] || {{flag|Michigan}} || 713,777
+|-
+| 19 ||align=left| [[El Paso, Texas|El Paso]] || {{flag|Texas}} || 649,121
+|-
+| 20 ||align=left| [[Memphis, Tennessee|Memphis]] || {{flag|Tennessee}} || 646,889
+|-
+| 21 ||align=left| [[Baltimore]] || {{flag|Maryland}} || 620,961
+|-
+| 22 ||align=left| [[Boston]] || {{flag|Massachusetts}} || 617,594
+|-
+| 23 ||align=left| [[Seattle]] || {{flag|Washington}} || 608,660
+|-
+| 24 ||align=left| [[Washington, D.C.|Washington]] || {{flag|District of Columbia}} || 601,723
+|-
+| 25 ||align=left| [[Nashville-Davidson (balance), Tennessee|Nashville]] || {{flag|Tennessee}} || 601,222
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|2010 United States Census}}
+*[http://www.census.gov/2010census/ 2010 Census]
+*[http://www.census.gov/schools/pdf/2010form_info.pdf 2010 United States Census Form]
+*[http://www.census.gov/ U.S. Census Bureau]
+*[http://www.life.com/image/first/in-gallery/53671/the-2010-census-winners-and-losers#index/0 The 2010 Census: Winners and Losers] – slideshow by ''[[Life magazine]]''
+*[http://factfinder.census.gov/home/saff/AFF_deep_linking_guide_v1.1.pdf How to deep link into US Census Bureau FactFinder2], see [http://factfinder.census.gov/home/saff/aff2.html FactFinder2 info]
+*[http://www.democracynow.org/2010/12/22/census_alters_nations_political_landscape_and Census: As Red States Grow, So Do Hispanic Populations Within] – video report by ''[[Democracy Now!]]''
+
+{{USCensus}}
+
+[[Category:2010 in American politics|Census 2010]]
+[[Category:Lockheed Martin]]
+[[Category:United States Census]]
+[[Category:2010 censuses|United States]]

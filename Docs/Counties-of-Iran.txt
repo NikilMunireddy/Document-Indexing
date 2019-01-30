@@ -1,0 +1,531 @@
+Counties of Iran
+
+[[Image:Iran counties.png|thumb|250px|Counties of Iran (separated by faint lines)]]
+{{Politics of Iran}}
+The counties of [[Iran]], also called '''''shahrestan''''' ({{lang-fa|شهرستان}} {{transl|fa|''shahrestān''}}), are [[administrative divisions]] of larger [[Provinces of Iran|provinces]] (''ostan''). The word ''shahrestan'' comes from the Persian words ''{{transl|fa|[[:wikt:شهر#Persian|shahr]]}}'' ("city, town") and ''{{transl|fa|[[stān]]}}'' ("province, state"). "[[County]]", therefore, is a near equivalent of ''shahrestan''.
+
+Iranian counties are divided into one or more {{transl|fa|''[[bakhsh]]''}} ({{lang|fa|بخش}}), or districts. A typical county includes both cities ({{lang|fa|شهر}} {{transl|fa|''shahr''}}) and rural agglomerations ({{lang|fa|دهستان}} {{transl|fa|''dehestān''}}), which are groupings of adjacent villages. One city within the county serves as the capital of that county. 
+ 
+Each county is governed by an office known as ''farmandari'', which coordinates different public events and agencies and is headed by a ''farmandar'', the governor of the county and the highest-ranking official in the division. 
+
+Among the [[provinces of Iran]], [[Fars Province|Fars]] has the highest number of ''shahrestan''s (23), while [[Semnan Province|Semnan]] and [[South Khorasan Province|South Khorasan]] have only 4 ''shahrestan''s each; [[Qom Province|Qom]] uniquely has one, being [[wiktionary:coextensive|coextensive]] with its [[Qom County|namesake county]]. In 2005, Iran had 324 ''shahrestan''s.
+
+==Guide==
+To better understand these subdivisions, the following table is useful. Assume that province P is divided into two counties: A and B. County A has 3 districts: Central, X, and Y. The Central district is the district that contains City M, the capital of the county. Each district contains one or more cities and/or one or more RAs (rural agglomerations). In our example, the Central district contains City M, City N, and RA T, which is composed of the villages V1, V2, V3, and V4; district X contains City O and RA U; and district Y has no cities and one RA V. The minimal county consists of only one city as the only district, named Central, of course. The county B in the following table is of such type, containing only one city Q.
+
+{| class="wikitable"
+|-
+! ''Ostan'' (province)
+! ''Shahrestan'' (county)
+! District
+! City / RA*
+! Villages
+|-
+|rowspan="7"| P
+|rowspan="6"| A
+|rowspan="3"| Central
+| City M (c)
+|
+|-
+| City N
+|
+|-
+| RA T
+| V1, V2, V3, V4
+|-
+|rowspan="2"| X
+| City O 
+|
+|-
+| RA U
+| V5, V6
+|-
+| Y
+| RA V
+| V7, V8, V9
+|-
+| B
+| Central
+| City Q
+| 
+|}
+
+The counties are listed below, by province:
+
+==[[Alborz Province]]==
+*[[Eshtehard County]]
+*[[Karaj County]]
+*[[Nazarabad County]] 
+*[[Savojbolagh County]]
+*[[Taleghan County]]
+
+==[[Ardabil Province]]==
+*[[Ardabil County]]
+*[[Bilasavar County]]
+*[[Germi County]]
+*[[Khalkhal County]]
+*[[Kowsar County]]
+*[[Meshginshahr County]]
+*[[Namin County]]
+*[[Nir County]]
+*[[Parsabad County]]
+*[[Sareyn County]]
+
+==[[Bushehr Province]]==
+*[[Asaluyeh County]]
+*[[Bushehr County]]
+*[[Dashtestan County]]
+*[[Dashti County]]
+*[[Dayyer County]]
+*[[Deylam County]]
+*[[Ganaveh County]]
+*[[Jam County]]
+*[[Kangan County]]
+*[[Tangestan County]]
+
+==[[Chaharmahal and Bakhtiari Province]]==
+*[[Ardal County]]
+*[[Borujen County]]
+*[[Farsan County]]
+*[[Kiaar County]]
+*[[Kuhrang County]]
+*[[Lordegan County]]
+*[[Shahrekord County]]
+
+==[[East Azerbaijan Province]]==
+*[[Ahar County]]
+*[[Ajabshir County]]
+*[[Azarshahr County]]
+*[[Bonab County]]
+*[[Bostanabad County]]
+*[[Charuymaq County]]
+*[[Heris County]]
+*[[Hashtrud County]]
+*[[Jolfa County]]
+*[[Kalibar County]]
+*[[Khodaafarin County]]
+*[[Malekan County]]
+*[[Maragheh County]]
+*[[Marand County]]
+*[[Mianeh County]]
+*[[Osku County]]
+*[[Sarab County]]
+*[[Shabestar County]]
+*[[Tabriz County]]
+*[[Varzaqan County]]
+
+==[[Isfahan Province]]==
+*[[Aran-o-Bidgol County]]
+*[[Ardestan County]]
+*[[Borkhar-o-Meymeh County]]
+*[[Chadegan County]]
+*[[Falavarjan County]]
+*[[Fereydan County]]
+*[[Fereydunshahr County]]
+*[[Golpayegan County]]
+*[[Isfahan County]]
+*[[Kashan County]]
+*[[Khansar County]]
+*[[Khomeinishahr County]]
+*[[Lenjan County]]
+*[[Lower Semirom County]]
+*[[Mobarakeh County]]
+*[[Nain County]]
+*[[Najafabad County]]
+*[[Natanz County]]
+*[[Semirom County]]
+*[[Shahreza County]]
+*[[Shahinshahr o Meymeh County]]
+*[[Tiran-o-Korun County]]
+
+==[[Fars Province]]==
+*[[Abadeh County]]
+*[[Arsanjan County]]
+*[[Bavanat County]]
+*[[Darab County]]
+*[[Eqlid County]]
+*[[Estahban County]]
+*[[Farashband County]]
+*[[Fasa County]]
+*[[Firuzabad County]]
+*[[Gerash County]]
+*[[Jahrom County]]
+*[[Kavar County]]
+*[[Kazerun County]]
+*[[Kherameh County]]
+*[[Khonj County]]
+*[[Khorrambid County]]
+*[[Lamerd County]]
+*[[Larestan County]]
+*[[Mamasani County]]
+*[[Marvdasht County]]
+*[[Mehr County]]
+*[[Neyriz County]]
+*[[Pasargad County]]
+*[[Qir-o-Karzin County]]
+*[[Rostam County]]
+*[[Sarvestan County]]
+*[[Sepidan County]]
+*[[Shiraz County]]
+*[[Zarrindasht County]]
+
+==[[Gilan Province]]==
+*[[Amlash County]]
+*[[Astara County]]
+*[[Astane-ye-Ashrafiyeh County]]
+*[[Bandar-e-Anzali County]]
+*[[Fuman County]]
+*[[Lahijan County]]
+*[[Langrud County]]
+*[[Masal County]]
+*[[Rasht County]]
+*[[Rezvanshahr County]]
+*[[Rudbar County]]
+*[[Rudsar County]]
+*[[Shaft County]]
+*[[Siahkal County]]
+*[[Some'e-sara County]]
+*[[Talesh County]]
+
+==[[Golestan Province]]==
+*[[Aliabad County]]
+*[[Aqqala County]]
+*[[Azadshahr County]]
+*[[Bandar-e-gaz County]]
+*[[Bandar-e-Torkaman County]]
+*[[Galikash County]]
+*[[Gomishan County]]
+*[[Gonbad-e-Kavus County]]
+*[[Gorgan County]]
+*[[Kolaleh County]]
+*[[Kordkuy County]]
+*[[Maravehtapeh County]]
+*[[Minudasht County]]
+*[[Ramian County]]
+
+==[[Hamadan Province]]==
+*[[Asadabad County]]
+*[[Bahar County]]
+*[[Hamadan County]]
+*[[Kabudrahang County]]
+*[[Malayer County]]
+*[[Nahavand County]]
+*[[Razan County]]
+*[[Tuyserkan County]]
+
+==[[Hormozgan Province]]==
+*[[Abumusa County]]
+*[[Bandar-Abbas County]]
+*[[Bandar-Lengeh County]]
+*[[Bastak County]]
+*[[Gavbandi County]]
+*[[Hajiabad County]]
+*[[Jask County]]
+*[[Khamir County]]
+*[[Minab County]]
+*[[Qeshm County]]
+*[[Rudan County]]
+
+==[[Ilam Province]]==
+*[[Abdanan County]]
+*[[Darrehshahr County]]
+*[[Dehloran County]]
+*[[Eyvan County]]
+*[[Ilam County]]
+*[[Malekshahi County]]
+*[[Mehran County]]
+*[[Shirvan-o-Chardavol County]]
+
+==[[Kerman Province]]==
+*[[Anar County]]
+*[[Anbarabad County]]
+*[[Arzuiyeh County]]
+*[[Baft County]]
+*[[Bam County]]
+*[[Bardsir County]]
+*[[Fahraj County]]
+*[[Ghaleye-Ganj County]]
+*[[Jiroft County]]
+*[[Kahnuj County]]
+*[[Kerman County]]
+*[[Kuhbonan County]]
+*[[Manujan County]]
+*[[Rabar County]]
+*[[Rafsanjan County]]
+*[[Ravar County]]
+*[[Reygan County]]
+*[[Roudbar-e-Jonub County]]
+*[[Shahr-e-Babak County]]
+*[[Sirjan County]]
+*[[Zarand County]]
+
+==[[Kermanshah Province]]==
+*[[Dalaho County]]
+*[[Gilan-e-gharb County]]
+*[[Harsin County]]
+*[[Islamabad-e-gharb County]]
+*[[Javanrud County]]
+*[[Kangavar County]]
+*[[Kermanshah County]]
+*[[Paveh County]]
+*[[Qasr-e-Shirin County]]
+*[[Ravansar county]]
+*[[Sahneh County]]
+*[[Sarpol-e-Zahab County]]
+*[[Solas-e-Babajani County]]
+*[[Sonqor County]]
+
+==[[Khuzestan Province]]==
+*[[Abadan County]]
+*[[Ahvaz County]]
+*[[Andika County]]
+*[[Andimeshk County]]
+*[[Baghmalek County]]
+*[[Bavi County]]
+*[[Behbahan County]]
+*[[Dasht-e-Azadegan County]]
+*[[Dezful County]]
+*[[Guotvand County]]
+*[[Haftgol County]]
+*[[Hendijan County]]
+*[[Hoveizeh County]]
+*[[Izeh County]]
+*[[Khorramshahr County]]
+*[[Lali County]]
+*[[Mahshahr County]]
+*[[Masjed-Soleyman County]]
+*[[Omidiyeh County]]
+*[[Ramhormoz County]]
+*[[Ramshir County]]
+*[[Shadegan County]]
+*[[Shush County]]
+*[[Shushtar County]]
+
+==[[Kohgeluyeh and Boyer-Ahmad Province]]==
+*[[Basht County]]
+*[[Bahmai County]]
+*[[Boyer-Ahmad County]]
+*[[Charam County]]
+*[[Dena County]]
+*[[Gachsaran County]]
+*[[Kohgeluyeh County]]
+
+==[[Kordestan Province]]==
+*[[Baneh County]]
+*[[Bijar County]]
+*[[Dehgolan County]]
+*[[Divandarreh County]]
+*[[Kamyaran County]]
+*[[Marivan County]]
+*[[Qorveh County]]
+*[[Sannandaj County]]
+*[[Saqqez County]]
+*[[Sarvabad County]]
+
+==[[Lorestan Province]]==
+*[[Aligudarz County]]
+*[[Azna County]]
+*[[Borujerd County]]
+*[[Delfan County]]
+*[[Dorud County]]
+*[[Doureh County]]
+*[[Khorramabad County]]
+*[[Kuhdasht County]]
+*[[Poldokhtar County]]
+*[[Selseleh County]]
+
+==[[Markazi Province]]==
+*[[Ashtian County]]
+*[[Arak County]]
+*[[Delijan County]]
+*[[Khomein County]]
+*[[Khondab County]]
+*[[Komeijan County]]
+*[[Mahallat County]]
+*[[Saveh County]]
+*[[Shazand County]]
+*[[Tafresh County]]
+*[[Zarandieh County]]
+
+==[[Mazandaran Province]]==
+*[[Amol County]]
+*[[Babol County]]
+*[[Babolsar County]]
+*[[Behshahr County]]
+*[[Chalus County]]
+*[[Galugah County]]
+*[[Juybar County]]
+*[[Mahmudabad County]]
+*[[Miandorud County]]
+*[[Neka County]]
+*[[Noshahr County]]
+*[[Nur County]]
+*[[Qaemshahr County]]
+*[[Ramsar County]]
+*[[Sari County]]
+*[[Savadkuh County]]
+*[[Tonekabon County]]
+*[[Abbas abad County]]
+
+==[[North Khorasan Province]]==
+*[[Bojnurd County]]
+*[[Esfarayen County]]
+*[[Faroj County]]
+*[[Germeh County]]
+*[[Jajrom County]]
+*[[Maneh-o-Samalqan County]]
+*[[Shirvan County]]
+
+==[[Qazvin Province]]==
+*[[Abyek County]]
+*[[Alborz County]]
+*[[Buin-Zahra County]]
+*[[Qazvin County]]
+*[[Takestan County]]
+
+==[[Qom Province]]==
+*[[Qom County]]
+
+==[[Razavi Khorasan Province]]==
+*[[Bajestan County]]
+*[[Bardaskan County]]
+*[[Chenaran County]]
+*[[Dargaz County]]
+*[[Davarzan County]]
+*[[Fariman County]]
+*[[Firuzeh County]]
+*[[Gonabad County]]
+*[[Jowayin County]]
+*[[Joghatai County]]
+*[[Kalat County]]
+*[[Kashmar County]]
+*[[Khaf County]]
+*[[Khalilabad County]]
+*[[Khoshab County]]
+*[[Mahvelat County]]
+*[[Mashhad County]]
+*[[Nishapur  County]]
+*[[Quchan County]]
+*[[Rashtkhar County]]
+*[[Sabzevar County]]
+*[[Sarakhs County]]
+*[[Takht-e-Jolgeh County]]
+*[[Taybad County]]
+*[[Torghabe-o-Shandiz County]]
+*[[Torbat-e-Jam County]]
+*[[Torbat-e-Heydarieh County]]
+*[[Zave County]]
+
+==[[Semnan Province]]==
+*[[Aradan County]]
+*[[Damghan County]]
+*[[Garmsar County]]
+*[[Mehdishahr County]]
+*[[Meyami County]]
+*[[Semnan County]]
+*[[Shahrud County]] or *[[Shahrood County]]
+*[[Sorkheh County]]
+
+==[[Sistan and Baluchestan Province]]==
+*[[Chabahar County]]
+*[[Dalgan County]]
+*[[Hirmand County]]
+*[[Iranshahr County]]
+*[[Khash County]]
+*[[Konarak County]]
+*[[Mehrestan County]]
+*[[Nikshahr County]]
+*[[Saravan County]]
+*[[Sarbaz County]]
+*[[Sib o Soran County]]
+*[[Zabol County]]
+*[[Zahedan County]]
+*[[Zehak County]]
+
+==[[South Khorasan Province]]==
+*[[Birjand County]]
+*[[Boshruyeh County]]
+*[[Darmian County]]
+*[[Ferdows County]]
+*[[Khusf County]]
+*[[Nehbandan County]]
+*[[Qaen County]]
+*[[Sarayan County]]
+*[[Sarbisheh County]]
+*[[Tabas County]]
+*[[Zirkouh County]]
+
+==[[Tehran Province]]==
+*[[Damavand County]]
+*[[Firuzkuh County]]
+*[[Islamshahr County]]
+*[[Malard County]]
+*[[Pakdasht County]]
+*[[Pishva County]]
+*[[Robat-Karim County]]
+*[[Rey County]]
+*[[Shemiranat County]]
+*[[Shahriar County]]
+*[[Shahr-e Qods County]]
+*[[Tehran County]]
+*[[Varamin County]]
+
+==[[West Azerbaijan Province]]==
+*[[Bukan County]]
+*[[Chaldoran County]]
+*[[Chaypareh County]]
+*[[Khoy County]]
+*[[Mahabad County]]
+*[[Maku County]]
+*[[Miandoab County]]
+*[[Naqadeh County]]
+*[[Oshnaviyeh County]]
+*[[Piranshahr County]]
+*[[Poldasht District|Poldasht County]]
+*[[Salmas County]]
+*[[Sardasht County]]
+*[[Shahindej County]]
+*[[Showt County]]
+*[[Takab County]]
+*[[Urmia County]]
+
+==[[Yazd Province]]==
+*[[Abarkuh County]]
+*[[Ardekan County]]
+*[[Bafq County]]
+*[[Bahabad County]]
+*[[Khatam County]]
+*[[Mehriz County]]
+*[[Meybud County]]
+*[[Sadugh County]]
+*[[Taft County]]
+*[[Yazd County]]
+
+==[[Zanjan Province]]==
+*[[Abhar County]]
+*[[Eejrud County]]
+*[[Khodabandeh County]]
+*[[Khorramdarreh County]]
+*[[Mahneshan County]]
+*[[Tarom County]]
+*[[Zanjan County]]
+
+==See also==
+{{Portal|Iran}}
+*[[Ostan (Geography)|Ostan]]
+*[[Bakhsh]]
+*[[Provinces of Iran]]
+
+==References==
+* {{lang|fa|اطلس گیتاشناسی استان‌های ایران}} [{{transl|fa|Atlas-e Gitashenasi-ye Ostanha-ye Iran}}] (''[http://www.gitashenasi.com/En/Product/Index.cfm?I=9 Gitashenasi Province Atlas of Iran]'')
+
+{{Articles on second-level administrative divisions of Asian countries}}
+{{Types of administrative country subdivision}}
+{{Provinces of Iran}}
+
+[[Category:Counties of Iran| ]]
+[[Category:Subdivisions of Iran]]
+[[Category:Lists of country subdivisions|Iran, Counties]]
+[[Category:Country subdivisions of Asia|Iran 2]]
+[[Category:Second-level administrative country subdivisions|Counties, Iran]]
+[[Category:Iran geography-related lists]]

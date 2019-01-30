@@ -1,0 +1,1096 @@
+Indonesian language
+
+{{about|the official language of Indonesia|an overview of all languages used in Indonesia|Languages of Indonesia}}
+{{Infobox language
+|name        = Indonesian
+|nativename  = ''{{lang|id|Bahasa Indonesia}}''
+|states      = [[Indonesia]]
+|speakers    = {{sigfig|42.766|2}}&nbsp;million
+|date        = 2010 census
+|ref         = <ref name="sensus2010"/>
+|speakers2   = [[Second language|L2 speakers]]: {{sigfig|155.93|3}}&nbsp;million (2010 census)<ref name="sensus2010"/>
+|familycolor = Austronesian
+|fam2 = [[Malayo-Polynesian languages|Malayo-Polynesian]] (MP)
+|fam3 = [[Nuclear Malayo-Polynesian languages|Nuclear MP]]
+|fam4 = [[Malayo-Sumbawan languages|Malayo-Sumbawan]]
+|fam5 = [[Malayic languages|Malayic]]
+|fam6 = [[Malayan languages|Malayan]]
+|fam7 = [[Malay language|Malay]]
+|fam8 = Malacca ("Riau") Malay
+|lingua=31-MFA-ac
+|script      = [[Latin script|Latin]] ([[Indonesian alphabet]])<br/>[[Indonesian Braille]]
+|sign        = Sistem Isyarat Bahasa Indonesia
+|nation      = [[Indonesia]]
+|minority    = [[East Timor]]<ref name="easttimorgovernment.com">http://www.easttimorgovernment.com/languages.htm</ref>
+|agency      = [[Badan Pengembangan dan Pembinaan Bahasa]]
+|iso1   = id
+|iso2   = ind
+|iso3   = ind
+|glotto = indo1316
+|glottorefname = Indonesian
+|map=Indonesian Language Map.svg
+|mapcaption=
+{{legend|#0000ff|Countries of the world where Indonesian is a majority native language}}
+{{legend|#8ddada|Countries where Indonesian is a minority language}}
+|notice = IPA
+}}
+
+'''Indonesian''' ('''''{{lang|id|Bahasa Indonesia}}''''' {{IPA-ms|baˈhasa indoneˈsia|}}) is the official language of [[Indonesia]]. It is a [[standard language|standardized]] [[register (sociolinguistics)|register]] of [[Malay language|Malay]], an [[Austronesian languages|Austronesian language]] that has been used as a [[lingua franca]] in the Indonesian archipelago for centuries. Most Indonesians also speak one of more than [[languages of Indonesia|700 indigenous languages]].<ref name="policy">{{cite news |url=http://www.thejakartapost.com/news/2013/10/28/indigenous-language-policy-a-national-cultural-strategy.html |title=Indigenous language policy as a national cultural strategy |author=Setiono Sugiharto |date=October 28, 2013 |newspaper=The Jakarta Post|accessdate=9 January 2014}}</ref><ref name="statistics">{{cite web |url=http://aclweb.org/anthology/I/I08/I08-7014.pdf |title=Resources Report on Languages of Indonesia |author=Hammam Riza |year=2008 |accessdate=9 January 2014}}</ref>
+
+Indonesia is the fourth most [[list of countries by population|populous nation]] in the world (after China, India and the United States). Of its large population, the majority speak Indonesian, making it one of the most [[list of languages by number of native speakers|widely spoken]] languages in the world.<ref name="The Indonesian Language 2004. Page 14">[[James Neil Sneddon]]. ''The Indonesian Language: Its History and Role in Modern Society''. UNSW Press, 2004. Page 14."</ref>
+
+Most Indonesians, aside from speaking the national language, are often fluent in another [[languages of Indonesia|regional language]] (examples include [[Javanese language|Javanese]], [[Sundanese language|Sundanese]] and [[Madurese language|Madurese]]), which are commonly used at home and within the local community. Most formal education, and nearly all national media and other forms of communication, are conducted in Indonesian.
+
+The Indonesian name for the language is ''{{lang|id|Bahasa Indonesia}}'' (literally "the language of Indonesia"). This term is occasionally found in English, and additionally "Malay-Indonesian" is sometimes used to refer collectively to the standardized language of Indonesia (''{{lang|id|Bahasa Indonesia}}'') and the Malay language of [[Malaysia]], [[Brunei]], and [[Singapore]] (''{{lang|ms|[[Malay language|Bahasa Melayu]]}}'').
+
+== Geographic distribution ==
+In 2010, Indonesian had 42.8 million [[native speaker]]s, and 154.9 million [[second language|second-language]] speakers,<ref name="sensus2010">{{cite web |url=http://bps.go.id/index.php/publikasi/14 |title=Penduduk Indonesia Hasil Sensus Penduduk 2010 (Result of Indonesia Population Census 2010) |pages=421, 427 |author=Badan Pusat Statistik |date=28 March 2013 |issn=2302-8513 }}</ref> who speak it alongside their [[languages of Indonesia|local mother tongue]], giving a total number of speakers in Indonesia of 197.7 million.<ref name="sensus2010"/> It is common as a first language in urban areas, and as a second language by those residing in more rural parts of Indonesia.
+
+The [[VOA]] and [[BBC]] use Indonesian as their standard for broadcasting in Malay.<ref>{{cite news |url=http://www.voaindonesia.com/ |title=Voice of America Bahasa Indonesia |publisher=[[Voice of Indonesia]] |accessdate=1 April 2012}}</ref><ref>{{cite news |url=http://www.bbc.co.uk/worldservice/languages/index.shtml |title=Languages: News and Analysis in your Language |publisher=[[BBC World Service]] |accessdate=1 April 2012}}</ref> In Australia, Indonesian is one of three Asian target languages, together with [[Japanese language|Japanese]] and [[Standard Chinese|Mandarin]], taught in some schools as part of the [[Languages Other Than English]] programme.<ref name="APO">{{cite web |url=http://apo.org.au/research/building-asia-literate-australia-australian-strategy-asian-language-proficiency |title=Building an Asia-literate Australia: an Australian strategy for Asian language proficiency |publisher=Australian Policy Online |accessdate=10 July 2012}}</ref>
+
+In [[East Timor]], which was an Indonesian province from 1975 to 1999, Indonesian is recognised by the constitution as one of the two working languages (the other being [[English language|English]]), alongside the official languages of [[Tetum language|Tetum]] and [[Portuguese language|Portuguese]].<ref name="easttimorgovernment.com">http://www.easttimorgovernment.com/languages.htm</ref>
+
+== History ==
+
+=== Early kingdoms era ===
+[[Image:KedukanBukit001.jpg|thumb|upright|[[Kedukan Bukit Inscription]] is the oldest surviving specimen of the [[Old Malay]] language in [[South Sumatra]], Indonesia.]]
+
+Indonesian is a [[standard language|standardized]] [[register (sociolinguistics)|register]] of "Riau Malay",<ref name="Indonesian Embassy: Astana">{{cite web |url=http://kbri-astana.kz/id/print/10-bahasa_dan_dialek.html |title=Bahasa dan dialek |publisher=Republic of Indonesia Embassy in Astana |language=Indonesian |trans_title= |quote= |ref=Dari sudut pandang linguistik, bahasa Indonesia adalah salah satu dari banyak ragam bahasa Melayu. Dasar yang dipakai adalah bahasa Melayu Riau (wilayah Kepulauan Riau sekarang) dari abad ke-19.}}</ref><ref>{{cite web |url=http://melayuonline.com/ind/culture/dig/1349/bahasa-melayu-riau-dan-bahasa-nasional |title=Bahasa Melayu Riau dan Bahasa Nasional |author= |date= |work= |publisher=Melayu Online |accessdate=29 March 2012}}</ref> which despite its common name is not the Malay dialect native to [[Riau Islands|Riau]], but rather the [[Classical Malay]] of the [[Malacca Sultanate|Malaccan]] royal courts.<ref name="Sneddon">Sneddon 2003, ''The Indonesian Language: Its History and Role in Modern Society'', p. 70</ref> Originally spoken in Northeast [[Sumatra]],<ref name="ethnologue.com">[http://www.ethnologue.com/ Ethnologue&nbsp;– An encyclopedic reference work cataloging all of the world’s 6,909 known living languages.]</ref> Malay has been used as a [[lingua franca]] in the Indonesian [[archipelago]] for half a millennium. Although it might be attributed to its [[ancestor]], the [[Old Malay]] language (which can be traced back to the 7th century), [missing text and/or ungrammatical use of "although" conjunction] the [[Kedukan Bukit Inscription]] is the oldest surviving specimen of Old Malay, the language used by [[Srivijayan]] empire. Since the 7th century, the Old Malay language has been used in [[Nusantara]] (Indonesian archipelago), marked by Srivijaya inscriptions and in other inscriptions of [[coast]]al areas of the archipelago, such as [[Sojomerto inscription|those discovered in Java]].
+
+=== Old Malay as ''lingua franca'' ===
+[[Trade]] contacts carried on by some [[ethnic group|ethnic]] peoples at the time was the main [[vehicle]] to spread the Old Malay language, as it was the [[communication]] device among the traders. By that time, the Old Malay language had become a [[lingua franca]] and was spoken widely by most people in the archipelago.<ref>{{cite web |url=http://melayuonline.com/ind/article/read/174/sriwijaya-dalam-telaah |title=Sriwijaya dalam Tela'ah |date=5 June 2007 |publisher=Melayu Online |accessdate=1 April 2012 }}</ref><ref>{{cite web |url=http://melayuonline.com/eng/opinion/read/80/risen-up-maritime-nation|title=Risen Up Maritime Nation! |author=Bambang Budi Utomo |date=23 January 2008 |publisher=Melayu Online |accessdate=1 April 2012}}</ref> Indonesian (in its standard form) is essentially the same language as the official [[Malaysia]]n and [[Brunei]] standards of Malay. However, it does [[differences between Malaysian and Indonesian|differ]] from Malaysian in several aspects, with differences in pronunciation and vocabulary. These differences are due mainly to the Dutch and Javanese influences on Indonesian.  Indonesian was also influenced by the ''{{lang|id|Melayu pasar}}'' (literally "market Malay") that was the lingua franca of the archipelago in colonial times, and thus indirectly by other spoken languages of the islands. Malaysian Malay claims to be closer to the classical Malay of earlier centuries even though modern Malaysian has been heavily influenced, in lexicon as well as in syntax, by English. The question of whether High Malay (Court Malay) or Low Malay (Bazaar Malay) was the true parent of the Indonesian language is still in debate. High Malay was the official language used in the court of the [[Johor Sultanate]] and continued by the Dutch-administered territory of [[Riau-Lingga]], while Low Malay was commonly used in marketplaces and ports in archipelago. Some linguists have argued that it was the more-common Low Malay that formed the base of the Indonesian language.<ref>{{cite web |url=http://melayuonline.com/ind/culture/dig/1626/bahasa-indonesia-memasyarakatkan-kembali-bahasa-pasar |title=Bahasa Indonesia: Memasyarakatkan Kembali 'Bahasa Pasar'? |publisher=Melayu Online |accessdate=29 March 2012}}</ref>
+
+=== Dutch colonial era ===
+When the [[Dutch East India Company]] (VOC) first arrived in the archipelago, the Malay language was a significant trading and political language due to the influence of [[Malacca Sultanate|Malaccan Sultanate]] and later the [[Portugal|Portuguese]]. However, the language had never been dominant among the population of the Indonesian archipelago as it was limited to mercantile activity. The VOC adopted the Malay language as the administrative language of their trading outpost in the east. Following the [[bankruptcy]] of the VOC the Dutch crown took control of the colony in 1799 and it was only then that education in and promotion of Dutch began in the [[colony]]. Even then, Dutch administrators were remarkably reluctant to promote the use of Dutch compared to other colonial regimes. Dutch thus remained the language of a small elite: in 1940, only 2% of the total population could speak Dutch. During the era of colonization]] the language that would become Indonesian absorbed a huge amount of Dutch vocabulary in the form of [[loanwords]].
+
+=== Birth of Indonesian language ===
+[[File:COLLECTIE TROPENMUSEUM Opening van de Volksraad door gouverneur-generaal Van Limburg Stirum op 18 mei 1918 op Java TMnr 10001373.jpg|thumb|''[[Volksraad (Dutch East Indies)|Volksraad]]'' session held in July 1938 in Jakarta, which Indonesian was used for the first time by Jahja Datoek Kajo, after it was abandoned for several decades by Dutch colonial government.]]
+
+The [[Indonesian National Awakening|nationalist movement]] that ultimately brought Indonesian to its national language status rejected [[Dutch language|Dutch]] from the outset. However, the rapid disappearance of Dutch was a very unusual case compared to other colonized countries, where the colonial language generally has continued to function as the language of politics, [[bureaucracy]], education, [[technology]], and other important areas for a significant time after independence.<ref name="Swaan"/> Soenjono Dardjowidjojo even goes so far as to say that, "Indonesian is perhaps the only language that has achieved the status of a national language in its true sense" since it truly dominates in all spheres of [[Culture of Indonesia|Indonesian society]]. The ease with which Indonesia eliminated the language of its former colonial power can perhaps be explained as much by Dutch [[policy]] as by Indonesian nationalism, though. In marked contrast to the [[France|French]], [[Spain|Spanish]] and Portuguese, who pursued an [[cultural assimilation|assimilation]] colonial policy, or even the [[British Empire|British]], the Dutch did not attempt to spread their language among the indigenous population. In fact, they consciously prevented the language from being spread by refusing to provide education, especially in Dutch, to the native Indonesians so they would not come to see themselves as equals.<ref name="Swaan"/> Moreover, the Dutch wished to prevent the Indonesian from elevating their perceived social status by taking on elements of Dutch culture. Thus, until the 1930s, they maintained a minimalist regime and allowed Malay to spread quickly throughout the archipelago.
+
+Dutch dominance at that time almost cover all aspects, to the official forums should used the Dutch, although since the Youth Congress (1928) was agreed as the Indonesian national language which is one of the tools the pro-independence struggle. As of it, [[Mohammad Husni Thamrin]] inveighed actions underestimating Indonesian. After some critics and protests, the use of Indonesian was allowed since the ''Volksraad'' sessions held in July 1938.<ref>[https://web.archive.org/web/20050508115242/http://www.hawaii.edu/indolang/malay.html "Bahasa Indonesia: The Indonesian Language," George Quinn, Australian National University]</ref> By the time they tried to counter the spread of Malay by teaching Dutch to the natives, it was too late, and in 1942, the Japanese conquered Indonesia and outlawed the use of the Dutch language. Three years later, the Indonesians themselves formally abolished the language and established ''Bahasa Indonesia'' as the national language of the new nation.<ref name="Paauw"/>
+
+=== Adopted as national language ===
+{{Quote box |width=280px |align=right |quoted=true |
+|salign=right
+|quote=''Bahasa Negara ialah Bahasa Indonesia''.<br /><br />The national language shall be Indonesian.
+|source= [[Constitution of Indonesia|The 1945 Constitution of the Republic of Indonesia]], Chapter XV, Article 36.<ref>http://www.ilo.org/.../wcms_174556.pdf</ref>}}
+
+The adoption of Indonesian as the country's national language was in contrast to most other post-colonial states, as neither the language with the most native speakers (in this case, Javanese) or the language of the former European colonial power (in this case, Dutch) was to be adopted, but one with only a small number of native speakers.
+
+[[File:Youthpledge.jpg|thumb|''The Pledge'' was the result of second [[Youth Pledge]] held in [[Batavia, Dutch East Indies|Batavia]] in October 1928. On the last pledge, there was an affirmation of Indonesian language as a language of unity.]]
+
+In 1945 when Indonesia declared its independence and Indonesian was formally declared the national language,<ref>{{Cite web |title=History of Indonesian Language |publisher=Language Translation, Inc. |url=http://www.languagetranslation.com/translation/languages/indonesian-translation4.html |accessdate=2016-01-12 }}</ref> it was the native language of only about 5 per cent of the population, whereas Javanese and Sundanese were the [[first language|mother tongues]] of 42-48 percent and 15 percent respectively.<ref name="Kratz">{{cite web |last1=Kratz |first1=U. |title=Indonesia: Language Situation |url=http://www.sciencedirect.com/science/article/pii/B008044854201720X |website=Science Direct |publisher=Encyclopedia of Language & Linguistics |accessdate=23 November 2014 }}</ref> It was a combination of [[nationalism|nationalistic]], [[politics|political]], and [[pragmatism|practical]] concerns that ultimately led to the successful adoption of Indonesian as a national language.
+In 1945, Javanese was easily the most prominent language in Indonesia. It was the native language of nearly half the population, the primary language of politics and [[economics]], and the language of [[court]]ly, [[religion|religious]], and literary tradition.<ref name="Swaan">{{cite book |last1=de Swaan |first1=Abram |title=Words of the World |date=2001 |publisher=Polity |location=Cambridge, UK |isbn=074562748X |pages=81–95 }}</ref> What it lacked, however, was the ability to unite the diverse Indonesian population as a whole. With thousands of islands and hundreds of different languages, the newly independent country of Indonesia had to find a national language that could realistically be spoken by the majority of the population and that would not divide the nation by favoring one ethnic group, namely the Javanese, over the others. In 1945, Indonesian was already in widespread use;<ref name=Kratz/> in fact, it had been for roughly a thousand years. Over that long period of time, Malay, which would later become Indonesian, was the primary language of [[commerce]] and [[travel]]. In addition, it was the language used for the propagation of [[Islam]] in the 13th to 17th centuries, as well as the language of instruction used by Portuguese and Dutch missionaries attempting to convert the indigenous people to [[Christianity]].<ref name=Swaan/> The combination of all of these factors meant that the language was already known to some degree by most of the population, and it could be more easily adopted as the national language than perhaps any other.
+
+Over the first 53 years of [[Proclamation of Indonesian Independence|Indonesian independence]], the country’s first two presidents, [[Sukarno|Soekarno]] and [[Suharto]] constantly nurtured the sense of national [[wikt:unity|unity]] embodied by Indonesian, and the language remains an important component of Indonesian identity today. Through a language planning program that made Indonesian the language of [[politics]], [[education]], and nation-building in general, Indonesia became one of the few success stories of an [[indigenous language]] effectively overtaking that of a country’s colonizers to become the ''[[de jure]]'' and ''[[de facto]]'' official language.<ref name="Paauw">{{cite journal|last1=Paauw|first1=Scott|title=One Land, One Nation, One Language: An Analysis of Indonesia’s National Language Polic|journal=University of Rochester Working Papers in the Language Sciences|date=2009|volume=5.1|pages=2–16|url=http://www.rochester.edu/college/cls/assets/pdf/working/Paauw.pdf|accessdate=18 December 2014}}</ref> It is a unique and somewhat unusual story, especially considering the historical dominance of Javanese;  a diverse collection of peoples were able to compromise to hold the nation together. Today,  Indonesian continues to function as the language of [[national identity]] as the Congress of Indonesian Youth envisioned, and it also serves as the language of education, [[literacy]], [[modernization theory|modernization]], and [[social mobility]].<ref name="Paauw" /> Despite still being a second language to most Indonesian citizens, it is unquestionably the language of the Indonesian nation as a whole, as it has had unrivaled success as a factor in nation-building and the strengthening of Indonesian identity.
+
+=== Modern and colloquial Indonesian ===
+{{Further2|[[Indonesian slang language]]}}
+[[File:Indonesian tollway signage.jpg|thumb|Traffic sign in Indonesia.]]
+[[File:Sukarno hatta airport - Terminal - Jakarta - Indonesia.jpg|thumb|right|Road-signs in an airport terminal.]]
+[[File:Transjakarta BRT Ticket Booth and gantry.JPG|thumb|right|Indonesian language used in a bus stop in [[Jakarta]].]]
+While Indonesian is spoken as a [[mother tongue]] by only a small proportion of Indonesia's large population (i.e. mainly those who reside within the vicinity of [[Jakarta]] and other large predominantly Indonesian-speaking cities such as [[Medan]] and [[Balikpapan]]), over 200 million people regularly make use of the national language, with varying degrees of proficiency. In a nation that boasts more than 300 native languages and a vast array of ethnic groups, it plays an important unifying and cross-archipelagic role for the country. Use of the national language is abundant in the media, [[government]] bodies, [[school]]s, [[University|universities]], [[workplace]]s, among members of the Indonesian upper-class or nobility and also in many other formal situations, although the 2010 Indonesian Census shows that only 19.94% of people over 5 years old speak mainly Indonesian at home.<ref>http://sp2010.bps.go.id/files/ebook/kewarganegaraan%20penduduk%20indonesia/index.html</ref>
+
+Standard and formal Indonesian is used in books and newspapers and on television/ radio news broadcasts; however, few native Indonesian speakers use the formal language in their daily conversations. While this is a phenomenon common to most languages in the world (for example, spoken English does not always correspond to written standards), the degree of "correctness" of spoken Indonesian (in terms of grammar and vocabulary) by comparison to its written form is noticeably low.{{Citation needed|date=September 2010}} This is mostly due to Indonesians combining aspects of their own local languages  (e.g., [[Javanese language|Javanese]], [[Sundanese language|Sundanese]], [[Balinese language|Balinese]], and [[Chinese language|Chinese]]) with Indonesian.  This results in various "regional" Indonesian dialects, the very types that a foreigner is most likely to hear upon arriving in any Indonesian city or town. This phenomenon is amplified by the use of [[Indonesian slang]], particularly in the cities.
+
+The most common and widely used colloquial Indonesian is heavily influenced by [[Betawi language]], a [[Malay trade and creole languages|Malay-based creole]] of [[Jakarta]], amplified by its popularity in Indonesian popular culture in mass media and Jakarta's status as the national capital. In informal spoken Indonesian, various words are replaced with those of a less formal nature. For example, ''{{lang|id|tidak}}'' (no) is often replaced with the Javanese ''{{lang|jv|nggak}}'' while ''{{lang|id|seperti}}'' (like, similar to) is often replaced with ''{{lang|jv|kayak}}'' (pronounced ''kai-yah''). ''{{lang|id|Sangat}}'' or ''{{lang|id|amat}}'' (very), the term to express intensity, is often being replaced with Javanese-influenced ''{{lang|id|banget}}''.
+
+As for pronunciation, the diphthongs ''ai'' and ''au'' on the end of base words are typically pronounced as {{IPA|/e/}} and {{IPA|/o/}}. In informal writing the spelling of words is modified to reflect the actual pronunciation in a way that can be produced with less effort. For example, ''{{lang|id|capai}}'' becomes ''{{lang|id|cape}}'' or ''{{lang|id|capek}}'', ''{{lang|id|pakai}}'' becomes ''{{lang|id|pake}}'', ''{{lang|id|kalau}}'' becomes ''{{lang|id|kalo}}''.
+
+In verbs, the prefix ''me-'' is often dropped, although an initial nasal consonant is often retained, as when ''{{lang|id|mengangkat}}'' becomes ''{{lang|id|ngangkat}}'' (the basic word is ''{{lang|id|angkat}}''). The suffixes ''-kan'' and ''-i'' are often replaced by ''-in''. For example, ''{{lang|id|mencarikan}}'' becomes ''{{lang|id|nyariin}}'', ''{{lang|id|menuruti}}'' becomes ''{{lang|id|nurutin}}''. The latter grammatical aspect is one often closely related to the Indonesian spoken in Jakarta and its surrounding areas.
+
+== Official status ==
+[[File:Indonesian learning book for Senior High School Student.jpg|thumb|right|Sample of Indonesian learning books for Senior High School student.]]
+[[File:Indonesian magazines Jakarta.JPG|thumb|Indonesian is also the language of Indonesian mass media, such as magazines. Printed and broadcast mass media are encouraged to use proper Indonesian, although more relaxed popular slang often prevails.]]
+Indonesian is the [[official language]] of the [[Republic of Indonesia]], thus its usage is encouraged throughout Indonesian archipelago. Its regulated in Chapter XV, [[Constitution of Indonesia|Constitution of Indonesia 1945]] about the flag, official language, coat of arms, and national anthem of Indonesia.<ref>[[Wikisource:Constitution of the Republic of Indonesia]]</ref> Also in Chapter III, Section 25 to 45, Government regulation No. 24/ 2009 specifically mentions the status of the Indonesian language.<ref name="UU No 24/2009">{{cite web |url=http://badanbahasa.kemdiknas.go.id/lamanbahasa/sites/default/files/UU_2009_24.pdf |title=Undang-undang Republik Indonesia Nomor 24 Tahun 2009 2009 Tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan |publisher=Badan Pengembangan dan Pembinaan Bahasa, Kementerian Pendidikan dan Kebudayaan |accessdate=1 April 2012}}</ref>
+Indonesian functions as a symbol of national identity and pride, and is a unifying language among the diverse [[Ethnic groups in Indonesia|Indonesian ethnic groups]]. It also serves as a vehicle of communication among the Indonesian provinces and different regional cultures in Indonesia.<ref name="UU No 24/2009"/> The language is used as the national official language, the language of education, communication, transaction and trade documentation, the development of national culture, science, technology, and mass media in Indonesia.
+
+According to Indonesian law, the Indonesian language is proclaimed as the unifying language during [[Sumpah Pemuda]] on 28 October 1928, developed further to accommodate the dynamics of Indonesian civilization.<ref name="UU No 24/2009" /> It was mentioned that the language was based on Riau Malay,<ref name="Indonesian Embassy: Astana" /><ref name="ethnologue:Indonesian">{{cite web |url=http://www.ethnologue.com/show_language.asp?code=ind |title=Indonesian, A language of Indonesia |publisher=[[Ethnologue]] |accessdate=10 July 2012}}</ref> though linguists note that this is not the local dialect of Riau, but the Malaccan dialect that was used in the [[Riau-Lingga Sultanate|Riau court]].<ref name="Sneddon" /> Since its conception in 1928 and its official recognition in 1945 Constitution, the Indonesian language has been loaded with a nationalist political agenda to unify Indonesia (former [[Dutch East Indies]]). This status has made Indonesian language relatively open to accommodate influences from other Indonesian ethnic languages, most notably Javanese as the majority ethnic group in Indonesia, and [[Dutch language|Dutch]] as the previous colonizer. As a result, Indonesian has wider sources of [[list of loan words in Indonesian|loanwords]], compared to Malay. It was suggested that the Indonesian language is an artificial language made official in 1928. By artificial it means that Indonesian was designed by academics rather than evolving naturally as most common languages have,<ref name="Interesting Thing of the Day">{{cite web |url=http://itotd.com/articles/310/bahasa-indonesia/ |title=Bahasa Indonesia, The complex story of a simple language |date=17 September 2004 |publisher=Interesting Thing of the Day |accessdate=1 April 2012 }}</ref> in order to accommodate the political purpose of establishing an official unifying language of Indonesia. By borrowing heavily from numerous other languages it expresses a natural linguistic evolution; in fact, it is as natural as the next language, as demonstrated in its exceptional capacity for absorbing foreign vocabulary.<ref name="Interesting Thing of the Day" />
+
+The disparate evolution of Indonesian and Malaysian has led to a rift between the two standards. This has been based more upon political nuance and the history of its standardization rather than cultural reasons, and as a result there are asymmetrical views regarding each other's standard among Malaysians and Indonesians. In Malaysia, the national language is Malaysian; in Indonesia, it is Indonesian. Malaysians tend to assert that Malaysian and Indonesian are merely variants of the same language, while Indonesians tend to treat them as separate, albeit related, languages. The result of this attitude is that Indonesians feel little need to harmonize their language with Malaysia and Brunei, whereas Malaysians are keener to coordinate the evolution of the language with Indonesians.<ref>[http://www.yawningbread.org/arch_2005/yax-455.htm Who is Malay?, July 2005]</ref> Although the 1972 [[Perfected Spelling System|Indonesian alphabet reform]] was largely a concession of Dutch-based Indonesian to the English-based spelling of Malaysian.
+
+== Phonology ==
+
+===Vowels===
+It is usually said that there are six vowels in Indonesian.<ref name="SodOlson2008" /> These six vowels are shown in the table below. However, other analyses set up a system with other vowels, particularly the open-mid vowels {{IPAslink|ɛ}} and {{IPAslink|ɔ}}.<ref>Yunus Maris, M. (1980). ''The Indonesian Sound System''. Kuala Lumpur: Penerbit Fajar Bakti Sdn. Bhd, page 2.</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+caption | '''Table of vowel phonemes of Indonesian'''
+|-
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+|
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|ə}}
+| {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|ä|a}}
+|
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+caption | '''Table of vowel phonemes of Indonesian'''
+|-
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+|
+| {{IPA link|u}}
+|-
+! [[Close-mid vowel|Close-Mid]]
+| {{IPA link|e}}
+| {{IPA link|ə}}
+| {{IPA link|o}}
+|-
+! [[Open-mid vowel|Open-Mid]]
+| {{IPA link|ɛ}}
+|
+| {{IPA link|ɔ}}
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|ä|a}}
+|
+|}
+
+====Diphthongs====
+Some analyses claim that Indonesian has three native [[diphthong]] phonemes only in open syllables, they are:
+* {{IPA|/ai̯/}}: ''ked'''ai''''' ('shop'), ''pand'''ai''''' ('clever')
+* {{IPA|/au̯/}}: ''kerb'''au''''' ('buffalo')
+* {{IPA|/oi̯/}} (or {{IPA|/ʊi̯/}} in Indonesian): ''dod'''oi''''', ''amb'''oi'''''
+
+Others assume that these "diphthongs" are actually a monophthong followed by an approximant, so {{angbr|ai}} represents {{IPA|/aj/}}, {{angbr|au}} represents {{IPA|/aw/}}, and {{angbr|oi}} represents  {{IPA|/oj/}}. On this basis, there are no phonological diphthongs in Indonesian.<ref>Clynes, A. (1997). On the Proto-Austronesian ‘diphthongs’. ''Oceanic Linguistics'', ''36'', 347–362.</ref>
+
+Words borrowed from English with {{IPA|/eɪ/}}, such as ''M'''ei''''' ('May') and ''es'''ei''''' ('essay') are pronounced with {{IPA|/e/}}. This feature also happens to English {{IPA|/oʊ/}} which becomes {{IPA|/o/}}.
+
+Diphthongs are differentiated from two vowels in two syllables, such as:
+* {{IPA|/a.ʔi/}}: e.g. ''r'''ai''''' ('celebrate') {{IPA|[ra.ʔi]}}, '''''ai'''r'' ('water') {{IPA|[a.ʔer]}} (or {{IPA|[a.ʔɪr]}} in Indonesia and {{IPA|[a.ʔir]}} elsewhere)
+* {{IPA|/a.ʔu/}}: ''b'''au''''' ('smell') {{IPA|[ba.ʔu]}}, ''l'''au'''t'' ('sea') {{IPA|[la.ʔot]}} (or {{IPA|[la.ʔʊt]}} in Indonesia and {{IPA|[la.ʔut]}} elsewhere)
+
+Even if it is not differentiated in modern spelling, diphthongs and two vowels are differentiated in the spelling in [[Arabic Alphabet]], where a vowel hiatus is indicated by the symbol [[hamzah]] {{angbr|ء}}; example: لا<sup>ء</sup>وت ''laut'' ('sea').
+
+The vowel hiatuses below are two different vowels but pronounced as diphthongs.
+
+* {{IPA|/ia/}}: ''mer'''ia'''h'' ('lively')
+* {{IPA|/iu/}}: ''l'''iu'''r'' ('saliva')
+* {{IPA|/ua/}}: ''l'''ua'''r'' ('outside')
+* {{IPA|/ui/}}: ''kel'''ui''''' ('paging')
+
+===Consonants===
+The consonants of Indonesian are shown below.<ref name="SodOlson2008">Soderberg, C. D., & Olson, K. S. (2008). Indonesian. ''Journal of the International Phonetic Association'', ''38'', 209–213.</ref><ref name="ClynesDet2011">Clynes, A., & Deterding, D. (2011). Standard Indonesian (Brunei). ''Journal of the International Phonetic Association'', ''41'', 259–268.[http://www.ubd.edu.bn/academic/faculty/FASS/research/Indonesian/index.html On-line Version]</ref> Non-native consonants that only occur in borrowed words, principally from Arabic and English, are shown in parentheses. Some analyses list 19 "primary consonants" for Indonesian as the 18 symbols that are not in parentheses in the table as well as the glottal stop {{IPA|[ʔ]}}.<ref>Asmah Haji Omar (2008). ''Ensiklopedia Bahasa Melayu''. Kuala Lumpur: Dewan Bahasa dan Pustaka, page 108.</ref><ref>Yunus Maris, M. (1980). ''The Indonesian Sound System''. Kuala Lumpur: Penerbit Fajar Bakti Sdn. Bhd, page 52.</ref>
+
+{| class="wikitable" style="text-align:center"
+|+caption | '''Consonant phonemes of Standard Indonesian'''
+|-
+! colspan=2|  
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan=2| [[Nasal consonant|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+| {{IPA|ɲ}}
+| {{IPA|ŋ}}
+|
+|-
+! rowspan=2| [[Stop consonant|Plosive]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA|p}}
+| {{IPA|t}}
+| {{IPA|t͡ʃ}}
+| {{IPA|k}}
+| {{IPA|(ʔ)}}
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+| {{IPA|b}}
+| {{IPA|d}}
+| {{IPA|d͡ʒ}}
+| {{IPA|ɡ}}
+| 
+|-
+! rowspan=2| [[Fricative consonant|Fricative]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA|(f)}}
+| {{IPA|s}}
+| {{IPA|(ʃ)}}
+| {{IPA|(x)}}
+| {{IPA|h}}
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+| {{IPA|(v)}}
+| {{IPA|(z)}}
+| 
+| 
+| 
+|-
+! colspan=2| [[Approximant consonant|Approximant]]
+| {{IPA|w}}
+| {{IPA|l}}
+| {{IPA|j}}
+|
+|
+|-
+! colspan=2| [[Trill consonant|Trill]]
+|
+| {{IPA|r}}
+|
+|
+|
+|}
+'''Orthographic note''':
+The sounds are represented orthographically by their symbols as above, except:
+
+* {{IPAslink|ɲ}} is written {{angbr|ny}} before a vowel, {{angbr|n}} before {{angbr|c}} and {{angbr|j}} 
+* {{IPAslink|ŋ}} is written {{angbr|ng}}
+* the glottal stop {{IPA|[ʔ]}} is written as a final {{angbr|k}} or an apostrophe {{angbr|'}} (the use {{angbr|k}} from its being an allophone of /k/ or /ɡ/ in the syllable coda)
+* {{IPAslink|tʃ}} is written {{angbr|c}}
+* {{IPAslink|dʒ}} is written {{angbr|j}}
+* {{IPAslink|ʃ}} is written {{angbr|sy}}
+* {{IPAslink|x}} is written {{angbr|kh}}
+* {{IPAslink|j}} is written {{angbr|y}}
+
+===Stress===
+Indonesian has light [[Stress (linguistics)|stress]] that falls on either the final or penultimate syllable, depending on regional variations as well as the presence of the schwa ({{IPA|/ə/}}) in a word. It is generally the penultimate syllable that is stressed, unless its vowel is a schwa {{IPA|/ə/}}. If the penult has a schwa, then stress moves to the ante-penultimate syllable if there is one, even if that syllable has a schwa as well; if the word is disyllabic, the stress is final. In disyllabic stress with a closed penultimate syllable, such as ''tinggal'' ('stay') and ''rantai'' ('chain'), stress falls on the penult.
+
+However, there is some disagreement among linguists over whether stress is phonemic (unpredictable), with some analyses suggesting that there is no underlying stress in Indonesian.<ref name="ClynesDet2011" /><ref name="Zur2008">Zuraidah Mohd Don, Knowles, G., & Yong, J. (2008). How words can be misleading: A study of syllable timing and "stress" in Indonesian. ''The Linguistics Journal 3''(2). [http://www.linguistics-journal.com/August_2008_zmd.php See here]</ref><ref>http://email.eva.mpg.de/~gil/ismil/11/abstracts/Gil.pdf Gil, David. "A Typology of Stress, And Where Indonesian/Indonesian Fits In" (abstract only)</ref>
+
+== Grammar ==
+[[File:Indonesian grammar published by Balai Pustaka.jpg|thumb|The third edition of Indonesian Grammar ''(Tata Bahasa Indonesia)'' books published by [[Balai Pustaka]]. It is an official book that produced under the [[Ministry of Education and Culture (Indonesia)|Ministry of Education and Culture]].]]
+
+Generally, Indonesian grammar ''(Tata Bahasa)'' is similar to [[Indo-European languages|European language]] (except [[Latin]]), especially English, which is classified as [[Subject-verb-object|Subject-Verb-Object]] (SVO), rather than East Asian languages like [[Japanese language|Japanese]] or [[Korean language|Korean]] that use the [[Subject–object–verb|SOV]] word order. Indonesian and English also use the same [[alphabet]], [[syntax]], and [[punctuation]]. Indonesian is not a [[tonal language]] like [[Chinese language|Chinese]], [[Vietnamese language|Vietnamese]], or [[Thai language|Thai]].
+
+===Affixes===
+In Indonesian, affixes take on an important role because slightly different affixes may have very different meanings. There are four types of affixes: [[prefixes]] (''awalan''), [[suffixes]] (''akhiran''), [[circumfixes]] (''apitan'') and [[infixes]] (''sisipan''). Affixes are categorized into noun, verb, and adjective affixes. Root words are either nouns or verbs, which can take on affixes to generate new words, for example, ''masak'' (to cook) may become ''memasak'' (cooks), ''memasakkan'' (cooks for), ''dimasak'' (cooked), ''pemasak'' (a cook), ''masakan'' (a meal, cookery). Many initial consonants alternate in the presence of prefixes: ''sapu'' (sweep) becomes ''penyapu'' (broom); ''panggil'' (to call) becomes ''memanggil'' (calls/calling), ''tapis'' (to sieve) becomes ''menapis'' (sieves).
+
+Other examples of the use of [[affix]]es to change the meaning of a word can be seen with the word ''ajar'' (teach):
+* ''ajar'' = teach
+* '' ajar'''an''' '' = teachings
+* '' '''bel'''ajar '' = to learn
+* '' '''meng'''ajar '' = to teach
+* '' '''di'''ajar '' = being taught ([[intransitive verb|intransitive]])
+* '' '''di'''ajar'''kan''' '' = being taught ([[transitive verb|transitive]])
+* '' '''mempel'''ajar'''i''' '' = to study
+* '' '''dipel'''ajar'''i''' '' = being studied
+* '' '''pel'''ajar '' = student
+* '' '''peng'''ajar '' = teacher
+* '' '''pel'''ajar'''an''' '' = subject, education
+* '' '''peng'''ajar'''an''' '' = lesson, moral of story
+* '' '''pembel'''ajar'''an''' '' = learning
+* '' '''ter'''ajar '' = taught (accidentally)
+* '' '''terpel'''ajar '' = well-educated, literally "been taught"
+* '' '''berpel'''ajar'''an''' '' = is educated, literally "has education"
+
+===Nouns=== 
+Common derivational affixes for nouns are peng-/per-/juru- (actor, instrument, or someone characterized by the root), -an (collectivity, similarity, object, place, instrument), ke-...-an (abstractions and qualities, collectivities), per-/peng-...-an (abstraction, place, goal or result).
+
+====Gender====
+Indonesian does not make use of [[grammatical gender]], and there are only selected words that use natural [[gender]]. For instance, the same word is used for ''he/him'' and ''she/her'' ({{lang|id|''dia'' or ''ia''}}) or for ''his'' and ''her'' ({{lang|id|''dia'', ''ia'' or ''-nya''}}). No real distinction is made between "girlfriend" and "boyfriend", both ''{{lang|id|pacar}}'' (although more colloquial terms as ''{{lang|id|cewek}}'' girl/girlfriend and ''{{lang|id|cowok}}'' boy/boyfriend can also be found). A majority of Indonesian words that refer to people generally have a form that does not distinguish between the sexes. However, unlike English, distinction is made between older or younger.
+
+There are some words that have gender, for instance ''{{lang|id|putri}}'' means "daughter", and ''{{lang|id|putra}}'' means "son" and also ''{{lang|id|pramugara}}'' means "male flight attendant" and ''{{lang|id|pramugari}}'' meaning "female flight attendant". Another example would be ''{{lang|id|olahragawan}}'', which equates to "sportsman", and ''{{lang|id|olahragawati}}'', meaning sportswoman. Often, words like these (or certain suffixes such as "-a" and "-i" or "-wan" and "wati") are absorbed from other languages (in these cases, from [[Sanskrit]] through the Old [[Javanese language]]).
+In some regions of Indonesia such as Sumatera and Jakarta, ''{{lang|id|abang}}'' (a gender-specific term meaning "older brother") is commonly used as a form of address for older siblings/ males, while ''{{lang|id|kakak}}'' (a non-gender specific term meaning "older sibling") is often used to mean "older sister". Similarly, more direct influences from other languages, such as Javanese and Chinese, have also seen further use of other gendered words in Indonesian. For example: ''{{lang|jv|Mas}}'' ("older brother"), ''{{lang|jv|M'bak}}'' ("older sister"), ''{{lang|jv|Koko}}'' ("older brother") and ''{{lang|jv|Cici}}'' ("older sister").
+
+====Number====
+
+Indonesian grammar does not regularly mark [[plural]]s. In Indonesian, to change a singular into a plural one either repeats the word or adds ''para'' before it (the latter for living things only); for example, "students" can be either ''{{lang|id|murid-murid}}'' or ''{{lang|id|para murid}}''. Plurals are rarely used in Indonesian, especially in daily and informal situations. Reduplication is often mentioned as the formal way to express the plural form of nouns in Indonesian; however, in informal daily [[discourse]], speakers of Indonesian usually use other [[method]]s to indicate the [[concept]] of something being "more than one". Reduplication may also indicate the conditions of variety and diversity as well, and not simply plurality.
+
+[[Reduplication]] is commonly used to emphasize plurality; however, reduplication has many other functions. For example, ''orang-orang'' means "(all the) people", but ''orang-orangan'' means "scarecrow". Similarly, while ''hati'' means "heart" or "liver", ''hati-hati'' is a verb meaning "to be careful". Also, not all reduplicated words are inherently plural, such as ''orang-orangan'' "scarecrow/scarecrows", ''biri-biri'' "a/some sheep" and ''kupu-kupu'' "butterfly/butterflies". Some reduplication is rhyming rather than exact, as in ''sayur-mayur'' "(all sorts of) vegetables".
+
+Distributive affixes derive mass nouns that are effectively plural: ''pohon'' "tree", ''pepohonan'' "[[flora]], trees"; ''rumah'' "house", ''perumahan'' "housing, houses"; ''gunung'' "mountain", ''pegunungan'' "mountain range, mountains".
+
+Quantity words come before the noun: ''seribu orang'' "a thousand people", ''beberapa pegunungan'' "a series of mountain ranges", ''beberapa kupu-kupu'' "some butterflies".
+
+Plural in Indonesian is just to clarify the number of objects in sentence. For example, ''Ani membeli satu kilo mangga'' (Ani buys one kilogram of mangoes).  In this case, "mangoes", which is plural, is not said as ''mangga-mangga'' because the plurality is implicit: the [[amount]] '''a kilogram''' means more than one mango. So, in Indonesian is logically does not change the singular into the plural form, because it is not necessary and considered a [[pleonasm]] (in Indonesian often called ''Pemborosan Kata'').
+
+===Pronouns===
+Personal pronouns are not a separate part of speech, but a subset of nouns. They are frequently omitted, and there are numerous ways to say "you". Commonly the person's name, title, title with name, or occupation is used ("does Johnny want to go?", "would Madam like to go?"); kin terms, including [[fictive kinship]], are extremely common. However, there are also dedicated personal pronouns, as well as the demonstrative pronouns ''ini'' "this, the" and ''itu'' "that, the".
+
+====Personal pronouns====
+
+From the perspective of a European language, Indonesian boasts a wide range of different pronouns, especially to refer to the addressee (the so-called second person pronouns). These are used to differentiate several parameters of the person they are referred to, such as the social rank and the relationship between the addressee and the speaker.
+
+This table shows an overview over the most commonly and widely used pronouns of the Indonesian language:
+
+{| class="wikitable"
+|+Common pronouns
+|-
+! width=75 |person
+! width=75 |
+! width=75 |respect
+! width=75 |singular
+! width=100 |plural
+|-
+! rowspan=3|1st person
+! rowspan=2|<small>exclusive</small>
+!<small>informal, familiar</small>
+| align=center|''aku''
+| rowspan=2 align=center|''kami''<br><small>(we: they and me, she/he and me)</small>
+|-
+!<small>standard, polite</small>
+| align=center|''saya''
+|-
+!<small>inclusive</small>
+|
+|
+| align=center|''kita''<br><small>(we: you and me, you and us)</small>
+|-
+! rowspan=2| 2nd person
+|
+!<small>familiar</small>
+| align=center|''kamu''
+| align=center|''kalian''
+|-
+|
+!<small>polite</small>
+| align=center|''Anda''<br><small>(you)</small>
+| align=center|''Anda sekalian''<br><small>(you, you all)</small>
+|-
+! rowspan=2| 3rd person
+|
+! <small>colloquial</small>
+| rowspan=2 align=center|''dia'' or ''ia''<br><small>(she/he)</small>
+| align=center|''dia orang''<br><small>(they)</small>
+|-
+|
+! <small>formal standard</small>
+| align=center|''mereka'' (''itu'')<br><small>(they)</small>
+|}
+* '''First person pronouns'''
+Notable among the personal-pronoun system is a distinction between [[inclusive and exclusive we|two forms of "we"]]: ''kita'' (you and me, you and us) and ''kami'' (us, but not you). The distinction is increasingly confused in colloquial Indonesian.
+
+''Saya'' and ''aku'' are the two major forms of "I". ''Saya'' is the more formal form, whereas ''aku'' is used with family, friends, and between lovers. ''Sahaya'' is an old or literary form of ''saya''. ''Sa(ha)ya'' may also be used for "we", but in such cases it is usually used with ''sekalian'' or ''semua'' "all"; this form is ambiguous as to whether it corresponds with inclusive ''kami'' or exclusive ''kita''. Less common are ''hamba'' "slave", ''hamba tuan, hamba datok'' (all extremely humble), ''beta'' (a royal addressing oneselves), ''patek'' (a commoner addressing a royal), ''kami'' (royal or editorial "we"), ''kita'', ''təman'', and ''kawan.''
+* '''Second person pronouns'''
+There are three common forms of "you", ''Anda'' (polite), ''kamu'' (familiar), and ''kalian'' "all" (commonly used as a plural form of you, slightly informal). ''Anda'' is used with strangers, recent acquaintances, in advertisements, in business, and when you wish to show respect (though terms like ''tuan'' "sir" and other titles also show respect), while ''kamu'' is used in situations where the speaker would use ''aku'' for "I". ''Anda sekalian'' is polite plural.
+
+''Engkau'' (''əngkau''), commonly shortened to ''kau'', and ''hang'' are used to social inferiors, ''awak'' to equals, and ''əncek'' (''cek'' before a name) is polite, traditionally used for people without title. The compounds ''makcek'' and ''pakcek'' are used with village elders one is well acquainted with or the guest of.
+* '''Third person pronouns'''
+The common word for "s/he" and "they" is ''ia'', which has the object and emphatic/focused form ''dia''. ''Bəliau'' "his/her Honour" is respectful. As with "you", names and kin terms are extremely common. Colloquially, ''dia orang'' is commonly used for the plural "they"; in writing, ''mereka'' "someone", ''mereka itu'', or ''orang itu'' "those people" are used for "they".
+* '''Regional varieties'''
+There are a large number of other words for "I" and "you", many regional, dialectical, or borrowed from local languages. ''Saudara'' "you" (male) and ''saudari'' (female) (plural ''saudara-saudara'' or ''saudari-saudari'') show utmost respect. ''Daku'' "I" and ''dikau'' "you" are poetic or romantic. Indonesian ''[[Indonesian slang language|gua]]'' "I" and ''[[Indonesian slang language|lu]]'' "you" are slang and extremely informal. In the state of Pahang, two variants for "I" and "you" exist, depending on location. In East Pahang, around Pekan, "kome" is used as "I" while in the west around Temerloh, "koi" is used. Interestingly, "kome" is also used in Kuala Kangsar, Perak, but instead it means "you". This allegedly originated from the fact that both the royal families of Pahang and Perak (whose seats are in Pekan and Kuala Kangsar respectively) were descendants of the same ancient line.
+
+The informal pronouns ''aku, kamu, engkau, ia, kami,'' and ''kita'' are indigenous to Indonesian.
+
+====Possessive pronouns====
+''Aku, kamu, engkau'', and ''ia'' have short possessive [[enclitic]] forms. All others retain their full forms like other nouns, as does emphatic ''dia'': ''meja saya, meja kita, meja anda, meja dia'' "my table, our table, your table, his/her table".
+
+{|class="wikitable"
+|+Possessed forms of ''meja'' "table"
+! Pronoun
+! Enclitic
+! Possessed form
+|-
+|aku
+| -ku
+|''mejaku'' (my table)
+|-
+|kamu
+| -mu
+|''mejamu'' (your table)
+|-
+|ia
+| -nya
+|''mejanya'' (his, her, their table)
+|}
+
+There are also [[proclitic]] forms of ''aku'', ''ku-'' and ''kau-''. These are used when there is no emphasis on the pronoun:
+
+:'''''Ku'''-dengar raja itu penyakit sopak. '''Aku''' tahu ilmu tabib. '''Aku-lah''' mengubati dia.''
+:"It has come to my attention that the Raja has a skin disease. I am skilled in medicine. ''I'' will cure him."
+Here ''ku-''verb is used for a general report, ''aku'' verb is used for a factual statement, and emphatic ''aku-lah meng-''verb (≈ "I am the one who...") for focus on the pronoun.<ref>M.B. Lewis, 1947, ''Teach Yourself Indonesian'', p. 178, ASIN: B0007JGNQO</ref>
+
+====Demonstrative pronouns====
+There are two [[demonstrative pronoun]]s in Indonesian. ''Ini'' "this, these" is used for a noun which is generally near to the speaker. ''Itu'' "that, those" is used for a noun which is generally far from the speaker. Either may sometimes be equivalent to English "the". There is no difference between singular and plural. However, plural can be indicated through duplication of a noun followed by a ''ini'' or ''itu''. The word ''yang'' "which" is often placed before demonstrative pronouns to give emphasis and a sense of certainty, particularly when making references or enquiries about something/ someone, like English "this one" or "that one".
+
+{| class="wikitable"
+|-
+! Pronoun
+! Indonesian
+! English
+|-
+! rowspan=2|ini
+| ''buku ini''
+| This book, these books, the book(s)
+|-
+| ''buku-buku ini''
+| These books, (all) the books
+|-
+! rowspan=2| itu
+| ''kucing itu''
+| That cat, those cats, the cat(s)
+|-
+| ''kucing-kucing itu''
+| Those cats, the (various) cats
+|}
+
+{| class="wikitable"
+|-
+! Pronoun + '''yang'''
+! Example Sentence
+! English Meaning
+|-
+| '''Yang ini'''
+| Q: Anda mau membeli buku yang mana?
+A: Saya mau beli '''yang ini'''
+| Q: Which book do you wish to purchase?
+A: I would like '''this one'''
+|-
+| '''Yang itu'''
+| Q: Kucing mana yang makan tikusmu?
+A: '''Yang itu!'''
+| Q: Which cat ate your mouse?
+A: '''That one'''!
+|}
+
+===Verbs===
+Verbs are not [[inflected language|inflected]] for person or number, and they are not marked for tense; tense is instead denoted by time adverbs (such as "yesterday") or by other tense indicators, such as ''sudah'' "already" and ''belum'' "not yet". On the other hand, there is a complex system of verb affixes to render nuances of meaning and to denote [[voice (grammar)|voice]] or intentional and accidental [[grammatical mood|moods]]. Some of these affixes are ignored in colloquial speech.
+
+Examples of these are the prefixes ''di-'' ([[Austronesian alignment|patient focus]], frequently but erroneously called "passive voice", for OVA word order in the third person, and OAV in the first or second persons), ''meng-'' ([[Austronesian alignment|agent focus]], frequently but erroneously called "active voice", for AVO word order), ''memper-'' and ''diper-'' ([[causative]], agent and patient focus), ''ber-'' ([[stative verb|stative]] or habitual; intransitive VS order), and ''ter-'' (agentless actions, such as those which are involuntary, sudden, stative or accidental, for VA = VO order); the suffixes  ''-kan'' (causative or [[benefactive]]) and ''-i'' (locative, repetitive, or exhaustive); and the circumfixes ''ber-...-an'' ([[pluractionality|plural subject, diffuse action]]) and ''ke-...-an'' (unintentional or potential action or state).
+
+* ''duduk'' to sit down
+* ''mendudukkan'' to sit someone down, give someone a seat, to appoint
+* ''menduduki'' to sit on, to occupy
+* ''didudukkan'' to be given a seat, to be appointed
+* ''diduduki'' to be sat on, to be occupied
+* ''terduduk'' to sink down, to come to sit
+* ''kedudukan'' to be situated
+
+Forms in ''ter-'' and ''ke-...-an'' are often equivalent to adjectives in English.
+
+====Negation====
+Four words are used for negation in Indonesian, namely ''tidak'', ''bukan'', ''jangan'', and ''belum''.
+
+* '''''Tidak''''' (not), often shortened to ''tak'', is used for the negation of verbs and "adjectives".
+* '''''Bukan''''' (be-not) is used in the negation of a noun.
+For example:
+{| class="wikitable"
+|-
+!Indonesian
+!Gloss
+!English
+|-
+|''Saya '''tidak''' tahu''
+|I '''not''' know
+|I do '''not''' know
+|-
+|''Ibu saya '''tidak''' senang''
+|mother I '''not''' be-happy
+|My mother is '''not''' happy
+|-
+|''Itu '''bukan''' anjing saya''
+|that '''be-not''' dog I
+|That '''is not''' my dog
+|}
+
+==== Prohibition ====
+For negating imperatives or advising against certain actions in Indonesian, the word ''jangan'' (do not) is used before the verb. For example,
+*  '''''Jangan''''' tinggalkan saya di sini!
+:'''Don't''' leave me here!
+*  '''''Jangan''''' lakukan itu!
+:'''Don't''' do that!
+*  '''''Jangan'''''! Itu tidak bagus untukmu.
+:'''Don't!''' That's not for you.
+
+===Adjectives===
+There are  grammatical adjectives in Indonesian. [[Stative verb]]s are often used for this purpose as well. Adjectives are always placed after the noun which they modify. Hence, "rumah saya" means "my house", while "saya rumah" means "I am a house". 
+{| class="wikitable"
+|-
+!Indonesian
+!Gloss
+!English
+|-
+|''Hutan hijau''
+|forest green
+|(The) green forest.
+|-
+|''Hutan itu hijau''
+|forest that green
+|That/the forest is green.
+|-
+|''Kəreta yang merah''
+|carriage which (is) red.
+|(The) carriage which is red = the red carriage.
+|-
+|''Kəreta merah''
+|carriage red.
+|Red carriage.
+|-
+|''Dia orang yang terkenal sekali''
+|he/she person which be-famous very
+|He/she is a very famous person
+|-
+|''Orang terkenal''
+|person famous.
+|Famous person.
+|-
+|''Orang ini terkenal sekali''
+|person this be-famous very
+|This person is very famous
+|}
+
+To say that something "is" an adjective, the determiners "itu" and "ini" ("that" and "this") are often used. For example, in the sentence "anjing itu galak", the use of "itu" gives a meaning of "the/that dog is ferocious", while "anjing ini galak", gives a meaning of "this dog is ferocious". However, if "itu" or "ini" were not to be used, then "anjing galak" would meaning only "ferocious dog", a plain adjective without any stative implications. The all-purpose determiner, "yang", is also often used before adjectives, hence "anjing yang galak" also means "ferocious dog" or more literally "dog which is ferocious"; "yang" will often be used for clarity. Hence, in a sentence such as "saya didekati oleh anjing galak" which means "I was approached by a ferocious dog", the use of the adjective "galak" is not stative at all.
+
+Often the "ber-" intransitve verb prefix, or the "ter-" stative prefix will be used to suggest a meaning of "to be...". For example, "beda" means "different", hence "berbeda" means "to be different"; "awan" means "cloud", hence "berawan-awan" means "cloudy". Using the "ter-" prefix, implies a state of being. For example, "buka" means "open", hence "terbuka" means "is open"; "tutup" means "closed/shut", hence "tertutup" means "is closed/shut".
+
+===Word order===
+Adjectives, [[demonstrative]] determiners, and [[possessive]] determiners follow the noun they modify.
+
+Indonesian does not have a [[grammatical subject]] in the sense that English does. In intransitive clauses, the noun comes before the verb. When there is both an [[agent (grammar)|agent]] and an [[object (grammar)|object]], these are separated by the verb (OVA or AVO), with the difference encoded in the voice of the verb. OVA, commonly but inaccurately called "passive", is the basic and most common word order.
+
+Either the agent or object or both may be omitted. This is commonly done to accomplish one of two things:
+
+;1) Adding a sense of politeness and respect to a statement or question
+
+For example, a polite shop assistant in a store may avoid the use of pronouns altogether and ask:
+
+{| class="wikitable"
+|-
+! Ellipses of pronoun (agent & object)
+! Literal English
+! Idiomatic English
+|-
+| Bisa ''dibantu?''
+| Can + ''to be helped''?
+| Can (I) ''help'' (you)?
+|}
+
+;2) Agent or object is unknown, not important, or understood from context
+
+For example, a friend may enquire as to when you bought your property, to which you may respond:
+{| class="wikitable"
+|-
+! Ellipses of pronoun (understood agent)
+! Literal English
+! Idiomatic English
+|-
+| ''Rumah ini '''dibeli''' lima tahun yang lalu''
+| House this + ''be purchased'' five year(s) ago
+| The house 'was purchased' five years ago
+|}
+
+Ultimately, the choice of voice and therefore word order is a choice between actor and patient and depends quite heavily on the language style and context.
+
+== Writing system ==
+{{main|Indonesian alphabet|Perfected Spelling System}}
+
+Indonesian is written with the [[Latin script]]. It was originally based on the [[Dutch spelling]] and still bears some similarities to it. Consonants are represented in a way similar to [[Italian language#Writing system|Italian]], although {{angle bracket|c}} is always {{IPA|/tʃ/}} (like English {{angle bracket|ch}}), {{angle bracket|g}} is always {{IPA|/ɡ/}} ("hard") and {{angle bracket|j}} represents {{IPA|/dʒ/}} as it does in English. In addition, {{angle bracket|ny}} represents the [[palatal nasal]] {{IPA|/ɲ/}}, {{angle bracket|ng}} is used for the [[velar nasal]] {{IPA|/ŋ/}} (which can occur word-initially), {{angle bracket|sy}} for {{IPA|/ʃ/}} (English {{angle bracket|sh}}) and {{angle bracket|kh}} for the [[voiceless velar fricative]] {{IPA|/x/}}.  Both {{IPA|/e/}} and {{IPA|/ə/}} are represented with {{angle bracket|e}}.
+
+Spelling changes in the language that have occurred since Indonesian independence include:
+{| class="wikitable"
+!Phoneme!!Obsolete<br />spelling!!Modern<br />spelling
+|-align="center"
+|{{IPAslink|u}}||oe||u
+|-align="center"
+|{{IPAslink|tʃ}}||tj||c
+|-align="center"
+|{{IPAslink|dʒ}}||dj||j
+|-align="center"
+|{{IPAslink|j}}||j||y
+|-align="center"
+|{{IPAslink|ɲ}}||nj||ny
+|-align="center"
+|{{IPAslink|ʃ}}||sj||sy
+|-align="center"
+|{{IPAslink|x}}||ch||kh
+|}
+
+Introduced in 1901, the [[van Ophuijsen Spelling System|''van Ophuijsen'' system]], (named from the advisor of the system, [[Charles Adriaan van Ophuijsen]]) was the first standardization of romanized spelling. It was most influenced by the then current [[Dutch orthography|Dutch spelling system]]. In 1947, the spelling was changed into ''[[Republican Spelling System|Republican Spelling]]'' or ''Soewandi Spelling'' (named by at the time Minister of Education, Soewandi). This spelling changed formerly-spelled ''oe'' into ''u'' (however, the spelling influenced other aspects in orthography, for example writing reduplicated words). All of the other changes were a part of the [[Perfected Spelling System]], an officially-mandated [[spelling reform]] in 1972. Some of the old spellings (which were derived from [[Dutch orthography]]) do survive in proper names; for example, the name of a former president of Indonesia is still sometimes written ''[[Suharto|Soeharto]]'', and the central Java city of [[Yogyakarta (city)|Yogyakarta]] is sometimes written ''Jogjakarta''.
+
+== Vocabulary ==
+{{see also|List of loanwords in Indonesian}}
+
+{{Pie chart
+|caption= A Pie chart showing percentage of other languages contribute on loan words of Indonesian language.
+|value1=43
+|label1=Dutch
+|color1=#FCB514
+|value2=21
+|label2=Regional language
+|color2=#00247D
+|value3=19
+|label3=Arabic
+|color3=#008000
+|value4=9
+|label4=Sanskrit
+|color4=#008080
+|value5=4
+|label5=Chinese
+|color5=#BB133E
+|value6=2
+|label6=Portuguese
+|color6=#8B008B
+|value7=1
+|label7=Tamil and Hindi
+|color7=#696969
+|value8=1
+|label8=Persian
+|color8=#000000
+}}
+
+A modern dialect of Malay, Indonesian has also influenced by other languages, including other [[Austronesian languages]], [[Sanskrit]], [[Arabic language|Arabic]], [[Persian language|Persian]], [[Portuguese language|Portuguese]], [[Dutch language|Dutch]], [[Chinese language|Chinese]], and [[Languages of Indonesia|Regional languages]]. It is estimated that there are some 750 Sanskrit loanwords in modern Indonesian, 1,000 Arabic loans, some of [[Persian language|Persian]] and [[Hebrew language|Hebrew]] origin, some 125 words of Portuguese, [[Spanish language|Spanish]], [[Italian language|Italian]]) origin and 10,000 loanwords from Dutch<ref>This is a research led by Prof. Dr. J. W. de Vries of the University of Leiden in the Netherlands</ref> The vast majority of Indonesian words, however, come from the root lexical stock of its Austronesian (incl. Old Malay).<ref>heritage.https://www.rochester.edu/college/cls/assets/pdf/working/Paauw.pdf</ref>
+
+The study of Indonesian etymology and loan words reveals both its historical and social contexts. Examples are the early Sanskrit borrowings on 18th century during the trading era, the borrowings from Arabic and Persian during the time of the establishment of Islam in particular, and the ones from Dutch during the colonial period. Linguistic history and cultural history are clearly linked.<ref>{{cite web |url=http://aseasuk.org.uk/v2/aseasuknews/%252Fbookreviews/46/Grijns%20et%20al. |title=Loan-words in Indonesian and Malay |author=C. D. Grijns et al. (eds) |date= |work= |publisher=ASEASUK, Association of South-East Asian Studies in the United Kingdom |accessdate=21 July 2012}}</ref>
+
+List of loan words of Indonesian language published by the [[Badan Pengembangan dan Pembinaan Bahasa]] (The Language Center) under Ministry of Education and Culture:<ref name="badanbahasa.kemdikbud.go.id">http://badanbahasa.kemdikbud.go.id/lamanbahasa/</ref>
+
+{| class="wikitable"
+|-
+! Language origin
+! Number of word
+|-
+| Dutch
+| 3.280
+|-
+| Regional language
+| 1.610
+|-
+| Arabic
+| 1.495
+|-
+| Sanskrit
+| 677
+|-
+| Chinese
+| 290
+|-
+| Portuguese
+| 131
+|-
+| Tamil
+| 131 
+|-
+| Hindi
+| 7 
+|-
+| Persian
+| 63 
+|}
+<small>'''Source''': ''Senarai Kata Serapan dalam Bahasa Indonesia (1996)'' published by Pusat Pembinaan dan Pengembangan Bahasa (The Language Center).</small><ref name="badanbahasa.kemdikbud.go.id"/>
+
+=== Loan words of Sanskrit origin ===
+
+The [[Sanskrit]] influence came from contacts with [[India]] since ancient times. The words were either borrowed directly from India or with the intermediary of the [[Old Javanese language]]. Although [[Hinduism]] and [[Buddhism]] are no longer the major religions of Indonesia, [[Sanskrit]], which was the language vehicle for these religions, is still held in high esteem and is comparable with the status of [[Latin]] in [[English language|English]] and other Western European languages. Sanskrit is also the main source for [[neologism]]s, these are usually formed from Sanskrit roots. The loanwords from Sanskrit cover many aspects of [[religion]], [[art]] and everyday life. Sanskrit loanwords, unlike those from other languages, have entered the basic vocabulary of Indonesian to such an extent that, for many, they are no longer perceived as foreign.
+
+From [[Sanskrit language|Sanskrit]] came such words as भाषा ''bahasa'' (language), काच '' kaca'' (glass, mirror), राज- ''raja'' (king), मनुष्य  ''manusia'' (mankind), भूमि ''bumi'' (earth/ world), आगम ''agama'' (religion), स्त्री ''Istri'' (wife/woman), जय ''Jaya'' (victory/victorious), पुर ''Pura'' (city/temple/place), रक्षस ''[[Raksasa]]'' (giant/monster), धर्म ''[[Dharma]]'' (rule/regulations), मन्त्र ''[[Mantra]]'' (words/poet/spiritual prayers), क्षत्रिय ''Satria'' (warrior/brave/soldier),  विजय ''Wijaya'' (greatly victorious/great victory), etc. [[Sanskrit]] words and sentences are also used in names, titles, and mottoes of the Indonesian National Police and Indonesian Armed Forces such as: ''[[Indonesian National Police|Bhayangkara]]'', ''[[Laksamana]]'', ''[[Jatayu]]'', ''[[Garuda]]'', ''Dharmakerta Marga Reksyaka'', ''[[Indonesian Navy|Jalesveva Jayamahe]]'', ''[[Indonesian Army|Kartika Eka Paksi]]'', ''[[Indonesian Air Force|Swa Bhuwana Paksa]]'', ''[[Indonesian National Police|Rastra Sewakottama]]'', ''Yudha Siaga'', etc. The [[Sanskrit]] words also still makes the Indonesian language more powerful in meaning from the usage of the National Armed Forces titles such as (above) and more meanings that also contributes to official and formal languages of Indonesia.
+
+[[Sanskrit]] words and sentences are also used in names, titles, and mottoes of the Indonesian National Police and Indonesian Armed Forces such as: ''{{lang|sa|[[Indonesian National Police|Bhayangkara]]}}'', ''{{Lang|sa|[[Laksamana]]}}'', ''{{lang|sa|[[Jatayu]]}}'', ''{{lang|sa|[[Garuda]]}}'', ''{{lang|sa|Dharmakerta Marga Reksyaka}}'', ''{{lang|sa|[[Indonesian Navy|Jalesveva Jayamahe]]}}'', ''{{lang|sa|[[Indonesian Army|Kartika Eka Paksi]]}}'', ''{{lang|sa|[[Indonesian Air Force|Swa Bhuwana Paksa]]}}'', ''{{lang|sa|[[Indonesian National Police|Rastra Sewakottama]]}}'', ''{{lang|sa|Yudha Siaga}}''.
+
+=== Loan words of Arabic origin ===
+Many Arabic words were brought and spread by merchants from [[Arab Peninsula]] like [[Arabian people|Arabian]], [[Persian people|Persian]], and from the western part of India, [[Gujarat]] where many Muslims lived.<ref name="catdir.loc.gov">http://catdir.loc.gov/catdir/samples/cam032/98020577.pdf</ref> As a result, many Indonesian words come from the Arabic language. Especially since the late 12th century, Old Malay was heavily influenced by the language and produced many great literary works such as [[Syair]], [[Babad]], [[Hikayat]], and [[Suluk]]. This century is  known as ''The Golden Age of Indonesian Literature''.<ref name="catdir.loc.gov"/>
+
+Many loanwords from [[Arabic language|Arabic]] are mainly concerned with religion, in particular with [[Islam]], and by extension, with greetings such as the word, "selamat" (from {{lang-ar|سلام}} ''{{transl|ar|Wehr|salām}}'' = peace) means "safe" or "lucky". Words of [[Arabic language|Arabic]] origin include ''dunia'' (from {{lang-ar|دنيا}} ''{{transl|ar|Wehr|dunyā}}'' = the present world), names of days (except ''Minggu''), such as ''Sabtu'' (from {{lang-ar|سبت}} ''{{transl|ar|ALA|sabt-u}}'' = Saturday), ''iklan'' ({{lang|ar|آعلان}} ''{{transl|ar|ALAn|iʻlan}}'' = advertisement),''kabar'' ({{lang|ar|خبر}} ''{{transl|ar|Wehr|ḵabar}}'' = news), ''Kursi'' ({{lang|ar|كرسي}} ''{{transl|ar|ALA|kursī}}'' = a chair), ''jumat'' ({{lang|ar|جمعة}} ''{{transl|ar|Wehr|jumʻa}}'' = Friday), ''ijazah'' ({{lang|ar|إجازة}} ''{{transl|ar|Wehr|ijāza}}'' = 'permission', certificate of authority, e.g. a school diploma certificate), ''kitab'' ({{lang|ar|كتاب}} ''{{transl|ar|Wehr|kitāb}}'' = book), ''tertib'' ({{lang|ar|ترتيب}} ''{{transl|ar|Wehr|tartīb}}'' = order/arrangement) and ''kamus'' ({{lang|ar|قاموس}} ''{{transl|ar|Wehr|qāmūs}}'' = dictionary). [[Allah]] ({{lang-ar|الله}}), as it is mostly the case for [[varieties of Arabic|Arabic]] speakers, is the word for [[God]] even in [[Christian]] [[Bible]] translations.  Many early Bible translators, when they came across some unusual [[Hebrew language|Hebrew]] words or proper names, used the Arabic cognates. In the newer translations this practice is discontinued. They now turn to [[Greek language|Greek]] names or use the original Hebrew Word. For example, the name [[Jesus]] was initially translated as '' 'Isa'' ({{lang-ar|عيسى}}), but is now spelt as ''Yesus''. Several ecclesiastical terms derived from Arabic still exist in Indonesian language. Indonesian word for ''[[bishop]]'' is ''uskup'' (from {{lang-ar|أسقف}} ''{{transl|ar|Wehr|usquf}}'' = bishop). This in turn makes the Indonesian term for [[archbishop]] ''uskup agung'' (literally ''great bishop''), which is combining the Arabic word with an Old Javanese word. The term ''imam'' (from {{lang-ar|إمام}} ''{{transl|ar|Wehr|imām}}'' = leader, prayer leader) is used to translate a Catholic [[priest]], beside its more common association with an Islamic prayer leader. Some Protestant denominations refer to their congregation ''jemaat'' (from {{lang-ar|جماعة}} ''{{transl|ar|Wehr|jamāʻa}}'' = group, a community). Even the name of the [[Bible]] in Indonesian translation is ''Alkitab'' (from {{lang-ar|الكتاب}} ''{{transl|ar|Wehr|al-kitāb}}'' = the book), which literally means "the Book".
+
+=== Loan words of Chinese origin ===
+Relationship has been going since the 7th century when the Chinese merchants trade in some areas of the archipelago such as [[Riau]], [[West Borneo]] and [[East Kalimantan]], and [[North Maluku]]. At the time of the kingdom of Srivijaya appeared and firmed, China opened a diplomatic relations with the kingdom in order to secure trade and seafaring. In the 922, Chinese travelers visited [[Kahuripan]] in [[East Java]]. Since the 11th century, a hundreds of thousands of Chinese migrants left their [[China Mainland]] and settled in many parts of Nusantara (now called as Indonesia).
+
+The [[Chinese language|Chinese]] loanwords are usually concerned with cuisine, trade or often just things exclusively Chinese. Words of Chinese origin (presented here with accompanying [[Hokkien]]/ Mandarin pronunciation derivatives as well as [[Traditional characters|traditional]] and [[simplified characters]]) include ''pisau'' (匕首 bǐshǒu &nbsp;– knife), ''loteng'', (樓/層 = lóu/céng&nbsp;– [upper] floor/ level), ''mie'' (麵 > 面 Hokkien mī&nbsp;– noodles), ''[[lumpia]]'' (潤餅 (Hokkien = lūn-piáⁿ)&nbsp;– springroll), ''cawan'' (茶碗 cháwǎn&nbsp;– teacup), ''teko'' (茶壺 > 茶壶 = cháhú [Mandarin], teh-ko [Hokkien] = teapot), 苦力 kuli = 苦 khu (bitter) and 力 li (energy) and even the widely used slang terms ''gua'' and ''lu'' (from the Hokkien 'goa' 我 and 'lu/li' 你&nbsp;– meaning 'I/ me' and 'you').
+
+=== Loan words of Portuguese origin ===
+Alongside [[Malay language|Malay]], [[Portuguese language|Portuguese]] was the ''[[lingua franca]]'' for trade throughout the archipelago from the sixteenth century through to the early nineteenth century. The Portuguese were among the first westerners to sail eastwards to the "[[Maluku Islands|Spice Islands]]". Loanwords from [[Portuguese language|Portuguese]] were mainly connected with articles that the early European traders and explorers brought to Southeast Asia.{{citation needed|date=July 2012}} Indonesian words derived from Portuguese include ''meja'' (from mesa = table), ''boneka'' (from boneca = doll), ''jendela'' (from janela = window), ''gereja'' (from igreja = church), ''bendera'' (from bandeira = flag), ''sepatu'' (from sapato = shoes), ''keju'' (from queijo = cheese), ''mentega'' (from manteiga = butter), and ''Minggu'' (from ''domingo'' = Sunday).<ref name="RICKLEFSp24">{{Cite book | last =Ricklefs  | first =M.C.  | authorlink =  | coauthors =  | title =A History of Modern Indonesia Since c.1300, 2nd Edition  | publisher =MacMillan  | year =1991  | location =London  | pages =26  | url =  | doi =  | isbn = 0-333-57689-6 }}</ref>
+
+=== Loan words of Dutch origin ===
+The former colonial power, the [[Netherlands]], left a sizable amount of vocabulary that can be seen in words such as ''polisi'' (from politie = police), ''kualitas'' (from kwaliteit = quality), ''rokok'' (from roken = smoking cigarettes), ''korupsi'' (from corruptie = corruption), ''kantor'' (from kantoor = office), ''resleting'' (from ritssluiting = zipper) and ''gratis'' (from gratis = free). These [[Dutch language|Dutch]] loanwords, and many other non-Italo-Iberian, European language loanwords that came via Dutch, cover all aspects of life. Some Dutch loanwords, having clusters of several consonants, pose difficulties to speakers of Indonesian. This problem is usually solved by insertion of the [[schwa]]. For example, Dutch ''schroef'' {{IPA|[ˈsxruf]}} > ''sekrup'' {{IPA|[səˈkrup]}} (screw (n.)). One scholar argues that 20% of Indonesian words are inspired by the [[Dutch Language]].<ref name="mai">{{cite web|url=http://repositories.cdlib.org/ies/050208/|title= A Hidden Language – Dutch in Indonesia|author= Hendrik M. Maier|date=Feb 8, 2005|work=Institute of European Studies, |publisher= University of California|location=Berkeley}}</ref>
+
+Before the standardization of the language, many Indonesian words follow standard Dutch alphabet and pronunciation such as "oe" for vowel "u" or "dj" for consonant "j" [dʒ]. As a result, Malay words are written with that orthography such as: ''{{lang|ms|passer}}'' for the word ''{{lang|id|Pasar}}'' or ''{{lang|ms|djalan}}'' for the word ''{{lang|id|jalan}}'', older Indonesian generation tend to have their name written in such order as well.
+
+=== Other loan words ===
+Modern Indonesian draws many of its words from foreign sources, there are many [[synonym]]s. For example, Indonesian has three words for "book", i.e. ''{{lang|id|pustaka}}'' (from Sanskrit), ''{{lang|id|kitab}}'' (from Arabic) and ''{{lang|id|buku}}'' (from Dutch ''{{lang|nl|boek}}''); however, each has a slightly different meaning.{{citation needed|date=July 2012}} A ''{{lang|id|pustaka}}'' is often connected with ancient wisdom or sometimes with esoteric knowledge. A derived form, ''{{lang|id|perpustakaan}}'' means a library. A ''{{lang|id|kitab}}'' is usually a religious scripture or a book containing moral guidance. The Indonesian words for the [[Bible]] and [[Gospel]] are ''{{lang|id|Alkitab}}'' and ''{{lang|id|Injil}}'', both directly derived from Arabic. The book containing the penal code is also called the ''{{lang|id|kitab}}''. ''{{lang|id|Buku}}'' is the most common word for books.
+
+There are direct borrowings from various other languages of the world, such as "karaoke" ({{lang|jp|カラオケ}}) from [[Japanese language|Japanese]], and "[[modem]]" from English. Many words that originally are adopted through the Dutch language today however often are mistaken as English due to the similarity in the Germanic nature of both languages. In some cases the words are replaced by English language through globalization: although the word ''{{lang|id|arbei}}'' (Dutch: ''{{lang|nl|aardbei}}'') still literally means strawberry in Indonesian, today the usage of the word ''{{lang|id|stroberi}}'' is more common.
+
+== As speakers of other languages ==
+[[File:BIPA JPEG.jpg|thumb|180px|''BIPA ({{lang|id|Bahasa Indonesia bagi Penutur Asing}})'' book, which helps foreigners to learn Indonesian language effectively.]]
+
+Over the past few years, interest in learning Indonesian has grown among non-Indonesians.<ref>{{cite book |last=Department Pendidikan Nasiona |title=Lentera Indonesia 1 |year=2006 |publisher=Department Pendidikan Nasiona |location=Jakarta |isbn=979-685-403-1 |page=v }}</ref> Various universities have started to offer courses that emphasise the teaching of the language to non-Indonesians. In addition to National Universities, private institutions have also started to offer courses, like the Indonesia Australia Language Foundation and the {{lang|id|Lembaga Indonesia Amerika}}.
+
+As early as 1988, teachers of the language have expressed the importance of a standardised ''{{lang|id|Bahasa Indonesia bagi Penutur Asing}}'' (also called '''BIPA''') materials (mostly books), and this need became more evident during the 4th International Congress on the Teaching of Indonesian to Speakers of Other Languages held in 2001.<ref>[http://www.ialf.edu/bipa/march2002/conferencereport.html Conference Report: The Fourth International Conference on Teaching Indonesian to Speakers of Other Languages]</ref>
+
+Since 2013, the Indonesian Embassy in the Philippines has given basic Indonesian language courses to 16 batches of Filipino students, as well as training to members of the [[Armed Forces of the Philippines]]. Due to increasing demand among students, the Embassy will open an intermediate Indonesian language course later in the year. The Indonesian Embassy in Washington, D.C., USA also began offering free Indonesian language courses at the beginner and intermediate level.<ref>http://www.embassyofindonesia.org/wordpress/?page_id=1105</ref>
+
+In an interview, [[Department of Education (Philippines)|Department of Education]] Secretary [[Armin Luistro]]<ref>{{cite news |last=Rainier Alain |first=Ronda |title=Bahasa in schools? DepEd eyes 2nd foreign language |url=http://www.philstar.com/headlines/2013/03/22/922576/bahasa-schools-deped-eyes-2nd-foreign-language |accessdate=11 June 2013 |newspaper=The Philippine Star |date=22 March 2013}}</ref> said that the country's government should promote Indonesian or Malay, which are related to Filipino. Thus, the possibility of offering it as an optional subject in public schools is being studied.
+
+==  Words  ==
+
+=== Numbers  ===
+
+==== Cardinal ====
+{| class="wikitable"
+!Number
+!English
+!Indonesian
+|-
+|0
+|zero
+|nol
+|-
+|1
+|one
+|satu
+|-
+|2
+|two
+|dua
+|-
+|3
+|three
+|tiga
+|-
+|4
+|four
+|empat
+|-
+|5
+|five
+|lima
+|-
+|6
+|six
+|enam
+|-
+|7
+|seven
+|tujuh
+|-
+|8
+|eight
+|delapan
+|-
+|9
+|nine
+|sembilan
+|-
+|10
+|ten
+|sepuluh
+|-
+|11
+|eleven
+|sebelas
+|-
+|12
+|twelve
+|dua belas
+|-
+|20
+|twenty
+|dua puluh
+|-
+|21
+|twenty one
+|dua puluh satu
+|-
+|30
+|thirty
+|tiga puluh
+|-
+|100
+|one hundred
+|seratus
+|-
+|200
+|two hundreds
+|dua ratus
+|-
+|210
+|two hundred ten
+|dua ratus sepuluh
+|-
+|1000
+|one thousand
+|seribu
+|-
+|10000
+|ten thousand
+|sepuluh ribu
+|-
+|100000
+|one hundred thousand
+|seratus ribu
+|-
+|1000000
+|one million
+|sejuta, satu juta
+|-
+|1000000000
+|one billion
+|satu miliar
+|}
+
+==== Ordinal ====
+{| class="wikitable"
+!Number
+!English
+!Indonesian
+|-
+|1st
+|first
+|pertama
+|-
+|2nd
+|second
+|kedua
+|-
+|3rd
+|third
+|ketiga
+|-
+|4th
+|fourth
+|keempat
+|-
+|5th
+|fifth
+|kelima
+|-
+|6th
+|sixth
+|keenam
+|-
+|7th
+|seventh
+|ketujuh
+|-
+|8th
+|eighth
+|kedelapan
+|-
+|9th
+|ninth
+|kesembilan
+|-
+|10th
+|tenth
+|kesepuluh
+|}
+
+=== Days and Months ===
+
+==== Day ====
+{| class="wikitable"
+!English
+!Indonesian
+|-
+|Monday
+|Senin
+|-
+|Tuesday
+|Selasa
+|-
+|Wednesday
+|Rabu
+|-
+|Thursday
+|Kamis
+|-
+|Friday
+|Jumat
+|-
+|Saturday
+|Sabtu
+|-
+|Sunday
+|Minggu
+|}
+
+==== Month ====
+{| class="wikitable"
+!English
+!Indonesian
+|-
+|January
+|Januari
+|-
+|February
+|Februari
+|-
+|March
+|Maret
+|-
+|April
+|April
+|-
+|May
+|Mei
+|-
+|June
+|Juni
+|-
+|July
+|Juli
+|-
+|August
+|Agustus
+|-
+|September
+|September
+|-
+|October
+|Oktober
+|-
+|November
+|November
+|-
+|December
+|December
+|}
+
+=== Phrases ===
+{| class="wikitable"
+!English
+!Bahasa Indonesia
+|-
+|Thank you
+|''Terima kasih'' (formal)
+|-
+|Thanks
+|''Makasih'' (colloquial)
+|-
+|You are welcome
+|''Sama-sama'' or ''terima kasih kembali''
+|-
+|Yes
+|''Iya'' or ''ya''
+|-
+|No
+|''Tidak''
+|-
+|Have a nice day
+|''Semoga hari Anda menyenangkan''
+|-
+|Bon appetite
+|''Selamat makan'' or ''Selamat menikmati''
+|-
+|I am sorry
+|''Maafkan saya''
+|-
+|Excuse me
+|''Permisi''
+|-
+|Can you speak Indonesian?
+|''Bisakah Anda berbicara bahasa Indonesia?''
+|-
+|Yes, I can speak Indonesian/ No, I can not speak Indonesian
+|''Ya, saya bisa berbicara bahasa Indonesia/ Tidak, saya tidak bisa berbicara bahasa Indonesia''
+|-
+|Please
+|''Mohon'' or ''tolong''
+|-
+|I am happy
+|''Saya senang''
+|-
+|I understand
+|''Saya mengerti''
+|-
+|Help!
+|''Tolong!''
+|-
+|Can you help me?
+|''Bisakah Anda menolong saya?''
+|-
+|Can I help you?/ Do you need a help?
+|''Dapatkah saya membantu Anda?/ Apakah Anda membutuhkan bantuan?''
+|-
+|May I borrow your eraser?
+|''Bolehkah saya meminjam penghapus Anda?''
+|-
+|With my pleasure
+|''Dengan senang hati''
+|-
+|Welcome
+|''Selamat Datang''
+|-
+|Welcome to Indonesia
+|''Selamat datang di Indonesia''
+|-
+|I agree/ I disagree
+|''Saya setuju/ Saya tidak setuju''
+|-
+|I understand/ I do not understand
+|''Saya mengerti/ Saya tidak mengerti''
+|-
+|I am hungry
+|''Saya lapar''
+|-
+|I am thirsty
+|''Saya haus''
+|}
+
+== See also ==
+{{Portal|Indonesia|Languages}}
+* [[Bahasa (disambiguation)]], for other languages referred to as ''{{lang|id|bahasa}}''
+* [[Languages of Indonesia]]
+* [[Language families and languages]]
+* [[Malay language]]
+* [[Demographics of Indonesia]]
+* [[Indonesian slang language]]
+* [[Indonesian abbreviated words]]
+* [[Differences between Malaysian and Indonesian]]
+* [[List of English words of Indonesian origin]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{InterWiki|code=id}}
+{{Wikibooks|Indonesian}}
+{{Wikivoyage|Indonesian phrasebook|Indonesian|a phrasebook}}
+{{commons category}}
+* [http://ipll.manoa.hawaii.edu/indonesian/2012/03/10/how-many-people-speak-indonesian/ How many people speak Indonesian?]
+* [http://indonesiantravelguide.com free language resource]
+* [http://www.Javaans.net/bahasa.htm Learning Indonesian]
+* [http://en.wiktionary.org/wiki/Appendix:Indonesian_Swadesh_list Indonesian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+* [http://coombs.anu.edu.au/WWWVLPages/IndonPages/Universities.html Indonesia WWW Virtual Library]
+* [http://web.cecs.pdx.edu/~bule/bahasa/search.php Bahasa Indonesia Dictionary]
+* [http://bahasa.kemdiknas.go.id/kbbi/ Kamus Besar Bahasa Indonesia dalam jaringan] (Great Dictionary of the Indonesian Language of the Language Center, in Indonesian only)
+* [https://soundcloud.com/suarakecil/message-from-mbak-kayim Example recording of spoken bahasa Indonesia]
+* [http://www.berita3jambi.com Informasi Bahasa Indonesia]
+* [http://www.mytvstreaming.com Tv Online]
+* [http://www.v2xg.com Indonesia Language]
+* [http://www.babla.co.id/ babla.co.id] English-Indonesian dictionary from bab.la, a language learning portal
+* [http://hablaa.com/indonesian-english/ Bahasa Indonesia English Dictionary]
+
+=== English to Bahasa Indonesia translator ===
+*[http://translate.google.com/#auto|id Google Indonesia Translator]
+*http://www.indotranslate.com/translated-text.php
+*http://vvv.sederet.com/translate.php
+*http://translation2.paralink.com/English-Indonesian-Translator
+*http://imtranslator.net/translation/english/to-indonesian/translation/
+*http://www.toggletext.com/main.cgi?page=translation
+
+=== Dictionary software English and Bahasa Indonesia ===
+*http://www.softpedia.com/get/Others/Home-Education/Kamus.shtml
+*http://indodic.com/dlEnglish.html http://indodic.com/dlIndo.html
+
+{{Languages of Indonesia}}
+{{Indonesia topics}}
+{{Languages of East Timor}}
+{{Nuclear Malayo-Polynesian languages}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Indonesian Language}}
+[[Category:Agglutinative languages]]
+[[Category:Malayic languages]]
+[[Category:Languages of Indonesia]]
+[[Category:Languages of East Timor]]
+[[Category:Indonesian language|*]]
+[[Category:Subject–verb–object languages]]
+[[Category:Standard languages]]
+
+[[de:Malaiische Sprache#Geschichte]]

@@ -1,0 +1,421 @@
+Counties of Norway
+
+[[File:Map Norway political-geo.png|thumb|300px|right|A geopolitical map of Norway, exhibiting its 19 first-order [[administrative division|subnational divisions]] (''fylker'' or "counties"), along with [[Svalbard]] and [[Jan Mayen]]]]
+{{Politics of Norway}}
+[[Norway]] is divided into 19 [[subnational|administrative regions]], called [[county|counties]] (singular {{lang-no|fylke}}, plural {{lang-no|fylker}} ([[Bokmål]]) / ''fylke'' ([[Nynorsk]])); until 1918, they were known as ''[[Amt (administrative division)|amter]]''. The counties form the first-level [[subdivisions of Norway]] and are further divided into 428 [[Municipalities of Norway|municipalities]] (''kommune'',  pl. ''kommuner'' / ''kommunar''). [[Svalbard]] and [[Jan Mayen]] are outside the county division and ruled directly on national level. The capital [[Oslo]] is considered both a county and a municipality.
+
+In recent years, there has been some political debate as to whether counties are a practical, economical, or even necessary level of administration. See [[politics of Norway]] for more information.
+
+== List of counties ==
+Below is a list of the Norwegian counties as they have been since 1919, with their current administrative centres. Note that the counties are administered both by appointees of the national government and to a lesser extent by their own elected bodies. The county numbers are from the official numbering system [[ISO 3166-2:NO]], which follows the coastline from the Swedish border in the southeast to the Russian border in the northeast. The number [[13 (number)|13]] was dropped from the system when the city of [[Bergen, Norway|Bergen]] (county no. 13) was merged into Hordaland (county no. 12) in 1972. (There is no connection between the lack of a county number 13 and the belief that 13 is an unlucky number.)
+
+{| class="wikitable sortable"
+! scope="col" | ISO-code
+! scope="col" | County (Fylke)
+! scope="col" | Administrative centre
+! scope="col" | Governor
+! scope="col" | Area (km<sup>2</sup>)
+! scope="col" | Population (2016)
+|-
+! scope="row" style="text-align: left;" | 01
+| {{Coat of arms|Østfold}}
+| [[Sarpsborg]]
+| [[Anne Enger]]
+| 4,180.69
+| 290,412
+|-
+! scope="row" style="text-align: left;" | 02
+| {{Coat of arms|Akershus}}
+| [[Oslo]]
+| [[Nils Aage Jegstad]]
+| 4,917.94
+| 596,704
+|-
+! scope="row" style="text-align: left;" | 03
+| {{Coat of arms|Oslo}}
+| [[Oslo|City of Oslo]]
+| [[Marianne Borgen]] (Mayor)
+| 454.07
+| 660,987
+|-
+! scope="row" style="text-align: left;" | 04
+| {{Coat of arms|Hedmark}}
+| [[Hamar]]
+| [[Sigbjørn Johnsen]]
+| 27,397.76
+| 195,443
+|-
+! scope="row" style="text-align: left;" | 05
+| {{Coat of arms|Oppland}}
+| [[Lillehammer]]
+| [[Kristin Hille Valla]]
+| 25,192.10
+| 188,945
+|-
+! scope="row" style="text-align: left;" | 06
+| {{Coat of arms|Buskerud}}
+| [[Drammen]]
+| [[Kirsti Kolle Grøndahl]]
+| 14,910.94
+| 278,028
+|-
+! scope="row" style="text-align: left;" | 07
+| {{Coat of arms|Vestfold}}
+| [[Tønsberg]]
+| [[Erling Lae]]
+| 2,225.08
+| 245,160
+|-
+! scope="row" style="text-align: left;" | 08
+| {{Coat of arms|Telemark}}
+| [[Skien]]
+| [[Kari Nordheim-Larsen]]
+| 15,296.34
+| 172,527
+|-
+! scope="row" style="text-align: left;" | 09
+| {{Coat of arms|Aust-Agder}}
+| [[Arendal]]
+| [[Øystein Djupedal]]
+| 9,157.77
+| 115,873
+|-
+! scope="row" style="text-align: left;" | 10
+| {{Coat of arms|Vest-Agder}}
+| [[Kristiansand]]
+| [[Ann-Kristin Olsen]]
+| 7,276.91
+| 182,922
+|-
+! scope="row" style="text-align: left;" | 11
+| {{Coat of arms|Rogaland}}
+| [[Stavanger]]
+| [[Magnhild Meltveit Kleppa]]
+| 9,375.97
+| 470,907
+|-
+! scope="row" style="text-align: left;" | 12
+| {{Coat of arms|Hordaland}}
+| [[Bergen]]
+| [[Lars Sponheim]]
+| 15,438.06
+| 517,601
+|-
+! scope="row" style="text-align: left;" | 14
+| {{Coat of arms|Sogn og Fjordane}}
+| [[Leikanger]]
+| [[Anne Karin Hamre]]
+| 18,623.41
+| 109,623
+|-
+! scope="row" style="text-align: left;" | 15
+| {{Coat of arms|Møre og Romsdal}}
+| [[Molde]]
+| [[Lodve Solholm]]
+| 15,101.39
+| 265,181
+|-
+! scope="row" style="text-align: left;" | 16
+| {{Coat of arms|Sør-Trøndelag}}
+| [[Trondheim]]
+| [[Kåre Gjønnes]]
+| 18,839.38
+| 314,048
+|-
+! scope="row" style="text-align: left;" | 17
+| {{Coat of arms|Nord-Trøndelag}}
+| [[Steinkjer]]
+| [[Inge Ryan]]
+| 22,414.91
+| 136,448
+|-
+! scope="row" style="text-align: left;" | 18
+| {{Coat of arms|Nordland}}
+| [[Bodø]]
+| [[Odd Eriksen]]
+| 38,482.39
+| 241,948
+|-
+! scope="row" style="text-align: left;" | 19
+| {{Coat of arms|Troms}}
+| [[Tromsø]]
+| [[Bård Magne Pedersen]]
+| 25,862.91
+| 164,613
+|-
+! scope="row" style="text-align: left;" | 20
+| {{Coat of arms|Finnmark}}
+| [[Vadsø]]
+| [[Gunnar Kjønnøy]]
+| 48,631.04
+| 75,886
+|}
+
+==Map==
+[[File:Norway counties.svg]]
+
+==History==
+
+===''Fylke''===
+
+From the consolidation to a single kingdom, [[Norway]] was divided into a number of geographic regions that had its own legislative assembly or [[Thing (assembly)|Thing]], such as [[Gulating]] ([[Western Norway]]) and [[Frostating]] ([[Trøndelag]]). The second-order subdivision of these regions was into ''fylker'', such as ''[[Agder|Egdafylke]]'' and ''[[Hordaland|Hordafylke]]''. In 1914, the historical term ''fylke'' was brought into use again to replace the term [[Amt (administrative division)|amt]] introduced during the [[Kalmar union|union]] with [[Denmark-Norway|Denmark]]. Current day counties (fylker) often, but not necessarily, correspond to the historical areas.
+
+====''Fylke'' in the 10th to 13th centuries====
+{{columns
+|width=350px
+|col1 = 
+Counties (''folkland'') under the [[Borgarting]], located in [[Viken, Norway|Viken]] with the seat at [[Sarpsborg]]:<ref name=bor>{{cite web|url=http://www.domstol.no/DAtemplates/Article.aspx?id=10162&epslanguage=NO|work=Borgarting lagmannsrett|title=Lagting og lagsogn frem til 1797}}</ref>
+*''[[Rånrike]]''
+*''[[Vingulmark]]''
+*''[[Vestfold]]''
+*''[[Grenland]]''
+Counties (first three ''fylke'', last two ''[[Dependent territory|bilandskap]]'') under the [[Eidsivating]], located in [[Oppland|Oplandene]] with the seat at [[Eidsvoll]]:<ref name=bor/>
+*''Raumafylke'' (<small>[[Glåmdalen]], [[Romerike]], [[Solør]]</small>)
+*''Heinafylke'' (<small>[[Gjøvik]], [[Hedmark]]</small>)
+*''Hadafylke'' (<small>[[Hadeland]], [[Land, Norway|Land]], [[Toten]]</small>)
+*''[[Gudbrandsdal]]''
+*''[[Østerdal]]''
+Counties under the [[Gulating]], located in [[Western Norway|Vestlandet]] with the seat at [[Gulen]]:<ref>{{cite web|url=http://www.gulatinget.no/alltingtillagting/|work=Gulatinget|title=Frå lagting til allting}}</ref>
+*''[[Sunnmøre|Sunnmærafylke]]''
+*''Firdafylke'' (<small>[[Nordfjord]], [[Sunnfjord]]</small>)
+*''[[Sogn|Sygnafylke]]''
+*''[[Valdres]] and [[Hallingdal]]''
+*''[[Hordaland|Hordafylke]]''
+*''[[Ryfylke|Rygjafylke]]''
+*''[[Setesdal]]''
+*''[[Agder|Egdafylke]]''
+|col2 =
+Counties under the [[Frostating]], located in [[Trøndelag]] with the seat at [[Frosta]]:
+*''Eynafylke''
+*''Sparbyggjafylke''
+*''[[Verdal|Verdælafylke]]''
+*''Skeynafylke''
+*''[[Orkdalen|Orkdælafylke]]''
+*''[[Gauldalen|Gauldælafylke]]''
+*''[[Stjørdal|Stjordælafylke]]''
+*''Strindafylke''
+*''[[Namdal|Naumdælafylke]]''
+*''[[Nordmøre|Nordmærafylke]]''
+*''[[Romsdal|Romsdælafylke]]''
+Counties not attached to a ''[[Thing (assembly)|thing]]'':
+*''[[Jämtland|Jamtaland]]''
+*''[[Herjedalen]]''
+*''[[Hålogaland|Håløygjafylke]]''
+**''[[Helgeland]]''
+**''[[Salten]]''
+**''[[Lofoten]]'' and ''[[Vesterålen]]''
+**''[[Trondenes]]''
+}}
+[[Finnmark]] (including northern [[Troms]]), the [[Faroe Islands]], the [[Orkney Islands]], [[Shetland]], the [[Hebrides]], [[Isle of Man]], [[Iceland]] and [[Greenland]] were Norwegian ''skattland'' ("tax countries"), and did not belong to any known counties or assembly areas.
+
+===''Syssel''===
+
+====''Syssel'' in 1300====
+From the end of the 12th century, Norway was divided into several ''syssel''. The head of the various ''syssel'' was the ''syslemann'', who represented the king locally. The following shows a reconstruction of the different ''syssel'' in Norway c. 1300, including sub-''syssel'' where these seem established.<ref>Danielsen (et al.), 1991, p. 77</ref>
+{{columns
+|width=290px
+|col1 = 
+*''[[Álfheimr (region)|Elvesysle]]''
+*''[[Rånrike]]''
+*''[[Borgarsyssel|Borgarsysle]]'' (two parts)
+*''[[Romerike]]'' (two parts, "northern" and "southern")
+*''[[Hedmark]]'' (two parts, "northern" and "southern")
+*''[[Østerdalen]]''
+**''"north of Åmot"''
+**''"south of Åmot"''
+*''[[Gudbrandsdalen]]''
+**''"north of Ruste"''
+**''"south of Ruste"''
+*''[[Hadeland]]'' (later ''[[Ringerike (traditional district)|Ringerike]]'', two parts, "northern" and "outer")
+*''[[Valdres]]'' and ''[[Hallingdal]]'' (two parts)
+*''[[Numedal]]'' and ''[[Telemark]]''?
+*''[[Tverrdalane]]'' and ''[[Modum]]''?
+*''[[Oslo]]sysle'' (northern ''lut'' and western ''lut'')
+*''[[Tønsberg]]sysle''
+|col2 =
+*''[[Skien]]sysle''
+*''Eastern part'' (later ''[[Nedenes]]'')
+*''[[Råbyggelaget|Robyggjelag]]''
+*''[[Agder|Agder Midtsysla]]''
+*''[[Lista]]''
+*''[[Ryfylke|Rygjafylke]]''
+**''"north of the fjord"''
+**''"south of the fjord"''
+*''[[Hordaland]]'' (''[[Nordhordland]]''? and ''[[Sunnhordland]]''?)
+*''[[Hardanger]]''
+*''[[Voss]]''
+*''[[Sogn]]'' (two parts?)
+*''[[Sunnfjord]]''
+*''[[Nordfjord]]''
+*''[[Sunnmøre]]''
+*''[[Romsdal]]''
+*''[[Nordmøre]]''?
+**''[[Nordmørafylke]]''
+|col3 =
+*''[[Orkdal]]''
+*''[[Gauldal]]''
+*''[[Strinda]]''
+*''[[Herjedalen]]''
+*''[[Jemtland]]''
+*''[[Stjørdal]]''
+*''[[Skogn]]''
+*''[[Verdal]]''
+*''[[Sparbu]]''
+*''[[Eynafylke]]''
+*''Northern part''? (later ''[[Fosen]]'')
+*''[[Namdalen]]
+**''"upper half"'' (''[[Overhalla]]'')
+**''"lower half'' (later ''[[Njardøy]]'')
+*''[[Hålogaland]]'' (two parts)
+*''[[Troms]]''?
+*''[[Finnmark]]''?
+}}
+
+===''Len''===
+From 1308, the term ''len'' (plural ''len'') in [[Norway]] signified an administrative region roughly equivalent to today's counties. The historic ''len'' was an important administrative entity during the period of [[Denmark-Norway|Dano-Norwegian]] unification after their [[political union|amalgamation]] as one state, which lasted for the period 1536<ref>[[Christian III of Denmark|Christian III]], king of Denmark-Norway, carried out the [[Protestant Reformation]] in Norway in 1536.</ref>&ndash;1814.
+
+At the beginning of the 16th century the political divisions were variable, but consistently included four main ''len'' and approximately 30 smaller sub-regions with varying connections to a main ''len''.  Up to 1660 the four principal ''len'' were headquartered at the major fortresses [[Bohus Fortress]], [[Akershus Fortress]], [[Bergenhus Fortress]] and the fortified city of [[Trondheim]].<ref>{{cite book|author=Kavli, Guthorm|authorlink=Guthorm Kavli|title=Norges festninger|publisher=Universitetsforlaget |year=1987|isbn=82-00-18430-7}}</ref>  The sub-regions corresponded to the church districts for the [[Lutheran]] church in Norway.
+
+====''Len'' in 1536====
+*[[Båhus len]] (later termed [[Bohuslän]] after Denmark-Norway ceded it to [[Sweden]] by the [[Treaty of Roskilde]] in 1658)
+*[[Akershus len]]
+*[[Trondheim len]]
+*[[Bergenhus len]] (which included [[Nord-Norge|Northern Norway]])
+
+These four principal ''len'' were in the 1530s divided into approximately 30 smaller regions. From that point forward through the beginning of the 17th century the number of subsidiary ''len'' was reduced, while the composition of the principal ''len'' became more stable.<ref>[[:no:Len|Len on Norwegian Wiki site]]</ref>
+
+====''Len'' in 1660====
+From 1660 Norway had nine principal ''len'' comprising 17 subsidiary ''len'':   
+{{columns
+|width=220px
+|col1 = 
+*[[Akershus len]]
+*[[Tunsberg len]]
+*[[Bratsberg len]]
+*[[Agdesiden len]]
+*[[Stavanger len]]
+|col2 = 
+*[[Bergenhus len]]
+*[[Trondheim len]]
+*[[Nordlandene len]]
+*[[Vardøhus len]]
+}}
+
+''Len'' written as ''län'' continues to be used as the administrative equivalent of county in Sweden to this day.  Each ''len'' was governed by a ''lenman''.<ref>{{cite book|author=Jesperson, Leon (Ed.)|title=A Revolution from Above? The Power State of 16th and 17th Century Scandinavia |publisher=Odense University Press |year=2000|isbn=87-7838-407-9}}</ref>
+
+===''Amt''===
+With the royal decree of February 19, 1662, each ''len'' was designated an ''amt'' (plural ''amt'') and the ''lenmann'' was titled ''[[amtmann]]'', from German ''Amt'' (office), reflecting the bias of the Danish court of that period.<ref>[[:no:Amt|Amt at Norwegian Wiki site]]</ref>
+
+====''Amt'' in 1671====
+After 1671 Norway was divided into four principal ''amt'' or ''stiftsamt'' and there were nine subordinate ''amt'':
+{{columns
+|width=220px
+|col1 = 
+*[[Akershus amt]]
+**[[Smålenene amt]]
+**[[Brunla amt]]
+*[[Agdesiden amt]]
+**[[Bratsberg amt]]
+**[[Stavanger amt]]
+|col2 =
+*[[Bergenhus amt]]
+**[[Halsnøy klostergods]]
+**[[Hardanger amt]]
+**[[Nordlandene amt]]
+*[[Trondheim amt]]
+**[[Romsdalen amt]]
+**[[Vardøhus amt]]
+}}
+
+====''Amt'' in 1730====
+From 1730 Norway had the following ''amt'':
+{{columns
+|width=220px
+|col1 = 
+*[[Vardøhus amt]]
+*[[Tromsø amt]]
+*[[Nordlands amt]]
+*[[Nordre Trondhjems amt]]
+*[[Søndre Trondhjems amt]]
+*[[Romsdalen amt]]
+*[[Nordre Bergenhus amt]]
+*[[Søndre Bergenhus amt]]
+*[[Stavanger amt]]
+|col2 =
+*[[Lister og Mandals amt]]
+*[[Nedenes amt]]
+*[[Bratsberg amt]]
+*[[Buskerud amt]]
+*[[Oplandenes amt]]
+*[[Hedemarkens amt]]
+*[[Akershus amt]]
+*[[Smaalenenes amt]]
+}}
+
+At this time there were also two counties (grevskap) controlled by actual [[count]]s, together forming what is now [[Vestfold]] county:
+*[[Laurvigen county]]
+*[[Jarlsberg county]]
+
+====''Amt'' in 1760====
+In 1760 Norway had the following ''stiftamt'' and ''amt'':<ref>Danielsen (et al.), 1991, p. 153</ref>
+{{columns
+|width=220px
+|col1 = 
+*[[Akershus stiftamt]]
+**[[Opplands amt]]
+**[[Akershus amt]]
+**[[Smålenenes amt]]
+**[[Laurvigen county]]
+**[[Jarlsberg county]]
+**[[Bratsberg amt]] (eastern half)
+|col2 =
+*[[Agdesiden stiftamt]]
+**Bratsberg amt (western half)
+**[[Nedenes amt]]
+**[[Lister and Mandal amt]]
+**[[Stavanger amt]]
+|col3 =
+*[[Bergenhus stiftamt]]
+**[[Romsdal amt]] (southern half)
+*[[Trondheim stiftamt]]
+**Romsdal amt (northern half)
+**[[Nordlands amt]]
+**[[Vardøhus amt]]
+}}
+
+===''Fylke''===
+From 1919 each ''amt'' was renamed a ''fylke'' (plural ''fylker'') (county) and the ''amtmann'' was now titled ''fylkesmann'' (county governor).
+
+== Responsibilities and significance==
+Every county has two main organisations, both with underlying organisations.
+# The county municipality (no: ''Fylkeskommune'') has a [[County council (Norway)|county council]] (Norwegian: Fylkesting), whose members are elected by the inhabitants. The county municipality is responsible mainly for some medium level schools, public transport organisation, regional road planning, culture and some more areas.
+# The [[County governor (Norway)|county governor]] (no: ''Fylkesmannen'') is an authority directly overseen by the Norwegian government. It surveills the municipalities and receive complaints from people over their actions. It also controls areas where the government needs local direct ruling outside the municipalities.
+
+== See also ==
+*[[Ranked list of Norwegian counties]]
+*[[Municipalities of Norway]]
+*[[Regions of Norway]]
+*[[Districts of Norway|Traditional districts of Norway]]
+*[[Metropolitan regions of Norway]]
+*[[Subdivisions of the Nordic countries]]
+*[[Lists of County Governors of Norway]]
+
+==References==
+
+===Footnotes===
+{{reflist|colwidth=30em}}
+
+===Bibliography===
+*{{cite book|title=Grunntrekk i norsk historie|publisher=Universitetsforlaget|location=Oslo|ISBN=978-82-00-21273-7|edition=1|origyear=1991|year=2007|author1=Danielsen, Rolf |author2=Dyrvik, Ståle |author3=Grønlie, Tore |author4=Helle, Knut |author5=Hovland, Edgar }}
+
+{{Counties of Norway}}
+{{Subdivisions of Norway}}
+{{Articles on first-level administrative divisions of European countries}}
+
+{{DEFAULTSORT:Counties Of Norway}}
+[[Category:Counties of Norway| ]]
+[[Category:Subdivisions of Norway]]
+[[Category:Lists of country subdivisions|Norway, Counties]]
+[[Category:Country subdivisions of Europe|Norway 1]]
+[[Category:First-level administrative country subdivisions|Counties, Norway]]
+[[Category:Norway geography-related lists]]

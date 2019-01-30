@@ -1,0 +1,640 @@
+Cork (city)
+
+{{About|the city in Ireland|the county of the same name|County Cork|other uses|Cork (disambiguation)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox settlement
+ | name                            = Cork
+ | other_name                      =
+ | settlement_type                 = City
+ | native_name                     = ''Corcaigh''
+ | motto                           = ''Statio Bene Fida Carinis''{{spaces|2}}{{small|([[Latin]])}}<br />"A safe harbour for ships"<ref>Or: a trustworthy anchorage for ships. Literally: "a good trust station for keels", adapted by inversion from Virgil's Aeneid (II, 23: ''statio male fida carinis'', "an unsafe harbour"). Sometimes corrupted to "fide".</ref><ref>{{cite web | url = http://www.corkcity.ie/lordmayor/historicalinformation/corkcoatofarms/ | title = Cork City Coat of Arms | publisher = [[Cork City Council]] | access-date = 2016-02-21 | archive-url = https://web.archive.org/web/20150915070432/http://www.corkcity.ie/lordmayor/historicalinformation/corkcoatofarms/ | archive-date = 2015-09-15}}</ref>
+ | image_skyline                   = Cork City Montage Quick Collage of CC Commons Cork Images.jpg
+ | nickname                        = ''The Rebel City'', ''Leeside'', ''The Real Capital''
+ | imagesize                       = 250px
+ | image_caption                   = From top, left to right: City Hall, the [[English Market]], Quadrangle in [[University College Cork|UCC]], [[River Lee (Ireland)|River Lee]], [[Church of St Anne (Shandon)|Shandon Steeple]].
+ | image_flag                      =
+ | flag_size                       =
+ | image_seal                      =
+ | image_shield                    = Corkcitycouncil.png
+ | shield_size                     =
+ | pushpin_map                     = Ireland
+ | coordinates_region              = IE
+ | subdivision_type                = State
+ | subdivision_name                = Ireland
+ | subdivision_type1 = [[Provinces of Ireland|Province]]
+ | subdivision_name1 = [[Munster]]
+ | subdivision_type2 = [[Counties of Ireland|County]]
+ | subdivision_name2 = [[County Cork|Cork]]
+ | government_type                 = [[Cork City Council|City Council]]
+ | leader_title                    = [[Lord Mayor of Cork|Lord Mayor]]
+ | leader_name                     = Chris O'Leary, [[Sinn Féin|SF]]
+ | leader_title1 = [[Local electoral area|LEAs]]
+ | leader_name1 = 6
+ | leader_title2 = [[Dáil Éireann]]
+ | leader_name2 = 
+{{Plainlist|
+* [[Cork North–Central (Dáil Éireann constituency)|Cork North–Central]]
+* [[Cork South–Central (Dáil Éireann constituency)|Cork South–Central]]
+}}
+ | leader_title3 = [[European Parliament]]
+ | leader_name3 = [[South (European Parliament constituency)|South]]
+ | established_title               = Founded
+ | established_date                = 6th century [[Anno Domini|AD]]
+ | established_title2 = City rights
+ | established_date2 = 1185 [[Anno Domini|AD]]
+ | established_title3 =
+ | established_date3 =
+ | area_footnotes                  =
+ | area_magnitude                  =
+ | area_total_km2                  = 37.3
+ | area_total_sq_mi                =
+ | area_land_km2                   =
+ | area_land_sq_mi                 =
+ | area_water_km2                  =
+ | area_water_sq_mi                =
+ | area_water_percent              =
+ | area_urban_km2                  =
+ | area_urban_sq_mi                =
+ | area_metro_km2                  =
+ | area_metro_sq_mi                =
+ | population_as_of                = 2011
+ | population_footnotes            =
+ | population_note                 =
+ | population_total                = 119,230<ref name="2011 census"/>
+ | population_urban                = 198,582<ref>{{cite web |title=Table 7 |work=Census 2011 |publisher=[[Central Statistics Office (Ireland)|Central Statistics Office]] |date= |url=http://www.cso.ie/en/media/csoie/census/documents/census2011vol1andprofile1/Tables,7,and,12.pdf |accessdate=29 March 2015 }}</ref>
+ | population_density_km2          = 3194.18
+ | population_density_sq_mi        =
+ | population_density_urban_km2    =
+ | population_density_urban_sq_mi  =
+ | population_metro                = 399,216<ref name="2011 census">{{cite web |title=Population of each County and City, 2011 |work=Census 2011 |publisher=[[Central Statistics Office (Ireland)|Central Statistics Office]] |year=2011 |url=http://www.cso.ie/multiquicktables/quickTables.aspx?id=cna23 |accessdate=29 March 2015 }}</ref>
+ | population_density_metro_km2    =
+ | population_density_metro_sq_mi  =
+ | population_blank1_title         = Demonym
+ | population_blank1 = Corkonian, Leesider
+ | population_density_blank1_km2   =
+ | population_density_blank1_sq_mi =
+ | population_blank2_title         =
+ | population_blank2 =
+ | population_density_blank2_km2   =
+ | population_density_blank2_sq_mi =
+ | timezone                        = [[Western European Time|WET]]
+ | utc_offset                      = 0
+ | timezone_DST                    = [[Irish Standard Time|IST]]
+ | utc_offset_DST                  = +1
+ | latd  = 51  | latm  = 53  | lats  = 50 | latNS  = N
+ | longd = 8  | longm = 28  | longs = 12 | longEW = W
+ | elevation_footnotes             =
+ | elevation_m                     =
+ | elevation_ft                    =
+ | postal_code_type                = Eircode
+ | postal_code                     = T21 and T23
+ | area_code                       = 021
+ | website                         = [http://www.corkcity.ie www.corkcity.ie]
+ | blank_name                      = [[Vehicle registration plates of Ireland|Vehicle index<br />mark code]]
+ | blank_info                      = C
+}}
+
+'''Cork''' ({{IPAc-en|k|ɔr|k}} {{Irish place name|Corcaigh|no_translate=yes}}, {{IPA-ga|ˈkoɾkɪɟ|pron}}, from ''corcach'', meaning "marsh") is a [[City status in Ireland|city in Ireland]], located in the [[South-West Region, Ireland|South-West Region]], in the [[Provinces of Ireland|province]] of [[Munster]]. It has a population of 119,230,<ref>[http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/saveselections.asp Census of Ireland, 2011.] ''[[Central Statistics Office (Ireland)|Central Statistics Office]]'', "Actual and Percentage Change in Population by Aggregate Town or Rural Area, Sex, Province County or City, Statistical Indicator and Census Year"</ref> and is the [[List of towns in the Republic of Ireland by population|second largest]] city in the state and the [[City status in Ireland|third most populous]] on the [[Ireland|island of Ireland]]. The greater  [[Metropolitan Cork|Metropolitan Cork area]] (which includes a number of satellite towns and suburbs) has a population exceeding 300,000.<ref>{{cite report |url= http://www.corkcity.ie/casp/strategicplan/Final_CASP_Strategy_Update_opt.pdf |page= 2 | title=Cork Area Strategic Plan – Strategy for Additional Economic and Population Growth - An Update |date= 2008 |publisher= Indecon International Economic Consultants }}</ref> In 2005, the city was selected as the [[European Capital of Culture]].
+
+The city is built on the [[River Lee (Ireland)|River Lee]] which splits into two channels at the western end of the city; the city centre is divided by these channels. They reconverge at the eastern end where the [[quay]]s and [[Dock (maritime)|docks]] along the river banks lead outwards towards [[Mahon, Cork|Lough Mahon]] and [[Cork Harbour]], one of the world's largest natural harbours.<ref>{{cite web|url=http://www.rte.ie/tv/theharbour/abouttheshow.html |title=RTÉ Television – The Harbour |publisher=Rte.ie |accessdate=12 August 2010}}</ref><ref>{{cite web|url=http://cmrc.ie/projects/cork-harbour-birds-atlas.html |title=Coastal & Marine Resources Centre – Cork Harbour Marine Life Research Project Report |publisher=Cmrc.ucc.ie |accessdate=12 August 2010}}</ref>
+
+The city's [[cognomen]] of "the rebel city" originates in its support for the [[Yorkist]] cause during the [[Kingdom of England|English]] [[War of the Roses]].<ref>{{citation|title=The Penguin encyclopedia of places|author=John Paxton|edition=3|publisher=Penguin|year=2000|isbn=978-0-14-051275-5}}</ref> Corkonians often refer to the city as "the real capital"<ref>{{cite news|url=http://www.irishtimes.com/opinion/cork-s-small-problem-the-real-issue-for-the-real-capital-is-its-size-1.2166483 |title=Cork’s small problem: the real issue for the real capital is its size |publisher=Irishtimes.com |date=2015-04-07 |accessdate=2015-11-17}}</ref> in reference to the city's role as the centre of [[Irish Civil War#2.2 The opposing forces|anti-treaty]] forces during the [[Timeline of the Irish Civil War|Irish Civil War]].{{citation needed|date=January 2014}}
+
+== History ==
+{{Main|History of Cork}}
+Cork was originally a monastic settlement, reputedly founded by [[Saint Finbarr]] in the 6th century.<ref>{{cite book
+  | last = Ó Riain
+  | first = Pádraig
+  | title = Beatha Bharra (Saint Finbarr of Cork: the Complete Life)
+  | publisher = Irish Texts Society
+  | year = 1994
+  | isbn = 1-870166-57-4 }}</ref> Cork achieved an urban character at some point between 915 and 922 when [[Norseman]] ([[Viking]]) settlers founded a trading port.<ref>{{cite book
+  | last = Moody
+  | first = TW
+  | author2 = Martin, FX | author3 = Byrne, FJ | author4 = Cosgrove, A | author5 = Ó Cróinín, D
+  | title = A New History of Ireland
+  | publisher = Oxford University Press
+  | year = 1976
+  | isbn = 0-19-821737-4 }}</ref> It has been proposed that, like Dublin, Cork was an important trading centre in the global Scandinavian trade network.<ref>''Irish Civilization: An Introduction'', Arthur Aughey and John Oakland,
+Routledge, 2013, p. 69</ref> The ecclesiastical settlement continued alongside the Viking ''longphort'', with the two developing a type of symbiotic relationship; the Norsemen providing otherwise unobtainable trade goods for the monastery, and perhaps also military aid.<ref>{{cite book|author1=Michael A. Monk |author2=John Sheehan |date=1998|title=Early Medieval Munster: Archaeology, History and Society|publisher=Cork University Press|page=172}}</ref>
+
+[[File:DV405 no.277 Cork.png|thumb|left|Corner of [[Grand Parade, Cork|Grand Parade]] and [[South Mall, Cork|South Mall]], Cork, c.1830]]
+The city's charter was granted by [[King John of England|Prince John]], as [[Lord of Ireland]], in 1185.<ref>{{cite web|title=Your Council " Charters|url=http://www.corkcity.ie/yourcouncil/charters/|publisher=Cork City Council|accessdate=19 August 2012}}</ref> The city was once fully walled, and some wall sections and gates remain today.<ref>{{cite web|url=http://www.corkcity.ie/aboutcork/historyofcork/thewallsofcork/ |title=Cork City Council website – History – Walls of Cork |publisher=Corkcity.ie |accessdate=12 August 2010}}</ref> For much of the Middle Ages, Cork city was an outpost of [[Old English (Ireland)|Old English]] culture in the midst of a predominantly hostile [[Gaels|Gaelic]] countryside and cut off from the English government in [[the Pale]] around [[Dublin]]. Neighbouring Gaelic and [[Hiberno-Norman]] lords extorted "Black Rent" from the citizens to keep them from attacking the city. The present extent of the city has exceeded the medieval boundaries of the [[Barony of Cork City]]; it now takes in much of the neighbouring [[Barony of Cork]]. Together, these [[Barony (Ireland)|baronies]] are located between the [[Barony of Barrymore]] to the east, [[Muskerry East]] to the west and Kerrycurrihy to the south.
+
+The city's municipal government was dominated by about 12–15 merchant families, whose wealth came from overseas trade with continental Europe — in particular the export of wool and hides and the import of salt, iron and wine.
+The medieval population of Cork was about 2,100 people. It suffered a severe blow in 1349 when almost half the townspeople died of plague when the [[Black Death]] arrived in the town. In 1491, Cork played a part in the English [[Wars of the Roses]] when [[Perkin Warbeck]] a pretender to the English throne, landed in the city and tried to recruit support for a plot to overthrow [[Henry VII of England]]. The then mayor of Cork and several important citizens went with Warbeck to England but when the rebellion collapsed they were all captured and executed.
+The title of [[Lord Mayor of Cork|Mayor of Cork]] was established by [[royal charter]] in 1318, and the title was changed to ''Lord Mayor'' in 1900 following the knighthood of the incumbent Mayor by [[Victoria of the United Kingdom|Queen Victoria]] on her [[Royal visit]] to the city.<ref>{{cite web|url=http://www.corkcity.ie/yourcouncil/charters/ |title=Charters issued to Cork city |publisher=Cork City Council |accessdate=19 October 2010 }}</ref>
+
+[[File:Patrick Street Cork2.jpg|thumb|Patrick Street c.1890–1900.]]
+Since the nineteenth century, Cork had been a strongly [[Irish nationalist]] city, with widespread support for [[Third Home Rule Act|Irish Home Rule]] and the [[Irish Parliamentary Party]], but from 1910 stood firmly behind [[William O'Brien]]'s dissident [[All-for-Ireland League|All-for-Ireland Party]]. O'Brien published a third local newspaper, the [[Cork Free Press]].
+
+In the [[Irish War of Independence|War of Independence]], the centre of Cork was burnt down by the British [[Black and Tans]],<ref name="burning">{{cite web|url=http://www.corkpastandpresent.ie/history/historyofcorkcity/early20thcentury/theburningofcork/ |title=Cork City Library – History of Cork – The Burning of Cork |publisher=Corkpastandpresent.ie |date=11 December 1920 |accessdate=12 August 2010}}</ref> and the city saw fierce fighting between Irish guerrillas and UK forces. During the [[Irish Civil War]], Cork was for a time held by anti-[[Anglo-Irish Treaty|Treaty]] forces, until it was retaken by the pro-Treaty [[Irish Army|National Army]] in an attack from the sea.
+
+==Climate==
+The climate of Cork, like the rest of Ireland, is mild and changeable with abundant rainfall and a lack of temperature extremes. Cork lies in plant [[Hardiness zone]]
+9b. [[Met Éireann]] maintains a climatological weather station at [[Cork Airport]],<ref name="met2003">{{cite web|url=http://www.met.ie/publications/met_ar2003.pdf |title=Met Éireann – Annual Report 2003 |format=PDF |accessdate=12 August 2010}}</ref> a few kilometres south of the city. It should be noted that the airport is at an altitude of {{convert|151|m|ft}} and temperatures can often differ by a few degrees between the airport and the city itself. There are also smaller synoptic weather stations at [[University College Cork|UCC]] and Clover Hill.<ref name="met2003"/>
+
+Temperatures below {{convert|0|°C|°F}} or above {{convert|25|°C|°F}} are rare. Cork Airport records an average of {{convert|1227.9|mm|ft}} of [[Precipitation (meteorology)|precipitation]] annually, most of which is rain.<ref name="met30">{{cite web|url=http://www.met.ie/climate/corkairport.asp |title=Met Éireann – The Irish Weather Service – 30 Year Averages – Cork Airport |publisher=Met.ie |accessdate=12 August 2010}}</ref> The airport records an average of 7 days of hail and 11 days of snow or sleet a year; though it only records lying snow for 2 days of the year. The low altitude of the city, and moderating influences of the harbour, mean that lying snow very rarely occurs in the city itself. There are on average 204 "rainy" days a year (over {{convert|0.2|mm|in}} of rainfall), of which there are 73 days with "heavy rain" (over {{convert|5|mm|in}}).<ref name="met30"/> Cork is also a generally foggy city, with an average of 97 days of fog a year, most common during mornings and during winter. Despite this, however, Cork is also one of Ireland's sunniest cities, with an average of 3.9 hours of sunshine every day and only having 67 days where there is no "recordable sunshine", mostly during and around winter.<ref name="met30"/>
+
+{{Weather box
+|location = Cork Airport (1981–2010, extremes 1961–present)
+|metric first = Yes
+|single line = Yes
+|collapsed = Yes
+|Jan record high C = 16.1
+|Feb record high C = 14.0
+|Mar record high C = 15.7
+|Apr record high C = 21.2
+|May record high C = 23.6
+|Jun record high C = 27.5
+|Jul record high C = 28.7
+|Aug record high C = 28.0
+|Sep record high C = 24.7
+|Oct record high C = 21.4
+|Nov record high C = 16.2
+|Dec record high C = 13.8
+|year record high C = 28.7
+|Jan high C = 8.2
+|Feb high C = 8.3
+|Mar high C = 9.9
+|Apr high C = 11.8
+|May high C = 14.4
+|Jun high C = 17.0
+|Jul high C = 18.7
+|Aug high C = 18.5
+|Sep high C = 16.5
+|Oct high C = 13.2
+|Nov high C = 10.3
+|Dec high C = 8.5
+|year high C = 12.9
+|Jan mean C = 5.6
+|Feb mean C = 5.7
+|Mar mean C = 6.9
+|Apr mean C = 8.4
+|May mean C = 10.9
+|Jun mean C = 13.5
+|Jul mean C = 15.3
+|Aug mean C = 15.2
+|Sep mean C = 13.3
+|Oct mean C = 10.5
+|Nov mean C = 7.8
+|Dec mean C = 6.1
+|year mean C = 9.9
+|Jan low C = 3.0
+|Feb low C = 3.1
+|Mar low C = 4.0
+|Apr low C = 4.9
+|May low C = 7.4
+|Jun low C = 10.0
+|Jul low C = 11.8
+|Aug low C = 11.8
+|Sep low C = 10.2
+|Oct low C = 7.7
+|Nov low C = 5.2
+|Dec low C = 3.7
+|year low C = 6.9
+|Jan record low C = -8.5
+|Feb record low C = -8.6
+|Mar record low C = -6.1
+|Apr record low C = -2.4
+|May record low C = -0.9
+|Jun record low C = 2.4
+|Jul record low C = 4.8
+|Aug record low C = 4.9
+|Sep record low C = 2.3
+|Oct record low C = -0.4
+|Nov record low C = -3.3
+|Dec record low C = -7.2
+|year record low C = -8.6
+|precipitation colour = green
+|Jan precipitation mm = 131.4
+|Feb precipitation mm = 97.8
+|Mar precipitation mm = 97.6
+|Apr precipitation mm = 76.5
+|May precipitation mm = 82.3
+|Jun precipitation mm = 80.9
+|Jul precipitation mm = 78.8
+|Aug precipitation mm = 96.8
+|Sep precipitation mm = 94.6
+|Oct precipitation mm = 138.2
+|Nov precipitation mm = 120.0
+|Dec precipitation mm = 133.1
+|year precipitation mm = 1227.9
+|time day = 15:00 [[Standard time|LST]]
+|Jan humidity = 83.7
+|Feb humidity = 78.9
+|Mar humidity = 75.5
+|Apr humidity = 71.3
+|May humidity = 70.9
+|Jun humidity = 71.5
+|Jul humidity = 72.9
+|Aug humidity = 72.8
+|Sep humidity = 75.4
+|Oct humidity = 80.4
+|Nov humidity = 83.4
+|Dec humidity = 85.4
+|year humidity = 76.8
+|unit precipitation days = 0.2 mm
+|Jan precipitation days = 20
+|Feb precipitation days = 17
+|Mar precipitation days = 19
+|Apr precipitation days = 16
+|May precipitation days = 15
+|Jun precipitation days = 14
+|Jul precipitation days = 15
+|Aug precipitation days = 15
+|Sep precipitation days = 16
+|Oct precipitation days = 19
+|Nov precipitation days = 19
+|Dec precipitation days = 19
+|year precipitation days = 204
+|Jan snow days = 3.1
+|Feb snow days = 3.1
+|Mar snow days = 2.0
+|Apr snow days = 0.7
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.0
+|Nov snow days = 0.3
+|Dec snow days = 2.2
+|year snow days = 11.3
+|Jan sun = 55.8
+|Feb sun = 67.8
+|Mar sun = 102.3
+|Apr sun = 159.0
+|May sun = 192.2
+|Jun sun = 174.0
+|Jul sun = 167.4
+|Aug sun = 161.2
+|Sep sun = 129.0
+|Oct sun = 93.0
+|Nov sun = 69.0
+|Dec sun = 52.7
+|year sun = 
+|source 1 = Met Éireann<ref name=averages>{{cite web
+| url = http://www.met.ie/climate-ireland/1981-2010/cork.html
+| title = Cork 1981–2010 averages
+| publisher = [[Met Éireann]]
+| accessdate = 27 May 2015}}</ref><ref name=absmax>{{cite web
+| url = http://www.met.ie/climate-ireland/extreme_maxtemps.pdf
+| title = Absolute Maximum Air Temperatures for each Month at Selected Stations
+| publisher = [[Met Éireann]]
+| accessdate = 27 May 2015}}</ref><ref name=absmin>{{cite web
+| url = http://www.met.ie/climate-ireland/extreme-mintemps.pdf
+| title = Absolute Minimum Air Temperatures for each Month at Selected Stations
+| publisher = [[Met Éireann]]
+| accessdate = 27 May 2015}}</ref>
+|date=June 2012
+}}
+
+==Culture==
+[[File:Glucksman gallery.jpg|thumb|The [[Lewis Glucksman Gallery]] at UCC.]]
+The [[Cork School of Music]] and the [[Crawford College of Art and Design]] provide a throughput of new blood, as do the active theatre components of several courses at University College Cork (UCC). Highlights include: [[Corcadorca Theatre Company]], of which [[Cillian Murphy]] was a troupe member<ref>{{cite web|url=http://www.imdb.com/name/nm0614165/otherworks|title=Cillian Murphy - Other works|work=IMDb}}</ref> prior to Hollywood fame; the Institute for Choreography and Dance, a national contemporary dance resource;{{citation needed|date=January 2014}} the Triskel Arts Centre (capacity c.90), which includes the Triskel Christchurch independent cinema; dance venue the Firkin Crane (capacity c.240); the Cork Academy of Dramatic Art (CADA) and Graffiti Theatre Company;<ref>{{cite web|url=http://graffiti.ie/about |title=About the Graffiti Theatre Company |publisher=graffiti.ie |accessdate=17 October 2010}}</ref> and the [[Cork Jazz Festival]], [[Cork Film Festival]],<ref>{{cite web|url=http://www.corkfilmfest.org/ |title=Cork Film Festival Website |publisher=Corkfilmfest.org |accessdate=12 August 2010}}</ref> and [[Live at the Marquee (festival)|Live at the Marquee]] events. The [[Everyman Palace Theatre]] (capacity c.650) and the Granary Theatre (capacity c.150) both play host to dramatic plays throughout the year.
+
+Cork is home to the [[RTÉ Vanbrugh Quartet]], and to many musical acts, including [[John Spillane]], [[The Frank And Walters]], [[Sultans of Ping]], [[Simple Kid]], [[Microdisney]], [[Fred (band)|Fred]], [[Mick Flannery]] and the late [[Rory Gallagher]]. Singer songwriter [[Cathal Coughlan (singer)|Cathal Coughlan]] and [[Sean O'Hagan]] of [[The High Llamas]] also hail from Cork. The opera singers Cara O'Sullivan, Mary Hegarty, Brendan Collins, and Sam McElroy are also Cork born. Ranging in capacity from 50 to 1,000, the main music venues in the city are the [[Cork Opera House]] (capacity c.1000), Cyprus Avenue, Triskel Christchurch, the Roundy, the Savoy and Coughlan's.{{citation needed|date=January 2014}} Cork's underground scene is supported by [[Plugd Records]].{{citation needed|date=January 2014}}
+
+The city's literary community centres on the Munster Literature Centre and the Triskel Arts Centre.{{Citation needed|date=October 2010}} The short story writers [[Frank O'Connor]] and [[Sean O'Faoláin]] hailed from Cork, and contemporary writers include [[Thomas McCarthy (poet)|Thomas McCarthy]], [[Gerry Murphy (poet)|Gerry Murphy]], and novelist and poet [[William Wall (writer)|William Wall]].
+
+[[File:The English Market, Cork.jpg|thumb|left|upright|The [[English Market]] in Cork.]]
+Cork has been culturally diverse for many years, from Huguenot communities in the 17th century, through to Eastern European communities and a smaller numbers from African and Asian nations in the 20th and 21st centuries.<ref>{{cite web|last=Hayes |first=Brian |url=http://corkindependent.com/stories/item/4181/2011-35/Cork%E2%80%99s-diversity-a-cause-for-celebration |title=Cork's diversity a cause for celebration – News |publisher=Cork Independent |accessdate=26 March 2013}}</ref> This is reflected in the multi-cultural restaurants and shops, including specialist shops for East-European or Middle-Eastern food, Chinese and Thai restaurants, French patisseries, Indian buffets, and Middle Eastern kebab houses. Cork saw some Jewish immigration from Lithuania and Russia in the late 19th century. Jewish citizens such as [[Gerald Goldberg]] (several times Lord Mayor), [[David Marcus]] (novelist) and [[Louis Marcus]] (documentary maker) played notable roles in 20th century Cork. Today, the Jewish community is relatively small in population, although the city still has a Jewish quarter and synagogue.<ref>{{cite web|url=http://www.corkhebrewcongregation.com |title=Information about the Jewish community in Cork |publisher=Corkhebrewcongregation.com |accessdate=12 August 2010}}</ref> Cork also features various Christian churches, as well as a mosque. Some Catholic masses around the city are said in [[Polish language|Polish]], [[Filipino language|Filipino]], [[Lithuanian language|Lithuanian]], [[Romanian language|Romanian]] and other languages,<ref>{{cite web|author=Ruth Egan |url=http://www.corkandross.org/html/socialservices/immigration.jsp#polish |title=– Mass Times for Polish Community in Diocese of Cork and Ross |publisher=Corkandross.org |accessdate=12 August 2010}}</ref> in addition to the traditional Latin and local Irish<ref>Mass noticeboard, Church of Saints Peter and Paul, Paul Street, Cork</ref> and English language services.
+
+More recent additions to the arts infrastructure include modern additions to Cork Opera House and the [[Crawford Municipal Art Gallery]]. The [[Lewis Glucksman Gallery]] opened in the Autumn of 2004 at UCC, was nominated for the [[Stirling Prize]] in the United Kingdom, and the building of a new €60&nbsp;million School of Music was completed in September 2007.
+
+Cork was the [[European Capital of Culture]] for 2005, and in 2009 was included in the [[Lonely Planet]]'s top 10 "Best in Travel 2010". The guide described Cork as being "at the top of its game: sophisticated, vibrant and diverse".<ref>{{cite news | title = Cork enters 'Lonely Planet' guide as top 10 place to visit | publisher = Irish Times | url = http://www.irishtimes.com/newspaper/ireland/2009/1103/1224257963102.html | accessdate = 9 February 2010 | date=11 November 2009}}</ref>
+
+There is a rivalry between Cork and Dublin, similar to the rivalry between London and Manchester, Sydney and Melbourne or Madrid and Barcelona. Some Corkonians view themselves as different from the rest of Ireland, and refer to themselves as "The Rebels"; the county is known as the [[Rebel County]]. This view has in recent years manifested itself in humorous references to the ''Real Capital'' and the sale of T-shirts with light-hearted banners celebrating ''The People's Republic of Cork''.
+
+===Food===
+The city has many local traditions in food, including ''[[crubeens]]'', ''[[tripe]] and [[drisheen]]''. Cork's [[English Market]] sells locally produced foods, including fresh fish, meats, fruit and vegetables, eggs and artisan cheeses and breads. During certain city festivals, food stalls are also sometimes erected on city streets such as [[St. Patrick's Street]] or [[Grand Parade, Cork|Grand Parade]].<ref>{{cite web|url=http://www.corkmidsummer.com/2010/events/feasta |title=Cork Midsummer Festival 2010 – Feasta Food Fair |publisher=Corkmidsummer.com |date=27 June 2010 |accessdate=12 August 2010}}</ref>
+
+===Accent===
+The Cork accent, part of the Southwest dialect of [[Hiberno-English]], displays various features which set it apart from other accents in Ireland. Patterns of tone and intonation often rise and fall, with the overall tone tending to be more high-pitched than other Irish accents. English spoken in Cork has a number of dialect words that are peculiar to the city and environs. Like standard [[Hiberno-English]], some of these words originate from the Irish language, but others through other languages Cork's inhabitants encountered at home and abroad.<ref>{{cite web|url=http://dialectblog.com/2011/02/21/dialect-profile-the-cork-accent/ |title=Dialect Profile: The Cork Accent |publisher=Dialect Blog |date=21 February 2011 |accessdate=26 March 2013}}</ref> The Cork accent displays varying degrees of [[rhoticity in English|rhoticity]], usually depending on the social-class of the speaker.
+
+==Media==
+
+===Broadcasting===
+The city's [[FM broadcasting|FM radio]] band features [[RTÉ Radio 1]], [[RTÉ 2fm]], [[RTÉ lyric fm]], [[RTÉ Raidió na Gaeltachta]], [[Today FM]], [[4fm]], [[Newstalk]] and the religious station Spirit Radio. There are also local stations such as [[Cork's 96FM]], [[Red FM (Ireland)|Cork's Red FM]], [[103FM County Sound|C103]], CUH 102.0FM, UCC 98.3FM (formerly Cork Campus Radio 97.4fm)<ref>{{cite web|url=http://www.ucc.ie/ccr/ |title=Cork Campus Radio |publisher=Ucc.ie |accessdate=12 August 2010}}</ref> and Christian radio station Life 93.1FM.<ref>{{cite web |url=http://www.lifefm.ie/live/ |title=Life 93.1 FM, Cork |publisher=lifefm.ie |year=2011 |accessdate=11 December 2011}}</ref> Cork also has a temporary licensed city-wide community station 'Cork FM Community Radio' on 100.5FM, which is currently on-air on Saturdays and Sundays only. Cork has also been home to [[pirate radio]] stations, including South Coast Radio and ERI in the 1980s. Today some small pirates stations remain. A number of neighbouring counties radio stations can be heard in parts of Cork City including [[Radio Kerry]] at 97.0 and [[WLR FM]] on 95.1.
+
+[[Raidió Teilifís Éireann|RTÉ Cork]] has television and radio studios, and production facilities at its centre in Father Matthew Street in the city centre.
+
+===Print===
+Cork is home to one of Ireland's main national newspapers, the ''[[Irish Examiner]]'' (formerly the ''Cork Examiner''). It also prints the ''[[Evening Echo]]'', which for decades has been connected to the Echo Boys, who were poor and often homeless children who sold the newspaper. Today, the shouts of the vendors selling the Echo can still be heard in various parts of the city centre. One of the biggest free newspapers in the city is the ''[[Cork Independent (newspaper)|Cork Independent]]''.<ref>{{cite web|url=http://corkindependent.com/|title=Cork Independent|work=Cork Independent}}</ref> The city's University publishes the ''UCC Express''<ref>{{cite web|url=http://collegenews.ie/index.php/advertise-in-the-ucc-express/ |title=Advertise in The UCC Express |publisher=CollegeNews.ie |accessdate=26 March 2013}}</ref> and ''Motley'' magazine.<ref>uccmotley.ie</ref>
+
+==Places of interest==
+{{further|List of public art in Cork City}}
+[[File:Resurrection Angel St Fin Barre's Cathedral.jpg|thumb|upright|The Angel of the Resurrection, St. Finbarre's Cathedral.]]
+Cork features architecturally notable buildings originating from the Medieval to Modern periods.<ref>{{cite web|url=http://www.enfo.ie/leaflets/bs31.htm|archiveurl=https://web.archive.org/web/20080517064035/http://www.enfo.ie/leaflets/bs31.htm|title=Medieval Cork|archivedate=17 May 2008|work=enfo.ie}}</ref> The only notable remnant of the Medieval era is the [[Red Abbey, Cork|Red Abbey]]. There are two cathedrals in the city; [[St. Mary's Cathedral, Cork|St. Mary's Cathedral]] and [[Saint Fin Barre's Cathedral]]. St Mary's Cathedral, often referred to as the North Cathedral, is the [[Catholic Church|Catholic]] cathedral of the city and was begun in 1808. Its distinctive tower was added in the 1860s. St Fin Barre's Cathedral serves the Protestant faith and is possibly the more famous of the two. It is built on the foundations of an earlier cathedral. Work began in 1862 and ended in 1879 under the direction of architect [[William Burges]].
+
+[[St. Patrick's Street]], the main street of the city which was remodelled in the mid-2000s, is known for the architecture of the buildings along its pedestrian-friendly route and is the main shopping thoroughfare. It is dominated at its north end by the landmark statue of [[Theobald Mathew (temperence reformer)|Father Mathew]]. The reason for its curved shape is that it originally was a channel of the [[River Lee (Ireland)|River Lee]] that was built over on arches.<ref>{{cite web|url=http://www.corkpastandpresent.ie/places/stpatricksstreet/historicoutline/ |title=Cork City Library – History of Cork – St Patrick's Street – Historic Outline |publisher=Corkpastandpresent.ie |accessdate=12 August 2010}}</ref> The General Post Office, with its limestone façade, is on Oliver Plunkett Street, on the site of the Theatre Royal which was built in 1760 and burned down in 1840. The English circus proprietor [[Pablo Fanque]] rebuilt an amphitheatre on the spot in 1850, which was subsequently transformed into a theatre and then into the present General Post Office in 1877.<ref>{{cite book|author=J.W. Flynn|url=https://books.google.com/?id=a_w_AAAAYAAJ&lpg=PA7&dq=%2B%22general%20post%20office%22%20%2Bcork%20%2Bfanque&pg=PA7#v=onepage&q=+%22general%20post%20office%22%20+cork%20+fanque&f=false
+|title=The random recollections of an old playgoer: A sketch of some old Cork theatres
+|publisher=Guy & Co.
+|year=1890
+|accessdate=28 June 2011
+}}</ref>
+<ref>{{cite web|author=Cork City Council
+|url=http://www.corkpastandpresent.ie/places/stpatricksstreet/selectedbuildings/generalpostoffice/
+|title=Cork Past & Present: Cork's history, culture, places, people, and events
+|publisher=www.corkpastandpresent.ie
+|accessdate=28 June 2011
+}}</ref>
+The [[Grand Parade, Cork|Grand Parade]] is a tree-lined avenue, home to offices, shops and financial institutions. The old financial centre is the South Mall, with several banks whose interior derive from the 19th century, such as the [[Allied Irish Bank]]'s which was once an exchange.
+
+[[File:CorkCountyHall.JPG|thumb|upright|left|[[Cork County Hall]] was Ireland's tallest building for a time and is located on the western side of the city]]
+Many of the city's buildings are in the [[Georgian architecture|Georgian style]], although there are a number of examples of modern landmark structures, such as [[Cork County Hall|County Hall]] tower, which was, at one time the [[List of tallest buildings and structures in Ireland#Storeyed buildings|tallest building in Ireland]]<ref>{{cite web|url=http://www.corkcoco.ie/co/web/Cork%20County%20Council/About%20Us/County%20Hall |title=Cork County Council – About the "County Hall" |publisher=Corkcoco.ie |date=12 June 1981 |accessdate=12 August 2010}}</ref> until being superseded by another Cork City building: [[The Elysian]]. Outside the County Hall is the landmark sculpture of two men, known locally as 'Cha and Miah'. Across the river from County Hall is Ireland's longest building; built in [[Victorian era|Victorian]] times, Our Lady's Psychiatric Hospital has now been renovated and converted into a residential housing complex called Atkins Hall, after its architect [[William Atkins (architect)|William Atkins]].
+
+Cork's most famous building is the [[Church of St Anne (Shandon)|church tower of Shandon]], which dominates the North side of the city. It is widely regarded as the symbol of the city. The North and East sides are faced in red sandstone, and the West and South sides are clad in the predominant stone of the region, white limestone. At the top sits a weather vane in the form of an eleven-foot salmon.<ref>{{cite web|url=http://www.shandonbells.ie/ |title=Church of St. Anne Shandon |publisher=Shandonbells.ie |accessdate=12 August 2010}}</ref>
+
+[[Cork City Hall]], another notable building of limestone, replaced the previous one which was destroyed by the [[Black and Tans]] during the War of Independence in an event known as the "[[The Burning of Cork|Burning of Cork]]".<ref name="burning"/> The cost of this new building was provided by the UK Government in the 1930s as a gesture of reconciliation.<ref>{{cite web|url=http://www.citymayors.com/cityhalls/cork-cityhall.html |title=Cork City Hall |publisher=City Mayors |accessdate=12 August 2010}}</ref>
+
+[[File:St finbarres cathedral1.jpg|thumb|upright|[[Saint Finbarre's Cathedral|St Finbarre's Cathedral]]]]
+Other notable places include [[Elizabeth Fort]], the [[Cork Opera House]], Christ Church on South Main Street (now the Triskel Arts Centre and original site of early Hiberno-Norse church), St Mary's Dominican Church on Popes Quay and Fitzgerald's Park to the west of the city, which contains the [[Cork Public Museum]]. Other popular tourist attractions include the grounds of [[University College Cork]], through which the River Lee flows, the angling lake known as [[The Lough, Cork|The Lough]], the Women's Gaol at Sundays Well (now a heritage centre) and the [[English Market]]. This covered market traces its origins back to 1610, and the present building dates from 1786.<ref>{{cite web|url=http://www.discoverireland.ie/DI/resultsengine/IndividualResultTCS.aspx?touristItemID=45349&type=Activity&LocationID=6&SearchString=english+mar&FromDate=&ToDate=&SearchByDate=0&CategoryID=931&LocationName=All+towns&CountyID=6&Radius=1000&rbSelect=&SortBy=1&SubCategoryID=931|title=English Market - Activities - Shopping - Food Markets - All Ireland - Republic of Ireland - Cork - Cork City - Discover Ireland|author=Website design and development Tibus|work=discoverireland.ie}}</ref>
+
+Up until April 2009, there were also two large commercial breweries in the city. The [[Beamish and Crawford]] on South Main Street closed in April 2009 and transferred production to the [[Murphy's Irish Stout|Murphy's]] brewery in Lady's Well. This brewery also produces Heineken for the Irish market. There is also the Franciscan Well brewery, serving the local market with a variety of lagers, ales and stouts. In May 2008 it was awarded as the "Best Microbrewery in Ireland" by Food and Wine Magazine.
+
+==Local government and politics==
+[[File:Halla na Cathrach i gCorcaigh.jpg|left|thumb|Cork City Hall reflecting off the River Lee. The Elysian Tower, Ireland's tallest building, can be seen in the background.]]
+{{Historical populations|state=collapsed
+
+|1659|4826
+|1813|64394
+|1821|100658
+|1831|107016
+|1841|80720
+|1851|82625
+|1861|79594
+|1871|78642
+|1881|80124
+|1891|75345
+|1901|76122
+|1911|76673
+|1926|78490
+|1936|93322
+|1946|89877
+|1951|112009
+|1956|114428
+|1961|115689
+|1966|125283
+|1971|134430
+|1979|138267
+|1981|136344
+|1986|133271
+|1991|127253
+|1996|127187
+|2002|123062
+|2006|119418
+|2011|118912
+||footnote=<ref>For 1653 and 1659 figures from Civil Survey Census of those years, Paper of Mr Hardinge to Royal Irish Academy 14 March 1865.</ref><ref>{{cite web|url=http://www.cso.ie/census |title=Census for post 1821 figures |publisher=Cso.ie |accessdate=12 August 2010}}</ref><ref>{{cite web|url=http://www.histpop.org |title=Home |publisher=Histpop.Org |date=2 April 2007 |accessdate=12 August 2010}}</ref><ref>{{cite web|author=NISRA |url=http://www.nisranew.nisra.gov.uk/census |title=Northern Ireland Statistics and Research Agency – Census Home Page |publisher=Nisranew.nisra.gov.uk |accessdate=12 August 2010}}</ref><ref>{{cite book
+|last=Lee
+|first=JJ
+|editor-last=Goldstrom
+|editor-first=J. M.
+|editor2-last=Clarkson
+|editor2-first=L. A.
+|title=Irish Population, Economy, and Society: Essays in Honour of the Late K. H. Connell
+|year=1981
+|publisher=Clarendon Press
+|location=Oxford, England
+|chapter=On the accuracy of the Pre-famine Irish censuses
+}}</ref><ref>{{Cite journal
+  | last = Mokyr
+  | first = Joel
+  | author-link = Joel Mokyr
+  | last2 = O Grada
+  | first2 = Cormac
+  | author2-link =
+  | title = New Developments in Irish Population History, 1700–1850
+  | journal = The Economic History Review
+  | volume = 37
+  | issue = 4
+  | pages = 473–488
+  |date=November 1984
+  | url = http://www3.interscience.wiley.com/journal/120035880/abstract
+  | doi = 10.1111/j.1468-0289.1984.tb00344.x
+}}</ref>
+}}
+With a population of 119,230, Cork is the second-most populous city in the State and the 16th-most populous area of local government.<ref>{{cite book| first=Eoghan| last=Corry| title=The GAA Book of Lists| publisher=Hodder Headline Ireland| year=2005| id= | pages=186–191}}</ref> Per the ''[[Local Government Act 2001]]'', [[Cork City Council]] is a tier-1 entity of local government with the same status in law as a [[county council]].
+
+While local government in Ireland has limited powers in comparison with other countries, the council has responsibility for planning, roads, sanitation, libraries, street lighting, parks, and a number of other important functions. Cork City Council has 31 elected members representing six electoral wards. The members are affiliated to the following political parties: [[Fine Gael]] (5 members), [[Fianna Fáil]] (10 members), [[Sinn Féin]] (8 members), [[Anti-Austerity Alliance]] (3 members), [[Workers' Party of Ireland|Workers' Party]] (1 member), [[Independent (politician)|Independents]] (4 members).<ref>{{cite web|url=http://www.corkcity.ie/yourcouncil/electedmembers/ |title=Cork City Council Elected Members – Elected June 2014 |publisher=Cork City Council |date=1 June 2014 |accessdate=28 August 2015 }}</ref> Certain councillors are co-opted to represent the city at the [[South-West Region, Ireland|South-West Regional Authority]]. A new [[Lord Mayor of Cork]] is chosen in a vote by the elected members of the council under a [[D'Hondt system]] count.<ref>{{cite news|url=http://www.irishexaminer.com/ireland/new-power-sharing-deal-opportunity-to-change-as-cllr-mary-shields-elected-271330.html | title= New power-sharing deal 'opportunity to change' as Cllr Mary Shields elected | publisher= Irish Examiner Newspaper | date=7 June 2014}}</ref><ref>{{cite news|url= http://www.irishtimes.com/news/politics/cork-city-council-opts-for-inclusive-d-hondt-system-1.1822346 | title=Cork city council opts for 'inclusive' d'Hondt system |publisher=Irish Times |date=6 June 2014}}</ref>
+
+The administrative offices for [[Cork County Council]] are also located within the city limits.<ref>{{cite web|url=http://www.corkcoco.ie/co/web/DocViews/Coastal%20and%20Recreation?did=656268406&pageUrl=/Cork+County+Council/About+Us/County+Hall |title=County Hall (Cork County Council) |publisher=Corkcoco.ie |date=12 June 1981 |accessdate=12 August 2010}}</ref>
+
+For the purposes of elections to [[Dáil Éireann]], the city is part of two [[Parliamentary constituencies in the Republic of Ireland|constituencies]]: [[Cork North–Central (Dáil Éireann constituency)|Cork North-Central]] and [[Cork South–Central (Dáil Éireann constituency)|Cork South-Central]] which each returns four [[Teachta Dála|TDs]]. Following the [[Irish general election, 2016|2016 general election]], these constituencies together returned two TDs for the [[Fine Gael]] party, three for [[Fianna Fáil]], two for [[Sinn Féin]] and one for the [[Anti-Austerity Alliance-People Before Profit]].
+
+==Economy==
+[[File:City of Cork, Ireland.jpg|thumb|Winthrop Street in Cork's city centre]]
+
+===Retail===
+{{Main|Economy of Cork}}
+[[File:Castle Street in Cork City Centre.jpg|thumb|left|upright|Castle Street]]
+The retail trade in Cork city includes a mix of both modern, state of the art shopping centres and family owned local shops. Department stores cater for all budgets, with expensive boutiques for one end of the market and high street stores also available. Shopping centres can be found in many of Cork's suburbs, including [[Blackpool, Cork|Blackpool]], [[Ballincollig]], [[Douglas, County Cork|Douglas]], Ballyvolane, [[Wilton Shopping Centre|Wilton]] and [[Mahon Point Shopping Centre|Mahon Point]]. Others are available in the city centre. These include the recently{{when|date=November 2011}} completed development of two large malls The Cornmarket Centre on Cornmarket Street, and new the retail street called "[[Opera Lane]]" off St. Patrick's Street/Academy Street. The Grand Parade scheme, on the site of the former Capitol Cineplex, was planning-approved for {{convert|60000|sqft|sqm}} of retail space, with work commencing in 2016.<ref>{{cite web| url= http://www.eveningecho.ie/cork-news/video-pictures-the-final-days-of-the-capitol-cinema/1714261/ | publisher= Evening Echo | title= The final days of The Capitol cinema | date= 26 January 2016}}</ref> Cork's main shopping street is [[St. Patrick's Street]] and is the most expensive street in the country per sq. metre after Dublin's Grafton Street. {{as of|2015}} this area has been impacted by the [[Post-2008 Irish economic downturn|post-2008 downturn]], with many retail spaces available for let.{{citation needed|date=June 2015}} Other shopping areas in the city centre include [[Oliver Plunkett Street|Oliver Plunkett St.]] and Grand Parade. Cork is also home to some of the country's leading department stores with the foundations of shops such as [[Dunnes Stores]] and the former [[Roches Stores]] being laid in the city. Outside the city centre is Mahon Point Shopping Centre.
+
+===Industry===
+[[File:Murphys-Stout,-1919-.jpg|upright|thumb|Murphys Stout, 1919 advert for the famous Cork brewery.]]
+Cork City is at the heart of industry in the south of Ireland. Its main area of industry is pharmaceuticals, with [[Pfizer Inc.]] and Swiss company [[Novartis]] being big employers in the region. The most famous product of the Cork pharmaceutical industry is [[Viagra]]. Cork is also the European headquarters of [[Apple Inc.]] where over 3,000 staff are involved in manufacturing, R&D and customer support.<ref>{{cite news|last=Barker|first=Tommy|title=Apple boost for city|url=http://www.irishexaminer.com/archives/2012/0719/business/apple-boost-for-city-201194.html|accessdate=29 November 2012|newspaper=Irish Examiner|date=19 July 2012}}</ref> [[Logitech]] and [[EMC Corporation]] are also important [[information technology|IT]] employers in the area.<ref>{{cite web |last=Baker |first=Tommy |title=Logitech's safe landing |work=Commercial Property |publisher=[[Irish Examiner]] |date=1 November 2012 |url=http://www.irishexaminer.com/property/commercial/logitechs-safe-landing-212575.html |accessdate=13 January 2014 }}</ref><ref>{{cite news|url=http://www.irishtimes.com/newspaper/finance/2011/0408/1224294213282.html|title=EMC extends its Cork research operations | work=The Irish Times | first=Gordon|last=Smith|date=8 April 2011}}</ref> Three hospitals are also among the top ten employers in the city (see table below).
+
+The city is also home to the Heineken Brewery that brews [[Murphy's Irish Stout]] and the nearby [[Beamish and Crawford]] brewery (taken over by Heineken in 2008) which have been in the city for generations. 45% of the world's [[Tic Tac]] sweets are manufactured at the city's [[Ferrero SpA|Ferrero]] factory.<ref>{{cite web|url=http://www.loveirishfood.ie/brands/tic-tac-in-ireland/|title=Tic Tac in Ireland - Love Irish Food|work=Love Irish Food}}</ref> For many years, Cork was the home to [[Ford Motor Company]], which manufactured cars in the docklands area before the plant was closed in 1984. [[Henry Ford]]'s grandfather was from [[West Cork]], which was one of the main reasons for opening up the manufacturing facility in Cork.<ref>{{cite book
+  | last = Nyhan
+  | first = Miriam
+  | title = Are You Still Below?: The Ford Marina Plant, Cork, 1917–84
+  | publisher = Collins Press
+  | year = 2007
+  | isbn = 1-905172-49-4 }}</ref> But technology has replaced the old manufacturing businesses of the 1970s and 1980s, with people now working in the many I.T. centres of the city – such as [[Amazon.com]], the online retailer, which has set up in Cork Airport Business Park.<ref name="ida-20070423">{{cite news
+|url=http://www.idaireland.com/news-media/press-releases/minister-martin-officiall/index.xml
+|title=Minister Martin officially opens Amazon in Cork
+|author=IDA Press Release
+|date=23 April 2007
+|accessdate=17 May 2010}}</ref>
+
+Cork's deep harbour allows ships of any size to enter, bringing trade and easy import/export of products. [[Cork Airport]] also allows easy access to continental Europe and [[Cork Kent railway station]] in the city centre provides good rail links for domestic trade.
+
+===Employment===
+According to the 2011 Cork City Employment & Land Use Survey 2011, the single largest employers in the city (all with over 1,000 employees) include [[Cork University Hospital]], [[Apple Inc]], [[University College Cork]], [[Boston Scientific]], [[Cork City Council]], [[Cork Institute of Technology]], [[Bon Secours Hospital, Cork]], retailers [[SuperValu (Ireland)|Supervalu]] and [[Centra]], the [[Irish Defence Forces]] at [[Collins Barracks (Cork)|Collins Barracks]], and the Mercy University Hospital.<ref name="Cork City Employment & Land Use Survey 2011">[http://www.corkcity.ie/services/strategicplanningeconomicdevelopment/strategicplanningeconomicdevelopmentnews/ELUS%20SPC%20Report%20-%20FINAL.pdf Cork City Employment & Land Use Survey 2011 Summary Report–March 2012]</ref>
+
+==Transport==
+
+===Air===
+[[File:CorkAirport2.jpg|thumb|right|[[Cork Airport]]]]
+{{Main|Cork Airport}}
+Cork Airport is one of Ireland's main airports. It is situated on the south side of Cork City in an area known as [[Ballygarvan, County Cork|Ballygarvan]]. Over 15 airlines fly to over 68 destinations with over 60 flights a day. Scheduled Airlines using Cork airport include [[Aer Lingus]], [[Aer Lingus Regional]] operated by [[Stobart Air]], [[CityJet]], [[Flybe]], [[Iberia Express]], and [[Ryanair]].
+
+===Bus===
+[[File:Cork-Parnell-Place-Bus-Terminal.JPG|thumb|left|The long distance bus terminal at Parnell Place]]
+Public bus services within the city are provided by the national bus operator [[Bus Éireann]]. City routes are numbered from 201 through to 219 and connect the city centre to the principal suburbs, colleges, shopping centres and places of interest.<ref>{{cite web |title=Cork Suburban Network Limits |publisher=[[Bus Éireann]] |url=http://www.buseireann.ie/pdf/1288106268-Cork-Suburban-Map.pdf |format=PDF |accessdate=5 February 2012 }}</ref> Two of these bus routes provide orbital services across the Northern and Southern districts of the city respectively. Buses to the outer suburbs, such as [[Ballincollig]], [[Glanmire]], [[Midleton]] and [[Carrigaline]] are provided from the city's bus terminal at Parnell Place in the city centre. Suburban services also include shuttles to [[Cork Airport]], and a [[park and ride]] facility in the south suburbs only.
+
+Long distance buses depart from the bus terminal in Parnell Place to destinations throughout Ireland. Hourly services run to [[Killarney]]/[[Tralee]], [[Waterford]], [[Athlone]] and Shannon Airport/[[Limerick]]/[[Galway]] and there are six services daily to Dublin. There is also a daily [[Eurolines]] bus service that connects Cork to [[Victoria Coach Station]] in London via [[South Wales]] and [[Bristol]].
+
+Private operators include Irish Citylink, [[Aircoach]] and Dublin Coach. Irish Citylink serves Limerick and Galway. Aircoach operates an Express non-stop service which serves Dublin City Centre and [[Dublin Airport]] 18 times daily in each direction. Dublin Coach serve Dublin via [[Dungarvan]], [[Waterford]] and [[Kilkenny]].
+
+===Ferry===
+{{See also|Port of Cork}}
+The Cross River Ferry, from [[Rushbrooke]] to [[Passage West]], links the R624 to R610. This service is useful when trying to avoid traffic congestion in Jack Lynch tunnel and Dunkettle area.<ref>[http://www.passagewestmonkstown.ie/cross-river-ferry.asp Passage West Monkstown]. Passagewestmonkstown.ie. Retrieved on 23 July 2013.</ref> The [[Port of Cork]] is situated at [[Ringaskiddy]], {{convert|16|km|0|abbr=off}} SE via the N28. There are Direct services to France and the United Kingdom. A [[Water Taxi]] has also been proposed to link the city with towns in the lower harbour.<ref>{{cite news|url=http://www.irishtimes.com/newspaper/ireland/2007/1204/1196375297577.html |title=Permit sought for Cork water taxis – December 2007 |publisher=Irish Times |date=12 December 2007 |accessdate=12 August 2010}}</ref><ref>{{cite web|url=http://www.corkharbour.ie/pages/news/news_jan09_HarbourCatFerries0109.htm |title=Decision on Harbour Cat ferry terminals due soon – January 2009 |publisher=Corkharbour.ie |accessdate=12 August 2010}}</ref>
+
+===Road===
+[[File:Patricks bridge cork.jpg|thumb|right|St. Patrick's Bridge]]
+The Cork area has seen improvements in road infrastructure in recent years. For example, the Cork South Link [[dual carriageway]] was built in the early 1980s, to link the Kinsale Road roundabout with the city centre. Shortly afterwards, the first sections of the South Ring dual carriageway were opened. Work continued through the 1990s on extending the [[N25 road (Ireland)|N25]] South Ring Road, with the opening of the [[Jack Lynch Tunnel]] under the [[River Lee (Ireland)|River Lee]] being a significant addition. The Kinsale Road flyover opened in August 2006 to remove a bottleneck for traffic heading to Cork Airport or Killarney. Other projects completed at this time include the [[N20 road|N20]] Blackpool bypass and the N20 Cork to Mallow road projects. The [[N22 road|N22]] Ballincollig dual carriageway bypass, which links to the Western end of the Cork Southern Ring road was opened in September 2004. City Centre road improvements include the Patrick Street project - which reconstructed the street with a pedestrian focus. The [[M8 motorway (Ireland)|M8 motorway]] links Cork with [[Dublin]].
+
+Cork City Council supports a [[car sharing]] scheme operated by Mendes GoCar in partnership with cambio Mobility Services. There are several bases in Cork.<ref>{{cite web |url= http://www.gocar.ie/cms/carsharing/en/4/stdws_info/stationen/region/571.html |title=GoBases – Cork |publisher=GoCar CarSharing |accessdate=25 November 2010 }}</ref>
+
+From 2012, cycle paths and bike stands were added in a number of areas, making the city more cycle friendly.<ref>{{cite web |title=Cork City Cycling Strategy |publisher=Cork City Council |url=http://www.corkcity.ie/services/roadstransportation/trafficdivision/cycling/filedownload,2419,en.htm |accessdate=28 July 2013 }}</ref> Subsequently, in 2014, a [[bicycle sharing system|public bicycle rental scheme]] was launched. The scheme is operated by An Rothar Nua on behalf of the [[National Transport Authority]], with funding supplemented by an advertising sponsor.<ref>{{cite web|url=http://www.galwaycity.ie/news/131/59/The-Coca-Cola-Zero-Bikes-are-Coming-to-Galway-Cork-and-Limerick-Launch-Dates-Announced/|title=Galway City Council - Latest News|work=galwaycity.ie}}</ref>
+
+===Rail===
+
+====Railway and tramway heritage====
+Cork was one of the most rail-oriented cities in Ireland, featuring eight stations at various times. The main route, still much the same today, is from [[Dublin Heuston]]. Originally terminating on the city's outskirts at [[Blackpool, Cork|Blackpool]], the route now reaches the city centre [[terminal station|terminus]] of [[Cork Kent railway station|Kent Station]] via Glanmire tunnel. Now a through station, the line through Kent connects the towns  of [[Cobh]] and [[Midleton]] east of the city. This also connected to the seaside town of [[Youghal]], until the 1980s.{{Citation needed|date=April 2010}}
+
+Other rail routes terminating or traversing Cork city were the ''[[Cork, Blackrock and Passage Railway]]'', a line to [[Macroom]], the [[Cork and Muskerry Light Railway]] to [[Blarney]], [[Coachford]] and [[Donoughmore]], as well as the [[Cork, Bandon and South Coast Railway]] connecting [[Bantry]], [[Skibbereen]], [[Clonakilty]] and many other [[West Cork]] towns. West Cork trains terminated at Albert Quay, across the river from Kent Station (though an on-street rail system connected the two for rolling stock and cargo movement).
+
+Within the city there have been two tram networks in operation. A proposal to develop a horse-drawn tram (linking the city's railway termini) was made by American [[George Francis Train]] in the 1860s, and implemented in 1872 by the Cork Tramway Company. However, the company ceased trading in 1875 after Cork Corporation refused permission to extend the line, mainly because of objections from cab operators to the type of tracks which – although they were laid to the Irish national railway gauge of 5&nbsp;ft 3in – protruded from the road surface.{{Citation needed|date=December 2010}}
+
+In December 1898, the [[Cork Electric Tramways and Lighting Company]] began operating on the Blackpool–Douglas, Summerhill–Sunday's Well and [[Tivoli, Cork|Tivoli]]–Blackrock routes. Increased usage of cars and buses in the 1920s led to a reduction in the use of trams, which discontinued operations permanently on 30 September 1931.
+
+Plans to build a [[Luas]]-type light rail system in the city have been put on hold due to [[2008-2013 Irish banking crisis|2008 Irish economic crisis]], and sufficient funding is not expected to be available until at least 2017.<ref>[http://corkpolitics.ie/wp/?p=8470 Cork Luas plan derailed]. Corkpolitics.ie (12 October 2011). Retrieved on 23 July 2013.</ref>
+
+====Current routes====
+Cork's [[Cork Kent railway station|Kent Station]] is the main railway station in the city. From here, services run to destinations all over Ireland. The main line from Cork to [[Dublin Heuston|Dublin]], has hourly departures on the half-hour from Cork. InterCity services are also available to [[Killarney railway station|Kilarney]] and [[Tralee railway station|Tralee]], and to [[Limerick railway station|Limerick]], [[Ennis railway station|Ennis]], [[Athenry railway station|Athenry]] and [[Galway railway station|Galway]] (via [[Limerick Junction]] and the Limerick to Galway railway line)<ref>{{cite web|url=http://www.irishrail.ie/index.jsp?p=119&n=147|title=Timetables|work=Irish Rail}}</ref>
+
+Cork is also linked from [[Limerick Junction]] with connections to [[Clonmel railway station|Clonmel]] and [[Waterford railway station|Waterford]].
+
+The [[Cork Suburban Rail]] system also departs from [[Cork Kent railway station|Kent Station]] and provides connections to parts of [[Metropolitan Cork]]. Stations include [[Little Island, Cork|Little Island]], [[Mallow, County Cork|Mallow]], [[Midleton]], [[Fota Island|Fota]] and [[Cobh]]. In July 2009 the [[Glounthaune railway station|Glounthaune]] to [[Midleton railway station|Midleton]] line was reopened, with new stations at [[Carrigtwohill railway station|Carrigtwohill]] and [[Midleton railway station|Midleton]] (with future stations planned for [[Kilbarry railway station|Kilbarry]], [[Monard railway station|Monard]], [[Carrigtwohill West railway station|Carrigtwohill West]] and [[Blarney railway station|Blarney]]).<ref>{{cite web|url=http://www.rte.ie/news/2009/0730/rail.html |title=RTÉ News: Service begins on Cork-Midleton line |publisher=Rte.ie |date=30 July 2009 |accessdate=12 August 2010}}</ref> Little Island Railway Station serves Cork's Eastern Suburbs, while Kilbarry Railway Station is planned to serve the Northern Suburbs.
+
+==Education==
+[[File:University-College-Cork-Panorama-2012.JPG|thumb|[[University College Cork]]]]
+{{See also|Education in Cork|Category:Secondary schools in County Cork}}
+
+Cork is an important educational centre in Ireland - There are over 30,000 third level students in the city including 1,200 PhD students, which is the highest per capita ratio in Ireland.{{citation needed|date=July 2015}} Over 10% of the population of the Metropolitan area are students in [[University College Cork]] (UCC) and [[Cork Institute of Technology]] (CIT), including nearly 3,000 international students from over 100 different countries.<ref name="auto">{{cite web|url=http://www.corkcitydevelopmentplan.ie/images/Downloads/CDP_Volume_1.pdf |title=Cork City Development Plan 2015-2021|publisher=Cork City Council |date=2015|accessdate=28 July 2015}}</ref>
+
+UCC is a constituent university of the [[National University of Ireland]], and offers courses in Arts, Commerce, Engineering, Law, Medicine and Science. The university was named "Irish University of the Year" four times since 2003, most recently in 2016.<ref>{{cite web|url=https://www.ucc.ie/en/about/uccnews/fullstory-606071-en.html |title=Sunday Times University of the Year|publisher=Ucc.ie |date=2016|accessdate=15 May 2016}}</ref> [[Cork Institute of Technology]] (CIT) was named Irish "Institute of Technology of the Year" in 2007, 2010 and 2016 and offers third level courses in Computing and IT, Business, Humanities and Engineering (Mechanical, Electronic, Electrical, and Chemical).
+
+The [[National Maritime College of Ireland]] is also located in Cork and is the only college in Ireland in which Nautical Studies and Marine Engineering can be undertaken. CIT also incorporates the [[Cork School of Music]] and [[Crawford College of Art and Design]] as constituent schools. The [[Cork College of Commerce]] is the largest post-[[Irish Leaving Certificate|Leaving Certificate]] college in Ireland and is also the biggest provider of Vocational Preparation and Training courses in the country.{{citation needed|date=July 2015}} Other 3rd level institutions include [[Griffith College Dublin|Griffith College Cork]], a private institution, and various other colleges.
+
+Research institutes linked to the third level colleges in the city support the research and innovation capacity of the city and region. Examples include the Tyndall National Institute (ICT hardware research), IMERC (Marine Energy), Environmental Research Institute, NIMBUS (Network Embedded Systems); and CREATE (Advanced Therapeutic Engineering).<ref name="auto"/> UCC and CIT also have start-up company incubation centres. In UCC, the IGNITE Graduate Business Innovation Centre aims to foster and support entrepreneurship.<ref>{{cite web|url=http://www.ucc.ie/en/ignite/participants/ |title=IGNITE - What we do| publisher=Ucc.ie | date=2015|accessdate=28 July 2015}}</ref> In CIT, The Rubicon Centre is a business innovation hub that is home to 57 knowledge based start-up companies.<ref>{{cite web|url=http://www.rubiconcentre.ie/centre-overview/ |title=Rubicon Centre Overview| publisher=Ucc.ie | date=2015| accessdate=28 July 2015}}</ref>
+
+==Sport==
+{{See also|List of Cork people#Sports|l1=List of Cork people – Sports}}
+[[Rugby Union|Rugby]], [[gaelic football]], [[hurling]] and association football are popular sporting pastimes for Corkonians.
+
+===Gaelic games===
+[[File:Cork stadium.JPG|thumb|Spectators watch [[Cork GAA|Cork]] take on [[Kerry GAA|Kerry]] at [[Páirc Uí Chaoimh]] in the city]]
+{{Main|Cork GAA}}
+[[Hurling]] and football are the most popular spectator sports in the city. Hurling has a strong identity with city and county – with Cork winning 30 [[All-Ireland Senior Hurling Championship|All-Ireland Championships]]. [[Gaelic football]] is also popular, and Cork has won 7 [[All-Ireland Senior Football Championship]] titles. There are many [[Gaelic Athletic Association]] clubs in Cork City, including [[Blackrock GAA|Blackrock National Hurling Club]], [[St. Finbarr's GAA|St. Finbarr's]], [[Glen Rovers GAA|Glen Rovers]], [[Na Piarsaigh GAA|Na Piarsaigh]] and [[Nemo Rangers GAA|Nemo Rangers]]. The main public venues are [[Páirc Uí Chaoimh]] and [[Páirc Uí Rinn]] (named after the noted Glen Rovers player [[Christy Ring]]). [[Camogie]] (hurling for ladies) and women's gaelic football are increasing in popularity.
+
+[[File:City-belgrade.jpg|thumb|[[Cork City Football Club|Cork City FC]] line out against [[Red Star Belgrade]] in a [[2006–07 UEFA Champions League|2006 Champions League qualifier]] ]]
+
+===Association football===
+{{Main|League of Ireland in Cork city}}
+[[Cork City Football Club|Cork City FC]] formed in 1984 are the largest and most successful association football team in Cork, winning two [[League of Ireland]] titles, two [[FAI Cup]] titles, and one [[Setanta Sports Cup|"All Ireland" Setanta Sports Cup]] title. They play their home games on the south side of the city in [[Turners Cross (stadium)|Turners Cross]]. Association football is also played by amateur and school clubs across the city, as well as in [[Five-a-side football|"five-a-side"]] style leagues.
+
+===Rugby===
+[[Rugby union]] is played at various levels, from school to senior league level. There are two first division clubs in Cork city. [[Cork Constitution]] (three-time All Ireland League Champions) play their home games in [[Ballintemple, Cork|Ballintemple]] and [[Dolphin R.F.C.]] play at home in [[Musgrave Park, Cork|Musgrave Park]]. Other notable rugby clubs in the city include, Highfield, Sunday's Well and UCC. At schools level, [[Christian Brothers College, Cork|Christian Brothers College]] and [[Presentation Brothers College, Cork|Presentation Brothers College]] are two of the country's better known rugby nurseries.
+
+[[Munster Rugby]] plays half of its home matches in the [[Celtic League (rugby union)|Magners League]] at [[Musgrave Park, Cork|Musgrave Park]] in Ballyphehane. In the past [[Heineken Cup]] matches have also been played at Musgrave Park, but due to capacity issues, these are now played at [[Thomond Park]] in [[Limerick]]. In May 2006 and again in May 2008 Munster became the [[Heineken Cup]] champions, with many players hailing from Cork city and county.
+
+Cork's [[rugby league]] team, the [[Cork Bulls]], were formed in 2010 and play in the Munster Conference of the [[Irish Elite League]].
+
+===Water sports===
+There are a variety of watersports in Cork, including [[Sport rowing|rowing]] and sailing. There are five rowing clubs training on the river Lee, including Shandon BC, UCC RC, Pres RC, Lee RC, and Cork BC. Naomhóga Chorcaí is a rowing club whose members row traditional [[Currach|naomhóga]] on the Lee in occasional competitions. The "Ocean to City" race has been held annually since 2005, and attracts teams and boats from local and visiting clubs who row the {{convert|24|km}} from Crosshaven into Cork city centre.<ref>{{cite web|url=http://www.oceantocity.com/index.php?pageID=1355 |title=The Race – Map of Route |publisher=Oceantocity.com |accessdate=12 August 2010}}</ref> The decision to move the National Rowing Center to Inniscarra<ref>{{cite web|author=RowingIreland |url=http://www.iaru.ie/main.php?page_type=nrc&id=28&view_type=live |title=Press Release on National Rowing Centre opening |publisher=IARU.ie |date=2 May 2007 |accessdate=12 August 2010}}</ref> has boosted numbers involved in the sport.{{Citation needed|date=April 2010}} Cork's maritime sailing heritage is maintained through its sailing clubs. The [[Royal Cork Yacht Club]] located in [[Crosshaven]] (outside the city) is the world's oldest yacht club, and "Cork Week" is a notable sailing event.<ref>{{cite web|url=http://www.corkweek.ie/about-us.html |title=Cork Week History |publisher=Corkweek.ie |date=16 July 2010 |accessdate=12 August 2010}}</ref>
+
+===Cricket===
+[[File:Cork County Cricket Club (est. 1874) - geograph.org.uk - 489912.jpg|thumb|right|Mardyke, the home of [[Cork County Cricket Club]]]]
+The most notable [[cricket]] club in Cork is [[Cork County Cricket Club]], which was formed in 1874. Although located within the [[Munster Cricket Union|Munster]] jurisdiction, the club plays in the [[Leinster Senior League (cricket)|Leinster Senior League]].<ref>{{cite web|url=http://www.cricketleinster.ie/results/tables|title=Cricket Leinster|publisher=www.cricketleinster.ie|accessdate=10 June 2011}}</ref> The club plays at the [[Mardyke]], a ground which has hosted three [[first-class cricket|first-class]] matches in 1947, 1961 and 1973. All three involved [[Ireland cricket team|Ireland]] playing [[Scotland cricket team|Scotland]].<ref>{{cite web|url=http://www.cricketarchive.com/Archive/Grounds/60/1301_f.html|title=First-Class Matches played on Mardyke, Cork|publisher=CricketArchive|accessdate=10 June 2011}}</ref> The Cork Cricket Academy operates within the city, with the stated aim of introducing the sport to schools in the city and county.<ref>{{cite web|url=http://corkcricketacademy.com/about/|title=Cork Cricket Academy – About|publisher=www.corkcricketacademy.com|accessdate=10 June 2011}}</ref> Cork's other main cricket club, Harlequins Cricket Club, play close to [[Cork Airport]].<ref>{{cite web|url=http://www.corkharlequins.com/cricket.asp|title=Harlequins Cricket Club|publisher=Corkharlequins.com |accessdate=10 June 2011}}</ref>
+
+===Other sports===
+There are Cork clubs active nationally in basketball ([[Neptune Cork|Neptune]] and [[UCC Demons]]) and golf, [[pitch and putt]], ultimate frisbee, [[hockey]], tennis and [[athletics (track and field)|athletics]] clubs in the Cork area.
+
+The city is also the home of [[Irish Road Bowling|road bowling]], which is played in the north-side and south-west suburbs. There are also boxing and martial arts clubs (including Brazilian jiu-jitsu, Karate, Muay Thai and Taekwondo) within the city. Cork Racing, a motorsport team based in Cork,<ref>{{cite news |url=http://www.irishexaminer.com/archives/2006/0913/ireland/sony-teams-up-with-cork-racing-13153.html |title=Sony teams up with Cork Racing |work=Irish Examiner |date=13 September 2006 |accessdate=13 September 2006}}</ref> has raced in the Irish [[Formula Ford]] Championship since 2005. Cork also hosts one of Ireland's most successful [[Australian Rules Football]] teams,<ref name="arfli">{{cite web|url=http://www.arfli.com/index.php?p=custom14 |title=ARFLI Premiership – Roll of Honour |publisher=Australian Rules Football League of Ireland |accessdate=6 April 2011}}</ref> the Leeside Lions, who have won the [[Australian Rules Football League of Ireland]] Premiership four times (in 2002, 2003, 2005 and 2007).<ref name="arfli"/><ref>{{cite web|url=http://www.leesidelions.ie/pages/clubHonours.php |title=Leeside Lions Website – Club Honours |publisher=LeesideLions.ie |accessdate=6 April 2011}}</ref>
+There are also inline roller sports, such as hockey and figure skating, which transfer to the ice over the winter season.{{citation needed|date=August 2013}}
+
+==Demographics==
+[[File:Cork-city-evening.jpg|thumbnail|Cork city in the evenings]]
+The population of Cork City and it's immediate suburbs was 198,582 according to the 2011 census.<ref>http://census.cso.ie/areaprofiles/PDF/ST/corkcityandsuburbs.pdf</ref>
+
+There were 119,230 people present in the Cork City Council administered area at the time of the 2011 census, of these 117,221 indicated that they were usually present in Cork. In common, with other Irish urban centres, the female population (50.67%) is higher than the male population (49.33%), although the gap is somewhat smaller than in other cities.
+
+{| class="infobox" style="float:right;"
+|colspan="2"|'''Main immigrant groups, 2011'''<ref>{{cite web|url=http://www.cso.ie/en/census/census2011reports/census2011profile6migrationanddiversity-aprofileofdiversityinireland/|title=Census 2011 Profile 6 Migration and Diversity - A profile of diversity in Ireland|accessdate=13 July 2015}}</ref>
+|-\
+! Nationality || Population
+|-
+|{{flag|Poland}} || 6,822
+|-
+|{{flag|United Kingdom}} || 3,075
+|-
+|{{flag|Lithuania}} || 1,126
+|-
+|{{flag|France}} || 960
+|-
+|{{flag|Germany}} || 866
+|-
+|{{flag|India}} || 824
+|-
+|{{flag|Nigeria}} || 640
+|-
+|{{flag|Hungary}} || 543
+|-
+|{{flag|Slovakia}} || 523
+|-
+|{{flag|Spain}} || 520
+|}
+
+Of those usually resident, 110,192 (94.00%) indicated that they were White, 2,623 (2.24%) that they were Asian, 1,104 (0.94%) that they were Black, while 3,302 (2.82%) did not state their ethnicity. 100,901 (86.08%) were Irish citizens; 10,295 (8.78%) were citizens of other EU countries; 4,316 (3.68%) were citizens of countries elsewhere in the world; 1,709 (1.46%) did not state their citizenship.<ref>{{cite web|url=http://census.cso.ie/sapmap2011/Results.aspx?Geog_Type=CTY&Geog_Code=17&CTY=17|title=County Cork City (CSO Area Code CTY 17)|publisher=[[Central Statistics Office (Ireland)|Central Statistics Office]] |accessdate=28 September 2012}}</ref>
+
+In the 2006 census, no separate figures were provided for Cork City, however for the Greater Cork area, 94.51% identified as White, 1.13% identified as Black, 1.33% identified as Asian, 1.11% identified as Other/Mixed, while 1.91% did not state their ethnicity. In terms of nationality, the figures were 88.78% Irish, 6.56% were other EU citizens, 3.45% were citizens of countries elsewhere in the world and 1.20% did not state their citizenship.<ref>{{cite web|url=http://www.cso.ie/en/media/csoie/census/census2006results/volume4/Tables%2035-43.pdf|title=Census 2006 – Nationalities|publisher=[[Central Statistics Office (Ireland)|Central Statistics Office]] |accessdate=4 October 2012}}</ref>
+
+Though the [[Census of Ireland 2011]] counted 119,230 people in Cork city, there are in excess of 300,000 in [[Metropolitan Cork]] area.<ref>{{cite report|url= http://www.boundarycommittee.ie/reports/2013-Report.pdf |title= Local Electoral Area Boundary Committee Report 2013 | date=2013 |publisher= Government Stationery Office}}</ref> Overall Cork is 86.1% White Irish, 8.8% Other White, 2.2% Asian and 0.9% Black.{{citation needed|date=October 2015}}
+
+==Notable residents==
+{{See also|List of Cork people}}
+
+== See also ==
+* [[List of civil parishes of County Cork]]
+* [[List of townlands of the barony of Cork in County Cork]]
+* [[List of twin towns and sister cities in the Republic of Ireland]]
+* [[Sheriff of Cork City]]
+
+==Further reading==
+* ''Merchants, Mystics and Philanthropists – 350 Years of Cork Quakers'' Richard S. Harrison Published by Cork Monthly Meeting, Religious Society of Friends ([[Quakers]]) 2006 ISBN 978-0-9539542-1-6
+* ''Atlas of Cork City'', edited John Crowley, Robert Devoy, Denis Linehan and Patrick O'Flanagan. Illustrated by Michael Murphy.  Cork University Press, 2005, ISBN 1-85918-380-8.
+* ''A New History of Cork'', Henry A. Jefferies.  History Press Ireland, 2010, ISBN 978-1-84588-984-5.
+* ''Cork Rock: From Rory Gallagher To The Sultans Of Ping'', by Mark McAvoy. Published by Mercier Press (2009) ISBN 978-1-85635-655-8.
+* ''Where Bridges Stand :the River Lee bridges of Cork City'', Antóin O'Callaghan. History Press Ireland, 2012, ISBN 978-1-84588-746-9.
+* ''Cork City Through Time'',  Kieran McCarthy & Daniel Breen. Stroud : Amberley, 2012, ISBN 978-1-4456-1142-6.
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons and category|Cork|Cork (city)}}
+{{AmCyc Poster|Cork (Ireland)|Cork}}
+{{Wikivoyage|Cork}}
+* [http://www.corkcity.ie/ Cork City Council site]
+* [http://archiseek.com/category/buildings/ireland-buildings/munster/cork-munster-ireland-buildings-buildings/architecture-of-cork-city/ Architecture of Cork]
+* [http://www.portofcork.ie/ Port of Cork]
+
+{{Coord|51.897222|-8.47|region:IE|display=title}}
+{{Cork City}}
+{{County Cork}}
+{{Cities in Ireland}}
+{{European Capital of Culture}}
+{{Most Ancient European Towns Network}}
+{{Cork-baronies}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cork (City)}}
+[[Category:Cork (city)| ]]
+[[Category:Cities in the Republic of Ireland]]
+[[Category:County Cork]]
+[[Category:County towns in the Republic of Ireland]]
+[[Category:Local administrative units of the Republic of Ireland]]
+[[Category:Munster]]
+[[Category:Populated coastal places in the Republic of Ireland]]
+[[Category:Populated places established in the 6th century]]
+[[Category:Port cities and towns in the Republic of Ireland]]
+[[Category:Staple ports]]
+[[Category:University towns in Ireland]]
+[[Category:Viking Age populated places]]
+[[Category:6th-century establishments in Ireland]]

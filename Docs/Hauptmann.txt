@@ -1,0 +1,87 @@
+Hauptmann
+
+{{Italic title}}
+{{about|'''Hauptmann''' used in German-speaking countries as '''officer''' [[Ranks and insignia of NATO|OF2-rank]], as well as '''title'''|'''equivalent''' OF2-rank in Anglophone armed forces|Captain (armed forces)|people of this name|Hauptmann (disambiguation)}}
+
+{|  style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px; float:right; width:250px"
+|+
+|-----
+| bgcolor="#efefef" colspan=2 align="center"|[[File:Flag of Germany.svg|left|30px]] '''Hauptmann
+<small>(Heer / Luftwaffe)</small>'''
+|-----
+| align="center" colspan=2 style="border-bottom:2px solid gray;font-size:smaller" | 
+{|align="center"
+| [[File:DH231-Hauptmann.png|70px]]
+| [[File:LD B 43 Hauptmann.svg|70px]]
+|}
+|-----
+| bgcolor="#efefef" | <small>Rank insignia</small> || bgcolor="#dfefff" | [[Rank insignia of the German Bundeswehr#Commissioned officers (CO/ de: Offiziere)|German officer rank]]
+|-----
+| bgcolor="#efefef" | <small>Introduction</small>|| bgcolor="#dfefff" | 19th century
+|-----
+| bgcolor="#efefef" | <small>Rank group</small>|| bgcolor="#dfefff" | [[Officer (armed forces)|Commissioned officers]]
+|-----
+| bgcolor="#efefef" | <small>Army / Air Force</small>|| bgcolor="#dfefff" | ''Hauptmann''
+|-----
+| bgcolor="#efefef" | <small>Navy</small>|| bgcolor="#dfefff" | [[Kapitänleutnant]]
+|-----
+| bgcolor="#efefef" | [[Ranks and insignia of NATO|NATO<br />equivalent]] || bgcolor="#dfefff" | OF-2
+|-----
+| bgcolor="#efefef" |<small>Army</small>|| bgcolor="#dfefff" | <small>[[Captain (armed forces)|Captain]]</small>
+|-----
+| bgcolor="#efefef" |<small>Navy</small>|| bgcolor="#dfefff" |<small>[[Captain lieutenant]]</small>
+|-----
+|}
+
+'''''Hauptmann''''' is a [[German language|German]] word usually translated as [[Captain (land)|captain]] when it is used as an officer's rank in the [[German Army|German]], [[Austrian Army|Austrian]] and [[Swiss Army|Swiss armies]]. While "''haupt''" in contemporary German means "main", it also has the meaning of "head", i.e. ''Hauptmann'' literally translates to "head man", which is also the etymological root of "captain" (from Latin ''caput'' head).
+It equates to Captain in the [[British Army|British]] and [[United States Army|US Armies]], and is rated [[Ranks and insignia of NATO armies officers|OF-2]] in [[NATO]].
+
+More generally, it can be used to denote the head of any hierarchically structured group of people, often as a compound word. For example, a ''Feuerwehrhauptmann'' is the captain of a fire brigade, while the word ''Räuberhauptmann'' refers to the leader of a gang of robbers.
+
+Official Austrian/German titles incorporating the word include ''[[Landeshauptmann]]'', ''[[Bezirkshauptmann]]'', ''[[Burghauptmann]]'' and ''[[Berghauptmann]]''.
+
+In [[Saxony]] during the [[Weimar Republic]], the titles of ''[[Kreishauptmann]]'' and ''[[Amtshauptmann]]'' were held by senior civil servants.
+
+The word may cognate with the Swedish [[Hövitsman]], which has the root meaning "Head man" or "the man at the head" and is closely related to the word "hövding," meaning [[Chieftain]]. Since medieval times, both titles have been used for state administrators rather than military personnel.
+
+;See also:
+{{Main|World War II German Army ranks and insignia|Ranks of the German Bundeswehr|Rank insignia of the German Bundeswehr}}
+
+==Rank insignia ==
+
+On the shoulder straps (Heer, Luftwaffe) there are three silver pips (stars).
+
+{| class="wikitable centered"
+|- style="background-color:#CEDAF2"
+! Heer|| Luftwaffe
+|-
+|<gallery widths="80" heights="150">
+HA OS5 43 Hauptmann i.G..svg|<center>Hauptmann i.G.<br /><small>(Gen. staff service)</small>
+HA OS5 43 Hauptmann PzGren.svg|<center>Hauptmann<br /><small>(Mechanized infantry)</small>
+HA OS5 43 Hauptmann d.R. PzGren.svg|<center>Hauptmann d.R.<br /><small>(Mech. infantry ret.)</small>
+</gallery>
+|<gallery widths="80" heights="150">
+LA OS5 43 Hauptmann.svg|<center>Hauptmann<br /><small>(field suit)</small>
+</gallery>
+|}
+
+{| class="toccolours" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin: 0.5em auto; clear: both;"
+|-
+|width="30%" align="center" rowspan="2" style="background:#cfcfcf;" |junior Rank<br>[[Oberleutnant]]
+|width="40%" align="center" rowspan="1" style="background:#bfbfbf;" |[[File:Bundeswehr Logo Heer with lettering.svg|28px]] [[File:Bundeswehr Logo Luftwaffe with lettering.svg|63px]] <br />[[Rank insignia of the German Bundeswehr#Commissioned officers (CO/ de: Offiziere)|German Bundeswehr officer rank]]<br>'''Hauptmann'''
+|width="30%" align="center" rowspan="2" style="background:#afafaf;" |senior Rank<br>[[Major (Germany)|Major]]
+|-
+|width="40%" align="center" style="background:#afafaf;" |[[Stabshauptmann]]
+|}
+
+==External links==
+* [http://germa83.uni-trier.de/cgi-bin/DWBcgi/getDWBArticle.tcl?hauptmann+100+1+960 Deutsches Wörterbuch, Hauptmann]
+
+{{Military ranks by country}}
+
+[[Category:Military ranks of Germany]]
+[[Category:Military ranks of Austria]]
+[[Category:Military ranks]]
+[[Category:German words and phrases]]
+
+[[de:Hauptmann (Offizier)]]

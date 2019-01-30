@@ -1,0 +1,160 @@
+American Society of Composers, Authors and Publishers
+
+{{Hatnote|"ASCAP" redirects here; it is not to be confused with [[Australian Native Plants Society (Australia)|ASGAP]], [[American Society for the Prevention of Cruelty to Animals|ASPCA]] or [[Association of Sites Advocating Child Protection|ASACP]].}}
+{{Use mdy dates|date=April 2012}}
+{{Refimprove|date=August 2010}}
+{{Infobox organization
+|name         = American Society of Composers Authors and Publishers
+|image        = ASCAP logo.svg
+|image_border =
+|size         = <!-- default 200 -->
+|alt          = <!-- alt text; see [[WP:ALT]] -->
+|caption      =
+|map          = <!-- optional -->
+|msize        = <!-- map size, optional, default 200px -->
+|malt         = <!-- map alt text -->
+|mcaption     = <!-- optional -->
+|abbreviation = ASCAP
+|motto        =
+|formation    = {{Start date|1914|2|13}}
+|extinction   = <!-- date of extinction, optional -->
+|type         = [[Nonprofit organization|Not-for-profit]]<!-- GO, NGO, IGO, INGO, etc -->
+|status       = <!-- ad hoc, treaty, foundation, etc -->
+|purpose      = <!-- focus as e.g. humanitarian, peacekeeping, etc -->
+|headquarters = New York City, United States
+|coords       = <!-- Coordinates of location using a coordinates template -->
+|region_served =
+|membership   =
+|language     = <!-- official languages -->
+|leader_title = <!-- position title for the leader of the org -->
+|leader_name  = <!-- name of leader -->
+|main_organ   = <!-- gral. assembly, board of directors, etc -->
+|parent_organization = <!-- if one -->
+|affiliations = <!-- if any -->
+|num_staff    =
+|num_volunteers =
+|budget       =
+|website      = [http://www.ascap.com ascap.com]
+|remarks      =
+}}
+
+The '''American Society of Composers, Authors and Publishers''' ('''ASCAP''' {{IPAc-en|'|æ|s|k|æ|p}}) is an American [[nonprofit organization|not-for-profit]] [[Performance rights organisation|performance-rights organization]] (PRO) that protects its members' musical [[copyright]]s by monitoring public performances of their music, whether via a [[Broadcasting|broadcast]] or [[Concert|live performance]], and compensating them accordingly.
+
+ASCAP collects [[licensing]] fees from users of music created by ASCAP members, then distributes them back to its members as [[royalties]]. In effect, the arrangement is the product of a compromise: when a song is played, the user does not have to pay the copyright holder directly, nor does the music creator have to bill a radio station for use of a song.
+
+In 2012, ASCAP collected over US$941 million in licensing fees and distributed $828.7 million in royalties to its members, with an 11.6 percent [[operating expense]] ratio.<ref>{{cite web|url=http://www.ascap.com/~/media/files/pdf/about/annual-reports/2012-annual-report.pdf |title=ASCAP 2012 Annual Report |publisher=Ascap.com |accessdate=2014-05-09}}</ref> As of July 2013, ASCAP membership included over 460,000 songwriters, composers, and music [[Music publisher (popular music)|publishers]].<ref>{{cite web|url=http://www.ascap.com/about/ |title=About ASCAP |publisher=Ascap.com |date= |accessdate=2014-05-09}}</ref>
+
+In the United States, ASCAP competes with two other PROs — [[Broadcast Music, Inc.]] (BMI) and the [[SESAC|Society of European Stage Authors and Composers]] (SESAC).
+
+==Non-exclusive==
+Unlike collecting societies outside of the United States, ASCAP contract is non-exclusive,<ref>{{cite web|url=http://www.bbb.org/us/article/music-in-the-marketplace-420 |title=Music in the Marketplace - BBB News Center |publisher=Bbb.org |date= |accessdate=2014-05-09}}</ref> and although it is not so simple for a foreign person to join ASCAP, it is possible. ASCAP has an office <ref>{{cite web|url=http://www.ascap.com/contact/membership_offices.aspx |title=Membership Offices |publisher=Ascap.com |date= |accessdate=2014-05-09}}</ref> in the United Kingdom. As the artist agreement is non-exclusive, authors can license using a [[creative commons|Creative Commons]] license. Analyzing the ASCAP bill of rights, it states, "we have the right to choose when and where our creative works may be used for free". If an author is going to use a [[creative commons license|Creative Commons license]] with another's works, this is the only [[author's rights]] organisation that has a non-exclusive contract that a foreign person can join. {{citation needed|date=August 2013}} If an author uses a Creative Commons license and is not a member of a performing rights organisation, and the works would generate royalties, these royalties are collected and given to publishers and artists that are members of these organisations.
+
+==History==
+ASCAP was founded by [[Victor Herbert]], together with composers [[Louis Hirsch]], [[John Raymond Hubbell]], Silvio Hein and [[Gustave Kerker]], a lyricist [[Glen MacDonough]], publishers [[George Maxwell]] (who served as its first president) and Jay Witmark, and a copyright attorney Nathan Burkan at the [[Hotel Claridge]] in New York City on February 13, 1914, to protect the copyrighted musical compositions of its members, who were mostly writers and [[History of music publishing|publishers]] associated with New York City's [[Tin Pan Alley]].<ref>[https://books.google.com/books?id=vQcEAAAAMBAJ&pg=PA10 ''Billboard''], February 16, 1974, p. 10</ref> ASCAP's earliest members included the era's most active songwriters—[[Irving Berlin]], [[Rudolf Friml]], [[Otto Harbach]], [[Jerome Kern]], [[John Philip Sousa]],  [[Alfred Baldwin Sloane]], [[James Weldon Johnson]], [[Robert Hood Bowers]] and [[Harry Tierney]]. Subsequently, many other prominent songwriters became members.
+
+In 1919, ASCAP and the Performing Rights Society of Great Britain (since 1997 known as [[PRS for Music]]), signed the first reciprocal agreement for the representation of each other's members' works in their respective territories. Today, ASCAP has global reciprocal agreements and licenses the U.S. performances of hundreds of thousands of international music creators.
+[[Image:ASCAP and Manhattan School of Music summer campers.jpg|thumb|300px|right|'''ASCAP''' and [[Manhattan School of Music]] summer campers participate in daily symphonic band rehearsals. Since 1999, the two institutions have partnered with to offer a free music camp for students who attend New York City's public schools.]]
+
+The advent of radio in the 1920s brought an important new source of income for ASCAP. Radio stations originally only broadcast performers live, the performers working for free. Later, performers wanted to be paid, and recorded performances became more prevalent. ASCAP started collecting license fees from the broadcasters. Between 1931 and 1939, ASCAP increased royalty rates charged to broadcasters more than 400%<ref>{{cite web|url=http://www.ted.com/index.php/talks/larry_lessig_says_the_law_is_strangling_creativity.html |title=Lawrence Lessig: Laws that choke creativity &#124; Talk Video |publisher=TED.com |date= |accessdate=2014-05-09}}</ref>
+
+===Antitrust lawsuits===
+In the late 1930s, ASCAP's general control over most music and its membership requirements were considered to be in restraint of trade and illegal under the [[Sherman Anti-Trust Act]]. The [[U.S. Department of Justice|Justice Department]] sued ASCAP in 1937 but abandoned the case. The Justice Department sued again in 1941, and the case was settled with a [[consent decree]] in which the most important points were that ASCAP must fairly set rates and not discriminate between customers who have basically the same requirements to license music, or "similar standing."  Also, anyone who is dissatisfied with the terms they can negotiate with ASCAP or otherwise are unable to get a license, may go to the court overseeing the consent decree and litigate the terms they find objectionable, and the terms set by the court will be binding upon the licensee and ASCAP.  [[Broadcast Music, Inc.|BMI]] also signed a consent decree in 1941, although the terms were much more favorable to BMI than those applied to ASCAP.<ref>{{cite web|url=http://www.mayerbrown.com/litigation/article.asp?id=837&nid=258 |title=Litigation & Dispute Resolution - Experience |publisher=Mayer Brown |date= |accessdate=2014-05-09}}</ref>
+
+===ASCAP boycott===
+{{main|ASCAP boycott}}
+In 1940, when ASCAP tried to double its license fees again, radio broadcasters formed a [[boycott]] of ASCAP and founded a competing royalty agency, [[Broadcast Music Incorporated]] (BMI). During a ten-month period lasting from January 1 to October 29, 1941, no music licensed by ASCAP (1,250,000 songs) was broadcast on [[NBC]] and [[CBS]] radio stations. Instead, the stations played regional music and styles (like [[rhythm and blues]] or country) that had been traditionally disdained by ASCAP. When  the differences between ASCAP and the broadcasters were resolved in October 1941, ASCAP agreed to settle for a lower fee than they had initially demanded.<ref>Elijah Wald, ''How The Beatles Destroyed Rock'n'Roll'', p. 131</ref>
+
+===Membership expands===
+ASCAP's membership diversified further in the 1940s, bringing along jazz and swing greats, including [[Duke Ellington]], [[Count Basie]], [[Benny Goodman]], and [[Fletcher Henderson]]. The movies also soared in popularity during the 1930s and 1940s, and with them came classic scores and songs by new ASCAP members like [[Harold Arlen]], [[Johnny Mercer]], [[Cole Porter]], [[Morton Gould]], and [[Jule Styne]]. [[Classical music|Classical-music]] composers [[Aaron Copland]], [[Igor Stravinsky]], and [[Leonard Bernstein]] brought their compositions into the ASCAP repertory in the 1940s.<ref>[http://www.ascap.com/about/history/1940s.html]  {{wayback|url=http://www.ascap.com/about/history/1940s.html |date=20140512214544 }}</ref>
+
+The rise of [[rock and roll]] derived from both country music and rhythm and blues music caused airplay of BMI licensed songs to double that of ASCAP licensed songs.  ASCAP officials decided that the practice of [[payola]] was the reason.  So ASCAP spearheaded a congressional investigation into the practice of payola in 1959.<ref>{{Cite book|url=https://books.google.com/books?id=4pXsV06JjY8C|title=Anti-rock: The Opposition to Rock 'n' Roll|last=Martin|first=Linda|last2=Segrave|first2=Kerry|date=1993-01-01|publisher=Da Capo Press|isbn=0306805022|language=en}}</ref>
+
+In the 1950s and 1960s, television was introduced as a new revenue stream for ASCAP, one that maintains its importance today. With the birth of [[FM broadcasting|FM radio]], new ASCAP members, including [[John Denver]], [[Jimi Hendrix]], [[Quincy Jones]], [[Janis Joplin]], and [[Carly Simon]] scored massive hits. Many Motown hits were written by ASCAP members [[Ashford & Simpson]], [[Marvin Gaye]], [[Smokey Robinson]], and [[Stevie Wonder]]. Both [[The Beatles]] and [[The Rolling Stones]] licensed their works through ASCAP, and the very first country [[Grammy Award]] went to ASCAP writer [[Bobby Russell]] for "[[Little Green Apples]]".<ref>[http://www.ascap.com/about/history/1960s.html]  {{wayback|url=http://www.ascap.com/about/history/1960s.html |date=20140512215911 }}</ref> During this period, ASCAP also initiated a series of lawsuits to recover the position they lost during the boycott of 1941, without success.<ref>[http://www.encyclopedia.com/doc/1G2-3468301604.html ] {{wayback|url=http://www.encyclopedia.com/doc/1G2-3468301604.html |date=20131104111912 }}</ref>
+
+The early 1960s [[folk music]] revival, led by ASCAP member [[Bob Dylan]] made ASCAP a major player in that genre.  Dylan's expansion into rock music later that decade gave ASCAP a foothold in that genre. At the same time, ASCAP member [[Shapiro, Bernstein & Co.]] started having country hits for ASCAP.<ref>{{Cite book|url=https://books.google.com/books?id=FVXVAgAAQBAJ|title=A Friend in the Music Business: The ASCAP Story|last=Pollock|first=Bruce|date=2014-01-01|publisher=Hal Leonard|isbn=9781480386099|language=en}}</ref>
+
+By 1970, a new generation of ASCAP board members decided to launch a campaign to attract more songwriters and music publishers away from BMI.  The campaign led to [[Motown Records]] switching most of its music publishing from BMI to ASCAP in 1971.<ref>{{Cite book|url=https://books.google.com/books?id=FVXVAgAAQBAJ|title=A Friend in the Music Business: The ASCAP Story|last=Pollock|first=Bruce|date=2014-01-01|publisher=Hal Leonard|isbn=9781480386099|language=en}}</ref>
+
+During the last three decades of the 20th century, ASCAP's membership grew to reflect every new development in music, including the [[funk]], [[punk rock]], [[heavy metal music|heavy metal]], [[hip hop music|hip-hop]], [[techno]], and [[grunge]] music genres. Creators ranging from [[Lauryn Hill]] and [[Dr. Dre]] to the [[Ramones]], [[Slayer]], and [[John Zorn]] joined. ASCAP launched a Latin membership department to serve ASCAP Latin writers—[[Marc Anthony]], [[Joan Sebastian]], and [[Olga Tañon]] among them–with the Spanish-speaking world as their audience. In 1981, ASCAP prevailed against CBS in an eleven-year-old court case challenging the ASCAP blanket license.<ref>[http://www.ascap.com/about/history/1970s.html]  {{wayback|url=http://www.ascap.com/about/history/1970s.html |date=20140512215913 }}</ref><ref>[http://www.ascap.com/about/history/1980s.html]  {{wayback|url=http://www.ascap.com/about/history/1980s.html |date=20140512221244 }}</ref><ref>[http://www.ascap.com/about/history/1990s.html]  {{wayback|url=http://www.ascap.com/about/history/1990s.html |date=20140512221704 }}</ref>
+
+Today, ASCAP remains one of the world's most far-reaching PROs.{{Citation needed|date=August 2010}} ASCAP licenses over 11,500 local commercial radio stations, more than 2500 non-commercial radio broadcasters and hundreds of thousands of "general" licensees (bars, restaurants, theme parks, etc.).<ref>[http://www.ascap.com/about/payment/whocollect.html]  {{wayback|url=http://www.ascap.com/about/payment/whocollect.html |date=20121003192204 }}</ref> It maintains reciprocal relationships with nearly 100 foreign PROs across six continents,<ref>[http://www.ascap.com/about/affiliated.html]  {{wayback|url=http://www.ascap.com/about/affiliated.html |date=20121003192216 }}</ref> and licenses billions of public performances worldwide each year.<ref>[http://www.ascap.com/about/payment/]  {{wayback|url=http://www.ascap.com/about/payment/ |date=20121003192354 }}</ref> ASCAP was the first U.S. PRO to distribute royalties for performances on the Internet and continues to pursue and secure licenses for websites, digital music providers and other new media.
+
+==Awards==
+ASCAP honors its top members in a series of annual awards shows in seven different music categories: pop, [[rhythm and blues|rhythm]] and [[soul music|soul]], film and television, [[Latin American music|Latin]], [[country music|country]], [[contemporary Christian music|Christian]], and [[classical music|concert music]]. In addition, ASCAP inducts jazz greats to its Jazz Wall of Fame in an annual ceremony held at ASCAP's New York City offices and honors PRS members that license their works through ASCAP at an annual awards gala in London, England.<ref>{{cite web|url=http://www.ascap.com/eventsawards/ |title=ASCAP : We Create Music : Events and Awards |publisher=Ascap.com |accessdate=2014-05-09}}</ref>
+
+In 1979, to honor composers of concert music (Classical) in the early stages of their careers, ASCAP created The ASCAP Foundation Young Composer Awards<ref>{{cite web|url=http://www.ascapfoundation.org/~/media/files/pdf/eventsawards/concertawards/young_composer_award_recipients_1979-2011.pdf |title=Young Composer Award Recipients 1979-2011 |publisher=Ascapfoundation.org |accessdate=2014-05-09}}</ref> which, upon the death of ASCAP President [[Morton Gould]]  in 1996, were renamed the ASCAP Foundation Morton Gould Young Composer Awards to honor Gould’s lifelong commitment to encouraging young creators as well as his own early development as a composer. (G. Schirmer published a composition by Gould when he was only six years old.) Composers under 30 apply each for cash awards which are funded through the Jack and Amy Norworth Fund. [[Jack Norworth]] wrote many [[Tin Pan Alley]] hits including the lyrics to "[[Take Me Out to the Ball Game]]".<ref>{{cite web|url=http://www.ascapfoundation.org/programs/awards/young-composer-awards.aspx |title=The ASCAP Foundation |publisher=The ASCAP Foundation |date= |accessdate=2014-05-09}}</ref>
+
+Beginning in 1986, ASCAP created the ''Golden Soundtrack Award'' to honor composers for "outstanding achievements and contributions to the world of film and television music." In 1996, it was renamed the ''Henry Mancini Award'' to pay tribute to the late composer's history of achievements in the field.<ref>{{cite web |title=ASCAP Henry Mancini Award |url=http://www.ascap.com/eventsawards/awards/mancini/index.html |publisher=ASACP |accessdate=January 28, 2012}}</ref>
+
+Through its annual ASCAP Plus Awards program, ASCAP compensates those writers whose works are substantially performed in venues and media outside of its surveys. An independent panel reviews the applications and makes cash awards to deserving members as well as writers whose works have a unique prestige value. Award amounts begin at $100. ASCAP is the only PRO with a cash awards program of this kind.<ref>{{cite web|url=http://www.ascap.com/members/ascaplus.aspx |title=ASCAP Plus Awards Information |publisher=Ascap.com |date=2012-02-22 |accessdate=2014-05-09}}</ref>
+
+ASCAP also bestows the near-annual Deems Taylor Awards to writers and music journalists. Named after the first president of ASCAP, [[Deems Taylor]], they were established in 1967 to honor his memory. The Deems Taylor Award "recognizes books, articles, broadcasts and websites on the subject of music selected for their excellence."<ref>[http://www.ascap.com/eventsawards/awards/deems_taylor/index.html]  {{wayback|url=http://www.ascap.com/eventsawards/awards/deems_taylor/index.html |date=20140428005111 }}</ref>
+
+ASCAP offers the ASCAP OnStage program, which gives ASCAP members the opportunity to get paid for live performances at ASCAP-licensed venues.<ref>{{cite web |title=ASCAP OnStage |url=http://www.ascap.com/onstage|publisher=ASCAP |accessdate=February 12, 2013}}</ref>
+
+==ASCAP "I Create Music" EXPO==<!--linked from [[ASCAP Expo]]-->
+In April 2006, ASCAP inaugurated its annual ASCAP "I Create Music" EXPO, the first national conference fully dedicated to songwriting and composing. The first EXPO featured workshops, panels, mentor sessions and performances with notable figures from all music genres and sectors of the music industry. The most recent EXPO took place between April 18 and 20, 2013. Highlights included conversations between [[Ne-Yo]] & [[Stargate]], [[Diplo]] & [[Big Sean]] and [[Nathan Johnson (musician)|Nathan Johnson]] & [[Joseph Gordon-Levitt]]; Master Sessions with [[Steve Lillywhite]], [[No I.D.]] and [[Nico Muhly]]; performances by [[Judy Collins]] and [[Gretchen Peters]] among other notable music creators and industry insiders.<ref>{{cite web|url=http://www.ascap.com/eventsawards/events/expo/news/2013/04/missed-this-years-incredible-ascap-i-create-music-expo-watch-it-online.aspx |title=Missed This Year's Incredible ASCAP "I Create Music" EXPO? Watch it Online! |publisher=Ascap.com |date=2013-04-23 |accessdate=2014-05-09}}</ref> 2011 featured [[Ingrid Michaelson]] and [[Matt Wilson (singer)|Matt Wilson]] as part of the Writer's Jam panel.<ref>{{cite web|url=https://www.youtube.com/watch?v=ihsQTnCPb70&ebc=ANyPxKo6OCa-8nQuGxOAzXaC0JFlZPeErMqZQKnb-1RWgupqQwokiVtzYmehYbDsL8icvSyLe5YNZAmewSRyXNh5cUbd7D4Ytg&nohtml5=False|title=Ingrid Michaelson Performs &quot;The Way I Am&quot; at ASCAP &quot;I Create Music&quot; EXPO - YouTube|accessdate=2016-04-06}}</ref>
+
+==Member benefits==
+ASCAP was the first American PRO to offer a package of exclusive benefits to its members. {{As of|2013|07}} these benefits include:<ref>{{cite web|url=http://www.ascap.com/benefits/ |title=ASCAP Member Benefits |publisher=Ascap.com |date= |accessdate=2014-05-09}}</ref>
+
+:*Discount on membership to the [[Songwriters Hall of Fame]]
+:*Membership in the U.S. Alliance Federal Credit Union
+:*Discounts on [[health insurance|health]], [[dental insurance|dental]], instrument and [[life insurance]] via its MusicPro program
+:*Discount on ASCAP Web Tools, a set of internet-based marketing and sales tools developed by [[Nimbit, Inc.]] for ASCAP members
+:*Discounts on music-related retail products and services
+:*Hotel and rental car discounts
+
+==''Playback'' magazine==
+ASCAP distributes to its members ''Playback'', a magazine highlighting the progress and career accomplishments of ASCAP's writer and publisher members. ''Playback'' content is also available to the general public on ASCAP's website.<ref>{{cite web|url=http://www.ascap.com/playback/ |title=Playback Magazine |publisher=Ascap.com |date= |accessdate=2014-05-09}}</ref>
+
+==Criticism==
+ASCAP attracted media attention in 1996 when it threatened [[Girl Scouts of the USA]] and [[Boy Scouts of America]] camps that sang ASCAP's copyrighted works at camps with lawsuits for not paying licensing fees.<ref name="autogenerated1">{{cite web|author= |url=http://www.law.umkc.edu/faculty/projects/ftrials/communications/ASCAP.html |title=ASCAP |publisher=Law.umkc.edu |date= |accessdate=2014-05-09}}</ref> These threats were later retracted.<ref name="autogenerated1"/> However, it has drawn negative attention for cracking down on licensing fees on other occasions as well, such as when it demanded that open mic events need to pay licensing (even if most or all of the songs are original).<ref>{{cite web|url=http://www.techdirt.com/articles/20090109/1823043352.shtml |title=How ASCAP And BMI Are Harming Up-And-Coming Singers |publisher=Techdirt |date=2009-01-12 |accessdate=2014-05-09}}</ref>
+
+ASCAP has also been criticized for its extremely non-transparent operations, including the refusal to release attendance records for board members, the notes from board meetings, and the reasoning behind their weighting formulas which determine how much money a song or composition earns for use on television or radio.<ref>{{cite web|url=http://www.filmmusicmag.com/?p=529 |title=ASCAP Since AFJ2 – A Series of Unfortunate Events :: Film Music Magazine |publisher=Filmmusicmag.com |date= |accessdate=2014-05-09}}</ref>
+
+In 2009, an ASCAP rate court case regarding [[ringtone]]s generated considerable public attention. Critics claimed that ASCAP may seek to hold consumers responsible for a ringtone public performance.<ref>{{cite web|url=http://www.eff.org/press/archives/2009/07/02 |title=ASCAP Makes Outlandish Copyright Claims on Cell Phone Ringtones &#124; Electronic Frontier Foundation |publisher=Eff.org |date=2009-07-02 |accessdate=2014-05-09}}</ref> In statements to the press, ASCAP noted the following:
+
+:*It is seeking to ensure that wireless carriers pay ASCAP members a share of the substantial revenue that mobile operators derive from content (like ringtones) that uses ASCAP members' music. This content includes the delivery of full track songs, music videos, television content, ringtones and ringback tones.
+:*It has been licensing wireless carriers and ringtone content providers since 2001, and that it is not in any way seeking to charge consumers.
+:*It is striving to license those that make a business of transmitting its members' music. This holds true for any medium where businesses have been built by using this music as content or a service – whether terrestrial broadcast, satellite, cable, Internet or wireless carriers providing audio and video content.<ref>[http://www.billboard.biz/bbbiz/search/article_display.jsp?vnu_content_id=1003986517 ] {{wayback|url=http://www.billboard.biz/bbbiz/search/article_display.jsp?vnu_content_id=1003986517 |date=20120924105617 }}</ref>
+
+On October 14, 2009, a federal court ruled that "when a ringtone plays on a cellular telephone, even when that occurs in public, the user is exempt from copyright liability, and [the cellular carrier] is not liable either secondarily or directly."  The ruling made clear that playing music in public, when done without any commercial purpose, does not infringe copyright. (US v. ASCAP, US District Court, Southern District of New York).<ref>{{cite web|author= |url=http://www.eff.org/deeplinks/2009/10/court-rules-phones-ringing-public-dont-infringe-co |title=Court Rules That Phones Ringing in Public Don't Infringe Copyright &#124; Electronic Frontier Foundation |publisher=Eff.org |date=2009-10-15 |accessdate=2014-05-09}}</ref>
+
+Further controversies arose involving ASCAP in 2009 and 2010. The organization requested that some websites pay licensing fees on embedded YouTube videos, even though YouTube already pays licensing fees,<ref>{{cite web|url=http://www.dmwmedia.com/news/2009/07/09/ascap-seeks-royalties-embedded-youtube-music-videos |title=ASCAP Seeks Royalties on Embedded YouTube Music Videos &#124; Digital Media Wire &#124; connecting people & knowledge |publisher=Dmwmedia.com |date=2014-05-02 |accessdate=2014-05-09}}</ref> and demanded payment from [[Amazon.com]] and [[iTunes]] for 30-second streaming previews of music tracks,<ref>{{cite web|last=Sandoval |first=Greg |url=http://news.cnet.com/8301-1023_3-10355448-93.html |title=Music publishers: iTunes not paying fair share - CNET |publisher=News.cnet.com |date=2009-09-17 |accessdate=2014-05-09}}</ref> which traditionally does not require a license, being considered a promotional vehicle for song sales. It also sued a Manhattan bar over the unlicensed use of music, naming [[Bruce Springsteen]] as a [[plaintiff]] without Springsteen being informed or consenting.<ref>{{cite web|author= |url=http://www.shorefire.com/index.php?a=pressrelease&o=3650 |title=Shore Fire Media - Boutique Public Relations Firm |publisher=Shorefire.com |date= |accessdate=2014-05-09}}</ref>
+
+In 2009, Mike Masnik, the founder and CEO of Floor64, accused ASCAP of keeping some royalties instead of passing them on to artists. He claimed ASCAP collects royalties from all sizes of live performance on behalf of all the artists it represents but passes on the royalties only to artists whose music is represented in one of "the top 200 grossing US tours of the year."<ref>{{cite news |author=[[Mike Masnick|Masnick, Mike]] |date=September 10, 2009|title=How Performing Rights Groups Funnel Money To Top Acts And Ignore Smaller Acts – From the Nice-Trick Dept |publisher=Blog on ''[[Techdirt]]'' |url=http://www.techdirt.com/articles/20090909/0318406140.shtml|accessdate=April 2, 2012 }}</ref>
+
+In June 2010, ASCAP sent letters to its members soliciting donations to fight entities that support weaker copyright restrictions, such as [[Public Knowledge]], the [[Electronic Frontier Foundation]], and [[Creative Commons]],<ref>{{cite web|url=http://www.zeropaid.com/news/89494/ascap-declares-war-on-free-culture/ |title=ASCAP Declares War on Free Culture |publisher=Zeropaid.com |date=2010-06-24 |accessdate=2014-05-09}}</ref><ref>{{cite web|url=http://www.nicolabattista.it/music-the-world-vs.-ascap.html |title=Music & Copyright: ASCAP vs. The World; The World vs. ASCAP? |publisher=Nicolabattista.it |date=2010-06-25 |accessdate=2014-05-09}}</ref> creating notable controversy as many<ref>{{cite news |author=[[Mike Masnick|Masnick, Mike]]|date=June 25, 2010|title=ASCAP Claiming that Creative Commons Must Be Stopped; Apparently They Don't Actually Believe in Artist Freedom – From the Protectionism-All-the-Way Dept |publisher=Blog on ''[[Techdirt]]'' |url=http://www.techdirt.com/articles/20100624/1640199954.shtml|accessdate=August 23, 2010 | archiveurl= https://web.archive.org/web/20100814155341/http://www.techdirt.com/articles/20100624/1640199954.shtml| archivedate= August 14, 2010 <!--DASHBot-->| deadurl= no}}</ref> argued that these licences are a form of copyright and offer the artist an extra choice. [[Lawrence Lessig]], a co-founder of Creative Commons, responded stating that they are not aiming to undermine copyright, and invited ASCAP for a public debate.<ref>{{cite news |author=[[Lawrence Lessig|Lessing, Lawrence]] |date=July 10, 2010|title=ASCAP's Attack on Creative Commons |publisher=[[Op-ed]] essay on ''[[The Huffington Post]]'' |url=http://www.huffingtonpost.com/lawrence-lessig/ascaps-attack-on-creative_b_641965.html|accessdate=August 23, 2010 | archiveurl= https://web.archive.org/web/20100716185445/http://www.huffingtonpost.com/lawrence-lessig/ascaps-attack-on-creative_b_641965.html?| archivedate= July 16, 2010 <!--DASHBot-->| deadurl= no}}</ref> The offer was turned down by ASCAP's [[Paul Williams (songwriter)|Paul Williams]].<ref>{{cite news |author=[[Mike Masnick|Masnick, Mike]] |date=July 28, 2010|title=ASCAP Boss Refuses To Debate Lessig; Claims that It's an Attempt To 'Silence' ASCAP – From the You-and-Me-Against-the-World Dept |publisher=Blog on ''[[Techdirt]]'' |url=http://www.techdirt.com/articles/20100727/23070310388.shtml|accessdate=August 23, 2010 | archiveurl= https://web.archive.org/web/20100731042912/http://techdirt.com/articles/20100727/23070310388.shtml| archivedate= July 31, 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+==See also==
+*[[Copyright collective]]
+*[[United States v. ASCAP]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+* ASCAP (1948) ''[http://www.folklib.net/book/index/book_ascap.shtml#pn The ASCAP Biographical Dictionary, 1st ed., 483 p.]'' ("1,890 writers, 309 publishers: 1,887 biographies") .
+* ASCAP (1952) ''[http://www.folklib.net/book/index/book_ascap.shtml#po The ASCAP Biographical Dictionary, 2nd ed., 636 p.]'' ("2,297 writers (including 203 women), 453 publishers: ? biographies") LC: 52-7038 .
+* ASCAP (1966) ''[http://www.folklib.net/book/index/book_ascap.shtml#pp The ASCAP Biographical Dictionary, 3rd ed., 845 p.]'' ("8,500 writers, 2,800 publishers: 5,238 biographies') LC: 66-20214 .
+* ASCAP (1980) ''[http://www.folklib.net/book/index/book_ascap.shtml#pq The ASCAP Biographical Dictionary, 4th ed., 589 p.]'' ("? writers, 7,000 publishers: 8,200 biographies") LC: 80-65351, ISBN 0-8352-1283-1 .
+
+==Further reading==
+*Blume, Jason (2006).  ''This Business of Songwriting''.  [[Billboard Books]] (New York City).  ISBN 978-0-8230-7759-5.
+*Choquette, Frederic, "The Returned Value of PROs", ''Music Business Journal'', [[Berklee College of Music]], May 2011
+*Passman, Donald S. (2003).  ''All You Need to Know about the Music Business''.   [[Free Press (publisher)|Free Press]] (New York City).  ISBN 978-0-7432-4637-8.
+*Shemel, Sidney; Krasilovsky, M. William (1990).  ''This Business of Music''.  [[Billboard Books]] (New York City). ISBN 978-0-8230-7706-9.
+
+==External links==
+*[http://www.ascap.com Official website]
+*[http://archives.nypl.org/mus/22936 ASCAP archives, 1914-1986] Music Division, The New York Public Library.
+
+{{DEFAULTSORT:American Society Of Composers, Authors And Publishers}}
+[[Category:Copyright collection societies]]
+[[Category:Music industry associations]]
+[[Category:Music organizations based in the United States]]
+[[Category:Non-profit organizations based in New York]]
+[[Category:Organizations based in New York City]]
+[[Category:Organizations established in 1914]]
+[[Category:ASCAP|*]]

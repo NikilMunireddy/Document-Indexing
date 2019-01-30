@@ -1,0 +1,27 @@
+480i
+
+'''480i''' is the shorthand name for a video mode, namely the US [[NTSC]] [[television]] [[broadcast television system|system]] or [[digital television]] systems with the same characteristics. The ''i'', which is sometimes uppercase, stands for ''[[Interlacing|interlaced]]'', the ''480'' for a vertical frame resolution of 480 lines containing picture information; while NTSC has a total of 525 lines, only 483 of these are used to display the image for [[Digital video|DV]]-NTSC.  Its [[PAL]]/[[SECAM]] counterpart is [[576i]]; together, these are the two common forms of [[standard-definition television]].  This standard is endorsed by the ITU in [[BT.601]] and the SMPTE in [[SMPTE 259M]].
+
+==Technical detail==
+For analog NTSC there are a total of 525 scanning lines of which originally 483 lines were visible (241.5 visible lines + 21 lines of vertical blanking per field) and later 480 (240 complete lines per field).  [For quad video recording systems, the math suggests 15 transverse head passes, each consisting of 16 lines of video, are required to complete one field.]  A full frame consists of two fields.  One field contains the odd-numbered lines and the other contains the even ones. By convention an NTSC video frame is considered to start with an even field followed by an odd field. The disparity of the line numbering compared to other systems is solved by defining the line numbering to start five equalizing pulses (or 2 and a half lines) earlier than on all other systems (including Systems A and E even though they had no equalizing pulses) on the first equalizing pulse following an active line or half line. This has the effect of placing a half line of video at the end of the even (first) field and the beginning of the odd (second field). Thus the line numbers correspond to the real lines of the video frame. On all other systems, the field was considered to start with the falling edge of the first field pulse which gave the confusing position that the odd field (first) had a half a line of video occupying the latter half of a whole line and ended with a whole line of video but half a scanning line (and vice versa for the even field). The NTSC convention solved this confusion.<ref>Report 308-2 of the XIIth Planiary of the CCIR - Characteristics of TV systems.</ref>
+
+For DV-NTSC only 480 lines are used. The [[digital television|digitally transmitted]] horizontal resolution is usually 720 samples (which includes 16 samples for the horizontal sync and horizontal blanking) or 704 visible [[pixel]]s with an [[aspect ratio (image)|aspect ratio]] of 4:3 (with vertically rectangular pixels) and therefore a display resolution of 640 × 480 ([[VGA]]); that is [[standard-definition television]] (SDTV) with a 4:3 aspect ratio (with square pixels).<ref>{{cite web|url=http://www.rpsoft2000.com/information/hdtv.htm |title=rpsoft 2000 software|work=rpsoft2000.com|accessdate=1 June 2015}}</ref><ref>{{cite web|url=http://www.afterdawn.com/glossary/terms/480i.cfm |title=480i|work=afterdawn.com|accessdate=1 June 2015}}</ref><ref>[http://reviews.cnet.com/4520-6029_7-6300992-1.html?tag=txt Glossary - 480i]</ref><ref>[http://encyclopedia2.thefreedictionary.com/480i 480i]</ref>
+
+The [[field rate]] (not the [[frame rate]]) is usually (60/1.001) = 59.94 [[Hertz]] for color [[Television|TV]] and can be rounded up to 60 Hz. There are several conventions for written shorthands for the combination of resolution and rate: '''480i60''', '''480i/30''' ([[European Broadcasting Union|EBU]]/SMPTE always use frame rate to specify interlaced formats) and '''480/60i'''. 480i is usually used in countries that conventionally use NTSC (most of the Americas and [[Japan]]), because the 525 transmitted lines at 60 hertz of analogue NTSC contain 480 visible ones.
+
+480i can be transported by all major [[digital television]] formats, [[ATSC Standards|ATSC]], [[Digital Video Broadcasting|DVB]] and [[ISDB]].
+
+==See also==
+{{Portal|Television}}
+* [[Enhanced-definition television]] (EDTV)
+* [[List of common resolutions]]
+* [[Ultra-high-definition television|4320p]], [[2160p]], [[1080p]], [[1080i]], [[720p]], [[576p]], [[576i]], [[480p]], [[360p]], [[240p]]
+
+==References==
+{{reflist}}
+
+{{TV resolution}}
+{{Video formats}}
+
+[[Category:Television terminology]]
+[[Category:Video formats]]

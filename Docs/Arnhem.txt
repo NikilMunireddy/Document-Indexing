@@ -1,0 +1,371 @@
+Arnhem
+
+{{Hatnote|This article is about the Dutch city and municipality. For other uses, see [[Arnhem (disambiguation)]].}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Arnhem
+| settlement_type         = [[Cities of the Netherlands|City]] and [[List of municipalities of the Netherlands|Municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = Rijnkade, Arnhem at night.jpg
+| image_alt               = 
+| image_caption           = Skyline of Arnhem at night
+| image_flag              = VlagArnhem.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Coat of arms of Arnhem.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0202 (2009).svg
+| map_alt                 = Highlighted position of Arnhem in a municipal map of Gelderland
+| map_caption             = Location in Gelderland
+| latd = 51 |latm = 59 |latNS = N
+| longd = 5 |longm = 55 |longEW = E
+| coordinates_display     = inline,title
+| coordinates_footnotes   = 
+| coordinates_region      = NL
+<!-- Location, established, seat, subdivisions, government, leaders-->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = [[Provinces of the Netherlands|Province]]
+| subdivision_name1       = [[Gelderland]]
+| government_footnotes    = <ref name="mayor_now">{{cite web 
+ |url = http://www.arnhem.nl/Politiek_en_organisatie/Burgemeester_en_wethouders/Herman_Kaiser_burgemeester
+ |title = Herman Kaiser (burgemeester) 
+ |trans_title = Herman Kaiser (mayor) 
+ |language = Dutch
+ |author = 
+ |date = 
+ |work = 
+ |publisher = Gemeente Arnhem
+ |accessdate = 10 June 2014}}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[Christian Democratic Appeal|CDA]]
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Herman Kaiser]]
+<!-- Geographic information -->
+| total_type              = Municipality
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Arnhem}}
+| area_land_km2           = {{Dutch municipality land area|Arnhem}}
+| area_water_km2          = {{Dutch municipality water area|Arnhem}}
+| elevation_footnotes     = <ref name="AHN">{{cite web 
+ |url = http://www.ahn.nl/postcodetool
+ |title = Postcodetool for 6811DG
+ |trans_title = 
+ |language = Dutch
+ |author = <!--Staff writer(s); no by-line.--> 
+ |date = 
+ |work = Actueel Hoogtebestand Nederland
+ |publisher = Het Waterschapshuis
+ |accessdate = 10 June 2014}}</ref>
+| elevation_m             = 13
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Arnhem}}
+| population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_density_km2  = {{Dutch municipality population density|Arnhem}} <!-- For automatic calculation: auto-->
+| population_urban        = {{Dutch municipality population urbanmetro|Arnhem Urban}}
+| population_metro        = {{Dutch municipality population urbanmetro|Arnhem Metro}}
+| population_demonym      = Arnhemmer
+<!-- Other information -->
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 6800–6846
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 026
+| website                 = {{URL|1=http://www.arnhem.nl}}
+| footnotes               =
+}}
+'''Arnhem''' {{IPAc-en|ˈ|ɑːr|n|ə|m}} or {{IPAc-en|ˈ|ɑːr|n|h|ɛ|m}} ({{IPA-nl|ˈɑrnɛm|-|nl-Arnhem.ogg}} or {{IPA-nl|ˈɑrnɦɛm||Nl-Arnhem.oga}}; {{lang-de|Arnheim}}, {{lang-fy|Arnhim}}, [[South Guelderish]]: ''Èrnem'') is a city and [[municipality]], situated in the eastern part of the [[Netherlands]]. It is the capital of the province of [[Gelderland]] and located on both banks of the rivers [[Nederrijn]] and [[Sint-Jansbeek]], which was the source of the city's development. Arnhem had a population of {{formatnum:{{Dutch municipality population|Arnhem}}}} in {{YEAR|{{Dutch municipality population|popbaseyear}}}} and is one of the [[List of municipalities of the Netherlands|larger cities of the Netherlands]]. The municipality is part of the [[city region]] [[Knooppunt Arnhem-Nijmegen|Arnhem-Nijmegen]], which has a combined 736,500 inhabitants.{{citation needed|date=June 2014}} Arnhem is home to the [[Hogeschool van Arnhem en Nijmegen]], [[ArtEZ Institute of the Arts]], [[Netherlands Open Air Museum]], [[Royal Burgers' Zoo]] and [[National Sports Centre Papendal]].
+
+==History==
+
+===Early history===
+The oldest archeological findings of human activity around Arnhem are two firestones of about 70,000 years ago. These come from the [[stone age]], when the [[Neanderthal]]s lived in this part of Europe. In [[Population centers of Arnhem#Schuytgraaf|Schuytgraaf]], remnants of a hunters camp from around 5000 BC have been discovered. In [[Population centers of Arnhem#Schaarsbergen|Schaarsbergen]], 12 grave mounds were found from 2400 BC, which brought the so-called [[Neolithic Revolution|Neolithic revolution]] to the area of Arnhem, i.e., the rise of the farmers.
+
+The earliest settlement in Arnhem dates from 1500 BC, of which traces have been found on the [[Population centers of Arnhem#Hoogkamp|Hoogkamp]], where the Van Goyenstraat is currently located. In the inner city, around the [[Sint-Jansbeek]], traces of settlement have been found from around 700 BC, while the first traces south of the Rhine have been found dating to around 500 BC, in the ''Schuytgraaf''.
+
+Though the early tracks of settlements did show that the early residents of Arnhem descended from the forests on the hills, Arnhem was not built on the banks of the river Rhine, but a little higher along the Sint-Jansbeek. Arnhem arose on the location where the road between [[Nijmegen]] and [[Utrecht (city)|Utrecht]]/[[Zutphen]] split. Seven streams provided the city with water, and only when the flow of the Rhine was changed in 1530, was the city located on the river.
+
+=== Middle Ages ===
+Arnhem was first mentioned as such in 893 as ''Arneym'' or ''Arentheym''.
+
+[[File:Springer-Arnhem.png|thumb|200px|left|The old city hall]]
+In 1233 Count [[Otto II, Count of Guelders|Otto II]] of [[County of Guelders|Guelders]] from [[Zutphen]], conferred [[City rights in the Netherlands|city rights]] on the town, which had belonged to the abbey of Prüm, settled in, and fortified it. Arnhem entered the [[Hanseatic League]] in 1443. In 1473, it was captured by [[Charles the Bold]] of Burgundy.
+
+===16th and 17th century===
+In 1514, [[Charles of Egmond]], [[duke]] of [[Duchy of Guelders|Guelders]], took it from the dukes of [[Duchy of Burgundy|Burgundy]]; in 1543, it fell to the [[emperor]] [[Charles V, Holy Roman Emperor|Charles V]]. As capital of the so-called "Kwartier van Veluwe" it joined the [[Union of Utrecht]] during the [[Eighty years war]] in 1579. After [[Siege of IJsseloord|its capture from the Spanish forces]] by Dutch and English troops in 1585 the city  became part of the [[Dutch Republic|Republic of the Seven United Provinces of the Netherlands]].
+
+The French occupied the town 1672–74.
+
+===18th and 19th century ===
+From 1795 to 1813, it was reoccupied by the French, by both revolutionary and imperial forces.
+
+In the early 19th century, the former fortifications were almost completely dismantled, to give space for town expansion. The ''Sabelspoort'' (Sabresgate) is the only remaining part of the medieval walls.
+
+In the 19th century, Arnhem was a genteel resort town famous for its picturesque beauty. It was known as "het Haagje van het oosten" (The Little Hague of the East), mainly because a number of rich former sugar barons or planters from the Indies settled there, as they did in [[The Hague]]. Even now the city is famous for its parks and greenery. The urbanization in the north on hilly terrain is also quite unusual for the Netherlands.
+
+===The Battle of Arnhem===
+{{Main|Battle of Arnhem}}
+[[File:Jfbrug.JPG|thumb|200px|right|The [[John Frost Bridge]], seen from the memorial.]]
+In [[World War II]], during [[Operation Market Garden]] (September 1944), the [[British 1st Airborne Division]] and the [[Polish 1st Independent Parachute Brigade]] were given the task of securing the [[bridge]] at Arnhem. The units were [[parachute]]d and glider-landed into the area on 17 September and later. The bulk of the force was dropped rather far from the bridge and never met their objective. A small force of [[British 1st Airborne]] managed to make their way as far as the bridge but was unable to secure both sides. The [[Allies of World War II|Allied]] troops encountered stiff resistance from the German [[9th SS Panzer Division Hohenstaufen|9th]] and [[10th SS Panzer Division Frundsberg|10th]] [[SS]] [[Panzer]] divisions, which had been stationed in and around the city.
+
+The British force at the bridge eventually ran out of ammunition and were captured on 21 September, and a full withdrawal of the remaining forces was made on 26 September. These events were dramatized in the 1977 movie ''[[A Bridge Too Far (1977 film)|A Bridge Too Far]]''. (The bridge scenes in the movie were shot in [[Deventer]], where a similar bridge over the [[IJssel]] was available, as the area around Arnhem bridge had changed too much to represent WWII era Arnhem). As a tribute, the rebuilt bridge was renamed '[[John Frost (British Army officer)|John Frost]]-bridge' after the commander of the paratroopers. The official commemoration is 17 September.
+
+The current bridge is the third almost-identical bridge built at the same spot. The Dutch Army destroyed the first bridge when the Germans invaded the Netherlands in 1940. The second bridge was destroyed by the US Army Air Forces shortly after the 1944 battle.
+
+===Liberation===
+{{Main|Liberation of Arnhem}}
+A second battle of Arnhem took place in April 1945 when the city was liberated by the British [[49th (West Riding) Infantry Division]] fighting as part of the [[First Canadian Army]].
+
+Just outside Arnhem, in the town of Oosterbeek the [[Commonwealth War Graves Commission]] built the [[Arnhem Oosterbeek War Cemetery]] which contains the graves of most of those killed during the September landings, and many of those killed in later fighting in the area.
+
+==Names of Arnhem==
+Through the ages, the area of Arnhem has been known by various names, both official and unofficial.
+
+;Arnhem
+The name ''Arnhem'' comes from ''Arneym'', much earlier ''Arentheem'', and originally derived from [[Latin]] ''Arenacum''. The Dutch name literally means ''"home of the eagle"'' (arend means eagle in Dutch) and stems from the many [[eagle]]s that used to inhabit the hills and the woods of Arnhem. The name Arneym is first mentioned in 893 by the monastery Sint-Salvatorabdij. The name Arenacum, the first mention of the area which became known as Arnhem, comes from the Roman era and means ''"with eagles"''.
+
+;Èrnem
+''Èrnem'' is the name of the city in the local dialect, [[Zuid-Gelders|South Guelderish]]. In everyday life, the name is not often used by the inhabitants of Arnhem, who seldom speak with the Arnhemian accent/dialect any more. This accent is now mainly confined to the working class areas.
+
+;Arnheim
+''Arnheim'' is the German name for Arnhem; it more clearly refers to the origin of the name (heim = home).
+
+'''Hague of the East''' (''Haagje van het Oosten'' in Dutch)<br>
+In the second half of the 19th century, Arnhem was an elitist city and therefore was sometimes called [[The Hague]] of the east of the Netherlands.
+
+'''Green city on the Rhine''' or '''Park City'''<br>
+The image of Arnhem on the Rijn, with green forests in the background, has always been a much-loved theme of painters. Besides that, Arnhem has many parks. This has earned Arnhem the name ''Green city on the Rhine'' (from the 17th century) or ''Park City'' (from the 19th century).
+
+;Meginhardeswich
+Around 814 there is a written reference to ''Meginhardeswich'', which is now, as the present-day ''Meijnerswijk'', part of Arnhem. In 847 it was plundered by the [[Viking]]s.
+
+;Oppidium Arnoldi Villa
+When the Romans came to the Netherlands c. 50 BC, the area around was called ''Oppidium Arnoldi Villa''. The settlement itself was called ''Arenacum''.
+
+==Topography==
+[[File:Arnhem-plaats-OpenTopo.jpg|560px]]
+
+Topographic map image of Arnhem (city), September 2014.
+
+==Population centres==
+The municipality of Arnhem consists of the city of Arnhem and the following surrounding suburbs and former villages:
+* [[Elden, Netherlands]] (former village, now totally surrounded by other Arnhem neighbourhoods )
+* [[Schaarsbergen]]
+
+==Places of interest==
+[[File:Rozet-building-arnhem.JPG|thumb|Cultuurhuis Rozet]]
+The ''[[St Eusebius' Church, Arnhem|Groote Kerk]]'' (St. Eusebius), built 1452–1560, lost most of its tower during World War II, of which a part has been reconstructed to a modern design and opened in 1964. Officially the tower is not part of the church and is owned by the municipality.
+
+The house of Maarten van Rossum, a general serving Duke Charles van Gelre, has been the town hall since 1830: The [[satyr]]s in its [[Renaissance]] ornamentation earned it the name ''Duivelshuis'' ("devil's house").
+
+The [[Netherlands Open Air Museum]] is located outside the city. It includes antique houses, farms, factories, and [[windmill]]s from different parts of the Netherlands. Two other windmills stand in Arnhem itself, [[De Hoop, Arnhem|De Hoop]] and [[De Kroon, Arnhem|De Kroon]].
+
+[[Burgers' Zoo]] is one of the biggest and most-visited zoos in the Netherlands, featuring an underwater walkthrough, desert, mangrove, rainforest, etc.
+
+The [[Gelredome]], the home of [[Vitesse Arnhem]], the city's [[Eredivisie]] team in [[football (soccer)|football]], is a unique facility that features a retractable roof and a slide-out grass pitch. The concept has been fully duplicated since then by the [[Veltins-Arena]] in [[Gelsenkirchen]], Germany, and the [[University of Phoenix Stadium]] in [[Glendale, Arizona]], USA, and partially by the [[Sapporo Dome]] in Japan (which has a sliding pitch but a fixed roof).
+
+The [[KEMA Toren]] (formerly known as ''SEP Control Tower'') is the highest structure of the town. It is a 140-m-high TV tower.
+
+==Sport==
+Sport in the city is principally focussed on its [[association football]] club [[Vitesse Arnhem]]. Arnhem was the host city for the 1980 Summer Paralympics.
+
+==Transport==
+[[File:Station Arnhem Centraal.JPG|thumb|[[Arnhem Centraal railway station]]]]
+[[File:Arnhem-Trolleybus-4-wheel-steering.jpg|right|thumb|Trolleybus in Arnhem]]
+Arnhem has a main central railway station since 1845 – [[Arnhem Centraal railway station]], which is serviced by several intercity lines and the [[InterCityExpress|ICE]] to [[Düsseldorf]] and further on to [[Frankfurt]].  Nowadays, there are also NS Hispeed trains to other destinations abroad, with some coaches going as far as [[Moscow]].  The intercity lines provide direct connections to [[Utrecht (city)|Utrecht]], [[Nijmegen]], and [[Zutphen]].  It is also the terminus for several local railway services.  Arnhem has three other stations, namely [[Arnhem Velperpoort railway station|Arnhem Velperpoort]] (since 1953), [[Arnhem Presikhaaf railway station|Arnhem Presikhaaf]] (since 1969), and [[Arnhem Zuid railway station|Arnhem Zuid]] (since 2005).
+
+Arnhem is unique in the Netherlands with its [[Arnhem trolleybus|trolleybus system]].
+
+==Notable residents==
+:''See also [[:Category:People from Arnhem|People from Arnhem]]''
+* Graphic artist [[M. C. Escher]] moved to Arnhem when he was five and spent most of his youth there.
+* Dutch/British actress [[Audrey Hepburn]] attended Arnhem [[Music school|Conservatory]] during the war years 1939–45.
+* Arnhem was the birthplace of physicist and [[Nobel Prize]] laureate [[Hendrik Lorentz]] in 1853.
+* [[Cirque du Soleil]] artist ([[Love (Cirque du Soleil)|Love]], 2006) [[Goos Meeuwsen]] was born in Arnhem.
+* The English poet Sir [[Philip Sidney]] died in 1586 in Arnhem.
+* Dutch water polo player [[Rik Toonen]], winner of Olympic bronze in 1976, was born in Arnhem.
+* The film comedian [[Truus van Aalten]] was born in Arnhem in 1910.
+* Arnhem was the deathplace of the architect [[Jan van der Jagt]].
+
+==Facts and Figures==
+* ''Arnhem'' is the name of a march composed by [[A.E. Kelly]].
+* [[Arnhem Land]] in Australia is named after the [[Dutch East India Company|VOC]]-ship ''Arnhem''.
+
+==Climate==
+Arnhem features the same climate (Cfb, oceanic climate) as most of the Netherlands, however, its location on the foothills of the Veluwe, the largest forest in the Netherlands, contributes to some higher precipitation values.
+{{Weather box
+|location = Arnhem, Netherlands
+|metric first = Yes
+|single line = Yes
+|Jan record high C = 14.5
+|Feb record high C = 16.8
+|Mar record high C = 22.5
+|Apr record high C = 27.3
+|May record high C = 31.6
+|Jun record high C = 33.9
+|Jul record high C = 35.6
+|Aug record high C = 37.2
+|Sep record high C = 30.7
+|Oct record high C = 26.4
+|Nov record high C = 17.3
+|Dec record high C = 15.1
+|year record high C = 37.2
+|Jan high C = 5.0
+|Feb high C = 5.9
+|Mar high C = 9.7
+|Apr high C = 14.0
+|May high C = 18.1
+|Jun high C = 20.5
+|Jul high C = 22.9
+|Aug high C = 22.5
+|Sep high C = 18.9
+|Oct high C = 14.2
+|Nov high C = 9.0
+|Dec high C = 5.4
+|year high C = 13.8
+|Jan mean C = 2.4
+|Feb mean C = 2.7
+|Mar mean C = 5.6
+|Apr mean C = 8.9
+|May mean C = 13.0
+|Jun mean C = 15.5
+|Jul mean C = 17.8
+|Aug mean C = 17.3
+|Sep mean C = 14.2
+|Oct mean C = 10.3
+|Nov mean C = 6.1
+|Dec mean C = 3.0
+|year mean C = 9.7
+|Jan low C = -0.4
+|Feb low C = -0.5
+|Mar low C = 1.6
+|Apr low C = 3.6
+|May low C = 7.5
+|Jun low C = 10.0
+|Jul low C = 12.4
+|Aug low C = 12.0
+|Sep low C = 9.7
+|Oct low C = 6.5
+|Nov low C = 3.1
+|Dec low C = 0.3
+|year low C = 5.5
+|Jan record low C = -24.2
+|Feb record low C = -16.2
+|Mar record low C = -17.0
+|Apr record low C = -9.4
+|May record low C = -2.4
+|Jun record low C = -0.4
+|Jul record low C = 2.0
+|Aug record low C = 2.4
+|Sep record low C = -0.9
+|Oct record low C = -5.1
+|Nov record low C = -9.1
+|Dec record low C = -17.3
+|year record low C = -24.2
+|Jan precipitation mm = 88.8
+|Feb precipitation mm = 65.3
+|Mar precipitation mm = 81.6
+|Apr precipitation mm = 50.5
+|May precipitation mm = 69.3
+|Jun precipitation mm = 73.3
+|Jul precipitation mm = 80.3
+|Aug precipitation mm = 73.8
+|Sep precipitation mm = 78.8
+|Oct precipitation mm = 82.7
+|Nov precipitation mm = 90.7
+|Dec precipitation mm = 93.1
+|year precipitation mm = 928.2
+|Jan sun = 56.9
+|Feb sun = 81.7
+|Mar sun = 115.9
+|Apr sun = 166.3
+|May sun = 196.7
+|Jun sun = 181.9
+|Jul sun = 193.8
+|Aug sun = 178.1
+|Sep sun = 134.3
+|Oct sun = 110.1
+|Nov sun = 60.8
+|Dec sun = 45.7
+|year sun = 1522.2
+|source 1 = knmi.nl (Klimaatatlas van Nederland, normaalperiode 1981–2010, http://www.klimaatatlas.nl/tabel/stationsdata/klimtab_8110_275.pdf)<ref name=knmi.nl>(Temperature: 270 DEELEN, Precipitation: 541 ARNHEM)
+| accessdate = December 2012</ref>
+|date=February 2011
+}}
+
+==International relations==
+{{See also|List of twin towns and sister cities in the Netherlands}}
+
+===Twin towns – Sister cities===
+Arnhem is [[Twin towns and sister cities|twinned]] with:
+{|class="wikitable"
+|- valign="top"
+|
+*{{flagicon|SCO}} [[Airdrie, North Lanarkshire|Airdrie]], [[North Lanarkshire]], [[Scotland]]
+*{{flagicon|GBR}} [[Coventry]], [[England]], [[UK]]<ref name="Coventry twinnings">{{cite web|url=http://www.coventrytelegraph.net/news/local-news/what-point-coventrys-twin-towns-3038605|title=Coventry's twin towns|accessdate=2013-08-06|last=Griffin|first=Mary|date=2011-08-02|work=Coventry Telegraph}}</ref><ref name="Coventry twins">{{cite web|url=http://www.coventry.gov.uk/directory/25/twin_towns_and_cities|title=Coventry - Twin towns and cities|accessdate = 2013-08-06|work=Coventry City Council.|archiveurl=https://web.archive.org/web/20130412062545/http://www.coventry.gov.uk/directory/25/twin_towns_and_cities|archivedate =2013-04-14}}</ref>
+*{{flagicon|UK}} [[London Borough of Croydon|Croydon]], [[England]], [[United Kingdom of Great Britain and Northern Ireland|UK]]
+*{{flagicon|GER}} [[Gera]], [[Thuringia]], [[Germany]]
+||
+*{{flagicon|CZE}} [[Hradec Králové]], [[Hradec Králové Region|Hradec Králové]], [[Czech Republic]]
+*{{flagicon|RSA}} [[Kimberley, Northern Cape|Kimberley]], [[Northern Cape]], [[South Africa]]
+*{{flagicon|PER}} [[Villa El Salvador]], [[Lima Region]], [[Peru]]
+*{{flagicon|PRC}} [[Wuhan]], [[Hubei]], [[China]]
+|}
+
+==See also==
+* [[Arnhem Metal Meeting]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons|Arnhem}}
+{{wikivoyage|Arnhem}}
+*[http://www.arnhem.nl/english Municipality] Official website (English version)
+*[http://www.arnhemnijmegenregion.com/arnhem VVV Arnhem] Tourist Office (English version)
+*[http://www.cwgc.org/search/cemetery_details.aspx?cemetery=2063800&mode=1 Commonwealth War Graves Commission] The CWGC Page for the cemetery.
+
+<!--Please note that not all directions need to be filled-->
+<!--Please note that preferably only neighboring municipalities or bodies of water should be used-->
+{{Geographic location
+|Centre    = Arnhem
+|North     = [[Apeldoorn]]
+|Northeast = [[Rozendaal]]
+|East      = [[Rheden]]
+|Southeast = ''[[IJssel]]'' / [[Westervoort]]
+|South     = [[Lingewaard]]
+|Southwest = [[Overbetuwe]]
+|West      = [[Renkum]]
+|Northwest = [[Ede, Netherlands|Ede]]
+}}
+
+{{Gelderland Province}}
+{{Dutch capital cities}}
+{{Paralympic Summer Games Host Cities}}
+
+{{Use dmy dates|date=June 2013}}
+
+{{Authority control}}
+
+[[Category:Arnhem| ]]
+[[Category:Cities in the Netherlands]]
+[[Category:Municipalities of Gelderland]]
+[[Category:Populated places in Gelderland]]
+[[Category:Populated places on the Rhine]]
+[[Category:Provincial capitals of the Netherlands]]
+[[Category:Members of the Hanseatic League]]

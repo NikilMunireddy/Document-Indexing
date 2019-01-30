@@ -1,0 +1,178 @@
+Actinobacteria
+
+{{Taxobox
+| color = darkgrey
+| name = Actinobacteria
+| image =Actinomyces_israelii.jpg
+| image_caption = [[Scanning electron micrograph]] of ''[[Actinomyces israelii]]''.
+| domain = [[Bacteria]]
+| phylum = Actinobacteria
+| phylum_authority =  Goodfellow, 2012
+| classis = Actinobacteria
+| classis_authority = Stackebrandt ''et al''. 1997
+| subdivision_ranks = Subclasses & Orders
+| subdivision =
+*?''Candidatus'' [[Planktophila]] <small>Jezbera ''et al''. 2009</small>
+*?''[[Cathayosporangium]]'' ♠ <small>Runmao ''et al''. 1995</small>
+*?''[[Tonsillophilus suis]]'' ♠ <small>Azuma and Bak 1980</small>
+*[[Acidimicrobidae]] <small>Stackebrandt ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+**[[Acidimicrobiales]] <small>Stackebrandt ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+*[[Coriobacteridae]] <small>Stackebrandt ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+**[[Coriobacteriales]] <small>Stackebrandt ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+*[[Nitriliruptoridae]] <small>Kurahashi ''et al''. 2010</small>
+**[[Nitriliruptorales]] <small>Sorokin ''et al''. 2009</small>
+**[[Euzebyales]] <small>Kurahashi ''et al''. 2010</small>
+*[[Rubrobacteridae]] <small>Rainey ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+**[[Gaiellales]] <small>Albuquerque ''et al''. 2012</small>
+**[[Rubrobacterales]] <small>Rainey ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+**[[Solirubrobacterales]] <small>Reddy and Garcia-Pichel 2009</small>
+**[[Thermoleophilales]] <small>Reddy and Garcia-Pichel 2009</small>
+*[[Actinobacteridae]] <small>Stackebrandt ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+**[[Bifidobacteriales]] <small>Stackebrandt ''et al''. 1997 emend. Zhi ''et al''. 2009</small>
+**[[Actinomycetales]] <small>Buchanan 1917 emend. Zhi ''et al''. 2009</small>
+}}
+
+'''Actinobacteria''' is a phylum of [[Gram-positive bacteria]] with high [[G+C ratio|guanine and cytosine content]] in their [[DNA]].<ref name="pmid17804669">{{cite journal|last=Ventura|first=M.|author2=Canchaya, C.|author3=Tauch, A.|author4=Chandra, G.|author5=Fitzgerald, G. F.|author6=Chater, K. F.|author7= van Sinderen, D.|title=Genomics of Actinobacteria: Tracing the Evolutionary History of an Ancient Phylum|journal=Microbiology and Molecular Biology Reviews|date=5 September 2007|volume=71|issue=3|pages=495–548|pmid=17804669|pmc=2168647|doi=10.1128/MMBR.00005-07|url=http://mmbr.asm.org/cgi/pmidlookup?view=long&pmid=17804669}}</ref> The G+C content of Actinobacteria can be as high as 70%, though some may have a low G+C content.<ref name="lowGCActinoacteria">{{cite journal |vauthors=Ghai R, McMahon KD, Rodriguez-Valera F |title=Breaking a paradigm:cosmopolitan and abundant freshwater actinobacteria are low GC |journal=Environmental Microbiology Reports |volume=4 |issue=1 |pages=29–35 |year=2012 |doi=10.1111/j.1758-2229.2011.00274.x |url=http://onlinelibrary.wiley.com/doi/10.1111/j.1758-2229.2011.00274.x/abstract |pmid=23757226}}</ref> They can be [[terrestrial animal|terrestrial]] or [[aquatic animal|aquatic]].<ref name="pmid18003601">{{cite journal |vauthors=Servin JA, Herbold CW, Skophammer RG, Lake JA |title=Evidence excluding the root of the tree of life from the actinobacteria |journal=Mol. Biol. Evol. |volume=25 |issue=1 |pages=1–4 |date=January 2008 |pmid=18003601 |doi=10.1093/molbev/msm249 |url=http://mbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=18003601}}</ref> Although understood primarily as soil bacteria, they might be more abundant in freshwaters.<ref name="amazonMetagenome">{{cite journal |author=Ghai R, Rodriguez-Valera F, McMahon KD |title=Metagenomics of the water column in the pristine upper course of the Amazon river |journal=PLOS ONE |volume=6 |issue=8 |pages=e23785 |year=2011 |doi=10.1371/journal.pone.0023785 |url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0023785 |editor1-last=Lopez-Garcia |editor1-first=Purification |pmid=21915244 |pmc=3158796|display-authors=etal}}</ref> Actinobacteria is one of the dominant bacterial phyla and contains one of the largest of bacterial genera, ''[[Streptomyces]]''.<ref>C.Michael Hogan. 2010. [http://www.eoearth.org/article/Bacteria?topic=49480 ''Bacteria''. Encyclopedia of Earth. eds. Sidney Draggan and C.J.Cleveland, National Council for Science and the Environment, Washington DC]</ref> Analysis of [[glutamine synthetase]] sequence has been suggested for phylogenetic analysis of Actinobacteria.<ref name="pmid19245690">{{cite journal |vauthors=Hayward D, van Helden PD, Wiid IJ |title=Glutamine synthetase sequence evolution in the mycobacteria and their use as molecular markers for Actinobacteria speciation |journal=BMC Evol. Biol. |volume=9|page=48 |year=2009 |pmid=19245690 |pmc=2667176 |doi=10.1186/1471-2148-9-48 |url=http://www.biomedcentral.com/1471-2148/9/48}}</ref>
+
+Although some of the largest and most complex bacterial cells belong to the Actinobacteria, the group of marine Actinomarinales has been described as possessing the smallest free-living [[prokaryotic]] cells.<ref name="Actinomarina">
+{{cite journal 
+|vauthors=Ghai R, Mizuno CM, Picazo A, Camacho A, Rodriguez-Valera F |title=Metagenomics uncovers a new group of low GC and ultra-small marine Actinobacteria
+|journal=Scientific Reports 
+|volume=3 
+|year=2013 
+|doi=10.1038/srep02471
+|url=http://www.nature.com/srep/2013/130820/srep02471/full/srep02471.html
+|pmid= 23959135
+|pmc=3747508
+|pages=2471}}
+</ref>
+
+==General==
+Most Actinobacteria of medical or economic significance are in subclass [[Actinobacteridae]], and belong to the order: [[Actinomycetales]]. While many of these cause disease in humans, ''Streptomyces'' is notable as a source of [[antibiotics]].
+
+Of those Actinobacteria not in Actinomycetales, [[Gardnerella]] is one of the most researched. Classification of Gardnerella is controversial, and [[Medical Subject Headings|MeSH]] catalogues it as both a [[gram-positive]] and [[gram-negative]] organism.<ref>{{MeshName|Gardnerella}}</ref>
+
+Actinobacteria, especially ''Streptomyces'' sp., are recognized as the producers of many bioactive metabolites that are useful to humans in medicine, such as antibacterials,<ref>{{cite journal | last1 = Mahajan | first1 = GB | year = 2012 | title = Antibacterial agents from actinomycetes - a review | url = | journal = Frontiers in Bioscience | volume = 4 | issue = | pages = 240–53 | doi = 10.2741/e373 }}</ref> antifungals,<ref>{{cite journal | last1 = Gupte | first1 = M. | last2 = Kulkarni | first2 = P. | last3 = Ganguli | first3 = B.N. | year = 2002 | title = Antifungal Antibiotics | url = | journal = Appl. Microbiol. Biotechnol | volume = 58 | issue = | pages = 46–57 }}</ref> antivirals, antithrombotics, immunomodifiers, anti-tumor drugs and enzyme inhibitors; and in agriculture, including insecticides, herbicides, fungicides and growth promoting substances for plants and animals.<ref>{{cite journal | last1 = Bressan | first1 = W | year = 2003 | title =Biological control of maize seed pathogenic fungi by use of actinomycetes | url = | journal = Biocontrol | volume = 48 | issue =2 | pages = 233–240 | doi=10.1023/a:1022673226324}}</ref><ref>{{cite journal | last1 = Atta | first1 = M.A | year = 2009 | title =none | url = | journal = Austral. J. Basic and Appl. Sci. | volume = 3 | issue = | pages = 126–135 }}</ref>  Actinobacteria-derived antibiotics that are important in medicine include aminoglycosides, anthracyclines, chloramphenicol, macrolide, tetracyclines etc.
+
+''Streptomyces'' and other actinobacteria are major contributors to biological buffering of soils and have roles in organic matter [[decomposition]] conductive to crop production.<ref>{{cite journal | last1 = Ningthoujam | first1 = Debananda S. | last2 = Sanasam | first2 = Suchitra |last3=Tamreihao |first3=K | last4 = Nimaichand | first4 = Salam | date = November 2009 | title = Antagonistic activities of local actinomycete isolates against rice fungal pathogens | url = | journal = African Journal of Microbiology Research | volume = 3 | issue = 11| pages = 737–742 }}</ref>
+
+==Phylogeny==
+The currently accepted taxonomy is based on the [[List of Prokaryotic names with Standing in Nomenclature]] (LPSN) <ref>{{cite web |author = J.P. Euzéby | url=http://www.bacterio.cict.fr/classifphyla.html#Actinobacteria |title=Actinobacteria | accessdate=2011-11-17 |publisher=List of Prokaryotic names with Standing in Nomenclature (LPSN)}}</ref> and [[National Center for Biotechnology Information]] (NCBI)<ref>{{cite web |author = Sayers| url=http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=201174&lvl=5&lin |title=Actinobacteria |accessdate=2011-06-05 |publisher=[[National Center for Biotechnology Information]] (NCBI) taxonomy database|display-authors=etal}}</ref>
+and the phylogeny is based on 16S rRNA-based LTP release 106 by [[The All-Species Living Tree Project]] <ref>[[All-Species Living Tree Project]].{{cite web | url= http://www.arb-silva.de/fileadmin/silva_databases/living_tree/LTP_release_106/LTPs106_SSU_tree.pdf |title= 16S rRNA-based LTP release 106: full tree. |accessdate= 2011-11-17}}</ref>
+
+{{Clade 
+|1={{clade
+  |1=?''Candidatus'' [[Planktophila limnetica]] <small>Jezbera ''et al''. 2009</small>
+  |2=?''[[Cathayosporangium alboflavum]]'' ♠ <small>Runmao ''et al''. 1995</small>
+  |3=?''[[Tonsillophilus suis]]'' ♠ <small>Azuma and Bak 1980</small>
+  |4=''[[Rubrobacter]]'' <small>Suzuki ''et al''. 1989</small>
+  |5={{clade
+    |label1=&nbsp; [[Thermoleophilidae]]
+    |1={{clade
+      |1=''[[Gaiella occulta]]'' <small>Albuquerque ''et al''. 2012</small>
+      |2={{clade
+        |1=''[[Thermoleophilum]]'' <small>Zarilla and Perry 1986</small>
+        |2=[[Solirubrobacterales]]
+         }}
+       }}
+    |2={{clade
+      |1=[[Coriobacteriaceae]]
+      |2={{clade
+        |1=[[Acidimicrobiales]]
+        |2={{clade
+          |label1=&nbsp;[[Nitriliruptoridae]]
+          |1={{clade
+            |1=''[[Euzebya tangerina]]'' <small>Kurahashi ''et al''. 2010</small>
+            |2=''[[Nitriliruptor alkaliphilus]]'' <small>Sorokin ''et al''. 2009</small>
+             }}
+          |label2=&nbsp; [[Actinomycetales]]
+          |2={{clade
+            |1=?''[[Boyliae praeputiale]]'' ♠ <small>Yates ''et al''. 2002</small>
+            |2=?''[[Frankia alni]]'' ♪ <small>(Woronin 1866) Von Tubeuf 1895</small>
+            |3=?''[[Motilibacter peucedani]]'' <small>Lee 2012</small>
+            |4=''[[Acidothermus cellulolyticus]]'' <small>Mohagheghi ''et al''. 1986</small>
+            |5={{clade
+              |1={{clade
+                |1={{clade
+                  |1=[[Jiangellaceae]]
+                  |2={{clade
+                    |1=[[Micromonosporaceae]]
+                    |2={{clade
+                      |1=[[Propionibacterineae]]
+                      |2={{clade
+                        |1={{clade
+                          |1=''[[Actinocatenispora]]'' <small>Thawai ''et al''. 2006 emend. Seo and Lee 2009</small>
+                          |2=[[Glycomycetaceae]]
+                           }}
+                        |2=[[Streptosporangineae]]
+                         }}
+                       }}
+                     }}
+                   }}
+                |2={{clade
+                  |1=[[Pseudonocardiaceae]] [incl. ''[[Actinopolyspora]]'']
+                  |2=[[Corynebacterineae]]
+                   }}
+                 }}
+              |2={{clade
+                |1=[[Catenulisporineae]]
+                |2={{clade
+                  |1=''[[Streptomyces]]'' <small>Waksman and Henrici 1943 emend. Witt and Stackebrandt 1991</small> [incl. ''[[Kitasatospora]]'' & ''[[Streptacidiphilus]]'']
+                  |2={{clade
+                    |1={{clade
+                      |1=''[[Sporichthya]]'' <small>Lechevalier ''et al''. 1968</small>
+                      |2=[[Cryptosporangiaceae]]
+                       }}
+                    |2={{clade
+                      |1=[[Geodermatophilaceae]]
+                      |2={{clade
+                        |1=[[Nakamurellaceae]]
+                        |2={{clade
+                          |1=[[Kineosporiaceae]]
+                          |2={{clade
+                            |1=''[[Kineococcus]]'' <small>Yokota ''et al''. 1993</small>
+                            |2={{clade
+                              |1=''[[Angustibacter luteus]]'' <small>Tamura ''et al''. 2010</small>
+                              |2=[[Micrococcineae]] [incl. [[Actinomycetaceae]] & [[Bifidobacteriaceae]]]
+                               }}
+                             }}
+                           }}
+                         }}
+                       }}
+                     }}
+                   }}
+                 }}
+               }}
+             }}
+           }}
+         }}
+       }}
+     }}
+   }}
+}}
+Notes:<br/>
+♪ Prokaryotes where no pure ([[axenic]]) cultures are isolated or available, i. e. not cultivated or can not be sustained in culture for more than a few serial passages<br/>
+♠ Strains found at the [[National Center for Biotechnology Information]] (NCBI) but not listed in the [[List of Prokaryotic names with Standing in Nomenclature]] (LSPN)
+
+==See also==
+* [[List of bacterial vaginosis microbiota]]
+
+== References ==
+{{reflist|2}}
+
+== Further reading ==
+*{{cite conference|last=Pandey |first=B. |last2=Ghimire |first2=P. |last3=Agrawal |first3=V.P. |date=January 12–15, 2004 |conference=International Conference on the Great Himalayas: Climate, Health, Ecology, Management and Conservation |location=Kathmandu |title=Studies on the antibacterial activity of the Actinomycetes isolated from the Khumbu Region of Nepal |url=http://www.aehms.org/pdf/Panday%20F.pdf}}
+*{{cite journal|last=Baltz |first=R.H. |title=Antibiotic discovery from actinomycetes: Will a renaissance follow the decline and fall? |year=2005 |journal=SIM News |volume=55 |pages=186–196}}
+*{{cite journal|last=Baltz |first=R.H. |year=2007 |journal=[[Microbe Magazine|Microbe]]| volume=2 |issue=3 |pages=125–131 |title=Antimicrobials from Actinomycetes: Back to the Future |url=http://www.microbemagazine.org/index.php?option=com_content&view=article&id=2221:antimicrobials-from-actinomycetes-back-to-the-future&catid=546&Itemid=731}}
+
+==External links==
+* [http://www.broad.mit.edu/annotation/genome/streptomyces_group/MultiHome.html Actinomycetes genome database]
+
+{{wikispecies}}
+{{Bacteria classification}}
+{{Gram-positive actinobacteria diseases}}
+
+[[Category:Actinobacteria| ]]
+[[Category:Gram-positive bacteria]]
+[[Category:Bacteria phyla]]
+[[Category:Bacterial vaginosis]]

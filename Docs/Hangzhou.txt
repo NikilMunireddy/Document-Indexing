@@ -1,0 +1,772 @@
+Hangzhou
+
+{{Use mdy dates|date=August 2011}}
+{{stack begin}}
+{{Infobox settlement
+|name                = {{raise|0.2em|Hangzhou}}
+|official_name       = <!-- Official name in English if different from 'name' -->
+|native_name         = {{lower|0.1em|{{nobold|{{lang|zh-hans|杭州市}}}}}}
+|other_name          = 
+|settlement_type     = [[Sub-provincial city in the People's Republic of China|Sub-provincial city]]
+|image_skyline       = Hangzhou montage.png
+|image_caption       = Top: View of the "Three Ponds Mirroring the Moon" at [[West Lake]], Middle left: [[Liuhe Pagoda]], Middle upper right: Su Causeway at [[West Lake]], Middle lower right: [[Hu Xueyan]] Residence Garden, Bottom: Huxin Pavilion on [[West Lake]] 
+|image_flag = 
+|flag_size =
+|image_seal =Hangzhou City Seal.png
+|seal_size =
+|image_map           = ChinaZhejiangHangzhou.png
+|map_caption         = Location of Hangzhou City jurisdiction in Zhejiang
+|pushpin_map         = China
+|pushpin_map_caption = Location in China
+|latd=30 
+|latm=15 
+|lats= 
+|latNS=N
+|longd=120 
+|longm=10 
+|longs= 
+|longEW=E
+|coordinates_display = inline,title
+|subdivision_type    = Country
+|subdivision_name    = People's Republic of China
+|subdivision_type1   = [[Provinces of the People's Republic of China|Province]]
+|subdivision_name1   = [[Zhejiang]]
+|government_type     = Sub-provincial city
+|leader_title        = Party Secretary
+|leader_name         = [[Zhao Yide]] ([[:zh:赵一德|赵一德]])
+|leader_title1       = Mayor
+|leader_name1        = [[Zhang Hongming]] ([[:zh:张鸿铭|张鸿铭]])
+|area_footnotes      =
+|area_total_km2      = 16840.76
+|area_land_km2       =
+|area_water_km2      =
+|area_urban_km2      = 3317.9
+|area_metro_km2      = 34585
+|elevation_footnotes =
+|elevation_m         =
+|elevation_ft        =
+|population_total    = 9,018,000
+|population_as_of    = 2015
+|population_density_km2= auto
+|population_density_sq_mi=
+|population_urban    = 7,081,700
+|population_density_urban_km2=auto
+|population_metro    = 21,267,000  Hangzhou Metropolitan Area (including Hangzhou, Shaoxing, Jiaxing, Huzhou)<ref name="ssdph.com.cn">{{cite book|url=http://www.ssdph.com.cn/Shop/BookMainContent.aspx?ProductManager_Id=20121108160836|title=Economic and Social Development Report of Hangzhou Metropolitan Circles (2007-2012)|accessdate=2013-02-20|date=2012-10-01|publisher=Social Sciences Academic Press(China)|language=Chinese}}</ref>
+|population_density_metro_km2=auto 
+|population_blank1_title= National rank
+|population_blank1   =[[List of cities in the People's Republic of China by population|20th]]
+|population_demonym  = Hangzhouvian
+|postal_code_type    = [[Postal code of China|Postal code]]
+|postal_code         = 310000
+|area_code           =
+|website             = [http://www.hangzhou.gov.cn/ City of Hangzhou]
+|footnotes = <center><big>'''City tree'''</big><br/> [[Cinnamomum camphora|Camphor laurel]] (''Cinnamomum camphora'')</center><center><big>'''City flower'''</big><br/> [[Osmanthus fragrans|Sweet Osmanthus]] (''Osmanthus fragrans'')</center>
+|coordinates_region  = CN-33
+|timezone            = [[China Standard Time|China Standard]]
+|utc_offset          = +8
+|blank_name          = [[Gross domestic product|GDP (Nominal)]]
+|blank_info          = 2015
+|blank1_name         = &nbsp;- Total
+|blank1_info         = [[Renminbi|CNY]] 1,005.36 billion<br>([[United States dollar|USD]] 161.45 billion)
+|blank2_name         = &nbsp;- Per capita
+|blank2_info         = CNY 112,268<br>(US$18,029)
+|blank3_name         = &nbsp;- Growth
+|blank3_info         = {{increase}} 10.3%
+|blank4_name         = &nbsp;- Metro (2014)
+|blank4_info         =  [[Renminbi|CNY]] 1877.6 billion<ref name="ssdph.com.cn"/><br>(US$305.6 billion)
+|blank5_name         = [[Licence plates of the People's Republic of China|Licence plate]] prefixes
+|blank5_info         = {{lang|zh-cn|浙}}A
+|blank6_name         = [[varieties of Chinese|Regional variety]]
+|blank6_info         = [[Wu Chinese|Wu]]: [[Hangzhou dialect]]
+}}
+{{Chinese
+|pic=Hangzhou_(Chinese_characters).svg
+    |picsize=117px
+|c = 杭州
+|p = Hángzhōu
+|l = {{nowrap|"Hang settlement"}}
+|mi = {{IPAc-cmn|h|ang|2|zh|ou|1}}
+|w = Hang-chou
+|psp     = Hangchow
+|wuu = {{nowrap|ɦaŋ-tsei <small>([[Hangzhou dialect|Hangzhouvian]])</small>}}
+|j = Hong<sup>4</sup>-zau<sup>1</sup>
+|poj = Hâng-chiu
+|showflag = wuu
+|altname           = Qiantang
+|t2                = {{linktext|錢塘}}
+|s2                = {{linktext|钱塘}}
+|l2                = <!-- Literal Meaning2 -->
+|p2                = Qiántáng
+|w2                = Ch&lsquo;ien-t&lsquo;ang
+|mi2               = <!--Mandarin IPA2 -->
+|psp2              = <!-- Chinese Postal Map Romanisation spelling2 -->
+|j2                =  <!--Cantonese Jyutping2 -->
+|wuu2              =  <!--Wu romanization2 -->
+|poj2              =  <!--Taiwanese POJ 2 -->
+|altname3           = Xifu
+|c3 = {{linktext|西府}}
+|l3                = {{nowrap|"Western Government"}}
+|p3                = Xīfǔ
+|w3                = Hsi-fu
+|mi3               = <!--Mandarin IPA3 -->
+|psp3              = <!-- Chinese Postal Map Romanisation spelling3 -->
+|j3                =  <!--Cantonese Jyutping3 -->
+|wuu3              =  <!--Wu romanization3 -->
+|poj3              =  <!--Taiwanese POJ 3 -->
+|altname4           = Linan
+|t4 = {{linktext|臨安}}
+|s4 = {{linktext|临安}}
+|l4                = <!--lit4-->
+|p4                = Lín'ān
+|w4                = Lin-an
+|mi4               = <!--Mandarin IPA4 -->
+|psp4              = <!-- Chinese Postal Map Romanisation spelling4 -->
+|j4                =  <!--Cantonese Jyutping4 -->
+|wuu4              =  <!--Wu romanization4-->
+|poj4              =  <!--Taiwanese POJ 4 -->
+|order=st
+}}
+{{Contains Chinese text}}
+{{stack end}}
+'''Hangzhou'''<!-- Chinese text and transliterations are in the infobox --> ({{IPAc-cmn|AUD|Hang2zhou1.ogg|h|ang|2|zh|ou|1}}), [[Postal romanization|formerly romanized]] as '''Hangchow''', is the [[Capital (political)|capital]] and most populous city of [[Zhejiang Province]] in [[east China]].<ref>{{cite web|title=Illuminating China's Provinces, Municipalities and Autonomous Region|url=http://www.china.org.cn/english/features/43610.htm|publisher=PRC Central Government Official Website|year=2001|accessdate=2014-04-22}}</ref> It sits at the head of [[Hangzhou Bay]], which separates [[Shanghai]] and [[Ningbo]]. Hangzhou grew to prominence as the southern terminus of the [[Grand Canal (China)|Grand Canal]] and has been one of the most renowned and prosperous cities in China for much of the last millennium, due in part to its beautiful natural scenery. The city's [[West Lake]] is its best-known attraction.
+
+Hangzhou is classified as a [[sub-provincial city]]<ref>{{cite web|url=http://www.docin.com/p-51864614.html  |title=中央机构编制委员会印发《关于省级市若干问题的意见》的通知. 中编发[1995]5号 |publisher=豆丁网 |date=1995-02-19 |accessdate=2014-05-28}}</ref> and forms the core of the Hangzhou metropolitan area,<ref name="ssdph.com.cn"/> the fourth-largest in China.<ref>{{cite web|url=http://hmc.hz.gov.cn/tszs/csj/201207/t20120726_330352.htm|title=2012中国都市圈评价指数今年7月发布 |accessdate=2013-02-20|date=2012-07-02|publisher={{lang|zh-hans-CN|上海交通大学}} |language=Chinese}}</ref> During the [[2010 Chinese census]], the metropolitan area held 21.102 million people over an area of {{convert|34585|km2|abbr=on}}.<ref name="ssdph.com.cn"/> Hangzhou [[Prefecture of China|prefecture]] had a [[Hukou system|registered]] population of 9,018,000 in 2015.<ref>{{Cite web|url=http://www.zj.stats.gov.cn/tjgb/rkcydcgb/201601/t20160128_168706.html|title=2015年浙江省1%人口抽样调查主要数据公报-浙江统计信息网|website=www.zj.stats.gov.cn|access-date=2016-04-10}}</ref>
+
+In September 2015, Hangzhou was awarded the [[2022 Asian Games]]. It will be the third Chinese city to play host to the [[Asian Games]] after [[1990 Asian Games|Beijing 1990]] and [[2010 Asian Games|Guangzhou 2010]].<ref>{{cite web|url=http://news.xinhuanet.com/english/2015-09/16/c_134629438.htm |title=Hangzhou of China selected to host 2022 Asian Games|publisher=Xinhua |date=2015-09-16 |accessdate=2015-09-16 }}</ref> On November 16, 2015, President [[Xi Jinping]] announced that Hangzhou would host the eleventh [[G-20 summit]] on September 4–5, 2016.<ref>{{cite web|title=China to host 2016 G20 summit in Hangzhou|url=http://www.china.org.cn/world/2015-11/17/content_37080816.htm|publisher=PRC Central Government Official Website|year=2015|accessdate=2015-12-20}}</ref>
+
+==History==
+{{see also|Timeline of Hangzhou history}}
+
+===Early history===
+[[File:CMOC Treasures of Ancient China exhibit - jade disk.jpg|thumb|left|A ceremonial [[bi (jade)|jade ''bi'']] of the Liangzhu culture]]
+[[File:Xiangji Temple in Hangzhou 38 2013-10.JPG|thumb|left|Xiangji Temple was built in 978 AD during the [[Northern Song Dynasty]]]]
+[[File:Statue of Su Shi at the end of Su Causeway in Hangzhou.JPG|thumb|left|Statue of [[Su Shi]] at the end of Su Causeway at the [[West Lake]]]]
+The celebrated [[Chinese Neolithic|neolithic]] culture of [[Hemudu culture|Hemudu]] is known to have inhabited [[Yuyao]], {{convert|100|km|0|abbr=on}} south-east of Hangzhou, as far back as seven thousand years ago.<ref>Yan Wenming<!--sic-->. "The Beginning of Farming", p.&nbsp;36, in ''The Formation of Chinese Civilization: An Archaeological Perspective'', pp.&nbsp;27&ndash;42. Yale University Press ([[New Haven, Connecticut|New Haven]]), 2005. ISBN 978-0-300-09382-7.</ref> It was during this time that [[rice]] was first cultivated in southeast China.<ref>{{cite journal | last1 = Fuller | first1 = Dorian | display-authors = etal   | year = 2009 | title = The Domestication Process and Domestication Rate in Rice: Spikelet bases from the Lower Yangtze | url = | journal = Science | volume = 323 | issue = | pages = 1607–1610 | doi = 10.1126/science.1166605 | pmid=19299619}}</ref> Excavations have established that the [[Chinese jade|jade]]-carving [[Liangzhu culture]] (named for its [[type site]] just northwest of Hangzhou) inhabited the area immediately around the present city around five thousand years ago.<ref>Shanghai Qingpu Museum. "[museum.shqp.gov.cn/gb/content/2009-02/23/content_237435.htm Migration of the Tribe and Integration into the Han Chinese]". Accessed 24 July 2014.</ref>
+
+The first of Hangzhou's present neighborhoods to appear in written records was [[Yuhang]], which probably preserves an old [[Baiyue]] name.<ref>''{{lang|zh|Zhongguo lishi diming dacidian}}'' {{lang|zh-hans-CN|中國歷史地名大詞典}}, (Shanghai: Shanghai cishu chubanshe): 1516.</ref>
+
+Hangzhou was made the seat of the ''[[zhou (Chinese province)|zhou]]'' (very roughly, "county") of Hang in {{nowrap|AD 589}}, entitling it to a [[Chinese city wall|city wall]] which was constructed two years later. By a longstanding convention also seen in other cities like [[Guangzhou]] and [[Fuzhou]], the city took on the name of the area it administered and became known as Hangzhou. Hangzhou was at the southern end of China's [[Grand Canal (China)|Grand Canal]] which extends to Beijing. The canal evolved over centuries but reached its full length by 609.<ref name="ebrey cambridge 114">Ebrey, ''Cambridge Illustrated History of China'', 114: "[…] the Grand Canal, dug between 605 and 609 by means of enormous levies of conscripted labour."</ref>
+
+It is listed as one of the [[Historical capitals of China|Seven Ancient Capitals of China]]. It was first the capital of the [[Wuyue Kingdom]] from 907 to 978 during the [[Five Dynasties and Ten Kingdoms Period]]. Named '''Xifu''' at the time,<ref>{{cite book |last=周|first=峰|date=1997|script-title=zh:吴越首府杭州: 及北宋东南第一州|url=https://books.google.com/books?id=E3CxAAAAIAAJ&q=%E8%A5%BF%E5%BA%9C%E6%9D%AD%E5%B7%9E&dq=%E8%A5%BF%E5%BA%9C%E6%9D%AD%E5%B7%9E&hl=en&sa=X&ei=wRXOU-hWjoHyBZmTgogM&ved=0CBwQ6AEwAA |location=University of California|publisher=浙江人民出版社|page=32 |isbn= |accessdate=22 July 2014|language=zh }}</ref> it was one of the three great bastions of culture in [[Northern and southern China|southern China]] during the tenth century, along with [[Nanjing]] and [[Chengdu]].<ref name="Worthy 1983 19">{{Harvnb|Worthy|1983|p=19}}.</ref> Leaders of Wuyue were noted patrons of the arts, particularly of [[Buddhism|Buddhist]] temple architecture and artwork. Hangzhou also became a cosmopolitan center, drawing scholars from throughout China and conducting diplomacy with neighboring Chinese states, and also with [[Japan]], [[Korea]], and the [[Khitan people|Khitan]] [[Liao dynasty]].
+
+In the [[Tang dynasty]], [[Bai Juyi]] was appointed governor of Hangzhou.<ref name="Waley 1941, 131">Waley (1941), 131</ref> Already an accomplished and famous poet, his deeds at Hangzhou have led to his being praised as a great governor. He noticed that the farmland nearby depended on the water of [[West Lake]], but due to the negligence of previous governors, the old [[dike (construction)|dyke]] had collapsed, and the lake so dried out that the local farmers were suffering from severe [[drought]]. He ordered the construction of a stronger and taller dyke, with a [[dam]] to control the flow of water, thus providing water for irrigation and mitigating the drought problem. The livelihood of local people of Hangzhou improved over the following years. Bai Juyi used his leisure time to enjoy the beauty of West Lake, visiting it almost daily. He also ordered the construction of a causeway connecting Broken Bridge with Solitary Hill to allow walking, instead of requiring a boat. He then had willows and other trees planted along the dyke, making it a beautiful landmark. This causeway was later named "Bai Causeway", in his honor.
+
+In 1089, while another renowned poet [[Su Shi]] (Su Dongpo) was the city's governor, he used 200,000 workers to construct a {{convert|2.8|km|1|abbr=on}} long [[causeway]] across West Lake, which the [[Qianlong Emperor]] considered particularly attractive in the early morning of the spring time. The lake was once a lagoon tens of thousands of years ago. Silt then blocked the way to the sea and the lake was formed. A drill in the lake-bed in 1975 found the sediment of the sea, which confirmed its origin. Artificial preservation prevented the lake from evolving into a marshland. The Su Causeway built by [[Su Shi]], and the Bai Causeway built by [[Bai Juyi]], a Tang dynasty poet who was once the governor of Hangzhou, were both built out of mud dredged from the lake bottom. The lake is surrounded by hills on the northern and western sides. The [[Baochu Pagoda]] sits on the Baoshi Hill to the north of the lake.
+
+====Foreign community====
+[[File:Hangzhou 1412.jpg|thumb|left|Hangzhou depicted in a French illumination from 1412]]
+Arab merchants lived in Hangzhou during the [[Song dynasty]], due to the fact that the oceangoing trade passages took precedence over land trade during this time.<ref>{{cite book|url=https://books.google.com/books?id=drGGEsi1fFEC&pg=PA210&dq=mosque+ningbo&hl=en&ei=dAbcTebnL8bx0gH3w-zqDw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC4Q6AEwAQ#v=onepage&q=mosque%20ningbo&f=false|title=Beyond the Great Wall: urban form and transformation on the Chinese frontiers|year=1996|author=Piper Rae Gaubatz|publisher=Stanford University Press|edition=illustrated|isbn=0-8047-2399-0|page=210|accessdate=17 July 2011}}</ref> There were also Arabic inscriptions from the  13th century and 14th century. During the  later period of the [[Yuan dynasty]], Muslims were persecuted through the banning of their traditions, and they participated in revolts against the Mongols.<ref>{{cite book|url=https://books.google.com/books?id=__Q1gOeoJZcC&pg=PA228&dq=mosque+ningpo&hl=en&ei=fwncTbrtFce90AG2uM3GDw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC0Q6AEwATge#v=onepage&q=mosque%20ningpo&f=false|title=Islam: an illustrated history|year=2006|author=Greville Stewart Parker Freeman-Grenville, Stuart C. Munro-Hay|publisher=Continuum International Publishing Group|edition=illustrated, revised|isbn=0-8264-1837-6|page=228|accessdate=17 July 2011}}</ref> The Fenghuangshi mosque was constructed by an Egyptian trader who moved to Hangzhou.<ref>{{cite book|url=https://books.google.com/books?ei=uAbcTe7TI4bk0QGqgqXyDw&ct=result&id=8iUcAQAAMAAJ&dq=Coming+to+China+through+Hangzhou%2C+one+renowned+Egyptian+merchant+later+settled+in+China+and+built+a+mosque+by+the+name+of+Fenghuangshi+on+the+Chinese+land&q=fenghuangshi|title=China's foreign trade|year=1991|author=Zhongguo guo ji mao yi cu jin wei yuan hui|publisher=China Council for the Promotion of International Trade|location=the University of California|isbn= |page=98|accessdate=17 July 2011}}</ref> [[Ibn Battuta]] is known to have visited the city of Hangzhou in 1345; he noted its charm and described how the city [[West Lake|sat on a beautiful lake]] and was surrounded by gentle green hills.<ref>[http://www.time.com/time/specials/packages/article/0,28804,2084273_2084272_2084481,00.html The Enduring Message of Hangzhou]</ref> During his stay at Hangzhou, he was particularly impressed by the large number of well-crafted and well-painted Chinese wooden ships with colored sails and silk awnings in the canals. He attended a banquet held by Qurtai, the [[Yuan dynasty|Yuan]] Mongol administrator of the city, who according to Ibn Battuta, was fond of the skills of local Chinese [[conjurer]]s.<ref>The Travels of Ibn Battuta Volume 4 pp. 904, 967 (The Hakluyt Society 1994, British Library)</ref>
+
+===Southern Song===
+[[File:Hupao.jpg|thumb|left|[[Dreaming of the Tiger Spring|Hupao ("Dreaming of the Tiger") Spring]] in Hangzhou]]
+[[File:Cuiguang Pavilion by the West Lake.jpg|thumb|left|Cuiguang Pavilion by the [[West Lake]]]]
+[[File:Lotus at West Lake.JPG|thumb|left|"Lotus in the Breeze at the Winding Courtyard", one of the [[West Lake#Ten Scenes of West Lake|Ten Scenes]] of the [[West Lake]]]]
+Hangzhou was chosen as the new capital of the [[Southern Song dynasty]] in 1132,<ref>{{cite journal|first=Weldon South|last=Coblin|title=Migration History and Dialect Development in the Lower Yangtze Watershed|journal=Bulletin of the School of Oriental and African Studies|year=2002|volume=65|issue=3|page=533|doi=10.1017/s0041977x02000320}}</ref> when most of northern China had been conquered by the Jurchens in the [[Jin–Song wars]].<ref>{{cite book|first=Charles|last=Holcombe|title=A History of East Asia: From the Origins of Civilization to the Twenty-First Century|year=2011|publisher=Cambridge University Press|isbn=978-0-521-51595-5|page=129}}</ref> The Song court had retreated south to the city in 1129 from its original capital in [[Kaifeng]], after it was captured by the [[Jurchen people|Jurchens]] in the [[Jingkang Incident]] of 1127.<ref name=moteb>{{cite book|first=Frederick W.|last=Mote|title=Imperial China: 900–1800|year=2003|publisher=Harvard University Press|pages=292–3|isbn=978-0-674-01212-7}}</ref><ref>{{cite book|first=Herbert|last=Franke|editor=Denis C. Twitchett|editor2=Herbert Franke|editor3=John King Fairbank|title=The Cambridge History of China: Volume 6, Alien Regimes and Border States, 710–1368|year=1994|publisher=Cambridge University Press|page=229|isbn=978-0-521-24331-5}}</ref> From Kaifeng they moved to Nanjing, modern [[Shangqiu]], then to [[Yangzhou]] in 1128.<ref name=moteb/> The government of the Song intended it to be a temporary capital. However, over the decades Hangzhou grew into a major commercial and cultural center of the Song dynasty. It rose from a middling city of no special importance to one of the world's largest and most prosperous.<ref name=mote/> Once the prospect of retaking northern China had diminished, government buildings in Hangzhou were extended and renovated to better befit its status as an imperial capital and not just a temporary one. The imperial palace in Hangzhou, modest in size, was expanded in 1133 with new roofed alleyways, and in 1148 with an extension of the palace walls.<ref>{{cite book|first=Jacques|last=Gernet|title=Daily Life in China, on the Eve of the Mongol Invasion, 1250-1276|year=1962|publisher=Stanford University Press|isbn=978-0-8047-0720-6|page=25}}</ref>
+
+From the early 12th century until the [[Mongol Empire|Mongol]] invasion of 1276, Hangzhou remained the capital  and was known as '''Lin'an'''. It served as the seat of the imperial government, a center of trade and entertainment, and the nexus of the main branches of the [[civil service]]. During that time the city was a gravitational center of Chinese civilization: what used to be considered "central China" in the north was taken by the [[Jin dynasty (1115–1234)|Jin]], an ethnic minority dynasty ruled by [[Jurchen people|Jurchens]].
+
+Numerous philosophers, politicians, and men of literature, including some of the most celebrated poets in Chinese history such as [[Su Shi]], [[Lu You]], and [[Xin Qiji]] came here to live and die. Hangzhou is also the birthplace and final resting place of the scientist [[Shen Kuo]] (1031–1095 AD), his tomb being located in the [[Yuhang]] district.<ref name="Yuhang">Yuhang Cultural Network (October 2003). [http://www.yhwt.com/newsshow.aspx?artid=3169 Shen Kuo's Tomb] The Yuhang District of Hangzhou Cultural Broadcasting Press and Publications Bureau. Retrieved on 2007-05-06.</ref>
+
+During the Southern Song dynasty, commercial expansion, an influx of refugees from the conquered north, and the growth of the official and military establishments, led to a corresponding population increase and the city developed well outside its 9th-century ramparts. According to the ''[[Encyclopædia Britannica]]'', Hangzhou had a population of over 2 million at that time, while historian [[Jacques Gernet]] has estimated that the population of Hangzhou numbered well over one million by 1276. (Official Chinese census figures from the year 1270 listed some 186,330 families in residence and probably failed to count non-residents and soldiers.) It is believed that Hangzhou was the largest city in the world from 1180 to 1315 and from 1348 to 1358.<ref>{{cite web|url=http://geography.about.com/library/weekly/aa011201a.htm|title=Largest Cities Through History|publisher=Geography.about.com|date=2011-03-02|accessdate=2011-03-16}}</ref><ref>Janet L. Abu-Lughod, ''Before European Hegemony: The World System A.D. 1250-1350'', "All the Silks of China" (Oxford University Press US) 1991, p. 337</ref>
+
+Because of the large population and densely crowded (often multi-story) wooden buildings, Hangzhou was particularly vulnerable to fires. Major conflagrations destroyed large sections of the city in 1132, 1137, 1208, 1229, 1237, and 1275 while smaller fires occurred nearly every year. The 1237 fire alone was recorded to have destroyed 30,000 dwellings. To combat this threat, the government established an elaborate system for fighting fires, erected watchtowers, devised a system of lantern and flag signals to identify the source of the flames and direct the response, and charged more than 3,000 soldiers with the task of putting out fires.
+
+===Yuan dynasty===
+The city of Hangzhou was besieged and captured by the advancing [[Mongol]] armies of [[Kublai Khan]] in 1276, three years before the final collapse of the empire.<ref name="gernet 15">Gernet, 15.</ref> The capital of the new [[Yuan Dynasty]] was established in the city of [[Khanbaliq|Dadu]] ([[Beijing]]).<ref>''The New Encyclopædia Britannica'' (Encyclopædia Britannica, Chicago University of, William Benton, Encyclopædia Britannica), p. 2</ref>
+
+The [[Republic of Venice|Venetian]] merchant [[Marco Polo]] supposedly visited Hangzhou in the late 13th century. In [[The Travels of Marco Polo|his book]], he records that the city was "greater than any in the world".<ref name=mote>{{cite book|first=Frederick W.|last=Mote|title=Imperial China: 900–1800|year=2003|publisher=Harvard University Press|page=461|isbn=978-0-674-01212-7}}</ref> He called the city '''Kinsay''', '''Quinsai''', or '''Kinsai''', which is unrelated to its then-current names but seems to be a [[Persian language|Persianized]] form of the [[wikt:京|Chinese word for "capital"]]. Although he exaggerated that the city was over one hundred miles in diameter and had 12,000 stone bridges, he still presented elegant prose about the country: "The number and wealth of the merchants, and the amount of goods that passed through their hands, was so enormous that no man could form a just estimate thereof." The renowned 14th-century [[Morocco|Moroccan]] explorer [[Ibn Battuta]] said it was "the biggest city I have ever seen on the face of the earth."<ref>{{Harvnb|Dunn|2005|p=260}}</ref><ref>{{cite news|last=Elliott|first=Michael|url=http://www.time.com/time/specials/packages/article/0,28804,2084273_2084272_2084481,00.html|title=The Enduring Message of Hangzhou|publisher=Time.com|date=2011-07-21|accessdate=2011-11-05}}</ref>
+
+===Ming and after===
+The city remained an important port until the middle of the [[Ming dynasty]] era, when its harbor slowly [[silt]]ed up.
+[[File:Hangzhou1-a.JPG|thumb|left|An area map of Hangzhou in 1867]]
+In 1856 and 1860, the [[Taiping Heavenly Kingdom]] occupied Hangzhou and caused heavy damage to the city.
+
+Hangzhou was ruled by the [[Republic of China (1912–1949)|Republic of China]] government under the [[Kuomintang]] from 1928 to 1949. On May 3, 1949, the [[People's Liberation Army]] entered Hangzhou and the city came under Communist control. After [[Deng Xiaoping]]'s reformist policies began in 1978, Hangzhou took advantage of being situated in the [[Yangtze River Delta]] to bolster its development. It is now one of China's most prosperous major cities.
+
+===Jewish community===
+As late as the latter part of the 16th and early 17th centuries, the city was an important center of [[History of the Jews in China|Chinese Jewry]], and may have been the original home of the better-known [[Kaifeng Jews|Kaifeng Jewish community]].<ref>{{cite web|url=http://www.jewish-holiday.com/kaifeng.html|title=The Lost Jews of Kaifeng|publisher=Jewish-holiday.com|accessdate=2011-03-16}}</ref>
+
+There was formerly a Jewish synagogue in Ningbo, as well as one in Hangzhou, but no traces of them are now discoverable, and the only Jews known to exist in China were in Kaifeng.<ref>{{cite book|url=https://books.google.com/books?id=lloMAAAAIAAJ&pg=PA256&dq=mosque+ningpo&hl=en&ei=aQfcTfHNN4Ho0QHFqLDqDw&sa=X&oi=book_result&ct=result&resnum=5&ved=0CD8Q6AEwBA#v=onepage&q=mosque%20ningpo&f=false|title=Memoirs of the Rev. Walter M. Lowrie: missionary to China|year=1854|author=Walter Macon Lowrie, Presbyterian church in the U.S.A. Board of foreign missions|publisher=Presbyterian board of publication|page=256|accessdate=17 July 2011}}</ref>
+
+===Muslim communities during Ming and Qing dynasties===
+In 1848, during the [[Qing dynasty]], Hangzhou was described as the "stronghold" of Islam in China, the city containing several mosques with Arabic inscriptions.<ref>{{cite book|url=https://books.google.com/books?id=Pk0UAAAAYAAJ&q=islamism#v=onepage&q=stronghold%20islamism&f=false|title=The Middle kingdom: a survey of the ... Chinese empire and its inhabitants ...|author=Samuel Wells Williams|year=1848|edition=3|publisher=Wiley & Putnam|location=|page=98|isbn=|pages=|accessdate=2011-05-08}}</ref> A Hui from [[Ningbo]] also told an Englishman that Hanzhou was the "stronghold" of Islam in Zhejiang province, containing multiple mosques, compared to his small congregation of around 30 families in Ningbo for his mosque.<ref>{{cite book|url=https://books.google.com/books?id=6wEMAAAAYAAJ&q=mohammedan#v=onepage&q=mohammedan%20hangchau&f=false|title=The Chinese repository, Volume 13|year=1844|publisher=Printed for the proprietors|page=32|accessdate=2011-05-08}}</ref>
+
+Within the city of Hangzhou are two notable mosques: the Great Mosque of Hangzhou and the Phoenix Mosque.
+
+==Geography and climate==
+{{climate chart
+| Hangzhou
+|  1.5 |  8.0 |  73
+|  2.7 |  9.4 |  84
+|  6.4 | 13.7 | 138
+| 12.1 | 20.6 | 127
+| 17.0 | 25.5 | 147
+| 21.1 | 28.6 | 231
+| 24.9 | 33.0 | 159
+| 24.5 | 32.4 | 156
+| 20.3 | 27.5 | 145
+| 15.0 | 22.7 |  87
+|  8.9 | 16.8 |  60
+|  3.4 | 11.1 |  47
+| float=left
+| clear=none
+| source=China Meteorological Administration }}
+[[File:杭州湾跨海大桥海中平台（早晨）.jpg|thumb|upright|View of [[Hangzhou Bay]] from the [[Hangzhou Bay Bridge]]]]
+[[File:Tidal bore at the Qiantang river, Hangzhou.jpg|thumb|upright|Tidal bore at the [[Qiantang River]] in Hangzhou]]
+
+Hangzhou is located in northwestern Zhejiang province, at the southern end of the [[Grand Canal of China]], which runs to [[Beijing]], in the south-central portion of the [[Yangtze River Delta]]. Its administrative area (sub-provincial city) extends west to the mountainous parts of [[Anhui]] province, and east to the coastal plain near [[Hangzhou Bay]]. The city center is built around the eastern and northern sides of the West Lake, just north of the [[Qiantang River]].
+
+Hangzhou's climate is [[humid subtropical]] ([[Köppen climate classification|Köppen]] ''Cfa'') with four distinctive seasons, characterised by long, very hot, humid summers and chilly, cloudy and drier winters (with occasional snow). The mean annual temperature is {{convert|17.0|°C|1}}, with monthly daily averages ranging from {{convert|4.6|°C|1}} in January to {{convert|28.9|°C}} in July. The city receives an average annual rainfall of {{convert|1438.0|mm|1|abbr=on}} and is affected by the [[Meiyu|plum rains]] of the Asian monsoon in June. In late summer (August to September), Hangzhou suffers [[typhoon]] storms, but typhoons seldom strike it directly. Generally they make landfall along the southern coast of Zhejiang, and affect the area with strong winds and stormy rains.<ref>[http://www.chinatoday.com.cn/English/chinatours/hangzhou.htm Hangzhou]. China Today. Retrieved August 22, 2006.</ref> Extremes since 1951 have ranged from {{convert|−9.6|°C|0}} on 6 February 1969 up to {{convert|41.6|°C|0}} on 9 August 2013;<ref>http://cdc.cma.gov.cn/dataSetLogger.do?changeFlag=dataLogger</ref> unofficial readings have reached {{convert|−10.5|°C|0}}, set on 29 December 1912 and 24 January 1916, up to {{convert|42.1|°C|0}}, set on 10 August 1930.<ref>{{cite web|url=http://www.mherrera.org/temp.htm|title=Extreme Temperatures Around the World|accessdate=2013-02-21}}</ref> With monthly percent possible sunshine ranging from 30% in March to 51% in August, the city receives 1,709.4 hours of sunshine annually.
+{{clear}}
+{{Weather box
+|location = Hangzhou (1981–2010 normals, extremes 1951–present)
+|metric first = Y
+|single line = Y
+|collapsed = Y
+|Jan record high C = 23.9
+|Feb record high C = 28.5
+|Mar record high C = 32.8
+|Apr record high C = 34.8
+|May record high C = 36.5
+|Jun record high C = 39.7
+|Jul record high C = 40.5
+|Aug record high C = 41.6
+|Sep record high C = 38.7
+|Oct record high C = 35.0
+|Nov record high C = 31.2
+|Dec record high C = 26.5
+
+|Jan high C =  8.3
+|Feb high C = 10.3
+|Mar high C = 14.8
+|Apr high C = 21.1
+|May high C = 26.3
+|Jun high C = 29.1
+|Jul high C = 33.6
+|Aug high C = 32.8
+|Sep high C = 28.2
+|Oct high C = 23.2
+|Nov high C = 17.3
+|Dec high C = 11.3
+|year high C= 21.4
+|Jan mean C =  4.6
+|Feb mean C =  6.4
+|Mar mean C = 10.3
+|Apr mean C = 16.2
+|May mean C = 21.4
+|Jun mean C = 24.7
+|Jul mean C = 28.9
+|Aug mean C = 28.2
+|Sep mean C = 24.0
+|Oct mean C = 18.8
+|Nov mean C = 12.9
+|Dec mean C =  7.0
+
+|Jan low C =  1.8
+|Feb low C =  3.5
+|Mar low C =  7.0
+|Apr low C = 12.4
+|May low C = 17.5
+|Jun low C = 21.4
+|Jul low C = 25.2
+|Aug low C = 24.9
+|Sep low C = 20.9
+|Oct low C = 15.4
+|Nov low C =  9.3
+|Dec low C =  3.7
+|year low C= 13.6
+|Jan record low C = −8.6
+|Feb record low C = −9.6
+|Mar record low C = −3.5
+|Apr record low C =  0.2
+|May record low C =  7.3
+|Jun record low C = 12.8
+|Jul record low C = 17.3
+|Aug record low C = 18.2
+|Sep record low C = 12.0
+|Oct record low C =  1.0
+|Nov record low C = −3.6
+|Dec record low C = −8.4
+|precipitation colour = green
+|Jan precipitation mm =  80.6
+|Feb precipitation mm =  88.2
+|Mar precipitation mm = 140.7
+|Apr precipitation mm = 123.1
+|May precipitation mm = 128.6
+|Jun precipitation mm = 219.4
+|Jul precipitation mm = 172.9
+|Aug precipitation mm = 162.1
+|Sep precipitation mm = 123.5
+|Oct precipitation mm =  78.5
+|Nov precipitation mm =  71.5
+|Dec precipitation mm =  48.9
+|year precipitation mm=1438.0
+|unit precipitation days = 0.1 mm
+|Jan precipitation days = 12.4
+|Feb precipitation days = 12.1
+|Mar precipitation days = 15.3
+|Apr precipitation days = 14.5
+|May precipitation days = 13.8
+|Jun precipitation days = 14.6
+|Jul precipitation days = 12.4
+|Aug precipitation days = 13.8
+|Sep precipitation days = 11.7
+|Oct precipitation days =  9.0
+|Nov precipitation days =  9.3
+|Dec precipitation days =  8.5
+
+|Jan sun = 102.0
+|Feb sun =  97.2
+|Mar sun = 116.4
+|Apr sun = 140.6
+|May sun = 164.7
+|Jun sun = 136.6
+|Jul sun = 212.7
+|Aug sun = 193.0
+|Sep sun = 143.9
+|Oct sun = 144.6
+|Nov sun = 129.0
+|Dec sun = 128.7
+
+|Jan humidity = 75
+|Feb humidity = 75
+|Mar humidity = 75
+|Apr humidity = 74
+|May humidity = 74
+|Jun humidity = 80
+|Jul humidity = 76
+|Aug humidity = 78
+|Sep humidity = 79
+|Oct humidity = 76
+|Nov humidity = 74
+|Dec humidity = 73
+|source 1 = China Meteorological Data Sharing Service System<ref>{{cite web|url=http://cdc.cma.gov.cn/dataSetLogger.do?changeFlag=dataLogger|title=Hangzhou|publisher=China Meteorological Data Sharing Service System|date=December 2013|accessdate=January 1, 2014}}</ref>
+}} <noinclude>
+
+==Administrative divisions==
+The sub-provincial city of Hangzhou comprises 9 [[District (China)|districts]], 2 [[county-level cities]], and 2 [[Counties of the People's Republic of China|counties]]. The six central urban districts occupy {{convert|683|km2|abbr=on}} and have 3,560,400 people. The three suburban districts occupy {{convert|4,193|km2|abbr=on}} and have 3,399,300 people.
+
+{|class="wikitable" style="font-size:100%;"
+! colspan="6" | Map
+|-
+| colspan="6" | <div style="position: relative" class=center>
+{{Image label begin|image=Administrative Division Hangzhou.png|width=800|link=}} 
+{{Image label|x=1980|y=400|scale=800/2560|text=[[Shangcheng District|'''1''']]}}
+{{Image label|x=1980|y=320|scale=800/2560|text=[[Xiacheng District|'''2''']]}}
+{{Image label|x=1960|y=280|scale=800/2560|text=[[Gongshu District|'''3''']]}}
+{{Image label|x=1980|y=480|scale=800/2560|text=[[Binjiang District|'''4''']]}}
+{{Image label|x=2020|y=320|scale=800/2560|text=[[Jianggan District|'''Jianggan''']]}}
+{{Image label|x=1830|y=450|scale=800/2560|text=[[Xihu District, Hangzhou|'''Xihu''']]}}
+{{Image label|x=2120|y=450|scale=800/2560|text=[[Xiaoshan District|'''Xiaoshan''']]}}
+{{Image label|x=1760|y=220|scale=800/2560|text=[[Yuhang District|'''Yuhang''']]}}
+{{Image label|x=1580|y=710|scale=800/2560|text=[[Fuyang District|'''Fuyang''']]}}
+{{Image label|x=1270|y=900|scale=800/2560|text=[[Tonglu County|'''Tonglu<br>County''']]}}
+{{Image label|x=570|y=1170|scale=800/2560|text=[[Chun'an County|'''Chun'an<br>County''']]}}
+{{Image label|x=1060|y=1310|scale=800/2560|text=[[Jiande|'''Jiande<br>{{small|(city)}}''']]}}
+{{Image label|x=1050|y=440|scale=800/2560|text=[[Lin'an City|'''Lin'an<br>{{small|(city)}}''']]}}
+{{Image label|x=1950|y=1100|scale=800/2560|text=[[Shangcheng District|'''1. Shangcheng''']]}}
+{{Image label|x=1950|y=1170|scale=800/2560|text=[[Xiacheng District|'''2. Xiacheng''']]}}
+{{Image label|x=1950|y=1240|scale=800/2560|text=[[Gongshu District|'''3. Gongshu''']]}}
+{{Image label|x=1950|y=1310|scale=800/2560|text=[[Binjiang District|'''4. Binjiang''']]}}
+</div>
+|-
+! align=left          | Subdivision
+! align=left          | Chinese
+! align=left          | Pinyin
+! align=left          | Population {{small|([[Sixth National Population Census of the People's Republic of China|2010]])}}
+! align=left          | Area {{small|(km<sup>2</sup>)}}
+! align=left          | Density
+|- style="background:#d3d3d3;"
+| colspan="7"  style="text-align:center; "| '''City Proper'''
+|-
+| align=left | [[Shangcheng District]]
+| align=left | {{lang|zh-Hans|上城区}}
+| align=right| {{transl|zh|Shàngchéng Qū}}
+| align=right| 344,594
+| align=right| 18.30
+| align=right| 18,830.27
+|-
+| align=left | [[Xiacheng District]]
+| align=left | {{lang|zh-Hans|下城区}}
+| align=right| {{transl|zh|Xiàchéng Qū}}
+| align=right| 526,096
+| align=right| 31.46
+| align=right| 16,722.70
+|-
+| align=left | [[Jianggan District]]
+| align=left | {{lang|zh-Hans|江干区}}
+| align=right| {{transl|zh|Jiānggàn Qū}}
+| align=right| 998,783
+| align=right| 210.22
+| align=right| 4,751.13
+|-
+| align=left | [[Gongshu District]]
+| align=left | {{lang|zh-Hans|拱墅区}}
+| align=right| {{transl|zh|Gǒngshù Qū}}
+| align=right| 551,874
+| align=right| 87.49
+| align=right| 6,307.85
+|-
+| align=left | [[Xihu District, Hangzhou|Xihu District]]
+| align=left | {{lang|zh-Hans|西湖区}}
+| align=right| {{transl|zh|Xīhú Qū}}
+| align=right| 820,017
+| align=right| 308.70
+| align=right| 2,656.36
+|-
+| align=left | [[Binjiang District]]
+| align=left | {{lang|zh-Hans|滨江区}}
+| align=right| {{transl|zh|Bīnjiāng Qū}}
+| align=right| 319,027
+| align=right| 72.02
+| align=right| 4,429.70
+|-
+|- style="background:#d3d3d3;"
+| colspan="7"  style="text-align:center; "| '''Suburban'''
+|-
+| align=left | [[Xiaoshan District]]
+| align=left | {{lang|zh-Hans|萧山区}}
+| align=right| {{transl|zh|Xiāoshān Qū}}
+| align=right| 1,511,290
+| align=right| 1,420.22
+| align=right| 1,064.12
+|-
+| align=left | [[Yuhang District]]
+| align=left | {{lang|zh-Hans|余杭区}}
+| align=right| {{transl|zh|Yúháng Qū}}
+| align=right| 1,170,290
+| align=right| 1,223.56
+| align=right| 956.46
+|-
+| align=left | [[Fuyang District]]
+| align=left | {{lang|zh-Hans|富阳区}}
+| align=right| {{transl|zh|Fùyáng Qū}}
+| align=right| 717,694
+| align=right| 1,831.20
+| align=right| 391.93
+|-
+|- style="background:#d3d3d3;"
+| colspan="7"  style="text-align:center; "| '''County'''
+|-
+| align=left | [[Tonglu County]]
+| align=left | {{lang|zh-Hans|桐庐县}}
+| align=right| {{transl|zh|Tónglú Xiàn}}
+| align=right| 406,450
+| align=right| 1,825.00
+| align=right| 222.71
+|-
+| align=left | [[Chun'an County]]
+| align=left | {{lang|zh-Hans|淳安县}}
+| align=right| {{transl|zh|Chún'ān Xiàn}}
+| align=right| 336,843
+| align=right| 4,427.00
+| align=right| 76.09
+|-
+|- style="background:#d3d3d3;"
+| colspan="7"  style="text-align:center; "| '''County-level cities'''
+|-
+| align=left | [[Jiande]]
+| align=left | {{lang|zh-Hans|建德市}}
+| align=right| {{transl|zh|Jiàndé Shì}}
+| align=right| 430,750
+| align=right| 2,321.00
+| align=right| 185.59
+|-
+| align=left | [[Lin'an City|Lin'an]]
+| align=left | {{lang|zh-Hans|临安市}}
+| align=right| {{transl|zh|Lín'ān Shì}}
+| align=right| 566,665
+| align=right| 3,126.80
+| align=right| 181.23
+|}
+
+==Economy==
+[[File:Qianjiang guoji shidai plaza 09.jpg|thumb|left|Qianjiang [[central business district|CBD]] in Hangzhou]]
+[[File:View of the night time Hangzhou skyline from the West Lake.JPG|thumb|View of the night time Hangzhou skyline from the West Lake]]
+[[File:Alibaba Binjiang Park.jpg|thumb|[[Alibaba Group|Alibaba]]'s [[Binjiang District|Binjiang]] Campus in Hangzhou, headquarters for Alibaba's [[Business-to-business|B2B]] service]]
+[[File:Hangzhou International Conference Center 15.JPG|thumb|left|Hangzhou International Conference Center]]
+
+Hangzhou's economy has rapidly developed since its opening up in 1992. It is an industrial city with many diverse sectors such as light industry, agriculture, and textiles. It is considered an important manufacturing base and logistics hub for coastal China.<ref name="hzindus.gov.cn">{{cite web|url=http://www.hzindus.gov.cn/en/list2.asp?id=48|title=Industries of Hangzhou|publisher=Hzindus.gov.cn|accessdate=2011-03-16}}</ref>
+
+The 2001 GDP of Hangzhou was [[Renminbi|RMB]] ¥156.8 billion, which ranked second among all of the provincial capitals after Guangzhou. The city has more than tripled its GDP since then, increasing from RMB ¥156.8 billion in 2001 to RMB ¥701.1 billion in 2011 and GDP per capita increasing from US$3,025 to US$12,447.<ref name="hzindus.gov.cn"/><ref>[http://zt-hzrb.hangzhou.com.cn/system/2012/04/10/011854806.shtml 杭州市人均GDP已达到中上等国家和富裕国家临界水平-杭报在线-新闻]</ref>
+
+The city has developed many new industries, including medicine, information technology, heavy equipment, automotive components, household electrical appliances, electronics, telecommunication, fine chemicals, chemical fibre and food
+processing.<ref>{{cite web|url=http://www.china-window.com/china_economy/china_economy_guide/hangzhou-economy.shtml|title=Hangzhou Economy|publisher=China-window.com|accessdate=2011-03-16}}</ref>
+
+===Economic and Technological Development Zones===
+
+:Hangzhou Economic & Technological Development Zone was established and approved as a national development zone by the [[State Council of China|State Council]] in 1993. It covers an area of {{convert|104.7|km2|abbr=on}}. Encouraged industries include electronic information, biological medicine, machinery and household appliances manufacturing, and food processing.<ref>[http://rightsite.asia/en/industrial-zone/hangzhou-economic-technological-development-zone/ Hangzhou Economic & Technological Development Zone|China Industrial Space]. Rightsite.asia. Retrieved on 2011-08-28.</ref>
+
+:Hangzhou Export Processing Zone was established on April 27, 2000 upon approval of the State Council. It was one of the first zones and the only one in Zhejiang Province to be approved by the government. Its total planned area is 2.92&nbsp;km<sup>2</sup>. It is located close to [[Hangzhou Xiaoshan International Airport]] and Hangzhou Port.<ref>[http://rightsite.asia/en/industrial-zone/motuo-development-zone/ Hangzhou Export Processing Zone|China Industrial Space]. Rightsite.asia (2000-04-27). Retrieved on 2011-08-28.</ref>
+
+:Hangzhou Hi-Tech Industrial Development Zone was set up with approval from the State Council as a state level Hi-tech Industrial Development Zone in March 1991. The HHTZ is composed of three parts, with the main regions being the Zhijiang Sci-Tech Industrial Park and Xiasha Sci-Tech Industrial Park. HHTZ has become one of the most influential hi-tech innovation and hi-tech industry bases in Zhejiang Province. {{As of|2013}}, HHTZ hosts more than 1,100 software developers and [[Business process outsourcing|BPO]] enterprises. Major companies such as [[Motorola]], [[Nokia]] and [[Siemens]] have established R&D centers in the zone. In 2011, the GDP of the zone rose by 13.1 percent, amounting to RMB 41.63 billion. This accounted for 5.9 percent of Hangzhou’s total GDP. The HHTZ positions itself as the "Silicon Valley" of China. The [[Alibaba Group]], the world's largest online B2B portal and China's largest website in terms of market value, is headquartered in the zone.<ref>[http://rightsite.asia/en/industrial-zone/hangzhou-hi-tech-industrial-development-zone/ Hangzhou Hi-Tech Industrial Development Zone|China Industrial Space]. Rightsite.asia. Retrieved on 2011-08-28.</ref><ref>{{cite web|title=Hangzhou Development Zones|url=http://www.china-briefing.com/regional-intelligence/hangzhou.html|website=China Briefing|accessdate=9 May 2015}}</ref>
+
+==Tourism==
+[[File:杭州城门.jpg|thumb|Hangzhou city gate in 1906]]
+[[File:Hangzhou - West Lake - CIMG2517.JPG|thumb|[[West Lake]] and [[Leifeng Pagoda]]]]
+[[File:Hu Xueyan's former residence, Hangzhou - 012.jpg|thumb|[[Hu Xueyan]] Residence, a historic mansion in Hangzhou]]
+[[File:Hangzhou-Sunset-Over-the-Qiantang-River.jpg|thumb|Hangzhou Sunset Over the Qiantang River]]
+Hangzhou is renowned for its historic relics and natural beauty. It is known as one of the most beautiful cities in China, also ranking as one of the most scenic cities.{{Citation needed|date=July 2014}} Although Hangzhou has been through many recent urban developments, it still retains its historical and cultural heritage. Today, [[tourism in China|tourism]] remains an important factor for Hangzhou's economy.<ref name="Hangzhou Today: Tourism">[http://www.chinapages.com/zhejiang/hangzhou/jg Hangzhou Today: Tourism]. China Pages. Retrieved August 22, 2006. {{wayback|url=http://www.chinapages.com/zhejiang/hangzhou/jg |date=20091005043313 }}</ref> One of Hangzhou's most popular sights is [[West Lake]], a [[UNESCO World Heritage Site]]. The West Lake Cultural Landscape covers an area of {{convert|3323|ha|abbr=on}} and includes some of Hangzhou's most notable historic and scenic places. Adjacent to the lake is a scenic area which includes historical pagodas, cultural sites, as well as the natural beauty of the lake and hills, including [[Phoenix Mountain]]. There are two causeways across the lake.<ref name="Hangzhou Today: Tourism"/>
+
+'''Other places of interest:'''
+* The world's largest [[tidal bore]] races up the [[Qiantang River]] through Hangzhou reaching up to {{convert|12|m|ft|abbr=on}} in height.
+* The Residence of [[Hu Xueyan]] (胡雪岩故居) located on Yuanbao Street was built in 1872 by Hu Xueyan, a native of [[Anhui]], a very successful businessman. It was restored and opened to the public in 2001.
+* [[Xixi National Wetland Park]]. Established with the aim of preserving the wetland ecological system, it covers an area of about 10&nbsp;km². Fish ponds and reed beds have been restored and it is home to many types of birds. It holds a temple and several historic rural houses.
+* [[Hangzhou Botanical Garden]]
+* [[Hangzhou Zoo]]
+* Old China Street on He Fang Street (''He Fang Jie''or“Qing He Fang”，literally “neighbourhood along the river”), which offers various souvenirs and renowned [[Longjing tea]].
+* Jade Springs (Yu Quan)
+* [[West Lake Cultural Square]] is one of the tallest building in the city centre(about 160m)and houses the Zhejiang Natural History Museum and Zhejiang Museum of Science and Technology.
+*[[Qiandao Lake]] is a man-made lake with the largest number of islands in Chun'an County,an administrative area  of Hangzhou government . These islands are different in size and shape, and have distinctive scene.
+*[[Grand Canal (China)|Grand Canal]]
+* [[Longjing tea]] fields, west of the lake, and the source of China's most famous tea.<ref name="the tea fields of Longjing">{{cite web
+|url=http://www.minorsights.com/2015/12/china-tea-fields-of-longjing.htmll|title=the tea fields of Longjing|accessdate= 9 December 2015 |publisher=Minor Sights}}</ref>
+
+In March 2013 The Hangzhou Tourism Commission started an online campaign via Facebook, the 'Modern Marco Polo' campaign. Over the next year nearly 26,000 participants applied from around the globe, in the hopes of becoming Hangzhou's first foreign tourism ambassador.<ref>{{cite web|url=http://www.nbcnews.com/business/travel/modern-day-marco-polo-hangzhou-china-n109921 |title=NBC NEWS " Modern-Day Marco Polo for Hangzhou, China |publisher=NBC NEWS |date= |accessdate=2014-11-26}}</ref> In a press conference in Hangzhou on May 20, 2014, [[Liam Bates]] was announced as the successful winner. The 26-year-old won a €40,000 contract and is the first foreigner ever to be appointed by China's government in such an official role.<ref>{{cite web|url=http://www.dailymail.co.uk/travel/article-2634905/Briton-promote-China-Facebook-locals-banned-site.html |title=The Daily Mail " Briton appointed by Chinese government to promote the country on Facebook (but locals are still banned from the site) |publisher=The Daily Mail |date= |accessdate=2014-11-26}}</ref>
+
+==Religion==
+[[File:Hangzhou City 2 WB (2568).jpg|thumb|View of the Chenghuangmiao (City God Pavilion) area]]
+[[File:Hangzhou Liuhe Ta 20120518-04.jpg|thumb|upright|The [[Liuhe Pagoda]] of Hangzhou, built in 1165, during the [[Song dynasty]]]]
+
+===Scenic places near West Lake===
+* [[Jingci Temple]] is located just south of West Lake.
+* [[Lingyin Temple]] (Soul's Retreat) is located about {{convert|2|km|abbr=on}} west of West Lake. This is believed to be the oldest [[Buddhist temple]] in the city, which has gone through numerous destruction and reconstruction cycles.
+* [[Baochu Pagoda]] is located just north of West Lake on Precious Stone Hill ({{lang|zh-hans|宝石山}})
+* [[Yue-Wang Temple]] (King Yue's Temple) or Yue Fei Miao is on the northwest shore of West Lake. It was originally constructed in 1221 in memory of General [[Yue Fei]], who lost his life due to political persecution.
+* [[Leifeng Pagoda]], located on Sunset Hill south of West Lake.
+
+===Other religious buildings===
+* [[Liuhe Pagoda]] or six harmonies pagoda is located on Yuelun Hill on the north bank of Qiantang River
+* [[Confucius Temple]]
+* Chenghuangmiao (City God Pavilion) located on Wushan (Wu Hill)
+* [[Dreaming of the Tiger Spring]]
+* The [[Immaculate Conception Cathedral of Hangzhou]] is one of the oldest [[Catholic]] churches in China, dating back 400 years to the [[Ming dynasty]].
+* [[Fenghuang Temple]] ({{lang|zh-hans-CN|凤凰清真寺}}) is one of the oldest [[mosque]]s in China, the current construction at the intersection of Xihu Avenue ({{lang|zh-hans-CN|西湖大道}}) and the Central Zhongshan Road ({{lang|zh-hans-CN|中山中路}}) dates back 700 years to the [[Yuan dynasty]].
+
+===Christianity===
+Two of the [[Three Pillars of Chinese Catholicism]] were from Hangzhou. There was [[persecution of Christians]] in the early 21st century in the city.<ref>{{cite news|last=Fan|first=Maureen|title=In China, Churches Challenge the Rules|url=http://www.washingtonpost.com/wp-dyn/content/article/2006/09/30/AR2006093000494.html|newspaper=Washington Post|date=October 1, 2006}}</ref>
+
+==Culture==
+
+===Language===
+[[File:Dragon Well 20090721-4.JPG|thumb|upright|Longjing (Dragon Well Spring) in Hangzhou, famous for the [[Longjing tea]] cultivated in the surrounding plantations]]
+[[File:Hall of the Five Hundred Arhats in Lingyin Temple, Hangzhou.jpg|thumb|upright|Large statue of [[Guanyin]] and carved images of 150 Buddhist personalities in the Grand Hall of the Great Sage in [[Lingyin Temple]]]]
+The native residents of Hangzhou, like those of [[Zhejiang]] and southern [[Jiangsu]], speak [[Hangzhou dialect]], which is a [[Wu Chinese|Wu]] dialect. However, Wu Chinese varies throughout the area where it is spoken, hence, Hangzhou's dialect differs from regions in southern Zhejiang and southern [[Jiangsu]]. As the official language defined by China's central government, [[Standard Chinese|Mandarin]] is the dominant spoken language.
+
+===Museum===
+There are several museums located in Hangzhou with regional and national importance. China National Silk Museum ({{lang|zh-hans-CN|中国丝绸博物馆}}), located near the West Lake, is one of the first state-level museums in China and the largest silk museum in the world. China National Tea Museum ({{lang|zh-hans-CN|中国茶叶博物馆}}) is a national museum with special subjects as tea and its culture. Zhejiang Provincial Museum ({{lang|zh-hans-CN|浙江博物馆}}) features collection of integrated human studies, exhibition and research with its over 100,000 collected cultural relics.
+
+===Food===
+Hangzhou's local cuisine is often considered to be representative of Zhejiang provincial cuisine, which is claimed as one of China’s eight fundamental cuisines. The locally accepted consensus among Hangzhou's natives defines dishes prepared in this style to be "fresh, tender, soft, and smooth, with a mellow fragrance."
+
+Dishes like Pian Er Chuan Noodles ({{lang|zh-hans-CN|片儿川}}) West Lake Vinegar Fish ({{lang|zh-hans-CN|西湖醋鱼}}), Dongpo Pork ({{lang|zh-hans-CN|东坡肉}}), Longjing Shrimp ({{lang|zh-hans-CN|龙井虾仁}}), [[Beggar's Chicken]] ({{lang|zh-hans-CN|叫化鸡}}), Steamed Rice and Pork Wrapped by Lotus Leaves（{{lang|zh-hans-CN|荷叶粉蒸肉}}）, Braised Bamboo Shoots ({{lang|zh-hans-CN|油焖笋}}),Lotus Root Pudding ({{lang|zh-hans-CN|藕粉}})and Sister Song's Fish Soup ({{lang|zh-hans-CN|宋嫂鱼羹}}) are some of the better-known examples of Hangzhou's regional cuisine.
+
+===Arts===
+There are lots of theaters in Hangzhou showing performance of opera shows. [[Shaoxing opera]], originated from Shengzhou, Zhejiang Province, is the second-largest opera form in China. Also, there are several big shows themed with the history and culture of Hangzhou like [http://www.hzyxxh.com/en/ Impression West Lake] and the Romance of Song Dynasty.
+
+===Specialty===
+Tea is an important part of Hangzhou's economy and culture. Hangzhou is best known for originating [[Longjing tea|Longjing]], a notable variety of [[green tea]], the most notable type being [[Xi Hu Long Jing]].<ref>{{cite book|title=China, Volume 10|author=Cummings, Joe and Robert Storey|publisher=Lonely Planets Publications|year=1991|isbn=0-86442-123-0|page=345}}</ref> Known as the best type of Long Jing tea, Xi Hu Long Jing is grown in Longjing village<ref name="the tea fields of Longjing"/> near [[Xi Hu]] in Hangzhou, hence its name.{{Citation needed|date=July 2014}}
+
+The local government of Hangzhou heavily invests in promoting tourism and the arts, with emphasis placed upon [[silk]] production, [[umbrella]]s, and Chinese hand-held folding [[fan (implement)|fans]].
+
+==Transportation==
+{{multiple image
+| align     = right
+| direction = horizontal
+| image1    = 城站火车站更新改造后正面3050.JPG
+| width1    = 170
+| caption1  = [[Hangzhou Railway Station]]
+| image2    = High speed rail, hangzhou.jpg
+| width2    = 170
+| caption2  = [[High-speed rail in China|High-speed rail]] line in Hangzhou}}
+{{multiple image
+| align     = right
+| direction = vertical
+| image1    = Hangzhou trolleybus 5713 in 2009.jpg
+| width1    = 150
+| caption1  = Hangzhou trolleybus
+| image2    = 东风巴士.jpg
+| width2    = 150
+| caption2  = Hangzhou city bus
+| image3    = Hangzhou Yan'an Road 02.jpg
+| width3    = 150
+| caption3  = Buses and taxi on Yan'an Road
+| image4    = Service bicyclette hangzhou zhongguo.jpg
+| width4    = 150
+| caption4  = Bicycles for rent
+| image5    = Qiantang River Bridge.JPG
+| width5    = 150
+| caption5  = [[Qiantang River Bridge]]
+}}
+
+Hangzhou is served by the [[Hangzhou Xiaoshan International Airport]], which provides direct service to many international destinations such as [[Thailand]], [[Japan]], [[South Korea]], [[Malaysia]], [[Vietnam]], [[Singapore]], [[Taiwan]], [[Netherlands]],<ref>[http://www.schiphol.com/B2B/RouteDevelopment/RouteDevelopmentNews/KLMLaunchedItsFirstFlightToHangzhouInChina.htm KLM launched its first flight to Hangzhou in China]. Schiphol (2010-05-08). Retrieved on 2011-08-28.</ref> [[Qatar]], and the [[United States]]. Regional routes reach [[Hong Kong]] and [[Macau]]. It has an extensive domestic route network within the PRC and is consistently ranked top 10 in passenger traffic among Chinese airports. Hangzhou Xiaoshan International Airport has two terminals, Terminal A and Terminal B. The smaller Terminal A serves all international and regional flights while the larger Terminal B solely handles domestic traffic. The airport is located just outside the city in the [[Xiaoshan District]] with direct bus service linking the airport with Downtown Hangzhou. The ambitious expansion project will see the addition of a second runway and a third terminal which will dramatically increase capacity of the fast-growing airport that serves as a secondary hub of [[Air China]]. A new elevated airport express highway is under construction on top of the existing highway between the airport and downtown Hangzhou. The second phase of Hangzhou Metro Line 1 has a planned extension to the airport.
+
+Hangzhou sits on the intersecting point of some of the busiest rail corridors in China. The city's main station is [[Hangzhou East Railway Station]] (colloquially "East Station" {{lang|zh-hans|东站}}). It is one of the biggest rail traffic hubs in China, consisting of 15 platforms that house the High Speed CRH service to Shanghai, Nanjing, Changsha, Ningbo, and beyond. The subway station beneath the rail complex building is a stop along the Hangzhou Metro Line 1. There are frequent departures for [[Shanghai]] with approximately 20-minute headways from 6:00 to 21:00. Non-stop CRH high-speed service between Hangzhou and Shanghai takes 50 minutes and leaves every hour (excluding a few early morning/late night departures) from both directions. Other [[China Railway High-speed|CRH]] high-speed trains that stop at one or more stations along the route complete the trip in 59 to 75 minutes. Most other major cities in China can also be reached by direct train service from Hangzhou. The [[Hangzhou Railway Station]] (colloquially the "City Station" {{zh|c=城站|links=no}}) was closed for renovation in mid 2013 but has recently opened again.
+
+Direct trains link Hangzhou with more than 50 main cities, including 12 daily services to [[Beijing]] and more than 100 daily services to [[Shanghai]]; they reach as far as [[Ürümqi]]. The [[China Railway High-Speed]] service inaugurated on October 26, 2010. The service is operated by the CRH 380A(L), CRH 380B(L) and CRH380CL train sets which travel at a maximum speed of {{convert|350|km/h|abbr=on}}, shortening the duration of the {{convert|202|km|abbr=on}} trip to only 45 minutes.<ref>{{cite web|url=http://news.xinhuanet.com/english2010/china/2010-10/26/c_13575584.htm|author=[[xinhuanet]]|title=China unveils Shanghai-Hangzhou high-speed railway; eyes network extension|date=2010-10-26|accessdate=2010-10-26}}</ref>
+
+The construction of the [[Shanghai-Hangzhou Maglev Train|Shanghai–Hangzhou Maglev Train Line]] has been debated for several years. On August 18, 2008, Beijing authorities gave the project the go-ahead to start construction in 2010. [[Transrapid]] has been contracted to construct the line; however, {{As of|2011|lc=y}}, construction has not yet started.
+
+Central (to the east of the city centre, taking the place of the former east station), north, south, and west long-distance [[bus]] stations offer frequent coach service to nearby cities/towns within Zhejiang province, as well as surrounding provinces.
+
+Hangzhou has an efficient public transportation network, consisting of a modern fleet of regular diesel bus, [[Trolleybus|trolley bus]], [[Hybrid electric bus|hybrid diesel-electric bus]] and taxi. The first [[Rapid transit|subway]] line entered into service in late 2012. Hangzhou is known for its extensive [[Bus Rapid Transit]] network expanding from downtown to many suburban areas through dedicated bus lanes on some of the busiest streets in the city. [[Bicycle]]s and [[Motorized bicycle|electric scooters]] are very popular, and major streets have dedicated bike lanes throughout the city. Hangzhou has an extensive free [[Bicycle sharing system|public bike rental system]], the [[Hangzhou Public Bicycle]] system.
+
+[[Taxicab|Taxis]] are also popular in the city, with the newest line of [[Hyundai Sonata]]s and [[Volkswagen Passat]]s, and tight regulations. In early 2011, 30 electric taxis were deployed in Hangzhou; 15 were [[Zotye]] Langyues and the other 15 were [[Haima (car)|Haima]] Freemas. In April, however, one Zoyte Langyue caught fire, and all of the electric taxis were taken off the roads later that day. The city still intends to have a fleet of 200 electric taxis by the end of 2011.<ref>{{cite web|title=Hangzhou Halts All Electric Taxis as a Zotye Langyue (Multipla) EV Catches Fire|url=http://chinaautoweb.com/2011/04/hangzhou-halts-all-electric-taxis-as-a-zotye-langyue-multipla-ev-catches-fire/|publisher=ChinaAutoWeb|accessdate=2011-07-06}}</ref> In 2014, a large number of new electric taxis produced by Xihu-BYD (Xihu (westlake) is a local company which is famous for television it produced in the past) were deployed.
+
+The [[Hangzhou Metro]] began construction in March 2006, and the first line opened on November 24, 2012. Line 1 connects downtown Hangzhou with suburban areas of the city from Xianghu to Wenze Road and Linping. By June 2015, the southeast part of Line 2 (starts in Xiaoshan District, ends to the south of the city centre) and a short part of Line 4 (fewer than 10 stations, connecting Line 1 & Line 2) were completed. The system is expected to have 10 lines upon completion; most lines are still under construction. The extensions of Line 2 (Xihu District) and Line 4 (east of Bingjiang) are expected to be finished in 2016.
+
+==Education==
+{{See also|List of universities in China}}
+
+===Universities===
+Hangzhou has a large student population with many higher education institutions based in the city. Public universities include [[Zhejiang University]], [[Zhejiang University of Technology]], and [[Hangzhou Normal University]] etc.  Xiasha, located near the east end of the city,  and Xiaoheshan, located near the west end of the city, are college towns with a cluster of several universities and colleges.
+<!-- Alphabetical listing --> 
+* [[China Academy of Art]] (founded in 1928)
+* [[Hangzhou Dianzi University]]
+* [[Hangzhou Normal University]] (founded in 1908)
+* [[Zhejiang Chinese Medical University]]
+* [[Zhejiang Forestry University]]
+* [[Zhejiang Gongshang University]]
+* [[Zhejiang University of Science and Technology]]
+* [[Zhejiang International Studies University]] (also known as Zhejiang Education Institute, founded in 1955 and started enrolling full-time undergraduates in 1994, got its present name in 2010)<ref>{{cite web|title=Introducing ZISU|url=http://www.zisu.edu.cn/multi-language/english/|publisher=zisu.edu|accessdate=12 March 2014}}</ref> 
+* [[Zhejiang Sci-Tech University]]
+* [[Zhejiang Shuren University]]
+* [[Zhejiang University]] (founded in 1897), one of the top five universities in China.<ref>{{cite web|title=Zhejiang University surpasses Tsinghua as top university of China|url=http://www.china.org.cn/top10/top_universities_of_China/2011-06/17/content_22808249.htm|website=China.org.cn|accessdate=17 November 2014}}</ref> ([[Project 985]], [[Project 211]], [[C9 League]])
+* [[Zhejiang University City College]]
+* [[Zhejiang University of Technology]] (1953)
+* [[Zhejiang University of Media and Communications (ZUMC)|Zhejiang University of Media and Communications]] (1984)
+''Note: Institutions without full-time bachelor programs are not listed.''
+
+===High schools===
+The most famous high schools in Hangzhou are:
+* [[Hangzhou High School]] (formerly Hangzhou No. 1 Senior High School)
+* [[Hangzhou Foreign Language School]]
+* [[High school attached to Zhejiang University]] (formerly Hangzhou No. 15 Senior High School)
+* [[High School attached to Hangzhou Normal university]] (formerly Hangzhou No. 13 Senior High School)
+* [[Hangzhou No. 2 High School]]
+* [[Hangzhou No. 4 High School]] (formerly Yangzheng School, established in 1899 by Lin Qi)
+* [[Hangzhou No. 7 High School]]
+* [[Hangzhou Xuejun High School]]
+* [[Hangzhou No. 9 High School]]
+* [[Hangzhou No. 11 High School]]
+* [[Hangzhou No. 14 High School]]
+
+[[Hangzhou International School]] serves the local expat population in Hangzhou.
+
+==Twin towns – Sister cities==
+Hangzhou is [[Twin towns and sister cities|twinned]] with:
+
+{| class="wikitable"
+|- class="hintergrundfarbe5"
+! City !! Country !! since
+|-
+| [[Sayama]] || {{JPN}} || 1978
+|-
+| [[Gifu, Gifu|Gifu]] || {{JPN}} || 1979
+|-
+| [[Boston]] || {{USA}} || 1982
+|-
+| [[Baguio]] || {{PHI}} || 1982
+|-
+| [[Leeds]] || {{ENG}} || 1988
+|-
+| [[Fukui, Fukui|Fukui]] || {{JPN}} || 1989
+|-
+| [[Nice]] || {{FRA}} || 1994
+|-
+| [[Paramaribo]] || {{SUR}} || 1988
+|-
+| [[Budapest]] || {{HUN}} || 1999
+|-
+| [[Cape Town]] || {{RSA}} || 2005
+|-
+| [[Dresden]] || {{DEU}} || 2009
+|-
+| [[Indianapolis]] || {{USA}} || 2009
+|-
+| [[Atlanta]] || {{USA}} || 2012
+|-
+| [[Dnepropetrovsk]] || {{flag|Ukraine}} || 2013
+|-
+| [[Tallinn]] || {{EST}} || Unknown
+|-
+| [[Weert]] || {{NED}} || Unknown
+|}
+[[Fishers, Indiana]] is in the exploration process of becoming sister cities with Hangzhou.
+
+==Chinese sayings==
+[[File:Gardens-window.JPG|thumb|A typical [[Chinese garden]]'s window in Hangzhou. It is a common technique for the view to resemble a [[Chinese painting]].]]
+[[File:Wanghulou.JPG|thumb|170px|A typical [[Chinese architecture|Chinese style architecture]] in Hangzhou]]
+:''"Be born in [[Suzhou]], live in Hangzhou, eat in [[Guangzhou]], die in [[Liuzhou]]."'' ({{zh|s=生在苏州, 活在杭州, 吃在广州, 死在柳州|t=生在蘇州, 活在杭州, 吃在廣州, 死在柳州|links=no}})
+::The meaning here lies in the fact that Suzhou was renowned for its beautiful and highly civilized and educated citizens, Hangzhou for its scenery, Guangzhou for its food, and Liuzhou (of [[Guangxi]]) for its wooden coffins which supposedly halted the decay of the body (likely made from the chamfor tree).
+
+:''"Heaven Above, Suzhou and Hangzhou below."'' ({{zh|s=上有天堂, 下有苏杭|t=上有天堂, 下有蘇杭|links=no}})
+::This phrase has a similar meaning to the English phrases "heaven on Earth" or "God's country".
+
+==See also==
+{{Portal|China}}
+* [[Historical capitals of China]]
+* [[Jiangnan]]
+* [[Zhejiang Province]]
+* [[List of cities in the People's Republic of China by population]]
+* [[Suzhou numerals]] - in the [[Unicode]] standard version 3.0, these characters are incorrectly named Hangzhou style numerals
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+* {{PD-old-text|title=The Middle kingdom: a survey of the ... Chinese empire and its inhabitants ...|year=1848|author=Samuel Wells Williams}}
+* {{PD-old-text|title=The middle kingdom: a survey of the geography, government, education, social life, arts, religion, etc. of the Chinese empire and its inhabitants, Volume 2|year=1848|author=Samuel Wells Williams, John William Orr}}
+* {{PD-old-text|title=The Chinese repository, Volume 13|year=1844}}
+* {{PD-old-text|title=The Baptist missionary magazine, Volume 29|year=1849|author=American Baptist Missionary Union. Executive Committee, Baptist General Convention. Board of Managers}}
+* {{PD-old-text|title=My holidays in China: An account of three houseboat tours, from Shanghai to Hangehow and back via Ningpo; from Shanghai to Le Yang via Soochow and the Tah Hu; and from Kiukiang to Wuhu; with twenty-six illustrations (from photographs)|year=1895|author=William R. Kahler}}
+* {{PD-old-text|title=Reports from the consuls of the United States, Issues 124-127|year=1891|author=United States. Bureau of Foreign Commerce}}
+* {{PD-old-text|title=Memoirs of the Rev. Walter M. Lowrie: missionary to China|year=1854|author=Walter Macon Lowrie, Presbyterian church in the U.S.A. Board of foreign missions}}
+* {{PD-old-text|title=Darkness in the flowery land: or, Religious notions and popular superstitions in north China|year=1857|author=Michael Simpson Culbertson}}
+* [http://info.hktdc.com/mktprof/china/hangzhou.htm Economic profile for Hangzhou] at [[Hong Kong Trade Development Council|HKTDC]]
+
+==Further reading==
+*{{Cite book|author=Cotterell, Arthur|title=The Imperial Capitals of China - An Inside View of the Celestial Empire|location=London|publisher=Pimlico|year=2007|isbn=978-1-84595-009-5|page=304}}
+*{{Cite book|author=Gernet, Jacques|title=Daily Life in China on the Eve of the Mongol Invasion, 1250-1276|location=Stanford|publisher=Stanford University Press|year=1962|isbn=0-8047-0720-0}}
+
+==External links==
+{{Commons+cat|Hangzhou|Hangzhou}}
+{{NIE Poster|year=1905|Hang-chow}}
+*{{Wikivoyage-inline}}
+* [http://www.hangzhou.gov.cn/ Hangzhou Government website]
+* [http://en.gotohz.com/ EN.GOTOHZ.COM] - The Official Website of Hangzhou Tourism Commission
+* [http://www.travelwestlake.com/en/home-2 TRAVELWESTLAKE] - The Official Travel Guide of Hangzhou
+* {{OSM relation|3221112}}
+{{S-start}}
+{{S-bef|before=[[Kaifeng]]|row=1}}
+{{s-ttl|title=[[Historical capitals of China|Capital of China]] (as Lin'an)
+|years=1127-1279|row=1}}
+{{S-aft|after=[[Khanbaliq|Dadu]] (present [[Beijing]])|row=1}}
+{{s-end}}
+{{Zhejiang topics}}
+{{Zhejiang}}
+{{Regions and cities of China}}
+{{Metropolitan cities of the People's Republic of China}}
+{{Provincial capitals of China}}
+{{Most populous cities in the People's Republic of China}}
+{{World's most populous urban areas}}
+
+{{Authority control}}
+
+[[Category:Hangzhou| ]]
+[[Category:Cities in Zhejiang]]
+[[Category:Populated places established in the 3rd century BC]]
+[[Category:Provincial capitals in China]]
+[[Category:Sub-provincial cities in the People's Republic of China]]
+[[Category:Yangtze River Delta]]
+[[Category:Prefectures of the Sui dynasty]]
+[[Category:Prefectures of the Tang dynasty]]
+[[Category:Prefectures of Wuyue]]
+[[Category:Prefectures of the Song dynasty]]
+[[Category:Prefectures of the Yuan dynasty]]
+[[Category:Prefectures of the Ming dynasty]]
+[[Category:Prefectures of the Qing dynasty]]
+[[Category:Former prefectures in Zhejiang]]
+[[Category:National Famous Historical and Cultural Cities in China]]
+[[Category:National Garden Cities in China]]
+[[Category:National Forest Cities in China]]

@@ -1,0 +1,221 @@
+Asteraceae
+
+{{Use dmy dates|date=June 2013}}
+{{taxobox
+|name = Asteraceae
+|fossil_range = {{fossil range|76|0}}[[Campanian]]<ref name=PNAS2015>{{cite journal | doi = 10.1073/pnas.1423653112 | title = Early evolution of the angiosperm clade Asteraceae in the Cretaceous of Antarctica | year = 2015 | author = Viviana D. Barreda, Luis Palazzesi, Maria C. Tellería, Eduardo B. Olivero, J. Ian Raine and Félix Forest | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = in press | pages = 10989–10994}}</ref> – recent
+|image = Asteracea poster 3.jpg
+|image_caption = A poster with 12 different species of Asteraceae from the subfamilies Asteroideae, Cichorioideae and Carduoideae
+|regnum = [[Plant]]ae
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Asterales]]
+|familia = '''Asteraceae'''
+|familia_authority = [[Friedrich von Berchtold|Bercht.]] & [[Jan Svatopluk Presl|J.Presl]]<ref name="apgiii">{{Citation |last=Angiosperm Phylogeny Group |year=2009 |title=An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III |journal=Botanical Journal of the Linnean Society |volume=161 |issue=2 |pages=105–121 |url=<!-- http://www3.interscience.wiley.com/journal/122630309/abstract -->http://onlinelibrary.wiley.com/doi/10.1111/j.1095-8339.2009.00996.x/abstract |accessdate=10 December 2010 |doi=10.1111/j.1095-8339.2009.00996.x }}</ref>
+|diversity = 1,600 genera
+|diversity_link = List of Asteraceae genera
+|type_genus = ''[[Aster (genus)|Aster]]''
+|type_genus_authority = [[Carl Linnaeus|L.]]
+|subdivision_ranks = Subfamilies
+|subdivision = [[Asteroideae]] <small>Lindley</small><br />
+[[Barnadesioideae]] <small>Bremer & Jansen</small><br />
+[[Carduoideae]] <small>Sweet</small><br />
+[[Cichorioideae]] <small>Chevallier</small><br />
+[[Corymbium|Corymbioideae]] <small>Panero & Funk</small><br />
+[[Famatinanthoideae]] <small>S.E. Freire, Ariza & Panero</small><br />
+[[Gochnatioideae]] <small>Panero & Funk</small><br />
+[[Gymnarrhenoideae]] <small>Panero & Funk</small><br />
+[[Hecastocleidoideae]] <small>Panero & Funk</small><br />
+[[Mutisioideae]] <small>Lindley</small><br />
+[[Pertyoideae]] <small>Panero & Funk</small><br />
+[[Stifftioideae]] <small>Panero</small><br />
+[[Wunderlichioideae]] <small>Panero & Funk</small>
+|synonyms = Compositae <small>Giseke</small><br />
+Acarnaceae  <small>Link</small><br />
+Ambrosiaceae <small>Bercht. & J. Presl</small><br />
+Anthemidaceae <small>Bercht. & J. Presl</small><br />
+Aposeridaceae <small>Raf.</small><br />
+Arctotidaceae <small>Bercht. & J. Presl</small><br />
+Artemisiaceae <small>Martinov</small><br />
+Athanasiaceae <small>Martinov</small><br />
+Calendulaceae <small>Bercht. & J. Presl</small><br />
+Carduaceae <small>Bercht. & J. Presl</small><br />
+Cassiniaceae <small>Sch. Bip.</small><br />
+Cichoriaceae <small>Juss.</small><br />
+Coreopsidaceae <small>Link</small><br />
+Cynaraceae <small>Spenn.</small><br />
+Echinopaceae <small>Bercht. & J. Presl</small><br />
+Eupatoriaceae <small>Bercht. & J. Presl</small><br />
+Helichrysaceae <small>Link</small><br />
+Inulaceae <small>Bercht. & J. Presl</small><br />
+Lactucaceae <small>Drude</small><br />
+Mutisiaceae <small>Burnett</small><br />
+Partheniaceae <small>Link</small><br />
+Perdiciaceae <small>Link</small><br />
+Senecionaceae <small>Bercht. & J. Presl</small><br />
+Vernoniaceae <small>Burmeist.</small><br /><br />
+Source: GRIN<ref name="GRIN">{{cite web
+ | url = http://www.ars-grin.gov/cgi-bin/npgs/html/family.pl?110
+ | title =  Family: Asteraceae Bercht. & J. Presl, nom. cons.
+ | accessdate = 12 June 2008
+ | author = Germplasm Resources Information Network (GRIN)
+ | authorlink = Germplasm Resources Information Network
+ | work = Taxonomy for Plants
+ | publisher = [[United States Department of Agriculture|USDA]], [[Agricultural Research Service|ARS]], National Genetic Resources Program, National Germplasm Resources Laboratory, Beltsville, Maryland
+ }}</ref>
+|}}
+
+'''Asteraceae''' or '''Compositae''' (commonly referred to as the '''aster''', '''daisy''', '''composite''',<ref name=GBW>Great Basin Wildflowers, Laird R. Blackwell, 2006, p. 275</ref> or '''sunflower family''') is an exceedingly large and widespread [[family (biology)|family]] of [[flowering plant]]s (Angiospermae).<ref name="Stevens">[http://www.mobot.org/mobot/research/apweb/welcome.html Stevens, P. F. (2001 onwards) ''Angiosperm Phylogeny Website''. Version 13, updated: 04/19/2014 19:57:49]</ref><ref>Jeffrey, C. 2007. Compositae: Introduction with key to tribes. Pages 61–87 in Families and Genera of Vascular Plants, vol. VIII, Flowering Plants, Eudicots, Asterales (J. W. Kadereit and C. Jeffrey, eds.). Springer-Verlag, Berlin</ref>
+
+The family has more than 23,600 currently accepted species, spread across 1,620 genera ([[List of Asteraceae genera|list]]) and 13 subfamilies.{{citation needed|date= August 2015}} In terms of numbers of species, the Asteraceae are rivaled only by the [[Orchidaceae]].<ref name="Stevens" /><ref name="Panero & Crozier">[http://tolweb.org/Asteraceae/20780 Panero, J.L., Crozier, B.S. ''Tree of Life – Asteraceae'']</ref> (Which of the two families is actually larger is unclear, owing to uncertainty about exactly how many species exist in each family.) Many members have [[composite flower]]s in the form of [[flower head]]s (capitula or pseudanthia) surrounded by [[bract#Involucral bracts|involucral bracts]]. When viewed from a distance, each capitulum may have the appearance of being a single flower. The name "Asteraceae" comes from the type genus ''Aster'', from the Greek ἀστήρ, meaning star, and refers to the star-like form of the  inflorescence. "Compositae" is an older but still valid name which refers to the fact that the family is one of the few angiosperm ones to have composite flowers.<ref>[http://ibot.sav.sk/icbn/main.htm International Code of Botanical Nomenclature.] In point 18/5 states: "The following names, used traditionally, are considered valid: Compositae (Asteraceae...).</ref>
+
+Most members of Asteraceae are herbaceous, but a significant number are also shrubs, vines, or trees. The family has a worldwide distribution, from the polar regions to the tropics, colonizing a wide variety of habitats. It is most common in the [[arid]] and semiarid regions of subtropical and lower temperate latitudes.<ref name="Barkley et al.">[http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10074 Barkely, T.M., Brouillet, L., Strother, J.L. (2006) ''Flora of North America – Asteraceae" ]</ref> The Asteraceae may represent as much as 10% of [[Autochthon (nature)|autochthonous]] flora in many regions of the world.
+
+The Asteraceae are an economically important family, providing products such as [[cooking oil]]s, [[lettuce]], [[sunflower seed]]s, [[artichoke]]s, [[sweetening agent]]s, coffee substitutes and [[herbal tea]]s. Several genera are of [[horticulture|horticultural]] importance, including pot marigold, ''[[Calendula officinalis]]'', ''[[Echinacea purpurea|Echinacea]]'' (cone flowers), various daisies, [[Erigeron|fleabane]], [[chrysanthemum]]s, [[dahlia]]s, [[zinnia]]s, and [[helenium]]s. Asteraceae are important in herbal medicine, including ''[[Grindelia]]'', [[Achillea millefolium|yarrow]], and many others.<ref name="Duke">{{cite web|url=http://www.ars-grin.gov/duke/|title=Phytochemical and Ethnobotanical Databases|work=ars-grin.gov}}</ref> A number of species are considered invasive, including, most notably in North America, [[Taraxacum officinale|dandelion]], which was originally introduced by European settlers who used the young leaves as a salad green.<ref>{{cite web | url = http://www.invasiveplantatlas.org/subject.html?sub=3887 | title = dandelion Taraxacum officinale | accessdate = 10 September 2012 | work = Invasive Plant Atlas of the United States}}</ref>
+
+== Etymology ==
+The Latin name "Asteraceae" is derived from the type genus ''[[Aster (genus)|Aster]]'', which is a Greek term that means "star".<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/aster|title=Aster - Definition of aster by Merriam-Webster|work=merriam-webster.com}}</ref> "Compositae", an older but still valid name,<ref>{{cite web|url=http://www.iapt-taxon.org/nomen/main.php?page=art18|title=International Code of Nomenclature for algae, fungi, and plants – Article 18.5|work=iapt-taxon.org}}</ref> means "composite" and refers to the characteristic [[inflorescence]], a special type of [[pseudanthium]] found in only a few other [[angiosperm]] families. The study of this family is known as [[synantherology]].
+
+The vernacular name "daisy", widely applied to members of this family, is derived from its Old English name: ''dægesege'', from ''dæges eage'', meaning "day's eye". This is because the petals (of ''[[Bellis perennis]]'') open at dawn and close at dusk.
+
+== Distribution ==
+Composite flowers have a [[cosmopolitan distribution]], and are found everywhere except [[Antarctica]] and the extreme Arctic. They are especially numerous in tropical and subtropical regions (notably [[Central America]], eastern [[Brazil]], the [[Mediterranean region|Mediterranean]], the Levant part of the Middle East, [[southern Africa]], [[central Asia]], and [[southwestern China]]).<ref name="Panero & Crozier" />
+
+== Taxonomy ==
+Compositae were first described in 1792 by the [[Germans|German]] botanist [[Paul Dietrich Giseke]].<ref>Solbrig, O.T. (1963) Subfamilial Nomenclature of Compositae. ''Taxon'' '''12''': 229–235 {{JSTOR|1216917}}</ref>  Traditionally, two subfamilies were recognised: [[Asteroideae]] (or Tubuliflorae) and [[Cichorioideae]] (or Liguliflorae). The latter has been shown to be extensively [[paraphyletic]], and has now been divided into 11 subfamilies, but the former still stands. The [[phylogenetic tree]] presented below is based on Panero & Funk (2002).<ref>{{cite journal | last1 = Panero | first1 = J.L. | last2 = Funk | first2 = V.A. | year = 2002 | title = Toward a phylogenetic subfamilial classification for the Compositae (Asteraceae) | url = http://www.biodiversitylibrary.org/item/110040#page/927/mode/1up | journal = Proc. Biol. Soc. Wash. | volume = 115 | issue = | pages = 909–922 }}</ref> The diamond denotes a very poorly supported [[cladistics|node]] (<50% bootstrap support), the dot a poorly supported node (<80%).<ref name="Stevens" />
+
+{{clade|style=font-size:80%;line-height:75%
+|1={{clade|1='''[[Barnadesioideae]]''': 9 genera, 93 species. [[South America]], mainly the [[Andes]].
+|2={{clade|1='''[[Stifftioideae]]''': [[South America]] and [[Asia]].|label2=♦
+|2={{clade|1='''[[Mutisioideae]]''': 58 genera, 750 species. [[South America]].|label2=•
+|2={{clade|1='''[[Wunderlichioideae]]''': 8 genera, 24 species, mostly in [[Venezuela]] and [[Guyana]]
+|2={{clade|1='''[[Gochnatioideae]]''': 4 or 5 genera, 90 species.|2={{clade
+|1='''Hecastocleidoideae''': Only ''[[Hecastocleis]] shockleyi''. [[Southwestern United States]].|2={{clade
+|1='''[[Carduoideae]]''': 83 genera, 2,500 species. Worldwide.|2={{clade
+|1='''[[Pertyoideae]]''': 5 or 6 genera, 70 species.
+|2={{clade|1='''Gymnarrhenoideae''': Only ''[[Gymnarrhena micrantha]]''. [[Northern Africa]].|label2=•
+|2={{clade|1='''[[Cichorioideae]]''': 224 genera, 3,200 species. Worldwide.|2={{clade
+|1='''[[Corymbium|Corymbioideae]]''': Only the genus ''[[Corymbium]]'', with 9 species.|label2=•|2={{clade
+|1='''[[Asteroideae]]''': 1,130 genera and 16,200 species. Worldwide.}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+It is noteworthy that the four subfamilies [[Asteroideae]], [[Cichorioideae]], [[Carduoideae]] and [[Mutisioideae]] contain 99% of the species diversity of the whole family (approximately 70%, 14%, 11% and 3% respectively).
+
+Because of the [[morphology (biology)|morphological]] complexity exhibited by this family, agreeing on generic circumscriptions has often been difficult for [[taxonomist]]s. As a result, several of these genera have required multiple revisions.<ref name="Judd">Judd, W.S., Campbell, C.S., Kellogg, E.A., Stevens, P.F. (2007) Plant Systematics: A Phylogenetic Approach. Sinauer Associates, Sunderland.</ref>
+
+== Characteristics ==
+Asteraceans are mostly [[herbaceous plants]], but some shrubs, [[tree]]s and [[Vine|climbers]] do exist. Asteraceans are generally easy to distinguish from other plants, mainly because of their characteristic [[inflorescence]] and other shared characteristics.<ref name="Judd" /> However, determining genera and species of some groups such as ''[[Hieracium#Species|Hieracium]]'' is notoriously difficult (see "[[damned yellow composite]]" for example).
+
+=== Roots and stems ===
+Asteraceans generally produce [[taproot]]s, but sometimes they possess fibrous root systems. Stems are generally erect but can be prostrate to ascending. Some species have underground stems in the form of [[caudex|caudices]] or [[rhizome]]s. These can be fleshy or woody depending on the species.<ref name="Barkley et al." />
+
+=== Leaves ===
+The [[leaf|leaves]] and the stems very often contain secretory canals with [[resin]] or [[latex]] (particularly common among the Cichorioideae). The leaves can be [[phyllotaxis|alternate]], [[phyllotaxis|opposite]], or [[phyllotaxis|whorled]]. They may be simple, but are often deeply [[leaf#Morphology|lobed]] or otherwise [[leaf#Morphology|incised]], often [[leaf#Morphology|conduplicate]] or [[leaf#Morphology|revolute]]. The margins can be entire or lobed or toothed.
+
+=== Flowers ===
+
+==== Floral heads ====
+In many plants of the family Asteraceae, what appears to be a single flower is actually a cluster of much smaller flowers.<ref name=CDF>Sia Morhardt, Emil Morhardt, California Desert Flowers, University of California Press, pp. 29–32</ref> The overall appearance of the cluster, as a single flower, functions in attracting pollinators in the same way as the structure of an individual flower in some other plant families.<ref name=CDF />  The older family name, ''Compositae'', comes from the fact that what appears to be a single flower, is actually a ''composite'' of smaller flowers.<ref name=CDF /> The "petals" or "sunrays" in a sunflower head are actually individual strap-shaped<ref name=MDW>Pam MacKay, Mojave Desert Wildflowers, illustration p. 35</ref> flowers called ''"ray flowers"'', and the "sun disk" is made of smaller circular shaped individual flowers called ''"disc flowers"''.<ref name=CDF /> The word ''aster'' means "star" in Greek, referring to the appearance of some family members, as a "star" surrounded by "rays".<ref name=CDF /> The cluster of flowers that may appear to be a single flower, is called a '''head'''.<ref name=CDF /> The entire head may move tracking the sun, like a "smart" solar panel, which maximizes reflectivity of the whole unit and can thereby attract more pollinators.<ref name=CDF />
+
+A '''ray flower''' is a 3-tipped (3-lobed), strap-shaped, individual flower in the head of some members of the family Asteraceae.<ref name=CDF /><ref name=MDW /> Sometimes a ray flower has 2 tips (or 2-lobes).<ref name=CDF /> The [[petal|corolla]] of the ray flower may have 2 tiny teeth opposite the 3 lobed strap, or tongue, indicating evolution by fusion from an originally 5 part corolla.<ref name=CDF /> Sometimes, the 3:2 arrangement is reversed, with 2 tips on the tongue, and 0 or 3 tiny teeth opposite the tongue.<ref name=CDF /> A '''ligulate flower''' is a 5 tipped, strap-shaped, individual flower in the heads of other members.<ref name=CDF /> A '''ligule''' is the strap-shaped tongue of the [[petal|corolla]] of either a ray flower or of a ligulate flower.<ref name=MDW />  A '''disk flower''' (or '''disc flower''') is a radially symmetric (i.e., with identical shaped petals arranged in circle around the center) individual flower in the head, which is ringed by ray flowers when both are present.<ref name=CDF /><ref name=MDW /> Sometimes ray flowers may be slightly off from radial symmetry, or weakly bilaterally symmetric, as in the case of desert pincushions ''[[Chaenactis fremontii]]''.<ref name=CDF />
+
+At the base of the head, and surrounding the flowers before opening, is a bundle of [[sepal]]-like [[bract]]s or scales called '''phyllaries''', which together form the '''involucre''' that protects the individual flowers in the head before opening.<ref name=CDF /> The individual heads have the smaller individual flowers arranged on a round or dome-like structure called the '''receptacle'''.<ref name=CDF /> The flowers mature first at the outside, moving toward the center, with the youngest in the middle.<ref name=CDF />
+
+The individual flowers in a head have 5 fused petals (rarely 4), but instead of sepals, have threadlike, hairy, or bristly structures called '''[[Pappus (flower structure)|pappus]]''', which surround the fruit and can stick to animal fur or be lifted by wind, aiding in seed dispersal.<ref name=CDF /> The whitish fluffy head of a dandelion commonly blown on by children, is made of the pappus, with tiny seeds attached at the ends, whereby the pappus provides a parachute like structure to help the seed be carried away in the wind.<ref name=CDF />
+
+A '''radiate head''' has disc flowers surrounded by ray flowers.<ref name=CDF /> A '''ligulate head''' has all ligulate flowers.<ref name=CDF /> When a sunflower family flower head has only disk flowers that are sterile, male, or have both male and female parts, it is a '''discoid head'''.<ref name=CDF /> '''Disciform heads''' have only disc flowers, but may have two kinds (male flowers and female flowers) in one head, or may have different heads of two kinds (all male, or all female).<ref name=CDF /> '''Pistillate heads''' have all female flowers. '''Staminate heads''' have all male flowers.<ref name=CDF />
+
+Sometimes, but rarely, the head contains only a single flower, or has a single flowered pistillate (female) head, and a multi-flowered male staminate (male) head.<ref name=CDF />
+
+==== Floral structures ====
+[[File:Carduus flowerdiagram.png|thumb|left|Flower diagram of ''[[Carduus]]'' (Carduoideae) shows (outermost to innermost): subtending bract and stem axis; fused calyx; fused corolla; stamens fused to corolla; gynoecium with two carpels and one locule]]
+[[File:Bidens flwr.jpg|thumb|left|A typical Asteraceae flower head (here ''[[Bidens torta]]'') showing the individual flowers]]
+[[File:Ray-floret.svg|thumb|Ray floret (as in Cichorioideae, and the outer florets in Asteroideae).  '''A''' = ovary, '''B''' = pappus, '''C''' = anthers, '''D''' = ligule, '''E''' = style with stigmas]]
+[[File:Disc floret01.jpg|thumb|Disc floret (as in Asteroideae)]]
+The distinguishing characteristic of Asteraceae is their [[inflorescence]], a type of specialised, composite flower head or ''[[pseudanthium]]'', technically called a calathium or ''[[Pseudanthium|capitulum]]'',<ref name=Beentje>{{cite book|first=Henk|last=Beentje|year=2010|title=The Kew Plant Glossary, an illustrated dictionary of plant terms.|publisher=Kew Publishing|location=Richmond, U.K.|ISBN=9781842464229 }}</ref><ref>Usher, G. (1966) A dictionary of botany, including terms used in bio-chemistry, soil science, and statistics. LCCN 66 0 25447</ref> that may look superficially like a single flower. The ''capitulum'' is a contracted [[raceme]] composed of numerous individual [[Sessility (botany)|sessile]] [[flower]]s, called ''florets'', all sharing the same [[Receptacle (botany)|receptacle]].
+
+A set of [[bract]]s forms an [[involucral bract|involucre]] surrounding the base of the capitulum. These are called "phyllaries", or "involucral bracts". They may simulate the [[sepal]]s of the pseudanthium. These are mostly herbaceous but can also be brightly coloured (e.g. ''[[Helichrysum]]'') or have a scarious (dry and membranous) texture. The phyllaries can be free or fused, and arranged in one to many rows, overlapping like the tiles of a roof (''imbricate'') or not (this variation is important in identification of tribes and genera).
+
+Each floret may be subtended by a bract, called a "palea" or "receptacular bract". These bracts are often called "[[chaff]]". The presence or absence of these bracts, their distribution on the receptacle, and their size and shape are all important diagnostic characteristics for genera and tribes.
+
+The florets have five [[petal]]s fused at the base to form a [[Corolla (flower)|corolla]] tube and they may be either [[actinomorphic]] or [[zygomorphic]]. ''Disc florets'' are usually actinomorphic, with five petal lips on the rim of the corolla tube. The petal lips may be either very short, or long, in which case they form deeply lobed petals. The latter is the only kind of floret in the Carduoideae, while the first kind is more widespread. ''Ray florets'' are always highly zygomorphic and are characterised by the presence of a ''ligule'', a strap-shaped structure on the edge of the corolla tube consisting of fused petals. In the Asteroideae and other minor subfamilies these are usually borne only on florets at the circumference of the capitulum and have a 3+2 scheme – above the fused corolla tube, three very long fused [[petal]]s form the ligule, with the other two petals being inconspicuously small. The Cichorioidea has only ray florets, with a 5+0 scheme – all five petals form the ligule. A 4+1 scheme is found in the Barnadesioideae. The tip of the ligule is often divided into teeth, each one representing a petal. Some marginal florets may have no petals at all (filiform floret).
+
+The [[calyx (botany)|calyx]] of the florets may be absent, but when present is always modified into a [[pappus (flower structure)|pappus]] of two or more teeth, scales or bristles and this is often involved in the dispersion of the seeds. As with the bracts, the nature of the pappus is an important diagnostic feature.
+
+There are usually five [[stamen]]s. The filaments are fused to the corolla, while the anthers are generally [[connation|connate]] (''syngenesious'' anthers), thus forming a sort of tube around the style (''theca''). They commonly have basal and/or apical appendages. Pollen is released inside the tube and is collected around the growing style, and then, as the style elongates, is pushed out of the tube (''nüdelspritze'').
+
+The [[pistil]] consists of two connate [[carpel]]s. The [[carpel|style]] has two lobes. Stigmatic tissue may be located in the interior surface or form two lateral lines. The [[ovary (plants)|ovary]] is inferior and has only one [[ovule]], with basal [[placentation]].
+
+=== Fruits and seeds ===
+The fruit of the Asteraceans is [[achene]]-like, and is called a '''cypsela''' (plural ''cypselae''). Although there are two fused [[carpel]]s, there is only one locule, and only one [[seed]] per fruit is formed. It may sometimes be winged or spiny because the [[Pappus (flower structure)|pappus]], which is derived from [[Calyx (botany)|calyx]] tissue often remains on the fruit (for example in [[dandelion]]). In some species, however, the pappus falls off (for example in ''[[Helianthus]]''). Cypsela [[morphology (biology)|morphology]] is often used to help determine plant relationships at the genus and species level.<ref>{{cite journal | journal = Annals of the Missouri Botanical Garden | pages = 569–594 | url = <!-- http://apt.allenpress.com/aptonline/?request=get-abstract&issn=0026-6493&volume=092&issue=04&page=0569 -->http://cel.webofknowledge.com/InboundService.do?product=CEL&SID=S1JkbNkVD3FqTrQJUhx&UT=000234320700004&SrcApp=Highwire&action=retrieve&Init=Yes&Func=Frame&SrcAuth=Highwire&customersID=Highwire&IsProductCode=Yes&mode=FullRecord | title = Morphology Of Cypselae In Subtribe Arctotidinae (Compositae–Arctotideae) And Its Taxonomic Implications | author = McKenzie, R.J., Samuel, J., Muller, E.M., Skinner, A.K.W., Barker, N.P. | volume = 92 | issue = 4 | year = 2005 | jstor = 40035740}}</ref> The mature [[seed]]s usually have little [[endosperm]] or none.<ref name="Judd" />
+
+=== Metabolites ===
+Asteraceans generally store energy in the form of [[inulin]]. They produce iso/[[chlorogenic acid]], [[sesquiterpene]] [[lactones]], pentacyclic triterpene alcohols, various [[alkaloid]]s, [[acetylene]]s (cyclic, aromatic, with vinyl end groups), [[tannin]]s. They have [[terpene|terpenoid]] [[essential oil]]s which never contain [[iridoid]]s.<ref name="Stevens" />
+
+== Evolution ==
+The oldest known fossils of members of Asteraceae are pollen grains from the [[Late Cretaceous]] of [[Antarctica]], dated to ∼76–66 Mya ([[Campanian]] to [[Maastrichtian]]) and assigned to the extant genus ''[[Dasyphyllum]]''.<ref name=PNAS2015 /> Barreda ''et al.'' (2015) estimated that the crown group of Asteraceae evolved at least 85.9 Mya (Late Cretaceous, Santonian) with a stem node age of 88-89 Mya (Late Cretaceous, Coniacian).<ref name=PNAS2015 />
+
+It is still unknown whether the precise cause of their great success was the development of the highly specialised capitulum, their ability to store energy as [[fructan]]s (mainly [[inulin]]), which is an advantage in relatively dry zones, or some combination of these and possibly other factors.<ref name="Stevens" />
+
+== Ecology ==
+[[File:Kih-silberdistel.jpg|thumb|left|Seeds are dispersed by the wind in ''[[Carlina]]''.]]
+[[File:Epizoochoria NRM.jpg|thumb|left|Epizoochory in ''[[Bidens tripartita]]'']]
+Asteraceans are especially common in open and dry environments.<ref name="Judd" />
+
+Many members of Asteraceae are [[pollination|pollinated]] by insects, which explains their value in attracting [[beneficial insects]], but [[pollination syndrome|anemophyly]] is also present (e.g. ''[[Ragweed|Ambrosia]]'', ''[[Artemisia (genus)|Artemisia]]''). There are many [[apomixis|apomictic]] species in the family.
+
+Seeds are ordinarily dispersed intact with the fruiting body, the cypsela. Wind dispersal is common (''[[Seed dispersal#Wind|anemochory]]'') assisted by a hairy pappus. Another common variation is ''[[Seed dispersal#By animals|epizoochory]]'', in which the dispersal unit, a single cypsela (e.g. ''[[Bidens]]'') or entire capitulum (e.g. ''[[Arctium]]'') provided with hooks, spines or some equivalent structure, sticks to the fur or plumage of an animal (or even to clothes, as in the photo) just to fall off later far from its mother plant.
+
+== Uses ==
+{{refimprove|date=July 2014}}
+Commercially important plants in Asteraceae include the food crops ''[[Lactuca sativa]]'' (lettuce), ''[[Cichorium]]'' (chicory), ''[[Cynara scolymus]]'' (globe artichoke), ''[[Helianthus annuus]]'' ([[sunflower]]), ''[[Smallanthus sonchifolius]]'' (yacón), ''[[Carthamus tinctorius]]'' (safflower) and ''[[Helianthus tuberosus]]'' (Jerusalem artichoke).
+
+Many members of the family are grown as ornamental plants for their flowers, and some are important ornamental crops for the cut flower industry. Some examples are ''[[Chrysanthemum]]'', ''[[Gerbera]]'', ''[[Calendula]]'', ''[[Dendranthema]]'', ''[[Argyranthemum]]'', ''[[Dahlia]]'', ''[[Tagetes]]'', ''[[Zinnia]]'', and many others.
+
+Other commercially important species include Compositae used as herbs and in [[herbal tea]]s and other beverages. Chamomile, which comes from two different species, the annual ''[[Matricaria chamomilla]]'' (or German chamomile) and the perennial ''[[Chamaemelum nobile]]'' (also called Roman chamomile).  ''[[Calendula]]'' (also called the pot marigold) is grown commercially for herbal teas and the potpourri industry. Echinacea (''[[Echinacea purpurea]]'') is used as a medicinal tea. The wormwood genus ''[[Artemisia (genus)|Artemisia]]'' includes [[absinthe]] (''A. absinthium'') and [[tarragon]] (''A. dracunculus''). Finally, winter tarragon (also called Mexican mint marigold), or ''[[Tagetes lucida]]'', is commonly grown and used as a tarragon substitute in climates where tarragon will not survive. 
+
+Compositae have also been used for industrial purposes. Common in all commercial poultry feed, marigold (''[[Tagetes patula]]'') is grown primarily in Mexico and Central American nations. Marigold oil, extracted from ''[[Tagetes minuta]]'', is used in the cola and cigarette industries.
+
+Plants in Asteraceae are medically important in areas that don't have access to Western medicine. They are also commonly featured in medical and phytochemical journals because the [[sesquiterpene]] [[lactone]] compounds contained within them are an important cause of [[allergic contact dermatitis]]. Allergy to these compounds is the leading cause of allergic contact dermatitis in florists in the US.<ref>{{cite book | title=Andrews' Diseases of the Skin: Clinical Dermatology| authors = Odom, R.B., James, W.D., Berger, T.G. | year=2000| pages=1135 pages| publisher=W.B. Saunders Company| isbn=0-7216-5832-6}}</ref> [[Pollen]] from ragweed ''[[Ragweed|Ambrosia]]'' is among the main causes of so-called [[hay fever]] in the United States.<ref>[http://www.aafa.org/display.cfm?id=9&sub=19&cont=267 Asthma and Allergy Foundation of America. ''Ragweed Allergy'']</ref>
+
+Many members of Asteraceae are copious [[nectar (plant)|nectar]] producers and are useful for evaluating [[pollinator]] populations during their bloom. ''[[Centaurea]]'' (knapweed), ''[[Helianthus annuus]]'' (domestic [[sunflower]]), and some species of ''[[Solidago]]'' (goldenrod) are major "[[honey]] plants" for [[beekeeper]]s. ''Solidago'' produces relatively high protein [[pollen]], which helps [[honey bee]]s over winter.{{Citation needed|date=November 2007}}
+
+Some members of Asteraceae are economically important as weeds. Notable in the United States are the ragwort, ''[[Senecio jacobaea]]'', groundsel ''[[Senecio vulgaris]]'', and ''[[Taraxacum]]'' (dandelion).
+
+The genera ''[[Chrysanthemum]]'', ''[[Pulicaria]]'', ''[[Tagetes]]'', and ''[[Tanacetum]]'' contain species with useful insecticidal properties.{{citation needed|date=July 2014}}
+
+''[[Parthenium argentatum]]'' (guayule) is a source of [[hypoallergenic]] [[latex]].
+
+== Genera ==
+{{Main|List of Asteraceae genera}}
+
+== See also ==
+* [[Terminology for Asteraceae]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category|Asteraceae}}
+{{Wikispecies}}
+{{Wikiquote|Daisies}}
+* [http://www.theplantlist.org/browse/A/Compositae/ Compositae] at [http://www.theplantlist.org/ ''The Plant List'']
+* [http://www.biologie.uni-hamburg.de/b-online/delta/angio/www/composit.htm Compositae] at [http://delta-intkey.com/angio/ ''The Families of Flowering Plants (DELTA)'']
+* [http://eol.org/pages/4206/overview Asteraceae] at the [http://eol.org/ ''Encyclopedia of Life'']
+* [http://www.mobot.org/MOBOT/Research/APweb/orders/asteralesweb.htm#Asteraceae Asteraceae] at the [http://www.mobot.org/mobot/research/apweb/ ''Angiosperm Phylogeny Website'']
+* [http://tolweb.org/Asteraceae/20780 Asteraceae] at the [http://tolweb.org/tree/ ''Tree of Life Web Project'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10074 Asteraceae] at the online [http://floranorthamerica.org/ ''Flora of North America'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=10074 Asteraceae] at the online [http://www.efloras.org/flora_page.aspx?flora_id=5 ''Flora of Pakistan'']
+* [http://www.zimbabweflora.co.zw/speciesdata/family.php?family_id=26 Asteraceae] at the online [http://www.zimbabweflora.co.zw/index.php ''Flora of Zimbabwe'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=100&taxon_id=20424 Compositae] at the online [http://www.efloras.org/flora_page.aspx?flora_id=100 ''Flora of Taiwan'']
+* [http://florabase.dpaw.wa.gov.au/browse/profile/22924 Asteraceae] at the online FloraBase—the Western Australian Flora
+* [http://floraseries.landcareresearch.co.nz/pages/Taxon.aspx?id=_3aea678e-092e-45f4-bd48-e18aaa0a07a9&fileName=Flora%201.xml Compositae] at the online [http://floraseries.landcareresearch.co.nz/pages/index.aspx ''Flora of New Zealand'']
+* [http://www.compositae.org/ The International Composite Alliance (TICA)] A worldwide group of composite systematists
+
+{{taxonbar}}
+{{Authority control}}
+
+[[Category:Asteraceae|01]]
+[[Category:Asterales families]]
+[[Category:Extant Campanian first appearances]]
+[[Category:Flowers]]

@@ -1,0 +1,46 @@
+1080i
+
+{{refimprove|date=June 2012}}
+'''1080i''' (aka [[Graphics display resolution#FHD|FHD]] and [[BT.709]]) is an abbreviation referring to a combination of [[video frame|frame]] [[Image resolution|resolution]] and scan type, in the domains of [[high-definition television]] and [[high-definition video]]. The term assumes a [[widescreen]] [[Aspect ratio (image)|aspect ratio]] of [[16:9]] (a rectangular TV that is wider than it is tall), a spatial resolution of 1920 pixels × 1080 lines (2.1 [[Pixel#Megapixel|megapixels]]), and a temporal resolution of 50 or 60 [[Interlacing|interlaced]] fields per second. This format is used in the [[SMPTE 292M]] standard.
+
+The choice of 1080 lines originates with [[Charles Poynton]], who in the early 1990s pushed for "square pixels" to be used in HD video formats.<ref>{{cite web |url=http://www.poynton.com/.notes/misc/Poynton-square-pixels.html |title=Charles Poynton – square pixels and 1080 |last1=Poynton |first1=Charles |accessdate=2013-02-21}}</ref>
+
+==Broadcast standard==
+[[Image:Interlaced video frame (car wheel).jpg|thumb|An example frame of poorly deinterlaced video. Despite the fact that most TV transmissions are interlaced, plasma and LCD display technologies are progressively scanned. Consequently, flat-panel TVs convert an interlaced source to progressive scan for display, which can have an adverse impact on motion portrayal on inexpensive models.]]
+
+Within the designation "1080i", the ''i'' stands for [[Interlaced video|interlaced scan]]. A frame of 1080i video consists of two sequential [[field (video)|fields]] of 1920 horizontal and 540 vertical [[pixel]]s. The first field consists of all odd-numbered TV lines and the second all even numbered lines. Consequently, the horizontal lines of pixels in each field are captured and displayed with a one-line vertical gap between them, so the lines of the next field can be interlaced between them, resulting in 1080 total lines. 1080i differs from [[1080p]], where the ''p'' stands for [[progressive scan]], where all lines in a frame are captured at the same time. In ''native'' or ''pure'' 1080i, the two fields of a frame correspond to different instants (points in time), so motion portrayal is good (50 or 60 motion phases/second). This is true for [[interlaced video]] in general and can be easily observed in still images taken of fast motion scenes. However, when 1080p material is captured at 25 or 30 ''frames''/second, it is converted to 1080i at 50 or 60 ''fields''/second, respectively, for processing or broadcasting. In this situation both fields in a frame do correspond to the same instant. The field-to-instant relation is somewhat more complex for the case of 1080p at 24 ''frames''/second converted to 1080i at 60 ''fields''/second.
+
+The [[field rate]] of 1080i is typically 60&nbsp;Hz (i.e., 60 fields per second) for countries that use or used NTSC (plus Brazilian PAL-M) as analog television system with 60 fields/sec (such as United States, Canada, Mexico, Japan, South Korea, Taiwan, Philippines, and others), or 50&nbsp;Hz for regions that use or used PAL and SECAM television system with 50 fields/sec (such as most of Europe, most of Africa, China, India, Australia, New Zealand, Middle East, and others). Both field rates can be carried by major digital television broadcast formats such as ATSC, DVB, and ISDB-T International.
+
+The frame rate can be implied by the context, while the field rate is generally specified after the letter i, such as "1080i60". In this case 1080i60 refers to 60 fields per second. The [[European Broadcasting Union]] (EBU) prefers to use the resolution and ''frame rate'' (not field rate) separated by a [[slash (punctuation)|slash]], as in ''1080i/30'' and ''1080i/25'', likewise 480i/30 and 576i/25.<ref>"High Definition (HD) Image Formats for Television Production," EBU-TECH 3299, EBU.UER, Geneva, January 2010, page 7</ref> Resolutions of 1080i60 or 1080i50 often refers to 1080i/30 or 1080i/25 in EBU notation.
+
+1080i is directly compatible with some [[Cathode ray tube|CRT]] [[High-definition television|HDTVs]] on which it can be displayed natively in interlaced form, but for display on [[Progressive scan|progressive-scan]]—e.g., most new LCD and plasma [[Television set|TVs]], it must be deinterlaced. Depending on the television's video processing capabilities, the resulting video quality may vary, but may not necessarily suffer. For example, film material at 25fps may be deinterlaced from 1080i50 to restore a full 1080p resolution at the original frame rate without any loss. Preferably video material with 50 or 60 motion phases/second is to be converted to 50p or 60p before display.
+
+Worldwide, most HD channels on satellite and cable broadcast in 1080i. In the [[United States]], 1080i is the preferred format for most broadcasters, with [[Discovery Communications]], [[Viacom]], [[Time Warner]], [[Comcast]] owned networks broadcasting in the format; along with most smaller broadcasters. Only [[21st Century Fox]]-owned television networks and [[The Walt Disney Company|Disney]]-owned television networks, along with [[MLB Network]] and a few other cable networks use [[720p]] as the preferred format for their networks; [[A+E Networks]] channels converted from 720p to 1080i sometime in 2013 due to acquired networks already transmitting in the 1080i format. Many ABC affiliates owned by [[Hearst Television]] and former [[Belo Corporation]] stations owned by [[Gannett Company]], along with some individual affiliates of those three networks, air their signals in 1080i and upscale network programming for master control and transmission purposes, as most syndicated programming and advertising is produced and distributed in 1080i, removing a downscaling step to 720p. This also allows local newscasts on these ABC affiliates to be produced in the higher resolution (especially for [[weather forecasting]] presentation purposes for map clarity) to match the picture quality of their 1080i competitors.
+
+Some cameras and broadcast systems that use 1080 vertical lines per frame do not actually use the full 1920 pixels of a nominal 1080i picture for image capture and encoding. Common subsampling ratios include 3/4 (resulting in 1440x1080i frame resolution) and 1/2 (resulting in 960x1080i frame resolution). Where used, the lower horizontal resolution is scaled to capture and/or display a full-sized picture. Using half horizontal resolution and only one field of each frame (possibly with added anti-alias filtering or progressive capture) results in the format known as qHD, which has frame resolution 960x540 and 30 or 25 frames per second.
+
+Due to the chosen 16x16 pixel size for a compressed video packet known as a ''macroblock'' as used in ITU H.261 to H.264 video standards, a 1080 line video must be encoded as 1088 lines and cropped to 1080 by the de-compressor. The 720 line video format divides perfectly by 16 and therefore does not require any lines to be wasted.
+
+==See also==
+{{Portal|Television}}
+* [[Field (video)]]
+* [[High-definition television in the United States]]
+* [[Interlaced video]]
+* [[List of common resolutions]]
+* [[Sony HDVS]] Wideband Analog Video
+* [[Telecine]]
+* Some common resolutions: [[Ultra high definition television|4320p]]-[[Ultra high definition television|2160p]]-[[1080p]]-[[720p]]-[[576p]]-[[576i]]-[[480p]]-[[480i]], [[360p]]-[[240p]]
+* [[1080p#Digital TV]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://tech.ebu.ch/docs/tech/tech3299.pdf High Definition (HD) Image Formats for Television Production] ([[European Broadcasting Union|EBU]] technical publication)
+* [http://reviews.cnet.com/4520-6449_7-6810011-1.html 720p vs. 1080p HDTV: The final word] - CNET Review - December 5, 2007
+{{TV resolution}}
+{{Video formats}}
+
+[[Category:Video formats]]
+[[Category:Television terminology]]

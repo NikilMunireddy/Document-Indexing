@@ -1,0 +1,74 @@
+Cricetidae
+
+{{Taxobox
+| name = Cricetids
+| fossil_range = {{Fossil range|Middle Miocene|Recent}}
+| image = Meadvole.jpg
+| image_width = 220px
+| image_caption = [[Meadow vole]]<br/>''Microtus pennsylvanicus''
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Eutheria]]
+| superordo = [[Euarchontoglires]]
+| ordo = [[Rodent]]ia
+| subordo = [[Myomorpha]]
+| superfamilia = [[Muroidea]]
+| familia = '''Cricetidae'''
+| familia_authority = [[Johann Fischer von Waldheim|J. Fischer]], 1817
+| subdivision_ranks = [[Subfamily (biology)|Subfamilies]]
+| subdivision = 
+[[Arvicolinae]]<br>
+[[Cricetinae]]<br>
+[[Neotominae]]<br>
+[[Sigmodontinae]]<br>
+[[Tylomyinae]]<br/>
+and see below
+}}
+
+The '''Cricetidae''' are a [[family (biology)|family]] of [[rodent]]s in the large and complex superfamily [[Muroidea]]. It includes true [[hamster]]s, [[vole]]s, [[lemming]]s, and [[New World rats and mice]]. At almost 600 species, it is the second-largest [[Family_(biology)|family]] of [[mammal]]s, and has members throughout the Americas, Asia, and Europe.
+
+== Characteristics ==
+The cricetids are small mammals, ranging from just {{convert|5|-|8|cm|abbr=on}} in length and {{convert|7|g|abbr=on}} in weight in the [[Baiomys|New World pygmy mouse]] up to {{convert|41|-|62|cm|abbr=on}} and {{convert|1.1|kg|abbr=on}} in the [[muskrat]]. The length of their tails varies greatly in relation to their bodies, and they may be either furred or sparsely haired. The fur of most species is brownish in colour, often with a white underbelly, but many other patterns exist, especially in the [[Cricetinae|cricetine]] and [[Arvicolinae|arvicoline]] subfamilies.
+
+Like the [[Muridae|Old World mice]], cricetids are adapted to a wide range of habitats, from the high [[Arctic]] to tropical [[rainforest]]s and hot [[desert]]s. Some are arboreal, with long balancing tails and other adaptations for climbing, while others are [[semiaquatic]], with webbed feet and small [[pinna (anatomy)|external ears]]. Yet others are burrowing animals, or ground-dwellers.<ref name = eom>Eisenberg ''et al.'' (1984)</ref>
+
+Their diets are similarly variable, with [[herbivore|herbivorous]], [[omnivore|omnivorous]], and [[insectivore|insectivorous]] species all being known. They all have large, gnawing, [[incisor]]s separated from grinding [[molar (tooth)|molar]] teeth by a gap, or [[diastema (dentistry)|diastema]]. Although a few exceptions occur, the [[dentition|dental formula]] for the great majority of cricetids is: {{dentition2|1.0.0.3|1.0.0.3}}
+Cricetids' populations can increase rapidly in times of plenty, due to a combination of short [[gestation]] periods between 15 and 50 days, and large litter sizes relative to many other mammals. The young are typically born blind, hairless, and helpless.<ref name= eom />
+
+== Evolution and systematics ==
+[[File:Roborovski Hamster eating.jpg|thumb|right|[[Roborovski hamster|Roborovski's dwarf hamster]] (''Phodopus roborovskii'') of the [[Cricetinae]]]]
+The cricetids first evolved in the Old World during the [[Miocene]]. They soon adapted to a wide range of habitats, and spread throughout the world. The voles and lemmings arose later, during the [[Pliocene]], and rapidly diversified during the [[Pleistocene]].<ref>Savage & Long (1986): 122–124</ref>
+
+The circumscription of Cricetidae has gone through several permutations. Some members of the family as currently defined have been placed in the family [[Muridae]]. Some [[Muroidea|muroids]] have historically been placed in Cricetidae, such as [[mouse-like hamster]]s (subfamily [[Calomyscinae]], family [[Calomyscidae]]), [[gerbil]]s (subfamily [[Gerbillinae]], family Muridae), the [[crested rat]] (subfamily [[Lophiomyinae]], family Muridae), [[zokor]]s (subfamily [[Myospalacinae]], family [[Spalacidae]]), the white-tailed rat (subfamily [[Mystromyinae]], family [[Nesomyidae]]), and spiny dormice (subfamily [[Platacanthomyinae]], family [[Platacanthomyidae]]). Multigene [[DNA sequence]] studies have shown the subfamilies listed below to form a [[monophyletic]] group (that is, they share a common ancestor more recently than with any other group), and other groups now considered muroids should not be included in the Cricetidae.<ref>Michaux ''et al.'' (2001), Jansa & Weksler (2004), Norris ''et al.'' (2004), Steppan ''et al.'' (2004)</ref>
+
+The cricetids thus currently include one fossil and five extant [[subfamilies]], with about 112 living [[genera]] and 580 [[species]]:
+*[[Arvicolinae]] — [[vole]]s, [[lemming]]s, [[muskrat]]
+*[[Cricetinae]] — [[hamster]]s
+*[[Democricetodontinae]] † ([[fossil]])<!-- Palaeontology 46(6): 1133–1149 ["'Lartetomys' cf. zapfei" has since been described as Karydomys wigharti] -->
+*[[Neotominae]] — North American rats and mice, including deer mice, [[pack rat]]s, and [[grasshopper mouse|grasshopper mice]]
+*[[Sigmodontinae]] — New World rats and mice, predominantly South American, such as [[brucie]]s
+*[[Tylomyinae]] — New World climbing rats and relatives
+
+== References ==
+
+{{Reflist}}
+
+* Eisenberg, J.F.; Feaver, J. & Krebs, C.J. (1984): Cricetidae. In: {{aut|Macdonald, D. (ed.)}}: ''The Encyclopedia of Mammals'': 640–655, 672–673. Facts on File, New York. <small>ISBN 0-87196-871-1</small>
+* Jansa, S.A. & Weksler, M. (2004): Phylogeny of muroid rodents: relationships within and among major lineages as determined by IRBP gene sequences. ''[[Molecular Phylogenetics and Evolution|Mol. Phyl. Evol.]]'' '''31'''(1): 256–276. <small>{{doi|10.1016/j.ympev.2003.07.002}} PMID 15019624</small> [http://www.cbs.umn.edu/eeb/faculty/JansaSharon/Jansa&Weksler04.pdf PDF fulltext]
+* Michaux, Johan; Reyes, Aurelio & Catzeflis, François (2001): Evolutionary history of the most speciose mammals: molecular phylogeny of muroid rodents. ''[[Molecular Biology and Evolution|Mol. Biol. Evol.]]'' '''18'''(11): 2017–2031. [http://mbe.oxfordjournals.org/cgi/reprint/18/11/2017.pdf PDF fulltext]
+* Norris, R.W.; Zhou, K.Y.; Zhou, C.Q.; Yang, G.; Kilpatrick, C.W. & Honeycutt, R.L. (2004): The phylogenetic position of the zokors (Myospalacinae) and comments on the families of muroids (Rodentia). ''[[Molecular Phylogenetics and Evolution|Mol. Phyl. Evol.]]'' '''31'''(3): 972–978. <small>{{doi|10.1016/j.ympev.2003.10.020}} PMID 15120394</small>
+* Savage, R.J.G. & Long, M.R. (1986): ''Mammal Evolution: an illustrated guide''. Facts on File, New York. <small>ISBN 0-8160-1194-X</small>
+* Steppan, S.J.; Adkins, R.A. & Anderson, J. (2004): Phylogeny and divergence date estimates of rapid radiations in muroid rodents based on multiple nuclear genes. ''Systematic Biology'' '''53'''(4): 533–553. <small>{{doi|10.1080/10635150490468701}} PMID 15371245</small> [http://bio.fsu.edu/~steppan/Steppan_et_al_Muroidea_2004.pdf PDF fulltext]
+
+==External links==
+* {{wikt}}
+* {{wikispecies}}
+* {{commons}}
+
+{{Rodents}}
+{{Cricetidae}}
+[[Category:Cricetidae| ]]
+[[Category:Mammal families]]
+[[Category:Extant Miocene first appearances]]
+[[Category:Taxa named by Gotthelf Fischer von Waldheim]]

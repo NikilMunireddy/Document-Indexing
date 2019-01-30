@@ -1,0 +1,106 @@
+Adephaga
+
+{{no footnotes|date=March 2016}}
+{{refimprove|date=March 2016}}
+{{Taxobox
+| name = Adephaga
+| image = Dytiscus latissimus.jpg
+| image_width = 250px
+| image_caption = ''[[Dytiscus latissimus]]'', a [[predaceous diving beetle]]
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = '''Adephaga'''
+| subordo_authority = [[Johann Rudolph Schellenberg|Schellenberg]], 1806
+| subdivision_ranks = Families
+| subdivision =
+Extant families:<br>
+:[[Amphizoidae]]
+:[[Aspidytidae]]
+:[[Carabidae]]
+:[[Dytiscidae]]
+:[[Gyrinidae]]
+:[[Haliplidae]]
+:[[Hygrobiidae]]''
+:[[Meruidae]] <small>Spangler & Steiner 2005</small><br><!-- ZoolScripta37:647. -->
+:[[Noteridae]]
+:[[Rhysodidae]]
+:[[Trachypachidae]]
+
+Extinct families:<br>
+:[[Colymbothetidae]]
+:[[Coptoclavidae]]
+:[[Liadytidae]]
+:[[Parahygrobiidae]]
+:[[Triaplidae]]
+}}
+[[File:76-Indian-Insect-Life - Harold Maxwell-Lefroy - Adephaga.jpg|thumb|Image by [[Harold Maxwell-Lefroy]] - Adephaga]]
+The '''Adephaga''' (from [[Greek language|Greek]] ἀδηφάγος, ''adephagos'', "gluttonous"), with more than 40,000 recorded species in 10 families, are a suborder of highly specialized [[beetles]] and the second-largest suborder of the order [[Coleoptera]]. Members of this suborder are '''adephagans''', a term which notably include [[ground beetle]]s, [[tiger beetle]]s, [[predacious diving beetle]]s, and [[whirligig beetle]]s. The majority of the species belongs to the family of carabids, or ground beetles ([[Carabidae]]).
+
+==Anatomy==
+Adephagans have simple antennae with no [[pectination]] or clubs. The galeae of the [[Maxilla (arthropod mouthpart)|maxillae]] usually consist of two segments. Adult adephagans have visible [[notopleuron|notopleural]] sutures. The first visible [[abdomen|abdominal]] [[sternum (arthropod)|sternum]] is completely separated by the hind [[Arthropod leg|coxa]]e, which is one of the most easily recognizable traits of adephagans. Five segments are on each foot.
+
+===Wings===
+The [[transverse fold]] of the [[insect wing|hind wing]] is near the wing tip. The [[median nervure]] ends at this fold, where it is joined by a [[cross nervure]].
+
+===Internal organs===
+Adephagans have four [[malpighian tubule]]s. Unlike in other beetles, [[yolk chamber]]s alternate with [[egg chamber]]s in the [[ovarian tube]]s of adephagans. The coiled, tubular [[testes]] consist of a single follicle, and the [[ovary|ovaries]] are [[polytrophic]].
+
+==Chemical glands==
+All families of adephagan have paired [[pygidium|pygidial]] [[gland]]s located posterodorsally in the [[abdomen]], which are used for secreting chemicals. The glands consist of complex invaginations of the [[cuticle]] lined with [[Squamous epithelium|epidermal]] cells contiguous with the [[integument]]. The glands have no connection with the [[rectum]] and open on the eighth abdominal [[tergum]]. 
+
+Secretions pass from the [[secretory lobe]]s, which are aggregations of secretory cells, through a tube to a reservoir lined with muscles. This reservoir then narrows to a tube leading to an opening valve.  The secretory lobes differ structurally from one taxon to another; it may be elongated or oval, branched basally or apically, or unbranched.
+
+==Delivery of glandular compounds==
+The secretion is realized in one of these manners:
+*Oozing: if the gland is not muscle-lined, the discharge is limited in amount.
+*Spraying: if the gland is muscle-lined, which is typically the case of carabids, the substances are ejected more or less forcefully.
+*Crepitation is only associated with the [[Brachininae]] carabids and several related species. See [[bombardier beetle]] for a detailed description of the mechanism.
+
+The secretions differ in the chemical constituents, according to the taxa. [[Gyrinidae|Gyrinids]], for instance, secrete [[norsesquiterpenes]] such as [[gyrinidal]], [[isogyrinidal]], [[gyrinidione]], or [[gyrinidone]]. [[Dytiscidae|Dytiscids]] discharge aromatic [[aldehyde]]s, [[ester]]s, and [[acid]]s, especially [[benzoic acid]]. [[Carabidae|Carabids]] typically produce [[carboxylic acid]]s, particularly [[formic acid]], [[methacrylic acid]], and [[tiglic acid]], but also [[aliphatic ketone]]s, [[saturated ester]]s, [[phenol]]s, aromatic aldehydes, and [[quinone]]s. Accessory glands or modified structures are present in some taxa: the [[Dytiscidae]] and [[Hygrobiidae]] also possess paired [[prothorax|prothoracic]] glands secreting [[steroid]]s; and the Gyrinidae are unique in the extended shape of the external opening of the pygidial gland.
+
+The function of many compounds remain unknown, yet several hypotheses have been advanced:
+*As [[toxin]]s or deterrent against [[predator]]s, some compounds indirectly play this role by easing the penetration of the deterrent into the predator's [[integument]].
+*[[Antimicrobial]] and [[Fungicide|antifungal]] agents (especially in [[Hydradephaga]])
+*A means to increase wetability of the integument (especially in Hydradephaga)
+*Alarm [[pheromone]]s (especially in Gyrinidae)
+*Propellant on water surfaces (especially in Gyrinidae)
+*Conditioning plant tissues associated with [[oviposition]]
+
+==Distribution and habitat==
+[[Habitat (ecology)|Habitat]]s range from caves to [[rainforest]] [[Canopy (forest)|canopy]] and [[alpine climate|alpine]] habitats. The body forms of some are structurally modified for adaptation to habitats: members of the family Gyrinidae live at the air-water interface, [[Rhysodinae|rhysodines]] live in [[heartwood]], and [[Paussinae|paussine]] carabids inhabit [[ant nest]]s.
+
+==Feeding==
+Most species are [[predator]]s. Other less-typical forms of feeding include: [[algophagy]] (family [[Haliplidae]]), seed-feeding ([[Harpalinae|arpaline]] carabids), [[mycophagy]] (rhysodine carabids), and [[snail]]-feeding ([[Licininae|licinine]] and [[Cychrinae|cychrine]] carabids). Some species are [[ectoparasitoid]]s of insects ([[Brachininae|brachinine]] and [[Lebiinae|lebiine]] carabids) or of [[millipede]]s ([[Peleciinae|peleciine]] carabids).
+
+==Reproduction and larval stage==
+Some species are [[ovoviviparous]], such as [[Pseudomorphinae|pseudomorphine]] carabids.
+
+The [[larva]]e are active, with well-[[chitin]]ized cuticle, often with elongated [[cercus|cerci]] and five-segmented legs, the foot-segment carrying two claws.  Larvae have a fused [[Insect mouthparts|labrum]] and no [[mandibular mola]]e.
+
+==Phylogeny==
+Adephagans diverged from their sister group in the late [[Permian]], the most recent common ancestor of living adephagans probably existing in the early [[Triassic]], around 240 million years ago. Both aquatic and terrestrial representatives of the suborder appear in fossil records of the late Triassic. The Jurassic fauna consisted of [[trachypachid]]s, carabids, gyrinids, and [[haliplid]]-like forms. The familial and tribal diversification of the group spans the [[Mesozoic]], with a few tribes radiating explosively during the [[Tertiary]]. 
+
+The [[phylogeny]] of adephagans is disputed. The group is usually divided into two main groups:
+*The [[Geadephaga]] comprise the two terrestrial families Carabidae and Trachypachidae (the Trachypachidae are sometimes considered a subfamily of the Carabidae).
+*The [[Hydradephaga]], gathering all other families, are aquatic.
+
+This division is often criticized, as mounting evidence is pointing out that the two groups are not [[monophyletic]].
+
+== See also ==
+* [[List of subgroups of the order Coleoptera]]
+
+== References ==
+*ZoolScripta37:647
+*{{ITIS|id=109226|taxon=Adephaga}}
+*[http://tolweb.org/Adephaga Adephaga] Tree of Life
+
+==External links==
+
+{{Wikispecies|Adephaga}}
+{{Coleoptera|2}}
+
+[[Category:Adephaga| ]]
+[[Category:Beetle taxonomy]]
+[[Category:Insect suborders]]

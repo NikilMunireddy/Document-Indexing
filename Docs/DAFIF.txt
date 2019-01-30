@@ -1,0 +1,43 @@
+DAFIF
+
+'''DAFIF''' or the ''Digital Aeronautical Flight Information File'' is a comprehensive database of up-to-date [[Aeronautics|aeronautical]] data, including information on [[airport]]s, [[Airway (aviation)|airway]]s, [[airspace]]s, [[Air navigation|navigation]] data and other facts relevant to flying in the entire world, managed by the [[National Geospatial-Intelligence Agency]] (NGA).
+
+== Withdrawal of public access ==
+
+DAFIF was publicly available until October 2006 through the Internet, however it was closed to public access because 'increased numbers of foreign source providers are claiming [[intellectual property rights]] or are forewarning NGA that they intend to copyright their source'.<ref>{{cite web
+|url=http://www.nga.mil/NGASiteContent/StaticFiles/OCR/nga0411.pdf
+|title=NGA Invites Public Comment on Proposal to Remove Aeronautical Information from Public Sale and Distribution
+|work=Media Release
+|publisher=National Geospatial-Intelligence Agency (NGA)
+|date=2004-12-03
+}}</ref> Currently only Federal and State government agencies, authorized government contractors and [[United States Department of Defense|Department of Defense]] customers are able to access the DAFIF data.
+
+At the time of the announcement, the NGA did not say who the 'foreign source providers' were. It was subsequently revealed that the [[Australia]]n Government was behind the move. The Australian Government Corporation [[Air Services Australia]] in September 2003 started charging for access to Australian data.
+Rather than exclude the Australian data, the NGA opted to stop making the data available to the public.<ref>{{cite web
+|first=Frank
+|last=Tiboni
+|url=http://www.fcw.com/article91698-12-12-05-Print
+|archiveurl=http://web.archive.org/web/20060622110924/http://www.fcw.com/article91698-12-12-05-Print
+|archivedate=2006-06-22
+|title=NGA bans flight data from public view: Agency cites intellectual property rights as reason for policy shift
+|work=Federal Computer Week (fcw.com)
+|publisher=FCW Media Group
+|date=2005-12-12
+}}</ref>
+
+== USFIF ==
+
+A product called '''USFIF''' or the ''United States Flight Information File'' which contains only data related to the [[United States]] was available on the NGA website until October 2007.  NGA no longer hosts any aeronautical information on the publicly available website.
+
+== Replacement for Google Earth Data ==
+
+Since the DAFIF data has ceased to be available to the public, new sources of the data have arrived, though none is (yet) a complete replacement:
+* In [[Google Earth]] Format ([[KML]]) [http://www.lloydbailey.net/airspace.html Lloyd Bailey.net Google Earth 3D Airspace]
+* Started soon after the withdrawal of the DAFIF data, the [http://www.ourairports.com/ OurAirports web site] is a community effort to produce an open (Public Domain) database of airports and navigation aids—nightly [[CSV data]] dumps are available from the site.
+* In other open formats, publicly contributed data, the [http://soaringweb.org/Airspace Worldwide Soaring Turnpoint Exchange: Airspace]
+
+== References ==
+{{reflist}}
+
+[[Category:Air navigation]]
+[[Category:Aeronautical databases]]

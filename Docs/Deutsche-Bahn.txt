@@ -1,0 +1,193 @@
+Deutsche Bahn
+
+{{Update|date=August 2011|cat=Rail transport articles in need of updating}}{{Infobox company
+| name = Deutsche Bahn AG
+| type = [[Aktiengesellschaft]]
+| logo = [[File:Deutsche Bahn AG-Logo.svg|100px]]
+| slogan = Die Bahn macht mobil.
+| location_city = [[Berlin]]
+| location_country = [[Germany]] 
+| industry = [[Railway transport]], [[Logistics]]  
+| owner = [[Germany|Federal Republic of Germany]] (100%)
+| products = [[Rail transport]], [[Cargo]] [[transport]], [[Service sector|Services]]
+| revenue = {{profit}} [[Euro|€]]39.119 [[1000000000 (number)|billion]] (2013)<ref name="daten2013">{{cite web |title=Annual Report 2013 |author=Deutsche Bahn AG |url= http://www.deutschebahn.com/file/en/2211562/_YPyTY-gSJrYyfpiMZWwldPW9wk/6806228/data/2013_dbgroup.pdf |accessdate=2013-04-09}}</ref>
+| area_served = Europe
+| predecessor  = 
+<div>
+* [[Deutsche Reichsbahn]] (pre 1949)
+* [[Deutsche Bundesbahn]]/[[Deutsche Reichsbahn of the GDR|Deutsche Reichsbahn]] (1949–1994)
+</div>
+| net_income = {{profit}} €1.394 billion (2013)<ref name="daten2013"/>
+| operating_income = {{profit}} €2.236 billion (2013)<ref name="daten2013"/> 
+| num_employees = 295,653 (2013)
+| key_people = [[Rüdiger Grube]]
+| divisions = {{Plainlist|
+* [[Arriva]]
+* [[DB Schenker]]
+* [[DB Bahn]]
+* [[DB Netze]]
+}}
+| subsid = {{Plainlist|
+* [[DB Fernverkehr]]
+* [[DB Regio]]
+* [[DB Schenker Rail]]
+* [[Schenker AG]]
+}}
+| homepage = [http://www.deutschebahn.com www.deutschebahn.com]
+}}
+
+'''Deutsche Bahn AG''' (abbreviated as ''DB'', ''DB AG'' or ''DBAG'') is a German [[railway]] company. Headquartered in [[Berlin]], it is a private joint-stock company ([[Aktiengesellschaft|AG]]), with the [[Federal Republic of Germany]] being its single shareholder.<ref>{{Cite web|title=Members to the Supervisory Board of Deutsche Bahn AG|url=http://www.deutschebahn.com/en/group/ataglance/supervisory_board.html}}</ref><ref>{{Cite web|url=http://www.deutschebahn.com/site/bahn/en/db__group/corporate__group/ata__glance/facts__figures/facts__figures.html|title=Deutsche Bahn AG at a glance|publisher=Deutsche Bahn|archiveurl=http://web.archive.org/web/20090426010642/http://www.deutschebahn.com/site/bahn/en/db__group/corporate__group/ata__glance/facts__figures/facts__figures.html|archivedate=26 April 2009|deadurl=yes}}</ref> Deutsche Bahn describes itself as the second-largest transport company in the world, after the German postal and logistics company [[Deutsche Post]] / [[DHL]], and is the largest railway operator and infrastructure owner in Europe. It carries about two billion passengers each year.
+
+''Deutsche Bahn'' (literally "German Railway" in [[German language|German]]) came into existence in 1994 as the successor to the former state [[railway]]s of Germany, the ''[[Deutsche Bundesbahn]]'' ("German Federal Railway") of [[West Germany]] and the ''[[Deutsche Reichsbahn of the GDR|Deutsche Reichsbahn]]'' ("German Empire Railway") of [[East Germany]].<ref>{{Cite journal|author1=Lutz, Friedrich |author2=Lange, Bernd |author3=Müller, Matthias |year=2003|title=DB launches new locomotive strategy|journal=International Railway Journal|volume=43|issue=11|page=42|url=http://go.galegroup.com/ps/i.do?id=GALE%7CA110728326&v=2.1&u=nm_p_socorro&it=r&p=GPS&sw=w}}{{subscription required|via=Gale}}</ref> It also gained ownership of former railway assets in [[West Berlin]] held by the ''[[Verwaltung des ehemaligen Reichsbahnvermögens]]''.
+
+== History ==
+{{see also|History of rail transport in Germany}}
+While the [[Rail transport in Germany|railway network in Germany]] dates back to 1835 when the first tracks were laid on a {{convert|6|km|abbr=on}} route between Nuremberg and Fürth, Deutsche Bahn has been a relatively recent development in German railway history. Founded in January 1994 as a joint stock-company, Deutsche Bahn was designed to operate the railways of both the former East and West Germany after unification in October 1990 as a single, uniform, and private  company.<ref name="db1">[http://www.deutschebahn.com/site/bahn/en/db__group/corporate__group/history/topics/foundation/foundation.html "The foundation of Deutsche Bahn AG" company website]</ref> There are three main periods of development in this unified German railway: its formation, its early years (1994–1999), and the period from 1999 to the present.
+
+At its creation, Deutsche Bahn took over the abbreviation and logo ''DB'' from the West German state railway ''Deutsche Bundesbahn'', and [[Kurt Weidemann]] later modernised the logo. [[Erik Spiekermann]] designed the new corporate font [[DB Type|DB&nbsp;Type]].
+
+Originally, DBAG had its headquarters in [[Frankfurt am Main]] but moved to [[Potsdamer Platz]] in central Berlin in 1996, where it occupies a 26-storey office tower designed by [[Helmut Jahn]] at the eastern end of the [[Sony Center]] and named [[BahnTower]]. As the lease was to expire in 2010, DB had announced plans to relocate to [[Berlin Hauptbahnhof]], and in 2007 a proposal for a new headquarters by [[3XN|3XN Architects]] won an architectural competition which also included [[Foster and Partners|Foster + Partners]], [[Dominique Perrault]] and [[Auer+Weber+Assoziierte|Auer + Weber]].<ref>{{cite news |date=21 December 2007 |url= http://www.worldarchitecturenews.com/index.php?fuseaction=wanappln.projectview&upload_id=1766 |title=Competition win for 3XN |work= World Architecture News |accessdate=2009-10-33}}</ref> However, these plans have been put on hold, and the BahnTower leased for at least three more years.<ref>http://www.ftd.de/unternehmen/handel_dienstleister/:Deutsche%20Bahn%20Pl%E4ne%20Umzug/346601.html</ref>
+
+=== 1999 to present ===
+The second step of the ''Bahnreform'' (Railway reform) was carried out in 1999. All rolling stock, track, personnel, and real assets were divided between the holding company and the five principal subsidiaries of DBAG: ''DB Reise & Touristik AG'' (long distance passenger service, later renamed ''DB Fernverkehr AG''), ''DB Regio AG'' (regional passenger services, in the course of the reform under charge of the federal states), ''DB Cargo AG'' (freight services, later changed to ''[[Railion]] AG''), ''DB Netz AG'' (operating the railway infrastructure), and ''DB Station & Service AG'' (operating the stations). This new organisational scheme was introduced not least to implement [[EU Directive 91/440|European Community directive 91/440/EEC]] that demands access to railway systems free of discrimination.
+
+In December 2007, DB reorganised again, bringing all passenger services into its [[DB Bahn]] arm, logistics under [[DB Schenker]] and infrastructure and operations under [[DB Netze]].
+
+The DB is owned by the Federal Republic. By the [[Basic Law for the Federal Republic of Germany|Constitution]], the Federal Republic is required to retain (directly or indirectly) a majority of the infrastructure (the present DB Netze) stocks.
+
+== Members of the board ==
+[[File:16199 dbtower duhanic.jpg|thumb|upright|The corporate headquarters of Deutsche Bahn at [[Potsdamer Platz]] in [[Berlin]]]]
+As of 2014 Rüdiger Grube is the director of the management board. Other members of the board include:<ref name="daten2014">{{cite web |title=Deutsche Bahn – The Board of Management of Deutsche BahnAG |author=Deutsche Bahn AG |url= http://www.deutschebahn.com/en/group/ataglance/board_management/
+ |accessdate=2015-04-09}}</ref>
+
+* Dr. Richard Lutz (Finance & Controlling)<ref name="daten2014"/>
+* Gerd Becht (Compliance, Data security, Legal matters & Corp. Security)<ref name="daten2014"/>
+* Dr. Volker Kefer (Infrastructure and Services)<ref name="daten2014"/>
+* Ulrich Weber (Human resources)<ref name="daten2014"/>
+* Dr. Heike Hanagarth (Rail Technology and Environment)<ref name="daten2014"/>
+
+Additional supervisory members for the sub-division [[DB Mobility Logistics AG]] include:
+
+* Ulrich Homburg (Passenger transport)<ref name="daten2010">{{cite web |title=DB Mobility Logistics Facts and figures 2012 |author=Deutsche Bahn AG |url= http://www1.deutschebahn.com/file/3280424/data/2012_duf_en.pdf |accessdate=2013-07-07}}</ref>
+* Karl-Friedrich Rausch (Transportation and Logistics Passenger traffic)<ref name="daten2010"/>
+
+== Corporate subdivisions ==
+DB is organized as a business group and as of 2011 had over 1,000 [[Affiliate (commerce)|affiliates]], of which 287 were in Germany.<ref>{{Cite web|date=21 July 2011 |title=Deutsche Bahn räumt bei Tochtergesellschaften auf (German Rail to clean up its subsidiaries) |url=http://www.eurailpress.de/article/view/4/deutsche-bahn-raeumt-bei-tochtergesellschaften-auf.html eurailpress.de |deadurl=yes |archiveurl=http://web.archive.org/web/20111113085226/http://www.eurailpress.de/article/view/4/deutsche-bahn-raeumt-bei-tochtergesellschaften-auf.html |archivedate=November 13, 2011 }}</ref>
+
+The DB group (Deutsche Bahn AG) is divided into five main operations groups: [[Arriva]], [[DB Bahn]], [[DB Dienstleistungen]], [[DB Netze]], and [[DB Schenker]]. These subsidiaries are companies in their own right, although most of them are 100% owned by DBAG.<ref name="daten2010"/>
+
+===Arriva===
+[[File:Arriva North West 4205 LJ51DFK (9137673966).jpg|thumb|[[Arriva North West]] [[Wright Eclipse Gemini]] bodied [[Volvo B7TL]] in [[Liverpool]] in June 2013]]
+{{Main|Arriva}}
+Deutsche Bahn placed a bid in May 2010 for the UK-based transport company [[Arriva]]. Arriva runs bus and rail companies in 12 European countries. The merger was approved by the European Commission in August 2010, subject to DB divesting Arriva services in Germany (these are now run as [[Netinera]]). The merger became effective on 27 August 2010.<ref>{{cite news |url= http://www.railwaygazette.com/news/single-view/view/10/ec-approves-dbs-takeover-of-arriva/browse/2.html |accessdate= 2010-08-19 |work=Railway Gazette International |location=London |title=EC approves DB's takeover of Arriva |date= 11 August 2010}}</ref>
+
+Services in the UK formerly run as DB Regio are now operated by a new subdivision of the company, [[Arriva UK Trains]]. It operates the [[Arriva Trains Wales]], [[Chiltern Railways]], [[CrossCountry]], [[Grand Central Railway|Grand Central]] and [[Tyne & Wear Metro]] operations. From 1 April 2016 Arriva is also the operator of the [[Northern (train operating company)|Northern]] rail franchise. It also holds a 50% shareholding in [[London Overground Rail Operations]] and has lodged an application to operate services under the [[Alliance Rail Holdings#Great North Western Railway|Great North Western Railway]] brand. In April 2016 Arriva signed a contract to operate the London Overground service as the sole provider from November 2016.
+
+=== DB Bahn ===
+DB Bahn is the group that manages passenger travel within Germany. Originally called ''Reise & Touristik'', this group is responsible for the managing, ticketing, servicing and running of German passenger services. The group also handles the information and customer service side of the operation.<ref name="daten2010"/> This group is divided into two business areas: [[DB Fernverkehr]] and [[DB Regio]].
+
+==== DB Fernverkehr ====
+[[File:ICE 3 Oberhaider-Wald-Tunnel.jpg|thumb|An [[ICE 3]] long-distance high speed train of [[DB Fernverkehr]] and [[Siemens Velaro]]]]
+{{Main|DB Fernverkehr}}
+DB Fernverkehr AG is a semi-independent division of Deutsche Bahn that operates long-distance passenger trains in Germany. It was founded in 1999 in the second stage of the privatisation of German Federal Railways under the name of DB Reise&Touristik and renamed in 2003.
+
+DB Fernverkehr operates all [[InterCityExpress]] and [[Intercity (Deutsche Bahn)|InterCity]] trains in Germany as well as several [[EuroCity]] trains throughout Europe. Unlike its sister companies DB Regio and DB Schenker, DB Fernverkehr still holds a de facto monopoly in its segment of the market as it operates hundreds of trains per day, while all competitors' long-distance services ([[Veolia Verkehr]] most notably) combined amount to no more than 10-15 trains per day. Additionally DB Fernverkehr operates a few long-distance coach services throughout Germany, called ''IC Bus''.
+
+==== DB Regio ====
+[[File:DB Regio DT (5946607585).jpg|thumb|A regional train of [[DB Regio]]]]
+{{Main|DB Regio}}
+DB Regio AG is the subsidiary of Deutsche Bahn that operates passenger trains on short and medium distances in Germany. Unlike its long-distance counterpart, DB Fernverkehr, it does not operate trains on its own account. Traffic is ordered and paid for by the [[States of Germany|Bundesländer]] (states) or their [[Landkreis]]e (counties). Competition for those state-sponsored services is somewhat more fierce than for long-distance services. Some states have awarded long-term contracts to DB Regio (usually 10 to 15 years).
+DB Regio rail services are divided into several regional companies:
+* DB Regio Nord for [[Schleswig-Holstein]], [[Hamburg]], [[Lower Saxony]], [[Bremen]]
+* DB Regio Nordost for [[Berlin]], [[Brandenburg]], [[Mecklenburg-Vorpommern]]
+* DB Regio NRW for [[Northrhine-Westphalia]]
+* DB Regio Südost for [[Saxony]], [[Saxony-Anhalt]], [[Thuringia]]
+* DB Regio Hessen for [[Hesse]]
+* DB Regio Südwest for [[Rhineland-Palatinate]], [[Saarland]], parts of [[Baden-Württemberg]] und [[Hesse]]
+* DB Regio Baden-Württemberg for [[Baden-Württemberg]]
+* DB Regio Bayern for [[Bavaria]]
+* [[S-Bahn Hamburg]]
+* [[S-Bahn Berlin]]
+* RegioNetz (little, independent networks for easier organization)
+
+The bus services consist of 25 bus companies, which have subsidiary companies themselves.
+
+===== DB Stadtverkehr =====
+DB Stadtverkehr was responsible for commuter services of the [[Berlin S-Bahn|Berlin]] and [[Hamburg S-Bahn]] networks and numerous bus companies. The subsidiary was integrated into DB Regio on 31 December 2010. The two S-Bahn networks handled and still handle over 500 million passengers annually.<ref name="kennzahlen">Deutsche Bahn AG: ''[http://www.db.de/site/bahn/de/unternehmen/investor__relations/kennzahlen/kennzahlen__2005.html Kennzahlen 2005 – DB AG mit bestem Geschäftsjahr ihrer Geschichte],'' 23 September 2006</ref>
+
+=== DB Netze ===
+{{Main|DB Netze}}
+Since the end of 2007 DB Netze has been responsible for infrastructure and operations, taking over from [[DB Netz]] AG. Its business areas including DB Netze Fahrweg, DB Netze Energie, DB Netze Personenbahnhöfe, [[DB ProjektBau]] and [[DB Station&Service]]. A further business area known as DB Dienstleistungen covers six different areas of operations: DB Fahrzeuginstandhaltung, DB Systel, [[DB Services]], DB Fuhrpark, DB Kommunikationstechnik, and DB Sicherheit.
+
+=== DB Schenker ===
+{{Main|DB Schenker|DB Schenker Rail}}
+[[DB Schenker]] is the logistics arm of DB, as of 2008 it employed over 88,000 people, and was the largest European rail freight company.<ref name="sch">{{citation| url=http://www.dbschenker.com/site/logistics/dbschenker/com/en/about__dbschenker/profile/profile__alt.html|archiveurl = http://web.archive.org/web/20080828025328/http://www.dbschenker.com/site/logistics/dbschenker/com/en/about__dbschenker/profile/profile__alt.html| archivedate= 28 August 2008| title = Transportation and logistics in the DB schenker group - Profile | work = www.dbschenker.com}}</ref>
+
+Its two business areas are [[DB Schenker Rail]] (formerly [[Railion]].<ref name="daten2010"/>) and DB Schenker Logistics. Other subsidiaries include [[Bax Global]], [[Transfesa]], and the former English Welsh & Scottish, now [[DB Cargo UK]] DB Schenker Rail has its head office in [[Mainz]], and is the [[holding company]] for the five (at 1 January 2009) national subsidiaries: Railion Deutschland, Railion Nederland, Railion Danmark, Railion Italy, and Railion Schweiz.
+
+=== Foreign firms ===
+[[File:Loco 67027 at Leamington Spa.JPG|thumb|[[DB Cargo UK|DB Schenker Rail (UK)]] [[British Rail Class 67|Class 67]] hauling [[British Rail Mark 3|Mark 3]] carriages owned by [[Chiltern Railways]] at [[Leamington Spa railway station|Leamington Spa]] on the [[Chiltern Main Line]]]]
+DB also has interests abroad, owning the United Kingdom's largest rail freight operator, [[DB Cargo UK]], which also operates the [[British Royal Train]]<ref>{{cite news |url= http://www.guardian.co.uk/business/2007/jun/28/transportintheuk |author=Macalister, Terry |title= Deutsche Bahn to run Queen's train |date=28 June 2007 |work=guardian.co.uk (web only)}}</ref> and also has interests in [[Eastern Europe]]. It is possible to obtain train times for any journey in Europe from Deutsche Bahn's website.<ref>[http://www.bahn.de/p/view/international/englisch/international_guests.shtml Tickets - Timetable]</ref>
+
+[[Trans-Eurasia Logistics]] is a [[joint venture]] with [[Russian Railways]] (RŽD) that operates [[Containerization|container]] freight trains between Germany and China via [[Russia]].
+
+== Train categories ==
+These are the following train categories offered by DB, sorted after stop frequency (low to high):<ref>[http://www.bahn.de/hilfe/view/pk/de/alle_ergebnisseiten_produktinfo.shtml "Produktübersicht"] on DB AG website</ref>
+* ICE (''[[Intercity-Express]]'') for high-speed rail services between major cities and regions
+* IC (''[[Intercity (Deutsche Bahn)|InterCity]]'') for long-distance trains connecting regions with each other
+** If the trains cross international boundaries, they are called [[EuroCity]] (EC). There are also EuroCity services in Germany operated by foreign state railways
+* IRE (''[[Interregio-Express]]'') serves regions and connects cities
+** There are IRE trains only in Baden-Württemberg and two lines in the Berlin area
+* RE (''[[Regional-Express]]'') serves regions and connects cities
+* RB (''[[Regionalbahn]]'') stops at all stations and is the most basic train service
+* S (''[[S-Bahn]]'') are [[rapid transit]] and stops at all stations, apart from some express lines like the [[Hanover S-Bahn|S5 in Hanover]]. S-Bahn operate with high frequencies and are comparable with, for example, [[London Overground]]
+
+There are several other operators in Germany which might offer other categories, also, a local transport authority or tariff associations might call the trains in a different way than DB does, see these examples:
+* The {{ill|de|Verkehrsverbund Großraum Nürnberg}} advertises regional trains as R trains instead of RB and RE.{{citation needed|date=May 2016}}
+* The [[Rhein-Main-Verkehrsverbund]] advertises on some routes additional [[Stadt-Express]]&nbsp;(SE; mix form of RE and RB) trains, while DB classifies all the trains as either RE or RB
+
+Also, except from the [[Verkehrsverbund Berlin-Brandenburg]] area, DB doesn't allow private operators to use the RB and RE labels, respectively, but the transport authority or associations and the operators do that anyway, for example:
+* Trains from Essen via Bochum, Hagen to Iserlohn and Letmathe by [[Abellio Rail NRW]] are advertised as RE16, RB40 and RB91 services,<ref>[http://www.abellio.de/rail_nrw/fahrplaene/liniennetze.php Abellio] about their services in NRW</ref><ref>[http://vrr.de/imperia/md/content/fahrten/verkehrsplaene/vrr_schienenschnellverkehr.pdf Map] of rail transport in the VRR area by&nbsp;[[Verkehrsverbund Rhein-Ruhr]] tariff associations</ref> but in DB's POV they are ABR trains (ABR as an abbreviation of the operator)<ref>[http://kursbuch.bahn.de/hafas/kbview.exe/dn/KB440_H_Taeglich_G02022015.pdf?filename=KB440_H_Taeglich_G02022015.pdf&orig=sS DB Timetable] of Table 440 (Essen to Iserlohn and Siegen)</ref>
+
+== Codeshare agreements ==
+In conjunction with [[Emirates (airline)|Emirates]], [[China Airlines]], [[TAM Airlines]], [[Biman Bangladesh Airlines]], and [[Lufthansa]], Deutsche Bahn operates the [[AiRail Service]] between [[Frankfurt Airport]] and [[Cologne]]/[[Bonn]], [[Düsseldorf]], [[Freiburg]], [[Hamburg]], [[Hanover]], [[Mannheim]], [[Munich]], [[Nuremberg]], and [[Stuttgart]]. Deutsche Bahn has the [[IATA]] designator 2A.<ref name="daten2010"/>
+
+== See also ==
+{{Portal|Trains|Railways}}
+* [[Bahn TV]]
+* [[DB Fernverkehr]]
+* [[DB NachtZug]]
+* [[DB Regio]]
+* [[Rail transport in Germany]]
+* [[Railway electrification system]]
+* [[Transport in Germany]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{Commons|Deutsche Bahn}}
+* {{Official website|http://www.deutschebahn.com/}}
+* [http://www.deutschebahn.com/site/bahn/en/start.html DB Corporate Home Page]
+* [http://www.bahn.com DB travel portal]
+* [http://www.hamburg-hautnah.de/175deg2010.html Pictures of German trains]
+
+{{Deutsche Bahn}}
+{{German railway companies}}
+{{National railway companies of Europe}}
+{{German electric locomotives|nocat=true}}
+{{German EMUs|nocat=true}}
+{{German diesel locomotives|nocat=true}}
+{{German DMUs|nocat=true}}
+{{German locomotives|nocat=true}}
+
+{{Authority control}}
+
+[[Category:Deutsche Bahn| ]]
+[[Category:Railway companies of Germany]]
+[[Category:Berlin S-Bahn]]
+[[Category:Railteam]]
+[[Category:Railway companies established in 1994]]
+[[Category:Companies based in Berlin]]
+[[Category:1994 establishments in Germany]]
+[[Category:German brands]]

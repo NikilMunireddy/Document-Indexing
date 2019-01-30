@@ -3,7 +3,12 @@ import argparse
 import pickle
 import time
 
-def create_index(directory,docs,d):
+
+# create_index (A dictionary) for every keyword i.e {keyword:[filename, linenumbers....]}
+# The indexed dictionary is frozen in a pickle file
+# The pickle file can be stored or shared thus reduces the computaion overload i.e  it's computed only once and restored many times
+
+def create_index(directory,docs,d,file_count):
     k=0
     for doc in docs:
         print(k," "+directory+'/'+doc)
@@ -18,11 +23,16 @@ def create_index(directory,docs,d):
                 if each_word !='':
                     d[each_word].append(i)
         k+=1
-    pickle_out=open("index.pickle","wb")
+    # When running this code using threads a bunch of 10 documents is index by each thread 
+    # So a seperate index is created for each thread which is stored in Pickle folder
+    pickle_file_name="./Pickle/index"+str(file_count)+".pickle"
+    pickle_out=open(pickle_file_name,"wb")
     pickle.dump(d,pickle_out)
     pickle_out.close()
     return d
 
+# load the dictonary from pickle file insted of indexing all documents once again
+# Reads the pickle file and returns the dictonary object 
 def load_index(d):
     pickle_in = open("index.pickle","rb")
     d = pickle.load(pickle_in)
@@ -30,15 +40,14 @@ def load_index(d):
     return d
 
 
-def main_method(keyword,directory,load,set_doc):
-
+def main_method(keyword,directory,load,set_doc,file_count):
     docs=set_doc
     from collections import defaultdict
     d = defaultdict(list)
 
     start_time=time.time()
     if not load:
-        d=create_index(directory,docs,d)
+        d=create_index(directory,docs,d,file_count)
     else:
         d=load_index(d)
     
@@ -64,14 +73,35 @@ def main_method(keyword,directory,load,set_doc):
     for li in unique_list:
         length_index.append(len(unique_list[j]))
         j+=1
-
+    
     end_time=time.time()
     try:
-        print("Execution time ",end_time-start_time," Seconds")
-        #print("Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"')
-        return "Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"'
+        if load:
+            print("Execution time ",end_time-start_time," Seconds")
+            print("Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"')
+            return "Highest hits occoured in page "+'"'+unique_list[length_index.index(max(length_index))][0]+'"'+'for keyword '+'"'+keyword+'"'
     except:
-        print("could'nt find the keyword in dictonary")
+        print('could\'nt find appropriate document for '+'"'+keyword+'"')
+
+
+# Induvidual pickle files created in Pickle folder is combained into one file 
+# so which can be used os one object as a whole
+def make_dict_object():
+    # list all pickle files
+    pick_files=os.listdir('./Pickle/')
+    from collections import defaultdict
+    dicto = defaultdict(list)
+    for obj in pick_files:
+        file_path='./Pickle/'+str(obj)
+        pickle_in = open(file_path,"rb")
+        obj = pickle.load(pickle_in)
+        pickle_in.close()
+        dicto.update(obj)
+    pickle_file_name="index.pickle"
+    pickle_out=open(pickle_file_name,"wb")
+    pickle.dump(dicto,pickle_out)
+    pickle_out.close()
+
 
 
 if __name__=="__main__":
@@ -84,6 +114,8 @@ if __name__=="__main__":
     keyword = args.keyword
     directory=args.directory
     load=args.loadindex
-    print(main_method(keyword,directory,load))
+    set_doc=os.listdir(directory)
+
+    print(main_method(keyword,directory,load,set_doc,0))
 
     

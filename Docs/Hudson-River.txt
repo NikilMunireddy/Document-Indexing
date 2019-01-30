@@ -1,0 +1,394 @@
+Hudson River
+
+{{Use mdy dates|date=November 2015}}
+{{Geobox|River
+<!-- *** Name section *** -->
+| name                        = Hudson River
+| other_name                  =
+| other_name1                 = 
+| category                    = River
+| category_hide               = Yes
+<!-- *** Image *** --->
+| image                       = Bear Mtn Bridge.jpg
+| image_size                  = 300
+| image_caption               = The [[Bear Mountain Bridge]] across the Hudson River as seen from [[Bear Mountain (Hudson Highlands)|Bear Mountain]]
+<!-- *** Country etc. *** -->
+| country                     = United States
+| country_flag                = 
+| state                       = New York
+| state1                      = New Jersey
+| state_flag                  = 1
+| region                      = 
+| region1                     = 
+| district                    = 
+| district1                   = 
+| city                        = [[:Category:Populated places on the Hudson River|See ''Populated places on the Hudson River'']]
+<!-- *** Geography *** -->
+| length_imperial             = 315
+| watershed_imperial          = 14000
+| discharge_location          = [[Lower New York Bay]], max and min at [[Green Island, New York|Green Island]]
+| discharge_average_imperial  = 21900
+| discharge_note              = <ref name="Discharge"/>
+| discharge_max_imperial      = 215000
+| discharge_min_imperial      = 882
+| discharge1_location         = [[Troy, New York|Troy]]
+| discharge1_average_imperial = 15000
+<!-- *** Source *** -->
+| source_name                 = Near or at [[Lake Tear of the Clouds]] or near or at [[Henderson Lake (New York)|Henderson Lake]]<br/>(See ''[[Hudson River#Sources|Sources]]'') 
+| source_location             = [[Adirondack Mountains]]
+| source_district             = 
+| source_state                = [[New York]]
+| source_country              = United States
+| source_lat_d                = 44
+| source_lat_m                = 7
+| source_lat_s                = 4
+| source_lat_NS               = N
+| source_long_d               = 73
+| source_long_m               = 55
+| source_long_s               = 4
+| source_long_EW              = W
+| source_coordinates_note     = "Mount Marcy, NY" 1:25,000 quadrangle, [[USGS]] 
+| source_elevation_imperial   = 4590
+<!-- *** Mouth *** -->
+| mouth_name                  = [[Upper New York Bay]]
+| mouth_location              = [[Jersey City, New Jersey]] and [[Lower Manhattan]]
+| mouth_district              = 
+| mouth_region                = 
+| mouth_state                 = [[New York]]
+| mouth_country               = United States
+| mouth_lat_d                 = 40
+| mouth_lat_m                 = 42
+| mouth_lat_s                 = 11
+| mouth_lat_NS                = N
+| mouth_long_d                = 74
+| mouth_long_m                = 01
+| mouth_long_s                = 34
+| mouth_long_EW               = W
+| mouth_elevation_imperial    = 0
+<!-- *** Tributaries *** -->
+| tributary_left              = Boreas River
+| tributary_left1             = [[Schroon River]]
+| tributary_left2             = [[Batten Kill]]
+| tributary_left3             = [[Hoosic River]]
+| tributary_left4             = [[Kinderhook Creek]]
+| tributary_left5             = [[Roeliff Jansen Kill]] 
+| tributary_left6             = [[Wappinger Creek]]
+| tributary_left7             = [[Croton River]]
+| tributary_right             = [[Cedar River (New York)|Cedar River]]
+| tributary_right1            = [[Indian River (New York)|Indian River]]
+| tributary_right2            = [[Sacandaga River]]
+| tributary_right3            = [[Mohawk River]]
+| tributary_right4            = [[Normans Kill]]
+| tributary_right5            = [[Catskill Creek]]
+| tributary_right6            = [[Esopus Creek]]
+| tributary_right7            = [[Rondout Creek]]/[[Wallkill River]]
+<!-- *** Free fields *** -->
+| free_name                   = 
+| free_value                  = 
+<!-- *** Map section *** -->
+| map                         = Hudsonmap.png
+| map_size                    = 300
+| map_caption                 = Hudson and [[Mohawk River|Mohawk]] [[Drainage basin|watershed]]s
+}}
+The '''Hudson River''' is a {{convert|315|mi|km|sing=on}} river that flows from north to south primarily through eastern [[New York]] in the United States. The river originates in the [[Adirondack Mountains]] of [[Upstate New York]], flows through the [[Hudson Valley]], and eventually drains into the [[Atlantic Ocean]], between [[New York City]] and [[Jersey City]].  The river serves as a political boundary between the states of New Jersey and New York, and further north between New York [[Administrative divisions of New York#County|counties]]. The lower half of the river is a [[tidal estuary]] occupying the Hudson [[Fjord]], which formed during the most recent period of North American [[Quaternary glaciation|glaciation]], estimated at 26,000 to 13,300 years ago.<ref name="Fjord"/> Tidal waters influence the Hudson's flow from as far north as [[Troy, New York|Troy]].
+
+The river is named after [[Henry Hudson]], an Englishman sailing for the [[Dutch East India Company]], who explored it in 1609, and after whom Canada's [[Hudson Bay]] is also named. It had previously been observed by Italian explorer [[Giovanni da Verrazano]] sailing for King [[Francis I of France]] in 1524, as he became the first European known to have entered the [[Upper New York Bay]], but he considered the river to be an estuary. The Dutch called the river the ''[[North River (Hudson River)|North River]]'' &ndash; with the [[Delaware River]] called the ''South River'' &ndash; and it formed the spine of the Dutch colony of [[New Netherland]]. Settlement of the colony clustered around the Hudson, and its strategic importance as the gateway to the American interior led to years of competition between the English and the Dutch over control of the river and colony.
+
+During the eighteenth century, the river valley and its inhabitants were the subject and inspiration of [[Washington Irving]], the first internationally acclaimed American author. In the nineteenth century, the area inspired the [[Hudson River School]] of [[landscape painting]], an American pastoral style, as well as the concepts of [[environmentalism]] and [[wilderness]]. The Hudson was also the eastern outlet for the [[Erie Canal]], which, when completed in 1825, became an important transportation artery for the early-19th-century United States.
+{| class="wikitable" style="float:right;"
+|+ '''Counties'''
+|-
+|align=center|[[Hamilton County, New York|Hamilton]]
+|-
+|align=center|[[Essex County, New York|Essex]]
+|-
+|align=center|[[Warren County, New York|Warren]]
+|-
+|align=center|[[Washington County, New York|Washington]]
+|-
+|align=center|[[Saratoga County, New York|Saratoga]]
+|-
+|align=center|[[Albany County, New York|Albany]]
+|-
+|align=center|[[Rensselaer County, New York|Rensselaer]]
+|-
+|align=center|[[Greene County, New York|Greene]]
+|-
+|align=center|[[Columbia County, New York|Columbia]]
+|-
+|align=center|[[Ulster County, New York|Ulster]]
+|-
+|align=center|[[Dutchess County, New York|Dutchess]]
+|-
+|align=center|[[Putnam County, New York|Putnam]]
+|-
+|align=center|[[Orange County, New York|Orange]]
+|-
+|align=center|[[Rockland County, New York|Rockland]]
+|-
+|align=center|[[Westchester County, New York|Westchester]]
+|-
+|align=center|[[Bronx County, New York|Bronx]]
+|-
+|align=center|[[Bergen County, New Jersey|Bergen]] (NJ)
+|-
+|align=center|[[Hudson County, New Jersey|Hudson]] (NJ)
+|-
+|align=center|[[New York County, New York|New York]]
+|-
+|align=center|<small>Source:<ref name="GNIS"/></small>
+|}
+[[File:Waterways New York City Map Julius Schorzman.png|thumb|Hudson River [[estuary]] waterways around New York City: 1. Hudson River, 2. [[East River]], 3. [[Long Island Sound]], 4. [[Newark Bay]], 5. [[Upper New York Bay]], 6. [[Lower New York Bay]], separated from Upper New York Bay by the [[Narrows]] [[strait]], 7. [[Jamaica Bay]], and 8. [[Atlantic Ocean]].]]
+
+==Course==
+
+===Sources===
+The source of the Hudson River is [[Lake Tear of the Clouds]] in the [[Adirondack Park]] at an altitude of {{convert|4322|ft|m}}.<ref name="USGS Water Quality Assessment"/> The river is not cartographically called the Hudson River until miles downstream. The river is named Feldspar Brook until its confluence with [[Calamity Brook]], and then is named Calamity Brook until the river reaches [[Indian Pass Brook]], flowing south from the outlet of [[Henderson Lake (New York)|Henderson Lake]]. From that point on, the stream is cartographically known as the Hudson River.<ref name="UAlbany Lake Tear of the Clouds"/><ref name="Adirondack Park Henderson Lake"/><ref name="Hudson River Map"/>
+
+Although numerous sources show the river originating directly at Henderson Lake, per the [[U.S. Geological Survey]] (USGS), the river cartographically begins at the confluence of Indian Pass Brook and Calamity Brook near the outlet of Henderson Lake in [[Newcomb, New York|Newcomb]], in the Adirondack Park.<ref name="GNIS"/>
+
+The [[Source (river or stream)|longest source]] of the Hudson River as shown on the most detailed USGS maps is the "Opalescent River" on the west slopes of Little Marcy Mountain, originating two miles north of Lake Tear of the Clouds, and a mile longer than "Feldspar Brook", which flows out of that lake in the [[Adirondack Mountains]]. Popular culture and convention, however, more often cite the photogenic Lake Tear of the Clouds as the source.
+
+===Upper Hudson River===
+South of the confluence of Indian Pass Brook and Calamity Brook, the Hudson River flows south into Sanford Lake. South of the outlet of the lake, the [[Opalescent River]] flows into the Hudson. The Hudson then flows south, taking in [[Beaver Brook (Hudson River)|Beaver Brook]] and the outlet of [[Lake Harris (New York)|Lake Harris]]. After its confluence with the [[Indian River (New York)|Indian River]], the Hudson forms the boundary between Essex and Hamilton counties. In the hamlet of [[North River, New York|North River]], the Hudson flows entirely in Warren County and takes in the [[Schroon River]]. Further south, the river forms the boundary between Warren and Saratoga Counties. The river then takes in the [[Sacandaga River]] from the [[Great Sacandaga Lake]]. Shortly thereafter, the river leaves the Adirondack Park, flows under [[Interstate 87]], and through [[Glens Falls]], just south of [[Lake George (New York)|Lake George]] although receiving no streamflow from the lake. It next goes through [[Hudson Falls]]. At this point the river forms the boundary between Washington and Saratoga Counties.<ref name="Hudson River Map"/> At this point the river has an altitude of 200 feet.<ref name="USGS Water Quality Assessment"/> Just south in [[Fort Edward (town), New York|Fort Edward]], the river reaches its confluence with the [[Champlain Canal]],<ref name="Hudson River Map"/> which historically provided boat traffic between New York City and [[Montreal]] and the rest of [[Eastern Canada]] via the Hudson, [[Lake Champlain]] and the [[Saint Lawrence Seaway]].<ref name="Champlain Canal"/> Further south the Hudson takes in water from the [[Batten Kill River]] and [[Fish Creek (New York)|Fish Creek]] near [[Schuylerville]]. The river then forms the boundary between Saratoga and Rensselaer counties. The river then enters the heart of the [[Capital District]]. It takes in water from the [[Hoosic River]], which extends into [[Massachusetts]]. Shortly thereafter the river has its confluence with the [[Mohawk River]], the largest tributary of the Hudson River, in [[Waterford, New York|Waterford]].<ref name="USGS Water Quality Assessment"/><ref name="Hudson River Map"/> Shortly thereafter, the river reaches the [[Federal Dam (Troy)|Federal Dam]] in [[Troy, New York|Troy]], marking an impoundment of the river.<ref name="Hudson River Map"/> At an elevation of {{convert|2|ft|m}}, the bottom of the dam marks the beginning of the tidal influence in the Hudson as well as the beginning of the lower Hudson River.<ref name="USGS Water Quality Assessment"/>
+
+===Lower Hudson River===
+[[File:Bird's-eye view of Hudson River from walkway 5.JPG|thumb|left|upright=1.2|The river from the [[Poughkeepsie Bridge]]]]
+South of the Federal Dam, the Hudson River begins to widen considerably. The river enters the [[Hudson Valley]], flowing along the west bank of [[Albany, New York|Albany]] and the east bank of [[Rensselaer, New York|Rensselaer]]. [[Interstate 90]] crosses the Hudson into Albany at this point in the river. The Hudson then leaves the Capital District, forming the boundary between Greene and Columbia Counties. The river then meets its confluence with [[Schodack Creek]], widening considerably at this point. After flowing by [[Hudson, New York|Hudson]], the river then forms the boundary between Ulster and Columbia Counties and Ulster and Dutchess Counties, flowing by [[Germantown (town), New York|Germantown]] and [[Kingston, New York|Kingston]]. The [[Delaware and Hudson Canal]] meets the river at this point. The river then flows by [[Hyde Park, New York|Hyde Park]], former residence of [[Franklin D. Roosevelt]]. The river then flows alongside the city of [[Poughkeepsie]], flowing under the [[Mid-Hudson Bridge]]. Afterwards, the Hudson flows by [[Wappingers Falls]] and takes in [[Wappinger Creek]]. The river then forms the boundary between Orange and Dutchess Counties. The river flows between [[Newburgh (city), New York|Newburgh]] and [[Beacon, New York|Beacon]] and under the [[Newburgh Beacon Bridge]] taking in the [[Fishkill Creek]]. Shortly thereafter, the river enters the [[Hudson Highlands]] between Putnam and Orange Counties, flowing between mountains such as [[Storm King Mountain (New York)|Storm King Mountain]], [[Breakneck Ridge]], and [[Bear Mountain (Hudson Highlands)|Bear Mountain]]. The river narrows considerably here before flowing under the [[Bear Mountain Bridge]], which spans Westchester and Rockland Counties.<ref name="Hudson River Map"/>
+
+[[File:HudsonRiverJavitsCenter.agr.JPG|thumb|The river between [[Midtown Manhattan]] (foreground) and [[Weehawken, New Jersey]] (background)]]
+Afterward leaving the Hudson Highlands, the river enters [[Haverstraw Bay]], the widest point of the river at {{convert|3.5|mi|km}} wide.<ref name="USGS Water Quality Assessment"/> Shortly thereafter, the river forms the [[Tappan Zee]] and flows under the [[Tappan Zee Bridge]], which carries the [[New York State Thruway]] between [[Tarrytown, New York|Tarrytown]] and [[Nyack, New York|Nyack]] in Westchester and Rockland Counties respectively. South of the Tappan Zee Bridge, the west bank of the Hudson becomes Bergen and Hudson Counties of [[New Jersey]], and further south the east bank of the river becomes [[Yonkers]] and then the [[Riverdale, Bronx|Riverdale]] neighborhood of the [[Bronx]] in New York City. [[The Palisades (Hudson River)|The Palisades]], large, rocky cliffs along the west bank of the river, begin along the west bank of the river opposite the Bronx. South of the confluence of the Hudson and [[Spuyten Duyvil Creek]], the east bank of the river becomes [[Manhattan]].<ref name="Hudson River Map"/> Known as the [[North River (Hudson River)|North River]] at this point, the [[George Washington Bridge]] crosses the river between [[Fort Lee, New Jersey|Fort Lee]] and the [[Washington Heights, Manhattan|Washington Heights]] neighborhood of Manhattan.<ref name="GWBridge"/> The [[Lincoln Tunnel]] and the [[Holland Tunnel]] also cross under the river between Manhattan and New Jersey. South of [[Battery Park]], the [[East River]] meets the Hudson River and forms [[Upper New York Bay]], also known as New York Harbor. Now in the harbor, sea-going boats can travel through [[The Narrows]] between [[Brooklyn]] and [[Staten Island]], under the [[Verrazano Bridge]], and into [[Lower New York Bay]] and the [[Atlantic Ocean]].<ref name="Hudson River Map"/>
+
+==Watershed==
+{{see also|List of rivers of New York#Hudson River Basin|label 1=Rivers of the Hudson River Basin}}
+[[File:Breaking The Ice On The Hudson River With United States Coast Guard Cutter Hawser -y.jpg|thumb|The bulk carrier ''Nord Angel'' breaking ice on the Hudson]]
+The lower Hudson is actually a tidal estuary, with tidal influence extending as far as the [[Federal Dam (Troy)|Federal Dam]] in [[Troy, New York|Troy]]. Strong tides make parts of New York Harbor difficult and dangerous to navigate. During the winter, ice floes drift south or north, depending upon the tides. The Mahican name of the river represents its partially estuarine nature: ''muh-he-kun-ne-tuk'' means "the river that flows both ways."<ref name="Rittner"/> The Hudson is often mistaken for one of the largest rivers in the United States, but it is an estuary throughout most of its length below Troy and thus only a small fraction of fresh water, about 15,000&nbsp;cubic feet (425&nbsp;m³) per second, is present. The mean fresh water discharge at the river's mouth in New York is approximately 21,400&nbsp;cubic feet (606&nbsp;m³) per second. The Hudson and its tributaries, notably the Mohawk River, drain a large area. Parts of the Hudson River form [[cove]]s, such as [[Weehawken Cove]] in [[Hoboken, New Jersey|Hoboken]] and [[Weehawken]] in New Jersey.
+
+==Landmarks==
+Notable landmarks on the Hudson include the [[Home of Franklin D. Roosevelt National Historic Site]], the [[Thayer Hotel]] at West Point, [[Bannerman's Castle]], the [[Metro-North Railroad]]'s [[Hudson Line (Metro-North)|Hudson Line]] (formerly part of the [[New York Central Railroad]] system), [[The Palisades (Hudson River)|The Palisades]], [[Hudson River Islands State Park]], [[Hudson Highlands State Park]], [[Walkway over the Hudson]], [[Sing Sing Correctional Facility]], [[Fort Tryon Park]] with [[The Cloisters]], and [[Liberty State Park]]. Colleges and universities include [[Stevens Institute of Technology]], the [[United States Military Academy]], [[Marist College]], [[The Culinary Institute of America]], and [[Bard College]].
+
+A similar {{convert|30|mi|adj=on}} stretch on the east bank of the Hudson has been designated the [[Hudson River Historic District]], a [[National Historic Landmark]].<ref name="HRHistDist"/> The Hudson River was designated as an [[American Heritage River]] in 1997.<ref name="AmericanHeritageRiver"/> The Hudson River estuary system is part of [[The National Estuarine Research Reserve System]] as the [[Hudson River National Estuarine Research Reserve]].<ref name="AutoYG-1"/>
+
+==History==
+
+===Names===
+[[File:Bierstadt - discovery of the hudson river.jpg|thumb|left|''Discovery of the Hudson River'', [[Albert Bierstadt]], 1874]]
+The river was called ''Ca-ho-ha-ta-te-a'' ("the river")<ref>https://archive.org/stream/aboriginalplacen00beau/aboriginalplacen00beau_djvu.txt</ref> by the [[Iroquois]], and it was known as ''Muh-he-kun-ne-tuk'' ("river that flows two ways") by the [[Mohican]] tribe who formerly inhabited both banks of the lower portion of the river. The Delaware Tribe of Indians (Bartlesville, Oklahoma) considers the closely related Mohicans to be a part of the [[Lenape]] people,<ref>http://www.delawaretribe.org/services-and-programs/historic-preservation/states-and-counties-covered-by-dthpo/</ref> and so the Lenape also claim the Hudson as part of their ancestral territory, naming the river ''Muhheakantuck'' ("river that flows two ways").<ref name="NYT on Muhheakantuck"/>
+
+The first known European name for the river was the Rio San Antonio as named by the Portuguese explorer in Spain's employ, [[Estêvão Gomes|Esteban Gomez]], who explored the Mid-Atlantic coast in 1525.<ref name="Hudson, Charles H 1874, p. 1-2">History of the County of Hudson, Charles H. Winfield, 1874, p. 1-2</ref>
+ 
+An other early name for the Hudson used by the Dutch was ''Rio de Montaigne''.<ref name="RiodeMontagne"/> Later, they generally termed it the ''Noortrivier'', or "[[North River (Hudson River)|North River]]", the [[Delaware River]] being known as the ''Zuidrivier'', or "South River". Other occasional names for the Hudson included: ''Manhattes rieviere'' "Manhattan River", ''Groote Rivier'' "Great River", and ''de grootte Mouritse reviere'', or "the Great Mouritse River" (Mouritse is a Dutch surname).<ref name="AutoD3-4"/> The translated name North River was used in the [[New York metropolitan area]] up until the early 1900s, with limited use continuing into the present-day.<ref name="steinhauer"/> The term persists in radio communication among commercial shipping traffic, especially below the [[Tappan Zee]].<ref name="Stanne"/> The term also continues to be used in names of facilities in the river's southern portion, such as the [[North River piers]], [[North River Tunnels]], and the [[North River Wastewater Treatment Plant]].
+
+In 1939, the magazine ''[[Life (magazine)|Life]]'' described the river as "America's Rhine", comparing it to the {{convert|40|mi|adj=on}} stretch of the [[Rhine]] in Central and Western Europe.<ref name="America's Rhine"/>
+
+===Exploration and colonization===
+In 1497, Jean and Sebastian Cabot, sailing for England sailed along the coast and claimed the entire country for England.<ref name="Hudson, Charles H 1874, p. 1-2"/> In 1524, [[Florence|Florentine]] Jean de Verrazano visited the bay of New York, in service of [[Francis I of France]].<ref name="Hudson, Charles H 1874, p. 1-2"/> On his voyage, Verrazano sailed north along the Atlantic seaboard, starting in the Carolinas. Verrazano sailed all the way to New York Harbor, which he though was the mouth of a major river. Verrazano sailed his boat into the harbor, and possibly sailed over what is now Battery Park (Battery Park was created with landfill). However, Verrazano never sailed up the Hudson River, and left the harbor shortly thereafter.<ref name="NY Times Verrazano"/> A year later, Estevan Gomez, a Portuguese explorer sailing for Spain in search of the Northwest Passage visited New York Bay.  The extent of his explorations in the bay is unknown. Yet as Charles H. Winfield has noted, as late as 1679, there was a tradition among the Indians that the Spanish arrived before the Dutch, and that from them it was that the natives obtained the maize or Spanish wheat. Maps of that era based on Gomez's map labeled the coast from New Jersey to Rhode Island, as the "land of Estevan Gomez".<ref name="Hudson, Charles H 1874, p. 1-2"/>
+
+In 1598 some Dutch employed by the Greenland Company wintered in the Bay.<ref name="Hudson, Charles H 1874, p. 1-2"/> 11 years later, the [[Dutch East India Company]] financed English navigator [[Henry Hudson]] in his attempt to search for the [[Northwest Passage]]. During this attempt, Henry Hudson decided to sail his ship up the river that would later be named after him. As he continued up the river, its width expanded, into Haverstraw Bay, leading him to believe he had successfully reached the Northwest Passage. He docked his ship on the western shore of Haverstraw Bay and claimed the territory as the first [[Dutch people|Dutch]] settlement in [[North America]]. He also proceeded upstream as far as present-day Troy before concluding that no such strait existed there.<ref name="Henry Hudson"/>
+
+On March 10, 1648, navigation of the river was banned without a license. In 1780, British spy [[John André]] landed at Snedeker's Landing (a.k.a. Waldberg Landing) on the west shore of Haverstraw Bay in the woods below the village of [[Haverstraw (village), New York|Haverstraw]] to meet [[Benedict Arnold]].<ref name="AutoAD-1"/> In 1823, Troy's dam and lock were completed; its sloop lock was rebuilt in 1854.<ref name="AutoYG-2"/>
+
+===Revolutionary War===
+[[File:NY-NJ-retreat-1776.svg|thumb|right|size|300px|Map of Washington's Retreat through NY and NJ]]
+The Hudson River was a key river during the [[Revolutionary War|Revolution]]. The Hudson River was important for a few reasons. Firstly, the Hudson's connection to the Mohawk River allowed travelers to eventually get to the Great Lakes and the [[Mississippi River]]. In addition, the river's close proximity to Lake George and Lake Champlain would allow the British navy to control the water route from [[Montreal]] to New York City.<ref name="West Point Chain"/> In doing so, the British, under General Burgoyne's strategy, would be able to cut off the [[Patriot (American Revolution)|patriot]] hub of [[New England]] (which is on the eastern side of the Hudson River) and focus on rallying the support of loyalists in the South and Mid-Atlantic regions. The British knew that total occupation of the colonies would be unfeasible, which is why this strategy was chosen.<ref name="Saratoga"/>
+
+As a result of the strategy, numerous battles were fought along the river and in nearby waterways. August 27, 1776, the [[Battle of Long Island]] was fought in [[Brooklyn]] on the eastern shore of the [[Verrazano Narrows]], the mouth of the Hudson River. Utilizing the vast natural harbor that is New York Harbor, the British send in an entire armada in order to take on [[Continental Army|Washington's army]] in battle. The British, led by [[General William Howe]] first arrived in Staten Island, on the western shore of the Narrows. The armada then sailed across the Narrows to a waiting Continental Army. [[George Washington|Washington's]] army was vastly outnumbered at the battle with 12,000 soldiers; the British had 45,000 soldiers. As expected, the British badly defeated the continentals at the battle and nearly crushed the rebellion.<ref name="NYTimes Battle of Long Island"/> However, under the cover of night, Washington ordered the camp fires to be extinguished, and then he and his army fled under the cover of darkness and fog across the [[East River]] by boat to Manhattan. The army then marched north to [[Harlem]].<ref name="Battle of Long Island NPS"/> As a result of the battle, the British took control of New York City and the harbor, and thus they took control of the mouth of the Hudson River. The British would turn New York City into its headquarters for the war, and occupy it for the rest of the war. The harbor would later be used for [[HMS Jersey|prison ships]] to hold the captured American soldiers.<ref name="Prison Ships"/>
+
+On September 15, 1776, The [[Battle of Harlem Heights]] was fought in what is now [[Washington Heights, Manhattan|Washington Heights]], Upper Manhattan. After Washington's army retreated to the northern section of the Manhattan Island, British troops pursued his army. Washington was just finishing a report about the Battle of Long Island when the British began to advance on his position. Washington then counterattacked the British with a plan of his own. Washington ordered a feint in order to fix the British army into a favorable position. Once this was accomplished, Washington ordered Lieutenant Colonel [[Thomas Knowlton]], his [[Knowlton's Rangers|rangers]], and other units to flank around the right side of the British and attack from the rear. The plan almost worked, but some of the Continental troops attacked too early, allowing the British to retreat and await reinforcements. Once those reinforcements began to arrive, Washington called off the attack. Although not a complete defeat of the British attacking force, the battle was nonetheless a Continental Army victory, the first of the war. This fact greatly enhanced troop morale.<ref name="Battle of Harlem Heights"/> Washington would later retreat further north to [[White Plains, New York]] as the British pursued him and his army.<ref name="Battle of White Plains"/>
+
+While the British advanced towards Washington's Army, Washington decided to take a stand in White Plains. In October, 1776, Howe's army advanced from [[New Rochelle, New York|New Rochelle]], and [[Scarsdale, New York|Scarsdale]]. Washington set up defensive positions in the hills around the village. When the British attacked, the British managed to break the Continental's defenses at Chatterton Hill, now known as Battle Hill. Once the British managed to reach the top of the hill, Washington was forced to retreat. The main positive for Washington after this battle was that he managed to avoid being enveloped by the British Army.<ref name="Westchester Magazine White Plains"/> Washington ordered his men to retreat across the Hudson River, eventually reaching New Jersey and Pennsylvania.<ref name="CengageRevWar"/> Because Washington was able to preserve what was left of his army, this retreat would eventually lead to the [[Battle of Trenton|successful surprise attacks]] on [[Trenton, New Jersey]] and [[Princeton, New Jersey]] in December of the same year.<ref name="Westchester Magazine White Plains"/> [[Fort Washington (Manhattan)|Fort Washington]] in Upper Manhattan later fell after this retreat.<ref name="CengageRevWar"/>
+
+Once Washington retreated to Pennsylvania, New England militias had to fortify the [[Hudson Highlands]], a choke point on the river north of Haverstraw Bay. As a result, the Continentals started building Fort Clinton on the other side of the river from Fort Montgomery. In the year 1777, Washington expected General Howe to sail his army north to Saratoga in order to meet up with General Burgoyne. This would result in the Hudson River being sealed off. However, Howe surprised Washington by sailing his army south to Philadelphia, conquering the Patriot capital. Washington was out of position and sought to defend Philadelphia, but to no avail. Meanwhile, Howe left [[Henry Clinton (British Army officer, born 1730)|Sir Henry Clinton]] in charge of a smaller force to be docked in New York City, with the permission to strike the Hudson Valley at any time. On October 5, 1777, Henry Clinton's army did just that, sailing his army up the Hudson River in order to attack the Twin Forts. At the Battle of the Hudson Highlands, a British force commanded by Sir Henry Clinton sailed up the Hudson River and attacked the twin forts. Along the way, Henry Clinton's army looted and pillaged the village of [[Peekskill, New York|Peeksill]]. The Continentals fought hard at the battle, but they were badly outnumbered and were fighting in unfinished forts. Washington's men were caught between defending Philadelphia and defending the Hudson Valley. In the end, the British took the fort, as well as taking Philadelphia around the same time. However, Clinton and his men soon returned to New York City soon afterward.<ref name="Battle of the Hudson Highlands"/>
+
+The Continentals later decided to build the [[Hudson River Chain#The Great Chain (1778–1782)|Great West Point Chain]] in order to prevent another British fleet from sailing up the Hudson River in a similar manner as during the previous battle. The chain that was by the forts was simply circumvented by the British army via attacking on the shores. The new chain, designed by engineer Captain [[Thomas Machin]]. The chain could have theoretically been lowered in order to let friendly ships sail down the river, but the chain was never tested, and was later discarded after the war.<ref name="Great West Point Chain"/>
+
+[[File:The Surrender of General Burgoyne at Saratoga October 16 1777.jpeg|thumb|right|size|300px|Painting of Burgoyne's surrender at Saratoga]]
+Simultaneously, a major battle was unfolding 30 miles north of Albany in [[Saratoga, New York]].<ref name="Battle of the Hudson Highlands"/> General Burgoyne sought to put into action his plan of taking over Albany and the Hudson River. Burgoyne and his army advanced southward from [[British Canada|Canada]] towards Albany. Meanwhile, an army led by General [[Barry St. Leger]] marched east along the Mohawk River towards the same location.,<ref name="WorcesterPI Saratoga"/> taking [[Fort Ticonderoga]] along the way. This fort was (and is) located at the southern end of Lake Champlain, and thus was seen as critical in defending Albany.<ref name="Ticonderoga and Saratoga"/> Once Burgoyne took the fort, he made the mistake of deciding not to take the water route along [[Lake George (New York)|Lake George]], instead deciding to take the land route from the fort. [[Philip Schuyler]] punished Burgoyne for this mistake. He and his army chopped down trees and littered the pathway that Burgoyne would have to take through the swampy wilderness of the area. As a result of the decision to march south, Burgoyne's supply lines were strained.<ref name="Ticonderoga and Saratoga"/>
+
+Burgoyne sent a column of his troops into Vermont in the hopes of securing needed supplies. However, [[General John Stark]] and the New Hampshire-Vermont Militia thwarted Burgoyne's resupply run in the [[Battle of Bennington]]. The lack of supplies and the surrender of his column severely weakened his army. Meanwhile, General [[Benedict Arnold]] halted the advance of General St. Ledger during the [[Siege of Fort Stanwix]]. This had the effect of preventing a British army from attacking the rear of the American troops during the Battle of Saratoga.<ref name="Ticonderoga and Saratoga"/> Burgoyne expected Sir Henry Clinton, under the orders of General Howe, to aid him in the invasion by sailing up the Hudson River from the south.<ref name="WorcesterPI Saratoga"/> However, Howe's attack on Philadelphia diverted troops needed up in Saratoga. In addition, Washington prevented reinforcements from Howe's army from reaching Burgoyne. Meanwhile, Clinton's army was busy battling in the Hudson Highlands, as well as raiding villages in the Hudson Valley. As a result, Henry Clinton's fleet never reached Saratoga in time.<ref name="Battle of the Hudson Highlands"/>
+
+Both the British and the American armies fought the [[Battles of Saratoga]]. Burgoyne still expected assistance from Henry Clinton, so his army dug in and waited. Clinton's forces did sail up the Hudson River, taking the Hudson Highlands forts as well as burning down [[Kingston, New York|Kingston]] (the NY State Capital at the time), but Clinton was forced to sail back to New York City in order to supply reinforcements after Howe's forces left to take Philadelphia.<ref name="Saratoga NPS"/> As a result, Burgoyne never received the assistance he needed. Burgoyne's army was now at roughly 6800 men and was surviving on reduced rations.<ref name="Saratoga NPS"/> On October 7, 1777, Burgoyne's army attempted to sweep around the American army in a last-ditch effort to escape from being surrounded,<ref name="Saratoga NPS"/> but an American counterattack led by General [[Horatio Gates]] successfully surrounded the British Army.<ref name="WorcesterPI Saratoga"/> An offensive by Benedict Arnold (which led to him being wounded in the leg) pushed Burgoyne closer to surrendering.<ref name="WorcesterPI Saratoga"/> In the end, Burgoyne surrendered his army to the Americans on October 17. This battle would later be known as the turning point of the war. In addition, this battle convinced the [[France in the American Revolutionary War|French]] that the American Continentals could beat a European army. As a result, the French joined the war on the side of the Americans.<ref name="Saratoga NPS"/>
+
+===Canal era===
+[[File:Lock Number 11 Erie Canal, Amsterdam NY 2918 (4029379915).jpg|thumb|left|The Erie Canal, 2009]]
+At the beginning of the 19th century, transportation away from the US east coast was difficult. Boat travel was still the fastest mode of transportation at the time, as automobiles and rail transportation were still being developed. In order to facilitate boat travel throughout the interior of the United States, numerous canals were constructed between internal bodies of water in the country. These canals would transfer freight throughout the inland US.<ref name="NYS Canals"/><ref name="Canal Era"/>
+
+One of the most significant canals of this era was the [[Erie Canal]]. For about a hundred years, various groups had sought to have a canal built between the Great Lakes and the Hudson River. This would link the frontier region of the United States to the Port of New York, a significant seaport during that time period as it is today.<ref name="Canal Era"/> Construction of the canal began in 1817 and finished in 1825.<ref name="NYS Canals"/> Originally called "Clinton's Ditch," after NY Governor DeWitt Clinton,<ref name="Erie Canalway"/> the canal proved to be a success, returning revenues of over $121 million after an initial construction cost of only $7 million.<ref name="Canal Era"/> After the canal was built, freight could travel from many frontier cities, such as Pittsburgh, Chicago, and Cleveland, to [[Lake Erie]], then to [[Buffalo, New York|Buffalo]] and the entrance to the canal, through the canal to the Hudson River, and then south to New York City.<ref name="Canal Era"/> The completion of the canal enhanced the development of the American West, allowing settlers to travel west, then send goods back to market in frontier cities, and then eventually export goods via the Hudson River and New York City. The completion of the canal made New York City one of the most vital ports in the nation, surpassing the Port of [[Philadelphia]] and ports in [[Massachusetts]].<ref name="Canal Era"/><ref name="Erie Canalway"/><ref name="NYS Canals Story"/>
+
+The Erie Canal was not the only canal built that connects to the Hudson River.<ref name="NYS Canals Story"/> After the completion of the Erie Canal, smaller canals were built to connect with the new system. The [[Champlain Canal]] was built to connect the Hudson River near [[Troy, New York|Troy]] to the southern end of Lake Champlain. This canal allowed boaters to travel from the [[St. Lawrence Seaway]], and then British cities such as [[Montreal]] to the Hudson River and New York City.<ref name="NYS Canals Story"/> Another major canal was the [[Oswego Canal]], which connected the Erie Canal to [[Oswego, New York|Oswego]] and [[Lake Ontario]]. This canal could be used to bypass Niagara Falls.<ref name="NYS Canals Story"/> The [[Cayuga-Seneca Canal]] connected the Erie Canal to [[Cayuga Lake]] and [[Seneca Lake (New York)|Seneca Lake]].<ref name="NYS Canals Story"/> Farther south, the [[Delaware and Hudson Canal]] was built between the [[Delaware River]] at [[Honesdale, Pennsylvania]], and the Hudson River at [[Kingston, New York]]. This canal enabled the transportation of coal, and later other goods as well, between the Delaware and Hudson River watersheds.<ref name="HVG Delaware-Hudson Canal"/> The combination of these canals made the Hudson River one of the most vital waterways for trade in the nation.<ref name="NYS Canals Story"/>
+
+===Late 19th through 20th centuries===
+[[File:HudsonRiverJerseyCity1890.jpg|thumb|View of the Hudson during the 1880s showing [[Jersey City]]]]
+On September 14, 1901, then-US Vice President [[Theodore Roosevelt]] was at Lake Tear of the Clouds after returning from a hike to the [[Mount Marcy]] summit when he received a message informing him that President [[William McKinley]], who had been shot two weeks earlier but was expected to survive, had taken a turn for the worse. Roosevelt hiked down the mountain to the closest stage station at [[Long Lake, New York]]. He then took a {{convert|40|mi}} midnight stage coach ride through the Adirondacks to the Adirondack Railway station at North Creek, where he discovered that McKinley had died. Roosevelt took the train to Buffalo, New York, where he was officially sworn in as President.<ref name="Theodore Roosevelt"/> The 40-mile route is now designated the [[Roosevelt-Marcy Trail]].<ref name="Trail"/>
+
+===Contemporary===
+{{Expand section|date=January 2015}}
+[[File:Plane crash into Hudson River (crop).jpg|thumb|upright=0.9|US Airways Flight 1549 on the Hudson River]]
+In 2004, Christopher Swain became the first person to swim the entire length of the Hudson River.<ref name="AutoYG-3"/>
+
+[[File:2014-05-07 16 24 44 View of Lower Manhattan, Jersey City, New Jersey, and several highways-cropped.JPG|thumb|right| [[Jersey City]] (foreground), [[River Hudson]] and [[Lower Manhattan]] (background)]]
+
+On January 15, 2009, [[US Airways Flight 1549]] made an emergency ditching onto the Hudson River beside lower Manhattan. The flight was a domestic [[airline|commercial passenger flight]] with 150 passengers and 5 crew members traveling from [[LaGuardia Airport]] in New York City to [[Charlotte Douglas International Airport]] in Charlotte. After striking a flock of [[Canada geese]] during its initial [[Standard Instrument Departure|climb out]], the airplane lost engine power and [[Water landing#Commercial aircraft|ditched]] in the Hudson River off [[Midtown Manhattan]] with no loss of human life. All 155 occupants safely evacuated the airliner, and were quickly rescued by nearby ferries and other [[watercraft]]. The airplane was still virtually intact though partially submerged and slowly sinking. The entire crew of Flight 1549 was later awarded the Master's Medal of the [[Guild of Air Pilots and Air Navigators]].<ref name="Masters"/> It was described by NTSB board member Kitty Higgins as "the most successful ditching in aviation history."<ref name="NewYorkPost"/>
+
+==Geology==
+[[File:Hudson river - 1977 (1).tif|thumb|The Hudson River at Bear Mountain (1977)]]
+The Hudson is sometimes called, in geological terms, a [[Estuary#Classification based on geomorphology|drowned river]]. The rising [[sea level]]s after the retreat of the [[Wisconsin glaciation]], the most recent [[Quaternary glaciation|ice age]], have resulted in a [[Fjord|marine incursion]] that drowned the coastal plain and brought salt water well above the mouth of the river. The deeply eroded old riverbed beyond the current shoreline, [[Hudson Canyon]], is a rich fishing area. The former riverbed is clearly delineated beneath the waters of the Atlantic Ocean, extending to the edge of the [[continental shelf]].<ref name="HudsonRiverEstuary"/>
+
+The Narrows were most likely formed about 6,000&nbsp;years ago at the end of the last ice age. Previously, Staten Island and [[Long Island]] were connected, preventing the Hudson River from terminating via The Narrows. At that time, the Hudson River emptied into the Atlantic Ocean through a more westerly course through parts of present-day northern New Jersey, along the eastern side of the [[Watchung Mountains]] to [[Bound Brook, New Jersey]] and then on into the Atlantic Ocean via [[Raritan Bay]]. A buildup of water in the Upper New York Bay eventually allowed the Hudson River to break through previous land mass that was connecting Staten Island and Brooklyn to form The Narrows as it exists today. This allowed the Hudson River to find a shorter route to the Atlantic Ocean via its present course between New Jersey and New York City.<ref name="AutoYG-4"/>
+
+==Transportation==
+[[File:Hudson river sailboat.jpg|thumb|A sailboat on the Hudson River, with [[Lower Manhattan]] in the background]]
+The Hudson River is [[Navigability|navigable]] for a great distance above mile 0 (at 40°42.1'N., 74°01.5'W.) off [[Battery Park]].<ref name="Hudson River Course Description south of Troy Dam"/> The original [[Erie Canal]], opened in 1825 to connect the Hudson with Lake Erie, emptied into the Hudson at the [[Albany Basin]], just {{convert|3|mi}} south of the [[Federal Dam (Troy)|Federal Dam]] in [[Troy, New York|Troy]] (at mile 134). The canal enabled shipping between cities on the [[Great Lakes]] and Europe via the Atlantic Ocean.<ref name="HudsonRiverEstuary"/> The [[New York State Canal System]], the successor to the Erie Canal, runs into the Hudson River north of Troy and uses the Federal Dam as the Lock 1 and natural waterways whenever possible. The first railroad in New York, the [[Mohawk and Hudson Railroad]], opened in 1831 between [[Albany, New York|Albany]] and [[Schenectady]] on the Mohawk River, enabling passengers to bypass the slowest part of the Erie Canal.<ref name="Hudson River Course Description south of Troy Dam">{{cite web|title=The Hudson River Guide|url=http://www.offshoreblue.com/cruising/hudson-river.php|website=www.offshoreblue.com|publisher=Blue Seas|accessdate=March 4, 2016}}</ref>
+
+In northern Troy, the [[Champlain Canal]] split from the Erie Canal and continued north along the west side of the Hudson to [[Thompson, New York|Thompson]], where it crossed to the east side. At [[Fort Edward (town), New York|Fort Edward]] the canal left the Hudson, heading northeast to [[Lake Champlain]]. A [[barge canal]] now splits from the Hudson at that point, taking roughly the same route (also parallel to the [[Delaware and Hudson Railway]]'s [[Saratoga and Whitehall Railroad]]) to Lake Champlain at [[Whitehall (village), New York|Whitehall]]. From Lake Champlain, boats can continue north into [[Canada]] to the [[Saint Lawrence Seaway]].
+
+The Hudson Valley also proved attractive for railroads, once technology progressed to the point where it was feasible to construct the required bridges over tributaries. The [[Troy and Greenbush Railroad]] was chartered in 1845 and opened that same year, running a short distance on the east side between Troy and Greenbush, now known as [[East Greenbush, New York|East Greenbush]] (east of Albany). The [[Hudson River Railroad]] was chartered the next year as a continuation of the Troy and Greenbush south to New York City, and was completed in 1851. In 1866 the [[Livingston Avenue Bridge|Hudson River Bridge]] opened over the river between Greenbush and Albany, enabling through traffic between the Hudson River Railroad and the New York Central Railroad west to [[Buffalo, New York|Buffalo]]. When the [[Poughkeepsie Bridge]] opened in 1889, it became the longest single-span bridge in the world. On October 3, 2009, it re-opened as a pedestrian walkway over the Hudson, as part of the Hudson River Quadricentennial Celebrations and connects over 25 miles of existing pedestrian trails.
+
+The [[West Shore Railroad|New York, West Shore and Buffalo Railway]] began at [[Weehawken Terminal]] and ran up the west shore of the Hudson as a competitor to the merged [[New York Central and Hudson River Railroad]]. Construction was slow, and was finally completed in 1884; the New York Central purchased the line the next year.
+
+The Upper Hudson River Valley was also useful for railroads. Sections of the Rensselaer and Saratoga Railroad, [[Troy and Boston Railroad]] and [[Albany Northern Railroad]] ran next to the Hudson between Troy and [[Mechanicville]]. North of Mechanicville the shore was bare until [[Glens Falls]], where the short [[Glens Falls Railroad]] ran along the east shore. At Glens Falls the Hudson turns west to [[Corinth, New York|Corinth]] before continuing north; at Corinth the [[Adirondack Scenic Railroad]] begins to run along the Hudson's west bank. The original Adirondack Railway opened by 1871, ending at [[North Creek, New York|North Creek]] along the river. In [[World War II]] an extension opened to Tahawus, the site of valuable [[iron]] and [[titanium]] mines. The extension continued along the Hudson River into [[Hamilton County, New York|Hamilton County]], and then continued north where the Hudson makes a turn to the west, crossing the Hudson and running along the west shore of the [[Boreas River]]. South of Tahawus the route returned to the east shore of the Hudson the rest of the way to its terminus.
+
+===Crossings===
+{{multiple image|total_width=380|align=right
+|footer = The [[Riparius Bridge]] and the [[Tappan Zee Bridge]] both cross the Hudson River
+|width1 = 3888|height1 = 2592|image1 = Riparius Bridge from Chester shore.jpg|alt1 = A small metal Parker truss bridge
+|width2 = 2014|height2 = 1344|image2 = Tappan Zee Bridge.jpg|alt2 = A large metal cantilever bridge
+}}
+{{Main|List of fixed crossings of the Hudson River|List of ferries across the Hudson River in New York City}}
+The Hudson is crossed at numerous points by bridges, tunnels, and ferries. The width of the Lower Hudson River required major feats of engineering to cross, the results today visible in the [[George Washington Bridge]] and the [[Tappan Zee Bridge]], as well as the [[Lincoln Tunnel|Lincoln]] and [[Holland Tunnel|Holland]] Tunnels and the [[Port Authority Trans-Hudson|PATH]] and [[New York Tunnel Extension|Pennsylvania Railroad]] tubes. The George Washington Bridge, which carries multiple highways, connects [[Fort Lee, New Jersey]] to the [[Washington Heights, Manhattan|Washington Heights]] neighborhood of [[Upper Manhattan]], and is the world's busiest motor vehicle bridge.<ref name="GWBridge"/> The Tappan Zee Bridge is the longest bridge in New York, although the [[Verrazano–Narrows Bridge]] has a larger main span. The [[Troy–Waterford Bridge|Troy Union Bridge]] between [[Waterford (town), New York|Waterford]] and Troy was the first bridge over the Hudson; built in 1804 and destroyed in 1909;<ref name="TroyUnionBridge"/> its replacement, the [[Troy–Waterford Bridge]], was built in 1909.<ref name="Troy-Waterford Bridge"/> The [[Rensselaer and Saratoga Railroad]] was chartered in 1832 and opened in 1835, including the [[Green Island Bridge]], the second bridge over the Hudson south of the Federal Dam.<ref name="Hudson River Course Description south of Troy Dam"/>
+
+==Pollution==
+[[File:Hudson River debris.jpg|thumb|Debris floating on the river near the [[World Trade Center (1973–2001)|World Trade Center]], 1973]]
+{{main|Pollution of the Hudson River}}
+The most discussed pollution of the Hudson River is [[General Electric]]'s contamination of the river with [[polychlorinated biphenyl]]s (PCBs) between 1947 and 1977.<ref name="epa_ge"/> This pollution caused a range of harmful effects to wildlife and people who ate fish from the river or drank the water.<ref name="EPA-GE"/><ref name=EPA2/> In response to this contamination, activists protested in various ways. Musician [[Pete Seeger]] founded the [[Hudson River Sloop Clearwater]] and the [[Clearwater Festival]] to draw attention to the problem. The activism led to the site being designated as one of the [[superfund]] sites.<ref name="upi.com"/> Other kinds of pollution, including mercury contamination and sewage dumping, have caused problems as well.<ref name="AutoD3-29"/><ref name="nysdec"/>
+<!--==Flora and fauna==
+[[File:Bird on the bank of the Hudson River 1.jpg|thumb|A juvenile [[house sparrow]] by the Hudson River]]-->
+
+==See also==
+{{Div col|2}}
+* [[Geography of New York–New Jersey Harbor Estuary]]
+* [[Hudson Canyon]]
+* [[Hudson River Region AVA]]
+* [[Hudson Valley]]
+* [[List of fixed crossings of the Hudson River]]
+* [[List of ferries across the Hudson River in New York City]]
+* [[List of Hudson River islands]]
+* [[List of New Jersey rivers]]
+* [[List of New York rivers]]
+{{Div col end}}
+{{Portal bar|Geography|Hudson Valley|New York City|New Jersey|}}
+
+==References==
+{{reflist|30em|refs=
+<ref name="Discharge">{{cite web|url=http://ny.water.usgs.gov/projects/dialer_plots/Hudson_R_at_NYC_Freshwater_Discharge.htm|title=Estimates of monthly and annual net discharge, in cubic feet per second, of Hudson River at New York, N.Y.|publisher=[[United States Geological Survey]]|date=October 15, 2010|accessdate=December 30, 2014}}</ref>
+<ref name="Fjord">{{cite web|url=http://www.dec.ny.gov/lands/66611.html|title=21. The Hudson as Fjord|publisher=[[New York State Department of Environmental Conservation]]|accessdate=December 30, 2014}}</ref>
+<ref name="GNIS">{{cite web|url=http://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:970226|title=Feature Detail Report for: Hudson River|publisher=[[United States Geological Survey]]|accessdate=December 30, 2014}}</ref>
+<ref name="USGS Water Quality Assessment">{{cite web|last=Freeman|first=W. O.|title=National Water Quality Assessment Program - The Hudson River Basin|url=http://ny.water.usgs.gov/projects/hdsn/fctsht/su.html|website=ny.water.usgs.gov/|publisher=United States Geological Survey|accessdate=December 30, 2014}}</ref>
+<ref name="UAlbany Lake Tear of the Clouds">{{cite web|last=Zahavi|first=Gerald|title=Station 1A: The Source Of The Hudson ~ Lake Tear Of The Clouds|url=http://www.albany.edu/faculty/gz580/~fieldwork/lake_tear.html|website=www.albany.edu/|publisher=University of Albany|accessdate=December 30, 2014}}</ref>
+<ref name="Adirondack Park Henderson Lake">{{cite web|title=Town of Newcomb, Essex County: Historic Tahawus Tract|url=http://www.apa.ny.gov/Press/OSI_Tahawus.htm|website=www.apa.ny.gov/|publisher=Adirondack Park Agency|accessdate=December 30, 2014}}</ref>
+<ref name="Hudson River Map">{{cite map|publisher=[[United States Geological Survey]]|title=Location of the Site in New York|url=http://waterdata.usgs.gov/nwis/nwismap/?site_no=01315083&agency_cd=USGS|accessdate=December 30, 2014}}</ref>
+<ref name="Champlain Canal">{{cite web|last=Winslow|first=Mike|title=On Closing the Champlain Canal|url=http://www.lakechamplaincommittee.org/learn/lake-look/on-closing-the-champlain-canal/|website=www.lakechamplaincommittee.org|publisher=Lake Champlain Committee|accessdate=December 30, 2014}}</ref>
+<ref name="GWBridge">{{cite web|title=George Washington Bridge|publisher=The Port Authority of New York and New Jersey|url=http://www.panynj.gov/bridges-tunnels/george-washington-bridge.html|accessdate=December 30, 2014}}</ref>
+<ref name="Rittner">{{cite book|title=Troy, NY: A Collar City History|last=Rittner|first=Don|publisher=Arcadia Publishing |date=2002|isbn=0-7385-2368-2|url=https://books.google.com/books?id=36IWs6w6tZMC |location=[[Charleston, South Carolina]]}}</ref>
+<ref name="HRHistDist">{{cite web|title=The Hudson River National Historic Landmark District|url=http://www.hudsonriverheritage.org/?page_id=330|publisher=Hudson River Heritage|accessdate=December 30, 2014}}</ref>
+<ref name="AmericanHeritageRiver">{{cite web|last=Clinton|first=William Jefferson|authorlink=Bill Clinton|title=Designation of American Heritage Rivers|url=http://www.gpo.gov/fdsys/pkg/STATUTE-112/pdf/STATUTE-112-Pg3782.pdf|publisher=[[United States Government Printing Office]]|date=July 30, 1998|accessdate=November 8, 2014}}</ref>
+<ref name="AutoYG-1">{{cite web|url=http://www.nerrs.noaa.gov/Reserve.aspx?ResID=HUD|title=Hudson River, NY|publisher=[[National Oceanic and Atmospheric Administration]]|accessdate=February 3, 2015}}</ref>
+<ref name="NYT on Muhheakantuck">{{cite news|last=Gennochio|first=Benjamin|title=The River’s Meaning to Indians, Before and After Hudson|url=http://www.nytimes.com/2009/09/06/nyregion/06artwe.html?_r=1&|accessdate=December 30, 2014|website=nytimes.com|publisher=The New York Times|date=September 3, 2009}}</ref>
+<ref name="RiodeMontagne">{{cite book|last=Ingersoll|first=Ernest|title=Rand McNally & Co.'s Illustrated Guide to the Hudson River and Catskill Mountains|date=1893|publisher=[[Rand, McNally & Company]]|location=[[Chicago, Illinois]]|page=19|url=https://books.google.com/books?id=TRECAAAAYAAJ|accessdate=January 6, 2015}}</ref>
+<ref name="AutoD3-4">{{cite book|last=Jacobs|first=Jaap|title=New Netherland: A Dutch Colony in Seventeenth-Century America|publisher=[[Brill Publishers]]|location=[[Netherlands]]|url=https://books.google.com/books?id=Uex2budtSOUC|date=2005|page=11|isbn=9004129065|oclc=191935005}}</ref>
+<ref name="steinhauer">{{cite news|last=Steinhauer|first=Jennifer|url=http://www.nytimes.com/1994/05/15/nyregion/fyi-130591.html|title=Smell of the Forest|publisher=The New York Times|date=May 15, 1994|accessdate=December 30, 2014}}</ref>
+<ref name="Stanne">{{cite book|last1=Stanne|first1=Stephen P.|last2=Panetta|first2=Roger G.|last3=Forist|first3=Brian E.|title=The Hudson, An Illustrated Guide to the Living River|url=https://books.google.com/books?id=qinH2oIp5CAC|date=1996|publisher=Rutgers University Press|location=[[New Brunswick, New Jersey]]|isbn=9780813522715|oclc=32859161}}</ref>
+<ref name="NY Times Verrazano">{{cite news|title=Giovanni Verrazano|accessdate=March 28, 2016|publisher=New York Times|date=September 15, 1909|URL=http://timesmachine.nytimes.com/timesmachine/1909/09/15/101896815.html?pageNumber=8|website=timesmachine.nytimes.com}}</ref>
+<ref name="America's Rhine">{{cite news|title=The Hudson River: Autumn Peace Broods over America's Rhine|url=https://books.google.com/books?id=N0IEAAAAMBAJ|work=[[Life (magazine)|Life]]|date=October 2, 1939|page=57|accessdate=December 31, 2014}}</ref>
+<ref name="Henry Hudson">{{cite web|last1=Cleveland|first1=Henry R.|title=Henry Hudson Explores the Hudson River|url=http://history-world.org/henry_hudson.htm|website=history-world.org|publisher=International World History Project|accessdate=February 3, 2015}}</ref>
+<ref name="AutoAD-1">Adams, Arthur, The Hudson River Guidebook (Fordham University Press, New York, 1996, pp. 146)</ref>
+<ref name="AutoYG-2">[http://www.eriecanal.org/texts/Whitford/1906/Chron15.html University of Rochester Chronology]</ref>
+<ref name="Theodore Roosevelt">{{cite web|title=Adirondack Journal — An Adirondack Presidential History|url=http://www.adkmuseum.org/about_us/adirondack_journal/?id=117|website=www.adkmuseum.org|publisher=Adirondack Museum|accessdate=February 4, 2015}}</ref>
+<ref name=Trail>{{cite web|title=Roosevelt-Marcy Byway|url=https://www.dot.ny.gov/display/programs/scenic-byways/roosevelt-marcy-trail|website=www.dot.ny.gov|publisher=NewState Department of Transportation|accessdate=February 4, 2015}}</ref>
+<ref name="AutoYG-3">[http://www.nysm.nysed.gov/press/2006/swimrivers.cfm New York State Museum - "Swim for the River"]</ref>
+<ref name=Masters>{{cite web|last=Turner|first=Celia|title=US Airways Flight 1549 Crew receive prestigious Guild of Air Pilots and Air Navigators Award|publisher=Guild of Air Pilots and Air Navigators|accessdate=April 30, 2014|url=http://www.gapan.org/ruth-documents/Masters%20Medal%20%20Press%20Release.pdf|archiveurl=http://webcache.googleusercontent.com/search?q=cache:http://www.gapan.org/ruth-documents/Masters%2520Medal%2520%2520Press%2520Release.pdf|archivedate=January 22, 2009}}</ref>
+<ref name=NewYorkPost>{{cite news|first1=Jeremy|last1=Olshan|first2=Ikumulisa|last2=Livingston|title=Quiet Air Hero is Captain America|url=http://www.nypost.com/seven/01172009/news/regionalnews/quiet_air_hero_is_captain_america_150593.htm|work=[[New York Post]]|date=January 17, 2009|accessdate=February 12, 2009}}</ref>
+<ref name="HudsonRiverEstuary">{{cite book|last1=Levinton|first1=Jeffrey S.|last2=Waldman|first2=John R.|title=The Hudson River Estuary|date=2006|publisher=Cambridge University Press|isbn=0521207983|oclc=60245415|url=http://assets.cambridge.org/97805218/44789/excerpt/9780521844789_excerpt.pdf|pages=1–10|accessdate=December 30, 2014}}</ref>
+<ref name="AutoYG-4">John Waldman; ''Heartbeats in the Muck''; ISBN 1-55821-720-7 The Lyons Press; (2000)</ref>
+<ref name="TroyUnionBridge">{{cite news|title=Troy Union Bridge Burned|url=http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9D0DE2D61738E033A25752C1A9619C946897D6CF|accessdate=December 30, 2014|publisher=The New York Times|date=July 11, 1909}}</ref>
+<ref name="epa_ge">{{cite web|title=Hudson River PCBs — Background and Site Information |publisher=[[United States Environmental Protection Agency]] |url=http://www.epa.gov/hudson/background.htm |accessdate=December 31, 2007}}</ref>
+<ref name="EPA-GE">{{cite web|title=Hudson River PCBs|publisher=[[U.S. Environmental Protection Agency]]|url=http://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0202229|date=December 31, 2008|accessdate=January 1, 2015}}</ref>
+<ref name=upi.com>{{cite news|first=Gerry|last=Harrington|title=Movement afoot to name bridge after Pete Seeger|url=http://www.upi.com/Entertainment_News/Music/2014/01/31/Movement-afoot-to-name-bridge-after-Pete-Seeger/UPI-15581391204873/|work=[[United Press International]] |date=January 31, 2014|accessdate=February 3, 2014}}</ref>
+<ref name="AutoD3-29">{{cite journal|last1=Levinton|first1=J.S.|last2=Ochron|first2=S.T.P.|year=2008|title=Temporal and geographic trends in mercury concentrations in muscle tissue in five species of hudson river, USA, fish |journal=Environmental Toxicology and Chemistry|publisher=|volume=27|issue=8|pages=1691–1697|url=|doi=10.1897/07-438.1|pmid=18266478}}</ref>
+<ref name="nysdec">{{cite web|title=Hudson River Estuary Program: Cleaning the river: Improving water quality|author=New York State Department of Environmental Conservation (NYSDEC). Albany, NY.|page=24|year=2007|url=http://www.dec.ny.gov/docs/remediation_hudson_pdf/hrepc.pdf|accessdate=December 31, 2007|archiveurl=https://web.archive.org/web/20080227042436/http://www.dec.ny.gov/docs/remediation_hudson_pdf/hrepc.pdf <!-- Bot retrieved archive -->|archivedate=February 27, 2008}}</ref>
+<ref name="Hudson River Course Description south of Troy Dam">{{cite web|title=The Hudson River Guide|url=http://www.offshoreblue.com/cruising/hudson-river.php|website=www.offshoreblue.com|publisher=Blue Seas|accessdate=March 4, 2016}}</ref>
+<ref name="Troy-Waterford Bridge">{{cite web|last1=Crowe II|first1=Kenneth C.|title=Crack closes bridge over Hudson River|url=http://www.timesunion.com/local/article/Crack-closes-bridge-over-Hudson-River-5002624.php|website=www.timesunion.com|publisher=timesunion.com|accessdate=February 5, 2015}}</ref>
+<ref name=EPA2>{{cite web|title=Ecological Risk Assessment|url=http://www3.epa.gov/hudson/era.htm|website=EPA}}</ref>
+<ref name="NYS Canals">{{cite web|title=Canal History|url=http://www.canals.ny.gov/history/history.html|website=www.canals.ny.gov|publisher=New York State Canal Corporation|accessdate=March 6, 2016}}</ref>
+<ref name="Canal Era">{{cite web|title=Canal Era|url=http://www.ushistory.org/us/25a.asp|website=www.ushistory.org/|publisher=U.S. History|accessdate=March 6, 2016}}</ref>
+<ref name="Erie Canalway">{{cite web|title=Erie Canalway|url=http://www.eriecanalway.org/learn/history-culture|website=www.eriecanalway.org|publisher=Erie Canalway|accessdate=March 7, 2016}}</ref>
+<ref name="NYS Canals Story">{{cite web|last1=Finch|first1=Roy G.|title=The Story of the New York State Canals|url=http://www.canals.ny.gov/history/finch_history.pdf|website=www.canals.ny.gov|publisher=New York State Canals Corporation|accessdate=March 7, 2016}}</ref>
+<ref name="HVG Delaware-Hudson Canal">{{cite news|last1=Levine|first1=David|title=How the Delaware & Hudson Canal Fueled the Valley|url=http://www.hvmag.com/Hudson-Valley-Magazine/August-2010/How-the-Delaware-amp-Hudson-Canal-Fueled-the-Valley/|accessdate=March 7, 2016|publisher=Hudson Valley Magazine|date=August 2010}}</ref>
+<ref name="West Point Chain">{{cite web|last1=Mansinne, Jr.|first1=Major Andrew|title=The West Point Chain and Hudson River Obstructions in the Revolutionary War|url=http://desmondfishlibrary.org/lisa/RevolutionaryWarLocalHistorychain.pdf|website=desmondfishlibrary.org|publisher=Desmond Fish Library|accessdate=March 8, 2016}}</ref>
+<ref name="Saratoga">{{cite book|last1=Carroll|first1=John Martin|last2=Baxter|first2=Colin F.|title=The American Military Tradition: From Colonial Times to the Present|date=August 2006|publisher=Rowman and Littlefield Publishers, Inc.|location=Lanham, Maryland|isbn=9780742544284|pages=14–18|edition=2nd|url=https://books.google.com/books?id=UMuKtxqRH8wC&pg=PA14#v=onepage&q&f=false|accessdate=March 8, 2016}}</ref>
+<ref name="NYTimes Battle of Long Island">{{cite news|last1=Hevesi|first1=Dennis|title=A Crucial Battle In the Revolution|url=http://www.nytimes.com/1993/08/27/nyregion/a-crucial-battle-in-the-revolution.html|accessdate=March 8, 2016|publisher=New York Times|date=August 27, 1993}}</ref>
+<ref name="Battle of Long Island NPS">{{cite web|title=Governor's Island: The Battle of Brooklyn|url=http://www.nps.gov/gois/learn/historyculture/battle-of-brooklyn.htm|website=www.nps.gov|publisher=National Park Service|accessdate=March 8, 2016}}</ref>
+<ref name="Prison Ships">{{cite web|title=The HMS Jersey|url=http://www.history.com/topics/american-revolution/the-hms-jersey|website=www.history.com|publisher=History Channel|accessdate=March 8, 2016}}</ref>
+<ref name="Battle of Harlem Heights">{{cite journal|last=Shepherd|first=Joshua|date=April 15, 2014 |title="Cursedly Thrashed": The Battle Of Harlem Heights|url=http://allthingsliberty.com/2014/04/cursedly-thrashed-the-battle-of-harlem-heights/|journal=Journal of the American Revolution|location=|publisher=|access-date=March 9, 2016}}</ref>
+<ref name="Battle of White Plains">{{cite web|title=The Battle of White Plains|url=http://www.theamericanrevolution.org/battledetail.aspx?battle=11|website=www.theamericanrevolution.org|publisher=TheAmericanRevolution.org|accessdate=March 9, 2016}}</ref>
+<ref name="Westchester Magazine White Plains">{{cite journal|last1=Borkow|first1=Richard|title=Westchester County, New York and the Revolutionary War: The Battle of White Plains (1776)|journal=Westchester Magazine|date=July 2013|url=http://www.westchestermagazine.com/Westchester-Magazine/July-2013/Westchester-County-New-York-and-the-Revolutionary-War-The-Battle-of-White-Plains-1776/|accessdate=March 10, 2016}}</ref>
+<ref name="CengageRevWar">{{cite book|last1=Ayers|first1=Edward L.|last2=Gould|first2=Lewis L.|last3=Oshinky|first3=David M.|last4=Soderlund|first4=Jean R.|title=American Passage: A History of the United States|date=2009|publisher=Wadsworth, Cengage Learning|location=Boston, MA|isbn=9780547166292|edition=4th|url=https://books.google.com/books?id=SbXS5-4QGAUC&pg=PA149&lpg=PA149&dq=Washington+retreats+to+Pennsylvania+from+New+York&source=bl&ots=2nDo1oS7VW&sig=C0l8WfSbPzP8q1x5HN8u-nFmvm4&hl=en&sa=X&ved=0ahUKEwj_74LA7rTLAhUKOCYKHavSDmo4ChDoAQhHMAc#v=onepage&q=Washington%20retreats%20to%20Pennsylvania%20from%20New%20York&f=false}}</ref>
+<ref name="Battle of the Hudson Highlands">{{cite journal|last1=Mark|first1=Steven Paul|title=Too Little, Too Late: Battle Of The Hudson Highlands|journal=Journal of the American Revolution|date=November 20, 2013|url=http://allthingsliberty.com/2013/11/little-late-battle-hudson-highlands/|accessdate=March 10, 2016}}</ref>
+<ref name="Great West Point Chain">{{cite journal|last1=Harrington|first1=Hugh T.|title=he Great West Point Chain|journal=Journal of the American Revolution|date=September 25, 2014|url=http://allthingsliberty.com/2014/09/the-great-west-point-chain/|accessdate=March 10, 2016}}</ref>
+<ref name="Ticonderoga and Saratoga">{{cite web|last1=Stambach|first1=Abigail|last2=Stambach|first2=Paul|title=Victory...Impossible Without Schuyler’s Direction|url=https://dmna.ny.gov/historic/articles/victorySchuyler.htm|website=dmna.ny.gov|publisher=New York State Military Museum|accessdate=March 10, 2016}}</ref>
+<ref name="WorcesterPI Saratoga">{{cite web|title=Battle of Saratoga|url=http://www.wpi.edu/academics/military/saratoga.html|website=www.wpi.edu|publisher=Worcester Polytechnic Institute|accessdate=March 10, 2016}}</ref>
+<ref name="Saratoga NPS">{{cite web|title=History and Culture|url=http://www.nps.gov/sara/learn/historyculture/index.htm|website=www.nps.gov|publisher=National Park Service|accessdate=March 10, 2016}}</ref>
+}}
+
+==External links==
+{{Sister project links|wikt=Hudson River|commons=Hudson River|q=no|s=Encyclopædia Britannica, Ninth Edition/Hudson River|v=no|n=Hudson River|voy=Hudson River|d=Q3140|display=Hudson River}}
+;History
+*[http://www.hrmm.org/ Hudson River Maritime Museum]
+*[http://www.beczak.org/ Beczak Environmental Education Center]
+*[http://www.c-spanvideo.org/program/87372-1 Tocqueville in Newburgh] — a ''[[Alexis de Tocqueville Tour]]'' segment on Hudson River steamship travel in the 1830s
+
+;Environmental groups
+*[http://www.scenichudson.org/ Scenic Hudson]
+*[http://www.hudsonriver.org/ Hudson River Foundation]
+*[http://www.riverkeeper.org/ Riverkeeper]
+*[http://www.hres.org/ Hudson River Environmental Society]
+*[http://www.hrwa.org/ Hudson River Watertrail Association]
+*[http://www.clearwater.org/ Hudson River Sloop Clearwater]
+*[http://www.groundworkhv.org/ Groundwork Hudson Valley]
+
+{{Navboxes
+|title=Articles and topics related to Hudson River
+|state=expanded
+|list1=</span>
+{{Capital District}}
+{{AHR}}
+{{Dutchess County, NY watersheds}}
+}}
+
+{{Authority control}}
+
+[[Category:Hudson River| ]]
+[[Category:American Heritage Rivers]]
+[[Category:Rivers and streams of New Jersey]]
+[[Category:Rivers and streams of New York]]
+[[Category:Borders of New Jersey]]
+[[Category:Borders of New York]]
+[[Category:Superfund sites in New York]]
+[[Category:Rivers and streams of New York County, New York]]
+[[Category:Rivers and streams of Bronx County, New York]]
+[[Category:Rivers and streams of Essex County, New York]]
+[[Category:Rivers and streams of Hudson County, New Jersey]]
+[[Category:Rivers and streams of Bergen County, New Jersey]]
+[[Category:Rivers and streams of Westchester County, New York]]
+[[Category:Rivers and streams of Rockland County, New York]]
+[[Category:Rivers and streams of Putnam County, New York]]
+[[Category:Rivers and streams of Dutchess County, New York]]
+[[Category:Rivers and streams of Orange County, New York]]
+[[Category:Rivers and streams of Ulster County, New York]]
+[[Category:Rivers and streams of Sullivan County, New York]]
+[[Category:Rivers and streams of Columbia County, New York]]
+[[Category:Rivers and streams of Greene County, New York]]
+[[Category:Rivers and streams of Rensselaer County, New York]]
+[[Category:Rivers and streams of Albany County, New York]]
+[[Category:Rivers and streams of Washington County, New York]]
+[[Category:Rivers and streams of Saratoga County, New York]]

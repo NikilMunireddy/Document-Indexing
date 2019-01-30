@@ -1,0 +1,3138 @@
+Cosworth
+
+{{refimprove|date=December 2009}}
+{{Infobox company
+|name             = Cosworth
+|logo             = [[File:Cosworth logo.png]]
+|type             = [[privately held company|Private company]]
+|foundation       = [[London]], 1958
+|founder          = [[Mike Costin]] and<br>[[Keith Duckworth]]
+|location         = [[Northampton]], [[England]]
+|locations        =
+|area_served      = Worldwide
+|key_people       = Hal Reisiger ([[Chief executive officer|CEO]])<ref>{{cite journal|title=Cosworth's Hal Reisiger|journal=[[Autoweek]]|date=17–31 March 2014|volume=64|issue=7|page=78}}</ref> 
+|industry         = [[Automotive industry|Automotive]], [[auto racing|automobile racing]] (motorsport)
+|products         = [[internal combustion engine|Engines]], Electronic Data Acquisition and Control Systems
+|services         = High Performance engineering, Precision manufacturing
+|revenue          =
+|operating_income =
+|net_income       =
+|assets           =
+|equity           =
+|owner            = [[Gerald Forsythe]],<br>[[Kevin Kalkhoven]]
+|num_employees    =
+|parent           =
+|divisions        =
+|subsid           =
+|homepage         = [http://www.cosworth.com Cosworth.com]
+|footnotes        =
+|intl             = yes
+}}
+[[File:Cosworth DFV.jpg|thumb|right|A [[Ford]]-[[Cosworth DFV]] on a [[Equipe Ligier|Ligier]] JS11]]
+'''Cosworth''' is a high-performance engineering company founded in [[London]] in 1958, specialising in [[internal combustion engine|engines]] and [[electronics]] for [[auto racing|automobile racing]] (motorsport) and mainstream [[Automotive industry|automotive]] industries. Cosworth is based in [[Northampton]], England, with North American facilities in [[Indianapolis]] and [[Mooresville, North Carolina]].
+
+Cosworth has collected 176 wins in [[Formula One]] as engine supplier, ranking second with most wins behind [[Scuderia Ferrari|Ferrari]].<ref name="Cosworth.com">{{cite web|url=http://www.cosworth.com/Default.aspx?id=1089555 |title=Heritage & History |publisher=Cosworth |date= |accessdate=2010-07-12}}</ref>
+
+==Corporate history==
+The company was founded as a [[United Kingdom|British]] racing [[internal combustion engine]] maker in 1958 by [[Mike Costin]] and [[Keith Duckworth]] (COStin and duckWORTH).
+
+Both of the co-founders being former employees of [[Team Lotus|Lotus Engineering Ltd.]], Cosworth initially maintained a strong relationship with [[Colin Chapman]] and the initial revenues of the company came almost exclusively from [[Lotus Cars|Lotus]].  When the company was founded in 1958, Duckworth left Lotus, leaving Costin (who had signed a term-employment contract with Chapman) at the company. Until 1962, Costin worked on Cosworth projects in his private time, while being active as a key Lotus engineer on the development of [[Lotus 15]] through [[Lotus Elan|26]] (Elan), as well as leading the Team Lotus contingent at foreign races as evidenced by the [[Lotus 23#Banned from Le Mans|1962 Le Mans Lotus scandal]].
+
+[[File:Lotus 20 engine detail.jpg|thumb|left|200px|Cosworth Mk.IV on 1962 [[Lotus 20]]]]
+[[File:Lotus 59 engine.jpg|thumb|left|200px|Cosworth Mk.XIII on [[Lotus 59]]]]
+
+Initial series production engines ([[#Mk.II|Mk.II]], [[#Mk.V|Mk.V]], [[#Mk.VIII|Mk.VIII]] and [[#Mk.XIV|Mk.XIV]]) were sold to Lotus exclusively, and many of the other racing engines up to Mk.XII were delivered to Team Lotus. The success of [[Formula Junior]] engines ([[#Mk.III|Mk.III]], [[#Mk.IV|IV]], [[#Mk.XI|XI]] and [[#Mk.XVII|XVII]]) started bringing in non-Lotus revenues, and the establishment of [[Formula Atlantic|Formula B]] by [[Sports Car Club of America|SCCA]] in America allowed the financial foundation of Cosworth to be secured by the increased sales of [[#Mk.XIII|Mk.XIII]], a pure racing engine based on [[Lotus-Ford Twin Cam|Lotus TwinCam]], through its domination of the class. This newly found security enabled the company to distance itself from the [[Lotus Seven|Lotus Mk.VII]] and Elan optional road engine assembly business, and allowed its resources to be concentrated on racing engine development.
+
+The first Cosworth-designed cylinder head was for [[#The SCA series|SCA series]] with a [[overhead camshaft#Single overhead camshaft|SOHC]] [[Reverse-flow cylinder head|reverse-flow]] configuration similar to the [[Coventry Climax#FW|Coventry Climax FWE]] engine. A real success was achieved with the next gear-driven [[overhead camshaft#Double overhead camshaft|DOHC]] four-valve [[#The FVA series|FVA]] in 1966, when Cosworth, with a help from Chapman, convinced [[Ford Motor Company|Ford]] to purchase the rights to the design and sign a development contract including an eight-cylinder version. This resulted in the [[Cosworth DFV|DFV]], which dominated [[Formula One]] for many years.
+
+From this time on, Cosworth was supported by Ford for many years, and many of the Cosworth designs were owned by Ford and named as Ford engines under similar contracts. Another success by the BD series in the 1970s put Cosworth on a growing track.
+
+The company went through a number of ownership changes.  After Duckworth decided he didn't want to be involved with the day-to-day business of running a growing company, he sold out the ownership to United Engineering Industries (UEI) in 1980, retaining his life presidency and day-to-day technical involvement with Cosworth, and becoming a UEI board director; UEI was a group of small to medium-sized technology companies which was taken over by [[Carlton Communications]] in 1988 – Carlton was primarily interested in some of the audio-visual companies in the UEI portfolio and Cosworth was a poor fit with these; a new buyer for the company in the engineering/automotive sector was sought and the traditional engineering company [[Vickers plc]] bought Cosworth in 1990.<ref>{{cite web |url=http://www.mahle-powertrain.com/mpt/1980%20-%201999 |title=Mahle Company History 1980–1999 |accessdate=2010-08-08 |work=mahle-powertrain.com |publisher=Mahle }}</ref> In 1998, Vickers sold Cosworth and Pi Research to Ford.<ref name="Cosworth.com" /> In September, 2004 Ford announced that it was selling Cosworth and Pi Research, along with Cosworth Racing Ltd and its [[Jaguar Racing|Jaguar Formula One]] team. On 15 November 2004, the sale of Cosworth was completed, to [[Champ Car]] World Series owners [[Gerald Forsythe]] and [[Kevin Kalkhoven]], the current Cosworth Group.<ref name="Cosworth.com" />
+
+The road car engine aspect of the business was split from the racing division following the sale of the engineering division of Cosworth to VW/Audi in September 1998 and renamed Cosworth Technology, before being acquired by [[Mahle GmbH]] in 2005. Cosworth Technology was then renamed as [[MAHLE Powertrain]] on 1 July 2005.<ref>{{cite web|url=http://www.mahle-powertrain.com/C1257126002DFC22/CurrentBaseLink/W26MVMGJ363MARSEN |title=MAHLE &#124; 2000 |publisher=Mahle-powertrain.com |date=2005-07-01 |accessdate=2010-07-12}}</ref>
+
+Since 2006, Cosworth has diversified to provide engineering consultancy, high performance electronics and component manufacture services outside of its classic motorsport customer base. Current publicised projects range from an {{convert|80|cc|1|lk=on|abbr=on}} [[diesel engine]] for unmanned aerial vehicles, through to an engineering partnership on one of the world's most powerful normally aspirated road car engines.
+
+Cosworth supplied engines to one F1 team in 2013, the [[Marussia F1|Marussia F1 Team]].<ref name="Cosworth.com/sport/f1">{{cite web|url=http://www.cosworth.com/sport/f1/the-teams/ |title= F1 teams |publisher=Cosworth}}</ref>
+
+==Engines==
+{{anchor|Mk.I}}{{anchor|Mk.II}}{{anchor|Mk.III}}{{anchor|Mk.IV}}{{anchor|Mk.V}}{{anchor|Mk.VI}}{{anchor|Mk.VII}}{{anchor|Mk.VIII}}{{anchor|Mk.IX}}{{anchor|Mk.X}}{{anchor|Mk.XI}}{{anchor|Mk.XII}}{{anchor|Mk.XIII}}{{anchor|Mk.XIV}}{{anchor|Mk.XV}}{{anchor|Mk.XVI}}{{anchor|Mk.XVII}}{{anchor|MAE}}
+
+===Early types===
+The following is the list of initial products with cylinder heads modified, but not originally designed by Cosworth, on [[Ford Kent engine|Ford Kent]] blocks.  The exceptions were Mk.XVII and MAE, which had intake port sleeves for downdraft carburetors brazed into the stock cast iron head in place of the normal side draft ports, thus could be considered Cosworth designs.
+{| class="wikitable"
+|-
+! Type !! Year !! Block !! Displacement !! Claimed !! Description !! Mainly For
+|-
+| Mk.I || 1959 || 105/107E || 997 cc || – || Experimental one-off to test cam designs || Development of A2 and A3 camshaft
+|-
+| Mk.II || 1960 || 105/107E || 997cc || 75&nbsp;bhp || First series production engine, A2 cam || [[Lotus Seven|Lotus Mk.VII]]
+|-
+| Mk.III || 1960 || 105/107E || 997cc || 85–90&nbsp;bhp || A3 Cam, optional dry sump || [[Formula Junior]]
+|-
+| Mk.IV || 1961 || 105/107E || 1098 cc || 90–95&nbsp;bhp || Mk.III with larger bore. || [[Formula Junior]]
+|-
+| Mk.V || 1962 || 109E || 1340 cc || 80&nbsp;bhp || Series production road engine || [[Lotus Seven|Lotus Mk.VII]]
+|-
+| Mk.VI || 1962 || 109E || 1340 cc || 105&nbsp;bhp || Racing version of Mk.V || [[Lotus Seven|Lotus Mk.VII]]
+|-
+| Mk.VII || 1962 || 109E || 1475 cc || 120&nbsp;bhp || Mk.VI with larger bore. || 1.5 Litre class
+|-
+| Mk.VIII || 1963 || 116E || 1498 cc || 90&nbsp;bhp || Improved Mk.V on 5 main bearing block || [[Lotus Seven|Lotus Mk.VII]]
+|-
+| Mk.IX || 1963 || 116E || 1498 cc || 120–125&nbsp;bhp || Racing version of Mk.VIII || 1.5 Litre class
+|-
+| Mk.X || 1963 || 116E || 1498 cc || – || Experimental one-off [[Lotus TwinCam]] || Development of Mk.XII and XIII
+|-
+| Mk.XI || 1963 || 109E || 1098 cc || 100–110&nbsp;bhp || Improved Mk.IV, dry sump || [[Formula Junior]]
+|-
+| Mk.XII || 1963 || 116E || 1594 cc || 140&nbsp;bhp || Racing [[Lotus TwinCam]], stock crank and rods, dry sump || [[Lotus 20|Lotus 20B]], [[Lotus 22|22]], [[Lotus 23|23]]
+|-
+| Mk.XIII || 1963 || 116E || 1594 cc || 140–150&nbsp;bhp || Improved Mk.XII with steel crank and rods, dry sump || [[Formula B]], [[Lotus 22]], [[Lotus 23|23B]], [[Lotus 23|23C]]
+|-
+| Mk.XIV || 1963 || 116E || 1498 cc || 100&nbsp;bhp || Improved Mk.VIII || [[Lotus Seven|Lotus Mk.VII]]
+|-
+| Mk.XV || 1963 || 116E || 1594 cc || 135–145&nbsp;bhp || Racing [[Lotus TwinCam]], steel crank and rods, wet sump || Lotus 26R, [[Lotus Cortina]]
+|-
+| Mk.XVI || 1963 || 116E || 1498 cc || 140–150&nbsp;bhp || Mk.XIII for 1.5L class || Note<ref>Mk.XVI was used by [[Bob Gerard Racing]] on Cooper T71/73 for [[John Taylor (racing driver)|John Taylor]] at [[1964 British Grand Prix]], but was entered as "Ford 109E engine" for reasons unknown</ref>
+|-
+| Mk.XVII || 1964 || 109E || 1098 cc || 120&nbsp;bhp || Improved Mk.XI, downdraft intake ports, dry sump || [[Formula Junior]]
+|-
+| MAE || 1965 || 109E || 997 cc || 100–110&nbsp;bhp || Improved Mk.III, downdraft intake ports, dry sump || [[Formula 3]]
+|}
+In addition to the above, Cosworth designed and provided the assembly work for [[Lotus Elan]] [[Lotus-Ford Twin Cam#Special Equipment|Special Equipment]] optional road engines with special camshafts and high compression pistons.
+
+The final model of the above initial series was the '''MAE''' in 1965, when new rules were introduced in [[Formula 3]] allowing up to {{convert|1000|cc|1}} engines with 36mm intake restrictor plate.  MAE used one barrel of a two barrel Weber IDA downdraft carburetor with the other barrel blanked off.  The domination of this engine was absolute as long as these regulations lasted until 1968. As Cosworth had a serious difficulty meeting the demand, the MAE was mainly sold as a kit.  This experience led to the later FVA/DFV contract to be drawn where the responsibility of development rested with Cosworth, and the manufacturing right and responsibility rested with Ford.  There also were some specially cast iron heads with similar dimensions to these brazed heads with Titanium alloy valve spring retainers called the 'Screamer Head' for MAE in later years.
+
+{{anchor|SCA}}
+
+{{anchor|SCA}}
+
+===The SCA series===
+A year before the introduction of the MAE, the single overhead cam two valve '''SCA''' was introduced. It was a 997&nbsp;cc engine based on [[Ford Cortina]] 116E block that was designed for [[Formula 2]], and featured the first totally Cosworth-designed head, Laystall forged crankshaft, steel main bearing caps and pistons with only one compression ring and one oil scraper ring each.  Cylinder head to block sealing was by a head gasket incorporating [[Wills Ring|Cooper Ring]]s.  The basic configuration was quite similar to [[Coventry Climax#FW|Coventry Climax FWE]] on [[Lotus Elite]] including its [[SOHC]] [[Reverse-flow cylinder head|reverse-flow]] design, except for a series of 7 spur gears (1 on crank, 2 intermediary gears on 2 fixed shafts mounted on the front cover back plate, 1 on the 116E camshaft used as a jackshaft, 2 on a common fixed shaft in the head, 1 on the camshaft) driving a 5 bearing camshaft and the Ford 5 main bearing iron block.  The intake ports and the oil scavenge pickup for dry sump lubrication were canted 25 degrees, so they faced straight up and down, respectively, when the engine is mounted 25 degrees from vertical to the right for a lower center of gravity.
+
+The SCA initially had two 40DCM2 Weber twin-choke downdraft sand-cast carburetors mounted on top to produce 115&nbsp;hp, which was replaced by Lucas fuel injection in 1966, eventually reaching 140&nbsp;hp.
+
+{{anchor|SCB}}
+Longer stroke '''SCB''' was built to compare against 1498&nbsp;cc [[#Mk.XVI|Mk.XVI]], and upon proving its superior power against the [[Harry Mundy|Mundy]]-designed 2 valve crossflow DOHC head, it acted as the benchmark for the development of [[#The FVA series|FVA]] to measure the benefits and shortcomings of a four valve crossflow DOHC design.  It was the results of this four valve development work that formed the basis for many of the Cosworth engines that followed.
+
+{{anchor|SCC}}A larger 85&nbsp;mm bore '''SCC''' with the same short-stroke 5 bearing crankshaft as the SCA was built and sold for [[Sports Car Club of America|SCCA]] 1.1&nbsp;Litre sports car class.
+{| class="wikitable"
+|-
+! Type !! Year !! Block !! Displacement !! Claimed !! Description !! Mainly For
+|-
+| SCA || 1964 || 116E || 997 cc || 115–140&nbsp;bhp || Gear-driven SOHC, reverse-flow || [[Formula Two]]
+|-
+| SCB || 1964 || 116E || 1498cc || 175&nbsp;bhp || Experimental || Development of [[#FVA|FVA]]
+|-
+| SCC || 1965 || 116E || 1098cc || 135&nbsp;bhp || SCA with larger bore || North American sports car racing
+|}
+
+{{anchor|FVA}}
+
+===The FVA series===
+The Cortina Crossflow block was also the basis for the '''FVA''', an F2 engine introduced in 1966, and developed under the same contract as the DFV, for the new 1.6-litre engine rules. This engine featured [[multi-valve|16 valves]] operated by twin overhead camshafts driven by a train of 9 gears.  The metering unit for the Lucas mechanical [[fuel injection]] was rotated by a toothed belt from the gear-driven inlet cam, while the exhaust cam directly drove an alternator on the rear of the head.  It produced {{convert|225|bhp|kW|lk=in|abbr=on}} at 9000&nbsp;rpm.  This engine dominated the category until 1971, and was also used in sports car racing in 1.8&nbsp;Litre form as the '''FVC'''.
+
+The cylinder head on the FVA pioneered many of Duckworth's ideas that would be used on the [[#The DFV(Double Four Valve)|DFV]] and a mule for the 8 cylinder engine development, '''FVB''', was built.  However, the distance between the two camshafts and the valve inclination angle were larger than on DFV for the series.
+
+The larger displacement '''FVD''' was designed and released for endurance racing in 1975, that displaced {{convert|1975|cc|1|lk=on|abbr=on}} on the aluminium block developed for [[#The BDA series|BDG]].  The FVD produced only {{convert|275|bhp|kW|lk=in|abbr=on}}, down from the {{convert|325|hp|kW|abbr=on}} that other twin-cam four cylinders such as the Hart 420S produced but was more reliable.  One was campaigned in the [[Canadian-American Challenge Cup|CanAm]] series in 1978 in the Osprey SR-1, built and driven by Dan Hartill.
+
+{| class="wikitable"
+|-
+! Type !! Year !! Block !! Displacement !! Claimed !! Description !! Mainly For
+|-
+| FVA || 1966 || 116E || 1598&nbsp;cc || 218–225&nbsp;bhp || Gear-driven DOHC, crossflow, four valve || [[Formula Two]]
+|-
+| FVB || 1967 || 116E || 1498&nbsp;cc || 200&nbsp;bhp || Experimental || [[#The DFV (Double Four Valve)|DFV]] development
+|-
+| FVC || 1969 || 116E || 1790&nbsp;cc || 235&nbsp;bhp || FVA with larger bore || 2&nbsp;L Sports car racing
+|-
+| FVD || 1975 || BDG/Aluminium || 1975&nbsp;cc || 275&nbsp;bhp || FVC with yet larger bore on aluminium block || 2&nbsp;L Sports car racing
+|}
+
+===The DFV (Double Four Valve)===
+{{main|Cosworth DFV}}
+[[File:Lotus 49-2.JPG|thumb|280px|A Ford-Cosworth DFV installed in the back of a [[Lotus 49]]]]
+In 1966, [[Colin Chapman]] ([[Lotus Cars]] founder and principal of [[Team Lotus]]) persuaded Ford to bankroll Keith Duckworth's design for a new lightweight {{convert|3000|cc|1|lk=on|sing=on}} [[Formula One]] engine.<ref name="Cosworth.com" /> Cosworth received the order along with the £100,000 that Ford felt it adequate to spend on such an objective.  The contract stipulated that a four-cylinder Ford-based F2 engine would be developed as proof of concept (see the [[#FVA|FVA]] above) and that a pure Cosworth V8 would be built based on this.
+
+The DFV design used a similar [[cylinder head]] to the one Duckworth had prototyped on the four-cylinder FVB unit on a custom Cosworth [[cylinder block]] and [[crankcase]], forming a single 90° [[V8 engine]], thus creating a legend in its own right, the '''DFV''' – literally meaning "[[multi-valve|'''D'''ouble '''F'''our '''V'''alve]]".  This engine, and its derivatives were used for a quarter of a century, and it was the most successful in the history of [[Formula One]] / [[Grand Prix motor racing]].  Winning 167 races in a career lasting over 20&nbsp;years, it was the product that put Cosworth Engineering on the map.  Although originally designed for Formula One, the engine has been modified to be used in a range of categories.
+
+The DFV won on its first outing, at the 1967 [[Dutch Grand Prix]] in the hands of [[Jim Clark]], fitted to a [[Team Lotus|Lotus]] 49, and from 1968 was available for purchase to any F1 team that wished it.  During the 1970s, it was common for almost the entire field (with the notable exception of [[Ferrari]]) to use one of these engines – this at a time when independent wealthy individuals could buy exactly the same engine off the shelf that was also being used by [[McLaren]] et al.  Most teams just built a tub around a Cosworth DFV and a [[Hewland]] [[transmission (mechanics)|gearbox]].  It won a record 155 World Championship races, the last being [[Detroit Grand Prix|Detroit in 1983]], powering a [[Tyrrell Racing|Tyrrell]] driven by [[Michele Alboreto]].
+
+Although the DFV (bore: {{convert|3.373|in|2}}, stroke: {{convert|2.555|in|2}}, displacement: {{convert|2992.98|cc|1|lk=on|abbr=on}}) with {{convert|410|bhp|kW PS|0|lk=in|abbr=on}} at 9,000&nbsp;rpm did not produce as much power as some of its rival 12-cylinder engines, it was lighter, resulting in a better [[power to weight]] ratio.  In addition to being lighter, it was also made a structural part of the car itself, by placing load bearing arms to stress the block.  These design aspects appealed tremendously to the genius of Colin Chapman who used them to the fullest extent.
+
+The '''DFY''', introduced in 1982 was a further evolution of the DFV for Formula One, with a shorter stroke and a DFL bore (bore: {{convert|3.543|in|2}}, stroke: {{convert|2.316|in|2}}, displacement {{convert|2993.38|cc|1|abbr=on}}) with {{convert|520|bhp|kW PS|0|abbr=on}} at 11,000&nbsp;rpm, thereby producing more power, but still unable to fight against the turbocharged cars of the day. It was the advent of [[turbocharger|turbocharged]] engines in Formula One which sounded the death knell for the venerable DFV, and in 1986 Cosworth returned to the lower formulae preparing the DFV for the newly created [[Formula 3000]], with the installation of a compulsory 9,000&nbsp;rpm rev limiter, which scaled power back from 500 to {{convert|420|bhp|kW PS|0|abbr=on}}; the DFV remained in this class until 1992.  The final F3000 engines gave {{convert|500|bhp|kW PS|0|abbr=on}}, almost equalling the 1983 DFV which gave {{convert|510|bhp|kW PS|0|abbr=on}} at 11,200&nbsp;rpm.
+
+In Formula One, a new DFV-based design was introduced for the new {{convert|3500|cc|1|abbr=on}} normally aspirated rules in 1987.  The '''DFZ''' was produced as an interim model, but in 1988 Cosworth created the DFV's final evolution, the '''DFR''', which soldiered on in F1 with smaller teams until 1991, scoring its last points – including a pair of second places by [[Jean Alesi]] – with [[Tyrrell Racing|Tyrrell]] in 1990.
+
+The DFV has recently been given a new lease of life thanks to the interest in Classic F1 racing, which was given a World Championship status by the FIA in 2004.
+
+{{anchor|DFX}}{{anchor|DFS}}{{anchor|DFL}}
+
+====DFV variants====
+The DFV spawned a number of derivations.  In 1968; Cosworth created the DFV's first derivation, a {{convert|2500|cc|1|0|lk=on}} version for the [[Tasman Series]], the '''DFW'''.  DFV to DFW conversion simply involved substitution of a short-stroke crank and longer connecting rods.
+
+[[File:Cosworth DFX engine.jpg|thumb|left|200px|Cosworth DFX]]
+[[File:CosworthDFSV8engine.JPG|thumb|right|200px|Cosworth DFS]]
+One of the most successful and longest-lived projects of Cosworth has been its [[Champ Car|CART]] / [[Champ Car]] engine program.  In 1975; Cosworth developed the '''DFX''', by destroking the engine to {{convert|2650|cc|1|abbr=on}} and adding a [[turbocharger]], the DFX became the standard engine to run in [[United States Automobile Club|IndyCar]] racing, ending the reign of the [[Offenhauser]], and maintaining that position until the late 1980s.  Ford backed Cosworth with creating a new interim design for IndyCar racing in the late 1980s, the '''DFS''', which merged DFR technology into the ageing DFX design, but it was eventually rendered obsolete by advancing technology.
+
+While designed as an F1 engine, the DFV was also used as in endurance racing, although its flat-plane design led to destructive vibrations putting stress on devices surrounding the engine, especially the exhaust system.  The first sports car to use a DFV, the [[Ford P68]], failed to finish a single race because of repeated mechanical and electrical failures.  Despite this handicap the DFV won the [[24 hours of Le Mans]] twice in its original 3.0&nbsp;Litre form for Mirage and Rondeau, who were able to attain sufficient reliability by de-tuning the motor.
+
+The '''DFL''' for endurance racing was developed for the 1982 season to replace the DFV.  It came in two versions: one with {{convert|3298|cc|1|abbr=on}} and the other with {{convert|3955|cc|1|abbr=on}}.  While neither competed well in the [[Group C]] (C1 Class) the former was adapted to the C2 Class (700&nbsp;kg minimum weight, 55&nbsp;Litres fuel, 5 refuelings/1000&nbsp;km) starting in 1984.  During the latter half of the 1980s it was the most  popular motor for that class, with successful championship campaigns and five class wins at the 24 Hours of Le Mans.  The latter version's severe lack of reliability caused it to fall out of use by 1985.
+
+{{anchor|BDA}}
+
+===The BDA series===
+[[File:Chevron B19.jpg|thumb|right|px200|Aluminium block 2L BDG on [[Chevron Cars Ltd|Chevron B19]]]]
+Cosworth solidified its association with Ford in 1969, by developing a [[double overhead camshaft]] (DOHC) 16-valve [[inline-four engine|inline four-cylinder]] engine for road use in the [[Ford Escort (European)|Ford Escort]].  As Keith Duckworth was busy designing and developing the DFV, the project was assigned to Mike Hall, who created the 1601&nbsp;cc '''BDA''' on the [[Ford Kent engine|Kent]] block for [[homologation]] purposes.  The camshafts were driven by a [[timing belt (camshaft)|toothed belt]] developed for [[Fiat 124]], hence the name BDA, literally meaning "'''B'''elt '''D'''rive, '''A''' type".  It was designed for FIA Group 2 and Group 4 on either [[rallying]] or [[touring car racing]] purpose.  The nominal homologation at 1601&nbsp;cc capacity meant that BDA-engined cars competed in what was usually the top class (1600&nbsp;cc and up) so were eligible for overall victories rather than class wins.
+
+In 1970, the 1701&nbsp;cc '''BDB''' was created for the [[Ford Escort (Europe)|Escort RS1600]], and this engine received [[fuel injection]] for the first time in the series as 1701&nbsp;cc '''BDC'''.  Two years later, the BDA series was adopted for [[Formula 2]]; first came the 1790&nbsp;cc '''BDE''', then the 1927&nbsp;cc '''BDF''' eventually reaching a maximum of 1975&nbsp;cc '''BDG''' in 1973.  As the bore size reached ever closer to the bore center distance, leaving little space in between cylinders, the all three types had brazed-in cylinder liners to the block. As a departure from the Ford iron block, the BDG received a newly designed aluminium block soon after, and this cylinder block was used as a replacement part in rebuilding many other BD series engines as well as some [[#Early types|Mk.XIII]] engines.
+
+The iron block was also used for smaller displacements; starting with the very successful 1599&nbsp;cc [[Formula Atlantic]] '''BDD''' in 1970, followed by the 1098&nbsp;cc '''BDJ''' and 1300&nbsp;cc '''BDH''' variants for [[SCCA]] Formula C and sports car racing, respectively. There was even a one-off 785&nbsp;cc version built by Cosworth employees Paul Squires and Phil Kidsley; fitted with a [[Lysholm superchargers|Lysholm supercharger]] it was installed in a [[Brabham|Brabham BT28]] Formula 3 chassis and competed in the [[British Hill Climb Championship]] as the Brabham-Lysholm.<ref>{{cite book | first = Chris | last = Mason | year =1990 | title = Uphill Racers | publisher = Bookmarque Publishing | page = 448 | isbn = 978-1-870519-08-3}}</ref>
+
+In 1975, 1599&nbsp;cc big valve '''BDM''' (225&nbsp;bhp) was developed with fuel injection for Formula Atlantic, and a 'sealed engine' version '''BDN''' (1599&nbsp;cc, 210&nbsp;bhp) followed in 1977 for Canadian Formula Atlantic series.
+
+[[File:Ford RS200 engine.jpg|thumb|left|220px|1803&nbsp;cc BDT on Ford RS200 with turbocharger and wastegate valve more visible than the engine]]
+The turbo charged 1778&nbsp;cc '''BDT''' was created in 1981, which powered the never-raced RWD Escort RS1700T. In 1984, 4WD [[Ford RS200]] debuted with a 1803&nbsp;cc version of BDT, which was created for [[Group B]] rallying. Between 1984 and 1986 the BDT engine was used in Group C endurance racing by Roy Baker, in class C2 using the Tiga GC284, GC285 and GC286. Later in 1986, a 2137&nbsp;cc version was created by [[Brian Hart]] using a bespoke aluminium block and a large [[intercooler]] for RS200 Evolution, just as Group B was cancelled by the FIA.  This '''BDT-E''' ('E' for Evolution) produced over {{convert|600|bhp|kW PS|0|lk=in|abbr=on}} in Group B '[[rallycross]]' boost level, normally producing  {{convert|530–550|bhp|kW PS|0|lk=in|abbr=on}} on a lower but sustainable boost.
+
+In 1983, the BD series saw its second road engine incarnation (the first being the original BDA and BDB), the '''BDR''', which was a BDA or BDB sold in kit form for the [[Caterham Cars|Caterham Super Seven]] in 1601&nbsp;cc (120&nbsp;bhp) and in 1701&nbsp;cc (130&nbsp;bhp) formats.
+
+The 1599&nbsp;cc BDD engine won a number of championships around the world in Formula Atlantic and Formula Pacific during the 1980s, including powering drivers such as [[Alain Prost]] and [[Roberto Moreno]] to wins in the [[Australian Grand Prix]] in the immediate years before the race became part of the Formula One World Championship in [[1985 Australian Grand Prix|1985]].
+
+In 1970, Ford asked [[Weslake|Weslake and Co]] of [[Rye, East Sussex|Rye]] to build the BDD for them, and by the end of 1970, the production line was installed at Rye and production was under way.  These engines were often called the 'BDA', but were 1599&nbsp;cc BDDs eligible for under 1.6 Litre class.
+
+The [[Brian Hart|Hart]] 420R and the [[Zakspeed]] F1 engines owe much to the BDA series, being essentially an aluminium-block derivative using similar heads.
+
+{{anchor|GA}}{{anchor|GAA}}
+
+===The GA V6===
+[[File:Cosworth Capri DRM 1974.jpg|thumb|200px|The GA V6 in 1974 Ford Capri DRM]]
+A fuel-injected belt-driven DOHC '''GA''' (also called the '''GAA''') was based on the 60 degree V6 block of [[Ford Essex V6 engine (UK)|Ford Essex]], and was used for the [[Ford Capri]]s raced in [[Group 2 (racing)|Group 2]] in the early 1970s. This had a capacity of {{convert|3412|cc|1|abbr=on|lk=on}}, and was highly competitive against the [[BMW]] straight-sixes. The GA was also used in the later years of [[Formula 5000]] in Europe.
+
+{{anchor|FBA}}{{anchor|FBC}}{{anchor|FBE}}
+
+===The FBA and FBC V6===
+[[File:Cosworth BOA V6.JPG|thumb|200px|The FBA V6 in a MkIII Granada Scorpio 24v]]
+The '''FBA''' and '''FBC''' engines were found in the [[Ford Granada (Europe)|Ford Granada]] and [[Ford Scorpio]] Ultima.  The FBA came first in 1991 also known as the 'BOA', it was based on the [[Ford Cologne V6]] used in the [[Ford Sierra]] and [[Ford Capri]] and other models and was a twin overhead camshaft 24valve conversion for more power, producing {{convert|195|PS|kW bhp|0|lk=on}} and better idle quality.
+[[File:Cosworth V6 24v.jpg|thumb|left|200px|Cosworth FBA]]
+In 1995, with a new version of the Scorpio, it was upgraded with a wider torque spread and higher power – to {{convert|204|PS|kW hp|0|abbr=on}}, from a variable intake system and reprofiled cams.  The NVH was improved with a change from a single chain to drive all four camshafts – to one chain to drive one bank of cams and a second for the other bank, this engine was known as the 'BOB'.
+
+A racing version was also available for a short time – '''FBE''' – with individual throttle butterflies for each cylinder.
+
+FBB and FBD engines did exist as development engines but these were never released.
+
+The two production engines were always mated to an automatic gearbox but have become popular in the custom car scene where they have been mated to the 4x4 manual transmission and the rear-wheel-drive manual transmission from the Ford Sierra XR4 and XR4x4. There are also companies that offer twin and single turbo conversions, and other modifications to increase power to usually around {{convert|400|bhp|abbr=on}}.  These engines can be bought relatively cheaply and providing they are well serviced, engines have been known to cover over 200,000 miles without major work being required.{{citation needed|date=May 2009}}
+
+{{anchor|YB}}
+
+===The YB series===
+[[Image:Escort Cosworth engine bay.jpg|thumb|A later version of the YB engine was used in the [[Ford Escort RS Cosworth|Escort RS Cosworth]]]]
+The YB series of {{convert|1993|cc|1|abbr=on|lk=on}} engines are based on the older Pinto engine block,<ref name=Moreton>{{Citation | title = Rallye Sport Fords – the inside story | author = Moreton, Mike | isbn = 978-1-84584-115-7}}</ref> and were introduced in the road-going [[Ford Sierra RS Cosworth]] in 1986 with {{convert|204|PS|kW bhp|0|abbr=on|lk=on}}. With 5,000 units built for homologation purposes in [[Group A]], both for rallies and touring cars. Racing versions of the RS Cosworth were developing around {{convert|370|hp|kW PS|0|abbr=on}},<ref>[http://touringcarracing.net/Pages/1987%20Cars.html 1987 WTCC Cars index]</ref> but with the small turbo on the cars reliability was a problem. A limited edition evolution model was introduced in mid-1987, the [[Ford Sierra RS500|Sierra RS500]] which included a bigger turbo, with power initially at around the {{convert|470|hp|kW PS|0|abbr=on}} mark in 1987, but in later years climbing to close to some {{convert|550|hp|kW PS|0|abbr=on}} in full racing trim.
+
+The RS500 came to dominate [[touring car racing]] in its heyday from 1987 to 1992, winning multiple championships and major races in Europe, [[Japanese Touring Car Championship|Japan]] and [[Australian Touring Car Championship|Australia]]. This included wins in the three major races, the [[Spa 24 Hours]] held at [[Circuit de Spa-Francorchamps|Spa-Francorchamps]] in [[Belgium]], the [[Bathurst 1000]] at [[Mount Panorama Circuit|Mount Panorama]] in [[Australia]], and the InterTEC 500 at [[Fuji Speedway|Fuji]] in [[Japan]]. The only car to truly challenge the Sierra's dominance towards the end of the Group A era in 1991–1992 was the {{convert|630|hp|kW PS|0|abbr=on}}, [[4WD]] twin turbo [[Nissan Skyline R32|Nissan R32 GT-R]].
+
+At the end of its life in Group A in 1992, the Australian Sierra teams were reportedly getting around {{Convert|600|bhp|kW PS|0|abbr=on}} from the 2.0L turbocharged YB engines. For his pole position lap at the [[1992 Bathurst 1000]], Australian driver [[Dick Johnson (racing driver)|Dick Johnson]] (whose [[Dick Johnson Racing|team]] since 1988 had a reputation for having the fastest Sierra's in Group A racing anywhere) was reportedly running close to {{convert|680|hp|kW PS|0|abbr=on}} in his RS500.
+
+The various colour cam covers that distinguished each version were as follows: Red: '''YBB''' (Sierra Cosworth 2wd, both 3-door and Sapphire), '''YBD''' (Sierra RS500), '''YBJ''' (Sierra Sapphire 4wd, non cat); Green: '''YBG''' (catalyst equipped 4x4 Sierra Sapphire Cosworth); Blue: '''YBT''' (large-turbo Escort Cosworth); Silver: '''YBP''' (small-turbo Escort Cosworth).
+
+Further evolutions of the YB included a reduced-emissions road version, as well as the block used in the [[Ford Escort RS Cosworth|Escort RS Cosworth]] (which used the Sierra floorpan).  The engine stopped being used on new cars in 1997, with the [[Ford Focus (International)|Focus WRC]] and road-going Focus RS relying on [[Ford Zetec|Zetec]] designs.
+
+{{anchor|GBA}}
+
+===The GBA V6===
+Cosworth experimented with [[turbocharger|turbocharged]] BD derivatives, before settling on an all-new turbocharged {{convert|1500|cc|1|abbr=on|lk=on}} [[V6 engine]] to be badged as the Ford TEC (internally it was known as the GB-series). This had a long development history dating back to the [[1984 British Grand Prix]] at [[Brands Hatch]] where Cosworth and [[Ford of Europe|Ford]]'s competition department agreed to build a new turbo engine to replace the outdated DFV. The TEC raced only briefly, in {{f1|1986}}, with the [[Haas Lola]] team and in {{f1|1987}} with the [[Benetton Formula|Benetton]] team. The development of the GBA engine at Cosworth became the subject of a British TV documentary in Channel Four's ''[[Equinox (TV series)|Equinox]]'' series, broadcast in 1986.
+
+[[File:Haynes International Motor Museum - IMG 1494 - Flickr - Adam Woodford.jpg|thumb|left|200px|Cosworth GBA]]
+The '''GBA''' was designed by Keith Duckworth who originally chose to try and develop a modified [[Straight 4|4 cylinder]] sports car engine as he believed 4 cylinder engines were more compact and economical than a V6. However, after numerous failures of the test engines which were eventually traced to an incurable vibration at the crankshaft, Duckworth designed an all new 120° V6 engine instead, the same configuration as the [[Scuderia Ferrari|Ferrari]] V6 turbo engine. As around 4 months had been lost in trying to get the 4 cylinder engine to work, Ford and Cosworth's plan for the engine to debut with Haas Lola in {{f1|1985}} was pushed back to the 1986 season.
+
+The engine made its Formula One debut with {{f1|1980}} World Champion [[Alan Jones (racing driver)|Alan Jones]] driving Haas Lola's new car, the [[Lola THL2]] at the [[1986 San Marino Grand Prix]]. Jones qualified in 21st place and retired after 28 of the races 60 laps due to overheating. Jones also recorded the engine's first finish when he placed 11th in the [[1986 Belgian Grand Prix|Belgian Grand Prix]]. Jones and team mate [[Patrick Tambay]] captured the Ford V6 turbo's first ever points when they finished 4th and 5th respectively in the [[1986 Austrian Grand Prix|Austrian Grand Prix]], with Jones backing up in the next race in [[1986 Italian Grand Prix|Italy]] with a 6th-placed finish, the final points the engine would gain in 1986.
+
+Producing approximately {{Convert|900|bhp|kW PS|0|abbr=on}}, the turbocharged V6 is the most powerful Formula One engine designed and built by Cosworth. With Haas Lola not competing in 1987, Benetton, having lost the use of the 4 cylinder [[BMW M12|BMW]] engines when the German giant pulled out of Formula One, signed with Ford to race their V6 for the season. While in 1986 turbo boost had been unrestricted by the rules, 1987 saw the FIA introduce the pop-off valve to the turbocharged engines in a two-year plan to outlaw the turbos and make all Formula One engines 3.5 litres and naturally aspirated by the start of the {{f1|1989}} season. While Cosworth adapted the TEC to 1987's 4.0 Bar turbo limit and the new 195 litre fuel limit, development of the V6 turbo engine which would be obsolete in less than two years virtually stopped. Cosworth instead worked on the DFR that was introduced with Benetton in {{f1|1988}}. The turbo engine would be more successful with Benetton in 1987, with [[Teo Fabi]] taking the engine's first podium with third in [[1987 Austrian Grand Prix|Austria]], followed by its last podium when [[Thierry Boutsen]] also scored third in the last race of the season in [[1987 Australian Grand Prix|Australia]].
+
+===The HB V8===
+DFV/DFZ/DFR replacement was designed by Geoff Goddard to result in {{convert|3498|cc|1|abbr=on}} (96&nbsp;mm x 60.4&nbsp;mm) '''HB''' V8, which was introduced with the Benetton team midway through 1989 making its debut at the [[1989 French Grand Prix|French Grand Prix]], and won the Japanese Grand Prix that year. The HB V8 engine exploited a narrower 75° vee-angle than the 90° DFV for {{Convert|700|bhp|kW PS|0|abbr=on}} at 13,000 rpm. As Ford's de facto works team, Benetton maintained exclusivity with this model through the rest of 1989 and {{f1|1990}}. {{f1|1991}} saw the introduction of customer units, two specifications behind their works equivalents. In 1991, these were supplied to the fledgling [[Jordan Grand Prix]] outfit, and for 1992, Lotus. {{f1|1993}} saw the customer deal extended to [[McLaren]], who won five Grands Prix with [[Ayrton Senna]] that year.
+
+A Jaguar-badged version of the HB was developed by [[Tom Walkinshaw Racing]] to the tune of 650&nbsp;bhp at 11,500 rpm for sports car racing, fitted to the extremely successful [[Jaguar XJR-14]].
+
+{{anchor|EC}}{{anchor|ECA}}{{anchor|ED}}{{anchor|EDB}}{{anchor|EDC}}{{anchor|EDD}}{{anchor|EDM}}{{anchor|ED 2/4}}
+
+===The EC, ECA, ED, EDM and ED 2/4 V8===
+The HB was developed into {{convert|3498|cc|1|abbr=on}} (96&nbsp;mm x 60.4&nbsp;mm) '''EC''' V8 for the 1994 season. This engine, producing about 740&nbsp;bhp at 13,800rpm, was badged as Ford Zetec-R, and [[Michael Schumacher]] won the [[list of Formula One World Drivers' Champions|Drivers' World Championship]] with Benetton (his first of a record 7 championships), in {{f1|1994}}. This was the last Ford-powered F1 title.
+
+For the 1995 season, the F1 engine regulation changed to 3 Liters, and the EC's bore and stroke were changed to 94mm x 53.9mm, resulting in {{convert|2992|cc|1|abbr=on}} '''ECA''', which was introduced at about 600&nbsp;bhp, and developed to 610 to 630&nbsp;bhp at 14,000rpm.
+
+Customer unit Cosworth '''ED''' (not badged as Ford Zetec-R) for non-works teams was also made for 1995 with about 580&nbsp;bhp for [[Minardi]], [[Simtek]] (called the EDB), [[Pacific Racing]] (EDC) and [[Forti]] (EDD) teams.  Minardi realised the power deficiency before the season and asked [[Magneti Marelli]] to develop a replacement engine management system, with which the engine was called the '''EDM'''. Cosworth later updated the ED to '''ED 2/4''' for [[Tyrrell Racing|Tyrrell]] and [[Lola Cars|Lola]] with {{convert|2995|cc|1|abbr=on}} (94mm x 53.95mm) displacement for 600&nbsp;bhp, which was used until the end of {{f1|1997}} season.
+
+{{anchor|JD}}{{anchor|VJ}}{{anchor|VJM}}
+
+===The JD, VJ and VJM V10===
+In order to produce a higher power at higher rpm, a completely new {{convert|2992|cc|1|abbr=on}} (89mm x 48.1mm) '''JD''' 72° V10 was designed for 1996, which produced about 670&nbsp;bhp at 15,800rpm, and used by [[Sauber]] [[Formula One]] team.  This engine was further developed into '''VJ''' and '''VJM''' with the same V-angle, bore and stroke, reaching 720&nbsp;bhp for racing, 730&nbsp;bhp for qualifying, at 16,500rpm.  All three of these engines were badged as Ford Zetec-R as well, and used by several teams.
+
+{{anchor|CR-1}}
+
+===Other Formula One engines===
+The [[Stewart Grand Prix]] team effectively became the Ford works team, and used Cosworth '''CR-1''' engines from its first season in 1997, which was a much lighter version of VJM, ultimately reaching 770&nbsp;bhp at 16,500rpm by 2001.  Over the next few years Ford had increased its involvement with the Stewart team, and finally bought the team, renaming it [[Jaguar Racing]] for 2000.  Jaguar pulled out of F1 at the end of 2004, but the team (renamed [[Red Bull Racing]]) continued to use Cosworth [[V10 engine]]s until switching to a Ferrari V8 for 2006.  [[Minardi]] also used re-badged Cosworth engines until 2005.
+
+[[Williams Grand Prix Engineering|Williams]] began testing the new '''CA2006''' 2.4-litre V8 in November 2005, and used the Cosworth [[V8 engine]]s for the 2006 season.  In the same year, [[Scuderia Toro Rosso]] used detuned V10 engines based on the 2005 units.
+
+In 2007, however, the company was left without a partner when Williams chose to switch to [[Toyota F1|Toyota]] power, and Scuderia Toro Rosso made the switch to [[Scuderia Ferrari|Ferrari]] engines  (as used in 2006 by their mother team [[Red Bull Racing]]).
+
+In Max Mosley's letter following the withdrawal of Honda from Formula One in December 2008, it was announced that Cosworth had won the tender to provide a standard engine to any interested participants.  The new engine would become the standard design and manufacturers could opt to use whole units, construct their own from designs provided by Cosworth, or produce their own engine with the caveat that it be limited to the same power as the new "standard" engine.
+
+In 2010 Cosworth returned as the engine supplier for [[Williams Grand Prix Engineering|Williams]] and three new teams; [[HRT Formula 1 Team|Hispania Racing]], [[Team Lotus (2010–11)|Lotus Racing]] and [[Virgin Racing]]. The '''CA2010''' is the same 2.4-litre V8 base of the CA2006 used by Williams, but has been re-tuned for the then-mandated 18,000 rpm limit required on all engines, down from its original 20,000 rpm implementation.<ref>{{cite web|url=http://www.itv-f1.com/News_Article.aspx?id=46413&PO=46413 |title=Cosworth expects engines to be strong – F1 &#124; ITV Sport |publisher=Itv-f1.com |date=2009-07-20 |accessdate=2010-07-12}}</ref> First units were ready and shipped to teams in mid-January for fitting 2 weeks prior to first track testing for the year.<ref name="autosport1">{{cite news|url=http://www.autosport.com/news/report.php/id/80810 |title=autosport.com |publisher=autosport.com |date= 2010-01-12|accessdate=2010-07-12}}</ref>
+
+{{anchor|XB}}{{anchor|X series}}
+
+===Other IndyCar and Champ Car engines===
+[[File:Cosworth V8 Engine Champ Car 2004.jpg|thumb|A 2004 Champ Car display engine]]
+Cosworth designed a series of replacements for the DFS to be used in IndyCar and [[Champ Car]] racing: the X-series, beginning in 1992 with the '''XB'''.  The '''XF''' was developed for the 2000 season to replace the '''XD''', and was chosen as the spec engine for the [[Champ Car World Series]] in 2003.  The most recent derivative of the '''XF''', the {{convert|2650|cc|1|lk=on}} '''XFE''' quad-cam 90° V8 overhead camshaft, continued in that role through the 2007 season.  The Champ Car World Series imposed a rev limit of 12,000&nbsp;rpm down from the over 15,000&nbsp;rpm of 2002.  The 2004 model of the XFE had a rated power of nominal {{convert|750|hp|kW PS|0|lk=in}} at 1,054&nbsp;[[mmHg]] (intake boost pressure), and a maximum power of {{convert|800|bhp|kW PS|0|abbr=on}} at 1130&nbsp;mmHg (during Push-to-Pass).  The 2004 XFE maximum speed was 12,000&nbsp;rpm (rev limited) and torque of {{convert|490|Nm|0|abbr=on|lk=on}}.  The aluminium and iron turbo housing ran a boost of 5.9&nbsp;[[pounds per square inch|psi]] at sea level (= boost of 12&nbsp;[[inches of mercury]] which is 41.5&nbsp;[[inches of mercury]] absolute).  The Methanol-fuelled engine used a steel crankshaft and aluminium alloy pistons.  Weight was {{convert|120|kg|1|abbr=on}} and length was {{convert|539|mm|1|abbr=on}}.
+
+In 2007, the Ford name was removed from the engine{{citation needed|date=July 2009}} pieces as the manufacturer elected not to continue sponsorship of the series.{{citation needed|date=July 2009}}  Several other engine changes were made, notably the removal of the calibrated "pop off valve" designed to limit turbo boost pressure, replaced by engine electronics.  The rated life of the engine was {{convert|1400|mi|km}} between rebuilds.  Engines were sent by the race teams to Cosworth for the rebuild.  In 2007, Champ Car switched to the new [[Panoz DP01]] chassis, which was said to provide better ducting of airflow into the engine.  The Champ Car World Series merged into the [[Indy Racing League]] [[IndyCar Series]] prior to the 2008 season, and Cosworth does not currently provide engines to any American open wheel racing series.{{citation needed|date=July 2009}}
+
+There is evidence that Cosworth was working on a {{convert|3400|cc|cuin|1|abbr=on}} push-rod V8{{citation needed|date=April 2009}} along the lines of the Ilmor/Mercedes 500I to exploit the peculiar loophole in the [[Indianapolis 500]] rules on the definition of the word "pushrod engine", permitting such engines with extremely short pushrods higher [[turbocharger]] boost – this was assigned a project code '''CD''' but seemingly never completed.
+
+In mid-2003, Cosworth provided the 3.5&nbsp;L V8 '''XG''' badged as a Chevrolet Gen 4 engine to IRL IndyCar Series teams after the proprietary Chevrolet Gen 3 engine proved inadequate against rival Hondas and Toyotas during the 2003 season.{{citation needed|date=July 2009}}  While many teams left Chevrolet after the 2003 season, those that stayed saw a significant improvement in performance with the new "Chevworth" engine compared to their previous units. The XG finished second in its first race at Michigan on July 27, 2003.  Sam Hornish, Jr. went on to win 3 races that season with the new XG.  The XG was reduced in size to 3&nbsp;L for 2004 season and it won one race in 2005 during Chevrolet's final season in IRL.
+
+{{anchor|MZR}}
+
+===Other Formula Atlantic engines===
+Currently these are {{convert|300|hp|kW PS|0|lk=in}} {{convert|2300|cc|1|lk=on}} [[inline-four engine]]s based on the [[Mazda MZR engine]] developed in cooperation with [[Mazda]].  Changes includes a billet crankshaft, barrel throttle bodies, new cylinder head with larger valves, pistons, con rods and camshafts.  A detuned {{convert|250|hp|kW PS|lk=in}} version, targeting club racers, is sold to the consumer market.  This engine retains the standard crankshaft, and has a different cylinder head.  Both engines are built by Cosworth in Torrance, California, under the guidance of newly appointed technical designer Wayne Merry (formerly of Cosworth in Worcester UK).
+
+{{anchor|EA}}{{anchor|WAA}}{{anchor|WAB}}{{anchor|WAC}}{{anchor|WDA}}
+
+===Other road engines===
+Best known in Europe for its relationship with Ford<ref name="Cosworth.com" /> – in particular because of the Cosworth name in the vehicle title on the high-performance [[Ford Sierra RS Cosworth]] and [[Ford Escort RS Cosworth]],<ref name="Cosworth.com" /> but also in the creation of other Ford models; the [[Ford Escort RS1600|Escort RS1600]], [[Ford Escort RS1800|Escort RS1800]], [[Ford RS200|RS200]], and [[Ford Scorpio|Scorpio 2.9i 24V]].
+
+[[File:76 Cosworth Vega.jpg|thumb|left|1976 Chevrolet Cosworth Vega]]
+[[File:1976 Cosworth Vega -2673.jpg|thumb|right|Cosworth Vega 122&nbsp;cu&nbsp;in DOHC L4-110 hp]]
+In the US, the name has also appeared in the title of a road car (well before it did in Europe) as the Cosworth version of the [[Chevrolet Vega#Cosworth Twin-cam|Chevrolet Vega]]. Only 3,508 1975 and 1976 Cosworth Vegas were produced from March 1975 through 1976. The engine features the Vega sleeveless, aluminium-alloy block fitted with forged components. The twin-cam, 16-valve, aluminium cylinder head design was assisted by Cosworth, but [[Chevrolet]] did the development work. The engine features [[electronic ignition]], [[Bendix Corporation|Bendix]] [[electronic fuel injection#Electronic|electronic fuel injection]], and stainless steel headers.<ref>1975 Chevrolet Cosworth Vega Shop manual supplement-engine description</ref> The final US [[emissions standard]]ised version produces 110&nbsp;bhp. Cosworth's '''EA''' racing version was not successful due to engine block structural failures. Chevrolet later produced a heavy-duty 'off-road' block with thicker walls to better withstand the racing application, but by that time Cosworth had moved on. Projected first year sales of the Cosworth Vega had been 5,000. With only 3,508 cars produced and many unsold, the car was discontinued. 1,500 hand-built Cosworth Vega engines were simply scrapped for lack of demand.<ref>Collectable Automobile-April 2000. Chevrolet's Vega</ref>
+
+Other published projects for [[Adam Opel AG]] include the [[Opel Ascona|Opel Ascona 400]] / [[Opel Manta|Manta 400]] rally cars and the 2.0L 16V engines in the [[Opel Kadett]], [[Opel Astra]] GSi, [[Opel Vectra]] and [[Opel Calibra]] turbo.{{Citation needed|date=July 2009}}
+
+Other companies known to have benefitted from the Cosworth engineering input are [[Mercedes-Benz]] (with the 190 E 2.3-16), [[Rolls-Royce car|Rolls-Royce]], and [[Audi]] (notably their [[Audi S and RS models|RS cars]]).{{Citation needed|date=July 2009}}
+
+Cosworth's involvement with [[Mercedes-Benz]] came with moves in the mid-1980s from the German manufacturer to re-enter motorsport after retiring from direct factory participation after the tragic [[1955 Le Mans disaster|1955 Le Mans crash]] which killed 80 spectators. Mercedes-Benz was looking to create a [[Group B]] rally car out of its new [[Mercedes-Benz W201|W201 Chassis]] (190E Model) and turned to the expertise of Cosworth to shorten the development time for this project.{{Citation needed|date=July 2009}}
+[[File:2.3-16 Race Car.JPG|thumb|right|2.3-16 Targa Car]]
+The request was a huge surprise for Cosworth, and the original brief for a 320&nbsp;bhp engine based on the 136&nbsp;bhp Mercedes M102 2.3-litre SOHC 4-cylinder engine was duly passed to Mike Hall, who "drew the famed DFV and BDA engine".<ref name="ReferenceA">"Flying the Flag", Autocar 7 August 1985, pp32-33</ref> Designed around the existing M102 head bolt pattern, the new twin cam, 16-valve, pentroof head, had its valves set at 45° included angle, rather than the 40° angle of the [[#BDA|BDA]].<ref name="ReferenceA" />  The valves were the biggest that could be fitted into the combustion chamber. Flat top pistons delivered the 10.5:1 compression ratio. The new Cosworth '''WAA'''<ref>{{cite web|url=http://www.cosworthvega.com/the_cosworth_story.html |title=The Cosworth Story |publisher=Cosworthvega.com |date= |accessdate=2010-07-12}}</ref> engine also was Cosworth's first one-piece head, i.e. the camshaft carrier was cast integral with the head itself. Again the constraints of the existing head-bolt pattern meant that Hall had to shift the camshaft bearings from outside each pair of camlobes as in the BDA to in between each cylinder's pair of cam lobes. The upside being that this configuration made for less flex at high rpm.<ref name="ReferenceA"/>
+
+The advent of the AWD turbo [[Audi Quattro]] gave the rear-wheel-drive, normally aspirated 190E rally car no chance of being successful and the competition car was stillborn. Instead Mercedes-Benz decided to recoup its development cost by selling the car as a road going sports-sedan. Hall detuned the WAA race engine to 185&nbsp;bhp by reducing the port diameters and a more restrictive fuel injection and induction was substituted for the race items to complete the detune.<ref name="ReferenceA" /> All WAA 2.3-16 engines were built in the Cosworth factory with the heads being produced by the Coscast method.
+
+Cosworth assisted with the later 2.5-16 engine ('''WAB'''), and the short-stroke 2.5-16 Evo engines ('''WAC''') although these were all manufactured in house by Mercedes-Benz.{{Citation needed|date=July 2009}} The 190E 2.3-16 became the basis for privateer Mercedes entries into the DTM from 1988. The short-stroke 2.5-16 190E EVO II was race-developed to 375+ bhp, gaining the 1992 DTM crown with [[Klaus Ludwig]] at the wheel.
+
+A {{convert|4300|cc|1|abbr=on}} V10 designated '''WDA''' was also built and tested in a Volvo S80 in 1997, but this did not see production.
+
+==Cosworth F1 car==
+[[File:Cosworth F1 car.jpg|thumb|The four-wheel drive Cosworth Formula One car]]
+Cosworth made an attempt at designing a full [[Formula One]] Grand Prix car in 1969. The car, designed by [[Robin Herd]], used an original [[4WD]] transmission designed by Keith Duckworth (different from the [[Ferguson Research Ltd.|Ferguson]] used by all other 4WD F1 cars of the 1960s) and powered by a magnesium version of the DFV unit.  The car was planned to drive at the [[1969 British Grand Prix]], but it was silently withdrawn.  When Herd left to form [[March Engineering]], the project was cancelled. The external design of the car was a product of Herd's use of [[Mallite]] sheeting (a wood-aluminium laminate composite) for the principal structural monocoque sections, a technique he pioneered on the first [[McLaren]] single-seat cars, including the [[McLaren M2B]] of 1966.
+
+==Formula One World Championship results==
+{{Expand list|date=June 2011}}
+([[:Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position) (Races in ''italics'' indicate fastest lap)
+{| class="wikitable" style="text-align:center; font-size:85%"
+! Year
+! Entrant
+! Chassis
+! Engine
+! Tyres
+! Drivers
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! 18
+! 19
+! Points
+! WCC
+|-
+|rowspan="4"| {{F1|1963}}
+!rowspan="2"| [[Stebro|Canadian Stebro Racing]]
+!rowspan="2"| [[Stebro]] [[Stebro Mk IV|Mk IV]]
+!rowspan="4"| 109E 1.5 [[Straight-4|L4]]
+!rowspan="4"| {{Dunlop}}
+|
+| [[1963 Monaco Grand Prix|MON]]
+| [[1963 Belgian Grand Prix|BEL]]
+| [[1963 Dutch Grand Prix|NED]]
+| [[1963 French Grand Prix|FRA]]
+| [[1963 British Grand Prix|GBR]]
+| [[1963 German Grand Prix|GER]]
+| [[1963 Italian Grand Prix|ITA]]
+| [[1963 United States Grand Prix|USA]]
+| [[1963 Mexican Grand Prix|MEX]]
+| [[1963 South African Grand Prix|RSA]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="2"| '''0'''
+|rowspan="2"| '''NC'''
+|-
+|align="left"| [[Peter Broeker]]
+|
+|
+|
+|
+|
+|
+|
+|style="background:#CFCFFF;"| 7
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Ted Lanfear
+! [[Team Lotus|Lotus]] [[Lotus 22|22]]
+|align="left"| [[Brausch Niemann]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#CFCFFF;"| 14
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| '''0'''
+| '''NC'''
+|-
+! [[David Prophet]]
+! [[Brabham]] [[Brabham BT6|BT6]]
+|align="left"| [[David Prophet]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| '''0'''
+| '''NC'''
+|-
+|rowspan="3"| {{F1|1964}}
+!rowspan="2"| [[Bob Gerard|Bob Gerard Racing]]
+!rowspan="2"| [[Cooper Car Company|Cooper]] [[Cooper T71|T71/T73]]
+!rowspan="3"| 109E 1.5 [[Straight-4|L4]]
+!rowspan="3"| {{Dunlop}}
+|
+| [[1964 Monaco Grand Prix|MON]]
+| [[1964 Dutch Grand Prix|NED]]
+| [[1964 Belgian Grand Prix|BEL]]
+| [[1964 French Grand Prix|FRA]]
+| [[1964 British Grand Prix|GBR]]
+| [[1964 German Grand Prix|GER]]
+| [[1964 Austrian Grand Prix|AUT]]
+| [[1964 Italian Grand Prix|ITA]]
+| [[1964 United States Grand Prix|USA]]
+| [[1964 Mexican Grand Prix|MEX]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="2"| '''0'''
+|rowspan="2"| '''NC'''
+|-
+|align="left"| [[John Taylor (racing driver)|John Taylor]]
+|
+|
+|
+|
+|style="background:#CFCFFF;"| 14
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! John Willment Automobiles
+! [[Brabham]] [[Brabham BT10|BT10]]
+|align="left"| [[Frank Gardner (racing driver)|Frank Gardner]]
+|
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| '''0'''
+| '''NC'''
+|-
+|rowspan="8"| {{F1|1965}}
+!rowspan="2"| John Willment Automobiles
+!rowspan="2"| [[Brabham]] [[Brabham BT10|BT10]]
+!rowspan="8"| 109E 1.5 [[Straight-4|L4]]
+!rowspan="8"| {{Dunlop}}
+|
+| [[1965 South African Grand Prix|RSA]]
+| [[1965 Monaco Grand Prix|MON]]
+| [[1965 Belgian Grand Prix|BEL]]
+| [[1965 French Grand Prix|FRA]]
+| [[1965 British Grand Prix|GBR]]
+| [[1965 Dutch Grand Prix|NED]]
+| [[1965 German Grand Prix|GER]]
+| [[1965 Italian Grand Prix|ITA]]
+| [[1965 United States Grand Prix|USA]]
+| [[1965 Mexican Grand Prix|MEX]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="3"| '''0'''
+|rowspan="3"| '''NC'''
+|-
+|align="left"| [[Paul Hawkins (racing driver)|Paul Hawkins]]
+|style="background:#CFCFFF;"| 9
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[David Prophet|David Prophet Racing]]
+! [[Brabham]] [[Brabham BT10|BT10]]
+|align="left"| [[David Prophet]]
+|style="background:#CFCFFF;"| 14
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Ted Lanfear
+! [[Team Lotus|Lotus]] [[Lotus 22|22]]
+|align="left"| [[Brausch Niemann]]
+|style="background:#ffcfcf;"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="3"| '''0'''
+|rowspan="3"| '''NC'''
+|-
+! Brian Raubenheimer
+! [[Team Lotus|Lotus]] [[Lotus 20|20]]
+|align="left"| Brian Raubenheimer
+|style="background:#ffffff;"| WD
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Dave Charlton]]
+! [[Team Lotus|Lotus]] [[Lotus 20|20]]
+|align="left"| [[Dave Charlton]]
+|style="background:#ffcfcf;"| DNPQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Trevor Blokdyk]]
+! [[Cooper Car Company|Cooper]] [[Cooper T59|T59]]
+|align="left"| [[Trevor Blokdyk]]
+|style="background:#ffcfcf;"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="2"| '''0'''
+|rowspan="2"| '''NC'''
+|-
+! [[Bob Gerard|Bob Gerard Racing]]
+! [[Cooper Car Company|Cooper]] [[Cooper T73]]
+|align="left"| [[Alan Rollinson]]
+|
+|
+|
+|
+|style="background:#ffcfcf;"|DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|rowspan="8"| {{F1|1967}}
+!rowspan="6"| [[Team Lotus]]
+!rowspan="6"| [[Team Lotus|Lotus]] [[Lotus 49|49]]
+!rowspan="6"| [[Cosworth DFV]] 3.0 [[V8 engine|V8]]
+!rowspan="6"| {{Firestone}}
+|
+| [[1967 South African Grand Prix|RSA]]
+| [[1967 Monaco Grand Prix|MON]]
+| [[1967 Dutch Grand Prix|NED]]
+| [[1967 Belgian Grand Prix|BEL]]
+| [[1967 French Grand Prix|FRA]]
+| [[1967 British Grand Prix|GBR]]
+| [[1967 German Grand Prix|GER]]
+| [[1967 Canadian Grand Prix|CAN]]
+| [[1967 Italian Grand Prix|ITA]]
+| [[1967 United States Grand Prix|USA]]
+| [[1967 Mexican Grand Prix|MEX]]
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="6" style="background:#dfdfdf;"| '''44'''
+|rowspan="6" style="background:#dfdfdf;"| '''2nd'''
+|-
+|align="left"| [[Jim Clark]]
+|
+|
+|style="background:#ffffbf;"| ''1''
+|style="background:#dfffdf;"| '''6'''
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| '''1'''
+|style="background:#efcfff;"| '''Ret'''
+|style="background:#efcfff;"| '''''Ret'''''
+|style="background:#ffdf9f;"| '''''3'''''
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| '''''1'''''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Graham Hill]]
+|
+|
+|style="background:#efcfff;"| '''Ret'''
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| '''''Ret'''''
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| '''''2'''''
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Eppie Wietzes]]
+|
+|
+|
+|
+|
+|
+|
+|style="background:#000000; color:#ffffff"| DSQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Giancarlo Baghetti]]
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Moisés Solana]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="2"| [[Equipe Matra Sports|Matra Sports]]
+!rowspan="2"| [[Equipe Matra Sports|Matra]] [[Matra MS7|MS7]]
+!rowspan="2"| Cosworth FVA 1.6 [[Straight-4|L4]]
+!rowspan="2"| {{Dunlop}}
+|align="left"| [[Jean-Pierre Beltoise]]
+|
+|style="background:#ffcfcf;"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|style="background:#CFCFFF;"| 7
+|style="background:#CFCFFF;"| 7
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="2"| '''0'''
+|rowspan="2"| '''NC'''
+|-
+|align="left"| [[Johnny Servoz-Gavin]]
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|rowspan="17"| {{F1|1968}}
+!rowspan="3"| [[Team Lotus]]
+!rowspan="3"| [[Team Lotus|Lotus]] [[Lotus 49|49]]
+!rowspan="17"| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 [[V8 engine|V8]]
+!rowspan="3"| {{Firestone}}
+|
+| [[1968 South African Grand Prix|RSA]]
+| [[1968 Spanish Grand Prix|ESP]]
+| [[1968 Monaco Grand Prix|MON]]
+| [[1968 Belgian Grand Prix|BEL]]
+| [[1968 Dutch Grand Prix|NED]]
+| [[1968 French Grand Prix|FRA]]
+| [[1968 British Grand Prix|GBR]]
+| [[1968 German Grand Prix|GER]]
+| [[1968 Italian Grand Prix|ITA]]
+| [[1968 Canadian Grand Prix|CAN]]
+| [[1968 United States Grand Prix|USA]]
+| [[1968 Mexican Grand Prix|MEX]]
+|
+|
+|
+|
+|
+|
+|
+|rowspan="9" style="background:#ffffbf;"| '''62'''
+|rowspan="9" style="background:#ffffbf;"| '''1st'''
+|-
+|align="left"| [[Jim Clark]]
+|style="background:#ffffbf;"| '''''1'''''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left" rowspan="2"| [[Graham Hill]]
+|style="background:#dfdfdf;"| 2
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="5"| [[John Player & Sons|Gold Leaf]] [[Team Lotus]]
+!rowspan="5"| [[Team Lotus|Lotus]] [[Lotus 49|49]]<br>[[Lotus 49|49B]]
+!rowspan="5"| {{Firestone}}
+|
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| '''1'''
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"|''' Ret'''
+|style="background:#dfdfdf;"| 2
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Jackie Oliver]]
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#cfcfff;"| NC
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 11
+|style="background:#efcfff;"| ''Ret''
+|style="background:#efcfff;"| Ret
+|style="background:#ffffff;"| DNS
+|style="background:#ffdf9f;"| 3
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Mario Andretti]]
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#ffffff;"| DNS
+|
+|style="background:#efcfff;"| '''Ret'''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Bill Brack]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Moisés Solana]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Rob Walker Racing Team]]
+! [[Team Lotus|Lotus]] [[Lotus 49|49]]<br>[[Lotus 49|49B]]
+! {{Firestone}}
+|align="left"| [[Jo Siffert]]
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 7
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 11
+|style="background:#ffffbf;"| ''1''
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| ''Ret''
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| '''''6'''''
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="2"| [[McLaren|Bruce McLaren Motor Racing]]
+!rowspan="2"| [[McLaren]] [[McLaren M7A|M7A]]
+!rowspan="2"| {{Goodyear}}
+|align="left"| [[Bruce McLaren]]
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 8
+|style="background:#cfcfff;"| 7
+|style="background:#cfcfff;"| 13
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 6
+|style="background:#dfdfdf;"| 2
+|
+|
+|
+|
+|
+|
+|
+|rowspan="4" style="background:#dfdfdf;"| '''49'''
+|rowspan="4" style="background:#dfdfdf;"| '''2nd'''
+|-
+|align="left"| [[Denny Hulme]]
+|
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 4
+|style="background:#cfcfff;"| 7
+|style="background:#ffffbf;"| 1
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Anglo American Racers]]
+! [[McLaren]] [[McLaren M7A|M7A]]
+! {{Goodyear}}
+|align="left"| [[Dan Gurney]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Ecurie Bonnier|Joakim Bonnier Racing Team]]
+! [[McLaren]] [[McLaren M5A|M5A]]
+! {{Goodyear}}
+|align="left"| [[Jo Bonnier]]
+|
+|
+|style="background:#FFCFCF;"| DNQ
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 8
+|
+|style="background:#efcfff;"| Ret
+|style="background:#ffffff;"| DNA
+|style="background:#dfffdf;"| 6
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="3"| [[Tyrrell Racing|Matra International (Tyrrell Racing)]]
+!rowspan="3"| [[Equipe Matra Sports|Matra]] [[Matra MS7|MS7]]<br> [[Matra MS9|MS9]]<br>[[Matra MS10|MS10]]
+!rowspan="3"| {{Dunlop}}
+|align="left"| [[Jackie Stewart]]
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#dfffdf;"| 4
+|style="background:#ffffbf;"| 1
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 6
+|style="background:#ffffbf;"| ''1''
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#ffffbf;"| ''1''
+|style="background:#cfcfff;"| 7
+|
+|
+|
+|
+|
+|
+|
+|rowspan="4" style="background:#ffdf9f;"|'''45'''
+|rowspan="4" style="background:#ffdf9f;"|'''3rd'''
+
+|-
+|align="left"| [[Johnny Servoz-Gavin]]
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|style="background:#dfdfdf;"| 2
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+|rowspan=2| [[Jean-Pierre Beltoise]]
+|
+|style="background:#dfffdf;"| ''5''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Equipe Matra Sports|Matra Sports]]
+! [[Equipe Matra Sports|Matra]] [[Matra MS7|MS7]]<br>[[Matra MS11|MS11]]
+! {{Dunlop}}
+|style="background:#dfffdf;"| 6
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 8
+|style="background:#dfdfdf;"| ''2''
+|style="background:#cfcfff;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+|rowspan="22"| {{F1|1969}}
+!rowspan="4"| [[Tyrrell Racing|Matra International (Tyrrell Racing)]]
+!rowspan="4"| [[Equipe Matra Sports|Matra]] [[Matra MS10|MS10]]<br>[[Matra MS80|MS80]]<br>[[Matra MS84|MS84]]
+!rowspan="22"| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 [[V8 engine|V8]]
+!rowspan="4"| {{Dunlop}}
+|
+| [[1969 South African Grand Prix|RSA]]
+| [[1969 Spanish Grand Prix|ESP]]
+| [[1969 Monaco Grand Prix|MON]]
+| [[1969 Dutch Grand Prix|NED]]
+| [[1969 French Grand Prix|FRA]]
+| [[1969 British Grand Prix|GBR]]
+| [[1969 German Grand Prix|GER]]
+| [[1969 Italian Grand Prix|ITA]]
+| [[1969 Canadian Grand Prix|CAN]]
+| [[1969 United States Grand Prix|USA]]
+| [[1969 Mexican Grand Prix|MEX]]
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="4" style="background:#ffffbf;"|'''66'''
+|rowspan="4" style="background:#ffffbf;"|'''1st'''
+|-
+|align="left"| [[Jackie Stewart]]
+|style="background:#ffffbf;"| ''1''
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| '''''Ret'''''
+|style="background:#ffffbf;"| ''1''
+|style="background:#ffffbf;"| '''''1'''''
+|style="background:#ffffbf;"| ''1''
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| 1
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Jean-Pierre Beltoise]]
+|style="background:#dfffdf;"| 6
+|style="background:#ffdf9f;"| 3
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 8
+|style="background:#dfdfdf;"| 2
+|style="background:#cfcfff;"| 9
+|style="background:#dfffdf;"| 12†
+|style="background:#ffdf9f;"| ''3''
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Johnny Servoz-Gavin]]
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| NC
+|style="background:#cfcfff;"| 8
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="2"| [[Brabham|Motor Racing Developments Ltd]]
+!rowspan="2"| [[Brabham]] [[Brabham BT26|BT26A]]<br>[[Brabham BT26|BT26]]
+!rowspan="2"| {{Goodyear}}
+|align="left"| [[Jack Brabham]]
+|style="background:#efcfff;"| '''Ret'''
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| ''2''
+|style="background:#dfffdf;"| 4
+|style="background:#ffdf9f;"| '''3'''
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="4" style="background:#dfdfdf;"| '''49 (51)'''
+|rowspan="4" style="background:#dfdfdf;"| '''2nd'''
+|-
+|align="left"| [[Jacky Ickx]]
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#ffdf9f;"| 3
+|style="background:#dfdfdf;"| 2
+|style="background:#ffffbf;"| '''''1'''''
+|style="background:#cfcfff;"| 10
+|style="background:#ffffbf;"| '''''1'''''
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| ''2''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Frank Williams Racing Cars]]
+! [[Brabham]] [[Brabham BT26|BT26A]]
+! {{Dunlop}}
+|align="left"| [[Piers Courage]]
+|
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| 2
+|style="background:#cfcfff;"| 10
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Silvio Moser|Silvio Moser Racing Team]]
+! [[Brabham]] [[Brabham BT24|BT24]]
+! {{Goodyear}}
+|align="left"| [[Silvio Moser]]
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 7
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 11
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="5"| [[John Player & Sons|Gold Leaf]] [[Team Lotus]]
+!rowspan="5"| [[Team Lotus|Lotus]] [[Lotus 49|49B]]<br>[[Lotus 63|63]]
+!rowspan="5"| {{Firestone}}
+|align="left"| [[Graham Hill]]
+|style="background:#dfdfdf;"| 2
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|style="background:#cfcfff;"| 7
+|style="background:#dfffdf;"| 6
+|style="background:#cfcfff;"| 7
+|style="background:#dfffdf;"| 4
+|style="background:#cfcfff;"| 9
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="9" style="background:#ffdf9f;"| '''47'''
+|rowspan="9" style="background:#ffdf9f;"| '''3rd'''
+|-
+|align="left"| [[Jochen Rindt]]
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| '''''Ret'''''
+|
+|style="background:#efcfff;"| '''Ret'''
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| '''4'''
+|style="background:#efcfff;"| Ret
+|style="background:#dfdfdf;"| '''2'''
+|style="background:#ffdf9f;"| 3
+|style="background:#ffffbf;"| '''''1'''''
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Mario Andretti]]
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Richard Attwood]]
+|
+|
+|style="background:#dfffdf;"| 4
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[John Miles (auto racer)|John Miles]]
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 10
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Rob Walker Racing Team]]
+! [[Team Lotus|Lotus]] [[Lotus 49|49B]]
+! {{Firestone}}
+|align="left"| [[Jo Siffert]]
+|style="background:#dfffdf;"| 4
+|style="background:#efcfff;"| Ret
+|style="background:#ffdf9f;"| 3
+|style="background:#dfdfdf;"| 2
+|style="background:#cfcfff;"| 9
+|style="background:#cfcfff;"| 8
+|style="background:#dfffdf;"| 11†
+|style="background:#cfcfff;"| 8
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Team Gunston
+! [[Team Lotus|Lotus]] [[Lotus 49|49B]]
+! {{Dunlop}}
+|align="left"| [[John Love (racing driver)|John Love]]
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Ecurie Bonnier]]
+! [[Team Lotus|Lotus]] [[Lotus 49|49B]]<br>[[Lotus 63|63]]
+! {{Firestone}}
+|align="left"| [[Jo Bonnier]]
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Pete Lovely|Pete Lovely Volkswagen Inc.]]
+! [[Team Lotus|Lotus]] [[Lotus 49|49B]]
+! {{Firestone}}
+|align="left"| [[Pete Lovely]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 9
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="3"| [[McLaren|Bruce McLaren Motor Racing]]
+!rowspan="3"| [[McLaren]] [[McLaren M7A|M7A]]<br>[[McLaren M7C|M7C]]<br>[[McLaren M9A|M9A]]
+!rowspan="3"| {{Goodyear}}
+|align="left"| [[Denny Hulme]]
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 6
+|style="background:#dfffdf;"| 4
+|style="background:#cfcfff;"| 8
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#cfcfff;"| 7
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#ffffbf;"| 1
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan="5"|  '''38 (40)'''
+|rowspan="5"|  '''4th'''
+|-
+|align="left"| [[Bruce McLaren]]
+|style="background:#dfffdf;"| 5
+|style="background:#dfdfdf;"| 2
+|style="background:#dfffdf;"| 5
+|style="background:#efcfff;"| Ret
+|style="background:#dfffdf;"| 4
+|style="background:#ffdf9f;"| 3
+|style="background:#ffdf9f;"| 3
+|style="background:#dfffdf;"| 4
+|style="background:#dfffdf;"| 5
+|style="background:#ffffff;"| DNS
+|style="background:#ffffff;"| DNS
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Derek Bell (auto racer)|Derek Bell]]
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Team Lawson
+! [[McLaren]] [[McLaren M7A|M7A]]
+! {{Dunlop}}
+|align="left"| [[Basil van Rooyen]]
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Antique Automobiles
+! [[McLaren]] [[McLaren M7B|M7B]]
+! {{Goodyear}}
+|align="left"| [[Vic Elford]]
+|
+|
+|
+|style="background:#cfcfff;"| 10
+|style="background:#dfffdf;"| 5
+|style="background:#dfffdf;"| 6
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|rowspan="38"| {{F1|1970}}
+!rowspan="5"| [[John Player & Sons|Gold Leaf]] [[Team Lotus]]
+!rowspan="5"| [[Team Lotus|Lotus]] [[Lotus 49|49]]<br>[[Lotus 72|72]]<br>[[Lotus 72|72C]]
+!rowspan="38"| [[Ford Motor Company|Ford]] [[Cosworth DFV]] 3.0 [[V8 engine|V8]]
+!rowspan="5"| {{Firestone}}
+|
+| [[1970 South African Grand Prix|RSA]]
+| [[1970 Spanish Grand Prix|ESP]]
+| [[1970 Monaco Grand Prix|MON]]
+| [[1970 Belgian Grand Prix|BEL]]
+| [[1970 Dutch Grand Prix|NED]]
+| [[1970 French Grand Prix|FRA]]
+| [[1970 British Grand Prix|GBR]]
+| [[1970 German Grand Prix|GER]]
+| [[1970 Austrian Grand Prix|AUT]]
+| [[1970 Italian Grand Prix|ITA]]
+| [[1970 Canadian Grand Prix|CAN]]
+| [[1970 United States Grand Prix|USA]]
+| [[1970 Mexican Grand Prix|MEX]]
+|
+|
+|
+|
+|
+|
+|rowspan="11" style="background:#FFFFBF;"| '''59*'''
+|rowspan="11" style="background:#FFFFBF;"| '''1st'''
+|-
+|align="left"| [[Jochen Rindt]]
+|bgcolor="#CFCFFF"| 13
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#FFFFBF"| ''1''
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| 1
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| 1
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#FFFFFF"| DNS
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[John Miles (racing driver)|John Miles]]
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#CFCFFF"| 7
+|bgcolor="#CFCFFF"| 8
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#FFFFFF"| DNS
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Emerson Fittipaldi]]
+|
+|
+|
+|
+|
+|
+|bgcolor="#CFCFFF"| 8
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#CFCFFF"| 15
+|bgcolor="#FFFFFF"| DNS
+|
+|bgcolor="#FFFFBF"| 1
+|bgcolor="#EFCFFF"| Ret
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Reine Wisell]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|bgcolor="#FFDF9F"| 3
+|bgcolor="#CFCFFF"| NC
+|
+|
+|
+|
+|
+|
+|-
+! rowspan="2"| [[Rob Walker Racing Team|Brooke Bond Oxo Racing]]
+! rowspan="2"| [[Team Lotus|Lotus]] [[Lotus 49|49C]]<br>[[Lotus 72|72]]
+! rowspan="2"| {{Firestone}}
+|style="text-align:left"| [[Graham Hill]]
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#DFFFDF"| 4
+|bgcolor="#DFFFDF"| 5
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#CFCFFF"| NC
+|bgcolor="#CFCFFF"| 10
+|bgcolor="#DFFFDF"| 6
+|bgcolor="#EFCFFF"| Ret
+|
+|bgcolor="white"| DNS
+|bgcolor="#CFCFFF"| NC
+|bgcolor="#EFCFFF"| Ret
+|bgcolor="#EFCFFF"| Ret
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Brian Redman]]
+|style="background:white;"| DNS
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Team Gunston
+! [[Team Lotus|Lotus]] [[Lotus 49|49]]
+! {{Dunlop}}
+|style="text-align:left"| [[John Love (racing driver)|John Love]]
+|bgcolor="#CFCFFF"| 8
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Scuderia Scribante
+! [[Team Lotus|Lotus]] [[Lotus 49|49C]]
+! {{Firestone}}
+|style="text-align:left"| [[Dave Charlton]]
+|bgcolor="#CFCFFF"| 12
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! World Wide Racing
+! [[Team Lotus|Lotus]] [[Lotus 49|49C]]<br>[[Lotus 72|72]]
+! {{Firestone}}
+|style="text-align:left"| [[Alex Soler-Roig]]
+|
+|bgcolor="#FFCFCF"| DNQ
+|
+|bgcolor="#FFFFFF"| DNS
+|
+|bgcolor="#FFCFCF"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Pete Lovely Volkswagen Inc.
+! [[Team Lotus|Lotus]] [[Lotus 49|49B]]
+! {{Firestone}}
+|style="text-align:left"| [[Pete Lovely]]
+|
+|
+|
+|
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#FFCFCF"| DNQ
+|bgcolor="#CFCFFF"| NC
+|
+|
+|
+|
+|bgcolor="#FFCFCF"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan=2| [[March Engineering]]
+!rowspan=2| [[March Engineering|March]] [[March 701|701]]
+!rowspan=2| {{Firestone}}
+|align="left"| [[Chris Amon]]
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFDFDF;"| ''2''
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFDFDF;"| 2
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 8
+|style="background:#CFCFFF;"| 7
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 5
+|style="background:#DFFFDF;"| 4
+|
+|
+|
+|
+|
+|
+|rowspan=9 style="background:#FFDF9F;"| '''48'''
+|rowspan=9 style="background:#FFDF9F;"| '''3rd'''
+|-
+|align="left"| [[Jo Siffert]]
+|style="background:#CFCFFF;"| 10
+|style="background:#FFCFCF;"| DNQ
+|style="background:#CFCFFF;"| 8
+|style="background:#CFCFFF;"| 7
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 8
+|style="background:#CFCFFF;"| 9
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 9
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|-
+! [[STP (motor oil company)|STP Corporation]]
+! [[March Engineering|March]] [[March 701|701]]
+! {{Firestone}}
+|style="text-align:left"| [[Mario Andretti]]
+|style="background:#EFCFFF;"|Ret
+|style="background:#FFDF9F;"|3
+|
+|
+|
+|
+|style="background:#EFCFFF;"|Ret
+|style="background:#EFCFFF;"|Ret
+|style="background:#EFCFFF;"|Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Antique Automobiles
+! [[March Engineering|March]] [[March 701|701]]
+! {{Goodyear}}
+|style="text-align:left" rowspan="2"| [[Ronnie Peterson]]
+|
+|
+|style="background:#CFCFFF;"|7
+|style="background:#CFCFFF;"|NC
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! Colin Crabbe Racing
+! [[March Engineering|March]] [[March 701|701]]
+! {{Goodyear}}
+|
+|
+|
+|
+|style="background:#CFCFFF;"|9
+|style="background:#EFCFFF;"|Ret
+|style="background:#CFCFFF;"|9
+|style="background:#EFCFFF;"|Ret
+|
+|style="background:#EFCFFF;"|Ret
+|style="background:#CFCFFF;"|NC
+|style="background:#CFCFFF;"|11
+|
+|
+|
+|
+|
+|
+|
+|-
+! Hubert Hahne
+! [[March Engineering|March]] [[March 701|701]]
+! {{Goodyear}}
+|style="text-align:left"| [[Hubert Hahne]]
+|
+|
+|
+|
+|
+|
+|
+|style="background:#FFCFCF;"|DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan=4| [[Tyrrell Racing|Tyrrell Racing Organisation]]
+!rowspan=3| [[March Engineering|March]] [[March 701|701]]
+!rowspan=4| {{Goodyear}}
+|style="text-align:left"| [[Johnny Servoz-Gavin]]
+|style="background:#EFCFFF;"|Ret
+|style="background:#DFFFDF;"|5
+|style="background:#FFCFCF;"|DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|style="text-align:left"| [[François Cevert]]
+|
+|
+|
+|
+|style="background:#EFCFFF;"|Ret
+|style="background:#CFCFFF;"|11
+|style="background:#CFCFFF;"|7
+|style="background:#CFCFFF;"|7
+|style="background:#EFCFFF;"|Ret
+|style="background:#DFFFDF;"|6
+|style="background:#CFCFFF;"|9
+|style="background:#EFCFFF;"|Ret
+|style="background:#EFCFFF;"|Ret
+|
+|
+|
+|
+|
+|
+|-
+|style="text-align:left" rowspan="2"| [[Jackie Stewart]]
+|style="background:#FFDF9F;"|'''3'''
+|style="background:#FFFFBF;"|1
+|style="background:#EFCFFF;"|'''Ret'''
+|style="background:#EFCFFF;"|'''Ret'''
+|style="background:#DFDFDF;"|2
+|style="background:#CFCFFF;"|9
+|style="background:#EFCFFF;"|Ret
+|style="background:#EFCFFF;"|Ret
+|style="background:#EFCFFF;"|Ret
+|style="background:#DFDFDF;"|2
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Tyrrell Racing|Tyrrell]] [[Tyrrell 001|001]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#efcfff;"| '''Ret'''
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|'''0'''
+|'''-'''
+|-
+! [[Brabham|Motor Racing Developments Ltd]]
+! [[Brabham]] [[Brabham BT33|BT33]]
+! {{Goodyear}}
+|align="left"| [[Jack Brabham]]
+|style="background:#FBFFBF;"| ''1''
+|style="background:#EFCFFF;"| '''''Ret'''''
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 11
+|style="background:#FFDF9F;"| ''3''
+|style="background:#DFDFDF;"| ''2''
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 13
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 10
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|rowspan="5"| '''35'''
+|rowspan="5"| '''4th'''
+|-
+! [[Brabham|Auto Motor Und Sport]]
+! [[Brabham]] [[Brabham BT33|BT33]]
+! {{Goodyear}}
+|align="left"| [[Rolf Stommelen]]
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#FFCFCF;"| DNQ
+|style="background:#DFFFDF;"| 5
+|style="background:#FFCFCF;"| DNQ
+|style="background:#CFCFFF;"| 7
+|style="background:#ffffff;"| DNS
+|style="background:#DFFFDF;"| 5
+|style="background:#FFDF9F;"| 3
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 12
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|-
+! [[Team Gunston]]
+! [[Brabham]] [[Brabham BT26|BT26]]
+! {{Goodyear}}
+|align="left"| [[Peter de Klerk]]
+|style="background:#CFCFFF;"| 11
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Tom Wheatcroft|Tom Wheatcroft Racing]]
+! [[Brabham]] [[Brabham BT26|BT26]]
+! {{Goodyear}}
+|align="left"| [[Derek Bell (racing driver)|Derek Bell]]
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Gus Hutchison]]
+! [[Brabham]] [[Brabham BT26|BT26]]
+! {{Goodyear}}
+|align="left"| [[Gus Hutchison]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+!rowspan="4"| [[McLaren|Bruce McLaren Motor Racing]]
+!rowspan="4"| [[McLaren M9A]]<br>[[McLaren M14A]]
+!rowspan="4"| {{Goodyear}}
+|align="left"| [[Bruce McLaren]]
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan=6|'''35'''
+|rowspan=6|'''5th'''
+|-
+|align="left"| [[Denny Hulme]]
+|style="background:#DFDFDF;"| 2
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 4
+|
+|
+|style="background:#DFFFDF;"| 4
+|style="background:#FFDF9F;"| 3
+|style="background:#FFDF9F;"| 3
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 4
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 7
+|style="background:#FFDF9F;"| 3
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Dan Gurney]]
+|
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 6
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|align="left"| [[Peter Gethin]]
+|
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|
+|
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 10
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 6
+|style="background:#CFCFFF;"| 14
+|style="background:#EFCFFF;"| Ret
+|
+|
+|
+|
+|
+|
+|-
+! [[Ecurie Bonnier]]
+! [[McLaren M9A]]
+! {{Goodyear}}
+| [[Jo Bonnier]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#ffcfcf;"| DNQ
+|
+|style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+! rowspan=3| [[Surtees|Team Surtees]]
+! [[McLaren M9A]]
+! rowspan=3| {{Firestone}}
+| rowspan=2| [[John Surtees]]
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|style="background:#efcfff;"| Ret
+|
+|style="background:#dfffdf;"| 6
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! rowspan=2| [[Surtees TS7]]
+|
+|
+|
+|
+|
+|
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 9
+|style="background:#EFCFFF;"| Ret
+|style="background:#EFCFFF;"| Ret
+|style="background:#DFFFDF;"| 5
+|style="background:#EFCFFF;"| Ret
+|style="background:#CFCFFF;"| 8
+|
+|
+|
+|
+|
+|
+|rowspan=2|'''3'''
+|rowspan=2|'''8th'''
+|-
+|align="left"| [[Derek Bell (auto racer)|Derek Bell]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|style="background:#DFFFDF;"| 6
+|
+|
+|
+|
+|
+|
+|
+|-
+! rowspan="3"| [[Frank Williams Racing Cars]]
+! rowspan="3"| [[De Tomaso]] [[De Tomaso 505/38|505/38]]
+! rowspan="3"| {{Dunlop}}
+| [[Piers Courage]]
+| style="background:#efcfff;"| Ret
+| style="background:#fff;"| DNS
+| style="background:#cfcfff;"| NC
+| style="background:#efcfff;"| Ret
+| style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|rowspan=3|'''0'''
+|rowspan=3|'''-'''
+|-
+| [[Brian Redman]]
+|
+|
+|
+|
+|
+|
+| style="background:#fff;"| DNS
+| style="background:#ffcfcf;"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| [[Tim Schenken]]
+|
+|
+|
+|
+|
+|
+|
+|
+| style="background:#efcfff;"| Ret
+| style="background:#efcfff;"| Ret
+| style="background:#cfcfff;"| NC
+| style="background:#efcfff;"| Ret
+|
+|
+|
+|
+|
+|
+|
+|-
+! [[Silvio Moser Racing Team]]
+! [[Bellasi F1]]
+! {{Goodyear}}
+|align="left"| [[Silvio Moser]]
+|
+|
+|
+|
+|style="background:#FFCFCF;"| DNQ
+|style="background:#FFCFCF;"| DNQ
+|
+|style="background:#FFCFCF;"| DNQ
+|style="background:#EFCFFF;"| Ret
+|style="background:#FFCFCF;"| DNQ
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''0'''
+|'''-'''
+|-
+|}
+
+==Summary of F1 engine use==
+{{clear}}
+{| class="wikitable" style="font-size: 95%;"
+|-
+! Season
+! Engine
+! Type
+! [[Engine displacement|Disp.]]
+! Teams
+! Wins
+! Notes
+|-
+! [[1963 Formula One season|1963]]
+| ''Mk.IX'' || [[straight-4|I4]] || 1.5
+| [[Team Lotus|Lotus]]
+|style="text-align:center;"| 0
+|
+*The first 'Ford' Formula One engine entry
+|-
+! [[1964 Formula One season|1964]]
+| ''Mk.XVI'' || I4 || 1.5
+| [[Cooper Car Company|Cooper]]
+|style="text-align:center;"| 0
+|
+*Entered as 'Ford 109E'
+|-
+! [[1965 Formula One season|1965]]
+| ''Mk.XVI'' || I4 || 1.5
+| [[Team Lotus|Lotus]], [[Cooper Car Company|Cooper]]
+|style="text-align:center;"| 0
+|
+*Entered as 'Ford 109E'
+|-
+!rowspan=2| [[1967 Formula One season|1967]]
+| ''FVA'' || I4 || 1.6
+| [[Equipe Matra Sports|Matra]]
+| rowspan="2" style="text-align:center;"| 4
+|rowspan=2|
+*Debut of DFV
+*[[Team Lotus|Lotus]] second in [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+| ''DFV'' || [[V8 engine|V8]] || 3.0
+| [[Team Lotus|Lotus]]
+|-
+! [[1968 Formula One season|1968]]
+| ''DFV'' || V8 || 3.0
+| [[Team Lotus|Lotus]], [[McLaren]], [[Equipe Matra Sports|Matra]]
+|style="text-align:center;"| 11
+|
+* Cosworth powered cars won all but one Grand Prix.
+*[[Graham Hill]] (''[[Team Lotus|Lotus]]'') won [[List of Formula One World Drivers' Champions|Drivers Championship]], 2nd and 3rd placed drivers were also Cosworth powered.
+*The 3 Cosworth-powered teams took 1st (''[[Team Lotus|Lotus]]''), 2nd and 3rd places in the [[List of Formula One World Constructors' Champions|Constructors' Championship]].
+|-
+! [[1969 Formula One season|1969]]
+| ''DFV'' || V8 || 3.0
+| [[Equipe Matra Sports|Matra]], [[Brabham]], [[Team Lotus|Lotus]], [[McLaren]]
+|style="text-align:center;"| 11
+|
+* Cosworth powered cars won every Grand Prix this season.
+*[[Jackie Stewart]] (''[[Equipe Matra Sports|Matra]]'') won [[List of Formula One World Drivers' Champions|Drivers Championship]]
+*[[Equipe Matra Sports|Matra]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]].
+|-
+! [[1970 Formula One season|1970]]
+| ''DFV'' || V8 || 3.0
+| [[Team Lotus|Lotus]], [[March Engineering|March]], [[McLaren]], [[Brabham]], [[Surtees]], [[Tyrrell Racing|Tyrrell]], [[Bellasi]], [[Frank Williams Racing Cars|De Tomaso]]
+|style="text-align:center;"| 8
+|
+*[[Jochen Rindt]] (''[[Team Lotus|Lotus]]'') posthumously won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+|-
+! [[1971 Formula One season|1971]]
+| ''DFV'' || V8 || 3.0
+| [[Tyrrell Racing|Tyrrell]], [[March Engineering|March]], [[Team Lotus|Lotus]], [[McLaren]], [[Surtees]], [[Brabham]], [[Bellasi]]
+|style="text-align:center;"| 7
+|
+*[[Jackie Stewart]] (''[[Tyrrell Racing|Tyrrell]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+*[[Tyrrell Racing|Tyrrell]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1972 Formula One season|1972]]
+| ''DFV'' || V8 || 3.0
+| [[McLaren]], [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[Surtees]], [[March Engineering|March]], [[Brabham]], [[Frank Williams Racing Cars]], [[Connew]]
+|style="text-align:center;"| 10
+|
+*[[Emerson Fittipaldi]] (''[[Team Lotus|Lotus]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+*[[McLaren]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1973 Formula One season|1973]]
+| ''DFV'' || V8 || 3.0
+| [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[McLaren]], [[Brabham]], [[March Engineering|March]], [[Shadow Racing Cars|Shadow]], [[Surtees]], [[Iso-Marlboro]], [[Ensign (racing team)|Ensign]]
+|style="text-align:center;"| 15
+|
+* Cosworth powered cars won every Grand Prix this season.
+*[[Jackie Stewart]] (''[[Tyrrell Racing|Tyrrell]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+*[[Team Lotus|Lotus]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1974 Formula One season|1974]]
+| ''DFV'' || V8 || 3.0
+| [[McLaren]], [[Tyrrell Racing|Tyrrell]], [[Team Lotus|Lotus]], [[Brabham]], [[Hesketh Racing|Hesketh]], [[Shadow Racing Cars|Shadow]], [[March Engineering|March]], [[Iso-Marlboro]], [[Surtees]], [[Lola Cars|Lola]], [[Token (Racing team)|Token]], [[Trojan (Racing team)|Trojan]], [[Penske Racing|Penske]], [[Parnelli]], [[Lyncar]], [[Ensign (racing team)|Ensign]], [[Amon (Formula One team)|Amon]], [[Maki (constructor)|Maki]]
+|style="text-align:center;"| 12
+|
+*[[Emerson Fittipaldi]] (''[[McLaren]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+|-
+! [[1975 Formula One season|1975]]
+| ''DFV'' || V8 || 3.0
+| [[McLaren]], [[Brabham]], [[Hesketh Racing|Hesketh]], [[Tyrrell Racing|Tyrrell]], [[Shadow Racing Cars|Shadow]], [[March Engineering|March]], [[Team Lotus|Lotus]], [[Frank Williams Racing Cars|Williams]], [[Parnelli]], [[Hill (constructor)|Hill]], [[Penske Racing|Penske]], [[Ensign (racing team)|Ensign]], [[Fittipaldi Automotive|Fittipaldi]], [[Lyncar]], [[Lola Cars|Lola]], [[Maki (constructor)|Maki]], [[Surtees]]
+|style="text-align:center;"| 8
+|
+*Cosworth powered teams filled 2nd to 17th places in the [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1976 Formula One season|1976]]
+| ''DFV'' || V8 || 3.0
+| [[Tyrrell Racing|Tyrrell]], [[McLaren]], [[Team Lotus|Lotus]], [[Penske Racing|Penske]], [[March Engineering|March]], [[Shadow Racing Cars|Shadow]], [[Surtees]], [[Fittipaldi Automotive|Fittipaldi]], [[Ensign (racing team)|Ensign]], [[Parnelli]], [[Wolf-Williams Racing|Wolf-Williams]], [[Frank Williams Racing Cars|Williams]], [[Kojima Engineering|Kojima]], [[Hesketh Racing|Hesketh]], [[Maki (constructor)|Maki]], [[Brabham]], [[Boro (Formula One)|Boro]]
+|style="text-align:center;"| 10
+|
+*[[James Hunt]] (''[[McLaren]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+|-
+! [[1977 Formula One season|1977]]
+| ''DFV'' || V8 || 3.0
+| [[Team Lotus|Lotus]], [[McLaren]], [[Walter Wolf Racing|Wolf]], [[Tyrrell Racing|Tyrrell]], [[Shadow Racing Cars|Shadow]], [[Fittipaldi Automotive|Fittipaldi]], [[Ensign (racing team)|Ensign]], [[Surtees]], [[Penske Racing|Penske]], [[Williams Grand Prix Engineering|Williams]], [[Boro (Formula One)|Boro]], [[LEC Refrigeration Racing|LEC]], [[McGuire (Formula One)|McGuire]], [[Kojima Engineering|Kojima]], [[Hesketh Racing|Hesketh]], [[March Engineering|March]]
+|style="text-align:center;"| 12
+|
+|-
+! [[1978 Formula One season|1978]]
+| ''DFV'' || V8 || 3.0
+| [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[Walter Wolf Racing|Wolf]], [[Fittipaldi Automotive|Fittipaldi]], [[McLaren]], [[Arrows (F1)|Arrows]], [[Williams Grand Prix Engineering|Williams]], [[Shadow Racing Cars|Shadow]], [[Surtees]], [[Ensign (racing team)|Ensign]], [[Martini (cars)|Martini]], [[Hesketh Racing|Hesketh]], [[ATS (wheels)|ATS]], [[Theodore Racing|Theodore]], [[Merzario]]
+|style="text-align:center;"| 9
+|
+*[[Mario Andretti]] (''[[Team Lotus|Lotus]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+*[[Team Lotus|Lotus]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1979 Formula One season|1979]]
+| ''DFV'' || V8 || 3.0
+| [[Williams Grand Prix Engineering|Williams]], [[Equipe Ligier|Ligier]], [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[McLaren]], [[Arrows (F1)|Arrows]], [[Shadow Racing Cars|Shadow]], [[ATS (wheels)|ATS]], [[Fittipaldi Automotive|Fittipaldi]], [[Kauhsen]], [[Walter Wolf Racing|Wolf]], [[Brabham]], [[Ensign (racing team)|Ensign]], [[Rebaque]], [[Merzario]]
+|style="text-align:center;"| 8
+|
+*Cosworth-powered teams took 2nd, 3rd and 4th place in Constructors Championship
+|-
+! [[1980 Formula One season|1980]]
+| ''DFV'' || V8 || 3.0
+| [[Williams Grand Prix Engineering|Williams]], [[Equipe Ligier|Ligier]], [[Brabham]], [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[McLaren]], [[Arrows (F1)|Arrows]], [[Fittipaldi Automotive|Fittipaldi]], [[Shadow Racing Cars|Shadow]], [[ATS (wheels)|ATS]], [[Osella]], [[Ensign (racing team)|Ensign]]
+|style="text-align:center;"| 11
+|
+*[[Alan Jones (Formula 1)|Alan Jones]] (''[[Williams Grand Prix Engineering|Williams]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+*[[Williams Grand Prix Engineering|Williams]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1981 Formula One season|1981]]
+| ''DFV'' || V8 || 3.0
+| [[Williams Grand Prix Engineering|Williams]], [[Brabham]], [[McLaren]], [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[Arrows (F1)|Arrows]], [[Ensign (racing team)|Ensign]], [[Theodore Racing|Theodore]], [[ATS (wheels)|ATS]], [[Fittipaldi Automotive|Fittipaldi]], [[Osella]], [[March Engineering|March]]
+|style="text-align:center;"| 8
+|
+*[[Nelson Piquet]] (''[[Brabham]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+*[[Williams Grand Prix Engineering|Williams]] won [[List of Formula One World Constructors' Champions|Constructors' Championship]]
+|-
+! [[1982 Formula One season|1982]]
+| ''DFV'' || V8 || 3.0
+| [[McLaren]], [[Williams Grand Prix Engineering|Williams]], [[Team Lotus|Lotus]], [[Tyrrell Racing|Tyrrell]], [[Brabham]], [[Arrows (F1)|Arrows]], [[ATS (wheels)|ATS]], [[Osella]], [[Fittipaldi Automotive|Fittipaldi]], [[March Engineering|March]], [[Theodore Racing|Theodore]], [[Ensign (racing team)|Ensign]]
+|style="text-align:center;"| 8
+|
+*[[Keke Rosberg]] (''[[Williams Grand Prix Engineering|Williams]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+|-
+!rowspan=2| [[1983 Formula One season|1983]]
+| ''DFY'' || V8 || 3.0
+| [[Williams Grand Prix Engineering|Williams]], [[McLaren]], [[Tyrrell Racing|Tyrrell]]
+| rowspan="2" style="text-align:center;"| 3
+|rowspan=2|
+*[[Michele Alboreto]] (''[[Tyrrell Racing|Tyrrell]]'') took the DFV series' final race victory at [[1983 Detroit Grand Prix|Detroit]]
+|-
+| ''DFV'' || V8 || 3.0
+| [[Williams Grand Prix Engineering|Williams]], [[McLaren]], [[Tyrrell Racing|Tyrrell]], [[Arrows (F1)|Arrows]], [[Team Lotus|Lotus]], [[Theodore Racing|Theodore]], [[Osella]], [[RAM Racing|RAM]], [[Equipe Ligier|Ligier]]
+|-
+!rowspan=2| [[1984 Formula One season|1984]]
+| ''DFY'' || V8 || 3.0
+| [[Tyrrell Racing|Tyrrell]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+|-
+| ''DFV'' || V8 || 3.0
+| [[Arrows (F1)|Arrows]], [[Spirit]]
+|-
+!rowspan=2| [[1985 Formula One season|1985]]
+| ''DFY'' || V8 || 3.0
+| [[Tyrrell Racing|Tyrrell]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+|-
+| ''DFV'' || V8 || 3.0
+| [[Minardi]]
+|-
+! [[1986 Formula One season|1986]]
+| ''GBA'' || [[V6 engine|V6]]-[[turbocharger|T]] || 1.5
+| [[Haas Lola]]
+|style="text-align:center;"| 0
+|
+*First Cosworth engine to use a [[Turbocharger|turbo]] in F1, and first non-V8 [[V engine]]
+|-
+!rowspan=2| [[1987 Formula One season|1987]]
+| ''GBA'' || V6-T || 1.5
+| [[Benetton Formula|Benetton]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+*Benetton reach 1000+ bhp with qualifying spec turbo engine
+|-
+| ''DFZ'' || V8 || 3.5
+| [[Tyrrell Racing|Tyrrell]], [[Larrousse]], [[Automobiles Gonfaronnaises Sportives|AGS]], [[March Engineering|March]], [[Enzo Coloni Racing Car Systems|Coloni]]
+|-
+!rowspan=3| [[1988 Formula One season|1988]]
+| ''DFR'' || V8 ||3.5
+| [[Benetton Formula|Benetton]]
+| rowspan="3" style="text-align:center;"| 0
+|rowspan=3|
+|-
+| ''DFZ'' || V8 || 3.5
+| [[Tyrrell Racing|Tyrrell]], [[Rial Racing|Rial]], [[Minardi]], [[Enzo Coloni Racing Car Systems|Coloni]], [[Larrousse]], [[Automobiles Gonfaronnaises Sportives|AGS]], [[EuroBrun]], [[Dallara]]
+|-
+| ''DFV'' || V8 || 3.0
+| [[Dallara]]
+|-
+!rowspan=2| [[1989 Formula One season|1989]]
+| ''HB'' || V8 || 3.5
+| [[Benetton Formula|Benetton]]
+| rowspan="2" style="text-align:center;"| 1
+|rowspan=2|
+*[[Alessandro Nannini]] (''[[Benetton Formula|Benetton]]'') takes Cosworth's first win with a non-DFV engine design at [[1989 Japanese Grand Prix|Suzuka]]
+|-
+| ''DFR'' || V8 || 3.5
+| [[Tyrrell Racing|Tyrrell]], [[Arrows (F1)|Arrows]], [[Dallara]], [[Minardi]], [[Onyx Grand Prix|Onyx]], [[Equipe Ligier|Ligier]], [[Rial Racing|Rial]], [[Automobiles Gonfaronnaises Sportives|AGS]], [[Osella]], [[Enzo Coloni Racing Car Systems|Coloni]]
+|-
+!rowspan=2| [[1990 Formula One season|1990]]
+| ''HB'' || V8 || 3.5
+| [[Benetton Formula|Benetton]]
+| rowspan="2" style="text-align:center;"| 2
+|rowspan=2|
+|-
+| ''DFR'' || V8 || 3.5
+| [[Tyrrell Racing|Tyrrell]], [[Arrows (F1)|Arrows]], [[Onyx Grand Prix|Monteverdi]], [[Equipe Ligier|Ligier]], [[Osella]], [[Dallara]], [[Enzo Coloni Racing Car Systems|Coloni]], [[Automobiles Gonfaronnaises Sportives|AGS]], [[Minardi]]
+|-
+!rowspan=2| [[1991 Formula One season|1991]]
+| ''HB'' || V8 || 3.5
+| [[Benetton Formula|Benetton]], [[Jordan Grand Prix|Jordan]]
+| rowspan="2" style="text-align:center;"| 1
+|rowspan=2|
+*DFV-series' last F1 season (DFR)
+|-
+| ''DFR'' || V8 || 3.5
+| [[Lola Cars|Lola]], [[Fondmetal]], [[Enzo Coloni Racing Car Systems|Coloni]], [[Automobiles Gonfaronnaises Sportives|AGS]], [[Arrows (F1)|Footwork]]
+|-
+! [[1992 Formula One season|1992]]
+| ''HB'' || V8 || 3.5
+| [[Benetton Formula|Benetton]], [[Team Lotus|Lotus]], [[Fondmetal]]
+|style="text-align:center;"| 1
+|
+*[[Michael Schumacher]]'s [[1992 Belgian Grand Prix|first Grand Prix victory]] comes in a Cosworth-powered Benetton-Ford
+|-
+! [[1993 Formula One season|1993]]
+| ''HB'' || V8 || 3.5
+| [[McLaren]], [[Benetton Formula|Benetton]], [[Team Lotus|Lotus]], [[Minardi]]
+|style="text-align:center;"| 6
+|
+|-
+!rowspan=2| [[1994 Formula One season|1994]]
+| ''EC Zetec-R'' || V8 || 3.5
+| [[Benetton Formula|Benetton]]
+| rowspan="2" style="text-align:center;"| 8
+|rowspan=2|
+*[[Michael Schumacher]] (''[[Benetton Formula|Benetton]]'') won [[List of Formula One World Drivers' Champions|Drivers' Championship]]
+|-
+| ''HB'' || V8 || 3.5
+| [[Arrows (F1)|Footwork]], [[Minardi]], [[Larrousse]], [[Simtek]]
+|-
+!rowspan=2| [[1995 Formula One season|1995]]
+| ''ECA Zetec-R'' || V8 || 3.0
+| [[Sauber]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+*ECA engine is a developed 3-litre version of the 3.5litre EC Zetec-R V8.
+|-
+| ''ED'' || V8 || 3.0
+| [[Minardi]], [[Forti]], [[Simtek]], [[Pacific Racing|Pacific]]
+|-
+!rowspan=3| [[1996 Formula One season|1996]]
+| ''JD Zetec-R'' || [[V10 engine|V10]] || 3.0
+| [[Sauber]]
+| rowspan="3" style="text-align:center;"| 0
+|rowspan=3|
+*First Cosworth V10 design
+|-
+| ''ECA Zetec-R'' || V8 || 3.0
+| [[Forti]]
+|-
+| ''ED'' || V8 || 3.0
+| [[Minardi]]
+|-
+!rowspan=3| [[1997 Formula One season|1997]]
+| ''VJ Zetec-R'' || V10 || 3.0
+| [[Stewart Grand Prix|Stewart]]
+| rowspan="3" style="text-align:center;"| 0
+|rowspan=3|
+|-
+| ''ECA Zetec-R'' || V8 || 3.0
+| [[MasterCard Lola|Lola]]
+|-
+| ''ED'' || V8 || 3.0
+| [[Tyrrell Racing|Tyrrell]]
+|-
+!rowspan=2| [[1998 Formula One season|1998]]
+| ''VJ Zetec-R'' || V10 || 3.0
+| [[Stewart Grand Prix|Stewart]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+|-
+| ''JD Zetec-R'' || V10 || 3.0
+| [[Tyrrell Racing|Tyrrell]], [[Minardi]]
+|-
+!rowspan=2| [[1999 Formula One season|1999]]
+| ''CR-1'' || V10 || 3.0
+| [[Stewart Grand Prix|Stewart]]
+| rowspan="2" style="text-align:center;"| 1
+|rowspan=2|
+|-
+| ''VJ Zetec-R'' || V10 || 3.0
+| [[Minardi]]
+|-
+!rowspan=2| [[2000 Formula One season|2000]]
+| ''CR-2'' || V10 || 3.0
+| [[Jaguar Racing|Jaguar]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+*Starting this year, Ford uses Cosworth for the engine names
+*Minardi engines rebadged as ''[[Fondmetal]]''
+|-
+| ''VJ Zetec-R'' || V10 || 3.0
+| [[Minardi]]
+|-
+!rowspan=2| [[2001 Formula One season|2001]]
+| ''CR-3'' || V10 || 3.0
+| [[Jaguar Racing|Jaguar]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+*Minardi engines rebadged as ''[[European Aviation Air Charter|European]]''
+|-
+| ''VJ Zetec-R'' || V10 || 3.0
+| [[Minardi]]
+|-
+!rowspan=2| [[2002 Formula One season|2002]]
+| ''CR-4'' || V10 || 3.0
+| [[Jaguar Racing|Jaguar]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+|-
+| ''CR-3'' || V10 || 3.0
+| [[Arrows (F1)|Arrows]]
+|-
+!rowspan=3| [[2003 Formula One season|2003]]
+| ''CR-5'' || V10 || 3.0
+| [[Jaguar Racing|Jaguar]]
+| rowspan="3" style="text-align:center;"| 1
+|rowspan=3|
+*Jordan engines use ''Ford'' name
+*[[Giancarlo Fisichella]] (''[[Jordan Grand Prix|Jordan]]'') took Cosworth's most recent Grand Prix victory, at [[2003 Brazilian Grand Prix|Interlagos]]
+|-
+| ''RS1'' || V10 || 3.0
+| [[Jordan Grand Prix|Jordan]]
+|-
+| ''CR-3'' || V10 || 3.0
+| [[Minardi]]
+|-
+!rowspan=3| [[2004 Formula One season|2004]]
+| ''CR-6'' || V10 || 3.0
+| [[Jaguar Racing|Jaguar]]
+| rowspan="3" style="text-align:center;"| 0
+|rowspan=3|
+*Jordan engines use ''Ford'' name
+|-
+| ''RS2'' || V10 || 3.0
+| [[Jordan Grand Prix|Jordan]]
+|-
+| ''CR-3L'' || V10 || 3.0
+| [[Minardi]]
+|-
+! [[2005 Formula One season|2005]]
+| ''TJ2005'' || V10 || 3.0
+| [[Red Bull Racing|Red Bull]], [[Minardi]]
+|style="text-align:center;"| 0
+|
+*Minardi used the CK2004 (CR-3L) engine during the first 3 races of the season where the team used the old [[Minardi PS04B|PS04B]] chassis.
+|-
+!rowspan=2| [[2006 Formula One season|2006]]
+| ''CA2006'' || V8 || 2.4
+| [[Williams Grand Prix Engineering|Williams]]
+| rowspan="2" style="text-align:center;"| 0
+|rowspan=2|
+*Toro Rosso V10s rev-limited
+|-
+| ''TJ2005'' || V10 || 3.0
+| [[Scuderia Toro Rosso|Toro Rosso]]
+|-
+| colspan="7" style="text-align:left;"| {{F1|2007}}–{{F1|2009}}: Cosworth did not supply any engines in Formula One.
+|-
+! [[2010 Formula One season|2010]]
+| ''CA2010'' || V8 || 2.4
+| [[Williams Grand Prix Engineering|Williams]], [[Team Lotus (2010–11)|Lotus]], [[HRT Formula 1 Team|HRT]], [[Virgin Racing|Virgin]]
+|style="text-align:center;"| 0
+|
+|-
+! [[2011 Formula One season|2011]]
+| ''CA2011'' || V8 || 2.4
+| [[Williams Grand Prix Engineering|Williams]], [[HRT Formula 1 Team|HRT]], [[Virgin Racing|Virgin]]
+|style="text-align:center;"| 0
+|
+|-
+! [[2012 Formula One season|2012]]
+| ''CA2012'' || V8 || 2.4
+| [[HRT Formula 1 Team|HRT]], [[Marussia F1|Marussia]]
+|style="text-align:center;"| 0
+|
+|-
+! [[2013 Formula One season|2013]]
+| ''CA2013'' || V8 || 2.4
+| [[Marussia F1|Marussia]]
+|style="text-align:center;"| 0
+|
+|-
+| colspan="7" style="text-align:left;"| {{F1|2014}}–{{F1|2016}}: Cosworth did not supply any engines in Formula One.
+|-
+|}
+
+==See also==
+*[[Formula One]]
+*[[Ford Racing]]
+*[[MAHLE Powertrain]]
+
+==References==
+{{Reflist}}
+*[http://8w.forix.com/6thgear/engines.html List of f1 engines by year]
+
+==Further reading==
+*{{cite book |first=Bernd |last=Tuchen |title=Ford in der Formel 1 1965 bis 1994.  Die Geschichte des legendären Ford Cosworth DFV Motors.  Seine Entstehung, seine Rennställe, seine Siege und Weltmeister|language=de |location=Büchenbach |year=2006 |publisher=Verlag Dr. Faustus |isbn=978-3-933474-38-4 }}
+*{{cite book |first=Graham |last=Robson |title=Cosworth: The Search For Power |edition=4th |publisher=Haynes |year=1999 |isbn=1-85960-610-5 }}
+
+==External links==
+* [http://www.cosworth.com Cosworth]
+* [http://www.cosworth.com/Default.aspx?id=1089561 Cosworth Performance Parts]
+* [http://www.race-cars.com/utility/coswrthr.htm List of Cosworth engine types]
+
+{{Formula One constructors}}
+{{Automotive industry in the United Kingdom}}
+{{Ford Motor Company}}
+
+[[Category:Companies based in Northampton]]
+[[Category:Ford of Europe]]
+[[Category:Formula One engine manufacturers]]
+[[Category:Formula One constructors]]
+[[Category:Indy Racing League engine manufacturers]]
+[[Category:Companies established in 1958]]
+[[Category:1958 establishments in England]]
+[[Category:Formula One cars that never raced]]

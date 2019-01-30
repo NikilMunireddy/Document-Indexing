@@ -1,0 +1,689 @@
+Attack on Pearl Harbor
+
+{{Use mdy dates|date=December 2015}}
+<noinclude>{{pp-semi-indef}}
+{{pp-move-indef|small=yes}}</noinclude>
+{{Infobox military conflict
+|conflict=Attack on Pearl Harbor
+|partof=the [[Asiatic-Pacific Theater|Asia and the Pacific Theater]] of [[World War II]]
+|image=[[File:Attack on Pearl Harbor Japanese planes view.jpg|border|325px]]
+|caption=Photograph of [[Battleship Row]] taken from a Japanese plane at the beginning of the attack. The explosion in the center is a torpedo strike on {{USS|West Virginia|BB-48|6}}.<!--see image at commons--> Two attacking Japanese planes can be seen: one over {{USS|Neosho|AO-23|6}} and one over the Naval Yard.
+|date=December 7, 1941
+|place=Primarily [[Pearl Harbor]], [[Hawaii Territory]], U.S.
+|result=Japanese major tactical victory
+* [[United States declaration of war upon Japan|United States declares war on Japan]]
+* [[Axis powers#Germany's and Italy's declaration of war against the United States|Germany and Italy declare war on the U.S.]]
+* [[United States declaration of war upon Germany (1941)|U.S. declares war on Germany]]
+* [[United States declaration of war upon Italy|U.S. declares war on Italy]]
+* [[Military history of the United States during World War II|Entrance of the U.S. into World War II]]
+|combatant1={{flag|United States|1912}}
+|combatant2={{flag|Empire of Japan}}
+|commander1={{flagicon|United States Navy|1912}} [[Husband E. Kimmel]]<br />{{flagdeco|United States|1912}} [[Walter Short]]
+|commander2={{flagicon|Empire of Japan|naval}} [[Chuichi Nagumo]]<br />{{flagdeco|Empire of Japan|naval}} [[Isoroku Yamamoto]]
+|strength1=8 battleships<br />8 cruisers<br />30 destroyers<br />4 submarines<br />1 [[United States Coast Guard|USCG]] Cutter{{refn|{{USCGC|Taney|WHEC-37}} |group=nb}}<br />49 other ships<ref>{{cite web|url=http://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/ships-present-at-pearl-harbor.html|title=Ships and District Craft Present at Pearl Harbor, 0800 7 December 1941 U.S. Navy Historical Center |publisher=History.navy.mil |accessdate=July 5, 2015| archiveurl= https://web.archive.org/web/20110710014932/http://www.history.navy.mil/faqs/faq66-2.htm| archivedate=July 10, 2011 | deadurl=no}}</ref><br />≈390 aircraft
+|strength2='''[[Carrier Striking Task Force|Mobile Unit]]:'''<br />6 aircraft carriers<br />2 battleships<br />2 heavy cruisers<br />1 light cruiser<br />9 destroyers<br />8 tankers<br />23 fleet submarines<br />5 midget submarines<br />414 aircraft
+|casualties1=2 battleships totally lost<br />2 battleships sunk and recovered<br />3 battleships damaged<br />1 battleship grounded<br />2 other ships sunk{{refn|{{USS|Utah|BB-31|2}} and {{USS|Oglala|CM-4|2}}|group=nb}}<br />3 cruisers damaged{{refn|Unless otherwise stated, all vessels listed were salvageable.<ref name="Nimitz">[http://www.ibiblio.org/hyperwar/USN/rep/Pearl/CinCPac-Damage.html CinCP report of damage to ships in Pearl Harbor] from ibiblio.org/hyperwar.</ref>|group=nb}}<br />3 destroyers damaged<br />3 other ships damaged<br />188 aircraft destroyed<br />159<ref name=USN>{{cite web|url=http://www.history.navy.mil/faqs/faq66-1.htm|title=Overview of The Pearl Harbor Attack, 7 December 1941|publisher=|accessdate=October 5, 2014}}</ref> aircraft damaged<br />2,403 killed<br />1,178 wounded<ref name="ArmyChapter7pg194" /><ref name="Pearl Harbor Congress Report Pg64" />
+|casualties2=4 midget submarines sunk<br />1 midget submarine grounded<br />29 aircraft destroyed<br />64 killed<br />1 [[Kazuo Sakamaki|sailor]] captured<ref>{{Harvnb|Gilbert|2009|p=272}}.</ref>
+|notes=<center>'''Civilian casualties'''</center>68 killed<ref name=Gailey1995>{{Harvnb|Gailey|1995}}</ref><ref>{{cite web |url=http://www.usswestvirginia.org/ph/phresults.php |title=Pearl Harbor Casualty List |accessdate=December 7, 2012 |publisher=USSWestVirginia.org}}</ref><br />35 wounded<ref name="ArmyChapter7pg194" /> <br/> 3 aircraft shot down}}
+{{Campaignbox Hawaiian Islands Campaign}}
+{{Campaignbox Pacific 1941}}
+{{Campaignbox Pacific Ocean}}
+The '''attack on Pearl Harbor''', also known as the '''Battle of Pearl Harbor''',<ref>{{Harvnb|Morison|2001|pp=101, 120, 250}}</ref> the '''Hawaii Operation''' or '''Operation AI''' by the Japanese [[Imperial General Headquarters]],<ref>Prange, Gordon W., Goldstein, Donald, & Dillon, Katherine. ''The Pearl Harbor Papers'' (Brassey's, 2000), p. 17ff; [https://books.google.com/books?hl=en&lr=&id=q2pFnALHfykC&oi=fnd&pg=PA1&dq=commander+submarines+asiatic+fleet+young+pearl+harbor&ots=0Nt92QpZfS&sig=5QLkNif-iE7aNoRD7kwuIe8nrt0#v=snippet&q=%20Operation%20AI&f=false Google Books entry] on Prange ''et al''.</ref><ref>For the Japanese designator of Oahu. Wilford, Timothy. "Decoding Pearl Harbor", in ''The Northern Mariner'', XII, #1 (January 2002), p. 32fn81.</ref> and '''Operation Z''' during planning,<ref>Fukudome, Shigeru, "Hawaii Operation". United States Naval Institute, ''Proceedings'', 81 (December 1955), pp. 1315–1331</ref> was a surprise [[military strike]] by the [[Imperial Japanese Navy]] against the [[United States]] [[Naval Station Pearl Harbor|naval base]] at [[Pearl Harbor]], in the [[Hawaii#Annexation—the Territory of Hawaii (1898–1959)|Territory of Hawaii]], on the morning of December 7, 1941. The attack led to the United States' entry into [[World War II]].
+
+Japan intended the attack as a [[Preventive war|preventive]] action to keep the [[U.S. Pacific Fleet]] from interfering with military actions the [[Empire of Japan]] planned in [[Southeast Asia]] against overseas territories of the [[United Kingdom]], the [[Netherlands]], and the United States. Over the next seven hours there were coordinated Japanese attacks on the U.S.-held [[Philippines Campaign (1941–42)|Philippines]], [[Battle of Guam (1941)|Guam]] and [[Battle of Wake Island|Wake Island]] and on the [[British Empire]] in [[Japanese invasion of Malaya|Malaya]], [[Battle of Singapore#Outbreak of war|Singapore]], and [[Battle of Hong Kong|Hong Kong]].<ref name=Gill>{{cite book |last=Gill |first=G. Hermon |title=Royal Australian Navy 1939–1942 |series=Australia in the War of 1939–1945. Series 2 – Navy |volume=1 |year=1957 |publisher=Australian War Memorial |location=Canberra |isbn= |lccn=58037940 |page=485 |url=http://www.awm.gov.au/histories/second_world_war/volume.asp?levelID=67910 |accessdate=June 16, 2015}}</ref>  
+
+The attack commenced at 7:48&nbsp;a.m. [[Hawaiian Time]].<ref name="Prange 1941, p.174">Prange ''et al''. December 7, 1941, p. 174.</ref> The base was attacked by 353<ref name="parillo288">{{Harvnb|Parillo|2006|p=288}}</ref> Imperial Japanese [[fighter planes]], [[bombers]], and [[torpedo planes]] in two waves, launched from six [[aircraft carrier]]s.<ref name="parillo288"/> All eight U.S. Navy battleships were damaged, with four sunk. All but {{USS|Arizona|BB-39|2}} were later raised, and six were returned to service and went on to fight in the war. The Japanese also sank or damaged three [[cruiser]]s, three [[destroyer]]s, an anti-aircraft training ship,{{refn|{{USS|Utah|BB-31|6}} (AG-16, formerly BB-31); ''Utah'' was moored in the space intended to have been occupied by the aircraft carrier ''Enterprise'' which, returning with a task force, had been expected to enter the channel at 0730 on December 7. Strong headwinds delayed the refueling of the destroyers, and the task force did not reach Pearl Harbor until dusk the following day.<ref>{{Harvnb|Thomas|2007|pp=57–59}}.</ref>|group=nb}} and one [[minelayer]]. 188 U.S. aircraft were destroyed; 2,403 Americans were killed and 1,178 others were wounded.<ref>{{cite web|url=http://history1900s.about.com/od/Pearl-Harbor/a/Pearl-Harbor-Facts.htm|title=Pearl Harbor Facts|work=About|accessdate=October 5, 2014}}</ref> Important base installations such as the power station, shipyard, maintenance, and fuel and torpedo storage facilities, as well as the submarine piers and headquarters building (also home of the [[Station Hypo|intelligence section]]) were not attacked. Japanese losses were light: 29 aircraft and five [[midget submarine]]s lost, and 64 servicemen killed. One Japanese sailor, [[Kazuo Sakamaki]], was captured.
+
+The attack came as a profound shock to the American people and led directly to the American entry into World War II in both the [[Pacific War|Pacific]] and [[European theatre of World War II|European theaters]]. The following day, December 8, the United States [[United States declaration of war upon Japan|declared war]] on Japan.<ref>{{cite news|title=United States declares war|url=https://www.newspapers.com/clip/173105/us_declares_war_after_pearl_harbor/|accessdate=August 12, 2014|date=December 8, 1941|page=1|newspaper=[[Abilene Reporter-News]]|via=[[Newspapers.com]]}} {{Open access}}</ref> Domestic support for [[United States non-interventionism#Isolationism shortly before WWII|non-interventionism]], which had been fading since the [[Fall of France]] in 1940,<ref>Braumoeller, Bear F. (2010) [http://onlinelibrary.wiley.com/store/10.1111/j.1743-8594.2010.00117.x/asset/j.1743-8594.2010.00117.x.pdf?v=1&t=idkox1xs&s=0a733ff5e5ab90b455a9d501387f32935e75ac6b "The Myth of American Isolationism."] Foreign Policy Analysis 6: 349-371.</ref> disappeared. Clandestine support of the [[United Kingdom]] (e.g., the [[Neutrality Patrol]]) was replaced by active alliance. Subsequent operations by the U.S. prompted Germany and Italy to [[Axis Powers#Germany's and Italy's declaration of war against the United States|declare war]] on the U.S. on December 11, which was reciprocated by the U.S. the same day.
+
+From the 1950s, several writers alleged that parties high in the U.S. and British governments knew of the attack in advance and may have let it happen (or even encouraged it) with the aim of bringing the U.S. into war.<ref>''Design For War: A Study of Secret Power Politics 1937–1941'', Frederic R. Sanborn, Devin-Adair Company, New York, NY 1951.</ref><ref>''Back Door to War: The Roosevelt Foreign Policy, 1933–1941'', Charles C. Tansill, Henry Regnery Company, Chicago, IL, 1952.</ref> However, this [[Pearl Harbor advance-knowledge conspiracy theory|advance-knowledge conspiracy theory]] is rejected by mainstream historians.<ref>{{cite news |url=http://www.nytimes.com/1994/08/03/world/new-light-shed-on-churchill-and-pearl-harbor.html |title=New Light Shed on Churchill and Pearl Harbor |author=Stevenson, Richard W. |work= |publisher=The New York Times|accessdate=March 4, 2014}}</ref>{{refn|[[Gordon Prange]] specifically addresses some revisionist works, including [[Charles A. Beard]]. ''President Roosevelt and the Coming War 1941''; [[William Henry Chamberlin]], ''America's Second Crusade''; [[John T. Flynn]], ''The Roosevelt Myth''; George Morgenstern, ''Pearl Harbor''; Frederic R. Sanborn, ''Design for War''; [[Robert Alfred Theobald]], ''The Final Secret of Pearl Harbor''; Harry E. Barnes, ed., ''Perpetual War for Perpetual Peace'' and ''The Court Historians versus Revisionism''; [[Husband E. Kimmel]], ''Admiral Kimmel's Story''."<ref>{{Cite book|title=At Dawn We Slept: The Untold Story of Pearl Harbor|last1=Prange|first1=Gordon W.|author1-link=Gordon Prange|last2=Goldstein|first2=Donald M.|last3=Dillon|first3=Katherine V.|publisher=[[Penguin Books]]|location=New York|year=1991|page=867|isbn=9780140157345}}</ref>|group=nb}}
+
+There were numerous historical precedents for unannounced military action by Japan. However, the lack of any formal warning, particularly while negotiations were still apparently ongoing, led President [[Franklin D. Roosevelt]] to proclaim December 7, 1941, "[[Infamy Speech|a date which will live in infamy]]". Because the attack happened without a declaration of war and without explicit warning, the attack on Pearl Harbor was judged by the [[Tokyo Trials]] to be a [[Japanese war crimes|war crime]].<ref name="Yuma Totani 57">{{cite book |title=The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II |page=57 |author=Yuma Totani |date=April 1, 2009 |publisher=[[Harvard University Asia Center]]}}</ref><ref name="Stephen C. McCaffrey 210–229">{{cite book |title=Understanding International Law |pages=210–229 |author=Stephen C. McCaffrey |date=September 22, 2004 |publisher=[[AuthorHouse]]}}</ref>
+
+{{TOC limit|limit=3}}
+
+==Background to conflict==
+[[File:Pearl Harbor looking southwest-Oct41.jpg|thumb|Pearl Harbor on October 30, 1941, looking southwest]]
+
+{{Main|Events leading to the attack on Pearl Harbor}}
+
+===Diplomatic background===
+War between Japan and the United States had been a possibility of which each nation had been aware (and developed contingency plans for) since the 1920s, though tensions did not begin to grow seriously until [[Japanese invasion of Manchuria|Japan's 1931 invasion of Manchuria]]. Over the next decade, Japan continued to expand into China, leading to [[Second Sino-Japanese War|all-out war between those countries in 1937]]. Japan spent considerable effort trying to isolate China and achieve sufficient resource independence to attain victory on the mainland; the "Southern Operation" was designed to assist these efforts.<ref name="Barnhart 1987">{{Harvnb|Barnhart|1987}}.</ref>
+
+From December 1937, events such as the Japanese attack on [[USS Panay incident|USS ''Panay'']], the [[Allison incident]], and the [[Nanking Massacre]] (the International Military Tribunal of the Far East concluded that more than 200,000 Chinese [[non-combatant]]s were killed in indiscriminate massacres, though other estimates have ranged from 40,000 to more than 300,000) swung public opinion in the West sharply against Japan. Fearing Japanese expansion,<ref>Werner Gruhl (2007). ''[https://books.google.com/books?id=ow5Wlmu9MPQC&pg=PA39&dq&hl=en#v=onepage&q=&f=false Imperial Japan's World War Two, 1931–1945]''. Transaction Publishers. p. 39. ISBN 978-0-7658-0352-8</ref> the United States, the United Kingdom, and France provided loan assistance for war supply contracts to the [[Republic of China (1912–1949)|Republic of China]].
+
+In 1940, Japan [[Invasion of French Indochina|invaded French Indochina]] in an effort to control supplies reaching China. The United States halted shipments of airplanes, parts, [[machine tool]]s, and [[Avgas|aviation gasoline]] to Japan, which was perceived by Japan as an unfriendly act.{{refn|After it was announced in September iron and steel scrap export would also be prohibited, Japanese Ambassador Horinouchi protested to Secretary Hull on October 8, 1940 warning this might be considered an "unfriendly act".<ref name="PaW-96">{{Harvnb|GPO|1943|p=96|Ref=CITEREFGPO1943a}}</ref>|group=nb}} The U.S. did not stop oil exports to Japan at that time in part because prevailing sentiment in Washington was that such an action would be an extreme step that Japan would likely consider a provocation, given Japanese dependence on U.S. oil.<ref name="PaW-94">{{Harvnb|GPO|1943|p=94|Ref=CITEREFGPO1943a}}</ref><ref>Toland, ''Japan's War''.{{clarify|date=September 2010}}</ref>
+
+Early in 1941,<!--February?--> [[President of the United States|President]] [[Franklin D. Roosevelt]] moved the Pacific Fleet to Hawaii from its previous base in [[San Diego]] and ordered a military buildup in the [[Philippines]] in the hope of discouraging Japanese aggression in the Far East. Because the Japanese high command was (mistakenly) certain that any attack on the UK's Southeast Asian colonies would bring the U.S. into war, a devastating preventive strike appeared to be the only way to avoid U.S. naval interference.<ref name="autogenerated2" /> An invasion of the Philippines was also considered necessary by Japanese war planners. The U.S. [[War Plan Orange]] had envisioned defending the Philippines with a 40,000-man elite force. This was opposed by [[Douglas MacArthur#Field Marshal of the Philippine Army|Douglas MacArthur]], who felt that he would need a force ten times that size, and was never implemented.<ref>{{Citation|author=William Chalek|title=Guest of the Emperor|url=https://books.google.com/books?id=30KUgALzEF8C|year=2002|publisher=iUniverse|isbn=978-0-595-23996-2|chapter-url=https://books.google.com/books?id=30KUgALzEF8C&pg=PA45|chapter=8. War Plan Orange|pages=45–52}}</ref> By 1941, U.S. planners anticipated abandonment of the Philippines at the outbreak of war and orders to that effect were given in late 1941 to Admiral [[Thomas C. Hart|Thomas Hart]], commander of the [[United States Asiatic Fleet|Asiatic Fleet]].<ref>{{Citation|author=Edward S. Miller|title=War Plan Orange: The U.S. Strategy to Defeat Japan, 1897–1945|url=https://books.google.com/books?id=uZ0Bw4c8vKwC|year=2007|publisher=Naval Institute Press|isbn=978-1-59114-500-4|pages=[https://books.google.com/books?id=uZ0Bw4c8vKwC&pg=PA63 63]}}</ref>
+
+The U.S. ceased oil exports to Japan in July 1941, following Japanese expansion into French Indochina after the [[Battle of France|fall of France]], in part because of new American restrictions on domestic oil consumption.<ref name="PaW-125">{{Harvnb|GPO|1943|p=125|Ref=CITEREFGPO1943a}}</ref> This in turn caused the Japanese to proceed with plans to take the Dutch East Indies, an oil-rich territory.{{refn|This was mainly a Japanese Navy preference; the Japanese Army would have chosen to attack the Soviet Union.<ref name="Peattie 1997">{{Harvnb|Peattie|1997}}; Coox, ''Kobun''.</ref>|group=nb}} On August 17, Roosevelt warned Japan that the U.S. was prepared to take steps against Japan if it attacked "neighboring countries".<ref>[http://www.ibiblio.org/hyperwar/USA/USA-WD-Strategic1/USA-WD-Strategic1-4.html Chapter IV The Showdown With Japan August-December 1941] Strategic Planning for Coalition Warfare, 1941–1942</ref> The Japanese were faced with the option of either withdrawing from China and losing face or seizing and securing new sources of raw materials in the resource-rich, European-controlled colonies of Southeast Asia.
+
+Japan and the U.S. engaged in negotiations during the course of 1941 in an effort to improve relations. During these negotiations, Japan offered to withdraw from most of China and Indochina when peace was made with the Nationalist government, adopt an independent interpretation of the [[Tripartite Pact]], and not to discriminate in trade provided all other countries reciprocated. Washington rejected these proposals. Japanese Prime Minister Konoye then offered to personally meet with Roosevelt, but Roosevelt insisted on coming to an agreement before any meeting.<ref>[http://www.ibiblio.org/hyperwar/USA/USA-P-Strategy/Strategy-4.html Chapter IV: The Fatal Turn] Morton, Louis. Strategy and Command: The First Two Years</ref> The U.S. ambassador to Japan repeatedly urged Roosevelt to accept the meeting, warning that it was the only way to preserve the conciliatory Konoye government and peace in the Pacific.<ref>[http://www.ibiblio.org/pha/pha/congress/app-d.html#314 Review of the Diplomatic Conversations] REPORT OF THE
+JOINT COMMITTEE ON THE INVESTIGATION OF THE PEARL HARBOR ATTACK (1946)</ref> His recommendation was not acted upon. The Konoye government collapsed the following month when the Japanese military refused to agree to the withdrawal of all troops from China.<ref name="Chapter V: The Decision for War">[http://www.ibiblio.org/hyperwar/USA/USA-P-Strategy/Strategy-5.html Chapter V: The Decision for War] Morton, Louis. Strategy and Command: The First Two Years</ref>
+
+Japan's final proposal, on November 20, offered to withdraw their forces from southern Indochina and not to launch any attacks in Southeast Asia provided that the U.S., the UK, and the Netherlands ceased aiding China and lifted their sanctions against Japan.<ref name="Chapter V: The Decision for War"/> The American counter-proposal of November 26 (November 27 in Japan) (the [[Hull note]]) required Japan to evacuate all of China without conditions and conclude non-aggression pacts with Pacific powers. However the day before the Hull Note was delivered, on November 26 in Japan, the main Japanese attack fleet left port for Pearl Harbor.
+
+===Military planning===
+
+Preliminary planning for an attack on Pearl Harbor to protect the move into the "Southern Resource Area" (the Japanese term for the Dutch East Indies and Southeast Asia generally) had begun very early in 1941 under the auspices of Admiral [[Isoroku Yamamoto]], then commanding Japan's [[Combined Fleet]].<ref name=Gailey1995p68>{{Harvnb|Gailey|1995|p=68}}</ref> He won assent to formal planning and training for an attack from the [[Imperial Japanese Navy General Staff]] only after much contention with Naval Headquarters, including a threat to resign his command.<ref name=Gailey1995p70>{{Harvnb|Gailey|1995|p=70}}</ref> Full-scale planning was underway by early spring 1941, primarily by Rear Admiral [[Ryunosuke Kusaka]], with assistance from Captain [[Minoru Genda]] and Yamamoto's Deputy Chief of Staff, Captain [[Kameto Kuroshima]].<ref>{{Cite book |url=https://books.google.com/books?id=pnrTdRy6t8MC&pg=PT14 |page=14 |last=Lord |first=Walter |title=Day of Infamy |publisher=Open Road Media |year=2012 |isbn=1-4532-3842-5}}</ref> The planners studied the [[Battle of Taranto|1940 British air attack on the Italian fleet]] at [[Taranto]] intensively.{{refn|"The Dorn report did not state with certainty that Kimmel and Short knew about Taranto. There is, however, no doubt that they did know, as did the Japanese. Lt. Cdr. Takeshi Naito, the assistant [[Military attaché|naval attaché]] to Berlin, flew to Taranto to investigate the attack first hand, and Naito subsequently had a lengthy conversation with Cdr. [[Mitsuo Fuchida]] about his observations. Fuchida led the Japanese attack on December 7, 1941."<ref>{{Harvnb|Borch|Martinez|2005|pp=53–54}}.</ref>|group=nb}}{{refn|"A [[torpedo bomber]] needed a long, level flight, and when released, its conventional torpedo would plunge nearly a hundred feet deep before swerving upward to strike a hull. Pearl Harbor deep averages 42 feet. But the Japanese borrowed an idea from the British carrier-based torpedo raid on the Italian naval base of Taranto. They fashioned auxiliary wooden tail fins to keep the torpedoes horizontal, so they would dive to only 35 feet, and they added a breakaway "nosecone" of soft wood to cushion the impact with the surface of the water."<ref>''Hellions of the Deep: The Development of American Torpedoes in World War II.'' By Robert Gannon, Published by Penn State Press, 1996, p. 49. ISBN 0-271-01508-X</ref>|group=nb}}
+
+Over the next several months, pilots trained, equipment was adapted, and intelligence collected. Despite these preparations, [[Emperor Hirohito]] did not approve the attack plan until November 5, after the third of four [[Gozen Kaigi|Imperial Conferences]] called to consider the matter.<ref>{{Harvnb|Wetzler|1998|p=39}}.</ref> Final authorization was not given by the emperor until December 1, after a majority of Japanese leaders advised him the "[[Hull Note]]" would "destroy the fruits of the China incident, endanger Manchukuo and undermine Japanese control of Korea."<ref>{{Harvnb|Bix|2000|p=417}}, citing the Sugiyama memo</ref>
+
+By late 1941, many observers believed that hostilities between the U.S. and Japan were imminent. A [[Gallup poll]] just before the attack on Pearl Harbor found that 52% of Americans expected war with Japan, 27% did not, and 21% had no opinion.<ref name="cipo19411208">{{cite news |url=https://news.google.com/newspapers?id=RPcuAAAAIBAJ&sjid=s9sFAAAAIBAJ&pg=5721%2C1471377 |title=Gallup Poll Found 52 p.c. of Americans Expected War |work=Ottawa Citizen |date=December 8, 1941 |accessdate=November 28, 2011 |author=The Canadian Institute of Public Opinion |page=1}}</ref> While U.S. Pacific bases and facilities had been placed on alert on many occasions, U.S. officials doubted Pearl Harbor would be the first target; instead, they expected the Philippines would be attacked first. This presumption was due to the threat that the air bases throughout the country and the naval base at Manila posed to sea lanes, as well as to the shipment of supplies to Japan from territory to the south.<ref>Noted by [[Arthur MacArthur, Jr.|Arthur MacArthur]] in the 1890s. Manchester, William. ''[[American Caesar]]''</ref> They also incorrectly believed that Japan was not capable of mounting more than one major naval operation at a time.<ref>Peattie & Evans, ''Kaigun''</ref>
+
+Ever since the Japanese attack, there has been debate as to how and why the United States had been caught unaware, and how much and when American officials knew of Japanese plans and related topics.  Military officers including Gen. [[Billy Mitchell]] had pointed out the vulnerabiliy of Pearl to Air attack.  At least two Naval War games, one in 1932 and another in 1936 proved that Pearl was vulnerable to such an attack. Adm. [[James O. Richardson|James Richardson]] was removed from command shortly after protesting President Roosevelt's decision to move the bulk of the Pacific fleet to Pearl Harbor.<ref>[http://unlearnedhistory.blogspot.com/2015/12/rehearsals-for-pearl-harbor.html Rehearsals for Pearl Harbor]{{unreliable source?|date=December 2015}}</ref>  The decisions of military and political leadership to ignore these warnings has contributed to conspiracy theories.  Several writers, including journalist Robert Stinnett and former United States rear admiral Robert Alfred Theobald, have argued that various parties high in the U.S. and British governments knew of the attack in advance and may even have let it happen or encouraged it in order to force the U.S. into war via the so-called "back door". However, this [[Pearl Harbor advance-knowledge conspiracy theory]] is rejected by mainstream historians.<ref>{{cite book|last=Prange|first=Gordon W.|title=Pearl Harbor: The Verdict of History|year=1991|publisher=Penguin Books|isbn=978-0140159097|author2=Donald M. Goldstein |author3=Katherinve V. Dillon }}</ref><ref>{{cite book|last=Prados|first=John|title=Combined Fleet Decoded: The Secret History of American Intelligence and the Japanese Navy in World War II|year=1995|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-431-8|pages=161–177}}</ref><ref>{{cite book|last=Budiansky|first=Stephen|title=Battle of Wits: The Complete Story of Codebreaking in World War II|year=2002|publisher=Free Press|isbn=978-0743217347}}</ref>
+
+===Objectives===
+The attack had several major aims. First, it intended to destroy important American fleet units, thereby preventing the Pacific Fleet from interfering with Japanese conquest of the Dutch East Indies and Malaya and to enable Japan to conquer Southeast Asia without interference. Second, it was hoped to buy time for Japan to consolidate its position and increase its naval strength before shipbuilding authorized by the 1940 [[Two-Ocean Navy Act|Vinson-Walsh Act]] erased any chance of victory.<ref name=Willmott14>{{Harvnb|Willmott|1983|p=14}}.</ref><ref>[[Shigeru Fukudome|Fukudome, Shigeru]]. ''Shikan: Shinjuwan Kogeki'' (Tokyo, 1955), p. 150.</ref> Third, to deliver a blow to America's ability to commit its forces in the Pacific, battleships were chosen as the main targets, since they were the prestige ships of any navy at the time.<ref name=Willmott14/> Finally, it was hoped that the attack would undermine American morale such that the U.S. government would drop its demands contrary to Japanese interests, and would seek a compromise peace with Japan.<ref>Gordon W. Prange, Donald M. Goldstein and Katherine V. Dillon, ''At Dawn We Slept: The Untold Story of Pearl Harbor'' (1982)</ref><ref>Alan Zimm, ''The Attack on Pearl Harbor: Strategy, Combat, Myths, Deceptions'' (2011)</ref>
+
+Striking the Pacific Fleet at anchor in Pearl Harbor carried two distinct disadvantages: the targeted ships would be in very shallow water, so it would be relatively easy to salvage and possibly repair them; and most of the crews would survive the attack, since many would be on [[shore leave]] or would be rescued from the harbor. A further important disadvantage—this of timing, and known to the Japanese—was the absence from Pearl Harbor of all three of the U.S. Pacific Fleet's aircraft carriers ({{USS|Enterprise|CV-6|2}}, {{USS|Lexington|CV-2|2}}, and {{USS|Saratoga|CV-3|2}}). IJN top command was so imbued with [[Alfred Thayer Mahan|Admiral Mahan]]'s "decisive battle" doctrine—especially that of destroying the maximum number of battleships—that, despite these concerns, Yamamoto decided to press ahead.<ref>''Kaigun''; Wilmott, ''Barrier and the Javelin''; Blair, ''Silent Victory''</ref>{{page needed|date=October 2015}}<!--& there may be other sources for this-->
+
+Japanese confidence in their ability to achieve a short, victorious war also meant other targets in the harbor, especially the navy yard, oil tank farms, and submarine base, were ignored<!--not exactly ignored: commanders debated another attack to get them, but it was seen as being too risky-->, since—by their thinking—the war would be over before the influence of these facilities would be felt.<ref name="Willmott 1983">{{Harvnb|Willmott|1983}}</ref>
+
+==Approach and attack==
+{{See also|Order of battle of the Attack on Pearl Harbor}}
+
+[[File:PearlHarborCarrierChart.jpg|thumb|right|Route followed by the Japanese fleet to Pearl Harbor and back.]]
+[[File:A6M2 on carrier Akagi 1941.jpeg|thumb|right|An Imperial Japanese Navy [[Mitsubishi A6M Zero]] fighter on the aircraft carrier ''[[Japanese aircraft carrier Akagi|Akagi]].]]''
+
+On November 26, 1941, a Japanese task force (the [[Kido Butai|Striking Force]]) of six aircraft carriers—{{ship|Japanese aircraft carrier|Akagi||2}}, {{ship|Japanese aircraft carrier|Kaga||2}}, {{ship|Japanese aircraft carrier|Sōryū||2}}, {{ship|Japanese aircraft carrier|Hiryū||2}}, {{ship|Japanese aircraft carrier|Shōkaku||2}}, and {{ship|Japanese aircraft carrier|Zuikaku||2}}—departed northern Japan ''en route'' to a position northwest of Hawaii, intending to launch its 408 aircraft to attack Pearl Harbor: 360 for the two attack waves and 48 on defensive [[combat air patrol]] (CAP), including nine fighters from the first wave.
+
+The first wave was to be the primary attack, while the second wave was to attack carriers as its first objective and cruisers as its second, with battleships as the third target.<ref>{{Harvnb|Zimm|2011|p=132}}</ref> The first wave carried most of the weapons to attack capital ships, mainly specially adapted [[Type 91 torpedo|Type 91]] [[aerial torpedo]]es which were designed with an anti-roll mechanism and a rudder extension that let them operate in shallow water.<ref name="autogenerated3">{{Harvnb|Peattie|2001}} p. 145.</ref> The aircrews were ordered to select the highest value targets (battleships and [[aircraft carrier]]s) or, if these were not present, any other high value ships (cruisers and destroyers). First wave [[dive bomber]]s were to attack ground targets. Fighters were ordered to strafe and destroy as many parked aircraft as possible to ensure they did not get into the air to intercept the bombers, especially in the first wave. When the fighters' fuel got low they were to refuel at the aircraft carriers and return to combat. Fighters were to serve CAP duties where needed, especially over U.S. airfields.{{citation needed|date = September 2014}}
+
+Before the attack commenced, two reconnaissance aircraft launched from cruisers {{ship|Japanese cruiser|Chikuma|1938|2}} and {{ship|Japanese cruiser|Tone|1937|2}} were sent to scout over Oahu and Maui and report on U.S. fleet composition and location. Reconnaissance aircraft flights risked alerting the U.S.,<ref>{{Harvnb|Zimm|2011|pp=173, 174}}</ref> and were not necessary. U.S. fleet composition and preparedness information in Pearl Harbor was already known due to the reports of the Japanese spy [[Takeo Yoshikawa]]. A report of the absence of the U.S. fleet in Lahaina anchorage off Maui was received from the fleet submarine {{Jsub|I-72||2}}.<ref>{{Harvnb|Zimm|2011|p=153}}</ref> Another four scout planes patrolled the area between the Japanese carrier force (the [[Kido Butai]]) and [[Niihau]], to detect any counterattack.<ref name="autogenerated1">{{cite web|author=Tony DiGiulian |url=http://www.navweaps.com/index_oob/OOB_WWII_Pacific/OOB_WWII_Pearl_Harbor.htm |title=Order of Battle – Pearl Harbor – December 7, 1941 |publisher=Navweaps.com |accessdate=July 17, 2011| archiveurl=https://web.archive.org/web/20110630214745/http://navweaps.com/index_oob/OOB_WWII_Pacific/OOB_WWII_Pearl_Harbor.htm| archivedate=June 30, 2011 | deadurl=no}}</ref>
+
+===Submarines===
+Fleet submarines {{Jsub|I-16||2}}, {{Jsub|I-18||2}}, {{Jsub|I-20||2}}, {{Jsub|I-22||2}}, and {{Jsub|I-24||2}} each embarked a [[Ko-hyoteki class submarine|Type A]] [[midget submarine]] for transport to the waters off Oahu.<ref name="proceedings">Stewart, A.J., Lieutenant Commander, USN. "Those Mysterious Midgets", ''United States Naval Institute Proceedings'', December 1974, p. 56</ref> The five I-boats left [[Kure Naval District]] on November 25, 1941.<ref name="p56">Stewart, p. 56</ref> On December 6, they came to within {{convert|10|nmi|km mi|abr=on}} of the mouth of Pearl Harbor<ref>{{Harvnb|Goldstein|2000|p=[https://books.google.com/books?id=q2pFnALHfykC&pg=PA146 146]}}</ref> and launched their midget subs at about 01:00{{clarify|date=June 2012}}<!--local or IJN time/--> on December 7.<ref name="p57">Stewart, "Those Mysterious Midgets", p. 57</ref> At 03:42<ref>{{Harvnb|Smith|1999|p=36}}</ref> [[Hawaii-Aleutian Standard Time Zone|Hawaiian Time]], the [[Minesweeper (ship)|minesweeper]] {{USS|Condor|AMc-14|2}} spotted a midget submarine periscope southwest of the Pearl Harbor entrance buoy and alerted the destroyer {{USS|Ward|DD-139|2}}.<ref name="p58">Stewart, "Those Mysterious Midgets", p.&nbsp;58</ref> The midget may have entered Pearl Harbor. However, ''Ward'' sank another midget submarine at 06:37<ref name="p58"/>{{refn|She was located by a [[University of Hawaii]] research submersible on August 28, 2002 in {{convert|400|m|ft|abbr=on}} of water, {{convert|6|nmi|km|abbr=on}} outside the harbor.<ref>{{cite web|url=http://www.soest.hawaii.edu/HURL/gallery/archaeology/midget.html|title=Japanese Midget Submarine|accessdate=January 20, 2014}}</ref>|group=nb}} in the [[first American shots fired in World War II|first American shots in the Pacific Theater]]. A midget submarine on the north side of Ford Island missed the [[seaplane tender]] {{USS|Curtiss|AV-4|2}} with her first torpedo and missed the attacking destroyer {{USS|Monaghan|DD-354|2}} with her other one before being sunk by ''Monaghan'' at 08:43.<ref name="p58"/>
+
+A third midget submarine, ''[[HA. 19 (Japanese Midget Submarine)|Ha-19]]'', grounded twice, once outside the harbor entrance and again on the east side of Oahu, where it was captured on December 8.<ref name="p60">Stewart, pp.&nbsp;59–61</ref> Ensign [[Kazuo Sakamaki]] swam ashore and was captured by [[Hawaii National Guard]] Corporal [[David Akui]], becoming the first Japanese [[prisoner of war]].{{refn|While the nine sailors who died in the attack were quickly lionized by the Japanese government as ''Kyūgunshin'' ("The Nine War Heroes"), the news of Sakamaki's capture, which had been publicized in U.S. news broadcasts, was kept secret. Even after the war, however, he received recriminating correspondence from those who despised him for not sacrificing his own life.|group=nb}} A fourth had been damaged by a depth charge attack and was abandoned by its crew before it could fire its torpedoes.<ref name="p612">Stewart, ''Those Mysterious Midgets'', pp. 61–62</ref> Japanese forces received a radio message from a midget submarine at 00:41 on December 8 claiming damage to one or more large warships inside Pearl Harbor.<ref name="ussbs">Ofstie, R. A., Rear Admiral, USN. ''The Campaigns of the Pacific War'' (United States Government Printing Office, 1946), p. 19</ref>
+
+In 1992, 2000, and 2001, [[Hawaii Undersea Research Laboratory]]'s submersibles found the wreck of the fifth midget submarine lying in three parts outside Pearl Harbor. The wreck was in the debris field where much surplus U.S. equipment was dumped after the war, including vehicles and landing craft. Both of its torpedoes were missing. This correlates with reports of  two torpedoes fired at the [[light cruiser]] {{USS|St. Louis|CL-49|2}} at 10:04 at the entrance of Pearl Harbor, and a possible torpedo fired at destroyer {{USS|Helm|DD-388|2}} at 08:21.<ref>{{Harvnb|Zimm|2011|pp=330–341}}</ref>
+
+===Japanese declaration of war===
+{{See also|Japanese war crimes}}
+The attack took place before any formal declaration of war was made by Japan, but this was not Admiral Yamamoto's intention. He originally stipulated that the attack should not commence until thirty minutes after Japan had informed the United States that peace negotiations were at an end.{{citation needed|date=April 2015}} However, the attack began before the notice could be delivered. Tokyo transmitted the 5000-word notification (commonly called the "14-Part Message") in two blocks to the Japanese Embassy in Washington, but transcribing the message took too long for the Japanese ambassador to deliver it in time. (In fact, U.S. code breakers had already deciphered and translated most of the message hours before he was scheduled to deliver it.)<ref>Toland, ''Infamy''</ref> The final part of the "14 Part Message" is sometimes described as a declaration of war. While it was viewed by a number of senior U.S government and military officials as a very strong indicator that negotiations were likely to be terminated<ref>At Dawn We Slept Prange, Goldstein. Dillon pp. 424, 475</ref> and that war might break out at any moment,<ref>''At Dawn We Slept'', Prange, Goldstein. Dillon pp. 493–494</ref> it neither declared war nor severed diplomatic relations. [[Japanese declaration of war on the United States and the British Empire|A declaration of war was printed on the front page of Japan's newspapers in the evening edition of December 8]],<ref>[http://tmcdaniel.palmerseminary.edu/Rescript-English.pdf Declaration of War handout] Retrieved August 9, 2012.</ref> but not delivered to the U.S. government until the day after the attack.
+
+For decades, conventional wisdom held that Japan attacked without any official warning of a break in relations only because of accidents and bumbling that delayed the delivery of a document hinting at war to Washington. In 1999, however, Takeo Iguchi, a professor of law and international relations at [[International Christian University]] in Tokyo, discovered documents that pointed to a vigorous debate inside the government over how, and indeed whether, to notify Washington of Japan's intention to break off negotiations and start a war, including a December 7 entry in the war diary saying, "our deceptive diplomacy is steadily proceeding toward success." Of this, Iguchi said, "The diary shows that the army and navy did not want to give any proper declaration of war, or indeed prior notice even of the termination of negotiations&nbsp;... and they clearly prevailed."<ref>{{Cite news|url=http://www.nytimes.com/1999/12/09/world/pearl-harbor-truly-a-sneak-attack-papers-show.html?pagewanted=1 |title=Pearl Harbor Truly a Sneak Attack, Papers Show |author=Howard W. French |publisher=The New York Times |date=December 9, 1999}}</ref><ref>Kawabata, Tai, "[http://www.japantimes.co.jp/news/2014/12/09/national/history/historian-seeks-to-clear-embassy-of-pearl-harbor-sneak-attack-infamy/#.VIg4Ho0cR9A Historian seeks to clear embassy of Pearl Harbor 'sneak attack' infamy]", ''[[Japan Times]]'', December 10, 2014, p. 3</ref>
+
+===First wave composition===
+[[File:Pearlmap1.png|thumb|300px|The Japanese attacked in two waves. The first wave was detected by [[U.S. Army]] [[radar]] at {{convert|136|nmi|km|0}}, but was misidentified as [[USAAF]] [[bombers]] arriving from the American mainland<br />Top:<br />A. Ford Island NAS B. Hickam Field C. Bellows Field D. Wheeler Field<br />E. Kaneohe NAS F. Ewa MCAS R-1. Opana Radar Station R-2. Kawailoa RS R-3. Kaaawa RS<br />G. Haleiwa H. Kahuku I. Wahiawa J. Kaneohe K. Honolulu<br />0. B-17s from mainland 1. First strike group 1-1. Level bombers 1-2. Torpedo bombers 1-3. Dive bombers 2. Second strike group 2-1. Level bombers 2-1F. Fighters 2-2. Dive bombers<br />Bottom:<br />A. Wake Island B. Midway Islands C. Johnston Island D. Hawaii<br />D-1. Oahu 1. USS ''Lexington'' 2. USS ''Enterprise'' 3. First Air Fleet]]
+
+[[File:Pearlmap2.png|thumb|right|250px|{{legend|#6C6FD9|<{{convert|21|ft|m|1}}}}
+{{legend|#6467D8|{{convert|22|-|23|ft|m|1}}}}
+{{legend|#5A5DD6|{{convert|29|ft|m|1}}}}
+{{legend|#4F52D3|{{convert|30|-|32|ft|m|1}}}}
+{{legend|#4346D1|{{convert|33|-|34|ft|m|1}}}}
+{{legend|#3236CA|{{convert|34|-|35|ft|m|1}}}}
+{{legend|#1F21C2|{{convert|36|-|37|ft|m|1}}}}
+{{legend|#1F21AC|{{convert|38|-|39|ft|m|1}}}}
+{{legend|#1F2195|{{convert|40|-|41|ft|m|1}}}}
+{{legend|#1F2182|{{convert|42|-|48|ft|m|1}}}}
+{{legend|#1E2076|>{{convert|49|ft|m|1}}}}
+{{legend|#E1E1E1|City}}
+{{legend|#4E583F|Army base}}
+{{legend|#808080|Navy base}} Attacked targets:<br />1: [[w:USS California (BB-44)|USS ''California'']]<br />2: [[w:USS Maryland (BB-46)|USS ''Maryland'']]<br />3: [[w:USS Oklahoma (BB-37)|USS ''Oklahoma'']]<br />4: [[w:USS Tennessee (BB-43)|USS ''Tennessee'']]<br />5: [[w:USS West Virginia (BB-48)|USS ''West Virginia'']]<br />6: [[w:USS Arizona (BB-39)|USS ''Arizona'']]<br />7: [[w:USS Nevada (BB-36)|USS ''Nevada'']]<br />8: [[w:USS Pennsylvania (BB-38)|USS ''Pennsylvania'']]<br />9: [[w:Ford Island|Ford Island NAS]]<br />10: [[w:Hickam Air Force Base|Hickam field]]<br />Ignored infrastructure targets:<br />A: Oil storage tanks<br />B: CINCPAC headquarters building<br />C: Submarine base<br />D: Navy Yard]]
+
+The first attack wave of 183 planes was launched north of Oahu, led by Commander [[Mitsuo Fuchida]].<ref>Shinsato, Douglas and Tadanori Urabe, ''For That One Day: The Memoirs of Mitsuo Fuchida, Commander of the Attack on Pearl Harbor'', Chapters 19 and 20, eXperience, inc., Kamuela, Hawaii, 2011. ISBN 978-0-9846745-0-3</ref> Six planes failed to launch due to technical difficulties.<ref name="autogenerated1" /> It included:{{refn|The Japanese Attack on Pearl Harbor, Planning and Execution. First wave: 189 planes, 50 Kates w/bombs, 40 Kates with torpedoes, 54 Vals, 45 Zekes Second wave: 171 planes, 54 Kates w/bombs, 81 Vals, 36 Zekes. The Combat Air Patrol over the carriers alternated 18 plane shifts every two hours, with 18 more ready for takeoff on the flight decks and an additional 18 ready on hangar decks.<ref name="IJN">{{cite web|url=http://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-2.html#appendix3 |title=Aircraft Attack Organization |publisher=Ibiblio.org |accessdate=July 17, 2011| archiveurl= https://web.archive.org/web/20110623081726/http://ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-2.html| archivedate= June 23, 2011 | deadurl= no}}</ref>|group=nb}}
+* '''1st Group''' (targets: battleships and aircraft carriers)<ref name=navsource-ijnaf>{{Harvnb|NavSource|2003}}</ref>
+** 49 [[Nakajima B5N]] ''Kate'' bombers armed with 800&nbsp;kg (1760&nbsp;lb) [[armor-piercing bomb]]s, organized in four sections (1 failed to launch)
+** 40 B5N bombers armed with [[Type 91 torpedo]]es, also in four sections
+* '''2nd Group''' – (targets: [[Ford Island]] and [[Wheeler Field]])
+** 51 [[Aichi D3A]] ''Val'' dive bombers armed with {{convert|550|lb|kg|0|abbr=on}} [[general-purpose bomb]]s (3 failed to launch)
+* '''3rd Group''' – (targets: aircraft at Ford Island, Hickam Field, Wheeler Field, Barber's Point, Kaneohe)
+** 43 [[Mitsubishi A6M Zero|Mitsubishi A6M "Zero"]] fighters for air control and [[strafe|strafing]]<ref name="IJN" /> (2 failed to launch)
+
+As the first wave approached Oahu, it was detected by the U.S. Army [[SCR-270 radar]] at [[Opana Radar Site|Opana Point]] near the island's northern tip. This post had been in training mode for months, but was not yet operational.<ref>Prange, Goldstein, Dillon. ''At Dawn We Slept''. pages&nbsp;730–31 'Short mishandled radar&nbsp;...' In his (Short's) words '...&nbsp;more for training than any idea it would be real'</ref> The operators, Privates George Elliot Jr. and Joseph Lockard, reported a target.<ref>Evans, Harold. ''The American Century'' London: Jonathan Cape, 1998. p. 309.</ref>  But Lieutenant [[Kermit A. Tyler]], a newly assigned officer at the thinly manned Intercept Center, presumed it was the scheduled arrival of six [[Boeing B-17 Flying Fortress|B-17]] bombers from California. The Japanese planes were approaching from a direction very close (only a few degrees difference) to the bombers,<ref>{{Harvnb|Prange|1999|p=98}}{{citation needed|date=October 2011|reason=no full cite present; unable to identify (Prange 1999)}}</ref> and while the operators had never seen a formation as large on radar, they neglected to tell Tyler of its size.<ref name="prange501">Prange ''et al.'', ''At Dawn We Slept'', p. 500-501.</ref> Tyler, for security reasons, could not tell the operators of the six B-17s that were due (even though it was widely known).<ref name="prange501"/>
+
+As the first wave planes approached Oahu, they encountered and shot down several U.S. aircraft. At least one of these radioed a somewhat incoherent warning. Other warnings from ships off the harbor entrance were still being processed or awaiting confirmation when the attacking planes began bombing and strafing. Nevertheless, it is not clear any warnings would have had much effect even if they had been interpreted correctly and much more promptly. The results the Japanese achieved in the Philippines were essentially the same as at Pearl Harbor, though MacArthur had almost nine hours warning that the Japanese had already attacked Pearl Harbor.
+
+The air portion of the attack began at 7:48&nbsp;a.m. Hawaiian Time<ref name="Prange 1941, p.174"/> (3:18&nbsp;a.m. December 8 [[Japanese Standard Time]], as kept by ships of the ''Kido Butai''),<ref>Symonds, Craig L. ''The Battle Of Midway'', (Oxford University Press, 2011), p. 218.</ref>{{refn|In 1941, Hawaii was a half-hour different from the majority of other time zones. See [[UTC−10:30]].|group=nb}} with the attack on Kaneohe. A total of 353<ref name="parillo288"/> Japanese planes in two waves reached Oahu. Slow, vulnerable torpedo bombers led the first wave, exploiting the first moments of surprise to attack the most important ships present (the battleships), while dive bombers attacked U.S. [[Military airbase|air bases]] across Oahu, starting with [[Hickam Field]], the largest, and [[Wheeler Field]], the main U.S. Army Air Forces fighter base. The 171 planes in the second wave attacked the Army Air Forces' [[Bellows Field]] near Kaneohe on the windward side of the island, and [[Ford Island]]. The only aerial opposition came from a handful of [[P-36 Hawk]]s, [[P-40 Warhawk]]s, and some [[SBD Dauntless]] dive bombers from the carrier {{USS|Enterprise|CV-6|2}}.{{refn|In the twenty-five sorties flown, USAF Historical Study No.85 credits six pilots with ten planes destroyed: 1st Lt Lewis M. Sanders (P-36) and 2nd Lts Philip M Rasmussen (P-36), Gordon H. Sterling Jr. (P-36, [[killed in action]]), Harry W. Brown (P-36), [[Kenneth M. Taylor]] (P-40, 2), and [[George Welch (pilot)|George S. Welch]] (P-40, 4). Three of the P-36 kills were not verified by the Japanese and may have been shot down by naval [[Anti-aircraft warfare|anti-aircraft]] fire.|group=nb}}
+[[File:SB2U-3 VMSB-231 Ewa 7Dec1941.jpg|thumb|left|A destroyed [[SB2U Vindicator|Vindicator]] at [[Marine Corps Air Station Ewa|Ewa field]], the victim of one of the smaller attacks on the approach to Pearl Harbor.]]
+In the first wave attack, about eight of the forty-nine 800&nbsp;kg (1760&nbsp;lb) armor-piercing bombs dropped hit their intended battleship targets. At least two of those bombs broke up on impact, another detonated before penetrating an unarmored deck, and one was a dud. Thirteen of the forty torpedoes hit battleships, and four torpedoes hit other ships.<ref>{{cite journal |last=Hone |first=Thomas C. |year=1977 |title=The Destruction of the Battle Line at Pearl Harbor |journal=[[Proceedings]] |volume=103 |issue=12 |pages=56&57 |publisher=[[United States Naval Institute]] }}</ref> Men aboard U.S. ships awoke to the sounds of alarms, bombs exploding, and gunfire, prompting bleary-eyed men to dress as they ran to [[General quarters|General Quarters]] stations. (The famous message, "Air raid Pearl Harbor. This is not<!--sic--> drill.",{{refn|Odd though it may sound, "not" is correct, in keeping with standard Navy telegraphic practice. This was confirmed by Beloite and Beloite after years of research and debate.|group=nb}} was sent from the headquarters of Patrol Wing Two, the first senior Hawaiian command to respond.) The defenders were very unprepared. Ammunition lockers were locked, aircraft parked wingtip to wingtip in the open to prevent sabotage,<ref name="parillo293">{{Harvnb|Parillo|2006|p=293}}</ref> guns unmanned (none of the Navy's [[5"/38 caliber gun|5"/38s]], only a quarter of its [[machine gun]]s, and only four of 31 Army batteries got in action).<ref name="parillo293" /> Despite this low [[Alert state|alert status]], many American military personnel responded effectively during the attack.{{refn|The gunners that did get in action scored most of the victories against Japanese aircraft that morning, including the first of the attack by {{USS|Tautog|SS-199|2}}, and [[Dorie Miller]]'s [[Navy Cross]]-worthy effort. Miller was an [[African-American]] cook aboard ''West Virginia'' who took over an unattended [[anti-aircraft gun]] on which he had no training. He was the first African-American sailor to be awarded the Navy Cross.|group=nb}} Ensign Joe Taussig Jr., aboard {{USS|Nevada|BB-36|2}}, commanded the ship's antiaircraft guns and was severely wounded, but continued to be on post. Lt. Commander F. J. Thomas commanded ''Nevada'' in the captain's absence and got her under way until the ship was grounded at 9:10&nbsp;a.m.<ref>Bonner, Kermit. ''Final Voyages'' p. 105</ref> One of the destroyers, {{USS|Aylwin|DD-355|2}}, got underway with only four officers aboard, all ensigns, none with more than a year's sea duty; she operated at sea for 36 hours before her commanding officer managed to get back aboard.<ref>[http://www.history.navy.mil/danfs/a15/aylwin-iii.htm Aylwin], [http://www.history.navy.mil/danfs/index.html Dictionary of American Naval Fighting Ships].</ref> Captain [[Mervyn Bennion]], commanding {{USS|West Virginia|BB-48|2}}, led his men until he was cut down by fragments from a bomb which hit {{USS|Tennessee|BB-43|2}}, moored alongside.
+
+===Second wave composition===
+
+The second planned wave consisted of 171 planes: 54 B5Ns, 81 D3As, and 36 A6Ms, commanded by [[Lieutenant-Commander]] [[Shigekazu Shimazaki]].<ref name="IJN"/> Four planes failed to launch because of technical difficulties.<ref name="autogenerated1" /> This wave and its targets comprised:<ref name="IJN"/>
+* '''1st Group''' – 54 B5Ns armed with {{convert|550|lb|kg|0|abbr=on}} and {{convert|132|lb|kg|abbr=on}} general-purpose bombs<ref name=navsource-ijnaf />
+** 27 B5Ns – aircraft and hangars on Kaneohe, Ford Island, and Barbers Point
+** 27 B5Ns – hangars and aircraft on Hickam Field
+* '''2nd Group''' (targets: aircraft carriers and cruisers)
+** 78 D3As armed with {{convert|550|lb|kg|0|abbr=on}} general-purpose bombs, in four sections (3 aborted)
+* '''3rd Group''' – (targets: aircraft at Ford Island, Hickam Field, Wheeler Field, Barber's Point, Kaneohe)
+** 35 A6Ms for defense and strafing (1 aborted)
+The second wave was divided into three groups. One was tasked to attack Kāne{{okina}}ohe, the rest Pearl Harbor proper. The separate sections arrived at the attack point almost simultaneously from several directions.
+
+===American casualties and damages===
+Ninety minutes after it began, the attack was over. 2,008 sailors were killed and 710 others wounded; 218 soldiers and airmen (who were part of the Army until the independent [[U.S. Air Force]] was formed in 1947) were killed and 364 wounded; 109 marines were killed and 69 wounded; and 68 civilians were killed and 35 wounded. In total, 2,403 Americans died and 1,178 were wounded.<ref name="ALA">{{cite book |title=Watson's Really Big WWII Almanac, Volume 2: July to December |page=592 |author=Patrick Watson |date=December 1, 2007 |publisher=[[Xlibris Corporation]]}}</ref> Eighteen ships were sunk or run aground, including five battleships.<ref name="ArmyChapter7pg194">{{Harvnb|Conn|2000|p=194}}</ref><ref name="Pearl Harbor Congress Report Pg64">{{Harvnb|GPO|1946|pp=64–65|Ref=CITEREFGPO1946a}}</ref> All of the Americans killed or wounded during the attack were non-combatants, given the fact there was no state of war when the attack occurred.<ref name="Yuma Totani 57"/><ref name="Stephen C. McCaffrey 210–229"/><ref>{{cite book |title=Returning Son: From Baghdad, Kentucky to Baghdad, Iraq (and back) |page=57 |author=Dennis W. Shepherd |date=September 22, 2004 |publisher=[[AuthorHouse]]}}</ref>
+
+[[File:The USS Arizona (BB-39) burning after the Japanese attack on Pearl Harbor - NARA 195617 - Edit.jpg|thumb|left|''Arizona'' during the attack.]]
+Of the American fatalities, nearly half were due to the explosion of {{USS|Arizona|BB-39|2}}'s forward [[Gunpowder magazine|magazine]] after it was hit by a modified {{convert|40|cm|in|adj=on|0}} shell.{{refn|The wreck has become a [[USS Arizona Memorial|memorial]] to those lost that day, most of whom remain within the ship. She continues to leak small amounts of [[fuel oil]], over 70 years after the attack.|group=nb}}
+
+Already damaged by a torpedo and on fire amidships, ''Nevada'' attempted to exit the harbor. She was targeted by many Japanese bombers as she got under way and sustained more hits from {{convert|250|lb|kg|abbr=on|0}} bombs, which started further fires. She was deliberately beached to avoid blocking the harbor entrance.
+
+{{USS|California|BB-44|2}} was hit by two bombs and two torpedoes. The crew might have kept her afloat, but were ordered to abandon ship just as they were raising power for the pumps. Burning oil from ''Arizona'' and {{USS|West Virginia|BB-48|2}} drifted down on her, and probably made the situation look worse than it was. The disarmed [[target ship]] {{USS|Utah|BB-31|2}} was holed twice by torpedoes. ''West Virginia'' was hit by seven torpedoes, the seventh tearing away her rudder. {{USS|Oklahoma|BB-37|2}} was hit by four torpedoes, the last two above her [[belt armor]], which caused her to capsize. {{USS|Maryland|BB-46|2}} was hit by two of the converted 40&nbsp;cm shells, but neither caused serious damage.
+
+Although the Japanese concentrated on battleships (the largest vessels present), they did not ignore other targets. The light cruiser {{USS|Helena|CL-50|2}} was torpedoed, and the concussion from the blast capsized the neighboring minelayer {{USS|Oglala|CM-4|2}}. Two destroyers in [[dry dock]], {{USS|Cassin|DD-372|2}} and {{USS|Downes|DD-375|2}} were destroyed when bombs penetrated their fuel [[Bunker fuel|bunkers]]. The leaking fuel caught fire; flooding the dry dock in an effort to fight fire made the burning oil rise, and both were burned out. ''Cassin'' slipped from her keel blocks and rolled against ''Downes''. The light cruiser {{USS|Raleigh|CL-7|2}} was holed by a torpedo. The light cruiser {{USS|Honolulu|CL-48|2}} was damaged, but remained in service. The repair vessel {{USS|Vestal|AR-4|2}}, moored alongside ''Arizona'', was heavily damaged and beached. The seaplane tender ''Curtiss'' was also damaged. The destroyer {{USS|Shaw|DD-373|2}} was badly damaged when two bombs penetrated her forward magazine.<ref>{{Harvnb|USS Shaw (DD-373)|Ref=CITEREFdanfs373}}</ref>
+
+[[File:Message pertaining to the attack on Pearl Harbor. - NARA - 296806.jpg|thumb|left|This message denotes the first U.S. ship, {{USS|St. Louis|CL-49|2}} to clear Pearl Harbor. (National Archives and Records Administration) (Note that this is in answer to question "Is channel clear?" and faint writing at bottom concerning the answer being held until ''St. Louis'' had successfully cleared.)]]
+
+Of the 402<ref name="parillo288"/> American aircraft in Hawaii, 188 were destroyed and 159 damaged,<ref name="parillo288"/> 155 of them on the ground. Almost none was actually ready to take off to defend the base. Eight Army Air Forces pilots managed to get airborne during the attack<ref>{{cite web|url=http://www.armytimes.com/offduty/travel/airforce_history_120808w/|title=Pyjama-clad pilot took on Japanese at Pearl Harbor|first=Robert F.|last=Dorr|author2=Fred L. Borch|work=Army Times|publisher=United States Army|accessdate=October 12, 2010}}</ref> and six were credited with downing at least one Japanese aircraft during the attack: 1st Lt. Lewis M. Sanders, 2nd Lt. [[Phil Rasmussen|Philip M. Rasmussen]], 2nd Lt. [[Kenneth M. Taylor]], 2nd Lt. [[George Welch (pilot)|George S. Welch]], 2nd Lt. [[Harry W. Brown (pilot)|Harry W. Brown]], and 2nd Lt. Gordon H. Sterling Jr. Sterling was shot down by Lt. Fujita over Kaneohe Bay and is listed as Body Not Recovered (not Missing In Action). Lt. John L. Dains was killed by [[friendly fire]] returning from a victory over Kaawa.<ref>{{cite web|url=http://www.ibiblio.org/hyperwar/AAF/7Dec41/7Dec41-4.html |title=HyperWar: 7 December 1941: The Air Force Story [Chapter 4&#93; |publisher=Ibiblio.org |accessdate=July 10, 2013}}</ref><ref>{{cite web|url=http://hawaii.gov/hawaiiaviation/world-war-ii/december-7-1941/A%20Handful%20of%20Pilots.pdf|title=A Handful of Pilots|first=Lt Col Joseph V.|last=Potter|date=Winter 1982|work=JOURNAL|publisher=American Aviation Historical Society|pages=282–285|accessdate=October 12, 2010}}</ref> Of 33 [[PBY]]s in Hawaii, 24 were destroyed, and six others damaged beyond repair. (The three on patrol returned undamaged.) Friendly fire brought down some U.S. planes on top of that, including five from an inbound flight from {{USS|Enterprise|CV-6|2}}. Japanese attacks on barracks killed additional personnel.
+
+At the time of the attack, nine civilian aircraft were flying in the vicinity of Pearl Harbor. Of these, three were shot down.<ref name="ALA" />
+
+===Japanese losses===
+Fifty-five Japanese airmen and nine submariners were killed in the attack, and one was captured. Of Japan's 414<ref name="IJN"/> available planes, 29 were lost during the battle (nine in the first attack wave, 20 in the second),<ref name=Ofstie1946p18>{{Harvnb|Ofstie|1946|p=18}}</ref>{{refn|[[USAAF]] pilots of the 46th and 47th Pursuit Squadrons, 15th Pursuit Group, claim to have destroyed 10.|group=nb}} with another 74 damaged by antiaircraft fire from the ground.
+
+{{clear}}
+
+===Possible third wave===
+Several Japanese junior officers including Fuchida and Genda urged Nagumo to carry out a third strike in order to destroy as much of Pearl Harbor's fuel and torpedo{{refn|In the event, loss of these might have been a net benefit to the U.S. Blair, ''passim''.|group=nb}} storage, maintenance, and dry dock facilities as possible.<ref name=Gailey1997p68>{{Harvnb|Gailey|1997|p=68}}</ref> Genda, who had unsuccessfully advocated for [[Events leading to the attack on Pearl Harbor#Concept of a Japanese invasion of Hawaii|invading Hawaii after the air attack]], believed that without an invasion multiple strikes were necessary to disable the base as much as possible.<ref name="caravaggio2014">{{cite journal |url=https://www.usnwc.edu/getattachment/59d3fa3c-3a53-49f6-9f28-6f0358389db8/-Winning--the-Pacific-War--The-Masterful-Strategy-.aspx |title="Winning" the Pacific War |author=Caravaggio, Angelo N. |journal=Naval War College Review |date=Winter 2014 |volume=67 |issue=1 |pages=85–118}}</ref> The captains of the other five carriers in the task force reported they were willing and ready to carry out a third strike.<ref>Horn, Steve . ''The Second Attack on Pearl Harbor: Operation K and Other Japanese Attempts to Bomb America in World War II'' (Annapolis: Naval Institute Press, 2005), p. 16</ref> Military historians have suggested the destruction of these shore facilities would have hampered the U.S. Pacific Fleet far more seriously than the loss of its battleships.<ref>{{Harvnb|Willmott|1983}};{{pageneeded|date=December 2015}}  Blair, ''Silent Victory''.{{pageneeded|date=December 2015}}</ref> If they had been wiped out, "serious [American] operations in the Pacific would have been postponed for more than a year";<ref name=Gailey1997pp97-98>{{Harvnb|Gailey|1997|pp=97–98}}</ref> according to Admiral [[Chester Nimitz]], later Commander in Chief of the Pacific Fleet, "it would have prolonged the war another two years."<ref name="yergin327">{{Citation|last=Yergin|first=Daniel|title=The Prize: The Epic Quest for Oil, Money & Power|publisher=Simon & Schuster|location=New York|year=1991|isbn=0-671-79932-0}} p. 327</ref> Nagumo, however, decided to withdraw for several reasons:
+* American anti-aircraft performance had improved considerably during the second strike, and two thirds of Japan's losses were incurred during the second wave.<ref name=Hoyt190>{{Harvnb|Hoyt|2000|p=190}}</ref> Nagumo felt if he launched a third strike, he would be risking three quarters of the Combined Fleet's strength to wipe out the remaining targets (which included the facilities) while suffering higher aircraft losses.<ref name=Hoyt190/>
+* The location of the American carriers remained unknown. In addition, the admiral was concerned his force was now within range of American land-based bombers.<ref name=Hoyt190/> Nagumo was uncertain whether the U.S. had enough surviving planes remaining on Hawaii to launch an attack against his carriers.<ref>{{Harvnb|Hoyt|2000|p=191}}</ref>
+* A third wave would have required substantial preparation and turnaround time, and would have meant returning planes would have had to land at night. At the time, only the (British) Royal Navy had developed night carrier techniques, so this was a substantial risk.<ref name="steven">{{citation |last=Stephen |first=Martin |title=Sea Battles in Close-up: World War 2 |location=Shepperton, Surrey |publisher=Ian Allan |year=1988 |pages=34–38 |volume=Volume 1 |isbn=0-7110-1596-1 |coauthors=Grove, Eric (Ed)}}</ref>
+* Weather had deteriorated notably since the first and second wave launching, and rough seas complicated takeoff and landing for a third wave attack.
+* The task force's fuel situation did not permit him to remain in waters north of Pearl Harbor much longer, since he was at the very limit of logistical support. To do so risked running unacceptably low on fuel, perhaps even having to abandon destroyers en route home.<ref>{{Harvnb|Prange|1999}}{{citation needed|date=October 2011|reason=no full cite present; unable to identify (Prange 1999)}}</ref>
+* He believed the second strike had essentially satisfied the main objective of his mission—the neutralization of the Pacific Fleet—and did not wish to risk further losses.<ref name=Gailey1997p97>{{Harvnb|Gailey|1997|p=97}}</ref> Moreover, it was Japanese Navy practice to prefer the conservation of strength over the total destruction of the enemy.<ref>{{Harvnb|Willmott|1983|p=16}}.</ref>
+
+At a conference aboard ''Yamato'' the following morning, Yamamoto initially supported Nagumo.<ref name=Gailey1997p97 /> In retrospect, sparing the vital dockyards, maintenance shops, and oil depots meant the U.S. could respond relatively quickly to Japanese activities in the Pacific. Yamamoto later regretted Nagumo's decision to withdraw and categorically stated it had been a great mistake not to order a third strike.<ref name=Gailey1997p98>{{Harvnb|Gailey|1997|p=98}}</ref>
+
+==Photographs==
+The first [[Aerial photography|aerial photographs]] of the attack on Pearl Harbor were taken by [[Lee Embree]], who was aboard a [[Boeing B-17 Flying Fortress]] ''en route'' from [[Hamilton Field, California]], to the [[Philippines]].<ref name=pdn>{{cite news |first=Jim|last=Casey|title=Lee Embree, first photographer to fly into 1941 Pearl Harbor attack, dies in Port Angeles |url=http://www.peninsuladailynews.com/article/20080125/NEWS/801250302|work=[[Peninsula Daily News]] |date=January 24, 2008 |accessdate=February 1, 2011}}</ref> Lee's [[38th Reconnaissance Squadron]] had scheduled a refueling stop at [[Hickam Field]] at the time of the attack.<ref name=pdn/>
+
+<gallery mode=packed>
+File:Japanesecrewmen.jpg|Crew members aboard ''Shōkaku'' launching the attack.
+File:Zero Akagi Dec1941.jpg|A Japanese [[Mitsubishi A6M Zero|Mitsubishi A6M2 "Zero"]] fighter airplane of the second wave takes off from the aircraft carrier ''Akagi'' on the morning of December 7, 1941.
+File:Carrier shokaku.jpg|Zeroes of the second wave preparing to take off from ''Shōkaku'' for Pearl Harbor.
+File:Japanese plane leaves Shokaku-Pearl Harbor.jpg|A Japanese [[Nakajima B5N|Nakajima B5N2 "Kate"]] torpedo bomber takes off from ''Shōkaku''.
+File:Japanese planes preparing-Pearl Harbor.jpg|Japanese [[Aichi D3A|Aichi D3A1 "Val"]] dive bombers of the second wave preparing for take off. Aircraft carrier ''Sōryū'' in the background.
+</gallery>
+<gallery mode=packed>
+File:Akagi Aichi D3A Pearl Harbor.jpg|An [[Aichi D3A]] Type 99 kanbaku (dive bomber) launches from the Imperial Japanese Navy aircraft carrier ''Akagi'' to participate in the second wave during the attack on Pearl Harbor, Hawaii.
+File:USS California sinking-Pearl Harbor.jpg|Battleship USS ''California'' sinking.
+File:Pearlharborcolork13513.jpg|Battleship USS ''Arizona'' explodes.
+File:USS SHAW exploding Pearl Harbor Nara 80-G-16871 2.jpg|Destroyer USS ''Shaw'' exploding after her forward magazine was detonated.
+</gallery>
+<gallery mode=packed>
+File:USS Nevada attempts escape from Pearl 80G32558.jpg|Battleship USS ''Nevada'' attempting to escape from the harbor.
+File:USS West Virginia;014824.jpg|Battleship USS ''West Virginia'' took two aerial bombs, both duds, and seven torpedo hits, one of which may have come from a midget submarine.
+File:NARA 28-1277a.gif|A destroyed [[Boeing B-17|B-17]] after the attack on Hickam Field.
+File:PLanes burning-Ford Island-Pearl Harbor.jpg|Hangar on [[Ford Island]] burns<!-- COMMENT: Please do not change this image title. Even though "PLanes burning..." looks incorrect, that is the actual title of the image. If you change it to "Planes burning...", you will end up breaking the image. -->
+File:Pearl harbour.png|Aftermath: USS ''West Virginia'' (severely damaged), USS ''Tennessee'' (damaged), and USS ''Arizona'' (sunk).
+</gallery>
+
+==Ships lost or damaged==
+
+===Battleships===
+* {{USS|Arizona|BB-39|2}} ([[Isaac C. Kidd|RADM Kidd]]'s flagship of [[ComBatPac|Battleship Division One]]): hit by four armor-piercing bombs, exploded; total loss. 1,177 dead.
+* {{USS|Oklahoma|BB-37|2}}: hit by five torpedoes, capsized; total loss. 429 dead.
+* {{USS|West Virginia|BB-48|2}}: hit by two bombs, seven torpedoes, sunk; returned to service July 1944. 106 dead.
+* {{USS|California|BB-44|2}}: hit by two bombs, two torpedoes, sunk; returned to service January 1944. 100 dead.
+* {{USS|Nevada|BB-36|2}}: hit by six bombs, one torpedo, beached; returned to service October 1942. 60 dead.
+* {{USS|Pennsylvania|BB-38|2}} ([[Husband E. Kimmel|ADM Kimmel]]'s flagship of the [[United States Pacific Fleet]]):<ref>Prange, Goldstein, Dillon. ''At Dawn We Slept'' page 49</ref> in [[drydock]] with ''Cassin'' and ''Downes'', hit by one bomb and debris from USS ''Cassin''; remained in service. 9 dead.
+* {{USS|Tennessee|BB-43|2}}: hit by two bombs; returned to service February 1942. 5 dead.
+* {{USS|Maryland|BB-46|2}}: hit by two bombs; returned to service February 1942. 4 dead (including floatplane pilot shot down).
+
+===Ex-battleship (target/AA training ship)===
+* {{USS|Utah|BB-31|2}}: hit by two torpedoes, capsized; total loss. 64 dead.
+
+===Cruisers===
+* {{USS|Helena|CL-50|2}}: hit by one torpedo; returned to service January 1942. 20 dead.
+* {{USS|Raleigh|CL-7|2}}: hit by one torpedo; returned to service February 1942.
+* {{USS|Honolulu|CL-48|2}}: Near miss, light damage; remained in service.
+
+===Destroyers===
+* {{USS|Cassin|DD-372|2}}: in drydock with ''Downes'' and ''Pennsylvania'', hit by one bomb, burned; returned to service February 1944.
+* {{USS|Downes|DD-375|2}}: in drydock with ''Cassin'' and ''Pennsylvania'', caught fire from ''Cassin'', burned; returned to service November 1943.
+* {{USS|Shaw|DD-373|2}}: hit by three bombs; returned to service June 1942.
+
+===Auxiliaries===
+* {{USS|Oglala|CM-4|2}} (minelayer): Damaged by torpedo hit on ''Helena'', capsized; returned to service (as engine-repair ship) February 1944.
+* {{USS|Vestal|AR-4|2}} (repair ship): hit by two bombs, blast and fire from ''Arizona'', beached; returned to service by August 1942.
+* {{USS|Curtiss|AV-4|2}} (seaplane tender): hit by one bomb, one crashed Japanese aircraft; returned to service January 1942. 19 dead.
+
+==Salvage==
+[[File:NH64486 Wallin aboard BB-44.jpg|thumb|left|Captain [[Homer N. Wallin]] (center) supervises salvage operations aboard {{USS|California|BB-44|6}}, early 1942]]
+
+After a systematic search for survivors, formal salvage operations began. Captain [[Homer N. Wallin]], Material Officer for Commander, Battle Force, U.S. Pacific Fleet, was immediately ordered to lead salvage operations. "Within a short time I was relieved of all other duties and ordered to full time work as Fleet Salvage Officer".<ref>Pearl Harbor: Why, How Fleet Salvage & Final Appraisal, Wallin, Homer Naval History Division 1968</ref>{{refn|Commander [[Edward Ellsberg]] was ordered to [[Massawa]] as his replacement, to assist the British in clearing [[Scuttling|scuttled]] Italian and German ships. This arguably delayed by several months British hopes for a useful port on the Red Sea. Commander [[Edward Ellsberg]], O.B.E.<ref>''[[Under the Red Sea Sun]]'' (Dodd, Mead, and Co., 1946).</ref>|group=nb}}
+
+Around Pearl Harbor, divers from the Navy (shore and tenders), the [[Shipyard|Naval Shipyard]], and civilian contractors (Pacific Bridge and others) began work on the ships that could be refloated. They patched holes, cleared debris, and pumped water out of ships. Navy divers worked inside the damaged ships. Within six months, five battleships and two cruisers were patched or refloated so they could be sent to shipyards in Pearl Harbor and on the mainland for extensive repair.
+
+Intensive salvage operations continued for another year, a total of some 20,000 man-hours under water.<ref>Raymer, E.C: "Descent Into Darkness", Presidio Press, 1996.</ref> ''Oklahoma'', while successfully raised, was never repaired, and capsized while under tow to the mainland in 1947. ''Arizona'' and the target ship ''Utah'' were too heavily damaged for salvage, though much of their armament and equipment was removed and put to use aboard other vessels. Today, the two hulks remain where they were sunk,<ref>{{cite web|url=http://geocities.com/bb37usa/postattacksalvageI.html|archiveurl=//web.archive.org/web/20091027095237/http://geocities.com/bb37usa/postattacksalvageI.html |archivedate=October 27, 2009 |title=Post-attack ship salvage 1942–1944 |publisher=Geocities |date=October 27, 2009 |accessdate=July 17, 2011}}</ref> with ''Arizona'' becoming a [[USS Arizona Memorial|war memorial]].
+{{clear}}
+
+==Aftermath==
+{{Main|Consequences of the attack on Pearl Harbor}}
+[[File:Pennsylvania-cassin-downes.jpg|thumb|right|{{USS|Pennsylvania|BB-38|2}}, behind the wreckage of ''Downes'' and  ''Cassin''.]]
+
+In the wake of the attack, 15 [[Congressional Medal of Honor|Medals of Honor]], 51 [[Navy Cross]]es, 53 [[Silver Star]]s, four [[Navy and Marine Corps Medal]]s, one [[Distinguished Flying Cross (United States)|Distinguished Flying Cross]], four [[Distinguished Service Cross (United States)|Distinguished Service Crosses]], one [[Navy Distinguished Service Medal|Distinguished Service Medal]], and three [[Bronze Star Medal]]s were awarded to the American servicemen who distinguished themselves in combat at Pearl Harbor.<ref>{{Harvnb|Smith|1999|p={{page needed|date=September 2010}}}}.</ref> Additionally, a special [[Awards and decorations of the United States military|military award]], the [[Pearl Harbor Commemorative Medal]], was later authorized for all military veterans of the attack.
+
+The day after the attack, Roosevelt delivered his famous [[Infamy Speech]] to a [[Joint Session of Congress]], calling for a [[United States declaration of war upon Japan|formal declaration of war on the Empire of Japan]]. Congress obliged his request less than an hour later. On December 11, Germany and Italy, honoring their commitments under the [[Tripartite Pact]], declared war on the United States. The pact was an earlier agreement between Germany, Italy and Japan which had the principal objective of limiting U.S. intervention in any conflicts involving the three nations.<ref>History of the Second World War, Liddell Hart, B.H. p. 206</ref> Congress issued a declaration of war against Germany and Italy later that same day. [[United Kingdom declaration of war on Japan|The UK actually declared war on Japan]] nine hours before the U.S. did, partially due to Japanese attacks on Malaya, Singapore and Hong Kong, and partially due to Winston Churchill's promise to declare war "within the hour" of a Japanese attack on the United States.<ref>{{cite news|url=http://content.time.com/time/magazine/article/0,9171,772812,00.html |work=Time |title=The U.S. At War, The Last Stage |date=December 15, 1941}}</ref>
+
+The attack was an initial shock to all the Allies in the Pacific Theater. Further losses compounded the alarming setback. Japan [[Philippines Campaign (1941–42)|attacked the Philippines]] hours later (because of the time difference, it was December 8 in the Philippines). Only three days after the attack on Pearl Harbor, the battleships [[sinking of Prince of Wales and Repulse|''Prince of Wales'' and ''Repulse'' were sunk]] off the coast of [[British Malaya|Malaya]], causing British Prime Minister [[Winston Churchill]] later to recollect "In all the war I never received a more direct shock. As I turned and twisted in bed the full horror of the news sank in upon me. There were no British or American capital ships in the Indian Ocean or the Pacific except the American survivors of Pearl Harbor who were hastening back to California. Over this vast expanse of waters Japan was supreme and we everywhere were weak and naked".<ref>{{Citation |title=The Churchill War Papers: The Ever-Widening War |last=Churchill |first=Winston |authorlink=Winston Churchill |author2=Martin Gilbert |volume=Volume 3: 1941 |year=2001 |publisher=W.W. Norton |location=London, New York |isbn=0-393-01959-4 |page= |pages=1593–1594 |chapter=December 1941 |url=https://books.google.com/?id=vx3lMi6AKmIC&pg=PA1593}}</ref>
+
+Throughout the war, Pearl Harbor was frequently used in [[American propaganda during World War II|American propaganda]].<ref>Anthony Rhodes, ''Propaganda: The art of persuasion: World War II'', p. 257 1976, Chelsea House Publishers, New York</ref>
+
+One further consequence of the attack on Pearl Harbor and its aftermath (notably the [[Niihau Incident]]) was that Japanese American residents and citizens were relocated to nearby [[Japanese-American internment]] camps. Within hours of the attack, hundreds of Japanese American leaders were rounded up and brought to high-security camps such as [[Sand Island (Hawaii)|Sand Island]] at the mouth of Honolulu harbor and [[Kilauea Military Camp]] on the [[Hawaii (island)|island of Hawaii]].<ref>{{cite web |url=http://www.hawaiiinternment.org/history-of-internment |title=World War II Internment in Hawai'i |publisher=Education through Cultural & Historical Organizations |accessdate=November 13, 2011}}</ref><ref>Levine, E. (1995). ''A Fence Away from Freedom: Japanese Americans and World War II''. New York: G.P. Putnam's Sons.</ref> Later, over 110,000 Japanese Americans, including United States citizens, were removed from their homes and transferred to internment camps in California, Idaho, Utah, Arizona, Wyoming, Colorado, New Mexico, Arkansas, and Texas.<ref>[http://www.pearlharboroahu.com/after.htm] Pearl Harbor Oahu website, retrieved on November 12, 2011.</ref><ref>Daniels, R. (1972). ''Concentration camps USA: Japanese Americans and World War II''. New York: Holt, Rinehart and Winston, Inc.</ref><ref>{{cite web|url=http://newmexicohistory.org/people/japanese-american-internment-camps-in-new-mexico-1942-1946|title=New Mexico Office of the State Historian - people|publisher=}}</ref>
+
+The attack also had international consequences. The [[Canadian]] province of [[British Columbia]], bordering the [[Pacific Ocean]], had long had a large population of [[Japanese people|Japanese]] immigrants. Pre-war tensions were exacerbated by the Pearl Harbor attack, leading to a reaction from the [[Government of Canada]]. On February 24, 1942, Order-in-Council P.C. no. 1486 was passed under the [[War Measures Act]] allowing for the forced removal of any and all Canadians of Japanese descent from British Columbia, as well as the prohibiting from them returning to the province. The Japanese-Canadians were given a choice: either be moved into [[Japanese Canadian Internment|internment camps]] or be deported back to [[Japan]].<ref>{{cite book|last=La Violette|first=Forrest E.|title=The Canadian Japanese and World War II|year=1948|publisher=University of Toronto Press|location=Toronto, Ontario|pages=59–60}}</ref>
+
+===Niihau Incident===
+[[File:Nishikaichi's Zero BII-120.jpg|thumb|Petty Officer Shigenori Nishikaichi's aircraft shown ten days after it crashed]]
+{{Main|Niihau Incident}}
+The Japanese planners had determined that some means was required for rescuing fliers whose aircraft were too badly damaged to return to the carriers. The island of Niihau, only 30 minutes flying time from Pearl Harbor, was designated as the rescue point.
+
+The Zero flown by Petty Officer Shigenori Nishikaichi of ''Hiryu'' was damaged in the attack on Wheeler, so he flew to the rescue point on Niihau. The aircraft was further damaged on landing. Nishikaichi was helped from the wreckage by one of the native Hawaiians, who, aware of the tension between the United States and Japan, took the pilot's maps and other documents. The island's residents had no telephones or radio and were completely unaware of the attack on Pearl Harbor. Nishikaichi enlisted the support of three Japanese-American residents in an attempt to recover the documents. During the ensuing struggles, Nishikaichi was killed and a Hawaiian civilian was wounded; one collaborator committed suicide, and his wife and the third collaborator were sent to prison.
+
+The ease with which the local ethnic Japanese residents had apparently gone to the assistance of Nishikaichi was a source of concern for many, and tended to support those who believed that local Japanese could not be trusted.<ref>Douglas Shinsato, Translator/Publisher of For That One Day: The Memoirs of Mitsuo Fuchida, Commander of the Attack on Pearl Harbor, 2011, pp.&nbsp;293–294</ref>
+
+===Strategic implications===
+Admiral Hara Tadaichi summed up the Japanese result by saying, "We won a great tactical victory at Pearl Harbor and thereby lost the war."<ref>Haufler, Herve. ''Codebreaker's Victory: How the Allied Cryptographers Won World War II'' (New York: NAL, 2003), quoted p. 127.</ref> While the attack accomplished its intended objective, it turned out to be largely unnecessary. Unbeknownst to Yamamoto, who conceived the original plan, the U.S. Navy had decided as far back as 1935 to abandon 'charging' across the Pacific towards the Philippines in response to an outbreak of war (in keeping with the evolution of [[War Plan Orange|Plan Orange]]).<ref name="autogenerated2">{{Harvnb|Peattie|1997}}</ref> The U.S. instead adopted "[[Plan Dog]]" in 1940, which emphasized keeping the IJN out of the eastern Pacific and away from the shipping lanes to Australia, while the U.S. concentrated on defeating Nazi Germany.<ref>{{harvnb|Hakim|1995}}</ref>
+
+Fortunately for the United States, the American aircraft carriers were untouched by the Japanese attack; otherwise the Pacific Fleet's ability to conduct offensive operations would have been crippled for a year or more (given no diversions from the Atlantic Fleet). As it was, the elimination of the battleships left the U.S. Navy with no choice but to rely on its aircraft carriers and submarines—the very weapons with which the U.S. Navy halted and eventually reversed the Japanese advance. While six of the eight battleships were repaired and returned to service, their relatively low speed and high fuel consumption limited their deployment, and they served mainly in shore bombardment roles (their only major action being the [[Battle of Surigao Strait]]). A major flaw of Japanese strategic thinking was a belief that the ultimate Pacific battle would be fought by battleships, in keeping with the doctrine of Captain [[Alfred Thayer Mahan]]. As a result, Yamamoto (and his successors) hoarded battleships for a "decisive battle" that never happened.<ref>{{Harvnb|Willmott|1983}}, ''War Plan Orange''{{clarify|date=October 2011|reason=need full cite. Need page number}}</ref>
+
+The Japanese confidence in their ability to achieve a short, victorious war meant that they neglected Pearl Harbor's navy repair yards, oil tank farms, submarine base, and old headquarters building.<ref name="Willmott 1983"/> All of these targets were omitted from Genda's list, yet they proved more important than any battleship to the American war efforts in the Pacific. The survival of the repair shops and fuel depots allowed Pearl Harbor to maintain logistical support to the U.S. Navy's operations,<ref>{{cite web|url=http://combinedfleet.com/battles/Attack_on_Pearl_Harbor |title=Attack on Pearl Harbor &#124; Nihon Kaigun |publisher=Combinedfleet.com |accessdate=March 6, 2014}}</ref><ref>{{cite news|url=http://www.kalonanews.com/articles/2013/04/17/community/doc516eb7c9cbba1744569185.txt |title=Pearl Harbor vet remembers Dec. 7, 1941, sneak attack |publisher=[[Kalowna News]] |date=April 17, 2013 |accessdate=March 6, 2014}}</ref> such as the Battles of [[Battle of Coral Sea|Coral Sea]] and [[Battle of Midway|Midway]]. It was submarines that immobilized the Imperial Japanese Navy's heavy ships and brought Japan's economy to a virtual standstill by crippling the transportation of oil and raw materials: by the end of 1942, import of raw materials was cut to half of what it had been, "to a disastrous ten million tons", while oil import "was almost completely stopped".{{refn|In less than eleven months, most of Japan's elite naval aviators who had been at Pearl Harbor were lost in subsequent battles. Lack of fuel and an inflexible training policy meant that they could not be replaced.<ref name="Peattie 1997"/>|group=nb}} Lastly, the basement of the Old Administration Building was the home of the [[Station HYPO|cryptanalytic unit]] which contributed significantly to the Midway ambush and the Submarine Force's success.<ref>Blair, pp. 360, 816.</ref>
+
+===Present day===
+[[File:USS Missouri watching over USS Arizona - Pearl Harbor.jpg|thumb|left|Photo from USS ''Missouri'', looking towards the USS ''Arizona'' memorial]] 
+Today, the [[USS Arizona Memorial|USS ''Arizona'' Memorial]] on the island of Oahu honors the dead. Visitors to the memorial reach it via boats from the naval base at Pearl Harbor. The memorial was designed by Alfred Preis, and has a sagging center but strong and vigorous ends, expressing "initial defeat and ultimate victory". It commemorates all lives lost on December 7, 1941.<ref>[http://www.glencoe.com/sec/socialstudies/btt/pearl_harbor/aftermath.shtml] Glencoe Online website, retrieved on November 10, 2011.</ref> Although December 7 is known as Pearl Harbor Day, it is not a federal holiday in the United States. The nation does however pay homage remembering the thousands injured and killed when attacked by the Japanese in 1941. Ceremonies are held annually at Pearl Harbor itself, attended each year by some of the ever-dwindling number of elderly veterans who were there on the morning of the attack. Schools and other establishments in some places around the country lower the American flag to [[half-staff]] out of respect.<ref>[http://24sevenpost.com/world-news/4-key-facts-pearl-harbor-day-december-7-1941/] 24SevenPost website, December 7, 2010. retrieved on November 10, 2011.</ref> The naval vessel where the war ended on [[Surrender of Japan|September 2, 1945]]—the last U.S. Navy battleship ever built, {{USS|Missouri|BB-63|6}}—is now a [[museum ship]] moored in Pearl Harbor, with its bow barely 1,000 feet (300 meters) southwest of the ''Arizona'' memorial.
+
+[[File:US Navy 040120-N-0879R-009 Pearl Harbor survivor Bill Johnson stares at the list of names inscribed in the USS Arizona Memorial.jpg|thumb|Pearl Harbor survivor Bill Johnson reads the list of names inscribed in the [[USS Arizona Memorial|USS ''Arizona'' Memorial]].]]
+
+==Media==
+{{listen|pos = right
+ | filename     = Roosevelt Pearl Harbor.ogg
+ | title        = FDR Pearl Harbor speech
+ | description  = Speech given before Joint Session of Congress in entirety. (3.1 [[Megabyte|MB]], [[ogg]]/[[Vorbis]] format).<br />[[:s:Pearl Harbor speech|Read full text on Wikisource]]
+ | format       = [[Vorbis]]
+ | filename2    = Roosevelt Infamy.ogg
+ | title2       = "A date which will live in infamy"
+ | description2 = Section of Pearl Harbor speech with famous phrase. (168 [[Kilobyte|KB]], [[ogg]]/[[Vorbis]] format).
+ | format2      = [[Vorbis]]
+}}
+
+Films set at or around the bombing of Pearl Harbor include:
+* ''Remember Pearl Harbor'' (1942) A [[Republic Pictures]] B-movie, starring [[Don "Red" Barry]],  one of the first motion pictures to respond to the events.<ref name=newsday>{{cite news|url=http://www.newsday.com/entertainment/movies/pearl-harbor-at-70-good-and-bad-films-1.3370459|authorlink=Frank Lovece|first=Frank|last=Lovece|title=Pearl Harbor at 70: good and bad films|date=December 6, 2011 |publication-date=December 7, 2011|page=B5|work=[[Newsday]]|archiveurl=http://liveweb.archive.org/http://www.newsday.com/entertainment/movies/pearl-harbor-at-70-good-and-bad-films-1.3370459|archivedate=December 7, 2011|deadurl=no}} (Online version requires subscription.)</ref>
+* ''[[Air Force (film)|Air Force]]'', a 1943 [[propaganda]] film depicting the fate of the crew of the ''Mary-Ann'', one of the [[B-17 Flying Fortress]] bombers that fly into [[Hickam Field]] during the attack.
+* ''[[December 7th (film)|December 7th]]'', directed by [[John Ford]] for the U.S. Navy in 1943, is a film that recreates the attacks of the Japanese forces. [[CNN]] mistakenly ran footage of this as actual attack footage during an entertainment news report in 2003. One film historian believes two documentaries a decade earlier did also.<ref name="hnn staff">{{cite web| url=http://hnn.us/articles/88.html| title=CNN's Pearl Harbor Mistake| accessdate=March 13, 2009| archiveurl=https://web.archive.org/web/20110604154919/http://hnn.us/articles/88.html| date=June 10, 2001| publisher=[http://www.hnn.us/ History News Network] ([[George Mason University]] website)| archivedate=June 4, 2011|deadurl=no}}</ref>
+* ''[[From Here to Eternity]]'' (1953), an adaptation of the [[James Jones (author)|James Jones]] novel set in Hawaii on the eve of the attack.
+* ''[[In Harm's Way]]'' (1965), director [[Otto Preminger]]'s adaptation of the [[James Bassett (author)|James Bassett]] novel, which opens on December 6, 1941, in Hawaii, and depicts the attack from the point of view of the men of a ship able to leave the harbor.
+* ''[[Storm Over the Pacific (film)|Storm Over the Pacific]]'', also known as ''Hawai Middouei daikaikusen: Taiheiyo no arashi'' (Hawaii-Midway Battle of the Sea and Sky: Storm in the Pacific Ocean) and ''[[I Bombed Pearl Harbor]]'' (1961), produced by the Japanese studio [[Toho Company]] and starring [[Toshiro Mifune]], tells the story of Japanese airmen who served in the Pearl Harbor Raid and the Battle of Midway. An edited version dubbed into English as ''[[I Bombed Pearl Harbor]]'' was given U.S. release in 1961.<ref name=newsday />
+* ''[[The Time Tunnel]]'', TV series; Season 1, Episode 4: ''The Day the Sky Fell In'' (1966).<ref>{{cite web|title=The Day the Sky Fell In|url=http://www.tv.com/shows/the-time-tunnel/the-day-the-sky-fell-in-112761/|website=tv.com}}</ref>
+* ''[[Tora! Tora! Tora!]]'' (1970), a Japan-U.S. coproduction about the attack is "meticulous"<ref>Bernardelli, James, [http://www.reelviews.net/movies/t/tora.html "''Tora! Tora! Tora!'' film review"], ReelViews.net</ref> in its approach to dissecting the situation leading up to the bombing. It depicts the Japanese attack on Pearl Harbor from both American and Japanese points of view, with scrupulous attention to historical fact, including the U.S. use of ''[[Magic (cryptography)|Magic]]'' [[cryptanalysis]].
+* ''[[Pearl (miniseries)|Pearl]]'' (1978), a TV [[miniseries]], written by [[Stirling Silliphant]], about events leading up to the attack.
+* ''[[1941 (film)|1941]]'' (1979), director [[Steven Spielberg]] comedy about a panicked [[Los Angeles]] immediately after the attack.
+* ''[[The Winds of War]]'', a novel by American writer [[Herman Wouk]], was written between 1963 and 1971. The novel finishes in December 1941 with the aftermath of the attack. The TV miniseries based on the book was produced by Dan Curtis, airing in 1984. It starred [[Robert Mitchum]] and [[Ali MacGraw]], with [[Ralph Bellamy]] as President Roosevelt.
+* ''[[Pearl Harbor (film)|Pearl Harbor]]'' (2001), directed by [[Michael Bay]], a love story set amidst the lead up to the attack and its aftermath.
+
+===Non-fiction/historical===
+* ''The Attack on Pearl Harbor: An Illustrated History'' by Larry Kimmett and Margaret Regis is a careful recreation of the "Day of Infamy" using maps, photos, unique illustrations, and an animated CD. From the early stages of Japanese planning, through the attack on [[Battleship Row]], to the salvage of the U.S. Pacific fleet, this book provides a detailed overview of the attack.
+* ''At Dawn We Slept: The Untold Story of Pearl Harbor'' by [[Gordon W. Prange]] is an extremely comprehensive account of the events leading up to the Pearl Harbor attack and is considered by most scholars to be the best single work about the raid. It is a balanced account that gives both the Japanese and American perspectives. Prange spent 37 years researching the book by studying documents about Pearl Harbor and interviewing surviving participants to attempt the most exhaustive account of what happened: the Japanese planning and execution, why U.S. intelligence failed to warn of it, and why a peace agreement was not attained. The book is the first in the so-called "Prange Trilogy" of Pearl Harbor books co-written with Donald Goldstein and Katherine Dillon, the other two being:
+** ''Pearl Harbor: The Verdict of History'' – a dissection of the various [[Historical revisionism|revisionist]] theories surrounding the attack.
+** ''December 7, 1941: The Day The Japanese Attacked Pearl Harbor'' – a recollection of the attack as narrated by eyewitnesses.
+* ''Day of Infamy'' by [[Walter Lord]] was one of the most popular nonfiction accounts of the attack on Pearl Harbor.<ref>Walter Lord, ''Day of Infamy'' (Henry Holt and Co., 1957. ASIN: B002A503FA; Holt Paperbacks, 60th ed. 2001, ISBN 0-8050-6803-1, ISBN 978-0-8050-6803-0)</ref>
+* ''Pearl Harbor: Final Judgment'' by [[Henry C. Clausen]] and Bruce Lee tells of Clausen's top-secret investigation of the events leading up to the Pearl Harbor attack. Much of the information in this book was still classified when previous books were published.
+* ''Pearl Harbor Countdown: Admiral James O. Richardson'' by Skipper Steely is an insightful and detailed account of the events leading up to the attack. Through his comprehensive treatment of the life and times of Admiral [[James O. Richardson]], Steely explores four decades of American foreign policy, traditional military practice, U.S. intelligence, and the administrative side of the military, exposing the largely untold story of the events leading up to the Japanese attack.
+* ''Pearl Harbor Papers: Inside the Japanese Plans'', released by Goldstein and Dillon in 1993, used materials from Prange's library to further flesh out the Japanese perspective of the attack, including diaries from some officers and ship logs.
+* [https://mises.org/books/pearl_harbor_greaves.pdf ''Pearl Harbor: The Seeds and Fruits of Infamy''] by [[Percy L. Greaves, Jr.]] The first part provides a detailed history of pre-war U.S.-Japan relations, documenting the sources of rising tension. The second part suggests that the attack on Pearl Harbor was neither unexpected nor unprovoked.
+* ''The Last Zero Fighter'', released in 2012, uses interviews conducted in Japanese, in Japan, with five Japanese aviators, three of whom participated in the Pearl Harbor strike: Kaname Harada, Haruo Yoshino and Takeshi Maeda. The aviators share their personal experiences (translated into English) in regards to their personal experiences training for and executing the raid on Pearl Harbor.<ref>Dan King, ''The Last Zero Fighter'' (Pacific Press, 2012. ISBN 978-1468178807)</ref>
+
+===Alternate history===
+* The feature-length movie ''[[The Final Countdown (film)|The Final Countdown]]'' (1980), in which the nuclear [[aircraft carrier]] {{USS|Nimitz|CVN-68|6}} [[time travel|travels through time]] to one day before the attack.
+* ''[[Days of Infamy series|Days of Infamy]]'' is a novel by [[Harry Turtledove]] in which the Japanese attack on Hawaii a full-scale invasion (something one of the key planners of the attack, Commander [[Minoru Genda]], wanted but the senior officers realized was impossible).<ref>John J. Stephan, ''Hawaii Under the Rising Sun''.</ref>
+* The airstrike and Hawaii-invasion premise of ''Days of Infamy'' was earlier used in the first episode of the anime OVA series ''[[Konpeki no Kantai]]''.
+* [[William Sanders (writer)|William Sanders]] wrote the [[alternate history]] story "Billy Mitchell's Overt Act".<ref>In the anthology ''Alternate Generals'', edited by [[Harry Turtledove]], [[Baen Books]], 1998</ref> In the variant history depicted in the story, [[Billy Mitchell]] managed to avoid the court-martial which ended his military career and was still alive and still an active service general in 1941, correctly guessing Japanese intentions.
+
+==See also==
+{{div col|colwidth=20em}}
+* [[Battle of Taranto]]
+* [[Operation K]]
+* [[Air warfare of World War II]]
+* [[Howland Island#Japanese attacks during World War II|Attack on Howland Island]]
+* [[List of United States Navy ships present at Pearl Harbor, December 7, 1941]]
+* [[Nagai Kita]]  
+* [[Edwin T. Layton]]  
+* [[National Pearl Harbor Remembrance Day]]
+* [[Pearl Harbor Survivors Association]]
+* [[Pearl Harbor advance-knowledge conspiracy theory]]
+* [[Winds Code]]
+{{div col end}}
+
+==Notes==
+{{Reflist|group=nb|30em}}
+
+==References==
+{{Reflist|20em}}
+
+===Bibliography===
+{{refbegin|30em}}
+;Books
+* {{Citation
+|last=Barnhart
+|first=Michael A.
+|title=Japan prepares for total war: the search for economic security, 1919–1941
+|url=https://books.google.com/books?id=q6hgAAAAIAAJ
+|year=1987
+|publisher=Cornell University Press
+|isbn=978-0-8014-1915-7}}
+* {{Citation
+|last=Bix
+|first=Herbert P.
+|authorlink=Herbert P. Bix
+|title=[[Hirohito and the Making of Modern Japan]]
+|year=2000
+|publisher=Diane Pub Co
+|isbn=978-0-7567-5780-9}}
+* {{Citation
+|last1=Borch
+|first1=Frederic L.
+|last2=Martinez
+|first2=Daniel
+|title=Kimmel, Short, and Pearl Harbor: the final report revealed
+|url=https://books.google.com/books?id=7jQfiAmaX9IC
+|year=2005
+|publisher=Naval Institute Press
+|isbn=978-1-59114-090-0}}
+* {{Citation
+|ref=CITEREFConn2000
+|last=Conn
+|first=Stetson
+|last2=Fairchild
+|first2=Byron
+|last3=Engelman
+|first3=Rose C.
+|title=Guarding the United States and Its Outposts
+|url=http://www.history.army.mil/books/wwii/Guard-US/index.htm
+|chapter=7 – The Attack on Pearl Harbor
+|chapter-url=http://www.history.army.mil/books/wwii/Guard-US/ch7.htm
+|year = 2000
+|place = Washington D.C.
+|publisher = Center of Military History United States Army}}
+* {{anchor|CITEREFGailey1995}}<!-- published in 1995 and 1997 -->{{Citation
+|title=War in the Pacific: From Pearl Harbor to Tokyo Bay
+|last=Gailey
+|first=Harry A.
+|publisher=Presidio
+|year=1997
+|isbn=0-89141-616-1}}
+* {{Citation
+|last=Gilbert
+|first=Martin
+|title=The Second World War
+|url=https://books.google.com/books?id=qTVLPwAACAAJ
+|year=2009
+|publisher=Phoenix
+|isbn=978-0-7538-2676-8}}
+* {{Citation
+|last=Goldstein
+|first=Donald M.
+|editor1-last=Goldstein
+|editor1-first=Donald M.
+|editor2-last=Dillon
+|editor2-first=Katherine V.
+|title=The Pearl Harbor papers: inside the Japanese plans
+|url=https://books.google.com/books?id=q2pFnALHfykC
+|year=2000
+|publisher=Brassey's
+|isbn=978-1-57488-222-3
+|ref=harv}}
+* {{Citation
+|last=Hakim
+|first=Joy
+|title=A History of US: Book 9: War, Peace, and All that Jazz
+|url=https://books.google.com/books?id=RrPgQgAACAAJ
+|year=1995
+|publisher=Oxford University Press, U.S.
+|isbn=978-0-19-509514-2
+|ref=harv}}
+* {{Citation
+|last=Hixson
+|first=Walter L.
+|title=The American Experience in World War II: The United States and the road to war in Europe
+|url=https://books.google.com/books?id=CAEyh6EY9kYC
+|year=2003
+|publisher=Taylor & Francis
+|isbn=978-0-415-94029-0}}
+* {{Citation
+|last=Hoyt
+|first=Edwin P.
+|title=Pearl Harbor
+|url=https://books.google.com/?id=lq8LAAAACAAJ
+|publisher=G. K. Hall
+|year=2000
+|isbn=0-7838-9303-5}}
+* {{Citation
+|title=History of United States Naval Operations in World War II: The rising sun in the Pacific, 1931 – April 1942
+|last=Morison
+|first=Samuel Eliot
+|publisher=[[University of Illinois Press]]
+|year=2001
+|isbn=0-252-06973-0}}
+* {{Citation
+|title=The Campaigns of the Pacific War
+|last=Ofstie
+|first=Ralph, A., RADM USN, Naval Analysis Division, United States Strategic Bombing Survey (Pacific)
+|author-link=Ralph A. Ofstie
+|publisher=United States Government Printing Office
+|year=1946}}
+* {{Citation
+|ref=CITEREFPeattie1997
+|title=Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy
+|last=Peattie
+|first=Mark R.
+|last2=Evans
+|first2=David C.
+|url=https://books.google.com/?id=ogwJAAAACAAJ
+|publisher=Naval Institute Press
+|year=1997
+|isbn=0-87021-192-7}}
+* {{Citation
+|ref=CITEREFPeattie2001
+|title=Sunburst: The Rise of Japanese Naval Air Power, 1909–1941
+|last=Peattie
+|first=Mark R.
+|publisher=Naval Institute Press
+|year=2001
+|isbn=1-59114-664-X}}
+* {{Citation
+|last=Parillo
+|first=Mark
+|chapter=The United States in the Pacific
+|chapter-url=https://books.google.com/books?id=T0gt_RjeCrgC&pg=PA287&vq=%22The+United+States+in+the+Pacific%22
+|editor1-last=Higham
+|editor1-first=Robin
+|editor2-last=Harris
+|editor2-first=Stephen
+|title=Why Air Forces Fail: the Anatomy of Defeat
+|url=https://books.google.com/?id=T0gt_RjeCrgC
+|publisher=The University Press of Kentucky
+|year=2006
+|isbn=978-0-8131-2374-5}}
+* {{Citation
+|last1=Prange
+|first1=Gordon William
+|last2=Goldstein
+|first2=Donald M.
+|last3=Dillon
+|first3=Katherine V.
+|title=December 7, 1941: The Day the Japanese Attacked Pearl Harbor
+|publisher=McGraw-Hill
+|year=1988
+|isbn=978-0-07-050682-4
+|url=https://books.google.com/?id=iydtAAAAIAAJ}}
+* {{Citation
+|title=Pearl Harbor 1941: The Day of Infamy; Osprey Campaign Series #62
+|last=Smith
+|first=Carl
+|publisher=Osprey Publishing
+|year=1999
+|isbn=1-85532-798-8}}
+* {{Citation
+|title=Tora! Tora! Tora!: Pearl Harbor 1941; Osprey Raid Series #26
+|last=Stille
+|first=Mark E.
+|publisher=Osprey Publishing
+|year=2011
+|isbn=978-1-84908-509-0}}
+* {{Citation
+|last=Thomas
+|first=Evan
+|title=Sea of Thunder: Four Commanders and the Last Great Naval Campaign 1941–1945
+|url=https://books.google.com/books?id=G-bOZnz2At0C
+|year=2007
+|publisher=Simon and Schuster
+|isbn=978-0-7432-5222-5}}
+* {{Citation
+|last=Willmott
+|first=H. P.
+|title=The barrier and the javelin: Japanese and Allied Pacific strategies, February to June 1942
+|url=https://books.google.com/books?id=Uid6AAAAIAAJ
+|year=1983
+|publisher=Naval Institute Press
+|ref=harv}}
+* {{Citation|last=Zimm|first=Alan D.|title=Attack on Pearl Harbor: Strategy, Combat, Myths, Deceptions|url=https://books.google.com/books?id=LgkaTwEACAAJ|year=2011|publisher=Casemate Publishers|location=Havertown, Pennsylvania|isbn=978-1-61200-010-7|ref=CITEREFZimm2011}}
+
+;U.S. government documents
+* {{Citation
+|title=U.S. Navy Report of Japanese Raid on Pearl Harbor
+|url=http://ww2db.com/doc.php?q=45
+|chapter=Document text
+|year=1942
+|publisher=United States National Archives, Modern Military Branch
+|accessdate=December 25, 2007| archiveurl=https://web.archive.org/web/20080113234417/http://ww2db.com/doc.php?q=45| archivedate= January 13, 2008 | deadurl=no}}
+* {{Citation
+|ref=CITEREFGPO1943a
+|title=Peace and War, United States Foreign Policy 1931–1941
+|url=http://www.ibiblio.org/pha/paw/
+|chapter=Document text
+|chapter-url=http://www.ibiblio.org/pha/paw/Peace%20and%20War.html
+|year=1943
+|place=Washington D.C.
+|publisher=United States Government Printing Office
+|accessdate=December 8, 2007}}
+* {{Citation
+|ref=CITEREFGPO1946a
+|title=Report of the Joint Committee on the Investigation of the Pearl Harbor Attack
+|url=http://www.ibiblio.org/pha/pha/congress/part_0.html
+|chapter=Damage to United States Naval Forces and Installations as a Result of the Attack
+|chapter-url=http://www.ibiblio.org/pha/pha/congress/part_2.html
+|year=1946
+|place=Washington D.C.
+|publisher=United States Government Printing Office
+|accessdate=December 8, 2007}}
+
+;Magazine articles
+* {{Citation|work=Naval History |title=Pearl Harbor – Attack from Below |url=http://www.usni.org/navalhistory/Articles99/Nhrodgaard.htm |last=Rodgaard |first=John |coauthors=Peter Hsu, Carroll Lucas, and Captain Andrew Biach |date=December 1999 |volume=13 |issue=6 |ref={{harvid|Rodgaard|1999}} |publisher=[[United States Naval Institute]] |deadurl=yes |archiveurl=https://web.archive.org/web/20060930030611/http://www.usni.org/navalhistory/Articles99/Nhrodgaard.htm |archivedate=September 30, 2006 }} (requires subscription)<!-- Cached copy may be available at http://216.230.103.132/navalhistory/Articles99/NHrodgaard.htm -->
+* {{Citation
+|last=Wetzler
+|first=Peter
+|title=Hirohito and war: imperial tradition and military decision making in prewar Japan
+|url=https://books.google.com/books?id=BWqEkwH1KRMC
+|year=1998
+|publisher=University of Hawaii Press
+|isbn=978-0-8248-1925-5}}
+
+;Online sources
+* {{Citation
+|ref=CITEREFNavSource2003
+|title=Organization of the Japanese Air Attack Units December 7, 1941
+|url=http://www.navsource.org/Naval/ijnaf.htm
+|year=2003
+|publisher=NavSource Naval History
+|accessdate=December 8, 2007| archiveurl= https://web.archive.org/web/20071213181330/http://www.navsource.org/Naval/ijnaf.htm| archivedate= December 13, 2007 | deadurl= no}}
+* {{Citation|ref=CITEREFdanfs373 |url=http://www.destroyerhistory.org/goldplater/danfs373.html |title=USS Shaw |publisher=destroyerhistory.org |accessdate=December 8, 2007 |archiveurl=https://web.archive.org/web/20110617060531/http://www.destroyerhistory.org/goldplater/danfs373.html |archivedate=June 17, 2011 |deadurl=unfit }}
+* {{Citation
+|ref=CITEREFWallin
+|url=http://www.ibiblio.org/hyperwar/USN/Wallin/index.html#contents
+|title=Pearl Harbor: Why, How, Fleet Salvage and Final Appraisal
+|author=[[Homer N. Wallin]]
+|work=[http://www.ibiblio.org/hyperwar/USN/ Hyperwar]
+|publisher=[http://www.ibiblio.org/ ibiblio.org]
+|accessdate=October 10, 2011}}
+{{refend}}
+
+==Further reading==  
+{{refbegin|30em}}   
+* [[Edwin T. Layton]], Roger Pineau, and John Costello (1985), ''And I Was There:  Pearl Harbor and Midway&mdash;Breaking the Secrets'', New York:  Morrow.  Layton, Kimmel's Combat Intelligence Officer, says that [[Douglas MacArthur]] was the only field commander who had received any substantial amount of [[Purple (cipher machine)|Purple]] intelligence.  
+* George Edward Morgenstern. ''Pearl Harbor: The Story of the Secret War''. (The Devin-Adair Company, 1947) ISBN 978-1-299-05736-4.  Conspiracy theory.
+* James Dorsey. "Literary Tropes, Rhetorical Looping, and the Nine Gods of War: 'Fascist Proclivities' Made Real," in ''The Culture of Japanese Fascism'', ed. by Alan Tansman (Durham & London: Duke UP, 2009), pp.&nbsp;409–431. A study of Japanese wartime media representations of the submarine component of the attack on Pearl Harbor.
+* [[McCollum memo]] A 1940 memo from a Naval headquarters staff officer to his superiors outlining possible provocations to Japan, which might lead to war (declassified in 1994).
+* [[Gordon W. Prange]], ''At Dawn We Slept'' (McGraw-Hill, 1981), ''Pearl Harbor: The Verdict of History'' (McGraw-Hill, 1986), and ''December 7, 1941: The Day the Japanese Attacked Pearl Harbor'' (McGraw-Hill, 1988). This monumental trilogy, written with collaborators Donald M. Goldstein and Katherine V. Dillon, is considered the authoritative work on the subject.
+* Larry Kimmett and Margaret Regis, ''The Attack on Pearl Harbor: An Illustrated History'' (NavPublishing, 2004). Using maps, photos, unique illustrations, and an animated CD, this book provides a detailed overview of the surprise attack that brought the United States into World War II.
+* [[Walter Lord]], ''Day of Infamy'' (Henry Holt, 1957) is a very readable, and entirely anecdotal, re-telling of the day's events.
+* W. J. Holmes, ''Double-Edged Secrets: U.S. Naval Intelligence Operations in the Pacific During World War II'' (Naval Institute, 1979) contains some important material, such as Holmes' argument that, had the U.S. Navy been warned of the attack and put to sea, it would have likely resulted in an even greater disaster.
+* Michael V. Gannon, ''Pearl Harbor Betrayed'' (Henry Holt, 2001) is a recent examination of the issues surrounding the surprise of the attack.
+* Frederick D. Parker, ''[http://www.history.navy.mil/books/comint/ Pearl Harbor Revisited: United States Navy Communications Intelligence 1924–1941]'' (Center for Cryptologic History, 1994) contains a detailed description of what the Navy knew from intercepted and decrypted Japan's communications prior to Pearl.
+* Henry C. Clausen and Bruce Lee, ''Pearl Harbor: Final Judgment'', (HarperCollins, 2001), an account of the secret "[[Clausen Inquiry]]" undertaken late in the war by order of Congress to Secretary of War [[Henry L. Stimson]].
+* [[Robert A. Theobald]], ''Final Secret of Pearl Harbor'' (Devin-Adair Pub, 1954) ISBN 0-8159-5503-0 ISBN 0-317-65928-6 Foreword by Fleet Admiral [[William F. Halsey, Jr.]]
+* [[Albert Coady Wedemeyer|Albert C. Wedemeyer]], ''Wedemeyer Reports!'' (Henry Holt Co, 1958) ISBN 0-89275-011-1 ISBN 0-8159-7216-4
+* [[Hamilton Fish]], ''Tragic Deception: FDR and America's Involvement in World War II'' (Devin-Adair Pub, 1983) ISBN 0-8159-6917-1
+* John Toland, ''Infamy: Pearl Harbor and Its Aftermath'' (Berkley Reissue edition, 1986 ISBN 0-425-09040-X).
+* Mary Ellen Condon-Rall, "The U.S. Army Medical Department and the Attack on Pearl Harbor". (''The Journal of Medical History'', January 1989). PMID 11617401. This article discusses the state of medical readiness prior to the attack, and the post-attack response by medical personnel.
+* [[Robert Stinnett]], ''[http://www.pearlharbor41.com/ Day of Deceit: The Truth About FDR and Pearl Harbor]'' (Free Press, 1999) A study of the Freedom of Information Act documents that led Congress to direct clearance of Kimmel and Short. ISBN 0-7432-0129-9
+* [[Edward L. Beach, Jr.]], ''Scapegoats: A Defense of Kimmel and Short at Pearl Harbor'' ISBN 1-55750-059-2
+* Andrew Krepinevich, {{PDFlink|[http://www.csbaonline.org/4Publications/PubLibrary/R.20020225.Lighting_the_Path_/R.20020225.Lighting_the_Path_.pdf]|186&nbsp;KB}} ''(Center for Strategic and Budgetary Assessments)'' contains a passage regarding the Yarnell attack, as well as reference citations.
+* Roberta Wohlstetter, ''Pearl Harbor: Warning and Decision'', (Stanford University Press: 1962). Regarded by many as the most important work in the attempt to understand the intelligence failure at Pearl Harbor. Her introduction and analysis of the concept of "noise" persists in understanding intelligence failures.
+* John Hughes-Wilson, ''Military Intelligence Blunders and Cover-Ups''. Robinson, 1999 (revised 2004). Contains a brief but insightful chapter on the particular intelligence failures, and broader overview of what causes them.
+* Douglas T. Shinsato and Tadanori Urabe, "For That One Day:  The Memoirs of Mitsuo Fuchida, Commander of the Attack on Pearl Harbor". (eXperience:  2011) ISBN 978-0-9846745-0-3
+* {{Citation
+ |last=Horn
+ |first=Steve
+ |year=2005
+ |title=The Second Attack on Pearl Harbor: Operation K And Other Japanese Attempts to Bomb America in World War II
+ |publisher=Naval Institute Press
+ |isbn=1-59114-388-8
+}}
+* Seki, Eiji. (2006). [http://www.brill.com/mrs-ferguson-s-tea-set-japan-and-second-world-war ''Mrs. Ferguson's Tea-Set, Japan and the Second World War: The Global Consequences Following Germany's Sinking of the SS Automedon in 1940.''] London: [[Global Oriental]]. ISBN 1-905246-28-5; ISBN 978-1-905246-28-1 (cloth) Published by BRILL/Global Oriental, 2006. Previously announced as ''Sinking of the SS Automedon and the Role of the Japanese Navy: A New Interpretation''.
+* Daniel Madsen, ''Resurrection-Salvaging the Battle Fleet at Pearl Harbor''. U.S. Naval Institute Press. 2003. Highly readable and thoroughly researched account of the aftermath of the attack and the salvage efforts from December 8, 1941 through early 1944.
+* Takeo, Iguchi, ''Demystifying Pearl Harbor: A New Perspective From Japan'', I-House Press, 2010, ASIN: B003RJ1AZA.
+* {{Citation|last1=Haynok |first1=Robert J. |year=2009 |title=How the Japanese Did It |journal=Naval History Magazine |volume=23 |issue=6 |publisher=United States Naval Institute |url=http://www.usni.org/magazines/navalhistory/2009-12/how-japanese-did-it}}
+* Moorhead, John J. 1942 "Surgical Experience at Pearl Harbor", The Journal of the American Medical Association. An overview of different surgical procedures at the hospital at the scene of the event.
+{{refend}}
+
+==External links==
+{{Spoken Wikipedia-2|2006-01-12|Pearl_Harbor(part1of2).ogg|Pearl_Harbor(part2of2).ogg}}
+{{Commons category|Pearl Harbor attack}}
+{{Library resources box|onlinebooks=yes}}
+* [http://www.history.navy.mil/faqs/faq66-1.htm Navy History Heritage Command Official Overview]
+* [http://www.history.com/topics/world-war-ii/pearl-harbor History.com Account With Video]
+* [http://history1900s.about.com/od/worldwarii/a/Attack-Pearl-Harbor.htm About Education Account]
+* [http://www.nps.gov/history/NR/twhp/wwwlps/lessons/18arizona/18arizona.htm ''"Remembering Pearl Harbor:The USS Arizona Memorial",'' a National Park Service Teaching with Historic Places (TwHP) lesson plan]
+* [http://libweb.hawaii.edu/digicoll/hwrd/HWRD_html/HWRD_welcome.htm Hawaii War Records Depository], Archives & Manuscripts Department, University of Hawaii at Manoa Library
+* [http://www.ibiblio.org/hyperwar/AAF/7Dec41/index.html 7 December 1941, The Air Force Story]
+* [http://www.ibiblio.org/pha/magic/ The "Magic" Background] (PDFs or readable online)
+* [http://www.ibiblio.org/pha/congress/ The Congressional investigation]
+;Accounts
+* [http://www.history.army.mil/books/wwii/Guard-US/ch7.htm Guarding The United States And Its Outposts], in ''[http://www.history.army.mil/books/wwii/Guard-US/index.htm#contents Guarding the United States and Its Outposts]'' Official U.S. Army history of Pearl Harbor by the [[United States Army Center of Military History]]
+* [http://archives.starbulletin.com/1999/09/13/special/index.html War comes to Hawaii] ''Honolulu Star-Bulletin'', Monday, September 13, 1999
+
+;Media
+* [http://www.britishpathe.com/video/pearl-harbour-first-pictures Video of first Newsreel from December 23, 1941 attack on Pearl Harbor]
+* [https://www.youtube.com/watch?v=8H-BTblzqO0&list=PLNxwX7r4A557deayljDNLqVA7Pl9Y8K9Z&index=1 Bombing of Pearl Harbour - 1941]
+* [http://cgi2.nhk.or.jp/shogenarchives/jpnews/movie.cgi?das_id=D0001300467_00000&seg_number=006 Attack on Pearl Harbor 1], ''Nippon News'', No. 82. in the official website of [[NHK]].
+* [http://cgi2.nhk.or.jp/shogenarchives/jpnews/movie.cgi?das_id=D0001300469_00000&seg_number=004 Attack on Pearl Harbor 2], ''Nippon News'', No. 84. in the official website of NHK.
+* [http://www.criticalpast.com/video/65675029979_attack-on-Pearl-Harbor_Harbor-installations_USS-Arizona-burns_black-smoke-rises Historic footage of Pearl Harbor during and immediately following attack on December 7, 1941]
+
+;Historic documents
+* [http://ww2db.com/doc.php?q=45 WW2DB: U.S. Navy Report of Japanese Raid on Pearl Harbor]
+* [http://www.worldwar-two.net/events/usa_declaration_of_war_on_japan/ Second World War – USA Declaration of War on Japan.]
+* [http://www.ibiblio.org/pha/monos/097/index.html Collection of extensive Japanese preparation military documents]
+
+{{Pearl Harbor attack}}
+{{USWWII}}
+{{World War II}}
+{{JapanEmpireNavbox}}
+{{Coord|21|22|N|157|57|W|type:event|display=title}}
+
+{{Authority control}}
+{{Subject bar
+| portal1=Military of the United States
+| portal2=World War II
+| commons=y
+| commons-search=Pearl Harbor attack
+| spoken1=Pearl_Harbor(part1of2).ogg
+| spoken2=Pearl_Harbor(part2of2).ogg
+}}
+
+{{DEFAULTSORT:Pearl Harbor}}
+[[Category:Attack on Pearl Harbor| ]]
+[[Category:1941 in Hawaii]]
+[[Category:1941 in the United States]]

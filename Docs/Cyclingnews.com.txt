@@ -1,0 +1,53 @@
+Cyclingnews.com
+
+{{Infobox website
+| name                 = Cyclingnews.com
+| logo                 = [[File:Cyclingnews.com logo.svg|260px]]
+| screenshot           = [[File:Cyclingnews.com screenshot.png|border|250px]]
+| collapsible          = yes
+| caption              = Screenshot of Cyclingnews.com's homepage
+| url                  = {{URL|cyclingnews.com}}
+| slogan               = The world centre of cycling
+| commercial           = Yes
+| type                 = News
+| registration         = Optional
+| language             = English
+| content_license      = 
+| content_licence      = 
+| programming language = 
+| owner                = [[Immediate Media Company]]
+| author               = [[Bill Mitchell (economist)|Bill Mitchell]]
+| editor               = Daniel Benson
+| launch_date          = {{Start date and age|1995|df=yes}}
+| revenue              = 
+| ip                   = 89.167.142.111
+| current_status       = Active
+| footnotes            = 
+}}
+'''Cyclingnews.com''' is a website providing [[cycling]] news and race result owned by [[Immediate Media Company]].
+
+==History==
+In 1995 Australian [[Bill Mitchell (economist)|Bill Mitchell]], a keen cyclist and professor of economics at the [[University of Newcastle (Australia)|University of Newcastle]], created the website titled "Bill’s Cycling Racing Results and News" after finding there was a need for fast-breaking news and race results in English-speaking countries.<ref name="about">{{cite web|title=About Cyclingnews|url=http://ftp.cyclingnews.com/adpage/about.php|work=Cyclingnews.com|publisher=[[Future plc]]|location=Bath, UK|accessdate=4 April 2013}}</ref><ref name="cycling-tips">{{cite news|title=Cyclingnews {{!}} A Web 1.0 Success Story|url=http://www.cyclingtips.com.au/2011/08/cyclingnews-a-web-1-0-success-story/|work=Cycling Tips|accessdate=4 April 2013|date=8 August 2011}}</ref> In 1999 Sydney-based publishing company Knapp Communications purchased the website from Mitchell,<ref>{{cite news|last=Knapp|first=Gerard|title=It's been quite a climb, and now it's really time to ride|url=http://www.cyclingnews.com/editions/special-edition-cycling-news-july-4-2007|work=Cyclingnews.com|publisher=[[Future plc]]|location=Bath, UK|accessdate=4 April 2013|date=4 July 2007}}</ref> and in July 2007 they sold it to British publisher [[Future plc]] for £2.2m.<ref>{{cite web|title=Acquisition of www.cyclingnews.com|url=http://www.futureplc.com/2007/07/03/acquisition-of-www-cyclingnews-com/|work=[[Future plc]]|accessdate=5 April 2013|date=3 July 2007}}</ref><ref>{{cite news|last=Reid|first=Carlton|title=Future buys Cyclingnews.com for £2.2m|url=http://www.bikebiz.com/news/read/future-buys-cyclingnews-com-for-2-2m/0912|work=BikeBiz|publisher=Intent Media|accessdate=4 April 2013|location=Hertford, UK|date=3 July 2007}}</ref><ref>{{cite news|last=Luft|first=Oliver|title=Future buys Cyclingnews.com for £2.2m|url=http://www.journalism.co.uk/news/future-buys-cyclingnews-com-for--2-2m/s2/a53389/|work=Journalism.co.uk|publisher=Mousetrap Media|location=Brighton, UK|accessdate=4 April 2013|date=3 July 2007}}</ref> In July 2014 it was bought by [[Immediate Media Company]]<ref>{{cite web|title=IMMEDIATE MEDIA CO COMPLETES ACQUISITION OF FUTURE CYCLING AND CRAFT BRANDS|url=http://www.immediate.co.uk/news/corporate/immediate-media-co-completes-acquisition-of-future-cycling-and-craft-brands/|publisher=[[Immediate Media Company]]|accessdate=14 April 2015}}</ref>
+
+==See also==
+{{Portal|Cycling|Internet}}
+* [[Pedaltech-Cyclingnews-Jako]]
+* [[Cycling Weekly]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|cyclingnews.com}}
+
+{{Immediate Media}}
+
+[[Category:Internet properties established in 1995]]
+[[Category:British websites]]
+[[Category:European news websites]]
+[[Category:Cycling media]]
+[[Category:Sport websites]]
+
+
+{{news-website-stub}}
+{{Cycling-stub}}

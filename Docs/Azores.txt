@@ -1,0 +1,664 @@
+Azores
+
+{{About|the archipelago|the area of high pressure|Azores High}}
+{{Use dmy dates|date=June 2012}}
+{{Geobox|Region
+<!-- *** Heading *** -->
+| name                 = Azores
+| native_name          = ''{{lang|pt|Açores}}''
+| other_name           =
+| category             = [[Autonomous area|Autonomous Region]]
+|  native_category     = {{lang|pt|Região Autónoma}}
+<!-- *** Names **** -->
+| etymology            = ''{{lang|pt|açor}}'', [[Portuguese language|Portuguese]] for species of rapier bird, erroneously identified as goshawks; also derivation from the word for ''blue''
+| official_name        = ''{{lang|pt|Região Autónoma dos Açores}}''
+| motto                = {{lang|pt|'''Antes morrer livres que em paz sujeitos'''}}<br/><small>(English: "Rather die as free men than be enslaved in peace")</small>
+| nickname             =
+<!-- *** Image *** -->
+| image                = Açores 2010-07-19 (5047589237).jpg
+| image_caption        = [[Mount Pico]] and the green landscape, emblematic of the archipelago of the Azores
+| image_size           = 300
+<!-- *** Symbols *** -->
+| flag                 = Flag of the Azores.svg
+| flag_type            = [[Flag of the Azores|Flag]]
+| symbol               = Azr.png
+| symbol_type          = [[Coat of arms of the Azores|Coat of arms]]
+<!-- *** Country *** -->
+| country              = {{flag|Portugal}}
+| state_type           = Autonomous Region
+| state                = {{flag|Azores|name=Azores}}
+| region               = Atlantic Ocean
+| district             = Mid-Atlantic Ridge
+| district_type        = Subregion
+| municipality         = Azores Platform
+| municipality_type    = Position
+<!-- *** Family *** -->
+| border_type          = Islands
+| border_count         = 9
+| border               = [[Corvo Island|Corvo]]
+| border1              = [[Faial Island|Faial]]
+| border2              = [[Flores Island (Azores)|Flores]]
+| border3              = Graciosa
+| border4              = [[Pico Island|Pico]]
+| border5              = [[São Jorge Island|São Jorge]]
+| border6              = [[São Miguel Island|São Miguel]]
+| border7              = [[Santa Maria Island|Santa Maria]]
+| border8              = [[Terceira Island|Terceira]]
+| part_type            = Municipalities
+| part_count           = 17
+| part                 = Angra do Heroísmo
+| part1                = [[Horta (Azores)|Horta]]
+| part2                = [[Lagoa (Azores)|Lagoa]]
+| part3                = [[Lajes das Flores (Azores)|Lajes das Flores]]
+| part4                = [[Lajes do Pico (Azores)|Lajes do Pico]]
+| part5                = [[Madalena (Azores)|Madalena]]
+| part6                = [[Nordeste (Azores)|Nordeste]]
+| part7                = [[Povoação (Azores)|Povoação]]
+| part8                = Praia da Vitória
+| part9                = [[Ponta Delgada (Azores)|Ponta Delgada]]
+| part10               = [[Ribeira Grande (Azores)|Ribeira Grande]]
+| part11               = [[Santa Cruz da Graciosa (Azores)|Santa Cruz da Graciosa]]
+| part12               = [[Santa Cruz das Flores (Azores)|Santa Cruz das Flores]]
+| part13               = [[São Roque do Pico (Azores)|São Roque]]
+| part14               = [[Vila do Corvo (Azores)|Vila do Corvo]]
+| part15               = [[Vila do Porto (Azores)|Vila do Porto]]
+| part16               = [[Vila Franca do Campo (Azores)|Vila Franca do Campo]]
+| city_type            = Capitals
+| city                 = [[Angra do Heroísmo]]<ref>Seat of the Judiciary/Tribunal and [[Roman Catholic Diocese of Angra]]</ref>
+| city1                = [[Horta (Azores)|Horta]]<ref>Seat of Legislature and Regional Assembly</ref>
+| city2                = [[Ponta Delgada (Azores)|Ponta Delgada]]<ref>Seat of Presidency and Government</ref>
+| landmark             =
+| river                =
+<!-- *** Locations *** -->
+| capital_type             = Largest city
+| capital                  = [[Ponta Delgada (Azores)|Ponta Delgada]]
+| capital_location         = [[São José (Ponta Delgada)|São José]]
+| capital_region           = [[São Miguel Island|São Miguel]]
+| capital_country          = Azores
+| capital_elevation        = 22
+| capital_lat_d            = 37
+| capital_lat_m            = 44
+| capital_lat_s            = 28
+| capital_lat_NS           = N
+| capital_long_d           = 25
+| capital_long_m           = 40
+| capital_long_s           = 32
+| capital_long_EW          = W
+| highest                  = Mount Pico
+| highest_location         =
+| highest_region           = [[Pico Island|Pico]]
+| highest_country          = Azores
+| highest_elevation        = 2351
+| highest_lat_d            = 38
+| highest_lat_m            = 28
+| highest_lat_s            = 19
+| highest_lat_NS           = N
+| highest_long_d           = 28
+| highest_long_m           = 51
+| highest_long_s           = 50
+| highest_long_EW          = W
+| lowest                   = Sea level
+| lowest_location          = Atlantic Ocean
+| lowest_region            =
+| lowest_country           =
+| lowest_elevation         = 0
+| lowest_lat_d             =
+| lowest_lat_m             =
+| lowest_lat_s             =
+| lowest_lat_NS            =
+| lowest_long_d            =
+| lowest_long_m            =
+| lowest_long_s            =
+| lowest_long_EW           =
+<!-- *** Dimensions *** -->
+| length                   =
+| length_orientation       = West-East
+| width                    =
+| width_orientation        = North-South
+| area                     = 2333
+<!-- *** Population *** -->
+| population               = 245746
+| population_date          = 2012
+| population_density       = 105.87
+| population_note          = Census 2011
+<!-- *** History & government *** -->
+| established              = 15 August 1432
+|  established_type        = Settlement
+| established1             = c. 1895
+|  established1_type       = Administrative autonomy
+| established2             = 4 September 1976
+|  established2_type       = Political autonomy
+| date                     = c. 1427
+|  date_type               = Discovery
+| date1                    = c. 1427
+|  date1_type              = [[Santa Maria Island|Santa Maria]]
+| date2                    = c. 1428
+|  date2_type              = [[São Miguel Island|São Miguel]]
+| government_location      = Palácio de Santana, Rua José Jácome Correia
+| government_region        = [[Ponta Delgada (Azores)|Ponta Delgada]]
+| government_country       = [[São Miguel Island|São Miguel]]
+| government_elevation     = 60
+| government_lat_d         = 37
+| government_lat_m         = 44
+| government_lat_s         = 52
+| government_lat_NS        = N
+| government_long_d        = 25
+| government_long_m        = 40
+| government_long_s        = 19
+| government_long_EW       = W
+| management_location      = Assembleia Regional, Rua Marcelino Lima
+| management_region        = [[Horta (Azores)|Horta]]
+| management_country       = [[Faial Island|Faial]]
+| management_elevation     = 46
+| management_lat_d         = 38
+| management_lat_m         = 32
+| management_lat_s         = 6
+| management_lat_NS        = N
+| management_long_d        = 28
+| management_long_m        = 37
+| management_long_s        = 51
+| management_long_EW       = W
+| leader                   = [[Vasco Cordeiro]]
+| leader_type              = [[List of Presidents of the Government of the Azores|President (Government)]]
+| leader_party             = [[Socialist Party (Portugal)|PS]]
+| leader1                  = [[Ana Luís]]
+| leader1_type             = President (Assembleia)
+| leader1_party            = [[Socialist Party (Portugal)|PS]]
+<!-- *** Codes ***  -->
+| timezone                 = Azores
+| utc_offset               = −1
+| timezone_DST             = Azores [[European Summer Time|EST]] ([[UTC±00:00|UTC]])
+| postal_code              = 9XXX-XXX
+| area_code                = (+351) 29X XX XX XX<ref name="Azores Area Codes">{{cite web|title=What is Azores dialing code?|url=http://www.happyzebra.com/dialing-codes/Azores-area-code.php|website=happyzebra.com|accessdate=30 June 2014}}</ref>
+| iso_code                 = PT
+|  iso_subcode             = 20
+| code                     = [[.pt]]
+|  code_type               = [[country code top-level domain|ccTLD]]
+| code1                    = dd-mm-yyyy
+|  code1_type              = Date format
+| code2                    = right-side
+|  code2_type              = Drive
+<!-- *** Free fields *** -->
+|  free_type               = [[Demonym]]
+| free                     = Azorean
+|  free1_type              = [[Patron Saint]]
+| free1                    = [[Holy Spirit|Espírito Santo]]
+|  free2_type              = Holiday
+| free2                    = 51st day (Monday) following Easter (Dia da Região Autónoma dos Açores)
+|  free3_type              = Anthem
+| free3                    = {{lang|pt|''[[A Portuguesa]]''}}&nbsp;(national)<br/> {{lang|pt|''[[Hino dos Açores]]''}}&nbsp;(regional)
+| free4                    = Euro (€)<ref>Until 2002, the [[Portuguese escudo]] was used in financial transactions, and until 1910 the [[Portuguese real]] was the currency used by the monarchy of Portugal.</ref>
+|  free4_type              = Currency
+| free5_type                 = [[GDP]] (nominal)
+| free5                      = 2013 
+| free6                    = € 3,694 million<ref name=aicep>{{cite web|title= Regiões de Portugal| publisher=AICEP| url= http://www.portugalglobal.pt/PT/InvestirPortugal/RegioesMultifacetadas/Paginas/RegioesMultifacetadas.aspx}}</ref>
+|  free6_type              = - Total
+| free7                    = € 14,900<ref name="aicep"/>
+|  free7_type              = - Per capita
+<!-- *** Maps *** -->
+| map                      = Locator map of Azores in EU.svg
+| map1                     = Azoren blank map.PNG
+| map_caption              = Location of the Azores relative to Portugal (green) and the rest of the [[European Union]] (dark blue)
+| map1_caption             = Distribution of the islands of the archipelago
+| map_background           =
+| map_locator              =
+| map_locator_x            =
+| map_locator_y            =
+<!-- *** Website *** -->
+| commons                  = Azores
+| statistics               = [[Instituto Nacional de Estatística]]<ref name="INE">{{citation|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=131011251&PUBLICACOEStema=5414321&PUBLICACOESmodo=2 |title=Censos 2011 – Resultadas Preliminares|trans_title=2011 Census – Preliminary Results|publisher=Instituto Nacional de Estatística|location=Lisbon, Portugal|language=Portuguese|accessdate=1 January 2012|year=2010|editor=INE|editor-link=Instituto Nacional de Estatística}}</ref>
+| website                  = [http://www.azores.gov.pt/ www.azores.gov.pt]
+<!-- *** Footnotes *** -->
+| footnotes                = Geographic detail from CAOP (2010)<ref>{{citation|url=http://www.igeo.pt/produtos/cadastro/caop/download/Areas_Freg_Mun_Dist_CAOP2010.zip|title=Carta Administrativa Oficial de Portugal|publisher=Instituto Geográfico Português|location=Lisbon, Portugal|language=Portuguese|accessdate=1 January 2012|year=2010|editor=IGP}}</ref> produced by Instituto Geográfico Português (IGP)
+}}
+
+The '''Azores''' ({{IPAc-en|ə|ˈ|z|ɔr|z|}} {{Respell|ə|ZORZ|'}} or {{IPAc-en|ˈ|eɪ|z|ɔr|z|}} {{Respell|AY|zorz}}; {{lang-pt|Açores}}, {{IPA-pt|ɐˈsoɾɨʃ|}}), officially the '''Autonomous Region of the Azores''' (''{{lang|pt|Região Autónoma dos Açores}}''), is one of the two [[autonomous regions of Portugal]], composed of nine [[volcanic island]]s in the North Atlantic Ocean about {{convert|1360|km|mi|abbr=on}} west of continental [[Portugal]], about {{convert|880|km|mi|abbr=on}} northwest of [[Madeira]], about {{convert|1925|km|mi|abbr=on}} southeast of [[Newfoundland (island)|Newfoundland]], {{convert|3175|km|mi|abbr=on}} to [[Cape Verde]] , about {{convert|4121|km|mi|abbr=on}} east of [[New York City]] and about {{convert|6,392|km|mi|abbr=on}} northeast of [[Brazil]]. Its main industries are agriculture, [[dairy farming]] (for cheese and butter products primarily), livestock [[ranching]], [[fishing in Portugal|fishing]], and [[tourism in Portugal|tourism]], which is becoming the major service activity in the region. In addition, the government of the Azores employs a large percentage of the population directly or indirectly in the service and tertiary sectors. The main settlement of the Azores is [[Ponta Delgada]].
+
+There are nine major Azorean islands and an islet cluster, in three main groups. These are [[Flores (Azores)|Flores]] and [[Corvo Island|Corvo]], to the west; [[Graciosa]], [[Terceira]], [[São Jorge Island|São Jorge]], [[Pico Island|Pico]], and [[Faial Island|Faial]] in the centre; and [[São Miguel Island|São Miguel]], [[Santa Maria Island|Santa Maria]], and the [[Formigas|Formigas Reef]] to the east. They extend for more than {{convert|600|km|mi|abbr=on}} and lie in a northwest-southeast direction.
+
+All the islands have [[volcanic]] origins, although some, such as [[Santa Maria Island|Santa Maria]], have had no recorded activity since the islands were settled. [[Mount Pico]], on the island of [[Pico Island|Pico]], is the highest point in Portugal, at {{convert|2351|m|ft|0|abbr=on}}. The Azores are actually some of the tallest mountains on the planet, measured from their base at the bottom of the ocean to their peaks, which thrust high above the surface of the Atlantic.
+
+The climate of the Azores is very mild for such a northerly location, being influenced by its distance to continents and the passing [[Gulf Stream]]. Due to the marine influence, temperatures remain mild year-round. Daytime temperatures normally fluctuate between {{convert|16|C|F}} and {{convert|25|C|F}} depending on season.<ref>{{cite web|url=http://www.ipma.pt/en/oclima/normais.clima/1981-2010/020/|title=Ponta Delgada Climate Normals 1981-2010|publisher=IPMA|accessdate=26 October 2015}}</ref><ref>{{cite web|url=http://www.ipma.pt/en/oclima/normais.clima/1981-2010/026/|title=Angra do Heroísmo Climate Normals 1981-2010|publisher=IPMA|accessdate=26 October 2015}}</ref> Temperatures above {{convert|30|C|F}} or below {{convert|3|C|F}} are unknown in the major population centres. It is also generally wet and cloudy.
+
+The culture, dialect, cuisine, and traditions of the Azorean islands vary considerably, because these once-uninhabited and remote islands were settled sporadically over a span of two centuries.
+
+==History==
+{{main|History of the Azores}}
+A small number of alleged [[Hypogeum|hypogea]], earthen structures carved into rocks that were used for burials, have been identified on the islands of Corvo, Santa Maria and Terceira by Portuguese archaeologist Nuno Ribeiro, who speculated that they might date back 2000 years, alluding to a human presence on the island before the Portuguese.<ref>{{Citation |website=Correio da Manhã |language=Portuguese |accessdate=18 June 2011 |title=Estruturas podem ter mais de dois mil anos: Monumentos funerários descobertos nos Açores |date=5 March 2011 |location=Lisbon, Portugal |editor=J.M.A. |publisher=Cofina Media |url=http://www.cmjornal.xl.pt/detalhe/noticias/ultima-hora/monumentos-funerarios-descobertos-nos-acores}}</ref> However, these kinds of structures have always been used in the Azores to store cereals, and suggestions by Ribeiro that they might be burial sites are unconfirmed. Detailed examination and dating to authenticate the validity of these speculations is lacking.<ref>{{Citation |publisher=Açoreana Oriental |language=Portuguese |accessdate=27 June 2011 |title=Estudos arqueológicos podem indicar presença prévia ao povoamento das ilhas |date=27 June 2011 |location=Ponta Delgada (Azores), Portugal |editor=AO Online |url=http://www.acorianooriental.pt/noticias/view/216916}}</ref> It is unclear whether these structures are natural or man-made and whether they predate the 15th-century Portuguese colonization of the Azores. Solid confirmation of a pre-Portuguese human presence in the archipelago has not yet been published.
+
+===Discovery===
+[[File:Azores old map.jpg|thumb|left|235px|1584 map of the Azores.]]
+The islands were known in the fourteenth century and parts of them appear in the [[Atlas Catalan]]. In 1427, a captain sailing for [[Henry the Navigator]], possibly [[Gonçalo Velho]], rediscovered the Azores, but this is not certain. In [[Thomas Ashe (writer)|Thomas Ashe]]'s 1813 work, ''A History of the Azores'',<ref name="History1813">{{cite book|first=Thomas|last=Ashe|title=History of the Azores, or. Western islands|year=1813|publisher=Oxford University}}</ref> the author identified a [[Flemish people|Fleming]], Joshua Vander Berg of [[Bruges]], who made landfall in the archipelago during a storm on his way to [[Lisbon]].<ref name="History1813"/> He stated that the Portuguese explored the area and claimed it for Portugal.<ref name="History1813"/> Other stories note the discovery of the first islands ([[São Miguel Island]], [[Santa Maria Island]] and [[Terceira Island]]) by sailors in the service of [[Henry the Navigator]], although there are few documents to support the claims.
+
+Although it is commonly said that the archipelago received its name from the [[northern goshawk|goshawk]] ({{lang|pt|''Açor''}} in Portuguese), a common bird at the time of discovery, it is unlikely that the bird nested or hunted in the islands.
+
+===Settlement===
+{{No footnotes|section|date=April 2013}}
+[[File:Vista sobre Angra do Heroismo.jpg|235px|thumb|left|[[Angra do Heroísmo]], the oldest continuously-settled town in the archipelago of the Azores and UNESCO World Heritage Site]]
+Following the discovery of Santa Maria and before settlement began, sheep were let loose on the island to supply  future settlers with food, because there were no large animals on the island. Settlement did not take place right away, however. There was not much interest among the Portuguese people in an isolated archipelago hundreds of miles from civilization. However, [[Gonçalo Velho Cabral]] patiently gathered resources and settlers for the next three years (1433–1436) and sailed to establish colonies on Santa Maria first and then São Miguel.
+
+Settlers cleared bush and rocks to plant crops—grain, grape vines, [[sugar cane]], and other plants suitable for local use and of commercial value. They brought domesticated animals, such as chickens, rabbits, cattle, sheep, goats, and [[Domestic pig|pigs]] and built houses and established villages.
+
+The archipelago was settled over the centuries largely from mainland Portugal. Portuguese settlers came from the provinces of [[Algarve]], [[Minho Province|Minho]], [[Alentejo Province|Alentejo]] and [[Ribatejo Province|Ribatejo]] as well as [[Madeira]]. São Miguel was first settled in 1444, the settlers – mainly from the [[Estremadura Province (historical)|Estremadura]], Alto Alentejo and Algarve areas of continental Portugal, under the command of Gonçalo Velho Cabral – landing at the site of modern-day [[Povoação]]. Many of the early settlers were also Portuguese Sephardic Jews (New Christians - Jews who became Christian through forced conversion) who fled the pressures of inquisition in mainland Portugal. In 1522 [[Vila Franca do Campo]], then the capital of the island, was devastated by an [[1522 Vila Franca earthquake|earthquake and landslide]] that killed about 5,000 people, and the capital was moved to [[Ponta Delgada]]. The town of Vila Franca do Campo was rebuilt on the original site and today is a thriving fishing and yachting port. Ponta Delgada received its city status in 1546. Since the first settlement, the pioneers applied themselves to the area of agriculture. By the 15th century Graciosa exported wheat, barley, wine and brandy. The goods were sent to Terceira largely because of the proximity of the island.
+
+During the 18th and 19th century, Graciosa was host to many prominent figures, including [[François-René de Chateaubriand|Chateaubriand]], the French writer who passed through upon his escape to America during the French revolution; [[Almeida Garrett]], the Portuguese poet who visited an uncle and wrote some poetry while there; and [[Albert I, Prince of Monaco|Prince Albert of Monaco]], the 19th century oceanographer who led several expeditions in the waters of the Azores. He arrived on his yacht "Hirondelle", and visited the "furna da caldeira", the noted hot springs grotto. Author [[Mark Twain]] published in 1869, "The Innocents Abroad" a travel book, where he described his time in the Azores.
+
+The first reference to the island of São Jorge was made in 1439 but the actual date of discovery is unknown. In 1443 the island was already inhabited but active settlement only began with the arrival of the noble Flemish native ''Wilhelm Van der Haegen''. Arriving at [[Topo (Azores)|Topo]], where he lived and died, he became known as ''Guilherme da Silveira'' to the islanders. [[João Vaz Corte-Real]] received the captaincy of the island in 1483. [[Velas]] became a town before the end of the 15th century. By 1490, there were 2,000 Flemings living in the islands of Terceira, Pico, Faial, São Jorge and Flores. Because there was such a large Flemish settlement, the Azores became known as the Flemish Islands or the Isles of Flanders. Prince [[Henry the Navigator]] was responsible for this settlement. His sister, [[Infanta Isabel, Duchess of Burgundy|Isabel]], was married to [[Philip the Good|Duke Philip of Burgundy]] of which Flanders was a part. There was a revolt against Philip's rule and disease and hunger became rampant. Isabel appealed to Henry to allow some of the unruly Flemings to settle in the Azores. He granted this and supplied them with the necessary transportation and goods.
+
+The [[Human settlement|settlement]] of the then-unoccupied islands started in 1439 with people mainly from the continental provinces of Algarve and [[Alentejo]]. In 1583, [[Philip II of Spain]], as [[List of Portuguese monarchs|king of Portugal]], sent his fleet to clear the Azores of a combined multinational force of adventurers, mercenaries, volunteers and soldiers who were attempting to establish the Azores as a staging post for a rival [[pretender]] to the Portuguese throne. Following the success of his fleet at the [[Battle of Ponta Delgada]], the captured enemies were hanged from yardarms, as they were considered pirates by Philip II. This was added to the "[[Black Legend]]" by his enemies.{{Citation needed|date=June 2011}} An English [[Azores Voyage of 1589|expedition to the Azores]] in 1589 was met with success as a few of the islands along with the harbouring ships were plundered. Another English expedition against the Azores in 1597, the [[Islands Voyage]], however failed. Spain held the Azores in what is called The Babylonian captivity of 1580–1642. Into the late 16th century, the Azores as well as [[Madeira]] began to face problems of overpopulation. Spawning from that particular economic problem, some of the people began to emigrate to [[Brazil]].<ref name="ImperialAge1989">{{cite book|first=G.V|last=Scammell|title=The First Imperial Age|year=1989|publisher=Unwin Hyman}}</ref>
+
+===Iberian Union===
+{{main|Conquest of the Azores}}
+Following the death of [[Henry, King of Portugal|Henry, the Cardinal-King of Portugal]] the nation fell into a dynastic crisis with [[Portuguese succession crisis of 1580#Claimants to the throne|various pretenders]] to the Crown of Portugal.<ref name="MeloBento34">Carlos Melo Bento (2008), p.34</ref> Following his proclamation in Santarém, [[António, Prior of Crato]] was acclaimed in the Azores in 1580 (through his envoy António da Costa), but was expelled from the continent following the [[Battle of Alcântara (1580)|Battle of Alcântara]].<ref name=MeloBento34/> Yet, through the administration of Cipriano de Figueiredo, governor of Terceira (who continued to govern Terceira in the name of ill-fated, former-king [[Sebastian of Portugal]]), the Azoreans resisted attempts to conquer the islands (including specifically at the [[Battle of Salga]]).<ref name="MeloBento36">Carlos Melo Bento (2008), p.36</ref> It was Figueiredo and Violante do Canto who helped organize a resistance on Terceira that influenced some of the response of the other islands, even as internal politics and support for Philip's faction increased on the other islands (including specifically on São Miguel, where the Gonçalvez da Câmara family supported the Spanish pretender).<ref name=MeloBento36/>
+
+The Azores were the last part of the [[Portuguese Empire]] to resist Philip's reign over Portugal ([[Macau]] resisted any official recognition) and were returned to Portuguese control with the end of the [[Iberian Union]] in 1640, not by the professional military, who were used in the [[Portuguese Restoration War|Restoration War]] in the mainland, but by local people attacking a fortified [[Crown of Castile|Castilian]] garrison.
+
+===Liberal Wars===
+{{No footnotes|section|date=April 2013}}
+{{main|Portuguese Civil War}}
+The [[Liberal Wars|Portuguese Civil War]] (1828–1834) had strong repercussions in the Azores. In 1829, in [[Praia da Vitoria|Praia da Vitória]], the Liberals won over the [[Political absolutism|absolutists]], making [[Terceira Island]] the main headquarters of the new Portuguese regime and also where the Council of Regency ({{lang|pt|''Conselho de Regência''}}) of [[Maria II of Portugal]] was established.
+
+Beginning in 1868, Portugal issued its stamps overprinted with "{{lang|pt|AÇORES}}" for use in the islands. Between 1892 and 1906, it also issued separate stamps for the three administrative districts of the time.
+
+From 1836 to 1976, the archipelago was divided into three districts, equivalent (except in area) to those in the [[Administrative divisions of Portugal#Districts|Portuguese mainland]]. The division was arbitrary, and did not follow the natural island groups, rather reflecting the location of each district capital on the three main cities (none of which were on the western group).
+
+*'''Angra do Heroísmo''' consisted of Terceira, São Jorge, and Graciosa, with the capital at [[Angra do Heroísmo]] on Terceira.
+*'''Horta''' consisted of Pico, Faial, Flores, and Corvo, with the capital at [[Horta (Azores)|Horta]] on Faial.
+*'''Ponta Delgada''' consisted of São Miguel and Santa Maria, with the capital at [[Ponta Delgada]] on São Miguel.
+
+===20th century===
+In 1931 the Azores (together with Madeira and Portuguese Guinea) revolted against the [[Ditadura Nacional]] and were held briefly by military rebels.<ref>{{Cite journal|publisher=University of Wisconsin|accessdate=22 June 2011|title=A History of Spain and Portugal – Ch27|year=1972|location=Madison WI|author=Payne, Stanley|url=http://libro.uca.edu/payne2/payne27.htm|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}| archiveurl= https://web.archive.org/web/20110525184237/http://libro.uca.edu/payne2/payne27.htm| archivedate= 25 May 2011 <!--DASHBot-->| deadurl= no}}</ref>
+
+In 1943, during [[World War II]], the Portuguese ruler [[António de Oliveira Salazar]] leased air and naval bases in the Azores to the [[British Empire]].<ref>{{cite web |url=http://www.adl.org/Braun/dim_14_1_neutrality_europe.asp |title=The Role of Portugal -co-opting Nazi Gold, Jonathan Petropoulos, "Dimensions", Vol 11, No 1, 1997 |publisher=Adl.org |accessdate=22 July 2009}}</ref> The occupation of these facilities in October 1943 was codenamed ''Operation Alacrity'' by the British.<ref>{{cite web|author=M B Barrass |url=http://www.rafweb.org/Biographies/Bromet.htm |title=Air of Authority - A History of RAF Organisation: Air Vice-Marshal Sir Geoffrey Bromet |publisher=Royal Air Force Organization (RAFWeb.org) |date=2001–2008 |accessdate=15 September 2011}}</ref>
+
+This was a key turning point in the [[Battle of the Atlantic]], enabling the [[Royal Air Force]], the [[U.S. Army Air Forces]], and the U.S. Navy to provide aerial coverage in the [[Mid-Atlantic gap]]. This helped them to protect [[convoy]]s and to hunt hostile [[Kriegsmarine]] [[U-boat]]s.
+
+In 1944, the [[American armed forces]] constructed a small and short-lived [[air base]] on the island of Santa Maria. In 1945, a new base was constructed on the island of [[Terceira]], and it is named [[Lajes Field]]. This air base is in an area called Lajes, a broad, flat sea terrace that had been a large farm. Lajes Field is a plateau rising out of the sea on the northeast corner of the island. This air base is a joint American and Portuguese venture. Lajes Field continues to support the American and [[Portuguese Armed Forces]]. During the [[Cold War]], [[U.S. Navy]] [[P-3 Orion]] [[antisubmarine warfare]] squadrons patrolled the [[North Atlantic Ocean]] for [[Soviet Navy]] [[submarine]]s and surface [[warship]]s. Since its opening, Lajes Field has been used for refuelling American [[cargo plane]]s bound for [[Europe]], [[Africa]], and the [[Middle East]]. The U.S. Navy keeps a small [[squadron (naval)|squadron]] of its ships at the harbor of [[Praia da Vitória]], three kilometers southeast of Lajes Field.
+
+The airfield also has a small commercial terminal handling scheduled and chartered passenger flights from the other islands in the Azores, Europe, Africa, and [[North America]].
+
+In 1976, the Azores became the Autonomous Region of the Azores ({{lang|pt|''Região Autónoma dos Açores''}}), one of the [[autonomous regions of Portugal]], and the subdistricts of the Azores were eliminated.
+
+==Geography==
+
+===Physical geography===
+
+{| class="wikitable" style="float:right;"
+|-
+|+Surface areas of the islands of the archipelago
+! style="width:130px;" rowspan="2"| Island
+! colspan="2"| Area
+|-
+! style="width:50px;"| km<sup>2</sup>
+! style="width:50px;"| sq mi
+|-
+| [[São Miguel Island|São Miguel]]  || {{convert|759|km2|sqmi|0|disp=table}}
+|-
+| [[Pico Island|Pico]]        || {{convert|446|km2|sqmi|0|disp=table}}
+|-
+| [[Terceira Island|Terceira]]    || {{convert|403|km2|sqmi|0|disp=table}}
+|-
+| [[São Jorge Island|São Jorge]]   || {{convert|246|km2|sqmi|0|disp=table}}
+|-
+| [[Faial Island|Faial]]       || {{convert|173|km2|sqmi|0|disp=table}}
+|-
+| [[Flores Island (Azores)|Flores]] || {{convert|143|km2|sqmi|0|disp=table}}
+|-
+| [[Santa Maria Island|Santa Maria]] ||  {{convert|97|km2|sqmi|0|disp=table}}
+|-
+| [[Graciosa Island|Graciosa]]    ||  {{convert|62|km2|sqmi|0|disp=table}}
+|-
+| [[Corvo Island|Corvo]]       ||  {{convert|17|km2|sqmi|0|disp=table}}
+|}
+The [[archipelago]] of the Azores is located in the middle of the northern hemisphere of the Atlantic Ocean and extends along a west-northwest to east-southeast orientation (between 36.5°–40° North [[latitudes]] and 24.5°–31.5° West [[longitudes]]) in an area approximately {{convert|600|km|0|abbr=off}} wide. The islands of the Azores emerged from what is called the Azores Platform, a 5.8 million km<sup>2</sup> region that is morphologically accented by a depth of 2000 meters.<ref>Miranda, et al., 1998</ref><ref name="Machado, et al., 2008, p.14">Machado, et al., 2008, p.14</ref>
+
+From a geostructural perspective the Azores is located above an active [[triple junction]] between three of the world's large tectonic plates (the [[North American Plate]], the [[Eurasian Plate]] and the [[African Plate]]),<ref name="Machado, et al., 2008, p.14"/> a condition that has translated into the existence of many faults and fractures in this region of the Atlantic.<ref>Lúis, 1994, p.439–440</ref> The westernmost islands of the archipelago ([[Corvo Island|Corvo]] and [[Flores Island (Azores)|Flores]]) are located in the North American Plate, while the remaining islands are located within the boundary that divides the Eurasian and African Plates.
+
+[[File:Azores-map.png|thumb|left|300px|Map of the Azores]]
+The principal tectonic structures that exist in the region of the Azores are the [[Mid-Atlantic Ridge]], the [[Terceira Rift]], the Azores Fracture Zone and the Glória Fault.<ref name="Machado, et al., 2008, p.14"/> The [[Mid-Atlantic Ridge]] is the main frontier between the American Plate and the African-Eurasian Plates that crosses the Azores Platform between the islands of [[Flores Island (Azores)|Flores]] and [[Faial Island|Faial]] from north to south then to the southwest; it is an extensive form crossed by many transform faults running perpendicular to its north-south orientation, that is seismically active and susceptible to volcanism. The Terceira Rift is a system of fractures that extends from the Mid-Atlantic Ridge to the Glória Fault that represents the main frontier between the Eurasian and African Plates. It is defined by a line of submarine volcanoes and island mounts that extend northwest to southeast for about {{convert|550|km|0|abbr=off}}, from the area west of [[Graciosa]] until the islets of the [[Formigas]], that includes the islands of Graciosa, Terceira and São Miguel. Its northwest limit connects to the Mid-Atlantic Ridge, while the southeast section intersects the Gloria Fault southeast of the island of [[Santa Maria Island|Santa Maria]]. The Azores Fracture Zone extends from the Glória Fault and encompasses a relatively inactive area to the south of the islands of the Central and Eastern groups north to the Terceira Rift, along a 45° angle. The Glória Fault, for its part, extends {{convert|800|km|0|abbr=off}} along a linear line from the Azores to the [[Azores–Gibraltar Transform Fault]].<ref>Madeira, 1998</ref>
+
+{{wide image|Sete Cidades (panorama).JPG|1400px}}
+
+The island's volcanism is associated with the rifting along the [[Azores Triple Junction]]; the spread of the crust along the existing faults and fractures has produced many of the active volcanic and seismic events,<ref name="Ferreira, 2005, p.4">Ferreira, 2005, p.4</ref> while supported by buoyant upwelling in the deeper mantle, some associate with an [[Azores hotspot]].<ref>Ting Yang, et al., 2006, p.20</ref>  Most of the volcanic activity has centered, primarily, along the [[Terceira Rift]]. From the beginning of the island's settlement, around the 15th century, there have been 28 registered volcanic eruptions (15 terrestrial and 13 submarine). The last significant volcanic eruption, the  [[Capelinhos]] volcano ({{lang|pt|''Vulcão dos Capelinhos''}}), occurred off the coast of the island of Faial in 1957; the most recent volcanic activity occurred in the seamounts and submarine volcanoes off the coast of [[Serreta (Azores)|Serreta]] and in the Pico-São Jorge Channel.<ref>{{cite web|url=http://www.cvarg.azores.gov.pt/Cvarg/CentroVulcanologia/geologiaacores/GA+-+Vulcanismo+Historico.htm|title=Erupções vulcânicas históricas|trans_title=Historical Volcanic Eruptions|publisher= Centro de Vulcanologia e Avaliação de Riscos Geológicos (CVARG) |year=2010|accessdate= 15 April 2010}}; Evidence for the submarine eruptions off the coasts of [[Velas]], [[São Jorge Island]] and Cachorro, [[Santa Luzia (São Roque do Pico)|Santa Luzia]], [[Pico Island]] included primarily from inferences and eyewitness testimonies about sulfuric gases and vapors released from the waters along the coast (15–24 February 1964 and 15 December 1963, respectively)</ref> The islands have many examples of volcano-built geomorphology including many of the caves and subterranean lava tubes (such as the [[Gruta das Torres]], [[Algar do Carvão]], [[Gruta do Natal]], Gruta das Cinco Ribeiras), the coastal lava fields (like the coast of [[Feteiras]], [[Faial Island|Faial]], the Mistério of [[Prainha (São Roque do Pico)|Prainha]] or São João on [[Pico Island]]) in addition to the currently inactive cones in central [[São Miguel Island]], the aforementioned Capelinhos on Faial, the volcanic complexes of [[Terceira]]  or [[Plinian]] caldeira of [[Corvo Island]].
+
+[[File:Manuel Gaspar, moinho típico, Santa Cruz da Graciosa, ilha Graciosa, Açores, Portugal.JPG|235px|thumb|One of the Flemish-inspired windmills that still dot the landscape of the Azores (this on the island of [[Graciosa]])]]
+[[File:Ilha do Pico vista da Fajã Grande, Calheta, ilha de São Jorge, Açores, Portugal.JPG|300px|thumb|left|Perspective of Mount Pico, the highest mountain/summit in the Azores and Portugal, as seen from the island of [[São Jorge Island|São Jorge]].]]
+The islands of the archipelago were formed through volcanic and seismic activity during the [[Neogene]] Period; the first embryonic surfaces started to appear in the waters of Santa Maria during the [[Miocene epoch]] (from circa 8 million years ago). The sequence of the island formation has been generally characterized as: Santa Maria (8.12 Ma), São Miguel (4.1 Ma), Terceira (3.52 Ma), Graciosa (2.5 Ma), Flores (2.16 Ma), Faial (0.7 Ma), São Jorge (0.55 Ma), Corvo (0.7 Ma) and the youngest, Pico (0.27 Ma).<ref name="Carine, 2010, p.78">Carine, 2010, p.78</ref> Although all islands have experienced volcanism during their geological history, within recorded "human settlement" history the islands of Santa Maria, Flores, Corvo and Graciosa have not experienced any volcanic eruptions; in addition to active fumaroles and hot-springs, the remaining islands have had sporadic eruptions since the 14th century. Apart from the [[Capelinhos]] volcano in 1957–58, the last recorded instance of "island formation" occurred off the coast of São Miguel, when the island of [[Sabrina Island (Azores)|Sabrina]] was briefly formed.
+
+Owing to its geodynamic environment, the region has been center of intense seismic activity, particularly along its tectonic boundaries on the Mid-Atlantic Ridge and Terceira Rift. Seismic events although frequent, usually tectonic or vulco-tectonic in nature, but in general low to medium intensities, occasionally punctuated by events of level 5 or greater on the [[Richter magnitude scale]].<ref>Ferreira, 2005, p.110</ref><ref>{{cite web|url=http://www.cvarg.azores.gov.pt/Cvarg/CentroVulcanologia/geologiaacores/VA+-+Sismicidade+instrumental.htm|title=Actividade Sísmica|trans_title=Seismic Activity|year=2010|accessdate=15 April 2010|language=Portuguese|publisher=CVARG}}</ref> The most severe earthquake was registered in 1757, near [[Calheta (Azores)|Calheta]] on the island of [[São Jorge Island|São Jorge]], which exceeded 7 on the Richter magnitude scale. In comparison, the 1522 earthquake that was mentioned by historian [[Gaspar Frutuoso]] measured 6.8, but its effects were judged to be X (''Extreme'') on the [[Mercalli intensity scale]],<ref>Ferreira, 2005, p.111</ref> and was responsible for the destruction of [[Vila Franca do Campo]] and landslides that may have killed less than 5,000 of the inhabitants.
+
+{{No footnotes|section|date=April 2013}}
+The nine islands that comprise the archipelago occupy a surface area of {{convert|2346|km2|sqmi|0|abbr=on}}, that includes both the main islands and many islets located in their vicinities. Each of the islands have their own distinct geomorphological characteristics that make them unique:  [[Corvo Island|Corvo]] (the smallest island) is a crater of a major [[Plinian]] eruption; [[Flores Island (Azores)|Flores]] (its neighbor on the [[North American Plate]]) is a rugged island carved by many valleys and escarpments; [[Faial Island|Faial]] characterized for its [[volcano#Shield volcanoes|shield volcano]] and caldera ([[Cabeço Gordo]]); [[Pico Island|Pico]], is the highest point, at  {{convert|2351|m|ft|0|sp=us}}, in the Azores and continental Portugal; [[Graciosa Island|Graciosa]] is known for its active Furnas do Enxofre and mixture of volcanic cones and plains; [[São Jorge Island|São Jorge]] is a long slender island, formed from [[Types of volcanic eruptions|fissural eruptions]] over thousands of years; [[Terceira]], almost circular, is the location of one of the largest craters in the region; [[São Miguel Island|São Miguel]] is the largest island, and is pitted with many large craters and fields of spatter cones; and [[Santa Maria Island|Santa Maria]], the oldest island, is heavily eroded, being one of the few places to encounter brown sandy beaches in the archipelago. They range in surface area from the largest, São Miguel, at {{convert|759|km2|sqmi|0|abbr=on|}}  to the smallest, Corvo, at approximately {{convert|17|km2|sqmi|0|abbr=on|}}.
+
+These islands can be divided into three recognizable groups located on the Azores Platform:
+* The Eastern Group ({{lang|pt|''Grupo Oriental''}}) of [[São Miguel Island|São Miguel]], [[Santa Maria Island|Santa Maria]] and [[Formigas Islets]]
+* The Central Group ({{lang|pt|''Grupo Central''}}) of [[Terceira Island|Terceira]], [[Graciosa Island|Graciosa]], [[São Jorge Island|São Jorge]], [[Pico Island|Pico]] and [[Faial Island|Faial]]
+* The Western Group ({{lang|pt|''Grupo Ocidental''}}) of [[Flores Island (Azores)|Flores]] and [[Corvo Island|Corvo]].
+In addition, several sub-surface reefs (particularly the [[Dollabarat]] on the fringe of the Formigas), banks (specifically the [[Princess Alice Bank]] and [[Dom João de Castro Bank|D. João de Castro Bank]], as well as many  [[Hydrothermal vents and seamounts of the Azores|hydrothermal vents and sea-mounts]] are monitored by the regional authorities, owing to the complex geotectonic and socioeconomic significance within the economic exclusion zone of the archipelago.
+[[File:Fajã do Ouvidor, a grandiosidade das falésias, Norte Grande, Velas, ilha de São Jorge.JPG|330px|thumb|The grand cliffs of the island of São Jorge, formed by fissural volcanism.]]
+
+===Biome===
+The archipelago lies in the [[Palearctic ecozone]], forming a unique [[biome]] that includes the [[macaronesian]] [[subtropical]] [[laurissilva]], with many [[endemic species]] of plants and animals.<ref name=Kostas2010/><ref name=Species>{{cite book |title=A list of the terrestrial and marine biota from the Azores |editors=Borges, P.A.V., Costa, A., Cunha, R., Gabriel, R., Gonçalves, V., Martins, A.F., Melo, I., Parente, M., Raposeiro, P., Rodrigues, P., Santos, R.S., Silva, L., Vieira, P. & Vieira, V. |year=2010 |publisher=Princípia, Cascais |isbn=978-989-8131-75-1 |pages=432 pp.|nopp = y |url=http://www.azoresbioportal.angra.uac.pt/files/publicacoes_Listagem_ml.pdf}}</ref> In total, there are about 6112 terrestrial species, of which about 411 are [[endemic]]. Most (75 %) of these endemics are animals, mostly arthropods and mollusks. There are also about 1883 marine taxa, including 39 endemics.<ref name=Species/>
+
+Even though the Azores look very green and sometimes wild, the vegetation has been extremely altered. Approximately 95% of [[laurisilva]] has been wiped out in the past 600 years for its valuable wood (for tools, buildings, boats, [[Wood fuel|fire wood]], and so on) and to clear land for agriculture. As a result, it is estimated that more than half of insects on the islands have disappeared or will become extinct.<ref name=Kostas2010>{{Cite journal | last1 = Triantis | first1 = K. A. | last2 = Borges | first2 = P. A. V. | last3 = Ladle | first3 = R. J. | last4 = Hortal | first4 = J.| last5 = Cardoso | first5 = P. | last6 = Gaspar | first6 = C. | last7 = Dinis | first7 = F. | last8 = Mendonça | first8 = E.| last9 = Silveira | first9 = L. M. A. | last10 = Gabriel | first10 = R. | last11 = Melo | first11 = C. | last12 = Santos | first12 = A. M. C. | last13 = Amorim | first13 = I. R. | last14 = Ribeiro | first14 = S. R. P. | last15 = Serrano | first15 = A. R. M. | last16 = Quartau | first16 = J. A. | last17 = Whittaker | first17 = R. J. | title = Extinction debt on oceanic islands | doi = 10.1111/j.1600-0587.2010.06203.x | journal = Ecography | volume = 33 | pages = 285–294 | year = 2010 | pmid =  | pmc = }}</ref> Many cultivated places (which are traditionally dedicated to pasture or to growing [[colocasia]], potatoes, maize and other crops) have now been abandoned, especially as a result of emigration. Consequently, some [[Invasive species|invasive]] plants have filled these deserted and disturbed lands. The two most common of these alien species are ''[[Pittosporum undulatum]]'' and ''[[Acacia melanoxylon]]''. They are usually restricted to ancient agricultural land and only rarely penetrate into undisturbed native vegetation. The main loss is in the lowlands (below 400 metres) where virtually all laurisilva was eradicated.
+
+A few ''[[Persea indica]]'' and ''[[Picconia azorica]]'' survive in some places, but appear extremely vulnerable. Only ''[[Myrica faya]]'' seems to have survived human impact quite well, and it is commonly found in hedges or among exotic trees. More recent introductions could become a serious threat, like ''[[Leptospermum scoparium]]'', which has the ability to colonize the still nearly untouched medium-altitude vegetation (''[[Ilex]]'', ''[[Myrsine]] africana'', ''[[Erica]]'', and so on).
+
+[[Hydrangea]]s are another potential pest, but their threat is less serious. Notwithstanding the fact that Hydrangeas were introduced from America or Asia, some locals consider them a symbol of the archipelago, and propagate them along roadsides, helping them to escape into the wild. ''[[Cryptomeria]]'', the Japanese cedar, is a [[conifer]] extensively grown for its timber; many seedlings can be found in the last remnants of medium-altitude native vegetation.
+
+The Azores has two [[endemism|endemic]] bird species. The [[Azores bullfinch]], or ''Priolo'', is restricted to remnant laurisilva forest in the mountains at the eastern end of São Miguel and is classified by BirdLife International as [[endangered]]. [[Monteiro's storm-petrel]], described to science as recently as 2008, is known to breed in just two locations in the islands, but may occur more widely. An [[extinct]] species of [[owl]], the [[São Miguel scops owl]], has also recently been described, which probably became extinct after human settlement due to habitat destruction and the introduction of alien species.<ref name=zt>{{cite journal |author=Rando, Juan Carlos; Alcover, Josep Antoni; Olson, Storrs L.; & Pieper, Harald.|year=2013 |title= A new species of extinct scops owl (Aves: Strigiformes: Strigidae: ''Otus'') from São Miguel Island (Azores Archipelago), North Atlantic Ocean |journal=Zootaxa |volume=3647 |issue=2 |pages=343–357 |url= http://www.mapress.com/zootaxa/2013/f/z03647p357f.pdf |doi=10.11646/zootaxa.3647.2.6}}</ref> The Azores also has an endemic [[bat]], the [[Azores noctule]], which is unusual in regularly feeding during the day.
+
+The islets of the [[Formigas]] (the Portuguese word for "[[ant]]s"), including the area known as the [[Dollabarat]] Reef, has a rich environment of maritime species, such as [[black coral]] and [[manta ray]]s, sharks, and [[sea turtle]]s. On São Miguel there are notable micro-habitats formed by hot springs that host extremophile microorganisms.<ref>{{cite encyclopedia|first=C. Michael|last=Hogan|date=10 December 2010|url=http://www.eoearth.org/article/Extremophile?topic=49540|title=Extremophile|editor-first=Emily|editor-last=Monosson|editor2-first=Cutler J.|editor2-last=Cleveland|encyclopedia=Encyclopedia of Earth|publisher=National Council for Science and the Environment|location=Washington D.C.|accessdate=10 January 2010}}</ref>
+
+===Climate===
+[[File:Miradouro da Vigia das Baleias, Capelas, Ponta Delgada, ilha de São Miguel, Açores.JPG|290px|thumb|left|The northern coast of the island of São Miguel around Capelas and São Vicente (between Ribeira Grande and Ponta Delgada).]]
+The [[archipelago]] is spread out in the area between 37° N and the [[Circle of latitude|parallels of latitude]] that pass through the [[Lisbon#Climate|Lisbon]] area (38° 43'&nbsp;/ 38° 55' N), giving it generally a tepid, oceanic, subtropical climate, with mild annual oscillations. Daily maximum temperatures usually range between {{convert|15|and|25|°C|0|abbr=on}}. The average annual rainfall increases from east to west, and it ranges from 700 to 1600 annual millimetres (27.6–63&nbsp;in) on average, reaching {{convert|6300|mm|in|-1}} on [[Mount Pico]],<ref name="Climate of the Azores islands">{{cite web|url=http://www.azoresweather.com|title=Climate of the Azores islands |publisher=Azores Weather |accessdate=5 May 2009}}</ref> the highest Portuguese mountain at {{convert|2351|m|ft|0|abbr=on}}. The [[Azores High]], an area of high [[atmospheric pressure]], is named after the islands. Under the Köppen climate classification, the local climate is "dry-summer subtropical", often referred to as "Mediterranean". The Köppen subtype for this climate is "[[Köppen climate classification#GROUP C: Temperate/mesothermal climates|Csb]]".<ref>{{cite web|url=http://www.weatherbase.com/weather/weather-summary.php3?s=90580&cityname=Sao+Sebastiao%2C+Azores%2C+Portugal&units=|title=Sao Sebastiao, Portugal Köppen Climate Classification |publisher=Weatherbase |accessdate=4 September 2013}}</ref> [[Seasonal lag]] is extreme around minimum insolation, with December being milder than April in terms of mean temperatures. During summer the lag is somewhat lower, with August being the warmest month.
+
+
+{{Weather box
+|location = Ponta Delgada
+|metric first = yes
+|single line = yes
+|Jan record high C = 20.2
+|Feb record high C = 20.4
+|Mar record high C = 22.8
+|Apr record high C = 22.6
+|May record high C = 23.2
+|Jun record high C = 25.6
+|Jul record high C = 28.2
+|Aug record high C = 28.8
+|Sep record high C = 28.6
+|Oct record high C = 26.2
+|Nov record high C = 25.5
+|Dec record high C = 22.6
+|Jan high C = 16.8
+|Feb high C = 16.6
+|Mar high C = 17.0
+|Apr high C = 17.7
+|May high C = 19.1
+|Jun high C = 21.4
+|Jul high C = 23.9
+|Aug high C = 25.3
+|Sep high C = 24.3
+|Oct high C = 21.9
+|Nov high C = 19.4
+|Dec high C = 17.8
+|year high C = 20.1
+|Jan low C = 12.2
+|Feb low C = 11.5
+|Mar low C = 12.0
+|Apr low C = 12.3
+|May low C = 13.6
+|Jun low C = 15.8
+|Jul low C = 17.8
+|Aug low C = 19.0
+|Sep low C = 18.4
+|Oct low C = 16.5
+|Nov low C = 14.3
+|Dec low C = 12.9
+|year low C = 14.7
+|Jan record low C = 4.4
+|Feb record low C = 3.7
+|Mar record low C = 4.2
+|Apr record low C = 5.5
+|May record low C = 6.6
+|Jun record low C = 8.3
+|Jul record low C = 12.0
+|Aug record low C = 13.0
+|Sep record low C = 12.2
+|Oct record low C = 10.4
+|Nov record low C = 7.6
+|Dec record low C = 6.2
+|Jan precipitation mm = 96.9
+|Feb precipitation mm = 84.0
+|Mar precipitation mm = 87.7
+|Apr precipitation mm = 76.7
+|May precipitation mm = 72.0
+|Jun precipitation mm = 39.6
+|Jul precipitation mm = 26.6
+|Aug precipitation mm = 46.1
+|Sep precipitation mm = 91.9
+|Oct precipitation mm = 108.5
+|Nov precipitation mm = 108.7
+|Dec precipitation mm = 146.9
+|Jan sun = 97
+|Feb sun = 103
+|Mar sun = 120
+|Apr sun = 141
+|May sun = 174
+|Jun sun = 163
+|Jul sun = 208
+|Aug sun = 213
+|Sep sun = 175
+|Oct sun = 142
+|Nov sun = 109
+|Dec sun = 93
+|year sun = 1738
+|source 1 = Instituto de Meteorologia<ref>{{cite web
+|url=http://www.ipma.pt/pt/oclima/normais.clima/1981-2010/020/
+|title=Normais Climatológicas (1981–2010)
+|language=Portuguese
+|publisher=Instituto de Meteorologia
+|accessdate=July 9, 2015}}</ref> 
+|source 2 = NOAA (sun, 1961–1990)<ref name= NOAA>{{cite web
+| url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_VI/PO/08513.TXT
+| title = Ponta Delgada Climate Normals 1961-1990
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = July 9, 2015}}</ref>
+|date=July 2015
+}}
+
+In addition, the [[Instituto de Meteorologia]] has identified the following weather extremes:
+* Highest minimum air temperature: {{convert|24.3|°C|F|abbr=on}}, in Angra do Heroísmo, Terceira (30 June 1996)
+* Lowest minimum air temperature: {{convert|-3.5|°C|F|abbr=on}}, in Chã das Lagoinhas, São Miguel (2 January 1973)
+* Highest maximum air temperature: {{convert|39.0|°C|F|abbr=on}}, in July (Exact date and location unknown)
+* Lowest maximum air temperature: {{convert|4.0|°C|F|abbr=on}}, Chã das Lagoinhas, São Miguel (20 February 1972)
+* Maximum precipitation in 24 hours: {{convert|276|mm|2|abbr=on}}, Furnas, São Miguel (3 October 1974)
+* Maximum wind speed: >168&nbsp;km/hour, Angra do Heroísmo, (Terceira 2 November 1995)<ref>{{cite web |url=http://www.meteo.pt/pt/oclima/extremos/ |title=Maximum wind speed recorded during Hurricane Tanya (1995) |author=<!--Staff writer(s); no by-line.--> |website= |publisher=Institute of Meteorology, IP Portugal |access-date= |quote= |archive-url=https://web.archive.org/web/20120712075018/http://www.meteo.pt/pt/oclima/extremos/ |archive-date=12 July 2012}}</ref>
+
+====Hurricanes====
+{{No footnotes|section|date=April 2013}}
+A total of 11 [[Tropical cyclone|tropical]] or [[subtropical cyclone]]s have affected the region in history. Most of them were either [[Extratropical cyclone|extratropical]] or [[Tropical cyclone|tropical storms]] when they impacted the region, although several [[Saffir-Simpson hurricane scale|Category 1 hurricanes]] have reached the Azores. The following storms have impacted the region while at Category 1 strength: [[Hurricane Fran (1973)|Hurricane Fran]] in 1973, [[Hurricane Emmy]] in 1976, [[Hurricane Gordon (2006)|Hurricane Gordon]] in 2006, [[Hurricane Gordon (2012)|Hurricane Gordon]] in 2012 and [[Hurricane Alex (2016)|Hurricane Alex]] in 2016. Several tropical storms have hit the region, including [[Tropical Storm Irma (1978)|Tropical Storm Irma]] in 1978, [[Hurricane Bonnie (1992)|Hurricane Bonnie]] in 1992 and [[Hurricane Erika (1997)|Hurricane Erika]] in 1997. Storms that were extratropical when they impacted the region include [[Hurricane Tanya (1995)|Hurricane Tanya]] in 1995, [[Tropical Storm Ana (2003)|Tropical Storm Ana]] in 2003 and [[Tropical Storm Grace (2009)|Tropical Storm Grace]] in 2009. In addition, the [[2005 Azores subtropical storm]] impacted the region in October 2005.
+
+==Demographics==
+{{No footnotes|section|date=April 2013}}
+The Azores are divided into 19 municipalities ({{lang|pt|''concelhos''}}); each municipality is further divided into parishes ({{lang|pt|''freguesias''}}), of which there is a [[List of parishes of Portugal|total of 156]] in all of the Azores. The municipalities, by island, are:
+
+{| class="wikitable" style="font-size:95%; margin:1em auto 1em auto;"
+|-
+! rowspan="2" style="width:100pt;"| Island !! rowspan="2" style="width:75pt;"|Group!! colspan="2" style="width:100pt;"| Population<ref name=INE/>
+!colspan="2"|[[Local administrative unit|Local Administrative Units]]!! rowspan="2" style="width:150pt;"| Main Settlement
+|-
+!  style="text-align:right; width:75pt;"|2011!!  style="text-align:right; width:75pt;"|% Total!!  style="text-align:right; width:50pt;"|No!!  style="text-align:left; width:550pt;"|Municipalities (''[[Concelho]]'')
+|-
+| [[São Miguel Island|São Miguel]]  ||Eastern||align="right"| 137,830 ||align="right"| 55.86
+| style="text-align:center;"| 6 ||[[Lagoa, Azores|Lagoa]], [[Nordeste, Azores|Nordeste]], [[Ponta Delgada]], [[Povoação]], [[Ribeira Grande, São Miguel|Ribeira Grande]], [[Vila Franca do Campo]]||[[Ponta Delgada]]
+|-
+| [[Terceira Island|Terceira]]    ||Central||align="right"|  56,437 ||align="right"| 22.87
+| style="text-align:center;"| 2||[[Angra do Heroísmo]], [[Praia da Vitória]]||[[Angra do Heroísmo]]
+|-
+| [[Faial Island|Faial]]       ||Central||align="right"|  14,994 ||align="right"|  6.08
+| style="text-align:center;"| 1||[[Horta (Azores)|Horta]]||[[Horta (Azores)|Horta]]
+|-
+| [[Pico Island|Pico]]        ||Central||align="right"|  14,148 ||align="right"|  5.73
+| style="text-align:center;"| 3||[[Lajes do Pico]], [[Madalena (Azores)|Madalena]], [[São Roque do Pico]]||[[São Roque do Pico]]
+|-
+| [[São Jorge Island|São Jorge]]   ||Central||align="right"|   9,171 ||align="right"|  3.72
+| style="text-align:center;"| 2||[[Calheta (Azores)|Calheta]], [[Velas]]||[[Velas]]
+|-
+| [[Santa Maria Island|Santa Maria]] ||Eastern||align="right"|   5,552 ||align="right"|  2.25
+| style="text-align:center;"| 1||[[Vila do Porto]]||[[Vila do Porto]]
+|-
+| [[Graciosa Island|Graciosa]]    ||Central||align="right"|   4,391 ||align="right"|  1.78
+| style="text-align:center;"| 1||[[Santa Cruz da Graciosa]]||[[Santa Cruz da Graciosa]]
+|-
+| [[Flores Island (Azores)|Flores]] ||Western||align="right"| 3,793 ||align="right"| 1.54
+| style="text-align:center;"| 2||[[Lajes das Flores]], [[Santa Cruz das Flores]]||[[Santa Cruz das Flores]]
+|-
+| [[Corvo Island|Corvo]]       ||Western||align="right"|     430 ||align="right"|  0.17
+| style="text-align:center;"| 1||[[Corvo, Azores|Vila do Corvo]]||[[Vila do Corvo]]
+|-
+| Total |||| style="text-align:right;"| 246,746 ||
+| style="text-align:center;"| 19||||
+|}
+There are six cities ('''''Portuguese''''': ''cidades'') in the Azores:  [[Ponta Delgada]], [[Lagoa (Azores)|Lagoa]] and [[Ribeira Grande, São Miguel|Ribeira Grande]] on the island of São Miguel; [[Angra do Heroísmo]] and [[Praia da Vitória]] on the island of Terceira, and [[Horta (Azores)|Horta]] on Faial. Three of these, [[Ponta Delgada]], [[Angra (Azores)|Angra]] and [[Horta (Azores)|Horta]] are considered [[Capital (political)|capital/administrative cities]] to the regional government: homes to the President (Ponta Delgada), the Judiciary (Angra) and the Regional Assembly (Horta). Angra also serves as the ecclesiastical centre of the [[Roman Catholic Diocese of Angra]], the episcopal see of the Azores.
+
+{{wide image|Es2004 terceira.jpg|1100px|Panoramic view near São Mateus, [[Terceira]], June 2004}}
+
+===Population===
+According to the 2011 Census, population in the Azores was 246,746 at a density of {{convert|106|PD/km2}}.
+
+The Azores were uninhabited when Portuguese navigators arrived in the early 15th century; the settlement process was initiated in 1439 with individuals from various regions of mainland Portugal and from [[Madeira]]. The islands were populated mainly by Portuguese descendants immigrants from [[Algarve]], [[Alentejo]], and [[Minho (province)|Minho]]; however, in an effort to escape the pressures of the Portuguese inquisition, many Portuguese Sephardic Jews, also known as the 'New Christians', (those who were forced to convert to Christianity during the Portuguese inquisition), settled on the islands in large numbers. Azorean Jews had surnames such as: Rodrigues, Oliveira, Pereira, Pimentel, Cardozo, Teixeira, etc. The islands were also settled by Moorish prisoners, and African slaves from Guinea, Cape Verde and São Tomé; Flemish, French and Galicians also contributed to the initial settlement. Thus the Azorean population received a significant contribution from people with genetic backgrounds other than Portuguese.
+
+The nature of the economy dictated that [[Atlantic slave trade|African slavery]] never became common in the Azores because they were sent to Brazil and the Caribbean. Only a few remained in the Azores to help with domestic chores, although the islands sometimes served as a waypoint for ships carrying [[History of slavery|African slaves]].<ref name="Colonialism: An International, Social, Cultural, and Political Encyclopedia">{{cite book| url=https://books.google.com/?id=qFTHBoRvQbsC&pg=PA42&lpg=PA42&dq=azores+slavery| title=Colonialism: An International, Social, Cultural, and Political Encyclopedia|author= Melvin Eugene Page and Penny M. Sonnenburg|accessdate=16 December 2008 | isbn=978-1-57607-335-3 | year=2003}}</ref>
+
+===Genetics===
+[[File:Angra do Heroismo - Rua da Sé.jpg|260px|thumb|left|[[Angra do Heroísmo|A main street in Angra do Heroísmo]] (a UNESCO heritage site) and provincial capital of the island of Terceira.]]
+
+As in [[continental Portugal]], the most frequent [[Human mitochondrial DNA haplogroup|mtDNA haplogroup]] in the Azores is [[Haplogroup H (mtDNA)|H]] (45.2%), followed by [[Haplogroup U (mtDNA)|U]] (16.7%), [[Haplogroup T (mtDNA)|T]] (10.1%),  [[Haplogroup K (mtDNA)|K]] (6.5%), [[Haplogroup pre-HV (mtDNA)|pre-HV]] clades (5.6%) and a smaller sub-Saharan [[Haplogroup L1 (mtDNA)|L haplogroups]] frequency (3.4%) than in Madeira as the number of sub-Saharan slaves in the Açores never reached the proportions that took place in Madeira.<ref>[http://www.springerlink.com/content/5rp512e7jux8bcd7/fulltext.html Mitochondrial portraits of the Azores and Açores archipelagos witness different genetic pools of its settlers], Brehm et al. 2003</ref>
+
+===Emigration===
+Since the 17th century, many Azoreans have emigrated, mainly to Brazil, Uruguay, the United States and Canada.<ref>{{cite web|url=http://library.csustan.edu/bsantos/azores.html |title=Azores Islands |publisher=Library.csustan.edu |date=17 January 1997|accessdate=5 May 2009}}</ref>  [[Rhode Island]] and Southeastern Massachusetts, especially the cities of [[New Bedford]], Bristol, Barrington, Pawtucket, Central Falls, West Warwick, Hudson, Marlborough, East Providence, River Point, Taunton and [[Fall River, Massachusetts|Fall River]] have been, and remain, the primary destination for Azorean emigrants.<ref>{{cite web|author=Lurdes C. da Silva 22 August 2008 |url=http://www.ojornal.com/site/news.cfm?newsid=20087125&BRD=2677&PAG=461&dept_id=543384&rfi=6 |title=Mass.- Azores links inked |publisher=O Jornal |date=22 August 2008 |accessdate=5 May 2009 |deadurl=yes |archiveurl=https://web.archive.org/20110511090002/http://www.ojornal.com/site/news.cfm?newsid=20087125&BRD=2677&PAG=461&dept_id=543384&rfi=6 |archivedate=11 May 2011 }}</ref> Emigrants from the East coast returned to their homeland and taught the American dory fishing technique to the Portuguese who began catching cod again on the Grand Bank in the 19th century.<ref>SILVA, A. J. M. (2015), The fable of the cod and the promised sea. About portuguese traditions of bacalhau, in BARATA, F. T- and ROCHA, J. M. (eds.), Heritages and Memories from the Sea, Proceedings of the 1st International Conference of the UNESCO Chair in Intangible Heritage and Traditional Know-How: Linking Heritage, 14–16 January 2015. University of Evora, Évora, pp. 130-143. [https://www.academia.edu/15680102/The_fable_of_the_cod_and_the_promised_sea._About_portuguese_traditions_of_bacalhau PDF version]</ref>
+ 
+Northern California was the final destination for many of the Massachusetts immigrants who then moved on to the [[San Joaquin Valley]], especially the city of [[Turlock, California|Turlock]], just south of Modesto. In the late 1800s many Azoreans emigrated to the Hawaiian islands. The tuna fishing industry drew a significant number of Azoreans to the [[Point Loma]] neighborhood of [[San Diego]], in [[Southern California]].<ref>Orbach, Michael K. (1977). ''[https://books.google.com/books?id=H16MRRFQMW8C&pg=PA7&dq=loma+azores+tuna&hl=en&ei=8zQ4Tvv4Aqq80AGZ7_3lAw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCwQ6AEwAA#v=onepage&q=loma%20azores%20tuna&f=false Hunters, seamen, and entrepreneurs: the tuna seinermen of San Diego]'' University of California p.7</ref> From 1921 to 1977, about 250,000 Azoreans immigrated to
+Rhode Island and Massachusetts.<ref>[http://wwwlibrary.csustan.edu/bsantos/immigr.html "Azorean Immigration into the United States"]. Library.csustan.edu.</ref>
+
+Many Azoreans also moved to [[Bermuda]] and [[Hawaii]].<ref name="diaspora"/> [[Florianópolis]] and [[Porto Alegre]] in the [[Southern Region, Brazil|Southern Region]] of Brazil were founded by Azoreans, who accounted for over half of [[Rio Grande do Sul]] and [[Santa Catarina (state)|Santa Catarina]]'s population in the late 18th century.<ref>[http://www.terrabrasileira.net/folclore/regioes/7tipos/acores.html Imigrantes: Açorianos]</ref> As late as 1960 mass immigration currents were registered to Brazil, and many were from the Azores.<ref name="diaspora">Russell King, John Connell (1999). ''[https://books.google.com/books?id=8asL17kRGToC&pg=PA61&dq&hl=en#v=onepage&q=&f=false Small worlds, global lives: islands and migration]''. Continuum International Publishing Group. pp.61–65. ISBN 1-85567-548-X</ref>
+
+==Politics==
+{{No footnotes|section|date=April 2013}}
+{{Main|Political status of the Autonomous Region of the Azores}}
+[[File:Cidade da Horta, vista parcial do cimo do Miradouro de Nossa Senhora da Conceição, concelho da Horta, ilha do Faial, Açores, Porttugal.JPG|300px|thumb|[[Horta, Azores|Horta]] was a waypoint in trans-Atlantic yachts and shipping; today it is the home of the Azorean regional parliament and capital of the island of Faial.]]
+[[File:EU OCT and OMR map en.png|thumb|300px|right|Map of the European Union in the world with overseas countries and territories and outermost regions]]
+Since 1976, the Azores is an autonomous region integrated within the framework of the Portuguese Republic. It has its own government and autonomous legislature within its own political-administrative statute and organic law. Its governmental organs include: the Legislative Assembly, a [[unicameral]] parliament composed of 52 elected deputies, elected by universal [[suffrage]] for a four-year term; the Regional Government and Presidency, with parliamentary legitimacy, composed of a President, a Vice-President and seven Regional Secretaries responsible for day-to-day operations. It is represented in the Council of Ministers by a representative appointed by the President of the Republic, which was created during the revision of the constitution of 2004 (which, among other things, removed the older Portuguese representative that was appointed by the President of the Republic, beholden to the Council of State and coincident with the President).
+
+Since becoming a Portuguese autonomous region, the executive branch of the regional authority has been located in [[Ponta Delgada]], the legislative branch in [[Horta (Azores)|Horta]], and the judicial branch in [[Angra do Heroísmo]].
+
+The islands of the archipelago do not have independent status in law, except in electoral law and are governed by 19 municipalities that subdivide the islands. In addition, until the administrative reform of the 19th century, the following civil parishes had municipal standing: Topo (today integrated into the municipality of [[Calheta (Azores)|Calheta]], São Jorge); [[Praia (Santa Cruz da Graciosa)|Praia]] (today integrated into municipality of [[Santa Cruz da Graciosa]]); [[Vila de São Sebastião|São Sebastião]] (today an integral part of the municipality of Angra do Heroísmo); Capelas (now part of the municipality of Ponta Delgada); and Água de Pau (now a civil parish in the municipality of Lagoa). These civil parishes still retain their titles of "vila" in name only, by Regional Legislative Decree nº 29/2003/A, 24 June 2003; the populations of Capelas and neighbouring parish still protest the change and promote the restoration of their status. The municipalities are further subdivided into several civil parishes, with the exception of [[Corvo (Azores)|Corvo]] (the only municipality by law without a civil parish, owing to its size).
+
+Azorean politics is dominated by the two largest Portuguese political parties, the [[Social Democratic Party (Portugal)|Social Democratic Party (PSD)]] and the [[Socialist Party (Portugal)|Socialist Party (PS)]], the latter holding a majority in the Regional Legislative Assembly. The [[Democratic and Social Center / People's Party]] (CDS/PP), the [[Left Bloc]] (BE), the  [[Unitarian Democratic Coalition]] (CDU) and the [[People's Monarchist Party (Portugal)|People's Monarchist Party]] (PPM) are also represented in the local parliament. Currently, {{as of|2008|alt=as of the 2008 Regional Elections}}, the Socialist Party (PS) and its leader, [[Carlos César]] have a plurality of the seats in the Assembly, and operate the Regional Government. Although the PS dominates the regional politics, the PSD is traditionally popular in city and [[town council]] elections.
+
+===International affairs===
+In 2003, the Azores saw international attention when United States President [[George W. Bush]], British Prime Minister [[Tony Blair]], Spanish Prime Minister [[José María Aznar]], and Portuguese Prime Minister [[José Manuel Durão Barroso]] held a summit there days before the commencement of the [[Iraq War]].<ref>{{cite web|url=http://www.cnn.com/2003/WORLD/meast/03/16/sprj.irq.main/index.html|title=CNN.com - Bush: Monday is 'a moment of truth' on Iraq - Mar. 17, 2003|work=cnn.com}}</ref>
+
+==Transport==
+
+===Aviation===
+{{main|Aviation in the Azores}}
+Each of the nine islands has an airfield,<ref>{{cite web|url=http://www.flugplaetze.org/PT/ |title=Flughäfen in Portugal (PT) |publisher=Flugplaetze.org |accessdate=7 July 2009}}</ref> although the majority are airfields rather than airports. The commercial terminals in Ponta Delgada, Horta, Vila do Porto and Santa Cruz das Flores are operated by [[ANA – Aeroportos de Portugal]], a public entity that oversees the operations of airports across Portugal. The remaining, except for [[Lajes Field]], are operated by the Regional Government. Lajes is a military airbase, as well as a commercial airport, and is operated by the Portuguese Armed Forces in conjunction with the United States.
+
+The airports are:
+*Santa Maria: [[Santa Maria Airport (Azores)|Santa Maria Airport (LPAZ)]]
+*Sao Miguel: [[João Paulo II Airport|João Paulo II Airport (LPPD)]]
+*Terceira: [[Lajes Field|Lajes Field (LPLA)]] ''Lajes Air Base (Portuguese Airforce and United States Air Force)''
+*Sao Jorge: [[São Jorge Airport|São Jorge Airport (LPSJ)]]
+*Pico: [[Pico Airport|Pico Airport (LPPI)]]
+*Faial: [[Horta Airport|Horta Airport (LPHR)]]
+*Graciosa: [[Graciosa Airport|Graciosa Airport (LPGR)]]
+*Flores: [[Flores Airport|Flores Airport (LPFL)]]
+*Corvo: [[Corvo Airport|Corvo Airport (LPCR)]]
+
+{{Clear}}
+
+===Marine transport===
+The Azores has had a long history of water transport to overcome distances and establish inter-community contacts and trade. Consequently, the shipbuilding industry developed in many islands, from small fishing boats, to whaling sloops to larger passenger services.<ref name="ALine">{{cite web|url=http://www.atlanticoline.pt/index.php?option=com_content&view=article&id=62&Itemid=60&lang=en|title=atlanticoline.pt: History|location=Ponta Delgada (Azores), Portugal|publisher=Atlânticoline|accessdate=14 March 2011|year=2009|language=Portuguese}}</ref> Passenger traffic to the main islands (São Miguel, Santa Maria, Terceira and Faial) began in the 17th century, and between the 18th–19th century, the ''Pico Yacht'' controlled the lucrative summer traffic season.<ref name=ALine/>
+
+After 1871, the ''Insulana Shipping Company'' was the only entity responsible for regular traffic between the islands (except Corvo), Madeira and the United States.<ref name=ALine/> Yet, cargo and passenger transportation ceased in the 1970s, and the ships were sold or converted into tuna fishing boats. For the next 20 years, commercial maritime service between the islands ceased (except between Faial-Pico and Lajes das Flores-Vila do Corvo).<ref name=ALine/>
+
+''[[Transmaçor]]'' (Transportes Marítimos Açorianos, Lda.) was founded on 22 December 1987, resulting from the fusion of ''Empresa das Lanchas do Pico, Ld'', owners of the ships ''Espalamaca'' and ''Calheta'' (ships that had travelled the canal between Faial and Pico for several years); ''Empresa Açoreana de Transportes Marítimos, Lda'', which operated the ship ''Terra Alta''; and ''Transcanal (Transportes Marítimos do Canal, Lda.)'' operator the traditional boats ''Picaroto'' and ''Manuel José''.<ref name="Transmacor">{{cite web|url=http://transmacor.pt/site_actual/|title=Transmaçor – Transportes Marítimos Açorianos, Ldª.|editor=Transmaçor|location=Horta (Azores), Portugal|publisher=Transportes Marítimos Açorianos, Lda.|language=Portuguese|year=2010}}</ref><ref>The societies and companies comprise 80% of the capital, with the remaining shares owned by the Azores Regional Government.</ref>  In the Central Group, the shipping company operates four to six time daily connections between Horta and Madalena throughout the year, using its small fleet of ships (''[[MV Cruzeiro das Ilhas|Cruzeiro das Ilhas]]'', ''[[MV Cruzeiro do Canal|Cruzeiro do Canal]]'', ''Expresso das Ilhas'' and ''Expresso do Triângulo''), in addition to inter-island connections between Faial, Pico, São Jorge and Terceira during the summer months.<ref name=Transmacor/>
+
+Meanwhile, new initiatives began in the late 1990s: the catamaran ''Iapetos'' began services, followed by ''Lady of Mann'' and ''Golfinho Azul'' (chartered by Açorline).<ref name=ALine/> 
+
+In 2005, ''[[Atlânticoline]]'' was established, providing services with the ships ''Ilha Azul'' and {{MV|Express Santorini||2}}, later adding the ''Viking'' in 2009.<ref name=ALine/> In 2009, Atlanticoline was involved in a controversial rejection of a 750 passenger, 150 vehicle ship ordered from the ''Estaleiros de Viana do Castelo'' (''Viana do Castelo Shipyards'').<ref name="ENVC">{{cite web |title="Atlântida" está há um ano ancorado em Lisboa e ainda sem destino |url=http://www.acorianooriental.pt/noticia/atlantida-esta-ha-um-ano-ancorado-em-lisboa-e-ainda-sem-destino |language=Portuguese |date=28 August 2012 |accessdate=28 August 2012 |location=Ponta Delgada (Azores), Portugal |author=Agência Lusa/AO online/Hoje}}</ref> The ''Atlantida'', a 50 million Euro cruiser (as part of a two-ship deal with the other named ''Anticiclone'') was rejected in 2009 by Atlanticoline for the under-performance of the power-plant.<ref name=ENVC/> Although it would only result in a five-minute delay between islands, the public company rejected the ship, and the contract was broken over the builder's inability to deliver the required ship on time.<ref name=ENVC/> While, the ship was being shopped to other interested parties ([[Hugo Chávez]] once considered purchasing the ferryboat in 2010), no interested buyers appeared, and ENVC decided to cede the ''Atlantida'' to Atlânticoline as part of the latter's open international competition to charter two ships in 2012.<ref name=ENVC/>
+
+On 20 June 2011, the Regional Government announced that it would purchase 60% of Transmaçor, equivalent to 500,000 Euro of the company's capital.<ref name="StakeTransmacor">{{cite web|editor=AO Online|author=Lusa|title=Concluídas negociações para compra da Transmaçor|accessdate=21 June 2011|date=20 June 2011|language=Portuguese|url=http://www.acorianooriental.pt/noticias/view/216797}}</ref> With this transaction the Autonomous government of the Azores ceded control, of which it once had 88% of the capital.<ref name=StakeTransmacor/> The signed memorandum of understanding concluded negotiations between the various parties involved, under which the liability of Transmaçor (worth a total of 8 million Euro) was divided equally between the Region and businessman [[José Almeida]], who is now the holder of a majority stake in the company.<ref name=StakeTransmacor/>
+
+Similarly, the Regional Government approved the consolidation of the three individual port authorities (Administração dos Portos do Triângulo e Grupo Ocidental, Administração dos Portos da Terceira e Graciosa  and the Administração dos Portos das Ilhas de São Miguel e Santa Maria) and regional Portos dos Açores into one entity that resulted in a 2.2 million Euro cost savings, in addition to a reduction from 11 to three administrators.<ref>{{cite web |url=http://www.tribunadasilhas.pt/index.php?option=com_content&view=article&id=2170:portos-dos-acores--fusao-administrativa-aprovada-na-assembleia-regional&catid=2:regional&Itemid=3 |title=Portos dos Açores – Fusão administrativa aprovada na Assembleia Regional |language=Portuguese |date=8 June 2011 |accessdate=5 September 2011 |first=Maria |last=Pinheiro |publisher=Tribuna das Ilhas |location=Horta, Portugal}}</ref>
+
+==Culture==
+{{No footnotes|section|date=April 2013}}
+[[File:Senhor Santo Cristo (4616751002).jpg|220px|thumb|right|The Festival of the [[Cult of Senhor Santo Cristo dos Milagres|Lord Holy Christ of the Miracles]], in [[Ponta Delgada, Azores|Ponta Delgada]], [[São Miguel Island]].]]
+Azoreans have developed their own distinct regional identity and cultural traits, from a combination of continental Portuguese customs brought by various waves of immigration and local political and environmental factors.
+
+Religious festivals, patron saints and traditional holidays mark the Azorean calendar. The most important religious events are tied with the festivals associated with the [[cult of the Holy Spirit]], commonly referred to as the festivals of the Holy Spirit (or ''Espírito Santo''), rooted in millenarian dogma and held on all islands from May to September. These festivals are very important to the Azorean people, who are primarily Roman Catholic, and combine religious rituals with processions celebrating the benevolence and egalitarianism of neighbours. These events are centred around ''treatros'' or ''impérios'', small buildings that host the meals, adoration and charity of the participants, and used to store the artefacts associated with the events. On Terceira, for example, these impérios have grown into ornate buildings painted and cared for by the local brotherhoods in their respective parishes. The events focus on the members of local parishes, not tourists, but all are welcome, as sharing is one of the main principles of the festivals. Some limited events focus on tourists, including a public event that the city government of Ponta Delgada on the island of São Miguel holds, which attracts visitors and locals.
+
+[[File:SMG PDL 20090517 SaoJose festaSSCristo imageLights02.jpg|thumb|left|220px|The solemn procession of the [[Cult of Senhor Santo Cristo dos Milagres|Lord Holy Christ of the Miracles]].]]
+Another event, the Festival of the [[Cult of Senhor Santo Cristo dos Milagres|Lord Holy Christ of the Miracles]] (or ''Senhor Santo Cristo dos Milagres'') in [[Ponta Delgada]] on the island of [[São Miguel Island|São Miguel]], is the largest individual religious event in the Azores, and takes place on the fifth Sunday after Easter. Pilgrims from within the Portuguese diaspora normally travel to Ponta Delgada to participate in an afternoon procession behind the image of Christ along the flower-decorated streets of the city. Although the solemn procession is only held on one day, the events of the Festival of Senhor Santo Cristo occur over a period of a week and involve a ritual of moving the image between the main church and convent nightly, ultimately culminating in the procession, which is televised within the Azores and to the Portuguese diaspora.
+The Sanjoaninas Festivities in [[Angra do Heroísmo]] on Terceira are held in June honoring [[Anthony of Padua|Saint Anthony]], [[Saint Peter]] and [[John the Baptist|Saint John the Baptist]], in a large religious celebration.
+[[File:Santuario de Senhor Santo Cristo (4616740146).jpg|thumb|right|220px|The illuminated Convent and Shrine of the [[Cult of Senhor Santo Cristo dos Milagres|Lord Holy Christ of the Miracles]].]]
+
+The festival of [[Our Lady of Lourdes]] (or ''Nossa Senhora de Lourdes''), [[patron saint]] of whalers, begins in Lajes on [[Pico Island]] on the last Sunday of August and runs through the week—Whalers Week. It is marked by social and cultural events connected to the tradition of [[Whaling|whale hunting]]. The Wine [[Harvest festival|Harvest Festival]] (or ''Festa das Vindimas''), takes place during the first week of September and is a century-old custom of the people of Pico.
+
+On Corvo the people celebrate their patron saint Nossa Senhora dos Milagres (Our Lady of Miracles) on 15 August every year in addition to the festivals of the Divine Holy Spirit. The Festival da Maré de Agosto (August Sea Festival), takes place every year beginning on 15 August in Praia Formosa on Santa Maria. Also, the Semana do Mar (Sea Week), dedicated almost exclusively to [[Watersport|water sports]], takes place in August in the city of Horta, on Faial.
+
+[[Carnival|Carnaval]] is also celebrated in the Azores. Parades and pageants are the heart of the Carnaval festivities. There is lively music, colorful costumes, hand-made masks, and floats.
+The traditional bullfights in the bullring are ongoing as is the running of bulls in the streets.
+
+==See also==
+{{Portal|Portugal|Geography}}
+*[[List of islands of Portugal]]
+*[[Queijo do Pico|Cheese of Pico]] (PDO)
+*[[Berlengas]]
+*[[Madeira]]
+*[[Macaronesia]]
+*[[Postage stamps and postal history of the Azores]]
+
+==References==
+
+===Notes===
+{{Reflist|colwidth=30em}}
+
+===Sources===
+*{{cite book|last=Costa|first=Antonieta|title=Pelo sinal do Espírito Santo By the sign of the Holy Spirit|year=2007|publisher=Presidência do Governo Reginal dos Açores. Direcção Regional da Cultural|location=Angra do Heroísmo|pages=120p}}
+*{{cite book|first=Mark|last=Twain|authorlink=Mark Twain|title= The Innocents Abroad, or the New Pilgrims Progress|publisher=American Publishing Co|year=1869|location=Hartford, CT|oclc=1047562}}
+*{{cite book| last =Lourenço |first=N.|year=1998|title= Morpho-tectonic analysis of the Azores Volcanic Plateau from a new bathymetric compilation of the area|publisher=Marine Geophysical Researches|volume=20|pages=141–156 |author2=Miranda, J.M. |author3=Luis, J.F. |author4=Ribeiros, A. |author5=Mendes Victor, L.A. |author6=Madeira, J. |author7=H. Needham}}
+*{{cite book|last=Luís|first=J.F.|year= 1994|title=The Azores triple junction evolution since 10 Ma from an aeromagnetic survey of the Mid-Atlantic Ridge|publisher=Earth and Planetary Science Letters|volume=125|pages=439–459|author2=Miranda, J.M |author3=Galdeano, A. |author4=Patriat, P. |author5= Rossignol, J.C. and L.A. Mendes Victor }}
+*{{cite book|last=Madeira|first= J. |year=1998|title=Estudos de neotectónica nas ilhas do Faial, Pico e S. Jorge: uma contribuição para o conhecimento geodinâmico da junção tripla dos Açores|language=Portuguese|trans_title=Neotectonic studies on the islands of Faial, Pico and S. Jorge: a contribution to the geodynamic knowledge in the triple junction of the Açores|publisher=Faculdade de Ciências, Universidade de Lisboa|location=Lisbon}}
+*{{cite book|last=Ridley|first=W.|year=1974|title=The ocean basins and margins|editors=E. Nairn and F. Stehli|publisher=Plenum Press|location=New York|chapter=The oceanic islands: Azores|pages=445–478|author2=Watkins, N. and D.Macfarlane}}
+*{{cite book|title=Upper mantle structure beneath the Azores hotspot from finite-frequency seismic tomography|publisher=Earth and Planetary Science Letters|year=2006|volume=260|pages=11–26|author8= Ting Yang, Yang Shen, Suzan van der Lee, Sean C. Solomon and Shu-Huei Hung}}
+*{{cite book|last=Needham|first=H|year=1974|title=Some characteristics of the rift valley in the Atlantic Ocean near 36o48’ north|publisher=Earth Planetary Science Letters|volume=22|pages=29–43|author2=J. Francheteau}}
+*{{cite journal|first=António de Brum|last=Ferreira|title=Geodinâmica e perigosidade natural nas ilhas dos Açores|trans_title=Geodynamics and Natural Risks on the Islands of the Azores |journal=Finisterra| volume=XL| issue=79| year=2005 |pages=013–120|language=Portuguese}}
+*{{cite journal|doi=10.1111/j.1365-2699.2009.02181.x|first=Mark|last2=Schaefer|last=Carine|first2=Hanno|title=The Azores diversity enigma: why are there so few Azorean endemic flowering plants and why are they so widespread?|journal=Journal of Biogeography| volume=37| issue=1| year=2010 |pages=77–89}}
+*{{cite web|url=http://www.cvarg.azores.gov.pt|title=Centro de Vulcanologia e Avaliação de Riscos Geológicos: Observatório Vulcanológica e Sismológico da Universidade dos Açores|publisher= Centro de Vulcanologia e Avaliação de Riscos Geológicos (CVARG) |year=2010|accessdate= 15 April 2010}}
+*{{cite journal|url=http://e-terra.geopor.pt/artigos/cong_geoq/machado.pdf|last=Machado|first=Adriane|author2= Azevedo, José M. M.|author3= Alemeida, Delia P.M.|author4= Farid Chemale Jr.|title=Geochemistry of Volcanic Rocks from Faial Island (Azores)|publisher=e-Terra, GEOTIC – Sociedade Geológica de Portugal|location=Lisbon|volume=5, 1|year=2008|pages=1–14}}
+*{{cite journal|url=http://www.ceg.ul.pt/finisterra/numeros/1980-30/30_02.pdf|pages=201–219|title=Some geomorphological aspects of the Azores Archipelago|author=R.C. Mitchell-Thomé|journal=Finistrerra: Revista Portuguesa de Geografia|publisher=Fundação para a Ciência e Tecnologia, University of Lisbon|location=Lisbon, Portugal|volume=XV|year=1980|issue=30}}
+*{{cite book|last=Scammell|first=G. V.|title=The First Imperial Age|year=1989|publisher=Unwin Hyman|location=London|pages=51–70}}
+
+==External links==
+{{commons|Azores}}
+{{Wikisource1911Enc|Azores}}
+{{wikivoyage}}
+
+*{{wikiatlas|the Azores}}
+* [http://www.azores.gov.pt Azores Regional Government]
+* [http://www.visitazores.com Official tourism site]
+
+{{Azores Islands}}
+{{Municipalities in the Azores}}
+{{Navboxes
+|title = Geographic locale
+|state = collapsed
+|list  =
+{{Regions of Portugal}}
+{{Administrative divisions of Portugal}}
+{{Outlying territories of European countries}}
+}}
+{{Navboxes
+|title = International membership
+|state = collapsed
+|list  =
+{{Portuguese overseas empire}}
+{{EU Outermost regions}}
+}}
+{{Politics of Europe}}
+
+{{Authority control}}
+
+[[Category:Azores| ]]
+[[Category:Autonomous Regions of Portugal]]
+[[Category:NUTS 2 statistical regions of Portugal]]
+[[Category:Outermost regions of the European Union]]
+[[Category:Islands of Macaronesia]]
+[[Category:Provinces of Portugal (1936–76)]]
+[[Category:Archipelagoes of the Atlantic Ocean]]
+[[Category:Southwestern Europe]]

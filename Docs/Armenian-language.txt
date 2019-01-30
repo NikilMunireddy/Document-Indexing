@@ -1,0 +1,757 @@
+Armenian language
+
+{{Distinguish|Aromanian language}}
+{{external links|date=January 2016}}
+{{Infobox language
+|name       = Armenian
+|nativename = {{lang|hy|հայերէն/հայերեն}} ''hayeren''
+|pronunciation = {{IPA-hy|hɑjɛˈɾɛn|}}
+|states     = [[Armenian Highlands]]
+|speakers   = 8-12 million
+|ref        = e18
+|dateprefix = ca.
+|date       = 2001 – some figures undated
+|familycolor = Indo-European
+|protoname  = [[Proto-Armenian language|Proto-Armenian]] (reconstructed)
+|ancestor2  = [[Classical Armenian]]
+|ancestor3  = [[Middle Armenian]]
+|stand1       =[[Eastern Armenian]]
+|stand2       = [[Western Armenian]]
+|nation     = [[Armenia]]<br/>[[Nagorno-Karabakh Republic]]
+|minority   = '''Official ''(de jure)'' status:'''
+*[[Cyprus]]<ref>{{cite web|url=http://languagecharter.eokik.hu/sites/StatesParties/Cyprus.htm|title=Implementation of the Charter in Cyprus|work=Database for the European Charter for Regional or Minority Languages|publisher=Public Foundation for European Comparative Minority Research|accessdate=16 June 2014}}</ref> 
+*[[Hungary]]<ref>{{cite web|url=http://languagecharter.eokik.hu/sites/StatesParties/Hungary.htm|title=Implementation of the Charter in Hungary|work=Database for the European Charter for Regional or Minority Languages|publisher=Public Foundation for European Comparative Minority Research|accessdate=16 June 2014}}</ref>
+*[[Iraq]]<ref>{{cite web|title=Iraqi Constitution: Article 4|url=http://www.iraqinationality.gov.iq/attach/iraqi_constitution.pdf|publisher=The Republic of Iraq Ministry of Interior General Directorate for Nationality|accessdate=16 June 2014|quote=The right of Iraqis to educate their children in their mother  tongue, such as Turkmen, Syriac, and Armenian shall be guaranteed in  government educational institutions in accordance with educational guidelines, or  in any other language in private educational institutions.}}</ref> 
+*[[Poland]]<ref>{{cite web|title=Territorial languages in the Republic of Poland|url=http://www.coe.int/t/dg4/education/minlang/report/PeriodicalReports/PolandPR1_en.pdf|publisher=[[European Charter for Regional or Minority Languages]]|accessdate=16 June 2014|location=Strasbourg|page=9|date=30 September 2010}}</ref>
+*[[Romania]]<ref>{{cite web|url=http://languagecharter.eokik.hu/sites/StatesParties/Romania.htm|title=Implementation of the Charter in Romania|work=Database for the European Charter for Regional or Minority Languages|publisher=Public Foundation for European Comparative Minority Research|accessdate=16 June 2014}}</ref>
+*[[Ukraine]]<ref>{{cite web|url=http://zakon4.rada.gov.ua/laws/show/5029-17|title=Law of Ukraine "On Principles of State Language Policy" (Current version — Revision from 01.02.2014)|publisher=rada.gov.ua|work=Document 5029-17, Article 7: Regional or minority languages Ukraine, Paragraph 2|date=1 February 2014|accessdate=30 April 2014}}</ref>
+;Semi-official or unofficial ''(de facto)'' status
+*[[Samtskhe-Javakheti]] ([[Georgia (country)|Georgia]]){{efn|Although Armenian has no legal status in Samtske-Javakheti, it is widely spoken by the Armenian population, which is concentrated in Ninotsminda and Akhalkalaki districts (over 90% of the total population in these two districts).<ref>{{cite book|last=Hille|first=Charlotte|title=State Building and Conflict Resolution in the Caucasus|date=2010|publisher=[[Brill Publishers]]|location=Leiden, Netherlands|isbn=9789004179011|page=241}}</ref> The Georgian government fully funds around 144 Armenian school in the region (as of 2010).<ref>{{cite news|title=Javakhk Armenians Looks Ahead to Local Elections|url=http://asbarez.com/78867/georgias-armenian-minority-looks-ahead-toward-local-elections/|accessdate=26 May 2014|newspaper=[[Asbarez]]|date=31 March 2010|quote=...Javakheti for use in the region’s 144 Armenian schools...}}</ref><ref>{{cite web|last=Mezhdoyan|first=Slava|title=Challenges and problems of the Armenian community of Georgia|url=http://www.ohchr.org/Documents/HRBodies/HRCouncil/MinorityIssues/Session5/statements/ItemV/3.%20EuropeanArmenianFederationJustice%20andDemocracy.pdf|publisher=European Armenian Federation for Justice and Democracy|accessdate=26 May 2014|location=Tbilisi|date=28 November 2012|quote=Armenian schools in Georgia are fully funded by the government...}}</ref>}} 
+*[[California]] (United States){{efn|Various [[California executive branch|state]] government agencies in California provide Armenian translations of their documents, namely the [[California Department of Social Services]],<ref>{{cite web|title=Armenian Translations|url=http://www.cdss.ca.gov/cdssweb/PG25.htm|publisher=California Department of Social Services|archiveurl=https://web.archive.org/web/20140526153235/http://www.cdss.ca.gov/cdssweb/PG25.htm|archivedate=26 May 2014}}</ref> [[California Department of Motor Vehicles]],<ref>{{cite web|title=Վարորդների ձեռնարկ [Driver's Manual]|url=https://www.dmv.ca.gov/pubs/foreign_hdbk/dl600A.pdf|publisher=California Department of Motor Vehicles|year=2014|accessdate=26 May 2014}}</ref> [[California superior courts]].<ref>{{cite web|title=English/Armenian  Legal Glossary|url=http://www.saccourt.ca.gov/general/legal-glossaries/docs/armenian-western-legal-glossary.pdf|publisher=Superior Court of California, County of Sacramento|accessdate=26 May 2014|date=22 June 2005}}</ref> In the city of [[Glendale, California|Glendale]], there are street signs in Armenian.<ref>{{cite news|last=Rocha|first=Veronica|title=New Glendale traffic safety warnings in English, Armenian, Spanish|url=http://latimesblogs.latimes.com/lanow/2011/01/glendales-new-traffic-safet-signs-in-english-armenian-and-spanish.html|accessdate=26 May 2014|newspaper=[[Los Angeles Times]]|date=11 January 2011}}</ref><ref>{{cite news|last=Aghajanian|first=Liana|title=Intersections: Bad driving signals a need for reflection|url=http://articles.glendalenewspress.com/2012-09-04/opinion/tn-gnp-0904-intersections-bad-driving-signals-a-need-for-reflection_1_luxury-cars-car-accident-bad-drivers|accessdate=26 May 2014|newspaper=Glendale News-Press|date=4 September 2012|quote=...trilingual street signs in English, Armenian and Spanish at intersections...}}</ref>}}
+*[[Lebanon]]{{efn|The Lebanese government recognizes Armenian as a minority language,<ref>{{cite web|title=About Lebanon|url=http://www.cas.gov.lb/index.php/about-lebanon-en|publisher=Central Administration of Statistics of the Republic of Lebanon|archiveurl=https://web.archive.org/web/20140526152210/http://www.cas.gov.lb/index.php/about-lebanon-en|archivedate=26 May 2014|quote=Other Languages: French, English and Armenian}}</ref> particularly for educational purposes.<ref>{{cite web|title=Consideration of Reports Submitted by States Parties  Under Article 44 of the Convention. Third periodic reports of states parties due in 2003: Lebanon|url=http://www.refworld.org/pdfid/45377eb00.pdf|publisher=[[Committee on the Rights of the Child]]|accessdate=26 May 2014|page=108|date=25 October 2005|quote=Right of minorities to learn their language. The Lebanese curriculum allows Armenian schools to teach the Armenian language as a basic language.}}</ref><ref>{{cite web|last=Sanjian|first=Ara|title=Armenians and the 2000 Parliamentary Elections in Lebanon|url=http://www.groong.org/ro/ro-20000907.html|work=Armenian News Network / Groong|publisher=[[University of Southern California]]|archiveurl=https://web.archive.org/web/20140526153117/http://www.groong.org/ro/ro-20000907.html|archivedate=26 May 2014|quote=Moreover, the Lebanese government approved a plan whereby the Armenian language was to be considered from now on as one of the few 'second foreign languages' that students can take as part of the official Lebanese secondary school certificate (Baccalaureate) exams.}}</ref>}}
+*[[Turkey]]{{efn|In education, according to the [[Treaty of Lausanne]]<ref>{{cite book|first=Jilali|last=Saib|contribution=Languages in Turkey|editor1-last=Extra|editor1-first=Guus|editor2-last=Gorter|editor2-first=Durk|title=The Other Languages of Europe: Demographic, Sociolinguistic and Educational Perspectives|date=2001|publisher=Multilingual Matters|location=Philadelphia|isbn=9781853595097|page=423|quote=No other language can be taught as a mother language other than Armenian, Greek and Hebrew, as agreed in the Lausanne Treaty....}}</ref><ref>{{cite book|last1=Okçabol|first1=Rıfat|contribution=Secondary Education in Turkey|editor1-last=Nohl|editor1-first=Arnd-Michael|editor2-last=Akkoyunlu-Wigley|editor2-first=Arzu|editor3-last=Wigley|editor3-first=Simon|title=Education in Turkey|date=2008|publisher=Waxmann Verlag|location=Berlin|isbn=9783830970699|page=65|quote=Private Minority Schools are the school established by Greek, Armenian and Hebrew minorities during the era of the Ottoman Empire and covered by Lausanne Treaty.}}</ref>}}
+|agency     = Institute of Language ([[Armenian National Academy of Sciences]])<ref>{{cite web|title=H. Acharian Institute of Language|url=http://www.sci.am/resorgs.php?oid=34&langid=1|website=sci.am|archiveurl=https://web.archive.org/web/20141005040613/http://www.sci.am/resorgs.php?oid=34&langid=1|archivedate=5 October 2014|quote=Main Fields of Activity: investigation of the structure and functioning, history and comparative grammar of the Armenian language, exploration of the literary Eastern and Western Armenian Language, dialectology, regulation of literary language, development of terminology}}</ref>
+|script     = [[Armenian alphabet]]<br/>[[Armenian Braille]]
+|iso1       = hy
+|iso2b      = arm
+|iso2t      = hye
+|lc1        = hye |ld1 = Modern Armenian
+|lc2        = xcl |ld2 = [[Classical Armenian]]
+|lc3        = axm |ld3 = [[Middle Armenian]]
+|lingua     = 57-AAA-a
+|glotto     = arme1241
+|glottorefname= Armenian
+|notice     = IPA
+|map=Idioma armenio.png
+|mapcaption=The Armenian-speaking world: {{Legend|#0F80FD|regions where Armenian is the language of the majority}} 
+}}
+
+The '''Armenian language''' ({{lang|hy|[[Classical Armenian orthography|classical]]: հայերէն; [[Armenian orthography reform|reformed]]: հայերեն}} {{IPA-hy|hɑjɛˈɾɛn|}} ''{{transl|hy|ISO|hayeren}}'') is an [[Indo-European languages|Indo-European language]] spoken by the [[Armenians]]. It is the official language of [[Armenia]] and the self-proclaimed [[Nagorno-Karabakh Republic]]. It has historically been spoken throughout the [[Armenian Highlands]] and today is widely spoken in the [[Armenian diaspora]]. Armenian has its own unique script, the [[Armenian alphabet]], introduced in 405 AD by [[Mesrop Mashtots]].
+
+Linguists classify Armenian as an independent branch of Indo-European.<ref>[http://www.britannica.com/eb/article-9109780/Armenian-language Armenian language – Britannica Online Encyclopedia<!-- Bot-generated title -->]</ref> It is of interest to linguists for its distinctive [[phonological development]]s within the Indo-European languages. Armenian exhibits more satemization than centumization although it is not classified as belonging to either of these. Some linguists preliminarily conclude that Armenian, [[Greek language|Greek]] ([[Phrygian language|Phrygian]]), [[Proto-Albanian language|Albanian]] and [[Indo-Iranian languages|Indo-Iranian]] were dialectally close to each other,<ref name="p. 6">''Handbook of Formal Languages'' (1997) [https://books.google.com/books?id=yQ59ojndUt4C&pg=PA6&dq=armeno-aryan&client=firefox-a#v=onepage&q=armeno-aryan&f=true p. 6].</ref><ref name="public.iastate.edu">[http://www.public.iastate.edu/~cfford/Indoeuropean%20language%20family%20tree.jpg ''Indo-European tree with Armeno-Aryan, exclusion of Greek'']</ref><ref>''Indo-European Language and Culture: An Introduction'', Benjamin W. Fortson, John Wiley and Sons, 2009, p383.</ref><ref>Hans J. Holm (2011): “Swadesh lists” of Albanian Revisited and Consequences for its position in the Indo-European Languages. The Journal of Indo-European Studies, Volume 39, Number 1&2.</ref> within this hypothetical dialect group, Proto-Armenian was situated between [[Proto-Greek language|Proto-Greek]] ([[centum]] subgroup) and [[Proto-Indo-Iranian language|Proto-Indo-Iranian]] ([[satem]] subgroup).<ref>Hrach Martirosyan. The place of Armenian in the Indo-European language family: the relationship with Greek and Indo-Iranian. Journal of Language Relationship • Вопросы языкового родства • 10 (2013) • Pp. 85—137</ref>
+
+Armenia was a monolingual country by the second century BC at the latest.<ref>Strabo, Geographica, XI, 14, 5; Հայոց լեզվի համառոտ պատմություն, Ս. Ղ. Ղազարյան։ Երևան, 1981, էջ 33 (Concise History of Armenian Language, S. Gh. Ghazaryan. Yerevan, 1981, p. 33).</ref> Its language has a long literary history, with a fifth-century Bible translation as its oldest surviving text. Its vocabulary has been influenced by [[Middle Iranian languages|Western Middle Iranian languages]], particularly [[Parthian language|Parthian]], and to a lesser extent by Greek, [[Persian language|Persian]], and [[Arabic]] throughout its history. There are two standardized modern literary forms, [[Eastern Armenian]] and [[Western Armenian]], with which most contemporary dialects are [[Mutual intelligibility|mutually intelligible]].
+
+==Classification and origins==
+{{Main|Proto-Armenian language}}
+{{See also|Armenian hypothesis}}
+{{History of the Armenian language}}
+{{Indo-European}}
+
+Although the Armenians were known to history much earlier (for example, they were mentioned in the sixth century BC [[Full translation of the Behistun Inscription|Behistun Inscription]] and [[Xenophon]]'s fourth century BC history, ''[[Anabasis (Xenophon)|The Anabasis]]''),<ref>"Armenia as Xenophon Saw It", p. 47, ''A History of Armenia''. Vahan Kurkjian, 2008</ref> the oldest surviving Armenian-language text is the fifth century AD [[Bible]] translation of [[Mesrop Mashtots]], who restored or created the [[Armenian alphabet]] in 405 AD, at which time it had 36 letters. He is also credited by some with the creation of the [[Caucasian Albanian alphabet]] and the [[Georgian scripts]]. In his same 4th century BC ''Anabasis'', Xenophon, describes many aspects of Armenian village life and hospitality in around 401 BC. He relates that the Armenian people spoke a language that to his ear sounded like the language of the [[Persian people|Persians]].<ref>{{cite book |last=[[Xenophon]]|title=[[Anabasis (Xenophon)|Anabasis]]|pages=IV.v.2–9}}</ref>
+
+===Early contacts===
+W. M. Austin (1942) concluded<ref>{{cite journal|last=Austin |first=William M. |title=Is Armenian an Anatolian Language? |publisher=Linguistic Society of America |date=January–March 1942 |pages=22–25 |doi=10.2307/409074 |journal=Language |volume=18 |issue=1 |jstor=409074}}</ref> that there was an early contact between Armenian and [[Anatolian languages]], based on what he considered common archaisms, such as the lack of a feminine and the absence of inherited long vowels. However, unlike shared innovations (or ''[[synapomorphy|synapomorphies]]''), the common retention of archaisms (or ''[[symplesiomorphy]]'') is not necessarily considered evidence of a period of common isolated development.
+
+Soviet linguist [[Igor M. Diakonoff]] (1985)<ref>Igor Mikhailovich Diakonov, "Hurro-Urartian Borrowings in Old Armenian", ''Journal of the American Oriental Society'' 105.4 (1985) [http://azargoshnasp.net/history/Hurrian/diaokonoff_hurro_armenian_borrowing.pdf text]</ref> noted the presence in [[Classical Armenian]] of what he calls a "Caucasian substratum" identified by earlier scholars, consisting of loans from the [[Kartvelian languages|Kartvelian]] and [[Northeast Caucasian languages]]. Noting that [[Hurro-Urartian languages|Hurro-Urartian-speaking]] peoples inhabited the Armenian homeland in the second millennium BC, Diakonov identifies in Armenian a Hurro-Urartian substratum of social, cultural, and animal and plant terms such as ''[[wikt:աղախին|ałaxin]]'' "slave girl" ( ← Hurr. ''al(l)a(e)ḫḫenne''), ''cov'' "sea" ( ← Urart. ''ṣûǝ'' "(inland) sea"), ''ułt'' "camel" ( ← Hurr. ''uḷtu''), and ''[[wikt:խնձոր|xnjor]]'' "apple(tree)" ( ← Hurr. ''ḫinzuri''). Some of the terms he gives admittedly have an [[Akkadian language|Akkadian]] or [[Sumerian language|Sumerian]] provenance, but he suggests they were borrowed through Hurrian or Urartian. Given that these borrowings do not undergo [[sound change]]s characteristic of the development of Armenian from [[Proto-Indo-European language|Proto-Indo-European]], he dates their borrowing to a time before the written record but after the [[Proto-Armenian language]] stage.
+
+Loan words from [[Iranian languages]] initially led linguists to erroneously classify Armenian as an Iranian language. Scholars, such as [[Paul de Lagarde]] and F. Müller, believed that the similarities between the two languages meant that both Iranian and Armenian were the same language.<ref name="iranicaonline.org">{{cite web|url=http://www.iranicaonline.org/articles/armenia-iv|title=ARMENIA AND IRAN iv. Iranian influences in Armenian Language|accessdate=26 October 2015}}</ref> The distinctness of Armenian was recognized when philologist [[Heinrich Hübschmann]] (1875)<ref name="iranicaonline.org"/><ref>{{cite web|url=http://www.utexas.edu/cola/centers/lrc/books/read12.html |title=A Reader in Nineteenth Century Historical Indo-European Linguistics: On the Position of Armenian in the Sphere of the Indo-European Languages |publisher=Utexas.edu |date=2007-03-20 |accessdate=2012-12-18}}</ref> used the [[comparative method (linguistics)|comparative method]] to distinguish two layers of Iranian loans from the older Armenian [[vocabulary]].
+
+===Graeco-Armenian hypothesis===
+{{Main|Graeco-Armenian}}
+
+The hypothesis that Greek is Armenian's closest living relative originates with [[Holger Pedersen (linguist)|Holger Pedersen]] (1924), who noted that the number of Greek-Armenian lexical cognates is greater than that of agreements between Armenian and any other Indo-European language. [[Antoine Meillet]] (1925, 1927) further investigated morphological and phonological agreement, postulating that the parent languages of Greek and Armenian were dialects in immediate geographical proximity in the [[Proto-Indo-European language|Proto-Indo-European period]]. Meillet's hypothesis became popular in the wake of his ''Esquisse'' (1936). [[Georg Renatus Solta]] (1960) does not go as far as postulating a Proto-Graeco-Armenian stage, but he concludes that considering both the lexicon and morphology, Greek is clearly the dialect most closely related to Armenian. [[Eric P. Hamp]] (1976, 91) supports the Graeco-Armenian thesis, anticipating even a time "when we should speak of Helleno-Armenian" (meaning the postulate of a Graeco-Armenian proto-language). Armenian shares the [[Augment (linguistics)|augment]], and a negator derived from the set phrase [[Proto-Indo-European language]] *''ne h<sub>2</sub>oiu k<sup>w</sup>id'' ("never anything" or "always nothing"), and the representation of word-initial [[laryngeal theory|laryngeals]] by prothetic vowels, and other phonological and morphological peculiarities with Greek. Nevertheless, linguists, including Fortson (2004), comment "by the time we reach our earliest Armenian records in the 5th century AD, the evidence of any such early kinship has been reduced to a few tantalizing pieces."
+
+===Greco-Armeno-Aryan hypothesis===
+{{main|Graeco-Aryan}}
+
+Graeco-(Armeno)-Aryan is a hypothetical [[clade]] within the [[Indo-European languages|Indo-European family]], ancestral to the [[Greek language]], the Armenian language, and the [[Indo-Iranian languages]].  Graeco-Aryan unity would have become divided into [[Proto-Greek language|Proto-Greek]] and [[Proto-Indo-Iranian language|Proto-Indo-Iranian]] by the mid-third millennium BC. Conceivably, [[Proto-Armenian language|Proto-Armenian]] would have been located between Proto-Greek and Proto-Indo-Iranian, consistent with the fact that Armenian shares certain features only with Indo-Iranian (the ''[[satem]]'' change) but others only with Greek (''s'' > ''h'').
+
+Graeco-Aryan has comparatively wide support among Indo-Europeanists for the [[Proto-Indo-European Urheimat hypotheses|Indo-European homeland]] to be located in the [[Armenian Highlands]], the "[[Armenian hypothesis]]".<ref>Renfrew, A.C., 1987, ''Archaeology and Language: The Puzzle of Indo-European Origins'', London: Pimlico. ISBN 0-7126-6612-5; [[Tamaz V. Gamkrelidze|T. V. Gamkrelidze]] and [[Vyacheslav Ivanov (philologist)|V. V. Ivanov]], ''The Early History of Indo-European Languages'', Scientific American, March 1990; {{cite book | last = Renfrew | first = Colin | year = 2003 | chapter = Time Depth, Convergence Theory, and Innovation in Proto-Indo-European | title = Languages in Prehistoric Europe | isbn = 3-8253-1449-9}}</ref><ref>[http://language.psy.auckland.ac.nz/files/gray_and_atkinson2003/grayatkinson2003.pdf Russell D. Gray and Quentin D. Atkinson, Language-tree divergence times support the Anatolian theory of Indo-European origin, Nature 426 (27 November 2003) 435-439]</ref><ref>{{cite journal|last=[[J. P. Mallory|Mallory]]|first=James P.|title=Kuro-Araxes Culture|journal=[[Encyclopedia of Indo-European Culture]]|year=1997|pages=341–42|publisher=Fitzroy Dearborn}}</ref><ref>A. Bammesberger in ''The Cambridge History of the [[English Language]]'', 1992, ISBN 978-0-521-26474-7, p. 32: the model "still remains the background of much creative work in Indo-European reconstruction" even though it is "by no means uniformly accepted by all scholars".</ref> Early and strong evidence was given by Euler's 1979 examination on shared features in Greek and Sanskrit nominal flection.<ref>Indoiranisch-griechische Gemeinsamkeiten der Nominalbildung und deren indogermanische Grundlagen (= Aryan-Greek Communities in Nominal Morphology and their Indoeuropean Origins; in German) (282 p.), Innsbruck, 1979</ref>
+
+Used in tandem with the Graeco-Armenian hypothesis, the Armenian language would also be included under the label '''Aryano-Greco-Armenic''', splitting into proto-Greek/Phrygian and "Armeno-Aryan" (ancestor of Armenian and [[Indo-Iranian languages|Indo-Iranian]]).<ref name="p. 6"/><ref name="public.iastate.edu"/>
+
+==Evolution==
+[[File:Manuscript arm 5-6AD.jpg|left|thumb|Armenian manuscript, 5th–6th century.]]
+<!-- Deleted image removed: [[File:Armenian alphabet evolution.jpg|thumbnail|250px|The evolution of the Armenian alphabet and language.]] -->
+[[Classical Armenian]] (Arm: ''grabar''), attested from the 5th century to the 12th century, was superseded by [[Middle Armenian]], attested from the 12th century to the 18th century. The classical form borrowed numerous words from [[Iranian languages#Middle Iranian languages|Middle Iranian languages]], primarily [[Parthian language|Parthian]],<ref name="Diakonoff597">''Hurro-Urartian Borrowings in Old Armenian'', I. M. Diakonoff, '''Journal of the American Oriental Society''', Vol. 105, No. 4 (Oct. - Dec., 1985), 597.</ref> and contains smaller inventories of [[loanword]]s from Greek,<ref name="Diakonoff597" /> Syriac,<ref name="Diakonoff597" /> Arabic,<ref>''How Did New Persian and Arabic Words Penetrate the Middle Armenian Vocabulary? Remarks on the Material of Kostandin Erznkac'i's Poetry'', Andrzej Pisowicz, '''New Approaches to Medieval Armenian Language and Literature''', edited by Joseph Johannes Sicco Weitenberg, (Rodopi B.V., 1995), 96.</ref> Mongol,<ref>''Tangsux in Armenia'', E. SCHÜTZ, '''Acta Orientalia Academiae Scientiarum Hungaricae''', Vol. 17, No. 1 (1964), 106.</ref> Persian,<ref>Razmik Panossian, ''The Armenians: From Kings and Priests to Merchants and Commissars'', (Columbia University Press, 2006), 39.</ref> and [[indigenous language]]s such as [[Urartian language|Urartian]]. An effort to modernize the language in [[Bagratid Armenia]] and the [[Armenian Kingdom of Cilicia]] (11–14th centuries) resulted in the addition of two more characters to the alphabet ("{{lang|hy|օ}}" and "{{lang|hy|ֆ}}"), bringing the total number to 38.<ref>{{cite book|last1=Ouzounian|first1=Nourhan|editor1-last=Hacikyan|editor1-first=Agop Jack|editor2-last=Basmajian|editor2-first=Gabriel|editor3-last=Franchuk|editor3-first=Edward S.|editor4-last=Ouzounian|editor4-first=Nourhan| display-editors = 3|title=The heritage of Armenian literature|date=2000|publisher=Wayne State Univ. Press|location=Detroit|isbn=0814328156|page=88|url=https://books.google.com/books?id=uvA-oV0alP8C}}</ref>
+
+The ''Book of Lamentations'' by [[Gregory of Narek]] (951–1003) is an example of the development of a literature and writing style in Middle Armenian. In addition to elevating the literary style of the Armenian language, Gregory of Nareg paved the way for his successors to include secular themes in their writings. The thematic shift from mainly religious texts to writings with secular outlooks further enhanced and enriched the vocabulary. “A Word of Wisdom”, a poem by Hovhannes Sargavak devoted to a starling, legitimizes poetry devoted to nature, love, or female beauty. Gradually, the interests of the population at large were reflected in other literary works as well. Konsdantin Yerzinkatsi and several others even take the unusual step of criticizing the ecclesiastic establishment and addressing the social issues of the Armenian homeland. However, these changes represented the nature of the literary style and syntax, but they did not constitute immense changes to the fundamentals of the grammar or the morphology of the language. Often, when writers codify a spoken dialect, other language users are then encouraged to imitate that structure through the literary device known as [[parallelism (rhetoric)|parallelism]]{{disambiguation needed|date=May 2016}}.
+
+[[File:The Four Gospels, 1495, Portrait of St Mark Wellcome L0031107.jpg|thumb|The Four Gospels, 1495, Portrait of St Mark Wellcome with Armenian inscriptions]]
+
+[[File:The first Bible printed in the Armenian language.jpg|thumb|left|First printed Armenian language Bible, 1666]]
+The [[Treaty of Turkmenchay]] of 1828, which granted for the forced cession of all of [[Eastern Armenia]] from [[Qajar dynasty|Qajar Iran]] into the [[Russian Empire]], once again divided the traditional Armenian homeland. This time, [[Western Armenia]] remained under Ottoman control, whereas the other large chunk of historical Armenia (Eastern Armenia), amongst which the soil of the contemporary [[Armenia]], after centuries of Iranian rule, was ceded by Qajar Iran to neighbouring Russia following the latter's victory in the [[Russo-Persian War (1826–28)]]. The antagonistic relationship between the Russian and Ottoman Empires led to creation of two separate and different environments under which Armenians lived and suffered. Halfway through the 19th century, two important concentrations of Armenian communities were constituted.<ref>{{cite book|last1=Khachaturian|first1=Lisa|title=Cultivating nationhood in imperial Russia the periodical press and the formation of a modern Armenian identity|date=2009|publisher=Transaction Publishers|location=New Brunswick, N.J.|isbn=1412813727|page=1|url=https://books.google.com/books?id=A0uY_tuRcx8C}}</ref>
+
+Because of persecutions or the search for better economic opportunities, many Armenians living under Ottoman rule gradually moved to [[Constantinople]], the capital of the [[Ottoman Empire]], whereas Tbilisi became the center of Armenians living under Russian rule. These two cosmopolitan cities very soon became the primary poles of Armenian intellectual and cultural life.<ref>{{cite book|author1=Krikor Beledian|authorlink1=Kara-Darvish and Armenian Futurism|editor1-last=Berghaus|editor1-first=Günter|title=International Yearbook of Futurism|date=2014|publisher=Walter de Gruyter GmbH & Co KG|isbn=3110334100|page=264|url=https://books.google.com/books?id=nQPpBQAAQBAJ}}</ref>
+
+The introduction of new literary forms and styles, as well as many new ideas sweeping Europe, reached Armenians living in both regions. This created an ever-growing need to elevate the vernacular, Ashkharhabar, to the dignity of a modern literary language, in contrast to the now-anachronistic Grabar. Numerous dialects developed in the traditional Armenian regions, which, different as they were, had certain morphological and phonetic features in common. On the basis of these features two major variants emerged:
+* Western variant: The influx of immigrants from different parts of the traditional Armenian homeland to Constantinople crystallized the common elements of the regional dialects, paving the way to a style of writing that required a shorter and more flexible learning curve than Grabar.
+* Eastern variant: The [[Yerevan dialect]] provided the primary elements of Eastern Armenian, centered in [[Tbilisi]], Georgia. Similar to the Western Armenian variant, the Modern Eastern was in many ways more practical and accessible to the masses than Grabar.
+
+Both centers vigorously pursued the promotion of Ashkharhabar. The proliferation of newspapers in both versions (Eastern & Western) and the development of a network of schools where modern Armenian was taught, dramatically increased the rate of literacy (in spite of the obstacles by the colonial administrators), even in remote rural areas. The emergence of literary works entirely written in the modern versions increasingly legitimized the language’s existence. By the turn of the 20th century both varieties of the one modern Armenian language prevailed over Grabar and opened the path to a new and simplified grammatical structure of the language in the two different cultural spheres. Apart from minor morphological, phonetic, and grammatical differences, the largely common vocabulary and identical rules of grammatical fundamentals allows users of one variant to understand the other easily.<ref>{{cite book|last1=Waters|first1=Bella|title=Armenia in pictures|date=2009|publisher=VGS/Twenty-First Century Books|location=Minneapolis|isbn=0822585766|page=48|url=https://books.google.com/books?id=BFN6SuymI00C}}</ref>
+
+After [[World War I]], the existence of the two modern versions of the same language was sanctioned even more clearly. The [[Armenian Soviet Socialist Republic]] (1920–1990) used Eastern Armenian as its official language, whereas the diaspora created after the [[Armenian Genocide|Genocide of 1915]] preserved the Western Armenian dialect.
+
+===Modern changes===
+[[File:Panneau près d'Ohanavan.JPG|thumb|Armenian language road sign.]]
+The two modern literary dialects, Western (originally associated with writers in the Ottoman Empire) and Eastern (originally associated with writers in the Russian Empire), removed almost all of their Turkish lexical influences in the 20th century, primarily following the [[Armenian Genocide]].
+
+==Phonology==
+[[Proto-Indo-European language|Proto-Indo-European]] voiceless [[stop consonants]] are aspirated in the [[Proto-Armenian language]], one of the circumstances that is often linked to the [[glottalic theory]], a version of which postulated that the voiceless occlusives of Proto-Indo-European were aspirated.<ref>James Clackson, ''Indo-European Linguistics, An Introduction'' (2007, Cambridge)<br/>Robert S.P. Beekes, ''Comparative Indo-European Linguistics, An Introduction'' (1995, John Benjamins)<br/>Oswald J.L. Szemerényi, ''Introduction to Indo-European Linguistics'' (1996, Oxford)</ref>
+
+===Stress===
+In Armenian the stress falls on the last syllable unless the last syllable contains {{IPA|[ə]}}, in which case it falls on the penultimate one. For instance, <nowiki>[</nowiki>{{IPA|[[wikt:ախորժակ|ɑχoɾˈʒɑk]]}}<nowiki>]</nowiki>, <nowiki>[</nowiki>{{IPA|[[wikt:մաղադանոս|mɑʁɑdɑˈnos]]}}<nowiki>]</nowiki>, <nowiki>[</nowiki>{{IPA|[[wikt:գինի|giˈni]]}}<nowiki>]</nowiki> but <nowiki>[</nowiki>{{IPA|[[wikt:Վահագն|vɑˈhɑgən]]}}<nowiki>]</nowiki> and <nowiki>[</nowiki>{{IPA|[[wikt:դաշտը|ˈdɑʃtə]]}}<nowiki>]</nowiki>. Exceptions to this rule are some words with the final letter {{lang|hy|է}} ({{lang|hy|ե}} in the reformed orthography) ({{lang|hy|մի՛թէ, մի՛գուցե, ո՛րեւէ}}) and sometimes the ordinal numerals ({{lang|hy|վե՛ցերորդ, տա՛սներորդ}}, etc.).
+
+===Vowels===
+{{Armenians}}
+Modern Armenian has six monophthongs. Each vowel phoneme in the table is represented by three symbols. The first indicates the phoneme's pronunciation in the International Phonetic Alphabet (IPA).  After that appears the corresponding letter of the Armenian alphabet. The last symbol is its Latin transliteration (according to ISO 9985).
+
+{| class="wikitable"
+|+Armenian vowel phonemes<ref>{{Harvcoltxt|Dum-Tragut|2009|p=13}}</ref>
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! style="text-align:left;"| [[Close vowel|Close]]
+| class="nounderlines" style="text-align:center" | {{IPA link|i}} <br/>{{lang|hy|[[wikt:ի|ի]]}}<br/>i
+| class="nounderlines" style="text-align:center" |
+| class="nounderlines" style="text-align:center" | {{IPA link|u}} <br/>{{lang|hy|[[wikt:ու|ու]]}}<br/>u
+|-
+! style="text-align:left;"| [[Mid vowel|Mid]]
+| class="nounderlines" style="text-align:center" | {{IPA link|ɛ}} <br/>{{lang|hy|[[wikt:ե|ե]]}}, {{lang|hy|[[wikt:է|է]]}}<br/>e, ē
+| class="nounderlines" style="text-align:center" | {{IPA link|ə}} <br/>{{lang|hy|[[wikt:ը|ը]]}}<br/>ë
+| class="nounderlines" style="text-align:center;" | {{IPA link|ɔ}} <br/>{{lang|hy|[[wikt:ո|ո]]}}, {{lang|hy|[[wikt:օ|օ]]}}<br/>o, ò
+|-
+! style="text-align:left;"| [[Open vowel|Open]]
+| &nbsp;
+| &nbsp;
+| class="nounderlines" style="text-align:center" | {{IPA link|ɑ}} <br/>{{lang|hy|[[wikt:ա|ա]]}}<br/>a
+|}
+
+===Consonants===
+The following table lists the Eastern Armenian consonantal system. The occlusives and [[affricate consonant|affricates]] have a special aspirated series (transcribed with an [[apostrophe]] after the letter): ''p’'', ''t’'', ''c’'', ''k’'' (but ''č''). Each phoneme in the table is represented by three symbols. The first indicates the phoneme's pronunciation in the [[International Phonetic Alphabet]] (IPA), after that appears the corresponding letter of the [[Armenian alphabet]], and the last symbol is its [[Romanization of Armenian#ISO 9985 (1996)|Romanization according to ISO 9985 (1996)]].
+
+{| class="wikitable" style=text-align:center
+|+Eastern Armenian consonant phonemes<ref>{{Harvcoltxt|Dum-Tragut|2009|pp=17–20}}</ref>
+! colspan="2" | 
+![[Labial consonant|Labials]]
+![[Dental consonant|Dental]]/<br/>[[Alveolar consonant|Alveolar]]
+![[Postalveolar consonant|Postalveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Uvular consonant|Uvular]]
+![[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA|/m/}} {{lang|hy|մ}} – m
+| {{IPA|/n/}} {{lang|hy|ն}} – n
+|
+|
+| [ŋ]
+|
+|
+|-
+! rowspan="3" | [[Stop consonant|Stop]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPA|/p/}} {{lang|hy|պ}} – p
+| {{IPA|/t/}} {{lang|hy|տ}} – t
+| 
+|
+| {{IPA|/k/}} {{lang|hy|կ}} – k
+|
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA|/b/}} {{lang|hy|բ}} – b
+| {{IPA|/d/}} {{lang|hy|դ}} – d
+| 
+|
+| {{IPA|/ɡ/}} {{lang|hy|գ}} – g
+|
+|
+|-
+! <small>[[aspirated consonant|aspirated]]</small>
+| {{IPA|/pʰ/}} {{lang|hy|փ}} – p’
+| {{IPA|/tʰ/}} {{lang|hy|թ}} – t’
+| 
+|
+| {{IPA|/kʰ/}} {{lang|hy|ք}} – k’
+|
+|
+|-
+! rowspan="3" | [[Affricate consonant|Affricate]]
+! <small>[[voicelessness|voiceless]]</small>
+|
+| {{IPA|/t͡s/}} {{lang|hy|ծ}} – ç
+| {{IPA|/t͡ʃ/}} {{lang|hy|ճ}} – č̣
+| 
+|
+|
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+|
+| {{IPA|/d͡z/}} {{lang|hy|ձ}} – j
+| {{IPA|/d͡ʒ/}} {{lang|hy|ջ}} – ǰ
+| 
+|
+|
+|
+|-
+! <small>[[aspirated consonant|aspirated]]</small>
+|
+| {{IPA|/t͡sʰ/}} {{lang|hy|ց}} – c’
+| {{IPA|/t͡ʃʰ/}} {{lang|hy|չ}} – č
+| 
+|
+|
+|
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPA|/f/}} {{lang|hy|ֆ}} – f
+| {{IPA|/s/}} {{lang|hy|ս}} – s
+| {{IPA|/ʃ/}} {{lang|hy|շ}} – š
+| 
+|colspan=2| {{IPA|/x ~ χ/}}<sup>1</sup> {{lang|hy|խ}} – x 
+| {{IPA|/h/}} {{lang|hy|հ}} – h
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA|/v/}} {{lang|hy|վ}} – v
+| {{IPA|/z/}} {{lang|hy|զ}} – z
+| {{IPA|/ʒ/}} {{lang|hy|ժ}} – ž
+| 
+|colspan=2| {{IPA|/ɣ ~ ʁ/}}<sup>1</sup> {{lang|hy|ղ}} – ġ 
+|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| {{IPA|[ʋ]}}
+| {{IPA|/l/}} {{lang|hy|լ}} – l
+|
+| {{IPA|/j/}} {{lang|hy|յ}} – y
+|
+|
+|
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+|
+| {{IPA|/r/}} {{lang|hy|ռ}} – ṙ
+|
+|
+|
+|
+|
+|-
+! colspan="2" | [[Flap consonant|Flap]]
+|
+| {{IPA|/ɾ/}} {{lang|hy|ր}} – r
+|
+|
+|
+|
+|
+|}
+
+# Sources differ on the place of articulation of these consonants.
+
+The major phonetic difference between dialects is in the reflexes of Classical Armenian [[voice-onset time]]. The seven dialect types have the following correspondences, illustrated with the t–d series:<ref>{{Harvcoltxt|Price|1998}}</ref>
+::{| class="wikitable" style=text-align:center
+|+Correspondence in initial position
+![[Proto-Indo-European language|Indo-European]]
+|*{{IPA|d}}
+|*{{IPA|dʰ}}
+|*{{IPA|t}}
+|-
+![[Sivas, Turkey|Sebastia]]
+|{{IPA|d}}
+|{{IPA|dʱ}}
+|{{IPA|tʰ}}
+|-
+![[Yerevan|Erevan]]
+|{{IPA|t}}
+|{{IPA|dʱ}}
+|{{IPA|tʰ}}
+|-
+![[Istanbul]]
+|colspan=2|{{IPA|d}}
+|{{IPA|tʰ}}
+|-
+![[Kharpert]], [[Middle Armenian]]
+|{{IPA|d}}
+|{{IPA|t}}
+|{{IPA|tʰ}}
+|-
+![[Malatya]], [[Western Armenian|SWA]]
+|{{IPA|d}}
+|colspan=2|{{IPA|tʰ}}
+|-
+![[Classical Armenian]], [[Yuxarı Əylis|Agulis]], [[Eastern Armenian|SEA]]
+|{{IPA|t}}
+|{{IPA|d}}
+|{{IPA|tʰ}}
+|-
+![[Van, Turkey|Van]], [[Artsakh]]
+|colspan=2|{{IPA|t}}
+|{{IPA|tʰ}}
+|}
+
+==Morphology==
+
+Armenian corresponds with other Indo-European languages in its structure, but it shares distinctive sounds and features of its grammar with neighboring [[languages of the Caucasus|languages of the Caucasus region]]. Armenian is rich in combinations of consonants.<ref>{{cite book|last=Kortmann|first=Bernd|last2=van der Auwera|first2=Johan|title=The Languages and Linguistics of Europe: A Comprehensive Guide|url=https://books.google.com/books?id=vi_VCm51kpkC|year=2011|publisher=Walter de Gruyter|isbn=978-3110220261|page=129]}}</ref><ref>{{cite book|title=The New Armenia, Vol. 11-12|url=https://books.google.com/books?id=3nLnAAAAMAAJ&|year=1919|publisher=New Armenia Publishing Company|isbn=1248372786|page=160}}</ref> Both classical Armenian and the modern spoken and literary dialects have a complicated system of noun declensions, with six or seven noun cases but no gender. In modern Armenian the use of auxiliary verbs to show tense (comparable to will in "he will go") has generally supplemented the inflected verbs of [[Classical Armenian]]. Negative verbs are conjugated differently from positive ones (as in English "he goes" and "he does not go"). Grammatically, early forms of Armenian had much in common with classical [[Greek language|Greek]] and [[Latin]], but the modern language, like modern Greek, has undergone many transformations. With time the Armenian language made a transition from a synthetic language (Classical Armenian) to a typical analytic language (Modern Armenian), with Middle Armenian as a midpoint in this transition.
+
+===Noun===
+Classical Armenian has no [[grammatical gender]], not even in the pronoun, but there is a feminine suffix ({{lang|hy|-ուհի}} "-uhi"). For example, {{lang|hy|ուսուցիչ}} (''usuts'ich'', "teacher") becomes {{lang|hy|ուսուցչուհի}} (''usuts'chuhi'', female teacher). This suffix, however, does not have a grammatical effect on the sentence. The nominal inflection, however, preserves several types of inherited stem classes. Nouns are declined for one of seven cases: [[nominative case|nominative]], [[accusative case|accusative]], [[locative case|locative]], [[genitive case|genitive]], [[dative case|dative]], [[ablative case|ablative]], or [[instrumental case|instrumental]].
+
+;Examples of noun declensions
+
+{| class="wikitable"
+|+{{lang|hy|Հեռախոս}} {{transl|hy|''Heṙaxos''}} (telephone)
+!Case
+!Singular
+!Plural
+
+|-
+|'''Nominative''' (''uxxakan'')
+|{{lang|hy|հեռախոս'''(ը-ն)*'''}} heṙaxos(ë-n)*
+|{{lang|hy|հեռախոսներ'''(ը-ն)*'''}} heṙaxos-ner(ë-n)*
+
+|-
+|'''Accusative''' (''haycakan'')
+|{{lang|hy|հեռախոս'''ը(-ն)*'''}} heṙaxos'''ë(-n)*'''
+|{{lang|hy|հեռախոսներ'''ը(-ն)*'''}} heṙaxos-ner'''ë(-n)*'''
+
+|-
+|'''Genitive''' (''serakan'')
+|{{lang|hy|հեռախոս'''ի'''}} heṙaxos'''i'''
+|{{lang|hy|հեռախոսներ'''ի'''}} heṙaxos-ner'''i'''
+
+|-
+|'''Dative''' (''trakan'')
+|{{lang|hy|հեռախոս'''ին'''}} heṙaxos'''in'''
+|{{lang|hy|հեռախոսներ'''ին'''}} heṙaxos-ner'''in'''
+
+|-
+|'''Ablative''' (''bacarakan'')
+|{{lang|hy|հեռախոս'''ից'''}} heṙaxos'''ic̕ '''
+|{{lang|hy|հեռախոսներ'''ից'''}} heṙaxos-ner'''ic̕'''
+
+|-
+|'''Instrumental''' (''gorciakan'')
+|{{lang|hy|հեռախոս'''ով'''}} heṙaxos'''ov'''
+|{{lang|hy|հեռախոսներ'''ով'''}} heṙaxos-ner'''ov'''
+
+|-
+|'''Locative''' (''nergoyakan'')
+|{{lang|hy|հեռախոս'''ում'''}} heṙaxos'''owm'''
+|{{lang|hy|հեռախոսներ'''ում'''}} heṙaxos-ner'''owm'''
+|}
+
+{| class="wikitable"
+|+{{lang|hy|Մայր}} {{transl|hy|''Mayr''}} (mother)
+!Case
+!Singular
+!Plural
+
+|-
+|'''Nominative''' (''uxxakan'')
+|{{lang|hy|մայր'''(ը-ն)*'''}} mayr'''(ë-n)*'''
+|{{lang|hy|մայրեր'''(ը-ն)*'''}} mayr-er'''(ë-n)*'''
+
+|-
+|'''Accusative '''(''haycakan'')
+|{{lang|hy|մայր'''ը(-ն)*'''}} mayr'''ë(-n)*'''
+|{{lang|hy|մայրեր'''ը(-ն)*'''}} mayr-er'''ë(-n)*'''
+
+|-
+|'''Genitive '''(''serakan'')
+|{{lang|hy|մ'''որ'''}} m'''or'''
+|{{lang|hy|մայրեր'''ի'''}} mayr-er'''i'''
+
+|-
+|'''Dative '''(''trakan'')
+|{{lang|hy|մ'''որը(-ն)*'''}} m'''orë(-n)*'''
+|{{lang|hy|մայրեր'''ին'''}} mayr-er'''in'''
+
+|-
+|'''Ablative '''(''bacarakan'')
+|{{lang|hy|մ'''որից'''}} m'''oric̕ '''
+|{{lang|hy|մայրեր'''ից'''}} mayr-er'''ic̕ '''
+
+|-
+|'''Instrumental '''(''gorciakan'')
+|{{lang|hy|մ'''որով'''}} m'''orov'''
+|{{lang|hy|մայրեր'''ով'''}} mayr-er'''ov'''
+
+|-
+|'''Locative '''(''nergoyakan'')
+|<nowiki>-</nowiki>
+|<nowiki>-</nowiki>
+|}
+
+Animated nouns do not decline for locative case.
+
+{| class="wikitable"
+|+{{lang|hy|Հանրապետություն}} {{transl|hy|''Hanrapetut’yun''}} (republic)
+!Case
+!Singular
+!Plural
+
+|-
+|'''Nominative '''(''uxxakan'')
+|{{lang|hy|հանրապետություն'''(ը-ն)*'''}}
+|{{lang|hy|հանրապետություններ'''(ը-ն)*'''}}
+
+|-
+|'''Accusative '''(''haycakan'')
+|{{lang|hy|հանրապետություն'''ը(-ն)*'''}}
+|{{lang|hy|հանրապետություններ'''ը(-ն)*'''}}
+
+|-
+|'''Genitive '''(''serakan'')
+|{{lang|hy|հանրապետությ'''ան'''}}
+|{{lang|hy|հանրապետություններ'''ի'''}}
+
+|-
+|'''Dative '''(''trakan'')
+|{{lang|hy|հանրապետությ'''անը(-ն)*'''}}
+|{{lang|hy|հանրապետություններ'''ին'''}}
+
+|-
+|'''Ablative '''(''bacarakan'')
+|{{lang|hy|հանրապետություն'''ից'''}}
+|{{lang|hy|հանրապետություններ'''ից'''}}
+
+|-
+|'''Instrumental '''(''gorciakan'')
+|{{lang|hy|հանրապետությ'''ամբ'''}}
+|{{lang|hy|հանրապետություններ'''ով'''}}
+
+|-
+|'''Locative '''(''nergoyakan'')
+|{{lang|hy|հանրապետություն'''ում'''}}
+|{{lang|hy|հանրապետություններ'''ում'''}}
+|}
+
+===Verb===
+{{Main|Armenian verbs}}
+
+Verbs in Armenian have an expansive system of [[Grammatical conjugation|conjugation]] with two main verb types (three in Western Armenian) changing form based on [[Grammatical tense|tense]], [[Grammatical mood|mood]] and [[Grammatical aspect|aspect]].
+
+==Dialects==
+{{See also|Classification des dialectes arméniens}}
+[[File:Armenian dialects, Adjarian 1909.png|thumb|350px|Map of the [[Historical dialects of Armenian|Armenian dialects in early 20th century]]:
+{{legend|#00FF00|-owm dialects, nearly corresponding to Eastern Armenian}}
+{{legend|#808080|-el dialects (intermediate)}}
+{{legend|#FFD800|-gë dialects, nearly corresponding to Western Armenian}}]]
+Armenian is a [[pluricentric language]], having two modern [[Standard language|standardized]] forms: [[Eastern Armenian]] and [[Western Armenian]]. The most distinctive feature of Western Armenian is that it has undergone several phonetic mergers; these may be due to proximity to Arabic- and Turkish-speaking communities.
+
+For example, Eastern Armenian speakers pronounce ({{lang|hy|թ}}) as an aspirated "t" as in "tiger", ({{lang|hy|դ}}) like the "d" in "develop", and ({{lang|hy|տ}}) as a [[tenuis consonant|tenuis]] occlusive, sounding somewhere between the two as in "s'''t'''op." Western Armenian has simplified the occlusive system into a simple division between voiced occlusives and aspirated ones; the first series corresponds to the tenuis series of Eastern Armenian, and the second corresponds to the Eastern voiced and aspirated series. Thus, the Western dialect pronounces both ({{lang|hy|թ}}) and ({{lang|hy|դ}}) as an aspirated "t" as in "tiger", and the ({{lang|hy|տ}}) letter is pronounced like the letter "d" as in "develop".
+
+There is no precise linguistic border between one dialect and another because there is nearly always a dialect transition zone of some size between pairs of geographically identified dialects.
+
+Armenian can be divided into two major dialectal blocks and those blocks into individual dialects, though many of the Western Armenian dialects have become extinct due to the effects of the Armenian Genocide. In addition, neither dialect is completely homogeneous: any dialect can be subdivided into several subdialects. Although Western and Eastern Armenian are often described as different dialects of the same language, some subdialects are not readily mutually intelligible. Nevertheless, a fluent speaker of one of two greatly varying dialects who is exposed to the other dialect for even a short period of time will be able to understand the other with relative ease.
+
+{| class="wikitable"
+|+Examples
+!English
+! [[Eastern Armenian language|Eastern Armenian]] 
+![[Western Armenian language|Western Armenian]]
+|-
+| Yes
+| Ayo ({{lang|hy|այո}})
+| Ayo ({{lang|hy|այո}})
+|-
+| No
+| Voč' ({{lang|hy|ոչ}})
+| Voč' ({{lang|hy|ոչ}})
+|-
+| Excuse me
+| Neroġout'ioun ({{lang|hy|ներողություն}})
+| Neroġout'ioun ({{lang|hy|ներողութիւն}})
+|-
+| Hello
+| Barev ({{lang|hy|բարև}})
+| Parev ({{lang|hy|բարեւ}})
+|-
+| How are you (''formal'')
+| Inčpes ek ({{lang|hy|ինչպէ՞ս էք}})  
+| Inč'bes ek ({{lang|hy|ինչպէ՞ս էք}})
+|-
+| How are you (''informal'')
+| Inč' ka č'ka ({{lang|hy|ի՞նչ կա չկա}})
+| Inč' ga č'ga ({{lang|hy|ի՞նչ կայ չկայ}})
+|-
+| Please
+| Khntrem ({{lang|hy|խնդրեմ}})
+| Khntrem ({{lang|hy|խնդրեմ}}), Hadjiss ({{lang|hy|հաճիս}})
+|-
+| Thank you
+| Šnorhakal em ({{lang|hy|շնորհակալ եմ}})
+| Šnorhagal em ({{lang|hy|շնորհակալ եմ}})
+|-
+| Thank you very much
+| Šat šnorhakal em ({{lang|hy|շատ շնորհակալ եմ}})
+| Šad šnorhagal em ({{lang|hy|շատ շնորհակալ եմ}})
+|-
+|rowspan=2| Welcome (''to a place'')
+|rowspan=2| Bari galoust ({{lang|hy|բարի գալուստ}})
+| ''singular'': Pari yegar ({{lang|hy|բարի եկար}})
+|-
+| ''plural or polite'': Pari yegak' ({{lang|hy|բարի եկաք}})
+|-
+| Welcome (''as a response to 'thank you''')
+| Khntrem ({{lang|hy|խնդրեմ}})
+| Khntrem ({{lang|hy|խնդրեմ}})
+|-
+| Goodbye
+| C'tesout'ioun ({{lang|hy|ցտեսություն}})
+| C'desout'ioun ({{lang|hy|ցտեսութիւն}})
+|-
+| Good morning
+| Bari louys ({{lang|hy|բարի լույս}})
+| Pari louys ({{lang|hy|բարի լոյս}})
+|-
+| Good afternoon
+| Bari òr ({{lang|hy|բարի օր}})
+| Pari ges òr ({{lang|hy|բարի կէս օր}})
+|-
+| Good evening
+| Bari yereko ({{lang|hy|բարի երեկո}})
+| Pari irigoun ({{lang|hy|բարի իրիկուն}})
+|-
+| Good night
+| Bari gišer ({{lang|hy|բարի գիշեր}})
+| Kišer pari ({{lang|hy|գիշեր բարի}})
+|-
+| I love you
+| Yes k'ez siroum em ({{lang|hy|ես քեզ սիրում եմ}})
+| Yes ëzk'ez gë sirem ({{lang|hy|ես զքեզ կը սիրեմ}})
+|-
+| I am Armenian
+| Yes hay em ({{lang|hy|ես հայ եմ}})
+| Yes hay em ({{lang|hy|ես հայ եմ}})
+|-
+| I miss you (Eastern) / I missed you (Western)
+| Yes k'ez karotum em ({{lang|hy|ես քեզ կարոտում եմ}})
+| Yes k'ez garodtser em ({{lang|hy|ես քեզ կարօտցեր եմ}})
+|}
+
+Other distinct varieties include [[Homshetsi dialect|Homshetsi]], spoken by the [[Hemshin people]], and the divergent and almost extinct [[Lomavren language]] of the [[Lom people]],<ref>{{cite book|author1=Victor A. Friedman|editor1-last=Ball|editor1-first=Martin J.|title=The Routledge Handbook of Sociolinguistics Around the World: A Handbook|date=2009|publisher=Routledge|isbn=978-0415422789|page=128|url=https://books.google.com/books?id=AtCNAgAAQBAJ&pg=PA128 |chapter=Sociolinguistics in the Caucasus}}</ref> the latter is a mixed language and hence does not belong to the Armenian [[language family]].
+
+==Writing system==
+{{main|Armenian alphabet|Armenian braille}}
+[[File:Keyboard Layout Armenian.png|thumb|Armenian [[Computer keyboard|keyboard]] layout using the [[Armenian alphabet]].]]
+The [[Armenian alphabet]] ({{lang-hy|Հայոց գրեր ''Hayots grer'' or Հայոց այբուբեն ''Hayots aybuben''}}) is a graphically unique [[alphabet]]ical writing system that is used to write the Armenian language. It was introduced around 405 AD by [[Mesrop Mashtots]], an Armenian linguist and ecclesiastical leader, and originally contained 36 letters. Two more letters, օ (o) and ֆ (f), were added in the Middle Ages. 
+During the [[Armenian orthography reform of 1922–1924|1920s orthography reform]], a new letter և (capital ԵՎ) was added, which was a ligature before ե+ւ, whereas the letter Ւ ւ was discarded and reintroduced as part of a new letter ՈՒ ու (which was a digraph before).
+
+==Indo-European cognates==
+Armenian is an [[Indo-European languages|Indo-European language]], so many of its [[Proto-Indo-European language|Proto-Indo-European]]-descended words are [[cognate]]s of words in other Indo-European languages such as [[English language|English]], [[Latin]], [[Greek language|Greek]], and [[Sanskrit]]. This table lists only some of the more recognizable cognates that Armenian shares with English (more specifically, with English words descended from [[Old English]]). (Source: Online Etymology Dictionary.<ref>{{cite web |url=http://www.etymonline.com/index.php?l=a |title=Online Etymology Dictionary |publisher=etymonline.com |accessdate=2007-06-07| archiveurl= //web.archive.org/web/20070613145930/http://www.etymonline.com/index.php?l=a| archivedate= 13 June 2007 <!--DASHBot-->| deadurl= no}}</ref>)
+{| class="wikitable"
+! Armenian || [[English language|English]]|| [[Classical Latin|Latin]] || [[Persian language|Persian]] || [[Greek language|Classical and Hellenistic Greek]] || [[Sanskrit]] || [[Russian language|Russian]] || [[Old Irish]] || [[Proto-Indo-European language|PIE]]
+|-
+| մայր '''[[wikt:մայր|mayr]]''' "mother" || '''mother''' ( ← [[Old English language|OE]] ''mōdor'')|| '''māter''' "mother"|| مادر '''mɒdær''' "mother"|| μήτηρ '''mētēr''' "mother"|| मातृ '''mātṛ''' "mother" || мать '''mat'''' || '''máthair''' "mother" || '''{{PIE|*máH₂ter-}}''' "mother"
+|-
+| հայր '''[[wikt:հայր|hayr]]''' "father" || '''father''' ( ← [[Old English language|OE]] ''fæder'')|| '''pater''' "father"|| پدر '''pedær''' "father"|| πατήρ '''patēr''' "father"|| पितृ '''pitṛ''' "father" || || '''athair''' "father"  || '''{{PIE|*pH₂tér-}}''' "father"
+|-
+| եղբայր '''[[wikt:եղբայր|eġbayr]]''' "brother" || '''brother''' ( ← [[Old English language|OE]] ''brōþor'')|| '''frāter''' "brother"|| برادر '''bærɒdær''' "brother" || φράτηρ '''phrātēr''' "brother"|| भ्रातृ '''bhrātṛ''' "brother" || брат '''brat''' || '''bráthair''' "brother" || {{PIE|*bʱráH₂ter-}} "brother"
+|-
+| դուստր '''[[wikt:դուստր|dustr]]''' "daughter" || '''daughter''' ( ← [[Old English language|OE]] ''dohtor'')|| (Oscan '''futrei''' "daughter")|| دختر '''doxtær''' "daughter" || θυγάτηρ '''thugatēr''' "daughter"|| दुहितृ '''duhitṛ''' "daughter" || дочь '''doč'''' || '''der, Dar-''' "daughter (of)" || {{PIE|*dʱugH₂-tér-}} "daughter"
+|-
+| կին '''[[wikt:կին|kin]]''' "woman" || '''queen''' ( ← [[Old English language|OE]] ''cwēn "queen, woman, wife"'')|| || کیانه '''kianæ''' "woman, wife"|| γυνή '''gunē''' "a woman, a wife"|| ग्ना '''gnā'''/ जनि '''jani''' "woman" || жена '''žena''' "wife" || '''ben''' "woman" || '''{{PIE|*gʷén-eH₂-}}''' "woman, wife"
+|-
+| իմ '''[[wikt:իմ|im]]''' "my" || '''my, mine''' ( ← [[Old English language|OE]] ''min'')|| '''me-us''', '''-a''', '''-um''' etc. "my"|| من/ـم '''mæn/æm''' "my"|| ἐμ-ός, -ή, -όν '''em-os''', '''-ē''', '''-on''' etc. "my, of mine"|| मम '''mama''' "my"|| мой '''moy''' || '''mo''' "my, me" || '''{{PIE|*mene-}}''' "my, mine"
+|-
+| անուն '''[[wikt:անուն|anun]]''' "name" || '''name''' ( ← [[Old English language|OE]] ''nama'')|| '''nōmen''' "name"|| نام '''nɒm''' "name"|| ὄνομα '''onoma''' "name"|| नामन् '''nāman''' "name" || имя '''im'a''' || '''ainm''' "name" || '''{{PIE|*H₁noH₃m-n̥-}}''' "name"
+|-
+| ութ '''[[wikt:ութ|utʿ]]''' "8" || '''eight''' ( ← [[Old English language|OE]] ''eahta'')|| '''octō''' "eight"|| هشت '''hæʃt''' "eight"|| ὀκτώ '''oktō''' "eight"|| अष्ट '''aṣṭa''' "eight" || во́семь '''vosem'''' || '''ocht''' "eight" || '''{{PIE|*H₁oḱtō(u)}}''' "eight"
+|-
+| ինն '''[[wikt:ինն|inn]]''' "9" || '''nine''' ( ← [[Old English language|OE]] ''nigon'')|| '''novem''' "nine"|| نه '''noh''' "nine"|| ἐννέα '''ennea''' "nine"|| नवन् '''navan''' "nine" || де́вять '''dev'at'''' || '''noí''' "nine" || '''{{PIE|*(H₁)néwn̥}}''' "nine"
+|-
+| տաս '''[[wikt:տաս|tas]]''' "10" || '''ten''' ( ← [[Old English language|OE]] ''tien'') ( ← [[P.Gmc.]] ''*tekhan'')|| '''decem''' "ten"|| ده '''dæh''' "ten"|| δέκα '''deka''' "ten"|| दश '''daśa''' "ten" || де́сять '''des'at'''' || '''deich''' "ten" || '''{{PIE|*déḱm̥}}''' "ten"
+|-
+| աչք '''[[wikt:աչք|ačʿkʿ]]''' "eye" || '''eye''' ( ← [[Old English language|OE]] ''ēge'')|| '''oculus''' "eye"|| چشم '''tʃæʃm''' "eye"|| ὀφθαλμός '''ophthalmos''' "eye"|| अक्षि '''akṣi''' "eye"|| око '''oko''' || || '''{{PIE|*H₃okʷ-}}''' "to see"
+|-
+| արմունկ '''[[wikt:արմունկ|armunk]]''' "elbow" || '''arm''' ( ← [[Old English language|OE]] ''earm "joined body parts below shoulder"'')|| '''armus''' "shoulder" || آرنج '''ɒrendʒ''' "elbow" || ἄρθρον '''arthron''' "a joint"|| ईर्म '''īrma''' "arm"|| рамо '''ramo''' "shoulder" (''archaic'') || || '''{{PIE|*H₁ar-mo-}}''' "fit, join (that which is fitted together)"
+|-
+| ծունկ '''[[wikt:ծունկ|cunk]]'''<ref name='c'>The letter {{angle bracket|c}} represents {{IPA|/ts/}}.  In the Armenian words ''cunk'', ''gorc'', ''mec'', and ''ancanotʿ'', it corresponds to PIE *ǵ-.</ref> "knee" || '''knee''' ( ← [[Old English language|OE]] ''cnēo'')|| '''genū''' "knee"|| زانو '''zɒnu''' "knee"|| γόνυ '''gonu''' "knee"|| जानु '''jānu''' "knee"|| || '''glún''' "knee" || '''{{PIE|*ǵénu-}}''' "knee"
+|-
+| ոտք '''[[wikt:ոտք|otkʿ]]''' "foot" || '''foot''' ( ← [[Old English language|OE]] ''fōt'')|| '''pedis''' "foot" || پا، پای '''pɒ, pɒj''' "foot" || πούς '''pous''' "foot"|| पाद् '''pād''' "foot" || || (Gaul. '''ades''' "feet") ||  '''{{PIE|*pod-, *ped-}}''' "foot"
+|-
+| սիրտ '''[[wikt:սիրտ|sirt]]''' "heart"|| '''heart''' ( ← [[Old English language|OE]] ''heorte'')|| '''cor''' "heart"|| دل '''del''' "heart" || καρδία '''kardia''' "heart"|| हृदय '''hṛdaya''' "heart"|| се́рдце '''serdce''' || '''cride''' "heart" || '''{{PIE|*ḱerd-}}''' "heart"
+|-
+| կաշի '''[[wikt:կաշի|kaši]]''' "skin" || '''hide''' ( ← [[Old English language|OE]] ''hȳdan "animal skin cover"'')|| '''cutis''' "skin"|| پوست '''pust''' "skin"|| κεύθω '''keuthō''' "I cover, I hide"|| कुटीर '''kuṭīra''' "hut"|| кожа '''koža''' || (Welsh '''cudd''' "hiding place") || '''{{PIE|*keu-}}''' "to cover, conceal"
+|-
+| մուկ '''[[wikt:մուկ|muk]]''' "mouse" || '''mouse''' ( ← [[Old English language|OE]] ''mūs'')|| '''mūs''' "mouse"|| موش '''musc''' "mouse" || μῦς '''mūs''' "mouse"|| मूष् '''mūṣ''' "mouse" || мышь '''myš'''' || || '''{{PIE|*muH₁s-}}''' "mouse, small rodent"
+|-
+| կով '''[[wikt:կով|kov]]''' "cow" || '''cow''' ( ← [[Old English language|OE]] ''cū'')|| '''bos''' "cow" || گاو '''gɒv''' "cow" || βοῦς '''bous''' "cow" || गो '''go''' "cow" || говядина '''gov'adina''' "beef" || '''bó''' "cow" || '''{{PIE|*gʷou-}}''' "cow"
+|-
+| շուն '''[[wikt:շուն|šun]]''' "dog" || '''hound''' ( ← [[Old English language|OE]] ''hund "hound, dog"'')|| '''canis''' "hound, dog"|| سگ '''sæg''' "dog" || κύων '''kuōn''' "hound, dog"|| श्वन् '''śvan''' "dog" || сука '''suka''' "bitch" || '''cú''' "dog" || '''{{PIE|*ḱwon-}}''' "hound, dog"
+|-
+| տարի '''[[wikt:տարի|tari]]''' "year" || '''year''' ( ← [[Old English language|OE]] ''gēar'')|| '''hōrnus''' "of this year"|| یاره، سال '''jɒre, sɒl'''<ref name='Avestan'>The word "yare" (year) in the Persian and Sanskrit columns is actually from an [[Indo-Iranian languages|Indo-Iranian]] sister language called [[Avestan]].</ref> "year"|| ὥρα '''hōra''' "time, year"|| यरे '''yare'''<ref name="Avestan"/> "year"|| яра '''jara''' "springtime" (''archaic'') || || '''{{PIE|*yeH₁r-}}''' "year"
+|-
+| ամիս '''[[wikt:ամիս|amis]]''' "month" || '''moon, month''' ( ← [[Old English language|OE]] ''mōnaþ'')|| '''mēnsis''' "month"|| ماه '''mɒh''' "moon, month"|| μήν '''mēn''' "moon, month"|| मास '''māsa''' "moon, month"|| месяц '''mes'ac''' || '''mí''' "month" ||  '''{{PIE|*meH₁ns- }}''' "moon, month"
+|-
+| ամառ '''[[wikt:ամառ|amaṙ]]''' "summer" || '''summer''' ( ← [[Old English language|OE]] ''sumor'')|| || || || समा '''samā''' "season"|| || '''saṃ''' "summer" '''{{PIE|*sem-}}''' "hot season of the year"
+|-
+| ջերմ '''[[wikt:ջերմ|ǰerm]]''' "warm" || '''warm''' ( ← [[Old English language|OE]] ''wearm'')|| '''formus''' "warm"|| گرم '''gærm''' "warm"|| θερμός '''thermos''' "warm"|| घर्म '''gharma''' "heat" || жарко '''žarko''' "hot" || '''geirid''' "warm (v)" || '''{{PIE|*gʷʰerm-}}''' "warm"
+|-
+| լույս '''[[wikt:լույս|luys]]''' "light" || '''light''' ( ← [[Old English language|OE]] ''lēoht "brightness"'')|| '''lux''' "light"|| روز '''ruz''' "day"|| λευκός '''leukos''' "bright, shining, white"|| लोक '''loka''' "shining"|| луч '''luč'''' "beam" || '''lóch''' "bright" || '''{{PIE|*leuk-}}''' "light, brightness"
+|-
+| հուր '''[[wikt:հուր|hur]]''' "flame" || '''fire''' ( ← [[Old English language|OE]] ''fȳr'')|| (Umbrian '''pir''' "fire")|| آذر، آدور '''ɒzær, ɒdur''' "fire"|| πῦρ '''pur''' "fire"|| पु '''pu''' "fire"|| || || '''{{PIE|*péH₂wr̥- }}''' "fire"
+|-
+| հեռու '''[[wikt:հեռու|heṙu]]''' "far" || '''far''' ( ← [[Old English language|OE]] ''feor "to a great distance"'')|| '''per''' "through"|| فرا '''færɒ''' "beyond"|| πέρα '''pera''' "beyond"|| परस् '''paras''' "beyond"|| пере- '''pere-''', про- '''pro-''' || '''ír''' "further" || '''{{PIE|*per-}}''' "through, across, beyond"
+|-
+| հեղել '''[[wikt:հեղել|heġel]]''' "to pour" || '''flow''' ( ← [[Old English language|OE]] ''flōwan'')|| '''pluĕre''' "to rain"|| پور '''pur''' "pour" || πλύνω '''plunō''' "I wash"|| प्लु '''plu''' "to swim"|| плавать '''plavat'''' "swim" || '''luí''' "rudder" || '''{{PIE|*pleu-}}''' "flow, float"
+|-
+| ուտել '''[[wikt:ուտել|utel]]''' "to eat" || '''eat''' ( ← [[Old English language|OE]] ''etan'')|| '''edō''' "I eat"|| هور '''hvor''' "eat"|| ἔδω '''edō''' "I eat"|| अद्मि '''admi''' "I eat"|| есть '''jest'''' || '''ithid''' "eat" || '''{{PIE|*ed-}}''' "to eat"
+|-
+| գիտեմ '''[[wikt:գիտեմ|gitem]]''' "I know" || '''wit''' ( ← [[Old English language|OE]] ''wit, witan "intelligence, to know"'')|| '''vidēre''' "to see" || ویده '''vidæ''' "knowledge" || εἰδέναι '''eidenai''' "to know"|| विद् '''vid''' "to know" || видеть '''videt'''' "see" || '''adfet''' "tells" || '''{{PIE|*weid-}}''' "to know, to see"
+|-
+| գետ '''[[wikt:գետ|get]]''' "river" || '''water''' ( ← [[Old English language|OE]] ''wæter'')|| (Umbrian '''utur''' "water")|| رود '''rud''' "river"|| ὕδωρ '''hudōr''' "water"|| उदन् '''udan''' "water"|| вода '''voda''' || '''uisce''' "water" || '''{{PIE|(*wodor, *wedor, *uder-) from *wed-}}''' "water"
+|-
+| գործ '''[[wikt:գործ|gorc]]'''<ref name='c'/> "work " || '''work''' ( ← [[Old English language|OE]] ''weorc'')|| '''urgēre''' "push, drive"|| کار '''kɒr''' "work"|| ἔργον '''ergon''' "work"|| वर्चस् '''varcas''' "activity"|| || || '''{{PIE|*werǵ-}}''' "to work"
+|-
+| մեծ '''[[wikt:մեծ|mec]]'''<ref name='c'/> "great " || '''much''' ( ← [[Old English language|OE]] ''mycel "great, big, many"'')|| '''magnus''' "great"|| مه، مهست '''meh, mæhest''' "great, large"|| μέγας '''megas''' "great, large"|| महति '''mahati''' "great"|| много '''mnogo''' "many" || '''maige''' "great, mighty" || '''{{PIE|*meǵ-}}''' "great"
+|-
+| անծանոթ '''[[wikt:անծանոթ|ancanotʿ]]'''<ref name='c'/> "stranger, unfamiliar" || '''unknown'''<ref name='not'/> ( ← [[Old English language|OE]] ''uncnawen'')|| '''ignōtus'''<ref name='not'>The prefix for "not" in English is "un-", "i(n)-" in Latin, "a(n)- ''or'' nē-" in Greek and "a(n)-" in Sanskrit, which correspond to the PIE *n-.</ref> "unknown"|| || ἄγνωστος '''agnōstos'''<ref name='not'/> "unknown"|| अज्ञात '''ajñāta'''<ref name='not'/> "unfamiliar" || незнакомый '''neznakomyj''' || || '''{{PIE|*n- + *ǵneH₃-}}''' "not" + "to know"
+|-
+| մեռած '''[[wikt:մեռած|meṙac]]''' "dead" || '''murder''' ( ← [[Old English language|OE]] ''morþor'')|| '''mors''' "death" || مرگ '''mærg''' "death" / مرده '''morde''' "dead" || βροτός '''brotos''' "mortal"|| मृत '''mṛta''' "dead" || мертвый '''mertvyj''' || '''marb''' "dead" || '''{{PIE|*mrtro-, from (*mor-, *mr-)}}''' "to die"
+|-
+| միջին '''[[wikt:միջին|miǰin]]''' "middle" || '''mid, middle''' ( ← [[Old English language|OE]] ''mid, middel'')|| '''medius''' "middle"|| میان '''miɒn''' "middle"|| μέσος '''mesos''' "middle"|| मध्य '''madhya''' "middle"|| между '''meždu''' "between" || '''mide''' "middle" || '''{{PIE|*medʱyo- from *me-}}''' "mid, middle"
+|-
+| այլ '''[[wikt:այլ|ayl]]''' "other" || '''else''' ( ← [[Old English language|OE]] ''elles "other, otherwise, different"'')|| '''alius''' "other"|| || ἄλλος '''allos''' "other, another"|| अन्य '''anya''' "other"|| || '''aile''' "other" || '''{{PIE|*al-}}''' "beyond, other"
+|-
+| նոր '''[[wikt:նոր|nor]]''' "new" || '''new''' ( ← [[Old English language|OE]] ''nīwe'')|| '''novus''' "new" || نو '''now''' "new" || νέος '''neos''' "new"|| नव '''nava''' "new" || новый '''novyj''' || '''núae''' "new" || '''{{PIE|*néwo-}}''' "new"
+|-
+| դուռ '''[[wikt:դուռ|duṙ]]''' "door" || '''door''' ( ← [[Old English language|OE]] ''dor, duru'')|| '''fores''' "door"|| در '''dær''' "door" || θύρα '''thurā''' "door"|| द्वार '''dvāra''' "door" || дверь '''dver''''|| '''dorus''' "door" || '''{{PIE|*dʱwer-}}''' "door, doorway, gate"
+|-
+| տուն '''[[wikt:տուն|tun]]''' "house" || '''timber''' ( ← [[Old English language|OE]] ''timber "trees used for building material, structure"'')|| '''domus''' "house"|| مان، خانه '''mɒn, xɒne''' "home"|| δόμος '''domos''' "house"|| दम '''dama''' "house" || дом '''dom''' || '''dún''' "fort" (Welsh '''dinas''' "city")||'''{{PIE|*domo-, *domu-}}''' "house"
+|-
+| բերրի '''[[wikt:բերրի|berri]], [[wikt:բերել|berel]]''' "fertile, to carry" || '''bear''' ( ← [[Old English language|OE]] ''beran "give birth, carry"'')|| '''ferre''' "to bear"|| بردن، برـ '''bordæn, bær-''' "to bear, carry"|| φέρειν '''pherein''' "to bear, carry"|| भरति '''bharati''' "he/she/it carries" || брать '''brat'''' "to take" || '''beirid''' "carry" || '''{{PIE|*bʱer-}}''' "to bear, to carry"
+|}
+
+==See also==
+* [[Language families and languages]]
+* [[List of Indo-European languages]]
+
+==Notes==
+{{notelist}}
+
+==Footnotes==
+{{reflist|33em}}
+
+==References==
+{{refbegin}}
+*{{citation
+|last=Dum-Tragut
+|first=Jasmine
+|year=2009
+|title=Armenian: Modern Eastern Armenian
+|publisher=John Benjamins Publishing Company
+|place=Amsterdam
+}}
+* {{citation
+|last=Fortson
+|first=Benjamin W. 
+|year=2004
+|title=Indo-European Language and Culture
+|place=Oxford
+|publisher=Blackwell Publishing
+}}
+* {{citation
+|last=Hübschmann
+|first=Heinrich
+|year=1875
+|title=Über die Stellung des armenischen im Kreise der indogermanischen Sprachen
+|url=http://www.utexas.edu/cola/depts/lrc/iedocctr/ie-docs/lehmann/reader/Chapter12.html
+|journal=Zeitschrift für Vergleichende Sprachforschung
+|volume=23
+|pages=5–42
+}}
+* 
+*{{citation
+|last=Price
+|first=G.
+|year=1998
+|title=Encyclopedia of European languages
+|publisher=[[Oxford University Press]]
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* Adjarian, Herchyah H. (1909) ''[[Classification des dialectes arméniens]], par H. Adjarian.'' Paris: Honoro Champion.
+* Clackson, James. 1994. ''The Linguistic Relationship Between Armenian and Greek.'' London: Publications of the Philological Society, No 30. (and Oxford: Blackwell Publishing)
+* Holst, Jan Henrik (2009) ''Armenische Studien.'' Wiesbaden: Harrassowitz.
+* [[J.P. Mallory|Mallory, J. P.]] (1989) ''In Search of the Indo-Europeans: Language, Archaeology and Myth.'' London: Thames & Hudson.
+* [[Bert Vaux|Vaux, Bert]]. 1998. ''The Phonology of Armenian.'' Oxford: Clarendon Press.
+* Vaux, Bert. 2002. "The Armenian dialect of Jerusalem." in Armenians in the Holy Land. "Louvain: Peters.
+{{refend}}
+
+==External links==
+{{sister project links|voy=Armenian (Eastern) phrasebook |Armenian language |wikt=Category:Armenian language}}
+{{InterWiki|code=hy}}
+{{WikisourceWiki|code=hy}}
+* [http://www.utexas.edu/cola/centers/lrc/eieol/armol-0-X.html Armenian Lessons] (free online through the [http://www.utexas.edu/cola/lrctr/ Linguistics Research Center] at UT Austin)
+* [http://en.wiktionary.org/wiki/Appendix:Armenian_Swadesh_list Armenian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh list appendix])
+* [http://www.avc-agbu.org/ AGBU – Armenian Virtual College – First online university to learn Armenian]
+* [http://armenianlanguage.org/ Armenian language resources]
+* [http://www.omniglot.com/writing/armenian.htm The Armenian alphabet]
+* [http://learn101.org/armenian.php Learn Armenian] (Organization teaching grammar vocabulary and phrases)
+* [http://www.iranicaonline.org/articles/armenia-iv ARMENIA AND IRAN iv. History, discussion, and the presentation of Iranian influences in Armenian Language over the millennia]
+
+'''Armenian Online Dictionaries'''
+* [http://en.wiktionary.org/wiki/Index:Armenian/ա en.wiktionary.org] Armenian–English dictionary with pronunciations, etymologies and inflection tables.
+* [http://www.hydictionary.com Armenian English Dictionary] Armenian–English dictionary.
+* [http://www.nayiri.com/ Nayiri.com] (Library of Armenian dictionaries):
+** [http://www.nayiri.com/search?l=en&dt=HY_HY Armenian dictionary] (about 18,000 terms; definitions in Armenian).
+** [http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=6 Armenian Explanatory Dictionary] (Հայերէն Բացատրական Բառարան) by [[Stepan Malkhasiants]] (about 130,000 entries).  One of the definitive Armenian dictionaries.
+** [http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=7 Armenian Etymological Dictionary] (Հայերէն Արմատական Բառարան) by [[Hrachia Acharian]] (5,062 word roots).  The definitive study of the history and origins of word roots in Armenian.  Also includes explanations of each word root as it is used today.
+** [http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=29 Explanatory Dictionary of Contemporary Armenian] (Ժամանակակից Հայոց Լեզվի Բացատրական Բառարան) published by the Armenian SSR Academy of Sciences between 1969 and 1980. In Eastern Armenian, reformed orthography (about 125,000 headwords).
+** [http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=8 Հայոց Լեզուի Նոր Բառարան], Western Armenian dictionary published in two volumes in Beirut in 1992 (about 56,000 headwords).
+** [http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=24 Modern Armenian Explanatory Dictionary] (Արդի Հայերենի Բացատրական Բառարան) by [[Edward Aghayan]] (about 135,600 headwords).  In Eastern Armenian and reformed Armenian orthography.
+** [http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=25 Armenian Language Thesaurus] (Հայոց Լեզվի Հոմանիշների Բառարան) by [[Ashot Sukiasyan]] (about 83,000 entries).  In Eastern Armenian and reformed Armenian orthography.
+** [http://www.nayiri.com/search?l=en&dt=HY_EN Armenian-English dictionary] (about 70,000 entries).
+** [http://www.nayiri.com/search?l=en&dt=EN_HY English-Armenian dictionary] (about 96,000 entries).
+** [http://www.nayiri.com/search?l=en&dt=HY_FR Armenian-French dictionary] (about 18,000 entries).
+** [http://www.nayiri.com/search?l=en&dt=FR_HY French-Armenian dictionary] (about 20,000 entries).
+* [http://www.masis.am/test/dic/ www.masis.am/test/dic/] Armenian–English Dictionary, more than 17,000 terms.
+* [http://dictionaries.arnet.am/ dictionaries.arnet.am] Collection of Armenian [[XDXF]] and [[Stardict]] dictionaries
+* [http://dictionary.hayastan.com/ dictionary.hayastan.com] Armenian–English Dictionary, more than 9,000 terms.
+* [http://cymraeg.ru/daoulagad.html Daoulagad] - mobile Armenian OCR dictionary
+
+{{Armenian language}}
+{{Languages of Armenia}}
+{{Armenia topics}}
+{{Languages of the Caucasus}}
+{{Languages of Iran}}
+{{Languages of Iraq}}
+{{Languages of Syria}}
+{{Authority control}}
+
+[[Category:Armenian language]]
+[[Category:Armenian languages]]
+[[Category:Subject–object–verb languages]]
+[[Category:Languages of Armenia]]
+[[Category:Languages of Russia]]
+[[Category:Languages of Turkey]]
+[[Category:Languages of Kazakhstan]]
+[[Category:Languages of Iran]]
+[[Category:Languages of Lebanon]]
+[[Category:Languages of Azerbaijan]]
+[[Category:Languages of Georgia (country)]]
+[[Category:Ancient languages]]
+[[Category:Languages of the Caucasus]]
+[[Category:Languages of Cyprus]]

@@ -1,0 +1,691 @@
+Hamilton, New Zealand
+
+{{Use dmy dates|date=October 2013}}
+{{Use New Zealand English|date=October 2013}}
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =Hamilton
+|official_name          = 
+|other_name             = 
+|native_name            =  <small>''Kirikiriroa'' (''[[Māori language|Māori]]'')</small><!-- if different from the English name -->
+|nickname               = Hamiltron, The Tron.<ref name="NZHerald10372245">{{cite web|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10372245|title='Boring' Hamilton: wish you were here?|last=Spratt|first=Amanda|date=12 March 2006|publisher=New Zealand Herald|accessdate=19 March 2009}}</ref> H-Town,<ref name="NZHerald10372245"/> Previously: Cowtown,<ref name="NZHerald10372245"/> The Fountain City<ref>{{cite web |url= http://www.TeAra.govt.nz/en/waikato-places/page-9 |title= Waikato places - Hamilton west of the river|last1=Swarbrick |first1=Nancy |last2= |
+first2= |date= |website=http://www.TeAra.govt.nz |publisher= newzeland.govt.nz|accessdate=}}</ref>
+|settlement_type        =[[New Zealand urban area|Metropolitan Area]] <!-- e.g. Town, Village, City, etc.-->
+|total_type             =Territorial <!-- to set a non-standard label for total area and population rows -->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = HamiltonMontage.jpg
+|imagesize              = 
+|image_caption          = Hamilton City / [[Lake Rotoroa, Waikato|Lake Rotoroa]] / [[Waikato River]]
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      = 
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = Hamilton Territorial Authority.png
+|mapsize1               = 180px
+|map_caption1           = Location of the Hamilton Territorial Authority
+|image_dot_map          = 
+|dot_mapsize            = 
+|dot_map_caption        = 
+|dot_x =  |dot_y = 
+|pushpin_map            = New Zealand
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location of Hamilton, New Zealand
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|coordinates_region     = NZ
+|subdivision_type       = Country
+|subdivision_name       = {{NZ}}
+|subdivision_type1      = [[Islands of New Zealand|Island]]
+|subdivision_name1      = [[North Island]]
+|subdivision_type2      = [[List of regions in New Zealand|Region]]
+|subdivision_name2      = [[Waikato Region]]
+|subdivision_type3      = [[Territorial authority]]
+|subdivision_name3      = Hamilton City
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = 
+|seat                   = 
+|parts_type             = 
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                              Default is list if up to 5 items, coll if more than 5-->
+|parts                  =<!-- parts text, or header for parts list -->
+|p1                     = 
+|p2                     = 
+|p3= 
+|p4= 
+|p5= 
+|p6= 
+|p7=<!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           =Mayor
+|leader_name            =[[Julie Hardaker]]
+|leader_title1          =Deputy Mayor
+|leader_name1            =Gordon Chesterman
+|established_title      = <!-- Settled by the UK -->
+|established_date       = 
+|established_title1      = 
+|established_date1       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           = 
+|area_total_km2           = 110.8<!--Region--> <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           = 
+|area_urban_km2         = 877.1
+|area_metro_km2         = 
+|area_water_percent       = 
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 40
+|elevation_ft           = 131
+|elevation_max_m            = 
+|elevation_max_ft           = 
+|elevation_min_m            = 
+|elevation_min_ft           = 
+<!-- Population   ----------------------->
+|population_as_of               = {{NZ population data|||y}}
+|population_footnotes           =<ref name="NZ_population_data"/>
+|population_note                = 
+|population_total               = {{formatnum:{{NZ population data|Hamilton City|y}}|R}}
+|population_density_km2         = auto
+|population_urban               = {{formatnum:{{NZ population data|Hamilton Zone|y}}|R}}
+|population_density_urban_km2         = auto
+|population_metro               = {{formatnum:{{NZ population data|Hamilton|y}}|R}}
+|population_density_metro_km2         = auto
+|population_blank1_title        = 
+|population_blank1              = 
+|population_blank2_title        =[[Demonym]]
+|population_blank2              =Hamiltonian
+<!-- General information  --------------->
+|timezone               = [[Time in New Zealand|NZST]]
+|utc_offset             = +12
+|timezone_DST           = NZDT
+|utc_offset_DST         = +13
+|coor_type              = 
+|latd=37 |latm=47 |lats= |latNS=S
+|longd=175|longm=17 |longs= |longEW=E
+|coordinates_display=y
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  Postcode(s)
+|postal_code            = 3200, 3204, 3206, 3210, 3214, 3216
+|area_code              = 07
+|website                = [http://www.hamilton.govt.nz www.hamilton.govt.nz] <br /> [http://www.waikatoregion.govt.nz/ www.waikatoregion.govt.nz]
+|footnotes              = 
+|blank_name             = Local [[iwi]]
+|blank_info             = [[Tainui]]
+}}
+
+'''Hamilton''' ({{lang-mi|Kirikiriroa}}) is the seat and most populous city of the [[Waikato|Waikato region]], in the [[North Island]] of [[New Zealand]]. 
+
+The city encompasses a land area of about {{convert|110|km2|sqmi|0|abbr=on}}<ref>{{cite web|url=http://www.localcouncils.govt.nz/lgip.nsf/wpg_url/Profiles-Councils-Hamilton-City-Council-main|title= Hamilton City Council|accessdate=9 December 2014|publisher=Internal Affairs}}</ref> on the banks of the [[Waikato River]], and is home to {{NZ population data|Hamilton City|y}} people,<ref name="NZ_population_data"/> making it New Zealand's [[List of cities in New Zealand|fourth most-populous city]]. Hamilton City is part of the wider [[Hamilton Urban Area]], which also encompasses the nearby towns of [[Ngaruawahia]], [[Te Awamutu]] and [[Cambridge, New Zealand|Cambridge]].
+
+Initially an agricultural service centre, Hamilton now has a growing and diverse economy and is the third fastest growing urban area in New Zealand (behind [[Pukekohe]] and [[Auckland]]).<ref>{{cite web|url=http://www.stats.govt.nz/browse_for_stats/population/estimates_and_projections/SubnationalPopulationEstimates_HOTP30Jun10/Commentary.aspx|title=Subnational Population Estimates|accessdate=23 January 2011}}</ref> Education and [[research and development]] play an important part in Hamilton's economy, as the city is home to approximately 40,000 tertiary students and 1,000 PhD-qualified scientists.<ref>{{cite web|url=http://www.opportunityhamilton.co.nz/page/pageid/2145844805/Hamilton_Facts|title=Hamilton's Economy|accessdate=23 January 2011}}</ref>
+
+==History==
+[[File:VictoriaBridge1910.jpg|thumb|left|Victoria Bridge in 1910.]]
+The area now covered by the city was originally the site of a handful of Māori villages (kāinga), including Pukete, Miropiko and Kirikiriroa ("long stretch of gravel'), from which the city takes its Māori name. Local Māori were the target of raids by [[Ngāpuhi]] during the [[Musket Wars]],<ref name=Crosby>Crosby, Ron, The Musket Wars – A History of Inter-Iwi Conflict 1806–45, Reed, Auckland, 1999.</ref> and several [[Pā (Māori)|pā]] sites from this period can still be found beside the Waikato River.In December 2011 several rua or food storage pits were found near the Waikato River bank, close to the Waikato museum. Magistrate Gorst, estimated that Kirikiriroa had a population of about 78 before the Waikato Kingitanga wars of 1863–64. The government estimated the Waikato area had a Maori population of 3,400 at the same time. By the time British settlers arrived after 1863, most of these villages had been abandoned as the inhabitants were away fighting with the Kingitanga rebels further west in the battlefields of the upper Waipa river. Missionaries arrived in the area in the 1830s.<ref name=Wises>Wises New Zealand Guide, 7th Edition, 1979. p. 129.</ref> At the end of the [[Invasion of Waikato|Waikato Campaign]] in the [[New Zealand wars]] the four regiments of the Waikato Militia were settled as a peace-keeping force across the region.<ref name=Wises/> The 1st Regiment was at [[Tauranga]], the 2nd at [[Pirongia]], the 3rd at Cambridge and the 4th at Kirikiriroa.<ref name=Wises/><ref name="Gibbons 1977">{{cite book|title=Astride the river:a history of Hamilton|first=P. J.|last=Gibbons|year=1977}}</ref> The settlement was founded on 24 August 1864 and named by Colonel William Moule after Captain John Fane Charles Hamilton,<ref>[http://hamilton.co.nz/page/pageid/2145832768 About Hamilton], Hamilton City Council</ref> the popular Scottish commander of ''[[HMS Esk (1854)|HMS Esk]]'', who was killed in the battle of [[Gate Pā]], [[Tauranga]]. Many of the soldier/settlers who intended to farm after the 1863 war, walked off their land in 1868 disgusted at the poor quality of the land. Much of the land was swampy or under water. In 1868 Hamilton's population, which was about 1,000 in 1864, dropped to 300 as farmers left.<ref>Waikato. Deborah Chandler. Whitcolls. Auckland. 2002. ISBN 1-877327-018</ref>
+
+The road from Auckland reached Hamilton in 1867 and the railway in December 1877. That same month, the towns of [[Hamilton Central|Hamilton West]] and [[Hamilton East, New Zealand|Hamilton East]] merged under a single [[borough]] council.<ref>{{cite book|title=Hamilton City – Its Establishment and Development|first=L.G. |last=Westwood|year=1962}}</ref> The first traffic bridge between Hamilton West and Hamilton East, known as the Union Bridge, opened in 1879. It was replaced by the Victoria Bridge in 1910.
+[[File:HoodStHamilton1962.jpg|thumb|left|Hood Street in 1962.]]
+The first railway bridge, the Claudelands Bridge, was opened in 1884. It was converted to a road traffic bridge in 1965.<ref>{{cite web|url=http://hamilton.co.nz/page/pageid/2145833603|title=Claudelands Bridge|work=Hamilton City Council|accessdate=31 August 2010}}</ref> Hamilton reached 1,000 people in 1900, and the town of [[Frankton, Waikato|Frankton]] merged with the Hamilton Borough in 1917.<ref name="Gibbons 1977"/> Between 1912 and 1936, Hamilton expanded with new land in [[Claudelands]] (1912), Maeroa (1925), and Richmond – modern day [[Waikato Hospital]] and northern Melville (1936).<ref>Street Name Index (Suburbs) – Hamilton Public Library, Hamilton</ref> Hamilton was proclaimed a city in 1945.<ref name=Wises/>
+
+The city is near the southernmost navigable reach (by the settlers steam boats) of the Waikato River, amidst New Zealand's richest and now fertile agricultural land that was once largely Raupo and Kahikatea swamp<ref>Early map of Hamilton, 1864, Waikato Museum.</ref> [[Beale Cottage]] is an 1872 listed building in Hamilton East.
+
+From 1985 ''MV Waipa Delta''<ref>{{cite web|url=http://www.stuff.co.nz/waikato-times/life-style/people/7626043/Thursday-Throwback-Waipa-Delta-in-1985 |title=Thursday Throwback – Waipa Delta in 1985 |publisher=Stuff.co.nz |date=6 September 2012}}</ref> provided excursions along the river through the town centre. In 2009 ''Waipa Delta''<ref>{{cite web|url=http://crew.org.nz/forum/viewtopic.php?f=6&t=14592 |title=• View topic – Waipa Delta could be yours |publisher=Crew.org.nz |date=}}</ref> was moved to provide trips on [[Waitemata Harbour]] in Auckland,<ref>{{cite web|author=Sake Bar Nippon Restaurant |url=http://www.menumania.co.nz/restaurants/waipa-delta-paddle-boat |title=Waipa Delta Paddle Boat – CLOSED, Auckland Central |publisher=MenuMania |date=}}</ref> but replaced by a smaller boat. That too ceased operation and the pontoon at Parana Park was removed in 2013.<ref>{{cite web|url=http://www.waikatoregion.govt.nz/Community/Whats-happening/News/Media-releases/Derelict-pontoon-removed-in-joint-operation/ |title=Waikato Regional Council's website has been updated |publisher=Waikatoregion.govt.nz |date=}}</ref> The ''Delta'' moved to Taupo in 2012.<ref>{{cite web|author=Meg Thompson |url=http://www.stuff.co.nz/waikato-times/news/7607192/Special-lady-boasts-class |title=Waipa Delta prepares to open in Taupo |publisher=Stuff.co.nz |date=4 September 2012}}</ref>
+
+On 10 March 2013 a statue was erected in honour of Captain John Charles Fane Hamilton, the man whom the city is named after.<ref>{{cite web|author=Jenna Lynch |url=http://www.stuff.co.nz/waikato-times/news/8406879/Captain-Hamiltons-statue-given-to-city |title=Captain Hamilton's statue given to city |publisher=Stuff.co.nz |date=11 March 2013}}</ref>
+
+{{prose|date=July 2014}}
+Hamilton's population growth has been rapid in recent decades –
+{{col-begin}}
+{{col-break}}
+1878 1,243
+
+1886 1,201
+
+1901 1,253
+
+1906 2,150<ref name="ReferenceA">Hamilton 1955 edition: Hobson Publications Ltd</ref>
+
+1911 4,655<ref name="teara.govt.nz">{{cite web|url=http://www.teara.govt.nz/en/1966/26565/print|title=Factors in Population Growth – Te Ara Encyclopedia of New Zealand|publisher=|accessdate=2 October 2014}}</ref>
+{{col-break}}
+1916 5,677
+
+1921 11,441
+
+1926 13,980
+
+1931 15,400<ref name="ReferenceA"/><ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1932/NZOYB_1932.html |title=THE NEW ZEALAND OFFICIAL YEAR-BOOK, 1932 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1936 16,150<ref name="teara.govt.nz"/>
+{{col-break}}
+1945 21,982<ref name="ReferenceA"/>
+
+1951 29,838<ref name="teara.govt.nz"/>
+
+1956 35,941<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1957/NZOYB_1957.html |title=THE NEW ZEALAND OFFICIAL YEAR-BOOK, 1957 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1961 42,212<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1962/NZOYB_1962.html |title=THE NEW ZEALAND OFFICIAL YEAR-BOOK, 1962 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1966 63,000<ref>{{cite web|url=http://www.teara.govt.nz/en/waikato-places/page-7|title=7. Hamilton – Waikato places – Te Ara Encyclopedia of New Zealand|publisher=|accessdate=2 October 2014}}</ref>
+{{col-break}}
+1971 74,784<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1972/NZOYB_1972.html |title=New Zealand Official Yearbook 1972 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1976 87,968<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1977/NZOYB_1977.html |title=THE NEW ZEALAND OFFICIAL YEAR-BOOK, 1977 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1981 91,109<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1982/NZOYB_1982.html |title=THE NEW ZEALAND OFFICIAL YEAR-BOOK 1982 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1986 94,511<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1987-88/NZOYB_1987-88.html |title=THE NEW ZEALAND OFFICIAL YEAR-BOOK, 1987-88 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+1991 101,448<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1992/NZOYB_1992.html |title=New Zealand Official 1992 Year Book |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+{{col-break}}
+1996 109,043<ref>{{cite web|url=http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1997/NZOYB_1997.html |title=New Zealand Official Yearbook 1997 |publisher=.stats.govt.nz |date= |accessdate=2015-01-28}}</ref>
+
+2001 116,604<ref name="stats.govt.nz">{{cite web|url=http://www.stats.govt.nz/browse_for_stats/population/census_counts/2013CensusUsuallyResidentPopulationCounts_HOTP2013Census/Commentary.aspx|title=2013 Census Usually Resident Population Counts - Statistics New Zealand|publisher=|accessdate=2 October 2014}}</ref>
+
+2006 129,249<ref>{{cite web|url=http://www.stats.govt.nz/Census/2006CensusHomePage/QuickStats/AboutAPlace/SnapShot.aspx?id=2000016|title=2006 census|publisher=|accessdate=2 October 2014}}</ref>
+
+2013 141,615<ref name="stats.govt.nz"/>
+{{col-end}}
+
+==Hamilton today==
+[[File:HoodStHamilton.jpg|thumb|left|Hood Street in Hamilton Central.]]
+
+Hamilton Central, on the Waikato River, is a bustling retail precinct. The entertainment area is quite vibrant due to the large student population. The 2008 [[Lonely Planet]] guide states that "the city's main street has sprouted a sophisticated and vibrant stretch of bars and eateries that on the weekend at least leave Auckland's [[Viaduct Harbour]] for dead in the boozy fun stakes."<ref>{{cite web|url=http://www.lonelyplanet.com/new-zealand/waikato-and-the-king-country/hamilton|title=Hamilton Travel Information and Travel Guide|work=Lonely Planet|accessdate=27 August 2010}}</ref> Many of the city's venues and attractions are located on the old [[Hamilton Town Belt|Town Belt]], including [[Hamilton Gardens]], [[Waikato Stadium]], [[Seddon Park]], [[Founders Theatre]] and the [[Lake Rotoroa, Waikato|Hamilton Lake Domain]].
+
+As of 2016, the city continues to grow rapidly. Development is focused on the northern end of the city although in 2012 the council made a decision to balance the city's growth by approving an urban development to the south. Traffic congestion is increasing due to population growth, though the council has undertaken many road development projects to try to keep up with the rapid growth.<ref>{{cite web|url=http://hamilton.co.nz/page/pageid/2145827444|title=Access Hamilton|work=Hamilton City Council|accessdate=27 August 2010}}</ref> [[State Highway 1 (New Zealand)|State Highway 1]] runs through the western and southern suburbs and has a major junction with [[State Highway 3 (New Zealand)|State Highway 3]] south of the city centre, which contributes to congestion. The Hamilton City Council is building a 2/4-lane arterial road, Wairere Drive, through the northern and eastern suburbs to form a 25&nbsp;km suburban [[ring road]] with State Highway 1, which is due for completion in early 2015.,<ref>{{cite news |url= http://www.stuff.co.nz/waikato-times/news/8835979/Ring-Road-on-track-for-2014-finish |title= Ring Road on track for 2014 finish |publisher= Waikato Times (via Stuff.co.nz) |first= Harry |last= Pearl |date= 25 June 2013 |accessdate= 30 June 2013}}</ref> while the New Zealand Transport Agency plans to complete the Hamilton section of the [[Waikato Expressway]] by 2019, easing congestion taking State Highway 1 out of the city and bypassing it to the east.<ref>{{cite web|url=http://www.nzta.govt.nz/projects/hamilton/|title=Hamilton section|work=New Zealand Transport Authority|accessdate=1 January 2012}}</ref>
+
+The rapid growth of Hamilton has brought with it the side effects of [[urban sprawl]] especially to the north east of the city in the [[Rototuna]] area. Further development is planned in the Rototuna and [[Peacocke, Waikato|Peacocke]] suburbs.<ref>{{cite web|url=http://hamilton.co.nz/page/pageid/2145833439|title=City Expansion|work=Hamilton City Council|accessdate=27 August 2010}}</ref> There has been significant development of [[lifestyle block]]s adjacent to the Hamilton Urban Area, in particular [[Tamahere]], and [[Matangi, New Zealand|Matangi]].
+
+=== List of suburbs ===
+[[File:CassabellaLaneHamilton.jpg|thumb|Casabella Lane, [[Hamilton Central, New Zealand|Hamilton CBD]]]]
+; Western suburbs
+[[Beerescourt]]; Bader; [[Crawshaw, New Zealand|Crawshaw]]; [[Deanwell]]; [[Dinsdale, Waikato|Dinsdale]]; [[Fitzroy, Waikato|Fitzroy]]; [[Forest Lake, New Zealand|Forest Lake]]; Frankton; [[Glenview, Waikato|Glenview]]; [[Grandview Heights, Waikato|Grandview Heights]]; Hamilton Central; [[Hamilton North, New Zealand|Hamilton North]]; [[Hamilton West, Waikato|Hamilton West]]; [[Livingstone, Waikato|Livingstone]]; [[Maeroa]]; [[Melville, Waikato|Melville]]; [[Nawton, Waikato|Nawton]]; Peacocke; [[Pukete]]; [[Rotokauri]]; [[St Andrews, Waikato|St Andrews]]; [[Stonebridge, Waikato|Stonebridge]]; [[Te Rapa]]; [[Temple View]]; [[Thornton, Waikato|Thornton]]; [[Western Heights, Waikato|Western Heights]]; [[Whitiora]].
+
+; Eastern suburbs
+[[Ashmore, Waikato|Ashmore]]; [[Callum Brae]]; [[Chartwell, Waikato|Chartwell]]; [[Chedworth Park]]; Claudelands; [[Enderley]]; [[Fairfield, Hamilton|Fairfield]]; [[Fairview Downs]]; [[Flagstaff, Waikato|Flagstaff]]; Hamilton East; [[Harrowfield]]; [[Hillcrest, Waikato|Hillcrest]]; [[Huntington, New Zealand|Huntington]]; [[Magellan Rise]]; [[Queenwood]]; [[Ruakura]]; [[Riverlea, Waikato|Riverlea]]; Rototuna; [[Silverdale, Waikato|Silverdale]]; [[Somerset Heights]]; [[St James Park, Waikato|St James Park]]; [[St Petersburg, Waikato|St Petersburg]].
+
+; Towns/Suburbs in the Hamilton Urban Area
+Cambridge, [[Te Awamutu]], Ngaruawahia, [[Taupiri]], Horotiu, Horsham Downs, Huntly, Gordonton, Ohaupo, Ngahinapouri, Te Kowhai, Whatawhata, [[Tamahere]], [[Matangi, New Zealand|Matangi]], Tauwhare, Rukuhia, Kihikihi.
+
+==Geography==
+{{unreferenced section|date=August 2009}}
+[[File:WaikatoRiverHamilton.jpg|thumb|Waikato River in Hamilton Central.]]
+
+The landscape of Hamilton was formed by the last eruption of the Lake Taupo volcano complex 1800 years ago which sent waves of volcanic debris northwards and changed the path of the Waikato River to its present path. With the exceptions of the many low hills such as those around the [[University of Waikato]], Hamilton Lake, Beerescourt, Sylvester Road, Pukete and to the west of the city, and an extensive network of gullies, the terrain of the city is relatively flat. In some areas such as Te Rapa, one old path of an ancient river can be traced. The relatively soft and unconsolidated soil material is still being actively eroded by rain and runoff.
+[[File:HamiltonCBDfromRototuna.JPG|thumb|left|[[Hamilton Central]], from [[Somerset Heights]].]]
+
+In its natural state, Hamilton and environs was very swampy in winter with many of the 30 small lakes overflowing into surrounding peat swamps. Hamilton is surrounded by 7 large peat bogs such as Komakorau to the North and Rukuhia and Moanatuatua to the South, as well as many smaller ones. The total area of peat bog is about 655&nbsp;km<sup>2</sup>.<ref>The Wandering River.J. McCaw. Graphic Press. Levin.p44-45 2011.ISBN 978-1-877480-12-6</ref> Early photos of Hamilton East show carts buried up to their axles in thick mud. The site had about small lakes, most of which have now been drained. Up until the 1880s it was possible to row and drag a dinghy from the city to many outlying farms to the North East. This swampy, damp environment was ideal breeding ground for the TB bacillus, which was a major health hazard in the pioneering days. The first Hamilton hospital was constructed on a hill to avoid this problem. One of the reasons why population growth was so slow in Hamilton until the 1920s was the great difficulty in bridging the many arms of the deep swampy gullies that cross the city. Hamilton has 6 major dendritic gully complexes with the 15&nbsp;km long, 12 branch, Kirikiriroa system being in the north of the city and the southern Mystery creek-Kaipaki gully complex being the largest.<ref>The Wandering River. p45.p50</ref>
+
+In the 1930s, Garden Place Hill, one of the many small hills sometimes referred to as the Hamilton Hills, was removed by unemployed workers working with picks and shovels and model T Ford trucks. The Western remains of the hill are retained by a large concrete wall. The original hill ran from the present [[Waikato Institute of Technology|Wintec]] site eastwards to the old post office (now casino). The earth was taken 4&nbsp;km north to partly fill the Maeroa gully adjacent to the Central Baptist Church on Ulster Streat, the main road heading north.
+
+Lake Rotoroa (Hamilton Lake) began forming about 20,000 years ago. Originally it was part of an ancient river system that was cut off by deposition material and became two small lakes divided by a narrow peninsula. With higher rainfall and drainage from the extensive peat land to the west, the water level rose so the narrow peninsula was drowned so forming one larger lake. To the north the lake is 8m deep and in the southern (hospital) end 6m deep. The old dividing peninsula, the start of which is still visible above water on the eastern side, is only 2m below the surface.
+
+Hamilton is [[antipodes#Cities|one of the few cities]] in the world that has a near-exact [[antipodes|antipodal]] city – [[Córdoba, Andalusia|Córdoba]], Spain.
+
+==Climate==
+Hamilton has a climate that is [[Oceanic climate|oceanic]] (Köppen: Cfb ), and is highly moderated, featuring warm summers (some of the hottest in New Zealand), cool winters and about {{convert|1184|mm|in|1|abbr=on}} of rainfall annually. Daily maximum temperatures range from about 22 to 26°C (72–79°F) in January and February to 10 to 15°C (50–59°F) in July and August. The highest temperature recorded in Hamilton was 34.7°C (95°F), and the coldest temperature of −9.9°C(14°F) – the lowest of the major New Zealand cities.<ref>http://www.niwa.co.nz/sites/default/files/import/attachments/summary.xls</ref>
+
+Summer occasionally sees temperatures of more than {{convert|28|C|F|0}}, while on clear winter mornings temperatures may drop to as low as {{convert|-4|C|F|0}}. Ground frosts are common and snow is possible but rare. The only recorded snowfall in modern times was light snow flakes in mid August 2011 during a prolonged cold period that saw snow fall as far north as [[Dargaville]]. Typically summers are warm and dry and winters cool and wet. On average, Hamilton sees around 2,000 hours of sunshine each year (see table below).
+
+<center>
+{{Weather box
+|location = Hamilton, New Zealand (1981–2010)
+|metric first = Y
+|single line = Y
+|Jan high C = 23.9
+|Feb high C = 24.3
+|Mar high C = 22.7
+|Apr high C = 19.9
+|May high C = 16.9
+|Jun high C = 14.3
+|Jul high C = 13.8
+|Aug high C = 14.7
+|Sep high C = 16.5
+|Oct high C = 17.9
+|Nov high C = 19.8
+|Dec high C = 21.9
+|year high C = 18.9
+|Jan mean C = 18.4
+|Feb mean C = 18.8
+|Mar mean C = 17.1
+|Apr mean C = 14.5
+|May mean C = 11.9
+|Jun mean C = 9.5
+|Jul mean C = 8.9
+|Aug mean C = 9.8
+|Sep mean C = 11.6
+|Oct mean C = 13.2
+|Nov mean C = 14.9
+|Dec mean C = 16.9
+|year mean C = 13.8
+|Jan low C = 12.9
+|Feb low C = 13.2
+|Mar low C = 11.4
+|Apr low C = 9.1
+|May low C = 6.9
+|Jun low C = 4.7
+|Jul low C = 4.0
+|Aug low C = 4.9
+|Sep low C = 6.7
+|Oct low C = 8.4
+|Nov low C = 9.9
+|Dec low C = 11.9
+|year low C = 8.7
+|precipitation colour = green
+|Jan precipitation mm = 76.3
+|Feb precipitation mm = 68.7
+|Mar precipitation mm = 79.4
+|Apr precipitation mm = 80.3
+|May precipitation mm = 99.7
+|Jun precipitation mm = 113.2
+|Jul precipitation mm = 118.2
+|Aug precipitation mm = 103.4
+|Sep precipitation mm = 91.5
+|Oct precipitation mm = 91.9
+|Nov precipitation mm = 85.0
+|Dec precipitation mm = 100.7
+|year precipitation mm = 1108.2
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 7.8
+|Feb precipitation days = 6.2
+|Mar precipitation days = 7.7
+|Apr precipitation days = 8.4
+|May precipitation days = 11.0
+|Jun precipitation days = 12.6
+|Jul precipitation days = 12.8
+|Aug precipitation days = 13.3
+|Sep precipitation days = 11.7
+|Oct precipitation days = 11.7
+|Nov precipitation days = 10.7
+|Dec precipitation days = 10.5
+|year precipitation days = 124.4
+|Jan humidity = 80.5
+|Feb humidity = 84.3
+|Mar humidity = 84.7
+|Apr humidity = 86.4
+|May humidity = 89.9
+|Jun humidity = 91.4
+|Jul humidity = 90.8
+|Aug humidity = 88.2
+|Sep humidity = 83.2
+|Oct humidity = 81.9
+|Nov humidity = 79.1
+|Dec humidity = 79.9
+|year humidity = 85.0
+|Jan sun = 229.8
+|Feb sun = 192.9
+|Mar sun = 193.3
+|Apr sun = 165.1
+|May sun = 138.3
+|Jun sun = 112.8
+|Jul sun = 126.4
+|Aug sun = 144.1
+|Sep sun = 147.5
+|Oct sun = 174.8
+|Nov sun = 187.1
+|Dec sun = 207.6
+|year sun = 2019.6
+|source 1 = NIWA<ref name="climate">{{cite web
+| url = http://www.niwa.co.nz/education-and-training/schools/resources/climate
+| title = Climate Data and Activities
+| publisher = NIWA Science
+| accessdate = 15 October 2013}}</ref>
+|date=August 2010
+}}
+</center>
+
+==Demographics==
+{| class="infobox" style="float:right;"
+|colspan="2"|'''Largest groups of overseas-born residents'''<ref name="NZdotstat">{{cite web |url= http://nzdotstat.stats.govt.nz/wbos/Index.aspx?DataSetCode=TABLECODE8041 |title= 
+Birthplace (detailed), for the census usually resident population count, 2001, 2006, and 2013 (RC, TA) – NZ.Stat |publisher= Statistics New Zealand |accessdate= 23 January 2016}}</ref>
+|-\
+!Nationality || Population (2013)
+|-
+| {{flag|United Kingdom}} || 6,009
+|-
+| {{flag|China}} || 3,504
+|-
+| {{flag|India}} || 3,060
+|-
+| {{flag|Fiji}} || 2,271
+|-
+| {{flag|Australia}} || 2,223
+|-
+| {{flag|Philippines}} || 2,040
+|-
+| {{flag|South Korea}} || 1,655
+|-
+| {{flag|Netherlands}} || 645
+|-
+| {{flag|Samoa}} || 618
+|-
+| {{flag|Malaysia}} || 603
+|-
+|}
+Hamilton is growing annually, with populations of {{NZ population data|Hamilton|y}} for the urban area and {{NZ population data|Hamilton City|y|y|y|for the territorial authority (|s).}} The urban are and territorial authority are home to {{Decimals|{{formatnum:{{NZ population data|Hamilton|y}}|R}}/{{formatnum:{{NZ population data|New Zealand|y}}|R}}*100|1}} percent and {{Decimals|{{formatnum:{{NZ population data|Hamilton City|y}}|R}}/{{formatnum:{{NZ population data|New Zealand|y}}|R}}*100|1}} percent of New Zealand's population respectively.
+
+According to official census figures, Hamilton's population is 69.5% Pākehā/European, 21.3% [[Māori people|Māori]], 13.8% Asian, 5.1% Pacific Peoples and 2.0% Middle Eastern, Latin American and African.<ref>{{NZ Quickstats2013|13702|Hamilton City}}</ref> More than 80 ethnic groups are represented within Hamilton's population. Around 24.0 percent of Hamilton's population was born overseas, compared to 25.2 percent nationally.<ref name="quickstats_culture">{{cite web |url= http://www.stats.govt.nz/~/media/Statistics/Census/2013%20Census/profile-and-summary-reports/quickstats-culture-identity/tables.xls |title= 2013 Census QuickStats about culture and identity – data tables |publisher=[[Statistics New Zealand]] |date= 15 April 2014 |accessdate= 25 January 2016}} Note some percentages (e.g. ethnicity, language) may add to more than 100 percent as people could give multiple responses.</ref> The main area of population growth is in the [[Flagstaff, Waikato|Flagstaff]]-Rototuna area. With its large tertiary student population at [[Wintec]] and [[Waikato University]], approximately 40,000 tertiary students, Hamilton has a significant transient population.<ref>{{cite web|url=http://www.opportunityhamilton.co.nz/page/pageid/2145844805/Hamilton_Facts|title=Hamilton Facts|accessdate=21 September 2010}}</ref> Hamilton is the second fastest growing population centre after Auckland.
+
+Around 47.8 percent of Hamiltonians affiliate with Christianity and 8.3 percent affiliate with non-Christian religions, while 41.6 percent are [[irreligion|irreligious]] and 4.2 percent objected to answering. [[Catholic Church|Roman Catholicism]] is the largest Christian denomination with 12.0 percent affiliating, followed by [[Anglicanism]] (9.9 percent) and [[Presbyterianism]] (6.3 percent). [[Hinduism]] (2.9 percent), [[Islam]] (1.9 percent) and [[Buddhism]] (1.6 percent) are the largest non-Christian religions.<ref name="quickstats_culture" />
+
+==Government and politics==
+
+===Local government===
+Hamilton is located in the administrative areas of the '''Hamilton City Council'''. The council consists of thirteen councillors and a [[Mayor of Hamilton, New Zealand|mayor]] (currently [[Julie Hardaker]]), elected in 2010 and re-elected in 2013. The council has two wards (constituencies), east and west, with the boundary between the two being the Waikato River. Council elections are held every three years and most recently in October 2013.
+
+The current council members are:-
+{| class="wikitable"
+|-
+| Mayor
+| Julie Hardaker
+|-
+| Deputy Mayor
+| Gordon Chesterman
+|-
+| Councillors – East Ward
+| Gordon Chesterman <br /> Margaret Forsyth <br /> Karina Green <br /> Garry Mallett <br /> Rob Pascoe <br /> Philip Yeung
+|-
+| Councillors – West Ward
+| [[Martin Gallagher]] <br /> Andrew King <br /> Dave Macpherson <br /> Angela O'Leary <br /> Leo Tooman <br /> Ewan Wilson
+|}
+
+Hamilton City is itself part of the [[Waikato Region]], controlled administratively by the [[Waikato Regional Council]].
+
+===Central government===
+Hamilton has three electorate MPs in the [[New Zealand Parliament]]. Both [[Hamilton East (New Zealand electorate)|Hamilton East]] and [[Hamilton West (New Zealand electorate)|Hamilton West]] electorates are considered [[bellwether|bellwether seats]].
+
+The [[New Zealand electorates|electorates]] are currently represented by:
+
+''General electorates:''
+* Hamilton East: [[David Bennett (politician)|David Bennett]] ([[New Zealand National Party|National]]).<ref>{{cite web|url=http://2008.electionresults.govt.nz/electionresults_2008/electorate-13.html|title=Official Count Results – Hamilton East|work=Elections New Zealand|date=2 November 2008|accessdate=11 April 2010}}</ref>
+* Hamilton West: [[Tim Macindoe]] (National).<ref>{{cite web|url=http://2008.electionresults.govt.nz/electionresults_2008/electorate-14.html|title=Official Count Results – Hamilton West|work=Elections New Zealand|date=2 November 2008|accessdate=11 April 2010}}</ref>
+
+''[[Māori seats|Māori electorate]]:''
+* [[Hauraki-Waikato]]: [[Nanaia Mahuta]] ([[New Zealand Labour Party|Labour]]).<ref>{{cite web|url=http://2008.electionresults.govt.nz/electionresults_2008/electorate-64.html|title=Official Count Results – Hauraki-Waikato|work=Elections New Zealand|date=2 November 2008|accessdate=11 April 2010}}</ref>
+
+''Hamilton based List MPs:''
+* Hamilton West: [[Sue Moroney]] ([[New Zealand Labour Party|Labour]]).<ref>{{cite web|url=http://www.parliament.nz/en-NZ/MPP/MPs/MPs/e/e/e/50MP126961-Moroney-Sue.htm|title=Sue Moroney|work=New Zealand Parliament|accessdate=1 December 2010}}</ref>
+
+==Economy==
+Education and research are important to the city, through the [[University of Waikato]] and the [[Waikato Institute of Technology]] (Wintec). Research at the Ruakura research centres have been responsible for much of New Zealand's innovation in agriculture. Hamilton's main revenue source is the dairy industry, due to its location in the centre of New Zealand's largest dairying area – the [[Waikato]] region.
+
+Hamilton annually hosts the National Agricultural [[Fieldays]] at Mystery Creek, the southern hemisphere's biggest agricultural trade exhibition. Mystery Creek is the country's largest event centre and hosts other events of national importance, such as [[Parachute music festival|Parachute Christian Music Festival]], the National Car Show and the National Boat Show.
+
+Manufacturing and retail are also important to the local economy, as is the provision of health services through the Waikato Hospital. The city is home to New Zealand's largest aircraft manufacturer, [[Pacific Aerospace]], which manufactured its 1,000th aircraft in August 2009, and [[Micro Aviation NZ]] which manufactures and exports high-quality [[microlight]] aircraft. It also has its largest concentration of trailer-boat manufacturers such as Buccaneer. Hamilton is also the home of Gallagher Group Ltd, a manufacturer and exporter of electric fencing and security systems. Employing 600 people Gallagher has been doing business in Hamilton since 1938.
+
+Recent years have seen the firm establishment of the New Zealand base of the British flight training organisation [http://www.ctcwings.com/nz CTC Aviation]. CTC Aviation trains over 350 airline pilots a year at its crew training centre at [[Hamilton International Airport|Hamilton Airport]].
+
+Tainui Group Holdings Ltd, the commercial arm of the [[Waikato (iwi)|Waikato]] tribe, is one of Hamilton's largest property developers. The Waikato tribe is one of the city's largest landowners. Tainui owns land at [[The Base (mall)|The Base]], Centre Place, The Warehouse Central, University of Waikato, Wintec, the Courthouse, Fairfield College, and the Ruakura [[AgResearch]] centre.<ref>Top Investments – http://www.tgh.co.nz/default.asp?sid=4&cid=26&aid=</ref>  The Waikato tribe is a major shareholder of the [[Novotel]] Tainui and the [[Hotel Ibis]].
+
+It has developed the large retail centre The Base in the old Te Rapa airforce base site which was returned to Tainui, following [[New Zealand land confiscations|confiscation]] in the 1860s, as part of a 1995 Treaty of Waitangi settlement. In mid-2010, The Base was further expanded with Te Awa Mall complex stage 1.{{Citation needed|date=September 2011}} Many large retailers such as Farmers and other nationwide speciality chains have located at Te Awa. In 2011 a further stage was opened, with cinemas, restaurants, shops and an underground carpark.
+
+The city's three major covered shopping malls are ''Centre Place'' (formerly ''Downtown Plaza'')<ref>{{cite news |url=http://www.stuff.co.nz/waikato-times/news/5949698/Hamiltons-Centre-Place-woos-new-tenant |title=Hamilton's Centre Place woos new tenant |author=Fox, Andrea |date=11 November 2011 |work=Fairfax NZ News |accessdate=19 June 2013}}</ref> in the CBD, ''[[Westfield Group|Westfield]] Chartwell'' and most recently ''Te Awa'' at ''The Base''. After [[Farmers Trading Company|Farmers]] Hamilton moves from its existing site on corner of Alexandra and Collingwood streets into the redeveloped Centre Place in late 2013,<ref>{{cite news |url=http://www.stuff.co.nz/waikato-times/news/7731492/Our-40m-makeover |title=Our $40m makeover |author=Cuming, Angela |date=29 September 2012 |work=Fairfax NZ News |accessdate=19 June 2013}}</ref> each major mall will have the [[department store]] as an [[anchor tenant]].
+
+The western suburb of Frankton is home to a smaller shopping centre and long-standing local furniture and home department store ''Forlongs''.<ref>{{cite web|url=http://www.forlongs.co.nz/index.php?option=com_content&view=article&id=20&Itemid=28|title=Forlongs - Where value means more|work=Website|accessdate=2 October 2014}}</ref> There are many other small suburban shopping centres or plazas, often centred on a [[New World (supermarket)|New World]] or [[Countdown (supermarket)|Countdown]] supermarket, such as in Rototuna, Hillcrest and [[Glenview, New Zealand|Glenview]].
+
+==Culture==
+[[File:GardenPlaceHamilton.jpg|thumb|Garden Place]]
+In 2004, Hamilton City Council honoured former resident [[Richard O'Brien]] with a life-size bronze statue of him as character Riff Raff, of [[The Rocky Horror Picture Show]], in his space suit. The statue was designed by [[Weta Workshop]], props makers for ''[[The Lord of the Rings (film series)|The Lord of the Rings]]'' films. It stands on the former site of the Embassy Cinema, where O'Brien watched science fiction-double features.<ref>{{cite web|url=http://www.riffraffstatue.org/page/riffraff_5.php|title=The Embassy - Home|publisher=|accessdate=2 October 2014}}</ref>
+
+Several Maori Pa have been part restored at Pukete, Hikuwai and Miropiko along the banks of the Waikato River.
+
+The city is host to a large number of small galleries and the [[Waikato Museum]]. The latter includes Te Winika, one of the best-preserved waka (Māori war canoe) from the pre-colonisation era.
+
+===Music===
+Hamilton is host to several large scale music festivals including the [[Soundscape (New Zealand festival)|Soundscape music festival]], which is one of New Zealand's largest street parties,<ref>{{cite web|title=Street party sells out|url=http://www.stuff.co.nz/waikato-times/news/4739384/Street-party-sells-out/}}</ref><ref>{{cite web|title=Soundscape returns to Hamilton|url=http://www.stuff.co.nz/waikato-times/news/5135826/Soundscape-returns-to-Hamilton/}}</ref><ref>{{cite web|title=Soundscape set to be central city party zone|url=http://www.stuff.co.nz/waikato-times/news/5210699/Soundscape-set-to-be-central-city-party-zone/}}</ref> and the Parachute Christian Music Festival. The city also hosts the [[Opus Chamber Orchestra]] which draws musicians from around the Waikato Region<ref>{{cite web|title=Opus Orchestra: Hamilton New Zealand|url=http://www.opusorchestra.org.nz/}}</ref>  and is the home of the [[New Zealand Chamber Soloists]].<ref>{{cite web|title=University of Waikato:FASS: NZ Chamber Soloists|url=http://www.waikato.ac.nz/wfass/subjects/music/nzcs/}}</ref>  An ongoing classical concert series featuring world class musicians<ref>{{cite web|title=Gallager Concert Chamber Programme 2011|url=http://www.waikato.ac.nz/wfass/subjects/music/news/brochure/web-broch-a2011.pdf}}</ref>  is held throughout the year at the Gallagher Concert Chamber, organised by the [[University of Waikato]], Conservatorium of Music.
+
+===Events===
+[[File:Balloons Hamilton.jpg|thumb|upright|Balloons over Waikato.]]
+* January: Parachute music festival (discontinued after 2014), [[Festival One]] (from 2015), Summer in Garden Place
+* February: Hamilton Gardens Arts Festival, [[Couch Soup|Couch Soup Festival of One-Act Plays]]
+* March: [http://waikatofoodandwine.co.nz Waikato Food & Wine Festival]
+* March: Soundscape
+* March: Indigo Festival
+* April: Waikato Show
+* April: [[Armageddon Expo]] Sci Fi & Comics Convention*
+* April: [[Balloons over Waikato]] [[hot air ballooning]] festival
+* April: 5 Bridges River Swim
+* April: Waikato Show
+* May: [[Hamilton Circle Jerk]] music event
+* June: [[National Agricultural Fieldays]]
+* June: Hamilton Fuel Festival
+* July: Soundscape
+[[File:SoundscapeHamilton.jpg|thumb|upright|Tronik DJs play at the sellout Soundscape street party]]
+* August: [[World Rally Championship]]
+* August: International Festival of Media, Arts and Design
+* August: [[New Zealand International Film Festivals|International Film Festival]]
+* September: [[The Great Race (rowing)|The Great Race]]
+* September: Hamilton Fringe Festival
+* September: [[Hamilton Underground Film Festival]]<ref>{{cite web|url=http://www.circuit47.com/huff/ |title=Hamilton Underground Low-Budget and No-Budget Film Festival |publisher=Circuit47.com |date=13 October 2013}}</ref>
+* November: Bridge to Bridge waterskiing event
+
+===Sport===
+The local [[rugby union]] teams are [[Waikato Rugby Union|Waikato]] ([[ITM Cup]]) and the [[Waikato Chiefs|Chiefs]] ([[Super Rugby]]). The local colours are red, yellow and black, and the provincial mascot is Mooloo, an anthropomorphic cow. Both teams play at [[Waikato Stadium]]. Hamilton is also home to a football club, [[WaiBOP United]], that competes in the [[ASB Premiership]] during summer. The winter football clubs [[Hamilton Wanderers]] and [[Melville United]] both compete in the [[Northern League (New Zealand)|Lotto Sport Italia NRFL Premier League]] are also based in Hamilton.[[File:Hamilton 03.jpg|thumb|Waikato Stadium, Lions vs. NZ Māori, 2005.]]
+Seddon Park (formerly Westpac Park) is Hamilton's main [[cricket]] venue and hosts [[Test cricket|Test matches]], [[One Day International]]s and [[T20 International]]s. It is the home ground of the [[Northern Districts Knights|Northern Districts Cricket Association]].
+
+Hamilton is fast becoming a [[motorsport]] venue as well. A round of the [[World Rally Championship|WRC]] was held in 2006 and the annual [[V8 Supercars]] race on a [[Hamilton Street Circuit|street circuit]] started in 2008 and ended in 2012.
+
+[[Rugby league]] is also played in Hamilton with the two local teams; Hamilton City Tigers and Hamilton Hornets/College Old Boys play in the Premier Division of the [[Waikato Rugby League]].
+
+Sailing takes place on Hamilton lake for 9 months of the year. The Hamilton Yacht Club has its clubrooms, slipway and ramp on the western side of Lake Rotoroa. Motor boats are not allowed on the lake, with an exception of the Yacht Club rescue boats.
+
+Each year in April, Hamilton supports the '5 Bridges' swimming challenge. The course starts in Hamilton Gardens, and continues for 6 kilometres finishing at Ann St Beach. The swim is assisted by the current, with the full distance typically covered in under an hour. The event celebrated in 71st year on 11 April 2010.<ref>{{cite web|url=http://www.whatsonhamilton.co.nz/eventlisting.aspx?id=1654 |title=5 Bridges River Swim (70th anniversary) |publisher=Whatsonhamilton.co.nz |date=29 March 2009}}</ref>
+
+==Media==
+The major daily newspaper is the ''[[Waikato Times]]''. Weekly community newspapers include the ''Hamilton Press'', ''Hamilton News'' and student magazine ''[[Nexus (student magazine)|Nexus]]''.
+
+Local radio stations include [[The Breeze (New Zealand)|The Breeze]], Free FM, [[More FM]], [[Contact FM]]. [[The Edge (radio station)|The Edge]] and [[The Rock (New Zealand)|The Rock]], two of New Zealand's most popular [[List of radio stations in New Zealand|radio stations]], were originally based in Hamilton.
+
+==City facilities and attractions==
+Hamilton Gardens is the region's most popular tourist attraction and hosts the Hamilton Gardens Summer Festival each year. [[The Base (mall)|The Base]] is New Zealand's second largest shopping centre, with over 7.5 million visitors per year to the 190 stores. Te Awa, an enclosed speciality retail mall at The Base, was awarded a silver medal by the International Council of Shopping Centres for the second-best expansion in the Asia Pacific region.<ref>{{cite web |url= http://www.stuff.co.nz/waikato-times/business/7693004/Design-medal-for-Te-Awa |title=Design medal for Te Awa |work=The Waikato Times |date=18 September 2012 |accessdate=7 November 2012}}</ref>
+
+Other local attractions include [[Hamilton Zoo]], the [[Waikato Museum]], the [[Hamilton Astronomical Society Observatory]], the Arts Post art gallery, and the [[Skycity Entertainment Group|SkyCity]] casino. Just 20 minutes' drive away is Ngaruawahia, the location of [[Turangawaewae]] [[Marae]] and the home of Māori King [[Tuheitia Paki]].
+
+Hamilton has [[Hamilton City Libraries (New Zealand)|six public libraries]] located throughout the city with the Central Library housing the main reference and heritage collection. Hamilton City Theaters provides professional venue and event management at two of the three theatrical venues in the city: Founders Theater, and Clarence St Theater. The Meteor theatre was bought by the One Victoria Trust in 2013 after the [[Hamilton City Council]] proposed the sale of the theatre and is now privately operated.
+
+[[St. Peter's Cathedral, Hamilton|St Peter's Cathedral]], built in 1916, is the [[Anglicanism|Anglican]] cathedral in Hamilton, on Cathedral Hill at the southern end of Victoria Street. There is also St Mary's [[Catholic Church|Roman Catholic]] cathedral on the opposite side of the river.
+
+The [[Hamilton New Zealand Temple]] of [[The Church of Jesus Christ of Latter-day Saints]] is located in [[Temple View]], Hamilton. It was opened along with the [[Church College of New Zealand]], a large high school owned by the church, in the late 1950s. Both the college and the temple were built by labour missionaries. The school was closed in December 2009. Every year, the temple hosts a large Christmas lighting show which attracts large crowds from all over the country.
+
+The [[Waikato River Explorer]] runs scenic tours of the river from the River Jetty at Hamilton Gardens. These run weekly Thursday to Sunday all through the year. There is also a weekly Wine Tasting Cruise to Mystery Creek Wines each Sunday.
+
+==Hospitals==
+[[File:WaikatoHospital.jpg|thumb|right|Waikato Hospital in Hamilton West.]]
+Hamilton's public hospital is [[Waikato Hospital]] with 600 beds and a staff of approximately 2,500 located between Melville and [[Hamilton West, Waikato|Hamilton West]].<ref>[http://www.waikatodhb.govt.nz/page/pageid/2145838660 ] {{wayback|url=http://www.waikatodhb.govt.nz/page/pageid/2145838660 |date=20150602063850 |df=y }}</ref> There are two other major private hospitals in Hamilton City; [[Braemar Hospital]], located in the same area that Waikato Hospital is located, and Southern Cross Hospital, located in [[Hamilton East, New Zealand|Hamilton East]]. A new cancer hospital is due to open in November 2010 on the previous Braemar Hospital campus. Hamilton also has a two private primary maternity hospitals, which are fully funded by the Waikato District Health Board, Waterford Birth Centre and River Ridge Birth Centre.<ref>http://www.waterfordbc.co.nz Waterford Birth Centre</ref>
+
+==Transport==
+
+===Air===
+[[Hamilton Airport (New Zealand)|Hamilton International Airport]] serves as a domestic airport. It is jointly owned by Hamilton City and neighbouring district councils. The airport is located just outside Hamilton's boundary, within the [[Waipa District]]. There are direct flights with Air New Zealand to Auckland, Christchurch, Palmerston North and Wellington, and with Sun Air to New Plymouth, Gisborne and Tauranga also there are charter flights to other destinations throughout the North Island. The airport also served as a major base for now defunct low-cost airlines [[Freedom Air]] and [[Kiwi Travel International Airlines|Kiwi Air]]. [[Virgin Australia]] offered three international flights a week, to and from [[Brisbane Airport]] and [[Sydney Airport]]. However, all international flights have now been discontinued, primarily due to a small market.
+
+The airport is the base for pilot training schools and the aircraft manufacturer, Pacific Aerospace, is located at the northern end of the runway.
+
+===Cycling===
+Hamilton has extensive [http://www.hamilton.co.nz/our-services/transport/movingaround/Documents/Cycle%20Map.pdf cycleways] which link the city center with the outlying suburbs. These cycleways consist of a mixture of dedicated cycle lanes,which are 1 metre wide strips either coloured green or with a painted outline of a cycle and mixed use cycle/walk ways which are mainly located alongside the Waikato River.<ref>{{cite web|url=http://hamilton.co.nz/file/fileid/165|title=Cycling in Hamilton|format=PDF|publisher=Cycle Action Waikato (link no longer works)}}</ref>
+
+===Road===
+An extensive bus network provides coverage of Hamilton City. Many routes extend radially from the central business district, while two ring routes encompass the central business district and the outer suburbs. An advert in a [http://nzetc.victoria.ac.nz/tm/scholarly/tei-Gov12_03Rail-t1-body-d3.html 1937 Railways Magazine] showed 10 buses in the Buses Ltd fleet and said they met all trains at Frankton. Buses Ltd had cut its fares in 1928 to achieve a virtual monopoly by driving Green Bus Co. out of business.<ref>{{cite web|url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=AS19280216.1.20&e=-------10--1----2%22buses+ltd%22-- |title=Auckland Star, Volume LIX, Issue 39, 16 February 1928, Page 20 |publisher=Paperspast.natlib.govt.nz |date=16 February 1928}}</ref>
+
+New Zealand's main road artery State Highway 1 runs through several of Hamilton's suburbs and connects with [[New Zealand State Highway 3|State Highway 3]] at a major intersection within the city boundaries. The Hamilton section of the [[Waikato Expressway]], due for completion in 2019, will carry State Highway 1 to the east of Hamilton City, effectively bypassing the city and easing congestion between commuting city traffic and through traffic. The Cambridge section of the expressway, due for completion in 2016, will help ease congestion between Hamilton and Cambridge.
+
+The Hamilton Ring Road project was initiated to free some of the city's streets from peak-traffic congestion and improve connectivity around the city. It involved extending Wairere Drive to run from Cambridge Road to the Avalon Road Bypass. As part of the project, large segments of Wairere Drive and the Pukete Bridge were widened from two lanes to four lanes.
+
+Safer Speed Areas 40&nbsp;km/h limits were first introduced in Hamilton in 2011 and by 2014 there were 36 of them,<ref>[http://www.hamilton.govt.nz/our-council/news/Pages/default.aspx?newsItem=2655 26 Feb 2014 HCC media release - Further 40km/h speed limits for Hamilton]</ref> many in suburbs near the river.<ref>[http://www.saferspeedarea.org.nz/where/ Map of Safer Speed Areas]</ref>
+
+====Bridges====
+[[File:Fairfield Bridge7.JPG|thumb|[[Fairfield Bridge]], in central Hamilton.]]
+[[File:Claudlands Bridge, Hamilton, Waikato, New Zealand, 3 April 2008.jpg|thumb|right|Claudlands Bridge, Waikato]]
+[[File:Claudelands Train bridge.jpg|thumb|Claudelands Bridge, Hamilton, NZ. Taken from just below the Bridge Street bridge.]]
+The six road bridges that cross the river<ref>{{cite web |url=http://hamilton.co.nz/page/pageid/2145833591/Hamiltons_Bridges |title=Hamilton City Council & Hamilton, New Zealand-Living Hamilton |accessdate=27 January 2008 |work= }}</ref> are often the focus of morning and evening traffic delays. The six road bridges within the city are (from north to south):
+* [[Pukete Bridge]]
+* [[Fairfield Bridge]]
+* [[Whitiora Bridge]]
+* [[Claudelands Bridge]]
+* [[Victoria Bridge, Hamilton|Victoria Bridge]]
+* [[Cobham Bridge]]
+
+In addition to the road bridges within the city, the Horotiu bridge is located approximately 10&nbsp;km north of the city centre and the Narrows Bridge approximately 10&nbsp;km to the south. The Narrows bridge was closed for reconstruction of its piles in September 2010.<ref>{{cite web |url=http://www.nzta.govt.nz/about/media/releases/865/news.html |title=Hamilton SH21Narrows Bridge Closes / NZ Transport Agency |accessdate=7 January 2010 |work= }}</ref> In Jan 2011 widening of the 1&nbsp;km approach road Wairere Drive to Pukete bridge began .The bridge was expanded to 4 lanes in early 2013.
+
+The river is also crossed by a rail bridge and a pedestrian bridge:
+* Claudelands Rail Bridge
+* Flagstaff Pedestrian Bridge (see Sewage section below)
+
+==== Buses ====
+{{Main article|Public transport in Hamilton and Waikato}}Hamilton has buses linking the CBD to most of its suburbs and an Orbiter service linking many of those suburbs to each other, to suburban shopping centres, the hospital, university, etc.
+
+===Rail===
+[[Hamilton Railway Station, Waikato|Hamilton]] is the railway junction of the [[East Coast Main Trunk Railway|East Coast Main Trunk]] (ECMT) and the [[North Island Main Trunk Railway|North Island Main Trunk]] (NIMT). It is the busiest in New Zealand outside of the Auckland and Wellington metropolitan areas, and is home to the Te Rapa Marshalling Yard and locomotive depot, the northern end of the 25kV AC 50&nbsp;Hz electrification between Hamilton and Palmerston North.
+
+The original Hamilton Railway Station was a large island station, in later years with two large signalboxes, just north of the locomotive depot in the junction between the ECMT and NIMT. Due to the increase in rail traffic in the 1970s and the end of steam operation in the North Island in 1968, the old station was replaced by one opened on the site of the locomotive depot in 1975. The former Frankton South End signalbox was relocated to the Hamilton Miniature Engineers' site at Minogue Park in Te Rapa, opposite the new Te Rapa loco depot, while the station building ended up near Waikato University as a cafe.
+
+Passenger services are limited to the new [[Northern Explorer]], which replaced [[The Overlander]] in 2012. Previous services include the [[Kaimai Express]] and [[Geyserland Express]] railcars to Tauranga and Rotorua (Koutu) respectively and were cancelled in 2002, and the overnight [[Northerner (train)|Northerner]], which ceased operation in 2004 under Toll Rail. About 2008, the canopy over platform 1 (NIMT) has been reduced, while platform 2 (ECMT) is only used by excursion trains.
+
+Until 1964 the ECMT cut across the central city and crossed what is now the Claudelands Bridge. This proved a problem with growing traffic congestion at level crossings, and in 1964 a new low-level line, Hamilton Central station and railway bridge over the Waikato River were built.<ref>Source:Waikato museum photo</ref> In later years part of this line was enclosed in a tunnel.
+
+Hamilton Central station was enclosed under the new [[New Zealand Railways Road Services]] bus terminal that was built in the late 1960s, but was later closed and the entrance blocked off with a slab of concrete. With the closure of the bus station and its demolition to make way for a new Warehouse store, the entrance was blocked in 2005/6 by the new foundations of the store and its underground carpark.
+
+Hamilton's rail network serves as a major hub for the distribution of dairy products to the ports of Auckland and Tauranga. This hub is located on Crawford St, on land that was formerly part of the Te Rapa Marshalling Yard, just north of the locomotive depot.<ref>[http://www.waikatoregion.govt.nz/PageFiles/10756/Fonterra%20Crawford%20St%20Fuel%20Efficiencies.pdf Fuel efficiency impacts of Fonterra’s Crawford St Dairy Freight Hub]</ref>
+
+Recently there have been moves to re-introduce daily commuter train services to Auckland, with various studies supporting the economic and environmental benefits.<ref>[http://www.ew.govt.nz/PageFiles/2322/hamiltonToAucklandCommuterRailStudy.pdf ] {{wayback|url=http://www.ew.govt.nz/PageFiles/2322/hamiltonToAucklandCommuterRailStudy.pdf |date=20150122033439 |df=y }}</ref>
+
+Hamilton also has two locomotives on display:
+* [[NZR F class]] 230 was donated by Ellis & Burnand, the central North Island sawmillers, in 1956 for static display. Formerly used as the yard engine at their Mangapehi sawmill, it was placed on display at Lake Rotoroa and its boiler filled with concrete. This engine has become a 0-4-2ST in later years following the loss of her rear coupling rod.
+* NZR D<sup>SA</sup> 230 (TMS DSA359), a 0-6-0DM diesel shunting locomotive built by English Electric for the Drewry Car Company, was withdrawn in 1986 and placed on display at Frankton minus its Gardner 8L3 diesel engine and transmission. It was moved in the early 2000s with its shelter to Minogue park, where it was united with an open seating wagon built on the underframe of wagon W 960, built in 1946 and converted to Way & Works wagon E 7784 in April 1966. {{citation needed|date=March 2015}}
+
+===The railway settlement===
+From the arrival of the railway in Hamilton, Frankton was a railway town. In 1923, the suburb became even more railway-orientated when the Frankton Junction Railway House Factory opened, producing the famous [[George Troup (architect)|George Troup]] designed railway houses sent to many North Island railway settlements, which are now sought-after pieces of real estate. Its 60 workers<ref>{{cite web|url=http://www.historic.org.nz/~/media/Corporate/Files/Publications/AdaptiveReuse.ashx |title=photos and information about NZHPT restoration |date=}}</ref> produced almost 1400 pre-fabricated railway houses at a peak rate of 400 a year, using rimu and matai from the railway's central North Island forests. The sawmill also produced everything else such as signal masts and boxes, bridges, sleepers, and even furniture for railway stations. It was too efficient for private builders, who got the housing factory closed in 1929. When it finally closed in the 1990s it was very dilapidated, but [[NZHPT]] supported restoration of the Category 1 historic place, retaining original windows, big sliding doors and the saw-tooth roof.<ref>{{cite web|url=http://www.historic.org.nz/theregister/registersearch/RegisterResults.aspx?RID=4946 |title=NZHPT listing, photo and details |publisher=Historic.org.nz |date=}}</ref> It is now home to a range of businesses.<ref>[http://www.parliament.nz/NR/rdonlyres/37B1C25E-5023-4D90-9E64-AC76B6242A90/88906/DBHOH_PAP_16049_5674.pdf NZHPT Annual Report 2007] {{wayback|url=http://www.parliament.nz/NR/rdonlyres/37B1C25E-5023-4D90-9E64-AC76B6242A90/88906/DBHOH_PAP_16049_5674.pdf |date=20160122171840 |df=y }}</ref>
+
+Frankton also was home to the Way and Works depot, still in operation as the KiwiRail Network depot. This was connected to the main line by a short siding that ran past the factory; this line was last used in 1997 when a shunting locomotive retrieved two flat wagons from the Way and Works depot. {{citation needed|date=March 2015}}
+
+The railway workers' community was centred largely around the W&W depot and sawmill, containing some 200 houses and a Railways Social Hall.<ref>{{cite web|url=http://www.historic.org.nz/theregister/registersearch/RegisterResults.aspx?RID=7014 |title=NZHPT listing, map and details of suburb |publisher=Historic.org.nz |date=27 October 1994}}</ref> Many of the houses are still in place, the majority being the classic 90sq<sup>2</sup> three-bedroom design used as standard across New Zealand for railway staff.<ref>There were two sizes of Railway houses, the classic 90sq<sup>2</sup> and the larger 100sq<sup>2</sup> which was for management only. All were three-bedroom structures, and came with a choice of six different front porches.</ref>
+
+==Education==
+{{See also|List of schools in Waikato, New Zealand#Hamilton City}}
+Hamilton is home to more than 40,000 tertiary students, mostly enrolled in one of the city's three main tertiary institutes; the [[University of Waikato]], [[Waikato Institute of Technology]] and [[Te Wananga o Aotearoa]].
+
+As well as state and private primary, intermediate and high schools, it also notably includes a number of [[Māori language revival|Kura Kaupapa Māori]] primary schools offering education in the Māori language.
+
+The city has six state secondary schools, in a clockwise direction from north: [[Fairfield College]] in Fairfield, [[Hamilton Boys' High School]] in Hamilton East, [[Hillcrest High School (New Zealand)|Hillcrest High School]] in Silverdale, [[Melville High School]] in Melville, [[Hamilton Girls' High School]] in the central city, and [[Fraser High School, New Zealand|Fraser High School]] in Nawton. Both Boys' and Girls' High offer boarding facilities. A new state secondary school is planned for the Rototuna area to serve the booming north-eastern corner of the city. The project had been delayed several years as the current secondary school serving the area, Fairfield College, is below capacity. The new secondary school is planned to open in 2016.<ref name="TwoNewSchools">{{cite news |url= http://www.stuff.co.nz/waikato-times/news/8402847/Two-new-schools-for-Hamilton |title= Two new schools for Hamilton |publisher= Waikato Times (via Stuff.co.nz) |first= Jonathan |last= Carson |date= 9 March 2013 |accessdate= 23 June 2013}}</ref>
+
+Additionally, Hamilton is home to a number of [[state-integrated school|state-integrated]] and private schools. There are numerous state-integrated [[Catholic]] primary schools throughout the city. [[Sacred Heart Girls College, Hamilton|Sacred Heart Girls College]] and [[St John's College, Hamilton|St John's College]] are the integrated Catholic high schools, for girls and boys respectively. [[Southwell School]] is a private co-educational [[Anglican]] primary school. [[Waikato Diocesan School for Girls]] is an integrated Anglican high school. 'Dio' is also the oldest secondary school in the city, founded in 1928.<ref name="TwoNewSchools"/> [[St Paul's Collegiate School]] is a private high school for boys, also accepting girls from Year 11. All three Anglican schools are boarding and day schools. [[Hamilton Christian School]] is a private coeducational nondenominational Christian school for Years 1–13, founded in 1982.
+
+== Utilities ==
+Although telegraph came to Hamilton with the [[Invasion of the Waikato|1864 invasion]] which established the town, it was quite late in developing its gas (1895), water (1903), sewage (1907) and electricity supplies (1913), probably because its population remained low; in 1911 Hamilton's population was 3,542 and Frankton's 1,113.<ref>[http://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1912/NZOYB_1912.html 1912 New Zealand Yearbook]</ref> Optical cables and microwave towers now provide telecommunications links, gas is supplied by pipeline from Taranaki, water from the Waikato River by the Water Treatment Station at Waiora Terrace, sewage flows for treatment at Pukete and electricity comes from the national grid. Restrictions are still placed on garden sprinklers in summer and the Pukete sewage works was still not always meeting discharge [[Resource consent]] conditions in 2013.<ref>[http://www.hamilton.govt.nz/our-services/water/wastewater/Pages/Biological-breakdown-at-Wastewater-Plant.aspx HCC biological breakdown at wastewater plant]</ref>
+
+===Telephone===
+A [[Electrical telegraph|telegraph]] line from Auckland came shortly after the invasion,<ref>[http://www.teara.govt.nz/en/1966/post-office/page-3 Encyclopedia of New Zealand – Inland Telecommunications]</ref> reaching Whatawhata, Te Awamutu and Cambridge by October 1864.<ref>[http://paperspast.natlib.govt.nz Daily Southern Cross , Issue 2271, 31 October 1864, Page 6]</ref> [[Telephone#Early development|Telephones]] came to Hamilton from 1882.<ref>[http://paperspast.natlib.govt.nz New Zealand Herald, Volume XIX, Issue 6440, 8 July 1882, Page 5]</ref> Hamilton got a [[Telephone exchange#Historic perspective|telephone exchange]] in 1904 with 39 subscribers.<ref>[http://ketehamilton.peoplesnetworknz.info/hamilton_heritage/topics/show/105-hamiltons-history-from-militia-settlement-to-city summary of Hamilton history]</ref> Hamilton telephones were put on an [[Telephone exchange#Early automatic exchanges|automatic exchange]] between 1915<ref>[http://paperspast.natlib.govt.nz Oamaru Mail, Volume XL, Issue 12444, 9 February 1915, Page 8]</ref> and 1920.<ref>[http://paperspast.natlib.govt.nz New Zealand Herald, Volume LVII, Issue 17390, 10 February 1920, Page 5]</ref> From the 1950s Hamilton was linked into the network of [[New Zealand masts#Height|microwave towers]] via the towers at [[Te Aroha]] and [[Te Uku Wind Farm#Microwave tower|Te Uku]]. By 2012 Hamilton had over 500&nbsp;km of [[fibre optic]] cable, allowing [[Ultra-Fast Broadband|broadband]] speeds over 20[[Data rate units#Megabit per second|Mbps]] in much of the city.<ref>[http://www.scoop.co.nz/stories/SC1111/S00009/hamilton-high-speed-broadband-roll-out-completed.htm Chorus broadband announcement 4 Nov 2011]</ref>
+
+===Gas===
+[[Auckland Gas Company]] had been set up in 1862, but it wasn't until the [http://www.austlii.edu.au/nz/legis/hist_act/hga189559v1895n1287.pdf Hamilton [[Gasworks]] Act 1895] that Henry Atkinson was allowed to set up a gasworks in Clarence St on allotment 322 (see photo of the [http://ketehamilton.peoplesnetworknz.info/hamilton_streets/topics/show/339-clarence-street [[PlaceMakers]] site in 1961]) and put gas pipes under the streets. Work started on laying about 50 tons of pipes in July 1895.<ref>{{Cite news|title = Country News.|url = http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=NZH18950701.2.47&srpos=29&e=-------100--1----0okete+church+fire--&zto=1|newspaper = New Zealand Herald|date = 1895-07-01|access-date = 2016-01-23|pages = 6}}</ref> [[File:1967 4 Apr Clarence St gasworks, Hamilton.jpg|thumb|[http://natlib.govt.nz/records/22797483 Clarence St gasworks in 1967] with Pembroke Rd, Pembroke La, Thackeray St, Tristram St in background - Hamilton, including city buildings.]] It also allowed the city to purchase after 12 years at a price determined by arbitration.<ref>[http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=AS19080229.2.76 Papers Past - Auckland Star - 29 February 1908 - Page 9 - HAMILTON GAS COMPANY]</ref> A 1907 referendum authorised the city council to take over the gasworks. In 1911 the Privy Council set the purchase price at ₤34,402/14/3d ($5.5m at 2015 prices),<ref>[http://www.rbnz.govt.nz/monetary_policy/inflation_calculator/ Bank of NZ inflation calculator]</ref> half of which was for [[Goodwill (accounting)|goodwill]].<ref>Centenary of Hamilton: Hamilton City Council 1964</ref>
+
+In 1913 the works was expanded and mains laid over the railway bridge into Hamilton East and along Ohaupo Rd.<ref>{{Cite news|url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=WAIGUS19130111.2.11&srpos=106&zto=1|title=Mr Massey On Tour.|date=1913-01-11|newspaper=Waikato Argus|pages=2|access-date=2016-05-30}}</ref>
+
+As well as gas, [[Coke (fuel)|coke]], [[Coal tar|tar]] and [[Tar#Uses|tar paint]] were produced.<ref>[http://nzetc.victoria.ac.nz/tm/scholarly/Gov12_03Rail-fig-Gov12_03Rail014b.html 1937 advert]</ref> Waikato coal was mixed with coal shipped via [[Greymouth]] and Raglan from 1964 until 25 March 1970, when the gasworks converted to natural gas.<ref>The era of coastal shipping in NZ: Grant Seath chapter 26</ref> The works closed after the {{convert|363|km|mi|0|abbr=on}} x {{convert|14|in|cm|0}} [[Kapuni]] and {{convert|307|km|mi|0}} x {{convert|34|in|cm|0}} [[Maui gas field|Maui gas]] pipelines to [[Huntly Power Station|Huntly]] were built in 1970 and 1973.<ref>[http://pipeliner.com.au/news/new_zealand_gas_pipelines_past_present_and_future/001598/ New Zealand pipelines - past, present and future]</ref> The site was cleaned up after demolition in the 1990s, but is still [http://www.waikatoregion.govt.nz/Services/Regional-services/Waste-hazardous-substances-and-contaminated-sites/Contaminated-sites/Hamilton-Gasworks/ monitored by Regional Council for contamination]. In 2012 [https://www.vector.co.nz/projects/hamilton-west-gas-network-upgrade-project [[Vector Limited|Vector]] ] replaced the low pressure cast iron network pipes with new medium pressure pipes.
+
+===Water===
+By 1890 complaints were being made of a shortage of water in the wells and tanks.<ref>{{Cite news|title = Country News.|url = http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=NZH18900214.2.53&srpos=18&e=-------100--1----0okete+church+fire--&zto=1|newspaper = New Zealand Herald|date = 1890-02-14|access-date = 2016-01-23|pages = 6}}</ref> In 1902 a poll of ratepayers approved borrowing £5,000 to set up a water supply.<ref>[http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=CHP19020203.2.18 Press, Volume LIX, Issue 11190, 3 February 1902, Page 5]</ref> In 1903 {{convert|3.2|km|mi|0}} of pipes supplied water to 80 properties in Victoria, Anglesea, Collingwood, Clarence and Selkirk streets and the borough turncock reported average use at {{convert|15|impgal|l|0}} a day<ref>[http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=NZH19031012.2.5 New Zealand Herald 12 October 1903]</ref> (average consumption is now {{convert|224|l|impgal|0}} a day).<ref name="HCC2010">[http://www.hamilton.govt.nz/our-services/water/water/Documents/A%20Guide%20to%20Hamilton%E2%80%99s%20Water%20Supply.pdf HCC 2010 a guide to Hamilton's water supply]</ref> By 1908 nearly all of Hamilton West had piped water, extended to Frankton and Claudelands in 1912.<ref name="ReferenceB">Astride the River: P J Gibbons 1977</ref> By 1916<ref>[http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=NZH19161009.2.43 New Zealand Herald, Volume LIII, Issue 16355, 9 October 1916, Page 5]</ref> a {{convert|75|ft|m|0}} high water tower on Lake Rd<ref name="ReferenceC">The Prosperous Town of Hamilton and its environs: Cook's Business Directory 1937</ref> had been built to give extra pressure, mainly for the Fire Brigade<ref>Auckland Star, Volume L, Issue 130, 2 June 1919, Page 7</ref> whose station opened in 1917.<ref>A brief chronology of Hamilton events: Vicky Jones 1995</ref> Use was reported as {{convert|6,942,000|impgal|l|0}} in the month of August 1918.<ref>{{Cite news|url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&cl=search&d=WT19180928.2.19&srpos=171&zto=1|title=Local And General News.|date=1918-09-28|newspaper=Waikato Times|pages=4|access-date=2016-05-29}}</ref> Until 1939 on Sundays visitors could climb the tower for 6d.<ref>1937 Waikato Guide</ref> The tower was rebuilt further up on Ruakiwi Rd about 1966.<ref>[http://natlib.govt.nz/records/23189047 and] [http://natlib.govt.nz/records/22879178 aerial photos 12 Apr 1965 and 1 Dec 1966]</ref> A [[Water purification|treatment works]] was built in 1923,<ref>A brief Chronology of Hamilton events: Vicky Jones 1995</ref> using [[Rapid sand filter#Design and operation|candy filters]] and supplying water at 75psi.<ref name="ReferenceC"/>
+
+The 1930 Hillsborough Terrace Water Treatment Station had a maximum continuous capacity slightly over 30 Ml/day. By 1970 peak demands exceeded 45 Ml/day with the average annual daily demand being around 25 Ml/day, but the site was too small to expand. So Waiora Terrace Station, Glenview (opposite Hamilton Gardens), was commissioned in mid 1971. It was designed for a maximum capacity of 65 Ml/day, expandable to 190 Ml/day,<ref name="HCC1989">Waiora Terrace Water Treatment Station: Hamilton City Council 1989</ref> was increased to approximately 85ML/day with the addition of [[Water purification#Coagulation and flocculation|polymer dosing]] in the 1980s<ref name="WIO2006">[http://www.wioa.org.au/conference_papers/06_vic/documents/jaredhansen.pdf presentation to 2006 Water Industry Engineers and Operators’ Conference]</ref>
+and by 2010 had a capacity of 106 Ml/day.<ref name="HCC2010"/> It was built to a [[Black & Veatch#Company Timeline|Patterson Candy]] design with coagulation, rapid sand gravity filtration and chlorine gas disinfection.<ref name="WIO2006"/>
+
+'''Chlorine''' is added at 0.3 ppm and [[Water fluoridation controversy|'''Fluoride''']] has been added since 1966, though with a brief withdrawal in 2013/14 and referenda supporting it in 2006<ref>[http://natlib.govt.nz/records/23036172?search%5Bdirection%5D=desc&search%5Bi%5D%5Bcategory%5D=Images&search%5Bpage%5D=17&search%5Bpath%5D=items&search%5Bsort%5D=sort_date&search%5Btext%5D=hamilton Waikato Times cartoon on fluoride referendum 2006]</ref> and 2013.<ref>[http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11227031 'Hamilton votes to restart fluoridation' NZ Herald 27 March 2014]</ref> The river water has 0.2 to 0.4 ppm<ref name="HCC1989"/> fluoride which is increased to around 0.75ppm<ref name="HCC2010"/> through the station. '''Arsenic''' [[Waikato River#Environmental issues|in the Waikato River]] is also monitored. It can be about 3 times above the [[WHO]] limit, but treatment effects a 5-fold reduction to a level which meets the standards.<ref>[http://www.mendeley.com/catalog/evidence-seasonal-fluctuation-arsenic-new-zealands-longest-river-effect-treatment-concentrations-drinking-water/ 1995 study of seasonal variations of arsenic in the Waikato]</ref>
+
+From river level the water is pumped up to 8 reservoirs, which uses 410 kWh of power for each million litres of water pumped. Average use in 2010 was 224 litres per day per person. The 2006 population was 129,249, so total annual consumption was a bit over 10,000 million litres, using over 4 million kWh.<ref name="HCC2010"/> For maps and description of the distribution system see this [http://www.dhigroup.com/upload/publications/mikenet/Zhang_Hamilton_City.pdf 2001 HCC Strategic Planning document].
+
+===Sewage===
+Sewage long lagged behind other utilities. Initially [[Quarter acre|sections]] were large enough for [[septic tank]]s to work as well as they could in [[Waikato Plains|peatlands]], but it wasn't long before the 1882 drainage scheme<ref>A brief Chronology of Hamilton events: Vicky Jones 1995</ref> was used for sewage connections. By 1904 complaints were being made about the blocked insanitary drain between Victoria and Anglesey Streets, resulting in a faltering start on a [[night soil]] service. The 1907 referendum, which approved purchase of the gasworks also agreed to raise a loan for sewage pipes (though rejected a plan for tramways).<ref name="ReferenceB"/> By 1919 only about a third of the city had sewers,<ref>http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=AS19190602.2.95&cl=&srpos=0&e=-------10--1----0-- Auckland Star, Volume L, Issue 130, 2 June 1919</ref> but between 1923 and 1925 "considerable progress" was made and sewage reticulation was further extended in 1933. However, there was a sewage related epidemic in [[Melville, New Zealand|Melville]] in 1940 and Melville, Fairfield and Hillcrest were added to the sewer network from 1949. Although by 1956 80% of Hamilton had sewage pipes, it was only piped to 14 septic tanks (17 when replaced in 1976<ref name="HCSS">Hamilton City Sewerage Scheme 1978 publisher Hamilton City Council Hamilton reference library 628.309 931 151 HAM</ref>), which were emptied several times a year, either into the Waitawhirwhiri Stream, or directly into the Waikato.<ref name="ReferenceB"/> In 1956 the Pollution Advisory Council said, "the daily flow of sewage effluent and trade wastes from Hamilton City is three million gallons… in effect, partly digested sludge and raw sewage is being disposed of into the Waikato River". Downstream from Hamilton contaminants increased 10 times between the 1950s and the early 1970s.<ref>[http://www.waikatoregion.govt.nz/Environment/Natural-resources/Water/Rivers/Waikato-River/Trends-in-water-quality/ Trends in Waikato River water quality]</ref> The [http://www.nzlii.org/nz/legis/hist_act/wpa19531953n104253/ 1953 Water Pollution Act] set up a Pollution Advisory Council, but it had no control powers until 1963.<ref>http://www.teara.govt.nz/en/sewage-water-and-waste/page-8</ref>
+[[File:Sewer bridge at Pukete, Hamilton.jpg|thumb|Pukete sewer bridge 165m long 14 m high built mid 1970s. Photo 2015.]]
+In 1964 the [[Ministry of Health (New Zealand)|Department of Health]] ordered adequate treatment for the sewage. Steven and Fitzmaurice, Consulting Engineers, presented a plan to Council early in 1966. There was some work on piping new areas in 1966, but work on the major [[Sanitary sewer#Nomenclature|trunks and interceptors]] didn't start until 1969 and building at '''Pukete sewage works''' started in January 1972. The first sewage was treated in July 1975 and was fully connected early in 1977.<ref name="HCSS" />
+[[File:Sewer bridge at Tauhara Gully, Hamilton.jpg|thumb|prestressed concrete box girder bridge over Kirikiriroa Stream at Tauhara Gully. Photo 2015.]]
+The trunk lines needed a {{convert|165|m|abbr=on}} long bridge, about {{convert|14|m|abbr=on}} above the Waikato, another prestressed concrete [[box girder bridge]] over Kirikiriroa Stream at Tauhara Gully and 2 steel pipe bridges over other gullies. The River bridge was designed by Murray-North Partners and the others by council engineers.<ref name="HCSS" />
+
+The Pukete sewage works cost $12.5m ($160m at 2015 prices). It now cleans {{convert|40|e6L}}/day, which is aerated for about 2 hours in a [[Sewage treatment#Primary treatment|sedimentation tank]], [[Sewage treatment#Disinfection|disinfected with chlorine]], [[Sulfur dioxide#As a reducing agent|dechlorinated with sulphur dioxide]] and discharged into the Waikato through a diffuser [[outfall]] on the river bed.<ref>[http://www.ecotox.org.au/aje/archives/vol11p149.pdf Australasian Journal of Ecotoxicology Vol. 11, Pp. 149-154, 2005]</ref>
+
+[[Beca Group|CH2M Beca]], successor to the previous engineers, upgraded the plant from 1998 to 2002 to improve nitrogen, [[Biochemical oxygen demand|BOD]] and suspended solids levels, with a change from chlorination to [[Disinfectant|UV treatment]] and biogas and natural gas {{convert|1.5|e6W}} [[Cogeneration#Types of plants|cogeneration units]], able to power the treatment processes and export surplus to the grid.<ref>[http://www.ch2mbeca.com/projects/pukete_waste_water_treatment_plant.aspx CH2M Beca project summary]</ref>
+
+A further 5 year upgrade started about 2009 expanding and improving the plant, including phosphorus removal.<ref>[http://www.hamilton.govt.nz/our-city/city-projects/puketewastewatertreatmentplant/Pages/default.aspx HCC 2013 Pukete Wastewater Treatment Plant]</ref>
+
+Despite the improvements there have been on-going problems. In 2012 the council was prosecuted for a sewage sludge spill<ref>[http://www.waikatoregion.govt.nz/Community/Whats-happening/News/Media-releases-archived/HCC-to-be-prosecuted-over-Pukete-sewage-spill/ Regional Council media release - sewage prosecution 23 Jan 2012]</ref> and consent conditions were breached in 2013 due to a bacteria problem.<ref>[http://www.hamilton.govt.nz/our-services/water/wastewater/Pages/Biological-breakdown-at-Wastewater-Plant.aspx HCC 2013 Biological breakdown at Wastewater Treatment Plant]</ref> In 2014 up to {{convert|800|m3|impgal|abbr=on}} of untreated sewage got into the river.<ref>[http://www.stuff.co.nz/waikato-times/news/10180096/Pollution-double-standard Waikato Times: Double standard 20 Jun 2014]</ref>
+
+There are also problems with pumping stations. Out of over 130, up to 20 fail each month.<ref>[http://www.stuff.co.nz/environment/71859654/forbidden-flushes-keep-staff-busy-at-hamiltons-wastewater-treatment-plant Waikato Times: Forbidden flushes keep staff busy at Hamilton's wastewater treatment plant 9 Sep 2015]</ref>
+
+===Electricity===
+Hamilton was also late in getting electricity. [[Reefton Power Station|Reefton]] had electricity from 1888. Some Hamiltonians had their own [[Dynamo#Practical designs|dynamos]] from about 1912, the year the first licence was given for building lines and a generating plant in the Frankton Town Board area. It cost over £8,000 (about $1.25m in 2015 prices<ref>{{Cite web|title = Inflation Calculator|url = http://www.rbnz.govt.nz/monetary_policy/inflation_calculator/|website = www.rbnz.govt.nz|accessdate = 2015-10-26}}</ref>) for the initial network, powered by two {{convert|45|kW|abbr=on}} [[Direct current|DC]] [[Brush Electrical Machines|Brush]] generators in Kent St, driven by two 4-cylinder {{convert|90|hp|abbr=on}} suction [[gas engine]]s (suction gas engines used low pressure gas from coal<ref>[http://www.ipenz.org.nz/heritage/conference/papers/churchward_m.pdf see page 10 'Gas Engines in Victorian Industry, 1870-1950']</ref>), which started on 23 April 1913 (officially opened by Prime Minister [[William Massey|Massey]] on 4 June). Lighting was provided for streets, houses and the Empire Hotel in Frankton, initially only from 7.30am to 5pm, using a labourer, a meter reader and two linesmen. Electricity was sold at 10d (2015 equivalent $15) per kWh. The first Chief Electrical Engineer was Mr A Beale, followed by [[Lloyd Mandeno]], (1913-1916) and Israel (Jack) Webster, who stayed for nearly 40 years. From May 1916, Hamilton was connected and, in 1917, the supply area was widened to a 5-mile radius and an {{convert|80|kW|abbr=on}} and then two more {{convert|45|kW|abbr=on}} sets were added at Kent St.<ref name="WEL">Wiring up the Waikato published by WEL Networks research by Chris Gilson</ref> Despite this, by 1920, Frankton was unable to cope with demand. The [[Mayor of Hamilton, New Zealand#List of Mayors of Hamilton|mayor]], P H Watts, proposed buying a second-hand steam plant for £17,000, but it was rejected at a poll on 23 April 1920. The mayor, 6 councillors and the electricity staff all resigned.<ref>http://ketehamilton.peoplesnetworknz.info/hamilton_heritage/topics/show/388-struggle-for-power-the-hamilton-election-of-1920</ref>
+
+The problem was resolved by a link to [[Horahora Power Station]] completed, like Frankton, in 1913. In 1919 it was bought by the government and, by 1921, an 11 kV AC line linked it to Hamilton.,<ref name="WEL" /> allowing the "noisy, smoky", Kent St power station to close in July 1922.<ref>Waikato Times 8 October 1960 page 14 'Hamilton's first electric generating plant'</ref>
+
+There were over 1,500 connections in Hamilton by 1923. [[Undergrounding]] began in 1926, when the 11 kV cable was extended from Peachgrove Rd to Seddon Rd sub-station. By 1928 the Council had 3,381 consumers and charges were down to 6d per kWh for lighting and 2d per kWh for power and heating. By 1935 4,458 were connected, with {{convert|55|mi|abbr=on}} of line and lighting was down another penny. By 1950, the 11 kV rings in Hamilton East and Claudelands were finished. Soon afterwards [[Mercury-vapor lamp|mercury vapor street lighting]] was installed in London Street and Norton Rd. 33kV gas- and oil-filled cables were laid from 1960 and switched on in April 1974. By 1987 there were 12,247 connections, {{convert|291|km|abbr=on}} of line and charges down to 6.577c/kWh<ref name="WEL" /> (about 13c in 2015 prices). In 2015 prices varied from 11.31 to 22.92 cents per kWh.<ref>{{Cite web|url = https://www.genesisenergy.co.nz/for-home/pricing-plans/electricity-pricing-plans/hamilton-and-outlying-areas|title = Genesis price list for Hamilton|date = October 2015|accessdate = |website = |publisher = |last = |first = }}</ref>
+
+[[List of Statutes of New Zealand (1984–90)|Legislation]] in 1988 amalgamated the Central Waikato Electric Power Board with Hamilton's Electricity Division from April 1989 as Waikato Electricity Limited,<ref name="WEL" /> now known as [[WEL Networks]],<ref>[http://www.wel.co.nz/Meet-WEL-Networks/The-WEL-Networks-Story/ The WEL Networks story]</ref> one of the [[Electricity sector in New Zealand|distribution]] companies.
+
+Hamilton now has a 220kV link to the [[National Grid (New Zealand)|National Grid]] and [[Transpower New Zealand|Transpower]] provides for a peak load of 187MW, expected to rise to 216MW by 2030.<ref>[https://www.transpower.co.nz/sites/default/files/uncontrolled_docs/TPR2015CompleteFINAL.pdf Transpower 2015 plans (with maps)]</ref>
+
+==Notable people==
+*[[Perrie Edwards]], singer,  lived in Hamilton when she was younger.
+* [[Craig Baird]], racing car driver, born in Hamilton.
+* [[Anjali Thakker]], New Zealand international ice and inline hockey player, lived in Hamilton 2004-2014
+* [[Helen Clark]], former Prime Minister of New Zealand, administrator of the UN Development Programme, born in Hamilton.
+* [[Chanel Cole]], ''[[Australian Idol]]'' contestant and member of Australian band Spook, born in Hamilton.
+* [[Stephen Donald]], All Black.
+* [[Guy Doleman]], film actor.
+* [[Daniel Gillies]], film actor.
+* [[Chris van der Drift]], racecar driver.
+* [[Howden Ganley]], former [[Formula One]] racing car driver, born in Hamilton.
+* [[Warren Gatland]], Most capped Waikato Rugby player in history, Wales International Rugby Coach and [[British and Irish Lions]] coach, born in Hamilton.
+* [[Kimbra|Kimbra Johnson]], Grammy winning musician.
+* [[Brendon Julian]], Former Australian and WACA Cricketer and Fox Sports Commentator.
+* [[Ashley Lawrence (musician)|Ashley Lawrence]], conductor, born in Hamilton.
+* [[Arthur Leong (footballer)|Arthur Leong]], NZ soccer player and captain 1959–64, lives in Hamilton.
+* [[Denis Lill]], actor, known for playing Sir Talbot Buxomly in ''[[Blackadder the Third]]'', born in Hamilton.
+* Dame [[Malvina Major]], opera singer, born in Hamilton.
+* [[John Mitchell (rugby player)|John Mitchell]], former rugby player, and former New Zealand All Blacks coach.
+* Richard O'Brien, creator of the ''[[Rocky Horror Picture Show]]'', lived in Hamilton.
+* [[Dick Quax]], Olympic silver medallist and world record breaking runner, raised and educated in Hamilton.
+* [[Patsy Reddy|Dame Patsy Reddy]], lawyer and Governor-General, raised and educated in Hamilton.
+* [[Frank Sargeson]], author, born in Hamilton.
+* [[Gary S. Schofield]], artist, raised and educated in Hamilton.
+* [[Scott Styris]], NZ cricketer, raised and educated in Hamilton.
+* [[Daniel Vettori]], NZ cricketer, lives in Hamilton.
+* [[Stan Walker]], Australian Idol Winner and singer/songwriter, educated in Hamilton.
+* [[Gillian Whitehead|Gillian Karawe Whitehead]], composer, born in Hamilton.
+* [[Terry Wiles]], [[thalidomide]] victim and subject of the film ''[[On Giant's Shoulders]]'' (1979).
+
+==Sister cities==
+{{SisterCities|Hamilton|four}}
+* [[Sacramento, California|Sacramento]], USA
+* [[Saitama, Saitama|Saitama]], Japan
+* [[Wuxi]], People's Republic of China
+* [[Chillán]], [[Chile]]<ref>{{cite web|url=http://www.municipalidadchillan.cl/?modname=contenidos&id=831&PHPSESSID=10599fa290abc0d3d5ce4252d5472540 |title='''Ilustre Municipalidad de Chillán: ''' ''Hamilton, sister of Chillán.'' |publisher=Municipalidadchillan.cl |date=}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Wikivoyage|Hamilton (New Zealand)}}
+{{commons category|Hamilton, New Zealand}}
+* [http://www.hamiltonwaikato.com/ Hamilton & Waikato Tourism]
+* [http://www.hamilton.co.nz/ Hamilton City]
+* [http://www.visithamilton.co.nz Visitor Information]
+
+{{Hamilton, New Zealand Navbox}}
+{{Territorial Authorities of New Zealand}}
+{{New Zealand topics}}
+{{Northern Explorer train stops}}
+
+[[Category:Hamilton, New Zealand| ]]
+[[Category:Populated places in Waikato]]
+[[Category:Territorial authorities of New Zealand]]

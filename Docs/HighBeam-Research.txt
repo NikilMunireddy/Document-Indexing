@@ -1,0 +1,64 @@
+HighBeam Research
+
+{{For|the Wikipedia partnership with HighBeam|WP:HighBeam}}
+<!-- {{stub}} -->
+{{Infobox website
+| name                 = HighBeam Research
+| logo                 = [[File:Logo of HighBeam Research.png]]
+| logocaption          = <div style="margin-top:0.5em;line-height:1.25em">HighBeam Research logo since February 2004.</div>
+| screenshot           = 
+| collapsible          = 
+| collapsetext         = 
+| caption              = 
+| url                  = {{URL|http://www.highbeam.com/|www.HighBeam.com}}
+| slogan               = 
+| commercial           = 
+| type                 = 
+| registration         = 
+| language             = 
+| num_users            = 
+| content_license      = Copyright<br />All rights reserved
+| programming language = 
+| owner                = [[Cengage Learning]]
+| author               = 
+| editor               = 
+| launch_date          = {{start date and age|2002|8}} <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| revenue              = 
+| alexa                = {{Increase}} 30,857 ({{as of|2015|03|05|alt=March 2015}})<ref name="alexa">{{cite web|url=http://www.alexa.com/siteinfo/highbeam.com|title= Alexa.com Site Info|work= [[Alexa Internet]]|accessdate=October 14, 2013}}</ref>
+| ip                   = 
+| current_status       = Active
+| footnotes            = 
+}}
+
+'''HighBeam Research''' is a paid [[search engine]] and full text online archive owned by [[Cengage Learning]] (through its [[Gale (publisher)|Gale]] subsidiary) for thousands of [[newspaper]]s, [[magazine]]s, [[academic journal]]s, newswires, [[trade magazine]]s, and [[encyclopedia]]s in English.<ref>{{cite web|title=Publications by category|url=http://www.highbeam.com/publications|website=HighBeam Research|publisher=Cengage Learning|accessdate=14 July 2014}}</ref> It is headquartered in [[Chicago|Chicago, Illinois]].<ref>"[http://www.highbeam.com/contact-us Contact Us]." HighBeam Research. Retrieved September 24, 2012. "HighBeam Research c/o Cengage Learning 1 North State Street Suite 900 Chicago, IL 60602 USA"</ref>
+
+== History ==
+The company was established in August 2002 after [[Patrick Spain]], who had just sold [[Hoover's]], which he had co-founded, bought [[eLibrary]] and Encyclopedia.com from [[Tucows]]. The new company was called Alacritude, LLC (a combination of Alacrity and Attitude). ELibrary had a library of 1,200 newspaper, magazine and radio/ TV transcript archives that were generally not freely available.<ref>{{cite web|url=http://www.highbeam.com/about-us|title=About Us|work=Highbeam|accessdate=March 23, 2012}}</ref>
+
+Original investors included Prism Opportunity Fund of Chicago and 1 to 1 Ventures of [[Stamford, Connecticut|Stamford]], [[Connecticut]].
+
+Spain stated, "There was a glaring gap between free search like [[Google]] and high-end offerings like [[LexisNexis]] and [[Factiva]]."<ref>{{cite web|url=http://www.internetnews.com/fina-news/article.php/3315981|title=Q&A: Patrick Spain, Founder HighBeam|work=[[InterNetNews]]|date=February 20, 2004|accessdate=October 6, 2012}}</ref>
+
+Later in 2002, it bought Researchville.com. By 2003, it had increased its archive base to articles from 2,600 publishers. In 2004, it was renamed HighBeam Research. In 2005, it increased its publisher base to 3,500 publishers. In 2006, [[Oxford University Press]], [[Knight Ridder]] and ''[[The Washington Post]]'' archives were added. In 2008, it was purchased by [[Cengage Learning]].<ref>{{cite web|author=Gwen|url=http://www.websearchguide.ca/netblog/archives/008099.html|title=Gale Acquired HighBeam Research|work=Web search guide|date=December 16, 2008|accessdate=October 6, 2012}}</ref> Highbeam features many articles by the UK based [[Trinity Mirror]] Group. 
+
+Highbeam Research is a partner in the [[Womensforum]] network and a major content provider for the ''WomensForum'' women's issues research website.<ref>{{cite web|url=http://www.womensforum.com/index.php?option=com_content&view=article&id=3541:highbeamcom&catid=161:education-sites&Itemid=190 |title=Highbeam Research is a WomensForum Network Partner|work=WomensForum|accessdate=October 6, 2012}}</ref>
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+
+* {{Official website|http://www.highbeam.com/}}
+* {{Wayback|title=Alacritude|date=20020724042747|url=http://www.alacritude.com/}}
+{{Cengage}}
+
+{{DEFAULTSORT:HighBeam Research}}
+[[Category:2002 establishments in the United States]]
+[[Category:Cengage Learning]]
+[[Category:Companies based in Chicago, Illinois]]
+[[Category:Internet companies of the United States]]
+[[Category:Internet search engines]]
+[[Category:Online archives]]
+[[Category:Media companies established in 2002]]
+[[Category:American websites]]
+[[Category:Internet properties established in 2002]]

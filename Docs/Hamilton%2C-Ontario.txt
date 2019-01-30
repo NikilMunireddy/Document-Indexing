@@ -1,0 +1,556 @@
+Hamilton, Ontario
+
+{{for|Hamilton Township in Northumberland County|Hamilton, Ontario (township)}}
+{{pp-move-indef|small=yes}}
+{{Use mdy dates|date=September 2013}}
+<!-- Infobox begins !-->
+{{Infobox settlement
+|name                   = Hamilton
+|official_name          = City of Hamilton
+|nickname           = [[List of city nicknames in Canada#Ontario|"The Ambitious City", "The Electric City", "The Hammer", "Steeltown"]]<ref name=HAMBIO2>{{cite book|title=Dictionary of Hamilton Biography (Vol II, 1876–1924)|first=Thomas Melville |last=Bailey|publisher=W.L. Griffin Ltd|year=1991}}</ref><ref>{{cite news | url=http://www.thespec.com/news-story/2226428-bieber-fever-hits-the-hammer/ | title=Bieber Fever hits the Hammer | author=Daniel Nolan | date=December 22, 2011 | publisher=Metroland Media | newspaper=[[The Hamilton Spectator]]}}</ref><ref>{{cite news | url=http://www.thespec.com/news-story/2179772-showdown-in-steeltown/ | title=Showdown in Steeltown | author=Daniel Nolan | date=April 6, 2011 | publisher=Metroland Media | newspaper=The Hamilton Spectator}}</ref>
+|motto                  = Together Aspire – Together Achieve
+|settlement_type        = City ([[List of municipalities in Ontario#Single-tier municipalities|single-tier]])
+|image_skyline          = [[File:Collage of Tourist Spots in Hamilton, Ontario, Canada.jpg|centre|300px]]
+|imagesize              = 400px
+|image_caption          = Counter Clockwise from the Top: View of Downtown Hamilton from Sam Lawrence Park, [[Hamilton City Hall]], [[Bayfront Park (Hamilton, Ontario)|Bayfront Park]] Harbour Front Trail, Historic Art Deco and Gothic Revival [[Pigott Building]] complex, [[Webster's Falls]], [[Dundurn Castle]]
+|image_map              = Map of Ontario HAMILTON.svg
+|mapsize                = 200px
+|map_caption            = Location in the province of Ontario, Canada
+|pushpin_map              = Canada Southern Ontario
+|pushpin_map_caption              = Location of Hamilton in southern Ontario
+|image_flag             = Flag of Hamilton.svg
+|flag_link              = Flag of Hamilton, Ontario
+|image_shield           = Hamilton Coat of Arms.PNG
+|coordinates_region     = CA-ON
+|subdivision_type       = Country
+|subdivision_name       = [[Canada]]
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = [[Ontario]]
+|leader_title           = Mayor
+|leader_name            = [[Fred Eisenberger]]
+|leader_title2          = [[City Council]]
+|leader_name2           = [[Hamilton, Ontario City Council]]
+|leader_title3          = [[Member of Parliament (Canada)|MPs]]
+|leader_name3           = {{Collapsible list
+|title       = List of MPs
+|frame_style=border:none; padding: 0;
+|title_style =
+|list_style  = text-align:left;display:none;
+|1=[[Dean Allison]]
+|2=[[Chris Charlton]]
+|3=[[David Christopherson]]
+|4=[[Wayne Marston]]
+|5=[[David Sweet]]
+}}
+|leader_title4          = [[Member of Provincial Parliament (Ontario)|MPPs]]
+|leader_name4           = {{Collapsible list
+|title       = List of MPPs
+|frame_style=border:none; padding: 0;
+|title_style =
+|list_style  = text-align:left;display:none;
+|1=[[Andrea Horwath]]
+|2=[[Tim Hudak]]
+|3=[[Ted McMeekin]]
+|4=[[Paul Miller (Canadian politician)|Paul Miller]]
+|5=[[Monique Taylor]]
+}}
+|established_title      = [[Municipal corporation|Incorporated]]
+|established_date       = June 9, 1846<ref name=1846est/>
+|area_magnitude         =
+|area_footnotes         =<ref name="C2001CAHAM">{{cite web |url= http://www12.statcan.ca/english/Profil01/CP01/Details/Page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Geo2=PR&Code2=35&Data=Count&SearchText=hamilton&SearchType=Begins&SearchPR=01&B1=All| title=Community Highlights for Hamilton (City)|publisher = Statistics Canada |accessdate=January 4, 2008 |work=2001 Canadian Census }}</ref>
+|area_total_km2         = 1138.11 <!-- Added land to water figure -->
+|area_land_km2          = 1117.11
+|area_water_km2         = 21 <!-- City of Hamilton GIS: Cootes paradise(2.30), Harbour(20.70)-->
+|area_urban_km2         = 227.70
+|area_metro_km2         = 1371.76
+|population_footnotes   =<ref name="C2001CAHAM"/><ref name=STATSCAN2007>{{cite web|title = Stats Canada 2006 Canadian Census: Hamilton, Ontario|url=http://www12.statcan.ca/english/census06/data/profiles/community/Details/Page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Geo2=PR&Code2=35&Data=Count&SearchText=Hamilton&SearchType=Begins&SearchPR=01&B1=All&Custom= |publisher = Statistics Canada
+}}</ref>
+|population_as_of       = 2011
+|population_note        =<ref>[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Geo2=CD&Code2=3525&Data=Count&SearchText=hamilton&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=1 Census Profile]. 2.statcan.gc.ca. Retrieved on 2013-07-26.</ref>
+|population_total       = 519949 ([[List of the 100 largest municipalities in Canada by population|10th]])
+|population_density_km2 = 465.4
+|population_metro       = 721053 ([[List of the 100 largest metropolitan areas in Canada|9th]])
+|population_blank1_title = [[Demonym]]
+|population_blank1      = Hamiltonian
+|timezone               = [[North American Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = Postal code span
+|postal_code            = L0R, L8E to L8W, L9A to L9C, L9G to L9H, L9K
+|area_code              = [[Area code 519|226]], [[Area code 905|289]], [[Area code 519|519]] and [[Area code 905|905]]
+|blank_name             = [[List of highways in Ontario|Highways]]
+|blank_info                = {{jcon|Hwy|QEW}}<br>{{jcon|Hwy|6}}<br>{{jcon|Hwy|20}}<br>{{jcon|Hwy|403}}
+|latd=43 |latm=15 |latNS=N
+|longd=79 |longm=52 |longEW=W
+|coordinates_display    = inline,title
+|elevation_footnotes    =<ref>Minimum is Lake Ontario, maximum in Flamborough near Mountsberg Reservoir as per City of Hamilton GIS</ref>
+|elevation_min_m        = 75
+|elevation_max_m        = 324
+|website                = {{URL|www.hamilton.ca}}
+|footnotes              =
+|image_blank_emblem = Hamilton City Logo.jpg}} <!-- Infobox ends, Revision: 1.3 !-->
+
+'''Hamilton''' ({{IPAc-en|ˈ|h|æ|m|əl|t|ən}}; [[Canada 2011 Census|2011 population]] 519,949; [[Urban area|UA]] population 670,580; [[Census Metropolitan Area|CMA]] population 721,053){{efn|The Census Metropolitan area comprises the cities of Hamilton, [[Burlington, Ontario|Burlington]], and [[Grimsby, Ontario|Grimsby]].<ref>{{cite web| url=http://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?LANG=Eng&GC=537| title=Census metropolitan area of Hamilton, Ontario| year=2011| publisher=Statistics Canada}}</ref>}} is a port city in the Canadian [[Provinces and territories of Canada|province]] of [[Ontario]]. Conceived by [[George Hamilton (politician)|George Hamilton]] when he purchased the [[James Durand|Durand]] farm shortly after the [[War of 1812]],<ref name="WEAVER1985">{{cite book |last=Weaver |first=John C. |title=Hamilton: an illustrated history |year=1985 |publisher=James Lorimer & Company, Publishers |pages=15–16|isbn= 0-88862-593-6}}</ref> Hamilton has become the centre of a densely populated and industrialized region at the west end of [[Lake Ontario]] known as the [[Golden Horseshoe]]. On January 1, 2001, the new City of Hamilton was formed through the amalgamation of the former city and the other constituent lower-tier municipalities of the [[Regional Municipality of Hamilton-Wentworth, Ontario|Regional Municipality of Hamilton-Wentworth]] with the upper-tier regional government.<ref name=amalgprovles>{{cite web|url=http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_99c14c_e.htm#BK6|title=City of Hamilton Act, 1999|accessdate=January 4, 2008}}</ref> Residents of the old city are known as Hamiltonians.<ref name=HAM100>{{cite book|title=The Hamiltonians, 100 Fascinating Lives |first=Margaret |last=Houghton |publisher=James Lorimer & Company Ltd., Publishers Toronto|page=6|year=2003|isbn= 1-55028-804-0}}</ref> Since 1981, the metropolitan area has been listed as the [[List of the 100 largest metropolitan areas in Canada|ninth largest in Canada]] and the third largest in Ontario.<!---Derived from decennial census data.-->
+
+Hamilton is home to the [[Royal Botanical Gardens, Ontario|Royal Botanical Gardens]], the [[Canadian Warplane Heritage Museum]], the [[Bruce Trail]], [[McMaster University]] and [[Mohawk College]]. McMaster University is ranked 4th in Canada and 94th in the world by Times Higher Education Rankings 2015-16 and has a well-known [[McMaster University Medical School|medical school]].<ref>{{cite web|title=World University Rankings 2015-2016|url=https://www.timeshighereducation.com/world-university-rankings/2016/world-ranking#!/page/3/length/25|website=Times Higher Education|publisher=Times Higher Education|accessdate=12 January 2016}}</ref> The [[Canadian Football Hall of Fame]] can be found downtown right beside [[Hamilton City Hall]] and across town to the east, the [[Canadian Football League]]'s [[Hamilton Tiger-Cats]] began playing at the new [[Tim Hortons Field]] in 2014, which was built as part of the [[2015 Pan American Games]].
+
+Possibly because of its diverse environment, numerous [[List of films shot in Hamilton, Ontario|TV and film productions]] have been filmed in Hamilton, regulated by the Hamilton Film and Television Office.<ref name=hamfilm>{{cite web |url=http://www.myhamilton.ca/NR/rdonlyres/28A1218B-C9A4-4941-A57D-3E69C261C14F/0/FilmGuideLines.pdf |title=Reel Choices: Film production resource guide |publisher=City of Hamilton |accessdate=January 4, 2008 |format=PDF}}</ref> A growing arts and culture community garnered media attention in 2006 when the ''[[Globe and Mail]]'' published an article called "Go West, Young Artist" about Hamilton's growing art scene. The article highlighted local [[art galleries]], [[recording studios]] and independent film production.<ref name=GOWEST/>
+
+== History ==
+{{Main|History of Hamilton, Ontario}}
+[[File:UnitedEmpireLoyalistsHamilton.JPG|left|thumb|[[United Empire Loyalists]]]]
+In pre-[[New France|colonial]] times, the [[Neutral Nation|Neutral Indians]] used much of the land but were gradually driven out by the [[Iroquois|Five (later Six) Nations]] (Iroquois) who were allied with the [[Canada under British Imperial control (1764-1867)|British]] against the [[Wyandot people|Huron]] and their French allies. A member of the Iroquois Confederacy provided the route and name for [[Mohawk Road (Hamilton, Ontario)|Mohawk Road]], which originally included King Street in the lower city. In 1784, about 10,000 [[United Empire Loyalists]] settled in [[Upper Canada]] (what is now southern Ontario), chiefly in [[Regional Municipality of Niagara, Ontario|Niagara]], around the [[Bay of Quinte]], and along the [[St. Lawrence River]] between [[Lake Ontario]] and [[Montreal]]. They were soon followed by many more Americans, some of them not so much ardent loyalists but attracted nonetheless by the availability of inexpensive, arable land. At the same time, large numbers of [[Iroquois]] loyal to Britain arrived from the United States and were settled on reserves west of Lake Ontario.<ref name=LOYALISTS>{{cite web |url=http://www.uelac.org/PDF/loyalist.pdf |title=A Short History of the United Empire Loyalists |accessdate=January 4, 2008 |last=Mackenzie |first=Ann| format=PDF| publisher=United Empire Loyalists' Association of Canada}}</ref>
+
+The town of Hamilton was conceived by [[George Hamilton (politician)|George Hamilton]] (a son of a [[Queenston]] entrepreneur and founder, [[Robert Hamilton (1753-1809)|Robert Hamilton]]), when he purchased farm holdings of [[James Durand]], the local Member of the [[Legislative Assembly of Upper Canada|British Legislative Assembly]], shortly after the [[War of 1812]].<ref name="WEAVER1985"/> [[Nathaniel Hughson]], a property owner to the north, cooperated with George Hamilton to prepare a proposal for a courthouse and jail on Hamilton's property. Hamilton offered the land to the crown for the future site. Durand was empowered by Hughson and Hamilton to sell property holdings which later became the site of the town. As he had been instructed, Durand circulated the offers at [[York, Upper Canada|York]] during a session of the Legislative Assembly and a new [[Gore District, Upper Canada|Gore District]] was established of which the Hamilton townsite was a member.<ref name="WEAVER1985"/><!-- This citation applies to the paragraph in entirety -->
+
+Initially, this town was not the most important centre of the Gore District. A permanent jail was not constructed until 1832 when a cut-stone design was completed on one of the two squares created in 1816, Prince's Square.<ref name="WEAVER1985"/> Subsequently, the first police board and the town limits were defined by statute on February 13, 1833.<ref>Statutes of Upper Canada, 1833 3° William IV pg.&nbsp;58–68. Chapter XVII An act to define the Limits of the Town of Hamilton, in the District of Gore, and to establish a Police and Public Market therein.</ref> Official City status was achieved on June 9, 1846, by an act of [[Parliament of the United Kingdom|Parliament]], 9 Victoria Chapter 73.<ref name=1846est>Provincial Statutes of Canada 1846 9° vict. pg 981 Chapter LXXIII. An Act to amend the Act incorporating the Town of Hamilton, and to erect the same into a City.</ref> <!-- This secondary source is not required as the first source references the actual document.<ref name=HENLEY>{{cite book |last= Henley |first= Brian |title= 1846 Hamilton: From a frontier town to the Ambitious City |publisher= North Shore Publishing |year=1995 |isbn= 0-9698460-7-X}}</ref> -->
+
+As the city grew, several prominent buildings were constructed in the late 19th century, including the [[Grand Lodge of Canada]] in 1855,<ref name=GRANDLODGE>
+{{cite web |url=http://www.grandlodge.on.ca/ |title=A Brief History of Grand Lodge of Canada in the Province of Ontario:1855 ~ 2005 Then and Now|publisher=Grand Lodge of Canada in the Province of Ontario |accessdate=January 4, 2008}}(Requires navigation to article).</ref> West Flamboro Methodist Church in 1879 (later purchased by Dufferin Masonic Lodge in 1893<ref name=dufferin>
+{{cite web |url=http://www.dufferinlodge.com/lodge.php |title=Dufferin Masonic Lodge No. 291 A.F. & A.M. |accessdate=January 4, 2009}}</ref>), a public library in 1890, and the Right House department store in 1893. The first commercial telephone service in Canada, the first telephone exchange in the [[British Empire]], and the second telephone exchange in all of North America all were established in the city between 1877–78.<ref name=headlake>
+{{cite web |url=http://epe.lac-bac.gc.ca/100/200/301/ic/can_digital_collections/cultural_landmarks/twps.html |title=Chronology of the Regional Municipality of Hamilton-Wentworth |accessdate=January 4, 2008}}</ref> The city had several interurban electric street railways and two inclines, all powered by the Cataract Power Co.<ref>"Cataract Traction," by John M. Mills (Canadian Traction Series, Volume 2)(1971).</ref>
+[[File:ScottishRiteCastleHamilton.JPG||thumb|left|Scottish Rite Castle]]
+
+Though suffering through the [[Hamilton Street Railway]] strike of 1906, with industrial businesses expanding, Hamilton's population doubled between 1900 and 1914. Two steel manufacturing companies, [[Stelco]] and [[Dofasco]], were formed in 1910 and 1912, respectively, and [[Procter & Gamble]] and the [[Beech-Nut|Beech-Nut Packing Company]] opened manufacturing plants in 1914 and 1922, respectively, their first outside the US.<ref name=HISINDI>
+{{cite web |url=http://epe.lac-bac.gc.ca/100/205/301/ic/cdc/industrial/default.htm |title=Industrial Hamilton – A Trail to the Future| publisher=Canada's Digital Collections |accessdate=January 30, 2011}}</ref> Population and economic growth continued until the 1960s, with the 1929 construction of the city's first high-rise building, the Pigott Building, the move of [[McMaster University]] from Toronto to Hamilton, the opening of the second [[Canadian Tire]] store in Canada in 1934, an airport in 1940, a [[Studebaker Canada Ltd.|Studebaker]] assembly line in 1948,<ref name=memproj45>{{cite press release| title =The Hamilton Memory Project; STUDEBAKER| publisher =The Hamilton Spectator–Souvenir Edition|page= MP45| date = June 10, 2006}}</ref> the [[Burlington Bay James N. Allan Skyway]] in 1958, and the first [[Tim Hortons]] store in 1964. Since then, many of the large industries have moved or shut down operations<ref name=HISINDI/> and the economy has shifted more toward the service sector, such as transportation, education, and health services.
+
+On January 1, 2001, the new city of Hamilton was formed from the amalgamation of Hamilton and its five neighbouring municipalities: [[Ancaster, Ontario|Ancaster]], [[Dundas, Ontario|Dundas]], [[Flamborough, Ontario|Flamborough]], [[Glanbrook, Ontario|Glanbrook]], and [[Stoney Creek, Ontario|Stoney Creek]].<ref name=amalgprovles/><!--<ref name=headlake/> --> Before amalgamation, the "old" City of Hamilton had 331,121 Hamiltonians divided into 100 neighbourhoods. The former region of Hamilton-Wentworth had a population of 490,268. The amalgamation created a single-tier municipal government ending subsidization of its suburbs. The new amalgamated city has 519,949 people in over 100 old neighbourhoods, and surrounding communities.<ref name=FOOTSTEPS>{{cite book|title=Footsteps in Time: Exploring Hamilton's heritage neighbourhoods|first=Bill |last=Manson |publisher=North Shore Publishing Inc|year=2003|isbn=1-896899-22-6}}</ref>
+
+The city experienced a devastating fire at the Plastimet plastics plant in 1997.<ref>[https://archive.org/stream/plastimetincfire00sochuoft/plastimetincfire00sochuoft_djvu.txt Full text of "Plastimet Inc. fire Hamilton, Ontario : July 9-12, 1997 /"]. Archive.org. Retrieved on 2013-10-31.</ref>  Approximately 300 firefighters battled the blaze, and many sustained severe chemical burns and inhaled [[volatile organic compound]]s when at least 400 tonnes of [[Polyvinyl chloride|PVC]] plastic were consumed in the fire.<ref>[http://www.thespec.com/news-story/2147497-deadly-legacy-is-plastimet-killing-firefighters-/ Deadly legacy: Is Plastimet killing firefighters?]. Thespec.com. Retrieved on 2013-10-31.</ref>
+
+== Geography ==
+{{Main|Geography of Hamilton, Ontario}}
+{{See also|Transportation in Hamilton, Ontario|List of streets in Hamilton, Ontario}}
+
+Hamilton is located in [[Southern Ontario]] on the western end of the [[Niagara Peninsula]] and wraps around the westernmost part of [[Lake Ontario]]; most of the city, including the downtown section, is on the south shore. Hamilton is situated in the geographic centre of the [[Golden Horseshoe]] and is roughly the midway point between [[Toronto]] and [[Buffalo, New York]], although slightly closer to the former. Its major physical features are Hamilton Harbour, marking the northern limit of the city, and the [[Niagara Escarpment]] running through the middle of the city across its entire breadth, bisecting the city into "upper" and "lower" parts. The maximum high point is 250m (820') above the level of Lake Ontario.<ref name=about>{{cite web
+  | last = Seward| first = Carrie
+  | title = About Hamilton; Physical features
+  | url=http://www.ueyhamilton.ca/
+  | accessdate = January 4, 2008 }}</ref>
+
+According to all records from local [[historians]], this district was called ''Attiwandaronia'' by the native [[Neutral Nation|Neutral people]].<ref name=SAGA>{{cite book
+  |title=Saga of a City
+  |first=Milton |last=Watson
+  |work=The Hamilton Spectator
+  |year=1938}}</ref> The first aboriginals to settle in the Hamilton area called the bay ''Macassa'', meaning "beautiful waters".<ref name=FOOTSTEPS/> Hamilton is one of 11 cities showcased in the book, ''Green City: People, Nature & Urban Places'' by Quebec author Mary Soderstrom, which examines the city as an example of an industrial powerhouse co-existing with nature.<ref name=GREENCITY>{{cite book| last = Soderstrom| first = Mary| title = Green City: People, Nature & Urban Places| publisher = Independent Pub Group| year = 2006| isbn = 1-55065-207-9}}</ref> Soderstrom credits [[Thomas McQuesten]] and family in the 1930s who "became champions of parks, greenspace and roads" in Hamilton.<ref name=GREENCITY2>{{cite news
+  |first=B. |last=Lawson
+  |title=Green City
+  |work=The Hamilton Spectator
+  |page=Go-7
+  |date=January 26, 2007
+  }}</ref>
+
+[[Hamilton Harbour]] is a natural harbour with a large [[sandbar]] called the Beachstrip. This sandbar was deposited during a period of higher lake levels during the last [[Quaternary glaciation|ice age]], and extends southeast through the central lower city to the escarpment. Hamilton's deep sea port is accessed by ship canal through the beach strip into the harbour and is traversed by two bridges, the QEW's [[Burlington Bay James N. Allan Skyway]] and the lower Canal Lift Bridge.<ref name=Bay>{{cite web
+  | title = Burlington Bay/ Beach strip, Hamilton harbour, Skyway Bridge
+  | url=http://beachvideo.info/
+  | accessdate = January 4, 2008}} (Requires navigation to relevant articles.)</ref><br />
+{{wide image|Hamilton Project2.jpg|900px|Panoramic view of Hamilton Harbour from T.B. McQuesten High Level Bridge on [[York Boulevard (Hamilton, Ontario)|York Boulevard]], near Harvey Park.}}
+
+<br />Between 1788 and 1793, the townships at the Head-of-the-Lake were surveyed and named. The area was first known as The Head-of-the-Lake for its location at the western end of Lake Ontario.<ref name=headlake/> [[John Ryckman]], born in Barton township (where present day downtown Hamilton is), described the area in 1803 as he remembered it: "The city in 1803 was all forest. The shores of the bay were difficult to reach or see because they were hidden by a thick, almost impenetrable mass of trees and undergrowth&nbsp;... Bears ate pigs, so settlers warred on bears. Wolves gobbled sheep and geese, so they hunted and trapped wolves. They also held organized raids on rattlesnakes on the mountainside. There was plenty of game. Many a time have I seen (sic) a deer jump the fence into my back yard, and there were millions of pigeons which we clubbed as they flew low."<ref name=barton2>{{cite web
+  | title =A History of the city of Hamilton
+  | url=http://epe.lac-bac.gc.ca/100/200/301/ic/can_digital_collections/cultural_landmarks/hamhist.htm
+  | accessdate = January 4, 2008}}</ref>
+[[File:Waterdawn Webster Falls5.jpg|thumb|[[Webster's Falls]] at [[Spencer Gorge / Webster's Falls Conservation Area]]]]
+[[File:Hamilton4.jpg|left|thumb|493x493px|[[Albion Falls]]]]
+[[George Hamilton (politician)|George Hamilton]], a settler and local politician, established a town site in the northern portion of Barton Township in 1815. He kept several east–west roads which were originally Indian trails, but the north–south streets were on a regular grid pattern. Streets were designated "East" or "West" if they crossed [[James Street (Hamilton, Ontario)|James Street]] or Highway 6. Streets were designated "North" or "South" if they crossed [[King Street (Hamilton, Ontario)|King Street]] or Highway 8.<ref name=HAMBIO1>{{cite book
+  |title=Dictionary of Hamilton Biography (Vol I, 1791–1875)
+  |first=Thomas Melville |last=Bailey
+  |publisher=W.L. Griffin Ltd
+  |year=1981}}</ref> The overall design of the townsite, likely conceived in 1816, was commonplace. George Hamilton employed a grid street pattern used in most towns in [[Upper Canada]] and throughout the American frontier. The eighty original lots had frontages of fifty feet; each lot faced a broad street and backed onto a twelve-foot lane. It took at least a decade for all of the original lots to be sold, but the construction of the Burlington Canal in 1823, and a new court-house in 1827, encouraged Hamilton to add more blocks around 1828–9. At this time, he included a market square in an effort to draw commercial activity onto his lands, but the natural growth of the town was to the north of Hamilton's plot.<ref name=Hamilton2>{{cite web
+  | last = Weaver| first = John C.
+  | work = Dictionary of Canadian Biography|title=George Hamilton
+  | url=http://www.biographi.ca/EN/ShowBio.asp?BioId=37546
+  | publisher=University of Toronto
+  | accessdate = January 4, 2008}}</ref>
+
+The [[Hamilton Conservation Authority]] owns, leases or manages about {{convert|4500|ha|acre|-2|lk=on}} of land with the City operating {{convert|1077|ha|acre|0|}} of parkland at 310 locations.<ref>{{cite web
+  | author=[[Hamilton Conservation Authority]]
+  | title =HCH History: A Long History&nbsp;...
+  | url=http://www.conservationhamilton.ca/corporate/aboutus/history.asp
+  | archiveurl=https://web.archive.org/web/20070607221331/http://www.conservationhamilton.ca/corporate/aboutus/history.asp
+  | archivedate=June 7, 2007
+  | accessdate = June 21, 2007}}</ref><ref>{{cite web
+
+  |author=City of Hamilton
+  |publisher=myhamilton.ca
+  |title =Hamilton Conservation Authority: City Parks
+  | url=http://www.myhamilton.ca/myhamilton/ArtsSportsAndRecreation/outdoor/city_parks.htm
+  | archiveurl=https://web.archive.org/web/20070926234254/http://www.myhamilton.ca/myhamilton/ArtsSportsAndRecreation/outdoor/city_parks.htm
+  | archivedate=September 26, 2007
+  | accessdate = January 4, 2008}}</ref> Many of the parks are located along the Niagara Escarpment, which runs from [[Tobermory, Ontario|Tobermory]] at the tip of the [[Bruce Peninsula]] in the north, to [[Queenston]] at the [[Niagara River]] in the south, and provides views of the cities and towns at the western end of Lake Ontario. The hiking path [[Bruce Trail]] runs the length of the escarpment.<ref name=BRUCETRAIL>{{cite web
+  | title =Bruce Trail Association
+  | url=http://www.brucetrail.org/
+  | accessdate = January 4, 2008}}</ref> [[List of waterfalls in Hamilton, Ontario|Hamilton is home to more than 100 waterfalls]] and cascades, most of which are on or near the Bruce Trail as it winds through the Niagara Escarpment.<ref>{{cite web|url=http://www.conservationhamilton.ca/waterfalls|title=Waterfalls - Hamilton Conservation Authority|work=conservationhamilton.ca}}</ref>
+
+{{wide image|Hamilton Panoramic.jpg|2000px|Panoramic view of lower Hamilton from Sam Lawrence Park near [[Concession Street (Hamilton, Ontario)|Concession Street]] on the Niagara Escarpment (Hamilton Mountain).}}
+
+=== Climate ===
+Hamilton's climate is humid-continental, characterized by changeable weather patterns. However, its climate is moderate compared with most of Canada. Hamilton's location on an embayment at the southwestern corner of Lake Ontario with an escarpment dividing upper and lower parts of the city results in noticeable disparities in weather over short distances. This is also the case with pollution levels, which depending on localized winds patterns or low clouds can be high in certain areas mostly originating from the city's steel industry mixed with regional vehicle pollution. With a July average of exactly {{convert|22.0|C|1}},<ref name = RBGstats /> the lower city is located in a pocket of the [[Humid continental climate#Dfa/Dwa/Dsa: Hot (or very warm) summer subtype|''Dfa'' climate zone]] found at the southwestern end of Lake Ontario (between Hamilton and Toronto and eastward into the [[Niagara Peninsula]]), while the upper reaches of the city fall into the [[Humid continental climate#Dfb/Dwb: Warm summer subtype|''Dfb'' climate zone]].
+
+The airport's open, rural location and higher altitude (240m vs. 85m ASL downtown) results in lower temperatures, generally windier conditions and higher snowfall amounts than lower, built-up areas of the city. One exception is on early spring afternoons; when colder than air lake temperatures keep shoreline areas significantly cooler, under the presence of an east or north-east onshore flow.
+
+The highest temperature ever recorded in Hamilton was 41.1°C (106°F) on 14 July 1868.<ref name="Hamilton (July 1868)">
+{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=%7C&dlyRange=1866-01-01%7C1958-08-31&mlyRange=1866-01-01%7C1958-12-01&StationID=4931&Prov=ON&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2016&selRowPerPage=25&Line=1&searchMethod=contains&Month=7&Day=12&txtStationName=hamilton&timeframe=2&Year=1868
+| title = Hamilton (July 1868)
+| work = Canadian Climate Data
+| accessdate = 23 March 2016}}</ref> The coldest temperature ever recorded was -30.6°C (-23°F) on 25 January 1884.<ref name="Hamilton (January 1884)">
+{{cite web
+| publisher = [[Environment Canada]]
+| url = http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=%7C&dlyRange=1866-01-01%7C1958-08-31&mlyRange=1866-01-01%7C1958-12-01&StationID=4931&Prov=ON&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2016&selRowPerPage=25&Line=1&searchMethod=contains&txtStationName=hamilton&timeframe=2&Year=1884&Month=1#
+| title = Hamilton (January 1884)
+| work = Canadian Climate Data
+| accessdate = 23 March 2016}}</ref>
+
+{{Hamilton, Ontario weatherbox}}
+
+== Demographics ==
+[[File:Population-coh-1816-2006.png|thumb|City population (1816–2006)<ref name="HAMBIO1 page 143">{{cite book|title=Dictionary of Hamilton Biography (Vol I, 1791–1875)|first=Thomas Melville |last=Bailey|publisher=W.L. Griffin Ltd|page=143|year=1981}}</ref><ref name=memproj38>{{cite press release| title =The Hamilton Memory Project| publisher =The Hamilton Spectator- Souvenir Edition|page= MP38| date =June 10, 2006}}</ref><ref name=bartont>{{cite web| author=Township of Barton|title =Barton township population: 1816| url=http://www.myhamilton.ca/myhamilton/LibraryServices/Localhistory/Barton+Census+1816.htm| archiveurl=https://web.archive.org/web/20070926234008/http://www.myhamilton.ca/myhamilton/LibraryServices/Localhistory/Barton+Census+1816.htm| archivedate=September 26, 2007| publisher=Hamilton Public Library}}</ref>]]
+
+According to the [[Canada 2006 Census|2006 Canadian Census]], more than 20 percent of the local population was [[Immigration to Canada|not born in Canada]]. This is the third highest such proportion in Canada after [[Toronto]] at 49%, and [[Vancouver]] at 39%. Between 2001 and 2006, the foreign-born population increased by 7.7% while the total population of the Hamilton census metropolitan area (CMA) grew by 4.3%. The share of Canada's recent immigrants who settle in Hamilton has remained unchanged since 2001 at 1.9%. Hamilton was home to 20,800 immigrants who arrived in Canada between 2001 and 2006, half of whom were born in [[Canadians of Asian ancestry|Asia]] and the Middle East, while nearly one-quarter (23%) were from Europe. Hamilton also had a high proportion of people with [[Italians|Italian]], [[English Canadian|English]], [[Scottish Canadian|Scottish]], [[German Canadian|German]] and [[Irish Canadian|Irish]] ancestry. Nearly three in ten residents reported English as their sole ethnic origin or as one of their ancestral origins. As well, nearly one in five reported Scottish ancestry either alone or in combination with another ethnic origin.<ref name=StatsCan07>{{cite web|url=http://www12.statcan.ca/english/census06/analysis/immcit/hamilton.cfm |title=Hamilton: Third highest proportion of foreign-born in Canada at 24.4%|publisher=Statistics Canada|work=2006 Canadian Census|accessdate=January 4, 2008}}</ref><!-- This citation applies to the paragraph in entirety -->
+
+The [[Canada 2011 Census]] short form did not include questions on ethnic background or national origin. However, the 2011 National Household Survey (NHS) (a voluntary survey that accompanied the census) produced the following data:<ref>{{cite web| url=http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Data=Count&SearchText=hamilton&SearchType=Begins&SearchPR=35&A1=Immigration%20and%20citizenship&B1=All&Custom=&amp;TABID=1| title=NHS Profile, Hamilton, C, Ontario, 2011: Immigration and Citizenship| publisher=Statistics Canada}}</ref>
+* of 509,635 respondents, 125,010 (or 24.5 percent) were immigrants
+* 27,750 respondents (5.4 percent of total respondents) immigrated between 2001 and 2011
+* the highest numbers of immigrants (in total) came from the following countries:
+*# Italy: 11,610 (9.3 percent of immigrants)
+*# Poland: 5,950 (4.8 percent)
+*# India: 5,930 (4.7 percent)
+*# Portugal: 5,775 (4.6 percent)
+*# Philippines: 5,285 (4.2 percent)
+*# Croatia: 4,840 (3.9 percent)
+*# United States: 4,290 (3.4 percent)
+*# Iraq: 3,855 (3.1 percent)
+*# China (excluding Hong Kong and Macau): 3,740 (3.0 percent)
+*# Germany: 3,345 (2.7 percent)
+
+In February 2014, the city's council voted to declare Hamilton a [[sanctuary city]], offering municipal services to [[undocumented immigrants]] at risk of [[deportation]].<ref>{{cite news| url=http://www.thespec.com/news-story/4364479-hamilton-to-become-sanctuary-city-for-newcomers-who-fear-deportation/| title=Hamilton to become 'sanctuary city' for newcomers who fear deportation| last=Van Dongen| first=Matthew| date=February 12, 2014| work=The Hamilton Spectator}}</ref><ref>{{cite news| url=http://www.thestar.com/news/gta/2014/02/12/hamilton_declares_itself_sanctuary_city_for_undocumented_immigrants.html| title=Hamilton declares itself 'sanctuary city' for undocumented immigrants| last=Nursall| first=Kim| date=February 12, 2014| work=Toronto Star}}</ref>
+
+Hamilton also has a large French community for which provincial services are offered in French. In Ontario, urban centres where there are at least 5000 Francophones or where at least 10% of the population is francophone are designated areas where bilingual provincial services have to be offered. According to the latest statistics, the Francophone community grew by 50% between 2006 and 2011 in Hamilton, and in the City, 45,000 citizens claim to have knowledge of both official languages, amongst which 13,000 have French as a mother tongue. The Franco-Ontarian community of Hamilton boasts two schoolboards (Conseil scolaire Viamonde and Conseil scolaire de district catholique Centre-Sud) five schools (2 secondary and 3 elementary), a community health centre that is part of the LHIN (Centre de santé communautaire Hamilton/Niagara), a cultural centre (Centre français Hamilton), three daycare centres, a provincially funded employment centre (Options Emploi), a community college site (Collège Boréal) and a community organization that supports the development of the francophone community in Hamilton (ACFO Régionale Hamilton).
+[[File:Hamilton7.jpg|left|thumb|279x279px|Downtown Hamilton view from Sam Lawrence Park]]
+The top countries of birth for the newcomers living in Hamilton in the 1990s were: [[SFRY|former Yugoslavia]], [[Polish Canadian|Poland]], [[Indo-Canadians|India]], [[Chinese Canadian|China]], the [[Filipino Canadian|Philippines]], and [[Iraqi Canadian|Iraq]].<ref name=StatsCan02>{{cite web|url=http://www12.statcan.ca/english/census01/Products/Analytic/companion/etoimm/subprovs.cfm#hamilton |title=Hamilton: The top countries of birth for the newcomers arriving in Hamilton in the 1990s|publisher=Statistics Canada|work=2001 Canadian Census|accessdate=January 4, 2008}}</ref>
+
+Children aged 14 years and under accounted for 17.8% of the population while those 65 years of age and older constituted 14.9%, resulting in an average age of 39.6 years.<ref name="statscan-ham">{{cite web|url=http://www12.statcan.ca/english/census06/data/profiles/community/Details/Page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Geo2=PR&Code2=35&Data=Count&SearchText=Hamilton&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=&GeoCode=3525005|title=Community Profiles from the 2006 Census, Statistics Canada - Census Subdivision|date=March 13, 2007|work=statcan.ca}}</ref>
+
+The most described [[Religion in Canada|religion]] in Hamilton is Christianity although other religions brought by immigrants are also growing. The 2011 census indicates that 67.6% of the population adheres to a Christian denomination, with [[Catholicism|Catholics]] being the largest at 34.3% of the city's population. The [[Christ the King Cathedral (Hamilton)|Christ the King Cathedral]] is the seat of the [[Roman Catholic Diocese of Hamilton, Ontario|Diocese of Hamilton]]. Other denominations include the [[United Church of Canada|United Church]] (6.5%), [[Anglican]] (6.4%), [[Presbyterianism|Presbyterian]] (3.1%), [[Orthodox Christianity|Christian Orthodox]] (2.9%), and other denominations (9.8%).  Other religions with significant populations include [[Islam in Canada|Islam]] (3.7%), [[Buddhism|Buddhist]] (0.9%), [[Sikhism|Sikh]] (0.8%), [[Hinduism|Hindu]] (0.8%), and [[Judaism|Jewish]] (0.7%). Those with no religious affiliation accounted for 24.9% of the population.<ref>{{cite web|url=http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Data=Count&SearchText=Hamilton&SearchType=Begins&SearchPR=01&A1=All&B1=All&GeoLevel=PR&GeoCode=3525005&TABID=1|title=National Household Survey (NHS) Profile, 2011|work=statcan.gc.ca}}</ref>
+
+Environics Analytics, a geodemographic marketing firm that created 66 different "clusters" of people complete with profiles of how they live, what they think and what they consume, sees a future Hamilton with younger upscale Hamiltonians—who are tech savvy and university educated—choosing to live in the downtown and surrounding areas rather than just visiting intermittently. More two and three-storey townhouses and apartments will be built on downtown lots; small condos will be built on vacant spaces in areas such as [[Dundas, Ontario|Dundas]], [[Ainslie Wood, Ontario|Ainslie Wood]] and [[Westdale, Ontario|Westdale]] to accommodate newly retired seniors; and more retail and commercial zones will be created. The city is also expected to grow by more than 28,000 people and 18,000 households by the year 2012.<ref name=FUTURE>{{cite news | last = Choi| first = Paul| title = How does your city grow?| pages = Go-16| publisher = The Hamilton Spectator| date = January 19, 2007}}</ref><!--This citation applies to the paragraph in entirety-->
+
+The following data are recorded by the 2011 NHS survey:
+
+<center>
+{| class="wikitable"
+|
+{| border="1" cellspacing="0" cellpadding="5"
+|-
+| valign="top" |
+{|
+|- style="background:#efefef;"
+|+ Reported ethnic origins, 2011
+! Ethnic origin
+! Number of respondents<ref group="note">Total number of respondents was 509,635.</ref><ref>{{cite web| url=http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3525005&Data=Count&SearchText=hamilton&SearchType=Begins&SearchPR=35&A1=Ethnic%20origin&B1=All&Custom=&amp;TABID=1| title=NHS Profile, Hamilton, C, Ontario, 2011| publisher=Statistics Canada}}</ref>
+! Percent of respondents<ref group="note">Note that a person may report more than one ethnic origin.</ref>
+|-
+| English || style="text-align:right;"| 134,925 || style="text-align:right;"| 26.5
+|-
+| Canadian || style="text-align:right;"| 122,150|| style="text-align:right;"| 24.0
+|-
+| Scottish || style="text-align:right;"| 98,955 || style="text-align:right;"| 19.4
+|-
+| Irish || style="text-align:right;"| 85,650 || style="text-align:right;"| 16.8
+|-
+| Italian || style="text-align:right;"| 60,535 || style="text-align:right;"| 11.9
+|-
+| German || style="text-align:right;"| 46,905 || style="text-align:right;"| 9.2
+|}
+| valign="top" |
+{|
+|- style="background:#efefef;"
+|+ Reported ethnic origins, 2011
+! Ethnic origin
+! Number of respondents
+! Percent of respondents
+|-
+| French || style="text-align:right;"| 42,740 || style="text-align:right;"| 8.4
+|-
+| Polish || style="text-align:right;"| 27,465 || style="text-align:right;"| 5.4
+|-
+| Dutch || style="text-align:right;"| 26,370 || style="text-align:right;"| 5.2
+|-
+| Ukrainian || style="text-align:right;"| 17,770 || style="text-align:right;"| 3.5
+|-
+| Portuguese || style="text-align:right;"| 14,610 || style="text-align:right;"| 2.9
+|-
+| North American Indian || style="text-align:right;"| 13,720 || style="text-align:right;"| 2.7
+|}
+|}
+|}
+</center>
+{{reflist|group="note"}}
+
+== Economy ==
+{{Main|Economy of Hamilton, Ontario}}
+{{See also|Film industry in Hamilton, Ontario|List of head offices in Hamilton, Ontario}}
+[[File:JacksonSquareHamilton.JPG|right|thumb|[[Lloyd D. Jackson Square]] (Mall), Commerce Place Complex]]
+<!-- Deleted image removed: [[File:The Linc.jpg|thumb|left|The [[Red Hill Valley Parkway]] near the [[Lincoln M. Alexander Parkway]] interchange]] -->
+
+The most important economic activity in Ontario is manufacturing, and the Toronto–Hamilton region is the most highly industrialized section of the country. The area from [[Oshawa]], Ontario around the west end of Lake Ontario to Niagara Falls, with Hamilton at its centre, is known as the Golden Horseshoe and had a population of approximately 8.1 million people in 2006.<ref name="2006CensGGH">{{cite web
+|url=http://www12.statcan.ca/english/census06/analysis/popdwell/subprov4.cfm#ggh
+|title=Portrait of the Canadian Population in 2006: Sub-provincial population dynamics, Greater Golden Horseshoe
+|work=[[Statistics Canada]], 2006 Census of Population
+|date=March 13, 2007
+|accessdate=August 20, 2008}}</ref> The phrase was first used by [[Westinghouse Electric (1886)|Westinghouse]] President Herbert H. Rogge in a speech to the Hamilton Chamber of Commerce, on January 12, 1954. "Hamilton in 50 years will be the forward cleat in a golden horseshoe of industrial development from Oshawa to the Niagara River&nbsp;... 150 miles long and {{convert|50|mi|km}} wide...It will run from Niagara Falls on the south to about Oshawa on the north and take in numerous cities and towns already there, including Hamilton and Toronto."<ref name=Bank>{{cite web| title = Fast Facts from Hamilton's Past (www.myhamilton.ca)| url=http://www.myhamilton.ca/myhamilton/LibraryServices/Localhistory/Fast+Facts.htm| publisher=Hamilton Public Library|accessdate = January 4, 2008|archiveurl = https://web.archive.org/web/20070929083215/http://www.myhamilton.ca/myhamilton/LibraryServices/Localhistory/Fast+Facts.htm |archivedate = September 29, 2007|deadurl=yes}}</ref>
+
+With sixty percent of Canada's steel being produced in Hamilton by [[Stelco]] and [[Dofasco]], the city has become known as the Steel Capital of Canada.<ref name=steelcap>{{cite web| last = Schneider| first = Joe| title = Hamilton Steel capital of Canada| publisher= International Herald Tribune| url=http://www.iht.com/articles/2006/01/23/business/bxsteel.php| date=January 24, 2006|accessdate =  January 4, 2008}}</ref> After nearly declaring bankruptcy, Stelco returned to profitability in 2004.<ref name=steelprofit>{{cite web| last = Wines| first = Leslie| title = Stelco has returned to profitability| publisher= CBS Market Watch| url=http://www.marketwatch.com/News/Story/Story.aspx?guid={F484DECA-6A84-4D0C-9D6F-255CF1F2AE27}&dist=ArchiveSplash&param=archive&siteid=mktw&garden=&minisite=| date=December 24, 2004|accessdate = January 4, 2008}}</ref> On August 26, 2007 [[United States Steel Corporation]] acquired Stelco for C$38.50 in cash per share, owning more than 76 percent of Stelco's outstanding shares.<ref name=USSTEEL>{{cite web| title = U. S. Steel Agrees to Acquire Stelco.| url=http://www.stelco.com/investorCentre_article.aspx?releaseId=1044891| publisher=Stelco.com|accessdate = January 4, 2008}}</ref> On September 17, 2014 US Steel Canada announced that it was applying for bankruptcy protection and that it would be closing down its Hamilton operations.<ref name=Globe&Mail>{{cite web| title = U.S. Steel Canada to sell Hamilton Works operations| url=http://www.theglobeandmail.com/report-on-business/us-steel-canada-to-sell-hamilton-works-operations/article20748635/| work=The Globe and Mail|accessdate = September 25, 2014}}</ref>
+[[File:Construction and restoration of the new "Bella Towers" on 150 Main Street West in downtown Hamilton, Ontario.jpg|thumb|left|Construction of the new "Bella Towers" on 150 Main Street West. A part of the string of new private development and investment currently happening in the downtown core.]]
+Dofasco, in 1999, was the most profitable steel producer in North America and in 2000, the most profitable in Canada. It currently has approximately 7,300 employees at its Hamilton plant and produces over four million [[ton]]s of steel annually, representing about 30% of Canada's flat rolled sheet steel shipments. Dofasco is one of North America's most profitable steel companies, and Dofasco was named to the [[Dow Jones]] Sustainability World Index in 2006 for the seventh year in a row. Dofasco produces steel products for the automotive, construction, energy, manufacturing, pipe and tube, appliance, packaging and steel distribution industries.<ref name=dofasco>{{cite web| last = Forstner| first = Gordon| title = Dofasco one of North America's most profitable steel companies| url=http://www.dofasco.ca/bins/content_page.asp?cid=2347-2349-93261| publisher=Dofasco |date=October 31, 2005|accessdate = January 4, 2008}}</ref> Dofasco is currently a stand alone subsidiary of [[Arcelor Mittal]], the world's largest steel producer. Previously ordered by the U.S. Department of Justice to divest itself of the Canadian company, Arcelor Mittal has now been allowed to retain Dofasco provided it sells several of its American assets instead.<ref>{{cite news|last=Hamilton Spectator News Wire |title=Dofasco deadline looms |work=Hamilton Spectator |date=December 14, 2006 |url=http://www.hamiltonspectator.com/NASApp/cs/ContentServer?pagename=hamilton/Layout/Article_Type1&c=Article&cid=1166050213293&call_pageid=1020420665036&col=1112101662835 |accessdate=September 28, 2008 |deadurl=yes |archiveurl=https://web.archive.org/20070927194234/http://www.hamiltonspectator.com/NASApp/cs/ContentServer?pagename=hamilton/Layout/Article_Type1&c=Article&cid=1166050213293&call_pageid=1020420665036&col=1112101662835 |archivedate=27 September 2007 }}</ref>
+
+Originally, in the 1940s, the [[John C. Munro Hamilton International Airport]] was used as a wartime air force training station. Today TradePort International Corporation manages and operates the John C. Munro Hamilton International Airport. Under TradePort management, passenger traffic at the Hamilton terminal has increased from 90,000 in 1996 to approximately 900,000 in 2002. The airport's mid-term target for growth in its passenger service is five million air travelers annually. The air cargo sector of the airport has 24–7 operational capability and strategic geographic location, allowing its capacity to increase by 50% since 1996; 91,000&nbsp;[[metric tonnes]] (100,000&nbsp;[[Short ton|tons]]) of cargo passed through the airport in 2002. Courier companies with operations at the airport include [[United Parcel Service]] and Cargojet Canada.<ref name=airport2>{{cite web| title = 2009 Annual Report| publisher= John C. Munro Hamilton International Airport| url=http://www.flyhi.ca/wp-content/uploads/2010/06/hamilton_international_airport_2009_annual_report.pdf| accessdate = October 25, 2010}}</ref> In 2003, the city began developing a 30-year growth management strategy which called, in part, for a massive [[aerotropolis]] industrial park centred on Hamilton Airport. The aerotropolis proposal, now known as the ''Airport Employment Growth District'', is touted as a solution to the city's shortage of employment lands.<ref name=AirportB>{{cite news | last = McNulty| first = Gord| title = Energy City| publisher = The Hamilton Spectator| date = December 18, 2007}}</ref> Hamilton turned over operation of the airport to TradePort International Corp. in 1996. In 2007, YVR Airport Services (YVRAS), which runs the [[Vancouver International Airport]], took over 100 percent ownership of TradePort in a $13-million deal. The airport is also home to the [[Canadian Warplane Heritage Museum]].
+
+A report by Hemson Consulting identified an opportunity to develop {{convert|1000|ha|acre|-2|}} of greenfields (the size of the Royal Botanical Gardens) that could generate an estimated 90,000 jobs by 2031. A proposed [[aerotropolis]] industrial park at Highway 6 and 403, has been debated at City Hall for years. Opponents feel the city needs to do more investigation about the cost to taxpayers before embarking on the project.<ref name=Airport2>{{cite news | last = McacIntyre| first = Nicole| title = Airport land 'key to future'| publisher = The Hamilton Spectator| date = April 16, 2007}}</ref>
+
+==Crime==
+When ranked on a "total crime severity index", Hamilton was 21st in Canada in 2011 for a metropolitan area.  This was an eight percent decrease from 2010.<ref>{{cite web | last = Brennan | first = Shannon | title = Police-reported crime statistics in Canada, 2011 | publisher = Statistics Canada | date = July 24, 2012 | url = http://www.statcan.gc.ca/pub/85-002-x/2012001/article/11692-eng.pdf}}</ref>  Of note was Hamilton's second place rank for police-reported hate crimes in 2011.<ref>{{cite web | last = Allen | first = Mary | title = Police-reported hate crime in Canada, 2011 | publisher = Statistics Canada | date = July 11, 2013 | url = http://www.statcan.gc.ca/pub/85-002-x/2013001/article/11822-eng.pdf}}</ref>
+
+== Government ==
+{{Main|Politics of Hamilton, Ontario}}
+{{See also|Hamilton, Ontario City Council|Category:Mayors of Hamilton, Ontario}}
+{{main|Hamilton, Ontario municipal election, 2014}}
+[[File:Federal Building Hamilton.JPG|left|thumb|[[Bay Street (Hamilton)|Bay Street]] Federal Building]]
+
+Citizens of Hamilton are represented at all three levels of Canadian government. Following the [[42nd Canadian federal election|2015 Federal Election]], representation in the [[Parliament of Canada]] will consist of five [[Members of Parliament (Canada)|Members of Parliament]] representing the federal ridings of [[Hamilton West—Ancaster—Dundas]], [[Hamilton Centre]], [[Hamilton East—Stoney Creek]], [[Hamilton Mountain]], and [[Flamborough—Glanbrook]]. This election will mark the first occasion in which Hamilton will have five Members of Parliament representing areas wholly within Hamilton's city boundaries, with previous boundaries situating rural ridings across municipal lines.<ref>[http://www.redecoupage-federal-redistribution.ca/content.asp?section=on&dir=now/reports&document=page9&lang=e Federal Electoral Boundaries Commission for Ontario, "Hamilton, Halton and Niagara" in "Part II – Amendments to the Initial Report (July 31, 2013) – Ontario – Objections", ''Report of the Federal Electoral Boundaries Commission for the Province of Ontario'', February 25, 2015.]</ref>
+
+Provincially, there are five elected [[Member of Provincial Parliament (Ontario)|Members of Provincial Parliament]] who serve in the [[Legislature of Ontario]]. [[Ministry of Municipal Affairs and Housing (Ontario)|Minister of Housing and Municipal Affairs]], [[Ted McMeekin]] ([[Liberal Party of Ontario|Liberal]]), represents [[Ancaster—Dundas—Flamborough—Westdale (provincial electoral district)|Ancaster—Dundas—Flamborough—Westdale]]. Leader of the [[Ontario New Democratic Party]], [[Andrea Horwath]], represents [[Hamilton Centre]], [[Paul Miller (Canadian politician)|Paul Miller]] (NDP) represents [[Hamilton East—Stoney Creek]], and [[Monique Taylor]] (NDP) represents [[Hamilton Mountain]]. Former leader of the [[Progressive Conservative Party of Ontario]], [[Tim Hudak]], serves as MPP for [[Niagara West—Glanbrook (provincial electoral district)|Niagara West—Glanbrook]].<ref>[http://www.ontla.on.ca/web/members/members_current.do?locale=en&ord=Riding&dir=ASC&list_type=all_mpps Legislative Assembly of Ontario, "Current MPPs", ''Legislative Assembly of Ontario'', URL accessed August 16, 2015.]</ref>
+
+Hamilton's municipal government consists of one mayor, elected city wide, and 15 city councillors, elected individually by each of the city's wards, to serve on the Hamilton City Council. Presently, Hamilton's mayor is [[Fred Eisenberger]], elected on October 27, 2014 to a second, non-consecutive term.<ref>[https://www.hamilton.ca/council-committee/mayor-councillors/mayors-office-mayor-fred-eisenberger City of Hamilton, "The Mayor's Office," ''City of Hamilton'', February 25, 2015, URL accessed August 16, 2015.]</ref> Additionally, both [[Hamilton-Wentworth District School Board|Public]] and [[Hamilton-Wentworth Catholic District School Board|Catholic]] school board trustees are elected for defined areas ranging from two trustees for multiple wards to a single trustee for an individual ward. [[File:Hamilton city hall.jpg|right|thumb|[[Hamilton City Hall]].]] Municipal elections in Hamilton occur every four years, the last one occurring on [[Hamilton, Ontario, municipal election, 2014|October 27, 2014]]. The next scheduled municipal election will occur in October 2018.
+
+The Hamilton City Council is granted authority to govern by the province through the Municipal Act of Ontario.<ref>{{cite web
+|url=http://www.e-laws.gov.on.ca/DBLaws/Statutes/English/01m25_e.htm
+|title=Municipal Act, 2001 (Requires navigation to article)|publisher=Ontario|accessdate=January 4, 2008| archiveurl = https://web.archive.org/web/20070621231757/http://www.e-laws.gov.on.ca/DBLaws/Statutes/English/01m25_e.htm| archivedate = June 21, 2007}}</ref> As with all municipalities, the Province of Ontario has supervisory privilege over the municipality and the power to redefine, restrict or expand the powers of all municipalities in Ontario.
+
+The Criminal Code of Canada is the chief piece of legislation defining criminal conduct and penalty. The [[Hamilton Police Service (Ontario)|Hamilton Police Service]] is chiefly responsible for the enforcement of federal and provincial law. Although the Hamilton Police Service has authority to enforce, bylaws passed by the Hamilton City Council are mainly enforced by Provincial Offences Officers employed by the City of Hamilton.<ref>{{cite web|url=http://www.e-laws.gov.on.ca/DBLaws/Statutes/English/90p33_e.htm#1.(3)|archiveurl=https://web.archive.org/web/20070704233807/http://www.e-laws.gov.on.ca/DBLaws/Statutes/English/90p33_e.htm#1.(3)|archivedate=July 4, 2007|title=Provincial Offences Act (Requires navigation to article)|publisher=Ontario|accessdate=January 4, 2008}}</ref>
+
+The [[Canadian Armed Forces|Canadian Military]] maintains a presence in Hamilton, with the [[John Weir Foote|John Weir Foote Armoury]] located in the downtown core on James Street North, housing the [[Royal Hamilton Light Infantry]] as well as the 11th Field Hamilton-Wentworth Battery and the Argyll and Sutherland Highlanders of Canada. The Hamilton Reserve Barracks, located on Pier Nine, houses the [[Canadian Forces Primary Reserve|naval reserve]] division {{HMCS|Star}}, 23 Service Battalion and the 23 Field Ambulance.
+
+== Education ==
+
+Hamilton is home to several post-secondary institutions that have created numerous direct and indirect jobs in education and research. [[McMaster University]] moved to the city in 1930 and today has around 30,000 enrolled students, of whom almost two-thirds come from outside the immediate Hamilton region.<ref name=Mac>{{cite web| title = McMaster's Economic Impact on the Hamilton Community| publisher= McMaster University| url=http://www.mcmaster.ca/pres/chambercomm.html| accessdate = January 4, 2008 |archiveurl = https://web.archive.org/web/20071016194015/http://mcmaster.ca/pres/chambercomm.html <!-- Bot retrieved archive --> |archivedate = October 16, 2007}}</ref><ref name=MACU>{{cite web| title = McMaster University Office of Public Relations| url=http://www.mcmaster.ca/opr/html/opr/fast_facts/main/studentEnrolment.html| accessdate = September 9, 2008}}</ref> [[Brock University]] of [[St. Catharines, Ontario]] has a satellite campus used primarily for teacher education located in Hamilton.<ref name=BROCK>{{cite web| title = Brock University: Official web site| url=http://www.brocku.ca| accessdate = January 4, 2008}}</ref> Colleges in Hamilton include:
+* [[McMaster Divinity College]], a Christian [[seminary]] affiliated with the [[Baptist Convention of Ontario and Quebec]] since 1957. McMaster Divinity College is located on the McMaster University campus, and is affiliated with the University. The Divinity College was created as part of the process of passing governance of the University as a whole from the BCOQ to a privately chartered, publicly funded arrangement.
+* [[Mohawk College]], a college of applied arts and technology since 1967 with 10,000 full time, 40,000 part time, and 3,000 apprentice students.<ref name=MOHAWK>{{cite web| title = Mohawk College of Applied Arts & Technology| url=http://www.mohawkcollege.ca/homepage.html| archiveurl=https://web.archive.org/web/20060516145009/http://www.mohawkcollege.ca/homepage.html| archivedate=May 16, 2006| accessdate = January 4, 2008}}</ref>
+* Mohawk College also has an [[IELTS Testing Centre]] in Hamilton at their Fennell Campus, which tests twice monthly.<ref name="IELTS Testing Centre">{{cite web| title = Mohawk College IELTS Testing Centre in Hamilton| url=http://www.mohawkcollege.ca/ielts}}</ref>
+* [[Columbia International College]] is Canada's largest private boarding high school, with 1,700 students from 73 countries.<ref name=Columbia>{{cite web| title = Columbia International College: At a glance| url=http://www.cic-totalcare.com/2/english/about.html| accessdate = Nov 21, 2013}}</ref>
+* [[Redeemer University College]], a private Christian liberal arts and science university opened in 1982, with about a thousand students currently.<ref name=Redeemer>{{cite web| title = About Redeemer| url=http://www.redeemer.ca/about/| accessdate = January 4, 2008}}</ref>
+[[File:McMasterUMedical.jpg|thumb|left|McMaster University Medical Centre]]
+
+Public education for students from kindergarten through high school is administered by three school boards. The [[Hamilton-Wentworth District School Board]] manages 114 public schools,<ref>[http://www.hwdsb.on.ca/schools/ Hamilton-Wentworth District School Board » Maintenance]. Hwdsb.on.ca. Retrieved on 2013-07-26.</ref> while the [[Hamilton-Wentworth Catholic District School Board]] operates 55 schools in the greater Hamilton area.<ref>http://www.hwcdsb.ca/parents/schoolfinder/</ref> The [[Conseil scolaire de district du Centre-Sud-Ouest]] operates one elementary and one secondary school ([[École secondaire Georges-P.-Vanier]]), and the [[Conseil scolaire de district catholique Centre-Sud]] operates two elementary schools and one secondary school. Calvin Christian School, Providence Christian School and Timothy Christian School are independent Christian elementary schools. [[Hamilton District Christian High School]], Rehoboth Christian High School and [[Guido de Bres Christian High School]] are independent Christian high schools in the area. Both HDCH and Guido de Brès participate in the city's interscholastic athletics. [[Hillfield Strathallan College]] is located on the West Hamilton mountain and is a [[Canadian Accredited Independent Schools|CAIS]] member, non-profit school for children from early Montessori ages through grade twelve.
+[[File:McMaster University Student Centre Plaza.jpg|thumb|right|McMaster University Student Centre Plaza]]
+
+The Dundas Valley School of Art is an independent art school which has serviced the Hamilton region since 1964. Students range in age from 4 years old to senior citizens and enrollment as of February 2007 was close to 4,000. In 1998, a new full time diploma programme was launched as a joint venture with McMaster University. The faculty and staff are highly regarded regional artists.<ref name=dvalley>{{cite web| title = Dundas Valley School of Art| url=http://www.dvsa.ca/| accessdate = January 4, 2008}}</ref><!-- This citation applies to the paragraph in entirety -->
+
+The Hamilton Conservatory for the Arts is home to many of the area's talented young actors, dancers, musicians, singers and visual artists. The school is equipped with a keyboard studio, spacious dance studios, art and sculpting studios, gallery space and a 300 seat recital hall. HCA offers over 90 programs for ages 3–93, creating a "united nations" of arts under one roof.<ref name=hamcon>{{cite web| title = Hamilton Conservatory for the Arts| url=http://www.hcarts.ca/| accessdate = January 4, 2008}}</ref><!-- This citation applies to the paragraph in entirety -->
+
+The [[Hamilton Literacy Council]] is a non-profit organization that provides basic (grades 1–5 equivalent) training in reading, writing, and math to English-speaking adults. The council's service is free, private, and one-to-one. It started to assist adults with their literacy skills in 1973.
+
+Hamilton is home to two [[think tanks]], the Centre for Cultural Renewal and Cardus, which deals with social architecture, culture, urbanology, economics and education and also publishes the ''LexView Policy Journal'' and ''Comment Magazine''.<ref>{{cite web|url=http://www.cardus.ca|title=Cardus|work=Cardus.ca}}</ref>
+
+== Culture ==
+{{Main|Culture of Hamilton, Ontario}}
+{{See also|Media in Hamilton, Ontario|People from Hamilton, Ontario}}
+
+[[File:DundurnCastleSummer.JPG|thumb|right|[[Dundurn Castle]]]]
+[[File:Gore Park Fountain - Hamilton.jpg|thumb|right|Gore Park Fountain. The Commerce 1 building is in the background.]]
+Hamilton has built on its historical and social background with attractions including the [[Canadian Warplane Heritage Museum]], the {{HMCS|Haida}} National Historic Site (Canada's most famous warship and the last remaining Tribal Class in the world),<ref name=HMCS>{{cite web| title = Parks Canada HMCS Haida website| url=http://www.pc.gc.ca/lhn-nhs/on/haida/index_e.asp| accessdate = January 4, 2008}}</ref> [[Dundurn Castle]] (the residence of a Prime Minister of [[Upper Canada]]),<ref name=dundurn>{{cite web| title = Dundurn Castle|url=http://www.myhamilton.ca/myhamilton/CityandGovernment/CultureandRecreation/Arts_Culture_And_Museums/HamiltonCivicMuseums/Dundurn/| accessdate = January 4, 2008}}</ref> the [[Royal Botanical Gardens, Ontario|Royal Botanical Gardens]], the [[Canadian Football Hall of Fame]], the [[African Lion Safari]] Park, the [[Christ the King Cathedral (Hamilton)|Cathedral of Christ the King]], and the Workers' Arts and Heritage Centre.<ref>{{cite web|url=http://www.wahc-museum.ca/|title=Workers Arts and Heritage Centre|work=Workers Arts and Heritage Centre}}</ref>
+
+Founded in 1914, the [[Art Gallery of Hamilton]] is Ontario's third largest public art gallery. The gallery has over 9,000 works in its permanent collection that focus on three areas: 19th century European, Historical Canadian and Contemporary Canadian.<ref name=ARTGALLERY>{{cite web| title = Art Gallery of Hamilton| url=http://www.artgalleryofhamilton.com| accessdate = July 21, 2008}}</ref>
+[[File:Historic James Street South commercial buildings.jpg|thumb|left|Historic James Street South commercial art buildings]]
+The [[McMaster Museum of Art]] (MMA), founded at McMaster University in 1967, houses and exhibits the University's art collection of more than 7,000 objects,<ref name=fbook>{{cite web|title=McMaster University Fact Book 2009–2010|url=http://www.mcmaster.ca/avpira/documents/factbook/FactBook20092010.pdf |date=November 2010|publisher=International Research & Analysis, McMaster University|accessdate=August 2, 2011}}</ref> including historical, modern and contemporary art, the Levy Collection of Impressionist and Post Impressionist paintings, and a collection of over 300 German Expressionist prints.
+
+Hamilton has quite an active theatre scene, with the professional company Theatre Aquarius, plus long-time amateur companies, the Players' Guild of Hamilton and [[Hamilton Theatre Inc.]]. Many smaller theatre companies have also opened in the past decade, bringing a variety of theatre to the area.
+
+Growth in the arts and culture sector has garnered high level media attention for Hamilton. A ''[[Globe and Mail]]'' article in 2006, entitled "Go West, Young Artist," focused on the growing art scene in Hamilton.<ref name=GOWEST>{{cite news|first=Bruce|last=Mowat|title = Go west, young artist|work = Globe and Mail|date = January 6, 2007}}</ref> The Factory: Hamilton Media Arts Centre,<ref name=FACTORY>{{cite web| title = The Factory: Hamilton Media Arts Centre| url=http://www.hamiltonmediaarts.org/| accessdate = January 4, 2008}}</ref> opened up a new home on James Street North in 2006. Art galleries are springing up on many streets across the City: [[James Street (Hamilton, Ontario)|James Street]], [[King William Street (Hamilton, Ontario)|King William Street]], [[Locke Street (Hamilton, Ontario)|Locke Street]] and [[King Street (Hamilton, Ontario)|King Street]], to name a few. This, coupled with growth in the downtown condo market which is drawing people back to the core, is having an impact on the cultural fabric of the city. The opening of the Downtown Arts Centre<ref name=DAC>{{cite web| title = Downtown Arts Centre, Hamilton, Ontario| url=http://www.dachamilton.com/index.html| accessdate = January 4, 2008}}</ref> on Rebecca Street has spurred further creative activities in the core. The Community Centre for Media Arts<ref name=CCMA>{{cite web| title = Community Centre for Media Arts| url=http://www.ccma.ws/site/| archiveurl=https://web.archive.org/web/20071212233519/http://www.ccma.ws/site/| archivedate=December 12, 2007| accessdate = January 4, 2008}}</ref> (CCMA) continues to operate in downtown Hamilton. The CCMA works with marginalized populations and combines new media services such as website development, graphic design, video, and information technology, with arts education and skills development programming.<ref name=INVESTH20>Invest in Hamilton, Economic Development Review 2005, Wednesday, June 28, 2006, "City Remains Committed To Growing Arts & Culture" Page H20</ref><!-- This citation applies to the paragraph in entirety -->
+
+The 2009 film ''[[Defendor]]'', starring [[Woody Harrelson]] as a vigilante superhero, is implied to take place in Hamilton, referred to by its nickname of "Hammer Town" several times throughout the film. It was filmed in Hamilton and Toronto.
+
+In March 2015, Hamilton was host to the [[Juno Awards of 2015|JUNO Awards]],<ref>{{cite news|last1=Kakoullis|first1=Adrienne|title=Hamilton to Host the 2015 JUNO Awards|url=http://junoawards.ca/wp-content/uploads/2014/01/2015-JUNO-Awards-Host-City.pdf|accessdate=20 March 2015|agency=CARAS|publisher=CTV|date=January 9, 2014}}</ref> which featured performances by [[Hedley (band)|Hedley]], [[Alanis Morissette]] and [[Magic!]]. The award ceremony was held at the FirstOntario Centre in downtown Hamilton. During JUNOfest, hundreds of local acts performed across the city, bringing thousands of tourists.
+
+== Sports ==
+{{Main|Sports in Hamilton, Ontario}}
+{{See also|List of sports venues in Hamilton, Ontario|Category:Sport in Hamilton, Ontario|}}
+
+[[File:IvorWynneStadium Hamilton.jpg|thumb|[[Ivor Wynne Stadium]]]]
+[[File:CoppsColiseumYorkBoulevard.JPG|right|thumb|[[Copps Coliseum]], York Boulevard, looking East]]
+[[File:Statue touchdown cfhof.jpg|thumb|right|The [[Canadian Football Hall of Fame]] museum]]
+
+{| class="wikitable"
+|+ '''Professional and Semi-Professional teams'''
+|-
+! style="text-align:left;"| Club
+! style="text-align:left;"| League
+! style="text-align:left;"| Venue
+! style="text-align:left;"| Established
+! style="text-align:left;"| Championships
+|-
+| [[Hamilton Tiger-Cats]]
+| [[Canadian Football League]]
+| [[Tim Hortons Field]]
+| style="text-align:center;"| 1950<ref>The Tiger-Cats trace their origins to the founding of the Hamilton Foot Ball Club in 1869. See {{cite web|url=http://www.footballcanada.com/history_timeline.asp|title=Canadian Football Timelines (1860 – present)|accessdate=January 4, 2008|publisher=[[Football Canada]]|archiveurl = https://web.archive.org/web/20080329005545/http://www.footballcanada.com/history_timeline.asp |archivedate = March 29, 2008|deadurl=yes}}</ref>
+| style="text-align:center;"| 15
+|-
+|}
+{| class="wikitable"
+|+ '''Amateur and junior clubs'''
+|-
+! style="text-align:left;"| Club
+! style="text-align:left;"| League
+! style="text-align:left;"| Venue
+! style="text-align:left;"| Established
+! style="text-align:left;"| Championships
+|-
+| [[Hamilton Bulldogs (OHL)|Hamilton Bulldogs]]
+| [[Ontario Hockey League]]
+| [[FirstOntario Centre]]<br><small>formerly Copps Coliseum</small>
+| style="text-align:center;"|2015
+| style="text-align:center;"| 0
+|-
+| [[Hamilton Hurricanes]]
+| [[Canadian Junior Football League]]
+| [[Tim Hortons Field]]
+| style="text-align:center;"|1963
+| style="text-align:center;"| 3
+|-
+| [[Hamilton Croatia]]
+| [[Canadian Soccer League]]
+| [[Brian Timmis Stadium]]
+| style="text-align:center;"|1957
+| style="text-align:center;"| 1
+|-
+| [[Hamilton Red Wings Jr. A|Hamilton Red Wings]]
+| [[Ontario Provincial Junior A Hockey League|Ontario Provincial Junior A Hockey]]
+| [[Dave Andreychuk Mountain Arena & Skating Centre|Dave Andreychuk Mountain Arena]]
+| style="text-align:center;"| 1973
+| style="text-align:center;"| 1
+|-
+| [[Hamilton Hornets R.F.C.]]
+| Niagara Rugby Union
+| [[Mohawk Sports Park]]
+| style="text-align:center;"| 1954
+| style="text-align:center;"| 0
+|-
+| [[Hamilton Wildcats]]
+| Australian Rules Football League
+| [[Mohawk Sports Park]]
+| style="text-align:center;"| 1997
+| style="text-align:center;"| 0
+|-
+| [[Hamilton Cardinals]]
+| [[Intercounty Baseball League]]
+| [[Bernie Arbour Memorial Stadium]]
+| style="text-align:center;"| 2005
+| style="text-align:center;"| 0
+|-
+| [[Stoney Creek Camels]]
+| [[Rugby Ontario|Marshall Rugby Premiership]]
+| [[Saltfleet District High School]]
+| style="text-align:center;"| 1964
+| style="text-align:center;"| 1
+|}
+
+Hamilton was the host of Canada's first major international athletic event, the first [[Commonwealth Games]] (then called the British Empire Games) in [[1930 British Empire Games|1930]]. Hamilton bid unsuccessfully for the Commonwealth Games in [[2010 Commonwealth Games|2010]], losing out to [[2010 Commonwealth Games|New Delhi]] in India.<ref name=memproj56>{{cite press release| title = Tigertown Triumphs| publisher =The Hamilton Spectator-Memory Project (Souvenir Edition) |page= MP56| date =June 10, 2006}}</ref> On November 7, 2009, in [[Guadalajara, Mexico]] it was announced that Toronto would host the [[2015 Pan Am Games]] after beating out two rival [[South American]] cities, [[Lima, Peru]] and [[Bogota, Colombia]]. The city of Hamilton co-hosted the Games with Toronto. Hamilton Mayor [[Fred Eisenberger]] said, "the Pan Am Games will provide a 'unique opportunity for Hamilton to renew major sport facilities giving Hamiltonians a multi-purpose stadium, a 50-metre swimming pool, and an international-calibre [[velodrome]] to enjoy for generations to come.'"<ref name=PANAM>{{cite web| title = Toronto, Hamilton win Pan Am Games bid.| url=http://thespec.com/article/667961| accessdate = November 8, 2009}}</ref>
+
+The [[Around the Bay Road Race]] circumnavigates [[Hamilton Harbour]]. Although it is not a marathon distance, it is the longest continuously held long distance foot race in North America.<ref name=memproj56-68>{{cite press release| title = Tigertown Triumphs| publisher =The Hamilton Spectator – Memory Project (Souvenir Edition) page MP56-MP68| date =June 10, 2006}}</ref> The local newspaper also hosts the amateur [[Spectator Indoor Games]].<ref name="memproj56-68" />
+
+Hamilton has representation in two professional sports leagues, the [[Canadian Football League]] and [[Major League Lacrosse]]. Its major sports complexes include [[Ivor Wynne Stadium]] and [[Copps Coliseum]]; Hamilton is also home to the [[Canadian Football Hall of Fame]] museum.<ref name=foothof>{{cite web| title = Canadian Football Hall of Fame & Museum| url=http://www.cfhof.ca/| accessdate = March 5, 2010}}</ref> The museum hosts an annual induction event in a week-long celebration that includes school visits, a golf tournament, a formal induction dinner and concludes with the Hall of Fame game involving the local [[Canadian Football League|CFL]] [[Hamilton Tiger-Cats]] at Ivor Wynne Stadium.<ref name=hallfame>{{cite web| title = Five more walk into Canadian Football's hallowed shrine| url=http://www.hamiltonscores.com/football/news/?article=092922426| publisher= Hamilton Scores!| accessdate = January 4, 2008|archiveurl = https://web.archive.org/web/20071015201959/http://www.hamiltonscores.com/football/news/?article=092922426 |archivedate = October 15, 2007|deadurl=yes}}</ref><ref name=IVORW>{{cite web|url=http://football.ballparks.com/CFL/Hamilton/index.htm|title=Ivor Wynne Stadium Information|accessdate=January 4, 2008}}</ref>
+
+In addition to team sports, Hamilton is also home to an auto race track, [[Flamboro Speedway]] and Canada's fastest half-mile harness horse racing track, [[Flamboro Downs]].<ref name=flamboro>{{cite web| title = Flamboro Downs| url=http://www.flamborodowns.com/about_us.htm| archiveurl=https://web.archive.org/web/20071231155607/http://www.flamborodowns.com/about_us.htm| archivedate=December 31, 2007|publisher= Official web site| accessdate = January 4, 2008}}</ref> Another auto race track, [[Cayuga International Speedway]], is located near Hamilton in the [[Haldimand County]] community of Nelles Corners, situated between [[Hagersville, Ontario|Hagersville]] and [[Cayuga, Ontario|Cayuga]].<ref name=Cayuga>{{cite web| title = New owners give Cayuga International Speedway its old name| url=http://www.hamiltonscores.com/autoracing/news/?article=061508168|publisher= Hamilton Scores!| accessdate = January 4, 2008|archiveurl = https://web.archive.org/web/20071015201937/http://www.hamiltonscores.com/autoracing/news/?article=061508168 |archivedate = October 15, 2007|deadurl=yes}}</ref>
+
+Hamilton hosted an NHL team in the 1920s called the [[Hamilton Tigers (ice hockey)|Hamilton Tigers]]. The team folded after a players' strike in 1925.<ref name=TIGERSNHL1>{{cite book|title=Hamilton's Hockey Tigers|first=Sam |last=Wesley|publisher=James Lorimer & Company Ltd.|year=2005}}</ref> [[Research in Motion]] CEO [[Jim Balsillie]] has shown interest in bringing another NHL team to southern Ontario. The NHL's [[Phoenix Coyotes]] filed for bankruptcy in 2009 and have included within their Chapter 11 reorganization a plan to sell the team to Balsillie and move the team and its operations to Hamilton, Ontario.<ref name=Coyotes>{{cite web| title = Report: Hamilton in Talks with Balsillie| url=http://sports.espn.go.com/nhl/news/story?id=4154780|publisher= ESPN| accessdate = May 11, 2009}}</ref> In late September, however, the bankruptcy judge did not rule in favor of Balsillie. The City plans to continue their fight for an NHL team.
+
+== Notable people ==
+{{main|List of people from Hamilton, Ontario}}
+
+== Sister cities ==
+Hamilton is a [[sister city]] with [[Flint, Michigan]], and its young amateur athletes compete in the [[CANUSA Games]], held alternatively in the two cities since 1958.<ref name=memproj56 /> Flint and Hamilton hold the distinction of having the oldest continuous sister-city relationship between a U.S. and Canadian city, since 1957.<ref name=FLINTMICH>{{cite web| title = About Sister Cities of Flint Michigan| url=http://www.visitflint.org/sistercities/About_Sister_Cities_of_Flint.htm| accessdate = January 4, 2008|archiveurl = https://web.archive.org/web/20071019150808/http://www.visitflint.org/sistercities/About_Sister_Cities_of_Flint.htm |archivedate = October 19, 2007|deadurl=yes}}</ref>
+
+Other sister cities with Hamilton include:<ref name = TWINNED/>
+
+{{Col-begin}}
+{{Col-break|width = 33%}}
+* {{flagicon|USA}} [[Pittsburgh]] (U.S.)
+* {{flagicon|JPN}} [[Fukuyama, Hiroshima|Fukuyama]] (Japan) (since 1976)<ref>{{cite web| title = Hamilton Ontario Sister Cities| url=http://www.myhamilton.ca/myhamilton/CommunitiesAndOrganizations/communitiesofhamilton/sistercities| accessdate = 2008-01-24 |archiveurl = https://web.archive.org/web/20070926234112/http://www.myhamilton.ca/myhamilton/CommunitiesAndOrganizations/communitiesofhamilton/sistercities <!-- Bot retrieved archive --> |archivedate = 2007-09-26}}</ref>
+* {{flagicon|CHN}} [[Ma'anshan]] (China) (since 1987)<ref>{{cite web| url=http://www.mundialization.ca/hamiltons-twin-cities/maanshan-china/| title=Maanshan, China| publisher=The Hamilton Mundialization Committee}}</ref>
+* {{flagicon|IND}} [[Mangalore]] (India) (since 1968)<ref>{{cite web| url=http://www.mundialization.ca/hamiltons-twin-cities/mangalore-india/| title=Mangalore, India| publisher=The Hamilton Mundialization Committee}}</ref>
+* {{flagicon|MEX}} [[Monterrey]] (Mexico) (since 1993)<ref>{{cite web| url=http://www.mundialization.ca/hamiltons-twin-cities/monterrey-mexico/| title=Monterrey, Mexico| publisher=The Hamilton Mundialization Committee}}</ref>
+{{Col-break|width = 33%}}
+* {{flagicon|ITA}} [[Racalmuto]] (Italy) (since 1986)<ref>{{cite web| url=http://www.mundialization.ca/hamiltons-twin-cities/racalmuto-sicily-italy/| title=Racalmuto, Sicily Italy| publisher=The Hamilton Mundialization Committee}}</ref>
+* {{flagicon|USA}} [[Sarasota, Florida]] (U.S.) (since 1991)<ref name=sarasota>{{cite web|url=http://www.sarasotasistercities.org/Hamilton.html |title=Sarasota Sister Cities|accessdate=January 4, 2008}}</ref>
+* {{flagicon|CAN}} [[Shawinigan, Quebec]] (since 1958)<ref>{{cite web| url=http://www.mundialization.ca/hamiltons-twin-cities/shawinigan-quebec-canada/| title=Shawinigan, Quebec Canada| publisher=The Hamilton Mundialization Committee}}</ref>
+* {{flagicon|ITA}} [[Valle Peligna]] (Italy) (since 1990)<ref>{{cite web| url=http://www.mundialization.ca/hamiltons-twin-cities/valle-peligna-abruzzo-region-italy/| title=Valle Peligna, Abruzzo Region Italy| publisher=The Hamilton Mundialization Committee}}</ref>
+{{Col-break|width = 33%}}
+{{Col-end}}
+
+Other city relationships:<ref name=TWINNED>{{cite web| title = Hamilton Ontario Sister Cities| url=http://www.myhamilton.ca/myhamilton/CommunitiesAndOrganizations/communitiesofhamilton/sistercities| accessdate = January 4, 2008|archiveurl = https://web.archive.org/web/20070926234112/http://www.myhamilton.ca/myhamilton/CommunitiesAndOrganizations/communitiesofhamilton/sistercities |archivedate = September 26, 2007|deadurl=yes}}</ref>
+* {{flagicon|BRA}} [[Porto Alegre]] (Brazil)
+
+== Gallery ==
+{{Gallery
+|title=Hamilton
+|width=180 | height=200
+|align=center
+|File:hamilton3.jpg 
+ |Classic direction sign
+|File:hamilton5.jpg
+ |St. Patrick's [[Roman Catholic]] [[Church (building)|Church]]
+|File:hamilton6.jpg
+ |Downtown Hamilton
+
+|File:hamilton8.jpg
+ |Commerce Place from Downtown Hamilton
+|File:hamilton9.jpg
+ |A classical building from Downtown [[Dundas, Ontario|Dundas]]
+}}
+
+== See also ==
+{{Portal|Hamilton, Ontario }}
+* [[Auchmar (Hamilton, Ontario)]]
+* [[Greater Toronto and Hamilton Area]]
+* [[Hamilton ravine system]]
+* [[Metrolinx]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category}}
+{{Wikivoyage|Hamilton (Ontario)|Hamilton, Ontario}}
+* [http://www.hamilton.ca City of Hamilton – official website]
+
+{{Geographic location  <!-- This geo box is for DIRECTLY ADJACENT municipalities as standardized for all other municipalities -->
+ | Centre    = Hamilton
+ | North     = [[Burlington, Ontario|Burlington]]
+ | Northeast = ''[[Lake Ontario]]''
+ | East      = [[Grimsby, Ontario|Grimsby]]<br />[[West Lincoln, Ontario|West Lincoln]]
+ | Southeast =
+ | South     = [[Haldimand County]]
+ | Southwest = [[County of Brant|Brant]]
+ | West      = [[North Dumfries, Ontario|North Dumfries]]
+ | Northwest = [[Puslinch, Ontario|Puslinch]], [[Milton, Ontario|Milton]]
+}}
+{{Navboxes|list ={{Hamilton}}
+{{Roads in Hamilton, Ontario}}
+{{Commonwealth Games Host Cities}}
+{{Census metropolitan areas by size}}
+{{Subdivisions of Ontario}}
+{{World's most populated urban areas}}}}
+
+{{Featured article}}
+
+[[Category:Hamilton, Ontario| ]]
+[[Category:Niagara Escarpment]]
+[[Category:Populated places established in the 1810s]]
+[[Category:Populated places on the Great Lakes]]
+[[Category:Port settlements in Ontario]]

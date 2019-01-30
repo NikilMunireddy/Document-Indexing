@@ -1,0 +1,488 @@
+Harare
+
+{{about|the capital city of Zimbabwe|the city in [[Ethiopia]]|Harar}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+<!-- Infobox starts !-->
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|official_name          = Harare
+|other_name            = Salisbury <small>(official name until 1982)</small>
+|nickname               =Sunshine City, H Town
+|settlement_type        =City
+|motto                  ={{plainlist|
+*''Pamberi Nekushandira Vanhu''
+*(Shona: "Forward with Service to the People")}}
+|translit_lang1=
+|translit_lang1_type=
+|translit_lang1_info=
+<!-- images and maps  ----------->
+|image_skyline          =Harare Skyline.jpg
+|imagesize              =300px
+|image_caption          =Skyline of Harare, Capital of Zimbabwe
+|image_flag             =Flag of Harare.svg
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =Coat of arms of Harare.svg
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y        =
+|pushpin_map            = Zimbabwe <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = 
+|pushpin_map_alt        = 
+|pushpin_map_caption    = 
+<!-- Location ------------------>
+|coordinates_region     =ZW
+|subdivision_type       =Country
+|subdivision_name       =[[Zimbabwe]]
+|subdivision_type1      =[[Provinces of Zimbabwe|Province]]
+|subdivision_name1      =Harare
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =[[Mayor of Harare|Mayor]]
+|leader_name            =Bernard Manyenyeni<ref name=mayorsite>{{cite web|url=http://www.hararecity.co.zw/index.php/his-worship-the-mayor|title=Mayor 2013–2018|publisher=City of Harare|accessdate=3 December 2013}}</ref>
+|leader_title1          =<!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =Founded as Fort Salisbury
+|established_date       =1890
+|established_title2     =<!-- was never incorporated as a town -->Incorporated (city)
+|established_date2      =1935
+|established_title3     =Renamed to Harare
+|established_date3      =1982
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref              =<!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         =
+|area_total_km2          =960.6  
+|area_land_km2          =<!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2         =
+|area_total_sq_mi       =
+|area_land_sq_mi        =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+|area_blank1_title      =
+|area_blank1_km2        =
+|area_blank1_sq_mi      =
+<!-- Population   ----------------------->
+|population_as_of               =2009
+|population_footnotes           =
+|population_note                =estimated
+|population_total               =1,606,000
+|population_density_km2         =2540
+|population_density_sq_mi       =4330
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =1,619,000 (March 2013)<ref>{{cite web|title=Demographia World Urban Areas PDF (March 2013)|url=http://www.demographia.com/db-worldua.pdf|publisher=Demographia|accessdate=24 November 2013}}</ref> 
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_demonym             = Hararean
+<!-- General information -->
+|timezone=[[Central Africa Time|CAT]]
+|utc_offset=+2
+|timezone_DST=
+|utc_offset_DST=
+|latd= 17|latm=51 |lats=50|latNS=S
+|longd= 31|longm= 1|longs=47| longEW=E|coordinates_display=d
+|elevation_footnotes    =
+|elevation_m            =1490
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =4
+|twin1                  =[[Nottingham]]
+|twin1_country          =United Kingdom
+|twin2                  =[[Munich]]
+|twin2_country          =Germany
+|twin3                  =[[Cincinnati]]
+|twin3_country          =United States
+|twin4                  =[[Prato]]
+|twin4_country          =Italy
+|twin5                  =[[Lago, Calabria|Lago]]
+|twin5_country          =Italy
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+|website                ={{url|http://hararecity.co.zw}}
+|footnotes              =Dialling code 4 (or 04 from within Zimbabwe)
+}}<!-- Infobox ends !-->
+
+'''Harare''' ({{IPAc-en|h|ə|ˈ|r|ɑr|eɪ}};<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/harare|title=Harare|publisher=|accessdate=25 May 2015}}</ref> officially called '''Salisbury''' until 1982<ref>[http://www.parlzim.gov.zw/attachments/article/96/NAMES_ALTERATION_ACT_10_14.pdf Names (Alteration) Act Chapter 10:14]</ref>) is the capital and most populous city of [[Zimbabwe]]. Situated in the north-east of the country in the heart of historic [[Mashonaland]], the city has an estimated population of 1,606,000 (2009),<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html 'CIA – The World Factbook'']</ref> with 2,800,000 in its metropolitan area (2006).  Administratively, Harare is a metropolitan [[Harare Province|province]], which also incorporates [[Chitungwiza]] town and [[Epworth, Zimbabwe|Epworth]].<ref>{{cite report|url=http://www.parlzim.gov.zw/attachments/article/128/Harare%20Provincial%20Profile.pdf|accessdate=22 November 2013|publisher=Parliament Research Department|date=2011|title=Harare Provincial Profile}}</ref> It is situated at an elevation of 1,483 metres (4,865&nbsp;feet) and its climate falls into the subtropical highland category.
+
+The city was founded in 1890 by the [[Pioneer Column]], a small military force in the service of the [[British South Africa Company]], and named Fort Salisbury after the British Prime Minister [[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|Lord Salisbury]]. Company [[Company rule in Rhodesia|administrators]] demarcated the city and ran it until [[Southern Rhodesia]] achieved [[responsible government]] in 1923. Salisbury was thereafter the seat of the Southern Rhodesian (later [[Rhodesia]]n) government and, between 1953 and 1963, the capital of the [[Federation of Rhodesia and Nyasaland|Central African Federation]]. It retained the name Salisbury until 1982, when it was renamed Harare on the second anniversary of Zimbabwean independence.
+
+Harare is Zimbabwe's leading financial, commercial, and communications centre, and a trade centre for tobacco, maize, cotton, and [[citrus]] fruits. Manufactured goods include textiles, steel and chemicals, and gold is mined in the area. The city's suburbs include [[Borrowdale, Harare|Borrowdale]], [[Mount Pleasant, Harare|Mount Pleasant]] and [[Avondale, Harare|Avondale]]; the most affluent neighbourhoods are to the north. The [[University of Zimbabwe]], the country's oldest university (founded in 1952), is situated in Mount Pleasant, about {{convert|6|km|abbr=on}} north of the city centre.<ref>[http://www.uz.ac.zw/information/uz.html University of Zimbabwe Website]</ref> Harare is home to the country's main [[Test cricket]] ground, [[Harare Sports Club]], and to [[Dynamos F.C.]], Zimbabwe's most successful [[association football]] team.
+
+== History ==
+{{see also|Timeline of Harare}}
+
+===Colonial and UDI period (1890–1979)===
+{{redirect-distinguish|Fort Salisbury|Fort at Salisbury Point}}
+[[File:Hoisting the flag at Fort Salisbury.png|thumb|left|The [[Pioneer Column]] hoists the [[Union Flag|Union Jack]] on the [[Monadnock|kopje]] overlooking the city, 13 September 1890]]
+The [[Pioneer Column]], a military volunteer force of settlers organised by [[Cecil Rhodes]], founded the city on 12 September 1890 as a fort.<ref name="Gold Fever (Hoste)">{{cite book|last=Hoste|first=Skipper|title=Gold Fever|editor=N.S.Davies|publisher=Pioneer Head|location=Salisbury, Rhodesia|year=1977|isbn=0-86918-013-4}}</ref> They originally named the city Fort Salisbury after [[Robert Arthur Talbot Gascoyne-Cecil, 3rd Marquess of Salisbury|The 3rd Marquess of Salisbury]], then [[British prime minister]], and it subsequently became known simply as Salisbury. The Salisbury Polo Club was formed in 1896.<ref name="laffaye">Horace A. Laffaye, ''Polo in Britain: A History'', Jefferson, North Carolina: McFarland & Company, 2012, p. 76</ref> It was declared to be a municipality in 1897 and it became a city in 1935.
+
+The  area at the time of founding of the city was poorly drained and earliest development was on sloping ground along the left bank of a stream that is now the course of a trunk road (Julius Nyerere Way). The first area to be fully drained was near the head of the stream and was named Causeway as a result. This area is now the site of many of the most important government buildings, including the Senate House and the Office of the Prime Minister, now renamed for the use of President [[Mugabe]] after the position was abolished in January 1988.<ref>Journal of Frederick Courtney Selous, Rhodesiana Reprint Library, Salisbury, 1969</ref>
+
+Salisbury was the capital of the [[self-governing colony|self-governing]] British colony of [[Southern Rhodesia]] from 1923, and of the [[Federation of Rhodesia and Nyasaland]] from 1953 to 1963. [[Ian Smith]]'s [[Rhodesian Front]] government [[Rhodesia's Unilateral Declaration of Independence|declared Rhodesia independent]] from the United Kingdom on 11 November 1965, and proclaimed the [[Rhodesia|Republic of Rhodesia]] in 1970.  Subsequently, the nation became the short-lived state of [[Zimbabwe Rhodesia]]; it was not until 18 April 1980 that the country was internationally recognised as independent as the [[Zimbabwe|Republic of Zimbabwe]].
+
+===Post-independence (1980–1998)===
+The capital city retained the name Salisbury until 1982.
+
+The name of the city was changed to Harare on 18 April 1982, the second anniversary of Zimbabwean independence, taking its name from the village near Harare Kopje of the [[Shona people|Shona]] chief Neharawa, whose nickname was "he who does not sleep".<ref>{{cite book|title=Placenames of the World: Origins and Meanings of the Names for Over 5000 Natural Features, Countries, Capitals, Territories, Cities and Historic Sights|first=Adrian|last=Room|publisher=McFarland|year=2003|ISBN=9780786418145}}</ref> Prior to independence, "Harare" was the name of the black residential area now known as Mbare.
+
+===Economic difficulties and hyperinflation (1999–2008)===
+In the early 21st century Harare has been adversely affected by the political and economic crisis that is currently plaguing Zimbabwe, after the contested 2002 presidential election and 2005 parliamentary elections. The elected council was replaced by a government-appointed commission for alleged inefficiency, but essential services such as rubbish collection and street repairs have rapidly worsened, and are now virtually non-existent. In May 2006 the Zimbabwean newspaper the ''[[Financial Gazette]]'', described the city in an editorial as a "sunshine city-turned-sewage farm".<ref>''Financial Gazette'' editorial of 17 May 2006 "Zimbabwe: It's Chombo's Fault" [http://www.zimbabwesituation.com/may19_2006.html#Z13]</ref> In 2009, Harare was voted to be the toughest city to live in according to the Economist Intelligence Unit's livability poll.<ref>{{cite news|url=http://www.calgaryherald.com/Vancouver+world+easiest+city+live+Harare+worst+Poll/1674901/story.html|title=Vancouver world's easiest city to live in, Harare worst: Poll|last=Agence France-Presse|work=The Vancouver Sun|publisher=Calgary Herald|accessdate=8 June 2009}}</ref>
+
+====Operation Murambatsvina====
+In May 2005 the Zimbabwean government demolished shanties and backyard cottages in Harare and the other cities in the country in [[Operation Murambatsvina]] ("Drive Out Trash").   It was widely alleged{{Who|date=May 2011}} that the true purpose of the campaign was to punish the urban poor for supporting the opposition [[Movement for Democratic Change (pre-2005)|Movement for Democratic Change]] and to reduce the likelihood of mass action against the government by driving people out of the cities. The government claimed it was necessitated by a rise of criminality and disease. This was followed by [[Operation Garikayi/Hlalani Kuhle]] (Operation "Better Living") a year later which consisted of building concrete housing of poor quality.
+
+===2009–present===
+
+In late March 2010, Harare's Joina City Tower was finally opened after 14 years of on-off construction, marketed as ''Harare's new Pride''.<ref>{{cite news|url=http://www.urbika.com/articles/view/16441|title=Joina City- Harare's New Pride – Inside Joina City- Facts & Figures|date=31 March 2010|publisher=Urbika.com|accessdate=17 June 2013}}</ref> Initially, uptake of space in the tower was low, with office occupancy at only 3% in October 2011.<ref>{{cite news|url=http://www.for-builder.com/stories/2011/10/16/joina-city-occupancy-3pc|title=Joina City Occupancy 3pc|date=16 October 2011|publisher=ForBuilder}}</ref> By May 2013, office occupancy had risen to around half, with all the retail space occupied.<ref name=changingspaces>{{cite news|url=http://mg.co.za/article/2013-05-31-00-zimbabwes-changing-spaces|publisher=Mail and Guardian|title=Zimbabwe's Changing Spaces|last=Moyo|first=Jason|date=31 May 2013|accessdate=17 June 2013}}</ref>
+
+The [[Economist Intelligence Unit]] rated Harare as the world's least liveable city out of 140 surveyed in February 2011,<ref>{{cite news|title=Vancouver still world's most livable city: survey |first=Balazs |last=Koranyi |url=http://www.reuters.com/article/2011/02/21/us-cities-liveable-idUSTRE71K0NS20110221?pageNumber=1 |publisher=Reuters |date=21 February 2011 |accessdate=28 September 2012}}</ref> rising to 137th out of 140 in August 2012.<ref>{{cite report|url=http://www.eiu.com/public/thankyou_download.aspx?activity=download&campaignid=Liveability2012|title=Liveabililty Ranking and Overview August 2012|author=[[The Economist Intelligence Unit]]|date=August 2012|accessdate=17 June 2013}}</ref>
+
+===Future plans===
+
+During late 2012, plans to build a new capital district in Mt. Hampden, about twenty kilometres north-west of Harare's central business district, were announced and illustrations shown in Harare's daily newspapers. The location of this new district would imply an expansion into [[Zvimba District]]. The plan generated varied opinions.<ref>{{cite news|title=Zvimba paradise city revealed|url=http://www.newsday.co.zw/2012/11/23/zvimba-paradise-city-revealed/|date=23 November 2012|accessdate=6 June 2013|publisher=Newsday}}</ref>
+
+In March 2015, Harare City Council planned a two-year project to install 4,000 [[Solar street light|solar streetlights]], at a cost of $15 million, starting in the central business district.<ref>{{Cite web| last = Madalitso Mwando| title = Zimbabwe Capital Turns to Solar Streetlights to Cut Costs, Crime| work = allAfrica.com - Thomson Reuters Foundation| accessdate = 2015-03-28| date = 2015-03-27| url = http://allafrica.com/stories/201503270369.html}}</ref>
+
+== Geography ==
+
+===Topography===
+The city sits on the one of the higher parts of the Highveld plateau of Zimbabwe at an elevation of 1483 metres (4865 feet). The original landscape could be described as a "parkland."<ref>TV Bulpin: Discovering South Africa pp 838</ref>
+
+===Climate===
+Harare has a pleasant  [[subtropical highland climate]] ([[Köppen climate classification|Köppen]] ''Cwb''). The average annual temperature is {{convert|17.95|°C|1}}, rather low for the tropics, and this is due to its high altitude position and the prevalence of a cool south-easterly airflow.<ref>Average for years 1965–1995, Goddard Institute of Space Studies World Climate database</ref>
+
+There are three main seasons: a warm, wet season from November to March/April; a cool, dry season from May to August (corresponding to winter in the Southern Hemisphere); and a hot, dry season in September/October. Daily temperature ranges are about  {{convert|7|-|22|°C|°F|0}} in July (the coldest month), about  {{convert|15|-|29|°C|°F|0}} in October (the hottest month) and about  {{convert|16|-|26|°C|°F|0}} in January (midsummer). The hottest year on record was 1914 with {{convert|19.73|°C|°F|1}} and the coldest year was 1965 with {{convert|17.13|°C|°F|1}}.
+
+The average annual rainfall is about {{convert|825|mm|abbr=on}} in the southwest, rising to {{convert|855|mm|abbr=on}} on the higher land of the northeast (from around Borrowdale to Glen Lorne). Very little rain typically falls during the period May to September, although sporadic showers occur most years. Rainfall varies a great deal from year to year and follows cycles of wet and dry periods from 7 to 10 years long. Records begin in October 1890 but all three Harare stations stopped reporting in early 2004.<ref>Global Historic Climate Network database NGDC</ref>
+
+The climate supports a natural vegetation of open woodland. The most common tree of the local region is the Msasa [[Brachystegia spiciformis]] that colours the landscape wine red with its new leaves in late August. Two South American species of trees, the Jacaranda and the Flamboyant, which were introduced during the colonial era, contribute to the city's colour palette with streets lined with either the lilac blossoms of the Jacaranda or the flame red blooms from the Flamboyant. They flower in October/November and are planted on alternative streets in the capital. Also prevalent is [[Bougainvillea]].
+{{Weather box|location = Harare
+|metric first = yes
+|single line = yes
+|Jan record high C = 32
+|Feb record high C = 31
+|Mar record high C = 30
+|Apr record high C = 32
+|May record high C = 28
+|Jun record high C = 26
+|Jul record high C = 28
+|Aug record high C = 31
+|Sep record high C = 33
+|Oct record high C = 34
+|Nov record high C = 35
+|Dec record high C = 33
+
+|Jan high C = 26.2
+|Feb high C = 26.0
+|Mar high C = 26.2
+|Apr high C = 25.6
+|May high C = 23.8
+|Jun high C = 21.8
+|Jul high C = 21.6
+|Aug high C = 24.1
+|Sep high C = 28.4
+|Oct high C = 28.8
+|Nov high C = 27.6
+|Dec high C = 26.3
+
+|Jan mean C = 21.0
+|Feb mean C = 20.9
+|Mar mean C = 20.4
+|Apr mean C = 19.1
+|May mean C = 16.6
+|Jun mean C = 14.3
+|Jul mean C = 14.1
+|Aug mean C = 16.3
+|Sep mean C = 20.1
+|Oct mean C = 21.7
+|Nov mean C = 21.6
+|Dec mean C = 21.1
+
+|Jan low C = 15.8
+|Feb low C = 15.7
+|Mar low C = 14.5
+|Apr low C = 12.5
+|May low C = 9.3
+|Jun low C = 6.8
+|Jul low C = 6.5
+|Aug low C = 8.5
+|Sep low C = 11.7
+|Oct low C = 14.5
+|Nov low C = 15.5
+|Dec low C = 15.8
+
+|Jan record low C = 8
+|Feb record low C = 9
+|Mar record low C = 8
+|Apr record low C = 6
+|May record low C = 2
+|Jun record low C = 0
+|Jul record low C = 0
+|Aug record low C = 1
+|Sep record low C = 3
+|Oct record low C = 7
+|Nov record low C = 8
+|Dec record low C = 9
+
+|precipitation colour=green
+|Jan precipitation mm = 190.8
+|Feb precipitation mm = 176.3
+|Mar precipitation mm = 99.1
+|Apr precipitation mm = 37.2
+|May precipitation mm = 7.4
+|Jun precipitation mm = 1.8
+|Jul precipitation mm = 2.3
+|Aug precipitation mm = 2.9
+|Sep precipitation mm = 6.5
+|Oct precipitation mm = 40.4
+|Nov precipitation mm = 93.2
+|Dec precipitation mm = 182.7
+
+|unit precipitation days=
+|Jan precipitation days = 17
+|Feb precipitation days = 14
+|Mar precipitation days = 10
+|Apr precipitation days = 5
+|May precipitation days = 2
+|Jun precipitation days = 1
+|Jul precipitation days = 0
+|Aug precipitation days = 1
+|Sep precipitation days = 1
+|Oct precipitation days = 5
+|Nov precipitation days = 10
+|Dec precipitation days = 16
+
+|Jan humidity=72.5
+|Feb humidity=72.4
+|Mar humidity=72.8
+|Apr humidity=66.4
+|May humidity=58.9
+|Jun humidity=58.2
+|Jul humidity=56.1
+|Aug humidity=49.0
+|Sep humidity=43.5
+|Oct humidity=48.1
+|Nov humidity=59.4
+|Dec humidity=72.0
+|year humidity=60.8
+
+|Jan sun = 217.0
+|Feb sun = 190.4
+|Mar sun = 232.5
+|Apr sun = 249.0
+|May sun = 269.7
+|Jun sun = 264.0
+|Jul sun = 279.0
+|Aug sun = 300.7
+|Sep sun = 294.0
+|Oct sun = 285.2
+|Nov sun = 231.0
+|Dec sun = 198.4
+|year sun = 3010.9
+|source 1 = [[World Meteorological Organization]],<ref name = WMO >
+{{cite web
+  |url = http://worldweather.wmo.int/130/c00263.htm
+  |title = World Weather Information Service – Harare
+  |publisher= World Meteorological Organization
+  |accessdate = 11 December 2012
+}}</ref> NOAA (sun 1961–1990)<ref name = NOAA>
+{{cite web
+| url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG__I/ZI/67775.TXT
+| title = Harare Kutsaga Climate Normals 1961–1990
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = September 10, 2015}}</ref>
+
+|source 2 = BBC Weather,<ref name="weather1">{{cite web
+| url = http://www.bbc.co.uk/weather/890299
+| title =Average Conditions Harare, Zimbabwe
+| accessdate = 11 December 2012
+| publisher = BBC Weather 
+|date=May 2011}}</ref> Climatebase.ru (humidity)<ref>{{Cite web |url=http://climatebase.ru/station/67775/?lang=en |title=Harare, Zimbabwe |publisher=Climatebase.ru |accessdate=13 July 2014 }}</ref>
+
+|date=August 2010
+
+}}
+
+== Government ==
+
+===Mayors===
+*Dr [[Tizirai Gwata]] (1981–1984)<ref name=mayorsmeet>{{cite news|url=http://www.hararecity.co.zw/index.php/component/content/article/7-harare-news/206-former-harare-mayors-meet|title=Former Harare Mayors Meet|date=25 October 2013|accessdate=3 December 2013|publisher=City of Harare}}</ref>
+*Eng [[Oliver Chidawu]] (1984–1985)
+*Ald. [[Jabulani Thembani]] (1988–1989)
+*[[Simon Chikwavaire]] (1989–1993)
+*[[Charles Tawengwa]] (1993–1995)
+*[[Tony Gara]] (1995–1996)
+*[[Solomon Tawengwa]] (1996–1998)
+*Eng [[Elias Mudzuri]] (2002–2003)
+*[[Muchadeyi Masunda]] (2008–2013)
+*[[Bernard Manyenyeni]] (2013–)<ref name=mayorsite/>
+
+== Suburbs ==
+{{Main|:Category:Suburbs of Harare}}
+These are some of the suburbs of Harare.
+[[File:Jacaranda trees in Montagu Ave, Harare, Zimbabwe in 1975.jpg|thumb|Jacaranda trees in Montagu Ave, Salisbury in 1975.]]
+{| class="wikitable"
+|-
+! Region
+! Suburbs
+|-
+| Northern
+| [[Alexandra Park, Harare|Alexandra Park]]; [[Avenues, Harare|Avenues]]; [[Avondale, Harare|Avondale]], [[Belgravia, Harare|Belgravia]]; [[Groombridge, Harare|Groombridge]]; [[Gun Hill, Harare|Gun Hill]]; [[Kensington, Harare|Kensington]]; [[Mount Pleasant, Harare|Mount Pleasant]]; [[Northwood, Harare|Northwood]]; [[Newlands, Harare|Newlands]]; [[Vainona, Harare|Vainona]]
+|-
+| North-Eastern
+| Ballantyne Park; [[Borrowdale, Harare|Borrowdale]]; Borrowdale Brooke; Borrowdale West; Chisipite; Mandara(Lichendale); Colne Valley; Colray; Dawn Hill; Donnybrook; Eastlea; Glen Lorne; Glenwood; The Grange; [[Greendale, Harare|Greendale]]; Greystone Park; Hatcliffe; Highlands; Helensvale; Hogerty Hill; Kambanji; Lewisam; Luna; Mandara; Philadelphia; Pomona; Quinnington; Rhodesville; Rietfontein; Rolf Valley; Runniville; Chishawasha Hills; Umwinsdale
+|-
+| Eastern
+| Amby; Athlone; Beverley; Beverley West; Chizhanje; Coronation Park; Green Grove; Hillside; [[Mabvuku]]; Manresa; Msasa; Letombo Park; [[Tafara]]; Eastlea
+|-
+| Southern (incl. South-Eastern and South-Western)
+| Arcadia; Ardbennie; Aspindale Park; [[Braeside, Harare|Braeside]]; Budiriro; Chadcombe; Cranborne; [[Glen Norah, Harare|Glen Norah]]; Glen View; Graniteside; Grobbie Park; Harare Airport; [[Hatfield, Harare|Hatfield]]; [[Highfield, Harare|Highfield]]; Hopley; Houghton Park; Induna; Kutsaga; Lochinvar; Logan Park; Malvern; Msasa Park; [[Mbare, Harare|Mbare]]; Midlands; Park Meadowlands; Parktown; Prospect; Queensdale; Rugare; Southerton; St. Martins; Sunningdale; Uplands; [[Waterfalls, Harare|Waterfalls]]; [[Willowvale]]; Wilmington Park; [[Workington (Harare)|Workington]]
+|-
+| Western (incl. North-Western)
+| Adylinn; Ashbrittle; Ashdown Park; Avonlea; Avondale West; [[Belvedere, Harare|Belvedere North]]; [[Belvedere, Harare|Belvedere South]]; Bluff Hill; Bluff Hill Park; Cotswold Hills; Crowborough North; Dzivaresekwa; [[Emerald Hill, Zimbabwe|Emerald Hill]]; Greencroft; Kambuzuma; Haig Park; [[Kuwadzana]]; Lincoln Green; [[Mabelreign, Harare|Mabelreign]]; Marimba Park; Marlborough; Meyrick Park; Milton Park; Monovale; Mufakose; New Marimba; New Marlborough; Ridgeview; Sentosa; Sherwood Park; St. Andrews Park; Strathaven; Sunridge; Sunrise; Tynwald; Tynwald South; Warren Park; Warren Park D; Westlea; Westgate; Budiriro
+|}
+The Northern and North Eastern Suburbs of Harare are home to the more affluent population of the city including president [[Robert Mugabe]] who lives in Borrowdale Brooke. These northern suburbs are often referred to as 'dales' because of the common suffix -dale found in some suburbs such as Avondale, Greendale and Borrowdale. The dwellings are mostly low density homes of 3 bedrooms or more and these usually are occupied by families.
+
+== International venue ==
+Harare has been the location of several international summits such as the 8th Summit of the Non-Aligned Movement (6 September 1986) and [[Commonwealth Heads of Government Meeting 1991]].<ref>[http://www.thecommonwealth.org/Internal/146799/brief_history_of_chogm/ List of previous CHOGMS]</ref> The latter produced the [[Harare Declaration]], dictating the [[Commonwealth of Nations membership criteria|membership criteria]] of the [[Commonwealth of Nations|Commonwealth]]. In 1998 Harare was the host city of the 8th Assembly of the [[World Council of Churches]].<ref>{{cite web|url=http://www.wcc-coe.org/wcc/assembly/index-e.html|title=8th assembly & 50th anniversary|publisher=|accessdate=25 May 2015}}</ref>
+
+In 1995, Harare hosted most of the 6th [[All-Africa Games]], sharing the event with other Zimbabwean cities such as [[Bulawayo]] and [[Chitungwiza]]. It has hosted some of the matches of [[2003 Cricket World Cup]] which was hosted jointly by [[Kenya]], South Africa and [[Zimbabwe]]. Several of the matches were also held in [[Bulawayo]].
+
+The city is also the site of one of the [[Harare International Festival of the Arts]] (HIFA), which has featured such acclaimed artists as Cape Verdean singer [[Sara Tavares]].<ref>{{cite web|url=http://www.hifa.co.zw/|title=What's Next..." reflecting a sense of positive progress|accessdate=6 June 2013}}</ref>
+
+== Transport ==
+[[File:Harare International Airport.jpg|thumb|Harare International Airport]]
+City and its environs: The public transport system within the city includes both public and private sector operations. The former consist of [[Zimbabwe United Passenger Company|ZUPCO]] buses and [[National Railways of Zimbabwe]] commuter trains. Privately owned public transport comprised licensed [[station wagon]]s, nicknamed ''emergency taxis'' until the mid-1990s, when they were replaced by licensed buses and minibuses, referred to officially as ''commuter omnibuses''.
+
+Inter-City: The [[National Railways of Zimbabwe]] operates a daily overnight passenger train service that runs from Harare to [[Mutare]] and another one from Harare to [[Bulawayo]]. Harare is linked by long distance bus services to most parts of Zimbabwe.
+
+Air: The largest airport of the country [[Harare International Airport]] serves Harare.
+
+== Sports ==
+[[Soccer]] is most popular among the people of Harare. Harare is home to [[Harare Sports Club]] ground. It has hosted many [[Test cricket|Test]], [[One Day International]]s and [[T20I]] Cricket matches. Harare is also home to the [[Zimbabwe Premier Soccer League]] clubs [[Dynamos F.C.]], [[Harare City]], [[Black Rhinos F.C.]] and [[CAPS United F.C.]].
+
+== News and information ==
+
+Residents are exposed to a variety of sources for information. In the print media, there is the ''[[The Herald (Zimbabwe)|Herald]]'', ''[[Financial Gazette]]'', ''[[Zimbabwe Independent]]'', ''Standard'', ''[[NewsDay (Zimbabwean newspaper)|NewsDay]]'',''H-Metro'', ''[[Daily News (Harare)|Daily News]]'' and ''Kwayedza''. Since there has been an explosion of online media outlets. These include [[ZimOnline]], [[ZimDaily]], ''Guardian'', [[NewZimbabwe]], ''Times'', ''[[Harare Tribune]]'', ''[[Zimbabwe Metro]]'', ''The Zimbabwean'',''The Zimbabwe Mail<ref>{{cite web|url=http://www.thezimbabwemail.com|title=The Zimbabwe Mail|publisher=|accessdate=25 May 2015}}</ref>'' and many others; however, a number of factors have combined to effectively eliminate all media except those controlled by the state.
+
+The government controls all the electronic media{{Citation needed|date=September 2015}}, though [[Voice of America]], [[Voice of the people]] and [[SW Radio Africa]] beam broadcasts into the country without the clearance of the regulatory authority.
+
+== Notable landmarks and institutions ==
+
+* [[CBZ Holdings]]
+* [[Cairns Holdings]]
+* [[Data Control & Systems]]
+* [[Dynamos F.C.]]
+* [[CAPS United F.C.]]
+* [[Gwanzura]]
+* [[44 Harvest House]]
+* [[Mbare Musika]]
+* Mushandirapamwe Hotel
+* [[National Gallery of Zimbabwe]]
+* [[Net*One]]
+* [[Parirenyatwa Hospital]]
+* [[Reserve Bank of Zimbabwe]]
+* [[Roman Catholic Archdiocese of Harare]]
+* [[Rufaro Stadium]]
+* [[Sam Nujoma Street]]
+* [[University of Zimbabwe]]
+* [[Zimbabwe Stock Exchange]]
+* [[Zimbabwe Grounds]]
+* [[Zimbabwe Museum of Human Sciences]]
+* [[National Sports Stadium (Zimbabwe)|National Sports Stadium]]
+* [[National Heroes Acre (Zimbabwe)|Heroes Acre]]
+* [[Borrowdale Race Course]]
+* [[Sam Levy Village]]
+* [[Eastgate Centre, Harare|Eastgate Centre]]
+* [[Westgate]]
+* [[ZANU-PF]] Headquarters
+* [[KG6]]
+* [[Munhumatapa Hotel]]
+* [[Livingstone House]]
+* [[Karigamombe Centre]]
+* [[ICL Building]]
+* [[NSSA House]]
+* [[Rainbow Towers - formerly Sheraton Hotel]]
+* [[Harare Sports Club]]
+* [[Avonlea Primary School]]
+
+== Image gallery ==
+<gallery>
+File:Harare secondst.jpg|[[Sam Nujoma Street]], view south
+File:Harare anglicanchurch.JPG|Anglican cathedral
+File:Harare Africa Unity 1992.jpg|African Unity Square (formerly Cecil Square)
+File:Harare Downtown.jpg|Downtown Harare, Reserve Bank ahead
+File:First Street, Harare, Zimbabwe.jpg|First Street
+File:Harare Downtown1.jpg|Along parliament buildings
+File:Harare Central Station.jpg|Harare Central Station
+File:Eastgate Centre, Harare, Zimbabwe.jpg|Eastgate centre
+
+File:Heroes Acre, Harare, Zimbabwe (2).jpg|Relief at National Heroes Acre
+File:Heroes Acre, Harare, Zimbabwe (1).jpg|National Heroes Acre
+</gallery>
+
+== See also ==
+{{Portal|Zimbabwe}}
+{{Wikivoyage}}
+
+* [[:Category:Suburbs of Harare|Suburbs of Harare]]
+* [[Place names in Zimbabwe]]
+* [[Provinces of Zimbabwe]]
+* [[Districts of Zimbabwe]]
+{{-}}
+
+==References==
+{{Reflist}}
+
+{{Commons category|Harare}}
+{{ZW provinces}}
+{{List of African capitals}}
+{{All-Africa Games Host Cities}}
+
+{{Authority control}}
+[[Category:Harare| ]]
+[[Category:Populated places in Harare Province]]
+[[Category:Capitals in Africa]]
+[[Category:Populated places in Zimbabwe]]
+[[Category:Populated places established in 1890]]
+[[Category:1890 establishments in Africa]]

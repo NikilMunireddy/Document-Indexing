@@ -1,0 +1,887 @@
+Hangul
+
+{{Other uses}}
+
+{{Infobox writing system
+ |name             = Korean alphabet<br />(''Chosŏn'gŭl'' {{small|or}} ''Hangul'')
+ |altname          = 
+ |type             = Alphabet
+ |languages        = [[Korean language|Korean]]
+ |time             = 1443 to the present
+ |creator          = The court of King [[Sejong the Great]]
+ |unicode          = {{ublist |class=nowrap |[http://www.unicode.org/charts/PDF/UAC00.pdf U+AC00–U+D7AF] {{smaller|Hangul Syllables}} |[http://www.unicode.org/charts/PDF/U1100.pdf U+1100–U+11FF] {{smaller|Hangul Jamo}} |[http://www.unicode.org/charts/PDF/U3130.pdf U+3130–U+318F] {{smaller|Hangul Compatibility Jamo}} |[http://www.unicode.org/charts/PDF/U3200.pdf U+3200–U+32FF] {{smaller|Enclosed CJK Letters and Months}} |[http://www.unicode.org/charts/PDF/UA960.pdf U+A960–U+A97F] {{smaller|Hangul Jamo Extended-A}} |[http://www.unicode.org/charts/PDF/UD7B0.pdf U+D7B0–U+D7FF] {{smaller|Hangul Jamo Extended-B}} |[http://www.unicode.org/charts/PDF/UFF00.pdf U+FF00–U+FFEF] {{smaller|Halfwidth and Fullwidth Forms}}}}
+ |iso15924         = Hang
+ |sample           = Chosungul or Hangul logo (New Type) at (Black Design).svg
+ |imagesize       = 155px
+ |caption         = Chosŏn'gŭl (top), and Hangul (bottom)
+ }}
+{{KoreanText}}
+{{Korean writing}}
+
+The '''Korean alphabet''', known in [[South Korea]] as '''Hangul''' (sometimes transcribed '''Hangeul''') and as '''Chosŏn'gŭl/Chosŏn Muntcha''' in [[North Korea]] and [[China]], is the [[alphabet]] that has been used to write the [[Korean language]] since the 15th century.<ref name=WDL1>{{cite web|title=Tale of Hong Gildong|url=http://www.wdl.org/en/item/4166|publisher=[[World Digital Library]]|accessdate=3 May 2013}}</ref> It was created during the [[Joseon|Joseon Dynasty]] in 1443 by King Sejong the Great. Now, the alphabet is the official [[writing system|script]] of both South Korea and North Korea, and co-official in the [[Yanbian Korean Autonomous Prefecture]] of China's [[Jilin|Jilin Province]]. In both South and North Korea, Hangul is used solely to write Korean language as using [[Hanja]] (Chinese characters) in typical Korean writing had fallen out of common usage during the late 1990s.
+
+In its classical and modern forms, the alphabet has 19 consonant and 21 vowel letters. However, instead of being written sequentially like the letters of the Latin alphabet, Hangul letters are grouped into blocks, such as {{lang|nocat=yes|ko|한}} ''han'', each of which transcribes a [[syllable]]. That is, although the syllable {{lang|nocat=yes|ko|한}} ''han'' may look like a single character, it is actually composed of three letters: {{lang|nocat=yes|ko|ㅎ}} ''h'', {{lang|nocat=yes|ko|ㅏ}} ''a'', and {{lang|nocat=yes|ko|ㄴ}} ''n''. Each syllabic block consists of two to six letters, including at least one [[consonant]] and one [[vowel]]. These blocks are then arranged horizontally from left to right or vertically from top to bottom. Each Korean word consists of one or more syllables, hence one or more blocks. The number of mathematically possible distinct blocks is 11,172 (see "South Korean order" below), though there are far fewer possible syllables allowed by Korean [[phonotactics]], and not all phonotactically possible syllables occur in actual Korean words. For a phonological description, see ''[[Korean phonology]]''.
+Among possible 11,172 Hangul syllables the most frequent 256 have cumulative frequency of 88.2% and with the top 512 ones it reaches 99.9%.<ref>{{cite web|author=Soobok Lee|title=Improving ACE using code point reordering v1.0|url=https://tools.ietf.org/html/draft-ietf-idn-lsb-ace-01|website=tools.ietf.org|date=2001}}</ref>
+
+==Names==
+
+===Official names===
+
+{{Infobox Korean name
+|title=Hangul
+|koreanname=South Korean name
+|context=south
+|hangul={{linktext|한|글}}
+|hanja={{linktext|韓|글}} 
+|rr=Han(-)geul
+|mr=Han'gŭl
+|yr=Hankul
+|nr=Hangyr
+}}
+{{Infobox Korean name
+|title=Chosŏn'gŭl
+|koreanname=North Korean name
+|context=north
+|hangul={{linktext|조선|글}}
+|hanja={{linktext|朝鮮|글}}
+|mr=Chosŏn'gŭl
+|rr=Joseon(-)geul
+|yr=Cosenkul
+|nr=Cosengyr
+}}
+[[File:Hangeul.svg|thumb|300px|The word ''hangeul'', written in hangul]]
+
+====South Korea====
+
+* The modern name ''Hangul'' was coined by [[Ju Sigyeong]] in 1912. ''Han'' ({{lang|nocat=yes|ko-Hang|한}}) meant "great" in archaic Korean, and ''geul'' ({{lang|nocat=yes|ko-Hang|글}}) is the native Korean word for "script." ''Han'' could also be understood as the [[Sino-Korean vocabulary|Sino-Korean]] word {{lang|nocat=yes|ko|韓}} "Korean" so the name can be read "Korean script" as well as "great script." <ref name="Lee, Iksop 13p">{{harvnb|Lee|Ramsey|2000|p=[https://books.google.com/books?id=NN-yIdLOkCoC&pg=PA13&dq=hangul+1912 13]}}</ref> Korean {{lang|nocat=yes|ko-Hang|한글}} is pronounced {{IPA-ko|haːn.ɡɯl|}}, and in English as {{IPAc-en|ˈ|h|ɑː|ŋ|ɡ|ʊ|l}} or  {{IPAc-en|ˈ|h|ɑː|n|.|ɡ|ʊ|l}}.  It has been [[romanized]] in the following ways:
+** ''Hangeul'' or ''han-geul'' in the [[Revised Romanization of Korean]], which the [[South Korea]]n government uses in all English publications and encourages for all purposes.
+** ''Han'gŭl'' in the [[McCune–Reischauer]] system. When used as an English word, it is often rendered without the [[diacritic]]s, ''hangul'', and it is often capitalized as ''Hangul'', as it appears in many English dictionaries.
+** ''Hankul'' in the [[Yale romanization of Korean|Yale romanization]], a system recommended for technical linguistic studies.
+
+====North Korea====
+* [[North Korea]]ns call it ''Chosŏn'gŭl'' ({{lang|nocat=yes|ko-Hang-KP|조선글}} {{IPA-ko|tɕosʰɔnɡɯl|}}), after ''Chosŏn'', the North Korean [[Names of Korea|name for Korea]]. ''Uri kŭlcha'' ({{lang|nocat=yes|ko-Hang-KP|우리 글자}} "our characters") is also used.<ref>{{harvnb|Young-Key|1997|p=2}}</ref>
+
+===Original name===
+* The original name was ''[[Hunminjeongeum]]'' ({{lang|nocat=yes|ko|훈민정음; 訓民正音}}; see ''[[#History|history]]).'' Because of objections to the names ''Hangeul,'' ''Chosŏn'gŭl,'' and ''urigeul'' ({{lang|nocat=yes|ko|우리글}}) by [[Koreans in China]], the uncommon short form ''jeongeum'' may be used, as a neutral name, in some international contexts.
+
+===Other names===
+Until the early 20th century, hangul was denigrated as vulgar by the literate elite, who preferred the traditional hanja (Han script) writing system.<ref name="NAKL Names">{{cite web|publisher=The National Academy of the Korean Language |title=5. Different Names for Hangeul |url=http://www.korean.go.kr/eng_hangeul/another/001.html  |date=January 2004|accessdate=2008-05-19 }}</ref> They gave it such names as these:
+* ''Achimgeul'' ({{lang|nocat=yes|ko|아침글}} "writing you can learn within a morning").<ref>Choi Seung-un; [http://www.paregabia.com/data/photo_hangul/hangul_exposants.pdf Structures et particularités de la langue coréenne]</ref>  Although somewhat pejorative, it was based on the reality, as expressed by [[Jeong Inji]], that "a wise man can acquaint himself with them before the morning is over; a stupid man can learn them in the space of ten days."<ref name="Haerye">''[[Hunmin Jeongeum Haerye]]'', postface of [[Jeong Inji]], p. 27a, translation from [[Gari K. Ledyard]], ''The Korean Language Reform of 1446'', p. 258</ref> In the original [[Hanja]], it is rendered as "{{lang|nocat=yes|ko|故智者不終朝而會，愚者可浹旬而學。}}"<ref>Korean [[Wikisource]]: http://ko.wikisource.org/wiki/훈민정음</ref> 
+* ''Gugmun'' (Hangul: {{lang|nocat=yes|ko|국문}}, hanja: {{lang|nocat=yes|ko|國文}} "national script")
+* ''Eonmun'' (Hangul: {{lang|nocat=yes|ko|언문}}, hanja: {{lang|nocat=yes|ko|諺文}} "vernacular script")<ref name="NAKL Names" />
+* ''Amgeul'' ({{lang|nocat=yes|ko|암글}} "women's script"; also written ''Amkeul'' {{lang|nocat=yes|ko|암클}}).<ref name="NAKL Names" /> ''Am'' ({{lang|nocat=yes|ko|암}}) is a prefix that signifies a noun is feminine
+* ''Ahaetgeul'' or ''Ahaegeul'' ({{lang|nocat=yes|ko|아햇글}} or {{lang|nocat=yes|ko|아해글}} "children's script")
+
+However, those names are now archaic, as the use of hanja in writing has become very rare in South Korea and even rarer in North Korea.{{cn|date=April 2016}}
+
+==History of Hangul==
+{{see also|Origin of hangul}}
+<!-- Deleted image removed: [[File:King Sejong - from Commons.jpg|thumb|Statue of [[Sejong the Great]]]] -->
+[[File:Hunmin jeong-eum.jpg|thumb|A page from the ''Hunmin Jeong-eum Eonhae''. The Hangul-only column, third from the left (<span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">나랏말ᄊᆞ미</span>), has pitch-accent diacritics to the left of the syllable blocks.]]
+
+Hangul was promulgated by [[Sejong the Great]], the fourth king of the [[Joseon Dynasty]]. The [[Hall of Worthies]] is often credited for the work.<ref name="NAKL Back2">{{cite web|publisher=The National Academy of the Korean Language |title=2. The Background of the invention of Hangeul |url=http://www.korean.go.kr/eng_hangeul/setting/002.html |date=January 2004|accessdate=2008-05-19 }}</ref>
+
+The project was completed in late December 1443 or January 1444, and described in 1446 in a document titled ''[[Hunmin Jeongeum]]'' ("The Proper Sounds for the Education of the People"), after which the alphabet itself was named.<ref name="NAKL Names" /> The publication date of the ''Hunmin Jeong-eum,'' October 9, became [[Hangul Day]] in South Korea. Its North Korean equivalent, Chosongul Day, is on January 15.
+
+Various speculations about the creation process were put to rest by the discovery in 1940 of the 1446 ''[[Hunmin Jeongeum Haerye|Hunmin Jeong-eum Haerye]]'' ("''Hunmin Jeong-eum'' Explanation and Examples"). This document explains the design of the consonant letters according to [[articulatory phonetics]] and the vowel letters according to the principles of [[yin and yang|''yin'' and ''yang'']] and [[vowel harmony]].
+
+In explaining the need for the new script, King Sejong explained that the Korean language was fundamentally different from Chinese; using Chinese characters (known as [[hanja]]) to write was so difficult for the common people that only privileged aristocrats (''[[yangban]]'', {{lang|nocat=yes|ko|양반}}) could read and write fluently. The majority of Koreans were effectively illiterate before the invention of Hangul.
+
+Hangul was designed so that even a commoner could learn to read and write; the ''Haerye'' says "A wise man can acquaint himself with them before the morning is over; a stupid man can learn them in the space of ten days."<ref name="Haerye" />
+
+Hangul faced opposition by the literary elite, such as [[Choe Manri]] and other [[Korean Confucian]] scholars in the 1440s, who believed hanja to be the only legitimate writing system, and perhaps saw hangul as a threat to their status.<ref name="NAKL Back2" /> However, it entered popular culture as Sejong had intended, being used especially by women and writers of popular fiction.<ref name=Pratt>Pratt, Rutt, Hoare, 1999. ''Korea: A Historical and Cultural Dictionary.'' Routledge.</ref> It was effective enough at disseminating information among the uneducated that [[Yeonsangun of Joseon|Yeonsangun]], the paranoid tenth king, forbade the study or use of Hangul and banned Hangul documents in 1504,<ref name="NAKL process">
+{{cite web|publisher=The National Academy of the Korean Language |title=4. The providing process of Hangeul |url=http://www.korean.go.kr/eng_hangeul/supply/001.html |date=January 2004|accessdate=2008-05-19 }}</ref>
+and [[Jungjong of Joseon|King Jungjong]] abolished the Ministry of ''Eonmun'' ({{lang|nocat=yes|ko|언문청 諺文廳}}, governmental institution related to Hangul research) in 1506.<ref name="EncyKorea">
+{{cite web|url=http://100.empas.com/dicsearch/pentry.html?s=K&i=254353&v=43 |title=Jeongeumcheong, synonymous with Eonmuncheong (<span lang="ko">정음청 正音廳, 동의어: 언문청</span>)|publisher=[[Nate (web portal)|Nate]] / [[Encyclopedia of Korean Culture]]|language=Korean |accessdate=2008-05-19 }}</ref>
+
+The late 16th century, however, saw a revival of Hangul, with ''[[Gasa (poetry)|gasa]]'' literature and later ''[[sijo]]'' flourishing. In the 17th century, Hangul novels became a major genre.<ref>{{cite web|url=http://enc.daum.net/dic100/viewContents.do?&m=all&articleID=b24h2804b |title=Korea Britannica article |language=ko|publisher=Enc.daum.net |accessdate=2012-04-13}}</ref> By this point spelling had become quite irregular.<ref name=Pratt />
+
+The first book using hangul in the West was brought to Europe by [[Isaac Titsingh]] in 1796. His small library included {{Nihongo|''[[Sangoku Tsūran Zusetsu]]''|<span lang= "ja">三国通覧図説</span>|''An Illustrated Description of Three Countries''}} by [[Hayashi Shihei]].<ref>WorldCat, [http://www.worldcat.org/search?q=Sangoku+Ts%C5%ABran+Zusetsu&qt=results_page ''Sangoku Tsūran Zusetsu'']; alternate [[romaji]] [http://www.worldcat.org/search?q=Sankoku+Ts%C5%ABran+Zusetsu&qt=results_page ''Sankoku Tsūran Zusetsu'']</ref> This book, which was published in Japan in 1785, described the [[Joseon Kingdom]]<ref>Cullen, Louis M. (2003). {{Google books|ycY_85OInSoC|''A History of Japan, 1582-1941: Internal and External Worlds,'' p. 137.|page=137}}</ref> and hangul.<ref>Vos, Ken. [http://www.rmv.nl/publicaties/11Koreavroeg/e/accidentalacquisitions.pdf "Accidental acquisitions: The nineteenth-century Korean collections in the National Museum of Ethnology, Part 1,"] p. 6 (pdf p. 7); Klaproth, Julius. (1832). {{Google books|lsoNAAAAIAAJ|''San kokf tsou ran to sets, ou Aperçu général des trois royaumes,'' pp. 19 n1.|page=19}}</ref> In 1832, the [[Royal Asiatic Society of Great Britain and Ireland#Oriental Translation Fund of Great Britain and Ireland|Oriental Translation Fund of Great Britain and Ireland]] supported the posthumous abridged publication of Titsingh's French translation.<ref>Klaproth, {{Google books|lsoNAAAAIAAJ| pp. 1-168.|page=1}}</ref>
+
+Because of growing [[Korean nationalism]] in the 19th century, the [[Gabo Reform]]ists' push, and the promotion of Hangul in schools and literature by Western missionaries,<ref>{{cite journal | last1 = Silva | first1 = David J. | year = 2008 | title = Missionary Contributions toward the Revaluation of Han'geul in Late 19th Century Korea | journal = International Journal of the Sociology of Language | volume = 192 | pages = 57–74 | doi=10.1515/ijsl.2008.035}}</ref> Hangul was adopted in official documents for the first time in 1894.<ref name="NAKL process" /> Elementary school texts began using Hangul in 1895, and the ''[[Dongnip Sinmun]]'', established in 1896, was the first newspaper printed in both Hangul and English.<ref>{{cite web|url=http://korea.assembly.go.kr/history_html/history_07/mod_09.jsp |title=Korean History |publisher=Korea.assembly.go.kr |accessdate=2012-04-13}}</ref> Still, the literary elites continued to use Chinese characters, and the majority of Koreans remained illiterate at this period.
+
+During [[Korea under Japanese rule|Japanese colonial rule]] in 1910, Japanese became the official language. However, Hangul was taught in the Korean-established schools in Korea built after the annexation, and Korean was written in a mixed hanja-Hangul script, where most lexical roots were written in hanja and grammatical forms in Hangul. Japan had banned earlier Korean literature, and public schooling became mandatory for children. The orthography was partially standardized in 1912, with '{{lang|nocat=yes|ko|ㆍ}}' (''arae a'' – one of the vowels in early hangul no longer used in modern hangul)  restricted to Sino-Korean roots, the emphatic consonants standardized to {{lang|nocat=yes|ko|ㅺ}} ''sg,'' {{lang|nocat=yes|ko|ㅼ}} ''sd,'' {{lang|nocat=yes|ko|ㅽ}} ''sb,'' {{lang|nocat=yes|ko|ㅆ}} ''ss,'' {{lang|nocat=yes|ko|ㅾ}} ''sj,'' and final consonants restricted to {{lang|nocat=yes|ko|ㄱ}} ''g,'' {{lang|nocat=yes|ko|ㄴ}} ''n,'' {{lang|nocat=yes|ko|ㄹ}} ''l,'' {{lang|nocat=yes|ko|ㅁ}} ''m,'' {{lang|nocat=yes|ko|ㅂ}} ''b,'' {{lang|nocat=yes|ko|ㅅ}} ''s,'' {{lang|nocat=yes|ko|ㅇ}} ''ng,'' {{lang|nocat=yes|ko|ㄺ}} ''lg,'' {{lang|nocat=yes|ko|ㄻ}} ''lm,'' {{lang|nocat=yes|ko|ㄼ}} ''lb'' (no {{lang|nocat=yes|ko|ㄷ}} ''d,'' as it was replaced by ''s''). Long vowels were marked by a diacritic dot to the left of the syllable, but this was dropped in 1921.<ref name=Pratt />
+
+A second colonial reform occurred in 1930. ''Arae a'' was abolished; the emphatic consonants were changed to {{lang|nocat=yes|ko|ㄲ}} ''gg,'' {{lang|nocat=yes|ko|ㄸ}} ''dd,'' {{lang|nocat=yes|ko|ㅃ}} ''bb,'' {{lang|nocat=yes|ko|ㅆ}} ''ss,'' {{lang|nocat=yes|ko|ㅉ}} ''jj;'' more final consonants ({{lang|nocat=yes|ko|ㄷㅈㅌㅊㅍㄲㄳㄵㄾㄿㅄ}}) were allowed, making the orthography more [[morphophonemic]]; {{lang|nocat=yes|ko|ㅆ}} ''ss'' was written alone (without a vowel) when it occurred between nouns; and the nominative particle {{lang|nocat=yes|ko|가}} ''ga'' was introduced after vowels, replacing {{lang|nocat=yes|ko|ㅣ}} ''i.'' ({{lang|nocat=yes|ko|ㅣ}} ''i'' had been written without an {{lang|nocat=yes|ko|ㅇ}} ''iung.'' The nominative particle had been unvarying ''i'' in Sejong's day, and perhaps up to the eighteenth or nineteenth century.)<ref name=Pratt />
+
+[[Ju Sigyeong]], who had coined the term ''hangul'' "great script" to replace ''eonmun'' "vulgar script" in 1912, established the Korean Language Research Society ({{lang|nocat=yes|ko|朝鮮語研究會}}; later renamed Hangul Society, {{lang|nocat=yes|ko|한글學會}}) which further reformed orthography with ''[[Standardized System of Hangul]]'' ({{lang|nocat=yes|ko|[[:ko:한글 맞춤법 통일안|한글 맞춤법 통일안]]}}) in 1933. The principal change was to make Hangul as morphophonemic as practical given the existing letters.<ref name=Pratt /> A system for transliterating foreign orthographies was published in 1940.
+
+However, the Korean language was banned from schools in 1938 as part of a policy of [[cultural assimilation]],<ref>{{cite web|url=http://enc.daum.net/dic100/viewContents.do?&m=all&articleID=b24h2804b |publisher=[[Daum (web portal)|Daum]] / [[Britannica]] |title=Hangul <span lang="ko">한글</span> |work=The modern and contemporary history of Hangul (<span lang="ko">한글의 근·현대사</span>)|quote=<span lang="ko">1937년 7월 중일전쟁을 도발한 일본은 한민족 말살정책을 노골적으로 드러내, 1938년 4월에는 조선어과 폐지와 조선어 금지 및 일본어 상용을 강요했다.</span>|language=Korean|accessdate=2008-05-19 }}</ref> and all Korean-language publications were outlawed in 1941.<ref>{{cite web|url=http://lcweb2.loc.gov/frd/cs/krtoc.html |title=under The Media |publisher=Lcweb2.loc.gov |date=2011-03-22 |accessdate=2012-04-13}}</ref>
+
+The definitive modern orthography was published in 1946, just after independence from colonial rule. In 1948 North Korea attempted to make the script perfectly morphophonemic through the addition of new letters, and in 1953 [[Syngman Rhee]] in South Korea attempted to simplify the orthography by returning to the colonial orthography of 1921, but both reforms were abandoned after only a few years.<ref name=Pratt />
+
+Both Koreas have used Hangul or mixed Hangul as their sole official writing system, with ever-decreasing use of ''hanja.'' Beginning in the 1970s, ''hanja'' began to experience a gradual decline in commercial or unofficial writing in the South due to government intervention, with some South Korean newspapers now only using ''hanja'' as abbreviations or disambiguation of homonyms. There has been widespread debate as to the future of ''hanja'' in South Korea. North Korea instated Hangul as its exclusive writing system in 1949, and banned the use of ''hanja'' completely.
+
+===Implementation===
+While both North and South Korea claim 99% literacy, government studies show that 25% of older generations in the South are not completely literate in Hangul.<ref>''[[The Hankyoreh]]''. [http://legacy.www.hani.co.kr/section-005000000/2003/10/005000000200310081936394.html {{lang|nocat=yes|ko|어른 25% 한글 못써...정부대책 '까막눈'}}], October 8, 2003</ref>
+
+===Dissemination===
+The [[Hunminjeongeum Society (Seoul)|Hunminjeongeum Society]] in Seoul attempts to spread the use of Hangul to unwritten languages of Asia.<ref>{{cite news |title=Linguistics Scholar Seeks to Globalize Korean Alphabet |newspaper=Korea Times |date=2008-10-15 |url=https://www.koreatimes.co.kr/www/news/special/2009/07/178_32754.html}}</ref> In 2009, Hangul was unofficially adopted by the town of [[Bau-Bau]], in [[Sulawesi]], [[Indonesia]], to write the [[Cia-Cia language]].<ref name=Cia2>{{cite news |url=https://www.koreatimes.co.kr/www/news/nation/2010/10/113_74114.html |title=Hangeul didn’t become Cia Cia’s official writing |newspaper=Korea Times |date=2010-10-06}}</ref><ref name=Cia>[http://www.france24.com/en/20090806-indonesian-tribe-use-korean-alphabet-scholar Indonesian tribe to use Korean alphabet] {{wayback|url=http://www.france24.com/en/20090806-indonesian-tribe-use-korean-alphabet-scholar |date=20090812024714 }}</ref><ref name=Cia3>{{cite news|last=Si-soo|first=Park|title=Indonesian Tribe Picks Hangeul as Writing System|url=https://www.koreatimes.co.kr/www/news/nation/2009/08/117_49729.html|newspaper=Korea Times|date=2009-08-06}}</ref> A number of Indonesian Cia-Cia speakers who visited Seoul generated large media attention in South Korea, and they were greeted on their arrival by [[Oh Se-hoon]], the [[mayor of Seoul]].<ref>{{cite news |title= Indonesian Tribe Learns to Write with Korean Alphabet|author= Kurt Achin|newspaper= Voice of America|date= 29 January 2010|url= http://www1.voanews.com/english/news/asia/Indonesian-Tribe-Learns-to-Write-with-Korean-Alphabet-83029477.html}}</ref> It was confirmed in October 2012 that the attempts to disseminate Hangul in Indonesia failed.<ref>{{cite news |title=Gov’t to correct textbook on Cia Cia |newspaper=Korea Times |date=2012-10-18 |url=https://www.koreatimes.co.kr/www/news/nation/2012/10/116_122584.html}}</ref>
+
+==Letters==
+{{See also|Hangul consonant and vowel tables}}
+[[File:Hangeul letter order.svg|250px|right]]
+[[File:Hangul Pronunciation II.png|250px|right]]
+{{anchor|Jamo}}
+Hangul letters and [[Digraph (orthography)|digraph]]s are called ''jamo'' ({{lang|nocat=yes|ko|자모; [[Hanja|字母]]}}) or ''natsori'' ({{lang|nocat=yes|ko|낱소리}}).<ref group=nb>''Ja'' means letter or character, and ''mo'' means mother, so the name suggests that the ''jamo'' are the building-blocks of the script.</ref> There are 24 letters and 27 digraphs (and sometimes [[Trigraph (orthography)|trigraph]]s) formed from these letters in the modern alphabet.  Of the letters, fourteen are consonants ''(ja-eum'' {{lang|nocat=yes|ko|자음, 子音}} "child sounds") and ten are vowels ''(mo-eum'' {{lang|nocat=yes|ko|모음, 母音}} "mother sounds"). Five of the consonants are doubled to form the five "tense" ([[faucalized voice|faucalized]]) consonants of Korean (see below), while another eleven sequences are formed of two different consonants.  The ten vowel letters are combined into eleven sequences for [[diphthong]]s.
+
+The following letters and clusters of letters are found in the modern script:
+
+* 14 consonant letters: {{lang|nocat=yes|ko|ㄱ}} ''g,'' {{lang|nocat=yes|ko|ㄴ}} ''n,'' {{lang|nocat=yes|ko|ㄷ}} ''d,'' {{lang|nocat=yes|ko|ㄹ}} ''l/r,'' {{lang|nocat=yes|ko|ㅁ}} ''m,'' {{lang|nocat=yes|ko|ㅂ}} ''b,'' {{lang|nocat=yes|ko|ㅅ}} ''s,'' {{lang|nocat=yes|ko|ㅇ}} ''null/ng,'' {{lang|nocat=yes|ko|ㅈ}} ''j,'' {{lang|nocat=yes|ko|ㅊ}} ''ch,'' {{lang|nocat=yes|ko|ㅋ}} ''k,'' {{lang|nocat=yes|ko|ㅌ}} ''t,'' {{lang|nocat=yes|ko|ㅍ}} ''p,'' {{lang|nocat=yes|ko|ㅎ}} ''h''
+* 6 vowel letters: {{lang|nocat=yes|ko|ㅏ}} ''a,'' {{lang|nocat=yes|ko|ㅓ}} ''eo,'' {{lang|nocat=yes|ko|ㅗ}} ''o,'' {{lang|nocat=yes|ko|ㅜ}} ''u,'' {{lang|nocat=yes|ko|ㅡ}} ''eu,'' {{lang|nocat=yes|ko|ㅣ}} ''i''
+* 4 [[iotation|iotized]] vowels (with a ''y''): {{lang|nocat=yes|ko|ㅑ}} ''ya,'' {{lang|nocat=yes|ko|ㅕ}} ''yeo,'' {{lang|nocat=yes|ko|ㅛ}} ''yo,'' {{lang|nocat=yes|ko|ㅠ}} ''yu''
+
+And the digraphs:
+
+*  5 double ("tense") consonants: {{lang|nocat=yes|ko|ㄲ}} ''kk,'' {{lang|nocat=yes|ko|ㄸ}} ''tt,'' {{lang|nocat=yes|ko|ㅃ}} ''pp,'' {{lang|nocat=yes|ko|ㅆ}} ''ss,'' {{lang|nocat=yes|ko|ㅉ}} ''jj''
+* 11 [[consonant cluster]]s: {{lang|nocat=yes|ko|ㄳ}} ''gs,'' {{lang|nocat=yes|ko|ㄵ}} ''nj,'' {{lang|nocat=yes|ko|ㄶ}} ''nh,'' {{lang|nocat=yes|ko|ㄺ}} ''lg,'' {{lang|nocat=yes|ko|ㄻ}} ''lm,'' {{lang|nocat=yes|ko|ㄼ}} ''lb,'' {{lang|nocat=yes|ko|ㄽ}} ''ls,'' {{lang|nocat=yes|ko|ㄾ}} ''lt,'' {{lang|nocat=yes|ko|ㄿ}} ''lp,'' {{lang|nocat=yes|ko|ㅀ}} ''lh,'' {{lang|nocat=yes|ko|ㅄ}} ''bs''
+* 5 (iotized) diphthongs: {{lang|nocat=yes|ko|ㅐ}} ''ae,'' {{lang|nocat=yes|ko|ㅒ}} ''yae,'' {{lang|nocat=yes|ko|ㅔ}} ''e,'' {{lang|nocat=yes|ko|ㅖ}} ''ye,'' {{lang|nocat=yes|ko|ㅢ}} ''ui''
+* 6 vowels and diphthongs with a ''w'': {{lang|nocat=yes|ko|ㅘ}} ''wa,'' {{lang|nocat=yes|ko|ㅙ}} ''wae,'' {{lang|nocat=yes|ko|ㅚ}} ''oe,'' {{lang|nocat=yes|ko|ㅝ}} ''wo,'' {{lang|nocat=yes|ko|ㅞ}} ''we,'' {{lang|nocat=yes|ko|ㅟ}} ''wi''
+
+In addition, there are numerous obsolete letters, as well as a number of sequences which are no longer used. Some of these were only ever used for transcribing Chinese.
+* 13 obsolete consonants: <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ᄛ, ㅱ, ㅸ, ᄼ, ᄾ, ㅿ, ㆁ</span> (as distinct from {{lang|nocat=yes|ko|ㅇ}}), <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ᅎ, ᅐ, ᅔ, ᅕ, ㆄ, ㆆ</span>
+* 10 obsolete double consonants: <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ㅥ, ᄙ, ㅹ, ᄽ, ᄿ, ᅇ, ᇮ<!-- ssangyesieung -->, ᅏ, ᅑ, ㆅ</span>
+* 66 obsolete clusters of two consonants: <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ᇃ, ᄓ, ㅦ, ᄖ, ㅧ, ㅨ, ᇉ, ᄗ, ᇋ, ᄘ, ㅪ, ㅬ, ᇘ, ㅭ, ᇚ, ᇛ, ㅮ, ㅯ, ㅰ, ᇠ, ᇡ, ㅲ, ᄟ, ㅳ, ᇣ, ㅶ, ᄨ, ㅷ, ᄪ, ᇥ, ㅺ, ㅻ, ㅼ, ᄰ, ᄱ, ㅽ, ᄵ, ㅾ, ᄷ, ᄸ, ᄹ, ᄺ, ᄻ, ᅁ, ᅂ, ᅃ, ᅄ, ᅅ, ᅆ, ᅈ, ᅉ, ᅊ, ᅋ, ᇬ<!-- yesieung-kiyeok -->, ᇭ<!-- yesieung-ssangkiyeok -->, ㆂ, ㆃ, ᇯ<!-- yesieung-khieukh -->, ᅍ, ᅒ, ᅓ, ᅖ, ᇵ, ᇶ, ᇷ, ᇸ</span>
+:and 17 of three consonants: <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ᇄ, ㅩ, ᇏ, ᇑ, ᇒ, ㅫ, ᇔ, ᇕ, ᇖ, ᇞ, ㅴ, ㅵ, ᄤ, ᄥ, ᄦ, ᄳ, ᄴ</span>
+* 1 obsolete vowel: <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ㆍ</span> ''arae-a'' ('sub-a'; still used in the [[Jeju dialect]] and sometimes as a substitute for {{lang|nocat=yes|ko|ㅏ}} ''a'' in logos and advertisements)
+* 44 obsolete diphthongs and vowel sequences: <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ᆜ, ᆝ, ᆢ,</span>{{fix|text=are these iotized vowels?}} <span lang="ko" style="font-family: Malgun Gothic, Dotum Old Hangul, 돋움 옛한글, 은 자모 바탕, UnJamoBatang, Code2000">ᅷ, ᅸ, ᅹ, ᅺ, ᅻ, ᅼ, ᅽ, ᅾ, ᅿ, ᆀ, ᆁ, ᆂ, ᆃ, ㆇ, ㆈ, ᆆ, ᆇ, ㆉ, ᆉ, ᆊ, ᆋ, ᆌ, ᆍ, ᆎ, ᆏ, ᆐ, ㆊ, ㆋ, ᆓ, ㆌ, ᆕ, ᆖ, ᆗ, ᆘ, ᆙ, ᆚ, ᆛ, ᆟ, ᆠ, ㆎ</span>
+
+Notes:
+
+* The four iotated vowels are derived by adding a short stroke to the basic vowel. They are counted as part of the 24 letters of the alphabet because the iotating stroke is not a letter on its own. In fact, there is no letter for ''y'' in Hangul.
+* Of the consonants, {{lang|nocat=yes|ko|ㅊ}} ''chieut,'' {{lang|nocat=yes|ko|ㅋ}} ''kieuk,'' {{lang|nocat=yes|ko|ㅌ}} ''tieut,'' and {{lang|nocat=yes|ko|ㅍ}} ''pieup'' are [[Aspiration (phonetics)|aspirated]] derivatives of {{lang|nocat=yes|ko|ㅈ}} ''jieut,'' {{lang|nocat=yes|ko|ㄱ}} ''giyeok,'' {{lang|nocat=yes|ko|ㄷ}} ''digeut,'' and {{lang|nocat=yes|ko|ㅂ}} ''bieup,'' respectively, formed by adding an extra stroke to the unaspirated letters. These are also counted as separate letters of the alphabet, as the aspirating stroke is not a letter on its own.
+* The doubled consonants, which are used in South Korea, are also counted as separate letters of the alphabet. In North Korea, their sounds are written by combining {{lang|nocat=yes|ko|ㅅ}} ''s'' with the basic consonant: {{lang|nocat=yes|ko|ㅺ, ㅼ, ㅽ, ㅆ, ㅾ}}
+
+===Stroke order===
+Hangul letters have adopted certain rules of Chinese calligraphy. {{lang|nocat=yes|ko|ㅇ}} and {{lang|nocat=yes|ko|ㅎ}} use a circle, which is not used in printed Chinese characters.
+<gallery widths="60" heights="36" perrow=10>
+File:ㄱ (giyeok) stroke order.png | {{lang|nocat=yes|ko|ㄱ}} (giyeok {{lang|nocat=yes|ko|기역}})
+File:ㄴ stroke order.png          | {{lang|nocat=yes|ko|ㄴ}} (nieun {{lang|nocat=yes|ko|니은}})
+File:ㄷ (digeut) stroke order.png | {{lang|nocat=yes|ko|ㄷ}} (digeut {{lang|nocat=yes|ko|디귿}})
+File:ㄹ (rieul) stroke order.png  | {{lang|nocat=yes|ko|ㄹ}} (rieul {{lang|nocat=yes|ko|리을}})
+File:ㅁ (mieum) stroke order.png  | {{lang|nocat=yes|ko|ㅁ}} (mieum {{lang|nocat=yes|ko|미음}})
+File:ㅂ (bieup) stroke order.png  | {{lang|nocat=yes|ko|ㅂ}} (bieup {{lang|nocat=yes|ko|비읍}})
+File:ㅅ (siot) stroke order.png   | {{lang|nocat=yes|ko|ㅅ}} (siot {{lang|nocat=yes|ko|시옷}})
+File:ㅇ (ieung) stroke order.png  | {{lang|nocat=yes|ko|ㅇ}} (ieung {{lang|nocat=yes|ko|이응}})
+File:ㅈ (jieut) stroke order.png  | {{lang|nocat=yes|ko|ㅈ}} (jieut {{lang|nocat=yes|ko|지읒}})
+File:ㅊ (chieut) stroke order.png | {{lang|nocat=yes|ko|ㅊ}} (chieut {{lang|nocat=yes|ko|치읓}})
+File:ㅋ (kieuk) stroke order.png  | {{lang|nocat=yes|ko|ㅋ}} (kieuk {{lang|nocat=yes|ko|키읔}})
+File:ㅌ (tieut) stroke order.png  | {{lang|nocat=yes|ko|ㅌ}} (tieut {{lang|nocat=yes|ko|티읕}})
+File:ㅍ (pieup) stroke order.png  | {{lang|nocat=yes|ko|ㅍ}} (pieup {{lang|nocat=yes|ko|피읖}})
+File:ㅎ (hieut) stroke order.png  | {{lang|nocat=yes|ko|ㅎ}} (hieut {{lang|nocat=yes|ko|히읗}})
+File:ㅏ (a) stroke order.png      | {{lang|nocat=yes|ko|ㅏ}} (a)
+File:ㅐ (ae) stroke order.png     | {{lang|nocat=yes|ko|ㅐ}} (ae)
+File:ㅓ (eo) stroke order.png     | {{lang|nocat=yes|ko|ㅓ}} (eo)
+File:ㅔ (e) stroke order.png      | {{lang|nocat=yes|ko|ㅔ}} (e)
+File:ㅗ (o) stroke order-2.png    | {{lang|nocat=yes|ko|ㅗ}} (o)
+File:ㅜ (u) stroke order.png      | {{lang|nocat=yes|ko|ㅜ}} (u)
+File:一 (eu) stroke order.png     | {{lang|nocat=yes|ko|ㅡ}} (eu)
+File:| (i) stroke order.png       | {{lang|nocat=yes|ko||}} (i)
+</gallery>
+
+For the iotized vowels, which are not shown, the short stroke is simply doubled.
+
+===Letter design===
+{{Calligraphy}}
+Numerous linguists have praised hangul for its [[featural alphabet|featural]] design, describing it as "remarkable", "the most perfect phonetic system devised", and "brilliant, so deliberately does it fit the language like a glove."<ref>Cited in {{cite book |last=Taylor |first=Insup |chapter=The Korean writing system: An alphabet? A syllabary? A logography? |editor1-first=P.A. |editor1-last=Kolers |editor2-first=M. E. |editor2-last=Wrolstad |editor3-first=Herman |editor3-last=Bouma |title=Processing of Visual Language  |publisher=Plenum Press |location=New York |year=1980 |isbn=0306405768 |page=65 |oclc=7099393 |volume=2 |ref=harv}}</ref> The principal reason Hangul has attracted this praise is that the shapes of the letters are related to the [[feature (phonology)|features]] of the sounds they represent: the letters for consonants pronounced in the same place in the mouth are built on the same underlying shape. In addition, vowels are made from vertical or horizontal lines so that they are easily distinguishable from consonants.
+
+Scripts may transcribe languages at the level of [[morpheme]]s ([[logogram|logographic scripts]] like ''hanja),'' of [[syllable]]s (syllabaries like ''[[kana]]),'' or of [[segment (linguistics)|segment]]s ([[alphabet]]ic scripts like the [[Latin script]] used to write English and many other languages). Hangul goes one step further in some cases, using distinct strokes to indicate [[distinctive feature]]s such as [[place of articulation]] ([[labial consonant|labial]], [[coronal consonant|coronal]], [[velar consonant|velar]], or [[glottal consonant|glottal]]) and [[manner of articulation]] ([[plosive]], [[nasal stop|nasal]], [[sibilant consonant|sibilant]], [[aspiration (phonetics)|aspiration]]) for consonants, and [[iotation]] (a preceding ''i-''sound), [[Vowel harmony|harmonic class]], and [[i-mutation]] for vowels.
+
+For instance, the consonant {{lang|nocat=yes|ko|ㅌ}} ''t'' {{IPA|[tʰ]}} is composed of three strokes, each one meaningful: the top stroke indicates {{lang|nocat=yes|ko|ㅌ}} is a plosive, like {{lang|nocat=yes|ko|ㆆ}} ''ʔ,'' {{lang|nocat=yes|ko|ㄱ}} ''g,'' {{lang|nocat=yes|ko|ㄷ}} ''d,'' {{lang|nocat=yes|ko|ㅈ}} ''j,'' which have the same stroke (the last is an [[Affricate consonant|affricate]], a plosive–fricative sequence); the middle stroke indicates that {{lang|nocat=yes|ko|ㅌ}} is aspirated, like {{lang|nocat=yes|ko|ㅎ}} ''h,'' {{lang|nocat=yes|ko|ㅋ}} ''k,'' {{lang|nocat=yes|ko|ㅊ}} ''ch,'' which also have this stroke; and the bottom stroke indicates that {{lang|nocat=yes|ko|ㅌ}} is alveolar, like {{lang|nocat=yes|ko|ㄴ}} ''n,'' {{lang|nocat=yes|ko|ㄷ}} ''d,'' and {{lang|nocat=yes|ko|ㄹ}} ''l.'' (This element is said to represent the shape of the tongue when pronouncing coronal consonants, though this is not certain.) Two consonants, {{lang|nocat=yes|ko|ㆁ}} and {{lang|nocat=yes|ko|ㅱ}}, have dual pronunciations, and appear to be composed of two elements corresponding to these two pronunciations: {{IPA|[ŋ]}}~silence for {{lang|nocat=yes|ko|ㆁ}} and {{IPA|[m]}}~{{IPA|[w]}} for obsolete {{lang|nocat=yes|ko|ㅱ}}.
+
+With vowel letters, a short stroke connected to the main line of the letter indicates that this is one of the vowels that ''can'' be iotated; this stroke is then doubled when the vowel ''is'' iotated. The position of the stroke indicates which harmonic class the vowel belongs to, [[yin and yang|"light"]] (top or right) or [[yin and yang|"dark"]] (bottom or left). In the modern alphabet, an additional vertical stroke indicates [[i-mutation]], deriving {{lang|nocat=yes|ko|ㅐ}} {{IPA|[ɛ]}}, {{lang|nocat=yes|ko|ㅔ}} {{IPA|[e]}}, {{lang|nocat=yes|ko|ㅚ}} {{IPA|[ø]}}, and {{lang|nocat=yes|ko|ㅟ}} {{IPA|[y]}} from {{lang|nocat=yes|ko|ㅏ}} {{IPA|[a]}}, {{lang|nocat=yes|ko|ㅓ}} {{IPA|[ʌ]}}, {{lang|nocat=yes|ko|ㅗ}} {{IPA|[o]}}, and {{lang|nocat=yes|ko|ㅜ}} {{IPA|[u]}}. However, this is not part of the intentional design of the script, but rather a natural development from what were originally [[diphthong]]s ending in the vowel {{lang|nocat=yes|ko|ㅣ}} {{IPA|[i]}}. Indeed, in many [[Dialects of Korean|Korean dialects]]{{Citation needed|date=July 2007}}, including the standard [[Seoul Dialect|dialect of Seoul]], some of these may still be diphthongs.
+
+Although the design of the script may be featural, for all practical purposes it behaves as an alphabet. The letter {{lang|nocat=yes|ko|ㅌ}} is not read as three letters ''alveolar aspirated plosive,'' for instance, but as a single consonant ''t.'' Likewise, the former diphthong {{lang|nocat=yes|ko|ㅔ}} is read as a single vowel ''e.''
+
+Beside the letters, Hangul originally employed [[diacritic mark]]s to indicate [[pitch accent]]. A syllable with a high pitch ({{lang|nocat=yes|ko|거성}}) was marked with a dot (<span lang="ko" style="font-family: '은 자모 바탕', Malgun Gothic, UnJamoBatang, UnBatang, Code2000, serif">ᅟᅠ〮</span>) to the left of it (when writing vertically); a syllable with a rising pitch ({{lang|nocat=yes|ko|상성}}) was marked with a double dot, like a colon (<span lang="ko" style="font-family: '은 자모 바탕', Malgun Gothic, UnJamoBatang, UnBatang, Code2000, serif">ᅟᅠ〯</span>). These are no longer used. Although [[vowel length]] is still phonemic in Korean, it is no longer written.
+
+Some aspects of hangul reflect a shared history with the [[Phagspa script]], and thus [[Brahmic family|Indic]] [[phonology]], such as the relationships among the [[wiktionary:homorganic|homorganic]] letters and the [[alphabet|alphabetic principle]] itself; but other aspects such as organization of letters into syllabic blocks, and which Phagspa letters were chosen to be basic to the system, reflect the influence of Chinese writing and phonology (see below).
+
+====Consonant design====
+The consonant letters fall into five [[wiktionary:homorganic|homorganic]] groups, each with a basic shape, and one or more letters derived from this shape by means of additional strokes. In the ''Hunmin Jeong-eum Haerye'' account, the basic shapes iconically represent the articulations the [[tongue]], [[palate]], [[teeth]], and [[throat]] take when making these sounds.
+
+{|class="infobox wikitable" style="width:120px;"
+!
+!Simple
+!Aspirated
+!Tense
+|-
+!palatal
+|{{lang|nocat=yes|ko|ㅈ}}
+|{{lang|nocat=yes|ko|ㅊ}}
+|{{lang|nocat=yes|ko|ㅉ}}
+|-
+!velar
+|{{lang|nocat=yes|ko|ㄱ}}
+|{{lang|nocat=yes|ko|ㅋ}}
+|{{lang|nocat=yes|ko|ㄲ}}
+|-
+!coronal
+|{{lang|nocat=yes|ko|ㄷ}}
+|{{lang|nocat=yes|ko|ㅌ}}
+|{{lang|nocat=yes|ko|ㄸ}}
+|-
+!bilabial
+|{{lang|nocat=yes|ko|ㅂ}}
+|{{lang|nocat=yes|ko|ㅍ}}
+|{{lang|nocat=yes|ko|ㅃ}}
+|-
+!fricatives
+|{{lang|nocat=yes|ko|ㅅ}}
+|
+|{{lang|nocat=yes|ko|ㅆ}}
+|}
+The Korean names for the groups are taken from Chinese [[phonetics]]:
+* [[Velar consonant]]s ({{lang|nocat=yes|ko|아음, 牙音}} ''a-eum'' "molar sounds")
+** {{lang|nocat=yes|ko|ㄱ}} ''g'' {{IPA|[k]}}, {{lang|nocat=yes|ko|ㅋ}} ''k'' {{IPA|[kʰ]}}
+** Basic shape: {{lang|nocat=yes|ko|ㄱ}} is a side view of the back of the tongue raised toward the velum (soft palate). (For illustration, access the external link below.) {{lang|nocat=yes|ko|ㅋ}} is derived from {{lang|nocat=yes|ko|ㄱ}} with a stroke for the burst of aspiration.
+* [[Coronal consonant]]s ({{lang|nocat=yes|ko|설음, 舌音}} ''seoreum'' "lingual sounds"):
+** {{lang|nocat=yes|ko|ㄴ}} ''n'' {{IPA|[n]}}, {{lang|nocat=yes|ko|ㄷ}} ''d'' {{IPA|[t]}}, {{lang|nocat=yes|ko|ㅌ}} ''t'' {{IPA|[tʰ]}}, {{lang|nocat=yes|ko|ㄹ}} ''r'' {{IPA|[ɾ, l]}}
+** Basic shape: {{lang|nocat=yes|ko|ㄴ}} is a side view of the tip of the tongue raised toward the [[alveolar ridge]] (gum ridge). The letters derived from {{lang|nocat=yes|ko|ㄴ}} are pronounced with the same basic articulation. The line topping {{lang|nocat=yes|ko|ㄷ}} represents firm contact with the roof of the mouth. The middle stroke of {{lang|nocat=yes|ko|ㅌ}} represents the burst of aspiration. The top of {{lang|nocat=yes|ko|ㄹ}} represents a [[flap consonant|flap]] of the tongue.
+* [[Bilabial consonant]]s ({{lang|nocat=yes|ko|순음, 唇音}} ''suneum'' "labial sounds"):
+** {{lang|nocat=yes|ko|ㅁ}} ''m'' {{IPA|[m]}}, {{lang|nocat=yes|ko|ㅂ}} ''b'' {{IPA|[p]}}, {{lang|nocat=yes|ko|ㅍ}} ''p'' {{IPA|[pʰ]}}
+** Basic shape: {{lang|nocat=yes|ko|ㅁ}} represents the outline of the lips in contact with each other. The top of {{lang|nocat=yes|ko|ㅂ}} represents the release burst of the ''b''. The top stroke of {{lang|nocat=yes|ko|ㅍ}} is for the burst of aspiration.
+* [[Sibilant consonant]]s ({{lang|nocat=yes|ko|치음, 齒音}} ''chieum'' "dental sounds"):
+** {{lang|nocat=yes|ko|ㅅ}} s {{IPA|[s]}}, {{lang|nocat=yes|ko|ㅈ}} j {{IPA|[tɕ]}}, {{lang|nocat=yes|ko|ㅊ}} ch {{IPA|[tɕʰ]}}
+** Basic shape: {{lang|nocat=yes|ko|ㅅ}} was originally shaped like a wedge ∧, without the [[serif]] on top. It represents a side view of the teeth. The line topping {{lang|nocat=yes|ko|ㅈ}} represents firm contact with the roof of the mouth. The stroke topping {{lang|nocat=yes|ko|ㅊ}} represents an additional burst of aspiration.
+* [[Dorsal consonant]]s ({{lang|nocat=yes|ko|후음, 喉音}} ''hueum'' "throat sounds"):
+** {{lang|nocat=yes|ko|ㅇ}} ''ng'' {{IPA|[ʔ, ŋ]}}, {{lang|nocat=yes|ko|ㅎ}} ''h'' {{IPA|[h]}}
+** Basic shape: {{lang|nocat=yes|ko|ㅇ}} is an outline of the throat. Originally {{lang|nocat=yes|ko|ㅇ}} was two letters, a simple circle for silence (null consonant), and a circle topped by a vertical line, {{lang|nocat=yes|ko|ㆁ}}, for the nasal ''ng''. A now obsolete letter, {{lang|nocat=yes|ko|ㆆ}}, represented a [[glottal stop]], which is pronounced in the throat and had closure represented by the top line, like {{lang|nocat=yes|ko|ㄱㄷㅈ}}. Derived from {{lang|nocat=yes|ko|ㆆ}} is {{lang|nocat=yes|ko|ㅎ}}, in which the extra stroke represents a burst of aspiration.
+
+====Vowel design====
+[[File:Hangul Taegeuk.png|thumb|]]
+Vowel letters are based on three elements:
+
+* A horizontal line representing the flat Earth, the essence of ''[[yin and yang|yin]]''.
+* A point for the Sun in the heavens, the essence of ''[[yin and yang|yang]]''. (This becomes a short stroke when written with a brush.)
+* A vertical line for the upright Human, the neutral mediator between the Heaven and Earth.
+
+Short strokes (dots in the earliest documents) were added to these three basic elements to derive the vowel letter:
+
+=====Simple vowels=====
+* Horizontal letters: these are mid-high back vowels.
+** bright {{lang|nocat=yes|ko|ㅗ}} ''o''
+** dark {{lang|nocat=yes|ko|ㅜ}} ''u''
+** neutral {{lang|nocat=yes|ko|ㅡ}} ''eu'' (''ŭ'')
+* Vertical letters: these were once low vowels.
+** bright {{lang|nocat=yes|ko|ㅏ}} ''a''
+** dark {{lang|nocat=yes|ko|ㅓ}} ''eo'' (''ŏ'')
+** neutral {{lang|nocat=yes|ko|ㅣ}} ''i''
+
+=====Compound vowels=====
+Hangul never had a ''w'', except for [[Sino-Korean vocabulary|Sino-Korean]] [[etymology]]. Since an ''o'' or ''u'' before an ''a'' or ''eo'' became a {{IPA|[w]}} sound, and {{IPA|[w]}} occurred nowhere else, {{IPA|[w]}} could always be analyzed as a [[phoneme|phonemic]] ''o'' or ''u,'' and no letter for {{IPA|[w]}} was needed. However, vowel harmony is observed: "dark" {{lang|nocat=yes|ko|ㅜ}}&nbsp;''u'' with "dark" {{lang|nocat=yes|ko|ㅓ}}&nbsp;''eo'' for {{lang|nocat=yes|ko|ㅝ}} ''wo;'' "bright" {{lang|nocat=yes|ko|ㅗ}}&nbsp;''o'' with "bright" {{lang|nocat=yes|ko|ㅏ}}&nbsp;''a''   for {{lang|nocat=yes|ko|ㅘ}} ''wa:''
+
+* {{lang|nocat=yes|ko|ㅘ}}&nbsp;<small>''wa''</small> = {{lang|nocat=yes|ko|ㅗ}}&nbsp;<small>''o''</small> + {{lang|nocat=yes|ko|ㅏ}}&nbsp;<small>''a''</small>
+* {{lang|nocat=yes|ko|ㅝ}}&nbsp;<small>''wo''</small> = {{lang|nocat=yes|ko|ㅜ}}&nbsp;<small>''u''</small> + {{lang|nocat=yes|ko|ㅓ}}&nbsp;<small>''eo''</small>
+* {{lang|nocat=yes|ko|ㅙ}}&nbsp;<small>''wae''</small> = {{lang|nocat=yes|ko|ㅗ}}&nbsp;<small>''o''</small> + {{lang|nocat=yes|ko|ㅐ}}&nbsp;<small>''ae''</small>
+* {{lang|nocat=yes|ko|ㅞ}}&nbsp;<small>''we''</small> = {{lang|nocat=yes|ko|ㅜ}}&nbsp;<small>''u''</small> + {{lang|nocat=yes|ko|ㅔ}}&nbsp;<small>''e''</small>
+
+The compound vowels ending in {{lang|nocat=yes|ko|ㅣ}} ''i'' were originally [[diphthong]]s. However, several have since evolved into pure vowels:
+
+* {{lang|nocat=yes|ko|ㅐ}}&nbsp;<small>''ae''</small> = {{lang|nocat=yes|ko|ㅏ}}&nbsp;<small>''a''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small>
+* {{lang|nocat=yes|ko|ㅔ}}&nbsp;<small>''e''</small> = {{lang|nocat=yes|ko|ㅓ}}&nbsp;<small>''eo''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small>
+* {{lang|nocat=yes|ko|ㅙ}}&nbsp;<small>''wae''</small> = {{lang|nocat=yes|ko|ㅘ}}&nbsp;<small>''wa''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small>
+* {{lang|nocat=yes|ko|ㅚ}}&nbsp;<small>''oe''</small> = {{lang|nocat=yes|ko|ㅗ}}&nbsp;<small>''o''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small> (formerly pronounced {{IPA|[ø]}}, see [[Korean phonology#Monophtongs|Korean phonology]])
+* {{lang|nocat=yes|ko|ㅞ}}&nbsp;<small>''we''</small> = {{lang|nocat=yes|ko|ㅝ}}&nbsp;<small>''wo''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small>
+* {{lang|nocat=yes|ko|ㅟ}}&nbsp;<small>''wi''</small> = {{lang|nocat=yes|ko|ㅜ}}&nbsp;<small>''u''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small> (formerly pronounced {{IPA|[y]}}, see [[Korean phonology#Monophtongs|Korean phonology]])
+* {{lang|nocat=yes|ko|ㅢ}}&nbsp;<small>''ui''</small> = {{lang|nocat=yes|ko|ㅡ}}&nbsp;<small>''eu''</small> + {{lang|nocat=yes|ko|ㅣ}}&nbsp;<small>''i''</small>
+
+=====Iotized vowels=====
+There is no letter for ''y''. Instead, this sound is indicated by doubling the stroke attached to the base line of the vowel letter. Of the seven basic vowels, four could be preceded by a ''y'' sound, and these four were written as a dot next to a line. (Through the influence of Chinese calligraphy, the dots soon became connected to the line: {{lang|nocat=yes|ko|ㅓㅏㅜㅗ}}.) A preceding ''y'' sound, called "iotation", was indicated by doubling this dot: {{lang|nocat=yes|ko|ㅕㅑㅠㅛ}} <small>''yeo, ya, yu, yo''</small>. The three vowels that could not be iotated were written with a single stroke: {{lang|nocat=yes|ko|ㅡㆍㅣ}} <small>''eu, (arae a), i''</small>.
+
+{|class="infobox wikitable" style="width:120px;"
+|-
+!Simple
+!Iotized
+|-
+|{{lang|nocat=yes|ko|ㅏ}}
+|{{lang|nocat=yes|ko|ㅑ}}
+|-
+|{{lang|nocat=yes|ko|ㅓ}}
+|{{lang|nocat=yes|ko|ㅕ}}
+|-
+|{{lang|nocat=yes|ko|ㅗ}}
+|{{lang|nocat=yes|ko|ㅛ}}
+|-
+|{{lang|nocat=yes|ko|ㅜ}}
+|{{lang|nocat=yes|ko|ㅠ}}
+|-
+|{{lang|nocat=yes|ko|ㅡ}}
+|
+|-
+|{{lang|nocat=yes|ko|ㅣ}}
+|
+|}
+
+The simple iotated vowels are:
+
+* {{lang|nocat=yes|ko|ㅑ}}&nbsp;<small>''ya''</small> from {{lang|nocat=yes|ko|ㅏ}} &nbsp;<small>''a''</small>
+* {{lang|nocat=yes|ko|ㅕ}}&nbsp;<small>''yeo''</small> from {{lang|nocat=yes|ko|ㅓ}} &nbsp;<small>''eo''</small>
+* {{lang|nocat=yes|ko|ㅛ}}&nbsp;<small>''yo''</small> from {{lang|nocat=yes|ko|ㅗ}} &nbsp;<small>''o''</small>
+* {{lang|nocat=yes|ko|ㅠ}}&nbsp;<small>''yu''</small> from {{lang|nocat=yes|ko|ㅜ}} &nbsp;<small>''u''</small>
+
+There are also two iotated diphthongs:
+
+* {{lang|nocat=yes|ko|ㅒ}}&nbsp;<small>''yae''</small> from {{lang|nocat=yes|ko|ㅐ}} &nbsp;<small>''ae''</small>
+* {{lang|nocat=yes|ko|ㅖ}}&nbsp;<small>''ye''</small> from {{lang|nocat=yes|ko|ㅔ}} &nbsp;<small>''e''</small>
+
+The Korean language of the 15th century had [[vowel harmony]] to a greater extent than it does today. Vowels in grammatical [[morpheme]]s changed according to their environment, falling into groups that "harmonized" with each other. This affected the [[morphology (linguistics)|morphology]] of the language, and Korean phonology described it in terms of ''yin'' and ''yang:'' If a root word had ''yang'' ('bright') vowels, then most suffixes attached to it also had to have ''yang'' vowels; conversely, if the root had ''yin'' ('dark') vowels, the suffixes needed to be ''yin'' as well. There was a third harmonic group called "mediating" ('neutral' in Western terminology) that could coexist with either ''yin'' or ''yang'' vowels.
+
+The Korean neutral vowel was {{lang|nocat=yes|ko|ㅣ}} ''i''. The ''yin'' vowels were {{lang|nocat=yes|ko|ㅡㅜㅓ}} ''eu, u, eo;'' the dots are in the ''yin'' directions of 'down' and 'left'. The ''yang'' vowels were {{lang|nocat=yes|ko|ㆍㅗㅏ}} ''ə, o, a,'' with the dots in the ''yang'' directions of 'up' and 'right'. The ''Hunmin Jeong-eum Haerye'' states that the shapes of the non-dotted letters {{lang|nocat=yes|ko|ㅡㆍㅣ}} were chosen to represent the concepts of ''yin,'' ''yang,'' and mediation: Earth, Heaven, and Human. (The letter {{lang|nocat=yes|ko|ㆍ}} ''ə'' is now obsolete except in the [[Jeju dialect]].)
+
+There was yet a third parameter in designing the vowel letters, namely, choosing {{lang|nocat=yes|ko|ㅡ}} as the graphic base of {{lang|nocat=yes|ko|ㅜ}} and {{lang|nocat=yes|ko|ㅗ}}, and {{lang|nocat=yes|ko|ㅣ}} as the graphic base of {{lang|nocat=yes|ko|ㅓ}} and {{lang|nocat=yes|ko|ㅏ}}. A full understanding of what these horizontal and vertical groups had in common would require knowing the exact sound values these vowels had in the 15th century.
+
+Our uncertainty is primarily with the three letters {{lang|nocat=yes|ko|ㆍㅓㅏ}}. Some linguists reconstruct these as {{IPA|*a, *ɤ, *e}}, respectively; others as {{IPA|*ə, *e, *a}}.  A third reconstruction is to make them all middle vowels as {{IPA|*ʌ, *ɤ, *a}}.<ref>[http://conf.ling.cornell.edu/Whitman/FrellWhitman.pdf The Japanese/Korean Vowel Correspondences] by Bjarke Frellesvig and John Whitman.  Section 3 deals with Middle Korean vowels.</ref>  With the third reconstruction, Middle Korean vowels actually line up in a tidy vowel harmony pattern, albeit with only one front vowel and four middle vowels:
+
+{|class="wikitable"
+|- style="vertical-align:top;"
+|rowspan="4"|&nbsp;{{lang|nocat=yes|ko|ㅣ}} {{IPA|*i}}
+|style="color:blue;"|&nbsp;{{lang|nocat=yes|ko|ㅡ}} {{IPA|*ɯ}}
+|rowspan="2" style="color:blue;"|&nbsp;{{lang|nocat=yes|ko|ㅜ}} {{IPA|*u}}
+|- style="vertical-align:top;"
+|style="color:blue;"|&nbsp;{{lang|nocat=yes|ko|ㅓ}} {{IPA|*ɤ}}
+|- style="vertical-align:top;"
+|style="color:red;"|&nbsp;{{lang|nocat=yes|ko|ㆍ}} {{IPA|*ʌ}}
+|rowspan="2" style="color:red;"|&nbsp;{{lang|nocat=yes|ko|ㅗ}} {{IPA|*o}}
+|- style="vertical-align:top;"
+|style="color:red;"|&nbsp;{{lang|nocat=yes|ko|ㅏ}} {{IPA|*a}}
+|}
+
+However, the horizontal letters {{lang|nocat=yes|ko|ㅡㅜㅗ}} <small>''eu,&nbsp;u,&nbsp;o''</small> do all appear to have been mid to high [[back vowel]]s, {{IPA|[*ɯ, *u, *o]}}, and thus to have formed a coherent group phonetically in every reconstruction.
+
+====Traditional account====
+{{See also|Origin of hangul}}
+The generally accepted account<ref group="nb">The explanation of the origin of the shapes of the letters is provided within a section of [[Hunminjeongeum]] itself, {{lang|nocat=yes|ko|훈민정음 해례본 제자해}} (Hunminjeongeum Haeryebon Jajahae ''or'' Hunminjeongeum, Chapter: Paraphrases and Examples, Section: Making of Letters), which states: {{lang|nocat=yes|ko|牙音ㄱ 象舌根閉喉之形. (아음(어금니 소리) ㄱ은 혀뿌리가 목구멍을 막는 모양을 본뜨고), 舌音ㄴ 象舌附上腭之形 ( 설음(혓 소리) ㄴ은 혀(끝)가 윗 잇몸에 붙는 모양을 본뜨고), 脣音ㅁ 象口形. ( 순음(입술소리) ㅁ은 입모양을 본뜨고), 齒音ㅅ 象齒形. ( 치음(잇 소리) ㅅ은 이빨 모양을 본뜨고)  象齒形. 喉音ㅇ. 象喉形 (목구멍 소리ㅇ은 목구멍의 꼴을 본뜬 것이다). ㅋ比ㄱ. 聲出稍 . 故加 . ㄴ而ㄷ. ㄷ而ㅌ. ㅁ而ㅂ. ㅂ而ㅍ. ㅅ而ㅈ. ㅈ而ㅊ. ㅇ而ㅡ. ㅡ而ㅎ. 其因聲加 之義皆同. 而唯　爲異 (ㅋ은ㄱ에 견주어 소리 남이 조금 세므로 획을 더한 것이고, ㄴ에서 ㄷ으로, ㄷ에서 ㅌ으로 함과, ㅁ에서 ㅂ으로 ㅂ에서 ㅍ으로 함과, ㅅ에서 ㅈ으로 ㅈ에서 ㅊ으로 함과, ㅇ에서 ㅡ으로 ㅡ에서 ㅎ으로 함도, 그 소리를 따라 획을 더한 뜻이 같다 . 오직 ㅇ자는 다르다.)  半舌音ㄹ. 半齒音. 亦象舌齒之形而異其體. (반혓소리ㄹ과, 반잇소리 '세모자'는 또한 혀와 이의 꼴을 본뜨되, 그 본을 달리하여 획을 더하는 뜻이 없다.}}) ...</ref><ref>[http://blog.paran.com/blog/detail/postBoard.kth?pmcId=sookoeun2145&blogDataId=26450475 Korean orthography rules] {{Unreliable source?|date=January 2009}}</ref> on the design of the letters is that the vowels are derived from various combinations of the following three components: {{lang|nocat=yes|ko|ㆍ ㅡ ㅣ}}.  Here, {{lang|nocat=yes|ko|ㆍ}} symbolically stands for the (sun in) heaven, {{lang|nocat=yes|ko|ㅡ}} stands for the (flat) earth, and {{lang|nocat=yes|ko|ㅣ}} stands for an (upright) human.  The original sequence of the Korean vowels, as stated in [[Hunminjeongeum]], listed these three vowels first, followed by various combinations.  Thus, the original order for the vowels was: {{lang|nocat=yes|ko|ㆍ ㅡ ㅣ ㅗ ㅏ ㅜ ㅓ ㅛ ㅑ ㅠ ㅕ}}.  Note that two positive vowels ({{lang|nocat=yes|ko|ㅗ ㅏ}}) including one {{lang|nocat=yes|ko|ㆍ}} are followed by two negative vowels including one {{lang|nocat=yes|ko|ㆍ}}, then by two positive vowels each including two of {{lang|nocat=yes|ko|ㆍ}}, and then by two negative vowels each including two of {{lang|nocat=yes|ko|ㆍ}}.
+
+The same theory provides the most simple explanation of the shapes of the consonants as approximation of the shapes of the most representative organ needed to form that sound.  The original order of the consonants in Hunmin Jeong-eum was: {{lang|nocat=yes|ko|ㄱ ㅋ ㆁ ㄷ ㅌ ㄴ ㅂ ㅍ ㅁ ㅈ ㅊ ㅅ ㆆ ㅎ ㅇ ㄹ ㅿ}}.
+
+{{lang|nocat=yes|ko|ㄱ}} representing the {{IPA|/k/}} sound geometrically describes a tongue just before the moment of pronunciation as the tongue blocks the passage of air.
+
+{{lang|nocat=yes|ko|ㅋ}} representing the {{IPA|/kʰ/}} sound is derived from {{lang|nocat=yes|ko|ㄱ}} by adding another stroke.
+
+{{lang|nocat=yes|ko|ㆁ}} representing the {{IPA|/ŋ/}} sound may have been derived from {{lang|nocat=yes|ko|ㅇ}} by addition of a stroke.
+
+{{lang|nocat=yes|ko|ㄷ}} representing the {{IPA|/t/}} sound is derived from {{lang|nocat=yes|ko|ㄴ}} by addition of a stroke.
+
+{{lang|nocat=yes|ko|ㅌ}} representing the {{IPA|/tʰ/}} sound is derived from {{lang|nocat=yes|ko|ㄷ}} by adding another stroke.
+
+{{lang|nocat=yes|ko|ㄴ}} representing the {{IPA|/n/}} sound geometrically describes a tongue making contact with an upper palate just before making the "n" sound.
+
+{{lang|nocat=yes|ko|ㅂ}} representing the {{IPA|/p/}} sound is derived from {{lang|nocat=yes|ko|ㅁ}} by adding strokes.
+
+{{lang|nocat=yes|ko|ㅍ}} representing the {{IPA|/pʰ/}} sound is a variant of {{lang|nocat=yes|ko|ㅂ}}, which is obtained by rotating 90 degrees and extending the horizontal strokes.
+
+{{lang|nocat=yes|ko|ㅁ}} representing the {{IPA|/m/}} sound geometrically describes a closed mouth before opening the lips.
+
+{{lang|nocat=yes|ko|ㅈ}} representing the {{IPA|/tɕ/}} sound is derived from the shape of {{lang|nocat=yes|ko|ㅅ}} by adding strokes.
+
+{{lang|nocat=yes|ko|ㅊ}} representing the {{IPA|/tɕʰ/}} sound is derived from {{lang|nocat=yes|ko|ㅈ}} by adding another stroke.
+
+{{lang|nocat=yes|ko|ㅅ}} representing the {{IPA|/s/}} sound geometrically describes a near contact between the tongue and the teeth. {{Citation needed|date=March 2009}}<!-- not a diagram of the tooth? - While the literal text of 훈민정음 해례본 제자해 talks only about teeth (or a tooth), all root consonants (ㄱ, ㄴ, ㅁ) include the shape of the tongue.  It is more likely the shape of ㅅ represents the contact between the teeth AND the tongue (dental consonants) -->
+
+{{lang|nocat=yes|ko|ㆆ}} representing the {{IPA|/ʔ/}} sound geometrically describes an open throat with a bar to indicate that there is an aspiration.
+
+{{lang|nocat=yes|ko|ㅎ}} representing the {{IPA|/h/}} sound is derived from ㆆ with the extra stroke representing a stronger flow of the aspiration.
+
+{{lang|nocat=yes|ko|ㅇ}} representing the absence of a consonant geometrically describes an open mouth, which necessarily accompanies the following vowel.
+
+{{lang|nocat=yes|ko|ㄹ}} representing the {{IPA|/ɾ/}} and {{IPA|/l/}} sounds geometrically describes a backward-bending tongue.
+
+{{lang|nocat=yes|ko|ㅿ}} representing a weak {{IPA|/z/}} sound is also derived from the shape of the teeth, but has a different origin than {{lang|nocat=yes|ko|ㅅ}}{{clarify|date=May 2013}} and is not derived from {{lang|nocat=yes|ko|ㅅ}} by addition of a stroke.
+
+====Ledyard's theory of consonant design====
+[[File:King Sejong statue inscription.jpg|thumb|A close-up of the inscription on the statue of King Sejong above. It reads ''Sejong Daewang'' {{lang|nocat=yes|ko|세종대왕}} and illustrates the forms of the letters originally promulgated by Sejong. Note the dots on the vowels, the geometric symmetry of ''s'' and ''j'' in the first two syllables, the asymmetrical lip at the top-left of the ''d'' in the third, and the distinction between initial and final ''ieung'' in the last.]]
+[[File:Phagspa-Hangul comparison.svg|thumb|
+(Top) Phagspa letters {{IPA|[k, t, p, s, l]}}, and their supposed Hangul derivatives {{IPA|[k, t, p, ts, l]}}. Note the lip on both Phagspa {{IPA|[t]}} and Hangul {{lang|nocat=yes|ko|ㄷ}}.<br/>
+(Bottom) Derivation of Phagspa ''w, v, f'' from variants of the letter {{IPA|[h]}} (left) plus a subscript {{IPA|[w]}}, and analogous composition of Hangul ''w, v, f'' from variants of the basic letter {{IPA|[p]}} plus a circle.]]
+
+Although the ''Hunmin Jeong-eum Haerye'' explains (admittedly simplistically) the design of the consonantal letters in terms of [[articulatory phonetics]], as a purely innovative creation, there are several theories as to which external sources may have inspired or influenced King Sejong's creation. Professor [[Gari Ledyard]] of Columbia University studied on possible connections between Hangul and the Mongol [[Phagspa script]] of the [[Yuan dynasty]]. He believed that the role of Phags-pa script in the creation of Hangul was quite limited:
+
+{{quotation|It should be clear to any reader that in the total picture, that [Phagspa script's] role was quite limited ... Nothing would disturb me more, after this study is published, than to discover in a work on the history of writing a statement like the following: "According to recent investigations, the Korean alphabet was derived from ''the Mongol's [[phags-pa script]].''.."<ref>The Korean language reform of 1446 : the origin, background, and Early History of the Korean Alphabet, Gari Keith Ledyard. University of California, 1966, p. 367-368.</ref>  An affine theory states that the consonants are derived from the shape of the speaker's lips and tongue during the pronunciation of the consonants (initially, at least), but this would appear somewhat to strain credulity.<ref>Peter T. Daniels and William Bright, ''The World's Writing Systems'' (New York: Oxford University Press, 1996), pp. 219-220</ref>}}
+
+Ledyard posits that five of the Hangul letters have shapes inspired by Phags-pa; a sixth basic letter, the null initial {{lang|nocat=yes|ko|ㅇ}}, was invented by Sejong. The rest of the letters were derived internally from these six, essentially as described in the ''Hunmin Jeong-eum Haerye''. However, the five borrowed consonants were not the graphically simplest letters considered basic by the ''Hunmin Jeong-eum Haerye,'' but instead the consonants basic to Chinese phonology: {{lang|nocat=yes|ko|ㄱ}}, {{lang|nocat=yes|ko|ㄷ}}, {{lang|nocat=yes|ko|ㅂ}}, {{lang|nocat=yes|ko|ㅈ}}, and {{lang|nocat=yes|ko|ㄹ}}.
+
+The ''Hunmin Jeong-eum'' states that King Sejong adapted the {{lang|nocat=yes|ko|古篆}} (''gojeon'', "''Gǔ'' Seal Script") in creating Hangul. The {{lang|nocat=yes|ko|古篆}} has never been identified. The primary meaning of {{lang|nocat=yes|ko|古}} ''gǔ'' is "old" ("Old Seal Script"), frustrating philologists because Hangul bears no functional similarity to Chinese {{lang|nocat=yes|ko|篆字}} ''zhuànzì'' [[seal script]]s. However, Ledyard believes {{lang|nocat=yes|ko|古}} ''gǔ'' may be a pun on {{lang|nocat=yes|ko|蒙古}} ''Měnggǔ'' "Mongol", and that {{lang|nocat=yes|ko|古篆}} is an abbreviation of {{lang|nocat=yes|ko|蒙古篆字}} "Mongol Seal Script", that is, the formal variant of the Phagspa alphabet written to look like the Chinese seal script. There were Phagspa manuscripts in the Korean palace library, including some in the seal-script form, and several of Sejong's ministers knew the script well.
+
+If this was the case, Sejong's evasion on the Mongol connection can be understood in light of Korea's relationship with Ming China after the fall of the Mongol Yuan dynasty, and of the literati's contempt for the Mongols as "barbarians".
+
+According to Ledyard, the five borrowed letters were graphically simplified, which allowed for consonant clusters and left room to add a stroke to derive the aspirate plosives, {{lang|nocat=yes|ko|ㅋㅌㅍㅊ}}. But in contrast to the traditional account, the non-plosives ({{lang|nocat=yes|ko|ㆁ ㄴ ㅁ ㅅ}}) were derived by ''removing'' the top of the basic letters. He points out that while it's easy to derive {{lang|nocat=yes|ko|ㅁ}} from {{lang|nocat=yes|ko|ㅂ}} by removing the top, it's not clear how to derive {{lang|nocat=yes|ko|ㅂ}} from {{lang|nocat=yes|ko|ㅁ}} in the traditional account, since the shape of {{lang|nocat=yes|ko|ㅂ}} is not analogous to those of the other plosives.
+
+The explanation of the letter ''ng'' also differs from the traditional account. Many Chinese words began with ''ng,'' but by King Sejong's day, initial ''ng'' was either silent or pronounced {{IPA|[ŋ]}} in China, and was silent when these words were borrowed into Korean. Also, the expected shape of ''ng'' (the short vertical line left by removing the top stroke of {{lang|nocat=yes|ko|ㄱ}}) would have looked almost identical to the vowel {{lang|nocat=yes|ko|ㅣ}} {{IPA|[i]}}. Sejong's solution solved both problems: The vertical stroke left from {{lang|nocat=yes|ko|ㄱ}} was added to the null symbol {{lang|nocat=yes|ko|ㅇ}} to create {{lang|nocat=yes|ko|ㆁ}} (a circle with a vertical line on top), iconically capturing both the pronunciation {{IPA|[ŋ]}} in the middle or end of a word, and the usual silence at the beginning. (The graphic distinction between null {{lang|nocat=yes|ko|ㅇ}} and ''ng'' {{lang|nocat=yes|ko|ㆁ}} was eventually lost.)
+
+Another letter composed of two elements to represent two regional pronunciations was {{lang|nocat=yes|ko|ㅱ}}, which transcribed the Chinese [[Syllable onset|initial]] {{lang|zh|微}}. This represented either ''m'' or ''w'' in various Chinese dialects, and was composed of {{lang|nocat=yes|ko|ㅁ}} [m] plus {{lang|nocat=yes|ko|ㅇ}} (from Phagspa [w]). In Phagspa, a loop under a letter represented ''w'' after vowels, and Ledyard proposes this became the loop at the bottom of {{lang|nocat=yes|ko|ㅱ}}. Now, in Phagspa the Chinese initial {{lang|zh|微}} is also transcribed as a compound with ''w,'' but in its case the ''w'' is placed under an ''h.'' Actually, the Chinese consonant series {{lang|zh|微非敷}} ''w, v, f'' is transcribed in Phagspa by the addition of a ''w'' under three graphic variants of the letter for ''h,'' and Hangul parallels this convention by adding the ''w'' loop to the labial series {{lang|nocat=yes|ko|ㅁㅂㅍ}} ''m, b, p,'' producing now-obsolete {{lang|nocat=yes|ko|ㅱㅸㆄ}} ''w, v, f.'' (Phonetic values in Korean are uncertain, as these consonants were only used to transcribe Chinese.)
+
+As a final piece of evidence, Ledyard notes that most of the borrowed Hangul letters were simple geometric shapes, at least originally, but that {{lang|nocat=yes|ko|ㄷ}} ''d'' [t] always had a small lip protruding from the upper left corner, just as the Phagspa ''d'' [t] did. This lip can be traced back to the Tibetan letter ''d''.
+
+===Sorting order===
+The [[alphabetical order]] of Hangul does not mix consonants and vowels as the Latin, Cyrillic, and Greek alphabets do. Rather, the order is that of the [[Shiva Sutra|Indic type]], first velar consonants, then coronals, labials, sibilants, ''etc.'' However, the vowels come after the consonants rather than before them as in the Indic systems.
+
+====Historical orders====
+The consonantal order of the ''Hunmin Jeongeum'' in 1446 was,
+
+:{{lang|nocat=yes|ko|ㄱ ㅋ ㆁ ㄷ ㅌ ㄴ ㅂ ㅍ ㅁ ㅈ ㅊ ㅅ ㆆ ㅎ ㅇ ㄹ ㅿ}}
+
+and the order of vowels was,
+
+:{{lang|nocat=yes|ko|ㆍ ㅡ ㅣ ㅗ ㅏ ㅜ ㅓ ㅛ ㅑ ㅠ ㅕ}}
+
+In 1527, [[Choe Sejin]] reorganized the alphabet:
+
+:{{lang|nocat=yes|ko|ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㆁ ㅋ ㅌ ㅍ ㅈ ㅊ ㅿ ㅇ ㅎ}}
+
+:{{lang|nocat=yes|ko|ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ ㆍ}}
+
+This is the basis of the modern alphabetic orders. It was before the development of the Korean tense consonants and the double letters that represent them, and before the conflation of the letters {{lang|nocat=yes|ko|ㅇ}} (null) and {{lang|nocat=yes|ko|ㆁ}} (ng). Thus when the [[South Korea]]n and [[North Korea]]n governments implemented full use of Hangul, they ordered these letters differently, with South Korea grouping similar letters together, and North Korea placing new letters at the end of the alphabet.
+
+====South Korean order====
+In the Southern order, double letters are placed immediately after their single counterparts. No distinction is made between silent and nasal ㅇ:
+
+:{{lang|nocat=yes|ko|ㄱ ㄲ ㄴ ㄷ ㄸ ㄹ ㅁ ㅂ ㅃ ㅅ ㅆ ㅇ ㅈ ㅉ ㅊ ㅋ ㅌ ㅍ ㅎ}}
+:{{lang|nocat=yes|ko|ㅏ ㅐ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ}}
+
+The modern [[monophthong]]al vowels come first, with the derived forms interspersed according to their form: ''i'' is added first, then iotized, then iotized with added ''i''. [[Diphthong]]s beginning with ''w'' are ordered according to their spelling, as {{lang|nocat=yes|ko|ㅗ}} or {{lang|nocat=yes|ko|ㅜ}} plus a second vowel, not as separate [[Digraph (orthography)|digraph]]s.
+
+The order of the final letters ({{lang|nocat=yes|ko|받침}}) is,
+:(none) {{lang|nocat=yes|ko|ᆨ ᆩ ᆪ ᆫ ᆬ ᆭ ᆮ ᆯ ᆰ ᆱ ᆲ ᆳ ᆴ ᆵ ᆶ ᆷ ᆸ ᆹ ᆺ ᆻ ᆼ ᆽ ᆾ ᆿ ᇀ ᇁ ᇂ}}
+
+("None" means there is no final letter.)
+
+Every word begins with a consonant that is followed by a vowel (ex. {{lang|nocat=yes|ko|ㄷ}} + {{lang|nocat=yes|ko|ㅏ}} = {{lang|nocat=yes|ko|다}}). Some words have a final consonant ({{lang|nocat=yes|ko|받침}}), such as "{{lang|nocat=yes|ko|달}}" and "{{lang|nocat=yes|ko|닭}}". Then, there are a total of 399 possible combinations for "two-letter words" and 10,773 possible combinations for words with more than two "letters" (27 possible final endings, {{lang|nocat=yes|ko|받침}}), for a total of 11,172 possible combinations of Hangul "letters" to form characters.
+
+====North Korean order====
+North Korea maintains a more traditional order:
+
+: {{lang|nocat=yes|ko|ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ ㄲ ㄸ ㅃ ㅆ ㅉ ㅇ}}
+
+{{lang|nocat=yes|ko|ㅇ}} used as an initial, goes at the very end, as it is a placeholder for the vowels which follow. (A syllable with no final is ordered before all syllables with finals, however, not with null {{lang|nocat=yes|ko|ㅇ}}.)
+
+The new, double, letters are placed at the end of the consonants, just before the null {{lang|nocat=yes|ko|ㅇ}}, so as not to alter the traditional order of the rest of the alphabet.
+
+The order of the vowel letters is,
+
+: {{lang|nocat=yes|ko|ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ ㅐ ㅒ ㅔ ㅖ ㅚ ㅟ ㅢ ㅘ ㅝ ㅙ ㅞ}}
+
+All digraphs and [[trigraph (orthography)|trigraph]]s, including the old diphthongs {{lang|nocat=yes|ko|ㅐ}} and {{lang|nocat=yes|ko|ㅔ}}, are placed after the simple vowels, again maintaining Choe's alphabetic order.
+
+The order of the final letters is,
+
+:(none) {{lang|nocat=yes|ko|ㄱ ㄳ ㄴ ㄵ ㄶ ㄷ ㄹ ㄺ ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅁ ㅂ ㅄ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ ㄲ ㅆ}}
+
+Unlike when it is initial, this {{lang|nocat=yes|ko|ㅇ}} is pronounced, as the nasal {{lang|nocat=yes|ko|ㅇ}} ''ng,'' which occurs only as a final in the modern language. The double letters are placed to the very end, as in the initial order, but the combined consonants are ordered immediately after their first element.
+
+===Letter names===
+The hangul arrangement is called the ''ganada'' order, ({{lang|nocat=yes|ko|가나다 순}}) which is basically an alphabetical order named after the first three letters ''(g, n, d)'' affixed to the first vowel ''(a).'' The letters were named by Choe Sejin in 1527. North Korea regularized the names when it made Hangul its official orthography.
+
+====Consonant names====
+The modern consonants have two-syllable names, with the consonant coming both at the beginning and end of the name, as follows:
+
+{| class="wikitable"
+|-
+! Consonant !! Name
+|-
+| {{lang|nocat=yes|ko|ㄱ}} || ''giyeok'' ({{lang|nocat=yes|ko|기역}}), or ''kiŭk'' ({{lang|nocat=yes|ko|기윽}}) in North Korea
+|-
+| {{lang|nocat=yes|ko|ㄴ}} || ''nieun/niŭn'' ({{lang|nocat=yes|ko|니은}})
+|-
+| {{lang|nocat=yes|ko|ㄷ}} || ''digeut'' ({{lang|nocat=yes|ko|디귿}}), or ''tiŭt'' ({{lang|nocat=yes|ko|디읃}}) in North Korea
+|-
+| {{lang|nocat=yes|ko|ㄹ}} || ''rieul/riŭl'' ({{lang|nocat=yes|ko|리을}})
+|-
+| {{lang|nocat=yes|ko|ㅁ}} || ''mieum/miŭm'' ({{lang|nocat=yes|ko|미음}})
+|-
+| {{lang|nocat=yes|ko|ㅂ}} || ''bieup/piŭp'' ({{lang|nocat=yes|ko|비읍}})
+|-
+| {{lang|nocat=yes|ko|ㅅ}} || ''siot'' ({{lang|nocat=yes|ko|시옷}}), or ''siŭt'' ({{lang|nocat=yes|ko|시읏}}) in North Korea
+|-
+| {{lang|nocat=yes|ko|ㅇ}} || ''ieung/iŭng'' ({{lang|nocat=yes|ko|이}}응)
+|-
+| {{lang|nocat=yes|ko|ㅈ}} || ''jieut/chiŭt'' ({{lang|nocat=yes|ko|지읒}})
+|-
+| {{lang|nocat=yes|ko|ㅊ}} || ''chieut/ch'iŭt'' ({{lang|nocat=yes|ko|치읓}})
+|-
+| {{lang|nocat=yes|ko|ㅋ}} || ''kieuk/k'iŭk'' ({{lang|nocat=yes|ko|키읔}})
+|-
+| {{lang|nocat=yes|ko|ㅌ}} || ''tieut/t'iŭt'' ({{lang|nocat=yes|ko|티읕}})
+|-
+| {{lang|nocat=yes|ko|ㅍ}} || ''pieup/p'iŭp'' ({{lang|nocat=yes|ko|피읖}})
+|-
+| {{lang|nocat=yes|ko|ㅎ}} || ''hieut/hiŭt'' ({{lang|nocat=yes|ko|히읗}})
+|}
+
+[[File:Giyuk.ogg|thumb|Korean consonants]]
+
+All consonants in North Korea, and all but three in the more traditional nomenclature used in South Korea, have names of the format of ''letter'' + ''i'' + ''eu'' + ''letter''. For example, Choi wrote ''bieup'' with the ''hanja'' {{lang|nocat=yes|ko|非}} ''bi'' {{lang|nocat=yes|ko|邑}} ''eup''. The names of ''g,'' ''d,'' and ''s'' are exceptions because there were no ''hanja'' pronouncd ''euk,'' ''eut,'' and ''eus''. {{lang|nocat=yes|ko|役}} ''yeok'' is used in place of ''euk''. Since there is no ''hanja'' that ends in ''t'' or ''s,'' Choi chose two ''hanja'' to be read in their Korean gloss, {{lang|nocat=yes|ko|末}} ''kkeut'' "end" and {{lang|nocat=yes|ko|衣}} ''ot'' "clothes".
+
+Originally, Choi gave ''j, ch, k, t, p,'' and ''h'' the irregular one-syllable names of ''ji, chi, ki, ti, pi,'' and ''hi,'' because they should not be used as final consonants, as specified in ''Hunmin jeong-eum''. But after the establishment of the new orthography in 1933, which allowed all consonants to be used as finals, the names were changed to the present forms.
+
+The double consonants are named with the word {{lang|nocat=yes|ko|쌍/雙}} ''ssang,'' meaning "twin" or "double", or with {{lang|nocat=yes|ko|된}} ''doen'' in North Korea, meaning "strong".  Thus:
+
+{| class="wikitable"
+|-
+! Letter !! South Korean Name !! North Korean name
+|-
+| {{lang|nocat=yes|ko|ㄲ}} || ''ssanggiyeok'' ({{lang|nocat=yes|ko|쌍기역}}) || ''toen'giŭk'' ({{lang|nocat=yes|ko|된기윽}})
+|-
+| {{lang|nocat=yes|ko|ㄸ}} || ''ssangdigeut'' ({{lang|nocat=yes|ko|쌍디귿}}) || ''toendiŭt'' ({{lang|nocat=yes|ko|된디읃}})
+|-
+| {{lang|nocat=yes|ko|ㅃ}} || ''ssangbieup'' ({{lang|nocat=yes|ko|쌍비읍}}) || ''toenbiŭp'' ({{lang|nocat=yes|ko|된비읍}})
+|-
+| {{lang|nocat=yes|ko|ㅆ}} || ''ssangsiot'' ({{lang|nocat=yes|ko|쌍시옷}}) || ''toensiŭt'' ({{lang|nocat=yes|ko|된시읏}})
+|-
+| {{lang|nocat=yes|ko|ㅉ}} || ''ssangjieut'' ({{lang|nocat=yes|ko|쌍지읒}}) || ''toenjiŭt'' ({{lang|nocat=yes|ko|된지읒}})
+|}
+
+In North Korea, an alternate way to refer to a consonant is by the name ''letter'' + ''ŭ'' ({{lang|nocat=yes|ko|ㅡ}}), for example, {{lang|nocat=yes|ko|그}} ''kŭ'' for the letter {{lang|nocat=yes|ko|ㄱ}}, {{lang|nocat=yes|ko|쓰}} ''ssŭ'' for the letter {{lang|nocat=yes|ko|ㅆ}}, etc.
+
+====Vowel names====
+The names of the vowel letters are simply the vowel itself, written with the null initial {{lang|nocat=yes|ko|ㅇ}} ''ieung'' and the vowel being named. Thus:
+
+{| class=wikitable
+|-
+! Letter !! Name !! Letter !! Name
+|-
+| {{lang|nocat=yes|ko|ㅏ}} || ''a'' ({{lang|nocat=yes|ko|아}})
+| {{lang|nocat=yes|ko|ㅐ}} || ''ae'' ({{lang|nocat=yes|ko|애}})
+|-
+| {{lang|nocat=yes|ko|ㅑ}} || ''ya'' ({{lang|nocat=yes|ko|야}})
+| {{lang|nocat=yes|ko|ㅒ}} || ''yae'' ({{lang|nocat=yes|ko|얘}})
+|-
+| {{lang|nocat=yes|ko|ㅓ}} || ''eo'' ({{lang|nocat=yes|ko|어}})
+| {{lang|nocat=yes|ko|ㅔ}} || ''e'' ({{lang|nocat=yes|ko|에}})
+|-
+| {{lang|nocat=yes|ko|ㅕ}} || ''yeo'' ({{lang|nocat=yes|ko|여}})
+| {{lang|nocat=yes|ko|ㅖ}} || ''ye'' ({{lang|nocat=yes|ko|예}})
+|-
+| {{lang|nocat=yes|ko|ㅗ}} || ''o'' ({{lang|nocat=yes|ko|오}})
+| {{lang|nocat=yes|ko|ㅘ}} || ''wa'' ({{lang|nocat=yes|ko|와}})
+|-
+| {{lang|nocat=yes|ko|ㅛ}} || ''yo'' ({{lang|nocat=yes|ko|요}})
+| {{lang|nocat=yes|ko|ㅙ}} || ''wae'' ({{lang|nocat=yes|ko|왜}})
+|-
+| ||
+| {{lang|nocat=yes|ko|ㅚ}} || ''oe'' ({{lang|nocat=yes|ko|외}})
+|-
+| {{lang|nocat=yes|ko|ㅜ}} || ''u'' ({{lang|nocat=yes|ko|우}})
+| {{lang|nocat=yes|ko|ㅝ}} || ''wo'' ({{lang|nocat=yes|ko|워}})
+|-
+| {{lang|nocat=yes|ko|ㅠ}} || ''yu'' ({{lang|nocat=yes|ko|유}})
+| {{lang|nocat=yes|ko|ㅞ}} || ''we'' ({{lang|nocat=yes|ko|웨}})
+|-
+| ||
+| {{lang|nocat=yes|ko|ㅟ}} || ''wi'' ({{lang|nocat=yes|ko|위}})
+|-
+| {{lang|nocat=yes|ko|ㅡ}} || ''eu'' ({{lang|nocat=yes|ko|으}})
+| {{lang|nocat=yes|ko|ㅢ}} || ''ui'' ({{lang|nocat=yes|ko|의}})
+|-
+| {{lang|nocat=yes|ko|ㅣ}} || ''i'' ({{lang|nocat=yes|ko|이}})
+| ||
+|}
+
+In the [[Seoul dialect]] of Modern Korean, ''e'' ({{lang|nocat=yes|ko|ㅔ}}) and ''ae'' ({{lang|nocat=yes|ko|ㅐ}}) have no distinction in pronunciation:  for this reason they are denoted as ''eo-i'' ({{lang|nocat=yes|ko|어이}}) for ''e'' ({{lang|nocat=yes|ko|ㅔ}}) and ''a-i'' ({{lang|nocat=yes|ko|아이}}) for ''ae'' ({{lang|nocat=yes|ko|ㅐ}}) when giving the spelling of a word or name in spoken conversation.{{citation needed|date=February 2016}} The lack of distinction typically occurs at the end of syllable blocks, e.g. {{lang|nocat=yes|ko|대}} vs. {{lang|nocat=yes|ko|데}}, where the syllable lengthens.
+
+[[File:Korean vowels.ogg|thumb|Korean vowels]]
+
+===Obsolete letters===
+[[File:Hankidoemhanja.png|thumb|A brand name, ''[[Hankido]]'', using the obsolete vowel ''arae-a'' (top)]]
+Several letters are obsolete. These include several that represent Korean sounds that have since disappeared from the standard language, as well as a larger number used to represent the sounds of the Chinese [[rime table]]s. The most frequently encountered of these archaic letters are:
+* {{lang|nocat=yes|ko|[[wikt:ㆍ|ㆍ]]}} (transcribed ''ə'' (''arae-a'' {{lang|nocat=yes|ko|아래아}} "lower ''a"''): Presumably pronounced {{IPAblink|ʌ|}}, similar to modern {{lang|nocat=yes|ko|ㅓ}} ''eo''. It is written as a dot, positioned beneath (Korean for "beneath" is ''arae'') the consonant. The ''arae-a'' is not entirely obsolete, as it can be found in various brand names, and in the [[Jeju dialect]] where it is pronounced {{IPAblink|ɒ|}}
+** The ''ə'' formed a medial of its own, or was found in the diphthong {{lang|nocat=yes|ko|ㆎ}} ''arae-ae'', written with the dot under the consonant and {{lang|nocat=yes|ko|ㅣ}} (transcribed ''i'') to its right – in the same fashion as {{lang|nocat=yes|ko|ㅚ}} or {{lang|nocat=yes|ko|ㅢ}}.
+* {{lang|nocat=yes|ko|[[wikt:ㅿ|ㅿ]]}} ''z'' (''bansiot'' {{lang|nocat=yes|ko|반시옷}}, ''banchieum'' {{lang|nocat=yes|ko|반치음}}): A rather unusual sound, perhaps IPA {{IPA|[ʝ̃]}} (a [[nasalized]] [[Voiced palatal fricative|palatal fricative]]). Modern Korean words previously spelled with {{lang|nocat=yes|ko|ㅿ}} substitute {{lang|nocat=yes|ko|ㅅ}} or {{lang|nocat=yes|ko|ㅇ}}.
+* {{lang|nocat=yes|ko|[[wikt:ㆆ|ㆆ]]}} ''ʔ'' (''yeorinhieut'' {{lang|nocat=yes|ko|여린히읗}} "light hieut" or ''doenieung'' {{lang|nocat=yes|ko|된이응}} "strong ieung"): A [[glottal stop]], "lighter than {{lang|nocat=yes|ko|ㅎ}} and harsher than {{lang|nocat=yes|ko|ㅇ}}".
+* {{lang|nocat=yes|ko|[[wikt:ㆁ|ㆁ]]}} ''ŋ'' (''yesieung'' {{lang|nocat=yes|ko|옛이응}}): The original letter for {{IPA|[ŋ]}}; now conflated with {{lang|nocat=yes|ko|ㅇ}} ''ieung''. (With some computer [[typeface|fonts]] such as [[Arial Unicode MS]], ''yesieung'' is shown as a flattened version of ''ieung,'' but the correct form is with a long peak, longer than what one would see on a [[serif]] version of ''ieung''.)
+* {{lang|nocat=yes|ko|[[wikt:ㅸ|ㅸ]]}} ''β'' (''gabyeounbieup'' {{lang|nocat=yes|ko|가벼운비읍}}, ''sungyeongeumbieup'' {{lang|nocat=yes|ko|순경음비읍}}): IPA {{IPA|[f]}}. This letter appears to be a digraph of ''bieup'' and ''ieung'', but it may be more complicated than that. There were three other, less-common letters for sounds in this section of the Chinese [[rime table]]s, {{lang|nocat=yes|ko|ㅱ}} ''w'' ({{IPA|[w]}} or {{IPA|[m]}}), a theoretical {{lang|nocat=yes|ko|ㆄ}} ''f'', and {{lang|nocat=yes|ko|ㅹ}} ''ff'' {{IPA|[v̤]}}; the bottom element appears to be only coincidentally similar to ''ieung''. However its exact shape, it operates somewhat like a following ''h'' in the Latin alphabet (one may think of these letters as ''bh, mh, ph,'' and ''pph'' respectively). Koreans do not distinguish these sounds now, if they ever did, conflating the [[fricative]]s with the corresponding [[plosive]]s.
+
+There were two other now-obsolete double letters,
+* {{lang|nocat=yes|ko|[[wikt:ㆅ|ㆅ]]}} ''x'' (''ssanghieut'' {{lang|nocat=yes|ko|쌍히읗}} "double ''hieut''"): IPA {{IPA|[ɣ̈ʲ]}} or {{IPA|[ɣ̈]}}.
+* {{lang|nocat=yes|ko|[[wikt:ᅇ|ᅇ]]}} (''ssang-ieung'' {{lang|nocat=yes|ko|쌍이응}} "double ''ieung''"): Another letter used in the Chinese rime table.
+
+In the original Hangul system, double letters were used to represent Chinese [[Voice (phonetics)|voiced]] ({{lang|nocat=yes|ko|濁音}}) consonants, which survive in the [[Shanghainese (dialect)|Shanghainese]] [[slack voice|slack]] consonants, and were not used for Korean words. It was only later that a similar convention was used to represent the modern "tense" ([[Faucalized voice|faucalized]]) consonants of Korean.
+
+The sibilant ("dental") consonants were modified to represent the two series of Chinese sibilants, [[alveolar consonant|alveolar]] and [[Retroflex consonant|retroflex]], a "round" vs. "sharp" distinction (analogous to ''s'' vs ''sh'') which was never made in Korean, and which was even being lost from southern Chinese. The alveolar letters had longer left stems, while retroflexes had longer right stems:
+
+{| class="wikitable"
+|-
+! Original consonants
+| {{lang|nocat=yes|ko|ㅅ}} || {{lang|nocat=yes|ko|ㅆ}} || {{lang|nocat=yes|ko|ㅈ}} || {{lang|nocat=yes|ko|ㅉ}} || {{lang|nocat=yes|ko|ㅊ}}
+|-
+! ''Chidueum'' ([[alveolar consonant|alveolar]] [[sibilant]])
+| {{lang|nocat=yes|ko|ᄼ}} || {{lang|nocat=yes|ko|ᄽ}} || {{lang|nocat=yes|ko|ᅎ}} || {{lang|nocat=yes|ko|ᅏ}} || {{lang|nocat=yes|ko|ᅔ}}
+|-
+! ''Jeongchieum'' ([[retroflex]] [[sibilant]])
+| {{lang|nocat=yes|ko|ᄾ}} || {{lang|nocat=yes|ko|ᄿ}} || {{lang|nocat=yes|ko|ᅐ}} || {{lang|nocat=yes|ko|ᅑ}} || {{lang|nocat=yes|ko|ᅕ}}
+|}
+
+There were also [[consonant cluster]]s that have since dropped out of the language, such as the finals {{lang|nocat=yes|ko|ㅴ}} ''bsg'' and {{lang|nocat=yes|ko|ㅵ}} ''bsd'', as well as [[diphthong]]s that were used to represent Chinese medials, such as {{lang|nocat=yes|ko|ㆇ, ㆈ, ㆊ, ㆋ}}.
+
+Some of the Korean sounds represented by these obsolete letters still exist in some dialects.
+
+===Unicode===
+{{See also|List of hangul jamo|l1=List of Hangul Jamo}}
+{{Main|Hangul Syllables|l1=Hangul Syllables (Unicode block)|Hangul Jamo (Unicode block)|Hangul Jamo Extended-A|l3=Hangul Jamo Extended-A (Unicode block)|Hangul Jamo Extended-B|l4=Hangul Jamo Extended-B (Unicode block)|Hangul Compatibility Jamo|l5=Hangul Compatibility Jamo (Unicode block)|Enclosed CJK Letters and Months|Halfwidth and Fullwidth Forms (Unicode block)}}
+
+Hangul Jamo (U+1100–U+11FF) and Hangul Compatibility Jamo (U+3130–U+318F) blocks were added to the [[Unicode]] Standard in June 1993 with the release of version 1.1.
+The characters were relocated to their present locations in July, 1996 with the release of version 2.0.
+
+Hangul Jamo Extended-A (U+A960–U+A97F) and Hangul Jamo Extended-B (U+D7B0–U+D7FF) blocks were added to the Unicode Standard in October 2009 with the release of version 5.2.
+
+{{Unicode chart Hangul Jamo}}
+{{Unicode chart Hangul Jamo Extended-A}}
+{{Unicode chart Hangul Jamo Extended-B}}
+{{Unicode chart Hangul Compatibility Jamo}}
+
+Parenthesised (U+3200–U+321E) and circled (U+3260–U+327E) Hangul compatibility characters are in the [[Enclosed CJK Letters and Months]] block:
+{{Unicode chart Enclosed CJK Letters and Months|subset=hangul}}
+
+[[Halfwidth and fullwidth forms|Half-width]] Hangul compatibility characters (U+FFA0–U+FFDC) are in the [[Halfwidth and Fullwidth Forms (Unicode block)|Halfwidth and Fullwidth Forms]] block:
+{{Unicode chart Halfwidth and Fullwidth Forms|subset=hangul}}
+
+Hangul in other Unicode blocks:
+* [[Tone (linguistics)|Tone]] marks for [[Middle Korean]]<ref name="Sohn2001">{{cite book|author=Ho-Min Sohn|title=The Korean Language|url=https://books.google.com/books?id=Sx6gdJIOcoQC&pg=PA48#v=onepage&q&f=false|date=29 March 2001|publisher=Cambridge University Press|isbn=978-0-521-36943-5|pages=48–}}</ref><ref name="LeeRamsey2000">{{cite book|author1=Iksop Lee|author2=S. Robert Ramsey|title=The Korean Language|url=https://books.google.com/books?id=nVgr2BkwAdkC&pg=PA315#v=onepage&q&f=false|year=2000|publisher=SUNY Press|isbn=978-0-7914-4832-8|pages=315–}}</ref><ref name="LeeRamsey2011">{{cite book|author1=Ki-Moon Lee|author2=S. Robert Ramsey|title=A History of the Korean Language|url=https://books.google.com/books?id=2AmspKX3beoC&pg=PA168#v=onepage&q&f=false|date=3 March 2011|publisher=Cambridge University Press|isbn=978-1-139-49448-9|pages=168–}}</ref> are in the [[CJK Symbols and Punctuation]] block: &nbsp;〮 (U+302E), &nbsp;〯 (U+302F)
+* 11,172 precomposed Hangul syllables make up the [[Hangul Syllables]] block (U+AC00–U+D7A3)
+
+===Restored letters===
+[[File:NOoK-example.png|thumb|The words {{lang|nocat=yes|ko|놉니다, 흘렀다, 깨달으니, 지어, 고와, 왕, 가져서}} written in New Orthography.]]
+To make Hangul a perfect [[morphophonology|morphophonological]] fit to the Korean language, North Korea introduced six new letters, which were published in the ''[[New Orthography for the Korean Language]]'' and used officially from 1948 to 1954.
+
+Two obsolete letters were restored: {{angle bracket|{{lang|nocat=yes|ko|ㅿ}}}} ({{lang|nocat=yes|ko|리읃}}), which was used to indicate an alternation in pronunciation between initial {{IPA|/l/}} and final {{IPA|/d/}}; and {{angle bracket|{{lang|nocat=yes|ko|ㆆ}}}} ({{lang|nocat=yes|ko|히으}}), which was only pronounced between vowels. Two modifications of the letter {{lang|nocat=yes|ko|ㄹ}} were introduced, one for a {{lang|nocat=yes|ko|ㄹ}} which is silent finally, and one for a {{lang|nocat=yes|ko|ㄹ}} which doubled between vowels. A hybrid {{lang|nocat=yes|ko|ㅂ-ㅜ}} letter was introduced for words which alternated between those two sounds (that is, a {{IPA|/b/}} which became {{IPA|/w/}} before a vowel). Finally, a vowel {{angle bracket|{{lang|nocat=yes|ko|1}}}} was introduced for variable [[iotation]].
+
+==Morpho-syllabic blocks==
+Except for a few grammatical morphemes prior to the twentieth century, no letter may stand alone to represent elements of the Korean language. Instead, letters are grouped into [[syllable|syllabic]] or [[morpheme|morphemic]] blocks of at least two and often three: (1) a consonant or a doubled consonant called the '''initial''' (<span lang="ko">초성, 初聲</span> ''choseong'' [[syllable onset]]), (2) a vowel or [[diphthong]] called the '''medial''' (<span lang="ko">중성, 中聲</span> ''jungseong'' [[syllable nucleus]]), and, optionally, (3) a consonant or consonant cluster at the end of the syllable, called the '''final''' (<span lang="ko">종성, 終聲</span> ''jongseong'' [[syllable coda]]). When a syllable has no actual initial consonant, the [[zero consonant|null initial]] {{lang|nocat=yes|ko|ㅇ}} ''ieung'' is used as a placeholder. (In modern Hangul, placeholders are not used for the final position.) Thus, a block contains a minimum of two letters, an initial and a medial. Although the Hangul had historically been organized into syllables, in the modern orthography it is first organized into morphemes, and only secondarily into syllables within those morphemes, with the exception that single-consonant morphemes may not be written alone. (See [[#Orthography|Orthography]].)
+
+The sets of initial and final consonants are not the same. For instance, {{lang|nocat=yes|ko|ㅇ}} ''ng'' only occurs in final position, while the doubled letters that can occur in final position are limited to {{lang|nocat=yes|ko|ㅆ}} ''ss'' and  {{lang|nocat=yes|ko|ㄲ}} ''kk''. For a list of initials, medials, and finals, see [[Hangul consonant and vowel tables]].
+
+Not including obsolete letters, there are 11,172 possible Hangul blocks.
+
+===Letter placement within a block===
+{{Alphabet}}
+The placement or "stacking" of letters in the block follows set patterns based on the shape of the medial.
+
+Consonant and vowel sequences such as {{lang|nocat=yes|ko|ㅄ}} ''bs,'' {{lang|nocat=yes|ko|ㅝ}} ''wo,'' or obsolete {{lang|nocat=yes|ko|ㅵ}} ''bsd,'' {{lang|nocat=yes|ko|ㆋ}} ''üye'' are written left to right.
+
+Vowels (medials) are written under the initial consonant, to the right, or wrap around the initial from bottom to right, depending on their shape: If the vowel has a horizontal axis like {{lang|nocat=yes|ko|ㅡ}} ''eu,'' then it is written under the initial; if it has a vertical axis like {{lang|nocat=yes|ko|ㅣ}} ''i,'' then it is written to the right of the initial; and if it combines both orientations, like {{lang|nocat=yes|ko|ㅢ}} ''ui,'' then it wraps around the initial from the bottom to the right:
+
+{{col-begin|width=auto}}
+{{col-break}}
+{|
+|- align=center
+|  style="width:30px; background:#faa; height:60px;"|initial||  style="background:#afa; width:30px;"|medial
+|}
+{{col-break|gap=1em}}
+{|
+|- align=center
+|  style="width:60px; background:#faa; height:30px;"|initial
+|- align=center
+|  style="background:#afa; height:30px;"|medial
+|}
+{{col-break|gap=1em}}
+{|
+|- align=center
+|  style="width:30px; background:#faa; height:30px;"|initial
+|  style="background:#afa; width:30px;" rowspan="2"|med.<br>2
+|- align=center
+|  style="background:#afa; height:30px;"|med.&nbsp;1
+|}
+{{col-end}}
+
+A final consonant, if there is one, is  always written at the bottom, under the vowel. This is called {{lang|nocat=yes|ko|받침}} ''batchim'' "supporting floor":
+
+{{col-begin|width=auto}}
+{{col-break}}
+{|
+|- align=center
+|  style="width:30px; background:#faa; height:40px;"|initial
+|  style="background:#afa; width:30px;"|medial
+|- align=center
+|  style="background:#aaf; height:20px;" colspan="2"|final
+|}
+{{col-break|gap=1em}}
+{|
+|- align=center
+|  style="width:60px; background:#faa; height:20px;"|initial
+|- align=center
+|  style="background:#afa; height:20px;"|medial
+|- align=center
+|  style="background:#aaf; height:20px;"|final
+|}
+{{col-break|gap=1em}}
+{|
+|- align=center
+|  style="width:30px; background:#faa; height:20px;"|initial
+|  style="background:#afa; width:30px;" rowspan="2"|med.<br>2
+|- align=center
+|  style="background:#afa; height:20px;"|med.
+|- align=center
+|  style="background:#aaf; height:20px;" colspan="2"|final
+|}
+{{col-end}}
+
+A complex final is written left to right:
+
+{{col-begin|width=auto}}
+{{col-break}}
+{|
+|- align=center
+|  style="background:#faa; height:40px;"|initial
+| style="background:#afa;" colspan="2"|medial
+|-  style="text-align:center; background:#aaf;"
+| colspan="2" style="height:20px;"|final 1
+||final 2
+|}
+{{col-break|gap=1em}}
+{|
+|- align=center
+| colspan="2"  style="background:#faa; width:60px; height:20px;"|initial
+|- align=center
+|  style="background:#afa; height:20px;" colspan="2"|medial
+|-  style="text-align:center; background:#aaf;"
+|  style="height:20px;"|final 1
+||final 2
+|}
+{{col-break|gap=1em}}
+{|
+|- align=center
+|  style="width:30px; background:#faa; height:20px;"|initial
+|  style="background:#afa; width:30px;" colspan="2" rowspan="2"|med.<br>2
+|- align=center
+|  style="background:#afa; height:20px;"|med.
+|-  style="text-align:center; background:#aaf;"
+| colspan="2" style="height:20px;"|fin. 1
+||fin. 2
+|}
+{{col-end}}
+
+Blocks are always written in phonetic order, initial-medial-final. Therefore:
+
+* Syllables with a horizontal medial are written downward: {{lang|nocat=yes|ko|읍}} ''eup'';
+* Syllables with a vertical medial and simple final are written clockwise: {{lang|nocat=yes|ko|쌍}} ''ssang'';
+* Syllables with a wrapping medial switch direction (down-right-down): {{lang|nocat=yes|ko|된}} ''doen'';
+* Syllables with a complex final are written left to right at the bottom: {{lang|nocat=yes|ko|밟}} ''balp''.
+
+===Block shape===
+Normally the resulting block is written within a square of the same size and shape as a hanja (Chinese character) by compressing or stretching the letters to fill the bounds of the block; therefore someone not familiar with the scripts may mistake Hangul text for hanja or Chinese text.
+
+However, some recent fonts (for example [http://www.wazu.jp/gallery/Fonts_Korean.html Eun, {{lang|nocat=yes|ko|HY깊은샘물M}}, UnJamo]) move towards the European practice of letters whose relative size is fixed, and the use of whitespace to fill letter positions not used in a particular block, and away from the East Asian tradition of square block characters ({{lang|nocat=yes|ko|方块字}}). They break one or more of the traditional rules:
+* Do not stretch initial consonant vertically, but leave [[Space (punctuation)|white space]] below it if no lower vowel and/or no final consonant.
+* Do not stretch right-hand vowel vertically, but leave white space below it if no final consonant. (Often the right-hand vowel extends farther down than the left-hand consonant, like a [[descender]] in European typography)
+* Do not stretch final consonant horizontally, but leave white space to left of it.
+* Do not stretch or pad each block to be a [[fixed width]], but allow variable width ([[kerning]]) where syllable blocks with no right-hand vowel and no double final consonant can be narrower than blocks that do have a right-hand vowel or double final consonant.
+
+So far, these fonts have been used as design accents on signs or headings, rather than for typesetting large volumes of body text.
+
+===Linear hangul===
+There was a minor and unsuccessful movement in the early twentieth century to abolish syllabic blocks and write the letters individually and in a row, in the fashion of the European alphabets: e.g. {{lang|nocat=yes|ko|ㅎㅏㄴㄱㅡㄹ}} for {{lang|nocat=yes|ko|한글}} ''hangeul.''<ref>{{cite book|url=https://books.google.com/books?id=vj8ShHzUxrYC&pg=PA162&vq=karo+ssugi&dq=%22karo+ss%C5%ADgi%22&sig=39QrEwqbXzROfdlEpz3DFo_GJKQ |title=Korea: A Historical and Cultural Dictionary - Keith L. Pratt, Richard Rutt, James Hoare - Google Boeken |publisher=Books.google.com |date=1999-09-13 |accessdate=2012-04-13}}</ref>
+
+Avant-garde typographer Ahn Sangsu made a font for the "Hangul Dada" exposition that exploded the syllable blocks; but while it strings out the letters horizontally, it retains the distinctive vertical position each letter would normally have within a block, unlike the century-old linear writing proposals.<ref>{{cite web|last=Ezer |first=Oded |url=https://secure.flickr.com/photos/oded_ezer/317881477/ |title=Hangul Dada, Seoul, Korea|publisher=Flickr |accessdate=2012-04-13}}</ref>
+
+While Koreans have largely accepted the European-derived conventions of writing successive syllables left-to-right in horizontal lines instead of in vertical columns, adding spaces between words, and European-style punctuation, they have completely resisted getting rid of syllabic blocks, the most distinctive feature of this writing system.
+
+==Orthography==
+Until the 20th century, no official orthography of hangul had been established. Due to liaison, heavy consonant assimilation, dialectical variants and other reasons, a Korean word can potentially be spelled in various ways. King Sejong seemed to prefer [[Morphophonology|morphophonemic]] spelling (representing the underlying root forms) rather than a [[phoneme|phonemic]] one (representing the actual sounds). However, early in its history, Hangul was dominated by phonemic spelling. Over the centuries the orthography became partially morphophonemic, first in nouns, and later in verbs. Today it is as morphophonemic as is practical. The difference between phonetic Romanization, phonemic orthography, and morpho-phonemic orthography can be illustrated with the phrase ''motaneun sarami'':
+
+<!-- vv These transcriptions are correct; please see the talk page. vv -->
+* Phonetic transcription and translation:
+:motaneun sarami
+:{{IPA|[mo.tʰa.nɯn.sa.ɾa.mi]}}
+:''a person who cannot do it''
+* Phonemic transcription:
+:{{lang|nocat=yes|ko|모타는사라미}}
+:{{IPA|/mo.tʰa.nɯn.sa.la.mi/}}
+* Morphophonemic transcription:
+:{{lang|nocat=yes|ko|못하는사람이}}
+:{{IPA|{{!}}mot-ha-nɯn-sa.lam-i{{!}}}}
+* Morpheme-by-morpheme [[interlinear gloss|gloss]]:
+{|
+|-
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||{{lang|nocat=yes|ko|못–하–는}}||{{lang|nocat=yes|ko|사람{{=}}이}}
+|-
+|&nbsp;&nbsp;||mot-ha-neun||saram=i
+|-
+|&nbsp;&nbsp;||cannot-do-<nowiki>[</nowiki>[[attributive verb|attributive]]<nowiki>]</nowiki>||person=[subject]
+|}
+<!-- ^^ These transcriptions are correct; please see the talk page. ^^ -->
+
+After the [[Gabo Reform]] in 1894, the [[Joseon Dynasty]] and later the [[Korean Empire]] started to write all official documents in Hangul. Under the government's management, proper usage of Hangul and hanja, including orthography, was discussed, until Korean Empire was [[Japan-Korea Annexation Treaty|annexed]] by Japan in 1910.
+
+The [[Government-General of Korea]] popularized the writing style of a mixture of hanja and Hangul which was used in later Joseon dynasty. The government revised the spelling rules in 1912, 1921 and 1930, which were relatively phonemic.
+
+The [[Hangul Society]], originally founded by [[Ju Si-gyeong]], announced a proposal for a new, strongly morphophonemic orthography in 1933, which became the prototype of the contemporary orthographies in both North and South Korea. After Korea was divided, the North and South revised orthographies separately. The guiding text for [[hangul orthography]] is called ''Hangeul Machumbeop'', whose last South Korean revision was published in 1988 by the Ministry of Education.
+
+===Mixed scripts===
+[[File:Gardena in mixed Latin-hangul.jpg|thumb|The U.S. city of [[Gardena, California|Gardena]] in hangul, with the {{IPA|[ɡ]}} written as Latin {{angle bracket|G}}. (Compare this large {{angle bracket|G}} with the smaller {{angle bracket|G}} in all-Latin ''Gardena'' below: The large {{angle bracket|G}} is fused (at bottom-right) with the hangul {{angle bracket|{{lang|nocat=yes|ko|ㄱ}}}} that would normally be used to transcribe ''Gardena''.)]]
+Since the Late Joseon dynasty period, various ''[[Korean mixed script|hanja-Hangul mixed systems]]'' were used. In these systems, hanja was used for lexical roots, and hangul for grammatical words and inflections, much as ''kanji'' and ''kana'' are used in Japanese. Today however, ''hanja'' have been almost entirely phased out of daily use in North Korea, and in South Korea they are now mostly restricted to parenthetical glosses for proper names and for disambiguating homonyms.
+
+Indo-Arabic numerals are also mixed in with Hangul, as in {{lang|nocat=yes|ko|2007년 3월 22일}} (22 March 2007).  In Korean pop-culture [[Latin alphabet|Roman]] words may be mixed in for artistic purposes as well.
+
+The Latin script, and occasionally other scripts, may be sprinkled within Korean texts for illustrative purposes, or for unassimilated [[loanword]]s.  Very occasionally non-hangul letters may be mixed into hangul syllabic blocks, as {{nobreak|{{lang|nocat=yes|ko|Gㅏ}}}} ''Ga'' at right.
+
+==Readability==
+Because of the clustering of syllables, words are shorter on the page than their linear counterparts would be, and the boundaries between syllables are easily visible (which may aid reading, if segmenting words into syllables is more natural for the reader than dividing them up into phonemes).<ref>{{harvnb|Taylor|1980|p=71}}</ref>  Because the component parts of the syllable are relatively simple phonemic characters, the number of strokes per character on average is lower than in Chinese characters. Unlike syllabaries, such as Japanese kana, or Chinese logographs, none of which encode the constituent phonemes within a syllable, the graphic complexity of Korean syllabic blocks varies in direct proportion with the phonemic complexity of the syllable.<ref>{{harvnb|Taylor|1980|p=73}}</ref>  Unlike linear alphabets such as [[Latin alphabets|Latin-derived ones]], the Korean orthography allows the reader to "utilize both the horizontal and vertical visual fields";<ref>{{harvnb|Taylor|1980|p=70}}</ref> finally, since Hangul syllables are represented both as collections of phonemes and as unique-looking graphs, they may allow for both visual and aural retrieval of words from the [[lexicon]].
+
+==Style==
+[[File:Korean styles.png|thumb|Three Korean type styles (gungche, batang, dotum) next to analogous Latin type styles]]
+Hangul may be written either vertically or horizontally. The traditional direction is from top to bottom, right to left. Horizontal writing in the style of the Latin script was promoted by [[Ju Si-gyeong]], and has become overwhelmingly prevalent.
+
+In ''[[Hunmin Jeongeum]]'', hangul was printed in sans-serif angular lines of even thickness.  This style is found in books published before about 1900, and can be found today in stone carvings (on statues, for example).
+
+Over the centuries, an ink-brush style of [[calligraphy]] developed, employing the same style of lines and angles as traditional Korean calligraphy. This brush style is called ''gungche'' ({{lang|nocat=yes|ko|궁체 宮體}}), which means "Palace Style" because the style was mostly developed and used by the maidservants (''gungnyeo,'' {{lang|nocat=yes|ko|궁녀 宮女}}) of the court in Joseon dynasty.
+
+Modern styles that are more suited for printed media were developed in the 20th century. In 1993, new names for both [[Ming (typefaces)|Myeongjo]] ({{lang|nocat=yes|ko|明朝}}) and [[East Asian gothic typeface|Gothic]] styles were introduced when Ministry of Culture initiated an effort to standardize typographic terms, and the names ''Batang'' ({{lang|nocat=yes|ko|바탕}}, meaning "background") and ''Dotum'' ({{lang|nocat=yes|ko|돋움}}, meaning "stand out") replaced Myeongjo and Gothic respectively. These names are also used in [[Microsoft Windows]].
+
+A sans-serif style with lines of equal width is popular with pencil and pen writing, and is often the default typeface of Web browsers. A minor advantage of this style is that it makes it easier to distinguish ''-eung'' from ''-ung'' even in small or untidy print, as the ''jongseong ieung'' ({{lang|nocat=yes|ko|ㅇ}}) of such fonts usually lacks a [[serif]] that could be mistaken for the short vertical line of the letter {{lang|nocat=yes|ko|ㅜ}} ''(u)''.
+
+==See also==
+
+{{Portal|Korea|Language}}
+* [[Hangul consonant and vowel tables]]
+* [[Hangul orthography]]
+* [[Korean language and computers]]
+* [[Korean mixed script]]
+* [[Korean romanization]]
+** [[McCune-Reischauer]]
+** [[Revised Romanization]]
+** [[Yale Romanization of Korean]]
+* [[Korean braille]]
+* [[Korean manual alphabet]]
+
+==Notes==
+{{reflist|group=nb}}
+
+==Citations==
+{{Reflist|30em}}
+
+==References==
+* {{Cite book | last=Chang | first=Suk-jin | title=Korean | location=Philadelphia | publisher=John Benjamins Publishing Company | year=1996 | isbn=1-55619-728-4 | chapter=Scripts and Sounds}} (Volume 4 of the ''London Oriental and African Language Library'').
+* {{Cite book|author=Hannas, William C |title=Asia's Orthographic Dilemma |publisher=University of Hawaii Press |url=https://books.google.com/books?id=aJfv8Iyd2m4C  |year=1997 |isbn=0-8248-1892-X }}
+* {{cite book |editor-last=Young-Key |editor-first=Kim-Renaud |title=The Korean Alphabet: Its History and Structure |url=https://books.google.com/books?id=nonRl2cerIgC |year=1997 |publisher=University of Hawai`i Press |isbn=978-0-8248-1723-7 |ref=harv}}
+* {{cite book |first1=Iksop |last1=Lee |first2=Samuel Robert |last2=Ramsey |title=The Korean Language |url=https://books.google.com/books?id=NN-yIdLOkCoC |year=2000 |publisher=SUNY Press |isbn=978-0-7914-9130-0 |ref=harv}}
+* {{cite web |title=Hangeul Matchumbeop |year=1988 |publisher=The Ministry of Education of South Korea |url=http://www.korean.go.kr/search/grammar/rule/collect_rule.html }}
+* {{cite book |isbn=978-0-8047-1756-4 |title=Writing Systems |first=Geoffrey |last=Sampson |publisher=Stanford University Press |year=1990 |ref=Sampson}}
+* {{cite journal |last=Silva |first=David J. |title=Western attitudes toward the Korean language: An Overview of Late Nineteenth and Early Twentieth-Century Mission Literature |journal=[[Korean Studies (journal)|Korean Studies]] |volume=26 |issue=2 |pages=270–286 |year=2002 |url=http://muse.jhu.edu/journals/korean_studies/v026/26.2silva.pdf |format=PDF |doi=10.1353/ks.2004.0013}}
+* {{cite book |first=Ho-Min |last=Sohn |title=The Korean Language |url=https://books.google.com/books?id=Sx6gdJIOcoQC |year=2001 |publisher=Cambridge University Press |isbn=978-0-521-36943-5 |series=Cambridge Language Surveys}}
+* {{cite book |first=Jae Jung |last=Song |title=The Korean Language: Structure, Use and Context |url=https://books.google.com/books?id=3D36c9l_u0sC |year=2005 |publisher=Routledge |isbn=978-0-203-39082-5}}
+
+==External links==
+{{Wiktionary|Appendix:List of modern Hangul syllabic blocks by strokes}}
+{{Commons category|Hangul}}
+* [http://learners-library.org/index.php?page=scripts/show&language=south%20korean Korean alphabet learning exercises]
+* [http://www.omniglot.com/writing/korean.htm Korean alphabet and pronunciation] by Omniglot
+* [http://www.langintro.com/kintro/toc.htm Online Hangul tutorial] at Langintro.com
+* [http://www.sayjack.com/learn/korean/hangul Hangul table with Audio Slideshow]
+* [http://gernot-katzers-spice-pages.com/var/korean_hangul_unicode.html Technical information on Hangul and Unicode]
+* [http://www.kmaru.com/kboard/kboard.maru Hangul Sound Keyboard] at Kmaru.com
+* [http://www.koreanwikiproject.com/wiki/Learn_hangeul Learn Hangul] at Korean Wiki Project
+
+{{List of writing systems}}
+{{Joseon}}
+{{Hangul Jamo}}
+
+{{Authority control}}
+
+[[Category:Hangul| ]]
+[[Category:Korean language]]
+[[Category:Korean writing system]]
+[[Category:National symbols of Korea]]
+[[Category:Scripts encoded in Unicode 1.0]]
+[[Category:Spelling reform]]
+[[Category:World Digital Library related]]
+[[Category:Articles containing Korean-language text]]

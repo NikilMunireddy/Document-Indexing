@@ -1,0 +1,835 @@
+Hammond organ
+
+{{good article}}
+{{Infobox synthesizer
+| synth_name            = Hammond organ
+| image                 = Hammond c3 Emilio Muñoz.jpg
+| image_caption         = A Hammond C-3 organ
+| synth_manufacturer    = The Hammond Organ Company (1935–1985)<br/>Hammond Organ Australia (1986–1989)<ref name=cst86>{{cite news |title=Marmon Group sells Hammond Organ rights |url=http://www.highbeam.com/doc/1P2-3743847.html |accessdate = 31 July 2013 |newspaper=Chicago Sun-Times |date=January 3, 1986 }}</ref><br/>Hammond-Suzuki (1989–present){{sfn|Faragher|2011|p=14}}<ref name=xk3hist05>{{cite web |date=22 April 2005 |title=Hammond XK-3 STORY: 3. History—locus of Hammond Combo Organ |url=http://www.suzuki-music.co.jp/hammond/new/050419_2/03.htm |language=Japanese |publisher=Hammond Suzuki Co., Ltd. }}<br/>Summary: In 1986, Hammond ''Super B'' was released as a revive of ''B-3'' using digitally sampled tonewheel sounds. Then in 1991, this sound generator was utilized on a combo organ; that was Hammond Suzuki ''XB-2''.</ref>
+| synthesis_type        = [[Additive synthesis|Additive]]
+| oscillator            = [[Tonewheel]]
+| polyphony             = Full
+| keyboard              = 2 × 61-note manuals, 25-note pedals (consoles)<br/>2 × 44-note manuals, 13-note pedals (spinets)
+| dates                 = 1935–1975 (tonewheel models)<br />1967–1985 (transistor models)<br/>1986–present (digital models)
+| inventors             = [[Laurens Hammond]], John M Hanert
+| fx                    = Vibrato, reverb, harmonic percussion
+| ext_control           = [[Amphenol connector]] to Hammond Tone Cabinet or [[Leslie Speaker]]
+| price = $1,193 (Model A, 1935){{sfn|Vail|2002|p=68}}<br/>$2,745 (Model B-3, 1954){{sfn|Vail|2002|p=69}}
+}}
+
+The '''Hammond organ''' is an [[electronic organ#Early electric organs|electric organ]], invented by [[Laurens Hammond]] and John M. Hanert{{sfn|Bush|Kassel|2006|p=168}} and first manufactured in 1935.{{sfn|Corbin|2006|p=151}} Various models have been produced, most of which use sliding drawbars to create a variety of sounds. Until 1975, Hammond organs generated sound by creating an electric current from rotating a metal [[tonewheel]] near an [[electromagnetic pickup]], and then strengthening the signal with an [[Power amplifier|amplifier]] so that it can drive a [[speaker enclosure|speaker cabinet]]. Around two million Hammond organs have been manufactured, and it has been described as one of the most successful organs. The organ is commonly used with, and associated with, the [[Leslie speaker]].
+
+The organ was originally marketed and sold by the Hammond Organ Company to [[Church (building)|churches]] as a lower-cost alternative to the wind-driven [[pipe organ]], or instead of a [[piano]]. It quickly became popular with professional [[jazz]] musicians in [[organ trio]]s, a small group centred on the Hammond organ. Organ trios were hired by [[jazz club]] owners, who found that organ trios were a much cheaper alternative to hiring a [[big band]]. [[Jimmy Smith (musician)|Jimmy Smith]]'s use of the Hammond B-3, with its additional harmonic percussion feature, inspired a generation of organ players, and its use became more widespread in the 1960s and 1970s in [[rhythm and blues]], [[rock music|rock]] and [[reggae]], as well as being an important instrument in [[progressive rock]].
+
+The Hammond Organ Company struggled financially during the 1970s as they abandoned tonewheel organs and switched to manufacturing instruments using [[integrated circuits]]. These instruments were not as popular with musicians as the tonewheels had been, and the company went out of business in 1985. The Hammond name was purchased by the [[Suzuki Musical Instrument Corporation]], which proceeded to manufacture digital simulations of the most popular tonewheel organs. This culminated in the production of the "New B-3" in 2002, which provided an accurate recreation of the original B-3 organ using modern digital technology.
+
+Hammond-Suzuki continues to manufacture a variety of organs for both professional players and churches. Other companies, such as [[Korg]], [[Roland Corporation|Roland]] and [[Clavia]], have also achieved success in providing [[Clonewheel organ|emulations]] of the original tonewheel organs. The sound of a tonewheel Hammond can also be emulated using modern software such as [[Native Instruments]] B4.
+
+{{TOC limit|3}}
+
+==Features==
+A number of distinctive Hammond organ features are not usually found on other keyboards like the [[piano]] or [[synthesizer]]. Some are similar to a [[pipe organ]], but others are unique to the instrument.{{sfn|Faragher|2011|p=34}}
+
+===Keyboards and pedalboard===
+{{Listen
+| filename=Drawbar C Chord.ogg
+| title=C Note
+| description=A single note ([[C (musical note)|C]]) played on a Hammond organ.
+| format=[[Ogg]]}}
+[[File:Hammond C2 pedalboards (Supernatural).jpg|thumb|left|200px|Unlike an [[American Guild of Organists]] pedalboard, a console Hammond normally has 25 pedals{{sfn|Vail|2002|p=76}}]]
+Most Hammond organs have two 61-note (5-[[octave]]) [[manual (music)|manuals]]. Each manual is laid out in a similar manner to a piano keyboard, except pressing a key results in the sound continuously playing until it is released. There is no difference in volume regardless of how heavily the key is pressed, so overall volume is controlled by a pedal (also known as a "swell" or "expression" pedal).{{sfn|Faragher|2011|p=33-34}} The keys on each manual have a lightweight [[Action (piano)|action]], which allows players to perform rapid passages more easily than on a piano. In contrast to piano and pipe organ keys, Hammond keys have a flat-front profile, commonly referred to as "waterfall" style. Early Hammond console models had sharp edges, but starting with the B-2 these were rounded, as they were cheaper to manufacture.{{sfn|Faragher|2011|p=50}} The M series of spinets also had waterfall keys (which has subsequently made them ideal for spares on B-3s and C-3s{{sfn|Vail|2002|p=89}}), but later models had "diving board" style keys which resembled those found on a church organ. Modern Hammond-Suzuki models use waterfall keys.
+
+Hammond console organs come with a wooden [[pedal keyboard|pedalboard]] played with the feet, for bass notes. Most Hammond pedalboards have 25 notes, with the top note a [[C (musical note)|middle C]], because Hammond found that on traditional 32-note pedalboards used in churches, the top seven notes were seldom used. The Hammond Concert models E, RT, RT-2, RT-3 and D-100 had 32-note [[American Guild of Organists]] (AGO) pedalboards going up to the [[G (musical note)|G]] above middle C as the top note.{{sfn|Vail|2002|p=76}} The RT-2, RT-3 and D-100 also contained a separate solo pedal system that had its own volume control and various other features.{{sfn|Faragher|2011|p=58}} Spinet models had 12- or 13-note miniature pedalboards with stamped steel pedals.
+
+===Drawbars===
+[[File:Hammond-drawbars-plain.svg|thumb|The sound on a Hammond is varied using drawbars, similar to faders on an [[Mixing console|audio mixing board]]{{sfn|Campbell|Greated|Myers|2004|p=447}}]]
+The sound on a tonewheel Hammond organ is varied through the manipulation of drawbars. A drawbar is a metal slider that controls the volume of a particular sound component, in a similar way to a fader on an [[Mixing console|audio mixing board]]. As a drawbar is incrementally pulled out, it increases the volume of its sound. When pushed all the way in, the volume is decreased to zero.{{sfn|Campbell|Greated|Myers|2004|p=447}}
+
+The labeling of the drawbar derives from the [[Organ stop|stop]] system in pipe organs, in which the physical length of the pipe corresponds to the pitch produced. Most Hammonds contain nine drawbars per manual. The drawbar marked "8'" generates the [[fundamental frequency|fundamental]] of the note being played, the drawbar marked "16'" is an octave below, and the drawbars marked "4'", "2'" and "1'" are one, two and three octaves above respectively. The other drawbars generate various other [[harmonics]] and  [[subharmonics]] of the note.<ref name="robjohns"/> While each individual drawbar generates a relatively pure sound similar to a flute or electronic oscillator, more complex sounds can be created by mixing the drawbars in varying amounts.{{sfn|Browne|Browne|2001|p=361}} Some spinet models do not include the two subharmonic drawbars on the lower manual.
+
+Some drawbar settings have become well known and associated with certain musicians. A very popular setting is 888000000 (i.e., with the drawbars labelled "16'", "5<sup>1/3</sup>'" and "8'" fully pulled out), and has been identified as the "classic" Jimmy Smith sound.<ref name="spark"/>
+
+===Presets===
+[[File:Hammond preset keys.jpg|thumb|left|Preset keys on a Hammond organ are reverse-colored and sit to the left of the [[manual (music)|manuals]]]]
+In addition to drawbars, many Hammond tonewheel organ models also include presets, which make predefined drawbar combinations available at the press of a button. Console organs have one octave of reverse colored keys (naturals are black, sharps and flats are white) to the left of each manual, with each key activating a preset; the far left key (C), also known as the cancel key, de-activates all presets, and results in no sound coming from that manual. The two right-most preset keys (B and B{{music|flat}}) activate the corresponding set of drawbars for that manual, while the other preset keys produce preselected drawbar settings that are internally wired into the preset panel.<ref>
+{{cite AV media
+| title=Inside of Hammond Organ
+| url=http://www.theatreorgans.com/hammond/ABACK.JPG
+| medium=photograph
+| publisher=TheatreOrgans.com
+}}</ref> Presets can be changed by rerouting the associated color-coded wires on the rear of the organ. Some spinet models have flip tabs for presets situated above the manuals.
+
+===Vibrato and chorus===
+Hammond organs have a built-in [[vibrato]] effect that provides a small variation in pitch while a note is being played, and a [[chorus effect]] where a note's sound is combined with another sound at a slightly different and varying pitch. The best known vibrato and chorus system consists of six settings, V1, V2, V3, C1, C2 and C3 (i.e., 3 vibrato and 3 chorus), which can be selected via a rotary switch. Vibrato / chorus can be selected for each manual independently.{{sfn|Faragher|2011|p=52}}
+
+===Harmonic Percussion===
+The B-3 and C-3 models introduced the concept of "Harmonic Percussion", which was designed to emulate the percussive sounds of the [[harp]], [[xylophone]] and [[marimba]].{{sfn|Faragher|2011|p=53}} When selected, this feature plays a decaying second- or third-harmonic [[overtone]] when a key is pressed. The selected percussion harmonic fades out, leaving the sustained tones the player selected with the drawbars. The volume of this percussive effect is selectable as either Normal or Soft.{{sfn|Clark|1999|p=47}} Harmonic Percussion retriggers only after all notes have been released, so legato passages sound the effect only on the very first note or chord, making Harmonic Percussion uniquely a "single-trigger, polyphonic" effect<ref name="reid200401">{{cite journal
+| last       = Reid |first=Gordon
+| title      = Synthesizing tonewheel organs
+| url        = http://www.soundonsound.com/sos/jan04/articles/synthsecrets.htm
+| publisher  = Sound On Sound
+| date       = January  2004
+| accessdate = 30 July 2013
+}}</ref>
+
+===Leslie speaker controls===
+Hammond organs may have a console or pedal switch for controlling the rotation speed of a [[Leslie speaker|Leslie rotating speaker]] cabinet that is connected to the organ. The switch allows the player to toggle between fast (tremolo) and slow (chorale) rotation. The most distinctive effect occurs as the speaker rotation speed changes. The tasteful application of the different Leslie speed sound effects to Hammond organ playing is a distinctive part of the characteristic Hammond sound.
+
+===Start and Run switches===
+Before a Hammond organ can produce sound, the motor that drives the tonewheels must come up to speed. On most models, starting a Hammond organ involves two switches. The "Start" switch turns a dedicated [[starter motor]], which must run for about 12 seconds. Then, the "Run" switch is turned on for about four seconds. The "Start" switch is then released, whereupon the organ is ready to generate sound.{{sfn|Vail|2002|p=69}} The H-100 and E-series consoles and L-100 and T-100 spinet organs, however, had a self-starting motor that required only a single "On" switch.{{sfn|Vail|2002|pages=83,87}}
+
+It is possible to create a [[pitch bend]] on the Hammond organ by turning the "Run" switch off and on again. This briefly cuts power to the generators, causing them to run at a slower pace and generate a lower pitch for a short time. Hammond's New B3 contains similar switches to emulate this effect, though it is a digital instrument.<ref name="robjohns"/>{{sfn|Faragher|2011|p=369}}
+
+==History==
+
+===Background===
+<!--[[File:Hammond RT.jpg|thumb|right|200px|Hammond organ, concert model RT-2. Manufactured between 1949 and 1955 by Hammond Instrument Co.]]-->
+The Hammond organ's technology derives from the [[Telharmonium]], an instrument created in 1897 by [[Thaddeus Cahill]]. The telharmonium used revolving electric [[alternator]]s which generated tones that could be transmitted over wires. The instrument was bulky, because the alternators had to be large enough to generate high [[voltage]] for a loud enough signal. The Hammond organ solved this problem by using an [[amplifier]].{{sfn|Vail|2002|p=36}}
+
+Laurens Hammond graduated from [[Cornell University]] with a [[mechanical engineering]] degree in 1916. By the start of the 1920s he had designed a spring-driven clock, which provided enough sales for him to start his own business, the Hammond Clock Company, in 1928. As well as clocks, his early inventions included [[Stereoscopy#3D viewers|3D glasses]] and an automatic [[contract bridge|bridge]] table shuffler.{{sfn|Vail|2002|p=55}} However, as the [[Great Depression]] continued into the 1930s, sales of the bridge table declined and he decided to look elsewhere for a commercially successful product. Hammond was inspired to create the [[tonewheel]] or "phonic wheel" by listening to the moving gears of his electric clocks and the tones produced by them.{{sfn|Vail|2002|p=63}} He gathered pieces from a second-hand piano he had purchased for $15 and combined it with a tonewheel generator in a similar form to the telharmonium, albeit much shorter and more compact. Since Hammond was not a musician, he asked the company's assistant treasurer, W. L. Lahey, to help him achieve the desired organ sound.{{sfn|Vail|2002|p=57}} To cut costs, Hammond made a pedalboard with only 25 notes, instead of the standard 32 on church organs, and it quickly became a ''de facto'' standard.{{sfn|Vail|2002|p=63}}
+
+On April 24, 1934, Hammond filed {{US patent|1,956,350}} for an "electrical musical instrument",<ref>
+{{US patent reference
+| number=1956350
+| y=1934|m=04|d=24
+| inventor=Laurens Hammond
+| title=[http://www.google.com/patents?id=NUlkAAAAEBAJ Electrical Musical Instrument]
+}}</ref> which was personally delivered to the patent office by Hanert, explaining that they could start production immediately and it would be good for local employment in Chicago.{{sfn|Vail|2002|p=59}} The invention was unveiled to the public in April 1935 and the first model, the Model A, was made available in June of that year.{{sfn|Vail|2002|p=68}} Over 1,750 churches purchased a Hammond organ in the first three years of manufacturing, and by the end of the 1930s over 200 instruments were being made each month.{{sfn|Waring|2002|p=319}} For all its subsequent success with professional musicians, the original company did not target its products at that market, principally because Hammond did not think there was enough money in it.{{sfn|Vail|2002|p=60}} It has been estimated that the Hammond Organ Company produced about two million instruments in its lifetime; these have been described as "probably the most successful electronic organs ever made".{{sfn|Waring|2002|p=319}} In 1966, it was estimated that about 50,000 churches had installed a Hammond.{{sfn|Faragher|2011|p=26}}
+
+In 1936, the [[Federal Trade Commission]] (FTC) filed a complaint claiming that the Hammond Company made "false and misleading" claims in advertisements for its organ, including that the Hammond could produce "the entire range of tone coloring of a pipe organ".<ref>{{cite journal| title = Federal Trade Commission Decision: Official Findings and Order|journal = The American Organist| volume = 21| issue = 8| date = August 1938}}</ref> The complaint resulted in lengthy hearing proceedings, which featured a series of auditory tests that pitted a Hammond costing about $2600 against a $75,000 Skinner pipe organ in the University of Chicago [[Rockefeller Chapel]].<ref>{{cite magazine| title = Federal Trade Commission Sponsors Auditory Test—Hammond vs. $75,000 Organ|magazine=Piano Trade Magazine| date = April 1937}}</ref> During the auditory tests, sustained tones and excerpts from musical works were played on the electric and pipe organs while a group of musicians and laymen attempted to distinguish between the instruments. While attorneys for Hammond argued that the test listeners were wrong or guessed nearly half the time, witnesses for the FTC claimed that Hammond employees had unfairly manipulated the Skinner organ to sound more like the Hammond.<ref>{{cite magazine| title = Hammond Arguments presented in Briefs|magazine=[[The Diapason (magazine)|The Diapason]]| date = May 1, 1938}}</ref> In 1938, the FTC ordered Hammond to "cease and desist" a number of advertising claims, including that its instrument was equivalent to a $10,000 pipe organ. After the FTC's decision, Hammond claimed that the hearings had vindicated his company's assertions that the organ produced "real", "fine", and "beautiful" music, phrases which were each cited in the FTC's original complaint but not included in the "cease and desist" order. Hammond also claimed that although the hearing was expensive for his company, the proceedings generated so much publicity that "as a result we sold enough extra organs to cover the expense."<ref name="diapason">{{cite magazine| title = Hammond is Ordered to 'Cease and Desist'|magazine=[[The Diapason (magazine)|The Diapason]]| date = August 1, 1938}}</ref>
+
+A key ingredient to the Hammond organ's success was the use of dealerships and a sense of community. Several dedicated organ dealers set up business in the United States{{sfn|Faragher|2011|p=16}} and there was a bi-monthly newsletter, ''The Hammond Times'', mailed out to subscribers.{{sfn|Faragher|2011|p=18}} Advertisements tended to show families centered around the instrument, often with a child playing it, as an attempt to show the organ as a center-point of home life and to encourage children to learn music.{{sfn|Faragher|2011|p=25}}
+
+===Tonewheel organs===
+Hammond organs, as manufactured by the original company, can be divided into two main groups:
+* '''Console organs''' have two 61-note manuals and a pedalboard of at least two [[octave]]s. Most consoles do not have a built-in [[power amplifier]] or speakers, so an [[Keyboard amplifier|external amplifier and speaker cabinet]] is required.
+* '''Spinet organs''' have two 44-note manuals and one octave of pedals, plus an internal power amplifier and set of speakers.{{sfn|Bush|Kassel|2006|p=169}}
+
+====Console organs====
+{{Listen
+| filename=Hammond_Organ_-_Model_A_Medley.ogg
+| title=Medley
+| description=A medley played on a 1935 Model A Hammond organ through a [[Leslie speaker]].
+| format=[[Ogg]]}}
+[[File:Hammond B3, Museum of Making Music.jpg|thumb|left|The B-3 was the most popular Hammond organ, produced from 1954 to 1974{{sfn|Vail|2002|p=33}}]]
+The first model in production, in June 1935, was the Model A. It contained most of the features that came to be standard on all console Hammonds, including two 61-key manuals, a 25-key pedalboard, an expression pedal, 12 reverse-color preset keys, two sets of drawbars for each manual, and one for the pedals.{{sfn|Vail|2002|p=69}}
+
+To address concerns that the sound of the Hammond was not rich enough to accurately mimic a pipe organ, the model BC was introduced in December 1936. It included a chorus generator, in which a second tonewheel system added slightly sharp or flat tones to the overall sound of each note. The cabinet was made deeper to accommodate this.{{sfn|Vail|2002|p=69}} Production of the old Model A cases stopped, but the older model continued to be available as the AB until October 1938.{{sfn|Vail|2002|p=68}}
+
+Criticism that the Hammond organ was more aesthetically suitable to the home instead of the church led to the introduction of the model C in September 1939. It contained the same internals as the AB or BC, but covered on the front and sides by [[modesty panel|"modesty panels"]] to allow for modesty while playing in a skirt, often a consideration when a church organ was placed in front of the congregation. The model C did not contain the chorus generator, but had space in the cabinet for it to be fitted. The concurrent model D was a model C with a pre-fitted chorus.{{sfn|Vail|2002|p=71}} Development of the vibrato system took place during the early 1940s, and was put into production shortly after the end of [[World War II]]. The various models available were the BV and CV (vibrato only) and BCV and DV (vibrato and chorus).{{sfn|Vail|2002|p=69}}
+
+[[File:Hammond Concert model E Organ - Science Museum, London.jpg|thumb|The Concert Model E was designed for the church market, features a full 32-note pedalboard, <!-- four toe pistons, and various sounds selectable by feet. --> etc.]]
+The B-2 and C-2, introduced in 1949, allowed vibrato to be enabled or disabled on each manual separately.{{sfn|Faragher|2011|p=54}} In 1954, the B-3 and C-3 models were introduced with the additional harmonic percussion feature.{{sfn|Vail|2002|p=33,49}} Despite several attempts by Hammond to replace them, these two models remained popular{{sfn|Vail|2002|p=83}} and stayed in continuous production through early 1975.{{sfn|Vail|2002|p=33}}
+
+To cater more specifically to the church market, Hammond introduced the Concert Model E in July 1937, which included a full 32-note pedalboard and four electric switches known as toe pistons, allowing various sounds to be selected by the feet.{{sfn|Vail|2002|p=72}} The model E was replaced by the model RT in 1949, which retained the full size pedalboard, but otherwise was internally identical to the B and C models. RT-2 and RT-3 models subsequently appeared in line with the B-2/C-2 and B-3/C-3 respectively.{{sfn|Vail|2002|p=74}}
+
+[[File:Hammond H-100 series.jpg|thumb|The H-100 was an unsuccessful attempt to replace the B-3]]
+In 1959, Hammond introduced the A-100 series. It was effectively a self-contained version of the B-3/C-3, with an internal power amplifier and speakers. The organ was manufactured in a variety of different chassis, with the last two digits of the specific model number determining the style and finish of the instrument. For example, A-105 was "Tudor styling in light oak or walnut," while the A-143 was "warm cherry finish, Early American styling".{{sfn|Vail|2002|pages=74–75}} This model numbering scheme was used for several other series of console and spinet organs that subsequently appeared. The D-100 series, which provided a self-contained version of the RT-3, followed in 1963.{{sfn|Vail|2002|p=76}}
+
+The E-100 series was a cost-reduced version of the A-100 introduced in 1965, with only one set of drawbars per manual, a reduced number of presets, and a slightly different tone generator.{{sfn|Vail|2002|p=77}} This was followed by the H-100 series, with a redesigned tonewheel generator and various other additional features.{{sfn|Vail|2002|p=83}} Unfortunately, the organ was not particularly well made, and suffered a reputation for being unreliable. Hammond service engineer Harvey Olsen said "When they [H-100s] work, they sound pretty decent. But die-hard enthusiasts won't touch it."{{sfn|Vail|2002|p=85-86}}
+
+====Spinet organs====
+[[File:Hammond L-112.jpg|thumb|left|The L-100 spinet was particularly popular in the UK.{{sfn|Faragher|2011|p=78}}]]
+Though the instrument had been originally designed for use in a church, Hammond realized that the amateur home market was a far more lucrative business, and started manufacturing spinet organs in the late 1940s.{{sfn|Théberge|1997|p=47}} Outside of the United States, they were manufactured in greater numbers than the consoles, and hence were more widely used. Several different types of M series instruments were produced between 1948 and 1964; they contained two 44-note manuals with one set of drawbars each, and a 12-note pedalboard. The M model was produced from 1948 to 1951, the M-2 from 1951 to 1955, and the M-3 from 1955 to 1964.{{sfn|Vail|2002|p=89}} The M series was replaced by the M-100 series in 1961, which used a numbering system to identify the body style and finish as used on earlier console series. It included the same manuals as the M, but increased the pedalboard size to 13 notes, stretching a full octave, and included a number of presets.{{sfn|Vail|2002|p=91}}
+
+[[File:Hammond T400 series with Rhythm II, My Room.jpg|thumb|The T-402 was one of the last tonewheel organs manufactured and included a built in [[drum machine]]]]
+The L-100 series entered production at the same time as the M-100. It was an economy version, with various cost cutting changes so the organ could retail for under $1000. The vibrato was a simpler circuit than on other consoles and spinets. Two variations of the vibrato were provided, plus a chorus that mixed various vibrato signals together. The expression pedal, based on a cheaper design, was not as sophisticated as on the other organs.{{sfn|Vail|2002|p=87}} The L-100 was particularly popular in the UK and sold well, with several notable British musicians using it instead of a B-3 or C-3.{{sfn|Faragher|2011|p=78}}
+
+The T series, produced from 1968 to 1975, was the last of the tonewheel spinet organs. Unlike all the earlier Hammond organs, which used [[vacuum tube]]s for pre-amplification, amplification, Percussion and Chorus-Vibrato control, the T series used all-[[Solid state (electronics)|solid-state]], [[transistor]] circuitry, though, unlike the L-100, it did include the scanner-vibrato as seen on the B-3.{{sfn|Vail|2002|p=92}} Other than the T-100 series models, all other T-Series models included a built-in rotating Leslie speaker and some included an analog [[drum machine]],<ref>
+{{cite book
+| url=http://www.archive.org/stream/HammondOrganT-seriesOwnersManual/HammondT-seriesOwnersManual_djvu.txt
+| title=Hammond T-series Owner's Manual
+| publisher=The Hammond Organ Company
+| accessdate=1 August 2013
+}}</ref> while the T-500 also included a built-in cassette recorder.<ref>
+{{cite book
+| url=http://ia600305.us.archive.org/27/items/HammondOrganServiceManual-T-500Series/T-500ServiceManual-100dpi-part11.pdf
+| title=Hammond T-500 series service manual
+| publisher=The Hammond Organ Company
+| pages=1–1
+| accessdate=1 August 2013
+}}</ref> It was one of the last tonewheel Hammonds produced.<ref name="spark"/>
+
+===Transistor organs===
+[[File:Hammond Regent 4172.jpg|thumb|left|Hammond started making transistor organs by the mid-1970s]]
+In the 1960s, Hammond started making transistor organs. The first organ that bridged the gap between tonewheel and transistor was the X-66, introduced in May 1967. The X-66 contained just 12 tonewheels, and used electronics for [[Frequency divider organ|frequency division]]. It contained separate "vibrato bass" and "vibrato treble" in an attempt to simulate a Leslie speaker. Hammond designed it as the company's flagship product, in response to market competition and to replace the B-3. However, it was considered expensive at $9,795 and it sold poorly. It did not sound like a B-3.{{sfn|Vail|2002|pages=94–95}}
+
+Hammond introduced their first [[integrated circuit]] (IC) model, the Concorde, in 1971.{{sfn|Kakehashi|2002|p=176}} The company had stopped manufacturing tonewheel organs entirely by 1975, due to increased financial inefficiency,{{sfn|Riley|2006|p=58,63}} and switched to making IC models full-time. Console models included the 8000 Aurora (1976) and 8000M Aurora (1977), which contained drawbars and a built-in rotating speaker. Spinet organs included the Romance series, manufactured between 1977 and 1983.<ref name="welch">
+{{cite web
+| url=http://www.organservicecompany.com/idorgan.html
+| title=Organ Identification
+| last=Welch
+| first=Jerry
+| publisher=Organ Service Company, Inc
+| year=2011
+| accessdate=31 July 2013
+}}</ref> In 1979, a Japanese offshoot, Nihon Hammond, introduced the X-5, a portable solid-state clone of the B-3.<ref name="spark"/>
+{{clear}}
+
+===Hammond-Suzuki===
+[[File:Get organ-ized!.jpg|thumb|150px|Hammond-Suzuki produced the XB-3, a digital emulation of a tonewheel organ, during the 1990s]]
+Laurens Hammond died in 1973,<ref name="spark"/> and the company struggled to survive, proposing an acquiring of [[Roland Corporation|Roland]] in 1972, which was turned down.<ref name=sosnov04>
+{{cite journal
+| last      = Reid | first = Gordon
+| title     = The History Of Roland: Part 1
+| url       = http://www.soundonsound.com/sos/nov04/articles/roland.htm
+| journal   = Sound On Sound
+| issue     = November 2004
+| quote     = 1972 — The Birth Of Roland: ''Almost immediately after establishing the company, Kakehashi received an offer from the Hammond Organ Company; they wished to buy a 60-percent shareholding in the new business. However, he had no wish to be the junior partner in his own company for a second time, so he decided to forge ahead on his own.''
+}}</ref> Roland's [[Ikutaro Kakehashi]] did not believe it was practical at that point to move the entire manufacturing operation from Chicago to Japan, and also viewed Hammond's declining sales figures as a problem.{{sfn|Kakehashi|2002|p=176}} Hammond went out of business in 1985, though servicing and spares continued to be available after this under the name of The Organ Service Company.<ref>
+{{cite web
+| url=http://www.organservicecompany.com/FAQ.html
+| title=Frequently Asked Questions
+| last=Welch
+| first=Jerry
+| publisher=Organ Service Company, Inc
+| year=2011
+| accessdate=31 July 2013
+}}</ref> In early 1986, the Hammond brand and rights were acquired by Hammond Organ Australia, run by Noel Crabbe.<ref name=cst86/>
+
+The name was purchased by the Suzuki Musical Instrument Corporation in 1989,{{sfn|Faragher|2011|p=14}} who rebranded the company as Hammond-Suzuki.<ref name="spark"/> Although nominally a Japanese company, founder Manji Suzuki was a fan of the instrument and retained several former Hammond Organ Company staff for research and development,{{sfn|Faragher|2011|p=135}} and ensured that production would partially remain in the United States.{{sfn|Faragher|2011|p=143}} The new company produced their own brand of portable organs, including the XB-2, XB-3 and XB-5. ''[[Sound on Sound]]''{{'s}} Rod Spark, a longtime Hammond enthusiast, said these models were "a matter of taste, of course, but I don't think they're a patch on the old ones".<ref name="spark">
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=October 1997
+| accessdate=30 July 2013
+| last=Spark
+| first=Rod
+| title=The History Of The Hammond
+| url=http://www.soundonsound.com/sos/1997_articles/oct97/hammond.html
+}}</ref>
+
+In 2002, Hammond-Suzuki relaunched the B-3 as the 'New B-3', a re-creation of the original electromechanical instrument using contemporary electronics and a digital tonewheel simulator. The New B-3 is constructed to appear like the original B-3, and the designers attempted to retain the subtle nuances of the familiar B-3 sound. Hammond-Suzuki promotional material states that it would be difficult for even an experienced B-3 player to distinguish between the old and new B-3 organs. A review of the New B-3 by Hugh Robjohns called it "a true replica of an original B-3&nbsp;... in terms of the look and layout, and the actual sound."<ref name="robjohns">
+{{cite journal
+| first     = Hugh| last     = Robjohns
+| title      = Hammond B3: Modelled Electromechanical Tonewheel Organ
+| url        = http://www.soundonsound.com/sos/jul03/articles/hammondb3.asp
+| journal    = Sound On Sound |issue=July 2003
+}}</ref> The instrument project nearly stalled after a breakdown in negotiations between Japanese and United States staff, the latter of whom insisted on manufacturing the case in the United States and designing the organ to identical specifications to the original.{{sfn|Faragher|2011|p=154}}
+
+[[File:Hammond SK1 (rear).png|thumb|left|The Hammond SK1 included emulations of [[electric piano]]s and other keyboard sounds in addition to organ]]
+The company has since released the XK-3, a single-manual organ using the same digital tonewheel technology as the New B-3. The XK-3 is part of a modular system that allows an integrated lower manual and pedals to be added.<ref name="robjohns200507">
+{{cite journal
+| url=http://www.soundonsound.com/sos/jul05/articles/hammondxk3.htm
+| title=Hammond XK3/XLK3 & Leslie 2121/2101
+| last=Robjohns
+| first=Hugh
+| publisher=[[Sound on Sound]]
+| date=July 2005
+| accessdate=31 July 2013
+}}</ref> In response to some clones including a variety of vintage keyboards in a single package, Hammond released the SK series of organs, which include [[grand piano]], [[Rhodes piano]], [[Wurlitzer electronic piano]], [[Clavinet|Hohner Clavinet]] and samples of wind and brass instruments alongside the standard drawbar and tonewheel emulation.<ref>
+{{cite web
+| url=http://hammondorgan.co.uk/sk/launch.html
+| title=Hammond SK1 and SK2
+| publisher=Hammond UK
+| accessdate=31 July 2013
+}}</ref> ''[[Keyboard Magazine]]''{{'s}} Stephen Fortner praised the single manual SK1, indicated that it gave an accurate sound throughout the range of drawbar settings, and said the organ sound was "fat, warm, utterly authentic".<ref>
+{{cite journal
+| url=http://keyboardmag.com/HammondSK1
+| title=Hammond SK1
+| first=Stephen
+| last=Fortner
+| publisher=[[Keyboard Magazine]]
+| date=13 December 2011
+| accessdate=31 July 2013
+}}</ref> The XK-1c model was introduced in early 2014, which is simply an organ-only version of the SK1.<ref>{{cite magazine|url=http://www.keyboardmag.com/gear/1183/hammond-xk-1c-organ-reviewed/29634|title=Hammond XK-1C organ review|first=Tony|last=Orant|magazine=Keyboard Magazine|date=7 February 2014|accessdate=20 August 2014}}</ref>
+
+In the US, Hammond manufactures a number of dedicated console organs, including the B-3mk2 and the C-3mk2, and the A-405, a Chapel Console Organ. The company has a dedicated Church Advisory Team that provides a consultancy so that churches can choose the most appropriate instrument.<ref>
+{{cite web
+| url=http://hammondorganco.com/products/console-organs/
+| title=Console Organs
+| publisher=Hammond USA
+| accessdate=31 July 2013
+}}</ref>
+
+==Speakers==
+
+===Tone cabinet===
+The authorized [[loudspeaker enclosure]] to use with a console organ was the Hammond Tone Cabinet, which housed an external amplifier and speaker in a box.<ref>
+{{cite journal
+| url=http://www.soundonsound.com/sos/apr04/articles/hammondbakeoff.htm
+| title=Software vs Hardware: Tonewheel Organ Implementations Compared
+| publisher=''Sound on Sound''
+| last=Watkinson
+| first=Mike
+| date=April 2004
+| accessdate=30 July 2013
+}}</ref> The cabinet carried a [[balanced line|balanced mono signal]] along with the necessary mains power directly from the organ,<ref name="goff">
+{{cite web
+| url=http://www.goffprof.com/shopping.jsp?p=5
+| title=Leslie 147A Speaker
+| publisher=Goff Professional
+| accessdate=30 July 2013
+}}
+</ref> using a six-pin cable.<ref>
+{{cite journal
+| url=http://books.google.co.uk/books?id=JpoJAQAAMAAJ&q=hammond+PR40+tone+cabinet&dq=hammond+PR40+tone+cabinet&hl=en&sa=X&ei=S5r3UcmGN4nP0QXQ2YHgBg&ved=0CGIQ6AEwBA
+| title=Ask Mike
+| publisher=Keyboard magazine
+| volume=33–34
+| accessdate=30 July 2013
+}}
+</ref> Spinet organs contained a built-in [[Audio power amplifier|power amplifier]] and [[loudspeaker]]s, and so did not require a tone cabinet.
+
+The tone cabinet was originally the only method of adding [[reverb]] to a Hammond organ; reverb was not fitted to older organs.{{sfn|Faragher|2011|p=65}} The most commercially successful tone cabinets were probably the PR series, particularly the 40-watt PR40.{{sfn|Faragher|2011|p=63}}
+
+===Leslie speaker===
+{{Main|Leslie speaker}}
+{{Listen
+| filename=LezlieCabinetSequence.ogg
+| title=Chord Sequence
+| description=A simple chord sequence played on a Hammond organ through a [[Leslie speaker]].
+| format=[[Ogg]]}}
+[[File:Leslie Speaker.jpg|thumb|left|150px|A Leslie speaker with a transparent case]]
+Many players prefer to play the Hammond through a rotating speaker cabinet known, after several name changes, as a [[Leslie speaker]], after its inventor Donald J. Leslie. The Leslie system is an integrated speaker/amplifier combination in which sound is emitted by a rotating [[Horn (acoustic)|horn]] over a stationary treble [[compression driver]], and a rotating [[Sound baffle|baffle]] beneath a stationary bass [[woofer]]. This creates a characteristic sound because of the constantly changing pitch shifts that result from the [[Doppler effect]] created by the moving sound sources.{{sfn|Brice|2001|p=427}}
+
+The Leslie was originally designed to mimic the complex tones and constantly shifting sources of sound emanating from a large group of ranks in a pipe organ. The effect varies depending on the speed of the rotors, which can be toggled between fast (tremolo) and slow (chorale) using a console or pedal switch, with the most distinctive effect occurring as the speaker rotation speed changes. The most popular Leslies were the 122, which accepted a balanced signal suitable for console organs, and the 147, which accepted an unbalanced signal and could be used for spinet organs with a suitable adapter.{{sfn|Vail|2002|p=129}} The Pro-Line series of Leslies which were made to be portable for gigging bands using solid-state amps were popular during the 1970s.{{sfn|Faragher|2011|p=164}}
+
+Leslie initially tried to sell his invention to Hammond, but Laurens Hammond was unimpressed and declined to purchase it. Hammond modified their interface connectors to be "Leslie-proof", but Leslie quickly engineered a workaround.{{sfn|Vail|2002|p=130}} The Leslie company was sold to [[CBS]] in 1965<ref>
+{{cite journal
+| title = Electro Music Purchased by Columbia Distribution
+| publisher = [[Billboard (magazine)|Billboard]]
+| volume = 77
+| issue = 38
+| page = 6
+| date = September 18, 1965
+| url = https://books.google.com/books?id=GikEAAAAMBAJ&pg=PA6
+}}</ref> and was finally bought by Hammond in 1980. Hammond-Suzuki acquired the rights to Leslie in 1992;{{sfn|Faragher|2011|p=14}} the company currently markets a variety of speakers under this name.<ref name="robjohns200507"/> As well as faithful reissues of the original 122 speaker, the company announced in 2013 that they would start manufacturing a standalone Leslie simulator in a [[Effects unit|stomp box]].<ref>
+{{cite web
+| title=Leslie (product range)
+| url=http://hammondorganco.com/products/leslie/
+| publisher=Hammond USA
+| accessdate=1 August 2013
+}}</ref>
+
+==Tone generation==
+[[File:Tonewheel-p.svg|thumb|left|The tonewheel rotates beside an electromagnetic pickup.]]
+Although they are sometimes included in the category of electronic organs, the majority of Hammond organs are, strictly speaking, ''electric'' or ''electromechanical'' rather than ''electronic'' organs because the sound is produced by moving parts rather than electronic oscillators.<ref name="robjohns"/>
+
+The basic component sound of a Hammond organ comes from a tonewheel. Each one rotates in front of an electromagnetic pickup. The variation in the [[magnetic field]] induces a small [[alternating current]] (AC) at a particular frequency, which represents a signal similar to a [[sine wave]]. When a key is pressed on the organ, it completes a circuit of nine electrical switches, which are linked to the drawbars. The position of the drawbars, combined with the switches selected by the key pressed, determines which tonewheels are allowed to sound.<ref name="reid200311">
+{{cite journal
+| last       = Reid |first=Gordon
+| title      = Synthesizing tonewheel organs
+| url        = http://www.soundonsound.com/sos/nov03/articles/synthsecrets.htm
+| journal    = Sound On Sound
+| date=November 2003
+| accessdate = 25 April 2011
+}}</ref><ref>
+{{cite web
+| title      = Technical Information for Hammond Tone Wheel Organ
+| url        = http://b3world.com/hammond-techinfo3.html
+| publisher  = Keyboard Exchange International
+| accessdate = 25 April 2011
+}}</ref>{{sfn|Campbell|Greated|Myers|2004|p=71}} Every tonewheel is connected to a synchronous motor via a system of gears, which ensures that each note remains at a constant relative pitch to every other.{{sfn|Campbell|Greated|Myers|2004|p=441}} The combined signal from all depressed keys and pedals is fed through to the vibrato system, which is driven by a metal scanner. As the scanner rotates around a set of pickups, it changes the pitch of the overall sound slightly.{{sfn|Vail|2002|p=48}} From here, the sound is sent to the main amplifier, and on to the audio speakers.
+
+[[File:Organ light tonegenerator.JPG|thumb|right|A prototype light-weight tonewheel generator, produced at the Hammond Organ Company's factory in [[Antwerp]]]]
+The Hammond organ makes technical compromises in the notes it generates. Rather than produce harmonics that are exact multiples of the fundamental as in [[equal temperament]], it uses the nearest-available frequencies generated by the tonewheels.{{sfn|Campbell|Greated|Myers|2004|p=447}} The only guaranteed frequency for a Hammond's tuning is [[A440 (pitch standard)|concert A at 440&nbsp;Hz]].{{sfn|Stevens|2001|p=189}}
+
+[[Crosstalk]] or ''leakage'' occurs when the instrument's magnetic pickups receive the signal from rotating metal tonewheels other than those selected by the organist. Hammond considered crosstalk a defect that required correcting, and in 1963 introduced a new level of resistor–capacitor (R/C) filtering to greatly reduce this crosstalk, along with 50–60&nbsp;Hz [[mains hum]].<ref>
+{{cite web
+| url=http://www.goffprof.com/shopping.jsp?p=51
+| title=Hammond Filter Capacitor Replacement Kit
+| publisher=Goff Professional
+| accessdate=30 July 2013
+}}</ref> However, the sound of tonewheel crosstalk is now considered part of the signature of the Hammond organ, to the extent that modern digital clones explicitly emulate it.<ref name="robjohns"/>
+
+Some Hammond organs have an audible pop or click when a key is pressed.{{sfn|Gallagher|2008|p=105}} Originally, key click was considered a design defect and Hammond worked to eliminate or at least reduce it with equalization filters. However, many performers liked the percussive effect, and it has been accepted as part of the classic sound. Hammond research and development engineer Alan Young said "the professionals who were playing popular music [liked] that the attack was so prominent. And they objected when it was eliminated."{{sfn|Vail|2002|p=45}}
+
+==Clones and emulation devices==
+{{main|Clonewheel organ}}
+[[File:KORG CX-3 (1980).jpg|thumb|left|According to journalist Gordon Reid, the [[Korg CX-3]] "came close to emulating the true depth and passion of a vintage Hammond."<ref name="reid200101"/>]]
+
+The original Hammond organ was never designed to be transported on a regular basis. A Hammond B-3 organ, bench, and pedalboard weighs {{convert|425|lb|kg}}.{{sfn|Vail|2002|p=9}} This weight, combined with that of a Leslie speaker, makes the instrument cumbersome and difficult to move between venues. Consequently, there has been a demand for a more portable, reliable way of generating the same sound. Electronic and digital keyboards that imitate the sound of the Hammond are often referred to as "[[clonewheel organ]]s".
+
+The first attempts to electronically copy a Hammond appeared in the 1970s, including the Roland VK-1 and VK-9, the Yamaha YP45D and the Crumar Organiser. The [[Korg CX-3]] (single manual) and BX-3 (dual manual) were the first lightweight organs to produce a comparable sound to the original. ''Sound on Sound''{{'s}} Gordon Reid said that the CX-3 "came close to emulating the true depth and passion of a vintage Hammond," particularly when played through a Leslie speaker.<ref name="reid200101">
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=January 2001
+| accessdate=30 July 2013
+| last=Reid
+| first=Gordon
+| title=Korg CX3
+| url=http://www.soundonsound.com/sos/jan01/articles/korgcx3.asp
+}}</ref>
+
+[[File:Nord Electro2 61keys.jpg|thumb|The [[Nord Electro]] emulated drawbars using buttons and a [[light emitting diode]] display<ref name="electro"/>]]
+The [[Roland VK-7]], introduced in 1997, attempted to emulate the sound of a Hammond using [[digital signal processing]] technology.<ref name="magnus">
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=July 1997
+| accessdate=30 July 2013
+| last=Magnus
+| first=Nick
+| title=Roland VK-7
+| url=http://www.soundonsound.com/sos/1997_articles/jul97/rolandvk7.html
+}}</ref> An updated version, the [[Roland VK-8|VK-8]], which appeared in 2002, also provided emulations of other vintage keyboards and provided a connector for a Leslie.<ref>
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=September 2002
+| accessdate=30 July 2013
+| last=Reid
+| first=Gordon
+| title=Roland VK-8
+| url=http://www.soundonsound.com/sos/sep02/articles/rolandvk8.asp
+}}</ref> [[Clavia]] introduced the [[Nord Electro]] in 2001; this used buttons to emulate the physical action of pulling or pushing a drawbar, with an LED graph indicating its current state.<ref name="electro">
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=December 2001
+| accessdate=30 July 2013
+| last=Reid
+| first=Gordon
+| title=Clavia Nord Electro
+| url=http://www.soundonsound.com/sos/dec01/articles/nordelectro.asp
+}}</ref> Clavia has released several updated versions of the Electro since then, and introduced the [[Nord Stage]] with the same technology. The [[Nord C Series|Nord C2D]] was Clavia's first organ with real drawbars.<ref>
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=October 2012
+| accessdate=30 July 2013
+| last=Reid
+| first=Gordon
+| title=Clavia Nord C2D
+| url=http://www.soundonsound.com/sos/oct12/articles/clavia-nord-c2d.htm
+}}</ref> [[Diversi]], founded by former Hammond-Suzuki sales rep Tom Tuson in 2003, has specialised in Hammond clones, and featured a notable endorsement from [[Joey DeFrancesco]].{{sfn|Faragher|2011|p=148}}
+
+The Hammond organ has also been emulated in software. The most prominent emulator in this field has been the [[Native Instruments]] B4 series, which has been praised for its attention to detail and choice of features. [[Emagic]] (now part of [[Apple Inc|Apple]]) has also produced a software emulation, the EVB3. This has led to a Hammond organ module with all controls and features of the original instrument in the [[Logic Pro]] audio production suite.<ref>
+{{cite journal
+| publisher=[[Sound on Sound]]
+| date=January 2006
+| accessdate=30 July 2003
+| last=Magnus
+| first=Nick
+| title=Native Instruments B4 II
+| url=http://www.soundonsound.com/sos/jan06/articles/nib4ii.htm
+}}</ref><ref>
+{{cite journal
+| publisher=Mac World
+| title=Logic Pro 10.1 review
+| url=http://www.macworld.co.uk/review/audio-music/apple-logic-pro-x-review-10-1-update-3457772/?p=4
+| accessdate=17 August 2015
+}}</ref>
+
+<!-- An article from ''Keyboard Magazine'' that reviewed electronic simulations of the Hammond sound said that some aspects of the vintage electromechanical Hammond are not accurately reproduced by clones and emulation devices.<ref>
+{{cite magazine
+| title      = Clonewheel Heaven: 18 cool organ products take aim at the mighty Hammond B-3 and Leslie duo
+| url        = http://www.keyboardmag.com/article/clonewheel-heaven/Nov-04/1938
+|magazine=Keyboard Magazine |issue=Nov. 2004
+}}</ref>{{verification failed|date=July 2013}}-->
+
+==Notable users==
+<!-- Please DO NOT add information here without a RELIABLE SOURCE that specifically relates to a player's prominence and contribution to the use of a Hammond organ as an instrument, otherwise it may be reverted. Use the list articles in preference. -->
+{{See also|List of Hammond organ players|List of jazz organists}}
+[[File:Jimmy Oscar Smith Hammond.JPG|thumb|left|[[Jimmy Smith (musician)|Jimmy Smith]]'s use of the Hammond organ in the 1950s gave him commercial success and influenced other notable organists]]
+Early customers of the Hammond included [[Albert Schweitzer|Dr. Albert Schweitzer]], [[Henry Ford]], [[Eleanor Roosevelt]] and [[George Gershwin]].{{sfn|Vail|2002|p=15}}
+The instrument was not initially favored by classical organ purists, because the tones of two notes an octave apart were in exact synchronization, as opposed to the slight variation present on a pipe organ.{{sfn|Kirchner|2005|p=384}} However, the instrument did gradually become popular with jazz players. One of the first notable performers to use the Hammond organ was [[Ethel Smith (organist)|Ethel Smith]], who was known as the "first lady of the Hammond Organ".{{sfn|Corbin|2006|p=153}} [[Fats Waller]] and [[Count Basie]] also started using the Hammond.{{sfn|Kirchner|2005|p=384}} Organist [[John Medeski]] thinks the Hammond became "the poor man's big band", but because of that, it became more economical to book [[organ trio]]s.{{sfn|Vail|2002|p=18}}
+
+Jimmy Smith became a notable user of the Hammond in the 1950s, particularly in his sessions for the [[Blue Note]] label between 1956 and 1963. He eschewed a bass player, and played all the bass parts himself using the pedals,{{sfn|Bogdanov|Woodstra|Erlewine|2002|p=1170}} generally using a walking bassline on the pedals in combination with percussive left hand chords. His trio format, composed of organ, guitar and drums, became internationally famous following an appearance at the [[Newport Jazz Festival]] in 1957.{{sfn|Kirchner|2005|p=384}} Medeski says musicians "were inspired when they heard Jimmy Smith's records."{{sfn|Vail|2002|p=19}} [[Jack McDuff|"Brother" Jack McDuff]] switched from piano to Hammond in 1959, and toured regularly throughout the 1960s and 70s.{{sfn|Davis|2012|p=236}} [[Keith Emerson]] was inspired to take up the Hammond by hearing McDuff's arrangement of "Rock Candy".{{sfn|Vail|2002|p=168}}
+
+[[File:Keith Emerson & Moog 15May10.jpg|thumb|"I took to riding the L100 like a bucking bronco. It weighs 350&nbsp;lb; when it's on top of you, you need the adrenalin rush you get onstage to chuck it around."<br>[[Keith Emerson]]<ref>
+{{cite news
+| url=http://www.theguardian.com/lifeandstyle/2002/may/31/shopping.artsfeatures1
+| title=Hendrix of the Hammond
+| first=Jonathan
+| last=Glancey
+| publisher=The Guardian
+| date=31 May 2002
+| accessdate=1 August 2013
+}}</ref>]]
+
+[[Booker T Jones]] is cited as being the bridge from rhythm and blues to rock. British organist [[James Taylor Quartet|James Taylor]] said the Hammond "became popular [in the UK] when people such as [[Booker T & The MGs]] and artists on the [[Stax Records]] label came over to London and played gigs."{{sfn|Vail|2002|p=21}} [[Matthew Fisher]] first encountered the Hammond in 1966 having heard the [[Small Faces]]' [[Ian McLagan]] playing one. When Fisher asked if he could play it, McLagan told him "They're yelling out for Hammond players; why don't you go out and buy one for yourself?"{{sfn|Johansen|2001|p=65}} Fisher went on to play the organ lines on [[Procol Harum]]'s [[A Whiter Shade Of Pale]], which topped the UK charts in the summer of 1967.{{sfn|Johansen|2001|p=66}}{{sfn|Macan|1997|p=33}} [[Steve Winwood]] started his musical career with the [[Spencer Davis Group]] playing guitar and piano, but he switched to Hammond when he hired one to record "[[Gimme Some Lovin']]".{{sfn|Welch|1990|p=73}}
+
+[[Gregg Allman]] became interested in the Hammond after [[Mike Finnigan]] had introduced him to Jimmy Smith's music, and started to write material with it.{{sfn|Allman|2012|p=67-68}} His brother [[Duane Allman|Duane]] specifically requested he play the instrument when forming the [[Allman Brothers Band]],{{sfn|Allman|2012|p=97}} and he was presented with a brand new B-3 and Leslie 122RV upon joining. Allman recalls the instrument was cumbersome to transport, particularly on flights of stairs, which often required the whole band's assistance.{{sfn|Allman|2012|pages=100–101}} Author Frank Moriarty considers Allman's Hammond playing a vital ingredient of the band's sound.{{sfn|Moriarty|2003|p=44}}
+
+[[File:Deep Purple, John Lord 1970.jpg|thumb|left|[[Jon Lord]] put his Hammond C-3 through a [[Marshall stack]] to fit in with [[Deep Purple]]'s hard rock sound]]
+[[Deep Purple]]'s [[Jon Lord]] became inspired to play the Hammond after hearing Jimmy Smith's "Walk on the Wild Side".<ref>{{cite journal|url=http://www.thehighwaystar.com/interviews/lord/jl19741000.html|title=Deep Purple's Jon Lord and 'Burn'|publisher=Circus Magazine|last=Cohen|first=Scott|pages=42–45|date=October 1974|accessdate=30 July 2013}}</ref> He modified his Hammond so it could be played through a [[Marshall stack]] to get a growling, overdriven sound,{{sfn|Till|2010|p=122}} which became known as his trademark and he is strongly identified with it.<ref>{{cite web|url=http://jonlord.org/a-biography/|title=Jon Lord – A Biography|publisher=Jon Lord (official site)|accessdate=17 August 2013}}</ref> This organ was later acquired by [[Joey DeFrancesco]].{{sfn|Vail|2002|p=186}} [[Van der Graaf Generator]]'s [[Hugh Banton]] modified his Hammond E-100 extensively with customised electronics, including the ability to put effects such as [[distortion (music)|distortion]] on one manual but not the other, and rewiring the motor. The modifications created, in Banton's own words, "unimaginable sonic chaos."{{sfn|Faragher|2011|p=369}}
+
+[[File:Joey-defrancesco-ffm-003.jpg|thumb|[[Joey DeFrancesco]] has achieved critical success in the jazz genre using both original tonewheel Hammonds and the "New B-3".]]
+The Hammond was a key instrument in [[progressive rock]] music. Author Edward Macan thinks this is because of its versatility, allowing both chords and lead lines to be played, and a choice between quiet and clean, and what Emerson described as a "tacky, aggressive, almost distorted, angry sound."{{sfn|Macan|1997|p=34}} Emerson first found commercial success with [[the Nice]], with whom he used and abused an L-100, putting knives in the instrument, setting fire to it, playing it upside down, or riding it across stage in the manner of a horse. He continued to play the instrument in this manner alongside other keyboards in [[Emerson, Lake and Palmer]].{{sfn|Cateforis|2011|p=158}} Other prominent Hammond organists in progressive rock include [[the Zombies]]' and [[Argent (band)|Argent]]'s [[Rod Argent]], [[Yes (band)|Yes]]'s [[Tony Kaye (musician)|Tony Kaye]] and [[Rick Wakeman]], [[Focus (band)|Focus]]'s [[Thijs van Leer]], [[Uriah Heep (band)|Uriah Heep]]'s [[Ken Hensley]], [[Pink Floyd]]'s [[Rick Wright]], [[Kansas (band)|Kansas]]'s [[Steve Walsh (musician)|Steve Walsh]], and [[Genesis (band)|Genesis]]'s [[Tony Banks (musician)|Tony Banks]]. Banks later claimed he only used the Hammond because a piano was impractical to transport to gigs.{{sfn|Awde|2008|p=200}}
+
+[[Ska]] and [[reggae]] music made frequent use of the Hammond throughout the 1960s and '70s. [[Junior Marvin]] started to play the instrument after hearing Booker T & The MGs' "[[Green Onions]]", although he complained about its weight.{{sfn|Masouri|2010|p=71}} Winston Wright was regarded in the music scene of [[Jamaica]] as one of the best organ players, and used the Hammond when performing live with [[Toots and the Maytals]], as well as playing it on sessions with [[Lee "Scratch" Perry]], [[Jimmy Cliff]] and [[Gregory Isaacs]].{{sfn|Moskowitz|2006|p=320}} [[Tyrone Downie]], best known as [[Bob Marley and the Wailers]]' keyboard player, made prominent use of the Hammond on "[[No Woman, No Cry]]", as recorded at the [[Lyceum Theatre, London]], for the album [[Live! (Bob Marley & the Wailers album)|''Live!'']]{{sfn|Masouri|2010|p=596}}
+
+[[File:BarbaraDennerlein2010.jpg|thumb|left|[[Barbara Dennerlein]] has achieved critical acclaim for her work on the Hammond's [[Pedal keyboard|bass pedals]]]]
+The Hammond organ was perceived as outdated by the late 1970s, particularly in the UK, where it was often used to perform pop songs in social clubs.{{sfn|Fowles|Wade|2012|pages=165–166}} [[Punk rock|Punk]] and [[New wave music|New Wave]] bands tended to prefer second-hand [[combo organs]] from the 1960s, or use no keyboards at all.{{sfn|Cateforis|2011|p=104,160}} Other groups started taking advantage of cheaper and more portable [[synthesizer]]s that were starting to come onto the market.{{sfn|Fowles|Wade|2012|pages=136–137}} [[The Stranglers]]' [[Dave Greenfield]] was a notable exception to this, and used a Hammond onstage during the band's early career. Andy Thompson, better known for being an aficionado of the [[Mellotron]], stated that "the Hammond never really went away. There are a lot of studios that have had a B-3 or C-3 sitting away in there since the 70s."{{sfn|Awde|2008|p=531}} The instrument underwent a brief renaissance in the 1980s with the [[mod revival]] movement. Taylor played the Hammond through the 1980s, first with [[the Prisoners]] and later with the [[James Taylor Quartet]].{{sfn|Bogdanov|2001|p=507}} The sound of the Hammond has appeared in [[hip-hop]] music, albeit mostly via samples. A notable use is the [[Beastie Boys]]' 1992 single "[[So What'cha Want]]", which features a Hammond mixed into the foreground (the instrument was recorded live rather than being sampled).{{sfn|Vail|2002|p=22}}
+
+Jazz musicians continued to use Hammond organs into the 21st century. [[Barbara Dennerlein]] has received critical acclaim for her performances on the Hammond, particularly her use of the bass pedals,{{sfn|Bogdanov|Voodstra|Erlewine|2002|p=325}} and has modified the instrument to include [[sampling (music)|samplers]] triggered by the pedals.{{sfn|Enstice|Stockhouse|2004|pp=96–110}} Joey DeFrancesco embraced the instrument during the 1990s, and later collaborated with Jimmy Smith.<ref>{{cite web|url=http://www.allmusic.com/artist/joey-defrancesco-mn0000209719/biography|title=Joey DeFrancesco: Artist Biography|last=Huey|first=Steve|accessdate=30 July 2013}}</ref> He is positive about the future of the Hammond organ, saying "Everybody loves it. It makes you feel good&nbsp;... I think it's bigger now than ever."{{sfn|Faragher|2011|p=248}} [[Grammy]]-winning jazz keyboardist [[Cory Henry]] learned to play the Hammond organ at age two and used it on 2016's ''The Revival''.<ref>{{cite web|url=http://www.npr.org/2016/04/05/473139210/music-review-the-revival-cory-henry|title=Music Review: 'The Revival,' Cory Henry|last=Michelle|first=Mercer|accessdate=15 May 2016}}</ref>
+{{Clear}}
+
+==See also==
+* [[Chord organ]]
+* [[List of Hammond organs]]
+* [[Novachord]]
+
+==References==
+{{reflist|30em}}
+;Bibliography
+{{refbegin}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=XPvVuoJJse0C
+| title=My Cross to Bear
+| first=Gregg
+| last=Allman
+| authorlink=Gregg Allman
+| publisher=HarperCollins
+| year=2012
+| isbn=978-0-06-211204-0
+| ref=harv
+}}
+* {{cite book
+| title=Mellotron: The Machine and the Musicians that Revolutionised Rock
+| last=Awde
+| first=Nick
+| publisher=Bennet & Bloom
+| year=2008
+| isbn=978-1-898948-02-5
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=1yXVEjS-j8IC&pg=PT1175&dq=jimmy+smith+hammond&hl=en&sa=X&ei=I5v2UaaoC8mM0wWKi4H4Bw&ved=0CDsQuwUwAg#v=onepage
+| title=All Music Guide to Jazz: The Definitive Guide to Jazz Music
+| editor1-first=Vladimir
+| editor1-last=Bogdanov
+| editor2-first=Chris
+| editor2-last=Woodstra
+| editor3-first=Stephen Thomas
+| editor3-last=Erlewine
+| publisher=Backbeat Books
+| year=2002
+| isbn=978-0-87930-717-2
+| ref=harv
+}}
+* {{cite book
+| title=All Music Guide to Electronica: The Definitive Guide to Electronic Music
+| url=http://books.google.co.uk/books?id=GJNXLSBlL7IC&pg=PT459&dq=%22james+taylor%22+hammond&hl=en&sa=X&ei=Xof3Uaj9KobJ0QXbtYDIAQ&ved=0CFsQuwUwBQ#v=onepage&q=%22james%20taylor%22%20hammond&f=false
+| editor1-first=Vladimir
+| editor1-last=Bogdanov
+| publisher=Backbeat Books
+| year=2001
+| isbn=978-0-87930-628-1
+| ref=harv
+}}
+* {{cite book
+| title=Music Engineering
+| url=http://books.google.co.uk/books?id=ufVVgLwkcQwC
+| first=Richard
+| last=Brice
+| publisher=Newnes
+| year=2001
+| isbn=978-0-7506-5040-3
+| ref=harv
+}}
+* {{cite book
+| title=The Guide to United States Popular Culture
+| first=Ray Broadus
+| last=Browne
+| first2=Pat
+| last2=Browne
+| url=http://books.google.co.uk/books?id=U3rJxPYT32MC
+| year=2001
+| publisher=Popular Press
+| isbn=978-0-87972-821-2
+| ref=harv
+}}
+* {{cite book
+| title=The Organ: An Encyclopedia
+| url=http://books.google.co.uk/books?id=cgDJaeFFUPoC
+| first=Douglas Earl
+| last=Bush
+| first2=Richard
+| last2=Kassel
+| publisher=Routledge Chapman & Hall
+| year=2006
+| isbn=978-0-415-94174-7
+| ref=harv
+}}
+* {{cite book
+| url=http://wayback.archive.org/web/20070813111226/http://books.google.co.uk/books?id=D_15UtgRVJsC
+| title=Musical Instruments: History, Technology, and Performance of Instruments of Western Music
+| first1=Murray
+| last1=Campbell
+| first2=Clive Alan
+| last2=Greated
+| first3=Arnold
+| last3=Myers
+| publisher=Oxford University Press
+| year=2004
+| isbn=978-0-19-816504-0
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=-MVrM3zKrHQC&pg=PA104&dq=combo+organ&hl=en&sa=X&ei=cIP3UfTFGIep0AWo7oDIBA&ved=0CE0QuwUwBA#v=onepage&q=combo%20organ&f=false
+| title=Are We Not New Wave?: Modern Pop at the Turn of the 1980s
+| last=Cateforis
+| first=Theo
+| publisher=University of Michigan Press
+| year=2011
+| isbn=978-0-472-03470-3
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=wPwgt_uquMoC
+| title=Complete Blues Keyboard Method: Mastering Blues Keyboard
+| last=Clark
+| first=Merrill
+| year=1999
+| publisher=Alfred Music Publishing
+| isbn=978-1-4574-1396-4
+| ref=harv
+   }}
+* {{cite book
+| url=http://books.google.co.uk/books?id=-9lt4HL-AlwC&pg=PA153&dq=hammond+organ&hl=en&sa=X&ei=SZD2Uc2DMKbG0AXDx4GoBA&ved=0CE4QuwUwBDgK#v=onepage&q=hammond%20organ&f=false
+| title=The Third Element: A Brief History of Electronics
+| last=Corbin
+| first=Alfred
+| publisher=AuthorHouse
+| year=2006
+| isbn=978-1-4678-1338-9
+| ref=harv
+}}
+* {{cite book
+| last=Davis
+| first=John S.
+| title=Historical Dictionary of Jazz
+| publisher=Scarecrow Press
+| year=2012
+| isbn=978-0-8108-6757-4
+| url=http://books.google.co.uk/books?id=c-_1LifRPJkC
+| ref=harv
+}}
+* {{cite book
+| title=Jazzwomen: Conversations with Twenty-One Musicians
+| first=Wayne
+| last=Enstice
+| first2=Janis
+| last2=Stockhouse
+| publisher=Indiana University Press
+| year=2004
+| isbn=978-0-253-01014-8
+| ref=harv
+}}
+* {{cite book
+| title=The Hammond Organ: An introduction to the instrument and the players who made it famous
+| first=Scott
+| last=Faragher
+| publisher=Hal Leonard Corporation
+| year=2011
+| isbn=978-1-4584-0287-5
+| ref=harv
+}}
+* {{cite book
+| title=Concise History of Rock Music
+| url=http://books.google.co.uk/books?id=nW2-7BrEUOEC
+| first=Paul
+| last=Fowles
+| first2=Graham
+| last2=Wade
+| publisher=Mel Bay Publications
+| year=2012
+| isbn=978-1-61911-016-8
+| ref=harv
+}}
+* {{cite book
+| title=The Music Tech Dictionary: A Glossary of Audio-Related Terms and Technologies
+| url=http://books.google.co.uk/books?id=EfgLAAAAQBAJ
+| first=Mitch
+| last=Gallagher
+| publisher=Cengage Learning
+| year=2008
+| isbn=978-1-59863-914-8
+| ref=harv
+}}
+* {{cite book
+| last=Johansen
+| first=Claes
+| publisher=SAF Publishing Ltd
+| year=2001
+| title=Procol Harum: Beyond The Pale
+| isbn=978-0-946719-28-0
+| url=http://wayback.archive.org/web/20140322001355/http://books.google.co.uk/books?id=wjwCkOX578MC&lpg=PA77&ots=krTbHHdnXq
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=09Z8a0lKyPcC
+| title=I Believe in Music: Life Experiences and Thoughts on the Future of Electronic Music by the Founder of the Roland Corporation
+| last=Kakehashi
+| first=Ikutarō
+| authorlink=Ikutaro Kakehashi
+| year=2002
+| publisher=Hal Leonard Corporation
+| isbn=978-0-634-03783-2
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=dIyO-dQwkDwC&pg=PA384&dq=%22jimmy+smith%22+hammond+influence&hl=en&sa=X&ei=Vp32UZ_fJ6OJ0AWahoDoCg&ved=0CDMQuwUwAA#v=onepage
+| title=The Oxford Companion to Jazz
+| editor1-first=Bill
+| editor1-last=Kirchner
+| publisher=Oxford University Press
+| year=2005
+| isbn=978-0-19-518359-7
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=Jxrtek_vttEC&dq=hammond+organ+progressive&source=gbs_navlinks_s
+| title=Rocking the Classics: English Progressive Rock and the Counterculture
+| first=Edward
+| last=Macan
+| publisher=Oxford University Press
+| year=1997
+| isbn=978-0-19-509887-7
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=Rq_7iIvMvYgC
+| title=Wailing Blues – The Story of Bob Marley's Wailers
+| first=Jon
+| last=Masouri
+| publisher=Music Sales Group
+| isbn=978-0-85712-035-9
+| year=2010
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=u6sQAQAAMAAJ
+| title=Seventies rock: the decade of creative chaos
+| first=Frank
+| last=Moriarty
+| publisher=Taylor Trade Publications
+| year=2003
+| isbn=978-1-58979-024-7
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=dDKfGRCq73cC&pg=PA320
+| title=Caribbean Popular Music: An Encyclopedia of Reggae, Mento, Ska, Rock Steady, and Dancehall
+| last=Moskowitz
+| first=David Vlado
+| publisher=Greenwood Publishing Group
+| year=2006
+| isbn=978-0-313-33158-9
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=CYr0xVVELEYC
+| title=The Modern Organ Guide
+| first=Chris
+| last=Riley
+| publisher=Xulon Press
+| year=2006
+| isbn=978-1-59781-667-0
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=pJvzEzjahkQC
+| title=Continuum Encyclopedia of Popular Music of the World: VolumeII: Performance and Production, Volume 11
+| first=John
+| last=Shepherd
+| publisher=Continuum
+| year=2003
+| isbn=978-0-8264-6322-7
+| ref=harv
+}}
+* {{cite book
+| url=http://books.google.co.uk/books?id=JaqA55mGUYMC
+| title=Complete Course in Professional Piano Tuning, Repair, and Rebuilding
+| first=Floyd A
+| last=Stevens
+| publisher=Rowman & Littlefield
+| year=2001
+| isbn=978-0-8304-1593-9
+| ref=harv
+}}
+* {{cite book
+| url=http://wayback.archive.org/web/20140322001727/http://books.google.co.uk/books?id=asBnYmKKz6kC
+| title=Any Sound You Can Imagine: Making Music/Consuming Technology
+| first=Paul
+| last=Théberge
+| publisher=Wesleyan University Press
+| year=1997
+| isbn=978-0-8195-6309-5
+| ref=harv
+}}
+* {{cite book
+| title=Pop Cult: Religion and Popular Music
+| last=Till
+| first=Rupert
+| publisher=Continuum
+| year=2010
+| isbn=978-0-8264-3236-0
+| url=http://books.google.co.uk/books?id=gC0JA6is7REC
+| ref=harv
+}}
+* {{cite book
+| title=The Hammond Organ: Beauty in the B
+| last=Vail
+| first=Mark
+| publisher=Backbeat Books
+| year=2002
+| isbn=978-0-87930-705-9
+| ref=harv
+}}
+* {{cite book
+| url=http://wayback.archive.org/web/20140322001846/http://books.google.co.uk/books?id=60elWdTssmwC
+| title=Manufacturing the Muse: Estey Organs and Consumer Culture in Victorian America
+| first=Dennis G
+| last=Waring
+| year=2002
+| publisher=Wesleyan University Press
+| isbn=978-0-8195-6508-2
+| ref=harv
+}}
+* {{cite book
+| title=Steve Winwood: Roll With It
+| last=Welch
+| first=Chris
+| year=1990
+| publisher=Perigee Books
+| isbn=978-0-399-51558-3
+| ref=harv
+}}
+
+{{refend}}
+
+==External links==
+{{Commons category|Hammond organs}}
+;Official sites
+* [http://www.hammondorganco.com/ Hammond Suzuki USA] Makers of modern-day Hammond-branded clone organs
+* [http://www.hammondsuzuki.com/ Hammond Suzuki Europe]
+* [http://hammondorgan.co.uk/ Hammond Organ UK]
+
+;Archives
+* {{cite web
+| title = Hammond Zone
+| url   = http://www.hammond-organ.com
+}} Hammond/Leslie resource and home of the Hammond Zone user group
+* {{cite web
+| first= Bevis| last= Peters
+| url   = http://www.jackhollow.co.uk/hammond/modellist/index.html
+| title = A complete list of vintage Hammond & Leslie models
+| publisher = JackHollow.co.uk
+}}
+* {{cite web
+| author= Glen E. Nelson
+| title = History of the Hammond B-3 organ
+| url   = http://theatreorgans.com/grounds/docs/history.html
+| publisher = TheatreOrgans.com
+}}
+* [http://120years.net/wordpress/the-hammond-organlaurens-hammondusa1935/ The Hammond Organ on '120 Years Of Electronic Music'] – includes original patent diagrams for the instrument
+
+;Media
+* {{cite magazine
+| title = Electric Pipeless Organ Has Millions of Tones
+|magazine= [[Popular Mechanics]]
+| issue = April 1936
+| pages =569–571
+| url   = https://books.google.com/books?id=lNsDAAAAMBAJ&pg=PA569&dq=Popular+Science+1936+plane+%22Popular+Mechanics%22&hl=en&ei=YQxKTqCgIeSDsgK6xpzSCA&sa=X&oi=book_result&ct=result&resnum=1&sqi=2&ved=0CCoQ6AEwAA#v=onepage&q=Popular%20Science%201936%20plane%20%22Popular%20Mechanics%22&f=true
+}} One of the first large, detailed articles on the Hammond Organ and how it worked
+* {{cite AV media
+| title = Hammond Organ Seventieth
+| url   = https://www.youtube.com/watch?v=5Ck__wghRww
+| medium= video
+| publisher = BBC
+}} Documentary on the Hammond's seventieth anniversary
+
+{{Authority control}}
+
+[[Category:Electronic organs]]
+[[Category:Electric and electronic keyboard instruments]]
+[[Category:American inventions]]

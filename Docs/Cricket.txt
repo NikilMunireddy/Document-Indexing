@@ -1,0 +1,716 @@
+Cricket
+
+{{About|the sport|the insect|Cricket (insect)|other uses|Cricket (disambiguation)}}
+{{Redirect|Cricketer}}
+{{pp-semi|small=yes}}
+{{Use British English|date=May 2016}}
+{{Use dmy dates|date=May 2016}}
+{{Infobox sport
+| name = Cricket
+| image = Pollock to Hussey.jpg
+| imagesize = 300px
+| caption = {{longitem|A [[Bowling (cricket)|bowler]] bowling to a [[Batting (cricket)|batsman]]. The paler strip is the [[cricket pitch]]. The two sets of three wooden stumps on the pitch are the [[wicket]]s. The two white lines are the [[Crease (cricket)|creases]].}}
+| union = [[International Cricket Council]]
+| first = 18th century (modern version – see [[History of cricket|history]])
+| registered = 
+| clubs = 
+| contact = no
+| team = 11 players per side ([[Substitute (cricket)|substitute]]s permitted in some circumstances)
+| mgender = yes, separate competitions
+| type = [[team sport]], [[bat-and-ball games|bat-and-ball]]
+| ball = [[cricket ball]], [[cricket bat]], [[wicket]] ([[Stump (cricket)|stumps]], [[Bail (cricket)|bails]]), [[Cricket clothing and equipment|various protective equipment]]
+| venue = [[cricket field]]
+| region = [[Australasia]], [[United Kingdom]], [[Indian subcontinent]], [[Southern Africa]], [[Caribbean]]
+| olympic = no ([[1900 Summer Olympics]] only)
+}}
+'''Cricket''' is a [[bat-and-ball game]] played between two teams of eleven players on a [[cricket field]], at the centre of which is a rectangular 22-yard-long [[cricket pitch|pitch]] with a [[wicket]], a set of three wooden [[stump (cricket)|stumps]] sited at each end. One team, designated the [[batting (cricket)|batting]] team, attempts to score as many [[runs (cricket)|runs]] as possible, whilst their opponents [[fielding (cricket)|field]]. Each phase of play is called an [[innings]]. After either ten batsmen have been [[dismissal (cricket) |dismissed]] or a set number of [[overs]] have been completed, the innings ends and the two teams then swap roles. The winning team is the one that [[scoring (cricket)|scores]] the most runs, including any [[extra (cricket)|extras]] gained, during their period batting. 
+
+At the start of each game, two batsmen and eleven fielders enter the field of play. The play begins when a designated member of the fielding team, known as the [[bowling (cricket)|bowler]], delivers the [[cricket ball|ball]] from one end of the pitch to the other, towards a set of [[wicket |wooden stumps]], in front of which stands one of the batsmen, known as the striker. The striker's role is to prevent the ball from hitting the stumps through use of his [[cricket bat|bat]], and simultaneously strike it sufficiently well to score runs. The other batsman, known as the non-striker, waits at the opposite end of the pitch by the bowler. The bowler's intention is to both prevent the scoring of runs and to dismiss the batsman, at which point the dismissed batsman has to leave the field and another teammate replaces him at the [[crease (cricket)|crease]].
+
+The most common forms of dismissal are [[bowled]], when the bowler hits the stumps directly with the ball, [[leg before wicket]], when the batsman prevents the ball from hitting the stumps with his body instead of his bat, and [[caught]], when the batsman hits the ball into the air and it is intercepted by a fielder before touching the ground. Runs are scored through two main methods: either hitting the ball sufficiently powerfully that it crosses the [[boundary (cricket)|boundary]], or through the two batsmen swapping ends by each simultaneously running the length of the pitch in opposite directions whilst the fielders are retrieving the ball. If a fielder is able to retrieve the ball sufficiently quickly and put down the wicket with either batsman out of his ground, a [[run-out]] occurs. Adjudication is performed on-field by two [[umpire (cricket)|umpires]].
+
+The [[laws of cricket]] are maintained by the [[International Cricket Council]] (ICC) and [[Marylebone Cricket Club]] (MCC). There are various formats ranging from [[Twenty20]], played over a few hours with each team having a single innings of 20 overs, to [[Test cricket]], played over five days with unlimited overs and the teams playing two innings apiece. Traditionally, cricketers play in all-white kit but in [[limited overs cricket]] they wear club or team colours. In addition to the basic kit, some players wear [[cricket clothing and equipment|protective gear]] to prevent injury caused by the ball which is a hard, solid object made of compressed [[leather]] enclosing a [[cork (material)|cork]] core.
+
+Although cricket's origins are uncertain, it is first recorded in south-east England in the 16th century. It spread globally with the expansion of the British Empire, leading to the first international matches in the mid-19th century. ICC, the game's governing body, has over 100 members, ten of which are [[List of International Cricket Council members|full members]] who play Test cricket. [[Women's cricket]], which is organised and played separately, has also achieved international standard. Cricket is the world's second most popular spectator sport, after [[association football]], and is followed primarily in Australasia, Great Britain and Ireland, the Indian subcontinent, southern Africa and the West Indies.
+
+==Etymology==
+A number of words have been suggested as sources for the term "cricket". In the earliest definite reference to the sport in 1598 it is called ''creckett''.<ref name="FLTL">{{Wayback |df=yes|date=20110629140053 |url=http://www.jl.sl.btinternet.co.uk/stampsite/cricket/ladstolords/1300.html#1597 |title=John Leach, ''From Lads to Lord's'' }} quotes the precise date of the court case in Guildford as Monday, 17 January 1597 (Julian date), which is in the Gregorian year of 1598. Retrieved 31 January 2009.</ref> One possible source for the name is the [[Old English language|Old English]] ''cricc'' or ''cryce'' meaning a crutch or staff.<ref name=DB3>Birley, p. 3.</ref> In [[Samuel Johnson]]'s ''Dictionary'', he derived cricket from "''cryce'', Saxon, a stick".<ref>Altham, p. 21.</ref> In [[Old French]], the word ''criquet'' seems to have meant a kind of club or stick.<ref name=DB3/> Given the strong medieval trade connections between south-east England and the [[County of Flanders]] when the latter belonged to the [[Duchy of Burgundy]], the name may have been derived from the [[Middle Dutch]]<ref>[[Middle Dutch]] was the language in use in [[County of Flanders|Flanders]] at the time.</ref> ''krick''(''-e''), meaning a stick (crook).<ref name=DB3/> Another possible source is the Middle Dutch word ''krickstoel'', meaning a long low stool used for kneeling in church and which resembled the long low [[wicket]] with two [[stump (cricket)|stumps]] used in early cricket.<ref>Bowen, p. 33.</ref> According to Heiner Gillmeister, a European language expert of [[Bonn University]], "cricket" derives from the Middle Dutch phrase for [[hockey]], ''met de (krik ket)sen'' (i.e., "with the stick chase").<ref>{{cite web |url=http://www.la84foundation.org/SportsLibrary/SportsHistorian/2000/sh201e.pdf |title=The Seventeenth Century Game of Cricket: A Reconstruction of the Game |last=Terry |first=David |publisher=SportsLibrary |date=2008 |accessdate=2 May 2016}}
+</ref> Dr Gillmeister believes that not only the name but the sport itself is of Flemish origin.<ref>Gillmeister's theory is summarised in the introduction to the book ''The Language of Cricket'' by John Eddowes, ISBN 1-85754-270-3.</ref>
+
+==History==
+{{Main|History of cricket}}
+Cricket can definitely be traced back to Tudor times in early 16th-century England though there have been a number of claims, many of them spurious and/or lacking evidence, supporting earlier dates from 1301. The earliest definite reference to cricket being played comes from evidence given at a 1598 court case which mentions that "creckett" (''sic'') was played on common land in [[Guildford]] around 1550. The court in Guildford heard on Monday, 17 January 1597 (Julian date, equating to the year 1598 in the Gregorian calendar) from a 59-year-old [[coroner]], [[John Derrick]], who gave witness that when he was a scholar at the "Free School at Guildford", fifty years earlier, "hee and diverse of his fellows did runne and play [on the common land] at creckett and other plaies."<ref>Underdown, p. 3.</ref><ref name=HSA>Altham, p. 21.</ref>
+
+[[File:Francis Cotes - The young cricketer (1768).jpg|thumb|upright|[[Francis Cotes]], ''The Young Cricketer'', 1768]]
+It is believed that cricket was originally a children's game but references around 1610<ref name=HSA/> indicate that adults had started playing it and the earliest reference to inter-parish or [[village cricket]] occurs soon afterwards. In 1624, a player called [[Jasper Vinall]] died after he was struck on the head during a match between two parish teams in Sussex.<ref name=TJM>McCann, pp. xxxiii–xxxiv.</ref> During the 17th century, numerous references indicate the growth of cricket in the south-east of England. By the end of the century, it had become an organised activity being played for high stakes and it is believed that the first professionals appeared in the years following the [[English Restoration|Restoration]] in 1660. A newspaper report survives of "a great cricket match" with eleven players a side that was played for high stakes in Sussex in 1697, and this is the earliest known reference to a cricket match of such importance.<ref>McCann, p. xli.</ref>
+
+The game underwent major development in the 18th century. Betting played a key part in that development with rich patrons forming their own "select XIs". Cricket was prominent in London as early as 1707 and, in the middle years of the century, large crowds flocked to matches on the [[Artillery Ground]] in Finsbury. The [[single wicket cricket|single wicket]] form of the sport attracted huge crowds and wagers to match, its popularity peaking in the [[1748 English cricket season|1748 season]]. Bowling underwent an evolution around 1760 when bowlers began to [[Pitched delivery bowling|pitch the ball]] instead of rolling or skimming it towards the batsman. This caused a revolution in bat design because, to deal with the bouncing ball, it was necessary to introduce the modern straight bat in place of the old "hockey stick" shape. The [[Hambledon Club]] was founded in the 1760s and, for the next twenty years until the formation of [[Marylebone Cricket Club]] (MCC) and the opening of [[Lord's Old Ground]] in 1787, Hambledon was both the game's greatest club and its focal point. MCC quickly became the sport's premier club and the custodian of the [[Laws of cricket]]. New Laws introduced in the latter part of the 18th century included the three stump wicket and [[leg before wicket]] (lbw). 
+
+[[Image:England in North America 1859.jpg|thumb|left|The first English team to tour overseas, on board ship to North America, 1859]]
+The 19th century saw [[underarm bowling]] superseded by first [[roundarm bowling|roundarm]] and then [[overarm bowling]]. Both developments were controversial. Organisation of the game at county level led to the creation of the county clubs, starting with [[Sussex County Cricket Club|Sussex]] in 1839, which ultimately formed the official [[County Championship]] in 1890. Meanwhile, the British Empire had been instrumental in spreading the game overseas and by the middle of the 19th century it had become well established in India, North America, the Caribbean, South Africa, Australia and New Zealand. In 1844, the [[United States v Canada (1844)|first-ever international match]] took place between the [[United States national cricket team|United States]] and [[Canada national cricket team|Canada]]. In 1859, a team of English players went to North America on [[English cricket team in North America in 1859|the first overseas tour]]. 
+
+The first Australian team to tour overseas was a team of [[Indigenous Australians|Aboriginal]] [[Stockman (Australia)|stockmen]] who travelled to England in 1868 to play matches against county teams.<ref>[http://www.nma.gov.au/collections/collection_interactives/cricketing_journeys/cricket_html/the_australian_eleven/the_australian_eleven_the_first_australian_team The Australian Eleven: The first Australian team], [[National Museum of Australia]]. Retrieved 30 December 2014.</ref> In 1862, an English team made the first tour of Australia. The most famous player of the 19th century was [[W. G. Grace]], who started his long and influential career in 1865. 
+
+[[Image:Bradman&Bat.jpg|thumb|upright|[[Donald Bradman|Don Bradman]] of [[Australia national cricket team|Australia]] had a record Test batting average of 99.94.]]
+In 1876–77, an [[England cricket team|England team]] took part in what was retrospectively recognised as the first-ever [[Test cricket|Test match]] at the [[Melbourne Cricket Ground]] against [[Australia national cricket team|Australia]]. The rivalry between England and Australia gave birth to [[The Ashes]] in 1882 and this has remained Test cricket's most famous contest. Test cricket began to expand in 1888–89 when [[South Africa national cricket team|South Africa]] played England. 
+
+The last two decades before the First World War have been called the "[[Golden Age of cricket]]". It is a nostalgic name prompted by the collective sense of loss resulting from the war, but the period did produce some great players and memorable matches, especially as organised competition at county and Test level developed. 
+
+The inter-war years were dominated by one player: Australia's [[Don Bradman]], statistically the greatest batsman of all time. Test cricket continued to expand during the 20th century with the addition of the [[West Indies cricket team|West Indies]], [[India national cricket team|India]] and [[New Zealand national cricket team|New Zealand]] before the Second World War and then [[Pakistan national cricket team|Pakistan]], [[Sri Lanka national cricket team|Sri Lanka]], and [[Bangladesh national cricket team|Bangladesh]] in the post-war period. South Africa was banned from international cricket from 1970 to 1992 because of its government's [[apartheid]] policy.
+
+Cricket entered a new era in 1963 when English counties introduced the [[limited overs cricket|limited overs]] variant. As it was sure to produce a result, limited overs cricket was lucrative and the number of matches increased. The first [[Limited Overs International]] was played in 1971. The governing [[International Cricket Council]] (ICC) saw its potential and staged the first limited overs [[Cricket World Cup]] in 1975. In the 21st century, a new limited overs form, [[Twenty20]], has made an immediate impact.
+
+<!--
+
+<
+! is will be a simpler version of the too-detailed section we currently have below.
+Currently, the section is hidden, to avoid confusing visitors.
+Please see the talk page for discussion. | >
+==Gameplay==
+Cricket is a game between bat and ball played with two teams of 11 players.
+
+===Objective===
+The object of the game is to score more ''[[run (cricket)|runs]]'' than the opposing team. A match is divided into ''[[innings]]''. During an innings, one team bats while the other team bowls and fields. Depending on the form of cricket, each team may have one or two innings.
+
+When all of the innings are completed, the team which has scored the most runs is the winner. If both teams have scored the same number of runs, the match is a [[tie (draw)|tie]]. If the innings cannot be completed before the allotted time for the match expires, the result is a [[tie (draw)|draw]] (or, in some forms of cricket, ''no result'').
+
+===Players and officials===
+===Player roles===
+====Batting====
+====Bowling====
+====Wicket-keeping====
+====Fielding====
+====Captaincy====
+===Match structure===
+===Playing field===
+-->
+
+==Rules and game-play==
+{{Main|Laws of cricket}}
+
+<!--The first paragraph is a summary. Please keep this extremely brief and simple. The complexities can begin to be expanded below and then in Main articles-->
+Cricket is a bat and ball game, played between two teams of eleven players each.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/ MCC{{spaced ndash}}Laws of Cricket: Law 1] Retrieved 25 July 2009.</ref><ref name="Eastaway-p24">{{Cite book
+
+| last = Eastaway
+| first = Rob
+| title = What Is a Googly?: The Mysteries of Cricket Explained
+| publisher = Robson Works
+| year = 2004
+| location = Great Britain
+| pages = 24
+| url = https://books.google.com/?id=_WI_clv8jMYC&pg=PA22&dq=%22what+is+cricket%22&cd=1#v=onepage&q=
+| isbn = 1-86105-629-X}}</ref> One team bats, attempting to score runs, while the other bowls and fields the ball, attempting to restrict the scoring and dismiss the batsmen. The objective of the game is for a team to score more runs than its opponent. In some forms of cricket, it may also be necessary to [[Dismissal (cricket)|dismiss]] the opposition in order to win the match, which would otherwise be [[Draw (cricket)|drawn]].
+
+===Format of the game===
+A cricket match is divided into periods called ''innings'' (which ends with "s" in both singular and plural form). It is decided before the match whether the teams will have one innings or two innings each. During an innings one team ''fields'' and the other ''bats''. The two teams switch between fielding and batting after each innings. All eleven members of the fielding team take the field, but only two members of the batting team (two [[batsmen]]) are on the field at any given time. The order of batsmen is usually announced just before the match, but it can be varied.
+
+A ''coin toss'' is held by the team ''captains'' (who are also players) just before the match starts: the winner decides whether to bat or field first.
+
+The cricket ''field'' is usually circular or oval in shape, with a rectangular ''pitch'' at the center. The edge of the playing field is marked with a ''boundary'', which could be a fence, part of the stands, a rope or a painted line.
+
+At each end of the pitch is a wooden target called a ''wicket'', placed 22 yards apart. The pitch is marked with painted lines: a ''bowling crease'' in line with the wicket, and a batting or ''popping crease'' four feet in front of it. The wicket is made of three vertical ''stumps'' supporting two small horizontal ''bails''. A wicket is ''put down'' if at least one bail is dislodged, or one stump is knocked down (usually by the ball, but also if the batsman does it with his body, clothing or equipment). This is also described as ''breaking'', ''knocking down'', or ''hitting'' the wicket{{spaced ndash}}though if the ball hits the wicket but does ''not'' dislodge a bail or stump then it is ''not'' considered to be down.
+
+At any instant each batsman ''owns'' a particular wicket (usually the one closer to him) and, except when actually batting, is safe when he is ''in his ground''. This means that at least one part of his body or bat is touching the ground behind the ''popping crease''. If ''his'' wicket is put down while the ball is ''live'' and he is ''out of his ground'' then he is dismissed, but the other batsman is safe.<ref>{{cite web |url=http://www.lords.org/mcc/laws-of-cricket/laws/law-28-the-wicket-is-down/ |title=Law 28 (the wicket is down) |work=Laws of Cricket |publisher=[[Marylebone Cricket Club]] |accessdate=11 November 2015}}</ref>
+{{overlay 
+|image=Muralitharan bowling to Adam Gilchrist.jpg
+|width=500
+|height=340
+|grid=no
+|overlay1=Umpire|overlay1left=75|overlay1top=2|overlay1tip=Bowler's end umpire|overlay1link=Umpire (cricket)
+|overlay2=Wicket|overlay2left=105|overlay2top=68|overlay2tip=Wicket, bowler's end or non striking batsman's end|overlay2link=Wicket
+|overlay3=Non-striking batsman|overlay3left=50|overlay3top=50|overlay3tip=Non-striking batsman|overlay3link=Batting (cricket)
+|overlay4=Bowler|overlay4left=155|overlay4top=55|overlay4tip=Bowler, Muttiah Muralitharan|overlay4link=Bowling (cricket)
+|overlay5=Ball|overlay5left=230|overlay5top=75|overlay5tip=White cricket ball in flight|overlay5link=Cricket ball
+|overlay6=Pitch|overlay6left=235|overlay6top=165|overlay6tip=Cricket pitch, the whole area paler in colour|overlay6link=Cricket pitch
+|overlay7=Crease|overlay7left=295|overlay7top=105|overlay7tip=Batting or popping crease|overlay7link=Crease (cricket)
+|overlay7left2=265|overlay7top2=265|overlay7tip2=Batting or popping crease
+|overlay8=Striking batsman|overlay8left=390|overlay8top=160|overlay8tip=Striking batsman, Adam Gilchrist|overlay8link=Batting (cricket)
+|overlay9=Wicket|overlay9left=425|overlay9top=225|overlay9tip=Wicket, striking end|overlay9link=Wicket
+|overlay10=Wicket keeper|overlay10left=420|overlay10top=270|overlay10tip=Fielder in position, wicket keeper|overlay10link=Wicket keeper
+|overlay11=First slip|overlay11left=325|overlay11top=300|overlay11tip=Fielder in position, first slip for left hand batsman|overlay11link=Fielding (cricket)#Catching positions
+|overlay12=Return crease|overlay12left=15|overlay12top=105|overlay12tip=Return crease, one each side of each wicket|overlay12link=Crease (cricket)
+|overlay12left2=455|overlay12top2=235|overlay12tip2=Return crease, one either side of each wicket
+}}
+
+The two batsmen take positions at opposite ends of the pitch. One designated member of the fielding team, called the ''bowler'', ''bowls'' the ball from one end of the pitch to the ''striking'' batsman at the other end. The batsman at the bowling end is called the ''non-striker'', and stands to the side of his wicket, behind his crease. The batsman are allowed to step forward of their creases, though at some risk. Another member of the fielding team, the ''wicket keeper'', is positioned behind the striker's wicket.
+
+The fielding team's other nine members stand outside the pitch, spread out across the field. The fielding captain often strategically changes their position between balls.
+
+There is always an ''umpire'' at each end of the pitch.
+
+The bowler usually retreats a few yards (metres) behind the wicket, runs towards it (his ''run-up''), and then releases the ball over-hand as he reaches the ''bowling crease''. (If he crosses the crease before he releases the ball, or if he flexes his elbow too much in a ''throw'', then it is a ''no ball'', and the batting team gets a penalty or ''extra'' run. If the ball passes the far wicket out of reach of the batsman then it is called a ''wide'', also with an ''extra'' run.) The ball can be bowled so that it bounces on the pitch, lands exactly on the crease (a ''yorker''), or crosses the crease without bouncing (a ''full toss'').
+
+The batsman tries to prevent the ball from hitting the wicket by striking the ball with his bat. (This includes the handle of the bat, and his gloves.) If the bowler succeeds in putting down the wicket the batsman is ''dismissed'' and is said to be ''bowled out''. If the batsman misses the ball, but any part of his body prevents it from reaching the wicket, then he is ''out leg before wicket'', or "LBW".
+
+If the batsman hits the ball but it is caught by a fielder without bouncing then he is ''caught'' out. If it is caught by the bowler then he is ''caught and bowled''; by the wicket keeper, ''caught behind''.
+
+If the batsman is successful in striking the ball and it is not caught without bouncing, then the two batsmen may try to score points (''runs'') for their team. Both batsmen run the length of the pitch, exchanging positions, and grounding their bats behind the opposite crease. Each crossing and grounding by both batsmen is worth one run. The batsmen may attempt one run, multiple runs, or elect not to run at all. By attempting runs, the batsmen risk dismissal. This happens if the fielding team retrieves the ball and hits either wicket with the ball (either by throwing it, or while holding it) before the batsman who owns that wicket reaches his ''ground'' behind the crease. The dismissed batsman is ''run out''. Batsmen will sometimes start to run, change their mind, and return to their original positions.
+
+If the batsman hits the ball over the field boundary without the ball touching the field, the batting team scores six runs. If the ball touches the ground and then reaches the boundary, the batting team scores four runs. The batsmen might start running before the ball reaches the boundary, but those runs don't count.
+
+If the batsman misses the ball they can still attempt ''extra'' runs : these are called ''byes''. If the ball bounces off his body then it is called a ''leg bye''.
+
+If the striking batsman leaves his ground and misses the ball, then the wicket keeper can catch it and put down the wicket – ''stumped''.
+
+In case of a ''no ball'' or a ''wide'' the batsman can choose to strike the ball, earning runs in addition to the fixed penalty. If he does so he can only be dismissed by being ''run out''.
+
+When the batsmen have finished attempting their runs the ball is ''dead'', and is returned to the bowler to be bowled again. The ball becomes ''live'' when he starts his ''run up''. The bowler continues to bowl toward the same wicket, regardless of any switch of the batsmen's positions.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-23-dead-ball,49,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 23]. Retrieved 25 July 2009.</ref>
+
+A batsman may ''retire'' from an innings without being dismissed, usually after reaching a milestone like a hundred runs (a ''[[Century (cricket)|century]]'').
+
+A dismissed batsman leaves the field, to be replaced by another batsman from the batting team. However, even though the wicket may have been put down, or the ball caught, the batsman is not actually dismissed until the fielding team appeal to the umpires for a decision, traditionally using the expression "How's that" (or "Howzat"). In some matches, particularly test matches, either team may request a ''review'' by a ''third umpire'' who can use a ''[[Umpire Decision Review System|decision review system]]'' (DRS), which includes TV replays and other electronic equipment such as ''[[Hawk-Eye]]'', ''[[Hot Spot (cricket)|Hot Spot]]'' and the ''[[Snickometer]]''.
+
+After a bowler has bowled six times (an ''over''), another member of the fielding team is designated as the new bowler, the old bowler taking up a fielding position. The batsmen stay in place, and the new bowler bowls to the opposite wicket, so the role of ''striker'' and ''non-striker'' reverse. The wicket keeper and the two umpires always change positions, as do many of the fielders, and play continues. Fielding team members may bowl multiple times during an innings, but may not bowl two overs in succession.
+
+The innings is complete when 10 of the 11 members of the batting team have been dismissed (''all out''{{spaced ndash}}although one always remaining "not out"), when a set number of overs has been played, or when the batting team ''declares'' that they have enough runs.
+
+The number of innings and the number of overs per innings vary depending on the format of the match. In a match which is not a ''limited overs'' format the umpires will usually specify that the last session of the last innings will have a specified number of overs.{{clarify|date=January 2015}}
+
+The match always ends when all innings have been completed. The umpires can also call an end to the match in case of bad light or weather. But in many cases the match ends immediately when the first team to bat has played all of its innings, and the last team to bat has more runs. In four-innings games the last team may not even need to play its second innings: this team is said to ''win by an innings''. If this winning team has not completed its last innings, and still has, for example, five batsmen who are not out or have not even batted, then they are said to "win by five wickets". If the last team to bat is losing, is ''all out'', and has 10 fewer runs than the other team, then the winning team "wins by 10 runs". If the two teams both play all their innings and they have the same number of runs, then it is a ''tie''.
+
+In four-innings matches there is also the possibility of a ''draw'': the team with fewer runs still has batsmen on the field when the game ends. This has a major effect on strategy: a team will often ''declare'' an innings when they have accumulated enough runs, in the hope that they will have enough time left to dismiss the other team and thus avoid a draw, but risking a loss if the other team scores enough runs.
+
+===Pitch, wickets and creases===
+{{Main|Cricket pitch|Wicket|Crease (cricket)}}
+{{See also|Stump (cricket)|Bail (cricket)}}
+
+====Playing surface====
+[[Image:cricket field parts.svg|right|thumb|250px|A typical [[cricket field]].]]
+Cricket is played on a [[Lawn|grassy]] [[Cricket field|field]].<ref name="dsrwa">
+{{Cite web| title = Dimensions for Cricket| url = http://www.dsr.wa.gov.au/index.php?id=947|accessdate =16 February 2010}}</ref> The ''[[Laws of Cricket]]'' do not specify the size or shape of the field,<ref name="MCC{{spaced ndash}}Laws of Cricket: Law 19">{{cite web| title = Law 19 (Boundaries) | url = https://www.lords.org/mcc/laws-of-cricket/laws/law-19-boundaries| work = Marylebone Cricket Club}}</ref> but it is often oval.<!--Insert two values for large and small field diameters from Test grounds--> In the centre of the field is a rectangular strip, known as the [[Cricket pitch|pitch]].<ref name="dsrwa"/>
+
+The pitch is a flat surface {{convert|10|ft}} wide, with very short grass that tends to be worn away as the game progresses.<ref>Cricket can also be played on artificial surfaces, notably matting.</ref> At either end of the pitch, {{convert|22|yd}} apart, are placed wooden targets, known as the [[wicket]]s. These serve as a target for the [[Bowling (cricket)|bowling]] (also known as the [[Fielding (cricket)|fielding]]) side and are defended by the [[Batting (cricket)|batting]] side, which seeks to accumulate runs.
+
+====Stumps, bails and creases====
+[[Image:Cricket Stumps en.svg|thumb|100px|left|A [[wicket]] consists of three [[stump (cricket)|stumps]] that are hammered into the ground, and topped with two [[bail (cricket)|bails]].]]
+Each wicket on the pitch consists of three wooden [[stump (cricket)|stumps]] placed vertically, in line with one another. They are surmounted by two wooden crosspieces called [[bail (cricket)|bails]]; the total height of the wicket including bails is {{convert|28.5|in}} and the combined width of the three stumps, including small gaps between them is {{convert|9|in}}.
+
+Four lines, known as [[Crease (cricket)|creases]], are painted onto the pitch around the wicket areas to define the batsman's "safe territory" and to determine the limit of the bowler's approach. These are called the "popping" (or batting) crease, the bowling crease and two "return" creases.
+
+The stumps are placed in line on the bowling creases and so these creases must be {{convert|22|yd}} apart. A bowling crease is {{convert|8|ft|8|in}} long, with the middle stump placed dead centre. The popping crease has the same length, is parallel to the bowling crease and is {{convert|4|ft}} in front of the wicket. The return creases are perpendicular to the other two; they are adjoined to the ends of the popping crease and are drawn through the ends of the bowling crease to a length of at least {{convert|8|ft}}.
+
+When bowling the ball, the bowler's back foot in his "delivery stride" must land within the two return creases while at least some part of his front foot must land on or behind the popping crease. If the bowler breaks this rule, the umpire calls "[[No ball]]".
+
+The importance of the popping crease to the batsman is that it marks the limit of his safe territory. He can be dismissed [[Stump (cricket)#Manner of dismissing a batsman|stumped]] or [[run out]] (see Dismissals below) if the wicket is broken while he is "out of his ground".
+
+===Bat and ball===
+{{Main|Cricket bat|Cricket ball}}
+{{multiple image
+| footer = Two different types of [[cricket ball]]s:
+i) A used white ball. White balls are mainly utilised in [[limited overs cricket]], especially in matches played at night, under [[floodlights]] (left).<br>
+ii) A used red ball, Red balls are utilised in [[Test cricket]] and [[first-class cricket]] and some other forms of cricket (right).<br>
+NB Both balls are the same size.
+| image1 = White ball 2 (cropped).JPG
+| alt1 = Used white ball
+| width1 = 150
+| width2 = 150
+| image2 = Used cricket ball (cropped).jpg
+| alt2 = Used red ball
+}}
+The essence of the sport is that a bowler delivers the ball from his end of the pitch towards the batsman who, armed with a bat is "on strike" at the other end.
+
+The [[Cricket bat|bat]] is made of wood (usually [[White Willow]]) and has the shape of a blade topped by a cylindrical handle. The blade must not be more than {{convert|4.25|in}} wide and the total length of the bat not more than {{convert|38|in}}.
+
+The [[Cricket ball|ball]] is a hard leather-seamed [[spheroid]], with a circumference of {{convert|9|in}}. The hardness of the ball, which can be delivered at speeds of more than {{convert|90|mph}}, is a matter for concern and batsmen wear protective clothing including [[Batting pads|pads]] (designed to protect the knees and shins), [[batting gloves]] for the hands, a [[Helmet (cricket)|helmet]] for the head and a [[Box (cricket)|box]] inside the trousers (to protect the [[crotch]] area). Some batsmen wear additional padding inside their shirts and trousers such as thigh pads, arm pads, rib protectors and shoulder pads. The ball has a "seam": six rows of stitches attaching the leather shell of the ball to the string and cork interior. The seam on a new ball is prominent, and helps the bowler propel it in a less predictable manner. During cricket matches, the quality of the ball changes to a point where it is no longer usable, and during this decline its properties alter and thus influence the match. Players will therefore attempt to changes the properties of the ball in order to influence its flight. Polishing the ball and wetting it with sweat or saliva is legal, even when the polishing is deliberately done on one side only to increase the ball's swing, while rubbing other substances into the ball, scratching the surface or picking at the seam is illegal [[ball tampering]].
+
+===Umpires and scorers===
+{{Main|Umpire (cricket)|Scorer}}
+[[Image:Cricket Umpire.jpg|thumb|left|An umpire]]
+The game on the field is regulated by two [[Umpire (cricket)|umpires]], one of whom stands behind the wicket at the bowler's end, the other in a position called "square leg", a position 15–20 metres to the side of the "on strike" batsman. The main role of the umpires is to adjudicate on whether a ball is correctly bowled (not a ''no ball'' or a ''wide''), when a run is scored, and whether a batsman is out (the fielding side must appeal to the umpire, usually with the phrase ''How's That?''). Umpires also determine when intervals start and end, decide on the suitability of the playing conditions and can interrupt or even abandon the match due to circumstances likely to endanger the players, such as a damp pitch or deterioration of the light.
+
+Off the field and in televised matches, there is often a [[third umpire]] who can make decisions on certain incidents with the aid of video evidence. The third umpire is mandatory under the playing conditions for Test matches and limited overs internationals played between two ICC full members. These matches also have a [[match referee (Cricket)|match referee]] whose job is to ensure that play is within the [[Laws of cricket]] and the spirit of the game.
+
+The match details, including runs and dismissals, are recorded by two official [[scorer]]s, one representing each team. The scorers are directed by the hand signals of an umpire. For example, the umpire raises a forefinger to signal that the batsman is out (has been dismissed); he raises both arms above his head if the batsman has hit the ball for six runs. The scorers are required by the Laws of cricket to record all runs scored, wickets taken and overs bowled; in practice, they also note significant amounts of additional data relating to the game.
+
+===Innings===
+The innings (ending with 's' in both singular and plural form) is the term used for the collective performance of the batting side.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-12-innings,38,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 12]. Retrieved 25 July 2009.</ref> In theory, all eleven members of the batting side take a turn to bat but, for various reasons, an innings can end before they all do so. Depending on the type of match being played, each team has one or two innings apiece.
+
+The main aim of the bowler, supported by his fielders, is to dismiss the batsman. A batsman when dismissed is said to be "out" and that means he must leave the field of play and be replaced by the next batsman on his team. When ten batsmen have been dismissed (i.e., are out), then the whole team is dismissed and the innings is over. The last batsman, the one who has not been dismissed, is not allowed to continue alone as there must always be two batsmen "in". This batsman is termed "not out".
+
+An innings can end early for three reasons: because the batting side's captain has chosen to "declare" the innings closed (which is a tactical decision), or because the batting side has achieved its target and won the game, or because the game has ended prematurely due to bad weather or running out of time. In each of these cases the team's innings ends with two "not out" batsmen, unless the innings is declared closed at the fall of a wicket and the next batsman has not joined in the play.
+
+In limited overs cricket, there might be two batsmen still "not out" when the last of the allotted overs has been bowled.
+
+===Overs===
+{{Main|Over (cricket)}}
+The bowler bowls the ball in sets of six deliveries (or "balls") and each set of six balls is called an [[Over (cricket)|over]]. This name came about because the umpire calls "Over!" when six balls have been bowled. At this point, another bowler is deployed at the other end, and the fielding side changes ends while the batsmen do not. A bowler cannot bowl two successive overs, although a bowler can bowl unchanged at the same end for several overs. The batsmen do not change ends and so the one who was non-striker is now the striker and vice versa. The umpires also change positions so that the one who was at square leg now stands behind the wicket at the non-striker's end and ''vice versa''.
+
+===Team structure===
+A team consists of eleven players. Depending on his or her primary skills, a player may be classified as a specialist [[batsman]] or [[bowler (cricket)|bowler]]. A well-balanced team usually has five or six specialist batsmen and four or five specialist bowlers. Teams nearly always include a specialist [[wicket-keeper]] because of the importance of this fielding position. Each team is headed by a [[Captain (cricket)|captain]] who is responsible for making tactical decisions such as determining the batting order, the placement of fielders and the rotation of bowlers.
+
+A player who excels in both batting and bowling is known as an [[all-rounder]]. One who excels as a batsman and wicket-keeper is known as a "wicket-keeper/batsman", sometimes regarded as a type of all-rounder. True all-rounders are rare as most players focus on either batting or bowling skills.
+
+===Bowling===
+{{Main|Bowling (cricket)}}
+
+[[File:Shoaib Akhtar.jpg|right|150px|thumb|[[Shoaib Akhtar]] of [[Pakistan National Cricket Team|Pakistan]] holds the world record for delivering the fastest ball (161.3 km/h).<ref>{{cite web| title=Fastest delivery of a cricket ball (male)| url=http://www.guinnessworldrecords.com/records-10000/fastest-bowl-of-a-cricket-ball/| work=[[Guinness World Records]]| accessdate=2015-06-23}}</ref>]]
+The bowler reaches his delivery stride by means of a "run-up", although some bowlers with a very slow delivery take no more than a couple of steps before bowling. A fast bowler needs momentum and takes quite a long run-up, running very fast as he does so.
+
+The fastest bowlers can deliver the ball at a speed of over {{convert|90|mph}} and they sometimes rely on sheer speed to try and defeat the batsman, who is forced to react very quickly. Other fast bowlers rely on a mixture of speed and guile. Some fast bowlers make use of the seam of the ball so that it "curves" or "swings" in flight. This type of delivery can deceive a batsman into mistiming his shot so that the ball touches the edge of the bat and can then be "caught behind" by the wicketkeeper or a slip fielder.
+
+At the other end of the bowling scale is the "spinner" who bowls at a relatively slow pace and relies entirely on guile to deceive the batsman. A spinner will often "buy his wicket" by "tossing one up" (in a slower, higher [[Parabolic trajectory|parabolic]] path) to lure the batsman into making a poor shot. The batsman has to be very wary of such deliveries as they are often "flighted" or spun so that the ball will not behave quite as he expects and he could be "trapped" into getting himself out.
+
+In between the pacemen and the spinners are the "medium pacers" who rely on persistent accuracy to try and contain the rate of scoring and wear down the batsman's concentration.
+
+All bowlers are classified according to their looks or style. The [[Types of bowlers in cricket|classifications]], as with much cricket terminology, can be very confusing. Hence, a bowler could be classified as LF, meaning he is a left arm fast bowler; or as LBG, meaning he is a right arm spin bowler who bowls deliveries that are called a "[[leg break]]" and a "[[Googly]]".
+
+During the bowling action the elbow may be held at any angle and may bend further, but may not straighten out. If the elbow straightens illegally then the square-leg umpire may call [[Extra (cricket)#No ball|no-ball]]: this is known as "throwing" or "chucking", and can be difficult to detect. The current laws allow a bowler to straighten his arm 15 degrees or less.
+
+===Fielding===
+{{Main|Fielding (cricket)}}
+[[Image:Cricket fielding positions2.svg|thumb|240px|[[Fielding positions in cricket]] for a [[right-handed]] [[batsman]]]]
+
+All eleven players on the fielding side take the field together. One of them is the [[wicket-keeper]] ''aka'' "keeper" who operates behind the wicket being defended by the batsman on strike. Wicket-keeping is normally a specialist occupation and his primary job is to gather deliveries that the batsman does not hit, so that the batsmen cannot run byes. He wears special gloves (he is the only fielder allowed to do so), a box over the groin, and pads to cover his lower legs. Owing to his position directly behind the striker, the wicket-keeper has a good chance of getting a batsman out caught off a fine [[Edge (cricket)|edge]] from the bat. He is the only player who can get a batsman out [[Stump (cricket)|stumped]].
+
+Apart from the one currently bowling, the other nine fielders are tactically deployed by the team captain in [[fielding positions in cricket|chosen positions]] around the field. These positions are not fixed but they are known by specific and sometimes colourful names such as "slip", "third man", "silly mid on" and "long leg". There are always many unprotected areas.
+
+The captain is the most important member of the fielding side as he determines all the tactics including who should bowl (and how); and he is responsible for "setting the field", though usually in consultation with the bowler.
+
+In all forms of cricket, if a fielder gets injured or becomes ill during a match, a [[Substitute (cricket)|substitute]] is allowed to field instead of him. The substitute cannot bowl, act as a captain or keep wicket. The substitute leaves the field when the injured player is fit to return.
+
+===Batting===
+{{Main|batting (cricket)}}
+[[Image:WGGrace.jpg|thumb|upright|left|English cricketer [[W. G. Grace|W.G. Grace]] "taking guard" in 1883. His pads and bat are very similar to those used today. The gloves have evolved somewhat. Many modern players utilise more defensive equipment than was available to Grace, notably helmets and arm guards.]]
+At any one time, there are two batsmen in the playing area. One takes station at the striker's end to defend the wicket as above and to score runs if possible. His partner, the non-striker, is at the end where the bowler is operating.
+
+Batsmen come in to bat in a [[batting order (cricket)|batting order]], decided by the team captain. The first two batsmen{{spaced ndash}}the "openers"{{spaced ndash}}usually face the hostile bowling from fresh fast bowlers with a new ball. The top batting positions are usually given to the most competent batsmen in the team, and the team's bowlers{{spaced ndash}}who are typically, but not always, less skilled as batsmen{{spaced ndash}}typically bat last. The pre-announced batting order is not mandatory; when a wicket falls any player who has not yet batted may be sent in next.
+
+If a batsman "retires" (usually due to injury) and cannot return, he is actually "not out" and his retirement does not count as a dismissal, though in effect he has been dismissed because his innings is over. Substitute batsmen are not allowed.
+
+A skilled batsman can use a wide array of "shots" or "strokes" in both defensive and attacking mode. The idea is to hit the ball to best effect with the flat surface of the bat's blade. If the ball touches the side of the bat it is called an "[[Edge (cricket)|edge]]". Batsmen do not always seek to hit the ball as hard as possible, and a good player can score runs just by making a deft stroke with a turn of the wrists or by simply "blocking" the ball but directing it away from fielders so that he has time to take a run.
+
+[[File:Victor Trumper Drive.jpg|thumb|An iconic image of Australia's [[Victor Trumper]] stepping out to [[Batting (cricket)#Drive|drive]]]]
+There is a wide variety of shots played in cricket. The batsman's repertoire includes strokes named according to the style of swing and the direction aimed: e.g., "[[List of cricket terms#Cut|cut]]", "drive", "hook", "pull".
+
+A batsman is not required to play a shot; in the event that he believes the ball will not hit his wicket and there is no opportunity to score runs, he can "leave" the ball to go through to the wicketkeeper. Equally, he does not have to attempt a run when he hits the ball with his bat. He can deliberately use his leg to block the ball and thereby "pad it away" but this is risky because of the [[leg before wicket]] rule.
+
+In the event of an injured batsman being fit to bat but not to run, the umpires and the fielding captain were previously able to allow another member of the batting side to be a [[runner (cricket)|runner]]. The runner's only task was to run between the wickets instead of the incapacitated batsman, and he was required to wear and carry exactly the same equipment as the batsman. As of 2011 the ICC outlawed the use of runners as they felt this was being abused.<ref>{{cite web|title=Runner rule was being abused, says ICC|url=http://www.espncricinfo.com/ci-icc/content/story/521356.html|work=espn cricinfo|accessdate=28 May 2013}}</ref>
+
+===Runs===
+{{Main|Run (cricket)}}
+{{wideimage|Tendulkar goes to 14,000 Test runs.jpg|750px|Indian cricketer [[Sachin Tendulkar]] is the only player to complete more than 30,000 [[Run (cricket)|run]]s in international cricket.<ref name="AllInternationalCombinedRecords">{{cite web|url=http://stats.espncricinfo.com/ci/content/records/284269.html |title=Records / Combined Test, ODI and T20I records / Batting records ; Most runs in career |publisher=ESPNcricinfo |date=17 November 2013 |accessdate=17 November 2013}}</ref> Photo shows him making a shot to reach 14,000 runs in [[Test cricket|Tests]]. He was batting against Australia in 2010.}}
+[[Image:cricket shots.svg|thumb|150px|left|The directions in which a [[right-handed]] batsman intends to send the ball when playing various cricketing shots. The diagram for a [[left-handed]] batsman is a [[mirror image]] of this one.]]
+The primary concern of the batsman on strike (i.e., the "striker") is to prevent the ball hitting the wicket and secondarily to score [[Run (cricket)|runs]] by hitting the ball with his bat so that he and his partner have time to run from one end of the pitch to the other before the fielding side can return the ball. To register a run, both runners must touch the ground behind the crease with either their bats or their bodies (the batsmen carry their bats as they run). Each completed run increments the score.
+
+More than one run can be scored from a single hit; but, while hits worth one to three runs are common, the size of the field is such that it is usually difficult to run four or more. To compensate for this, hits that reach the boundary of the field are automatically awarded four runs if the ball touches the ground ''en route'' to the boundary or six runs if the ball clears the boundary without touching the ground within the boundary. The batsmen do not need to run if the ball reaches or crosses the boundary.
+
+[[File:BrianLaraUkexpat.jpg|thumb|[[Brian Lara]] of the West Indies holds the record for highest score in an [[innings]] for both Test and first-class cricket.]]
+Hits for five are unusual and generally rely on the help of "overthrows" by a fielder returning the ball. If an odd number of runs is scored by the striker, the two batsmen have changed ends, and the one who was non-striker is now the striker. Only the striker can score individual runs, but all runs are added to the team's total.
+
+The decision to attempt a run is ideally made by the batsman who has the better view of the ball's progress, and this is communicated by calling: "yes", "no" and "wait" are often heard.
+
+Running is a calculated risk because if a fielder breaks the wicket with the ball while the nearest batsman is out of his ground (i.e., he does not have part of his body or bat in contact with the ground behind the popping crease), the batsman is [[run out]].
+
+A team's score is reported in terms of the number of runs scored and the number of batsmen that have been dismissed. For example, if five batsmen are out and the team has scored 224 runs, they are said to have scored 224 for the loss of 5 wickets (commonly shortened to "224 for five" and written 224/5 or, in Australia, "five for 224" and 5/224).
+
+===Extras===
+{{Main|Extra (cricket)}}
+Additional runs can be gained by the batting team as [[Extra (cricket)|extras]] (called "sundries" in Australia) due to errors made by the fielding side. This is achieved in four ways:
+# '''No ball''': a penalty of one extra that is conceded by the bowler if he breaks the rules of bowling either by (a) using an [[throwing (cricket)|inappropriate arm action]]; (b) overstepping the popping crease; (c) having a foot outside the return crease. In addition, the bowler has to re-bowl the ball. In limited overs matches, a no ball is called if the bowling team's field setting fails to comply with the restrictions. In shorter formats of the game (20–20, ODI) the free hit rule has been introduced. The ball following a front foot no-ball will be a free-hit for the batsman, whereby he is safe from losing his wicket except for being run-out.
+# '''Wide''': a penalty of one extra that is conceded by the bowler if he bowls so that the ball is out of the batsman's reach; as with a no ball, a wide must be re-bowled. If a wide ball crosses the boundary, five runs are awarded to the batting side (one run for the wide, and four for the boundary).
+# '''Bye''': extra(s) awarded if the batsman misses the ball and it goes past the wicketkeeper to give the batsmen time to run in the conventional way (note that one mark of a good wicketkeeper is one who restricts the tally of byes to a minimum).
+# '''Leg bye''': extra(s) awarded if the ball hits the batsman's body, but not his bat, while attempting a legitimate shot, and it goes away from the fielders to give the batsmen time to run in the conventional way.
+
+When the bowler has bowled a no ball or a wide, his team incurs an additional penalty because that ball (i.e., delivery) has to be bowled again and hence the batting side has the opportunity to score more runs from this extra ball. The batsmen have to run (i.e., unless the ball goes to the boundary for four) to claim byes and leg byes but these only count towards the team total, not to the striker's individual total for which runs must be scored off the bat.
+
+===Dismissals===
+{{Main|Dismissal (cricket)}}
+<!----[[File:Stumping edited.jpg|thumb|Wicketkeeper [[Mahendra Singh Dhoni]] of India attempts to stump a [[South African]] batsman out during a match played in [[Chennai]] in 2008.]]---->
+There are eleven ways in which a batsman can be dismissed; five relatively common and six extremely rare. The common forms of dismissal are "bowled", "caught", "leg before wicket" (lbw), "run out", and "stumped". Less common methods are "hit wicket", "hit the ball twice", "obstructed the field", "handled the ball" and "timed out"{{spaced ndash}}these are almost unknown in the professional game. The eleventh – '''[[retired out]]''' – is not treated as an on-field dismissal but rather a retrospective one for which no fielder is credited.
+
+If the dismissal is obvious (for example when "bowled" and in most cases of "caught") the batsman will voluntarily leave the field without the umpire needing to dismiss them. Otherwise before the umpire will award a dismissal and declare the batsman to be out, a member of the fielding side (generally the bowler) must "appeal". This is invariably done by asking (or shouting) "how's that?"{{spaced ndash}}normally reduced to ''howzat?'' If the umpire agrees with the appeal, he will raise a forefinger and say "Out!". Otherwise he will shake his head and say "Not out". Appeals are particularly loud when the circumstances of the claimed dismissal are unclear, as is always the case with lbw and often with run outs and stumpings.
+
+# '''[[Bowled]]''': the bowler has hit the wicket with the delivery and the wicket has "broken" with at least one bail being dislodged (note that if the ball hits the wicket without dislodging a bail it is not out).<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-30-bowled,56,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 30]. Retrieved 25 July 2009.</ref>
+# '''[[Caught (cricket)|Caught]]''': the batsman has hit the ball with his bat, or with his hand which was holding the bat, and the ball has been caught before it has touched the ground by a member of the fielding side.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-32-caught,58,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 32]. Retrieved 25 July 2009.</ref>
+# '''[[Leg before wicket]] (lbw)''': the ball has hit the batsman's body (including his clothing, pads etc. but not the bat, or a hand holding the bat) when it would have gone on to hit the stumps. This rule exists mainly to prevent the batsman from guarding his wicket with his legs instead of the bat. To be given out lbw, the ball must not bounce outside leg stump or strike the batsmen outside the line of leg-stump. It may bounce outside off-stump. The batsman may only be dismissed lbw by a ball striking him outside the line of off-stump if he has not made a genuine attempt to play the ball with his bat.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-36-leg-before-wicket,62,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 36]. Retrieved 25 July 2009.</ref>
+# '''[[Run out]]''': a member of the fielding side has broken or "put down" the wicket with the ball while the nearest batsman was out of his ground; this usually occurs by means of an accurate throw to the wicket while the batsmen are attempting a run, although a batsman can be given out Run out even when he is not attempting a run; he merely needs to be out of his ground.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-38-run-out,64,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 38]. Retrieved 25 July 2009.</ref>
+# '''[[Stump (cricket)#Manner of dismissing a batsman|Stumped]]''' is similar except that it is done by the wicketkeeper after the batsman has missed the bowled ball and has stepped out of his ground, and is not attempting a run.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-39-stumped,65,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 39]. Retrieved 25 July 2009.</ref> A batsman can be run out on a [[No ball]], but cannot be stumped.
+# '''[[Hit wicket]]''': a batsman is out hit wicket if he dislodges one or both bails with his bat, person, clothing or equipment in the act of receiving a ball, or in setting off for a run having just received a ball.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-35-hit-wicket,61,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 35]. Retrieved 25 July 2009.</ref>
+# '''[[Hit the ball twice]]''' is very unusual and was introduced as a safety measure to counter dangerous play and protect the fielders. The batsman may legally play the ball a second time only to stop the ball hitting the wicket after he has already played it. "Hit" does not necessarily refer to the batsman's bat.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-34-hit-the-ball-twice,60,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 34]. Retrieved 25 July 2009.</ref>
+# '''[[Obstructing the field]]''': another unusual dismissal which tends to involve a batsman deliberately getting in the way (physically and/or verbally) of a fielder.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-37-obstructing-the-field,63,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 37]. Retrieved 25 July 2009.</ref>
+# '''[[Handled the ball]]''': a batsman must not ''deliberately'' touch the ball with his hand, for example to protect his wicket. Note that the batsman's hand or glove counts as part of the bat while the hand is holding the bat, so batsmen are frequently [[Caught (cricket)|caught]] off their gloves (i.e. the ball hits, and is deflected by, the glove and can then be caught).<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-33-handled-the-ball,59,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 33]. Retrieved 25 July 2009.</ref>
+# '''[[Timed out]]'''; means that the next batsman was not ready to receive a delivery within three minutes of the previous one being dismissed.<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-31-timed-out,57,AR.html MCC{{spaced ndash}}Laws of Cricket: Law 31]. Retrieved 25 July 2009.</ref>
+#'''[[Retired out]]''': a batsman retires without the umpire's permission, and does not have the permission of the opposition captain to resume their innings.<ref>[https://www.lords.org/mcc/laws-of-cricket/laws/law-2-substitutes-and-runners-batsman-or-fielder-leaving-the-field-batsman-retiring-or-batsman-commencing-innings/ MCC{{spaced ndash}}Laws of Cricket: Law 2]. Retrieved 18 October 2015.</ref>
+
+In the vast majority of cases, it is the striker who is out when a dismissal occurs. If the non-striker is dismissed it is usually by being run out, but he could also be dismissed for obstructing the field, handling the ball or being timed out.
+
+A batsman may leave the field without being dismissed. If injured or taken ill the batsman may temporarily retire, and be replaced by the next batsman. This is recorded as ''[[Substitute (cricket)|retired hurt]]'' or ''[[Substitute (cricket)|retired ill]]''. The retiring batsman is not out, and may resume the innings later. An unimpaired batsman may retire, and this is treated as being dismissed '''[[retired out]]'''; no player is credited with the dismissal. Batsmen cannot be out ''bowled'', ''caught'', ''leg before wicket'', ''stumped'' or ''hit wicket'' off a ''no ball''. They cannot be out ''bowled'', ''caught'', ''leg before wicket'', or ''hit the ball twice'' off a ''wide''. Some of these modes of dismissal can occur without the bowler bowling a delivery. The batsman who is not on strike may be [[Run out#Running out a batsman stealing a run|run out by the bowler]] if he leaves his crease before the bowler bowls, and a batsman can be out ''obstructing the field'' or ''retired out'' at any time. ''Timed out'' is, by its nature, a dismissal without a delivery. With all other modes of dismissal, only one batsman can be dismissed per ball bowled.
+
+===Innings closed===
+{{Main|End of an innings (cricket)}}
+An innings is closed when:
+# Ten of the eleven batsmen are out (have been dismissed); in this case, the team is said to be "all out"
+# The team has only one batsman left who can bat, one or more of the remaining players being unavailable owing to injury, illness or absence; again, the team is said to be "all out"
+# The team batting last reaches the score required to win the match
+# The predetermined number of overs has been bowled (in a one-day match only, commonly 50 overs; or 20 in [[Twenty20]])
+# A captain [[Declaration and forfeiture|declares]] his team's innings closed while at least two of his batsmen are not out (this does not apply in one-day limited over matches)
+
+===Results===
+{{Main|Result (cricket)}}
+If the team that bats last is all out having scored fewer runs than their opponents, the team is said to have "lost by ''n'' runs" (where ''n'' is the difference between the number of runs scored by the teams). If the team that bats last scores enough runs to win, it is said to have "won by ''n'' wickets", where ''n'' is the number of wickets left to fall. For instance a team that passes its opponents' score having only lost six wickets would have won "by four wickets".
+
+In a two-innings-a-side match, one team's combined first and second innings total may be less than the other side's first innings total. The team with the greater score is then said to have ''won by an innings and ''n'' runs'', and does not need to bat again: ''n'' is the difference between the two teams' aggregate scores.
+
+If the team batting last is all out, and both sides have scored the same number of runs, then the match is a [[The result in cricket#Tie|tie]]; this result is quite rare in matches of two innings a side. In the traditional form of the game, if the time allotted for the match expires before either side can win, then the game is declared a [[The result in cricket#Draw|draw]].
+
+If the match has only a single innings per side, then a maximum number of deliveries for each innings is often imposed. Such a match is called a "limited overs" or "one-day" match, and the side scoring more runs wins regardless of the number of wickets lost, so that a draw cannot occur. If this kind of match is temporarily interrupted by bad weather, then a complex mathematical formula, known as the [[Duckworth-Lewis method]] after its developers, is often used to recalculate a new target score. A one-day match can also be declared a "no-result" if fewer than a previously agreed number of overs have been bowled by either team, in circumstances that make normal resumption of play impossible; for example, wet weather.
+
+==Distinctive elements==
+
+===Individual focus===
+For a team sport, cricket places individual players under unusual scrutiny and pressure. Bowler, batsman, and fielder all act essentially independently of each other. While team managements can signal bowler or batsman to pursue certain tactics, the execution of the play itself is a series of solitary acts. Cricket is more similar to [[baseball]] than many other team sports in this regard: while the individual focus in cricket is slightly mitigated by the importance of the [[Partnership (cricket)|batting partnership]] and the practicalities of running, it is enhanced by the fact that a batsman may occupy the [[wicket]] for a long time.
+
+===Spirit of the Game===
+Cricket is a unique game where in addition to the laws, the players must abide by the "Spirit of the Game".<ref>[http://www.lords.org/laws-and-spirit/laws-of-cricket/preamble-to-the-laws,475,AR.html MCC{{spaced ndash}}Laws of Cricket: Preamble to the Laws]. Accessed 8 September 2010.</ref> The standard of sportsmanship has historically been considered so high that the phrase "it's just not cricket" was coined in the 19th century to describe unfair or underhanded behaviour in any walk of life. In the last few decades though, cricket has become increasingly fast-paced and competitive, increasing the use of appealing and [[sledging (cricket)|sledging]], although players are still expected to abide by the umpires' rulings without argument, and for the most part they do. Beginning in 2001, the MCC has held an annual lecture named after [[Colin Cowdrey]] on the spirit of the game.<ref>[http://www.lords.org/laws-and-spirit/spirit/promoting-the-spirit-of-cricket,140,AR.html MCC{{spaced ndash}}Laws of Cricket: Promoting the Spirit of Cricket]. Accessed 26 March 2012.</ref> Even in the modern game fielders are known to signal to the umpire that a boundary was hit, despite what could have been considered a spectacular save (though they might be found out by the TV replays anyway).{{cn|date=March 2016}} In addition to this, some batsmen have been known to "walk" when they think they are out even if the umpire does not declare them out. This is a high level of sportsmanship, as a batsman can easily take advantage of incorrect umpiring decisions.{{cn|date=March 2016}}
+
+===Influence of weather===
+[[File:Floodlight at M. A. Chidambaram Stadium, Chennai.jpg|thumb|Floodlights at [[M. A. Chidambaram Stadium]], Chennai]]
+
+Cricket is a sport played predominantly in the drier periods of the year. But, even so, the weather is a major factor in all cricket matches.
+
+A scheduled game of cricket cannot be played in wet weather. Dampness affects the bounce of the ball on the wicket and is a risk to all players involved in the game. Many grounds have facilities to cover the cricket pitch (or the wicket). Covers can be in the form of [[tarpaulin]]s being laid over the wicket to elevated covers on wheels (using the same concept as an umbrella) to even hover covers which form an airtight seal around the wicket. However, most grounds do not have the facilities to cover the outfield. This means that in the event of heavy bouts of bad weather, games may be cancelled, abandoned or suspended due to an unsafe outfield.
+
+Another factor in cricket is the amount of light available. At grounds without floodlights (or in game formats which disallow the use of floodlights), umpires can stop play in the event of bad light as it becomes too difficult for the batsmen to be able to see the ball coming at them, (and in extreme cases, members of the fielding team).
+
+On the other hand, in instances of good light, batsmen can utilise sight-screens which enable batsmen to have a white background against which they can pick out the red ball (or black background for white ball) with greater ease.
+
+The umpires always have the final decision on weather-related issues.
+
+===Uniqueness of each field===
+Unlike those of most sports, cricket playing fields can vary significantly in size and shape. While the dimensions of the pitch and infield are specifically regulated, the Laws of Cricket do not specify the size or shape of the field.<ref name="MCC{{spaced ndash}}Laws of Cricket: Law 19"/> The field [[boundary (cricket)|boundaries]] are sometimes painted and sometimes marked by a rope. Pitch and outfield variations can have a significant effect on how balls behave and are fielded as well as on batting. Pitches vary in consistency, and thus in the amount of bounce, spin, and seam movement available to the bowler. Hard pitches are usually good to bat on because of high but even bounce. Dry pitches tend to deteriorate for batting as cracks often appear, and when this happens to the pitch, spinners can play a major role. Damp pitches, or pitches covered in grass (termed "green" pitches), allow good fast bowlers to extract extra bounce. Such pitches tend to offer help to fast bowlers throughout the match, but become better for batting as the game goes on. While players of other outdoor sports deal with similar variations of field surface and stadium covering, the size and shape of their fields are much more standardised. Other local factors, such as altitude and climate, can also significantly affect play. These physical variations create a distinctive set of playing conditions at each ground. A given ground may acquire a reputation as batsman friendly or bowler friendly if one or the other discipline notably benefits from its unique mix of elements. The absence of a standardised field affects not only how particular games play out, but the nature of team makeup and players' statistical records.
+
+==Types of matches==
+Cricket is a multi-faceted sport with multiple formats, varying playing standard and level of formality and the desired time that the match should last. A pertinent division in terms of professional cricket is between matches limited by time in which the teams have two innings apiece, and those limited by number of overs, in which they have a single innings each. The former, known as [[first-class cricket]], has a duration of three to five days (there have been examples of "timeless" matches too); the latter, known as [[limited overs cricket]] because each team bowls a limit of typically 50 or 20 overs, has a planned duration of one day only (a match can be extended if necessary due to bad weather, etc.).
+
+Typically, two-innings matches have at least six hours of [[Playing time (cricket)|playing time]] each day. Limited overs matches often last six hours or more. There are usually formal intervals on each day for lunch and tea with brief informal breaks for drinks. There is also a short interval between innings.
+
+Amateur cricketers rarely play matches that last longer than a single day; these may loosely be divided into declaration matches, in which a specified maximum time or number of overs is assigned to the game in total and the teams swap roles only when the batting team is either completely dismissed or [[Declaration (cricket)|declares]]; and limited overs matches, in which a specified maximum number of overs is assigned for each team's innings individually. These will vary in length between 30 and 60 overs per side at the weekend and the ever popular 20 over format during the evenings. Other forms of cricket, such as [[Indoor cricket (UK variant)|indoor cricket]] and [[garden cricket]] remain popular.
+
+Historically, a form of cricket known as [[single wicket]] had been extremely successful and many of these contests in the 18th and 19th centuries qualify as major cricket matches. In this form, although each team may have from one to six players, there is only one batsman at a time and he must face every delivery bowled while his innings lasts. Single wicket has rarely been played since limited overs cricket began.
+
+===Test cricket===
+{{Main|Test cricket}}
+[[Image:England vs South Africa.jpg|thumb|A [[Test cricket|Test match]] between South Africa and England in January 2005. The men wearing black trousers are the [[umpire (cricket)|umpires]]. Teams in Test cricket, [[first-class cricket]] and [[club cricket]] wear traditional white uniforms and use red [[cricket ball]]s.]]
+[[Test cricket]] is the highest standard of first-class cricket. A Test match is an international fixture between teams representing those countries that are Full Members of the ICC.
+
+Although the term "Test match" was not coined until much later, Test cricket is deemed to have begun with two matches between [[Australia national cricket team|Australia]] and [[England national cricket team|England]] in the [[1876-77 Australian cricket season|1876–77 Australian season]]. Subsequently, eight other national teams have achieved Test status: [[South Africa national cricket team|South Africa]] (1889), [[West Indies cricket team|West Indies]] (1928), [[New Zealand national cricket team|New Zealand]] (1929), [[India national cricket team|India]] (1932), [[Pakistan national cricket team|Pakistan]] (1952), [[Sri Lanka national cricket team|Sri Lanka]] (1982), [[Zimbabwe national cricket team|Zimbabwe]] (1992) and [[Bangladesh national cricket team|Bangladesh]] (2000). Zimbabwe suspended its Test status in 2006 due to its inability to compete against other Test teams,<ref>{{cite web |url=http://news.bbc.co.uk/sport1/hi/cricket/other_international/zimbabwe/4625900.stm |title=Zimbabwe revokes Test status |publisher=BBC Sport |date=18 January 2006 |accessdate=6 November 2011}}</ref> and returned in 2011.<ref>{{cite web |url=http://news.bbc.co.uk/sport1/hi/cricket/14449989.stm |title=Zimbabwe beat Bangladesh on return to Test cricket |publisher=BBC Sport |date=8 August 2011 |accessdate=6 November 2011}}</ref>
+
+[[Wales|Welsh players]] are eligible to play for [[England]], which is in effect an England and Wales team. The [[West Indies cricket team|West Indies team]] comprises players from numerous states in the [[Caribbean]], notably [[Barbados]], [[Guyana]], [[Jamaica]], [[Trinidad & Tobago]], the [[Leeward Islands]] and the [[Windward Islands]].
+
+Test matches between two teams are usually played in a group of matches called a "[[Playoff format|series]]". Matches last up to five days and a series normally consists of three to five matches. Test matches that are not finished within the allotted time are drawn. In the case of [[Test cricket|Test]] and [[first-class cricket]]: the possibility of a draw often encourages a team that is batting last and well behind to bat defensively, giving up any faint chance at a win to avoid a loss.<ref>Eastaway, Rob, ''What Is a [[Googly]]?: The Mysteries of Cricket Explained'' (Anova, 2005), p. 134.</ref>
+
+Since 1882, most Test series between England and Australia have been played for a trophy known as [[The Ashes]]. Some other bilateral series have individual trophies too: for example, the [[Wisden Trophy]] is contested by England and West Indies; the [[Frank Worrell Trophy]] by Australia and West Indies and the [[Border-Gavaskar Trophy]] between India and Australia.
+
+===Limited overs===
+{{Main|Limited overs cricket}}
+{{See also|One Day International|Twenty20 International}}
+[[Image:vivian richards crop.jpg|thumb|upright|Sir [[Viv Richards]] of the [[West Indies cricket team|West Indies]] was voted by Wisden as the greatest [[One Day International]] batsman of all time.]]
+Standard [[limited overs cricket]] was introduced in England in the 1963 season in the form of a knockout cup contested by the first-class county clubs. In 1969, a national league competition was established. The concept was gradually introduced to the other major cricket countries and the first limited overs international was played in 1971. In 1975, the first [[Cricket World Cup]] took place in England. Limited overs cricket has seen various innovations including the use of multi-coloured kit and floodlit matches using a white ball.
+A "one day match", named so because each match is scheduled for completion in a single day, is the common form of limited overs cricket played on an international level. In practice, matches sometimes continue on a second day if they have been interrupted or postponed by bad weather. The main objective of a limited overs match is to produce a definite result and so a conventional draw is not possible, but matches can be undecided if the scores are tied or if bad weather prevents a result. Each team plays one innings only and faces a limited number of overs, usually a maximum of 50. The [[Cricket World Cup]] is held in one day format and the [[2015 Cricket World Cup|last World Cup]] in 2015 was won by the co-hosts, Australia. The [[2019 Cricket World Cup|next World Cup]] will be hosted by England and Wales in 2019.
+
+[[Twenty20]] is a new variant of limited overs itself with the purpose being to complete the match within about three hours, usually in an evening session. The original idea, when the concept was introduced in England in 2003, was to provide workers with an evening entertainment. It was commercially successful and has been adopted internationally. The [[2007 ICC World Twenty20|inaugural]] [[Twenty20 World Championship]] was held in 2007 and won by India. Subsequent events have been held which were won by Pakistan (2009), England (2010), West Indies (2012), and Sri Lanka (2014). The next tournament is scheduled to be held in [[2016 ICC World Twenty20|2016]]. After the inaugural [[ICC World Twenty20]] many domestic Twenty20 leagues were born. First of them was [[Indian Cricket League]] which was a rebel league since it was not authorized by [[Board of Control for Cricket in India|BCCI]]. BCCI then formed its official league called the [[Indian Premier League]]. The official league went on to become a successful annual affair that attracted players and audience around the globe, while the Indian Cricket League has been disbanded. After the success of Indian premier league many other domestic leagues were formed in all major cricketing nations. Recently [[Twenty20 Champions League]] was formed as a tournament for domestic clubs of various countries. In this league competition is between the top domestic teams from major cricketing nations.
+
+===National championships===
+{{Main|First-class cricket}}
+[[Image:Yorkshire-CCC-1895.jpg|right|thumb|[[Yorkshire County Cricket Club]] in 1895. The team first became County Championship champions in 1893.]]
+[[First-class cricket]] includes Test cricket but the term is generally used to refer to the highest level of domestic cricket in those countries with full ICC membership, although there are exceptions to this. First-class cricket in England is played for the most part by the 18 county clubs which contest the [[County Championship]]. The concept of a [[Champion County|champion county]] has existed since the 18th century but the official competition was not established until 1890. The most successful club has been [[Yorkshire County Cricket Club]] with 30 official titles.
+
+Australia established its national first-class championship in 1892–93 when the [[Sheffield Shield]] was introduced. In Australia, the first-class teams represent the various states. [[New South Wales cricket team|New South Wales]] has won the maximum number of titles with 45 to 2008.
+
+National championship trophies to be established elsewhere included the [[Ranji Trophy]] (India), [[Plunket Shield]] (New Zealand), [[Currie Cup]] (South Africa) and [[Shell Shield]] (West Indies). Some of these competitions have been updated and renamed in recent years.
+
+Domestic limited overs competitions began with England's [[Gillette Cup (England)|Gillette Cup]] knockout in 1963. Countries usually stage seasonal limited overs competitions in both knockout and league format. In recent years, national Twenty20 competitions have been introduced, usually in knockout form though some incorporate mini-leagues.
+
+===Club cricket===
+[[File:English Village Cricket.jpg|thumb|A typical club cricket match in England.]]
+[[Club cricket]] is a mainly amateur, but still formal, form of the sport of cricket, usually involving teams playing in competitions at weekends or in the evening. There is a great deal of variation in game format although the Laws of Cricket are always observed.
+
+Club cricket is frequently organised in a league or cup format. Games are limited by either time or overs. Limited overs games usually last between 20 and 60 overs per innings. A less common, but more traditional, format is limiting the game by time only. Games can range from a few hours in the evening to two days long. A modern innovation is the introduction of [[Twenty20]] competitions, both as a format in the existing leagues and new leagues solely based on Twenty20, such as LastManStanding.
+
+Standards of play can vary from semi-professional to occasional recreational level and club cricket is often enjoyed as much for the social element as for the competition. Most clubs have their own ground to play on regularly, often including a field and pavilion or club house. An exception being 'Wandering Sides' who use other's grounds.
+
+Many leagues have been formed around the world of varying degrees of professionalism, the oldest being the [[Birmingham & District Premier League]] in the [[Birmingham]] area of England, founded in 1888.
+
+===Other types of matches===
+{{Main|Forms of cricket}}
+[[File:French Cricket.jpg|right|thumb|A game of [[French cricket]] in progress in [[Jervis Bay]], Australia]]
+There are numerous variations of the sport played throughout the world that include [[indoor cricket]], [[French cricket]], [[beach cricket]], [[Kwik cricket]] and all sorts of card games and board games that have been inspired by cricket. In these variants, the rules are often changed to make the game playable with limited resources or to render it more convenient and enjoyable for the participants.
+
+[[Indoor cricket (UK variant)|Indoor Cricket]] was first invented in 1970.<ref name="shorter">[http://www.espncricinfo.com/twenty20wc/content/story/309625.html "Shorter, simpler, sillier" in ''ESPNcricinfo''], 7 September 2007.</ref> It is similar to outdoor cricket except that is played in an indoor sports hall with 6 players per team. It is extremely popular in the UK with national championships and multiple independent leagues. Another less formal version of [[indoor cricket]] is played in a smaller arena with a soft ball and without pads was invented some years later and is commonly played in the Southern Hemisphere, and even has its own nominal international championships, including [[Indoor Cricket World Cup|World Cups]].
+
+In the UK, [[garden cricket]] is a popular version of the sport, played in gardens and on recreation grounds around the country by adults and children alike. Although a cricket bat and ball are generally used, other equipment such as pads and gloves are not. The exact rules will vary based on the number of participants and the available space.
+
+Families and teenagers play [[backyard cricket]] or [[tennis ball cricket]] in suburban yards or driveways, and the cities of India and Pakistan play host to countless games of "[[Street cricket|Gully Cricket]]" or "[[tape ball]]" in their long narrow streets. Sometimes the rules are improvised: e.g. it may be agreed that fielders can catch the ball with one hand after one bounce and claim a wicket; or if only a few people are available then everyone may field while the players take it in turns to bat and bowl. Tennis balls and homemade bats are often used, and a variety of objects may serve as wickets: for example, the batter's legs as in [[French cricket]], which did not in fact originate in France, and is usually played by small children.
+
+In [[Kwik cricket]], the bowler does not have to wait for the batsman to be ready before a delivery, leading to a faster, more exhausting game designed to appeal to children, which is often used in [[physical education]] lessons at UK schools. Another modification to increase the pace of the game is the "Tip and Run", "Tipity" Run, "Tipsy Run" or "Tippy-Go" rule, in which the batter must run when the ball touches the bat, even if it the contact is unintentional or minor. This rule, seen only in impromptu games, speeds the match up by removing the batsman's right to block the ball.
+
+In Samoa a form of cricket called [[Kilikiti]] is played in which [[hockey stick]]-shaped bats are used. In original English cricket, the hockey stick shape was replaced by the modern straight bat in the 1760s after bowlers began to pitch the ball instead of rolling or skimming it. In [[Estonia]], teams gather over the winter for the annual [[Ice Cricket]] tournament. The game juxtaposes the normal summer pursuit with harsh, wintry conditions. Rules are otherwise similar to those for the six-a-side game.
+
+==International structure==
+{{Main|International structure of cricket|International Cricket Council|World Cricket League}}
+[[Image:ICC-cricket-member-nations.png|thumb|270px|[[International Cricket Council|ICC]] member nations. The (highest level) Test playing nations are shown in orange; the associate member nations are shown in yellow; the affiliate member nations are shown in purple.]]
+
+The International Cricket Council (ICC), which has its headquarters in [[Dubai]], is the international governing body of cricket. It was founded as the Imperial Cricket Conference in 1909 by representatives from England, Australia and South Africa, renamed the International Cricket Conference in 1965, and took up its current name in 1989.
+
+The ICC has [[List of International Cricket Council members|104 members]]: 10 Full Members that play official Test matches, 34 Associate Members, and 60 Affiliate Members.<ref name="CA">[http://www.cricketarchive.co.uk/Archive/Countries/index.html CricketArchive: full list of ICC members]. Retrieved 25 July 2009.</ref> The ICC is responsible for the organisation and governance of cricket's major international tournaments, notably the Cricket World Cup. It also appoints the umpires and referees that officiate at all sanctioned Test matches, One Day International and Twenty20 Internationals. Each nation has a national cricket board which regulates cricket matches played in its country. The cricket board also selects the national squad and organises home and away tours for the national team. In the West Indies these matters are addressed by the [[West Indies Cricket Board]] which consists of members appointed by four national boards and two multi-national boards.
+
+===Members===
+{{Main|List of International Cricket Council members}}
+
+====Full Members====
+Full Members are the governing bodies for cricket in a country or associated countries. Full Members may also represent a geographical area. All Full Members have a right to send one representative team to play official Test matches. Also, all Full Member nations are automatically qualified to play [[One-day International|ODIs]] and [[Twenty20 International]]s.<ref name="A Brief History..."/> West Indies cricket team does not represent one country instead an amalgamation of over 20 countries from the [[Caribbean]]. The English Cricket team represents both England and Wales.
+
+{| class="wikitable sortable"
+|-
+!Nation
+!Governing body
+!Member since<ref name="A Brief History...">{{cite web |url= http://content-usa.cricinfo.com/ci-icc/content/current/story/209608.html|title= A brief history ...|accessdate=2 May 2008 |publisher=Cricinfo}}
+</ref>
+!Current [[ICC Test Championship|Test]] rankings
+!Current [[ICC ODI Championship|ODI]] rankings
+!Current [[ICC T20 Championship|T20]] rankings
+|-
+| {{cr|AUS}}
+| [[Cricket Australia]]
+| {{Dts|format=dmy|1909|7|15}}
+| 2
+| 1
+| 8
+|-
+| {{cr|Bangladesh}}
+| [[Bangladesh Cricket Board]]
+| {{Dts|format=dmy|2000|6|26}}
+| 9
+| 7
+| 10
+|-
+| {{cr|ENG}}
+| [[England and Wales Cricket Board]]
+| {{Dts|format=dmy|1909|7|15}}
+| 5
+| 6
+| 4
+|-
+| {{cr|IND}}
+| [[Board of Control for Cricket in India]]
+| {{Dts|format=dmy|1926|5|31}}
+| 1
+| 3
+| 1
+|-
+| {{cr|NZL}}
+| [[New Zealand Cricket]]
+| {{Dts|format=dmy|1926|5|31}}
+| 6
+| 2
+| 5
+|-
+| {{cr|PAK}}
+| [[Pakistan Cricket Board]]
+| {{Dts|format=dmy|1953|7|28}}
+| 4
+| 8
+| 7
+|-
+| {{cr|ZAF}}
+| [[Cricket South Africa]]
+| {{Dts|format=dmy|1909|7|15}}<sup>A</sup>
+| 3
+| 4
+| 6
+|-
+| {{cr|LKA}}
+| [[Sri Lanka Cricket]]
+| {{Dts|format=dmy|1981|7|21}}
+| 7
+| 5
+| 3
+|-
+| {{cr|West Indies}}
+| [[West Indies Cricket Board]]
+| {{Dts|format=dmy|1926|5|31}}
+| 8
+| 9
+| 2
+|-
+| {{cr|ZIM}}
+| [[Zimbabwe Cricket]]
+| {{Dts|format=dmy|1992|7|6}}
+| 10
+| 12
+| 14
+|}
+
+<sup>*</sup>Last Updated: 9 February 2016 <ref>{{cite web|last1=|title=ICC Rankings|url=http://www.icc-cricket.com/team-rankings|website=International Cricket Council|publisher=ICC Development (International) Limited|accessdate=9 February 2016}}</ref>
+
+<sup>A</sup>Resigned May 1961, readmitted 10 July 1991.
+
+====Top Associate and Affiliate Members====
+All the associate and affiliate members are not qualified to play [[Test Cricket]], however [[International Cricket Council|ICC]] grants [[One Day International]] status to its associate and affiliate members based on their success in the [[World Cricket League]]. The top six teams will be awarded [[One day international]] and [[Twenty20 International]] status, which will allow the associate and affiliate teams to be eligible to play the full members and play official ODI cricket.
+
+The associate and affiliate teams who currently hold [[One Day International|ODI]] and [[Twenty20 International|T20I]] status:
+
+{| class="wikitable sortable"
+|-
+!Nation
+!Governing body
+!Member since
+!Current [[ICC ODI Championship|ODI]] rankings
+|-
+| {{cr|AFG}}
+|[[Afghanistan Cricket Board]]
+|{{Dts|2001}}<ref>
+{{cite web |url= http://content-usa.cricinfo.com/other/content/team/40.html |title= Cricinfo-Other countries-Teams-Afghanistan |accessdate=4 May 2008 |publisher=Cricinfo}}
+</ref>
+| 14
+|-
+| {{cr|CAN}}
+|[[Cricket Canada]]
+|{{Dts|1968}}<ref name="A Brief History..."/>
+| 16
+|-
+| {{cr|Ireland}}
+|[[Cricket Ireland]]
+|{{Dts|1993}}<ref name="A Brief History..."/>
+| 11
+|-
+| {{cr|KEN}}
+|[[Cricket Kenya]]
+|{{Dts|1981}}<ref name="A Brief History..."/>
+| 13
+|-
+| {{cr|NLD}}
+|[[Koninklijke Nederlandse Cricket Bond]]
+|{{Dts|1966}}<ref name="A Brief History..."/>
+| 12
+|-
+| {{cr|SCO}}
+|[[Cricket Scotland]]
+|{{Dts|1994}}<ref name="A Brief History..."/>
+| 15
+|}
+
+==Statistics==
+{{Main|Cricket statistics}}
+
+Organized cricket lends itself to statistics to a greater degree than many other sports. Each play is discrete and has a relatively small number of possible outcomes. At the professional level, statistics for Test cricket, one-day internationals, and first-class cricket are recorded separately. However, since Test matches are a form of first-class cricket, a player's first-class statistics will include his Test match statistics{{spaced ndash}}but not vice versa. ''[[The Guide to Cricketers]]'' was a cricket annual edited by [[Fred Lillywhite]] between 1849 and his death in 1866. ''[[Wisden Cricketers' Almanack]]'' was founded in 1864 by the English cricketer [[John Wisden]] (1826–1884) as a competitor to ''The Guide to Cricketers''. Its annual publication has continued uninterrupted to the present day, making it the longest running sports annual in history.
+
+Certain traditional statistics are familiar to most cricket fans. The basic batting statistics include:
+* [[Innings]] (I): The number of innings in which the batsman actually batted.
+* [[Not out]]s (NO): The number of times the batsman was not out at the conclusion of an innings they batted in.
+* [[Run (cricket)|Runs]] (R): The number of runs scored.
+* Highest score (HS/Best): The highest score ever made by the batsman.
+* [[Batting average]] (Ave): The total number of runs divided by the total number of innings in which the batsman was out. Ave = Runs/[I{{spaced ndash}}NO] (also Avge or Avg.)
+* [[Century (cricket)|Centuries]] (100): The number of innings in which the batsman scored one hundred runs or more.
+* Half-centuries (50): The number of innings in which the batsman scored fifty to ninety-nine runs (centuries do not count as half-centuries as well).
+* Balls faced (BF): The total number of balls received, including no balls but not including wides.
+* [[Strike rate]] (SR): The number of runs scored per 100 balls faced. (SR = [100 * Runs]/BF)
+* [[Run rate]] (RR): Is the number of runs a batsman (or the batting side) scores in an over of six balls.
+
+The basic bowling statistics include:
+* [[Over (cricket)|Overs]] (O): The number of overs bowled.
+* Balls (B): The number of balls bowled. Overs is more traditional, but balls is a more useful statistic because the number of balls per over has varied historically.
+* Maiden overs (M): The number of maiden overs (overs in which the bowler conceded zero runs) bowled.
+* [[Run (cricket)|Runs]] (R): The number of runs conceded.
+* [[Wicket]]s (W): The number of wickets taken.
+* [[No ball]]s (Nb): The number of no balls bowled.
+* [[Wide (cricket)|Wides]] (Wd): The number of wides bowled.
+* [[Bowling average]] (Ave): The average number of runs conceded per wicket. (Ave = Runs/W)
+* [[Strike rate]] (SR): The average number of balls bowled per wicket. (SR = Balls/W)
+* Economy rate (Econ): The average number of runs conceded per [[over (cricket)|over]]. (Econ = Runs/overs bowled).
+
+===Scorecards===
+{{see also|Scoring (cricket)}}
+A match's statistics are summarised on a scorecard. Prior to the popularisation of scorecards, most scoring was done by men sitting on vantage points cuttings notches on [[tally stick]]s. The earliest known scorecards were printed in 1776 by Pratt, scorer to the [[Sevenoaks Vine]] Cricket Club, but it was many years before his invention was widely adopted.<ref name="mortimer">{{cite book
+|title=A History of Cricket in 100 Objects
+|publisher=[[Serpent's Tail]]
+|isbn=1846689406
+|date=6 June 2013
+|last=Mortimer
+|first=Gavin
+|pages=76–77
+}}</ref> Scorecards were printed and sold at [[Lord's Cricket Ground|Lord's]] for the first time in 1846.<ref>{{cite book
+|title=Collins Gem Cricket
+|publisher=[[HarperCollins]]
+|isbn=0004723406
+|date=June 1999
+|last=Fletcher
+|first=Jeff
+|page=234
+}}</ref>
+
+The introduction of scoreboards revolutionised cricket by allowing spectators to keep track of the day's play. In 1848, Fred Lillywhite used a portable printing press at grounds to print updated scorecards. In 1858, the [[Kennington Oval]] introduced the first mobile scorebox, "a house on rollers with figures for telegraphing on each side". In 1881, the [[Melbourne Cricket Ground]] erected the first cricket scoreboard. The scoreboard, located at the western end of the ground, gave the batsman's name and method of dismissal.<ref name="mortimer" />
+
+==Culture==
+
+===Influence on everyday life===
+[[File:Hit Him for Six (6635468257).jpg|thumb|Impromptu game of cricket in [[Sydney]], Australia]]
+Cricket has had a broad impact on popular culture, both in the [[Commonwealth of Nations]] and elsewhere. Cricket has had an influence on the lexicon of these nations, especially the English language, with such phrases as "that's not cricket" (unfair), "had a good [[Innings#Usage outside of cricket|innings]]", "[[sticky wicket]]", and "bowled over". There have been many [[List of sports films#Cricket|cricket films]]. The term "Bradmanesque" from Don Bradman's name has become a generic term for outstanding excellence, both within cricket and in the wider world.<ref>{{cite news |title=Ponting in Bradmanesque ''avatar'' |first=Vikas |last=Singh |newspaper=[[The Times of India]] |date=30 December 2003 |url=http://timesofindia.indiatimes.com/articleshow/395972.cms |accessdate=8 September 2010}}</ref>
+
+The amateur game has also been spread further afield by expatriates from the Test-playing nations.
+
+===In the arts and popular culture===
+{{see also|Cricket in fiction}}
+Cricket is the subject of works by major English poets including [[William Blake]] and [[Lord Byron]].<ref name=art>Smart, Alastair (20 July 2013). [http://www.telegraph.co.uk/culture/art/art-features/10191131/The-art-of-cricket-Enough-to-leave-you-stumped.html "The art of cricket: Enough to leave you stumped"], ''The Telegraph''. Retrieved 12 March 2016.</ref> ''[[Beyond a Boundary]]'' (1963), written by Trinidadian [[C.L.R. James]], is often named the best book on any sport, ever written.<ref>Rosengarten, Frank. ''Urbane Revolutionary: C. L. R. James and the Struggle for a New Society''. University Press of Mississippi, 2007. ISBN 87-7289-096-7, p. 134</ref> In fiction, there is English author [[P. G. Wodehouse]]'s 1909 novel, ''[[Mike (novel)|Mike]]''.
+
+In the visual arts, notable cricket paintings include [[Albert Chevallier Tayler]]'s ''[[Kent vs Lancashire at Canterbury]]'' (1907) and [[Russell Drysdale]]'s ''[[The Cricketers]]'' (1948), which has been called "possibly the most famous Australian painting of the 20th century."<ref name="Meacham">{{cite news|url=http://www.smh.com.au/news/entertainment/arts/montmartre-with-eucalypts/2009/06/05/1243708612484.html|title=Montmartre, with eucalypts|last=Meacham|first=Steve |date=6 June 2009 |work=Sydney Morning Herald|publisher=Fairfax|accessdate=2009-08-31}}</ref> French [[impressionism|impressionist]] [[Camille Pissarro]] painted cricket on a visit to England in the 1890s.<ref name=art/> [[Francis Bacon (artist)|Francis Bacon]], an avid cricket fan, captured a batsman in motion.<ref name=art/>
+
+There are many [[:Category:Cricket video games|cricket video games]], including [[Cricket (series)#Cricket 07|EA Sports Cricket 07]].
+
+===Influence on other sports===
+[[File:William Handcock Tom Wills.jpg|thumb|upright|[[Tom Wills]], cricketer and co-founder of [[Australian football]]]]
+Cricket has close historical ties with [[Australian rules football]] and many players have [[List of Australian rules football and cricket players|competed at top levels in both sports]].<ref>{{Cite book|last=Blainey|first=Geoffrey|title=A Game of Our Own: The Origins of Australian Football|publisher=Black Inc.|year=2010|page=186|isbn=1-86395-347-7}}</ref> In 1858, prominent Australian cricketer [[Tom Wills]] called for the formation of a "foot-ball club" with "a code of laws" to keep cricketers fit during the off-season. The [[Melbourne Football Club]] was founded the following year, and Wills and three other members codified the first laws of the game.<ref>{{Cite book|last=de Moore|first=Greg|title=Tom Wills: His Spectacular Rise and Tragic Fall|publisher=Allen & Unwin|year=2008|pages=77, 93–94|isbn=978-1-74175-499-5}}</ref> It is typically played on [[Australian rules football playing field|modified cricket fields]].
+
+In the late 19th century, a former cricket player, English-born [[Henry Chadwick (writer)|Henry Chadwick]] of [[Brooklyn]], New York, was responsible for the "development of the [[Box score (baseball)|box score]], tabular standings, the annual baseball guide, the [[batting average]], and most of the common statistics and tables used to describe [[baseball]]".<ref name=T16>{{cite book | url=https://books.google.co.nz/books?id=gejE6x95UuQC&pg=PA16&lpg=PA16#v=onepage&q&f=false | title=Past Time: Baseball as History | publisher=Oxford University Press | author=Tygiel, Jules | year=2000 | pages=16 | isbn=0195089588}}</ref> The statistical record is so central to the game's "historical essence" that Chadwick came to be known as Father of Baseball.<ref name=T16/><ref>His Hall of Fame plaque states, in part: "Inventor of the box score. Author of the first rule-book .... Chairman of rules committee in first nationwide baseball organization." Lederer, Rich. By the Numbers: Computer technology has deepened fans' passion with the game's statiustics. Memories and Dreams (Vol. 33, No. 6; Winter 2011[-2012], pp. 32–34). National Baseball Hall of Fame official magazine</ref>
+
+==See also==
+{{Portal|Cricket}}
+{{col-begin}}{{col-break|width=40%}}
+* [[ICC ODI Championship]]
+* [[ICC Player Rankings]]
+* [[ICC Test Championship]]
+* [[List of cricket terms]]
+* [[ICC T20 Championship]]
+* [[ICC Cricket World Cup]]
+{{col-break|width=40%}}
+* [[List of Cricket records]]
+* [[List of Test cricket records]]
+* [[List of One Day International cricket records]]
+* [[List of Twenty20 International records]]
+{{col-break|width=40%}}
+* [[Blind Cricket]]
+* [[Comparison of cricket and baseball]]
+* [[Outline of cricket]]
+* [[Women's cricket]]
+* [[Table Cricket]]
+{{col-end}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+* {{cite book |last=Altham |first=H. S. |authorlink=Harry Altham |title=A History of Cricket, Volume 1 (to 1914) |year=1962 |publisher=George Allen & Unwin |isbn=}}
+* {{cite book |last=Birley |first=Derek |authorlink=Derek Birley |title=A Social History of English Cricket |year=1999 |publisher=Aurum |isbn=1-85410-710-0}}
+* {{cite book |last=Bowen |first=Rowland |authorlink=Rowland Bowen |title=Cricket: A History of its Growth and Development |year=1970 |publisher=Eyre & Spottiswoode |isbn=}}
+* {{cite book |last=Major |first=John |authorlink=John Major |title=More Than A Game |year=2007 |publisher=HarperCollins |isbn=}}
+* {{cite book |last=McCann |first=Tim |authorlink=Timothy J. McCann |title=Sussex Cricket in the Eighteenth Century |year=2004 |publisher=Sussex Record Society |isbn=}}
+* {{cite book |last=Underdown |first=David |authorlink=David Underdown |title=Start of Play |year=2000 |publisher=Allen Lane}}
+
+==External links==
+{{Commons category}}
+{{Wikisource category}}
+{{Wikivoyage}}
+* [http://www.icc-cricket.com/ International Cricket Council (ICC)]
+
+{{International cricket}}
+{{Forms of cricket}}
+{{Cricket at multi-sport events}}
+{{Team sports}}
+
+{{Authority control}}
+
+[[Category:Ball and bat games]]
+[[Category:Cricket| ]]
+[[Category:Former Summer Olympic sports]]
+[[Category:Sports originating in England]]
+[[Category:Team sports]]
